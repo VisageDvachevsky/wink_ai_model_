@@ -1,0 +1,3105 @@
+scene_heading: THE PLOUGHMAN'S LUNCH - by Ian McEwan
+dialog: <!--
+dialog: if (window!= top)
+dialog: top.location.href=location.href
+dialog: // -->
+scene_heading: THE PLOUGHMAN'S LUNCH
+dialog: An original screenplay by
+dialog: Ian McEwan
+dialog: Post Production Draft, 1985
+speaker_heading: FADE IN:
+scene_heading: INT. BBC RADIO NEWSROOM - LATE MORNING
+text: We are IN CLOSE as a story arrives on a press service
+text: teleprinter. A Hand tears away the sheet. The CAMERA
+text: TRACKS as we follow the story. It passes through the
+text: copytaster's hands and it passes on down to the summaries
+dialog: desk.
+text: This is a time of steady activity. Journalists move about
+text: the room to consult. Others are writing in longhand, and
+text: several are dictating copy to typists, who are all women.
+text: One or two people - NEWSREADERS - sit about doing nothing.
+text: Much movement of paper.
+text: Over the sound of typewriters and the murmur of dictating
+text: voices we HEAR a WOMAN'S VOICE over the P.A. Announce,
+text: "The Leader of the Opposition on five". A few journalists
+text: pick up their headsets, but they do not stop writing. We
+text: establish the atmosphere - laconic but efficient, and a
+text: little down-at-heel.
+text: At the summaries desk we find JAMES PENFIELD. He stands
+text: to the side of a little behind a seated secretary, dictating
+text: in a laconic deadpan voice from a sheet of scrawled
+dialog: longhand.
+speaker_heading: JAMES
+dialog: Between fifty and sixty scrap metal
+dialog: workers are..
+text: The phone rings. James snatches it and answers without
+text: breaking stride.
+speaker_heading: JAMES
+dialog: Hello. Newsroom.
+text: The secretary waits, her face totally inexpressive.
+speaker_heading: JAMES
+dialog: Who? Paul Dean? He doesn't work
+dialog: here anymore.
+scene_heading: ANOTHER JOURNALIST
+dialog: (calling over his
+dialog: shoulder as he
+dialog: passes)
+dialog: Went to IRN.
+speaker_heading: JAMES
+dialog: No. No. Sorry. Try IRN.
+text: He drops the receiver and continues. The secretary
+dialog: reactivates.
+speaker_heading: JAMES
+dialog: ..reported to have landed illegally
+dialog: on the island of South Georgia in
+dialog: the South Atlantic.
+dialog: The Foreign Office reacted sceptically to reports that
+dialog: Argentine Government was planning..
+scene_heading: INT. NEWSROOM - LATE MORNING
+dialog: James and a newsreader (one of those we saw earlier doing
+text: nothing) stand together by the photocopier. Walking with
+text: controlled haste and carrying the news sheets, they head
+text: towards the studio. A clock behind them shows two minutes
+dialog: to twelve.
+scene_heading: INT. STUDIO - LATE MORNING
+text: James and the newsreader sit at a table in the studio,
+text: fairly close together. The newsreader settles himself
+text: behind the microphone. James sits back, professionally
+text: bored, rolling a stub of a pencil between his fingers.
+text: Through a large loudspeaker we hear a Radio 4 programme
+text: winding up. Theme music.
+text: The newsreader has a plummy authoritative voice and is a
+text: year or two younger than James. He stares down at the
+dialog: news sheet.
+text: From the Control Room a woman announces "One Minute".
+speaker_heading: JAMES
+dialog: How's Mary?
+speaker_heading: NEWSREADER
+dialog: (stung then
+dialog: recovering)
+dialog: Oh, she's well. Jolly well.
+dialog: Thanks. Very well indeed.
+text: From the Studio Controller's POV we SEE the Newsroom behind
+text: James and the newsreader, who chat soundlessly.
+speaker_heading: MOMEN'S VOICE
+text: Before the news at twelve o'clock,
+dialog: there's just time to tell you about
+dialog: Woman's Hour this afternoon.
+dialog: Commander Freddy Bracknell will be
+dialog: talking about his four years as a
+dialog: German POW in Stalag Three, and
+dialog: mountaineer John Clayton will be
+text: reliving the thrills and perils of
+text: Everest. Also, Polly Morrell will
+dialog: be finding out from the historian
+dialog: Prefessor John Gerty how the
+dialog: governments of Eastern Europe
+dialog: distort their recent past in history
+dialog: books to suit their present policies
+dialog: and allegiances. That's Freddy
+dialog: Bracknell, John Clayton and John
+dialog: Gerty, all on Woman's Hour just
+dialog: after two o'clock this afternoon
+text: The six pips. The sweep hand of
+text: the clock. The red light.
+speaker_heading: NEWSREADER
+text: BBC News at twelve o'clock. There
+dialog: is cautious optimism in Brussels
+dialog: that formula may be reached to
+dialog: break--
+scene_heading: EXT. BRIXTON - LATE AFTERNOON
+text: James hurries home through the din of rush hour Brixton.
+scene_heading: INT. JAMES' FLAT - LATE AFTERNOON
+text: James' flat is one floor of a large Victorian house. The
+text: decent-sized rooms knocked together make a very large
+text: bedsitting room. Bare boards, junk furniture, but elegant.
+text: Heavy stereo stack, a lot of records, a lot of paperbacks.
+text: In high spirits, James prepares to go out. He chooses a
+text: shirt, begins to undress. The TV is on.
+scene_heading: INT. JAMES' FLAT - NIGHT
+text: An hour later. James is dressed to go out. The big room
+text: is now in darkness except for the light by James' armchair.
+text: He is talking on the phone to his friend Jeremy Hancock.
+speaker_heading: JAMES
+dialog: C'mon, you promised...tell her
+dialog: you've got to finish a piece...I
+dialog: know...I know, but it's my big
+dialog: night...yes she's going to be
+dialog: there...C'mon! All I want you to
+dialog: do is introduce me to her. And
+dialog: remember, build me up...good man.
+scene_heading: INT. PUBLISHING HOUSE - NIGHT
+text: A high-ceilinged room in a publishing house, Bloomsbury.
+text: A launch party. About forty guests. Waiters take round
+text: trays with glasses of wine. By some large double doors is
+text: a display of school textbooks. Most prominently featured
+dialog: is the book being launched today - Goldbooks Schools Series
+text: No. 5 The Cold War, edited by Prefessor J. Gerty.
+text: James is led by a PERSONAL ASSISTANT through the crowd to
+text: meet GOLD, who is surrounded by ATTENTIVE YOUNG MEN.
+speaker_heading: GOLD
+dialog: .....took him by the elbow, steered
+text: him into a quiet corner and said
+dialog: "Where do you think you are, young
+dialog: man? Fabers?"
+text: From the circle of polite laughter, Gold extends his hand
+text: towards James.
+speaker_heading: GOLD
+dialog: Glad you could come.
+scene_heading: PERSONAL ASSIATANT
+dialog: James Penfield.
+speaker_heading: GOLD
+dialog: Good, good. Now is someone getting
+dialog: you a drink.
+scene_heading: PERSONAL ASSIATANT
+dialog: Wrote the Berlin Airlift chapter.
+text: Job done, P.A. fades.
+speaker_heading: GOLD
+dialog: I know, I know! Gentlemen, let me
+dialog: introduce you to one of our most
+dialog: talented contributors to The Cold
+dialog: War. James Penfield. He wrote
+dialog: the opening chapter, on 'The Berlin
+dialog: Airlift'. One of the best chapters
+dialog: in the book.
+speaker_heading: JAMES
+dialog: Hello.
+speaker_heading: GOLD
+dialog: I won't introduce you all by name.
+dialog: Basically James, this is our UK
+dialog: sales team. What was I saying?
+dialog: Yes, these graduate trainees...
+text: Twenty minutes later. JEREMY has just come in and is
+text: surveying the room from the doorway. He takes a drink
+text: from a tray, notices James across the room and smiles
+dialog: ruefully.
+text: Jeremy Hancock is a journalist, same age as James, good-
+text: looking and well-dressed. A fairly corrupt look about
+text: him, despite this. He is intelligent and intensely self-
+dialog: regarding.
+text: James makes his way through the crowd towards Jeremy.
+text: They stand on the doorway - a position which affords them
+text: a good view of the guests in the room and those guests who
+text: are still arriving by way of a grand and ornate stairway.
+speaker_heading: JEREMY
+dialog: My dear James.
+text: With mock solemnity, he kisses James on the cheek.
+speaker_heading: JAMES
+dialog: Not here.
+speaker_heading: JEREMY
+dialog: To the airlift.
+speaker_heading: JAMES
+dialog: To the airlift.
+speaker_heading: JEREMY
+dialog: Any sign of the goddess Barrington?
+speaker_heading: JAMES
+dialog: Not yet you know any of these
+dialog: people?
+speaker_heading: JEREMY
+text: One or two. A grey lot. Some
+dialog: social democrats. Some diligent
+dialog: anti-communists. A political
+text: section man from the US Embassy.
+dialog: And this exquisite Californian
+text: wine, courtesy of the CIA.
+speaker_heading: JAMES
+dialog: Nonsense.
+text: They look across the room at Gold being listened to.
+speaker_heading: JERMEY
+dialog: By the way, I hear that your Mr.
+text: Gold is about to become very rich.
+dialog: I hope you told him that most of
+dialog: the ideas in your Berlin airlift
+dialog: chapter came from me.
+speaker_heading: JAMES
+dialog: Fuck off.
+speaker_heading: SUSAN (O.S.)
+dialog: So it's all worked out perfectly...
+speaker_heading: JAMES
+dialog: That's her.
+text: The two men go to the head of the stairs to watch SUSAN
+dialog: come up.
+speaker_heading: SUSAN
+dialog: She get's the house, he get's the
+text: cars. And the baby is still in
+dialog: Switzerland with the Au pair.
+text: SUSAN BARRINGTON is in her late twenties. Flamboyant,
+text: effortlessly confident, she inhibits that special world -
+dialog: with its different rules - of the truly ambitious. James
+dialog: fascination owes as much to the certainties of her class
+dialog: as to her looks.
+text: An attractive young man accompanies her up the stairs.
+text: Jeremy makes a sound. Susan Glances up.
+speaker_heading: SUSAN
+dialog: Jeremy!
+text: She waves and her elbow catches a tray of champagne being
+text: carried downstairs. Glasses fall about her feet. While
+text: apologising, Susan does not take her eyes off Jeremy.
+speaker_heading: SUSAN
+dialog: How Stupid! I am sorry.
+text: The butler and the young man drop to the ground and set
+text: about picking up the glasses. Susan regards them for a
+text: moment, then steps round them and hurries up the stairs.
+text: Jeremy and Susan go into a clinch, with kisses. James
+text: stands a few feet off.
+speaker_heading: SUSAN
+dialog: Jeremy! How Fantastic.
+speaker_heading: JEREMY
+dialog: Darling Susan.
+speaker_heading: SUSAN
+dialog: You're so famous now.
+speaker_heading: JEREMY
+dialog: And you're so beautiful. What are
+dialog: you doing here?
+speaker_heading: SUSAN
+dialog: We're thinking of doing this current
+dialog: affairs thing for schools. World
+dialog: history since 1945. Twelve
+dialog: programmes, lots of stock film.
+speaker_heading: JEREMY
+dialog: In that case, you should meet my
+dialog: very dear friend, James Penfield.
+dialog: Brilliant analyst of recent history
+dialog: and a world authority on the Berlin
+dialog: Airlift.
+text: James and Susan say "Hi" and shake hands.
+speaker_heading: SUSAN
+dialog: Was that your chapter, then? It
+dialog: was very good.
+speaker_heading: JAMES
+dialog: Thank you. We met last week, at
+dialog: the Wajda film. You won't remember.
+dialog: We didn't actually speak.
+speaker_heading: SUSAN
+dialog: (not remembering)
+dialog: Yes, that's right. I'm being
+dialog: terribly rude. Bob? Oh, Bob.
+dialog: This is Bob Tuckett. Bon was at
+dialog: Oxford too.
+text: Bob, Jeremy, James all say "Hi". Momentarily enthusiasm
+text: flags, no one speaks. Then the drinks tray is suddenly in
+text: their midst and they all reach out thankfully, with mock
+text: groans of relief and surprise.
+text: An hour later, Guests are leaving. James has got Susan
+text: alone. They descend the stairs. CLOSE ON Susan, a
+text: disparate kind of seriousness.
+speaker_heading: SUSAN
+dialog: I mean, in many ways I'm right
+text: behind the women's movement. But
+dialog: sometimes I wish they'd get on
+text: with it instead of moaning on.
+dialog: The office was split right down
+dialog: the middle. I mean, as a woman I
+dialog: understood what they were saying,
+dialog: that current affairs was all about
+dialog: what men did, but as a human being
+dialog: and a television researcher, as a
+dialog: professional , I could just sense
+dialog: they'd got it all wrong. I could
+dialog: see there were two paths I could
+dialog: go down, power or not-power. Down
+dialog: the not-power path was lot of
+dialog: sisterly feeling, masochism and
+text: frustration. Down the other path,
+dialog: I could keep on working. So of
+dialog: course I voted with the men and
+dialog: the other women all resigned. I
+dialog: think they're mad, don't you?
+text: They arrive by the front door. There is the briefest pause.
+text: James makes his bid.
+speaker_heading: JAMES
+dialog: Can I give you a lift?
+speaker_heading: SUSAN
+dialog: No, it's all right. I can get a
+text: cab. Night night.
+text: James stands in the doorway and watches her go.
+scene_heading: EXT. OXFORD CIRCUS - DAY
+text: An abrupt transition. Morning rush hour, Brixton
+text: Underground station to Oxford Circus. James fights his
+text: way through the crowd up the underground steps leading to
+text: the street. He is late.
+scene_heading: EXT. LANGHAM PLACE - DAY
+text: James runs away from CAMERA towards Broadcasting House.
+scene_heading: INT. NEWS CONFERENCE ROOM - DAY
+text: Same time, Moulded plastic chairs are ranged along the
+text: walls of the room. Some journalists stand, some are half
+text: asleep. The feel of a morning assembly.
+text: Seated at the only desk, by the door, sits the EDITOR-IN-
+text: CHIEF, While waiting he pretends to look at papers.
+text: The tone of these meetings is restrained, weary.
+text: The Editor speaks with short pauses between each point.
+text: Quietly, as though talking to himself.
+speaker_heading: EDITOR
+dialog: Use of this word "finally". We've
+dialog: had this one before. Difficult
+dialog: when it gets...
+text: James come in. The Editor ignores him pointedly. There
+text: are no more seats. James stands somewhere inconspicuous.
+speaker_heading: EDITOR
+dialog: ...when it gets too close to
+dialog: 'finally' the main points of the
+dialog: news... Now today. Not very sexy
+dialog: list. We can't live off all these
+dialog: court cases...Royals...What's
+dialog: Charles giving Diana for her
+dialog: birthday?
+scene_heading: 1ST. JOURNALIST
+dialog: He's not telling.
+speaker_heading: EDITOR
+dialog: Better follow him around, I
+dialog: suppose.
+scene_heading: 2ND. JOURNALIST
+text: Newcastle is following Charles to
+dialog: see if anyone throws a bottle at
+text: his car like last time.
+speaker_heading: EDITOR
+dialog: Good... Now, I'm going to drop
+dialog: this panda business unless something
+text: happens soon.
+scene_heading: 2ND. JOURNALIST
+dialog: We've got two people down the zoo
+text: looking into the cage.
+speaker_heading: EDITOR
+dialog: Give it one more day. These scrap
+dialog: iron merchants on, where is it,
+dialog: Gritviken Anything in that?
+speaker_heading: JAMES
+dialog: Could be.
+speaker_heading: EDITOR
+dialog: Let's keep an eye on it then.
+dialog: Okay, I'm just thinking aloud.
+dialog: Let's take the list in order.
+dialog: Cabinet reshuffle. Chris?
+speaker_heading: 1ST JOURNALIST
+text: Bob is ringing round the ministries
+dialog: finding out where everyone is going
+dialog: to be. That'll come to fruition
+dialog: later this morning. John'll be at
+dialog: Caxton Hall. We'll try and lay on
+text: a radio car.
+text: Through this last speech we CLOSE IN on James. Behind his
+text: news prospects sheet he is reading a letter. We glimpse
+text: the letter heading: 'GOLDBOOKS'
+speaker_heading: EDITOR
+dialog: Prime Minister is on the Jimmy
+dialog: Young Show at ten-thirty. We should
+dialog: get something out of that. Now,
+dialog: matter Irish...
+scene_heading: INT. JAMES' FLAT - EVENING
+text: James is clearing a desk he has against a wall, in
+text: preparation for work on his Suez book. It is a desk that
+text: has not seen much use before, piled high with clutter. He
+text: brings over a lamp for it, arranges the typewriter in its
+text: centre. Various London library books are arranged along
+dialog: one edge.
+text: On the wall above the desk, James pins a large map of Europe
+text: and the Mediterranean. He sits at the desk, lines up a
+text: couple of pencils...and picks up a book.
+scene_heading: INT. RESTAURANT - DAY
+text: Langan's, Piccadilly. Gold and James are met at the door
+text: by the HEAD WAITER, Gold is obviously known here.
+dialog: Businessmen, media people, agents, conspiracy, urgency,
+text: babble. Cornucopia too - dessert trolley, cheese trolley,
+text: something being flambee'yd at a table.
+text: ANOTHER SHOT through the diners we find Gold and James
+text: already seated. The main course has been cleared away. A
+text: clock shows the time to be ten to three.
+speaker_heading: JAMES
+dialog: I was only ten years old at the
+dialog: time, but it was the first
+dialog: international crises I can remember.
+dialog: It's obviously a key point, and
+dialog: I've always thought that sooner or
+dialog: later we would have to re-examine
+dialog: Suez in the light of subsequent
+text: events. And now, suddenly, with
+dialog: this Falklands business on us,
+dialog: it's quite clear we do need to
+dialog: take another look at 1956. The
+dialog: way I see the book is that it would
+dialog: get away completely--
+text: The waiter has wheeled up the dessert trolley. Gold has
+text: been examining it for the last few seconds before breaking
+dialog: in.
+speaker_heading: GOLD
+dialog: Would you like a dessert...I'm
+dialog: having one.
+speaker_heading: JAMES
+dialog: No thanks. I'd like to break away--
+speaker_heading: GOLD
+dialog: I'll have some of that.
+speaker_heading: JAMES
+dialog: ...break away completely from--
+speaker_heading: GOLD
+dialog: And some of that. Sorry.
+speaker_heading: JAMES
+dialog: ...from all the moralising and
+dialog: talk of national humiliation that
+dialog: is now the standard line on Suez...
+text: Gold has a great forkful of gateau near his face.
+speaker_heading: GOLD
+dialog: Yes...You're not a socialist then?
+speaker_heading: JAMES
+dialog: No. I'd want to--
+speaker_heading: GOLD
+dialog: Good.
+speaker_heading: JAMES
+dialog: I'd want to set out events as they
+dialog: happened. The way I see it is
+dialog: this: the British Empire was an
+dialog: ideal. It may have become totally
+dialog: obsolete by the middle of this
+dialog: century, but it wasn't totally
+dialog: dishonourable to try and defend
+dialog: its remains and try and salvage
+dialog: some self-respect, which is what I
+dialog: think the Conservatives were trying
+dialog: to do. Then there's the essential--
+speaker_heading: GOLD
+dialog: Are you going to have coffee?
+speaker_heading: JAMES
+dialog: Yes, please.
+speaker_heading: GOLD
+dialog: And you'll join me in a sambucca?
+speaker_heading: JAMES
+dialog: Thank you.
+text: Gold speaks to the waiter as James continues.
+speaker_heading: JAMES
+dialog: ...there's the business of the
+dialog: British collusion with Israel. Of
+dialog: course it's proved beyond all doubt
+dialog: now, but I want to set it in the
+dialog: context of diplomacy and warfare.
+dialog: I mean, if you're about to attack
+dialog: one country, it makes sense to
+dialog: encourage neighbouring countries
+dialog: to attack it to. The French
+dialog: understood this. They could never--
+text: The waiter brings the coffee. Gold is lighting a cigar,
+dialog: having offered one to James.
+speaker_heading: JAMES
+dialog: The French could never make out
+dialog: all the embarrassment and breast-
+dialog: beating of the British. My enemy's
+dialog: enemy is my friend. It's as simple
+dialog: as that. If we had not been so
+dialog: scrupulous we would not have been
+dialog: so ashamed.
+text: The waiter brings the sambuccas. We CLOSE IN on the drinks
+text: as James goes on talking. Gold puts a match to James's
+dialog: drink on this next line.
+speaker_heading: JAMES
+dialog: Now it's as if we discovered
+dialog: ourselves again. We're acting
+dialog: independently when the standard
+dialog: line has always been that after
+dialog: Suez we couldn't lift a finger
+dialog: without the Americans.
+scene_heading: INT. ARCADE - DAY
+text: Gold and James stroll through the arcade, bloated from
+text: their lunch. Both are slightly drunk. Gold is expansive.
+speaker_heading: GOLD
+dialog: Personally James, I'm very excited
+dialog: by this new arrangement we have.
+dialog: It gives us direct access to
+dialog: literally hundreds of American
+dialog: collages. Twentieth century history
+dialog: is a growth area over there, don't
+dialog: ask me why. Your readership will
+dialog: be first and second year American
+dialog: collage students...
+speaker_heading: JAMES
+dialog: Freshman and sophomores...
+speaker_heading: GOLD
+dialog: You know the lingo. Jolly good.
+dialog: So your language will have to be
+dialog: simple, not stupid, mind, but
+dialog: simple, very, very simple, and
+dialog: always remember it's an American
+dialog: readership.
+speaker_heading: JAMES
+dialog: Like I was saying, the American
+dialog: angle in Suez is very important.
+dialog: I wouldn't want to say they let us
+dialog: down. I think that's wrong. A
+dialog: good ally is one who doesn't back
+dialog: you up in your mistakes, who tells
+dialog: you when to pull back. And the
+dialog: Americans were good allies. Simple
+dialog: as that.
+text: James is immensely pleased with his own performance during
+text: this speech. Gold, however, is more interested in something
+text: he has seen in a shop window. As soon as James finishes,
+text: Gold mumbles an apology and plunges into the shop. James
+text: follows him in.
+scene_heading: INT. NEWSROOM - DAY
+text: A lull in the action. Most of the journalists are eating
+text: out. A few eat sandwiches, smoke, chat, read. A background
+text: television shows crowd scenes from Argentina.
+text: James sits with a plastic cup of coffee reading intently.
+text: He stands at the window looking out over the roofs. Then
+text: he turns abruptly, picks up a telephone and dials.
+speaker_heading: JAMES
+dialog: Is that London Midweek? Susan
+dialog: Barrington.
+scene_heading: EXT. A SUBURBAN STREET - NORTHWEST LONDON - DAY
+text: James turns off the street up the front path of a
+dialog: nondescript per-war semi.
+scene_heading: INT. JAMES'S PARENTS HOUSE - DAY
+text: MR. PENFIELD comes into the hall to answer the door. He
+text: is tired-looking man in his sixties. James enters. The
+text: two men fumble awkwardly between a handshake and an embrace.
+text: It is James who favours the former.
+scene_heading: MR. PENFIELD
+dialog: Hello, Jimmy.
+speaker_heading: JAMES
+dialog: Dad.
+scene_heading: MR. PENFIELD
+dialog: Come into the kitchen. I'm just
+dialog: making your mother's tea.
+scene_heading: INT. KITCHEN - DAY
+text: Mr. Penfield fusses inexpertly at the stove. James leans
+text: in the doorway.
+speaker_heading: JAMES
+dialog: So how is she?
+scene_heading: MR. PENFIELD
+dialog: Well, she doesn't complain much.
+dialog: You know what she's like. She
+dialog: keeps asking when you're coming...
+speaker_heading: JAMES
+dialog: I'm sorry about Saturday, Dad. It
+dialog: was just impossible to get away.
+scene_heading: MR. PENFIELD
+dialog: Oh she knows you're very busy,
+dialog: especially now, with everything
+dialog: going on...the doctor said to try
+dialog: her on solids, but she's been right
+dialog: off her food...You take this up to
+dialog: her. Tell her you made it. She'll
+dialog: like that.
+text: James picks up the tray - tinned tomato soup, buttered
+text: bread, and a cup of tea.
+scene_heading: INT. BEDROOM - DAY
+text: MRS. PENFIELD lies on her back, dozing. She is plainly
+text: very ill. James sits at the bedside. The tray of food
+text: cools on a bedside table. We have a sense of time passing.
+text: Mrs. Penfield opens her eyes. James kisses her on her
+dialog: cheeks.
+scene_heading: MRS. PENFIELD
+dialog: Jimmy. I knew you'd come today.
+dialog: I said to Dad this morning, that
+dialog: boy'll be here this morning, just
+dialog: you see. He said don't get your
+dialog: hopes up, but I knew...
+text: This speech appears to exhaust her. Hey eyes close. She
+text: keeps hold of James's hand. She murmurs.
+scene_heading: MRS. PENFIELD
+dialog: Have you got to do straight off?
+speaker_heading: JAMES
+dialog: No, not yet.
+scene_heading: MRS. PENFIELD
+dialog: Good...stay here a bit.
+text: James sits. His mother falls into a deep sleep.
+scene_heading: INT. LIVING-ROOM - EVENING
+text: Mr. Penfield sits drinking tea and watching TV. He stands
+text: when James enters and turns the set off.
+speaker_heading: JAMES
+text: She's asleep.
+text: Mr. Penfield indicates a seat to James.
+scene_heading: MR. PENFIELD
+dialog: Everyone's been marvellous really,
+text: Jimmy. The neighbours come and
+dialog: sit with her while I'm at work.
+speaker_heading: JAMES
+dialog: That's good.
+scene_heading: MR. PENFIELD
+dialog: And Joe Ramage - do you remember
+text: him? He comes and helps out in
+dialog: the shop.
+speaker_heading: JAMES
+dialog: Yes, you said.
+scene_heading: MR. PENFIELD
+dialog: Now, are you going to have some
+dialog: more tea?
+speaker_heading: JAMES
+dialog: No, thanks Dad.
+scene_heading: MR. PENFIELD
+dialog: Or a beer. I've got some in.
+text: James shakes his head. There is a long awkward silence, a
+text: hopeless silence that is particular to both father and
+text: son. Finally James gets to his feet.
+speaker_heading: JAMES
+dialog: I've got to be going. I've got a
+dialog: meeting tonight.
+scene_heading: MR. PENFIELD
+dialog: The bed's all made up if you want
+dialog: to stay.
+speaker_heading: JAMES
+dialog: I'll ring you in the next couple
+dialog: of days.
+text: Mr. Penfield stands and nods. This is a familiar exchange.
+text: Finish on him.
+scene_heading: INT. BARBICAN ARTS COMPLEX - AFTERNOON
+text: James and Susan arrive at the Barbican together. Their
+text: conversation is a little detached from its subject matter.
+text: They are feeling each other out. They are not disagreeing
+text: here. As they talk they make a complicated route through
+text: the Arts Centre, always on the verge of getting lost.
+speaker_heading: JAMES
+dialog: What did you think of that Wadja
+dialog: film?
+speaker_heading: SUSAN
+dialog: I quite liked it. I wasn't as
+text: enthusiastic as everyone else.
+speaker_heading: JAMES
+dialog: I thought it was tremendous.
+speaker_heading: SUSAN
+dialog: I think it went on rather too long.
+speaker_heading: JAMES
+dialog: I couldn't bear for it to end.
+speaker_heading: SUSAN
+dialog: And I didn't like that man.
+speaker_heading: JAMES
+dialog: Oh, but he was terrific.
+speaker_heading: SUSAN
+dialog: And the shape of it all. It was
+dialog: sort of...shapeless.
+speaker_heading: JAMES
+dialog: Really? I thought those long
+dialog: flashbacks were extremely good.
+scene_heading: INT. LIFT - AFTERNOON
+speaker_heading: JAMES
+dialog: You don't like flashbacks because
+dialog: your mother's a historian.
+speaker_heading: SUSAN
+dialog: Good theory. But I like my mother.
+dialog: I have no aversions to what she
+dialog: does.
+speaker_heading: JAMES
+dialog: Too bad. What did your father do?
+speaker_heading: SUSAN
+dialog: My real father? Well, he was a
+dialog: flashback.
+text: They laugh as they step out of the lift.
+scene_heading: INT. BARBICAN ART GALLERY - LATE AFTERNOON
+text: A little later. A Private View. A discreetly murmuring,
+dialog: wine, canapés.
+text: The paintings - painfully pretentious - represent various
+text: forms of aesthetic self-consciousness.
+text: James and Susan look at the pictures, but make no reference
+text: to them. They spend a little time in front of each one
+text: before moving to the next. James speech is broken by
+text: moments of contemplation. As they move on again, he picks
+text: up his thread.
+speaker_heading: JAMES
+text: Everyone describes the same process.
+dialog: At first it is exciting. You're
+text: at the centre of the world. As
+dialog: soon as anything happens, you're
+dialog: the first to know about it. And
+dialog: there are deadlines a dozen times
+dialog: a day, even more, and that's
+text: intimidating and exciting. Then
+dialog: you get the hang of it and the
+dialog: excitement wears off. Your a clerk
+dialog: in a rather dowdy Office. There's
+dialog: none of the glamour of television,
+dialog: or the penetration of serious
+dialog: journalism. You're a processor of
+dialog: semi-official news. Some people
+dialog: leave at this stage. Then, if you
+dialog: hang on, and especially if you're
+dialog: promoted, you discover a new kind
+dialog: of pleasure. You're pleased by
+dialog: the ease with which you can write
+text: summaries and bulletins from news
+dialog: agency printouts, by the way you
+dialog: ca judge length. Ending a broadcast
+text: on the dot, having everything run
+text: smoothly, selecting a running order
+dialog: that makes sense, knowing
+dialog: instinctively what you can and
+dialog: cannot do. Professionalism.
+speaker_heading: SUSAN
+dialog: And you're at this third stage
+speaker_heading: JAMES
+text: No, there's a fourth. Numbness.
+dialog: You do everything right, but you
+dialog: feel nothing either way.
+speaker_heading: SUSAN
+dialog: I think you're exaggerating. And
+dialog: if you aren't, you should jolly
+dialog: well change your job.
+speaker_heading: JAMES
+dialog: Oh yes?
+speaker_heading: SUSAN
+dialog: Yes. You're much too old to making
+dialog: a drama out of alienation, or
+dialog: whatever you call it. You've got
+dialog: to take responsibility for your
+dialog: own happiness. That's what I think
+dialog: anyway.
+text: Susan has moved on a couple of steps and is bending forwards
+text: to look at a picture. James smiles at her wonderingly, a
+text: little deflated, but impressed.
+scene_heading: INT. JAMES' FLAT - EVENING
+text: Jeremy is sprawled in a chair with a drink. James is
+text: standing. Muted piano music from the stereo. EDWARD has
+text: just entered. The other two have been waiting for him.
+speaker_heading: JAMES
+dialog: It's the Poet Laureate himself.
+text: Edward approaches. He is a contemporary of the other two,
+text: but looks much younger and less worldly in manner. He is
+text: slightly nervous. He works on a literary magazine and he
+text: is a poet whose work is just beginning to be recognised.
+text: The three are old friends. Jeremy and James keep up their
+dialog: friendship with Edward because they recognise his talent,
+text: and this makes them feel more authentic. Edward keeps up
+dialog: with them because he is lonely and his own life is rather
+dialog: dull. However, he does distrust them a little. And they
+dialog: keep his talent in place by teasing him.
+text: As Edward enters the other two applaud.
+speaker_heading: JEREMY
+dialog: How sweet.
+text: Edward makes a nervous mock bow.
+speaker_heading: EDWARD
+dialog: Thank you. Have you two been
+dialog: smoking that illegal stuff again?
+text: James pours wine into Edward's glass.
+speaker_heading: JAMES
+dialog: We were admiring your poem in the
+dialog: TLS, Edward.
+speaker_heading: EDWARD
+dialog: Ah, yes.
+speaker_heading: JEREMY
+dialog: It's terribly good.
+speaker_heading: EDWARD
+dialog: Don't tell me you've actually read
+dialog: it, Jeremy.
+text: James picks up the TLS and waves it at Edward.
+speaker_heading: JEREMY
+text: Committed to memory. Forever.
+speaker_heading: EDWARD
+dialog: I see.
+speaker_heading: JAMES
+dialog: Blasé and epicene.
+speaker_heading: JEREMY
+dialog: We were just chortling over that.
+dialog: Blasé and epicene. It perfectly
+text: describes the new Foreign Secretary.
+dialog: So--I hope you don't mind, Edward,
+dialog: I pinched it for my piece today.
+speaker_heading: EDWARD
+dialog: Attributed?
+speaker_heading: JEREMY
+dialog: Of course.
+speaker_heading: EDWARD
+dialog: Why, is there a new Foreign
+dialog: Secretary? Who was the old one
+dialog: anyway?
+speaker_heading: JEREMY
+dialog: It needn't concern you, Edward.
+dialog: James has got some news. He needs
+text: a poet's advice.
+text: Jeremy pats a seat. Edward sits down.
+speaker_heading: JAMES
+dialog: C'mon. I don't want any Jones
+dialog: about this.
+speaker_heading: JEREMY
+text: No jokes. James is in love.
+speaker_heading: EDWARD
+dialog: Congratulations. Who with?
+speaker_heading: JEREMY
+text: A glamorous young lady way above
+dialog: his station...
+speaker_heading: JAMES
+dialog: Bastard.
+speaker_heading: JEREMY
+dialog: Name so Susie Barrington. Daughter
+dialog: of the eminent historian, Anne
+dialog: Barrington, step-daughter of the
+dialog: scandalous Matthew Byrd the
+dialog: acclaimed sack-artist...
+text: Lay over Jeremy's account on next scene and FADE DOWN
+scene_heading: SLOWLY.
+scene_heading: INT. SUSAN'S FLAT - LATE EVENING
+text: A sumptuously cluttered place. A chesterfield. Deep
+text: armchairs, silk cushions, many prints, coffee table, books.
+text: Clearly an inherited place.
+text: Susan is pouring coffee. James sits across from her, jacket
+text: off, sunk in cushions.
+scene_heading: JEREMY'S VOICE OVER RECEDES.
+speaker_heading: SUSAN
+dialog: Mummy and I, we were more like
+dialog: lovers, really, or sisters. Then
+dialog: a couple of years after Daddy died,
+dialog: and not long after I left Oxford,
+dialog: she started seeing various men and
+dialog: I was furious. I really was upset.
+dialog: I stopped going home. I never
+dialog: phoned. I went round telling
+dialog: everyone how awful her books were.
+dialog: And she hardly seemed to notice,
+dialog: and that made me angrier. Then I
+dialog: got a job I was interested in, and
+dialog: I started to see lots of men, and
+dialog: I suppose I grew up a little and
+dialog: began to understand. So I wrote
+dialog: her a long letter, almost seven
+dialog: pages, saying how sorry I was, and
+dialog: how I was worried that we were
+dialog: drifting apart. And do you know,
+dialog: she wrote me a poem, a really
+dialog: beautiful poem about mothers and
+dialog: daughters.
+speaker_heading: JAMES
+dialog: How nice.
+speaker_heading: SUSAN
+dialog: It makes me weepy just to remember
+dialog: it. So we were fine again, and
+dialog: then she got married to Matthew
+dialog: who's a womaniser and a bit of a
+dialog: yob, but quite nice really, makes
+dialog: TV commercials. What about yours.
+speaker_heading: JAMES
+dialog: Both dead.
+speaker_heading: SUSAN
+dialog: That must be rather nice, in a
+dialog: way. I mean, you don't have any--
+text: The door bell RINGS loudly.
+speaker_heading: SUSAN
+dialog: Damn. They're early.
+speaker_heading: JAMES
+dialog: Who?
+speaker_heading: SUSAN
+dialog: I called you a taxi.
+speaker_heading: JAMES
+dialog: Very thoughtful.
+speaker_heading: SUSAN
+dialog: (a gesture of
+dialog: helplessness)
+dialog: Well, you know...
+scene_heading: EXT. FRONT DOOR - SUSAN'S FLAT - NIGHT
+text: A minute later, James and Susan stand at the front door.
+text: Portico and steps down to the street. Taxi waits. They
+text: kiss, Susan draws back.
+speaker_heading: JAMES
+dialog: Again?
+speaker_heading: SUSAN
+dialog: Yes, if you like. Call me at work.
+text: James descends the stairs. Susan closes the door.
+scene_heading: INT. COCKTAIL BAR - EARLY EVENING
+text: A cocktail bar, a self-conscious imitation of the American
+text: model. James and Jeremy sit on high stools at the bar.
+text: Tall colourful drinks are being set down in front of them.
+text: On a TV there are scenes of the departing Royal Navy fleet.
+speaker_heading: JEREMY
+dialog: To the Fleet.
+speaker_heading: JAMES
+dialog: To the Fleet.
+speaker_heading: JEREMY
+dialog: And the Argies.
+speaker_heading: JAMES
+dialog: The Argies.
+text: Jeremy reaches into his inside pocket and pulls out an
+dialog: envelope.
+speaker_heading: JEREMY
+text: Now, top secret file.
+speaker_heading: JAMES
+dialog: (reaching for it)
+dialog: Come on. Hand over.
+text: Jeremy outs the envelope out of James's reach.
+speaker_heading: JEREMY
+dialog: Uh-huh. Tell me what you think of
+dialog: this first.
+speaker_heading: JAMES
+dialog: It's shit.
+speaker_heading: JEREMY
+dialog: You approve!
+speaker_heading: JAMES
+dialog: Let me see.
+speaker_heading: JEREMY
+dialog: Get way. You'll see when I'm ready.
+dialog: First I want you to reflect on my
+dialog: noble behaviour, on how your
+dialog: interests are closest to my heart,
+dialog: how I lay awake at night worrying--
+speaker_heading: JAMES
+dialog: Jeremy, just let me see what you've
+dialog: got.
+speaker_heading: JEREMY
+dialog: You're so hard. All right then.
+dialog: I was chatting to some people from
+dialog: the diary page, and the name of
+dialog: Barrington came up. I expressed
+dialog: an interest...
+speaker_heading: JAMES
+dialog: Oh yes.
+speaker_heading: JEREMY
+dialog: ...an innocent interest, and found
+dialog: out that last year Vogue ran a
+dialog: series called 'Mothers and
+dialog: Daughters' Number seven, Anne and
+dialog: Susan Barrington. Being a decent
+dialog: loving friend I went to the files
+dialog: and made a copy for you.
+speaker_heading: JAMES
+dialog: Let me see.
+speaker_heading: JEREMY
+dialog: Ah, ah. There's more. The piece
+dialog: celebrates the undying affection
+dialog: between eminent left-wing historian
+text: and he dazzling daughter. Then
+dialog: the news editor, who happened to
+dialog: be in the room, said that years
+dialog: ago, when he worked on The Guardian,
+dialog: Anne Barrington had written a very
+dialog: good piece on...guess...Suez. It
+dialog: was 1966, the tenth anniversary.
+text: Jeremy hands over the envelope which James now opens.
+speaker_heading: JEREMY
+dialog: She's never written a book in it,
+dialog: but she clearly knew a lot.
+speaker_heading: JAMES
+dialog: Mmm...
+speaker_heading: JEREMY
+dialog: It's obvious what you have to do.
+dialog: Your way into the daughter's pants
+dialog: is through the mother, up the Suez
+dialog: canal...
+speaker_heading: JAMES
+dialog: You're so gross.
+speaker_heading: JEREMY
+dialog: She's very nice, apparently. Lives
+dialog: in Norfolk. And very left-wing.
+dialog: You'll have to watch yourself there.
+speaker_heading: JAMES
+dialog: Ha ha...
+speaker_heading: JEREMY
+dialog: According to this, the daughter
+dialog: goes up to stay quiet often. You'll
+dialog: need to get yourself invited for
+dialog: the right weekend.
+speaker_heading: JAMES
+dialog: You've really got it all worked
+dialog: out, haven't you?
+speaker_heading: JEREMY
+dialog: No need to thank me, if you don't
+dialog: want to. Just pay for these drinks.
+speaker_heading: BARMAN
+dialog: That'll be eleven pounds, sir
+scene_heading: INT. POLYTECHNIC - DAY
+text: James walks along a busy corridor in a polytechnic. In a
+text: recess to one side is a games room. Along the walls are
+text: Space Invader machines by the dozen. Students stand at
+text: the machines intently, their faces illuminated by the glow.
+dialog: We SEE some expertly handled Space Invader action. James
+text: approaches one of the players and asks directions. Without
+text: looking up the student points down the corridor.
+scene_heading: INT. CORRIDOR - DAY
+text: James stands outside the doors or a lecture hall. Inside
+text: a lecture is in progress. We catch a few words.
+text: James pushes the door open.
+scene_heading: INT. LECTURE HALL - DAY
+text: The LECTURER glances back and acknowledges his presence.
+text: James stands at the back of the hall for the end of the
+dialog: lecture.
+speaker_heading: LECTURER
+dialog: A vacuum had been created. If the
+dialog: United States did not fill it, it
+dialog: was assumed the Russians would.
+dialog: (A beat)
+dialog: Next week I shall be considering
+dialog: the extent to which the behaviour
+dialog: of nation states or governments
+dialog: may be judged by the moral criteria
+dialog: we normally apply to individuals.
+dialog: Thank you.
+text: The students stand and begin to move out. James and the
+text: Lecturer move towards each other and shake hands.
+scene_heading: INT. LECTURER'S ROOM - DAY
+text: James and the Lecturer sit separated by a low table. A
+text: tape-recorder is on the Lecturer's side of the table.
+speaker_heading: LECTURER
+dialog: Well, what you need to understand--
+speaker_heading: JAMES
+dialog: No, sorry, could you lean forward
+dialog: a bit when you speak.
+speaker_heading: LECTURER
+dialog: Oh. Is this all right? Um...you
+dialog: see, through the early autumn of
+dialog: 1956 the Egyptians were running
+dialog: the canal, their canal, that is,
+dialog: quite efficiently. Traffic was
+dialog: passing through unimpeded, for
+dialog: Nasser didn't want to provide the
+dialog: West with any reason for invading
+dialog: his country. Is that loud enough,
+dialog: by the way?
+speaker_heading: JAMES
+dialog: It's okay.
+speaker_heading: LECTURER
+dialog: Right. So by the time the British
+dialog: and French launched their invasion
+dialog: at the beginning of November the
+dialog: main economic reasons for doing so
+dialog: had largely evaporated. What
+dialog: remained, especially for the
+dialog: British, were the more marginal
+text: and emotional arguments.
+scene_heading: INT. JAMES'S FLAT - EVENING
+text: The Lecturer's voice continues on the tape. James pours a
+text: drink and he listens and walks towards his desk.
+speaker_heading: LECTURER (V.O.)
+dialog: (from tape)
+dialog: Using the language of private
+dialog: behaviour you could say that this
+dialog: was an affair of the heart - the
+dialog: idea was to teach Nasser a lesson,
+dialog: to appear capable of acting
+dialog: independently, and to maintain
+dialog: face in the world, particularly
+dialog: the Arab world.
+text: James switches the tape recorder off. He picks up the
+text: Vogue 'Mothers and Daughters' article and pins it to the
+dialog: map of Egypt.
+scene_heading: INT. A COMMUNITY HALL - EVENING
+text: A poetry reading, given by Edward Long, has just come to
+text: and end. There are about fifty present, and empty chairs
+text: behind. Jeremy and James are in the audience.
+text: Edward is reading the last stanza of a poem.
+speaker_heading: EDWARD
+dialog: (reading)
+dialog: "And so the ferry moves across the
+dialog: bay, Top heavy as a wedge of wedding
+dialog: cake, Leaving us to return to our
+text: hotels, Gulls in nautical trim cry
+dialog: their farewells, Then drop with
+text: avaricious eyes to tale, Souvenirs
+dialog: from the debris of the day."
+text: He pauses.
+speaker_heading: EDWARD
+dialog: Thank you very much.
+text: There is earnest applause which peters out. Now, a tense
+dialog: silence.
+text: Edward stares impassively at the audience until he catches
+text: the movement of a half-raised arm.
+speaker_heading: EDWARD
+dialog: Yes.
+text: The questioner is a middle-class middle-aged woman, rather
+dialog: twittery.
+speaker_heading: WOMAN
+dialog: Me?
+speaker_heading: EDWARD
+dialog: Yes.
+speaker_heading: WOMAN
+dialog: Oh, yes, well I thought I'd start
+dialog: the thing off by asking, you know,
+dialog: and you'll probably think it's a
+dialog: stupid question that you get all
+dialog: the time, but could you tell us a
+dialog: little of how you actually get
+dialog: ideas, I mean, your poems are quiet
+dialog: extraordinary and beautiful and I
+dialog: wondered how they, well, you know,
+dialog: came about.
+text: During this, Jeremy has caught James's eye and they have
+text: started to giggle silently. This continues through the
+text: scene. They hunch up and turn away from each other, shaking
+text: quietly, half recover, become aware of each other, or of
+dialog: the absurdity of the questions, or of Edward's attempts to
+text: deal with them, and they fold up once more. From Edward's
+text: POV we SEE their heads duck down.
+speaker_heading: EDWARD
+dialog: It isn't a stupid question, but it
+dialog: is a difficult one to answer. I
+dialog: get ideas in much the same way as
+dialog: anyone does. Perhaps the difference
+dialog: is that I take them more seriously.
+dialog: I write them down - odd scraps of
+dialog: things. Then I seem to know when
+dialog: I'm ready to start work on a poem.
+text: It takes shape to start work on a
+dialog: poem. It takes shape as I write
+text: it, very slowly.
+text: While Edward answers, the woman nods vigorously.
+text: James and Jeremy recover in the brief pause between
+text: questions. They lift tear-stained faces, then crack up at
+dialog: the next question.
+text: A young man, anorak, flat auto-didact's 'does the team
+text: think' voice. A piece of paper in hand, he stands,
+text: trembling.
+speaker_heading: MAN
+dialog: You are one of the most praised
+dialog: poets of your generation of younger
+dialog: poets, and the Sunday Times has
+dialog: called you a cross between Dante
+dialog: and Philip Larkin. What is your
+dialog: reaction to this?
+speaker_heading: EDWARD
+dialog: Well, it's silly really.
+dialog: (catching sight of
+dialog: Jeremy and James)
+dialog: It's journalism, yes?
+text: A serious-looking student has his hand raised.
+speaker_heading: STUDENT
+dialog: Yes. What is the poet's role in
+dialog: society today?
+text: CLOSE ON James, drawing breath. A sudden sharp yelp from
+text: Jeremy fighting for air. All heads turn. The two are
+text: almost off their seats onto the floor. We move CLOSE ON
+text: them and hear their moans or 'No', 'No' and 'Stop', 'stop'
+dialog: and 'Sorry!'
+scene_heading: INT. NEWSROOM - LATE MORNING
+text: The newsroom. The teleprinters. The sheets arriving on
+text: the copytaster's desk. On the TV monitor there are pictures
+text: of the Fleet. On the P.A. a voice announces 'Edward Du
+dialog: Cann on Four'.
+text: We find PHILIP standing by the bulletin desk, He is a
+text: graduate trainee, 23 years old. Earnest in manner, slightly
+dialog: ingratiating.
+text: Immensely pleased with what he has just read, he moves
+text: towards the summaries desk with a piece of paper in each
+dialog: hand.
+speaker_heading: PHILIP
+dialog: James, look at this. At last.
+text: James is standing by a secretary dictating.
+speaker_heading: JAMES
+dialog: Wait...and with talks at the United
+dialog: Nations still making little
+dialog: progress, tension and anxiety
+dialog: settled on MPs of all parties in
+dialog: Westminster. Speaking on the Jimmy
+dialog: Young Show earlier today, Mrs
+dialog: Thatcher said the prospects of a
+dialog: peaceful solution did not look
+dialog: encouraging. What is it?
+speaker_heading: PHILIP
+dialog: Take a look at these.
+text: James glances over the sheets.
+speaker_heading: JAMES
+dialog: Not bad.
+speaker_heading: PHILIP
+dialog: Fifteen news items. I got exactly
+dialog: the same running order as the
+dialog: bulletin desk. They're all old
+dialog: pros.
+speaker_heading: JAMES
+dialog: Terrific.
+text: Philip moves on to show someone else nearby. We hear him
+text: explain his triumph again.
+text: James makes a gesture and expression of contempt for the
+dialog: benefit of the secretaries.
+text: A group of journalists passes through. James catches one
+text: of them by the arm.
+speaker_heading: JAMES
+dialog: Can I use the phone in your office?
+speaker_heading: JOURNALISTS
+dialog: Sure.
+scene_heading: INT. OFFICE - LATE MORNING
+text: A small bare office. A few minutes later, James is speaking
+text: on the phone to Susan.
+speaker_heading: JAMES
+dialog: (into phone)
+dialog: You're being very elusive...tell
+dialog: them you're ill...or leave early
+dialog: then...do it properly, tell them a
+dialog: lie...Okay, come when you can.
+dialog: You've got the address...yes, it
+dialog: will be nice. 'Bye..
+scene_heading: INT. JAMES'S FLAT - NIGHT
+text: Susan sits cross-legged in the centre of James's bed.
+text: James lies along one edge, head propped on elbows. They've
+dialog: been drinking coffee. We have the sense of a long evening
+text: of talk, but not much else so far. A pause before Susan
+dialog: speaks.
+speaker_heading: JAMES
+dialog: Why not stay?
+speaker_heading: SUSAN
+dialog: I have to be up early.
+dialog: (She stands)
+speaker_heading: JAMES
+dialog: Me too.
+speaker_heading: SUSAN
+dialog: (straightening
+dialog: herself at the
+dialog: mirror. James
+dialog: standing close)
+dialog: Two or three years ago I would
+dialog: have stayed. And fucked you.
+speaker_heading: JAMES
+dialog: Too late. Just my luck.
+text: He stands behind her and kisses her neck. She turns and
+text: they kiss. Susan pulls away. She taps James's nose with
+text: her forefinger.
+speaker_heading: SUSAN
+dialog: Now I'm more wary. I must be
+dialog: getting old.
+text: She reaches for her coat. James helps her.
+speaker_heading: JAMES
+dialog: You don't trust me.
+speaker_heading: SUSAN
+dialog: I don't trust anyone. That's what
+dialog: comes of working in television.
+speaker_heading: JAMES
+dialog: In radio we're different.
+speaker_heading: SUSAN
+dialog: I bet. Thanks for the drink.
+text: He opens the door.
+speaker_heading: JAMES
+dialog: I might see you in Norfolk over
+dialog: the weekend.
+speaker_heading: SUSAN
+dialog: (smiling)
+dialog: You just might.
+text: She closes the door on her smile.
+scene_heading: INT. SQUASH COURT - DAY
+text: A day later. A glass-fronted Squash Court. James and
+text: Jeremy are into a game. Both are inept and very unfit.
+text: We COME IN on a rally. Jeremy misses an easy ball and
+text: let's his racket drop. James sits down with his back to
+text: the wall. Jeremy gets his cigarettes from the corner of
+text: the court. They inhale smoke as if it were fresh air.
+speaker_heading: JEREMY
+dialog: That's enough of that.
+speaker_heading: JAMES
+dialog: We've been playing ten minutes for
+dialog: Christ sake.
+speaker_heading: JEREMY
+dialog: Far too long.
+text: A pause. Some keen SQUASH PLAYERS appear at the door,
+dialog: peer in and go away.
+speaker_heading: JAMES
+dialog: What have you been up to?
+speaker_heading: JEREMY
+dialog: Well, everyone's desperate for a
+text: new Falkland's angle. Purdy's
+dialog: come up with a real dog. Worker's
+dialog: rights in Argentina. So I've been
+dialog: running round getting people to do
+dialog: things. But no one's keen. Workers
+dialog: rights. When did anyone on that
+dialog: paper give a damn about workers
+dialog: rights? I said to Purdy, "Look,
+dialog: tits, bingo, jingo, horoscope,
+dialog: sport, celebs, gossip and the
+dialog: occasional firm stand on--"
+speaker_heading: JAMES
+dialog: The torture of small children--
+speaker_heading: JEREMY
+dialog: On the torture of very small
+dialog: children, but don't start telling
+dialog: them about their rights--
+speaker_heading: JAMES
+dialog: Hold those rights.
+speaker_heading: JEREMY
+dialog: Tame those rights...you know, we're
+dialog: even freighting in a couple of
+dialog: exiled Argie trade unionists from
+dialog: Paris for a TV tie in. One of
+text: them had his balls tap-danced on
+text: by the secret police. The other
+dialog: one had to be hosed off the wall
+dialog: of his cell after the police-- yes
+dialog: my good man?
+text: A muscular COACH in a tracksuit, is rapping on the glass
+text: door. And opening it. He wears a towel around his neck.
+speaker_heading: JEREMY
+dialog: I'm sorry. This is a private
+dialog: conversation. You'll have to wait
+text: outside.
+speaker_heading: COACH
+dialog: You can't smoke in here. This is
+text: a squash court.
+speaker_heading: JEREMY
+dialog: Well we booked it for a smoke,
+dialog: didn't we James?
+speaker_heading: JAMES
+dialog: And we're not quiet finished.
+speaker_heading: COACH
+dialog: Come on. Out!
+text: A few players have gathered to watch outside.
+speaker_heading: JEREMY
+dialog: The court is ours for another half
+dialog: hour. Please run along.
+text: The coach advances into the court, picks up their rackets
+text: and stands over them. He pushes a racket under Jermey's
+dialog: chin.
+speaker_heading: COACH
+dialog: I said, out.
+speaker_heading: JAMES
+dialog: On the other hand, we might be
+dialog: more comfortable at the bar. I've
+dialog: got some news on Suez.
+speaker_heading: JEREMY
+dialog: (racket still under
+dialog: his chin)
+dialog: A serious drunk might be of use, I
+dialog: suppose.
+scene_heading: INT. JAMES' FLAT - MORNING
+text: James adjusts his tie in the mirror. The PHONE RINGS, Lay
+text: over James's voice into SCENES 38 and 39.
+speaker_heading: JAMES
+dialog: Ohm hello, Dad, I've been meaning
+dialog: to phone you. How is she?...Oh...in
+dialog: the night?...Oh God. What does
+dialog: the doctor say?...Look, I will, I
+dialog: will. I promise. But it's
+dialog: impossible at the moment, now with
+dialog: the crisis on. I'm working night
+dialog: and day...Look, tell her I'll come
+dialog: as soon as I can. I promise...Look,
+dialog: Dad, I've got to dash. Give her
+dialog: my love. Yes...bye.
+scene_heading: EXT. BRIXTON - DAY
+text: James walks down a Brixton street, down a narrow road to a
+text: set of lock-up garages. A group of black kids are playing
+text: football here. James steps round puddles, careful not to
+text: muddy his shoes. He scowls at the kids and unlocks his
+dialog: garage.
+text: James backs his car out of the garage. An early sixties
+text: Jaguar saloon. He gets to close to the garage door. The
+text: game of football rages around his car, as if it was not
+dialog: there.
+scene_heading: EXT. CAR WASH - DAY
+text: Ten minutes later. A car wash. From the driver's POV we
+text: SEE the revolving brushes advance and engulf the car.
+text: The phone conversation ends. James reaches down and pushes
+text: a tape into the car tape deck. We will HEAR the recording
+text: all through James's journey to SCENE 41.
+speaker_heading: LECTURER (V.O.)
+dialog: (from tape)
+dialog: You see, if we talk of a nation,
+dialog: like an individual, we can also
+dialog: speak of it acting deceitfully.
+dialog: Britain and France had entered
+dialog: into a secret agreement with the
+text: Arabs' deadly enemy, the Israelis.
+dialog: The agreement was signed or
+dialog: initialled by the Foreign Secretary,
+dialog: Selwyn Lloyd on about October 23,
+dialog: at Sevres. The Israelis were to
+dialog: attack Egypt on an agreed date.
+dialog: British planes based in Cyprus
+dialog: were to precision bomb Egyptian
+dialog: airfields to protect Israeli cities
+dialog: from retaliation. After putting
+text: out an ultimatum to both side to
+dialog: withdraw to ten miles from the
+dialog: Canal, which of course the Egyptians
+dialog: would have to ignore since the
+text: Canal is 100 miles inside their
+dialog: territory, the British and the
+dialog: French would invade on the pretext
+dialog: of 'separating the combatants'.
+dialog: That became something of a catch
+dialog: phrase - 'Separating the
+dialog: combatants'.
+scene_heading: EXT. CITY - DAY
+text: James's car makes its way through the city.
+scene_heading: EXT. M11 MOTORWAY - DAY
+text: An hour later. The M11. James's car speeds away from us.
+scene_heading: EXT. NORTH NORFOLK - DAY
+text: An hour and a half later. James drives along a country
+dialog: road.
+scene_heading: EXT. THE BARRINGTON HOUSE - DAY
+text: A small BOY, TOM, peers over a wall at James's car as it
+text: sweeps into the drive.
+scene_heading: INT. LIBRARY - DAY
+text: Five minutes later. The Barrington house. The library.
+text: James waits alone. The house stands in its own grounds -
+text: an old rectory, spacious, but not over-grand. Much charm.
+text: 19th and 20th Century oil paintings, a serious reader's
+text: library. Pleasant disorder, but no squalor. There is one
+dialog: housekeeper.
+text: Somewhere in the house a PHONE RINGS. There are footsteps.
+text: James crosses to a window which faces out over the garden
+text: which is large and well-kept.At some distance away a
+text: gardener is raking leaves. Another man comes and talks to
+text: him and then disappears from sight. This is MATHEW, Anne
+dialog: Barrington's husband.
+text: The door opens slowly. TOM, the ten year old son of
+text: Matthew, stares at James.
+text: After a pause.
+speaker_heading: JAMES
+dialog: Hello.
+speaker_heading: TOM
+dialog: Hello.
+speaker_heading: JAMES
+dialog: I'm waiting for your mother.
+speaker_heading: TOM
+dialog: She said awfully sorry, make
+dialog: yourself comfortable, she won't be
+dialog: long. .
+speaker_heading: JAMES
+dialog: Thanks.
+speaker_heading: TOM
+dialog: Why not sit down and wait?
+speaker_heading: JAMES
+dialog: Okay, I will.
+speaker_heading: TOM
+dialog: She's not my mother, anyway. My
+dialog: mother's in Italy.
+speaker_heading: JAMES
+dialog: Oh, I see.
+speaker_heading: TOM
+dialog: Have you come to talk about me?
+speaker_heading: JAMES
+dialog: Not at all. History.
+text: At this Tom leaves the door and advances into the room.
+speaker_heading: TOM
+dialog: What period?
+speaker_heading: JAMES
+dialog: Suez. 1956.
+speaker_heading: TOM
+dialog: Do you want to hear my list of
+dialog: English Kings and Queens?
+speaker_heading: JAMES
+dialog: All right.
+speaker_heading: TOM
+dialog: It goes from Henry VIII.
+dialog: (In rapid monotone)
+dialog: Henry VIII, Edward IV, Mary,
+dialog: Elizabeth I, James I, Charles I,
+dialog: Charles II, James II, William and
+dialog: Mary, Ann, George I, II, III and
+dialog: IV, Victoria, Edward VII, George
+dialog: V, Edward VIII, George IV, Elizabeth
+dialog: II.
+speaker_heading: JAMES
+dialog: What about the Cromwells?
+speaker_heading: TOM
+dialog: They don't count.
+text: Anne Barrington comes in. Aged about fifty-five, very
+text: attractive still, and fit.
+speaker_heading: ANN
+dialog: Mr. Penfield. I am sorry to have
+dialog: kept you.
+speaker_heading: JAMES
+dialog: It's kind of you to see me.
+speaker_heading: ANN
+dialog: Tom, Daddy would like to see you
+dialog: in the garden. And will you ask
+dialog: Betty to bring us some coffee.
+dialog: And remember to say 'please'.
+text: Tom leaves. They watch as he closes the door with
+dialog: exaggerated care.
+speaker_heading: ANN
+dialog: He's a little unhappy. I hope he
+dialog: wasn't a nuisance?
+speaker_heading: JAMES
+dialog: He was delightful.
+scene_heading: INT. STUDY - DAY
+text: Ten minutes later. Anne sits behind her desk, James sits
+text: across from her. The HOUSEKEEPER sets down a tray and
+dialog: leaves.
+text: Anne appraises James and deals with the coffee, and for
+text: the first time in the film we take a long, hard look at
+text: him too. The light flatters. The notebook at his side,
+text: his patience and deference, the well-cut suit...he is at
+dialog: least credible.
+speaker_heading: ANN
+dialog: My first husband worked for the
+dialog: BBC. I doubt if anyone there
+dialog: remembers him now, just another
+dialog: long dead diligent administrator.
+dialog: He would have been useful in the
+dialog: fight to preserve the BBC's
+dialog: independence during the Suez crisis -
+dialog: one of the few things he was
+dialog: passionate about. I became involved
+dialog: too. I started work on a book
+dialog: that would have been published on
+dialog: the tenth anniversary of Suez.
+dialog: Then he died, and I loots the will
+dialog: to write it. By the time I was
+dialog: over his death, other books had
+dialog: been published, and it wasn't worth
+text: going on.
+speaker_heading: JAMES
+dialog: What a shame.
+speaker_heading: ANN
+dialog: It wasn't much more than a pot
+dialog: boiler.Suez was very important for
+dialog: our generation. I didn't want it
+dialog: to be forgotten. And that's why
+dialog: I'd like to be able to help you.
+dialog: But really Mr. Penfield, I looked
+dialog: through my notes before you came,
+dialog: they're all very much out of date,
+dialog: there's been so much published
+dialog: since. I don't think I'm your
+dialog: man.
+speaker_heading: JAMES
+dialog: (smiling, uncertain)
+dialog: Well, I am a great admirer of your
+dialog: work. I read your books on Chartism
+dialog: when I was still at school. I'm a
+dialog: journalist, not a historian. There
+dialog: are questions of method, and
+dialog: approach. I wondered--
+speaker_heading: ANN
+dialog: I see. Are you a socialist, Mr.
+dialog: Penfield?
+speaker_heading: JAMES
+dialog: Yes.
+speaker_heading: ANN
+dialog: Good. Suez was a minefield for
+dialog: both parties.
+scene_heading: EXT. GARDEN - DAY
+text: The Garden, same time. Tom wanders aimlessly near the
+text: house. He comes to one of the library windows and peers
+dialog: in.
+text: Unobserved, he watches Ann and James. Ann is speaking.
+text: James interrupts, Anne nods. James writes something down
+text: in his notebook.
+text: Tom hears his father in the distance calling his name. He
+text: leaves the window and runs.
+scene_heading: INT. CONSERVATORY - DAY
+text: Lunchtime. A table spread with white tablecloth, salads
+text: and wine. Set for two.
+speaker_heading: ANN
+dialog: My husband apologises for not
+dialog: joining us. It's not too cold for
+dialog: you, Mr. Penfield?
+speaker_heading: JAMES
+dialog: It's fine, thank you.
+speaker_heading: ANN
+dialog: Since you are a friend of my
+dialog: daughter's, I think I'm entitled
+dialog: to call you James, don't you think?
+speaker_heading: JAMES
+dialog: Please do. I was beginning to
+dialog: wonder who this Mr. Penfield was.
+speaker_heading: ANN
+dialog: And I'd like you to call me Ann.
+text: James raises his glass.
+speaker_heading: JAMES
+dialog: To Ann.
+speaker_heading: ANN
+dialog: To James. I remember what it was
+dialog: I was going to say. We were talking
+dialog: about forgetfulness. The Czech
+dialog: writer Kundera has one of his
+dialog: characters say that the struggle
+dialog: of man against tyranny is the
+dialog: struggle of memory against
+dialog: forgetting.
+speaker_heading: JAMES
+dialog: History books are first onto the
+text: bonfires.
+speaker_heading: ANN
+dialog: If we leave the remembering to
+dialog: historians then the struggle is
+text: already lost. Everyone must have
+dialog: a memory, everyone needs to be a
+dialog: historian. In this country, for
+dialog: example, we're in danger of losing
+text: hard-won freedoms by dozing off in
+dialog: a perpetual present.
+text: James is uneasy, a little out of his depth.
+speaker_heading: ANN
+dialog: Here I am lecturing you. Have
+dialog: some pâté.
+speaker_heading: JAMES
+dialog: Thanks.
+text: A Pause. Ann has already emptied her glass. James has
+text: hardly touched his. Ann refills her own. Then James,
+text: lightly, wanting to be back on familiar ground.
+speaker_heading: JAMES
+dialog: So I can go ahead and be a historian
+dialog: without feeling like a poseur.I
+dialog: shall be fulfilling a citizen's
+dialog: duty.
+speaker_heading: ANN
+dialog: If you like. But don't be too
+dialog: modest, James. The citizen's duty
+dialog: is to remember, not necessarily to
+dialog: write books. You are highly
+dialog: qualified. You're a responsible
+dialog: journalist doing what sounds to me
+dialog: like a very demanding job. Every
+dialog: day you take decisions that depend
+dialog: on your sense of history. A genuine
+dialog: tyranny would have to get rid of
+dialog: people like you.
+speaker_heading: JAMES
+dialog: You're kind to be so encouraging.
+speaker_heading: ANN
+dialog: I think you'll do very well.
+text: She smiles and briefly touches James's hand. James looks
+text: up impassive.
+scene_heading: EXT. BACK GATE TO GARDEN - DAY
+text: Anne and James are returning from an after-lunch walk. We
+dialog: have a glimpse of the landscape we will see more of on
+text: James's return.
+text: As they walk they arrive through a back gate into the
+text: Barrington garden. A jet fighter races through the sky.
+speaker_heading: ANN
+dialog: I've met some of her colleagues,
+dialog: I'm afraid they struck me as rather
+dialog: empty people. Very ambitious, and
+text: charming too. But not serious.
+dialog: No politics.
+text: They walk on.
+speaker_heading: ANN
+dialog: I do worry about Susan. Have you
+dialog: known her long? She hasn't
+dialog: mentioned you.
+speaker_heading: JAMES
+dialog: Actually, we've only just met.
+dialog: But we're quiet good friends.
+speaker_heading: ANN
+dialog: It's a pity she couldn't make it
+dialog: up here today.
+speaker_heading: JAMES
+dialog: Yes.
+speaker_heading: ANN
+dialog: She'll be here next weekend. Why
+dialog: don't you come too, James? I'll *
+dialog: show you the marshes properly. If
+dialog: you're lucky you might even see
+text: the first of the geese arriving
+dialog: from Siberia.
+speaker_heading: JAMES
+dialog: Well, I'd hate to be a nuisance.
+speaker_heading: ANN
+dialog: Don't be silly. I'll look out
+dialog: some more Suez material for you.
+dialog: You'll be very welcome.
+scene_heading: EXT. FRONT OF HOUSE - DAY
+text: They come round the front of the house to James's car. He
+text: opens the door and shakes Ann's hand.
+speaker_heading: JAMES
+dialog: Thank you.
+speaker_heading: ANN
+dialog: We'll see you next week, and if--
+text: Matthew's car comes sweeping up the drive. Tom is in the
+text: front seat. Matthew stops his car so that his front door
+dialog: is by James.
+text: MATTHEW is fifty. A director of commercials for cinema
+text: and television. Breezy, chunky-faced, keen to be taken
+text: seriously. Essentially good-humoured.
+speaker_heading: ANN
+dialog: I wish you wouldn't drive so fast,
+dialog: Mat, dearest.
+speaker_heading: MATHEW
+dialog: I'll get a bike. I promise. Hi!
+dialog: Just off?
+text: Matthew and James shake hands over the car doors.
+speaker_heading: ANN
+dialog: Matthew my husband. James. James
+dialog: is coming to stay next weekend.
+speaker_heading: MATHEW
+dialog: Very good. Well, I'll see you
+dialog: then.
+text: He strides away with Tom.
+speaker_heading: MATHEW
+dialog: Come on, Tom. Let's see if we can
+dialog: get this thing working.
+text: James pulls away. Ann stands watching him till he is out
+text: of sight, and a little longer after that.
+scene_heading: EXT. A149 ROAD - DAY
+text: Ten minutes later. James drives along the A149 near Clay.
+text: He has the window wide open, the radio on. The great
+text: expanse of salt marsh is to his right. The huge sky. The
+text: mood is triumphant.
+scene_heading: EXT. CENTRAL NORFOLK - DAY
+text: Half an hour later. A lonely road in central Norfolk.
+text: James brings the car to a sudden halt. He switches off
+text: the engine. In the silence we are able to hear the car
+text: cassette player. As it plays, James walks round the car
+text: till he finds his flat tyre. He rummages with growing ill-
+text: temper in the boot. Two cases of empty wine bottles, a
+text: mildewed towel and swimming trunks, but no jack.
+speaker_heading: LECTURER (V.O.)
+dialog: (from tape)
+dialog: There was a real desire on the
+dialog: British part to appear virtuous
+text: while behaving aggressively, and
+dialog: the pursuit of virtue led to many
+dialog: lies being told, most notable the
+dialog: Prime Minister's in the House of
+dialog: Commons on December 20 when he
+dialog: said that there was 'no
+dialog: foreknowledge that Israel would
+dialog: attack Egypt'. Perhaps we should
+dialog: reverse the question and ask
+dialog: ourselves to what extent individuals
+dialog: behave like governments, who are
+dialog: bound to act in the national
+dialog: interest which in turn is rarely
+dialog: separable from the government's
+dialog: interest, or that of the class it
+dialog: represents...
+text: Furious, he goes to the front of the car and snaps off the
+text: tape machine, and stands jiggling his keys in the vast
+dialog: silence.
+text: A minute later. James sets off. The immensity of the
+text: landscape, the incongruousness of his clothes...
+scene_heading: EXT. LONELY ROAD - DAY
+text: James, walking.
+scene_heading: EXT. ROAD THROUGH WOOD - DAY
+text: The road passes through a wood. When BETTY speaks, it
+dialog: surprises both James and us.
+text: She stands at the head of a little grass track that leads
+text: into a wood. She carries a plastic carrier bag. She is
+text: almost childlike in her friendliness.
+speaker_heading: BETTY
+dialog: Are you the man from the BBC?
+speaker_heading: JAMES
+dialog: What?
+speaker_heading: BETTY
+dialog: Sorry. I didn't mean to frighten
+dialog: you. I thought you must be from
+dialog: the BBC.
+dialog: (she advances)
+dialog: We've been waiting, see. And you
+dialog: don't exactly look like a farmer.
+dialog: I'm Betty.
+text: They shake hands.
+speaker_heading: JAMES
+dialog: James Penfield.
+speaker_heading: BETTY
+dialog: Come and meet the others. They've
+dialog: been waiting for you.
+scene_heading: EXT. WOODS. AIRFIELD PERIMETER - DAY
+text: James follows Betty through the woods. A rumbling and
+text: whining noise increases in violence and becomes deafening
+text: once they leave the wood and cross open ground towards a
+text: Military Air Base. The Peace Camp is near the perimeter
+text: fence. A ramshackle collection of tents, caravans, a tepee
+text: and a rough wooden shelter which is the communal area. A
+text: fire burns here. Various peace signs, Women's Movement
+dialog: sign and slogan. ('Fight War, Not Wars', etc.)
+text: Three women are sitting around the fire. A little further
+text: off a MAN is chopping wood. One of the women, CARMEN, is
+text: over sixty. The other two are in their thirties. The
+dialog: man, PETE, is a vintage hippy. A good mix of regional
+text: accents among the campers. Betty leads James to the fire.
+speaker_heading: BETTY
+dialog: I found a man from the BBC, but
+dialog: he's not the man.
+speaker_heading: CARMEN
+dialog: Never mind. We'll just have to
+dialog: make do. Would you like a cup of
+dialog: tea? Jill, give the young man
+dialog: your cup.
+speaker_heading: JAMES
+dialog: (Dodging smoke from
+dialog: the fire)
+dialog: Thank you.
+speaker_heading: CARMEN
+dialog: Sit on that log, dear.
+speaker_heading: JILL
+dialog: Be careful though, it wobbles.
+text: The others laugh.
+speaker_heading: JAMES
+dialog: Er, listen, I... I've got a
+dialog: puncture. I wondered if I might
+dialog: borrow a jack.
+speaker_heading: JILL AND CAROL
+dialog: Pete!
+speaker_heading: JAMES
+dialog: Sorry to be a nuisance.
+text: Pete ambles over. Inscrutable behind much hair. He
+text: registers no awareness of James. He smokes a roll-up.
+speaker_heading: CARMEN
+dialog: Pete, do we have a jack?
+text: Pete inhales, considers and nods almost imperceptibly.
+speaker_heading: CARMEN
+dialog: Could you look it out for our
+dialog: friend?
+text: Pete nods again and returns to chopping wood.
+speaker_heading: JILL
+dialog: Is the tea all right? I didn't
+dialog: ask you if you wanted sugar.
+speaker_heading: JAMES
+dialog: It's fine, thanks.
+speaker_heading: CARMEN
+dialog: Now first of all, tell us your
+dialog: name.
+speaker_heading: JAMES
+dialog: Penfield. James Penfield.
+speaker_heading: CARMEN
+dialog: This is Jill, Carol, Betty, Mandy,
+dialog: Louise, Pete over there, and I'm
+dialog: Carmen.
+text: The women smile and murmur hello as they are introduced.
+text: Their friendliness progressively disorientates James.
+speaker_heading: CARMEN
+dialog: There's another fifteen of us out
+text: at a meeting.
+speaker_heading: CAROL
+dialog: Would you like us to show you round
+dialog: the camp.
+speaker_heading: CARMEN
+dialog: Let him drink his tea, poor man.
+dialog: I don't know what's happened to
+dialog: this other fellow. He said he'd
+dialog: be here at three.
+speaker_heading: JILL
+dialog: Lost!
+speaker_heading: BETTY
+dialog: What do you do at the BBC, James?
+speaker_heading: JAMES
+dialog: I work in radio news, in London.
+dialog: A chorus of 'Oh well then ... 'and 'Great!'
+speaker_heading: JAMES
+dialog: But I'm not an interviewer or a
+dialog: correspondent.
+speaker_heading: CARMEN
+dialog: That doesn't matter. As long as
+dialog: we can get our message through to
+dialog: someone there. Jill, where are
+dialog: those handouts?
+speaker_heading: JILL
+dialog: They're back here somewhere.
+text: They're a bit crumpled.
+text: Pete hands a jack to James.
+speaker_heading: JAMES
+dialog: Oh, great. Thanks.
+text: Now James has his jack he begins to back away.
+speaker_heading: CARMEN
+dialog: Give them here. This tells you
+dialog: how the Women's Peace Camp came to
+dialog: be set up. All local women at
+dialog: first, then we had support from
+text: women and men all over the country.
+speaker_heading: JAMES
+dialog: Very good.
+speaker_heading: JILL
+dialog: The response has been just amazing.
+speaker_heading: JAMES
+dialog: Yes.
+speaker_heading: CARMEN
+dialog: And this sheet tells you all about
+dialog: the base, the number of missiles
+dialog: they're going to have, what they
+dialog: think they're for and so on.
+speaker_heading: CAROL
+dialog: We've had the local radio down
+dialog: here.
+speaker_heading: JAMES
+dialog: Terrific.
+speaker_heading: CARMEN
+dialog: But what we need is national
+dialog: coverage. It's difficult with
+dialog: this Falklands madness going on.
+dialog: Do you think you might be able to
+dialog: do something when you get back?
+speaker_heading: JAMES
+dialog: I'll suggest it. Remember though,
+dialog: we're news, not features. It might
+dialog: help if you could get yourselves
+dialog: attacked by the police. Anyway,
+dialog: I'll be back with this soon.
+dialog: Thanks.
+speaker_heading: BETTY
+dialog: (close up, eyes
+dialog: wide)
+dialog: Ordinary people everywhere are
+dialog: saying 'No, we don't want these
+dialog: terrible weapons!' That's news!
+speaker_heading: JAMES
+dialog: I won't be a moment.
+scene_heading: EXT. PEACE CAMP - EVENING
+text: James drives down the road towards the airbase. He stops
+text: his car well short of the camp. He takes the jack from
+text: the car and walks towards the camp. There are more people
+text: now moving in and out of the light of the fire. The sounds
+text: of voices, laughter, mostly female. A meal is being cooked.
+text: James sets down the jack where it can be found. He has
+text: been observed throughout by Pete, from the shadows. He
+text: speaks as James is turning back towards his car.
+speaker_heading: PETE
+dialog: Off then?
+speaker_heading: JAMES
+dialog: Er, yes, I put the jack by the ...
+dialog: hut there. Thanks for your help
+dialog: ... I... I have to be getting back
+dialog: ... so ... see you. And thanks
+dialog: ... and ... all the best.
+text: Pete watches James walk away.
+scene_heading: INT. TELEVISION COMPANY ENTRANCE/STAIRS - AFTERNOON
+text: London. A day later. The television company where Susan
+text: works. James is late. The lift is out of order. He runs
+text: up several flights of stairs with diminishing energy.
+scene_heading: INT. SCREENING ROOM - AFTERNOON
+text: Breathless, James bursts into the screening room. Susan
+text: is seated. Jeremy stands near her, leaning against a desk,
+text: smoking. By contrast, they are calm.
+speaker_heading: JEREMY
+dialog: Fortunate that I was here to keep
+dialog: Susan entertained.
+speaker_heading: JAMES
+dialog: Sorry. Got held up. What are you
+dialog: doing here?
+speaker_heading: JEREMY
+text: Delivering gossip and goodwill.
+dialog: It seems we'll both be doing
+dialog: Brighton.
+dialog: (He starts to put
+dialog: on his coat)
+dialog: Perhaps you should come too.
+speaker_heading: JAMES
+dialog: (to Susan)
+dialog: Will it be fun?
+speaker_heading: SUSAN
+dialog: It was last year.
+speaker_heading: JEREMY
+dialog: We might be able to dig out a couple
+dialog: of Suez survivors for you.
+speaker_heading: JAMES
+dialog: Perhaps I will, then.
+speaker_heading: JEREMY
+dialog: (Kissing on the
+dialog: cheek first Susan,
+dialog: then James)
+dialog: I'm off. Let's meet. You promised
+dialog: to tell me about Norfolk.
+speaker_heading: JAMES
+dialog: I'll ring you.
+text: A brief pause and a slight awkwardness after Jeremy leaves.
+speaker_heading: SUSAN
+dialog: (into microphone)
+dialog: I think we're ready now, thank
+dialog: you. And how was Norfolk? Did
+dialog: you get on with my mother?
+speaker_heading: JAMES
+dialog: I think she liked me.
+speaker_heading: SUSAN
+dialog: Did she talk about me?
+speaker_heading: JAMES
+dialog: No. We talked about history, and
+dialog: Siberian Geese.
+text: The lights go down.
+text: We SEE a series of FILM CLIPS about Suez: crowd scenes in
+text: Cairo; footage of the Fleet on its way from Malta; the
+dialog: actual invasion; parachutes; Eden at Downing Street; Lloyd
+text: at the airport; the protest meeting at Trafalgar Square;
+text: fighting in Suez streets.
+text: James sneaks occasional looks at Susan throughout. We SEE
+text: her in profile, lit by the screen.
+speaker_heading: SUSAN
+dialog: (As the first
+dialog: pictures come up)
+text: It's not in chronological order.
+dialog: There's an hour of stuff, of which
+dialog: the director has to choose four
+dialog: minutes. What'll happen is that
+dialog: I'll choose it for him ... Does he
+dialog: look like a man on speed?
+text: Our two minute sequence is presented to represent an hour
+text: of film. When at last it is over and the lights come up,
+text: there is a moment of stupefaction. Susan yawns and prepares
+dialog: to leave.
+speaker_heading: SUSAN
+dialog: Do you think she's invited you up
+dialog: for her sake or for mine?
+speaker_heading: JAMES
+dialog: (kissing Susan's
+dialog: fingers)
+dialog: I haven't really thought about it.
+speaker_heading: SUSAN
+dialog: (smiling, mischievous)
+dialog: Well, you should.
+text: James kisses Susan. She complies rather than responds.
+text: Susan disengages herself gently and gathers her things.
+text: She stands.
+speaker_heading: SUSAN
+dialog: Well, must get on.
+scene_heading: INT. NEWSROOM - EARLY MORNING
+text: A day or two later. People are drifting out to go down
+text: the corridor to the morning news conference. James is one
+text: of the last to leave. On his way out he meets Charles,
+text: the newsreader from Scene two.
+speaker_heading: JAMES
+dialog: Charles! I didn't know you were
+dialog: back. Have a good holiday?
+speaker_heading: CHARLES
+dialog: Not too bad, thanks. How have you
+dialog: been?
+speaker_heading: JAMES
+dialog: Working hard on that book I was
+dialog: telling you about. Coming to the
+dialog: meeting?
+speaker_heading: CHARLES
+dialog: I'm not sure I can face it.
+speaker_heading: JAMES
+dialog: Keep me company.
+scene_heading: INT. CORRIDOR - EARLY MORNING
+text: James steers Charles out of the newsroom and along the
+text: corridor. Only slowly does it become apparent that Charles
+text: is in a state of distress.
+speaker_heading: JAMES
+dialog: How's Mary?
+speaker_heading: CHARLES
+dialog: She's fine. Well, actually we've
+text: broken up. It's all over.
+speaker_heading: JAMES
+dialog: No. That's terrible, Charles.
+dialog: What happened?
+speaker_heading: CHARLES
+dialog: (on the edge of
+dialog: tears)
+dialog: Look, I'd rather you didn't ask me
+dialog: questions. I can't talk about it.
+text: They have reached the News Conference Room, but Charles
+text: walks on down the corridor to nurse his grief out of sight.
+scene_heading: INT. NEWS CONFERENCE ROOM - MORNING
+text: The News Conference Room. Ten minutes later. The same
+text: Editor. The same matter-of-factness and slight boredom.
+speaker_heading: EDITOR
+dialog: ....as it happens they got all
+dialog: their facts wrong anyway. I checked
+dialog: up. We reported the big peace
+dialog: march on Hyde Park last October,
+dialog: and a march on NATO headquarters
+dialog: in the spring, and the death of
+dialog: whatsisname last month, the old
+dialog: CND man...
+text: He looks round. It is not clear that anyone is listening.
+speaker_heading: EDITOR
+dialog: What really gets to them, though
+dialog: they'll never admit it, these types,
+dialog: is that we give both sides, theirs
+dialog: and the government's.
+text: Multilateralists and unilateralists.
+dialog: Hawks and doves. As far as they're
+dialog: concerned, there's only one side
+dialog: to the question. Nuclear weapons
+dialog: are bad. Full stop. End of
+dialog: discussion. Anyone who says there's
+dialog: more to it than that is... what
+dialog: was it...
+dialog: (He picks up a
+dialog: newspaper cutting)
+dialog: 'Under cover of an authoritative
+text: news service, propagating a military
+dialog: definition of reality.'
+text: He pauses, relaxes into professional indifference.
+speaker_heading: EDITOR
+dialog: Still. With the party conferences
+dialog: coming up in the autumn there's
+dialog: bound to be some action on that
+dialog: front and we'd be doing something
+dialog: anyway. It won't all be Falklands
+dialog: business. James, is there something
+dialog: in there for us, if we could tie
+dialog: it in with something else?
+speaker_heading: JAMES
+dialog: Well, it's all a bit cranky and
+dialog: small scale. Vegetarians, hippies,
+text: disturbed housewives. Local radio
+dialog: story, I'd say, if that. They're
+dialog: mad.
+speaker_heading: EDITOR
+dialog: Oh well. Just an idea. Now. Can
+dialog: we talk about this radio-car cock-
+dialog: up yesterday. Chris?
+scene_heading: INT. NEWSROOM STUDIO - LATE MORNING.
+text: Two hours later. The studio. James and Charles sit at
+text: the table, as in Scene Three. Charles reads. He is
+text: obviously distressed but his voice remains under control.
+text: James watches anxiously.
+speaker_heading: CHARLES
+dialog: It was an emotional occasion.
+text: Hundreds of small craft led by six
+text: fire tugs making fountains of water
+dialog: formed an escort flotilla, and
+text: four Wasp helicopters flew past in
+dialog: salute. In the City the Financial
+dialog: Times Ordinary Shares Index was
+dialog: down ten points an hour ago at
+text: 529.8. BBC Radio News.
+text: In the Control Room, the minute hand of the clock reaches
+text: five past the hour; the sweep hand reaches the twelve on
+text: Charles's last word. The Controller pushes a button.
+text: Charles slumps forward.
+speaker_heading: JAMES
+dialog: My God that was close! Well done,
+dialog: Charles. I knew you wouldn't let
+dialog: me down. But God! We almost didn't
+dialog: make it.
+text: James is standing, gathering papers. He bustles out,
+text: indifferent. We CLOSE IN on Charles. Unseen by anyone,
+text: he is just beginning to cry.
+scene_heading: INT. JAMES'S FLAT - EVENING
+text: James is typing rapidly. There is a growing pile of
+text: typewritten sheets to one side. We go over his shoulder
+dialog: and look closely at the map, Egypt, the desert . . .
+scene_heading: EXT. THE BARRINGTON HOUSE, NORFOLK - LATE MORNING
+text: A few days later. James has just arrived and switched his
+text: engine off. But for the wind and birdsong, silence. There
+text: is no reply when he tries the front door. A note pinned
+text: to the door reads: 'Gone for a walk. Follow footpath.
+dialog: Susan.'
+scene_heading: EXT. DYKE - DAY
+text: James walks along the dyke, across the marshes. Below
+text: him, on the sand, in the distance, are two figures. James
+text: stops to watch them. Matthew and Susan are deep in
+text: conversation  evidently a serious matter. They seem to
+text: be making an agreement. Matthew puts his head on Susan's
+text: shoulder, and they walk on, unaware of James.
+scene_heading: INT. DINING-ROOM - NIGHT
+text: A burst of laughter. It is dinner. Seated are Ann,
+text: Matthew, Tom, Susan, James and JACEK, a professor from
+text: Central Europe, mid-sixties, an old friend of Ann's. Betty,
+text: the housemaid, serves.
+speaker_heading: JACEK
+dialog: (heavy accent)
+dialog: The second is less pleasant. A
+text: Pole is confronted by a German and
+dialog: a Russian soldier. Which should
+dialog: he shoot first? The German first,
+dialog: the Russian second. Duty before
+dialog: pleasure.
+text: A more subdued response.
+speaker_heading: TOM
+dialog: I've heard that one at school.
+speaker_heading: JACEK
+dialog: Then you are a well-educated young
+dialog: man.
+dialog: (to Ann)
+text: Tom has been reciting his English
+dialog: kings and queens to me.
+speaker_heading: JAMES
+dialog: And to me.
+speaker_heading: JACEK
+dialog: Haven't you socialist historians
+dialog: in the West made kings and queens
+dialog: out of date in schools?
+speaker_heading: ANN
+dialog: We keep trying.
+speaker_heading: MATTHEW
+dialog: I can tell you that the history of
+dialog: the monarchy is alive and well in
+dialog: the national memory. I shot a
+text: commercial - a series of vignettes
+dialog: of kings and queens  Henry VIII,
+dialog: Mary 
+speaker_heading: TOM
+dialog: Elizabeth I.
+speaker_heading: MATTHEW
+dialog: Elizabeth I, and so on - and we
+dialog: had a fantastic response.
+speaker_heading: SUSAN
+dialog: What were you advertising?
+speaker_heading: MATTHEW
+dialog: Oh, some new lager.
+speaker_heading: JACEK
+dialog: I'm pleased to hear that there is
+dialog: at least some national memory. I
+dialog: agree with Ann that the British
+dialog: forget too quickly. Here you have
+dialog: enviable freedoms, and yet no
+dialog: monuments to those who struggled
+dialog: to win them for you. Now that is
+dialog: why I think there is hope for the
+dialog: Poles, whoever occupies their
+dialog: country. They remember their dates,
+dialog: and they keep adding to them.
+dialog: December 1981, Gdansk 1980, 1976,
+dialog: 1970. Katyn 1940, 1922 and so on.
+dialog: It's a subversive list. Say it
+text: out loud on the streets of Warsaw
+dialog: and you might get arrested.
+dialog: During this last speech of Jacek's we SEE James trying to
+text: catch Susan's eye. She glances up and looks away.
+scene_heading: INT. STAIRS - NIGHT
+text: An hour later.
+text: Wine glass in hand James goes upstairs. He comes to Tom's
+dialog: room.
+scene_heading: INT. TOM'S ROOM - NIGHT
+text: Susan has been seeing Tom into bed. James watches from
+text: the doorway. She kisses her brother and turns out the
+text: light.
+speaker_heading: TOM
+dialog: Don't close the door. Don't turn
+text: out the hall light.
+speaker_heading: SUSAN
+dialog: I won't. Goodnight.
+speaker_heading: TOM
+dialog: 'Night.
+text: James and Susan linger in the semi-darkness outside Tom's
+text: room. From downstairs comes the sound of boisterous
+dialog: conversation.
+speaker_heading: JAMES
+dialog: I haven't seen much of you.
+speaker_heading: SUSAN
+dialog: No. It's a bit of a madhouse.
+dialog: For some reason a lot of my mother's
+text: friends specialise in monologues.
+speaker_heading: JAMES
+dialog: He's all right, the professor.
+text: Tom comes out of his room.
+speaker_heading: TOM
+dialog: Ah, Susy, it...
+speaker_heading: SUSAN
+dialog: Tom . .. bed! Go on.
+text: Tom retreats into his bedroom. James and Susan move to
+text: the head of the stairs.
+speaker_heading: JAMES
+dialog: Look, will you come on a walk with
+dialog: me tomorrow?
+speaker_heading: SUSAN
+dialog: I might.
+speaker_heading: JAMES
+dialog: Might?
+speaker_heading: ANN (O.S.)
+dialog: (calling from below)
+dialog: Susan, James, are you up there?
+speaker_heading: SUSAN
+dialog: Hello, Mummy.
+text: Ann comes half-way up the stairs.
+speaker_heading: ANN
+dialog: Betty's made some coffee. Do you
+dialog: want some?
+speaker_heading: SUSAN
+dialog: Yes, we do.
+speaker_heading: ANN
+dialog: Well, we're in the library.
+text: Ann lingers a moment. She wants James downstairs. As
+text: soon as she has gone, he kisses Susan.
+speaker_heading: JAMES
+dialog: Might?
+speaker_heading: SUSAN
+dialog: (Strokes his face)
+dialog: Yes. Might. Remember, you're
+dialog: here to talk to my mother.
+text: She leads the way downstairs.
+scene_heading: INT. LIBRARY - NIGHT
+text: The library. A fire burns. Ann pours the coffee and is
+text: highly aware of James when he comes in. Jacek is a little
+dialog: drunk.
+speaker_heading: JACEK
+dialog: Ah, Susan, James. Come and judge.
+dialog: I am interrogating Matthew. I am
+dialog: asking him how a director of
+dialog: advertisements and a socialist get
+dialog: along so well together. How does
+text: the lion lie down with the lamb.
+speaker_heading: ANN
+dialog: By staying in town all week. And
+text: lying down with several lambs.
+speaker_heading: MATTHEW
+text: Not so. We meet half way. Ann
+dialog: has grown very fond of her material
+dialog: comforts. She even owns land with
+dialog: keep out signs posted on the
+dialog: boundaries. And I...
+speaker_heading: ANN
+dialog: (wearily, to James)
+dialog: I bought a wood because a local
+dialog: farmer was going to cut it down.
+text: The signs were already there.
+speaker_heading: JACEK
+dialog: And you...
+speaker_heading: MATTHEW
+dialog: I earn so much money at what I do
+dialog: that I can't even begin to defend
+dialog: it. I used to shoot a whole line
+dialog: about the value and necessity of
+dialog: advertising...
+speaker_heading: ANN
+dialog: You were more interesting then.
+speaker_heading: MATTHEW
+dialog: ...but now I'm an agnostic. So is
+dialog: Ann, if she'd only admit it.
+speaker_heading: ANN
+dialog: Come on, James. Defend me from
+dialog: this tripe.
+text: Expectant pause. Susan smirks. James is out of his depth.
+speaker_heading: JAMES
+dialog: Well, there's no reason why a
+dialog: socialist shouldn't like comfort,
+dialog: or own a wood, or be very rich.
+dialog: The problem is making all that
+dialog: available to everybody ...
+text: All except Ann groan dismissively.
+speaker_heading: MATTHEW
+dialog: Rubbish!
+speaker_heading: JACEK
+dialog: Ah, if everybody is to have
+dialog: everything, then you need to plan
+dialog: very carefully, you need to control
+dialog: the future. This is the tragedy
+dialog: of Marxism. The future is not
+dialog: ours to control, nothing turns out
+dialog: as we plan it.
+dialog: (to Ann)
+dialog: You remember that charming note of
+dialog: Enzensberger's, Spanish anarchists
+dialog: in 1898 looked forward to a glorious
+dialog: future after the revolution  a
+dialog: world of incredibly tall shining
+dialog: buildings, with elevators that
+dialog: would save climbing stairs, electric
+dialog: light for all, garbage disposal
+dialog: chutes and wonderful household
+text: gadgets. This vision is now a
+dialog: reality in our cities, the victory
+dialog: has been won and it looks just
+dialog: like defeat. ..
+text: Susan yawns conspicuously. Everybody turns.
+speaker_heading: SUSAN
+dialog: (unrepentant)
+dialog: Sorry. Tired.
+scene_heading: INT. KITCHEN - MORNING
+text: The following morning. If possible, a beautiful day.
+text: Betty is washing up a large pile of breakfast things.
+text: From outside, the sound of much hilarity.
+scene_heading: EXT. GARDEN - MORNING
+text: On the back lawn Tom, Susan and Matthew are playing
+text: football. To one side, Jacek leans on his stick and
+dialog: watches.
+scene_heading: INT. LIBRARY - MORNING
+text: The library. Ann and James sit facing each other by the
+text: fireplace. The game of football can be heard. From where
+text: James sits he can see past and into the gardens, the
+text: occasional glimpse of Susan, the enticing sunlight.
+speaker_heading: ANN
+dialog: The references are to Hansard or
+dialog: to newspapers. I haven't got the
+dialog: actual speeches now. You'll have
+text: to chase them up.
+speaker_heading: JAMES
+dialog: I will, thanks.
+speaker_heading: ANN
+dialog: These are transcripts of various
+dialog: radio broadcasts, including
+dialog: Gaitskill's, the one they tried to
+dialog: stop. You ought to have that ...
+text: Betty knocks and enters.
+speaker_heading: BETTY
+dialog: Excuse me. Phone call for Mr
+dialog: Penfield.
+speaker_heading: ANN
+dialog: Take it here.
+speaker_heading: JAMES
+dialog: Thanks. Hello... how did you get
+dialog: this number? I see. Look, I'm
+dialog: really sorry about last week, I...
+dialog: no, I'm up here researching
+dialog: something I... is she?.. . well,
+dialog: don't they have painkillers for
+dialog: that?... Oh, yeah... Look, tell
+dialog: her 111 be there... I can't just
+dialog: drop everything. It'll probably
+dialog: be the day after tomorrow...
+dialog: Right... Ok... yes, goodbye.
+dialog: (to Ann)
+dialog: It's a relative of mine. She's
+dialog: not very well.
+dialog: (He sits down again)
+dialog: I'm sorry. What were you saying?
+scene_heading: EXT. GARDEN - DAY
+text: A couple of hours later. Susan sits on a bench re-tying
+text: the lace of her walking boot. James stands, waiting.
+speaker_heading: SUSAN
+dialog: Jeremy phoned this morning
+speaker_heading: JAMES
+dialog: What did he want?
+speaker_heading: SUSAN
+dialog: He's making plans for Brighton.
+dialog: He thought we could travel down
+dialog: together.
+speaker_heading: JAMES
+dialog: That'll be fun
+speaker_heading: SUSAN
+dialog: In your car
+speaker_heading: JAMES
+dialog: Why not.
+text: Ann appears from the house. Tom follows.
+speaker_heading: ANN
+dialog: Hello. Anyone for a walk? Tom
+dialog: isn't, I can tell you.
+speaker_heading: JAMES
+dialog: Well, we were just...
+speaker_heading: SUSAN
+dialog: Don't you want to walk, Tom?
+speaker_heading: TOM
+dialog: No.
+speaker_heading: SUSAN
+dialog: Actually, I've been once today
+dialog: already. I'll stay here with him.
+speaker_heading: ANN
+dialog: James and I have been indoors all
+dialog: morning.
+speaker_heading: SUSAN
+dialog: Well, he's very keen to go.
+text: She walks with Tom towards the house.
+speaker_heading: JAMES
+dialog: Susan...
+text: Holding Tom's hand, she turns and smiles.
+speaker_heading: SUSAN
+dialog: See you when you get back.
+text: James has been quickly outmanoeuvred by Susan. He stands
+text: awkwardly for a moment, collecting himself.
+speaker_heading: ANN
+dialog: Shall we go?
+speaker_heading: JAMES
+dialog: Yes.
+scene_heading: EXT. DYKE - DAY
+text: The dyke across the marshes, the sand dunes, the sea.
+text: During Ann's monologue (broken up where appropriate) we
+text: SEE the two sometimes IN CLOSE, sometimes as MINUTE FIGURES
+text: in this immense landscape.
+text: James follows Ann along the dyke. They stop and she points
+text: out a wooded hill, well inland. Later...
+speaker_heading: ANN
+dialog: Then I began to listen to what the
+dialog: well-off were saying about the
+dialog: poor now  the war had just ended,
+dialog: and the language was much the same
+dialog: as it had been before the first
+dialog: Reform Act. A small minority
+dialog: thought that England was really
+dialog: theirs, they had made it, they
+dialog: owned it. The rest, the wage
+dialog: earners, were foreigners, outsiders
+text: intent on wrecking it all.
+speaker_heading: JAMES
+dialog: Didn't Evelyn Waugh say that the
+dialog: country under Atlee seemed to be
+dialog: under enemy occupation?
+speaker_heading: ANN
+dialog: Did he? I left school and worked
+dialog: for the Labour Party. My older
+dialog: brother, George, had just been
+dialog: killed in Greece, and he'd been an
+dialog: active member. I hero-worshipped
+dialog: him. He was 25 years old ...
+dialog: (she trails off)
+dialog: It was an exciting time for us,
+dialog: those first couple of years after
+dialog: the war. We thought the country
+dialog: was about to become a true
+dialog: democracy. I can understand why
+dialog: people of your generation want to
+dialog: write about that time. They feel
+text: betrayed. They want to know what
+dialog: went wrong.
+speaker_heading: JAMES
+dialog: What went wrong?
+speaker_heading: ANN
+dialog: Oh, many things. Inertia ... Stalin
+dialog: and the Cold War... a failure of
+dialog: nerve. We took the seediest, most
+dialog: inefficient fifth of the economy
+dialog: into State care, paid out millions
+dialog: for it, put the same old duffers
+text: in charge. A new broom with very
+text: old bristles. When the Tories
+dialog: were returned, I went and sat in
+dialog: the BM and wrote my little book on
+dialog: Chartism.
+text: Later. Walking home
+speaker_heading: ANN.
+dialog: I don't like admitting it, but the
+dialog: truth is, I am happy. Matthew's
+dialog: right. I like comfort. I like
+dialog: doing my own work and not having
+dialog: to teach. I love my house and the
+dialog: garden, and my wood.
+dialog: (she stops)
+dialog: And I'm very happy walking here
+dialog: with you. (She takes his hand.)
+dialog: You have such a quiet, strong sense
+dialog: of purpose. Energy. I think I'll
+dialog: rely on you to take the
+text: uncomfortable stands in life.
+dialog: I've done my bit.
+text: They smile at each other.
+text: Ann moves in to kiss James passionately. He complies.
+text: A jet fighter flies in low over the marshes.
+scene_heading: INT. DRAWING-ROOM - EVENING
+text: Susan and Tom, who wears pyjamas and dressing-gown, are
+text: playing Chess. James watches Susan. Tom is noisily,
+text: bossily instructing her in the rules. Matthew is
+text: approaching James, about to speak.
+speaker_heading: MATTHEW
+dialog: I just might give you a ring when
+dialog: we get back to London. There's
+dialog: one or two things I'd like to...
+dialog: Will you let me have your number
+dialog: before you leave? Have you ever
+dialog: watched a commercial being made?
+speaker_heading: JAMES
+dialog: No.
+speaker_heading: MATTHEW
+dialog: Well, it's worth seeing.
+text: Ann appears in the doorway.
+speaker_heading: ANN
+dialog: James...
+text: There is a moment of awkwardness. James squeezes past
+text: Matthew and goes towards Ann.
+speaker_heading: JAMES
+dialog: Excuse me.
+scene_heading: INT. LIBRARY - EVENING
+text: The library. A moment later. James has just come in.
+text: Ann hands him a silver framed photograph.
+speaker_heading: ANN
+dialog: I wanted to show you. It was taken
+dialog: six months before he died.
+dialog: The resemblance between James and the dead brother should
+text: be clear. James studies the photograph. He looks up.
+text: Ann is gazing at him steadily.
+scene_heading: INT. DINING-ROOM - NIGHT
+text: Half an hour later. Ann, Matthew, Susan and James. A
+text: certain strain. The sound of knives and forks only. In
+text: the hall the PHONE RINGS. They hear Betty pick it up.
+text: Still holding the receiver she pushes open the dining-room
+dialog: door.
+speaker_heading: BETTY
+dialog: (to Matthew)
+dialog: It's for you, Mr Fox.
+text: The others go on eating, acutely aware of Matthew's
+dialog: conversation.
+speaker_heading: MATTHEW
+dialog: (from the hall)
+dialog: Hello... Oh, hi... well, you know...
+text: He pushes the door shut with his foot. James looks at
+text: Susan. Susan glances at her mother. Ann knows it is one
+text: of Matthew's girlfriends. She goes on eating, a brave but
+text: failing attempt to appear untouched.
+scene_heading: INT. JAMES'S BEDROOM - NIGHT
+text: Very late, the same night. From the point of view of an
+text: intruder we move into the room. James is asleep.
+speaker_heading: ANNE'S VOICE
+dialog: (whispers)
+dialog: James... James.
+text: He snaps awake. We SEE what he sees. Ann sits on the
+text: edge of his bed, in tears. She touches his face. She
+text: leans over and embraces him.
+scene_heading: INT. JAMES'S BEDROOM - NIGHT
+text: A little later. The bedside lamp is on. James lies still,
+text: his expression numb. The bedclothes are in disarray. His
+text: bedroom door is just closing.
+scene_heading: INT. NEWSROOM - LATE MORNING
+text: The Newsroom at its busiest, as in Scene One. Linger on
+text: the activity before finding James. He sits writing a report
+text: in longhand, referring to News Agency material. Much
+text: dictating going on around him, so that Philip who sits
+text: across from him has almost to shout to be heard. He has
+text: picked up a phone and is covering the mouthpiece.
+speaker_heading: PHILIP
+dialog: It's that lady from Norfolk again.
+speaker_heading: JAMES
+dialog: I'm not here.
+speaker_heading: PHILIP
+dialog: I'm terribly sorry. He doesn't
+dialog: seem to be here ... No ... Yes, if
+dialog: I see him, I will. .. Goodbye.
+dialog: She's going to phone back.
+speaker_heading: JAMES
+dialog: Next time tell her I've gone away.
+speaker_heading: CHARLES
+dialog: Aha. James giving some woman the
+dialog: old heave-ho.
+speaker_heading: JAMES
+dialog: (rim smile)
+dialog: Exactly that.
+scene_heading: INT. JAMES'S FLAT - EVENING
+text: TIGHT SHOT of Edward on the phone.
+speaker_heading: EDWARD
+dialog: Hello, you don't know me. My name's
+dialog: Edward Long. I'm a friend of James
+dialog: Penfield. He asked me to phone
+dialog: you. I don't know what any of
+dialog: this means, but he said you would
+dialog: understand ... Yes, that's right.
+dialog: He said he's got to go away for a
+dialog: while, and that he'll be writing
+dialog: to you and please don't try and
+dialog: contact him ... Hello?
+text: Pulling away, we see where we are. James sits in a chair
+dialog: reading a magazine. God, that was terrible. Don't ever
+dialog: ask me another favour like that.
+speaker_heading: JAMES
+dialog: You were wonderful. I'm very
+dialog: grateful.
+speaker_heading: EDWARD
+dialog: She hung up. Why couldn't you
+dialog: just write to her?
+speaker_heading: JAMES
+dialog: I will, sooner or later.
+dialog: (standing)
+dialog: Trouble is I hate writing letters.
+dialog: Now, where are we going to eat?
+scene_heading: INT. FILM STUDIO - MORNING
+dialog: What we SEE first is the actual set and only subsequently
+dialog: the surrounding technical apparatus of film-making. We
+text: are suddenly in a deeply contented pre-war middle-class
+text: sitting-room. Guide track: sweet, period music. Dad sits
+text: in an armchair reading a newspaper. A pipe is near at
+text: hand. To one side, a wireless. At his feet, a girl plays
+text: with a doll; a boy plays with a model steam engine.
+text: Mum enters with a tray of steaming hot drinks. As she
+text: sets down the tray on the arm of Dad's chair, the music
+text: peaks and the children half rise and arrange themselves on
+text: either side of Dad's legs. Everyone smiles up at Mum.
+text: Once this has unfolded, we pull back to see the camera
+text: crew, continuity, make-up etc. James is standing to one
+dialog: side watching.
+speaker_heading: MATTHEW
+dialog: And ... cut. Steve?
+speaker_heading: STEVE
+dialog: ((camera-man)
+dialog: Not the best, guv'nor.
+speaker_heading: MATTHEW
+dialog: Right... we'll go again, please.
+text: Matthew to ad lib instructions to actors and crew. He
+text: notices James.
+speaker_heading: MATTHEW
+dialog: James, good, you made it. We're
+dialog: just going to do one more take,
+dialog: then we'll break for lunch.
+text: The commercial is set up and shot again, with Matthew
+text: continuing to give ad libbed directions. As soon as the
+text: take is over, Matthew snatches his jacket, gives a quick
+text: kiss to a young woman who could well be his current lover,
+text: and steers James out of the studio.
+speaker_heading: MATTHEW
+dialog: Right, James. Come on. Let's go
+dialog: before the clients get hold of me.
+scene_heading: INT. PUB - DAY
+text: Lunch time. Matthew stands at the bar where he is buying
+text: drinks and lunch. Then the two men sit at a small table
+text: face to face.
+speaker_heading: MATTHEW
+dialog: I'll tell you another thing. We
+dialog: might have led the world once into
+dialog: the Industrial Revolution, now we
+text: lead with television commercials.
+dialog: We're the best, it's as simple as
+dialog: that. Even the Americans will
+dialog: admit it now ... the camera work,
+dialog: the acting, the scripts, special
+dialog: effects. We've got the lot. Nearly
+dialog: all the good directors here have
+dialog: ambitions to make serious films.
+dialog: (a sudden laugh)
+dialog: That food you're eating.
+speaker_heading: JAMES
+dialog: Yes.
+speaker_heading: MATTHEW
+dialog: What would you call it?
+speaker_heading: JAMES
+dialog: I dunno. Ploughman's Lunch.
+speaker_heading: MATTHEW
+dialog: Ploughman's Lunch. Traditional
+dialog: English fare.
+speaker_heading: JAMES
+dialog: U-huh.
+speaker_heading: MATTHEW
+dialog: In fact it's the invention of an
+dialog: advertising campaign they ran in
+dialog: the early sixties to encourage
+dialog: people to eat in pubs. A completely
+dialog: successful fabrication of the past,
+text: the Ploughman's Lunch was.
+text: We look at James's plate, the unappetising food. Matthew
+text: takes a long drink.
+speaker_heading: MATTHEW
+dialog: Listen, James. There's something
+dialog: else I want to talk to you about.
+text: Matthew pauses.
+speaker_heading: MATTHEW
+dialog: I'm pretty broadminded, and I'd
+dialog: rather be frank than have everybody
+dialog: misunderstanding one another. If
+dialog: you see what I mean.
+dialog: James does not.
+speaker_heading: MATTHEW
+dialog: Susan told me that your visits to
+dialog: Norfolk had ... well, an ulterior
+dialog: motive.
+speaker_heading: JAMES
+dialog: She said that?
+speaker_heading: MATTHEW
+dialog: You weren't really interested in
+dialog: Suez at all. Incredibly enough,
+dialog: you were interested in my wife.
+speaker_heading: JAMES
+dialog: Now listen...
+speaker_heading: MATTHEW
+dialog: No, no, let me go on before you
+dialog: get the wrong idea. Ann and I
+dialog: have kept to our separate bedrooms
+dialog: for the last three years. And I
+dialog: can't imagine that Susan hasn't
+dialog: hinted at the kind of life I lead
+dialog: in London. I'm not telling you
+dialog: how to run your affairs. I'm just
+dialog: saying ... I don't mind. I'm giving
+dialog: you permission.
+dialog: 
+text: We are CLOSE IN on James's reaction.
+scene_heading: INT. JAMES'S CAR - EARLY MORNING
+text: James drives towards Susan's flat. Jeremy sprawls in the
+text: back seat, slowly peeling the foil from a champagne bottle.
+text: Both are well-dressed. As they draw up outside Susan's
+text: flat, Jeremy leans forward and murmurs in James's ear.
+speaker_heading: JEREMY
+dialog: Still in love?
+speaker_heading: JAMES
+dialog: I'm not sure.
+text: He presses the horn and gets out. Jeremy gets out too.
+text: Susan comes down the steps. She is also smartly dressed.
+text: She kisses James. He takes her small suitcase and puts it
+text: in the boot. She kisses Jeremy.
+speaker_heading: JEREMY
+dialog: Darling Susan. You look like an
+dialog: angel. But where's your hat?
+speaker_heading: SUSAN
+dialog: Oh no!
+speaker_heading: JEREMY
+dialog: They won't let you in without one.
+text: James hands Susan into the front seat.
+speaker_heading: JEREMY
+dialog: Brighton, James!
+scene_heading: EXT. LONDON STREET - DAY
+text: The car slips through the London traffic.
+scene_heading: INT. JAMES'S CAR - DAY
+text: In the car, a few minutes later. Much hilarity. Susan is
+text: holding a glass ready as Jeremy eases out the cork.
+speaker_heading: SUSAN
+dialog: Don't point it at James!
+speaker_heading: JEREMY
+dialog: Voila!
+text: The cork flies. The champagne is poured. Susan hands a
+dialog: glass to James.
+speaker_heading: JEREMY
+dialog: To the ninety-ninth conference of
+dialog: the National Union of Conservative
+dialog: and Unionist Associations!
+text: All repeat the toast with various stumbling inaccuracies.
+scene_heading: INT. CAR PARK, BRIGHTON - DAY
+text: James drives into a multi-storey car park. Jeremy gets
+text: out of the car and goes to look at the view which is of
+text: modern office developments.
+speaker_heading: JEREMY
+dialog: Hah - the seaside! Isn't it
+dialog: heavenly!
+text: Susan joins Jeremy.
+speaker_heading: SUSAN
+text: Gorgeous.
+text: Jeremy is taking out his Press Pass and pinning it to his
+dialog: lapel.
+speaker_heading: SUSAN
+dialog: What have you got there?
+speaker_heading: JEREMY
+dialog: You'd look naked without one.
+speaker_heading: SUSAN
+dialog: Oh, yes! Where's mine? I want to
+dialog: look like you.
+text: James joins them. There follows a little charade of mock
+dialog: sympathy.
+speaker_heading: SUSAN
+dialog: What about James?
+text: Jeremy and Susan chorus a sympathetic moan.
+speaker_heading: JEREMY
+dialog: We'll see what we can do.
+speaker_heading: SUSAN
+dialog: Promise?
+speaker_heading: JEREMY
+dialog: Promise.
+scene_heading: EXT. BRIGHTON PROMENADE - DAY
+text: James, Jeremy and Susan walk along the promenade and cross
+text: the road towards the Grand Hotel. The Conference Centre
+text: is visible and so too are the POLICE and DEMONSTRATORS.
+text: Jeremy has linked arms with Susan. James lags behind a
+text: little. Jeremy tells a joke, barely audible above the
+text: SOUND of TRAFFIC and the CHANTS of the PROTESTORS. Susan
+text: giggles as she and Jeremy skip forward to dodge the traffic.
+scene_heading: INT. LOBBY, GRAND HOTEL - DAY
+text: The lobby is crowded with DELEGATES, MPs, PRESS and TV
+speaker_heading: PEOPLE.
+speaker_heading: JEREMY
+dialog: There goes my deep throat. Excuse
+dialog: me.
+text: Jeremy darts away. Susan is looking about her.
+speaker_heading: JAMES
+dialog: Shall we have a drink or something?
+speaker_heading: SUSAN
+dialog: Oh ... excuse me. There's Nicholas.
+text: James is left.
+scene_heading: EXT. HOTEL BALCONY - AFTERNOON
+text: DELEGATES and MPs, and MEDIA PEOPLE, are taking tea on the
+text: long balcony of the Grand Hotel. Jeremy is interviewing
+text: an MP. James and Susan sit at the same table listening.
+speaker_heading: JEREMY
+dialog: Then, the theory goes, you'll be
+text: back in favour. In line for a
+dialog: real job. Is that right?
+speaker_heading: MP
+dialog: Well, it's a theory ... interesting.
+dialog: Oh, excuse me, there's Willy.
+text: The MP makes off.
+speaker_heading: JEREMY
+dialog: I want to see him too.
+text: Jeremy leaves. James comes and sits closer to Susan.
+speaker_heading: JAMES
+dialog: We don't seem to get much time to
+dialog: talk.
+speaker_heading: SUSAN
+dialog: I know. I'm sorry.
+text: An announcement comes through on the hotel's P.A.
+speaker_heading: ANNOUNCER'S VOICE (O.S.)
+dialog: Miss Susan Barrington, Miss Susan
+dialog: Barrington. A phone call for you.
+text: Susan makes a half-hearted apologetic gesture and leaves.
+text: As she goes she passes Jeremy who holds a Press Pass for
+text: James. He kneels by James's chair and pins the card to
+text: his lapel.
+speaker_heading: JEREMY
+dialog: General Sir James Penfield ...
+dialog: services during the Norfolk
+dialog: campaign.
+scene_heading: EXT. CONFERENCE CENTRE - LATE AFTERNOON
+text: The three walk towards the Conference Centre, along the
+text: gauntlet of PROTESTORS and ONLOOKERS. Among them are Carmen
+text: and Betty, holding a placard which says 'Women's Peace
+text: Camp'. They catch sight of James. Some puzzled
+text: recognition. James hurries away from the women and through
+text: the doors into the Centre.
+scene_heading: INT. PRESS BALCONY, CONFERENCE CENTRE - DAY
+text: James, Susan and Jeremy come onto the Press balcony and
+text: find their seats while FRANCIS PYM delivers a speech.
+speaker_heading: PYM
+dialog: It was they who rebuffed aggression,
+dialog: they who struck such a powerful
+dialog: blow for democracy .. .
+speaker_heading: JAMES
+dialog: (to Susan)
+dialog: I managed to book us a table at
+dialog: Wheelers.
+speaker_heading: PYM
+dialog: I believe this will prove of wider
+dialog: significance even than the event
+dialog: itself. We were seen to be fighting
+dialog: to defend principles which are
+dialog: fundamental to free nations
+dialog: everywhere, and our reputation has
+dialog: been enhanced as a result.
+speaker_heading: JEREMY
+dialog: (to Susan)
+dialog: Francis is in cracking form, don't
+dialog: you think?
+scene_heading: INT. BAR - EARLY EVENING
+text: James, Jeremy and Susan. Journalists, delegates etc.
+speaker_heading: SUSAN
+dialog: (triumphant, excited)
+dialog: It was incredible. He came back,
+dialog: made a pompous little bow and said,
+dialog: 'My dear girl you may film me all
+dialog: afternoon if you wish.' And he's
+dialog: promised not to talk to the Press.
+speaker_heading: JEREMY
+dialog: It's because he desires you. The
+dialog: women get all the breaks at these
+dialog: conferences.
+speaker_heading: SUSAN
+dialog: It's true! I was here last year
+dialog: doing a piece, remember? I was in
+dialog: the bar with all these Northern
+dialog: trade unionists and their sponsored
+dialog: MPs. They were all incredibly fat
+text: and beery, huge trousers and braces.
+dialog: And so sweet. They all stood round
+dialog: me like children saying 'You!
+dialog: Working for television? You're
+dialog: just a young thing.' They wouldn't
+dialog: let me buy drinks even when I told
+dialog: them the programme was paying.
+dialog: They kept looking at my pass which
+dialog: was pinned here and saying
+dialog: (Mock Yorkshire.)
+dialog: 'Oo, can I?'
+speaker_heading: JEREMY
+dialog: Then one of them was sick all over
+dialog: your new dress.
+speaker_heading: SUSAN
+dialog: No, he wasn't. He just lowered
+text: himself into a bar stool and said...
+dialog: (Yorkshire)
+dialog: 'Oo I do feel bad. I 'ad three
+dialog: pints of lager and six onion
+dialog: bajees!'
+text: They all laugh.
+speaker_heading: SUSAN
+dialog: I've got to go. See you at dinner.
+text: She kisses them both. They watch her go. Their different
+dialog: expressions.
+speaker_heading: JEREMY
+dialog: Six onion bajees! Great girl.
+dialog: (then, confidential)
+dialog: Did you shake the mother off?
+speaker_heading: JAMES
+dialog: Yes, finally.
+speaker_heading: JEREMY
+dialog: Big mistake, I think. You might
+dialog: have learned a lot.
+speaker_heading: JAMES
+dialog: (sudden)
+dialog: Are you up to something?
+text: Jeremy shrugs innocently and shows his empty hands.
+scene_heading: INT. CONFERENCE CENTRE - DAY
+text: James wanders through the Centre in search of Susan. He
+text: enters the debating chamber. MICHAEL HESELTINE is
+text: addressing the Conference. James wanders out to the space
+text: below the platform where journalists and photographers are
+text: gathered. He goes up the aisles between the seated
+text: delegates. No sign of Susan. He leaves the chamber.
+speaker_heading: HESELTINE
+dialog: ....left-wing councils employ labour
+dialog: candidates in the paid voluntary
+dialog: sector. We now face a professional
+dialog: left financed at the ratepayer's
+dialog: and tax payer's expense! Just
+dialog: more money is not a solution in
+dialog: itself. As we have given more
+dialog: money to the professional left...
+scene_heading: INT. LOBBY, CONFERENCE CENTRE. DAY
+text: Much later. James crosses the crowded lobby, still in
+dialog: search of Susan.
+scene_heading: INT. STAIRS, CONFERENCE CENTRE - DAY
+text: James climbs the stairs to the Press balcony. He hears
+text: Mrs Thatcher's voice, and from the street below, the
+text: chanting of protestors.
+speaker_heading: THATCHER (O.S.)
+dialog: This is not going to be a speech
+dialog: about the Falklands campaign,
+dialog: although I would be proud to make
+dialog: one. But I want to say just this
+dialog: because it is true for all our
+dialog: people.
+scene_heading: INT. PRESS BALCONY - DAY
+text: James passes through the doors and finds a seat.
+speaker_heading: THATCHER
+dialog: The spirit of the South Atlantic
+dialog: was the spirit of Britain at her
+dialog: best. It has been said that we
+dialog: surprised the world, that British
+dialog: patriotism was rediscovered in
+dialog: those spring days. Mr President,
+dialog: it was never really lost!
+text: James suddenly notices Susan down on the lower floor. She
+text: passes through the doors and is gone. James gets to his
+dialog: feet.
+speaker_heading: THATCHER
+dialog: But it would be no bad thing if
+dialog: the feeling that swept over the
+dialog: country then were to continue to
+dialog: inspire us. But if there was any
+dialog: doubt about the determination of
+dialog: the British people...
+text: Jeremy and Susan come through the doors onto the Press
+text: balcony. James stops. They have not seen him. He watches
+text: as they stand together. Clearly a new intimacy has been
+dialog: established.
+speaker_heading: THATCHER
+dialog: ... it was removed by men and women
+dialog: who a few months ago brought a
+dialog: renewed sense of pride and self-
+dialog: respect to our country.
+text: Jeremy kisses the nape of Susan's neck. They are not
+text: interested in staying for the speech. James watches stonily
+text: as they leave.
+speaker_heading: THATCHER
+dialog: They were for the most part young.
+dialog: Let all of us here, and in the
+dialog: wider audience outside, pause and
+dialog: reflect...
+text: Numbed, James returns to his seat.
+speaker_heading: THATCHER
+dialog: ...on what we who stayed at home
+dialog: owe to those who sailed and fought
+dialog: and lived and died and won. If
+dialog: this is tomorrow's generation,
+dialog: then Britain has little to fear in
+dialog: the years to come!
+text: Mix to the last sentence of the Prime Minister's speech.
+speaker_heading: THATCHER
+dialog: We will tell the people the truth,
+dialog: and the people will be our judge!
+text: James sits through the standing ovation. The delegates
+text: cheer, Land of Hope and Glory' is sung. James chews his
+dialog: nails.
+scene_heading: INT. CONFERENCE CENTRE - DAY
+text: Hours later. WORKMEN are dismantling the platforms, taking
+text: away props, taking down the Conference backdrop and slogans.
+text: In LONG-SHOT we SEE Jeremy making his way between the rows
+text: of chairs. James pursues him enraged, shouting. The ad
+text: libbed obscenity can barely be heard.
+scene_heading: EXT. BRIGHTON SEA FRONT - DUSK
+dialog: James and Jeremy.
+text: James's rage is spent. It has collapsed into bitterness.
+text: The two men stop under a street lamp.
+speaker_heading: JEREMY
+dialog: Susan and I are very old friends,
+dialog: James.
+speaker_heading: JAMES
+dialog: Fuck off.
+speaker_heading: JEREMY
+dialog: And you were obviously getting
+dialog: nowhere with her. I was waiting
+dialog: for the right moment to tell you
+dialog: that.
+speaker_heading: JAMES
+dialog: My God. You even cooked up that
+dialog: Norfolk trip.
+speaker_heading: JEREMY
+dialog: It might have worked. Really. I
+dialog: would have been delighted for you
+dialog: if it had. But she wasn't
+dialog: interested. Not my fault.
+speaker_heading: JAMES
+dialog: You're a piece of shit
+speaker_heading: JEREMY
+dialog: I've known Susan for more than
+dialog: fifteen years. James, we're old
+dialog: allies.
+text: At this last word, James looks up. Jeremy walks away.
+scene_heading: INT. JAMES'S FLAT - DAY
+text: A few weeks later. We don't see James. We SEE and HEAR
+text: words pounding onto the PAGE. A fury in the typing. The
+text: page is pulled clear. SILENCE. We STAY ON the TYPEWRITER.
+scene_heading: INT. BBC NEWSROOM - DAY
+text: James is leaving in a hurry. He pulls on a thick overcoat,
+text: gathers up some papers, ignores someone who calls after
+text: him as he leaves.
+scene_heading: EXT. LANGHAM PLACE - DAY
+text: James leaves Broadcasting House and walks towards Oxford
+dialog: Circus.
+scene_heading: INT. GOLD'S OFFICE - DAY
+text: Gold stands by his desk as James comes in, pouring two
+text: glasses of wine.
+speaker_heading: GOLD
+dialog: James... I can't begin to tell you
+dialog: how pleased we all are.
+dialog: (he hands James a
+dialog: glass)
+dialog: Congratulations, and I really mean
+dialog: it.
+speaker_heading: JAMES
+dialog: Thank you.
+speaker_heading: GOLD
+dialog: It's everything we wanted. A very
+dialog: good read. A terrific piece of
+dialog: work. So, here's to you and Suez.
+speaker_heading: JAMES
+dialog: And to history.
+text: CLOSE IN, the glasses touch.
+scene_heading: EXT. CEMETARY - DAY
+text: A group of mourners round a grave. A grey day. A priest
+text: reads from the Book of Common Prayer, but his voice is
+text: virtually lost to us. We find James's father, hunched in
+text: his overcoat, face immobile with grief. Next to him, James,
+text: expressionless.
+text: James glances at his watch.
+scene_heading: FREEZE FRAME. OPTICAL ZOOM.
+speaker_heading: THE END
+dialog: 

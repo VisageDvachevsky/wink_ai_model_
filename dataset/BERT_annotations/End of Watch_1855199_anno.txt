@@ -1,0 +1,4171 @@
+speaker_heading: END OF WATCH
+dialog: 
+speaker_heading: END OF WATCH
+speaker_heading: (PRE PRODUCTION)
+dialog: Genre: Action / Drama / Cop
+dialog: Director: David Ayer (Street Kings, Harsh Times)
+dialog: Cast: Jake Gyllenhaal (Source Code, Love and Other Drugs, Prince of Persia:
+text: The Sands of Time, Brothers, Rendition, Zodiac, Jarhead, Proof,
+dialog: Brokeback Mountain)
+dialog: Michael Peja (The Lincoln Lawyer, Battle: Los Angeles, Shooter, World
+dialog: Trade Center, Babel, Crash)
+dialog: Producer: David Ayer (Harsh Times, Training Day)
+dialog: John Lesher
+text: Screenplay: David Ayer (Harsh Times, S.W.A.T., Dark Blue, Training Day, The Fast
+dialog: and the Furious, U-571)
+dialog: Cinematographer: Roman Vasyanov (The Motel Life, Hipsters, Tiski)
+text: This gritty, suspenseful drama follows Los Angeles Police Officers Taylor (Jake Gyllenhaal) and
+text: Zavala (Michael Pefia) as they face off against crack addicts, human traffickers and Mexican drug
+text: cartels in the daily battle for control of the city’s meanest streets. Giving the story a gripping, first-
+text: person immediacy, the action unfolds entirely through footage from the ubiquitous handheld HD
+text: video cameras now commonly used by those on both sides of the law. After each grueling shift, the
+text: partners and best friends return home to their families as husbands and fathers, leaving the
+text: brutality of their jobs behind and making light of the courage it takes to go out into the streets every
+text: day. Despite moments of self-doubt, they prove so effective as a law enforcement team that they
+text: quickly become the targets of Sinaloan drug lords. When word gets out that the top bosses want
+text: Taylor and Zavala “taken care of,’ the partners swear they’ve got each other covered, not realizing
+text: their friendship is about to be tested to its limits. A powerful story of family, friendship, love, honor
+text: and courage, END OF WATCH uses cutting edge technology to create a riveting portrait of the city’s
+dialog: darkest, most violent corners, the cops who risk their lives there every day, and the price they and
+text: their families are forced to pay.
+scene_heading: CHARACTER BREAKDOWN
+dialog: 
+dialog: 
+dialog: Jake Gyllenhaal One of our protagonists, a rookie LAPD Officer and
+text: as Officer Brian loyal partner to Zavala. Brian records his
+dialog: Taylor everything (his police beat and personal life) as an
+dialog: assignment for film class, which is part of his pre-
+dialog: law studies
+dialog: Michael Peiia as One of our protagonists, a macho Latino LAPD
+dialog: Office Mike Officer and loyal partner to Taylor
+dialog: Zavala
+text: Sarge Zavala and Taylor’s protective boss
+text: Officer Van Veteran, burned-out cop known on the force as
+dialog: Hauser the “angriest cop in the World”
+text: Officer Orozco Tough female Mexican cop who works with Taylor
+dialog: and Zavala
+dialog: Captain Reese Beloved Captain who the officers have nicknamed
+dialog: “The Coolest Captain Ever”
+text: Gabby Zavala Zavala’s feisty wife
+dialog: Cindy Zavala Mike’s younger sister
+text: Janet Taylor's girlfriend, whom he marries over the
+dialog: course of the film
+text: Mr. Tre Angry, drunk gangster who fights Zavala
+dialog: Fat Rat, DJ, Gangsters that work with Mr. Tre
+dialog: Blaster, Peant,
+dialog: and Dion
+text: Demon, Wicked, Dangerous gang members of the Curbside Locotes
+text: Big Evil, La La gang. They want to kill Zavala and Taylor
+scene_heading: “END OF WATCH” DIRECTOR'S STATEMENT
+scene_heading: IMPORTANT PLEASE READ
+dialog: 
+dialog: To the reader from the writer and director:
+dialog: 1 would like to help you understand my vision for “End of Watch.” In the simplest terms, this is a
+text: film about two best friends who happen to be policemen. We follow their lives over a period of
+text: several months as they fall in love, have children, get married and otherwise live their lives. The
+text: film also has a strong crime story and plenty of action of great scope. It is a film that will have
+text: something for everyone and touch upon universal themes of friendship, love, honor and courage.
+dialog: These are real people leading real lives.
+dialog: Today’s young people create and consume video media in very different ways. They film their daily
+text: lives and share these videos through social media. It is this novel use of video and the intimacy of
+dialog: reality that I wish to emulate. This film will be shot in many of the same ways that young people
+dialog: create media today. My concept is simple: The characters themselves are placing and operating the
+text: cameras. This creates a very visceral reality, much like watching real dramatic action on the
+dialog: Internet. One could term this method “French New Wave Cinema meets You Tube.”
+dialog: Often “found footage” films are difficult to watch due to excessive camera movement. Please keep
+text: in mind that these will not be shaky, unsteady “Cloverfield” type images. “End of Watch” will be shot
+text: in anormal theatrical resolution using many standard production techniques. Image quality will be
+text: high, the colors will be vibrant and beautiful. The shots will be incredibly lyrical and smooth.
+text: Although the actors will be wearing cameras, the images produced will be much like typical
+text: Steadicam shots, with the same grace and beauty, although from angles before unachievable.
+dialog: 1 am working with camera manufacturers to develop new cameras that will capture the images of
+text: theatrical level quality yet be very small and compact. The extremely small, yet full resolution
+text: cameras will be able to record the drama and action in ways that have not been possible before. In
+dialog: success these new cameras will be nothing short of revolutionary. I believe the techniques used
+dialog: will be groundbreaking unto themselves and will become an important talking point in the release
+dialog: of the film. Of course there will also be standard camera coverage; my intent is to use all tools
+dialog: available to tell this wonderful story. This film will be beautiful, clearly shot and will immerse the
+text: viewer in it’s world in an intimate way.
+text: “End of Watch” will deliver an exciting and fresh viewing experience for audiences of all
+text: backgrounds. There will be nuanced and powerful performances by some of the best actors
+dialog: working today. The audience will see police as they have never seen them, the journey will be
+text: vibrant, fun and exciting. It will have the entertainment value of a “popcorn movie” yet deliver the
+dialog: depth and sophistication of a powerful drama. I hope you enjoy the script and come on this
+dialog: filmmaking journey with me.
+dialog: Kind regards,
+dialog: David Ayer
+dialog: Los Angeles, California
+text: THE SCREEN IS BLACK. THEN...
+text: A CARD FADES IN THAT READS:
+text: WARNING GRAPHIC! FOR COPS ONLY!
+dialog: "What you are going to see consists of actual video shot
+dialog: by real people. Everything happened as you will see it.
+text: Most of this footage is amateur video filmed by the
+dialog: actual officers involved. You will also see official
+dialog: police footage, personal video shot by department
+text: personnel, surveillance video and news footage. This
+dialog: video is personal and private."
+scene_heading: FADE OUT CARD -- THEN A TITLE CARD:
+dialog: "The craaaaziest pursuit ever."
+dialog: [NOTE: These are consumer level titles like something
+dialog: done in Apple iMovie. ]
+scene_heading: EXT. SOUTH CENTRAL L.A. — DAY 1
+text: POV OF A POLICE DASH CAM...
+text: Racing through neighborhood streets chasing an ORANGE
+text: CADILLAC...
+dialog: The card didn't lie because this car chase is INSANE...
+text: The SIRENS are blaring. The ENGINE roars. We hear the
+text: CHATTER of the police radio. Incredible speeds. NEAR
+text: MISSES with other vehicles...
+text: Although we can't see them yet, the driver is MIKE ZAVALA
+text: (24) and his partner DAN TAYLOR (23) rides shotgun.
+speaker_heading: TAYLOR (0.S.)
+dialog: Clear right!
+text: Dan's voice is pumping with adrenaline...
+speaker_heading: TAYLOR (0.S.) (CONT'D)
+dialog: Watch it! Car!
+speaker_heading: ZAVALA (0.S.)
+dialog: I see him.
+text: The cop car swerves around a catering truck.
+speaker_heading: ZAVALA (0.S.) (CONT'D)
+dialog: Rightside? Rightside?!
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: 1
+speaker_heading: TAYLOR (0.S.)
+dialog: Right's clear! Go, go, go!
+text: The orange Cadillac almost hits a pick-up loaded with
+dialog: furniture.
+speaker_heading: ZAVALA (0.S.)
+dialog: Whoa. Dude almost TC'ed.
+dialog: Taylor "calls the pursuit" into the radio. This will go
+text: on the duration of the pursuit.
+speaker_heading: TAYLOR (0.S.)
+dialog: Thirteen-Adam-Nine Eastbound
+text: Thirty Sixth Street passing
+dialog: Waverly.
+text: The Cadillac makes a hard right, disappearing from view,
+text: the cop car turns and we see the Cadillac again.
+speaker_heading: TAYLOR (0.S.) (CONT'D)
+dialog: Thirteen-Adam-Nine. Southbound
+dialog: Raymond Avenue. From Denker.
+speaker_heading: ZAVALA (0.S.)
+dialog: Where's he going?
+speaker_heading: TAYLOR (0.S.)
+dialog: Disneyland.
+text: The Cadillac makes a hard left, the cop car follows,
+text: fishtailing a little.
+speaker_heading: TAYLOR (CONT'D)
+dialog: Watch it.
+dialog: Then:
+speaker_heading: TAYLOR (CONT'D)
+text: He's running the light.
+speaker_heading: ZAVALA
+dialog: Am I clear?!
+speaker_heading: TAYLOR
+dialog: Clear. We're clear. Go for it.
+text: The ENGINE HOWLS and the cop car catches up...
+speaker_heading: ZAVALA
+dialog: Homie can drive.
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: (2) 1
+speaker_heading: TAYLOR
+dialog: You're better. Watch the road.
+text: A slow car blocks their way. Taylor's voice BOOMS OVER
+text: THE PA LOUDSPEAKER...
+speaker_heading: TAYLOR (CONT'D)
+dialog: Pull over. Pull over.
+text: The car doesn't.
+speaker_heading: ZAVALA
+dialog: Pendejo.
+text: The cop car swings into oncoming traffic -- A near miss!
+text: They pass the unyielding driver...
+speaker_heading: TAYLOR
+dialog: I don't see him. There he is!
+text: The Cadillac is more distant. Zavala quickly closes the
+dialog: gap...
+scene_heading: EXT. SOUTH CENTRAL L.A. —- VARIOUS STREETS - CONTINUOUS 2
+dialog: 
+text: And so the chase goes. Turn after turn the Cadillac
+text: fighting like a sportfish at the end of a line, unable to
+dialog: shake the cop car...
+text: Zavala and Taylor shouting over the siren. Tires
+text: SCREECHING...
+dialog: Then...
+text: All the sound fades out. We're just watching the chase
+text: unfold on the dashcam. Hypnotically beautiful...
+scene_heading: TAYLOR'S VOICEOVER
+dialog: I am the police. And I am here to
+dialog: arrest you. You have broken the
+dialog: law. I did not write the law. I
+dialog: may even disagree with the law.
+dialog: But I will enforcement it. I will
+dialog: act professionally and treat you
+dialog: with respect. I also expect to be
+dialog: treated with respect. I will not
+dialog: insult you. I will not brutalize
+dialog: you. I will only use the force
+dialog: necessary to stop you. I will do
+dialog: whatever it takes to place you in
+dialog: custody.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED:
+speaker_heading: TAYLOR'S VOICEOVER (CONT'D)
+dialog: I am prepared to deprive you of
+dialog: your freedom and if necessary your
+dialog: life. I will not hesitate to kill
+dialog: you if you endanger my life or the
+dialog: lives of others. If you run away
+dialog: I will chase you. If you fight me
+dialog: I will fight back. If you shoot
+dialog: at me I will shoot back. You are
+dialog: in this situation because
+dialog: something has gone wrong with your
+dialog: life. Most likely this moment has
+dialog: been a long time coming. As it is
+dialog: unlikely this moment may be an
+text: anomaly in an otherwise decent and
+dialog: law abiding life. I understand
+dialog: that factors in your life have
+dialog: created an easy justification for
+dialog: your actions. Poverty, lack of
+dialog: education, drug abuse, emotional
+dialog: and physical abuse may have
+dialog: conspired to rob you of the
+dialog: ability to obey the law. But many
+dialog: other people have endured and
+dialog: transcended much worse
+dialog: circumstances than the ones which
+dialog: have shaped your life. Yet you
+dialog: have made bad decisions. You are
+dialog: responsible for your behavior.
+dialog: Your actions have made you my
+dialog: responsibility. No matter how you
+dialog: plead, cajole, beg or attempt to
+dialog: stir my sympathies nothing you do
+dialog: will stop me from placing you ina
+text: steel cage with grey bars. By law
+dialog: I am unable to walk away. I ama
+dialog: consequence. I am the unpaid
+dialog: bill. I am fate with a badge and
+text: a gun. Behind my badge is a heart
+dialog: like yours. I bleed, I think, I
+dialog: love. And yes, I can be killed.
+dialog: And although I am but one man, I
+dialog: have thousands of brothers and
+dialog: sisters who are the same as me.
+text: The cop car is now very close to the Cadillac...
+speaker_heading: TAYLOR'S VOICEOVER (CONT’D)
+dialog: They will lay down their lives for
+dialog: me and I them. If you succeed in
+dialog: stopping me, you will not succeed
+dialog: in stopping them.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: (2) 2
+speaker_heading: TAYLOR'S VOICEOVER (CONT’D)
+text: We stand watch together, a thin
+dialog: blue line, protecting the prey
+dialog: from the predators. The good from
+dialog: the bad. We are the police.
+text: SCREEEEECH! -- The sound slams back in full force. The
+text: lyrical, eerie quality of the chase now feels dangerous
+scene_heading: and visceral. SIRENS, SQUEALING TIRES, ROARING
+text: ENGINES...
+scene_heading: EXT. SOUTH CENTRAL L.A. — INTERSECTION — CONTINUOUS 3
+text: The cop car pulls alongside the Cadillac's bumper and
+text: does a "Pit Maneuver." The Cadillac spins out...
+speaker_heading: TAYLOR
+dialog: Good job, Z.
+text: WHAM! -- The Cadillac CRASHES into a phonepole...
+text: SCREECH -- As the cop car slides to a stop right behind
+dialog: it...
+speaker_heading: TAYLOR (CONT'D)
+dialog: Thirteen-Adam-Nine. Code six.
+dialog: Pursuit terminated. Suspect
+dialog: vehicle TC'ed. Twenty three
+dialog: hundred block of, uh, Forty-third
+dialog: Street.
+text: TWO HUGE GANGSTERS instantly spring out of the Cadillac
+text: and OPEN FIRE with handguns...
+scene_heading: TICK-TICK-TICK -- The windshield is hit...
+speaker_heading: ZAVALA
+dialog: Gun! Gun!
+dialog: We HEAR the door's open...
+speaker_heading: TAYLOR
+dialog: Thirteen-Adam-Nine. Officer needs
+text: help. Shots fired.
+text: POP-POP-POP-POP-POP-POP! -- Still OFFSCREEN Zavala and
+text: Taylor are returning fire...
+text: The two HUGE GANGSTERS are hit multiple times and drop...
+text: NOW WE SEE ZAVALA AND TAYLOR -- As they approach the
+text: gangsters, FRAMED IN DASH CAM. Two healthy young men,
+dialog: one White one Latino. Both are pure cop...
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: 3
+text: They kick the guns away from the men. Zavala handcuffs
+text: the dead gangsters. Taylor keys his shoulder mic...
+speaker_heading: TAYLOR (CONT'D)
+dialog: Thirteen-Adam-Nine. Code four.
+text: Both suspects are down.
+text: Requesting supervisor and an RA.
+text: We HEAR the POLICE CHOPPER overhead. The WAIL of a dozen
+text: approaching sirens...
+text: MORE COPS flood into view -- A half dozen arriving units.
+text: The gravity of the shooting now hits Taylor hard...
+speaker_heading: TAYLOR (CONT'D)
+dialog: Holy shit. Holy shit. Holy shit.
+speaker_heading: ZAVALA
+dialog: You okay, partner?
+speaker_heading: TAYLOR
+dialog: Holy shit. Holy shit.
+speaker_heading: ZAVALA
+dialog: Walk it off.
+speaker_heading: TAYLOR
+dialog: I'm good bro. Holy shit.
+text: Zavala makes the "Code 4" to the arriving officers -- The
+dialog: badguys are no longer a danger.
+text: OROZCO, a tough as hell female Mexican cop from the Hood,
+dialog: eyes the dead gangsters...
+speaker_heading: OROZCO
+dialog: ---holy shit...
+scene_heading: SMASH TO BLACK -- THEN A TITLE CARD READS:
+text: "THE CRAAAAZIEST FIGHT EVER."
+scene_heading: INT. MR. TRE'S HOUSE - LIVING ROOM - DAY 4
+text: [NOTE: WE SEE THE FOLLOWING UNFOLD THROUGH THE SMALL HD
+scene_heading: CAMERAS TAYLOR AND ZAVALA WEAR ON THEIR UNIFORMS. J]
+text: It's super-ghetto up in here. Black velvet paintings.
+text: Fast food wrappers. Holes punched in the walls. A
+text: shopping cart full of empty 40's. A couple car doors in
+dialog: the corner.
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: 4
+dialog: Lord and master of this domicile is MR. TRE -- Six and a
+text: half feet of angry drunk gangster. Shirtless, a
+text: barrelchest full of Folsom's best ink. He is mid-
+text: argument with Taylor and Zavala...
+speaker_heading: MR. TRE
+dialog: Y'all coming up in here. In my
+dialog: house. My house. Talking
+dialog: nonsense about some fool ass
+dialog: Chinese motherfuckin' mailman.
+dialog: Stealing my mail. Opening my
+dialog: letters. Go in his living room
+dialog: get my mail. Punk-ass rollers.
+speaker_heading: TAYLOR
+dialog: Sir, I appreciate you have an
+dialog: ongoing dispute with the your mail
+dialog: carrier. However. That does not
+dialog: justify you putting hands on him.
+speaker_heading: MR. TRE
+dialog: Bitch. No such shit went down.
+dialog: Fool's a lying ass snitch. I'ma
+dialog: take my mail. I get checks. I
+dialog: get business correspondence.
+text: Money in the mail. He be opening
+dialog: that shit. I'ma take my mail
+dialog: from him.
+speaker_heading: TAYLOR
+text: Interfering with a mail carrier is
+dialog: a federal crime. It's a felony.
+dialog: This can go one of several ways.
+dialog: Right now it's about your
+dialog: attitude.
+speaker_heading: MR. TRE
+dialog: I got my mail. I helped him. I
+dialog: helped him give my mail to me.
+dialog: This shit's over. Y'all can get
+dialog: the fuck out my house.
+speaker_heading: ZAVALA
+dialog: Sir, if you've been drinking you
+dialog: need to stay inside and not
+text: intimidate the mailman.
+speaker_heading: MR. TRE
+dialog: You need to shut the fuck up. You
+dialog: didn't have that badge and gun you
+dialog: wouldn't be about shit. Without
+dialog: it you ain't shit. You don't
+dialog: stand for shit.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: (2) 4
+speaker_heading: MR. TRE (CONT'D)
+dialog: You're about less than
+dialog: motherfucking nothing. Border
+text: hopping motherfucker.
+text: Zavala hardens. Begins unsnapping the keepers on his
+text: gunbelt.
+speaker_heading: ZAVALA
+dialog: That so? You wanna find out what
+dialog: I'm about? Let's settle this
+dialog: right here like grown men.
+speaker_heading: TAYLOR
+dialog: Partner, that's not a good idea.
+speaker_heading: MR. TRE
+dialog: (incredulous)
+dialog: You wanna fight me?
+speaker_heading: ZAVALA
+dialog: I wanna fight. Let's go.
+speaker_heading: MR. TRE
+dialog: I'm a whip your ass, and your
+dialog: partner there's gonna shoot my
+dialog: brains out.
+speaker_heading: TAYLOR
+dialog: Stand down, Z.
+speaker_heading: ZAVALA
+dialog: (to Taylor)
+dialog: Stay out of it.
+speaker_heading: MR. TRE
+dialog: I beat your ass, y'all gonna
+dialog: leave?
+speaker_heading: ZAVALA
+dialog: Win or lose, I'm arresting you,
+dialog: Tre. You can't steal mail. But
+dialog: you called me out. Now I'm
+dialog: calling you out. What's up?
+speaker_heading: MR. TRE
+dialog: Let's do this.
+text: Zavala tosses Taylor his gunbelt. Unpins his badge.
+text: Hands it to Taylor. He squares off with Mr. Tre who
+text: towers over him.
+speaker_heading: TAYLOR
+dialog: -..Jdesus Christ...
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED: (3) 4
+dialog: -- What follows is one of the most intense and realistic
+dialog: fights ever --
+dialog: WHAM! -- Mr. Tre was a kickboxer back in the day. He
+text: knocks Zavala into the wall with a roundhouse...
+text: Zavala leaps up and closes with a blizzard of fists...
+text: The sickening sound of punches landing on flesh as Zavala
+text: works the inside with flurries of rabbit punches...
+text: WHAM! -- Mr. Tre kicks him again. Then follows up with
+text: his locomotive sized fists. Pounding Zavala into the
+text: carpet. Zavala is clearly overwhelmed...
+dialog: Taylor moving forward...
+speaker_heading: ZAVALA
+dialog: Taylor! No! I got this.
+text: Zavala takes the punches, drops to a knee, covers up.
+text: Mr. Tre grabs his head and begins kneeing his face...
+speaker_heading: TAYLOR
+dialog: Zz!
+speaker_heading: ZAVALA
+dialog: Stay out.
+text: Overpowered and outgunned, Zavala stubbornly holds on.
+text: Taking blow after blow. It goes on and on...
+text: Then Mr. Tre slows. He's panting from the exertion.
+text: Chest heaving, arms burning from the effort...
+text: And that is when Zavala suddenly rises up from certain
+text: doom -- He explodes with a massive barrage of brutal hard
+dialog: punches...
+text: BAM-BAM-BAM-BAM! -- He works Mr. Tre up and down his
+text: body, waits for his big muscled arms to drop and when
+dialog: they do...
+scene_heading: SMACK-SMACK-SMACK-SMACK-SMACK-SMACK -- Zavala lights up
+text: his face, finally landing a money shot on his jaw...
+speaker_heading: ZAVALA (CONT'D)
+dialog: You talk it. Can you take it?
+text: Mr. Tre staggers back. Bewildered, stunned, he takes a
+text: knee and lowers his head...
+speaker_heading: (CONTINUED)
+dialog: 10.
+speaker_heading: CONTINUED: (4) 4
+speaker_heading: MR. TRE
+dialog: I'm done. Much respect.
+text: He holds out his hand. Zavala shakes it. It's over.
+text: Zavala catches his breath. Taylor hands him back his
+text: badge. His gunbelt.
+speaker_heading: TAYLOR
+text: Z, he has visible injuries.
+speaker_heading: MR. TRE
+dialog: Don't trip. I'ma say I locked it
+dialog: up with some dude before y'all
+dialog: showed up.
+text: Mr. Tre stands. Turns and holds his hands behind him to
+text: be cuffed -- As Zavala cuffs him...
+speaker_heading: MR. TRE (CONT'D)
+dialog: You got a lotta heart for a cop.
+scene_heading: SMASH TO BLACK -- THEN:
+scene_heading: SUPER TITLE: POLICE OFFICER 2 MIGUEL "MIKE" ZAVALA
+scene_heading: INT. OLYMPIC AUDITORIUM — NIGHT 5
+text: LNOTE: THIS SCENE WILL BE COVERED WITH A CONSUMER HD
+scene_heading: HANDHELD BY TAYLOR. ]
+text: It's the annual "Fight for Life" boxing match. LAPD
+text: Officers square off with LA County Sheriff Deputies.
+dialog: 
+text: There are tons off off-duty cops and Sheriffs and their
+text: families. Getting rowdy, rooting for their guys,
+text: drinking beers. SHOUTS and WHISTLES...
+text: Zavala waits his turn in the ring. His smoking hot wife
+text: GABBY is six months pregnant. She massages his
+dialog: shoulders.
+speaker_heading: GABBY
+dialog: Stay loose, baby.
+text: WE DON'T SEE TAYLOR BECAUSE HE IS FILMING.
+speaker_heading: TAYLOR
+dialog: Mike. Who are you and what's
+dialog: going on?
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED:
+dialog: 11.
+speaker_heading: ZAVALA
+dialog: I'm Mike and I'm gonna knock a
+dialog: Deputy the fuck out.
+speaker_heading: TAYLOR
+dialog: C'mon. I have to show people
+dialog: this.
+text: Zavala rolls his eyes, then plays along.
+speaker_heading: ZAVALA
+dialog: Okay, I'm LAPD Police Officer Two
+dialog: Mike Zavala and I'm going in the
+text: ring to box Deputy Arkashian.
+text: Gabby is her typically high energy and aggressive self.
+speaker_heading: GABBY
+dialog: And you're gonna beat his fool
+dialog: ass, yeah?
+speaker_heading: ZAVALA
+dialog: Yep-yep.
+speaker_heading: TAYLOR
+dialog: Officer Zavala, where are you
+dialog: from?
+speaker_heading: ZAVALA
+dialog: East Los, baby. City Terrace.
+speaker_heading: TAYLOR
+dialog: How long have you been an officer?
+speaker_heading: ZAVALA
+dialog: Bro, I gotta fight. This fool's
+text: heavy duty.
+speaker_heading: TAYLOR
+dialog: (to Gabby)
+dialog: And you are?
+speaker_heading: GABBY
+dialog: Gabriela.
+speaker_heading: ZAVALA
+dialog: That's my old lady, dude. You
+dialog: know that.
+speaker_heading: TAYLOR
+dialog: When are you due?
+speaker_heading: (CONTINUED)
+dialog: 12.
+speaker_heading: CONTINUED: (2)
+speaker_heading: GABBY
+dialog: Three months.
+text: That's when SARGE enters the frame and throws an arm
+text: around Zavala. He's their field Sergeant, their boss.
+dialog: But he's a cop's cop and looks after his own.
+speaker_heading: SARGE
+dialog: Zavala you're winning this, right?
+speaker_heading: ZAVALA
+dialog: Yep.
+speaker_heading: SARGE
+dialog: I got money on you. I heard he
+dialog: took thirty days comp time to work
+dialog: out in Big Bear with De La Hoya's
+dialog: trainer.
+speaker_heading: TAYLOR
+dialog: Sarge, I'm interviewing Z for my
+dialog: thing.
+speaker_heading: SARGE
+dialog: I'm breaking all your cameras,
+dialog: Taylor.
+dialog: (back to Z)
+dialog: You know he was Socal Golden
+dialog: Gloves champion?
+speaker_heading: ZAVALA
+dialog: So. I was East L.A. King Taco
+dialog: parking lot champion.
+speaker_heading: LOUDSPEAKER VOICE
+dialog: Next up at one hundred and ninety
+dialog: pounds is Deputy Ivan "The Hitman"
+dialog: Arkashian with LASD's Special
+dialog: Enforcement Bureau. He'll be
+dialog: fighting Officer Mike "The
+dialog: Mangler" Zavala from LAPD Newton
+dialog: Patrol.
+speaker_heading: SARGE
+dialog: Make us proud, Mike.
+text: Deafening CHEERS as the crowd goes nuts. Zavala heads
+dialog: for the ring...
+speaker_heading: GABBY
+dialog: Kick his ass, baby! Fuck him up!
+dialog: 13.
+scene_heading: INT. OLYMPIC AUDITORIUM —- BOXING RING — NIGHT 6
+scene_heading: [NOTE: SHAKY HANDHELD COVERAGE OF THE FIGHT. ]
+text: Zavala and ARKASHIAN are mid-fight trading blows. The
+text: THUMPS of the blows easily heard over the SHOUTS and
+text: WHISTLES of the pumped up crowd...
+text: Sweat flies. The blur of boxing gloves...
+text: WHAM! -- Zavala knocks out the big Armenian Deputy. He
+text: falls like a tree and bounces off the canvas...
+text: The REFEREE does a ten-count. Then grabs Zavala's gloved
+text: hand and raises it -- He's the winner...
+text: LAPD COPS CHEER -- The DEPUTIES BOOING. Zavala SEES THE
+text: CAMERA and points his free glove at it and grins...
+speaker_heading: ZAVALA
+dialog: LAPD! Hell to the yeah!
+scene_heading: --BLACK SCREEN
+scene_heading: SUPER TITLE: POLICE OFFICER 2 BRIAN TAYLOR
+scene_heading: INT. NEWTON DIVISION — LOCKER ROOM - DAY 7
+scene_heading: ILNOTE: CAMERA SITS ATOP A LOCKER GIVING A WIDE STEADY
+text: VIEW OF THE ROW OF LOCKERS WHERE TAYLOR AND ZAVALA DRESS
+speaker_heading: FOR WATCH. J]
+text: Taylor looks AT CAMERA as he zips his uniform shirt.
+speaker_heading: TAYLOR
+dialog: Okay. This is my day job. Some
+dialog: of you may know me as Brian. Or
+dialog: Taylor. But here I'm Police Two
+dialog: Officer Brian Taylor. This is
+dialog: where the forces of good prepare
+dialog: to fight the forces of evil.
+scene_heading: TAYLOR REACHES AT CAMERA TURNS THE CAMERA POV -- WE SEE
+text: ZAVALA IN HIS BOXERS...
+speaker_heading: ZAVALA
+dialog: What the hell, bro? I'm in my
+dialog: chones.
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED:
+speaker_heading: JUMP CUT:
+dialog: 14.
+speaker_heading: TAYLOR
+dialog: That's my partner Officer Zavala.
+dialog: We work basic patrol here in
+dialog: Newton. One of the toughest
+dialog: divisions in LAPD.
+speaker_heading: ZAVALA
+dialog: Shootin' Newton. That's right.
+text: Taylor is showing his equipment...
+speaker_heading: TAYLOR
+dialog: This is the department issue side
+text: arm. The Glock forty. It holds
+dialog: fifteen rounds of high pressure
+dialog: Hydrashock loads. I have a back-
+dialog: up gun in this holster on my
+text: ankle. It's a Glock twenty six.
+dialog: I have a Spyderco knife. This
+dialog: little thing that can break a car
+dialog: window. My flashlight. Two Smith
+text: and Wesson handcuffs. Radio
+text: holder. A can of OC spray.
+dialog: That's pepper spray. What else?
+text: Spare magazines. Baton ring.
+speaker_heading: ZAVALA
+dialog: Are you gonna shut the fuck up and
+dialog: go to roll call?
+speaker_heading: TAYLOR
+dialog: Don't curse. I have to edit that
+dialog: out.
+speaker_heading: ZAVALA
+dialog: Fuck. Fuck. Fuck. Fuck. Now in
+dialog: Spanish. Pinchi. Pinchi.
+dialog: Pinchi.
+speaker_heading: VAN HAUSER
+dialog: Having fun?
+text: An older greying 25 year veteran lands at the locker by
+text: Taylor's and hurries to get dressed. This is VAN HAUSER,
+text: burned-out, beaten down. And still punching the clock.
+speaker_heading: TAYLOR
+dialog: This is Officer Three Van Hauser.
+dialog: He has twenty five years on the
+dialog: job. Considered unpromotable by
+dialog: the department.
+speaker_heading: (CONTINUED)
+dialog: 15.
+speaker_heading: CONTINUED: (2) 7
+text: ZAVALA STICKS HIS FACE IN THE LENS AND WHISPERS...
+speaker_heading: ZAVALA
+dialog: ..-he's the angriest cop in the
+dialog: World...
+text: Van Hauser spins -- Glares RIGHT AT CAMERA...
+speaker_heading: VAN HAUSER
+dialog: I'm telling Sarge you're taping in
+dialog: here.
+speaker_heading: TAYLOR
+dialog: It uses flash cards. It's not
+dialog: called taping anymore.
+speaker_heading: VAN HAUSER
+dialog: Goddammit, Taylor!
+scene_heading: VAN HAUSER GRABS CAMERA -- THE SCREEN GOES BLACK.
+scene_heading: INT. NEWTON DIVISION — ROLL CALL ROOM — DAY 8
+text: ILNOTE: CAMERA POV IS SITTING ON A TABLE. TAYLOR'S OUT
+text: OF FOCUS HAND TAKES NOTES IN THE FOREGROUND. ]
+text: It looks like a classroom with police stuff on the walls.
+text: The OFFICERS of the PM Watch sit at the tables.
+text: CAPTAIN REESE, or "The Coolest Captain Ever" as the boys
+text: call him, addresses the gathered officers. He's tall and
+dialog: athletic and always smiling. Nobody doubts he'll be
+dialog: Chief someday.
+speaker_heading: CAPTAIN REESE
+text: OIG is auditing response times.
+dialog: Acknowledge your call. Get there
+dialog: fast and safe. Code six as soon
+dialog: as you're on scene. Seconds
+dialog: count. If someone's closer buy
+dialog: the call and stop the clock. No
+dialog: submarining. Make Newton look
+dialog: good. I want to welcome back
+dialog: Zavala and Taylor who have been
+dialog: cleared by the DA for the shooting
+dialog: last month. We had no doubt the
+dialog: shooting board would recommend a
+dialog: return to duty. I know it's an
+dialog: unpleasant experience, that much
+dialog: scrutiny. Never forget, a good on
+dialog: the job shooting is still a
+dialog: homicide.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+speaker_heading: CONTINUED:
+dialog: 16.
+speaker_heading: CAPTAIN REESE (CONT'D)
+dialog: It is not meant to be a pleasant
+dialog: ride. I will back you up if
+dialog: you're right. And if you're
+dialog: wrong, I will personally throw you
+dialog: under the bus. Okay?
+scene_heading: THE WATCH OFFICERS
+dialog: Yessir!
+speaker_heading: CAPTAIN REESE
+dialog: All yours, Sergeant.
+text: The Captain exits the room. Sarge sits on the desk up
+text: front. He holds up a ticket book.
+speaker_heading: SARGE
+dialog: This is called a ticket book.
+dialog: Inside are these things called
+dialog: tickets. It gets better. You can
+dialog: actually stop motorists and cut
+dialog: citations for vehicle code
+dialog: violations. Like running lights
+dialog: and speeding. There is a reason
+dialog: you are issued these books. All
+dialog: of you need to write. I know
+dialog: there is plenty of other fun to be
+dialog: had out there. But if you don't
+dialog: start writing the Captain will
+dialog: shit on me. And I will shit on
+dialog: you. Capiche?
+scene_heading: THE WATCH OFFICERS
+dialog: (various adlibs)
+dialog: Yes, Sarge --
+dialog: I don't know how to write --
+dialog: My dog ate my book --
+dialog: -- I forgot my pen --
+dialog: 
+speaker_heading: SARGE
+dialog: Orozco and Davis, A-Twenty Five.
+dialog: Peterson and Washington, A-Forty
+dialog: One. Zavala and Taylor, you got A-
+dialog: Thirteen.
+speaker_heading: TAYLOR
+dialog: Sarge, that's not our area.
+speaker_heading: SARGE
+dialog: A-Thirteen.
+speaker_heading: ZAVALA
+dialog: We work Nine. That's our turf.
+speaker_heading: (CONTINUED)
+dialog: 17.
+speaker_heading: CONTINUED: (2) 8
+speaker_heading: SARGE
+dialog: This isn't Monopoly, you don't get
+dialog: to pick your real estate.
+dialog: Goodbye. Go. Can you get through
+dialog: watch without killing anyone?
+text: THE CAMERA IS GRABBED OFF THE TABLE...
+speaker_heading: CUT TO:
+scene_heading: EXT./INT. NEWTON DIVISION - PARKING LOT - DAY 9
+scene_heading: [NOTE: CAMERA IS HANDHELD BY TAYLOR HE CROSSES TO THEIR
+speaker_heading: CAR. ]
+text: Zavala, holding a shotgun, walking with Orozco, the tough
+dialog: female cop.
+speaker_heading: OROZCO
+dialog: Why are you filming everything?
+speaker_heading: ZAVALA
+dialog: It's for his class.
+speaker_heading: OROZCO
+dialog: I thought you were studying law?
+speaker_heading: TAYLOR
+dialog: Pre-law. I need an art elective.
+dialog: I'm taking film making.
+speaker_heading: OROZCO
+dialog: Get my good side, eh?
+speaker_heading: ZAVALA
+dialog: You don't have a good side.
+speaker_heading: OROZCO
+dialog: You know they can subpoena that
+dialog: shit if something goes sideways.
+dialog: You ought'a think twice.
+speaker_heading: TAYLOR
+text: Two words. Erase button.
+speaker_heading: OROZCO
+dialog: Two words. Just ‘cause you guys
+dialog: think you're these big ghetto
+dialog: gunfighters now don't mean you can
+dialog: be dropping calls.
+speaker_heading: (CONTINUED)
+dialog: 10
+dialog: 18.
+speaker_heading: CONTINUED: 9
+speaker_heading: TAYLOR
+dialog: That was at least two dozen words.
+speaker_heading: OROZCO
+dialog: I barely got a GED. What do you
+dialog: expect?
+text: Orozco and her partner DAVIS, a tall blonde female, cross
+text: to their black and white. Zavala catches Taylor checking
+dialog: her out.
+speaker_heading: ZAVALA
+dialog: Awwww, dude. Admit it. You'd hit
+dialog: it.
+speaker_heading: TAYLOR
+text: With a cinderblock.
+scene_heading: EXT./INT. L.A. STREETS/COP CAR (MOVING) - DAY 10
+scene_heading: ILNOTE: FOR THE CAR INTERIORS COVERAGE IS PROVIDED BY TWO
+text: LIPSTICK CAMERAS MOUNTED IN THE FRONT. ]
+text: Zavala drives, Taylor does books. Zavala waves AT
+text: CAMERA. Squints at it...
+speaker_heading: ZAVALA
+dialog: Barely notice this shit.
+speaker_heading: TAYLOR
+dialog: Told you.
+speaker_heading: ZAVALA
+dialog: Good to be back. Old lady's
+dialog: driving me nuts at the casa.
+dialog: Making me do shit.
+speaker_heading: TAYLOR
+dialog: Oh no. She actually dared ask for
+dialog: help around the house?
+text: Incredible. Outrageous.
+speaker_heading: ZAVALA
+dialog: Yo, just 'cause I look like the
+dialog: dudes at Home Depot doesn't mean I
+dialog: do the shit the Home Depot dudes
+dialog: do.
+speaker_heading: TAYLOR
+dialog: Amen. I would never actually
+dialog: profile you as a man who helped
+text: his wife with chores.
+speaker_heading: (CONTINUED)
+dialog: 10
+speaker_heading: CONTINUED:
+dialog: 19.
+dialog: 10
+speaker_heading: ZAVALA
+dialog: Shut up. And her brother's always
+text: coming over during the day to
+dialog: swim. I'm filling the pool in
+dialog: with cement.
+speaker_heading: TAYLOR
+dialog: Not personally. Because you'll
+dialog: hire a Home Depot dude for the
+dialog: task.
+speaker_heading: ZAVALA
+text: Her brother's lame.
+speaker_heading: TAYLOR
+dialog: Quiet today.
+speaker_heading: ZAVALA
+dialog: Don't say that. Last time you
+dialog: said that we whacked two
+dialog: gangbangers.
+speaker_heading: TAYLOR
+dialog: You heard sarge. We'll be cool.
+dialog: (then)
+dialog: It's slow.
+speaker_heading: ZAVALA
+dialog: The ghetto will provide. The
+dialog: ghetto will provide.
+dialog: Then, right on cue:
+speaker_heading: DISPATCH VOICE
+dialog: Thirteen-Adam-Thirteen. Four
+dialog: fifteen woman. Four two two one
+dialog: Thirty Ninth Street. Code two.
+dialog: Incident number three two one zero
+dialog: one.
+speaker_heading: TAYLOR
+dialog: Thirteen-Adam-Thirteen. Roger
+dialog: enroute.
+dialog: (to Zavala)
+dialog: First customer of the day.
+speaker_heading: ZAVALA
+dialog: I hope they enjoy our police
+dialog: service.
+dialog: 11
+dialog: 20.
+scene_heading: INT. CRACK HOUSE — DAY 11
+text: [NOTE: THIS SCENE IS COVERED BY THE TWO SMALL CAMERAS
+scene_heading: WORN ON TAYLOR'S AND ZAVALA'S UNIFORMS. ]
+text: The house is a hoarder's dream -- Bottles, garbage.
+text: Stacks of DVD players and car stereos.
+text: A distraught FEMALE CRACKHEAD digs at her arm with her
+text: nails. Eyes bugging, nose running.
+speaker_heading: FEMALE CRACKHEAD
+dialog: My babies are gone. I can't find
+dialog: my babies. Someone took my
+dialog: babies. I been here all night. I
+dialog: been with them. Someone took ‘em.
+dialog: Maybe when I was in the bathroom.
+dialog: Like quick. In and out.
+speaker_heading: TAYLOR
+dialog: Ma'am, how many children are
+dialog: missing and what are their ages?
+speaker_heading: FEMALE CRACKHEAD
+dialog: They gone. I telling you they
+dialog: gone. They ain't here.
+speaker_heading: TAYLOR
+dialog: How many children are missing?
+speaker_heading: FEMALE CRACKHEAD
+dialog: Two. Boy anda girl. My little
+dialog: babies.
+dialog: Zavala looking around. Thinking this is no place for a
+text: child. He realizes her MAN FRIEND is sleeping on the
+text: couch under several ratty blankets.
+speaker_heading: ZAVALA
+dialog: Sir. Sir. Lemme see your hands.
+dialog: Please sit up.
+text: The man stirs. Zavala yanks off the blanket, he's in
+text: boxers and socks. Zavala checks the cushions for
+dialog: weapons.
+speaker_heading: ZAVALA (CONT'D)
+dialog: Just sit up, sir. Put your hands
+dialog: on your knees.
+speaker_heading: (CONTINUED)
+dialog: 11
+dialog: 21.
+speaker_heading: CONTINUED: 11
+speaker_heading: TAYLOR
+text: Two children. A boy and a girl.
+dialog: How old are they? Ma'am. Ma'am?
+dialog: How old are the children?
+speaker_heading: FEMALE CRACKHEAD
+text: One year old. The other be four.
+speaker_heading: MAN FRIEND
+dialog: The kids okay. They with they
+dialog: grandma. They okay. We're good
+dialog: here, officer.
+speaker_heading: TAYLOR
+dialog: We're going to check the house.
+dialog: Sometimes children hide. They
+dialog: could be hiding under a bed or in
+dialog: the closet.
+speaker_heading: FEMALE CRACKHEAD
+dialog: I been lookin'. Been looking.
+dialog: Looked everywhere. You go look.
+dialog: Wasting time. Get out there bring
+dialog: me my babies back.
+speaker_heading: MAN FRIEND
+dialog: You forgot they with they grandma.
+dialog: You forgot. They okay.
+text: Something is odd going on. Zavala covers the Crackhead
+text: and her MAN FRIEND as Taylor checks the closets...
+text: TAYLOR'S CAMERA POV -- Moving down the hall. He opens a
+dialog: linen closet...
+text: Inside is a BABY DUCT-TAPED to its car seat. Anda
+text: LITTLE BOY also wrapped in duct-tape -- Feet and wrists
+text: bound. Layers of tape over his mouth. Both children
+text: STARING at Taylor with moist, pleading eyes...
+text: We can hear him struggling to keep his composure...
+speaker_heading: TAYLOR
+dialog: (into radio)
+dialog: Thirteen-Adam-Thirteen. Request
+dialog: supervisor and an RA to my
+text: location. Two juvenile males
+text: conscious breathing.
+text: Taylor carefully peels the duct-tape back from the boy's
+dialog: mouth.
+text: SNICK -- Taylor opens his knife--
+speaker_heading: (CONTINUED)
+dialog: 11
+dialog: 22.
+speaker_heading: CONTINUED: (2) 11
+speaker_heading: TAYLOR (CONT'D)
+dialog: It's okay, buddy.
+text: --cuts his hands free.
+speaker_heading: TAYLOR (CONT'D)
+dialog: I'll be right back.
+text: Taylor reenters the living room -- Bumps his crossed
+dialog: forearms together -- That means to handcuff the people...
+text: Zavala is on the woman in two steps -- Pulls his cuffs,
+text: spins her and has her cuffed with practiced speed...
+speaker_heading: FEMALE CRACKHEAD
+dialog: Why you doing me like this? Huh?
+speaker_heading: ZAVALA
+dialog: Remain calm.
+text: Taylor throws the Man Friend on the floor. Handcuffs
+text: him. Struggling to act professional.
+speaker_heading: TAYLOR
+dialog: You're under arrest.
+speaker_heading: MAN FRIEND
+dialog: I'm sleeping. I'm sleeping is
+dialog: all. The kids with they grandma.
+speaker_heading: ZAVALA
+dialog: What's up, partner?
+speaker_heading: TAYLOR
+dialog: I found the kids.
+speaker_heading: ZAVALA
+dialog: And?
+text: Taylor nods for him to look. Zavala crosses.
+speaker_heading: TAYLOR
+dialog: Let the paramedics take the rest
+text: of the tape off.
+speaker_heading: FEMALE CRACKHEAD
+dialog: Lemme see my babies. Lemme see
+dialog: them.
+speaker_heading: TAYLOR
+dialog: Why are your children duct-taped
+dialog: in a hall closet?
+speaker_heading: (CONTINUED)
+dialog: 11
+dialog: 12
+dialog: 23.
+speaker_heading: CONTINUED: (3) 11
+text: The drug fog parts and the gears of memory and survival
+dialog: suddenly engage...
+speaker_heading: FEMALE CRACKHEAD
+dialog: He did it. Put that motherfucker
+dialog: in jail. What he did to my
+dialog: babies. I'ma press charges.
+dialog: Taping my babies.
+speaker_heading: ZAVALA
+dialog: Shut the fuck up!
+speaker_heading: MAN FRIEND
+dialog: Bitch. You a snake, foul and low.
+text: A lying snake. They was crying.
+dialog: They wouldn't shut up. She told
+dialog: me to do it. Why you call the
+dialog: police you stupid-ass bitch? I
+dialog: could'a told you they in the
+dialog: closet. Dumb smoker bitch.
+speaker_heading: ZAVALA
+dialog: Shut up asshole!
+dialog: Zavala_and Taylor want to kill these people. But they
+dialog: can't and they know it. Sometimes they have to protect
+dialog: each other from themselves...
+speaker_heading: ZAVALA (CONT'D)
+dialog: You good, partner. Got it under
+dialog: control?
+text: The SIRENS of approaching ambulance build...
+speaker_heading: TAYLOR
+dialog: It's under control. You, Z? Got
+dialog: it under control?
+speaker_heading: ZAVALA
+dialog: Under control. Yeah.
+dialog: This is one of those calls that forever strips away a
+dialog: piece of a cop's soul. And they know it...
+scene_heading: EXT. MR. TRE'S HOUSE - NIGHT 12
+scene_heading: [NOTE: THIS IS SHOT HANDHELD BY THE GANGSTERS
+scene_heading: THEMSELVES. ]
+text: A dozen members of a Blood set pass a blunt and drink
+dialog: beer. These guys aren't part timers, they are the real
+text: deal, laughing, joking having a good time.
+speaker_heading: (CONTINUED)
+dialog: 12
+dialog: 24.
+speaker_heading: CONTINUED: 12
+text: Mr. Tre is just out of jail. He's circled up with FAT
+text: RAT, DJ, BLASTER and PEANUT.
+text: HOLDING THE CAMERA IS DION BUT WE WON'T SEE HIM.
+speaker_heading: DJ
+dialog: Why they saying you got your ass
+dialog: beat by a cop?
+speaker_heading: MR. TRE
+dialog: I fought the dude. Homie took his
+dialog: badge off and we squabbed straight
+dialog: up.
+speaker_heading: DJ
+dialog: But you got arrested?
+speaker_heading: MR. TRE
+dialog: Not for thumpin' on one time. For
+dialog: disorderly 'cause a the mailman.
+speaker_heading: BLASTER
+dialog: You fought a cop and they didn't
+dialog: put no assault on a peace officer
+dialog: on you?
+speaker_heading: MR. TRE
+dialog: Nope. Nothing like that.
+speaker_heading: PEANUT
+dialog: But he beat your black ass.
+speaker_heading: MR. TRE
+dialog: Nobody beat my ass. I whupped the
+dialog: hell out of the dude but he was a
+dialog: man about it. Who saying that?
+speaker_heading: FAT RAT
+dialog: You got your ass beat. Ah-hah.
+speaker_heading: MR. TRE
+dialog: Shut the fuck up, Rat.
+speaker_heading: BLASTER
+dialog: Now you know that's that same cop
+dialog: and his whiteboy partner who
+dialog: blasted them crabs from the park?
+speaker_heading: MR. TRE
+dialog: Whaaat?
+speaker_heading: (CONTINUED)
+dialog: 12
+dialog: 25.
+speaker_heading: CONTINUED: (2) 12
+speaker_heading: BLASTER
+dialog: Yeah. That's them. The crabs was
+text: in a G-ride and wrecked and came
+dialog: out bustin'. The po laid them
+dialog: out. Stretched 'em out on the
+dialog: sidewalk. Didn't even cover the
+text: bodies and they moms showed up and
+dialog: saw it.
+speaker_heading: FAT RAT
+dialog: Fuck those fools. And they moms.
+dialog: Glad they got whacked.
+speaker_heading: BLASTER
+text: They still niggas. LAPD still
+dialog: killin' niggas. That's what I'm
+dialog: saying. Maybe that Mexican cop
+dialog: acting right with you Tre, but he
+text: still out there killing niggas.
+speaker_heading: MR. TRE
+dialog: Motherfucker got the right niggas
+dialog: so I ain't even trippin'.
+speaker_heading: PEANUT
+dialog: Who that? Who car that?
+text: The gangsters watch a minivan approaching. They
+text: instinctively spread out. Sensing danger...
+text: The minivan accelerates -- Then SCREECHES to a stop. The
+text: door slides open...
+text: The gangsters scatter...
+text: POP-POP-POP-POP-POP! -- Flashes of light from the weapons
+text: being fired inside the minivan...
+text: We glimpse BLASTER returning fire with a Glock...
+text: POP-POP-POP-POP! -- As the Minivan disappears around the
+dialog: corner...
+text: SCREECH! -- The van takes off again...
+speaker_heading: DJ
+dialog: They got Rat!
+text: CAMERA FINDS FAT RAT -- On his back in the dirt yard,
+text: gasping his last breath.
+text: Peanut kneels by his side.
+speaker_heading: (CONTINUED)
+dialog: 12
+dialog: 13
+dialog: 26.
+speaker_heading: CONTINUED: (3) 12
+speaker_heading: PEANUT
+dialog: Call a motherfuckin' ambulance!
+dialog: Rat? Rat? Hang on, dog.
+speaker_heading: BLASTER
+dialog: That was the eses. I seen them,
+dialog: that was the eses from Curbside.
+speaker_heading: MR. TRE
+dialog: Yep. It's them. Curbside's
+dialog: banging all over this
+dialog: motherfucker.
+speaker_heading: DJ
+dialog: Let's go. I know where they stay.
+dialog: Let's get them fools.
+text: Blaster glares right at camera:
+speaker_heading: BLASTER
+dialog: Turn that shit off, Dion! You
+dialog: stupid.
+text: CAMERA SHAKES AS IT IS SWITCHED OFF...
+scene_heading: INT. WHITE MINIVAN (MOVING) - NIGHT 13
+scene_heading: [NOTE: THIS IS HANDHELD CAMERA AND CELLPHONE FOOTAGE. IN
+text: REAL LIFE IT IS NOT ALL UNUSUAL FOR GANGMEMBERS TO FILM
+text: THEMSELVES COMMITTING CRIMES. ]
+text: Four Homeboys from CURBSIDE LOCOTES GANG -- DEMON,
+text: WICKED, BIG EVIL. Their homegirl LA LA is driving.
+speaker_heading: DEMON
+dialog: You almost ran the light stupid.
+dialog: You're gonna get us pulled over.
+speaker_heading: LA LA
+dialog: I gotta be at work. You better
+dialog: not bust out. Wasting my time.
+speaker_heading: WICKED
+dialog: Hell no. I'm killin' all these
+dialog: motherfuckin' niggers. Gonna have
+text: their brains hanging out.
+speaker_heading: BIG EVIL
+dialog: Eh, La La. When are you gonna
+dialog: fuck the homeboy?
+speaker_heading: (CONTINUED)
+dialog: 13
+dialog: 14
+dialog: 27.
+speaker_heading: CONTINUED: 13
+speaker_heading: LA LA
+dialog: I'm not fucking the homeboy. I
+dialog: look like those little paisa
+dialog: hoochies you guys kick it with? I
+dialog: put in real work.
+speaker_heading: DEMON
+dialog: I seen you looking at the homeboy.
+speaker_heading: LA LA
+dialog: Whatevers.
+speaker_heading: DEMON
+dialog: Wachale. Slow up. This is the
+dialog: street.
+text: The three gangsters pull blue rags over their faces...
+text: KERCHACK! -- Weapons are cocked...
+speaker_heading: BIG EVIL
+dialog: Trucha, homie. They might have
+dialog: fools posted up.
+speaker_heading: DEMON
+dialog: Right there. Right there. That's
+dialog: them. Mira mira mira. Alli van.
+dialog: Go, ma!
+text: La La hits the gas then hits the brakes when they reach
+dialog: the target...
+speaker_heading: BIG EVIL
+dialog: I'm smoking all these fuckin'
+dialog: mayates.
+text: The sliding door is opened -- Guns are raised...
+text: POP-POP-POP-POP-POP! -- The homies unload a fusillade of
+dialog: bullets...
+scene_heading: EXT./INT. L.A. STREETS/COP CAR (MOVING) - NIGHT 14
+text: Zavala driving. Taylor enters license plate numbers into
+dialog: the computer...
+speaker_heading: TAYLOR
+dialog: She's smart. She's the first girl
+dialog: I can actually have a conversation
+dialog: with. You know she has Master of
+dialog: Science in Fluid Hydraulics?
+speaker_heading: (CONTINUED)
+dialog: 14
+speaker_heading: CONTINUED:
+dialog: 28.
+dialog: 14
+speaker_heading: ZAVALA
+dialog: Fluid Hydraulics? Dang, partner.
+dialog: You just handed me a blank check.
+dialog: But because you seem to like this
+dialog: broad I'm going to give you a
+dialog: pass.
+speaker_heading: TAYLOR
+dialog: I date all these girls. Smoking
+dialog: hot.
+speaker_heading: ZAVALA
+dialog: All your little badge bunnies?
+speaker_heading: TAYLOR
+dialog: I got laid without a badge, thank
+dialog: you.
+speaker_heading: ZAVALA
+dialog: I believe you. I do. In the
+dialog: Marines. Don't ask don't tell?
+speaker_heading: TAYLOR
+dialog: There's a pattern. An M.O. here.
+text: First date and a respectful kiss.
+dialog: Second date, a nice dinner, then
+dialog: full carnal knowledge. Third
+dialog: date's dinner and uncomfortable
+dialog: silences when I try and discuss
+dialog: anything of merit. Then it's two
+text: or three bootycalls and it's on to
+dialog: the next.
+speaker_heading: ZAVALA
+dialog: I went to my prom and got married
+dialog: a week later. I ain't tapped
+dialog: nobody but Old Faithful for like
+dialog: eight years. Don't know what
+dialog: you're tripping about, dude.
+speaker_heading: TAYLOR
+dialog: I want someone to talk to. Not
+dialog: just sleep with.
+speaker_heading: ZAVALA
+dialog: White people always get hung up on
+dialog: all that soulmate bullshit. Just
+dialog: hook up with some fine-ass broad
+dialog: that can cook and wants kids. A
+dialog: bitch that's down for you, won't
+dialog: fuck your friends and you're
+dialog: straight. You're the smartest
+dialog: dude I know. For real.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 14
+speaker_heading: CONTINUED:
+dialog: 29.
+dialog: (2) 14
+speaker_heading: ZAVALA (CONT'D)
+dialog: You ain't gonna find a bad-ass
+dialog: chick who's as smart as you.
+speaker_heading: TAYLOR
+dialog: You're so full of shit. You talk
+dialog: to Gabby? I mean real
+dialog: conversations. You care what she
+dialog: has to say, right?
+speaker_heading: ZAVALA
+dialog: Yeah, we rap all the time, man.
+dialog: Gabby's a trip. You should hear
+dialog: the shit that comes out of her
+dialog: mouth. She could be the fuckin'
+dialog: president. She's like way smarter
+dialog: than me.
+speaker_heading: TAYLOR
+dialog: See what I mean? That's all I
+dialog: want.
+speaker_heading: ZAVALA
+dialog: I'll kill you if you touch her.
+speaker_heading: TAYLOR
+dialog: Shut up.
+speaker_heading: ZAVALA
+dialog: What's this chick's name?
+speaker_heading: TAYLOR
+dialog: Janet. She's kind'a the complete
+dialog: package. We're going out again.
+speaker_heading: ZAVALA
+dialog: Saturday's my little sister's
+dialog: quincefiera, wanna cruise through
+dialog: with Janet from another planet?
+dialog: Shit's gonna be hardcore Mexican,
+dialog: you know how my familia rolls.
+speaker_heading: TAYLOR
+dialog: Maybe. Maybe.
+speaker_heading: ZAVALA
+dialog: I wanna check her out.
+text: Suddenly the emergency CODE THREE TONES come from the
+dialog: radio...
+speaker_heading: DISPATCH VOICE
+dialog: Thirteen-Adam-Twenty Five.
+text: Shooting in progress.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 14
+dialog: 15
+dialog: 30.
+speaker_heading: CONTINUED: (3) 14
+speaker_heading: DISPATCH VOICE (CONT'D)
+text: Thirty nine twenty Avalon Avenue.
+text: One male down. Multiple gunshot
+text: wounds. Suspect vehicle described
+text: as a white minivan. Last seen
+text: fleeing at a high rate of speed
+text: Westbound on Thirty Ninth Street.
+dialog: Suspects described as Hispanic
+dialog: female driver and three Hispanic
+text: males with shaved heads and dark
+dialog: clothing. Code three incident two
+dialog: one zero four one.
+speaker_heading: OROZCO'S VOICE
+dialog: Thirteen-Adam-Twenty Five.
+dialog: Enroute. Code three.
+speaker_heading: ZAVALA
+dialog: Wish that was our call.
+speaker_heading: TAYLOR
+text: Address is Mr. Tre's house.
+speaker_heading: ZAVALA
+dialog: Shooters gotta be from Curbside.
+dialog: Been heating up.
+speaker_heading: TAYLOR
+dialog: I bet the Bloods are enroute time
+dialog: now for some payback.
+speaker_heading: ZAVALA
+dialog: We'll beat 'em there, bro.
+text: Zavala guns the engine and flips a tight U-turn. They
+text: race toward the Curbside neighborhood...
+scene_heading: EXT./INT. CURBSIDE HOOD/COP CAR (MOVING) - NIGHT 15
+text: Zavala slowly cruising along the neat little houses in
+text: the working class Latino street. Lots of CHILDREN play
+dialog: in yards.
+text: Zavala makes eye contact with a MOM watching her kids...
+speaker_heading: ZAVALA
+dialog: (subtitled Spanish)
+dialog: Ma'am, get your kids inside.
+dialog: Right now. Now is not a good time
+dialog: for them to be outside,
+dialog: understand?
+speaker_heading: (CONTINUED)
+dialog: 15
+dialog: 31.
+speaker_heading: CONTINUED: 15
+text: The Mom understands perfectly. She quickly shepherds her
+text: five kids inside. The car pulls alongside a group of
+text: TEENAGE HOMEBOYS and HOMEGIRLS gathered around a custom
+dialog: car. One of the kids, who we'll see again is CASPER a
+dialog: basically decent charismatic 13 y.o.
+speaker_heading: TAYLOR
+dialog: Casper. All of you. Go inside.
+text: It's after curfew.
+speaker_heading: CASPER
+dialog: C'mon Officer Taylor. It's my
+dialog: pad, dude. We're not drinking or
+dialog: nothing.
+speaker_heading: TAYLOR
+dialog: Fine. Keep standing around.
+text: Because a P.B. Blood is dead on
+text: the ground from a drive-by
+dialog: shooting. What do you think is
+dialog: going to happen next?
+text: The kids trade looks. And quickly melt away to their
+dialog: houses.
+scene_heading: JUMP CUT -- MINUTES LATER...
+text: Word has gotten out. The street is now empty. Doors are
+text: closed. The previously vibrant neighborhood is on lock-
+text: down in anticipation of the Blood's retaliation.
+text: Zavala and Taylor are parked, lights off. Watching the
+dialog: streets...
+speaker_heading: ZAVALA
+dialog: Partner.
+text: Zavala points out a suspicious car a couple blocks
+dialog: away...
+text: The car must have spotted the black and white -- It does
+text: a U-turn and exits the area...
+speaker_heading: TAYLOR
+dialog: Let's check him out.
+text: Zavala pulls out. Then -- The EMERGENCY TONES interrupt
+dialog: the regular radio chatter...
+speaker_heading: DISPATCH VOICE
+dialog: Thirteen-Adam-Thirteen. Two-
+text: eleven in progress. Thrifty Mart.
+dialog: Forty-forty-one Adams.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 15
+dialog: 16
+dialog: 32.
+speaker_heading: CONTINUED: (2) 15
+speaker_heading: DISPATCH VOICE (CONT'D)
+dialog: No suspect description. Code
+dialog: three incident four two seven nine
+dialog: eight one.
+speaker_heading: TAYLOR
+dialog: We're on.
+dialog: (into mic)
+dialog: Thirteen-Adam-Thirteen. Enroute
+dialog: code three.
+text: Zavala flips on the LIGHTS and SIREN. Peels out of there
+text: in the opposite direction of the suspicious vehicle...
+speaker_heading: TAYLOR (CONT'D)
+dialog: Wonder who that was. Get the
+dialog: plate?
+speaker_heading: ZAVALA
+dialog: No. My gut's saying it's the
+dialog: Bloods.
+speaker_heading: TAYLOR
+text: It's ping-pong. Back and forth.
+dialog: Back and forth.
+speaker_heading: ZAVALA
+dialog: It's all good. I think we just
+dialog: stopped something, man.
+speaker_heading: TAYLOR
+dialog: Hope so, bro. Clear right.
+scene_heading: CUT TO BLACK:
+scene_heading: A TITLE CARD READS: “CINDY'S QUINCENERA"
+scene_heading: INT. SOCIAL HALL — NIGHT 16
+scene_heading: LNOTE: COVERAGE IS A COMBINATION OF EVEN VIDEOGRAPHER
+scene_heading: FOOTAGE, CELLPHONE AND HANDHELD VIDEO. ]
+text: CINDY is Zavala's 15 y.o. baby sister and this is her
+text: party. There are lots of TEENAGERS, the girls in
+text: matching purple dresses, the guys in white zootsuits and
+dialog: fedoras. This is the Latino equivalent of a cotillion.
+text: The hall packed with Zavala's extended family, all in
+text: suits and evening dresses.
+text: Zavala dances a Waltz with Cindy in her puffy purple
+dialog: dress.
+text: Now Taylor dances with Cindy, both looking embarrassed...
+dialog: 17
+dialog: 33.
+scene_heading: INT. SOCIAL HALL — NIGHT (LATER 17
+text: AT A TABLE -- Zavala, Gabby, Taylor and JANET talk over
+text: the loud music. Janet is petite, very pretty and a bit
+dialog: of a geek. She's every bit Taylor's match.
+speaker_heading: ZAVALA
+dialog: Pretty much everyone here's
+dialog: family. Cousins, Aunts and Uncles
+dialog: and my Cousin's Cousins. Hang out
+dialog: long enough and you'll see someone
+dialog: throw up. You'll see a fight.
+dialog: It's all good.
+speaker_heading: JANET
+dialog: I'm Irish. It's the same thing.
+dialog: Everyone stays married forever.
+dialog: Everyone has a big family, lots of
+dialog: kids. Cases of beer on Saturday
+dialog: and Church on Sunday. They drink
+dialog: way too much, get in fistfights.
+dialog: But you mess with one of us,
+dialog: you'll have the whole family after
+dialog: you.
+speaker_heading: GABBY
+dialog: I like her, Brian. She'll fit
+dialog: right in.
+speaker_heading: TAYLOR
+dialog: Uh, okay.
+speaker_heading: JANET
+dialog: What do you do Gabby?
+speaker_heading: GABBY
+dialog: I teach first graders for the
+dialog: school district. So dealing with
+dialog: a bunch of cops is easy for me.
+speaker_heading: JANET
+dialog: You know I never dated a cop
+dialog: before.
+speaker_heading: GABBY
+dialog: Good. That's a good sign. You'll
+dialog: get used to it. Sort of.
+text: RE: Gabby's swollen belly.
+speaker_heading: JANET
+dialog: Your first?
+speaker_heading: (CONTINUED)
+dialog: 17
+speaker_heading: CONTINUED:
+dialog: 34.
+dialog: 17
+speaker_heading: GABBY
+dialog: Yep.
+speaker_heading: JANET
+dialog: Can I touch it?
+speaker_heading: GABBY
+dialog: Go for it. He kicks a lot. Feel
+dialog: that?
+speaker_heading: JANET
+dialog: Omigod.
+speaker_heading: ZAVALA
+dialog: You believe that? Married four
+dialog: years and we're only on our first
+dialog: kid.
+speaker_heading: GABBY
+dialog: My sister's got five. No thank
+dialog: you. I'm not a baby machine.
+speaker_heading: JANET
+dialog: How long have you known Brian?
+speaker_heading: GABBY
+dialog: Three years. He and Mike went to
+dialog: the academy together. If you
+dialog: wanna take notes I can give you
+dialog: the lowdown.
+speaker_heading: TAYLOR
+dialog: No. Gabby. No. I thought we
+dialog: were cool.
+speaker_heading: GABBY
+dialog: We are. This is lady talk. We
+dialog: gotta look out for each other the
+dialog: way you guys have each others
+dialog: backs. Go get another beer.
+text: ZAVALA GRABS THE CAMERA AND SPEAKS INTO IT CLOSE UP...
+speaker_heading: ZAVALA
+dialog: We now have a hen party in
+dialog: progress. Officer Taylor and me
+dialog: are now going to the bar and
+dialog: talking shit.
+dialog: 18
+dialog: 19
+dialog: 35.
+scene_heading: INT. SOCIAL HALL — NIGHT (LATER 18
+text: Everyone does the Chicken Dance -- CAMERA FINDS: Taylor
+dialog: and Janet having a great time together. He likes this
+dialog: girl. There's chemistry.
+scene_heading: CUT TO -- A TIGHT SHOT:
+text: Of Taylor and Janet slow dancing together. They smile at
+text: each other. Close their eyes and kiss -- Long and open
+text: mouthed. Taylor cracks an eye. LOOKS ANGRILY AT CAMERA:
+speaker_heading: TAYLOR
+dialog: Seriously? Z. C'mon.
+text: Zavala's LAUGHING shakes the camera as he turns it off.
+text: LATER -- It's the end of the night. Gabby is filming
+text: Zavala and Taylor, both have had plenty of beer and are
+text: in full on "I love you, man" mode.
+speaker_heading: ZAVALA
+dialog: You're like my fucking brother
+dialog: man. My brother's a piece of
+dialog: shit. I trust you with my life.
+speaker_heading: TAYLOR
+dialog: Me too. I couldn't work with
+dialog: anyone else. We can read each
+dialog: other's mind. I know what you're
+dialog: going to do before you do it.
+text: GABBY SPINS THE CAMERA ON HERSLEF AND JANET...
+speaker_heading: GABBY
+dialog: See, girl. This is the part where
+dialog: they make out. I ain't gonna lie.
+dialog: I get jealous sometimes. You're
+dialog: driving right?
+speaker_heading: JANET
+dialog: I'll take him home.
+speaker_heading: CUT TO:
+scene_heading: INT. TAYLOR'S APARTMENT — BEDROOM — DAWN 19
+text: The next morning. The sun is just rising. Janet looks
+text: into Taylor's camera, nervous. Still in the same dress.
+speaker_heading: JANET
+dialog: Hi Brian. Look it's you...
+speaker_heading: (CONTINUED)
+dialog: 19
+dialog: 36.
+speaker_heading: CONTINUED: 19
+text: SHE PICKS THE CAMERA PANS IT ON A SLEEPING BRIAN.
+text: Crashed in his bed. She returns the camera to its
+dialog: original position.
+speaker_heading: JANET (CONT'D)
+dialog: I can't believe I spent the night.
+dialog: Brace yourself. But this is the
+dialog: first time I've done this. Ever.
+dialog: I don't mean, like sex. You're
+dialog: number two. Uh, erase that part.
+dialog: I've been going through your
+dialog: wallet. I hope you don't mind.
+dialog: Sorry, I'm naturally curious.
+dialog: Gotta like a guy who has a picture
+dialog: of mom.
+text: She holds up a picture of Brian's mom. Then she holds up
+text: a paper with phone numbers and female names.
+speaker_heading: JANET (CONT'D)
+dialog: So about Kirsten, Mia, Racquel,
+dialog: etcetera. Yeah. You won't be
+dialog: needing them anymore. Now this is
+dialog: interesting.
+text: She holds up his off-duty gun.
+speaker_heading: JANET (CONT'D)
+dialog: I've never shot one. Maybe that
+dialog: can be our next date?
+text: She purses her lips and sighs. She has something hard to
+dialog: say.
+speaker_heading: JANET (CONT'D)
+dialog: Okay. Here's the deal, Brian
+dialog: Taylor. I like you a lot. I mean
+dialog: a lot. And it's not because your
+dialog: this big bad cop. It's in spite
+dialog: of it. I don't do this. I don't
+dialog: do guys. Like dating. I've spent
+dialog: the last six years reading
+dialog: engineering papers. I'm all or
+dialog: nothing. And I am falling really
+dialog: hard for you and it's really
+dialog: scaring me. But I can't play
+dialog: games. And I can't hang out and
+dialog: pretend to have a good time if I
+dialog: don't know exactly where I stand.
+dialog: Ready? Sit down. I love you
+dialog: Brian Taylor and if you don't
+dialog: think you will feel the same way
+dialog: someday then walk away now.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 19
+dialog: 20
+dialog: 37.
+speaker_heading: CONTINUED: (2) 19
+speaker_heading: JANET (CONT'D)
+dialog: You won't have to say a thing. I
+dialog: won't hold it against you and I
+dialog: will move on. Take your time.
+dialog: Think about it. Here's your
+dialog: chance to make the easiest getaway
+dialog: ever. But if you want more. If
+dialog: you want me. I mean if you really
+dialog: want me. Then let me know.
+text: She smiles. So beautiful, so vulnerable. She kisses the
+text: lens, leaving a lipstick print.
+text: She gets up to leave--
+speaker_heading: JANET (CONT'D)
+dialog: Bye.
+text: --TURNING THE CAMERA OFF.
+speaker_heading: CUT TO:
+scene_heading: EXT. SOUTH CENTRAL L.A. — ALLEY -— DAY 20
+dialog: 
+scene_heading: [NOTE: HANDHELD BY TAYLOR. ]
+text: We're looking at the white minivan the homies from
+text: Curbside used in the drive-by. It has been burned and is
+text: still smoking. Zavala is intently checking the ground
+text: for clues. Taylor narrates:
+speaker_heading: TAYLOR
+dialog: This is what we believe may be the
+dialog: code thirty seven vehicle used in
+dialog: the drive-by last week. It fits
+text: the description and comes back as
+dialog: stolen. And you can see the
+dialog: steering column has been ripped
+dialog: open. Gangmembers like these
+dialog: vehicles because they blend in and
+dialog: you can put a lot of people in
+text: them. This door slides back and
+text: the gangmembers open up. The
+dialog: victim was a male black gangmember
+dialog: from a Blood set that has
+dialog: basically been at war with this
+dialog: Hispanic gang over control of
+dialog: narcotics sales.
+text: Zavala shining his light into the van.
+speaker_heading: ZAVALA
+dialog: Partner.
+speaker_heading: (CONTINUED)
+dialog: 20
+dialog: 38.
+speaker_heading: CONTINUED: 20
+text: CAMERA FINDS -- Several shellcasings on the floor of the
+dialog: vehicle.
+speaker_heading: TAYLOR
+text: Those are shell casings.
+dialog: Detectives told us that three
+dialog: different weapons were used and
+dialog: we're seeing at least two kinds of
+dialog: shells.
+text: CAMERA PANS ONTO -- An unmarked Crown Vic pulling up and
+text: two HOMICIDE DETECTIVES get out in their starched shirts
+dialog: and silk ties.
+speaker_heading: TAYLOR (CONT'D)
+dialog: These are the Homicide Detectives
+dialog: working the case.
+speaker_heading: HOMICIDE DETECTIVE 1
+dialog: The Hell's this? Candid camera?
+speaker_heading: TAYLOR
+dialog: No, sir. It's a project I'm
+dialog: working on.
+speaker_heading: HOMICIDE DETECTIVE 1
+dialog: Matches our wit statements.
+speaker_heading: TAYLOR
+dialog: There's forty five and nine
+text: millimeter shellcasings inside.
+speaker_heading: HOMICIDE DETECTIVE 2
+dialog: Oh yeah? How do you know that?
+dialog: You grab 'em and measure them with
+dialog: calipers? You touch them? You
+dialog: contaminate the vehicle?
+speaker_heading: TAYLOR
+dialog: Nossir.
+speaker_heading: ZAVALA
+dialog: We found it. We called you.
+speaker_heading: HOMICIDE DETECTIVE 1
+dialog: The big dogs are here now. So put
+dialog: up some yellow tape and stay on
+dialog: the other side. We'll whistle if
+dialog: we want anything.
+speaker_heading: ZAVALA
+dialog: Okay, sir.
+speaker_heading: (CONTINUED)
+dialog: 20
+dialog: 39.
+speaker_heading: CONTINUED: (2) 20
+text: Zavala and Taylor walking away from the van as the
+text: detectives check it out. TAYLOR TURNS THE CAMERA ON
+text: HIMSELF. He really wishes he was a detective.
+speaker_heading: TAYLOR
+dialog: Okay. We'll guard the crime scene
+dialog: while the detectives and
+dialog: criminalists do their CSI thing.
+text: Zavala squeezes into the shot grinning...
+speaker_heading: ZAVALA
+text: Homicide detectives are cool.
+dialog: They have fancy ties and two
+dialog: hundred dollar shoes. If we're
+dialog: good they might let us get them
+dialog: coffee--
+text: JUMP CUT -- Yellow tape surrounds the van. The two
+text: Detectives and a CRIMINALIST finish up. A tow truck
+text: stands by to impound the vehicle.
+speaker_heading: TAYLOR
+dialog: It's been two hours and we're
+text: still waiting for the Detectives
+dialog: to release the scene so we can go
+text: back on patrol.
+text: HE SWINGS THE CAMERA ON A BORED ZAVALA.
+speaker_heading: ZAVALA
+dialog: Comfortable footwear. Policing is
+dialog: all about comfortable footwear.
+text: They stand there. Looking like a couple little kids in
+text: time out. Zavala leans against their black and white.
+speaker_heading: ZAVALA (CONT'D)
+dialog: Hey, what happened to homegirl
+dialog: with the hydraulics? Janet?
+text: A beat.
+speaker_heading: TAYLOR
+dialog: You know. She started making cow
+dialog: eyes at me. And, uh... You know
+dialog: just, uh, trying to institute
+dialog: rules and regulations.
+speaker_heading: ZAVALA
+dialog: That why you've been acting like a
+dialog: little bitch?
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 40.
+speaker_heading: 20 CONTINUED: (3) 20
+speaker_heading: ZAVALA (CONT'D)
+dialog: Didn't wanna give up the candy for
+dialog: something real, huh? I know you.
+dialog: Crawl back to her on your hands
+dialog: and knees, dude. Pray she takes
+dialog: you back.
+speaker_heading: TAYLOR
+dialog: ..-what ev's...
+text: A black and white pulls up. It's Van Hauser -- The
+text: angriest cop in the World. He's riding with a female
+text: Korean ROOKIE.
+speaker_heading: TAYLOR (CONT'D)
+dialog: Officer Van Hauser. Good evening.
+speaker_heading: VAN HAUSER
+dialog: Sarge said I should relieve you
+dialog: guys so you can go be the street
+dialog: gods you are.
+speaker_heading: ZAVALA
+dialog: I'm down with that.
+speaker_heading: TAYLOR
+dialog: Officer Van Hauser, have you made
+dialog: a difference today?
+text: Van Hauser gets out of the car with a scowl, he barks at
+dialog: his Rookie:
+speaker_heading: VAN HAUSER
+dialog: Get out. Watch the street. Make
+dialog: sure no assholes walk up and kill
+dialog: us.
+dialog: Now he points AT CAMERA:
+speaker_heading: VAN HAUSER (CONT’D)
+dialog: Turn that goddamn camera off.
+speaker_heading: TAYLOR
+dialog: It's off.
+speaker_heading: VAN HAUSER
+dialog: It's off?
+speaker_heading: TAYLOR
+dialog: It's off.
+text: Taylor is a pretty good liar. Van Hauser leans against
+text: his unit, crosses his arms.
+speaker_heading: (CONTINUED)
+dialog: 20
+dialog: 21
+dialog: 41.
+speaker_heading: CONTINUED: (4) 20
+speaker_heading: VAN HAUSER
+dialog: I see you guys trying to be good
+dialog: little company men, doing the
+dialog: Lord's work. You have your nose
+dialog: up the command's ass. You're out
+dialog: here doing whatever it is you
+dialog: think you're doing. Making a
+dialog: difference as you call it. It's
+dialog: all fun and games. You get to run
+dialog: jump fight and shoot. Well one
+dialog: day, and mark my words. One day
+dialog: the LAPD is going to bend you over
+dialog: your black and white and fuck you
+dialog: up the ass. They will fuck you so
+dialog: long and so hard you'll want to
+dialog: eat your gun just to make it stop.
+dialog: And if you don't do it and the
+dialog: fucking somehow stops, they'll
+dialog: punish you for not eating your
+dialog: gun. They'll give you freeway
+dialog: therapy by assigning you to
+dialog: Devonshire daywatch. So you spend
+dialog: two hours on the freeway everyday
+dialog: thinking about the fucking they
+dialog: gave you. I was just like you
+dialog: Taylor. Exactly like you. Making
+dialog: a difference. At least the bad
+text: guys attack from the front. The
+text: department sneaks up from the
+dialog: rear. Watch your six.
+text: CAMERA catches the mortified expression of the young
+text: Rookie who overheard all that. Zavala grins and pulls a
+text: clear bottle from his pocket...
+speaker_heading: ZAVALA
+dialog: I'm ready. It may say Purell.
+dialog: But it's really K.Y.
+text: Taylor cracks up laughing...
+scene_heading: EXT./INT. CURBSIDE NEIGHBORHOOD/COP CAR - DAY 21
+text: Zavala and Taylor sit in the shade of a tree watching the
+text: neighborhood. Taylor uses a pair of binoculars.
+text: Sarge pulls alongside.
+speaker_heading: ZAVALA
+dialog: C'mon Sarge, we're staking out
+dialog: Curbside. They're gonna spot your
+dialog: unit.
+speaker_heading: (CONTINUED)
+dialog: 21
+speaker_heading: CONTINUED:
+dialog: 42.
+dialog: 21
+speaker_heading: SARGE
+dialog: You think they don't know you're
+dialog: here? Van Hauser wants to file a
+dialog: complaint on you, Taylor.
+speaker_heading: TAYLOR
+dialog: The USS Van Hauser? LAPD's
+dialog: stealthiest submarine, only
+dialog: surfaces at the end of watch?
+speaker_heading: SARGE
+dialog: He went through the academy before
+dialog: you were born so show a little
+dialog: respect. He said you were
+dialog: videotaping him. I warned you
+dialog: about that shit.
+speaker_heading: TAYLOR
+dialog: I was documenting a crime scene.
+speaker_heading: SARGE
+dialog: Just consider the wisdom of what
+dialog: you're doing. The video camera
+dialog: has not been good to this
+dialog: department.
+speaker_heading: TAYLOR
+dialog: I understand, sarge.
+speaker_heading: ZAVALA
+dialog: Yo. Why's Van Hauser such a
+dialog: bitter dude? If he hates pushing
+dialog: a black and white so much why
+dialog: don't he leave his badge on the
+dialog: Watch Commander's desk and go
+dialog: home?
+speaker_heading: SARGE
+dialog: I didn't tell you this. He was
+dialog: programmed to pull the pin a
+dialog: couple years ago. He's got three
+text: divorces under his belt so his
+dialog: Margins were pretty slim. Turns
+dialog: out marriage three-point-oh
+dialog: cratered because he was tapping a
+dialog: little mommy from right around
+dialog: here and knocked her up. He's
+dialog: gotta keep working to pay for the
+dialog: kid. He'll end up doing thirty
+dialog: and giving away his pension to a
+text: lot of outstretched hands.
+speaker_heading: (CONTINUED)
+dialog: 21
+dialog: 43.
+speaker_heading: CONTINUED: (2) 21
+speaker_heading: ZAVALA
+dialog: ...damnnnnn...
+speaker_heading: SARGE
+dialog: That's not for broadcast. Have
+dialog: some empathy for the man. And
+dialog: Taylor, I'm entering in my log I
+dialog: verbally counseled you about the
+dialog: cameras.
+speaker_heading: TAYLOR
+dialog: Okay, Sarge. My bad.
+text: Sarge pulls away. Zavala and Taylor trade looks.
+speaker_heading: TAYLOR (CONT'D)
+dialog: That explains so much.
+speaker_heading: ZAVALA
+dialog: Hope he don't get his rookie
+dialog: pregnant. Then we'll never get
+dialog: rid of him. Gonna put your stupid
+dialog: cameras away now?
+speaker_heading: TAYLOR
+dialog: No.
+text: Taylor lifts his binocs. Watching the street.
+text: A fancy pick-up truck stops at a house. A big MEXICAN
+text: COWBOY gets out. A WOMAN exits the house and gives hima
+text: heavy pot, presumably of soup...
+speaker_heading: TAYLOR (CONT'D)
+dialog: Isn't that Big Evil's mom?
+speaker_heading: ZAVALA
+dialog: Yep. Who's the cowboy?
+speaker_heading: TAYLOR
+dialog: He's got money. See that truck?
+dialog: I'm running it.
+text: Zavala is already pulling out. Taylor doesn't have to
+dialog: say anything.
+text: Up ahead the pick-up pulls out. The black and white
+text: falls in behind it.
+speaker_heading: ZAVALA
+dialog: Wanna jam this fool?
+speaker_heading: (CONTINUED)
+dialog: 21
+dialog: 22
+dialog: 44.
+speaker_heading: CONTINUED: (3) 21
+speaker_heading: TAYLOR
+dialog: Yes I do. Plates are clean.
+speaker_heading: ZAVALA
+dialog: Our PC's that stupid CD hanging
+text: from the rearview mirror
+dialog: obstructing his vision? Let's see
+dialog: if he'll run.
+speaker_heading: TAYLOR
+dialog: Let's do it.
+text: He switches on the lights, gives the siren a quick WHOOP.
+speaker_heading: ZAVALA
+dialog: C'mon fucker. Run from us. Run
+dialog: fucker.
+text: The pick-up pulls over.
+speaker_heading: TAYLOR
+dialog: Thirteen-Adam-Thirteen. Traffic
+dialog: stop. Forty two hundred block of
+dialog: Waverly. Four Boy seven three one
+text: two. Black Ford pick-up.
+text: Taylor and Zavala trade looks, exit the vehicle...
+scene_heading: EXT. SOUTH CENTRAL L.A. — WAVERLY STREET — DAY 22
+dialog: 
+text: LNOTE: COVERAGE IS COMBINATION OF THE DASH CAM AND THE
+text: HIDDEN CAMERAS ON THE BOYS' UNIFORMS. ]
+text: Zavala approaches the Cowboy, Taylor hangs back covering
+dialog: him.
+speaker_heading: ZAVALA
+dialog: Habla Ingles o Espanol?
+speaker_heading: COWBOY
+dialog: Hablo Espanol.
+speaker_heading: ZAVALA
+dialog: Le estamos deteniendo porque tiene
+dialog: un CD colgado en su espejo. Salte
+dialog: de vehiculo por favor.
+speaker_heading: COWBOY
+dialog: Chinga tu madre!
+text: The Cowboy raises _a chrome .45 Pistol...
+speaker_heading: (CONTINUED)
+dialog: 22
+dialog: 45.
+speaker_heading: CONTINUED: 22
+text: With his boxer's reflexes Zavala bats the gun aside right
+dialog: as the Cowboy fires...
+speaker_heading: BAM! -——
+speaker_heading: ZAVALA
+dialog: Gun!
+text: Zavala grabs the gun with both hands...
+text: Taylor pulls his weapon -- SMASHES the passenger window
+text: of the pick-up with his Glock and screws it into the
+dialog: Cowboy's ear...
+speaker_heading: TAYLOR
+dialog: Suelta la pistola o te vuelo los
+dialog: sesos!
+text: The Cowboy knows he's been had. And drops his pistol...
+text: Zavala rips his door open and hauls the man to the ground
+text: and cuffs him. Taylor sees no one else is in the truck.
+text: He keys his mic...
+speaker_heading: TAYLOR (CONT'D)
+dialog: Thirteen-Adam-Thirteen. Man with
+text: a gun. Shots fired. Code four.
+dialog: One in custody. Request a
+dialog: supervisor.
+dialog: To Zavala:
+speaker_heading: TAYLOR (CONT'D)
+dialog: You good, partner? Any holes in
+dialog: you?
+speaker_heading: ZAVALA
+dialog: No. I got him, toss the truck.
+text: Zavala picks up the man's custom pistol -- Diamond
+text: encrusted with ivory grips.
+speaker_heading: ZAVALA (CONT'D)
+dialog: Dude's burner has bigger diamonds
+text: than the old lady's wedding ring.
+dialog: (to the Cowboy)
+dialog: De donde eres?
+speaker_heading: COWBOY
+dialog: Come verga puto.
+text: Taylor takes the lid off the big soup pot. Sees it's
+dialog: full of exactly that -- soup.
+speaker_heading: (CONTINUED)
+dialog: 22
+dialog: 23
+dialog: 46.
+speaker_heading: CONTINUED: (2) 22
+text: He picks it up. Sets it on the street. Tips it over
+text: with his boot -- Soup spills everywhere -- As do several
+text: packs of plastic wrapped $100 bills.
+text: Taylor returns to the truck -- His face turns white. He
+text: takes something out he hadn't seen before and holds it up
+dialog: so Zavala can see...
+speaker_heading: TAYLOR
+dialog: Partner.
+text: It's a gold plated AK-47...
+speaker_heading: ZAVALA
+dialog: Big money. Big guns. Homie's a
+dialog: player.
+text: Orozco and Davis pull up...
+speaker_heading: OROZCO
+dialog: Save anything for us?
+speaker_heading: ZAVALA
+dialog: Check it out. Dude's packin'
+dialog: Liberace's AK.
+text: Taylor takes a cellphone from the truck and scrolls
+dialog: through the numbers...
+scene_heading: INT. NEWTON DIVISTON — REPORT WRITING ROOM -— NIGHT 23
+dialog: 
+text: [NOTE: CAMERA SITS BEFORE THEM ON THE TABLE HOLDING THEM
+dialog: IN A 2 SHOT.]
+text: Taylor and Zavala write up the paperwork on the arrest.
+text: The money and weapons on the table before them. Taylor
+text: holds up the Cowboy's chrome .45 and the stack of cash...
+speaker_heading: TAYLOR
+dialog: Here we have two of the major
+dialog: foodgroups. Money. And guns.
+speaker_heading: ZAVALA
+dialog: More than I make in a year right
+dialog: there, partner.
+text: Taylor holds up a property booking form TO CAMERA...
+speaker_heading: TAYLOR
+dialog: This is how the department runs.
+dialog: This is the lifeblood of our
+dialog: organization. Paper work.
+speaker_heading: (CONTINUED)
+dialog: 23
+dialog: 47.
+speaker_heading: CONTINUED: 23
+speaker_heading: ZAVALA
+dialog: Hours of it.
+speaker_heading: TAYLOR
+dialog: The way red corpuscles carry
+dialog: oxygen through the body, paperwork
+dialog: carries information through the
+dialog: department.
+speaker_heading: ZAVALA
+dialog: What's a corpuscle?
+text: Captain Reese enters. Taylor and Zavala tense.
+speaker_heading: CAPTAIN REESE
+dialog: Gentlemen.
+speaker_heading: ZAVALA/TAYLOR
+dialog: Good evening, sir.
+speaker_heading: CAPTAIN REESE
+dialog: So this is it? Quite some
+dialog: hardware.
+text: Captain Reese picks up the gold AK.
+speaker_heading: CAPTAIN REESE (CONT’D)
+dialog: Keep taking guns off the street.
+dialog: Then:
+speaker_heading: CAPTAIN REESE (CONT’D)
+dialog: Carry on.
+text: Captain Reese exits. Taylor watching him go.
+speaker_heading: ZAVALA
+dialog: You love him.
+speaker_heading: TAYLOR
+dialog: Women want him. Men want to be
+dialog: him.
+speaker_heading: ZAVALA
+dialog: You want him.
+speaker_heading: TAYLOR
+dialog: I'm not gay but I'd go down on him
+dialog: if he asked.
+speaker_heading: (CONTINUED)
+dialog: 23
+dialog: 24
+dialog: 48.
+speaker_heading: CONTINUED: (2) 23
+speaker_heading: ZAVALA
+dialog: Sometimes I don't know when you're
+dialog: kidding. I gotta know when you're
+dialog: kidding.
+speaker_heading: TAYLOR
+dialog: I'm not kidding.
+speaker_heading: ZAVALA
+dialog: Not cool. I gotta know.
+text: Taylor checks his watch. Suddenly stands...
+speaker_heading: TAYLOR
+dialog: I'm out of here. Taking Janet to
+dialog: the Philharmonic.
+speaker_heading: ZAVALA
+dialog: Ah-ha, motherfucker! How bad did
+dialog: you have to kiss her ass for being
+dialog: a dick? Knew you'd go back.
+speaker_heading: TAYLOR
+dialog: Bye.
+speaker_heading: ZAVALA
+dialog: Later. Enjoy your white people
+dialog: shit.
+scene_heading: CUT TO BLACK:
+scene_heading: A TITLE CARD READS:
+dialog: "THE FIRE"
+scene_heading: EXT./INT. SOUTH CENTRAL L.A./COP CAR (MOVING) - NIGHT 24
+text: It's 2 A.M. on one of those rare quiet nights. Zavala
+text: driving as usual. Taylor does books. Enters plates in
+dialog: the computer.
+speaker_heading: TAYLOR
+dialog: How did you know you were gonna
+dialog: marry Gabby?
+speaker_heading: ZAVALA
+dialog: She told me.
+speaker_heading: TAYLOR
+dialog: No for real.
+speaker_heading: (CONTINUED)
+dialog: 24
+speaker_heading: CONTINUED:
+dialog: 49.
+dialog: 24
+speaker_heading: ZAVALA
+dialog: I was just a stoner working at my
+text: Uncle's muffler shop. One day she
+text: grabs me by the shoulders and
+dialog: tells me we're getting married and
+dialog: I'm joining the department because
+dialog: I can make a lot money without a
+dialog: college degree. I was like
+dialog: "okay."
+speaker_heading: TAYLOR
+dialog: But you love her. I've never
+dialog: heard you say a bad word about
+dialog: her. You guys never fight.
+dialog: You're happy together.
+speaker_heading: ZAVALA
+dialog: All of the above. I'm just
+dialog: telling you how it went down. I
+dialog: dunno. I popped her cherry in
+dialog: High School. She's never been
+dialog: with anyone else. I never wanted
+dialog: anyone else. Ain't even kissed
+dialog: another chick since we hooked up.
+dialog: It was easy. It's always been
+dialog: easy.
+speaker_heading: TAYLOR
+dialog: Things are getting super serious
+dialog: with Janet.
+speaker_heading: ZAVALA
+dialog: You just found out? That in the
+dialog: paper today or something?
+dialog: Homegirl owns your ass.
+speaker_heading: TAYLOR
+dialog: She wants to move in. She's
+dialog: always over. Why spend the money
+dialog: on two apartments?
+speaker_heading: ZAVALA
+dialog: It ain't about money, dude.
+speaker_heading: TAYLOR
+dialog: Her parents are very traditional.
+dialog: They will go ballistic if she
+dialog: does. But at least we can tell
+dialog: them we're engaged.
+speaker_heading: ZAVALA
+dialog: Yo. Hold up. Don't play with
+dialog: that.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 50.
+speaker_heading: CONTINUED: (2) 24
+speaker_heading: ZAVALA (CONT'D)
+dialog: You don't ask some broad to marry
+dialog: you ‘cause her folks are old
+dialog: school. Think about this shit.
+dialog: Then think about it again. You're
+dialog: chill. You're not a partier. But
+dialog: marriage is forever. That's
+dialog: making a promise before God.
+speaker_heading: TAYLOR
+dialog: ...I know...
+dialog: (then)
+dialog: I'm scared shitless.
+speaker_heading: ZAVALA
+dialog: My grandma who's like deep, dude.
+dialog: She's like seen it all. Okay.
+dialog: When me and Gabby got engaged she
+dialog: asked me one thing. Wanna hear
+dialog: it?
+speaker_heading: TAYLOR
+dialog: Let's hear it.
+speaker_heading: ZAVALA
+dialog: She asked me if I could live
+dialog: without her. And if the answer
+dialog: was yes to forget her.
+speaker_heading: TAYLOR
+dialog: Wow.
+speaker_heading: ZAVALA
+dialog: Right, dude? That's some deep ass
+dialog: shit. Think about it.
+speaker_heading: TAYLOR
+dialog: I am.
+dialog: Then:
+speaker_heading: TAYLOR (CONT'D)
+dialog: Make a right. We got a fire.
+speaker_heading: ZAVALA
+dialog: Where? -- Oh shit.
+text: A large craftsman home is on fire.
+speaker_heading: TAYLOR
+dialog: (into mic)
+dialog: Thirteen-Adam-Thirteen. We're
+text: Code Six on a structure fire.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 24
+dialog: 25
+dialog: 26
+dialog: 51.
+speaker_heading: CONTINUED: (3) 24
+speaker_heading: TAYLOR (CONT'D)
+dialog: Six three one Twenty Sixth Street.
+dialog: You better send fire.
+scene_heading: EXT. BURNING HOUSE - NIGHT 25
+text: Zavala pulls up to the burning house -- It's nicely
+text: framed in the DASH CAM...
+text: A_WOMAN comes running out with her hair smoking SHRIEKING
+text: at the top of her lungs...
+text: Zavala and Taylor jump out. Zavala grabs the fire
+dialog: extinguisher form the trunk...
+dialog: FSSSSSSH! -- He douses the Woman...
+speaker_heading: WOMAN
+dialog: My babies are in there! My babies
+dialog: are in there!
+text: CRASH! -- A window breaks from the heat. Taylor and
+text: Zavala have mortified expressions...
+speaker_heading: ZAVALA
+dialog: Where?
+speaker_heading: WOMAN
+text: In the bedroom upstairs.
+text: Zavala looks at Taylor--
+speaker_heading: TAYLOR
+dialog: Z! No!
+text: --and runs inside the inferno -- Taylor runs in after
+dialog: him...
+scene_heading: INT. BURNING HOUSE - NIGHT 26
+scene_heading: LNOTE: WE'LL SEE THIS VIA THE BOYS' CHEST CAMS. ]
+text: Dark with black smoke. The fire ROARS. Flashes of
+dialog: bright flame...
+text: MOVING UPSTAIRS -- Brighter flame. Denser smoke...
+text: Now crawling on their hands and knees. Flame overhead.
+text: The smoke is an opaque moving wall...
+text: Sounds of GROANING wood. Breaking GLASS...
+speaker_heading: (CONTINUED)
+dialog: 26
+dialog: 27
+dialog: 28
+dialog: 52.
+speaker_heading: CONTINUED: 26
+text: INTO A BEDROOM -- Children's toys. A _bed with two TWIN
+text: BOYS in it -- Hiding terrified under a blanket...
+text: Arms grab them...
+text: CAMERA POV RACING out of the house...
+scene_heading: EXT. BURNING HOUSE - NIGHT 27
+text: The Woman is delighted as Zavala and Taylor race out each
+dialog: carrying a Twin...
+speaker_heading: WOMAN
+dialog: You got the twins! Where's my
+dialog: baby girl?
+speaker_heading: ZAVALA
+dialog: Lady you got more kids?
+speaker_heading: WOMAN
+dialog: My girl. She's two.
+text: Zavala and Taylor run back inside...
+scene_heading: INT. BURNING HOUSE - NIGHT 28
+dialog: It's worse -- Dense black smoke...
+text: They race upstairs...
+text: Now on their hands and knees. Bright flame. Terrible
+text: smoke. They're COUGHING...
+dialog: Into the kid's room -- Toys are now melting!!
+text: They find the other bed -- The blanket smoldering...
+dialog: It's empty!
+speaker_heading: ZAVALA
+dialog: Shit!
+speaker_heading: TAYLOR
+dialog: Let's go!
+text: Zavala checks under the bed -- The scared LITTLE GIRL
+text: underneath it stares back at him...
+text: Zavala snatches her up and runs...
+dialog: Taylor follows...
+speaker_heading: (CONTINUED)
+dialog: 28
+dialog: 29
+dialog: 30
+dialog: 31
+dialog: 53.
+speaker_heading: CONTINUED: 28
+text: CRASH! -- A window breaks -- The children's room flashes
+text: over with a camera blinding explosion...
+scene_heading: EXT. BURNING HOUSE -— NIGHT 29
+text: A firetruck rolls up with blaring SIRENS...
+text: Zavala and Taylor exit the house and collapse in the
+text: yard. The Woman CRIES with joy. Her daughter is alive.
+text: TWO FIREMEN come running, throw fire blankets on Taylor
+text: and Zavala's smoking uniforms...
+scene_heading: EXT. BURNING HOUSE - NIGHT 30
+text: [NOTE: THIS IS THE CHANNEL 7 NEWS REPORT ABOUT THE HEROIC
+speaker_heading: RESCUE. ]
+text: A shot of Firemen knocking down the massive flames with
+text: hoses.
+text: Now a shot of Taylor and Zavala breathing oxygen in their
+text: T-shirts as they sit on the bumper of an LAFD ambulance.
+text: Now a shot of the REPORTER doing her stand-up. It is
+text: much later. Firemen rolling up hoses in B.G.
+speaker_heading: REPORTER
+text: Two LAPD officers are being hailed
+dialog: as heroes tonight after rescuing
+text: three children from a burning home
+dialog: in South Central Los Angeles
+dialog: tonight. The officers, who the
+dialog: department has yet to identify,
+dialog: are being held overnight for
+dialog: observation. The three children
+dialog: have been transported to
+dialog: Children's Medical Center and are
+dialog: listed in good condition with
+dialog: minor smoke inhalation and minor
+dialog: burns. It is expected they will
+dialog: make a full recovery. Roger,
+dialog: Michelle, back to you in the
+text: newsroom.
+speaker_heading: CUT TO:
+scene_heading: INT. NEWTON — ROLL CALL ROOM — DAY 31
+dialog: 
+scene_heading: [NOTE: THIS IS SHOT BY A DEPARTMENT VIDEOGRAPHER. ]
+speaker_heading: (CONTINUED)
+dialog: 31
+dialog: 32
+dialog: 54.
+speaker_heading: CONTINUED: 31
+text: It's packed with COPS -- All shapes, sizes and ranks.
+text: Half the Station's people are here. Civilian employees
+dialog: too. They are waiting for something...
+text: Sarge runs into the room--
+speaker_heading: SARGE
+dialog: Here they come!
+text: A beat later Zavala and Taylor enter...
+speaker_heading: EVERYONE
+dialog: Welcome back!
+text: They look like deer in the headlights. They smile that
+dialog: tight smile when you're caught offguard...
+text: Captain Reese steps up and shakes hands with them...
+speaker_heading: CAPTAIN REESE
+dialog: Gentlemen you're a credit to not
+dialog: just Newton but the entire
+dialog: department. I wanted to let you
+dialog: know the Chief called me this
+dialog: morning. Both of you are going to
+dialog: receiving the Medal of Valor.
+dialog: Congratulations.
+text: Zavala and Taylor's stunned looks say it all...
+speaker_heading: CUT TO:
+scene_heading: EXT./INT. SOUTH CENTRAL L.A./COP CAR (MOVING) - DAY 32
+text: Zavala drives. Taylor keeps books. They seem quiet and
+dialog: reflective.
+speaker_heading: TAYLOR
+dialog: You feel like a hero?
+speaker_heading: ZAVALA
+dialog: No.
+speaker_heading: TAYLOR
+dialog: Me neither. What's a hero feel
+dialog: like?
+speaker_heading: ZAVALA
+dialog: I dunno. You know me and Gabby
+text: got in a huge fight over the fire.
+speaker_heading: (CONTINUED)
+dialog: 32
+speaker_heading: CONTINUED:
+dialog: 55.
+dialog: 32
+speaker_heading: TAYLOR
+dialog: You didn't tell me that.
+speaker_heading: ZAVALA
+dialog: She was mad I could'a died for
+dialog: someone else's kid and mine hasn't
+dialog: even been born. She's like
+dialog: "you're not a fireman."
+speaker_heading: TAYLOR
+dialog: Janet said the same thing. I keep
+dialog: having this dream I'm on fire and
+dialog: trapped in the house and I go to
+text: open the door and the two
+dialog: gangbangers we shot are standing
+dialog: there aiming guns at me and my
+text: holster's empty.
+speaker_heading: ZAVALA
+dialog: Jeeezus, dude.
+speaker_heading: TAYLOR
+dialog: I don't think I can go in another
+dialog: burning house. I only went in
+dialog: because you did.
+speaker_heading: ZAVALA
+dialog: I didn't even think about it.
+text: Started shaking in the hospital.
+text: Gabby came in the room and started
+text: crying right away.
+speaker_heading: TAYLOR
+dialog: I don't want a medal. I just want
+dialog: to forget it happened. Let's get
+text: in a gunfight or something fun.
+text: They bump fists:
+speaker_heading: ZAVALA
+dialog: I'm right there, bro.
+speaker_heading: TAYLOR
+dialog: Remember the cowboy with the
+dialog: blinged out AK?
+speaker_heading: ZAVALA
+dialog: Yep. He's probably my Cousin.
+speaker_heading: TAYLOR
+dialog: I crisscrossed some phone numbers
+text: in his cell. Couple addresses are
+dialog: in our basic area.
+speaker_heading: (CONTINUED)
+dialog: 32
+dialog: 33
+dialog: 56.
+speaker_heading: CONTINUED: (2) 32
+speaker_heading: ZAVALA
+dialog: You're not a detective.
+speaker_heading: TAYLOR
+dialog: That guy's something and he's into
+dialog: something. DA didn't buy the ADW.
+dialog: Only filed on the weapons beef. G-
+dialog: Unit says they'll get to him but
+dialog: they're too busy. Narcs aren't
+dialog: interested because we didn't find
+dialog: dope.
+speaker_heading: ZAVALA
+dialog: You're not a detective.
+speaker_heading: TAYLOR
+dialog: I want to be a detective.
+speaker_heading: ZAVALA
+dialog: Wannabe. You said it.
+speaker_heading: CUT TO:
+scene_heading: EXT. BOARDED UP HOUSE — DAY 33
+text: Taylor and Zavala get out and approach the house. The
+text: yard is dead. The window's covered with plywood.
+speaker_heading: ZAVALA
+dialog: Abandoned property?
+speaker_heading: TAYLOR
+dialog: Maybe. Look at all the locks on
+text: the door.
+text: He checks the side of the house SEES piles of garbage
+text: bags. Rips one open -- Paper plates spill out. He
+text: slashes open more bags -- All full of paper plates and
+text: plastic cups.
+speaker_heading: TAYLOR (CONT'D)
+dialog: Partner. Someone have a party?
+dialog: Squatters?
+speaker_heading: ZAVALA
+dialog: Food's all fresh.
+speaker_heading: TAYLOR
+dialog: This is weird.
+text: Taylor crosses to a plywood cover window. Shines his
+text: flashlight into a gap. Then...
+speaker_heading: (CONTINUED)
+dialog: 33
+dialog: 57.
+speaker_heading: CONTINUED: 33
+speaker_heading: WOMAN'S VOICE
+dialog: Ayudenos por favor!
+speaker_heading: TAYLOR
+dialog: (into mic)
+dialog: Thirteen-Adam-Thirteen. Code six.
+dialog: Nine thirty one Fifty Third
+dialog: Street. Requesting additional
+dialog: unit.
+text: Zavala POUNDS on the front door.
+speaker_heading: ZAVALA
+dialog: Policia! Abren la puerta!
+dialog: Policia!
+text: The inner door opens -- A TALL COWBOY -- Stands behind
+text: the heavy iron gate. Zavala's and Taylor's antennas are
+text: raised. With his heavy accent:
+speaker_heading: TALL COWBOY
+dialog: It's okay. It's okay.
+speaker_heading: ZAVALA
+dialog: Abre la puerta.
+speaker_heading: TALL COWBOY
+dialog: It's okay. Goodbye.
+speaker_heading: ZAVALA
+dialog: Vamos a tumbar la puerta si no
+dialog: abres.
+speaker_heading: TAYLOR
+dialog: Fuck this guy.
+text: Taylor draws his Glock and aims at the man through the
+dialog: door...
+text: The Tall Cowboy reluctantly unlocks the three deadbolts
+text: and steps aside.
+speaker_heading: TAYLOR (CONT'D)
+dialog: Sus manos. Levanta las manos.
+dialog: If looks could kill this Cowboy's expression would be
+dialog: lethal -- He's clearly a bad guy. The two ounce gold
+text: pistol hanging form his neck doesn't give the warm
+dialog: fuzzies...
+dialog: 34
+dialog: 35
+dialog: 58.
+scene_heading: INT. BOARDED UP HOUSE -— DAY 34
+text: Zavala draws his piece and moves inside. From OFFSCREEN:
+speaker_heading: ZAVALA
+dialog: Hook him up!
+text: Taylor steps in. Zavala has his gun on the Cowboy.
+text: Taylor spins him -- Revealing a_ magnum tucked in the
+text: small of the man's back.
+speaker_heading: TAYLOR
+dialog: Gun.
+text: Taylor takes the man's gun, shoves it in his belt. Cuffs
+text: the man. Searches him. Finds another gun clipped to his
+text: ostrich skin boot. Then a huge wad of cash in an AK-47
+text: shaped money clip in his pocket.
+speaker_heading: TAYLOR (CONT'D)
+dialog: (into radio)
+dialog: Thirteen-Adam-Fifteen. We have
+text: one in custody with a gun.
+text: Taylor shoves him to the floor face down.
+speaker_heading: ZAVALA
+dialog: Partner.
+text: Zavala nods for him to look. Taylor turns and his face
+dialog: falls...
+text: The house is packed with 50 ILLEGAL IMMIGRANTS -- They
+dialog: have just found a safe house for human trafficking.
+text: Orozco and Davis arrive. Looking pissed...
+speaker_heading: OROZCO
+dialog: Why you guys poaching in our area?
+text: She enters the house and sees the mass of miserable
+dialog: scared people, Men, Women, Children...
+speaker_heading: OROZCO (CONT'D)
+dialog: Omigod.
+speaker_heading: CUT TO:
+scene_heading: EXT. BOARDED UP HOUSE — DAY 35
+text: Taylor and Zavala and an ICE AGENT do stacks of paperwork
+text: on the hood of a black and white.
+speaker_heading: (CONTINUED)
+dialog: 59.
+speaker_heading: CONTINUED: 35
+text: Behind them the Immigrants are searched and processed by
+text: a half-dozen ICE AGENTS.
+speaker_heading: TAYLOR
+dialog: This is the second Cowboy like
+dialog: this we've run into.
+speaker_heading: ICE AGENT
+dialog: Watch out for these guys. They
+dialog: are bad, bad actors.
+speaker_heading: TAYLOR
+dialog: I know I'm just a street cop but
+dialog: I'd like a heads up here.
+speaker_heading: ICE AGENT
+dialog: We have indicators this guy's a
+dialog: footsoldier for the Sinaloa
+dialog: Cartel.
+speaker_heading: TAYLOR
+dialog: We didn't get any hits when we ran
+dialog: him.
+speaker_heading: ICE AGENT
+dialog: You're not privy to our databases.
+dialog: Cartel people are operating here.
+dialog: And we're watching. You don't
+dialog: have the proper clearance to hear
+dialog: more than that. Be careful with
+dialog: these guys.
+speaker_heading: ZAVALA
+dialog: What does that mean?
+speaker_heading: ICE AGENT
+dialog: It means they're major players and
+dialog: you and your homeboy need to power
+dialog: down.
+text: The Ice Agent walks away -- Zavala and Taylor trade
+dialog: looks.
+speaker_heading: ZAVALA
+dialog: ...Feds...
+scene_heading: EXT. BIG EVIL'S HOUSE - NIGHT 36
+scene_heading: [NOTE: THIS IS HANDHELD FOOTAGE SHOT BY THE GANGSTERS
+scene_heading: THEMSELVES. ]
+speaker_heading: (CONTINUED)
+dialog: 36
+dialog: 60.
+speaker_heading: CONTINUED: 36
+text: A house party is in full swing. The music BUMPS. We
+dialog: recognize Big Evil, Wicked, La La, Demon. There's a
+text: dozen YOUNG HOMIES and a plethora of HOODRATS and FINE
+text: MAMIS. Demon rolls a blunt. Watching a Young Homie do
+dialog: the "Crip Walk."
+text: Big Evil waves over a VERY PRETTY GIRL. Hands her a
+text: plastic cup of beer. Innocence in the lion's den.
+speaker_heading: BIG EVIL
+dialog: C'mere, baby doll. Drink the Jim
+dialog: Jones.
+scene_heading: VERY PRETTY GIRL
+dialog: Okay.
+speaker_heading: DEMON
+dialog: Eh, you like coke?
+scene_heading: VERY PRETTY GIRL
+dialog: No.
+speaker_heading: DEMON
+dialog: You ever fucked on heroin?
+scene_heading: VERY PRETTY GIRL
+dialog: Yeah right.
+speaker_heading: DEMON
+dialog: I can fuck forever on that shit.
+dialog: I'll eat your pussy for hours.
+scene_heading: VERY PRETTY GIRL
+dialog: You guys are crazy.
+speaker_heading: LA LA
+dialog: Turn around, mija. Let me check
+text: out the nalgas.
+text: The Pretty Girl does. Adlibs of "Damn" from the Cholos.
+speaker_heading: LA LA (CONT'D)
+dialog: Get with me, yeah. These fools
+dialog: just wanna hit it and quit it.
+dialog: I'll make you my lady. Buy you
+dialog: shit.
+speaker_heading: WICKED
+dialog: Buy her a fuckin' raspado at the
+dialog: swap meet.
+speaker_heading: LA LA
+dialog: Shut-up.
+speaker_heading: (CONTINUED)
+dialog: 36
+dialog: 61.
+speaker_heading: CONTINUED: (2) 36
+text: La La pulls out a huge wad of cash.
+speaker_heading: LA LA (CONT'D)
+dialog: Louis Vuitton. Jimmy Chu's.
+dialog: C'mere, mamita.
+text: La La grabs her hand and pulls her onto her lap. Plants
+text: on a long kiss.
+speaker_heading: DEMON
+dialog: Aw, hell no.
+text: Suddenly a LOOKOUT comes running into the back...
+speaker_heading: LOOKOUT
+dialog: Alli viene la jura!
+speaker_heading: BIG EVIL
+dialog: Hide the fuscas, perrito.
+text: Big Evil, Demon and La La quickly hand him their guns.
+text: The Lookout scrams, disappearing through a hole in the
+dialog: fence...
+text: Taylor, Zavala, Orozco and Davis come walking into the
+dialog: back.
+scene_heading: LNOTE: NOW WE'LL ADD COVERAGE FROM TAYLOR AND ZAVALA'S
+speaker_heading: CHESTCAMS. J
+speaker_heading: ZAVALA
+dialog: Hide the guns. Hide the dope.
+dialog: The jura's here.
+speaker_heading: TAYLOR
+dialog: What's the occasion?
+speaker_heading: BIG EVIL
+dialog: Just kicking back sir.
+dialog: Everything's under control.
+text: La La lights a blunt. Orozco glares at her.
+speaker_heading: OROZCO
+dialog: Have some respect, La La. Don't
+text: smoke in front of us.
+speaker_heading: LA LA
+dialog: Take a hit. Shit'll chill you
+dialog: out, Malinche.
+speaker_heading: (CONTINUED)
+dialog: 62.
+speaker_heading: CONTINUED: (3) 36
+speaker_heading: OROZCO
+dialog: You even know who the Malinche
+dialog: was?
+speaker_heading: LA LA
+dialog: She was an 0.G. paisa. When
+dialog: Hernan Cortes came with the
+dialog: Spanish soldiers to conquer the
+dialog: Aztecs she helped him, she became
+dialog: his old lady and betrayed her own
+dialog: people. Like you.
+speaker_heading: OROZCO
+dialog: No La La. Like you. Gangbanging.
+dialog: Slanging. Making this a bad place
+dialog: for kids to live.
+speaker_heading: LA LA
+dialog: I enjoy your theories. You know
+dialog: you want this.
+text: La La gestures at her sturdy, curvy body.
+speaker_heading: OROZCO
+dialog: I wouldn't fuck you if you were
+dialog: the last bitch on Earth.
+speaker_heading: ZAVALA
+dialog: Duuude. You did not just say
+dialog: that.
+speaker_heading: TAYLOR
+dialog: So Mr. Big Evil. Why do they call
+dialog: you Big Evil?
+speaker_heading: BIG EVIL
+dialog: Because my evil is big.
+speaker_heading: TAYLOR
+dialog: You heard it here first, ladies
+dialog: and gentlemen. His evil is big.
+dialog: Can you turn down the music? We
+dialog: had a noise complaint.
+speaker_heading: BIG EVIL
+dialog: Consider it done, officer.
+scene_heading: CUT TO BLACK:
+scene_heading: SUPER CARD: WELCOME TO THE WORLD MIGUEL ZAVALA JR.
+dialog: 37
+dialog: 63.
+scene_heading: INT. HOSPITAL ROOM — DAY 37
+scene_heading: [NOTE: HANDHELD VIDEO FROM GABBY'S SISTER HILDA. J]
+text: Gabby in bed, breast-feeding her new baby. Zavala sits
+text: next to her, both look content and exhausted. GABBY'S
+text: MOM and her brother JOE are also present.
+speaker_heading: GABBY'S MOM
+text: Gabby hold his head.
+speaker_heading: GABBY
+dialog: I am. Mommy, he's fine.
+speaker_heading: GABBY'S MOM
+dialog: Put him in your elbow like this.
+speaker_heading: JOE
+text: Like a football.
+speaker_heading: GABBY
+dialog: I can hold a baby.
+text: Zavala grins helplessly. Overwhelmed. Then he brightens
+text: up and smiles.
+speaker_heading: ZAVALA
+dialog: Partner! Yo!
+text: CAMERA PANS -- To find Taylor and Janet entering the
+text: room. Taylor sets a vase of flowers on a shelf.
+speaker_heading: GABBY
+dialog: They're so pretty, thank you.
+speaker_heading: JANET
+dialog: How's mama doing?
+speaker_heading: GABBY
+dialog: Mama's tired and cranky. Just
+dialog: like baby. Mama wants to choke
+dialog: her mama.
+speaker_heading: GABBY'S MOM
+dialog: Gabby.
+speaker_heading: JANET
+dialog: You have a lot of hands to help
+dialog: out.
+speaker_heading: ZAVALA
+dialog: And a lot of opinions.
+speaker_heading: (CONTINUED)
+dialog: 37
+dialog: 38
+dialog: 64.
+speaker_heading: CONTINUED: 37
+speaker_heading: TAYLOR
+dialog: You name him Brian?
+speaker_heading: ZAVALA
+dialog: Sorry, bro.
+speaker_heading: GABBY
+dialog: He's a junior. Named him after
+dialog: his daddy.
+speaker_heading: JOE
+dialog: So what's his name?
+speaker_heading: GABBY'S MOM
+dialog: Joe. Be nice, mijo. That's your
+dialog: nephew.
+speaker_heading: JANET
+dialog: Can I hold him?
+text: A beat. Every new mom is VERY protective. Gabby smiles.
+text: Nods: yes. Janet carefully takes the newborn in her
+dialog: arms.
+speaker_heading: GABBY'S MOM
+dialog: See, mija? That's how you hold a
+dialog: baby.
+text: Janet gently rocks the baby, cooing and smiling. The
+text: infant grabs her nose. She loves kids. Zavala looks at
+text: Taylor and grins...
+speaker_heading: ZAVALA
+dialog: You are so done.
+text: Taylor looks at Zavala. And knows he's right.
+scene_heading: INT. BILTMORE HOTEL — GRAND BALLROOM — NIGHT 38
+dialog: 
+scene_heading: [NOTE: VARIOUS SHOTS FROM OFFICIAL DEPARTMENT FOOTAGE,
+scene_heading: HANDHELD CAMERAS, CELLPHONES, ETC. ]
+text: It's the LAPD's annual Medal of Valor Ceremony. Up on
+dialog: the stage are this years recipients -- Ten COPs of all
+text: ages and colors looking crisp in their best dress blue
+text: uniforms. Taylor and Zavala are among them. Proud,
+text: heads held high.
+text: The MAYOR of LA reads from their commendation...
+text: During his speech we will see various shots of Janet and
+text: Gabby in the audience.
+speaker_heading: (CONTINUED)
+dialog: 38
+dialog: 39
+dialog: 65.
+speaker_heading: CONTINUED: 38
+text: Taylor and Zavala on stage looking humbled. Of their
+text: BROTHER AND SISTER COPS in the audience. Of the rows of
+text: LAPD BRASS and various city BIG SHOTS. Gabby holds their
+text: newborn of course, tears in her eyes. Janet too...
+speaker_heading: L.A. MAYOR
+dialog: Officers Brian Taylor and Officer
+dialog: Miguel Zavala were on routine
+dialog: patrol in the six hundred block of
+dialog: Twenty-Sixth street when they saw
+text: smoke and flame coming from a fire
+text: at a house. A woman exited the
+dialog: house and told the officers that
+text: her children were inside. Without
+dialog: waiting for the fire department
+dialog: and without protective equipment,
+dialog: the officers entered the burning
+dialog: structure at great personal risk.
+text: The officers, working as a team,
+text: rescued the woman's twin sons.
+text: Upon exiting the house, they
+dialog: learned that an additional child
+text: was inside. They reentered what
+text: was now an inferno and feeling
+text: their way through the smoke found
+dialog: the woman's daughter and saved the
+dialog: child from certain death. For
+dialog: their selfless actions and
+dialog: exemplary service to the citizens
+dialog: of this city, the department is
+dialog: proud to award Officer Taylor and
+dialog: Officer Zavala the department's
+dialog: highest award; the Medal of Valor.
+text: Now the CHIEF OF POLICE hangs medals around the necks of
+text: Taylor and Zavala and shakes their whitegloved hands.
+text: The two officers return to their place in the line of
+text: recipients, verily glowing. Even to the hardest cop it's
+dialog: a great feeling.
+text: Gabby can't help it, she screams...
+speaker_heading: GABBY
+dialog: We love you, Mike!
+scene_heading: EXT./INT. SOUTH CENTRAL L.A./COP CAR (MOVING) - NIGHT 39
+text: Zavala drives. With the usual new-father pall of
+dialog: sleeplessness. Taylor doing books.
+speaker_heading: (CONTINUED)
+dialog: 66.
+speaker_heading: CONTINUED: 39
+speaker_heading: TAYLOR
+dialog: You have to sleep. I can't carry
+dialog: you every watch.
+speaker_heading: ZAVALA
+dialog: What?
+speaker_heading: TAYLOR
+dialog: Drink more coffee.
+speaker_heading: ZAVALA
+dialog: I'm on my ninth Red Bull. We're
+dialog: taking turns feeding, but dang,
+dialog: sometimes the little guy just goes
+dialog: off. Like you heard of colic?
+dialog: That's what they call it when
+dialog: nothing you do makes the kid stop
+text: crying. The dude screams so loud
+dialog: I can feel it my soul. Shit is
+dialog: real. I just wanna play football
+dialog: with him and tell him to watch out
+dialog: for skanks already.
+speaker_heading: TAYLOR
+dialog: Give it a few weeks. You guys
+dialog: will be barhopping together.
+text: Then -- A panic filled voice breaks over the radio:
+speaker_heading: ROOKIE V.O.
+dialog: (filtered)
+dialog: Thirteen-Adam-Forty-three!
+dialog: Officer needs help!
+text: Zavala and Taylor are immediately hit with an adrenaline
+dialog: rush -- Waiting for her location -- It doesn't come...
+speaker_heading: TAYLOR
+dialog: Where! Where are you?
+speaker_heading: DISPATCH VOICE
+dialog: Thirteen-Adam-Forty-three what is
+dialog: your location?
+speaker_heading: ROOKIE V.O.
+dialog: .--I don't know...
+speaker_heading: TAYLOR
+dialog: That's Van Hauser's car. Just
+dialog: book it South. Go. Go.
+text: Zavala flips a U. Guns the engine...
+speaker_heading: (CONTINUED)
+dialog: 39
+dialog: 67.
+speaker_heading: CONTINUED: (2) 39
+speaker_heading: TAYLOR (CONT'D)
+dialog: (into mic)
+text: Find a street sign and put it out.
+speaker_heading: ROOKIE V.O.
+dialog: (filtered)
+dialog: I don't see any.
+speaker_heading: ZAVALA
+dialog: Pendeja!
+speaker_heading: TAYLOR
+dialog: Can you read a number off a
+dialog: building? A house number?
+dialog: 
+speaker_heading: ROOKIE V.O.
+dialog: (filtered)
+dialog: The house says three one seven
+dialog: seven.
+text: Then the Rookie SCREAMS -- Her mike cuts off. Silence.
+speaker_heading: TAYLOR
+dialog: Holy shit. Go! Go! Hook down
+text: Maple then swing left on Thirty
+dialog: first.
+dialog: (into mic)
+dialog: Thirteen-Adam-Thirteen enroute
+dialog: code three.
+speaker_heading: DISPATCH
+dialog: Thirteen-Adam-Thirteen. Roger.
+dialog: Code three.
+text: Zavala makes a hard turn. The ENGINE howls. The SIREN
+text: BLARES...
+text: Taylor and Zavala scan the side streets looking for Van
+dialog: Hauser's black and white...
+speaker_heading: TAYLOR
+dialog: There!
+text: SCREECH! -- Zavala slams the brakes, spinning their car
+text: in a 180 -- Then guns it down 3lst. Street...
+text: UP AHEAD -- Is Van Hauser's car...
+speaker_heading: TAYLOR (CONT'D)
+dialog: Thirteen-Adam-Thirteen. Code six.
+dialog: Thirty one hundred block of Dorsey
+dialog: Ave.
+speaker_heading: (CONTINUED)
+dialog: 39
+dialog: 40
+dialog: 68.
+speaker_heading: CONTINUED: (3) 39
+text: Taylor unlocks the shotun...
+text: Their car slides to a stop and the two cops spring out...
+scene_heading: EXT. DORSEY AVENUE -— NIGHT 40
+scene_heading: LNOTE: COMBINATION OF DASHCAM FOOTAGE AND THE BOYS'
+scene_heading: WEARABLE CAMERAS. ]
+text: Taylor and Zavala run past the car. There sitting on the
+text: ground is Van Hauser -- He has a large kitchen knife
+text: sticking out of his eye. It's amazing he's still alive.
+speaker_heading: TAYLOR
+dialog: Don't move, brother. Do not move.
+speaker_heading: VAN HAUSER
+dialog: ..-Hispanic zerohead. Parolee.
+dialog: White T. He's huge...
+speaker_heading: TAYLOR
+dialog: (into radio)
+dialog: Thirteen-Adam-Thirteen. Officer
+text: down. Knife wound to the head,
+text: conscious and breathing. Request
+dialog: supervisor and an RA. Suspect is
+text: a male Hispanic. Shaved head.
+text: White T-shirt. Heavyset. On
+text: foot, Eastbound through houses,
+dialog: thirty one hundred block, Dorsey
+dialog: Ave. Responding unit take Dorsey
+dialog: and Thirtieth Street.
+text: They HEAR the ROOKIE SCREAM...
+text: Zavala swings his flashlight...
+text: DOWN A DRIVEWAY -- A GIANT FAT CHOLO sits on top of the
+text: Korean Rookie punching her in the face over and over...
+text: KERCHACK! -- Taylor racks the shotgun...
+speaker_heading: TAYLOR (CONT'D)
+dialog: Get the fuck off her or I will
+dialog: blow you out of your socks!
+text: The ex-con Cholo instantly complies -- He grabs the sky,
+text: fingers outstretch. He's had his fun -- As calm as can
+dialog: be...
+speaker_heading: (CONTINUED)
+dialog: 40
+dialog: 69.
+speaker_heading: CONTINUED: 40
+speaker_heading: GIANT FAT CHOLO
+dialog: Be cool. I'm done, sir. Be cool.
+dialog: I ain't resisting. I'ma go with
+dialog: you now, officer.
+text: WHAM! -- Zavala tackles him. Cuffs him. Searches him.
+speaker_heading: TAYLOR
+dialog: (into radio)
+dialog: Thirteen-Adam-Thirteen. Show a
+dialog: Code four. One in custody.
+text: Now EVERY SIREN IN THE WORLD blows out the sound as the
+text: cavalry has finally arrived...
+text: Zavala checks out the Rookie and REACTS -- Her face may
+dialog: never be the same.
+speaker_heading: ZAVALA
+dialog: You're safe now. You're safe.
+speaker_heading: JUMP CUT:
+text: Taylor holding Van Hauser's hand as he is loaded into the
+text: ambulance. The knife is taped in place. He is still
+dialog: very lucid...
+speaker_heading: TAYLOR
+dialog: You're going to be okay. We got
+dialog: your back, brother. Whatever you
+dialog: need.
+text: The badly wounded salty old cop smiles and croaks:
+speaker_heading: VAN HAUSER
+dialog: ..-thanks...
+speaker_heading: SARGE
+dialog: Taylor!
+scene_heading: TAYLOR TURNS -- BRINGING SARGE INTO VIEW ON HIS
+text: CHESTCAM...
+dialog: 
+speaker_heading: SARGE (CONT'D)
+dialog: Taylor. Hey. Why didn't you blow
+dialog: that asshole away? You had him
+dialog: dead to rights.
+text: A beat.
+speaker_heading: TAYLOR
+dialog: Sarge, I didn't feel like killing
+dialog: anyone tonight.
+speaker_heading: (CONTINUED)
+dialog: 40
+dialog: 4l
+dialog: 70.
+speaker_heading: CONTINUED: (2) 40
+speaker_heading: SARGE
+dialog: You guys did good. Let's get this
+dialog: written up. Make sure all the
+dialog: logs match. Brass'll need clean
+dialog: paper on this one.
+text: DASH CAM SHOT -- Zavala walks up, joins Sarge and
+dialog: Taylor...
+speaker_heading: ZAVALA
+dialog: Sarge. You see that shit? Van H
+dialog: had a goddamn Ginsu set in his
+dialog: eye.
+speaker_heading: SARGE
+dialog: He ain't coming back. Split his
+dialog: eyeball. You could see his lens
+dialog: hanging out. Rookie ain't coming
+dialog: back either.
+text: Sarge pulls the Rookie's badge from his pocket.
+speaker_heading: SARGE (CONT'D)
+dialog: She gave me this for the Watch
+dialog: Commander.
+text: A quiet beat as three veteran cops bathed in the glow of
+text: a black and white's headlights ponder the fragile nature
+dialog: of their lives...
+scene_heading: EXT./INT. SOUTH CENTRAL L.A./COP CAR (MOVING) - DAY 41
+text: ZAVALA DRIVING, SMILES INTO THE HANDHELD CAMERA THAT
+scene_heading: TAYLOR HOLDS.
+speaker_heading: ZAVALA
+dialog: On today's episode we're rolling
+dialog: to acall. It's just a welfare
+dialog: check. A woman called the station
+text: to check on her elderly mother.
+speaker_heading: TAYLOR
+dialog: These are the kind of calls that
+dialog: most agencies deal with. Not
+dialog: every call is a foot pursuit or a
+text: car chase. There are officers at
+dialog: other places that have never drawn
+dialog: their weapon or been in a
+text: gunfight.
+speaker_heading: (CONTINUED)
+dialog: 4l
+dialog: 42
+dialog: 43
+dialog: 71.
+speaker_heading: CONTINUED: 41
+speaker_heading: ZAVALA
+dialog: Here that's everyday before Code-
+dialog: Seven.
+speaker_heading: TAYLOR
+dialog: Code seven is lunch for you
+text: civilians out there.
+scene_heading: EXT. WELFARE CHECK HOUSE — DAY 42
+text: Zavala and Taylor at the door. They KNOCK.
+speaker_heading: TAYLOR
+text: Mrs. Williams. Police officers.
+speaker_heading: ZAVALA
+dialog: Probably didn't change the battery
+text: on her hearing aid.
+text: JUMP CUT -- Zavala returning to the porch after checking
+dialog: the windows.
+speaker_heading: TAYLOR
+dialog: So the daughter is the owner of
+dialog: the house and has given us
+dialog: permission to enter for a welfare
+dialog: check. We're going to boot the
+dialog: door.
+text: Zavala cocks back his size ten and -- WHAM! Kicks open
+text: the front door.
+speaker_heading: ZAVALA
+text: When she rolls up from church
+dialog: bingo or the store or whatever and
+text: sees the property damage, then
+dialog: we'll be the bad guys.
+dialog: That's when the smell hits them...
+speaker_heading: TAYLOR
+dialog: We got a body.
+text: They pull their flashlights and enter the dark house...
+scene_heading: INT. WELFARE CHECK HOUSE — DAY 43
+text: The vibe is one of danger and foreboding. This is a very
+dialog: bad place to be...
+speaker_heading: (CONTINUED)
+dialog: 43
+dialog: 72.
+speaker_heading: CONTINUED: 43
+text: Taylor and Zavala immediately sense something is very
+dialog: wrong. They draw their weapons...
+speaker_heading: TAYLOR
+dialog: LAPD!
+speaker_heading: ZAVALA
+dialog: Policia!
+text: Taylor turns down his radio, and they listen a beat.
+text: It's dead quiet -- Just the BUZZING of flies.
+text: The living room is full of empty beer bottles, holes are
+text: punched in the wall. There are extensive gang tags.
+speaker_heading: TAYLOR
+dialog: Squatters?
+speaker_heading: ZAVALA
+dialog: Looks like the eses been kickin'
+dialog: back here.
+text: They begin clearing hiding places. Taylor opens a
+dialog: closet...
+speaker_heading: TAYLOR
+dialog: Found her.
+text: INSIDE THE CLOSET -- Is the corpse of an OLD WOMAN
+text: wrapped in plastic and duct tape. Brown liquid pooling
+dialog: inside.
+speaker_heading: TAYLOR (CONT'D)
+dialog: (into radio)
+dialog: Thirteen-Adam-Thirteen. Request
+dialog: supervisor. Possible one eight
+dialog: seven.
+text: They move further into the dark old house. Zavala opens
+text: a bedroom.
+speaker_heading: ZAVALA
+dialog: Brian.
+text: Taylor enters...
+text: Inside are several cases of pickled chilies in glass jars
+dialog: from Mexico...
+speaker_heading: TAYLOR
+dialog: This is random.
+speaker_heading: (CONTINUED)
+dialog: 43
+dialog: 44
+dialog: 45
+dialog: 46
+dialog: 73.
+speaker_heading: CONTINUED: (2) 43
+text: Taylor unscrews a jar. Pours it out -- A plastic and
+text: foil wrapped cylinder falls out. Taylor kneels and cuts
+text: it open -- Reveals white crystalline powder...
+speaker_heading: TAYLOR (CONT'D)
+dialog: Dope.
+text: They keep moving to clear the final room -- It's door is
+text: double padlocked. Zavala gives it the boot...
+scene_heading: INT. WELFARE CHECK HOUSE — BACK ROOM — NIGHT 44
+text: WHAM! -- The door flies off it's frame and Zavala and
+dialog: Taylor enter...
+text: It's a nightmare inside. The room is lined with black
+text: plastic. Five bodies in their underwear lay BEHEADED,
+text: arms bound behind their back. They men have clearly been
+dialog: tortured...
+scene_heading: EXT. WELFARE CHECK HOUSE — NIGHT 45
+text: Now surrounded by yellow tape, COP CARS, UNMARKEDS and
+speaker_heading: CORONER'S VANS.
+text: We jump into the Channel 7 news story midstream...
+speaker_heading: REPORTER
+dialog: --one of the largest narcotics
+dialog: seizures in what can only be
+text: described as a gruesome discovery.
+dialog: The five bodies were described as
+text: showing evidence of torture. A
+dialog: police official familiar with the
+dialog: investigation denied rumors that
+dialog: Mexican Drug Cartels are
+dialog: responsible for the murders. As
+dialog: you can see behind me, FBI and
+dialog: Homeland Security Agents have
+dialog: taken over the crimescene--
+scene_heading: CLICK -- CAMERA TURNS OFF. BLACK SCREEN. THEN:
+scene_heading: EXT. STEVEN'S STEAKHOUSE — NIGHT 46
+scene_heading: [NOTE: THIS IS GRAINY FBI SURVEILLANCE FOOTAGE SHOT WITH
+scene_heading: A NIGHTVISION LENS. 1]
+speaker_heading: (CONTINUED)
+dialog: 46
+dialog: 74.
+speaker_heading: CONTINUED: 46
+scene_heading: A_SUPERIMPOSED TITLE READS: "FBI -- LAW ENFORCEMENT USE
+speaker_heading: ONLY"
+text: This is a steak and dinnershow place for monied Mexicans.
+text: In a corner of the parking lot, a group of MEXICAN
+text: COWBOYS is gathered by a couple horse trailers.
+text: OVER WE HEAR -- A subtitled cellphone intercept of two
+text: CARTEL MEMBERS speaking Spanish in a Sinaloa drawl...
+speaker_heading: VOICE 1
+dialog: We're having a lot of problems.
+dialog: Many problems. The people South
+dialog: want something done. This is two
+dialog: cops, right? Two regular
+dialog: policemen?
+speaker_heading: VOICE 2
+dialog: Yes. They are policemen.
+speaker_heading: VOICE 1
+dialog: My bosses, the top bosses, want
+dialog: them taken care of.
+speaker_heading: VOICE 2
+dialog: They're police.
+speaker_heading: VOICE 1
+dialog: They are local police. Bad things
+dialog: happen to police all the time. It
+dialog: is a dangerous job.
+speaker_heading: VOICE 2
+dialog: I understand, boss. But it is
+dialog: different here. In Mexico I would
+dialog: take care of tonight.
+speaker_heading: VOICE 1
+dialog: Look. You don't take care of
+dialog: these assholes soon, we both will
+dialog: lose our heads. I am not going to
+dialog: argue with you. If you can't do
+dialog: it, tell me. There are many of us
+dialog: there now.
+speaker_heading: VOICE 2
+dialog: It's okay. Consider them cooked.
+speaker_heading: VOICE 1
+dialog: Okay. Don't leave our prints on
+dialog: this. It has to look routine.
+speaker_heading: (CONTINUED)
+dialog: 46
+dialog: 47
+dialog: 48
+dialog: 75.
+speaker_heading: CONTINUED: (2) 46
+speaker_heading: VOICE 2
+dialog: That's no problem. There's lots
+dialog: of crazy people here. People that
+dialog: hate cops. People in gangs.
+speaker_heading: VOICE 1
+dialog: Okay. Take some of the money.
+dialog: Just write down on what you spend
+dialog: it on. Soon. Do it soon.
+speaker_heading: VOICE 2
+dialog: Yes sir.
+speaker_heading: CLICK.
+speaker_heading: CUT TO:
+scene_heading: TITLE CARD: MR. AND MRS. BRIAN TAYLOR
+scene_heading: EXT. CASTAWAY'S RESTAURANT -— DAY 47
+text: [NOTE: THIS IS MOSTLY WEDDING VIDEOGRAPHER FOOTAGE WITH
+scene_heading: SOME CELLPHONE AND HANDHELD COVERAGE. ]
+text: The wedding gazebo overlooks an epic view of Burbank.
+text: Janet is in a traditional gown, Taylor wears crisp dress
+text: blues. They stand before their PASTOR...
+speaker_heading: PASTOR
+dialog: You may kiss the bride.
+text: Taylor lifts her veil. There are tears in both their
+text: eyes. This is a couple that is truly in love...
+dialog: They kiss -- And the crowd goes nuts!
+dialog: NOW WE SEE -- Zavala is his Best Man...
+text: There's a few COPS in uniform. A couple MARINES in their
+text: iconic blues. Taylor's PARENTS, white haired solid
+text: citizens from Ohio. And a strong showing from Janet's
+scene_heading: EXTENDED IRISH FAMILY...
+text: CAMERA FINDS Gabby, holding her baby. The normally tough
+text: woman dabs her eyes with a fistful of tissue.
+scene_heading: INT. RECEPTION HALL — NIGHT 48
+text: The couple has their first dance -- Looking into each
+text: other's eyes, smiling. Slowdancing to Lionel Ritchie...
+speaker_heading: (CONTINUED)
+dialog: 48
+dialog: 76.
+speaker_heading: CONTINUED: 48
+text: Then the DJ switches it up and BUMPS some Sir Mix-A-Lot.
+text: Janet and Taylor break into the routine they've been
+text: working on. Lot's of spins, dips and choreographed hip
+text: hop moves. Utterly hilarious...
+text: Now Janet and Taylor cut the cake. They end up smearing
+text: cake on each other's faces...
+text: It's time for the toast. Zavala stands before the
+text: newlyweds. He's already a little in the bag...
+speaker_heading: ZAVALA
+dialog: I've known Brian since the
+dialog: academy. He helped me with the
+dialog: coursework. And I helped harden
+dialog: him up so he could pass PT. I
+dialog: don't really like cops. Maybe
+dialog: ‘cause of where I grew up. But
+dialog: Brian was cool so I figured we
+dialog: should work patrol together. You
+text: sit in a car with the same dude
+dialog: watch after watch and you know
+dialog: them. And the second I saw him
+dialog: with Janet, I'm like that's it.
+dialog: She's his lady. So I'm not
+dialog: surprised to be here. Just that
+dialog: it took so long. And Janet, you
+dialog: got a lot of heart hooking up with
+dialog: acop. You gotta be a strong
+dialog: person. I see a lot of cops'
+dialog: wives here and they're all nodding
+dialog: their heads. We're all hoping
+dialog: that you can make a man out of
+dialog: Brian because we've given up.
+dialog: (to Brian)
+dialog: Don't give me that look. Brother,
+dialog: you take care of her. ‘Cause I'm
+dialog: her big brother now. All these
+dialog: cops in here. We're her family
+dialog: now too. Okay. Let's drink
+dialog: already. I'm tired of holding
+dialog: this glass up. To Brian and
+text: Janet. Cheers.
+speaker_heading: EVERYONE
+dialog: Cheers.
+text: LATER -- The boys are huddled for shots of tequila.
+text: Orozco is there in a pretty dress. The Sarge. Other
+dialog: NEWTON COPS we recognize.
+speaker_heading: (CONTINUED)
+dialog: 77.
+speaker_heading: CONTINUED: (2) 48
+speaker_heading: ZAVALA
+dialog: Orozco, I didn't know you were
+dialog: pretty.
+speaker_heading: SARGE
+dialog: That statement could be
+text: misconstrued.
+speaker_heading: ZAVALA
+dialog: By who? Orozco's the mean ass
+dialog: ugly big sister who shoots people
+dialog: I never had.
+speaker_heading: OROZCO
+dialog: Sarge, it's Taylor's reception.
+dialog: Put the badge away.
+speaker_heading: SARGE
+dialog: Okay. Sorry.
+text: Zavala pours everyone shots of Patron. The knot of Cops,
+text: two Marines Taylor served with, hold up their glasses.
+speaker_heading: ZAVALA
+dialog: Why'd you get married in uniform,
+dialog: bro? If you worked at Best Buy
+dialog: would you wear the stupid polo
+dialog: shirt?
+speaker_heading: TAYLOR
+dialog: Hell yes. I'm representing. You
+dialog: know I love you.
+speaker_heading: OROZCO
+dialog: Here they go.
+speaker_heading: ZAVALA
+dialog: I love you too, brother.
+speaker_heading: TAYLOR
+dialog: Serious. I'd lay down my life for
+dialog: you.
+speaker_heading: ZAVALA
+dialog: I'd take a bullet for you, homie.
+speaker_heading: SARGE
+dialog: Why didn't you two get married?
+text: Closer than girlfriends.
+speaker_heading: TAYLOR
+dialog: Okay-okay-okay. Everyone just
+dialog: shut up and take a shot.
+speaker_heading: (CONTINUED)
+dialog: 48
+dialog: 78.
+speaker_heading: CONTINUED: (3) 48
+speaker_heading: ZAVALA
+dialog: Salud, bitch!
+speaker_heading: EVERYONE
+dialog: Salud!
+text: They down the shots.
+text: LATER -- Music BUMPS, people dance. Taylor and Janet and
+text: Zavala and Gabby sit at a table, relaxed, content.
+speaker_heading: GABBY
+dialog: Marriage is pretty basic. You
+dialog: gotta give it up all the time.
+dialog: Girls throw it at cops. Don't
+dialog: give him a reason, sweetheart.
+speaker_heading: ZAVALA
+dialog: Gabby.
+speaker_heading: GABBY
+dialog: And you got to be a freak, girl.
+dialog: Try new things.
+speaker_heading: ZAVALA
+dialog: You're cut off.
+text: Orozco comes running up with a worried expression...
+speaker_heading: OROZCO
+dialog: Hey. Sarge is hell'a faded and
+dialog: crying about his partner that got
+dialog: shot back in the day and his wife
+dialog: wants him to go home. We gotta
+dialog: get him in the car.
+speaker_heading: GABBY
+dialog: Go help your boss.
+text: Zavala gets up, follows Orozco.
+speaker_heading: JANET
+dialog: Do you ever get jealous? Of the
+dialog: female officers?
+speaker_heading: GABBY
+dialog: Cops or not. Any of those bitches
+dialog: touch my man I will kill them.
+dialog: Straight up.
+speaker_heading: TAYLOR
+dialog: She will too. You down for a one
+dialog: eight seven?
+speaker_heading: (CONTINUED)
+dialog: 48
+dialog: 49
+dialog: 50
+dialog: 79.
+speaker_heading: CONTINUED: (4) 48
+speaker_heading: JANET
+dialog: I'll leave you wondering on that
+dialog: one.
+scene_heading: EXT. GRAND CANYON — DAY 49
+text: On honeymoon, Taylor stands on the edge of the majestic
+text: canyon at sunset, the orange and purple colors of the
+text: canyon wall are intoxicating. HE SMILES AT CAMERA, which
+text: Janet holds, a big genuine in-love smile...
+speaker_heading: TAYLOR
+dialog: I thought I was happy. But I
+dialog: never thought I could be this
+dialog: happy. Didn't know it was
+dialog: possible. You're like life on
+dialog: crack.
+speaker_heading: JANET
+dialog: Oh, God. On crack?
+speaker_heading: TAYLOR
+dialog: It's a saying. Slip me some
+dialog: tongue.
+speaker_heading: JANET
+dialog: (laughing)
+dialog: Who are you? I married such a
+dialog: nice young man?
+speaker_heading: TAYLOR
+dialog: You married a ghetto street cop.
+text: They embrace and kiss, CAMERA between them, looking
+text: straight up as they kiss...
+scene_heading: EXT./INT. SOUTH CENTRAL L.A./COP CAR (MOVING) - DAY 50
+scene_heading: LINOTE: CAPTURED BY TAYLOR'S TWO IN-CAR CAMERAS. ]
+text: Zavala checks a text message. Taylor waves at a HOMELESS
+text: MAN pushing a cart.
+speaker_heading: ZAVALA
+dialog: Gabby wants to know if you and
+dialog: Janet wanna go to the Dodgers game
+dialog: with us tonight.
+speaker_heading: TAYLOR
+dialog: We're going to Santa Barbara.
+speaker_heading: (CONTINUED)
+dialog: 50
+dialog: 80.
+speaker_heading: CONTINUED: 50
+speaker_heading: ZAVALA
+dialog: Fuck you then.
+text: Mr. Tre comes running up to their car in a bathrobe.
+speaker_heading: MR. TRE
+dialog: Yo. Officers.
+speaker_heading: ZAVALA
+dialog: What's up, Tre?
+speaker_heading: MR. TRE
+dialog: Word's going around the eses put a
+dialog: green light on y'all.
+speaker_heading: ZAVALA
+dialog: That's what's going around?
+speaker_heading: MR. TRE
+dialog: Yep. My roaddog just got outta
+dialog: the pen. Heard it up North.
+speaker_heading: TAYLOR
+dialog: You sure it's us?
+speaker_heading: MR. TRE
+dialog: Taylor and Zavala. That's you
+dialog: ain't it?
+text: Zavala checks his nametag.
+speaker_heading: ZAVALA
+dialog: Yep. Thanks for the heads up.
+dialog: Don't mean you get a pass if we
+dialog: catch you slipping.
+speaker_heading: MR. TRE
+dialog: I know. Watch y'alls backs.
+text: Zavala and Taylor. When they get a distance away the
+text: grin at each other and tap fists.
+speaker_heading: ZAVALA
+dialog: Hell yeah.
+speaker_heading: TAYLOR
+dialog: You know we're making a difference
+dialog: if we're pissing people off that
+dialog: much.
+dialog: 51
+dialog: 81.
+scene_heading: INT./EXT. SOUTH CENTRAL L.A./MINIVAN (MOVING) - DAY 51
+dialog: 
+scene_heading: NOT: HANDHELD VIDEO.
+text: La La drives. She's switched up her appearance -- She
+dialog: looks like any other Latina mom in the neighborhood. In
+text: back are Big Evil, Wicked and Demon holding the camera.
+text: The guys have bandanas covering their faces.
+text: Wicked hefts a shotgun.
+text: CAMERA PANS -- To reveal they are following an LAPD black
+dialog: and white.
+speaker_heading: BIG EVIL
+text: Tap their bumper at the stop sign.
+dialog: And we'll jump out and blast.
+speaker_heading: LA LA
+dialog: No. Let's get 'em then they go to
+dialog: lunch. At that Chinese place.
+speaker_heading: BIG EVIL
+dialog: There's a gang'a cops there all
+dialog: the time. They gotta be alone.
+speaker_heading: LA LA
+dialog: We can follow their asses home.
+speaker_heading: BIG EVIL
+text: Mira, homegirl. The whiteboy
+dialog: lives in Simi Valley. The other
+dialog: fool's in San Gabriel. We gotta
+dialog: hit the fuckers at the same time.
+speaker_heading: DEMON
+dialog: This is the one-time, homie. Not
+dialog: a bunch'a niggers. Why we doing
+dialog: this shit?
+speaker_heading: BIG EVIL
+dialog: This wire's straight from the SHU,
+dialog: homie. You got in the car. Now
+dialog: pay the ticket for all the good
+dialog: times. Price of fucking
+dialog: admission, ese.
+speaker_heading: LA LA
+dialog: This is fucking stupid. Those
+dialog: fools got bullet proof vests. We
+dialog: need AKs and shit.
+speaker_heading: (CONTINUED)
+dialog: 51
+dialog: 52
+dialog: 82.
+speaker_heading: CONTINUED: 51
+speaker_heading: BIG EVIL
+dialog: Don't rank out, La La.
+speaker_heading: LA LA
+dialog: Fuck you. When the fuck have I
+dialog: ever backed down from shit, huh?
+dialog: I'm saying we can't fuck this up.
+dialog: I don't give a fuck, I'll do the
+dialog: time. But I don't want the big
+dialog: homies whacking me for fucking up.
+dialog: We need a plan.
+text: A beat.
+speaker_heading: WICKED
+dialog: The homegirl's right, ese.
+speaker_heading: BIG EVIL
+dialog: Fuck it. Head back.
+dialog: La La makes a right...
+text: CAMERA STAYS on the black and white as it continues up
+dialog: the street. Oblivious to the danger it was in...
+scene_heading: INT. NEWTON DIVISION — ROLL CALL ROOM — DAY 52
+scene_heading: [NOTE: HANDHELD, TAYLOR OPERATING. ]
+text: Taylor is up to something sneaky. He tries not to laugh
+dialog: as he says this AT CAMERA:
+speaker_heading: TAYLOR
+dialog: Never fall asleep in a room full
+dialog: of cops.
+text: He PANS ONTO Zavala who then tickles the nose of a
+text: SLEEPING COP with a pencil...
+text: The Sleeping Cop scratches his nose -- With a hand full
+text: of SHAVING CREAM. (Yep, it's the old Summercamp trick.)
+text: He startles awake. Looks around angrily. The DOZEN COPS
+text: in the room CRACK UP...
+speaker_heading: SLEEPING COP
+dialog: Zavala, that's really professional
+dialog: behavior. Just ‘cause you won the
+dialog: medal doesn't give you a license
+dialog: to be a prick.
+speaker_heading: (CONTINUED)
+dialog: 52
+dialog: 53
+dialog: 83.
+speaker_heading: CONTINUED: 52
+dialog: Not only did the prank work but the victim is extra
+text: upset. That gets Taylor and Zavala bonus points.
+text: The dozen COPS clap their approval. The Sleeping Cop
+text: gets up angrily and exits -- Right as Sarge enters.
+text: He instantly figures out what's going on. Points angrily
+text: at Taylor and Zavala...
+speaker_heading: SARGE
+dialog: Keep it up, you two. That kind of
+dialog: shit will earn you a risk
+dialog: Management case. The department
+dialog: built you up, wanna see how
+dialog: quickly it can tear you down?
+scene_heading: INT. SOUTH CENTRAL L.A./COP CAR (MOVING) - NIGHT 53
+text: Taylor and Zavala on regular patrol.
+speaker_heading: ZAVALA
+dialog: How was Santa Barbara?
+speaker_heading: TAYLOR
+text: Awesome. Janet's pregnant.
+speaker_heading: ZAVALA
+dialog: Get outta here. Already? Dang,
+dialog: bro. She ain't even Mexican.
+speaker_heading: TAYLOR
+dialog: She's getting the ultrasound
+dialog: tomorrow to confirm, but three of
+dialog: those test things were positive.
+text: Zavala shakes Taylor's hand.
+speaker_heading: ZAVALA
+dialog: Congrats, man. Wouldn't it be
+dialog: crazy if our kids were pushing a
+dialog: black and white together one day?
+speaker_heading: TAYLOR
+dialog: Screw that. I want my kid to have
+dialog: an honest job. Like a politician.
+dialog: We may not have noticed -- But they've been following a
+text: MINIVAN. It pulls alongside.
+dialog: Then...
+text: The minivan runs a light -- Narrowly missing a truck.
+speaker_heading: (CONTINUED)
+dialog: 84.
+speaker_heading: CONTINUED: 53
+speaker_heading: ZAVALA
+dialog: What an idiot. Blowing a light in
+text: front of a cop.
+speaker_heading: TAYLOR
+dialog: That's contempt. Light ‘em up.
+text: Zavala guns the engine and follow the minivan...
+speaker_heading: ZAVALA
+text: He's running.
+speaker_heading: TAYLOR
+dialog: (into mic)
+dialog: Thirteen-Adam-Thirteen. We're
+dialog: following a vehicle failing to
+text: yield at a high rate of speed.
+text: Eastbound on Adams. Four Boy
+dialog: Edward X-Ray nine one five. Grey
+text: Toyota minivan. Request back-up.
+text: They follow the minivan around the corner. It's speeding
+text: into an area of closely packed residential streets...
+speaker_heading: TAYLOR (CONT'D)
+dialog: (into mic)
+dialog: Thirteen-Adam-Thirteen. We're in
+text: pursuit Southbound on Hooper from
+dialog: Adams.
+text: The Minivan makes a surprise left onto a dead end street.
+text: Zavala stays on its bumper.
+speaker_heading: ZAVALA
+dialog: They're gonna bail.
+text: Sure enough the minivan SCREECHES to a stop in front of
+text: an apartment building -- The driver -- A YOUNG HOMEBOY...
+speaker_heading: TAYLOR
+dialog: (into mic)
+dialog: Thirteen-Adam-Thirteen. Foot
+text: pursuit. Southbound from Twenty
+dialog: five hundred Hooper Place. Male
+dialog: Hispanic. Dark clothing.
+text: Taylor and Zavala give chase -- The Young Homeboy runs
+text: into an apartment building...
+text: A foreboding dark building -- With barred windows...
+dialog: If your stomach isn't tied in a knot it should be...
+dialog: 54
+dialog: 85.
+scene_heading: INT. APARTMENT BUILDING — NIGHT 54
+text: Taylor and Zavala enter the MAIN GATE -- Then follow the
+text: hall that leads to the open courtyard...
+text: BEHIND THEM -- They hear the steel gate SLAM CLOSED...
+text: They enter the courtyard of the three story building --
+text: Open walkways surround the courtyard...
+text: HANDHELD VIDEO -- OF TAYLOR AND ZAVALA, SHOT FROM ABOVE,
+text: LOOKING DOWN. THIS IS SHOT BY OUR FAMILIAR HOMIES...
+scene_heading: [NOTE: WE'LL CALL THIS COVERAGE CHOLOCAM. ]
+scene_heading: THE HANDHELD CAMERA WHIP PANS ONTO DEMON HOLDING AN AK-
+text: 47, TAKING AIM AT THE COPS BELOW...
+dialog: -- It's an ambush! --
+text: Taylor's alarm bells go off -- He grabs Zavala and throws
+text: him against a wall right as...
+text: BRDDDDT! -- BRDDDDDT! -- THREE AKs open up from the
+text: shadows of the walkways above...
+text: Rounds CRASH into the stucco wall and cement patio
+text: raising huge clouds of dust...
+text: Taylor screams into his radio--
+speaker_heading: TAYLOR
+dialog: Thirteen-Adam-Thirteen. Shots
+dialog: fired officer needs--
+text: WHACK! -- The radio is shot out of his hand.
+text: ON CHOLOCAM -- La La hisses at Demon...
+speaker_heading: LA LA
+dialog: You missed stupid.
+text: BAM-BAM-BAM-BAM! -- Zavala returns fire at the MUZZLE
+text: FLASHES of an AK on a walkway above...
+text: It's suddenly quiet -- The cops can HEAR the ominous
+text: sound of AK's being reloaded...
+text: Taylor's hand is bleeding.
+speaker_heading: TAYLOR
+dialog: I'm hit.
+speaker_heading: (CONTINUED)
+dialog: 54
+dialog: 55
+dialog: 86.
+speaker_heading: CONTINUED: 54
+speaker_heading: ZAVALA
+dialog: Let's go. They're reloading.
+text: They get up and run like panicked cats -- This is
+dialog: unfamiliar real estate...
+text: They find an apartment unit without the ubiquitous steel
+dialog: door...
+text: WHAM! -- Zavala kicks it open and they rush inside...
+scene_heading: INT. APARTMENT UNIT — NIGHT 55
+text: A scared YOUNG MOTHER hugs her BABY in the blue glow of a
+text: TV. They run her past looking for the back door out...
+speaker_heading: TAYLOR
+dialog: No dice. We're trapped.
+text: Taylor pulls out his cellphone...
+speaker_heading: TAYLOR (CONT'D)
+dialog: Shit. I got no bars. You call
+dialog: dispatch.
+speaker_heading: ZAVALA
+dialog: My phone's in the car.
+dialog: (to the Young Mother)
+dialog: Dame tu telephone.
+text: She hands Zavala her cellphone. Zavala dials as Taylor
+dialog: covers the door...
+speaker_heading: TAYLOR
+dialog: Senora. Bajase al suelo, por
+dialog: favor.
+text: The Young Mother takes his advise and lays down on the
+dialog: floor...
+dialog: Right then...
+scene_heading: BRDDDDT-BRDDDT-BRDDDDDDDDT! -- A fusillade of AK fire
+text: rips into the apartment...
+text: Zavala hurls himself to the ground...
+dialog: Taylor too...
+text: AK rounds are punching through walls, shattering picture
+text: frames. Incredible dust and noise...
+speaker_heading: (CONTINUED)
+dialog: 87.
+speaker_heading: CONTINUED: 55
+text: The DISPATCHER answers. We HEAR the recorded call from
+text: the LAPD Dispatch archives...
+speaker_heading: DISPATCH VOICE
+dialog: Communications.
+speaker_heading: ZAVALA
+dialog: (into cellphone)
+dialog: This is Thirteen-Adam-Thirty.
+dialog: Officer needs help. Multiple
+text: suspects with automatic weapons.
+text: We are barricaded in an apartment
+dialog: building.
+dialog: (to the Young Mother)
+dialog: Dime la direccion.
+speaker_heading: YOUNG MOTHER
+dialog: Venti-cinco venti-dos.
+dialog: Departamento C.
+speaker_heading: ZAVALA
+dialog: (into cellphone)
+dialog: Twenty-five twenty-two Hooper
+dialog: place Apartment C.
+scene_heading: EXT. APARTMENT BUILDING — NIGHT 56
+text: ON CHOLOCAM -- Big Evil WHISTLES at Demon.
+speaker_heading: BIG EVIL
+dialog: Eh, fool. Can they get out?
+speaker_heading: DEMON
+dialog: No, homie. We got ‘em.
+speaker_heading: BIG EVIL
+dialog: Go down. Go down. Wicked, bust
+dialog: some caps on ‘em while the
+text: homeboys move up.
+text: CHOLOCAM FINDS WICKED -- He aims at the apartment unit
+text: and squeezes off a couple shots...
+text: The other Homies head for the stairwells...
+text: La La (filming) spins the CAMERA ON HERSELF. Grinning...
+speaker_heading: LA LA
+dialog: We so got these fools.
+dialog: 57
+dialog: 88.
+scene_heading: INT. APARTMENT UNIT -— NIGHT 57
+text: Zavala looks relieved.
+speaker_heading: ZAVALA
+dialog: We're good. Dispatch put it out.
+dialog: They're sending the cavalry.
+text: Rolling SWAT, airships the World.
+text: POW-POW! -- A couple AK rounds ZIP through the apartment.
+text: Taylor looking decidedly worried. Zavala SEES that...
+speaker_heading: ZAVALA (CONT'D)
+dialog: Partner?
+speaker_heading: TAYLOR
+dialog: Wasn't Big Evil in the Army?
+speaker_heading: ZAVALA
+dialog: Yeah.
+speaker_heading: TAYLOR
+dialog: They're moving. If they assault
+dialog: we can't hold them off. We have
+text: to lay down a base of fire and
+dialog: pivot.
+speaker_heading: ZAVALA
+dialog: I wasn't a Marine. The fuck's
+dialog: that mean in cop?
+speaker_heading: TAYLOR
+dialog: We're shooting our way out.
+speaker_heading: ZAVALA
+dialog: Senora, no hay salida por alli?
+speaker_heading: YOUNG MOTHER
+dialog: Si. A la izquierda. Hay una
+dialog: puerta que sale al parking.
+speaker_heading: ZAVALA
+text: There's a door to the parking on
+dialog: the left.
+speaker_heading: TAYLOR
+text: Shooter's on the second story. On
+dialog: three empty your mag and run.
+text: Zavala and Taylor get ready...
+speaker_heading: (CONTINUED)
+dialog: 57
+dialog: 58
+dialog: 59
+dialog: 60
+dialog: 89.
+speaker_heading: CONTINUED: 57
+speaker_heading: TAYLOR (CONT'D)
+dialog: One. Two. Three!
+text: Zavala and Taylor charge out firing--
+scene_heading: EXT. APARTMENT BUILDING — CONTINUOUS - NIGHT 58
+dialog: 
+text: POP-POP-POP-POP-POP-POP-POP! -- They hook left and race
+text: towards a big grey door...
+text: BRDDDDDDDT -- Wicked opens up...
+text: AK ROUNDS splatter all over the place...
+speaker_heading: WICKED
+dialog: They're getting away!
+text: Zavala reaches the door. Yanks it open and darts in,
+dialog: holding it open for Taylor--
+text: --Who dives like he's sliding into first base...
+text: CHOLOCAM -- Big Evil, Demon and La La reach the apartment
+dialog: unit -- But they are too late...
+scene_heading: EXT. APARTMENT BUILDING — PARKING LOT - NIGHT 59
+dialog: 
+text: Taylor and Zavala running, they both reload -- They SEE A
+text: CAR with the engine running -- A CHOLO inside...
+text: He raises a shotqun...
+text: Taylor and Zavala open fire -- Punching holes in the
+text: windows, killing the Cholo...
+speaker_heading: TAYLOR
+dialog: ..-they're everywhere...
+speaker_heading: ZAVALA
+dialog: Keep going.
+speaker_heading: TAYLOR
+dialog: Where's the cavalry?
+text: They exit the parking lot -- It leads to...
+scene_heading: EXT. LONG ALLEY — NIGHT 60
+dialog: It_is the most foreboding alley in South Central...
+speaker_heading: (CONTINUED)
+dialog: 60
+dialog: 90.
+speaker_heading: CONTINUED: 60
+text: Littered with trash, abandoned furniture, spiked steel
+text: fences and corrugated tin. Dogs BARKING everywhere...
+dialog: There is only one thing to do and that's to keep
+dialog: running...
+text: Taylor and Zavala run for their lives...
+speaker_heading: TAYLOR
+dialog: Partner?
+speaker_heading: ZAVALA
+dialog: Huh?
+speaker_heading: TAYLOR
+dialog: This sucks.
+speaker_heading: ZAVALA
+dialog: I think we killed that guy.
+speaker_heading: TAYLOR
+dialog: Good.
+text: They can HEAR sirens approaching...
+speaker_heading: ZAVALA
+dialog: Hear that?
+speaker_heading: TAYLOR
+dialog: God yes. Fucking music.
+text: HEADLIGHTS -- A vehicle enters the far end of the alley
+text: and turns towards them. Blinding headlights...
+speaker_heading: ZAVALA
+dialog: That us? That PD?
+text: The vehicle accelerates RACES TOWARDS them...
+text: Closing the distance -- COMING RIGHT AT THEM!
+text: Zavala opens fire -- POP-POP-POP-POP!
+text: Zavala and Taylor jump out of the way as the vehicle
+text: plows into a dumpster...
+text: It's a pick-up truck -- A HOMIE with an AK sits in the
+dialog: bed...
+text: BRDDDDT! -- He opens fire...
+text: POP-POP-POP! -- Zavala shoots him in the head, he drops
+dialog: limp.
+speaker_heading: (CONTINUED)
+dialog: 60
+dialog: 91.
+speaker_heading: CONTINUED: (2) 60
+text: The pick-up truck gets the hell out of there...
+speaker_heading: ZAVALA (CONT'D)
+dialog: I lit that asshole up.
+dialog: No response...
+text: Zavala turns SEES Taylor is on the ground, he's taken
+text: three AK rounds to the chest. He's gasping for breath...
+speaker_heading: ZAVALA (CONT'D)
+dialog: Brian! Fuck! Oh, fuck! Oh, God.
+text: He kneels by his partners side. Inspects his wounds.
+speaker_heading: TAYLOR
+dialog: It's bad isn't it?
+speaker_heading: ZAVALA
+dialog: It's bad. But I've seen guys way
+dialog: more fucked up make it.
+speaker_heading: TAYLOR
+dialog: I'm going to die.
+speaker_heading: ZAVALA
+dialog: Shut-up.
+text: Zavala looking around. Desperate, worried...
+speaker_heading: ZAVALA (CONT'D)
+dialog: Where the fuck is everybody?
+text: Taylor begins shaking.
+speaker_heading: TAYLOR
+dialog: I love Janet so much.
+speaker_heading: ZAVALA
+dialog: I know you do.
+speaker_heading: TAYLOR
+dialog: No. I love her so much. It hurts
+dialog: so much I love her. I don't want
+dialog: to lose her.
+text: Taylor's eyes roll back. He begins convulsing...
+speaker_heading: ZAVALA
+dialog: Shit-shit-shit.
+speaker_heading: (CONTINUED)
+dialog: 60
+dialog: 92.
+speaker_heading: CONTINUED: (3) 60
+text: Zavala feels his pulse fading -- He unzips his shirt and
+text: un-velcros his vest -- Initiates CPR, giving him chest
+dialog: compressions...
+speaker_heading: ZAVALA (CONT'D)
+dialog: Hold on. Hang on partner!
+text: CHOLOCAM -- Approaching Zavala as he gives CPR to Taylor.
+dialog: Following Big Evil and Demon...
+text: A shadow falls over him...
+speaker_heading: DEMON
+dialog: Wassup puto?
+text: Zavala's stomach drops. He turns -- SEES Demon and Big
+text: Evil aiming an AK at his face, La La behind them filming
+dialog: it...
+text: Zavala has to try. He can't just give up -- He grabs for
+text: his holstered Glock...
+text: BRDDDDDT! -- Zavala is no more. His body collapses atop
+dialog: Taylor...
+text: A peal of EVIL LAUGHTER from the Cholos as they get the
+dialog: Hell out of there...
+scene_heading: ZAVALA'S CHEST CAM -- IT'S STILL ON -- ANGLED DOWN THE
+text: FAR END OF THE ALLEY...
+text: SIRENS GROWING LOUDER -- Now very Close...
+text: A LOUD HELICOPTER approaching...
+text: Many more LOUD SIRENS -- Every cop in the city must be on
+dialog: the way...
+text: A COP CAR races into the alley -- Blue and red lights
+text: flashing. Then another cop car...
+text: It SCREECHES to a stop -- Its headlight BLINDING
+dialog: CAMERA...
+speaker_heading: LAPD PILOT VOICE
+dialog: Los Angeles Police Department!
+dialog: Drop the weapons!
+text: CHOLOCAM -- Following Demon, Wicked and Big Evil...
+text: La La and her homies exit the alley and run right into...
+text: A PHALANX OF COPS with raised pistols and shotguns...
+speaker_heading: (CONTINUED)
+dialog: 60
+dialog: 61
+dialog: 62
+dialog: 63
+dialog: 93.
+speaker_heading: CONTINUED: (4) 60
+text: Demon raises his AK...
+text: THE COPS OPEN FIRE AT CAMERA -- A CRESCENDO OF GUNFIRE...
+text: The Gangsters are hit with a hail of gunfire...
+text: The CAMERA POV falls to the ground. La La's dead face
+text: lands next to it FILLING FRAME...
+text: La_La, Big Evil, Demon and Wicked are no more.
+scene_heading: EXT. SOUTH CENTRAL L.A. — ALLEY — NIGHT 61
+text: A COP approaches ZAVALA'S CAMERA -- It's Orozco. She
+text: falls to her knees and sobs...
+speaker_heading: CUT TO:
+scene_heading: CHANNEL 7 NEWS FOOTAGE... 62
+text: The BREAKING NEWS graphic -- The anchors, MARK and
+text: MICHELLE, in the newsroom with somber faces...
+speaker_heading: MARK
+dialog: Breaking news tonight out of
+dialog: LAPD's Newton Division. Two
+dialog: officers have been killed tonight
+dialog: after an encounter with gang
+text: members armed with AK-47 assault
+dialog: rifles.
+speaker_heading: CUT TO:
+scene_heading: EXT. LA POLICE ACADEMY — DAY 63
+text: [NOTE: THIS IS OFFICIAL DEPARTMENT FOOTAGE. WE SEE THE
+text: PAGEANTRY OF A LAW ENFORCEMENT MEMORIAL. ]
+text: Gabby in a black mourning dress and veil holds her baby
+text: in her lap. Next to her is Janet, noticeably pregnant.
+text: The CHIEF hands Gabby a folded flag -- Her baby reaches
+text: out and touches the Chief's badge...
+text: LATER -- The LAPD HONOR GUARD fires the traditional
+dialog: volley in honor of the fallen...
+dialog: 64
+dialog: 65
+dialog: 94.
+scene_heading: EXT. DOWNTOWN LOS ANGELES — DAY 64
+text: BAGPIPERS play AMAZING GRACE...
+text: Two riderless horses pull wagons each with a flag draped
+text: coffin are lead by EQUESTRIAN OFFICERS in stetson hats...
+text: A HUNDRED MOTORCYCLE OFFICERS from agencies all over
+dialog: Southern California pass in revue...
+text: Pallbearers in LAPD uniform carry two flag draped coffins
+dialog: into Our Lady of Angels Cathedral...
+speaker_heading: CUT TO:
+scene_heading: EXT. SOUTH CENTRAL L.A./COP CAR (MOVING) - DAY 65
+text: Zavala drives. Taylor keeps books. This is just two
+dialog: hours before they were killed...
+speaker_heading: TAYLOR
+dialog: If your kid was a girl, would you
+dialog: let her be a cop?
+speaker_heading: ZAVALA
+dialog: Would I want my daughter packing a
+dialog: burner to protect herself from the
+dialog: assholes of the World? Hell yeah.
+speaker_heading: TAYLOR
+dialog: We're having a daughter.
+speaker_heading: ZAVALA
+dialog: Just don't let her date cops.
+speaker_heading: TAYLOR
+dialog: She's not dating anyone. Ever.
+speaker_heading: ZAVALA
+dialog: I ever tell you about the first
+dialog: time I spent the night with Gabby?
+speaker_heading: TAYLOR
+dialog: I don't want to hear that.
+speaker_heading: ZAVALA
+dialog: I got a hella-big family.
+dialog: Someone's always in my house. And
+dialog: I had no money for a motel.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 65
+speaker_heading: CONTINUED:
+dialog: 95.
+dialog: 65
+speaker_heading: ZAVALA (CONT'D)
+dialog: One time Gabby's parents bounced
+dialog: to Ensenada and her brother
+dialog: crashed at his girlfriends so I
+text: spend the night at her house.
+dialog: This was gonna be the night. The
+dialog: night. Know what I'm saying?
+speaker_heading: TAYLOR
+dialog: Yes.
+speaker_heading: ZAVALA
+dialog: So we're in her parent's bed. And
+text: it's on. It's about to go down.
+dialog: I'm pulling her chones off--
+speaker_heading: TAYLOR
+dialog: --chones?
+speaker_heading: ZAVALA
+dialog: Her skivvies, dog. And I'm like
+dialog: finally, right? Fucking finally.
+dialog: But we hear this noise. Like
+dialog: someone's in the pad. We figure
+dialog: it's her brother so I hide under
+dialog: the bed. Dude. It was her
+dialog: parents. This is the second
+dialog: floor. I got nowhere to go.
+text: Homegirl tries to distract them
+dialog: but it ain't happening. I'm under
+dialog: their bed. And they crash. And
+dialog: this is the part I never told
+dialog: Gabby. They did it. They got
+dialog: down. I'm talking Gabby's
+dialog: parents. That shit was traumatic.
+text: Finally at like two A.M. they fall
+dialog: asleep. So I do a commando crawl
+dialog: and escape.
+text: Zavala can barely contain his laughter...
+speaker_heading: TAYLOR
+dialog: Must of been a little
+dialog: uncomfortable around the folks
+dialog: after that.
+speaker_heading: ZAVALA
+text: Bro. Her old man is a freak.
+dialog: Straight up. I guess you been
+dialog: married that long you gotta mix it
+dialog: up.
+dialog: (a beat)
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 65
+dialog: 66
+dialog: 96.
+speaker_heading: CONTINUED: (2) 65
+speaker_heading: ZAVALA (CONT'D)
+dialog: I try and roll like that and Gabby
+dialog: gets all "Hell no, you ain't
+dialog: touching me there."
+speaker_heading: TAYLOR
+dialog: I'm starting to get uncomfortable.
+speaker_heading: ZAVALA
+dialog: Cause you're a freak too, huh?
+speaker_heading: TAYLOR
+dialog: Don't go there.
+speaker_heading: ZAVALA
+dialog: She said on our tenth anniversary
+dialog: it's all good. We'll get down.
+speaker_heading: TAYLOR
+dialog: I'm telling her everything you
+dialog: just told me.
+dialog: 
+speaker_heading: ZAVALA
+dialog: That's against the rules.
+speaker_heading: TAYLOR
+dialog: You done then?
+speaker_heading: ZAVALA
+dialog: Yeah. Don't trip.
+speaker_heading: TAYLOR
+dialog: Let's go fight crime or something.
+speaker_heading: CUT TO:
+text: A_BLACK SCREEN -- THEN A TITLE READS...
+scene_heading: OFFICER BRIAN TAYLOR
+scene_heading: END OF WATCH AUGUST 17, 2011
+scene_heading: STILL PHOTO MONTAGE: 66
+text: A STILL PHOTO FADES IN: Taylor and Janet at the Grand
+dialog: Canyon, all smiles in happier time...
+text: The photo fades out. Black screen. Then another title:
+speaker_heading: (CONTINUED)
+dialog: 66
+dialog: 97.
+speaker_heading: CONTINUED: 66
+scene_heading: OFFICER MIKE ZAVALA
+scene_heading: END OF WATCH AUGUST 17, 2011
+text: FADE IN ANOTHER STILL PHOTO: Zavala in the hospital room
+text: holding his newborn boy. He looks like the proudest dad
+dialog: on Earth.
+text: NEXT ANOTHER PHOTO: Taylor and Zavala at their academy
+text: graduation -- The faces of the two freshly minted cops
+text: glow just as bright as the new badges on their chests...
+text: A FINAL PHOTO: From Taylor's wedding -- A three shot of
+text: Sarge, Taylor and Zavala...
+speaker_heading: SUPER TITLE:
+dialog: In memory of Brian Taylor and Mike Zavala two of the best
+dialog: cops I have ever had the honor to work with.
+text: IF YOU HAVEN'T FIGURED IT OUT, SARGE EDITED THIS TRIBUTE.
+text: We PUSH IN on the photo for a beat. Then...
+scene_heading: FADE TO BLACK:
+dialog: The End
+dialog: 

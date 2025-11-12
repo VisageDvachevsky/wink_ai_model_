@@ -1,0 +1,2364 @@
+dialog: 
+dialog: Nothing But A Man
+text: A crew of African-Americans are laying tracks in rural Alabama. The crane
+text: operator is the only white man on the section gang.
+scene_heading: INT. BUNK CAR
+text: The dormitory of the section gang. The men are through for the day and
+text: lounging on their bunkbeds. DUFF ANDERSON plays checkers with FRANKIE, using
+text: bottle tops as pieces. Duff makes the winning move and Frankie, disgusted,
+text: turns over the board. He saunters over to JOCKO, who is shaving in a broken
+text: mirror. Frankie watches him with a grin.
+speaker_heading: JOCKO
+dialog: Go to hell, Frankie.
+speaker_heading: FRANKIE
+dialog: Man, you sure one ugly cat!
+text: He takes the cigarettes Jocko has rolled, sailor-style, into the sleeve of
+text: his T-shirt.
+speaker_heading: JOCKO
+dialog: Why don't you guys buy your own?
+speaker_heading: FRANKIE
+dialog: 'Oughta give up smoking, Jocko.
+text: He stops in front of an older man, who is writing a letter.
+speaker_heading: FRANKIE
+dialog: How much longer we got on this stretch, Riddick?
+speaker_heading: RIDDICK
+dialog: Five weeks, maybe six.
+speaker_heading: FRANKIE
+dialog: Man, what a dump.
+text: He circles restlessly past two cardplayers back to Duff, who is clipping his
+dialog: fingernails.
+speaker_heading: FRANKIE
+dialog: What you gettin' all pretty for?
+speaker_heading: DUFF
+dialog: (with a grin)
+dialog: Why don't you relax, Frankie?
+speaker_heading: RAILROAD TRACK
+text: Duff, Frankie, and Jocko are riding a track-car, powered by a small engine,
+text: into the nearest town. The sun is setting. A church bell rings.
+speaker_heading: POOL HALL
+text: Jocko, a cigar in his mouth, is playing a pinball machine. Duff and Frankie
+text: stand at the bar. They are joined by DORIS , a sad-looking woman with bad
+dialog: skin.
+speaker_heading: DORIS
+dialog: Who's going to buy me a beer?
+speaker_heading: FRANKIE
+dialog: (scornfully)
+dialog: What's the matter, Doris? Business bad?
+speaker_heading: DORIS
+dialog: It sure is.
+speaker_heading: FRANKIE
+dialog: Everybody givin' it away free, huh?
+speaker_heading: DORIS
+dialog: You gonna buy me a beer, Frankie?
+speaker_heading: FRANKIE
+dialog: See Duff. He's the money man.
+speaker_heading: DORIS
+dialog: What d'you say, Duff?
+speaker_heading: DUFF
+dialog: (to the bartender)
+dialog: Give her a beer.
+speaker_heading: DORIS
+dialog: Thanks, Duff. You' a nice guy. Not like Frankie.
+speaker_heading: FRANKIE
+dialog: You know, Doris - you'd make some guy a swell
+dialog: wife.
+speaker_heading: DORIS
+dialog: You think so, Frankie?
+speaker_heading: FRANKIE
+dialog: Hell, you got steady work.
+speaker_heading: DUFF
+dialog: Quit ridin' her, Frankie.
+text: The bartender serves her a bottle of beer
+speaker_heading: FRANKIE
+dialog: I ain't ridin' her. Wouldn't ride her on a bet.
+text: Duff pays for the beer and turns to leave.
+speaker_heading: DORIS
+dialog: Where' you goin'?
+speaker_heading: DUFF
+dialog: Out.
+speaker_heading: DORIS
+dialog: Want me to come?
+speaker_heading: DUFF
+dialog: No thanks.
+speaker_heading: DORIS
+dialog: Come on, honey.
+speaker_heading: FRANKIE
+dialog: Where' you goin'?
+speaker_heading: DUFF
+dialog: 'Round town.
+speaker_heading: FRANKIE
+dialog: What's so hot 'round town?
+speaker_heading: DUFF
+dialog: (with a grin)
+dialog: Take it easy, Frankie.
+text: He leaves.
+speaker_heading: FRANKIE
+dialog: Don't wanna fish you outa no jailhouse.
+speaker_heading: STREET (Night)
+text: Duff is walking along the deserted street in the black part of town.
+text: Music from the pool hall fades and we pick up the strains of gospel singing
+text: from a nearby church.
+scene_heading: INT. CHURCH
+text: The choir is singing "Precious Lord." The women are spirited and the
+text: congregation in the small wooden building is alive to the music.
+text: Duff appears in the open doorway and stops to listen.
+text: When the song ends, REVEREND DAWSON rises from his chair.
+speaker_heading: REVEREND
+dialog: I'm glad to see this meeting off to a good
+dialog: start. Now we'll take a break and then come back
+dialog: to hear from our distinguished guest - Reverend
+dialog: Butler of the Morgan Street Baptist Church in
+dialog: Birmingham. See you all in a little while.
+text: Reverend Butler compliments him on the choir.
+speaker_heading: CHURCH YARD
+text: Long tables laden with food are lit by strings of lightbulbs. The sound of a
+text: gospel piano from inside the church.
+text: A smiling middle-aged woman has taken Duff in tow and leads him over to a
+text: young woman (JOSIE), who is serving food.
+speaker_heading: WOMAN
+dialog: Josie - this is Brother Anderson. Now you give
+dialog: him some of that good food. He's a fine young
+dialog: man.
+dialog: (on her way)
+dialog: Ain't it a wonderful meetin'?!
+text: Duff studies Josie with a smile. She is clearly middle class. While she puts
+text: food on a paper plate, she glances at him - matching his ironic detachment
+text: with her own. She hands him the plate
+speaker_heading: DUFF
+dialog: Thank you, Ma'am. That's fine.
+speaker_heading: JOSIE
+dialog: You must be new in town.
+speaker_heading: DUFF
+dialog: (with a grin)
+dialog: I'll have me some of that punch there, too.
+text: She serves the punch.
+speaker_heading: JOSIE
+dialog: Haven't seen you around, have I?
+speaker_heading: DUFF
+dialog: No. I'm new in town.
+speaker_heading: JOSIE
+dialog: (unwilling to give up)
+dialog: You working?
+speaker_heading: DUFF
+dialog: Yeah. On the section gang.
+text: He is sure that this will put a stop to her curiosity. It doesn't.
+speaker_heading: JOSIE
+dialog: (interested)
+dialog: Oh yeah?
+speaker_heading: DUFF
+dialog: You work around town?
+speaker_heading: JOSIE
+dialog: I'm a teacher.
+speaker_heading: DUFF
+dialog: Went to college, huh?
+speaker_heading: JOSIE
+dialog: In Birmingham.
+speaker_heading: DUFF
+dialog: Oh yeah? That's my home town.
+speaker_heading: JOSIE
+dialog: Your folks live there?
+speaker_heading: DUFF
+dialog: No. My mother's dead.
+dialog: (after a moment)
+dialog: You goin' back inside?
+speaker_heading: JOSIE
+dialog: Yes, aren't you?
+speaker_heading: DUFF
+dialog: No. Never had much use for hell-howlers. You
+dialog: goin'?
+speaker_heading: JOSIE
+dialog: (with a smile)
+dialog: My father's the preacher.
+speaker_heading: DUFF
+dialog: (grinning)
+dialog: Oh yeah? Well, I guess you got no choice.
+speaker_heading: JOSIE
+dialog: That's right.
+speaker_heading: DUFF
+dialog: (a bit tentatively)
+dialog: Look, I don't know what you been told 'bout
+dialog: section gangs, but how 'bout seein' me sometime?
+speaker_heading: JOSIE
+dialog: (with a non-committal smile)
+dialog: Maybe.
+scene_heading: INT. CHURCH
+text: The visiting revival preacher is in full swing, preaching and singing. The
+text: congregation of women is in a state of high excitement. Josie alone seems out
+text: of it, though she sits in their midst.
+text: Duff has been standing in the doorway. He turns away.
+scene_heading: EXT. CHURCH
+text: Duff walks away, past a shack. The singing fades. A dog barks.
+speaker_heading: BUNK CAR (Night)
+text: Duff, Frankie, Jocko, and an older man (POP) are playing cards. While waiting
+text: for his turn, Jocko catches a fly and sneaks a look at Frankie's cards.
+speaker_heading: JOCKO
+dialog: You got a lousy hand, Frankie.
+text: Frankie throws down the cards.
+speaker_heading: FRANKIE
+dialog: Yeah, I quit.
+text: He gets up. At loose ends, he picks up an old Flit-gun and squirts it at
+text: Duff, who is polishing his shoes.
+speaker_heading: DUFF
+dialog: You got nothin' on your mind but your hair,
+dialog: Frankie. How 'bout your car, Riddick?
+speaker_heading: RIDDICK
+dialog: Yeah, you can have it.
+speaker_heading: JOCKO
+dialog: Man, you won't like that back seat.
+speaker_heading: FRANKIE
+dialog: Man, why 'you messin' around with a gal like
+dialog: that? You won't get no place.
+speaker_heading: JOCKO
+dialog: Hell, they're all after the same thing.
+speaker_heading: POP
+dialog: Yeah. All a colored woman wants is your money.
+speaker_heading: JOCKO
+dialog: What d'you know about women, Pop?
+speaker_heading: POP
+dialog: Well, I got married to one of them.
+speaker_heading: JOCKO
+dialog: Hell, I didn't know you was married.
+speaker_heading: POP
+dialog: Sure. Got a sixteen-year-old girl.
+speaker_heading: JOCKO
+dialog: Is that right?
+dialog: (to Duff)
+dialog: Think you're gonna make it with her?
+speaker_heading: FRANKIE
+dialog: Just get her drunk.
+speaker_heading: DUFF
+dialog: (to Riddick)
+dialog: How 'bout the key?
+speaker_heading: FRANKIE
+dialog: I bet she's easy jam.
+scene_heading: DAWSON DINING ROOM (Night)
+text: A middle-class tableau. Dinner is over. Reverend Dawson is reading the paper.
+text: Josie, dressed for an evening out, sits across from her step-mother, who is
+text: looking at her with pursed lips.
+speaker_heading: MRS. DAWSON
+dialog: I know you pay no mind to my feelings, but
+dialog: d'you think it's right for you to go out with
+dialog: him?
+speaker_heading: JOSIE
+dialog: I'm twenty-six years old, Susan.
+speaker_heading: MRS. DAWSON
+dialog: Perhaps you ought to tell her, Frank.
+text: Reverend Dawson has no stomach for confrontations, but turns to Josie
+text: dutifully.
+speaker_heading: REVEREND DAWSON
+dialog: Well, we have a position in town, Josie. You
+dialog: have to remember that. There're lots of other
+text: young men.
+speaker_heading: MRS. DAWSON
+dialog: I don't think your mother would have approved.
+speaker_heading: JOSIE
+dialog: I do.
+speaker_heading: MRS. DAWSON
+dialog: Well, there's just one thing you can be looking
+dialog: for in a man like that.
+speaker_heading: JOSIE
+dialog: I know that's what you think.
+speaker_heading: REVEREND DAWSON
+dialog: Hush your mouth, child.
+text: The doorbell rings.
+speaker_heading: JOSIE
+dialog: (leaving the table)
+dialog: Good night, Dad.
+speaker_heading: ROAD HOUSE
+text: On the dimly lit, smoke-hung floor a large crowd is dancing. Josie is having
+text: a great time. When the music ends, she and Duff return to their table.
+speaker_heading: DUFF
+dialog: That's pretty good for a preacher's daughter.
+speaker_heading: JOSIE
+dialog: What d'you expect?
+speaker_heading: DUFF
+dialog: You know, baby, I can't figure you out.
+speaker_heading: JOSIE
+dialog: How d'you mean?
+speaker_heading: DUFF
+dialog: Why d'you come out with me? You slummin' or
+dialog: something?
+speaker_heading: JOSIE
+dialog: No.
+speaker_heading: DUFF
+dialog: So what you doin' with a cat like me in a joint
+dialog: like this?
+speaker_heading: JOSIE
+dialog: You don't think much of yourself, do you?
+speaker_heading: DUFF
+dialog: (put off)
+dialog: Well, that's a funny thing to say.
+speaker_heading: JOSIE
+dialog: You keep asking me why I'm here.
+speaker_heading: DUFF
+dialog: Yeah, and you keep not answerin', too.
+speaker_heading: JOSIE
+dialog: I like a place with lots of life.
+speaker_heading: DUFF
+dialog: How about another beer?
+speaker_heading: JOSIE
+dialog: No thanks.
+speaker_heading: DUFF
+dialog: Go on - you can have one!
+text: His attention is drawn by something off screen.
+speaker_heading: DUFF
+dialog: Hell!
+speaker_heading: JOSIE
+dialog: What is it?
+text: Frankie and Jocko swagger toward them, beer in hand.
+speaker_heading: FRANKIE
+dialog: Well, if it ain't Duff!
+speaker_heading: JOCKO
+dialog: How you doin'?
+dialog: (to Josie; with
+dialog: a bit of a leer)
+dialog: Hi there!
+speaker_heading: JOSIE
+dialog: Hi.
+speaker_heading: JOCKO
+dialog: Mind if we sit down?
+speaker_heading: DUFF
+dialog: We was just leavin', fellows.
+speaker_heading: FRANKIE
+dialog: Let's go, Jocko. The man's got homework.
+speaker_heading: JOCKO
+dialog: (leaving)
+dialog: See you, Duff.
+speaker_heading: DUFF
+dialog: Yeah, see you in hell.
+text: Frankie follows Jocko out of the frame.
+speaker_heading: JOSIE
+text: They must work on the section gang.
+speaker_heading: DUFF
+dialog: That's right.
+speaker_heading: JOSIE
+text: Well, they seem just like everyone else.
+speaker_heading: DUFF
+dialog: Hell, baby, I bet you think we got tails.
+speaker_heading: FRANKIE'S VOICE
+dialog: (off-screen)
+dialog: We do!
+text: Frankie and Jocko have occupied the adjoining table and are grinning at them.
+text: Duff gets up, camouflaging his irritation.
+speaker_heading: DUFF
+dialog: Come on, baby.
+text: He ushers Josie out. Frankie looks after them.
+speaker_heading: FRANKIE
+dialog: School teacher! My nappy head!
+scene_heading: INT. RIDDICK'S OLD CONVERTIBLE (Night)
+text: Duff has parked on a country road.
+speaker_heading: JOSIE
+dialog: I guess it's hard working on the road like that.
+speaker_heading: DUFF
+dialog: Damn few places you can make eighty bucks a
+dialog: week.
+speaker_heading: JOSIE
+dialog: I mean, you're kind of cut off, aren't you?
+speaker_heading: DUFF
+dialog: That's fine with me. Keeps me out of trouble.
+speaker_heading: JOSIE
+dialog: How d'you mean?
+speaker_heading: DUFF
+dialog: Well, I don't get on so well most places.
+speaker_heading: JOSIE
+dialog: I see. That beer made me dizzy.
+text: Duff is looking at her.
+speaker_heading: DUFF
+dialog: You got a lovely face, kid. Ain't too often I
+dialog: get to meet a girl like you. Hell--
+text: He kisses her, but releases her very quickly.
+speaker_heading: DUFF
+dialog: Baby, how many times' you been kissed?
+text: Josie takes a moment to collect herself.
+speaker_heading: JOSIE
+dialog: Well, let's see now - not counting tonight ...
+dialog: must be about twenty-eight times.
+speaker_heading: DUFF
+dialog: (with a grin)
+dialog: You got a problem all right.
+text: Someone moves in back of her. A white man in his early twenties has emerged
+text: from the dark and looks down at them.
+speaker_heading: WHITE
+dialog: (with a smile)
+dialog: Hi.
+text: The voice of a second white man calls from off screen.
+speaker_heading: SECOND WHITE
+dialog: They doin' anything?
+speaker_heading: WHITE
+dialog: (calling back)
+dialog: Nah, nothin'!
+speaker_heading: DUFF
+dialog: Get out of here!
+speaker_heading: JOSIE
+dialog: (frightened)
+dialog: Don't Duff--
+speaker_heading: WHITE
+dialog: Relax, man!
+text: The second white man joins him.
+speaker_heading: SECOND WHITE
+dialog: What's goin' on?
+text: He shines his flashlight into Duff's face.
+speaker_heading: DUFF
+dialog: Cut that out!
+text: The white man shines the flashlight across Josie's breast.
+speaker_heading: DUFF
+dialog: (very tense)
+dialog: I said: Cut it out!
+speaker_heading: WHITE
+dialog: Don't start no trouble, boy!
+speaker_heading: SECOND WHITE
+dialog: Let's go! That's the preacher's girl. Mess with
+dialog: him and you got old man Johnson on your back.
+dialog: Come on.
+text: The white men leave.
+speaker_heading: JOSIE
+dialog: Let's go, Duff.
+speaker_heading: DUFF
+dialog: Take it easy.
+text: We see that he has a knife in his hand. He closes and pockets it.
+text: The white men drive off, whooping and beating on the side of their car.
+speaker_heading: DUFF
+dialog: Don't sound human, do they?
+scene_heading: INT. MOVING CAR (Night)
+text: Duff is driving through the center of town.
+speaker_heading: DUFF
+dialog: How come you stay 'round here?
+speaker_heading: JOSIE
+dialog: Well, my mother was the only good teacher the
+dialog: colored school ever had. Nobody bothers with
+dialog: those kids.
+speaker_heading: DUFF
+dialog: That's why you come back, huh?
+speaker_heading: JOSIE
+dialog: It's hard to see any change. But I'm going to
+dialog: stay. Another year, anyway.
+speaker_heading: DUFF
+dialog: You got more guts than me, baby. It's a no-good
+dialog: town.
+speaker_heading: JOSIE
+dialog: It's better than it used to be. Eight years ago
+dialog: they still had a lynching here. They tied a man
+dialog: to a car and dragged him to death. My father
+text: knew who did it, but he didn't say anything.
+speaker_heading: DUFF
+dialog: Scared, huh?
+text: The car pulls up in front of the Dawson house and Duff parks.
+speaker_heading: DUFF
+dialog: Well, good night, baby.
+text: He is about to kiss her.
+speaker_heading: JOSIE
+dialog: Not here, Duff.
+speaker_heading: DUFF
+dialog: I get it.
+dialog: (with a laugh)
+dialog: Yeah, I can see your old man with a shot-gun
+dialog: right now.
+speaker_heading: JOSIE
+dialog: But I would like to see you again.
+speaker_heading: DUFF
+dialog: You would, huh? If I was you, baby - I wouldn't
+dialog: go 'round stickin' out my jugular vein.
+speaker_heading: JOSIE
+dialog: What d'you mean?
+speaker_heading: DUFF
+dialog: You almost got into trouble back there.
+speaker_heading: JOSIE
+dialog: (with a smile)
+dialog: I wouldn't have let you.
+speaker_heading: DUFF
+dialog: Hell, baby, I'm not in the third grade. Well,
+dialog: look - what' we gonna do next time -- have a
+dialog: nice long chat in the parlor?
+speaker_heading: JOSIE
+text: No, on the porch.
+speaker_heading: DUFF
+dialog: Oh yeah, and then what?
+speaker_heading: JOSIE
+dialog: What?
+speaker_heading: DUFF
+dialog: Well, either we're gonna hit the hay or get
+dialog: married. Now you don't want to hit the hay, and
+dialog: I don' want to get married.
+speaker_heading: JOSIE
+dialog: You have some very primitive ideas, don't you?
+speaker_heading: DUFF
+dialog: (defensively)
+dialog: All right, so I'm primitive. So what d'you want
+dialog: with me?
+speaker_heading: JOSIE
+dialog: Look, Duff - most of the men I know - they're
+dialog: kind of sad. When I met you the other day I had
+dialog: a feeling that you're different. That's why I
+dialog: went out with you. I thought we might have
+dialog: something to say to each other.
+speaker_heading: DUFF
+dialog: Hell, baby, I don't know what to say.
+speaker_heading: JOSIE
+dialog: Good night, Duff.
+text: She gets out of the car and starts toward the house.
+text: He looks after her, then drives away.
+speaker_heading: OPEN FIELD
+text: The section hands are hunting rabbits, scaring them up out of the tall grass
+text: and then clubbing them with sticks that have a heavy bolt fastened to the end.
+text: Jocko is fishing from a trestle. Pop fries skinned rabbit in a skillet. Duff
+text: is whittling.
+speaker_heading: CLASSROOM
+text: The grade school children, all black, are writing at their desks.
+text: The end-of-school bell rings and one of the boys jumps up.
+speaker_heading: JOSIE
+dialog: Are you finished, Jackie?
+speaker_heading: BOY
+dialog: Yes, Ma'am.
+speaker_heading: JOSIE
+dialog: Well, I'm not. Wait till class is dismissed.
+text: She walks over to close the window.
+text: In the yard below, Duff is sitting on one of the swings.
+text: Josie smiles and turns to the kids --
+speaker_heading: JOSIE
+dialog: All right. Class dismissed.
+scene_heading: EXT. SCHOOLHOUSE
+text: A bus crowded with noisy kids pulls away to reveal the yard. Duff and Josie
+text: are sitting on two swings side by side.
+speaker_heading: DUFF
+dialog: At first it was real strange. Hell, Japan is a
+dialog: long ways from Alabama. Really got under my
+text: skin, though. Almost didn't come back.
+speaker_heading: JOSIE
+dialog: Why did you?
+speaker_heading: DUFF
+dialog: I don't know. 'Guess I belong here more than
+dialog: there.
+speaker_heading: JOSIE
+dialog: 'Been up north?
+speaker_heading: DUFF
+dialog: Yeah. Knocked around for a couple of months
+dialog: after the Army. You been there?
+speaker_heading: JOSIE
+dialog: No.
+speaker_heading: DUFF
+dialog: Well, it ain't that good up there neither. Might
+dialog: as well make it here. 'Course I ain't really
+dialog: makin' it now.
+text: He gets up and gives her swing a forceful shove.
+speaker_heading: DUFF
+dialog: Anyway, they can't get to you if you keep movin'!
+text: Josie laughs.
+scene_heading: FRONT YARD, DAWSON HOUSE
+text: It is raining. Duff and Josie dash up the path to the front door.
+speaker_heading: DAWSON PARLOR
+text: Duff and Josie barge in out of the rain and find themselves face to face with
+text: Reverend Dawson and a middle-aged white man - Superintendent Johnson.
+speaker_heading: JOSIE
+dialog: Oh, I'm sorry.
+speaker_heading: JOHNSON
+dialog: Come on in, Josie. We're all through.
+speaker_heading: JOSIE
+dialog: Daddy - this is Duff Anderson.
+speaker_heading: REVEREND DAWSON
+dialog: Hello.
+speaker_heading: DUFF
+dialog: How are you?
+speaker_heading: REVEREND DAWSON
+dialog: All right, son.
+speaker_heading: JOSIE
+dialog: This is Mr. Johnson, our school superintendent.
+speaker_heading: JOHNSON
+dialog: (with a friendly smile)
+dialog: How are you?
+speaker_heading: JOSIE
+dialog: I'll be right back.
+text: She leaves.
+speaker_heading: JOHNSON
+dialog: So you're courtin' the preacher's girl. Well,
+dialog: just watch your step, boy, or he'll preach you
+dialog: right into hell.
+dialog: (to Reverend Dawson)
+dialog: I'm counting on you, Reverend.
+speaker_heading: REVEREND DAWSON
+dialog: I understand.
+speaker_heading: JOHNSON
+dialog: Wouldn't do for one of your people to sue at a
+dialog: time like this.
+speaker_heading: REVEREND DAWSON
+dialog: I know.
+speaker_heading: JOHNSON
+dialog: (on his way out)
+dialog: I'll talk to the Mayor.
+speaker_heading: REVEREND DAWSON
+dialog: That'll make the folks very happy.
+text: Johnson leaves.
+text: Reverend Dawson sits down in a rocker.
+speaker_heading: REVEREND DAWSON
+dialog: It's hard to know how to talk to the white folks
+dialog: these days.
+speaker_heading: DUFF
+dialog: Guess it's never been easy.
+speaker_heading: REVEREND DAWSON
+dialog: It's a changing time. Sit down, son.
+speaker_heading: DUFF
+dialog: Thank you.
+text: He sits down opposite Reverend Dawson.
+speaker_heading: REVEREND DAWSON
+dialog: Well, it looks like we'll be getting our new
+dialog: school.
+speaker_heading: DUFF
+dialog: How come you all ain't sendin' them to the same
+dialog: school?
+speaker_heading: REVEREND DAWSON
+dialog: Well, you've got to go easy. We haven't had any
+dialog: trouble in town for eight years, and we're not
+dialog: going to have any now.
+speaker_heading: DUFF
+dialog: Can't live without trouble, can you?
+text: (he sees he is on
+dialog: the wrong track)
+dialog: Nice place you got here. Real nice.
+speaker_heading: REVEREND DAWSON
+dialog: Yes, the Lord's been pretty good to us. I
+dialog: guess you're a church man, aren't you?
+speaker_heading: DUFF
+dialog: I guess I ain't.
+speaker_heading: REVEREND DAWSON
+dialog: Why? Don't you believe in the Lord?
+speaker_heading: DUFF
+dialog: Aw, I do. But 'seems to me us colored folks do
+dialog: a whole lot of church-goin'. It's the whites
+dialog: that need it real bad.
+speaker_heading: REVEREND DAWSON
+dialog: I think if you tried livin' in a town like this,
+dialog: instead of running free and easy, you'd soon
+dialog: change your tune.
+speaker_heading: DUFF
+dialog: I doubt it.
+speaker_heading: REVEREND DAWSON
+dialog: I see.
+dialog: (rising)
+dialog: Well, I guess we don't have much to say to each
+dialog: other.
+speaker_heading: DUFF
+dialog: I guess not.
+speaker_heading: REVEREND DAWSON
+dialog: And since we're talking, my wife and I don't
+dialog: want you hanging around our daughter.
+speaker_heading: DUFF
+dialog: Well, that figures.
+dialog: (he too stands up)
+dialog: Kind of fits in with everything else, don't it!
+speaker_heading: DAWSON PORCH
+text: Duff comes out. Josie joins him a moment later.
+speaker_heading: JOSIE
+dialog: I'm sorry.
+speaker_heading: DUFF
+dialog: Ain't your fault.
+speaker_heading: JOSIE
+dialog: That's the way he is.
+speaker_heading: DUFF
+dialog: Yeah. It's just like I figured.
+speaker_heading: JOSIE
+dialog: What d'you mean?
+speaker_heading: DUFF
+dialog: Hell, I don't belong here. I don't know what I'
+dialog: been thinkin'.
+speaker_heading: JOSIE
+dialog: Look, Duff - if you're free, I'm not working
+dialog: tomorrow.
+speaker_heading: DUFF
+dialog: Sorry, baby. I'm goin' to Birmingham.
+speaker_heading: JOSIE
+dialog: Just for the day?
+speaker_heading: DUFF
+dialog: Goin' to see my kid.
+speaker_heading: JOSIE
+dialog: I didn't know you had one.
+speaker_heading: DUFF
+dialog: Yeah. Well, I do.
+speaker_heading: JOSIE
+dialog: Are you married?
+speaker_heading: DUFF
+dialog: No, I ain't married.
+dialog: (leaving)
+dialog: Well, good-bye.
+scene_heading: COURTHOUSE SQUARE (Morning sunshine)
+text: A bus has pulled in.
+scene_heading: INT. BUS
+text: Duff is making his way down the aisle. To his surprise, he comes upon Josie,
+text: who is sitting at a window with an empty seat next to her.
+speaker_heading: DUFF
+dialog: (with a grin)
+dialog: Well, what-do-you-know?
+speaker_heading: JOSIE
+dialog: Surprised?
+speaker_heading: DUFF
+dialog: No. Women're always followin' me 'round.
+speaker_heading: JOSIE
+dialog: I'm just going in to do my shopping.
+speaker_heading: DUFF
+dialog: Yeah, it's just a coincidence.
+speaker_heading: JOSIE
+dialog: That's right.
+speaker_heading: DUFF
+dialog: (moving on)
+dialog: I'll see you later.
+speaker_heading: JOSIE
+dialog: Come here, Duff. No point running away from
+dialog: coincidence.
+text: He sits down next to her.
+speaker_heading: DUFF
+dialog: Baby, you must be crazy.
+text: The bus starts up.
+speaker_heading: JOSIE
+dialog: How old is your boy?
+speaker_heading: DUFF
+dialog: Four.
+speaker_heading: JOSIE
+dialog: What's he like?
+speaker_heading: DUFF
+dialog: I ain't seen him in a couple of years.
+scene_heading: ALLEYWAY, BIRMINGHAM
+text: Duff is walking past crowded back-porches in a black section of town. Gospel
+dialog: music.
+text: He steps up onto one of the porches and knocks at the screen door.
+speaker_heading: EFFIE'S PARLOR
+text: Through the screen door we see EFFIE SIMMS, a woman in her twenties. She is
+text: sitting on a chair and cradles a sleeping child.
+speaker_heading: DUFF
+dialog: 'You Effie Simms?
+speaker_heading: EFFIE
+dialog: (suspiciously)
+dialog: What d'you want?
+speaker_heading: DUFF
+dialog: Guess you must be lookin' after my boy. I'm
+dialog: Duff Anderson.
+speaker_heading: EFFIE
+dialog: 'Bout time you showed. Door's open.
+text: Duff enters.
+speaker_heading: EFFIE
+dialog: (calling)
+dialog: James Lee, you come in here and meet your daddy.
+speaker_heading: DUFF
+dialog: Where's Wilma?
+speaker_heading: EFFIE
+dialog: She done moved to Detroit.
+speaker_heading: DUFF
+dialog: Ain't she goin' to take the boy?
+speaker_heading: EFFIE
+dialog: She got herself a husband now. They don' want
+dialog: him 'round. And I tell you, man, I got no use
+dialog: for him neither.
+speaker_heading: DUFF
+dialog: I been sendin' her money.
+speaker_heading: EFFIE
+dialog: Well, she never gave me none. Look, you better
+dialog: find him a place pretty quick.
+speaker_heading: DUFF
+dialog: Like where?
+speaker_heading: EFFIE
+dialog: I don't know. He's your boy.
+speaker_heading: DUFF
+dialog: I ain't so sure of that. If I was, maybe I'd
+dialog: feel different.
+text: Effie gives him a scornful look, puts down the child, and opens the curtain
+text: that leads into the bedroom.
+speaker_heading: EFFIE
+dialog: (sharply)
+dialog: James Lee - I said for you to come in here.
+speaker_heading: BEDROOM
+text: Two children are playing on the floor. James Lee is up on a Castro
+dialog: convertible.
+text: Duff appears beside Effie in the doorway.
+speaker_heading: DUFF
+dialog: How 'you been, boy?
+text: James Lee looks at him, scared and silent.
+speaker_heading: EFFIE
+dialog: Go on. Tell him.
+text: She returns to the parlor.
+speaker_heading: DUFF
+dialog: I got you something.
+text: He crouches down and holds out a toy. James Lee approaches, takes the toy,
+text: and withdraws.
+speaker_heading: EFFIE'S PARLOR
+text: Effie is folding diapers. Duff comes out of the bedroom.
+speaker_heading: EFFIE
+dialog: 'Doctor says he could use some shots.
+speaker_heading: DUFF
+dialog: Yeah. Look, I'll be sendin' you the money from
+text: now on.
+speaker_heading: EFFIE
+dialog: Okay.
+speaker_heading: DUFF
+dialog: Make sure he gets those shots.
+text: He looks back at the boy in the bedroom.
+speaker_heading: EFFIE
+dialog: They say your dad's 'round town.
+speaker_heading: DUFF
+dialog: 'That right? I thought he was up North.
+speaker_heading: EFFIE
+dialog: People seen him 'round.
+speaker_heading: DUFF
+dialog: Where's he at?
+speaker_heading: EFFIE
+dialog: I don't know.
+speaker_heading: STREET
+text: Duff is walking through a black section of town.
+scene_heading: EXT. TENEMENT STAIRS
+text: Duff climbs to the top of the rickety wooden steps.
+scene_heading: WILL ANDERSON'S ROOM
+text: Duff's father, a big man in his fifties, is reclining on the bed.
+text: Duff appears in the open doorway.
+speaker_heading: DUFF
+dialog: 'You Will Anderson?
+speaker_heading: WILL
+dialog: Who're you?
+speaker_heading: DUFF
+dialog: I'm Duff.
+speaker_heading: WILL
+text: (sitting up, with
+dialog: a faint grin)
+dialog: Wouldn't have known you.
+speaker_heading: DUFF
+dialog: Wouldn't have known you.
+speaker_heading: WILL
+dialog: What's on your mind?
+speaker_heading: DUFF
+dialog: Nothing. Heard you were in town.
+speaker_heading: WILL
+dialog: Wanted a look at your old man, huh?
+speaker_heading: DUFF
+dialog: Yeah. That's right.
+text: Will gets up and crosses the room.
+speaker_heading: WILL
+dialog: How about a drink?
+speaker_heading: DUFF
+dialog: Okay.
+text: Will pours whiskey into two glasses. Duff sees that Will's left sleeve hangs
+text: empty.
+speaker_heading: DUFF
+dialog: What happened?
+speaker_heading: WILL
+dialog: Workin' a saw mill.
+dialog: (raising his glass)
+dialog: Here's to.
+text: A woman in her late thirties (LEE) comes in with a shopping bag.
+speaker_heading: WILL
+dialog: Baby - want you to meet Duff.
+speaker_heading: LEE
+dialog: (flatly)
+dialog: Hi.
+speaker_heading: WILL
+dialog: He's my son!
+text: She turns and looks at Duff with a glimmer of interest.
+speaker_heading: LEE
+dialog: Come and have some coffee.
+dialog: (sitting down)
+dialog: I'm Lee. Sit down.
+text: He joins her.
+speaker_heading: LEE
+dialog: Come on, Will.
+speaker_heading: WILL
+dialog: What's the matter?! You mad at me?
+speaker_heading: LEE
+dialog: No. Why?
+speaker_heading: WILL
+dialog: (sitting down)
+dialog: Nothin'.
+dialog: (to Duff)
+dialog: She's all right. Wouldn't have made it without
+dialog: her. Christ - haven't worked in eight months.
+dialog: Right now, I'm waitin' for some insurance money.
+dialog: And man, when I get it, I got plans to make me
+dialog: some more.
+text: (he gets up restlessly)
+dialog: Let's get out'a here. This place gives me the
+dialog: willies.
+dialog: (to Lee)
+dialog: You got some money?
+speaker_heading: LEE
+dialog: (she knows what's coming)
+dialog: Let's stay here, Will.
+speaker_heading: WILL
+dialog: (aggressively)
+dialog: What's the matter?! It's a celebration!
+speaker_heading: BAR
+text: Will, Lee, and Duff are standing at the bar. Will has been drinking.
+speaker_heading: WILL
+dialog: So what's this about a woman? You got woman
+dialog: trouble?
+speaker_heading: DUFF
+dialog: I said, I come to town with a girl.
+speaker_heading: WILL
+dialog: Plannin' on getting married?
+speaker_heading: DUFF
+dialog: No.
+speaker_heading: WILL
+dialog: 'Don't sound so sure.
+speaker_heading: DUFF
+dialog: Well, matter of fact, I done a lot of bangin'
+dialog: 'round.
+speaker_heading: WILL
+dialog: Yeah. That's how me an' your mother got started.
+dialog: I'm tellin' you, boy, you ain't got a chance
+dialog: without dough. They take it all away from you.
+text: He drains his glass and puts it down for Lee to refill.
+speaker_heading: LEE
+dialog: Pour your own trouble, Will.
+speaker_heading: WILL
+dialog: Your mother used to lay for her boss, boy. Did
+dialog: you know that?
+speaker_heading: LEE
+dialog: Shut up, Will.
+speaker_heading: WILL
+dialog: Okay, so what's a girl supposed to do? Me not
+dialog: workin' and her cleanin' house for a white man.
+dialog: I'm tellin' you, boy, keep away from marriage.
+dialog: Ya gotta stay light on your feet or you won't
+dialog: make it.
+text: He puts his hand on Lee's bare arm.
+speaker_heading: WILL
+dialog: Is she good in the hay? No point marryin' her
+dialog: just to find out. Is there, baby?
+speaker_heading: LEE
+dialog: If you don't quit it, Will, I'm leaving.
+speaker_heading: WILL
+dialog: You're breaking my heart.
+text: (he grabs her neck
+dialog: and shakes her)
+dialog: Got to see a man about a dog.
+speaker_heading: DANCE FLOOR
+text: Duff and Lee are dancing. She looks at him with a touch of sympathy.
+speaker_heading: LEE
+dialog: Don't let him get you, Duff.
+speaker_heading: DUFF
+dialog: How often does he get like that?
+speaker_heading: LEE
+dialog: Whenever he's got an edge on.
+speaker_heading: DUFF
+dialog: How often is that?
+speaker_heading: LEE
+dialog: He's been hitting it pretty hard. Got high
+dialog: blood pressure, too. I guess it's hard on him,
+dialog: having you around.
+speaker_heading: BAR
+text: Will is back and drinking when Duff and Lee come off the dance floor.
+speaker_heading: WILL
+dialog: (aggressively)
+dialog: Well, what d'you think of her?
+text: Duff says nothing.
+speaker_heading: WILL
+dialog: I asked you somethin', boy!
+speaker_heading: DUFF
+dialog: I heard you.
+speaker_heading: WILL
+dialog: Pretty good for a one-armed nigger, huh?
+speaker_heading: DUFF
+dialog: Great.
+speaker_heading: WILL
+dialog: What d'you want anyhow? What you come and
+dialog: bother me for?
+speaker_heading: LEE
+dialog: He's your son.
+speaker_heading: WILL
+dialog: Okay, boy, beat it.
+speaker_heading: DUFF
+dialog: I got the point.
+text: He leaves money on the bar.
+speaker_heading: LEE
+dialog: Come back some other time, will you?
+speaker_heading: DUFF
+dialog: Yeah, sure. Good luck.
+scene_heading: DOWNTOWN STREET (Night)
+text: Duff is walking, lost in thought.
+scene_heading: INT. BUS DEPOT (Night)
+text: Josie enters with her purchases. She joins Duff at the sandwich counter.
+speaker_heading: JOSIE
+dialog: Hi.
+speaker_heading: DUFF
+dialog: (relieved to see her)
+dialog: I thought you wasn't comin'.
+text: She sits down.
+speaker_heading: JOSIE
+dialog: How did it go?
+speaker_heading: DUFF
+dialog: What?
+speaker_heading: JOSIE
+dialog: Your boy.
+speaker_heading: DUFF
+dialog: Okay, I guess.
+speaker_heading: JOSIE
+dialog: (to off-screen waitress)
+dialog: I'll have some coffee, please.
+speaker_heading: DUFF
+dialog: You know, I been thinkin' - how 'bout us gettin'
+dialog: married?
+text: Josie is stunned.
+speaker_heading: JOSIE
+dialog: (playing for time)
+dialog: What d'you mean?
+speaker_heading: DUFF
+dialog: Just what I said. Don't look so scared.
+text: The waitress puts down a cup of coffee.
+speaker_heading: JOSIE
+dialog: Thank you.
+speaker_heading: DUFF
+dialog: How about it?
+speaker_heading: JOSIE
+dialog: What happened, Duff?
+speaker_heading: DUFF
+dialog: Look, baby - I don't know 'bout you, but it's
+dialog: the right thing for me. I just know it is. So,
+dialog: what d'you say?
+speaker_heading: JOSIE
+dialog: Don't push me, Duff.
+speaker_heading: DUFF
+dialog: Yeah. Wouldn't be no picnic for you. I ain't
+text: exactly housebroken.
+speaker_heading: JOSIE
+dialog: What about that girl?
+speaker_heading: DUFF
+dialog: She don't mean nothin' to me. That's all over.
+dialog: (after a moment)
+dialog: Hell, baby - I'm askin' you to marry me. I
+dialog: guess you want a big scene, huh?
+speaker_heading: JOSIE
+dialog: No. But a small one.
+text: They look at each other.
+speaker_heading: DUFF
+dialog: It's yes, huh?
+scene_heading: INT. BUNK CAR (Day)
+text: Frankie is looking scornfully at Duff, who is lying on his bunk bed.
+speaker_heading: FRANKIE
+dialog: I'll be a monkey's kid sister! What d'you want
+dialog: to do a thing like that for?
+speaker_heading: JOCKO
+dialog: 'Musta knocked her up.
+speaker_heading: FRANKIE
+dialog: What're you gonna get out of it, huh?
+speaker_heading: DUFF
+dialog: (with a smile)
+dialog: A whole lot, Frankie.
+speaker_heading: FRANKIE
+dialog: (aggressively)
+dialog: Like what?
+speaker_heading: DUFF
+dialog: Like a home, for one thing.
+speaker_heading: FRANKIE
+dialog: You gonna sit at home the rest of your life?
+dialog: Jesus!
+speaker_heading: DUFF
+dialog: Well, it's better than windin' up like a bum.
+speaker_heading: FRANKIE
+dialog: (defensively)
+dialog: What 'you signifyin'?
+speaker_heading: DUFF
+dialog: I wasn't thinkin' about you, Frankie.
+speaker_heading: JOCKO
+dialog: Ol' Doris sure goin' to miss you.
+speaker_heading: FRANKIE
+dialog: Just give him a couple of months. A girl like
+dialog: that, she don't know any tricks.
+speaker_heading: JOCKO
+dialog: You know what Doris told me? She say: That
+dialog: Duff's a nice guy. Wouldn't even charge him
+dialog: nothin'.
+speaker_heading: FRANKIE
+dialog: I guess you'll be quittin' the railroad, huh,
+dialog: man?
+speaker_heading: DUFF
+dialog: That's right.
+speaker_heading: FRANKIE
+dialog: Man, you must be plumb outa your mind! You'll
+dialog: be makin' twen'y bucks a week, if you're lucky.
+scene_heading: INT. MOVING CAR
+text: Josie is next to Duff. They are driving past a row of small attached houses
+text: in the black section of town.
+speaker_heading: JOSIE
+dialog: Turn here. There it is!
+text: They stop in front of a house. It is barely larger than a shack.
+scene_heading: DILAPIDATED LIVING ROOM
+text: Duff and Jose come in. The room is full of abandoned, broken furniture and
+text: the ceiling and wallpaper hang down in strips.
+speaker_heading: JOSIE
+dialog: I used to know them. They've gone North.
+speaker_heading: DUFF
+dialog: (with a laugh)
+dialog: I can see why.
+speaker_heading: JOSIE
+dialog: Well, what d'you think?
+speaker_heading: DUFF
+dialog: It's okay with me, baby. But how' you goin' to
+dialog: like it?
+speaker_heading: JOSIE
+dialog: It'll be fine when we get done with it.
+scene_heading: EXT. WINDOW OF LIVING ROOM
+text: Duff is looking out through the broken pane of glass.
+speaker_heading: DUFF
+dialog: Who's that?
+scene_heading: NEIGHBORING HOUSE, SEEN FROM WINDOW
+text: A woman is putting laundry into a washing machine on the open porch. Her
+text: children are all around her and in the yard below.
+scene_heading: EXT. WINDOW
+text: Josie has stopped next to Duff and looks out.
+speaker_heading: JOSIE
+text: That's Bessie Hall. Barney works at the mill.
+speaker_heading: DUFF
+dialog: Yeah?
+text: Josie removes a shard of glass from the window; a larger piece falls out.
+speaker_heading: DUFF
+dialog: Hey, watch out! Guess you want a house full of
+dialog: pickaninnies too, huh?
+speaker_heading: JOSIE
+dialog: Don't call them that.
+speaker_heading: DUFF
+dialog: That's all right with me. Always liked kids.
+text: He moves to the rear of the room.
+speaker_heading: LIVING ROOM
+text: Josie turns to him.
+speaker_heading: JOSIE
+dialog: What about your boy?
+speaker_heading: DUFF
+dialog: (defensively)
+dialog: What about him?
+speaker_heading: JOSIE
+dialog: He could live with us.
+speaker_heading: DUFF
+dialog: Let's just see how the two of us make out
+dialog: first, huh?
+scene_heading: INT. CHURCH
+text: Duff and Josie are getting married. Duff is waiting near the pulpit. The
+text: section hands are seated on one side of the aisle, Josie's family and friends
+text: on the other. The gospel piano segues into the wedding march. Josie is coming
+text: down the aisle by herself. She joins Duff and they step forward to face
+dialog: Reverend Dawson.
+scene_heading: DUFF AND JOSIE'S BEDROOM (Early morning)
+text: Josie lies in bed with closed eyes. She hears Duff move and turns to him. He
+text: is dressed for work.
+speaker_heading: JOSIE
+dialog: Good luck, baby.
+text: He sits down beside her for a moment.
+scene_heading: INT. MOVING CAR
+text: Duff is in the rear seat with his new neighbor, Barney.
+text: Joe, a millhand, sits next to the driver in front. He turns to Duff.
+speaker_heading: JOE
+dialog: Hard to get up in the morning, huh?
+speaker_heading: DUFF
+dialog: (with a grin)
+dialog: That's right. How' you doin', Barney?
+speaker_heading: BARNEY
+dialog: (not given to saying much)
+dialog: Okay.
+scene_heading: EXT. SMALL HOUSE
+text: The car drives up and Joe leans out.
+speaker_heading: JOE
+dialog: Come on, Willie!
+text: Willie, a big man, has been fixing his front step.
+speaker_heading: WILLIE
+dialog: Just a minute, man.
+speaker_heading: JOE
+dialog: Come on - we're late!
+speaker_heading: WILLIE
+dialog: (taking his time)
+dialog: Yazzuh, Boss - ah's comin' as fast as ah can.
+text: He picks up his lunch box and shuffles toward the car, Stepin' Fetchit style.
+speaker_heading: JOE
+dialog: (laughing)
+dialog: Get in the car, man!
+scene_heading: INT. CAR
+text: Willie climbs in next to Duff.
+speaker_heading: WILLIE
+dialog: How' you doing, man?
+speaker_heading: DUFF
+dialog: Okay.
+dialog: (to the driver)
+dialog: Let's go.
+speaker_heading: WILLIE
+dialog: That's right, Jethro - take us to the plant.
+dialog: And hurry, boy - ah's got a heavy day.
+text: The driver backs up fast, jerking the passengers forward.
+speaker_heading: WILLIE
+dialog: Ah tells you, man - you give these niggers a
+text: machine and they go stark-ravin' wild!
+text: Laughter.
+scene_heading: INT. MILL ENTRANCE
+text: Duff is among the mill hands punching in on the time clock.
+speaker_heading: VOICE OF FOREMAN
+dialog: (off screen)
+dialog: You new here?
+speaker_heading: DUFF
+dialog: That's right.
+speaker_heading: MILL YARD
+text: Duff and two other men are working on top of a pile of lumber.
+text: A white supervisor on a forklift has been watching them.
+speaker_heading: FOREMAN
+dialog: (calling)
+dialog: Hey, Jack!
+text: Duff doesn't respond.
+speaker_heading: FOREMAN
+dialog: Hey, boy - I'm talkin' to you.
+speaker_heading: DUFF
+dialog: (after a moment)
+dialog: Name's Duff.
+speaker_heading: FOREMAN
+dialog: How 'you doing?
+speaker_heading: DUFF
+dialog: Okay.
+speaker_heading: FOREMAN
+dialog: (genially)
+dialog: Looks like you're doin' a good job.
+speaker_heading: DUFF
+dialog: Thanks.
+speaker_heading: FOREMAN
+dialog: Don't say much, do you?
+speaker_heading: DUFF
+dialog: Guess I don't.
+speaker_heading: FOREMAN
+dialog: Just so you do your work.
+scene_heading: EXT. MILL SHED
+text: The mill hands are on their lunch break. The only white man among them is
+text: looking at Duff with a grin.
+speaker_heading: WHITE
+dialog: Hell, I bet those black girls really go for you,
+dialog: huh? That's the best-lookin' colored girl in
+dialog: town.
+text: Duff is eating and says nothing.
+speaker_heading: WHITE
+dialog: What's the matter? Still on your honeymoon,
+dialog: huh? Just like you, Barney. 'Been on your
+dialog: honeymoon for twen'y years, huh?
+speaker_heading: BARNEY
+dialog: (cautiously)
+dialog: Yeah.
+text: The white mill hand helps himself to a piece of Barney's pie.
+speaker_heading: WHITE
+dialog: How many kids you got now, Barney?
+speaker_heading: BARNEY
+dialog: Four.
+speaker_heading: WHITE
+dialog: (eating the pie)
+dialog: Hmmm - she can cook,too. Man, it's no wonder you
+dialog: 'been draggin' your tail on the job. You 'been
+dialog: doin' your best work at home.
+text: He notices that Duff's face is set.
+speaker_heading: WHITE
+dialog: (aggressively)
+dialog: What's the matter, boy? Never smile?
+speaker_heading: DUFF
+dialog: I'll smile when it's funny.
+speaker_heading: WHITE
+dialog: So it wasn't funny, huh? Well, I thought it was.
+dialog: What d'you say, Barney? Wasn't it funny?!
+speaker_heading: BARNEY
+dialog: Yeah, it was funny.
+speaker_heading: WHITE
+dialog: Sure.
+dialog: (to the others)
+dialog: What d'you say, boys? Wasn't it funny?
+speaker_heading: MILL HANDS
+dialog: Yeah. Sure.
+speaker_heading: WHITE
+dialog: (to Duff)
+dialog: Trouble with you, boy, you ain't got no sense
+text: of humor. Ought to smile more.
+speaker_heading: DUFF
+dialog: I know.
+speaker_heading: WHITE
+dialog: You' new here, man!
+dialog: (he gets up to leave)
+dialog: See you, boys.
+speaker_heading: JOE
+dialog: (to Duff after a moment)
+dialog: You know, man, that guy was trying to be
+dialog: friendly.
+speaker_heading: DUFF
+dialog: That ain't my idea of friendliness.
+speaker_heading: BARNEY
+dialog: You got to watch yourself pretty close.
+speaker_heading: WILLIE
+dialog: Yeah, you want to get along, act the nigger.
+speaker_heading: DUFF
+dialog: Like hell. You know, if you fellows stuck
+dialog: together 'stead of letting them walk all over
+dialog: you, they might not try it.
+speaker_heading: JOE
+dialog: Like hell they wouldn't.
+speaker_heading: WILLIE
+dialog: They been doin' it all my life.
+speaker_heading: DUFF
+dialog: Maybe it's time you stopped letting them.
+text: Jesse, a heavy-set man who has been silent till now, stands up and looks at
+dialog: Duff.
+speaker_heading: JESSE
+dialog: Man, you sound like a trouble man.
+scene_heading: EXT. DUFF AND JOSIE'S HOUSE (Dusk)
+text: The lights are on inside.
+scene_heading: DUFF AND JOSIE'S KITCHEN
+text: Duff is finishing his supper at the table. Josie is at the stove pouring
+text: coffee. She puts a piece of pie in front of him. He drinks his Coke out of
+dialog: the bottle.
+speaker_heading: JOSIE
+dialog: Use the glass, honey. That's what it's for.
+speaker_heading: DUFF
+dialog: (with a grin)
+dialog: Is that so?
+speaker_heading: JOSIE
+dialog: Yeah, that's so.
+text: She returns to the stove. Duff picks up the pie and sniffs it suspiciously.
+speaker_heading: JOSIE
+dialog: What's wrong?
+speaker_heading: DUFF
+text: Smells like something crawled in there and died.
+speaker_heading: JOSIE
+dialog: (innocently)
+dialog: Oh really? I thought it was pretty good.
+speaker_heading: DUFF
+dialog: Come here, baby.
+text: He gets her to sit on his lap.
+speaker_heading: DUFF
+dialog: Everything you cook is good.
+speaker_heading: JOSIE
+dialog: Duff - you know those women you used to know--
+text: He forks a bite of pie into her mouth.
+speaker_heading: DUFF
+dialog: What about them?
+speaker_heading: JOSIE
+dialog: (her mouth full)
+dialog: Am I as good as they?
+speaker_heading: DUFF
+dialog: (drinking)
+dialog: Hmmm - good coffee.
+speaker_heading: JOSIE
+dialog: You didn't answer my question.
+speaker_heading: DUFF
+dialog: Baby, you're the best thing that ever happened
+dialog: to me.
+speaker_heading: JOSIE
+dialog: You still didn't answer my question.
+speaker_heading: DUFF
+dialog: Well, if you don't know I can't tell you.
+text: She elbows him in the stomach. He laughs.
+speaker_heading: BACKYARD (Night)
+text: Duff is helping Josie take in the wash. Music from Barney's house.
+speaker_heading: JOSIE
+dialog: You know how to box?
+speaker_heading: DUFF
+dialog: Uh-huh. Why?
+speaker_heading: JOSIE
+dialog: My kids want me to teach them.
+speaker_heading: DUFF
+dialog: Okay. Come on. Put 'em up!
+text: She assumes the posture of a boxer. Duff laughs and adjusts her hands.
+speaker_heading: DUFF
+dialog: Like so. There you go. Okay, hit me!
+speaker_heading: JOSIE
+dialog: I don't want to hurt you.
+speaker_heading: DUFF
+dialog: Go on - hit me!
+text: She does.
+speaker_heading: DUFF
+dialog: Ooh! My, oh my!
+text: They spar - briefly in sync with the music. She goes after him, flailing her
+dialog: arms.
+text: The music is turned off abruptly and we hear Bessie's raised voice. She is
+text: out on the porch of her house, yelling at Barney.
+speaker_heading: BESSIE
+dialog: Just leave me alone! You can sit out here all
+dialog: night. I don't care what you do! You're no good
+text: around the house anyway.
+text: Barney remains silent. Duff and Josie exchange a look.
+scene_heading: DUFF AND JOSIE'S BEDROOM (Night)
+text: They are in bed.
+speaker_heading: DUFF
+dialog: (gravely)
+dialog: It sure scares you, a guy like that - settin'
+dialog: out on his porch, doin' nothin'. I seen
+dialog: hundreds of them - all my life.
+speaker_heading: JOSIE
+dialog: My father's never done a thing for any of them.
+text: He touches her face.
+speaker_heading: JOSIE
+dialog: I'm very happy, Duff. How about you?
+text: He smiles.
+text: Josie gets up and slips out of her nightgown. Her body merges with the
+dialog: darkness.
+scene_heading: DUFF AND JOSIE'S LIVING ROOM (Evening)
+text: The place has been painted and simply furnished.
+text: Josie has made dinner for the section hands. Pop is the only one who is still
+dialog: eating.
+speaker_heading: FRANKIE
+dialog: You sure done a great job, Mrs. Anderson.
+speaker_heading: JOSIE
+dialog: Thanks, but you haven't eaten very much. How
+dialog: about it, Frankie? I bet you could eat some
+dialog: more.
+speaker_heading: FRANKIE
+dialog: No, thanks.
+speaker_heading: RIDDICK
+dialog: (to Duff)
+dialog: How's that job comin'?
+speaker_heading: DUFF
+dialog: Well, it ain't the railroad. Those guys are
+dialog: scared. Guess they've never known nothin' but
+dialog: takin' it.
+speaker_heading: JOCKO
+dialog: (with an edge)
+dialog: They all got families to support.
+speaker_heading: DUFF
+dialog: (good-naturedly)
+dialog: Yeah. That's right, Jocko.
+dialog: (to the others)
+dialog: Those white guys sure shoot up at you like a
+dialog: yeast cake if you just cock an eye at them.
+speaker_heading: JOCKO
+dialog: (sarcastically)
+dialog: I guess you'll be making' some changes 'round
+dialog: here.
+speaker_heading: DUFF
+dialog: (with a grin)
+dialog: What's eatin' you, Jocko?
+speaker_heading: JOCKO
+dialog: Nothin'. I just figure you were the right man
+dialog: for the job.
+speaker_heading: JOSIE
+dialog: (changing the subject)
+dialog: I guess you'll all keep workin' together, won't
+dialog: you?
+speaker_heading: FRANKIE
+dialog: Heck, no. They're shippin' us all over the map.
+speaker_heading: JOSIE
+dialog: That's too bad.
+speaker_heading: RIDDICK
+dialog: If you wan' 'em, there's some expert dishwashers
+dialog: here.
+speaker_heading: JOSIE
+dialog: No, thanks. My kitchen's too small.
+text: Riddick gets up.
+speaker_heading: RIDDICK
+dialog: Okay, fellows - let's give the folks some
+dialog: privacy.
+speaker_heading: DOORWAY
+text: The men, on their way out, shake hands with Duff.
+speaker_heading: DUFF
+dialog: Good-bye, Frankie.
+speaker_heading: FRANKIE
+dialog: 'Got a good thing, man.
+speaker_heading: POP
+dialog: See ya.
+speaker_heading: DUFF
+dialog: Take it easy, Pop.
+dialog: (shaking Riddick's hand)
+dialog: 'See you before you take off.
+speaker_heading: JOCKO
+dialog: 'See ya.
+speaker_heading: DUFF
+dialog: 'Bye, Jocko.
+speaker_heading: BATHROOM (Night)
+text: Duff is washing his face at the sink. Josie comes up behind him. She is in
+text: her nightgown.
+speaker_heading: JOSIE
+dialog: Duff.
+text: He turns to her. Instead of speaking, she turns her back to him.
+speaker_heading: JOSIE
+text: My back itches.
+text: He scratches her back.
+speaker_heading: JOSIE
+dialog: How would you like to have a baby, Duff?
+speaker_heading: DUFF
+dialog: Huh?
+speaker_heading: JOSIE
+dialog: Don't look so scared.
+speaker_heading: DUFF
+dialog: You jivin' me?
+speaker_heading: JOSIE
+dialog: Well, I haven't come around.
+text: Duff is taken aback.
+speaker_heading: DUFF
+dialog: Ain't that something?!
+dialog: (recovering)
+dialog: That's just fine, baby.
+speaker_heading: JOSIE
+dialog: We'll be all right.
+text: He kisses her and sits down on the rim of the bathtub.
+speaker_heading: DUFF
+dialog: Man, we sure hit the jackpot fast around here.
+speaker_heading: JOSIE
+dialog: What about your boy?
+speaker_heading: DUFF
+dialog: How come you keep askin'?
+speaker_heading: JOSIE
+dialog: I keep thinking about him.
+speaker_heading: DUFF
+dialog: Well, he ain't mine, so skip it.
+text: She gargles. Duff moves over to her with a grin and puts his arms around her--
+speaker_heading: DUFF
+dialog: Baby, we're goin' to put a whole lot of little
+dialog: kids into this world. Hell, we'll swamp 'em.
+scene_heading: LOCKER ROOM, MILL
+text: The men are done for the day. Duff is putting on his shirt. Willie is under
+dialog: the shower.
+speaker_heading: DUFF
+dialog: Hell, if they can do it in Birmingham - and
+dialog: that's a mean town, we oughta do something here.
+text: Willie says nothing. His eyes are on a white supervisor, who has stopped in
+text: the doorway.
+speaker_heading: SUPERVISOR
+dialog: 'You Duff Anderson?
+speaker_heading: DUFF
+dialog: That's right.
+speaker_heading: SUPERVISOR
+dialog: Want to talk to you.
+speaker_heading: DUFF
+dialog: Okay.
+speaker_heading: SUPERVISOR
+dialog: I hear you're tryin' to organize this place!
+speaker_heading: DUFF
+dialog: I don't know what you're talkin' about.
+speaker_heading: SUPERVISOR
+dialog: That's no way to talk, boy. Now we had one of
+dialog: them union men 'round here coupla years ago.
+dialog: Stirred up a lot of trouble. They're always
+dialog: after you colored boys.
+speaker_heading: DUFF
+dialog: I still don't know what you're talkin' about.
+speaker_heading: SUPERVISOR
+dialog: You a union man?
+speaker_heading: DUFF
+dialog: Used to be. On the railroad.
+speaker_heading: SUPERVISOR
+dialog: Uh-huh. Well, this ain't the railroad. Now
+dialog: what's all this talk about stickin' together?
+speaker_heading: DUFF
+dialog: Well, what d'you know?!
+text: He looks over at the other men. They avoid his eyes.
+speaker_heading: SUPERVISOR
+dialog: Look, boy, we got a smooth operation here, and
+dialog: I aim to keep it that way. Now I got an idea
+dialog: you're plannin' trouble.
+speaker_heading: DUFF
+dialog: No. You got the wrong idea.
+speaker_heading: SUPERVISOR
+dialog: All right, then. All I want you to do is tell
+dialog: these boys here you didn't mean what you said
+dialog: about stickin' together an' all.
+text: Duff says nothing. The mill hands watch him silently.
+speaker_heading: SUPERVISOR
+dialog: Want to keep your job, boy?
+speaker_heading: DUFF
+dialog: What d'you think?
+speaker_heading: SUPERVISOR
+dialog: Then do like I said.
+dialog: (to the men)
+dialog: Men - this boy here's got something to tell
+dialog: you-all.
+dialog: (to Duff)
+dialog: Well, how about it?
+text: Duff looks at the supervisor in silence, fully aware that he is about to be
+text: fired. He turns and opens his locker.
+speaker_heading: SUPERVISOR
+dialog: Boy, you're actin' like a nigger with no sense.
+dialog: All right, go down' the office and get your pay.
+dialog: Tell them you're through.
+speaker_heading: DUFF'S CAR
+text: He is driving past Josie's school and slows down. The kids are out in the
+text: yard but Josie is not in sight. He accelerates, his face set.
+scene_heading: DUFF AND JOSIE'S BEDROOM (Night)
+text: Josie is correcting papers on the bed. Duff is at the mantel, playing with a
+text: cat. He puts a small box over its head. The cat cries out and backs up
+text: clumsily, trying to free itself.
+speaker_heading: JOSIE
+dialog: Don't, Duff.
+speaker_heading: DUFF
+dialog: Yeah.
+text: He sits down. Josie comes over and sits on the arm of the chair.
+speaker_heading: DUFF
+dialog: I'm jumpy, that's all.
+text: She runs her hand through his hair.
+speaker_heading: JOSIE
+dialog: Well, you've had quite a day.
+text: He brushes her off:
+speaker_heading: DUFF
+dialog: I don't like bein' mothered.
+text: When she touches him again, he jumps up.
+speaker_heading: DUFF
+dialog: Jesus, baby -- leave me alone, will ya?
+text: He flings himself down on the bed.
+speaker_heading: JOSIE
+dialog: (sitting down beside him)
+dialog: Don't deny me, Duff.
+speaker_heading: DUFF
+dialog: Hell, baby - I met this beautiful chick and
+dialog: she's just dyin' for me, okay?
+text: She takes him by the shoulders and shakes him.
+speaker_heading: JOSIE
+dialog: Don't be so silly.
+text: Duff laughs.
+speaker_heading: DUFF
+dialog: Yeah. But just how're we goin' to make out? I
+dialog: got to get me a job.
+speaker_heading: JOSIE
+dialog: You will.
+speaker_heading: DUFF
+dialog: Pay is so damn low. I don't want my kids to
+dialog: grow up like Barney's.
+speaker_heading: JOSIE
+dialog: They won't.
+speaker_heading: DUFF
+dialog: I'm telling you, baby, maybe we better get out
+dialog: of here.
+speaker_heading: JOSIE
+dialog: (gravely)
+dialog: We can always do that, Duff.
+speaker_heading: DUFF
+dialog: Yeah. Yeah, I know. I'm not really thinkin'
+dialog: about it. Anyway, don't want those white guys
+dialog: laughin' up their sleeve at me when they see
+text: me pull out.
+scene_heading: EXT. HIRING SHED, MILL YARD
+text: Duff waits outside the open window, while the white man in the shed checks
+dialog: his job application.
+speaker_heading: WHITE
+dialog: Yeah, we can use you. Ever work a saw mill?
+speaker_heading: DUFF
+dialog: Yeah.
+speaker_heading: WHITE
+dialog: Where was that?
+speaker_heading: DUFF
+dialog: (after a moment's hesitation)
+dialog: Walker and Williams.
+speaker_heading: WHITE
+dialog: What did you say your name is?
+speaker_heading: DUFF
+dialog: Anderson.
+text: The man checks for Duff's name on a list.
+speaker_heading: WHITE
+dialog: (turning to Duff)
+dialog: Sorry, boy, there ain't nothin' here.
+scene_heading: INT. RESTAURANT
+text: Duff is sitting at the lunch counter. Joe, the mill hand, comes in.
+speaker_heading: JOE
+dialog: (to the waitress)
+dialog: Hello, Frances.
+text: He sits down next to Duff.
+speaker_heading: JOE
+dialog: How 'you doin' man?
+speaker_heading: DUFF
+dialog: (non-committal)
+dialog: Okay.
+speaker_heading: JOE
+dialog: (to Frances)
+text: Cup of coffee.
+dialog: (to Duff)
+dialog: I 'been meanin' to talk to you.
+speaker_heading: DUFF
+dialog: Oh yeah?
+speaker_heading: JOE
+dialog: You know, over at the mill, there's just one guy
+dialog: that talked. It's kinda late to say it, but we
+dialog: shoulda acted different.
+text: The waitress brings his coffee.
+speaker_heading: JOE
+dialog: Been over to the other mill?
+speaker_heading: DUFF
+dialog: Yeah, I been there.
+speaker_heading: JOE
+dialog: It's just that we're not used to seein' anyone
+dialog: stand up 'round here. Kinda took us by surprise.
+speaker_heading: DUFF
+dialog: Oh yeah? That's good.
+scene_heading: INT. POOL HALL
+text: Duff is at the bar.
+speaker_heading: BARTENDER
+dialog: Well, if you tried the mills, there ain't no
+dialog: other industry 'round here.
+speaker_heading: DUFF
+dialog: How 'bout that furniture plant?
+speaker_heading: BARTENDER
+dialog: (with a laugh)
+dialog: Man, the darkest thing they got in there is
+dialog: Coca-Cola.
+speaker_heading: DUFF
+dialog: Yeah.
+speaker_heading: BARTENDER
+dialog: Now, if you want to work like a real nigger,
+dialog: you can always go out and chop cotton.
+speaker_heading: DUFF
+dialog: (grimly)
+dialog: They done that too long in my family.
+speaker_heading: BARTENDER
+dialog: They pay you three bucks a day an' all the
+dialog: cotton you can eat.
+text: Duff laughs.
+speaker_heading: HOTEL LOBBY
+text: Duff faces the white manager, who is behind the registration desk.
+speaker_heading: MANAGER
+dialog: Yeah, I might have something for you, if you
+dialog: want to put on a uniform.
+text: Duff looks over at the one black man in the lobby - a uniformed bellhop
+text: emptying ashtrays.
+speaker_heading: DUFF
+dialog: What's the pay?
+speaker_heading: MANAGER
+dialog: Pay's ten dollars a week, plus tips and lunch.
+speaker_heading: DUFF
+dialog: I see. Ain't for me, thanks.
+scene_heading: INT. GENERAL STORE
+text: The white proprietor has rung up the order for an elderly black woman.
+speaker_heading: PROPRIETOR
+dialog: Now what about soap?
+speaker_heading: WOMAN
+dialog: I got enough.
+speaker_heading: PROPRIETOR
+dialog: (insisting)
+dialog: I got a good buy on soap. You go on over there
+dialog: an' take a look!
+dialog: (urging her on)
+dialog: Right over there.
+text: The woman goes over to look at the soap. The proprietor turns to Duff.
+speaker_heading: PROPRIETOR
+dialog: Yes?
+speaker_heading: DUFF
+dialog: I'm lookin' for work.
+speaker_heading: PROPRIETOR
+dialog: I got a boy. Thanks.
+scene_heading: INT. DUFF'S CAR
+text: He is driving through town at a fast clip. The car rattles.
+scene_heading: INT. BEAUTY PARLOR
+text: The staff and clientele are black.
+text: Duff enters and sits down close to Josie, who is having her hair done.
+speaker_heading: JOSIE
+dialog: Hi.
+speaker_heading: DUFF
+dialog: Don't ask, baby - huh!
+dialog: (lowering his voice)
+dialog: How much money you got with you?
+speaker_heading: JOSIE
+dialog: About ten dollars.
+speaker_heading: DUFF
+text: Water pump's busted. I don't know if it's worth
+dialog: fixin', but I need that car.
+speaker_heading: JOSIE
+dialog: You can have what I've got. It's right there.
+text: Duff opens her pocketbook, embarrassed by the women watching him.
+scene_heading: FLAT BED TRUCK
+text: It rattles over a country road between cotton fields. Duff stands among the
+text: field hands on the open flatbed.
+scene_heading: EXT. COTTON GIN
+text: The white foreman is up on the loading platform. He addresses a group of
+text: field hands looking for work.
+speaker_heading: FOREMAN
+dialog: Startin' tomorrow mornin', we got work for
+dialog: fifteen hands. All we're gonna pay is two-fifty
+dialog: a day. Can't pay you the three 'cause ain't
+dialog: gonna be much of a crop this year. Now you all
+dialog: who want to work, step up and we'll take your
+dialog: name.
+text: Duff is among the few who leave. The others surge closer to the platform,
+dialog: ready to work for any wage.
+scene_heading: DUFF AND JOSIE'S PORCH (Night)
+text: Josie is sewing on the porch. Duff is in the yard a few feet away, using the
+text: back of an axe to hammer loose nails into an old chair.
+speaker_heading: JOSIE
+dialog: It's not as hard on a girl. They're not afraid
+dialog: of us.
+text: Duff says nothing.
+speaker_heading: JOSIE
+dialog: You know - we do have enough money. Especially
+dialog: now.
+speaker_heading: DUFF
+dialog: (grimly)
+dialog: Sure, baby. 'Fact, I don't ever have to work no
+dialog: more. When that baby comes, I can just stay
+dialog: home and send you back to school. How about
+dialog: that?
+speaker_heading: JOSIE
+dialog: I'm trying to help, Duff.
+speaker_heading: DUFF
+dialog: Yeah!
+speaker_heading: JOSIE
+dialog: (after a moment)
+dialog: I could work even after the baby comes. A few
+dialog: hours a week, anyway.
+speaker_heading: DUFF
+dialog: What the hell could you do?
+speaker_heading: JOSIE
+dialog: Day work.
+speaker_heading: DUFF
+dialog: 'You kiddin'? You ain't goin' to no white home.
+dialog: I seen the way they look at you when you go
+text: down the street.
+text: He jumps up and raises the axe--
+speaker_heading: DUFF
+dialog: No point fixin' it!
+speaker_heading: JOSIE
+dialog: (frightened)
+dialog: What're you going to do?
+text: He smashes the axe into the chair.
+speaker_heading: JOSIE
+dialog: (jumping up)
+dialog: Don't do that!
+speaker_heading: DUFF
+dialog: Watch out!
+text: He smashes the chair to pieces.
+speaker_heading: DUFF
+dialog: (throwing down the axe)
+dialog: Good kindlin'!
+text: He turns to Josie. She is looking at him, deeply upset.
+speaker_heading: DUFF
+dialog: What's bitin' you now!?
+text: She turns away. He jumps up onto the porch and grabs her.
+speaker_heading: DUFF
+dialog: You heard me!
+speaker_heading: JOSIE
+dialog: I can't stand to see you like that. I know you
+dialog: can't help it.
+speaker_heading: DUFF
+dialog: (darkly)
+dialog: Stop bein' so damn understandin'.
+scene_heading: DUFF AND JOSIE'S LIVING ROOM (Day)
+text: Duff is on the sofa, looking up at Reverend Dawson.
+speaker_heading: REVEREND DAWSON
+dialog: I know just how you feel, son. But believe me,
+dialog: you're going about it the wrong way.
+speaker_heading: DUFF
+dialog: Don't look like there's a right way.
+speaker_heading: REVEREND DAWSON
+dialog: Well, you have to be reasonable. Now they say
+dialog: you're a troublemaker. That's no good. Use a
+dialog: little psychology. Make 'em think you're going
+dialog: along - and get what you want.
+speaker_heading: DUFF
+dialog: It ain't in me.
+speaker_heading: REVEREND DAWSON
+dialog: You'll be in trouble, son.
+dialog: (after a moment)
+dialog: Now just how do you intend to support your
+dialog: family?
+speaker_heading: DUFF
+dialog: I guess I'll rob a bank.
+speaker_heading: REVEREND DAWSON
+dialog: Don't you get smart with me, boy.
+text: We hear a dish break.
+speaker_heading: KITCHEN
+text: Josie is on the floor, picking up pieces of broken glass.
+speaker_heading: LIVING ROOM
+speaker_heading: REVEREND DAWSON
+dialog: Maybe you ought to move. You'd be a lot better
+text: off in the North.
+speaker_heading: DUFF
+dialog: So I been told.
+speaker_heading: REVEREND DAWSON
+dialog: It's for your own good.
+speaker_heading: DUFF
+dialog: Oh yeah?
+dialog: (he gets up)
+dialog: Seems to me, Reverend, you' more concerned
+dialog: 'bout your good. Guess it looks kind 'a bad,
+dialog: havin' me for a son-in-law.
+speaker_heading: REVEREND DAWSON
+dialog: You can be cocky now, boy. But you won't make
+dialog: it. You won't last. I just feel sorry for Josie.
+dialog: I knew it wouldn't work out.
+speaker_heading: DUFF
+dialog: Well, at least she ain't married to no white
+dialog: man's nigger! You been stoopin' so long,
+dialog: Reverend, you don't even know how to stand
+dialog: straight no more. You' just half a man!
+speaker_heading: KITCHEN
+text: Josie has cut her finger on the glass. She is weeping silently.
+speaker_heading: LIVING ROOM
+text: Reverend Dawson turns to leave. His sense of calm superiority is shattered.
+speaker_heading: REVEREND DAWSON
+dialog: (at the door)
+dialog: Maybe I could talk to Bud Ellis. He might have a
+dialog: job for you at his filling station.
+speaker_heading: DUFF
+dialog: Oh yeah?
+speaker_heading: REVEREND DAWSON
+dialog: I'll be seeing you.
+text: Josie has come into the room.
+speaker_heading: JOSIE
+dialog: (gravely)
+dialog: 'Bye, Dad.
+scene_heading: DUFF AND JOSIE'S BEDROOM (Night)
+text: Duff watches Josie. She is sitting at her dressing table.
+speaker_heading: DUFF
+dialog: How come you don't hate their guts?
+speaker_heading: JOSIE
+dialog: I don't know. I guess I'm not afraid of them.
+speaker_heading: DUFF
+dialog: You were plenty scared that night in the car.
+speaker_heading: JOSIE
+dialog: Just of getting hurt. They can't touch me
+dialog: inside.
+speaker_heading: DUFF
+dialog: Like hell they can't.
+dialog: (he gets up)
+dialog: They can reach right in with their damn white
+dialog: hands and turn you off and on.
+speaker_heading: JOSIE
+dialog: Not if you see them for what they are, Duff.
+speaker_heading: DUFF
+dialog: (exploding)
+dialog: Jesus, baby, you're so full of talk! Well, you
+dialog: ain't never really been a nigger, have you -
+dialog: livin' like that in your father's house! So
+dialog: just shut your mouth.
+scene_heading: EXT. GAS STATION (Night)
+text: Duff finishes pumping gas into Joe's car.
+speaker_heading: DUFF
+dialog: That's two bucks, Joe.
+speaker_heading: JOE
+dialog: (paying)
+dialog: Why don't you come over for a beer when you get
+dialog: through?
+speaker_heading: DUFF
+dialog: Okay, I will.
+text: Brad Ellis, the white owner of the service station, comes out of his office.
+speaker_heading: ELLIS
+dialog: Hey, Duff! Run the truck down Holly Road.
+text: There's a guy in the ditch.
+scene_heading: CAB OF TOW TRUCK (Night)
+text: Duff is driving along a wooded country road. Shreds of fog drift across the
+text: headlights.
+text: A ditched car comes into view, its front end crushed against a tree. A tubby
+text: white man stands beside it, waving to Duff with a flashlight. Duff passes him
+text: and backs up to the car.
+speaker_heading: COUNTRY ROAD
+text: The owner comes toward him eagerly.
+speaker_heading: OWNER
+dialog: Sure glad to see you, boy.
+text: Duff gets out of the tow truck to inspect the damaged car. The owner follows
+text: him, nervous and garrulous.
+speaker_heading: OWNER
+dialog: Guess I was kinda lucky, huh? My wife's going to
+dialog: give me hell.
+text: Duff lowers the hoist on the truck.
+speaker_heading: OWNER
+dialog: (anxiously)
+dialog: How you doin', boy?
+speaker_heading: DUFF
+dialog: Okay.
+text: He gets under the car to attach the chain.
+speaker_heading: OWNER
+dialog: Want me to hold the light for you?
+speaker_heading: DUFF
+dialog: No, thanks.
+speaker_heading: OWNER
+dialog: Just tryin' to be helpful.
+text: He continues talking, though Duff can't hear him.
+speaker_heading: OWNER
+dialog: Most folks around here got no use for nigrahs.
+dialog: Got to understand them, that's all. How you
+dialog: doin', boy?
+speaker_heading: DUFF
+dialog: (emerging from under the car)
+dialog: Okay.
+text: The owner tests the rig with his foot.
+speaker_heading: OWNER
+dialog: Seems a little loose!
+speaker_heading: DUFF
+dialog: (with a grin)
+dialog: She'll do.
+text: He starts raising the car.
+speaker_heading: OWNER
+dialog: She ain't comin' up even!
+text: Duff ignores him.
+text: The chain slips and the car drops to the ground with a bang.
+speaker_heading: OWNER
+dialog: (jumping back)
+dialog: Jesus, I told you to watch it!
+speaker_heading: DUFF
+dialog: Sorry.
+text: He gets back under the car.
+speaker_heading: OWNER
+dialog: That's the trouble with you boys! Don't listen
+dialog: when a man tells you something.
+speaker_heading: DUFF
+dialog: She don't look no worse to me.
+speaker_heading: OWNER
+dialog: Don't do her no good to get banged like that.
+speaker_heading: DUFF
+dialog: (under the car)
+dialog: Don't do her no good to go into a tree.
+speaker_heading: OWNER
+dialog: (enraged)
+dialog: What did you say, boy?!
+speaker_heading: DUFF
+dialog: I said, she's in great shape.
+speaker_heading: OWNER
+dialog: I heard you! Now 'stead of bein' smart, you just
+dialog: get that car out of here!
+speaker_heading: GAS STATION (Night)
+text: Duff is changing a tire outside the repair bay.
+text: A car shoots out of the dark with its horn blaring, and screeches to a stop
+text: at the pump.
+text: Brad Ellis steps up to the driver.
+speaker_heading: ELLIS
+dialog: Can I help you?
+text: The driver is the white mill hand who gave Duff a hard time at the mill.
+speaker_heading: DRIVER
+dialog: (indicating Duff)
+dialog: Like some service from that boy there. Like the
+dialog: way he takes care of us.
+dialog: ELLIS Okay.
+text: Duff has come over. He is aware of impending trouble. One of the men in the
+text: car is the owner of the ditched vehicle.
+speaker_heading: DUFF
+dialog: Fill her up?
+speaker_heading: DRIVER
+dialog: No, boy. Thirty-eight cents worth of gas. And
+dialog: watch you don't make it thirty-nine.
+text: Duff starts the pump.
+speaker_heading: DRIVER
+dialog: Didn't hear you say "Yessir!" Don't they say
+dialog: "Yessir" where you come from?
+text: Duff finishes pumping and puts the nozzle back onto the pump.
+speaker_heading: DRIVER
+dialog: Boy - you hear me?!
+speaker_heading: DUFF
+dialog: That'll be thirty-eight cents.
+speaker_heading: DRIVER
+dialog: Goddamnit, nigger - you must think you're white!
+dialog: Who d'you think you are - king of Harlem?
+speaker_heading: SECOND WHITE
+dialog: How 'bout this windshield, boy? Like a little
+dialog: service.
+text: Duff takes a moment before moving to the windshield and wiping it. The men
+text: inside the car watch him through the glass.
+speaker_heading: THIRD WHITE
+dialog: Hell, they're getting' too big for their
+text: britches.
+speaker_heading: SECOND WHITE
+dialog: Yeah, his wife's the same way, struttin' through
+dialog: town like she owns the place - shakin' that
+text: little rear end.
+speaker_heading: THIRD WHITE
+dialog: It's all that education they're getting.
+speaker_heading: DRIVER
+dialog: Real cool, ain't he! Just like we're not here.
+text: Duff moves over to the driver.
+speaker_heading: DUFF
+dialog: That'll be thirty-eight cents.
+speaker_heading: DRIVER
+dialog: You in a big hurry, boy?
+speaker_heading: SECOND WHITE
+dialog: Yeah, he's tryin' to get home!
+speaker_heading: DRIVER
+dialog: Bet she's pretty hot, huh?
+speaker_heading: DUFF
+dialog: (very tense)
+dialog: You watch your mouth, man!
+text: The driver has finally found a way of getting to Duff and a grin spreads over
+text: his face.
+speaker_heading: DRIVER
+dialog: I bet she's a sly little nigger, that girl.
+dialog: Wouldn't mind a piece of her myself!
+speaker_heading: DUFF
+dialog: All right, you get out of here, man!
+speaker_heading: DRIVER
+dialog: (exploding)
+dialog: Who're you tellin' to get, boy?! You watch it,
+dialog: or there'll be some dyin' done 'round here!
+speaker_heading: DUFF
+dialog: That dyin's gonna be done two ways.
+text: He steps away from the car, a hand on the rear pocket where he keeps his
+dialog: knife.
+text: In the backseat, the owner of the ditched car looks nervous.
+speaker_heading: OWNER
+dialog: Let's go, Al. He ain't worth it.
+speaker_heading: DRIVER
+dialog: (turning on him)
+dialog: Now you stay out of it!
+text: Brad Ellis has come over.
+speaker_heading: ELLIS
+dialog: What's goin' on?
+speaker_heading: DRIVER
+dialog: You better get rid of this white-eyed nigger!
+speaker_heading: ELLIS
+dialog: (to Duff)
+dialog: What happened?
+speaker_heading: DRIVER
+dialog: Never mind! You keep him workin' here and this
+dialog: place won't be around. And I ain't kiddin'!
+text: He guns the engine and shoots out of the service station in a cloud of dust.
+text: Duff looks at Ellis, whose next move is predictable, and leaves the frame to
+text: run a water hose over the back of his neck.
+text: Ellis stops next to him.
+speaker_heading: ELLIS
+dialog: Guess we got trouble.
+speaker_heading: DUFF
+dialog: (blowing up)
+dialog: You ain't got none, Mister!
+speaker_heading: ELLIS
+dialog: I'm sorry, Duff.
+speaker_heading: DUFF
+dialog: (tossing down the hose)
+dialog: Don't tell me. I know.
+scene_heading: DUFF AND JOSIE'S LIVING ROOM (Night)
+text: Duff enters.
+text: Josie comes out of the bedroom in her nightgown. She has been waiting up.
+speaker_heading: JOSIE
+dialog: I called the gas station. I've been worried.
+text: Duff slumps down on the sofa, utterly discouraged.
+speaker_heading: DUFF
+dialog: Hell, if they don't blow up his place, they'll
+dialog: get him some other way. Don't make no difference
+dialog: no-how.
+speaker_heading: JOSIE
+dialog: (anxiously)
+dialog: What d'you mean?
+speaker_heading: DUFF
+dialog: Nothin. Quit lookin' at me like that!
+text: He gets up.
+speaker_heading: JOSIE
+dialog: (approaching him)
+dialog: Duff, I love you.
+speaker_heading: DUFF
+dialog: Well, that don't do me one bit of good!
+text: She touches him.
+speaker_heading: JOSIE
+dialog: Come on, Duff - let's go to bed.
+text: He gives her a sudden, violent shove. It sends her sprawling to the floor.
+text: She picks herself up, weeping.
+speaker_heading: DUFF
+dialog: I never should have married you in the first
+dialog: place.
+text: He stares at her.
+speaker_heading: DUFF
+dialog: Ain't you goin' to say something?
+speaker_heading: JOSIE
+dialog: There's nothing to say.
+speaker_heading: DUFF
+dialog: Well, that'll be the first time.
+text: He leaves the room.
+scene_heading: DUFF AND JOSIE'S BEDROOM (Night)
+text: Duff is packing his things. Josie is on the bed.
+speaker_heading: JOSIE
+dialog: Where're you going to go?
+speaker_heading: DUFF
+dialog: When I get set, I'll send for you.
+speaker_heading: JOSIE
+dialog: I don't think that'll happen.
+speaker_heading: DUFF
+dialog: You'll be better off without me. I ain't fit to
+dialog: live with no more. It's just like a lynchin'.
+dialog: Maybe they don't use a knife on you, but they
+dialog: got other ways.
+speaker_heading: JOSIE
+dialog: You're not a man because of a job, Duff.
+speaker_heading: DUFF
+dialog: You don' know nothin' 'bout it, baby. Nothin'!
+dialog: And don't kid yourself - you did your bit.
+text: He closes his bag.
+speaker_heading: DUFF
+dialog: Okay.
+speaker_heading: JOSIE
+dialog: Duff--
+speaker_heading: DUFF
+dialog: (at the door)
+dialog: Like I said, baby - I'll write you.
+scene_heading: INT. DUFF'S CAR (Dawn)
+text: He is driving across a bridge into Birmingham.
+scene_heading: DOWNTOWN STREET
+text: Duff stands on a deserted corner.
+scene_heading: EXT. TENEMENT STAIRS
+text: Duff climbs up to Will Anderson's room.
+speaker_heading: WILL'S ROOM
+text: Will is sitting at the table in a drunken stupor. There is a knock at the
+dialog: door.
+speaker_heading: WILL
+dialog: Who is it?
+speaker_heading: LEE
+dialog: It's your son.
+text: Duff enters.
+speaker_heading: WILL
+dialog: My son? I ain't got no son. You Duff?
+speaker_heading: DUFF
+dialog: That's right.
+speaker_heading: WILL
+dialog: Beat it!
+text: He gets up and staggers toward Duff
+speaker_heading: DUFF
+dialog: Take it easy, Pop.
+speaker_heading: WILL
+dialog: What's the matter? Don't smell so good, huh?
+dialog: Must'a broken some records.
+text: He pushes Duff away and pours himself a glass of whiskey. His hands are
+text: shaking.
+speaker_heading: DUFF
+dialog: (trying to restrain him)
+dialog: Come on, Pop.
+speaker_heading: LEE
+dialog: Nothing you can do. Been like this for days.
+speaker_heading: WILL
+dialog: Got no use for nobody.
+text: He raises the glass to his mouth, but drops it and puts his hand on the back
+text: of his head.
+speaker_heading: DUFF
+dialog: What is it? What's the matter?
+text: Lee grabs Will and pushes him onto the bed.
+speaker_heading: LEE
+dialog: (at the end of her rope)
+dialog: Now you lay down and get some sleep!
+text: Will grabs her blindly and pulls her down onto the bed.
+speaker_heading: LEE
+dialog: (freeing herself, furious)
+dialog: You let go!
+text: She starts picking up the broken glass. Will sits up again. He is dazed.
+speaker_heading: LEE
+dialog: Now you stay put!
+speaker_heading: WILL
+dialog: (leaving the bed)
+dialog: I ain't drunk, honey.
+speaker_heading: LEE
+dialog: Like hell you ain't!
+text: He sits down at the table and touches the back of his head.
+speaker_heading: WILL
+dialog: Got a thick feelin' here.
+speaker_heading: LEE
+dialog: What's the matter now?
+speaker_heading: WILL
+dialog: Better now.
+dialog: (closing his eyes)
+dialog: Where 'you at?
+speaker_heading: LEE
+dialog: (concerned)
+dialog: Right here.
+text: She puts her hand on his forehead.
+speaker_heading: WILL
+dialog: Couldn't get the words out before.
+speaker_heading: DUFF
+dialog: Better get him to a hospital.
+speaker_heading: WILL
+dialog: Didn't I tell you to beat it - huh?
+speaker_heading: LEE
+dialog: (taking Will's arm)
+dialog: Let's go.
+speaker_heading: WILL
+dialog: Anything you say, baby.
+text: With Duff's help, Lee raises Will out of the chair.
+scene_heading: EXT. TENEMENT, RAIN
+text: Duff has helped Lee get Will into the backseat of his car.
+text: Through the window we see him grope blindly for Lee's breast.
+scene_heading: INT. MOVING CAR
+text: Duff, in the driver's seat, is lost in thought.
+speaker_heading: LEE
+dialog: (off-screen)
+dialog: Duff.
+text: Duff turns to her. Will's head is in her lap.
+speaker_heading: LEE
+dialog: He stopped breathin'.
+text: Duff stops the car.
+scene_heading: INT. FUNERAL PARLOR
+text: The undertaker sits down behind his desk. He lays out Will's watch and a few
+text: other belongings for Duff and Lee, who are standing in front of him.
+speaker_heading: UNDERTAKER
+dialog: We thought you might want these.
+speaker_heading: DUFF
+dialog: Thanks.
+speaker_heading: UNDERTAKER
+dialog: Would you like me to say anything tomorrow?
+speaker_heading: DUFF
+dialog: Guess so.
+speaker_heading: UNDERTAKER
+dialog: Have anything in mind?
+speaker_heading: DUFF
+dialog: No. What you usually say, I guess.
+speaker_heading: UNDERTAKER
+dialog: Where was your father born?
+speaker_heading: DUFF
+dialog: I don't know.
+text: He looks at Lee. She shakes her head.
+speaker_heading: UNDERTAKER
+dialog: His profession?
+speaker_heading: DUFF
+dialog: Well, he worked around.
+speaker_heading: UNDERTAKER
+dialog: And his age?
+speaker_heading: DUFF
+dialog: I don't know. Forty-eight, I guess.
+speaker_heading: UNDERTAKER
+dialog: Any other family?
+speaker_heading: DUFF
+dialog: No. Just me.
+dialog: (he includes Lee)
+dialog: Me an' her.
+speaker_heading: UNDERTAKER
+dialog: Well, I guess that's all till tomorrow.
+speaker_heading: DUFF
+dialog: Okay, thanks very much.
+scene_heading: URBAN CEMETERY, BIRMINGHAM
+text: The mechanical arm of a backhoe opens up a new grave.
+text: Duff and Lee walk away from the burial site. The camera moves with them.
+speaker_heading: LEE
+dialog: What're you going to do?
+text: Duff says nothing.
+speaker_heading: LEE
+dialog: Want to come up the house? You can stay there
+dialog: till you get on your feet. There's no point
+text: paying a hotel.
+speaker_heading: DUFF
+dialog: No thanks, Lee.
+speaker_heading: LEE
+dialog: It's just that I hate empty rooms.
+speaker_heading: DUFF
+dialog: Sure.
+speaker_heading: LEE
+dialog: Well, what're you going to do?
+speaker_heading: DUFF
+dialog: I guess I'll make me some trouble in that town.
+speaker_heading: LEE
+dialog: Going back, huh?
+speaker_heading: DUFF
+dialog: That's right.
+speaker_heading: LEE
+dialog: They'll run you out.
+speaker_heading: DUFF
+dialog: No, they won't.
+speaker_heading: LEE
+dialog: How 'you gonna live?
+speaker_heading: DUFF
+dialog: I can always chop cotton if I have to.
+dialog: (he stops)
+dialog: If you want a ride, I'll take you home.
+speaker_heading: LEE
+dialog: No, thanks. I'll take the bus.
+speaker_heading: DUFF
+dialog: Okay.
+speaker_heading: LEE
+dialog: Don't be too hard on him.
+speaker_heading: DUFF
+dialog: Hell, I'm just like him.
+speaker_heading: LEE
+dialog: I know he wasn't much of a father.
+speaker_heading: DUFF
+dialog: Who is?!
+speaker_heading: LEE
+dialog: Good-bye, Duff.
+text: She walks away.
+scene_heading: BIRMINGHAM ALLEYWAY (Night)
+text: From the interior of Duff's car we see Duff come out of Effie Simms' house,
+text: carrying James Lee through the rain. He deposits the scared-looking boy in the
+text: front seat and gets in on the driver's side. James Lee shrinks as far away
+text: from Duff as the seat allows.
+speaker_heading: DUFF
+dialog: (with a kindly grin)
+dialog: That window's broke, boy. You stay over there,
+dialog: you're gonna get awful wet.
+scene_heading: INT. MOVING CAR (Dawn)
+text: The sun is coming up through the trees. James Lee is asleep on the front seat.
+scene_heading: DUFF AND JOSIE'S LIVING ROOM
+text: Duff brings in the sleeping boy and puts him down on the sofa. Then he leaves
+dialog: to get his belongings.
+text: Josie has woken up and comes in from the bedroom in her nightgown. She sees
+text: James Lee and leans over him.
+speaker_heading: JOSIE
+dialog: (softly)
+dialog: Hi.
+text: James Lee opens his eyes.
+text: Josie hears Duff enter and turns to him. They come together and hold each
+text: other for a long moment.
+speaker_heading: DUFF
+dialog: Ain't gonna be easy, baby - but it's gonna be
+dialog: all right.
+text: Josie is weeping.
+speaker_heading: DUFF
+dialog: Baby I feel so free inside.
+dialog: 

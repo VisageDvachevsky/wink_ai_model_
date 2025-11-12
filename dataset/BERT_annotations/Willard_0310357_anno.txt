@@ -1,0 +1,2589 @@
+dialog: 
+speaker_heading: WILLARD
+dialog: BODY { background-color: "#FFFFFF"; font-family: Courier New, Helvetica, sans-serif; font-size:10.0pt }
+dialog: DIV { position:absolute; left:5px; top:20px; width:734px; height:500px; }
+dialog: #loc { font-family:Courier New; font-size:10.0pt; font-weight: normal;margin-top:0in; margin-right:1.2in; margin-bottom:0in;
+dialog: margin-left:0.8in;text-transform:uppercase }
+dialog: #slug { font-size:10.0pt;
+dialog: font-family:Courier New;
+dialog: font-weight: normal;
+dialog: margin-top:0in;
+dialog: margin-right:1.2in;
+dialog: margin-bottom:0in;
+dialog: margin-left:0.8in;
+dialog: text-transform:uppercase;
+dialog: 
+dialog: }
+dialog: #act {font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.8in; margin-bottom:0in;
+dialog: margin-left:0.8in }
+dialog: #speaker {font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.in; margin-bottom:0in;
+dialog: margin-left:2.8in;text-transform:uppercase }
+dialog: #spkdir { font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.7in; margin-bottom:0in;
+dialog: margin-left:2.2in }
+dialog: #dia {font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.6in; margin-bottom:0in;
+dialog: margin-left:1.6in }
+dialog: #pg { font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.75in; margin-bottom:0in;
+dialog: margin-left:6.5in }
+dialog: #right { font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:0.75in; margin-bottom:0in;
+dialog: margin-left:5.0in }
+dialog: <!--
+dialog: google_ad_client = "pub-7685866183814465";
+dialog: google_alternate_ad_url = "http://www.horrorlair.com/defaultad_486.html";
+dialog: google_ad_width = 468;
+dialog: google_ad_height = 60;
+dialog: google_ad_format = "468x60_as";
+dialog: google_ad_channel ="0948875253";
+dialog: google_color_border = "CCCC99";
+dialog: google_color_bg = "CCCC99";
+dialog: google_color_link = "333300";
+dialog: google_color_url = "666633";
+dialog: google_color_text = "CC3300";
+dialog: //-->
+dialog: Main Titles
+dialog: Rats in the Basement
+scene_heading: INT. BASEMENT - WILLARD'S HOUSE - NIGHT
+text: In the pitch darkness of an old shivery east coast cellar, the audience sits amongst SILENCE. Then... Rising from the THEATRE'S REAR SPEAKERS...faint tiny claws, many, moving as one, scuttle; seemingly in the roof of the THEATRE. CHEWING. SCRATCHING. TEARING.
+text: An elderly woman, shrill and startling, calls out in the
+dialog: dark.
+speaker_heading: MRS. STILES
+dialog: Willard!
+dialog: (beat)
+dialog: There are rats in the basement!
+text: The scuttling stops. Silence. Beat; another, then...a metal doorknob, distinctive to a classic antiquated house, CLACKS and echoes. O.S., A door slowly squeaks open.
+text: From an upstairs room, a rhomboidal patch of light creeps across the TOP RIGHT OF FRAME. Within the light holds the hesitant shadow of an average sized man at the summit of a flight of stairs, descending into a cold, dark cellar.
+text: O.S., a light switch FLIPS. A FLASH! An exaggerated POP! The light bulb blows in the f.g., a fuse-box CRACKLES, sprays tiny blue sparks, then returns to darkness.
+text: The shadow FLIPS the light switch with anxious futility. The basement remains dark.
+text: The shadow SIGHS, shrinks, before the man DESCENDS an OS set of stairs; the risers bare. The aged wood creaks. Eerie as Arriving at a landing, he enters frame. Remaining in silhouette, yet backlit by the light spilling into the cellar from the upper room. Although face obscured by darkness, his posture reflects a dread as he continues down the stairs.
+text: Upon reaching the cement floor, CAMERA CREEPS BACK. The light is dim, yet enough to reveal a fuse-box beside wooden storage shelves lining the walls. With a hand against the stone wall as a guide in the darkness, the figure moves to the fuse-box.
+text: Opening the fuse-box door releases residual snaking blue smoke. He twists the fuses; taps on them. Nothing. Closing the fuse-box, he notices the wires have been chewed.
+text: With cautious loathing, the man blindly continues to the shelves and rummages through the supplies.
+text: His hands find a shoe box labeled FUSES and begins sliding it off the shelf. Until...he petrifies. CAMERA SWEEPS into the shoebox lid REVEALING half a dozen tapered rat droppings.
+text: Aghast, the figure quickly pulls his hands away, trembling in the gray light. He holds. Still shaking, the hands quickly remove a toilet plunger from a shelf. CAMERA FOLLOWS the improvised weapon as it RISES several shelves. Chewed holes replace the Quaker's eyes on a tube of oatmeal giving the
+text: pilgrim's smile the appearance of a madman. The toilet plunger pokes around, discovering chewed holes in boxes of Jello and Jiffy-Pop. Even candles and canned food have been gnawed.
+text: Tense, the plunger pulls away knocking items off the shelf. A reflective glint rolls INTO FRAME. The bulb end of a cheap flashlight is grabbed by the man and hurriedly lit.
+text: As the small light flares...SCUTTLING. The man spins toward the SOUND...
+speaker_heading: IN THE FLASHLIGHT BEAM
+text: A glimpse, yet...an unmistakable glimpse...of several rat tails dashing through a hole in a mesh screen; disappearing beneath the house.
+speaker_heading: WILLARD
+text: CAMERA PUSHES IN on WILLARD STILES, 30's. Under-lit by the trembling flashlight, still in his short sleeve white collar shirt and cheap tie work clothes. CAMERA CONTINUES...MOVING CLOSE on his puppy like eyes; locked on the mesh screen across the room. CAMERA CONTINUES until these eyes FILL THE FRAME; these eyes...afraid.
+scene_heading: INT. DUANE READE DRUG STORE - NIGHT - CLOSE-2-SHOT
+text: A line drawing of a mouse, ears and tail, sits in the center of a red circle and slash; in the chief of the d-CON herald.
+speaker_heading: WILLARD
+text: Agonizes over a laminated placard chained to the store shelf.
+speaker_heading: WILLARD'S POV - PLACARD
+dialog: d-CON Guide to Rodent Control...
+speaker_heading: WILLARD
+text: Sighs, reaches out and holds the guide...
+scene_heading: WILLARD'S POV - d-CON GUIDE TO RODENT CONTROL
+text: His finger searches through questions on the far right. "What type of rodents do you have?" "Mice", "Rats". "Where will product be used?" "High traffic areas (Kitchen, Family Room, etc.) "Low Traffic Areas (Attics, Garages, basements, etc...)
+dialog: The finger pauses upon... "Do you want proof you caught the rodents?" *Yes, I want proof. *No, I do not want to see or come in contact with a dead mouse/rat."
+speaker_heading: WILLARD
+text: Perspiration beads on his forehead.
+scene_heading: D-CON GUIDE TO RODENT CONTROL (FILLING THE FRAME)
+dialog: Willard's trembling finger settles beneath... "No, I do not want to see or come in contact with a dead mouse/rat..."
+text: The finger moves across the guide to the recommended d-CON product which is "Mouse-Prufe II".
+speaker_heading: WILLARD
+text: Searches the shelves with his eyes.
+speaker_heading: CLOSE - DUANE READE SHELVES
+text: CAMERA PASSES OVER several sickening options. A package of an electronic pest repeller illustrates spiders, moths and rats fleeing from concentric circles of ultra sound.
+dialog: The Giant Destroyer is powdered sodium nitrate; "The Effective Gas Killer! Kills Gophers, Moles, Woodchucks, Rats, Skunks & Ground Squirrels!"
+text: Zep Commerical offers "Pest Glue Traps"; squares of cardboard with dabs of adhesive. "Traps Crickets, Spiders, Scorpions, Cockroaches and Larger Pests!"
+speaker_heading: WILLARD
+text: Frustration increasing; rummaging the shelves. He holds...
+speaker_heading: WILLARD'S POV - STORE SHELVES
+text: The store marker indicates the location of "Mouse Prufe II." The area, however, is empty. The store is sold out.
+speaker_heading: WIDE OVERHEAD ANGLE
+text: Bright fluorescent lights glare upon Willard standing before the pest control section; an aisle amongst several aisles. While he is motionless, other customers move amongst the aisles like lab rats in a maze...
+scene_heading: EXT. STREET - OLD BROOKLYN HEIGHTS - NIGHT
+text: Dead LEAVES blow across a cracked sidewalk. A pair of worn wing-tip shoes enter frame. CAMERA FOLLOWS the shoes adjusting to reveal Willard proceeding along the way.
+text: CAMERA FOLLOWS Willard, passing nineteenth century brownstone houses. Several are under renovation; caged by scaffolding. Others are for sale, marked by high-end realtor signs.
+text: CAMERA MOVES AHEAD OF WILLARD until pausing on a corroded bronze plaque marked "STILES". CAMERA PAUSES as Willard, carrying a Duane Reade bag, starts up the steps.
+text: CAMERA PULLS BACK TO REVEAL a three-story brownstone suggesting hints of a proud past, turned pathetically decrepit, dark, and sad. The first and second level windows are barred. High above, centered, sits a yellow stained glass Dormer window beneath a Mansard roof.
+scene_heading: INT. WILLARD'S HOUSE - NIGHT
+text: The whistling wind GUSTS as Willard enters, holding a bag of large wood Victor rat traps. Several real estate agency business cards and solicitations are attached with rubber bands to the doorknob. Willard removes and tosses the calling cards atop a stack of mail atop a desk-table.
+speaker_heading: CLOSE - TABLE
+dialog: The new solicitations fall up several dozen previous offers.
+scene_heading: INT. BASEMENT - WILLARD'S HOUSE - NIGHT - EXTREMELY CLOSE
+text: Metal coils strain as a thick copper bow is pulled back.
+speaker_heading: A LOCKING BAR
+text: Is placed over the bow and engaged on the curved portion of the bait pedal, dabbed with peanut butter. SUDDENLY! the locking bar slips out of place. The bow releases! SMACK!
+speaker_heading: WILLARD
+text: Drops the rat trap, clutching the knuckle of his index
+text: finger. Faintly splattered with peanut butter, he sucks on his throbbing knuckle.
+text: Angry, he picks up the trap intending to heave it against the wall. His eyes however, flash upwards; considerate of not waking someone in the house, upstairs.
+text: Holding the trap, he takes a closer look. Pulling the bow, he feels the tension. Releasing it, he imagines the death blow. SNAP! He pulls back the bow; releasing it. SNAP!
+text: Willard appears repulsed by the medieval device. And yet... He considers the power over another life which lies in his hands. He pulls back the bow; releases it. SNAP!
+text: As he continues, hypnotized by the rat trap, CAMERA PULLS AWAY, as if to leave Willard alone in the cellar. SNAP! Several successfully set rat traps encircle him. He pulls back the bow; releases it. SNAP!
+text: CAMERA NOW SHIFTS...PANNING. ACROSS THE CELLAR to the small hole in the wire mesh, leading beneath the house. Willard is not alone.
+text: AS CAMERA PUSHES IN, THROUGH THE DARKNESS and HOWLING WIND OUTSIDE,.. two quarter-sized opalescent circles reflect light in a manner unique to animal eyes. OS, SNAP! The flashlight spill creates the illusion of mean, furrowed brows. Whiskers
+dialog: extend six inches in each direction from the snout.
+text: CAMERA CREEPS towards an enormous greasy eighteen inch black Norwegian rat; watching Willard.
+dialog: This is BEN. SNAP!
+dialog: Awful Mother, Awful Name
+scene_heading: INT. PARLOR - WILLARD'S HOUSE - NIGHT
+text: Two stuffed pheasant silhouettes frame the f.g., Positioned high upon a bookshelf, OS, a CLOCK peals. Across the dim room of dark wood, Willard appears and starts up a staircase.
+text: The clock CHIMES. He checks his Timex wristwatch, then sighs with frustration. As he starts down the stairs, CAMERA MOVES RIGHT, as if along the wall; black figures of stuffed animals pass between Willard and CAMERA.
+text: Reaching the fireplace mantle, CAMERA HOLDS as if settling upon the mantle. CAMERA is always a touch above eye level on Willard. Looming above him is an ornately handled funeral urn.
+text: He checks his watch, reaches to the mantle, and resets the clock. After winding several revolutions, he wipes at the layers of dust, leading the urn. He freezes! Sad and pining.
+speaker_heading: REVERSE - LOWER ANGLE
+text: Like a fading omnipresent memory, a portrait of a pin
+text: stripped suited captain of industry yet also a kindly father in his early fifties hangs above the urn in the dim light. An engraving identifies the urn as the ashes of "Alfred Benjamin Stiles. Loving husband and father. 1944-1995."
+speaker_heading: RETURN - WILLARD - HIGHER ANGLE
+text: CAMERA MATCHES THE MOVE on Willard's expression, lost in fond but pained memories of his father...
+scene_heading: INT. 2ND STORY LANDING - HALLWAY - WILLARD'S HOUSE - NIGHT
+text: Willard's shadow stretches across a wall as he moves up the stairs. Willard turns off the downstairs light and continues along the hallway. Outside, the cold WIND CONTINUES HOWLING.
+speaker_heading: MRS. STILES (O.S.)
+dialog: Willard.
+text: Willard holds before a bedroom, door ajar. CAMERA CREEPS INTO HIM; eyes reluctantly turning toward the room.
+speaker_heading: WILLARD'S POV - HIS MOTHER'S BEDROOM
+text: A slash of autumn light cuts across a pair of elderly female eyes, reflecting an iridescent gray; eerie, like an animal. The encircling skin is pale. The lids, lined a dying pink.
+text: Although at the core the woman's voice is a loving mother. The edges are shrill and nagging.
+speaker_heading: MRS. STILES
+dialog: What are you doing?
+speaker_heading: WILLARD
+text: Holding in the hallway, dry and well mannered.
+speaker_heading: WILLARD
+dialog: I'm going to bed.
+speaker_heading: MRS. STILES (O.S.)
+dialog: It's late!
+speaker_heading: WILLARD
+dialog: Yes. I'm going to bed. Good night, mother.
+text: He begins moving off, then freezes upon...
+speaker_heading: MRS. STILES (O.S.)
+dialog: What were you doing down there, so late?
+speaker_heading: WILLARD
+dialog: You said there were rats.
+speaker_heading: MRS. STILES (O.S.)
+dialog: Did you see them?!
+text: Pause. A smile spreads over Willard which his mother can read as reassuring, however, he's enjoying lying to her.
+speaker_heading: WILLARD
+dialog: There are no rats.
+speaker_heading: MRS. STILES (O.S.)
+dialog: There are!
+dialog: (catches her breath)
+dialog: All our neighbors moving away and all these new people remodeling the houses are stirring up rats.
+text: The smile quickly fades.
+speaker_heading: WILLARD
+dialog: Have you been to the basement?
+speaker_heading: MRS. STILES (O.S.)
+dialog: Oh, you know I can't. But I know they're there. I smell them! All my life I could smell mice.
+speaker_heading: WILLARD
+dialog: Smell mice.
+speaker_heading: MRS. STILES (O.S.)
+dialog: And hear them! Don't you hear them down there?!
+speaker_heading: WILLARD
+dialog: It's just the wind. There are no rats.
+speaker_heading: MRS. STILES (O.S.)
+dialog: (a tubercular sigh)
+dialog: Come in here.
+text: CAMERA INCHES, AGAIN... CLOSE to Willard. His expression reflecting neither disgust or hate...just...reluctance.
+speaker_heading: MRS. STILES (O.S.)
+dialog: Come in here!
+text: Willard CLEARS FRAME, moving toward his mother's bedroom...
+scene_heading: INT. MRS. STILES' BEDROOM - CONTINUOUS
+text: Mrs. Stiles wears a mousy light brown fleece nightgown beneath a down comforter and still suffers chills. She is propped against pillows, three deep; the cases blotted with dried yellow and gray fluidal stains.
+text: Willard enters and stands at her bedside. Although she takes his hand, his mother never looks at him while she talks; closing her eyes or busying herself, but never looking into his eyes and truly seeing him.
+speaker_heading: MRS. STILES
+dialog: I'm sorry I've been such a bad mother to you...
+text: Willard moves to her with sincerity and warmth, carefully removing the pillows behind her and fluffing them.
+speaker_heading: WILLARD
+dialog: You've been... You are...a wonderful mother.
+speaker_heading: MRS. STILES
+dialog: It's my fault your life was wasted.
+text: Holding a pillow at each end, he is about to return it to its original position, yet the comment freezes him. For a beat...he's in a tempting position to suffocate her. Yet, he carefully eases her forward, places the pillow behind her, and gently returning his mother to a comfortable position.
+speaker_heading: MRS. STILES
+dialog: Willard...
+text: Conflicted, unable to see her so ill and yet anxious to leave the room, he forces a warm smile, as if "yes, mother?"
+speaker_heading: MRS. STILES
+dialog: What an awful name. Willard.
+dialog: (sigh)
+dialog: If you had a stronger name, Frank Martin wouldn't push you around.
+text: Willard holds, hurt, aware his mother is not daffy or Alzheimer's demented, rather, unwittingly mean.
+speaker_heading: MRS. STILES
+dialog: Or maybe you'd've found a girlfriend if you'd had a more handsome name. Mark or Kyle.
+dialog: Clark.
+dialog: (beat)
+dialog: From now on, Willard, you're name's Clark.
+text: Mrs. Stiles settles back and closes her eyes.
+speaker_heading: MRS. STILES
+dialog: Good night, Clark.
+text: As Willard holds in the darkness, stoic, yet wanting to cry...
+scene_heading: INT. WILLARD'S BEDROOM - CONTINUOUS
+text: In a queen sized bed, natural shadows created by barred windows fall across Willard, awake. The wind has died. It is QUIET.
+text: Then...from within the ceiling...a PIT-A-PAT is first HEARD in the REAR SPEAKERS Of the theatre. Claws scuttle. CLICK CLICK CLICK. Seemingly moving from rear to forward speakers, as if over the audience.
+text: CAMERA CREEPS FORWARD, toward Willard, frozen with anxiety by the tiny scratching claws. As CAMERA REACHES Willard, a beat of silence. Then snap! O.S., in the basement, a rat trap is set off. SNAP! Another. SNAP! SNAP! SNAP!
+text: As Willard slams his eyes shut.
+scene_heading: INT. BASEMENT - MORNING
+text: CLICK! A flashlight beam cuts the darkness. Willard holds at the top of the landing. CAMERA SWEEPS UP the beam revealing Willard's baffled and distraught expression:
+speaker_heading: WILLARD'S POV - CELLAR
+text: The dozen traps have all been tripped, however, every one is empty. There is not a dead rat in sight.
+dialog: He Wants to See You
+speaker_heading: EXT. FACTORY - DAY
+text: An old brick and iron decorative arch extends over the walkway to a factory; designated "Martin-Stiles Iron Works." A sub-sign clarifies: "Industrial & Commercial Fences."
+text: On the large sign, "Martin" has clearly been added in recent years and maintained, as has Manufacturing", while "Stiles" has been allowed to oxidize and drips green.
+text: Late, Willard, with a hand-me-down leather accordion briefcase under his arm hustles beneath the archway. An old decorative iron fence frames the factory grounds.
+scene_heading: EXT. PARKING LOT - FACTORY - MORNING
+text: Willard sighs with dread while checking his cheap watch. Approaching the factory office, he notes...
+speaker_heading: A PARKING SPACE
+text: A mid-nineties Cadillac is parked in the power spot. A sign on the brick wall declares: RESERVED - MR. MARTIN
+scene_heading: INT. HALLWAY - ELEVATOR - MORNING
+dialog: The building was erected during the first world war.
+text: Perfunctory pastiche renovations have created a sampling of lifeless 20th Century office building decor.
+text: CAMERA FOLLOWS the patch of yellowing plastic fluorescent lights leading along a hallway of gray and red speckled linoleum floors and wood paneled walls.
+text: The greasy elevator arrives. A metal door opens before a second wire mesh door can be opened. Willard hustles out and dashes into the hallway.
+scene_heading: INT. OFFICE BULLPEN - MORNING
+text: Willard passes through a doorway leading to a shared office with several gray metal desks. Cathryn responds to his awkward charm with a pained, yet sincere smile. She quickly assesses he is being bullied.
+speaker_heading: CATHRYN
+dialog: Yeah. It seems no one told Mr. Stiles I would be here.
+speaker_heading: MS. LEACH
+dialog: (mocking him)
+dialog: Well, Willard...maybe that's why he wants to see you.
+text: Ms. Leach fires her thumb blindly over her shoulder toward a closed door. CAMERA INCHES IN on Willard tensing with intense dread and suppressed anger as his eyes flash toward...
+speaker_heading: WILLARD'S POV - THE CLOSED DOOR
+speaker_heading: WILLARD
+text: Well above his eye-line, nearly looking down on him, CAMERA LEADS WILLARD toward the door. Cathryn watches him, feeling somehow responsible for his call to the principal's office.
+speaker_heading: WILLARD'S POV - OFFICE DOOR
+text: CAMERA PUSHES IN... The name FRANK MARTIN growing larger. Willard's hand knocks. After a power pause...
+speaker_heading: MR. MARTIN (O.S.)
+dialog: Yeah.
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+text: The door opens revealing FRANK MARTIN, early 60's, eyes down, working at a large desk placed in the power position. Cuff links, suspenders and televangelist hair, Mr. Martin believes he is the top of the pyramid. At a conference of true CEOs, however, he'd be avoided like the plague. An old economy, fold school, embarrassment.
+speaker_heading: WILLARD
+text: Ventures an arm length into the room, clutching the doorknob, while awaiting acknowledgement.
+speaker_heading: MR. MARTIN
+dialog: Keeps working, making Willard hang...
+speaker_heading: WILLARD
+text: Averts his eyes, then quietly attempts a retreat.
+speaker_heading: MR. MARTIN (O.S.)
+dialog: Who's that at your desk, Willard?
+text: Caught, Willard looks up.
+speaker_heading: MR. MARTIN
+text: Eyes still on his work, gestures pointedly for Willard to take a seat in one of the leather chairs across his desk.
+speaker_heading: WIDER
+text: Willard moves like a condemned man trying to maintain a morsel of dignity. He sits. Martin maddeningly busies himself as a means of intimidation...
+speaker_heading: MR. MARTIN
+dialog: Who's that at your desk, I said.
+speaker_heading: WILLARD
+dialog: I...I don't know her.
+speaker_heading: MR. MARTIN
+dialog: No? You're the reason she's here.
+text: Increasingly flustered and angry, Willard can only manage to shake his head and shrug. Mr. Martin shakes his head in disgust, mocking his employee.
+speaker_heading: MR. MARTIN
+dialog: You are at least a week behind processing the purchase orders. Aren't you?
+text: Willard averts his eyes, ashamed and guilty.
+speaker_heading: MR. MARTIN
+dialog: At least a week...
+text: Martin stands, paces, raising his voice, eyes fiery. His
+dialog: venom appears derived from more than tardy purchase orders.
+speaker_heading: MR. MARTIN
+dialog: That means... My sales people. The guys out on the floor, inventory, shipping. EVERYTHING comes to a dead stop. Because you allowed purchase orders to bottleneck on your desk.
+text: Willard appears driven to the brink of tears. He would never let them fall in front of Mr. Martin. He takes his beating.
+text: Martin studies him, yet looks through Willard. Then with a sadistic passive-aggressive transition, moves to the desk and sits before Willard, assuming a friend of the family tone.
+speaker_heading: MR. MARTIN
+dialog: Your family name is still on this factory, Willard. Martin - Stiles - Iron Works. Your father built this company. If nothing else, son, that should make you want to be proud of your work.
+text: Willard submissively looks up to his boss.
+speaker_heading: WILLARD
+dialog: My mother's been sick.
+text: Martin sits in the other chair beside Willard, placing a hand of false comfort on the employee's arm.
+speaker_heading: MR. MARTIN
+dialog: And that's why you've fallen behind?
+text: Willard nods. Out of intense disdain, Willard is unable to look at Mr. Martin.
+speaker_heading: MR. MARTIN
+dialog: Willard, I'm an old friend of the family. I've known your mother since before you were born. She should be comfortable.
+dialog: (beat)
+dialog: And you, young man, shouldn't carry that kind of burden.
+dialog: (beat)
+dialog: Your father was like a father to me and I promised him I would always take care of you and your mother. That as long as she was alive...you'd have a job here.
+text: CAMERA CRANES DOWN TO WILLARD'S FEET. Out of Mr. Martin's view. Willard angrily digs his shoe tip into the carpet.
+speaker_heading: MR. MARTIN
+dialog: With a false sagacity.
+speaker_heading: MR. MARTIN (O.S.)
+dialog: And in keeping with that promise, I have to advise you to find your mother a good rest care facility.
+speaker_heading: WILLARD - ABOVE EYE LEVEL
+text: His eyes aimed down, anywhere but directly at his boss...
+speaker_heading: WILLARD
+dialog: We can't afford that.
+speaker_heading: WIDER
+text: Martin rises and returns to his desk while making a suggestion; delivered as if it were an off the cuff idea.
+speaker_heading: MR. MARTIN
+dialog: Why not sell your house?
+dialog: (beat)
+dialog: I'd buy it from you! I mean...what are friends for?
+dialog: Willard stands, a bit shaky.
+speaker_heading: WILLARD
+dialog: I'm sorry, Mr. Martin, I'll catch up. I'll stay late.
+text: Martin burns, aware Willard is politely disrespecting him.
+speaker_heading: MR. MARTIN
+dialog: And pay you more in overtime than it costs me for a temp?
+text: Willard backs away and cautiously turns toward the door.
+speaker_heading: MR. MARTIN
+dialog: Goddamn right you'll catch up!
+scene_heading: INT. OFFICE BULLPEN - MORNING
+text: Willard opens the door. Mr. Martin, face red, shouts in the b.g. For all the employees to hear.
+speaker_heading: MR. MARTIN
+dialog: What you'll never understand...
+text: Willard holds the doorway, his eyes having caught --
+speaker_heading: CATHRYN
+text: Averts her sympathetic eyes.
+speaker_heading: MR. MARTIN
+dialog: Is that business is a rat race and promise or no promise...
+speaker_heading: WILLARD
+text: Continues toward his desk, leaving Mr. Martin framed in his office doorway.
+speaker_heading: MR. MARTIN
+dialog: I will not get eaten by all those other rats...because of you!
+dialog: Stuck Like Glue
+scene_heading: INT. DUANE READE DRUG STORE - NIGHT - GLUE TRAPS
+text: Willard's hand removes a cellophane package holding four cardboard rectangles dabbed with industrial glue.
+speaker_heading: WILLARD
+text: Having stopped after his hard day at work and holding a package of new plug fuses, he studies the glue trap package.
+speaker_heading: WILLARD'S POV - GLUE TRAP PACKAGE
+dialog: Disposable; just throw everything away! "Your hands never touch the pest or glue!"
+scene_heading: INT. BASEMENT - WILLARD'S HOUSE - NIGHT
+text: Like a rat, CAMERA CREEPS EERILY ACROSS THE FLOOR, assembling several dozen 4X6 cardboard squares strategically placed throughout the basement. CAMERA CONTINUES toward a flashlight beam aimed in an open fuse-box. Willard screws a new plug fuse into the box. The overhead lights flash until sparks snap from the fuse box. The lights BLOW!
+text: Once again, left to the flashlight beam, Willard jumps back and while fanning the blue smoke billowing from the fuse box.
+speaker_heading: WILLARD
+dialog: FUCK ME! Can't I do anything!?
+scene_heading: INT. WILLARD'S BEDROOM - NIGHT
+text: Willard is asleep. It's not a fit sleep. His tense fingers clench the covers while his teeth GRIND. CAMERA HOLDS. In the silence... In the darkness...
+text: Suddenly O.S., in the basement, a horrific nonhuman SHRIEK of shreds the silence.
+text: CAMERA SNEAKS IN on Willard awakened and disoriented, frightened by the high pitched squeals of a rat. REEK! REEK! REEK! REEK! REEK!
+speaker_heading: MRS. STILES (O.S.)
+speaker_heading: CLARK! CLARK! CLARK!
+text: Willard throws down the covers and jumps out of bed.
+scene_heading: INT. UPSTAIRS HALLWAY - CONTINUOUS
+text: Eyes wide in a cold sweat, Willard races down the hall toward the stairway. Passing his mother's bedroom, CAMERA CATCHES a glimpse of her sitting upright in bed, trembling with fear.
+speaker_heading: MRS. STILES (O.S.)
+dialog: What is it?! What is it?!
+scene_heading: INT. KITCHEN - CONTINUOUS
+text: The volume of squeals intensifies as Willard runs toward the cellar door. CAMERA FOLLOWS as he whisks the door open unto a dark abyss. The squeals become blaring. REEK! REEK!
+text: Out of habit, he clicks the light switch, but it doesn't work. Having placed a flashlight on the top step, he grabs it, CLICKS it on and whips the beam down the stairs.
+speaker_heading: IN THE FLASHLIGHT BEAM
+text: Nothing but cold cement. The shrieking continues...
+speaker_heading: WILLARD
+text: Eyes wincing at the horrific sound, yet desperate to find it a source, searches with the flashlight...
+text: Suddenly, movement. A small two weeks old white rat with red eyes is caught in the glue trap. However, only the hind legs are stuck and immobilized. The front legs remain free. Desperately scuttling across the floor like an amputee panhandler gone mad on his wheeled cart.
+speaker_heading: WILLARD
+text: His head and eyes dart, watching the young rat. The pest situation, his mother, his work seems to boil over. Enough.
+text: He marches into the cellar, grabbing the first lethal tool he finds, a garden hand cultivator with three pointed prongs. As he turns and searches for the rat on the floor...
+text: A second PLEA cuts through the white rats' SHRIEKS.
+speaker_heading: IN THE FLASHLIGHT BEAM
+text: The light pans up to the hole in the wire mesh. An older, larger white rat, surrounded by a half-dozen young rats looks directly at Willard.
+speaker_heading: WILLARD
+text: Senses this is the mother of the trapped rat. The mother rat expresses a submissive posture to Willard; ears back and head down, eyes toward him...
+text: Willard instinctively senses the mother's plea for mercy.
+speaker_heading: WIDER
+text: While the young rat REEK! REEK! REEKS!, darting in and out of FRAME on the floor, Willard returns to the shelf holding rusted garden tools. HE sets down the hand cultivator, quickly places a pair of work gloves on his hands and turns toward the small white rat.
+speaker_heading: CLOSE - YOUNG WHITE RAT
+text: Darts across the floor, trying to escape the light and the gargantuan figure chasing him.
+speaker_heading: WILLARD
+text: Holding the flaslight, in his favorite pajamas and bare feet, grabs the rat with his free, glove3d hand.
+scene_heading: INT. 2ND FLOOR BATHROOM - CONTINUOUS
+speaker_heading: CLOSE PACKAGE
+dialog: Highlighted in a blue rectangle "In case of accidental contact with adhesive, apply vegetable oil..."
+speaker_heading: THE YOUNG WHITE RAT
+text: Gooey vegetable oil pours over the rodent's hind legs, held in Willard's gloved hand. The rat squirms, but doesn't squeal.
+speaker_heading: WIDER
+text: Willard, still in his pajamas, is rattled and flustered. He sets down the jar of oil and attempts to pull the rat from the glue trap. The white rat softly squeals.
+scene_heading: INT. 2ND FLOOR HALLWAY - CONTINUOUS
+text: Mrs. Stiles, supported by her walker and perspiring, leans her ear toward the door.
+speaker_heading: WILLARD
+dialog: You shouldn't be out of bed. You're feverish.
+speaker_heading: MRS. STILES
+dialog: I get afraid, Clark. Your father was in that bathroom late. That night.
+speaker_heading: WILLARD
+dialog: I know. I'll never do what Father did.
+text: She looks to her shoulder, puzzled.
+speaker_heading: MRS. STILES
+dialog: What is that on your hand?
+speaker_heading: WILLARD
+dialog: Soap. Back to bed, Mother.
+speaker_heading: MRS. STILES (O.S.)
+dialog: It's cooking oil!
+dialog: (scolding)
+dialog: Willard, you're too old for that! When will you find yourself a girl!
+text: CAMERA HOLDS in the hallway for the amount of time it takes Willard to quickly return his mother to bed. After a beat, he reappears, closes the door and returns to the bathroom.
+dialog: A Friend in Socrates
+scene_heading: INT. 2ND FLOOR BATHROOM - CONTINUOUS
+text: A DRAWER is pulled open. The towel is unraveled and the young, white rat shakes its head. Cute, actually.
+speaker_heading: WILLARD
+text: Nearly smiles, holding the towel in his hands. He moves to the sink and quietly turns on the warm water. Grabbing a bar of soap, he cups some water and begins rinsing the white rat.
+dialog: It lets him.
+speaker_heading: WILLARD
+dialog: You seem pretty wise, except for getting caught in the trap.
+dialog: (beat)
+dialog: You should be called Socrates.
+text: The rat SQUEAKS, as if approving of the name. Moved by another creature displaying fondness towards him.
+speaker_heading: WIDER
+text: CAMERA BEGINS INCHING BACK while holding the rat in his hand, Willard opens a drawer, rummages, and produces a plastic comb. As he begins gently grooming the rat's fur...
+scene_heading: INT. BASEMENT - CONTINUOUS
+text: A flashlight CLICKS. The beam appears directly on the mother rat behind the torn wire mesh, however she does not run away even while human FOOTSTEPS APPROACH...
+speaker_heading: WILLARD
+text: Holding the young, white rat, moves to the opening in the wall and holds before the mother rat and her offspring. Willard raises the white rat and sets it before the mother. The large white rat squeaks while rubbing her head over Socrates.
+text: Fascinated, Willard studies the homecoming. Then, as if wishing to contribute, Willard crosses to the storage shelves. He opens a can of Planter's peanuts.
+text: Sprinkling some in his hand while returning to the mesh screen, Willard lays peanuts on the opening's frame.
+speaker_heading: WILLARD
+dialog: Food.
+text: The mother pauses, rears on her hind legs and squeaks. Willard smiles, nods...
+speaker_heading: WILLARD
+dialog: Food!
+text: After mother CHIRPS, her litter begins eating the peanuts, holding the kernels between their paws.
+speaker_heading: WILLARD
+text: CAMERA INCHES ON TO HIM, unafraid and fascinated.
+speaker_heading: OPENING IN BASEMENT WALL
+text: After a series of squeaks from the mother, the family suddenly, hastily, hustles off with their peanuts.
+speaker_heading: WILLARD
+text: Is saddened by the sudden departure, and moves to the opening and shines the light inside but the family is gone. CAMERA RETREATS FROM WILLARD, as he once again feels nothing but loneliness in the dark, cold basement.
+text: He returns the peanut can to the storage shelf and starts towards the stairs. O.S., a soft squeak. Willard turns...
+speaker_heading: OPENING IN BASEMENT WALL
+dialog: Socrates. Alone. Looks at Willard.
+speaker_heading: WILLARD
+text: Eyes pathetically welling with tears.
+scene_heading: INT. WILLARD'S BEDROOM - NIGHT
+text: Socrates is asleep on the bed, curled up against the swell of Willard's back. Willard softly strokes the rat's fur and whispers, as if commenting on his earlier statement in the bathroom.
+speaker_heading: WILLARD
+dialog: I'd never let anyone hurt you, Socrates, I promise.
+text: Willard closes his eyes and settles into the bed. His hands are not tense. He does not grind his teeth.
+speaker_heading: OVERHEAD ANGLE
+text: As if crawling along the ceiling, CAMERA PULLS AWAY across the silent room. Eerie, elongated shadows of the barred windows intertwine with bare tree branches outside, flickering upon the floor.
+text: High upon the shelves, still only partially discernible in the shadows, CAMERA HOLDS on an unsettling voyeur.
+text: Ben, the foot and a half long black Norwegian rat, sits atop the shelves. Witness to Willard's promise to Socrates.
+speaker_heading: FADE OUT:
+dialog: A Successful Man's Car
+speaker_heading: FADE IN:
+scene_heading: EXT. PARKING LOT - FACTORY - MORNING
+text: In the cold morning, Ms. Leach struggles to place a cover on a new silver Mercedes S55 AMG parked in Mr. Martin's spot. Workers en route to the foundry drool with envy.
+text: Hustling to the front door, Willard eyes the car with hate.
+scene_heading: INT. ELEVATOR SHAFT - MORNING
+text: The decrepit elevator rises caged in a thick wire mesh.
+scene_heading: INT. FACTORY ELEVATOR - MORNING
+text: Alone in the elevator, he closes his eyes tight, trembling with disgust and anger. The elevator jolts to a stop. The interior metal door opens.
+text: Willard blindly begins opening the second wire mesh door, however it suddenly WHIPS closed with a slam!
+speaker_heading: MR. MARTIN
+text: Stands angrily outside the elevator in the hallway. With a flick of his hand he latches the wire door closed, trapping Willard like a rat in a cage.
+text: Willard tries to open the door, but it's locked. He pathetically eyes Mr. Martin who glares sadistically.
+speaker_heading: MR. MARTIN
+dialog: Like my new S55?
+text: Willard, now perspiring, trapped and so humiliated as to become incapacitated to a response. Besides, he doesn't know what is meant by "S55". Martin clarifies.
+speaker_heading: MR. MARTIN
+dialog: You like my new...Mercedes-Benz? I saw you admiring it.
+speaker_heading: WILLARD
+dialog: Um, yes, Mr. Martin. It's very...
+speaker_heading: MR. MARTIN
+dialog: (cutting him off)
+dialog: Know why I have that car, Willard?
+text: Willard is about to offer a desperate answer, however, Mr. Martin isn't really interested.
+speaker_heading: MR. MARTIN
+dialog: For you. I own that 350 horsepower engine for you, Willard. For your job. For your fellow employees.
+text: Making matters worse, Willard's fellow employees begin leaning out the office door to see what's going on.
+speaker_heading: MR. MARTIN
+dialog: Buyers feel a sense of security when they see proof that they're dealing with a successful man. So, when they see me pull up in that Mercedes AMG Class, they'll buy from us over some slob with a Jaguar S-Type.
+text: Slightly hyper-ventilating, Willard tugs at the door.
+speaker_heading: MR. MARTIN
+dialog: And do you know how I'm able to shell out ninety grand for that edge over our competitors?
+dialog: (beat)
+dialog: Because I'm a successful man! Because I get to work ON TIME! And when I get to work, I don't look like a drowned rat in short sleeve shirts and cheap ties.
+dialog: Mr. Martin steps closer to his prisoner...
+speaker_heading: MR. MARTIN
+dialog: Because I get the job done! Because I never made my boss carry a temp for eight weeks!
+dialog: (beat)
+dialog: I made it because I never caused my boss such grief!
+text: With these last words, upon reflex, Willard's eyes flash hatefully to Martin who reads this and, in turn, reflexively, guiltily and defensively hisses.
+speaker_heading: MR. MARTIN
+dialog: Why do I waste my time? You'll never even own a car.
+text: And without unlocking the wire mesh door, Mr. Martin turns and starts toward the office at the end of the hall. The nosey employees scurry like rats back into the office.
+speaker_heading: WILLARD
+text: Weakened, he tugs at the door. It's locked and as CAMERA RECEDES into the empty hallway, he appears like a helpless animal in a cage.
+text: After several beats, HEELS CLACK, O.S., on the floor. Cathryn ENTERS, heading toward the elevator.
+speaker_heading: CATHRYN
+dialog: You okay?
+text: If he answered, he'd burst into tears. She opens the door, he nods thankfully, and begins walking quickly to his office.
+scene_heading: INT. OFFICE BULLPEN - EVENING
+text: It's dark outside. Willard's working. Besides Ms. Leach, the employees have left for the day. Cathryn, however, remains. O.S., a door opens.
+text: CAMERA INCHES INTO WILLARD, his eyes peering up beneath his brows.
+speaker_heading: WILLARD'S POV - MR. MARTIN'S OFFICE
+text: Sharp leather briefcase in hand, Mr. Martin turns off his office lights and starts out, shooting a mean look at --
+speaker_heading: WILLARD
+text: Submitting, averts his eyes.
+speaker_heading: OFFICE
+text: Mr. Martin exits. Ms. Leach eyes the door and waits a couple beats before turning off her desk lamp and grabbing her coat.
+speaker_heading: MS. LEACH
+dialog: Don't stay too late, Cathryn.
+text: Ms. Leach forces a smile at Cathryn while ignoring Willard. In turn, Cathryn forces a nod, embarrassed for Willard. Once Leach exits, Cathryn turns to Willard who continues working.
+speaker_heading: CATHRYN
+dialog: Should I order some food?
+text: Willard looks up, guilty, then returns to his busy work. Shy, not annoyed with her.
+speaker_heading: WILLARD
+dialog: I'll finish. You shouldn't have your night ruined over this.
+dialog: (trying to joke)
+dialog: I don't have a life, so nothing gets ruined.
+speaker_heading: CATHRYN
+dialog: What makes you think I have a life?
+speaker_heading: WILLARD
+dialog: Really. I'll finish. Take off and put on your time card that you stayed two more hours.
+text: He smiles, forcing a mischievous laugh. She returns the smile while sadly eyeing him.
+speaker_heading: CATHRYN
+dialog: One way to get back at him, huh?
+dialog: He nods, shrugs.
+speaker_heading: CATHRYN
+dialog: That man is accumulating some serious Karmic shit. I hate to think what creature he's comin' back as to pay it off. A worm, or a pig...
+speaker_heading: WILLARD
+dialog: Maybe...a rat?
+speaker_heading: CATHRYN
+dialog: Nah. The Jains, in India, they believe rats are reincarnated in the next life as holy men.
+text: Willard considers. She misinterprets his silence as discomfort and offers an explanation to her knowing this.
+speaker_heading: CATHRYN
+dialog: Did some soul searching after my husband left me.
+text: Willard nods, awkward. He doesn't know how to talk about such things. She studies him.
+speaker_heading: CATHRYN
+dialog: You could use some soul searching, Willard. Why are you here?
+speaker_heading: WILLARD
+dialog: (proud)
+dialog: Well, Mr. Martin can't fire me. My father sold the company to Mr. Martin under the contractual
+dialog: stipulation that I'd always have a job here.
+speaker_heading: CATHRYN
+dialog: No, no. Why are you here? Me, I'm broke. Why don't you quit?
+dialog: Willard shifts uncomfortably.
+speaker_heading: WILLARD
+dialog: My father would be very hurt.
+speaker_heading: CATHRYN
+dialog: He's not alive.
+text: Willard sadly shakes his head, "no". Then looks up, trying awkwardly to lighten and change the subject.
+speaker_heading: WILLARD
+dialog: Maybe he's been reincarnated.
+speaker_heading: CATHRYN
+dialog: No doubt.
+dialog: (carefully)
+dialog: Can I ask how he died?
+dialog: Willard pauses, emotional.
+speaker_heading: WILLARD
+dialog: What do people come back as if...if they killed themselves?
+text: Cathryn eyes him sympathetically and avoids answering, as the answer is not what Willard needs to hear right now.
+speaker_heading: CATHRYN
+dialog: Fuck this place. Let's go drink.
+speaker_heading: WILLARD
+dialog: Oh...oh...can you imagine how he'd be if I don't get this done? No, thanks. You go.
+speaker_heading: CATHRYN
+dialog: Then I have to drink alone. Or with my cats.
+dialog: (laughs, clarifies)
+dialog: I've got cats. I swear, I'm going to end up like those old ladies with, you know, hundreds of cats in her house. Ever read about one of those nutballs?
+dialog: (sadly)
+dialog: Nothin' worse than bein' lonely.
+text: Willard agrees with a nod. He's tempted, but shakes his head. With a sigh, she stands and puts on her coat. Willard stands an awkward gentlemen.
+speaker_heading: CATHRYN
+dialog: I'm not hitting on you, Willard. Just feels like we could both use a friend.
+text: He floats toward the window as she gathers her purse and looks to him one more time.
+speaker_heading: WILLARD
+dialog: We'd both feel better if I just did this. I won't be too long.
+text: Cathryn forces a smile and starts out. Leaving him alone in the large office. Willard averts his eyes, regretting. He looks out the window and holds.
+scene_heading: EXT. PARKING LOT - CONTINUOUS
+text: Having stored the automobile's cover in the trunk, Mr. Martin gets in his beautiful car and shuts the door.
+scene_heading: INT. OFFICE BULLPEN - WILLARD - CONTINUOUS
+text: Willard moves to his desk, opens a drawer and removes a keychain.
+scene_heading: INT. HALLWAY - FACTORY OFFICE - CONTINUOUS
+text: Willard moves through a box cluttered hallway, an area in which employees stash stuff everyone knows will never be dealt with again. Willard pushes aside some stacked boxes and REVEALS a door. He fishes for a key on the ring.
+scene_heading: INT. STOREROOM - NIGHT - CHRISTMAS DECORATIONS
+text: A cardboard Rudolph the Red-nosed Reindeer smiles from a box storing tinsel, Christmas lights, and "Happy Holidays" banners. Dusty boxes of invoices and records are piled beside janitorial supplies.
+text: A single rear fluorescent panel is lit in the rear of the room. Willard enters, closes the door, and begins searching the storeroom, as if looking for someone.
+text: CAMERA MOVES along an aisle of shelves, between Willard and CAMERA, until a silhouette of a rat ENTERS FRAME. The rat squeaks. Willard releases a relieved and welcoming smile.
+text: Willard moves to Socrates, now much larger at ten weeks old.
+speaker_heading: WILLARD
+dialog: Had a bad day, Socrates.
+text: CAMERA PUSHES IN as Socrates climbs up Willard's arm and nuzzles in his neck while Willard scratches Socrates' head.
+scene_heading: INT. HALLWAY - ELEVATOR - LATER
+text: O.S., a CLACK, as Willard, holding an accordion briefcase, shuts out the office lights and moves into the dark lonely hallway toward the elevator.
+dialog: Tear It!
+scene_heading: INT. BASEMENT - WILLARD'S HOUSE - LATER
+text: CLICK! A flashlight beam SHINES. It's quiet in the basement until Willard, happy to see the rats, moves down the stairs.
+speaker_heading: WILLARD
+dialog: Food!
+text: Then, O.S., the approaching scuttle of dozens of rats, having multiplied from the original family of half-a-dozen.
+speaker_heading: WILLARD
+dialog: Food! Sorry we're late...
+text: Willard places Socrates on a bench while moving to a large coffee can filled with pet store bought soybean rat pellets. Willard playfully disperses them on the floor.
+text: THE HOLE IN THE BASEMENT WALL
+text: THREE DOZEN RATS swarm over each other and climb down a thick piece of rope to the floor.
+speaker_heading: WILLARD
+dialog: Scratches the head of the large white rat.
+speaker_heading: WILLARD
+dialog: Hi, Ma.
+text: He happily feeds the other rats, placing food on the floor.
+speaker_heading: INT. BASEMENT - LATER
+text: The three dozen rats play on the floor by the light of the flashlight. Willard has fabricated a rat playground. Some push ropes. Others race on a wheel. CAMERA PUSHES through them, playing over the basement floor.
+speaker_heading: WILLARD
+text: Sits on a box, head down, still in his work clothes. He holds a rolled up newspaper and absently taps it against his shin; not for any reason other than something to do while thinking.
+speaker_heading: SOCRATES
+text: Begins playfully tearing at the paper...
+speaker_heading: WILLARD
+text: Smiles, playing, and moves the paper out of reach.
+speaker_heading: SOCRATES
+text: Stands on its hind legs, clawing, trying to reach the paper.
+speaker_heading: WILLARD
+text: Lowers the paper to Socrates. With a playful tone.
+speaker_heading: WILLARD
+dialog: Tear it. Come on. Tear it.
+speaker_heading: SOCRATES
+text: Is joined by another. Both gnaw at the paper.
+speaker_heading: WILLARD (O.S.)
+dialog: Good. Tear it. Teach 'em, Socrates. They listen to you...
+speaker_heading: WILLARD
+dialog: Lifts the paper, holds...
+speaker_heading: WILLARD
+dialog: Tear it...
+dialog: Willard lowers the paper...
+speaker_heading: THE TWO RATS
+text: Socrates SQUEAKS as if reiterating Willard's command. The rats tear at the roll of newsprint. A third rat joins the others. After a beat, Willard lifts the paper.
+speaker_heading: WILLARD
+text: Waits, holds, then...as if an idea occurs to him, he speaks in a tone of menace.
+speaker_heading: WILLARD
+dialog: Tear it.
+speaker_heading: THE THREE RATS
+text: Learning quickly, begins tearing at the newspaper.
+speaker_heading: WILLARD
+dialog: Studies the rats, Socrates squeaking at the others. Then, as Willard considers:
+text: O.S., a thick, meaty tear. The sound is out of place amongst the rats. Willard pauses, listens. Again, a TEAR and HEAVY GNAWING. Willard slowly raises the flashlight and pans it in the direction of the sound.
+speaker_heading: IN THE FLASHLIGHT BEAM
+text: Across the dark basement revealing an old tire leaning against the wall. The light TILTS DOWN to find BEN, a foot and a half long and easily five pounds. Like a small dog. Ben's teeth sink into the tire and shred away a slice of rubber.
+speaker_heading: WILLARD - REVERSE ANGLE
+dialog: He's shocked by Ben's size. And power.
+speaker_heading: WILLARD
+dialog: Jesus, you're big. Big Ben.
+speaker_heading: BEN
+text: ALONG THE GROUND, CAMERA MOVES TOWARD BEN. Unaffected by the light, Willard's presence or the other rats.
+speaker_heading: WILLARD
+text: Absently nods as answering Ben's question. Socrates runs up Willard's shoulder.
+speaker_heading: WILLARD
+dialog: Do you know him, Socrates?
+dialog: Socrates squeaks.
+speaker_heading: WILLARD
+dialog: Well, Ben. Any friend of Socrates is a friend of mine.
+speaker_heading: BEN
+text: Tears a chunk of rubber from the tire, then coolly seems to look over its should to Willard, suggesting "Get the idea?".
+speaker_heading: WILLARD
+dialog: As if he's understanding...
+speaker_heading: WILLARD
+dialog: Ben, this looks like the beginning of a beautiful friendship.
+speaker_heading: INT. BASEMENT - LATER
+text: Lead by Socrates, the three-dozen rats have been broken into four teams, each violently gnawing on bicycle tires and the car tire. Socrates moves like a drill instructor, snapping at those which are not attacking the rubber.
+speaker_heading: BEN
+text: Away from the others, coolly watches his idea being
+dialog: implemented in the first stage.
+speaker_heading: WILLARD
+dialog: Snaps his fingers, in command.
+speaker_heading: WILLARD
+dialog: Tear it.
+dialog: (snaps fingers)
+speaker_heading: TEAR IT UP!
+speaker_heading: INT. BASEMENT - LATER
+text: Two worn carrying bags ENTER FRAME held at the handles by Willard dressed in different clothes than in the last scene.
+text: The bags, seemingly floating across the basement. In the b.g., seventy-five rats now live in the basement. Swarming on shelves, work benches and stairs.
+speaker_heading: WILLARD
+dialog: Still.
+text: He continues encircling the basement, holding each bag.
+speaker_heading: WILLARD
+dialog: Still...
+text: Not a sound emits from either bag. He sets each bag down and kneels over them, pleased. He opens one bag, then the other. After a beat, he SNAPS his fingers.
+speaker_heading: WILLARD
+dialog: Out.
+dialog: Lead by Socrates, a dozen rats flood from each bag.
+speaker_heading: INT. BASEMENT - LATER
+text: A flashlight beam flares INTO FRAME. CAMERA FOLLOWS as Willard, holding the flashlight, moves across the basement tossing soybean rat pellets to the hundred rats. Willard's wardrobe is different than the last scene. Time has passed.
+speaker_heading: WILLARD
+dialog: Good work. Good work tonight.
+text: Willard scans the basement, making a calling "kissing" sound.
+speaker_heading: WILLARD
+dialog: Socrates. Upstairs. Bed.
+text: Ben moves up the stairs toward the door.
+speaker_heading: WILLARD
+dialog: No, not Ben. BED. Only Socrates sleeps in bed.
+text: Ben continues up the stairs. With the ire of a pet owner whose animal will not listen, Willard takes an aggressive step toward Ben.
+speaker_heading: WILLARD
+dialog: BEN! I SAID, "NO!"
+dialog: O.S., Socrates SQUEAKS. Willard searches for the sound...
+scene_heading: LOW ANGLE - ACROSS THE BASEMENT
+text: Willard swings the flashlight toward two rats, silhouetted in the f.g. One rat lies motionless, arms and claws curled while the other nudges the body.
+text: Willard approaches, setting the light on a table, angled down, creating macabre light overhead. Willard kneels, studying the dead white rat. Socrates runs to Willard and climbs in his lap.
+speaker_heading: WILLARD
+dialog: (a whisper)
+dialog: No. Oh, Ma, no.
+text: Willard reaches out and holds the limp body. Finding a box of black plastic Hefty trash bags, he pulls the last bag and carefully, respectfully, wraps Socrates' mother in the black plastic. He sets her on the floor.
+text: Tears well as Willard looks to Socrates and scratches his head, comforting. CAMERA BEGINS RISING as Willard begins softly crying, holding Socrates against his cheek.
+text: CAMERA CONTINUES, the flashlight spotlighting the intimate sadness of Willard and Socrates while a hundred active rats swarm across the basement floor.
+dialog: Like a Man...on a Mission
+scene_heading: INT. OFFICE BULLPEN - MORNING
+text: CAMERA MOVES with Willard, hustling urgently toward his desk. His fellow employees tense; subtly urging him on.
+text: As he passes Mr. Martin's office, however, the door BANGS OPEN and the boss storms out. Passing Ms. Leach's desk, Mr. Martin extends his arm. She hands off a report in his hands.
+text: Willard continues to his desk as Martin descends. Cathryn tenses. As Willard sits, Mr. Martin reaches Willard's desk and angrily throws the notebook down with a startling THUD!
+speaker_heading: MR. MARTIN
+dialog: One week! You've been late so many hours it equals an entire week!
+speaker_heading: WILLARD
+dialog: I'm sorry, Mr. Martin...
+speaker_heading: MR. MARTIN
+dialog: I want that week back.
+text: Willard reacts, puzzled, not understanding.
+speaker_heading: MR. MARTIN
+dialog: I've consulted counsel and I may not be able to release you, but it is within my rights to administer fiscal disciplinary reprimands.
+speaker_heading: WILLARD
+dialog: I'm sorry, Mr. Martin. I know you must be tired of the excuse, but what can I do? My mother is sick.
+text: Mr. Martin leans in over Willard.
+speaker_heading: MR. MARTIN
+dialog: If you really cared for your mother, you'd show up to work on time. Because now you're out a week's pay.
+text: Unlike his previous weak reactions, Willard turns inward. To a dark place. Mr. Martin heads back toward his office.
+speaker_heading: MR. MARTIN
+dialog: And if you don't like it, quit! Be a man for once instead of the fucking mouse you are!
+text: He storms to his office and slams the door!
+speaker_heading: WILLARD
+text: CAMERA ABOVE HIS EYE-LINE AND PUSHING IN. Willard smiles to himself at the irony of Mr. Martin's last comment. Willard looks to his Rolodex and begins turning the knob.
+speaker_heading: ROLODEX
+dialog: Names flip past until settling upon "Martin, Frank. Wife - Barbara. 263 Adams. Irvington, N.Y., 10533."
+text: As the card is yanked from the file...
+scene_heading: INT. BASEMENT - WILLARD'S HOUSE - NIGHT
+text: With a tug, Willard opens the carrying bags, placed on their sides, his shadowy smile mischievous rather than sinister.
+speaker_heading: WILLARD
+dialog: In.
+text: Lead by Socrates, two dozen rats begin filing into the bags.
+speaker_heading: BEN
+text: Starts toward the bags. Willard's hand appears before him, halting him.
+speaker_heading: WILLARD (O.S.)
+dialog: No, Ben.
+dialog: Willard keeps Ben from entering the bags.
+speaker_heading: WILLARD
+dialog: You're too big. There won't be room for anyone else.
+speaker_heading: BEN
+text: Holds, appears angry O.S. Willard CLOSES THE BAGS with a snap, stands and crosses before Ben.
+speaker_heading: BASEMENT STAIRS
+text: Willard holds the bag handle in each hand, dressed for cold weather. Leather gloves, a worn long black overcoat and logo less baseball cap. He sets the bags on the landing, then reaches up to turn the doorknob. He opens the door; the kitchen, above, is dark.
+text: Willard turns back to retrieve the bags. Then, as he turns, back to exit the basement, the flashlight catches his mother! Willard is too startled, and nearly drops the bags. Under lit by the flashlight, she appears frightening.
+speaker_heading: MRS. STILES
+dialog: What are you doing?
+text: Willard hurriedly continues up the stairs, quickly shutting the door with his foot. He commands to the "luggage".
+speaker_heading: WILLARD
+dialog: Still!
+scene_heading: INT. KITCHEN - CONTINUOUS
+text: The door closes. He places the bags on the table.
+speaker_heading: MRS. STILES
+dialog: Still what? What does that mean?
+speaker_heading: WILLARD
+dialog: Upstairs, mother.
+text: On the table, the bags begins to fidget. Just as mother is about to look toward them.
+speaker_heading: WILLARD
+dialog: Still.
+speaker_heading: MRS. STILES
+dialog: There! You said it in front of my face but I don't know what it means. "Still". What are you saying? Why are you so mean to me?
+text: Suddenly, she gasps. Willard tenses.
+speaker_heading: MRS. STILES
+dialog: Clark! I smell rats!
+text: She tries to open the basement door. Willard takes his mother firmly by the arm. Picks up her walker and begins leading her out of the kitchen.
+speaker_heading: WILLARD
+dialog: Upstairs, Mother.
+speaker_heading: MRS. STILES
+dialog: Don't order me around! What are you up to? What's in those bags?
+speaker_heading: WILLARD
+dialog: Business records Father kept.
+speaker_heading: MRS. STILES
+dialog: No! Father's records are in his upstairs office!
+text: While Willard and his mother exit the kitchen, CAMERA HOLDS on the bags. Then CREEPS IN...
+speaker_heading: WILLARD (O.S.)
+dialog: The bags were downstairs. I'm taking them to the office.
+speaker_heading: MRS. STILES (O.S.)
+dialog: At this hour?!
+speaker_heading: WILLARD (O.S.)
+dialog: Mr. Martin needs them for an early meeting.
+speaker_heading: MRS. STILES (O.S.)
+dialog: That man! He doesn't appreciate or respect you!
+speaker_heading: WILLARD (O.S.)
+dialog: He will. He may not know it... But he will.
+text: AS CAMERA INCHES TOWARD THE BAGS...
+scene_heading: EXT. SUBWAY ENTRANCE - NIGHT
+text: CAMERA ARCS AROUND wrought iron framing the stairs to the subway station. Willard appears around the corner, collars up on his shin length overcoat. Head down, carrying the bags, he descends the stairs toward the subway.
+scene_heading: EXT. SUBWAY TRACKS - LATER
+text: The train pulls away from the distant Manhattan skyline.
+scene_heading: EXT. SUBURBAN STREET - NIGHT
+text: CAMERA MOVES ACROSS A QUIET, familiar, yet upscale suburban street. There are no bars on these houses. It is early winter, cold. The streets are damp and the tree branches bare.
+text: CAMERA CONTINUES TOWARD the sidewalk REVEALING WILLARD, back to CAMERA, carrying the two bags along the sidewalk.
+speaker_heading: WILLARD
+text: Perspires. The bags are heavy. As he walks, he looks up and down the street.
+scene_heading: UP THE STREET - WILLARD'S POV - MAILBOX
+speaker_heading: It reads "THE MARTINS".
+speaker_heading: WILLARD
+text: Slows as he looks ahead.
+scene_heading: EXT. MARTIN'S GARAGE - NIGHT
+text: The automatic garage door is closing, allowing a glance of Mr. Martin and his wife, having just returned home. Mr. Martin si placing a cover on his car INSIDE the garage. His wife appears impatient, but he rudely waves her off.
+text: The door closes, seeping light outlines the garage door.
+speaker_heading: WILLARD
+text: Continues walking, slowly. Focused on Mr. Martin's house.
+scene_heading: GARAGE - ACROSS THE STREET - WILLARD'S POV
+text: The interior garage lights turn off.
+speaker_heading: WILLARD
+text: Takes a nervous breath and readies to approach the house. Suddenly, appearing behind him at his left blind side is a Brinks Neighborhood patrol car, ENTERING FRAME. The officer's attention is on Willard. The patrol car's RADIO is low. The officer is heard, but is indiscernible as he reports...
+text: Willard nervously picks up his pace. The patrol car remains in his blind side. Willard sneaks a peek up the street.
+speaker_heading: WILLARD'S POV - MARTIN'S HOUSE
+dialog: Nears...
+speaker_heading: WILLARD
+text: Wants to check over his shoulder, but cannot. Suddenly, yellow siren lights flash over him. Willard tenses, freezes as CAMERA SWEEPS in on him.
+text: O.S., The patrol car engine REVS. The siren lights arc
+text: around Willard, from front to back. Willard looks up.
+speaker_heading: WILLARD'S POV - PATROL CAR
+text: Races forward, passing him, as if moving off down the street. Willard eases...then the car begins a quick U-Turn, heading back towards Willard. Until the patrol car continues past Willard in another direction. Willard breathes a deep sigh.
+scene_heading: EXT. MR. MARTIN'S HOUSE - CONTINUOUS
+text: Willard appears as if he's about to pass the house until finally, he dashes up the driveway.
+speaker_heading: THE GARAGE DOOR
+text: Holding tightly to the shadows, Willard reaches the garage door. He hides just around the side of the garage. After a beat to assure he has not been seen, Willard opens the bag.
+speaker_heading: WILLARD
+dialog: Out.
+text: Rats begin marching from the bag. He lines them against a rubber weather strip along the base of the wooden garage door.
+speaker_heading: WILLARD
+dialog: Door.
+text: He snaps his fingers.
+speaker_heading: WILLARD
+dialog: Tear it.
+text: The rats begins gnawing at the weather strip.
+speaker_heading: RATS
+text: CAMERA MOVES ACROSS THEM, incisors tearing at CAMERA
+speaker_heading: WILLARD
+text: Turns to the second bag. Upon opening it, however, he's shocked as...BEN sticks his head out. He is the only rat in the bag. Willard appears angry and somewhat afraid.
+speaker_heading: WILLARD
+dialog: Ben?! How'd you?...I told you to stay!
+text: Ignoring Willard, Ben climbs out and moves to the other rats. Although annoyed with Ben, this is not the time to reprimand him. Willard sees the rats have torn several holes into the weather strip and door.
+speaker_heading: WILLARD
+dialog: Tires...
+text: He snaps his fingers.
+speaker_heading: WILLARD
+dialog: Tear it.
+text: Socrates leads the first team of rats, pouring out of the bag.
+speaker_heading: HOLD IN THE WEATHER STRIP
+dialog: If a rat can get its head through a hole the size of a
+text: quarter, it can squeeze its entire body through the hole. The cuts in the weather strip are much larger than a quarter. The rats squeeze through and enter the garage.
+speaker_heading: WILLARD
+text: Ben holds, continuing CHEWING. His head is bigger than the holes created by the other rats.
+speaker_heading: WILLARD
+dialog: You won't fit.
+speaker_heading: BEN
+text: Pushes his way through the opening in the base of the garage. Showing impressive strength, Ben "crashes" through.
+speaker_heading: WILLARD
+text: Notes Ben's strength. Willard then leans his head close to the garage door. Inside, he can hear FAINT GNAWING.
+scene_heading: INT. MR. MARTIN'S GARAGE - CONTINUOUS
+text: Ben moves to a tire and takes it on single-handed. The other tires are already being chewed - four rats to a tire.
+scene_heading: EXT. GARAGE DOOR - MR. MARTIN'S HOUSE - CONTINUOUS
+text: Willard listens to the slight sound of TEARING and chewing.
+scene_heading: INT. MR. MARTIN'S GARAGE - CONTINUOUS
+text: A TIRE is aggressively gnawed by a team of rats.
+speaker_heading: BEN
+text: Rips a strip of rubber.
+speaker_heading: EXT. GARAGE - CONTINUOUS
+dialog: Willard listens...HISS! Then another HISS!
+scene_heading: INT. GARAGE - CONTINUOUS
+text: The covered S55 Mercedes sinks as the rats chew around the rush of air. A TIRE POPS!
+speaker_heading: EXT. GARAGE - CONTINUOUS
+text: Willard suppresses his giggle. He puts his hand to the garage door and SNAPS his fingers.
+speaker_heading: WILLARD
+dialog: (a stage whisper)
+dialog: Stop!
+dialog: Then, inside the house...
+speaker_heading: MR. MARTIN (O.S.)
+dialog: What the hell's that?
+speaker_heading: WILLARD
+dialog: In!
+speaker_heading: MR. MARTIN (O.S.)
+dialog: Sounds like air or something.
+speaker_heading: WILLARD
+dialog: IN!
+speaker_heading: WEATHER STRIP TO GARAGE
+text: Socrates is the first to return. Rats hurriedly file out of the garage.
+scene_heading: INT. GARAGE - CONTINUOUS
+text: As rats run toward the front door, a tire POPS! The car sinks causing the alarm to go off.
+speaker_heading: EXT. GARAGE - CONTINUOUS
+text: Willard quickly gathers rats and puts them into the bag. A light turns on in the house.
+speaker_heading: MRS. MARTIN (O.S.)
+dialog: Someone in the garage?
+text: Secures a bag O.S., in the garage, a door opens. A light turns on...
+speaker_heading: MR. MARTIN (O.S.)
+dialog: What the fuck!?
+text: Ben hustles up and climbs into the bag. Frightened, Willard quickly closes the bag.
+speaker_heading: MR. MARTIN (O.S.)
+dialog: My tires've been slashed. Call Brinks.
+text: Just as Willard is about to make a dash toward the front yard, the garage door motors ENGAGE! The garage door begins opening. The car alarm stops.
+text: Willard desperately cuts toward the side of the garage toward the back yard just as Mr. Martin appears and steps out of the garage, looking out into the front yard.
+scene_heading: EXT. SIDE OF GARAGE - CONTINUOUS
+text: Willard moves as fast as he can without making much noise. CAMERA SUDDENLY DROPS DOWN to the ground revealing an area along the side of the house of landscaped gravel. As Willard runs on the crushed stones, CRUNCH! CRUNCH!...
+text: Mr. Martin turns to the rear of the house. As he rounds the corner, he's struck by a strong beam of light -- Martin shields his eyes as he looks to --
+speaker_heading: A BRINKS PATROL CAR
+text: A patrolman aims the light from inside the car.
+scene_heading: EXT. MR. MARTIN'S BACK YARD - NIGHT
+text: The beam of light spills into the side of the garage.
+speaker_heading: MR. MARTIN (O.S.)
+dialog: Someone just slashed my tires. They gotta be around here.
+text: With that...Willard bolts across the backyard. CAMERA LEADS HIM as he tries to run with the bags. In the darkness, he runs into a chain-linked fence bordering the neighbor's yard.
+speaker_heading: EXT. GARAGE - CONTINUOUS
+text: The patrolman shines the light around the neighborhood.
+speaker_heading: MR. MARTIN
+dialog: I'll check the back.
+scene_heading: EXT. MR. MARTIN'S BACK YARD - CONTINUOUS
+text: Willard hurriedly lifts a bag over the fence and drops it on the ground. As he lowers the second bag.
+scene_heading: EXT. SIDE OF GARAGE - CONTINUOUS
+text: Martin moves along to the back yard.
+scene_heading: EXT. BACK YARD - CONTINUOUS
+text: Willard climbs the fence and drops into the neighbor's yard. He quickly picks up the bags and runs for his life.
+scene_heading: EXT. MARTIN'S NEIGHBOR'S BACK YARD - CONTINUOUS
+text: As Willard charges across the neighbor's yard, a dog barks. This is not booming Rommel-like bark. It's the YAP of a Maltese or Jack Russel. Lights turn on inside the house.
+text: The small YAPPING dog appears out of the darkness SNAPS at Willard's heels. Willard continues, searching for a path toward the front yard. He plows through some shrubs...
+scene_heading: EXT. MARTIN'S NEIGHBOR'S FRONT YARD - CONTINUOUS
+text: Willard barrels through the bushes and hustles toward the sidewalk.
+speaker_heading: SIDEWALK
+text: Sweating and winded, Willard appears on the sidewalk, returning to a quick walk in order to avoid attracting any further attention. He checks behind for any signs of the Brinks patrol, however, they're not yet in sight.
+dialog: This street is QUIET. Willard eases, until --
+speaker_heading: THE YAPPING LITTLE DOG
+text: Charges out of the front yard and runs toward Willard.
+speaker_heading: WILLARD
+text: Picks up his pace. In a moment, the dog is at his heels barking and trying to get at the bags. Willard pushes the dog aside with his leg.
+speaker_heading: WILLARD
+dialog: Go.
+text: The dog continues barking, leaping to get at the bags. Willard nudges the dog with his foot.
+speaker_heading: WILLARD
+dialog: Get away.
+text: The dog, however, is a tenacious little tyke. Willard's eyes are crazed with a fury of which he did not seem capable.
+speaker_heading: WILLARD
+dialog: YOU WANNA SEE IN THE BAG, MOTHERFUCKER?!
+text: He reaches down and grabs the dog. The bag is opened revealing a DOZEN RATS. The dog is tossed inside the bag and zipped shut.
+speaker_heading: WILLARD
+speaker_heading: TEAR IT UP!
+speaker_heading: WIDER
+text: Willard resumes his walk up the pretty street. The bags begin knocking. He struggles to hold them. The dog's tough YAPPING has turned into muffled YELPS.
+speaker_heading: WILLARD
+text: Pauses. Guilty. He sets the bags down and opens the one holding the rats and dog. The small lap dog springs out of the bag and hauls ass back toward its house.
+speaker_heading: WIDE - THE STREET
+text: Willard, a macabre form carrying the bags, continues up the street. He turns to the right and vanishes down another block. Up the road, on an intersecting street, a Brinks patrol car appears, slows, and not seeing anyone on the street, continues. As the neighborhood returns to SILENCE.
+dialog: Mr. Martin's Loss of Control
+scene_heading: EXT. PARKING LOT - FACTORY - MORNING
+text: Willard enters, moving at a defiantly easy pace.
+speaker_heading: MR. MARTIN'S PARKING SPOT
+dialog: Vacant.
+speaker_heading: WILLARD
+text: Smiles, pleased with himself as he strides toward the door.
+scene_heading: INT. OFFICE BULLPEN - MORNING
+text: The clock over the door indicates it is 9:20. Willard enters the bullpen with guarded anticipation. The employees are abuzz, gossiping, and rebellious; when the cat's away...
+speaker_heading: GEORGE FOXX
+dialog: Know what a set of those tires run?
+speaker_heading: MS. LEACH
+dialog: Insurance'll cover it.
+speaker_heading: JANICE MANTIS
+dialog: Insurance won't cover how pissed off he's gonna be.
+text: En route to his desk, Willard can't help but grin.
+speaker_heading: WILLARD
+dialog: What's goin' on?
+speaker_heading: JANICE MANTIS
+text: Someone broke into Martin's garage last night, slashed his tires and peed on the floor.
+text: Willard's pleased, he hadn't thought of that bonus. Reaching his desk, he flashes a somewhat flirtatious but definitely confident grin at Cathryn.
+speaker_heading: WILLARD
+dialog: Mornin', Cat. You look very nice today.
+text: She's caught off-guard. But charmed. She smiles a thanks.
+speaker_heading: WILLARD
+dialog: Someone peed on his floor?
+speaker_heading: GEORGE FOXX
+dialog: Know what happened? When Martin saw his tires...
+text: Mr. Martin storms in. Foxx is seated with his back, so he doesn't see...
+speaker_heading: GEORGE FOXX
+dialog: He pissed his pants, then blamed it on the guy who did it!
+text: Foxx laughs but doesn't understand why the others turn dreadfully silent. He looks back to see the embarrassed and angry Mr. Martin. Foxx instantly turns obsequious.
+speaker_heading: GEORGE FOXX
+dialog: Good morning, Mr. Martin. Is everything okay?
+speaker_heading: MR. MARTIN
+dialog: You think it's so fuckin' funny? How do you like the thought of some sick fuck breaking into your house?
+speaker_heading: WILLARD
+dialog: He works to suppress his euphoria over Martin's agitation.
+speaker_heading: MR. MARTIN
+dialog: Scaring the shit out of your wife? Losing half a night's sleep dealing with the cops...
+speaker_heading: MR. MARTIN - WILLARD'S POV
+text: Mr. Martin's look begins railing toward all the employees.
+speaker_heading: MR. MARTIN
+dialog: And knowing that sick fuck is going to have control over you and your family's peace of mind for god knows how long?
+speaker_heading: WILLARD
+text: CAMERA HOLDS on Willard, pleased. In fact, at this point, having always SHOT WILLARD above eye level, now slowly, eerily, DROPS BELOW EYE LEVEL. It underlies his NEW SENSE OF CONFIDENCE AND POWER.
+speaker_heading: MR. MARTIN
+dialog: How'd you like it, Foxx?
+speaker_heading: WIDER - THE OFFICE
+text: Mr. Martin holds, but of course, it is an intensely rhetorical question. Mr. Foxx nods with overstated sympathy and returns to the work at his desk.
+speaker_heading: GEORGE FOXX
+dialog: No, sir.
+dialog: The employees follow much the same example and return to work while Mr. Martin eyes them like a street fighter whose just kicked some ass and postures "Anyone else want some?"
+speaker_heading: MR. MARTIN
+dialog: I didn't think so.
+text: Mr. Martin returns to his office and slams the door.
+speaker_heading: WILLARD
+text: Smiles with a newfound confidence. The CAMERA DROPS INTO HIS COAT POCKET. Willard's hand inside, stroking Socrates.
+dialog: All Good Things...
+scene_heading: INT. BASEMENT - WILLARD'S HOUSE - NIGHT
+text: A flat wood crate is empty. A bag of store bought, soy rat pellets are poured into the box.
+speaker_heading: WILLARD (O.S.)
+dialog: Food.
+text: Rats...swarming, writhing over one another. Charge the box. Hundreds and hundreds now live in the basement.
+speaker_heading: WIDER
+text: Willard looks over the numbers and sighs.
+speaker_heading: WILLARD
+dialog: We're running out of room.
+scene_heading: INT. KITCHEN - CONTINUOUS
+text: The dim glow of the flashlight seeps beneath the cellar door. Suddenly, the front legs of Mrs. Stiles' aluminum walker creep in.
+text: Mrs. Stiles' breaths are heavy and strained. Her critical condition is clear before she's revealed by the craning camera. Although sweating and gray, she's determined to place her ear to the door and eavesdrop.
+speaker_heading: WILLARD (O.S.)
+dialog: I can't feed you anymore. I can't afford it.
+text: Believing her son is rehearsing a speech to her, Mrs. Stiles tenses. Afraid.
+speaker_heading: WILLARD (O.S.)
+dialog: You have to find a new place to live. You'll be more comfortable somewhere else.
+dialog: (sadly)
+dialog: I wish they could, but...things can't last forever. All good things must come to an end.
+text: Mrs. Stiles slightly trembles with shock and heartbreak as she pulls away from the door.
+scene_heading: INT. BASEMENT - CONTINUOUS
+dialog: As Willard looks about the rats.
+speaker_heading: WILLARD
+dialog: Follow Ben. He'll find a place for you. He'll take care of you. Won't you, Ben?
+dialog: (looking at Ben)
+dialog: You're the leader...after Socrates.
+speaker_heading: WILLARD'S POV - BEN
+text: Is enthroned atop the storage shelves, above the other rats. Staring at Willard, Ben appears as if he feels he's the leader now...
+speaker_heading: WILLARD
+text: Socrates climbs up Willard's arm to his shoulder. Willard reaches up and scratches his head. Willard turns his back on Ben and with a whispered tone to Socrates...
+speaker_heading: WILLARD
+dialog: You're not going anywhere, Socrates. You'll always be with me.
+dialog: (sincerely)
+dialog: I hate everyone but you.
+text: Willard lovingly scratches Socrates while the hundreds of other rats swarm at his feet.
+speaker_heading: WILLARD
+dialog: Let's go to bed.
+text: He takes flashlight and moves to the stairs, passing Ben.
+speaker_heading: WILLARD
+dialog: Goodnight, Ben.
+speaker_heading: BEN
+text: Still, motionless, not pleased.
+scene_heading: INT. KITCHEN - CONTINUOUS
+text: The flashlight spill beneath the door intensifies as it reaches the door. As the door opens, Willard catches Ben making a break for it.
+speaker_heading: WILLARD
+dialog: No! Ben...how many times do I have to tell you. Only Socrates is allowed upstairs.
+text: Willard shuts the door.
+scene_heading: INT. DINING ROOM - CONTINUOUS
+text: CAMERA FOLLOWS WILLARD, moving through the dark room, playfully kissing Socrates on the head.
+text: As Willard makes a U-Turn around the span of an open foyer arch toward the stairs, Mrs. Stiles is REVEALED, collapsed on the stairway in a state of semi-consciousness.
+speaker_heading: WILLARD
+dialog: Horrified.
+speaker_heading: WILLARD
+dialog: Mother...
+text: He rushes toward her...
+speaker_heading: SOCRATES
+text: Willard places him on the stairway newel post cap. The rat begins running up the banister.
+speaker_heading: MRS. STILES
+text: Hearing her son, she tries lifting herself to her feet, reaching for the banister.
+speaker_heading: SOCRATES
+text: Her hand just misses him.
+scene_heading: STAIRWAY - WILLARD & MRS. STILES
+text: The son gently places hands on her. She jerks away.
+speaker_heading: MRS. STILES
+dialog: Don't touch me! You're getting rid of me!
+speaker_heading: WILLARD
+dialog: (sincere)
+dialog: No, Mother, I love you.
+speaker_heading: MRS. STILES
+dialog: I heard you! "All good things must come to an end!"
+speaker_heading: WILLARD
+dialog: I love you more than anything.
+speaker_heading: MRS. STILES
+dialog: You don't love me! You won't feed me! I hate you! I hate you!
+text: She begins violently coughing. Alarmed, he rushes to her, holds her. She struggles to get free, causing him heartbreak.
+text: Suddenly, Mrs. Stiles unintentionally HACKS a tablespoon of blood into her son's face. He fights back frightened tears, hands trembling as he holds his mother.
+speaker_heading: WILLARD
+dialog: You need to go to the hospital.
+speaker_heading: MRS. STILES
+dialog: No! You wanna lock me up! You wanna kill me! You wanna kill me!
+text: Willard shuts his eyes; covers his head with his arms, trying to block it out. Her screams sound like a scared animal.
+speaker_heading: TOP OF THE STAIRCASE
+text: Socrates is a black silhouette in the f.g., sitting atop the upper newel post cap, helplessly watching his friend Willard try to comfort his screaming mother.
+scene_heading: INT. 2ND STORY LANDING - HALLWAY - WILLARD'S HOUSE - LATER
+text: Through the ajar door, Mrs. Stiles can be seen asleep in her bed. Her BREATHING is strained. Willard's hands ENTER FRAME and gently dab her head with a cool wash cloth. He lifts the blankets to her chin.
+dialog: Ben, the Defiant Leader
+scene_heading: INT. WILLARD'S BEDROOM - LATER
+text: Numb with sadness, Willard climbs into bed and turns off the light. Laying his head back, he stares at the ceiling while fighting tears.
+speaker_heading: SIDE EDGE OF BED
+text: The covers RUSTLE. Socrates appears over the bed's horizon and rushes toward Willard. The white rat nuzzles Willard's chin. Pulling the rat close, Willard closes his eyes and feels the comfort of his friend.
+text: Then...the covers tucked under Willard's arms jerk toward the foot of the bed. Willard opens his eyes.
+speaker_heading: FOOT OF THE BED - WILLARD'S POV
+text: The covers jerk again. BEN APPEARS, using the covers to pull himself up. He holds at the foot of the bed.
+speaker_heading: WILLARD & SOCRATES
+dialog: Willard tenses.
+speaker_heading: SOCRATES
+text: Squeaks, as if pleading with Ben to get off.
+speaker_heading: BEN
+dialog: Remains. He's staying.
+speaker_heading: WILLARD
+dialog: What if Mother sees you?
+speaker_heading: BEN
+text: Doesn't care. Remains still. Challenging.
+speaker_heading: WILLARD
+text: Considers this. Then suddenly whisks off the covers, grabs Ben by the nape of his neck. The large rat HISSES and struggles as Willard carries him out.
+scene_heading: INT. BASEMENT - CONTINUOUS
+text: CAMERA IS LOW ANGLE, looking up the first set of stairs, swarming with rats. Willard gently tosses Ben on the stairs, quickly grabs the edge of the door.
+speaker_heading: WILLARD
+dialog: Down, Ben. You stay down!
+dialog: As Willard quickly shuts the door --
+scene_heading: INT. MRS. STILES' BEDROOM - CONTINUOUS
+text: The door slam causes her eyes to open. She holds in the darkness, puzzled and afraid.
+scene_heading: INT. WILLARD'S BEDROOM - MORNING
+text: Willard's asleep. Socrates curled up against his back. The alarm clock RINGS. Willard awakens and turns off the alarm. As he reaches back to pet Socrates, Willard freezes. Eyes toward the foot of the bed:
+speaker_heading: BEN
+text: Holds at the foot of the bed, in the same spot he claimed last night.
+speaker_heading: WILLARD
+dialog: Glares back.
+speaker_heading: BEN
+dialog: Glares back.
+speaker_heading: WILLARD
+text: On angry impulse, viciously kicks Ben, who's violently knocked to the floor.
+text: Ben scuttles out the door and into the hallway. Willard follows after him.
+scene_heading: INT. HALLWAY - CONTINUOUS
+text: As Willard appears at the end of the hall, he catches a glimpse of Ben darting down the banister. Willard starts after him, yet pauses at his mother's room. He softly moves to close her door, then pauses.
+scene_heading: INT. MRS. STILES' BEDROOM - CONTINUOUS
+dialog: She's not there.
+scene_heading: INT. STAIRWAY - CONTINUOUS
+text: A half-dozen rats crawl about the base of the stairs. Upon seeing them, Willard quickly hustles down the steps.
+speaker_heading: WILLARD
+dialog: Mother!
+scene_heading: INT. KITCHEN - CONTINUOUS
+text: The cellar door is open. Rats climb out from the basement. Willard appears, shocked.
+speaker_heading: WILLARD'S POV
+text: Over 150 rats are everywhere: on the table, the counters, in the cupboards, eating anything they can find.
+speaker_heading: WILLARD
+text: Turns to the basement door, anticipating what he'll find...
+scene_heading: INT. BASEMENT - CONTINUOUS
+text: On the first landing, a fading flashlight beam shines aimless from beneath a pack of swarming rats.
+speaker_heading: WILLARD
+text: Puzzled, steps closer. He freezes.
+speaker_heading: WILLARD'S POV
+text: The flashlight is gripped in his mother's stiff dead hand, scaly pink rat tails flop across the fingers. The rats do not know death. She is just another object.
+speaker_heading: WILLARD
+text: Shudders. His breaths rapid and deep.
+speaker_heading: WILLARD
+dialog: No! NO!
+text: He snaps his trembling fingers.
+speaker_heading: WILLARD
+speaker_heading: DOWN! DOWN!
+text: The rats obey the command and begin moving down the stairs. Socrates assists, herding the others toward the cellar.
+speaker_heading: MRS. STILES
+text: Positioned as if having fallen forward, her opened eyes reflect the expression of frozen shock. REVEALED as the rats climb off her.
+speaker_heading: BEN
+text: Holds atop a cupboard staring down at Willard.
+speaker_heading: WILLARD
+text: Looks up, increasingly impatient with Ben.
+speaker_heading: WILLARD
+dialog: You think you're funny? You think you're smart?
+dialog: (beat)
+dialog: Socrates. He's smart. He knows they have to take mother away.
+dialog: (beat)
+dialog: And if they see you...they'll take me away. Then come back for you.
+speaker_heading: BEN
+text: Appears to consider. He lifts his head, then moves off into the shadows.
+speaker_heading: WILLARD
+text: His expression reflects growing detest as Ben crawls over his feet, into the basement, past his mother's feet.
+scene_heading: INT. FOYER - AFTERNOON
+text: Reminiscent of Soctrates' mother, Mrs. Stiles' dead body lies inside a black plastic body bag. A PULLED STRAP secures her to a coroner's gurney.
+speaker_heading: WIDER
+text: Willard signs paperwork on a clipboard and returns it to a deputy medical examiner who absently tosses the clipboard atop the body bag.
+text: With a startling CLACK, the gurney is raised and wheeled out of the house. Willard slowly shuts the door.
+text: The house is quiet and lonely. Emotionally numb, Willard wanders to the stairs and must sit. The stretched shadows of the barred windows reach Willard, causing him to appear like a prisoner or a caged rat.
+text: After a beat, Socrates crawls into Willard's lap. The white rat nuzzles against Willard, comforting him.
+speaker_heading: WILLARD
+dialog: I love her...and I'll miss her. I already miss her. She was my mother.
+dialog: (beat)
+dialog: But, if you ever died, Socrates...
+dialog: He cannot bear to complete the thought.
+speaker_heading: WILLARD
+dialog: You're the only friend I ever had.
+text: AS CAMERA SLOWLY RISES, Willard strokes the head of his only remaining friend.
+dialog: Death and Bankruptcy
+scene_heading: INT. FUNERAL HOME - DAY
+text: Mrs. Stiles rests in modest casket. O.S., "Peace in the Valley" plays on a programmed organ. Willard approaches the coffin. Eyes red and swollen from crying, he leans over and kisses her.
+speaker_heading: WILLARD
+dialog: At least you're with father again.
+dialog: (pause)
+dialog: My friend would like to say goodbye.
+text: Willard cautiously checks over his shoulder. He's the only person at the service. He removes Socrates from his coat pocket and holds him out toward the head of the casket.
+speaker_heading: MRS. STILES
+text: Socrates brushes his nose against her dead face.
+speaker_heading: WILLARD
+text: Holding the rat to his mother, is about to cry again.
+speaker_heading: WIDER - CASKET
+text: Willard's back is to us. From this angle, Socrates can't be seen. Cathryn steps INTO FRAME, her back also to CAMERA.
+speaker_heading: CATHRYN
+text: Holds a beat, taking sad notice of the empty room.
+speaker_heading: WILLARD
+dialog: Remains unaware of her.
+speaker_heading: WILLARD'S HANDS
+text: Strokes his mother's face, and then the rat's...
+speaker_heading: CATHRYN (O.S.)
+dialog: Willard?
+text: Startled, he thinks quickly, places Socrates inside the casket. Willard eyes over his shoulder, then back to the coffin.
+speaker_heading: WILLARD
+dialog: (whispers)
+dialog: In.
+speaker_heading: SOCRATES
+text: Waddles deep into the casket, disappearing into the dark toward Mrs. Stiles' feet.
+speaker_heading: WILLARD & CATHRYN
+text: He turns just as she carefully approaches the casket.
+speaker_heading: CATHRYN
+dialog: Are you alright? I didn't mean to upset you.
+text: With residual startle, he shakes his head and guides her away from the coffin and to the chairs. They sit.
+speaker_heading: WILLARD
+dialog: You didn't have to come here.
+speaker_heading: CATHRYN
+dialog: We didn't hear from you and I wanted to make sure you're okay. To let you know...you have a friend.
+text: Willard is caught off guard and sincerely touched. His eyes begin to well, bringing tears to his eyes. She reaches out and softly caresses his face.
+text: This may be the first time he's ever been touched in such a way. As he begins to close his eyes and cherish the moment, his eyes freeze. Never fully closing.
+speaker_heading: WILLARD'S POV - MR. MARTIN
+text: Enters, appearing annoyed and put upon. He moves to the casket.
+speaker_heading: WILLARD & CATHRYN
+text: As Willard hatefully looks off, Cathryn turns to see Mr. Martin. Sparing them further hassle, she pulls her hand away.
+speaker_heading: CASKET
+text: Mrs. Stiles rests in the f.g., just beneath the closed half of the casket lid hides Socrates. Martin ENTERS FRAME, takes a perfunctory look and moves off.
+speaker_heading: FUNERAL HOME
+text: Willard and Cathryn avert their eyes as Martin approaches. Dismissive, he eyes Willard, then, somewhat lasciviously, eyes Cathryn.
+speaker_heading: MR. MARTIN
+dialog: Shouldn't you be working?
+speaker_heading: CATHRYN
+dialog: (defiantly)
+dialog: Lunch hour.
+speaker_heading: MR. MARTIN
+dialog: (with a laugh)
+dialog: Hell of a way to spend it, huh?
+text: He looks to Willard, who doesn't look back.
+speaker_heading: MR. MARTIN
+dialog: She's better off, Willard.
+dialog: (a dig at Willard)
+dialog: She's with your dad.
+text: Willard doesn't acknowledge this in any manner. Behind Mr. Martin, a man, JOSEPH GARTER, Mr. Martin's age, suit and tie enters and moves to the casket paying a brief moment of respect. The man looks toward Willard while...
+speaker_heading: MR. MARTIN
+dialog: What now? Gonna sell the house?
+dialog: Willard shrugs, then with false altruism...
+speaker_heading: MR. MARTIN
+dialog: Give it some thought. Take the rest of the day off.
+text: He pats Willard on the leg, shoots Cathryn a jilted look and moves out of the funeral parlor. Cathryn places a sympathetic hand on Willard's back, however, before any words are exchanged about Mr. Martin's behavior, they're approached by Mr. Garter.
+speaker_heading: MR. GARTER
+dialog: Willard Stiles?
+text: Willard looks up, nods.
+speaker_heading: MR. GARTER
+dialog: I'm Joseph Garter, I'm an attorney with Montgomery & Glick, the trustees of your mother's estate.
+dialog: (beat)
+dialog: I've been trying to reach you, but...you don't answer the phone.
+dialog: (beat)
+dialog: I hope you take no offense by my finding you. Here. We are all saddened by your loss.
+dialog: (beat; to Cathryn)
+dialog: May I have a moment with Willard?
+text: Cathryn reacts, flustered by the situation.
+speaker_heading: CATHRYN
+dialog: Can I come over after work? Check up on you?
+speaker_heading: WILLARD
+dialog: I'll be okay. Thanks, Cat.
+text: She gives him an awkward hug, then moves off while Mr. Garter turns a chair around to face Willard.
+speaker_heading: MR. GARTER
+dialog: Willard, I'm afraid I have some news... I don't know if you're aware of or prepared for.
+dialog: Willard reacts, puzzled.
+speaker_heading: MR. GARTER
+dialog: Your parents had been living off an account they had originally set up for your future. It was intended to be yours upon their passing.
+dialog: (beat)
+dialog: However, your father's death left debts that even Mr. Martin's buy out didn't completely relieve.
+dialog: Willard tenses.
+speaker_heading: MR. GARTER
+text: In fact, there remains pending litigation on some unsettled debts.
+speaker_heading: WILLARD
+dialog: I still have the house?
+speaker_heading: MR. GARTER
+dialog: Your mother refinanced the house after your father's death, so, in fact, we still owe...
+dialog: Willard's devastated.
+speaker_heading: WILLARD
+dialog: We? It's my house.
+speaker_heading: MR. GARTER
+dialog: Of course, you grew up there. It's your home, but it is the bank's house.
+speaker_heading: WILLARD
+dialog: It's my house.
+speaker_heading: MR. GARTER
+dialog: There's no need for a single man to live in such a large house. Sell it.
+speaker_heading: WILLARD
+dialog: Why do I have to pay for what things my parents did?
+speaker_heading: MR. GARTER
+dialog: The money will help you start over.
+speaker_heading: WILLARD
+dialog: Start over?! I'm almost done!
+speaker_heading: MR. GARTER
+dialog: Willard, you have no choice. As the executor...
+speaker_heading: WILLARD
+dialog: Then why...why'd you come here?! Why do you even bother telling me?! Do you get off on telling me I have no control over my own life?! I have no money. No home. And it's not my fault!
+text: Mr. Garter stands and reaches for his business card.
+speaker_heading: MR. GARTER
+dialog: This is not the time or place. Think about it. Then please, you have to contact me.
+text: Willard snaps the card out of Mr. Garter's hand.
+speaker_heading: MR. GARTER
+dialog: I understand, Willard, however, this is the only way you can take control of your own life.
+text: Willard sighs, settles. Mr. Garter takes a beat, assured that Willard has composed, then moves out of the room. Willard stands and moves toward his mother's casket.
+speaker_heading: WILLARD
+dialog: Socrates.
+text: Socrates appears from behind the bottom lid and scuttles to Willard who picks him up and holds the rat against his cheek. As Willard looks to his mother, he notes movement O.S.
+speaker_heading: THROUGH STAINED GLASS WINDOW
+text: Mr. Martin's form holds in the parking lot. He is motioned by another form who shakes Martin's hand. It's Mr. Garter.
+speaker_heading: WILLARD
+text: Moves to the window for a better look. Although distorted and oblique through the stained glass, Mr. Garter's posture conveys he is reporting to Mr. Martin. Garter gestures with a thumb toward Willard in the funeral parlor. Mr. Martin nods, pleased. The two men shake hands.
+speaker_heading: WILLARD
+text: As he watches out the window, Socrates held to his cheek.
+dialog: Cat, Food
+scene_heading: INT. FOYER - WILLARD'S HOUSE - AFTERNOON
+text: Rats are everywhere. The opening door shoots several across the floor. The door opens and Willard enters. Shocked and angry, he takes in the house...
+speaker_heading: WILLARD'S POV - LIVING ROOM & STAIRS
+text: Swarming with greasy rats; gnawing on the banister and chewing the curtains. Droppings and puddles of urine litter the hardwood floor.
+speaker_heading: WILLARD
+text: CAMERA CRANES DOWN. As it reaches eye-level.
+speaker_heading: WILLARD
+dialog: Stop it! Stop it, Ben! Just 'cause my mother's gone doesn't mean you have to run the house. This is my house, Ben!
+scene_heading: INT. KITCHEN - CONTINUOUS
+text: The kitchen has been ransacked by three times as many rats as before. All traces of food are gone. The containers are shredded and spewed in every direction.
+speaker_heading: SEVERAL RATS
+text: Have eaten through the plastic container of dishwashing liquid and are licking the soap.
+speaker_heading: WILLARD
+text: Storms into the kitchen and sees the pillaging. He looks to the door leading to the basement.
+scene_heading: INT. BASEMENT - CONTINUOUS
+text: The base of the door has been eaten away. Rats well up from the cellar. Willard pushes the door all the way open to see a STREAM OF RATS move up the stairs.
+speaker_heading: WILLARD
+dialog: BEN?!
+text: No response. The rats continue ravaging the house.
+speaker_heading: WILLARD
+dialog: BEN?!
+dialog: Ben doesn't wish to reveal himself.
+text: O.S., the doorbell rings. Startled, Willard turns. He hustles to the front entrance.
+scene_heading: INT. FOYER - CONTINUOUS
+text: Willard looks out the stained glass to see CATHRYN standing outside, holding something wrapped in a blanket.
+speaker_heading: CATHRYN
+dialog: Willard! It's Cathryn. Answer the door! I saw you walk in!
+dialog: (beat; flirtatious)
+dialog: I have a present for you!
+text: Willard, having not removed his coat, pulls it tight and moves to the door, sweeping rats away and out of sight before opening the door and quickly stepping outside.
+scene_heading: EXT. WILLARD'S HOUSE - CONTINUOUS
+text: Cathryn is taken aback and puzzled as he closes the door.
+speaker_heading: WILLARD
+dialog: I was going out. I...I have some stuff to deal with at the cemetery.
+speaker_heading: CATHRYN
+dialog: Oh, well...Willard...maybe this is a bad time, but...I...please Don't take this the wrong way. But you looked so goddamn lonely at your mother's service and...I know I was devastated by my mother's death and I loved her...and the only friend I
+dialog: had to help me through was...
+text: She lifts the blanket. Inside the bundle is a cat.
+speaker_heading: CATHRYN
+dialog: Her mother! This is Scully. She'll be a great friend and keep you company.
+text: Speechless, Willard looks at Scully. Searching for a way out.
+speaker_heading: WILLARD
+dialog: Cathryn...I don't know what to say. I...I can't take Scully.
+speaker_heading: THE CAT
+text: Looks down toward Willard's coat pocket.
+speaker_heading: CAT'S POV
+text: Two inches of Socrates' tail hangs out of Willard's pocket.
+speaker_heading: THE CAT
+text: Wriggles, trying to free itself from Cathryn's grasp. Its eyes are locked on Willard's pocket.
+speaker_heading: CATHRYN (O.S.)
+dialog: See, she likes you! Just hold her!
+speaker_heading: WILLARD & CATHRYN
+text: Cathryn hands the bundle to Willard. The cat swats at his pocket. Willard CLASPS the cat's head to secure it, while scratching his ears with forced affection.
+speaker_heading: WILLARD
+dialog: Cathryn, really. I can't...
+text: The cat meows, trying to get at Socrates in Willard's pocket. Willard, increasingly anxious...
+speaker_heading: WILLARD
+dialog: I'm really late. Is it okay to leave her inside?
+speaker_heading: CATHRYN
+dialog: Sure. She's potty trained.
+text: Forcing a smile, he opens the door and places the cat inside.
+scene_heading: INT. FOYER - WILLARD'S HOUSE - CONTINUOUS
+text: After a beat of "oh, shit!" The cat immediately arches it's back, fluffs its fur and hisses. It begins urinating.
+speaker_heading: CATHRYN (O.S.)
+dialog: Need a ride? I can drive you.
+speaker_heading: WILLARD (O.S.)
+dialog: How 'bout just to the subway?
+text: As their voices trail off down the sidewalk...
+speaker_heading: WILLARD
+dialog: I can't thank you enough, Cathryn. I'm sure Scully will be very happy.
+text: Horrified, Scully tears off into the house.
+speaker_heading: RATS
+text: Supposedly, a pack of rats will appear to ignore a stranger until the moment of attack; suckering the intruder. The rats continue chewing and gnawing, seemingly unaware of Scully.
+scene_heading: INT. TV ROOM - CONTINUOUS
+text: Scully runs, searching for safety. The curtains are drawn. The cat leaps upon...
+speaker_heading: A CLUB CHAIR
+text: A cable TV remote sits on the armrest. The cat inadvertently lands on the REMOTE...
+dialog: TV
+text: A small set turns on with a CLICK.
+speaker_heading: THE CAT
+text: Foot on the remote, Scully searches for higher ground in the cold blue light of the TV.
+dialog: TV
+text: In the upper corner of the monitor, the channel indicator races well into the music/radio channels.
+speaker_heading: THE CAT
+text: Leaps off the armchair.
+dialog: TV
+text: Is left on "SOFT ROCK/EASY LISTENING" CHANNEL.
+speaker_heading: THE CAT
+text: Settles on top of the armoire. It looks down upon...
+speaker_heading: THE HOUSE
+text: Rats - everywhere. Continuing as if unaware of the cat.
+dialog: TV
+text: A soft acoustic guitar purrs, accented by a deep bass. The opening of the Oscar nominated song "Ben". CAMERA EASES IN, matching the music's rhythm.
+speaker_heading: ANOTHER CLUB CHAIR
+text: In the blue cast of the TV, shadows cover the seat of a throne evoking chair...
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: Ben, the two of us need look no more...
+scene_heading: CAMERA PUSHES CLOSER, REVEALING BEN'S EYES.
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: We both found what we were looking for...
+text: Ben produces a snarling squeak - a command.
+speaker_heading: SOME RATS
+text: Look up from their chewing and move off to the TV room.
+speaker_heading: THE CAT
+text: Above the room on the armoire, notes the movement.
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: With a friend to call my own/I'll never be alone...
+speaker_heading: HIGH ANGLE - OVER THE CAT
+text: Two dozen rats scuttle to the base of the armoire.
+speaker_heading: FOOT OF ARMOIRE
+text: The rats break off into two teams: each gnawing at the feet of the armoire.
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: And you, my friend, will see/you've got a friend in me...
+speaker_heading: THE CAT
+dialog: Anxious, looks down at the rats
+speaker_heading: A TEAM OF RATS
+text: Sharp incisors jump at camera, tearing at the wood.
+speaker_heading: CHORUS (V.O.)
+dialog: You've got a friend in me!
+speaker_heading: BEN
+text: CAMERA INCHES IN, watching...
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: Ben, you're always running here and there...
+speaker_heading: FOOT OF THE ARMOIRE
+text: CREAKS...like a tree about to fall...
+speaker_heading: CHORUS (V.O.)
+dialog: Here and there!
+speaker_heading: THE CAT
+text: As the armoire sways, the cat searches for another safe haven.
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: You feel you're not wanted anywhere...
+speaker_heading: FOOT OF ARMOIRE
+text: Gives way. Rats scatter. The lower corner THUMPS to the floor. The armoire begins tilting.
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: If you ever look behind/and don't like what you find...
+speaker_heading: THE CAT
+dialog: Leaps! just as...
+speaker_heading: THE ARMOIRE
+text: Topples over, crashing to the floor!
+speaker_heading: THE CAT
+text: Dashes across the floor. Rats snap and hiss!
+scene_heading: INT. KITCHEN - CONTINUOUS
+text: The cat charges in and darts to the open cellar.
+speaker_heading: CHORUS (V.O.)
+dialog: I used to say "I" and "me"...
+scene_heading: INT. WILLARD'S BASEMENT - CONTINUOUS
+text: the cat eyes the hole in the wall leading beneath the house. It leaps from the stairs.
+speaker_heading: CHORUS (V.O.)
+dialog: Now it's "us"/Now it's "we"...
+speaker_heading: STORAGE SHELVES
+text: It lands on the storage shelves and hustles across...
+speaker_heading: OVERHEAD
+text: The cat moves high above the metal shelves. Below, flustered rats HISS at the cat. The cement floor appears as if covered with a moving fur carpet.
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: Ben, most people would turn you away...
+speaker_heading: THE CAT
+text: Crouches, tenses, preparing to leap toward the hole...
+speaker_heading: THE HOLE
+text: Just beyond the lip of the hole, in the darkness, Ben's demonic eyes wait...
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: I don't listen to a word they say..
+speaker_heading: THE CAT
+dialog: Leaps to the hole...
+speaker_heading: THE HOLE
+text: Ben charges into CAMERA, incisors snapping.
+speaker_heading: THE CAT
+text: Is knocked back. It desperately scratches at the wall, yet manages only to grasp the lip of the hole with one paw.
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: They don't see you as I do...
+speaker_heading: OVERHEAD
+text: The cat dangles, twists trying to claw up the wall. Below, rats gather and wait.
+speaker_heading: BEN
+text: With a hellish intensity, attacks the cat's paw.
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: I wish they would try to...
+speaker_heading: THE CAT
+text: Eyes wide and horrified. It drops OUT OF FRAME.
+speaker_heading: THE FLOOR
+text: With surprising speed, the rats swarm the cat. It disappears beneath the sea of black and brown greasy fur.
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: I'm sure they'd think again/If they had a friend like Ben...
+speaker_heading: CLOSE - CAT'S EYE
+text: Wide, frightened and struggling beneath a blur of claws and gnawing teeth...
+speaker_heading: CHORUS (V.O.)
+dialog: A friend!
+speaker_heading: THE HOLE - OVERHEAD
+text: Ben looks out of the hole and down at the army of rats below. The cat can no longer be seen.
+speaker_heading: MICHAEL JACKSON (V.O.)
+dialog: Like Ben...
+text: CAMERA CRANES DOWN, adjusting to Ben holding in the hole, wickedly amused by the success of the attack. As the CAMERA INCHES IN, TEARING and RIPPING! The final desperate screams of the cat macabrely intermingle with the end of the song:
+speaker_heading: CHORUS (V.O.)
+dialog: Like Ben!...
+speaker_heading: FADE OUT.
+dialog: Father's Things
+scene_heading: INT. HALLWAY - OUTSIDE MR. STILES' OFFICE - NIGHT
+text: An antique crystal doorknob reflects faint light beneath several layers of dust. Willard's hand reaches in and turns the handle. The KNOB CLACKS. The door opens, revealing a dark room beyond the hallway.
+scene_heading: INT. MR. STILES' OFFICE - CONTINUOUS
+text: Willard is silhouetted including Socrates on his shoulder, before a yellow Dormer window. The streetlights create an eerie amber cast across the haunted room
+text: Several mounted birds and animals are displayed throughout the conservative home office. Family photos and framed certificates hang in the converted attic.
+speaker_heading: FRAMED PHOTOGRAPH
+text: A young Mr. Martin stands proudly besides his boss, Mr. Stiles whose hands are proudly placed on his son Willard's eight-year old shoulders.
+speaker_heading: WILLARD
+text: Averts his eyes from the image and moves to the desk. He opens the top drawer and holds, disturbed...
+speaker_heading: WILLARD'S POV - FATHER'S DESK
+text: A dusty envelope, marked "BROOKLYN MEDICAL EXAMINER - STILES 6/6/95" sits in the drawer.
+speaker_heading: WILLARD
+text: Tears open the sealed envelope holding his father's personal affects. A ring, wallet. Holding a leather billfold with reverence, his eyes well with tears looking at the driver's license, a photo of Mrs. Stiles and a photo of Willard.
+text: Hesitating, he removes a Swiss Army knife from the package and opens the blade. Along the edge is a line of brown stained blood. Willard untucks his shirt and rubs the blade. The blood is gone.
+text: CAMERA INCHES INTO WILLARD. Holding the knife and considering the blade. His father's act. Willard places the knife tip against his wrist... Until Socrates races from Willard's shoulder and rushes down his arm.
+speaker_heading: WILLARD'S HANDS
+text: The right hand holds the knife tip against the left wrist. Socrates ENTERS FRAME and nips Willard's fingers.
+speaker_heading: WILLARD
+text: He reconsiders. Tears well in his eyes.
+speaker_heading: WILLARD'S HANDS
+text: Drop the knife. Socrates looks at him, as if relieved.
+speaker_heading: WILLARD
+text: Raises Socrates to his cheek, closes his eyes and feels the returned affection. O.S., a rustle. Willard opens his eyes. Tense, they scan the room.
+speaker_heading: BOOKSHELF
+text: Holding a bric-a-brac and mementos...and BEN'S TAIL. The CAMERA MOVES ALONG BEN'S BODY, his head blocked behind a framed photograph of Willard's father, as if Mr. Stiles' face is eerily part of Ben's body.
+speaker_heading: WILLARD
+text: The image and Ben's presence disturbs him. He turns and begins moving out of the dark office.
+text: About to exit, Willard pauses. Looking to an umbrella stand holding several antique umbrellas and swagger sticks. As he reaches out, raises one of the wooden swagger sticks for examination, then subtly looks back at Ben.
+dialog: Ben Won't Learn
+scene_heading: INT. WILLARD'S BEDROOM - LATER
+text: The sheets are pulled back. Willard climbs in with the swagger stick. The bedroom door's closed. While Socrates settles beside him, Willard checks the floor before proceeding to hide the stick beneath the pillows beside him.
+text: Once secured, he CLICKS off the light. The room turns dark, CAMERA CREEPS IN ON WILLARD. Listening... In the B.G., the door opens, intruder unseen.
+text: Willard's eyes check the door. He remains still. Listening. Then, faintly, against the hardwood floor, CLICK CLICK CLICK of nails and the sliding of an approaching tail.
+text: Willard stealthily reaches beneath the pillows and grabs the swagger stick's silver tip.
+text: The sheets tug toward the foot of the bed.
+speaker_heading: FOOT OF THE BED
+text: Against the windows, allowing faint street light inside... Ben's large silhouette appears over the foot of the bed.
+speaker_heading: SOCRATES
+text: Turns toward the foot of the bed and squeals, as if signalling to warn Ben.
+speaker_heading: BEN
+dialog: Backs up, tenses.
+speaker_heading: WILLARD
+text: Strikes. He whips the stick toward the foot of the bed.
+speaker_heading: BEN
+text: WHACK! Forewarned, Ben is too fast and jumps off the bed as the wooden stick WHISKS with a startling THUMP upon the bed.
+speaker_heading: WILLARD
+text: Hustles out of bed and chases Ben, retreating into the closet. Willard opens the door and turns on the closet light.
+speaker_heading: WILLARD'S POV - CLOSET
+text: A hole has been gnawed in the baseboard.
+speaker_heading: WILLARD
+dialog: Subtle, yet increasing dementia, he looks to...
+speaker_heading: SOCRATES
+text: Looking to Willard, as if disappointed.
+speaker_heading: WILLARD
+text: Averts his eyes, guilty.
+speaker_heading: WILLARD
+dialog: I wasn't going to hurt him. I know you're trying to keep peace, but he has to learn that I'm the boss.
+scene_heading: INT. CLOSET - CONTINUOUS
+text: Pennies and nickels are stuffed into an old sock.
+speaker_heading: WIDER
+text: In his pj's, Willard sits in the closet grabbing loose change from a shoebox and stuffs it into the sock. Socrates sits on a shelf just over Willard's shoulder.
+speaker_heading: HOLE IN THE BASEBOARD
+text: Willard balls the coin-filled sock and jams it into the hole.
+speaker_heading: JUMP CUT TO:
+speaker_heading: AN OLD PAINT CAN
+text: Heavy and rusted garden shears cut into an old paint can .
+speaker_heading: WILLARD
+text: Perspiring, obsessive, and straining to cut the can.
+speaker_heading: JUMP CUT TO:
+speaker_heading: HOLE IN THE BASEBOARD
+text: BANG! BANG! BANG! A hammer flattens the curved metal. Willard places it over the sock stuffed hole and begins hammering nails into the old paint can.
+speaker_heading: JUMP CUT TO:
+speaker_heading: WILLARD
+text: Rips a foot long piece of gray duct tape from a roll.
+speaker_heading: HOLE IN BASEBOARD
+text: The strip is laid over several layers of duct tape which has been placed over the flattened paint can, covering the coin stuffed sock placed in the hole.
+speaker_heading: WILLARD
+text: Leans back against the closet wall, exhausted and perspiring, yet satisfied that Ben's passageway is securely sealed. He picks up Socrates and scratches his head.
+scene_heading: INT. WILLARD'S BEDROOM - MORNING
+text: Willard's crashed, face down, as if having collapsed from emotional and physical exhaustion. The door is closed. The closet is closed. Socrates lies tucked beside him.
+speaker_heading: BEN
+text: Sits at the foot of the bed, watching Willard.
+speaker_heading: CLOSE - WILLARD
+text: Stirs, awakens, lazily opens one eye. He sees:
+speaker_heading: BEN
+dialog: Motionless, yet taunting.
+speaker_heading: WILLARD
+text: Waits a beat, then, slowly and carefully extends his arm and reaches beneath the pillow. Willard reacts, puzzled. He digs deeper beneath the pillows, but apparently can't find the swagger stick. His eyes move toward the right side of the bed. Willard reacts, afraid...
+speaker_heading: WIDER
+text: Just above the bed is the swagger stick. Chewed to slivers. Recognizable only by the metal tips. Willard looks to:
+speaker_heading: BEN
+text: Stoic and yet an air of satisfied retaliation.
+speaker_heading: WILLARD
+text: Climbs out of bed. Unable to keep the peace, Socrates squeaks, head moving back and forth from Willard to Ben. Willard moves to the closet and looks inside.
+scene_heading: INT. CLOSET - CONTINUOUS
+text: The tape and metal securing the hole is untouched.
+speaker_heading: WILLARD
+text: A cold shiver shoots through him. He looks back toward Ben, who's GONE.
+speaker_heading: WILLARD
+dialog: Considers his next move...
+dialog: Position Terminated
+scene_heading: INT. FOYER - MORNING ACCORDION BRIEFCASE
+dialog: It's open.
+speaker_heading: WILLARD (O.S.)
+dialog: Socrates? Work!
+text: Willard, holding Socrates, ENTERS FRAME and places Socrates into the bag. Willard startles and jumps back...
+text: CAMERA ARCS UP AND OVER THE BAG TO REVEAL
+speaker_heading: BEN
+dialog: Inside the briefcase.
+speaker_heading: WILLARD
+text: Eyes red, skin pale and tense. Eyes the bag. He trembles slightly. Angry. He's about to grab and pull Ben out of the bag until...
+speaker_heading: SOCRATES
+dialog: Squeaks and moves to Ben.
+speaker_heading: WILLARD
+dialog: Holds and tenses.
+speaker_heading: WILLARD
+dialog: Only 'cause Socrates said it's okay.
+text: As Willard angrily closes the briefcase...
+scene_heading: INT. STOREROOM - OFFICE - DAY
+text: The storeroom is dark. O.S., keys jingle. The door opens and Willard's silhouetted form enters. He turns on a back light and moves to the shelves. CAMERA MOVES towards the shelves as Willard sets down the briefcase and opens it. He carefully removes Socrates from the bag and sets him on a shelf. Willard's expression hardens as he turns back to the briefcase.
+speaker_heading: WILLARD
+dialog: Ben. Out.
+text: After a beat, Ben climbs out of the bag. Willard whispers.
+speaker_heading: WILLARD
+dialog: Quiet. Stay...
+text: Willard scratches behind Socrates' ear while Ben has a curious look around.
+scene_heading: INT. OFFICE BULLPEN - LATER
+text: A "Martin-Stiles Manufacturing" business envelope; no stamp; no postmark waits in the center of the desk blotter. Willard's hand enters frame and opens the envelope. A sheet of paper is removed. The body of the letter is terse; three sentences long. A paycheck is enclosed.
+speaker_heading: OFFICE
+text: Willard is intensely confused, as if the contents are inconceivable. Let alone incomprehensible. He looks to Cathryn, desk buttressed against his. She reacts to his bewilderment. Unable to speak and certain there is some mistake, he hands the letter to
+text: her. She reads it and although immediately angered, remains composed...
+speaker_heading: WILLARD
+dialog: Am I reading this right?
+text: Willard absently sits, pale and chocked. His eyes lock on Mr. Martin's office across the room. She rereads the notice.
+speaker_heading: CATHRYN
+dialog: Mr. Stiles, it is our regret to inform you your position has been terminated. Enclosed please find two weeks severance.
+dialog: (beat)
+dialog: Your service is appreciated. Frank Martin.
+text: Cathryn sighs and looks to Willard.
+speaker_heading: CATHRYN
+dialog: He's firing you.
+text: CAMERA PUSHES INTO WILLARD unable to comprehend the villainy. His outrage builds as he fidgets in his seat. Gone deep within himself, he appears no longer aware of Cathryn.
+speaker_heading: CATHRYN
+dialog: I thought he could never...
+text: Willard stands and marches from his desk.
+speaker_heading: OFFICE
+text: Willard storms across the room. Cathryn moves after him, wishing to restrain and regain his composure. His fellow employees watch, eyeing one another. Ms. Leach looks up as he nears the closed office door.
+speaker_heading: MS. LEACH
+dialog: He's on a conference call!
+text: Ignoring her, he whisks the door open!
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+text: Mr. Martin is on the phone, feet up on the desk. He forcers a boisterous laugh at whatever is said on the other end of the phone. Through the laugh, his cold eyes look to Willard.
+speaker_heading: WILLARD
+text: Enters and closes the door behind him. Without looking at Martin, Willard moves to a chair across from the boss' desk and sits. Defiant. Yet remaining afraid of Martin and unable to look him in the eye.
+speaker_heading: MARTIN
+text: Regarding Willard's anger as just a minor hassle in the workday, he remains on the phone.
+scene_heading: INT. OFFICE BULLPEN - CONTINUOUS
+text: The employees tense; try to eavesdrop on Martin's office. Protective of Mr. Martin, Ms. Leach stands, moves out before the bullpen area, and shoots everyone a disapproving look.
+speaker_heading: MS. LEACH
+dialog: Feels like this office could use a little holiday cheer.
+dialog: (beat)
+dialog: Cathryn, go dig out the Christmas decorations.
+dialog: (beat)
+text: They're in the back storeroom. The key's in Willard's desk somewhere.
+text: Cathryn sighs and moves to the desk.
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+text: Martin remains on the phone while Willard grows increasingly anxious.
+speaker_heading: MR. MARTIN
+dialog: Come up for the Jets-Dolphins game. No, I'll get Alcoa's luxury box...Think I'm gonna let you sit out in the fuckin' snow?? Martin forces another obnoxious laugh.
+scene_heading: INT. OFFICE BULLPEN - CONTINUOUS
+dialog: Opens!
+speaker_heading: CATHRYN
+text: Fumbles and finds the key ring. Sorting through the keys, CAMERA PUSHES IN ON HER. She pauses, considering, increasingly angry. She looks up at...
+scene_heading: INT. MR. MARTIN'S OFFICE - CATHRYN'S POV - CONTINUOUS
+text: The door is closed. Willard is inside being fired.
+scene_heading: INT. OFFICE - CONTINUOUS
+text: Cathryn sighs and shakes her head.
+speaker_heading: CATHRYN
+dialog: Ms. Leach?
+dialog: (Ms. Leach turns)
+dialog: Found the keys.
+dialog: (defiant)
+dialog: But, you can go "dig out" your own holiday cheer and then shove it up your ass with a "Ho! Ho! Ho!"
+text: Suddenly, with a crisp underhand pitch, Cathryn hurls the keys across the room. Startled, Ms. Leach rears back. The keys THUD against the wall.
+speaker_heading: CATHRYN
+dialog: I quit.
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+text: Unable to release his anger, Willard grows anxious sitting across from Martin. He begins picking his fingers.
+speaker_heading: WILLARD & MR. MARTIN
+text: Martin finds up an office desk toy and fiddles with it while remaining on the phone.
+speaker_heading: MR. MARTIN
+dialog: Jets-'Phins; always a close game. Check with Cindy and get back to me. No, I'll be workin' here late tonight... Christmas bonus time, y'know.
+text: His eyes turn to Willard with mean irony.
+scene_heading: INT. STOREROOM - CONTINUOUS
+text: The hallway outside the storage room is quiet until...
+text: O.S., the RING OF KEYS JINGLE.
+text: Ms. Leach appears around the corner, combing the ring for the key to the storeroom.
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+text: Willard's frustration is unbearable. Martin remains on the phone.
+speaker_heading: MR. MARTIN
+dialog: Good deal. Nice talkin' to you guys. Right. Bye bye.
+dialog: (hanging up; to Willard)
+dialog: You're fired. What part of that don't you get?
+speaker_heading: WILLARD
+dialog: How could you? My father...
+speaker_heading: MR. MARTIN
+dialog: Is dead. Been dead. Now, so's your mother. Movin' on...
+speaker_heading: WILLARD
+dialog: He started this company. It's my family's company.
+speaker_heading: MR. MARTIN
+dialog: No! It's mine. Been mine. And I don't want you around it anymore.
+scene_heading: INT. STOREROOM - CONTINUOUS
+text: Ms. Leach tries a key. Doesn't work. She tries another...
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+text: Willard tenses, about to respond, however is cut off by Mr. Martin who throws out his hands in exasperation.
+speaker_heading: MR. MARTIN
+dialog: God, fuck, Willard! Why the fuck would you want to stay here?! You hate it here. I hate having you here. You're never going anywhere here. You're parents are fuckin' dead. Move on!
+speaker_heading: WILLARD
+dialog: The terms of your purchase contract clearly state...
+speaker_heading: MR. MARTIN
+dialog: Sue me.
+dialog: Confused and emotional, Willard looks to Martin.
+speaker_heading: MR. MARTIN
+dialog: Go 'head. Fuckin' sue me. You'll win. So go ahead. Hire a 250 dollar an hour lawyer and fuckin' sue me!
+dialog: (beat)
+dialog: My 400 dollar a day lawyer will drag it out 'til I'm dead. So, five, seven, maybe ten years from now, you'll win.
+text: Willard's eyes begin welling with tears.
+speaker_heading: WILLARD
+dialog: You know I can't afford that.
+speaker_heading: MR. MARTIN
+dialog: (sarcastic)
+dialog: No!
+scene_heading: INT. STOREROOM - CONTINUOUS
+text: Ms. Leach sighs. Shakes her head, tries another key. Then another. Finally, the door opens.
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+text: Willard stares hard at Martin whose return look reflects a man who knows he holds all the cards.
+speaker_heading: MR. MARTIN
+dialog: Wanna sue me? Need money? Make me an offer on your house.
+dialog: Willard eyes him, hard.
+speaker_heading: MR. MARTIN
+dialog: Don't give me "the face". I guy that house 'nd you can go out, get a car, move away from here. New job, get a girl. You'll be so fuckin' happy you won't wanna sue me. You'll wanna blow me.
+text: CAMERA PUSHES IN ON WILLARD, eyeing Mr. Martin with pure hatred before standing and moving toward the office door.
+scene_heading: INT. STOREROOM - CONTINUOUS
+text: A box of loose tinsel is moved aside as Ms. Leach gathers the cheap and dusty Christmas decorations. Stacked on a storage shelf are a couple of artificial wreaths. In a single move, she pulls them from the shelf and turns to pile them atop the box of
+dialog: tinsel.
+text: Ms. Leach is unaware that displacing the wreaths has exposed Socrates. The white rat hustles for cover behind a tangled mass of Christmas tree lights.
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+text: As Willard reaches for the doorknob, Mr. Martin watches him, irked at Willard's refusal to sell him the prime real estate.
+speaker_heading: WILLARD
+text: Sighs, slumps with defeat. Then without looking back...
+speaker_heading: WILLARD
+dialog: I'll sell you the house...if I get to keep my job.
+speaker_heading: MR. MARTIN
+dialog: Can't believe Willard would make such a desperate and stupid offer and yet, Martin really doesn't want him around.
+scene_heading: INT. STOREROOM - CONTINUOUS
+text: Mrs. Leach squats to lift the box of tinsel and other decorations. Once lifted, she moves toward the door. Until...a faint CLICK CLACK within the glass bulbs of the Christmas lights call her attention. Seeing the lights, she appears to weigh her load, then opts to reach up and snag them. As CAMERA PUSHES IN ON HER HAND.
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+text: Mr. Martin sighs, rubs his chin and studies Willard.
+speaker_heading: WILLARD
+dialog: Turns back to Mr. Martin, as if, "well?"
+speaker_heading: MR. MARTIN
+text: Taps his desk, sighs and looks to Willard. Martin absently nods his head, about to agree to the terms. Before he can verbally respond, however...
+text: A SCREAM! Martin looks past Willard to follow the shriek.
+speaker_heading: MS. LEACH (O.S.)
+dialog: A RAT! A FUCKING RAT!
+text: CAMERA RACES INTO WILLARD, internally panicking; frozen with fear.
+speaker_heading: MR. MARTIN
+text: Quickly gets up from his desk and hustles across the office.
+speaker_heading: WILLARD
+text: Paralyzed, Martin brushes past him.
+dialog: Nasty, White, Dead Rat
+scene_heading: INT. OFFICE BULLPEN - CONTINUOUS
+text: The employees are on their feet looking toward the storeroom hallway. Mr. Martin rushes out of his office and toward the hallway. The employees follows. Followed by Willard.
+scene_heading: INT. HALLWAY - CONTINUOUS
+text: Rattled, Ms. Leach is relieved as Martin charges around the corner.
+speaker_heading: MS. LEACH
+dialog: Frank, there's a white fuckin' rat the size of a dog in there!
+text: Martin coolly moves into the storeroom as the other employees appear around the corner.
+speaker_heading: MS. LEACH
+text: On the left. Second shelf.
+text: Willard arrives, assessing the situation.
+scene_heading: INT. STOREROOM - CONTINUOUS
+text: Martin moves to the shelf upon which the lights sat. There is a gap, however, no rat. Just as he eases, he sees --
+speaker_heading: UPPER SHELF - SOCRATES
+text: His white fur moves. Martin looks for a weapon. The nearest object is a wooden stick. The mid-section of the artificial Christmas tree. He pulls it from the box...
+speaker_heading: MR. MARTIN
+dialog: Get me a chair.
+scene_heading: INT. HALLWAY - CONTINUOUS
+text: Ms. Mantis moves toward a stack of chairs and pulls one.
+speaker_heading: MR. MARTIN
+dialog: I see it!
+text: CAMERA SWEEPS INTO WILLARD, sickened. He forces his way to the storeroom doorway. As Ms. Mantis hands the chair to Mr. Foxx who hustles the chair inside...
+scene_heading: INT. STOREROOM - CONTINUOUS
+text: Martin takes the chair from Foxx, quickly positions it, and stands. CAMERA RISES WITH HIM...revealing a hiding, but trapped between the boxes, Socrates.
+text: With full force, Martin drives the stick at Socrates.
+speaker_heading: WILLARD
+text: Flinches upon impact. Even the other employees wince.
+speaker_heading: MR. MARTIN
+dialog: Stabs the stick INTO CAMERA.
+speaker_heading: SOCRATES
+text: SCREAMS! The stick pulls away revealing red blood...
+speaker_heading: WILLARD
+dialog: Trembles, turns pale.
+speaker_heading: MR. MARTIN
+text: With a glint of blood lust, smiling. Spikes the stick INTO CAMERA.
+speaker_heading: SOCRATES
+text: Seriously injured and covered with blood. The rat searches for an escape. The stick drives INTO FRAME.
+speaker_heading: WILLARD
+text: Clutches the door-frame. His hazed eyes freeze beyond Martin and Socrates.
+speaker_heading: WILLARD'S POV - BEN
+text: On the highest shelf, safely covered in the dark. His
+text: opalescent eyes glare angrily at Willard.
+speaker_heading: WILLARD
+text: Opens his mouth, as if to answer to Ben...until O.S., a piercing SCREAM. The other employees turn away, the excitement turning to overkill.
+speaker_heading: MR. MARTIN
+dialog: Getting the final bead.
+speaker_heading: MR. MARTIN
+dialog: Walt, it's Mickey, I'm comin' to join ya!
+text: Laughing, Mr. Martin goes for the kill.
+speaker_heading: SOCRATES
+text: WHACK! The stick drives INTO FRAME and finally crushes Socrates' skull. His white fur now completely red, the rat's body falls limp upon the metal shelf; lifeless.
+speaker_heading: WILLARD
+text: Cannot hold back the tears. In the excitement of the moment and the focus is on Mr. Martin, the others are oblivious to Willard's emotions.
+text: The employees APPLAUD and CHEER as Martin exits the room. He hands the stick to Ms. Leach.
+speaker_heading: MR. MARTIN
+dialog: Barbara, finders keepers!
+dialog: (to Willard)
+dialog: What's the matter, tiger? 'Fraid of a little blood?
+text: Martin laughs, adrenaline pumping as he continues down the hall toward his office. The other employees follow him with the exception of Ms. Leach.
+speaker_heading: MS. LEACH
+dialog: He expects me to clean that up?!
+speaker_heading: WILLARD
+dialog: (softly)
+dialog: I'll do it.
+text: Relieved and anxious to get out of there, Ms. Leach gratefully pats Willard on the shoulder, then heads down the hall, leaving Willard alone. Gathering all his strength, Willard enters the storeroom and moves directly to Ben.
+speaker_heading: BEN - LOW ANGLE
+text: High above, motionless, yet angry, looks down upon Willard.
+speaker_heading: WILLARD
+text: Shattered and trembling, looks up begging himself for forgiveness, but directed at Ben.
+speaker_heading: WILLARD
+dialog: He'd have killed you. I would never let anyone hurt you, Ben. I couldn't lose you, too. I could never lose you, Ben.
+speaker_heading: LOW ANGLE - BEN
+dialog: Unforgiving...
+speaker_heading: WILLARD
+text: Guilty, unable to receive penance from Ben, moves toward Socrates' body and begins crying. His tone, increasingly insane, suggests the triggering stress of Socrates' death.
+speaker_heading: WILLARD
+dialog: WhatcouldIdowwhatcouldIdo...
+text: Behind the tears, his eyes appear psychotic.
+speaker_heading: WILLARD
+dialog: What can I do?
+speaker_heading: BEN
+text: Staring at Willard, release an eerie guttural growl.
+speaker_heading: OVER WILLARD'S SHOULDER
+text: CAMERA PUSHES UP INTO HIM as he turns, looking back over his shoulder and up to Ben.
+speaker_heading: WILLARD
+dialog: What can...we do?
+speaker_heading: BEN
+text: CAMERA MATCHES THE MOVE INTO BEN, staring down...as if committing to the pact.
+scene_heading: EXT. CARGO/DELIVERY AREA - FACTORY - AFTERNOON
+text: The factory cargo delivery area appears busy. From the depths of the foundry, Willard appears carrying his accordion briefcase and wearing a winter coat and leather gloves. A familiar face, he draws no attention.
+text: Without hesitation, he moves to a "Martin-Stiles Manufacturing" delivery van. The size of a UPS TRUCK, Willard climbs in and drives off.
+speaker_heading: INT. BATHROOM - LATER
+text: Socrates' body is held under a faucet; dried blood washes away into a sink.
+speaker_heading: WILLARD - LOW ANGLE
+text: Amped, crazed, yet with unnerving control, cleans the body.
+scene_heading: INT. PARLOR MANTLE - LATER
+text: The urn holding the ashes of Willard's father rests on the mantle. Willard's hand ENTERS FRAME and lifts the lid.
+speaker_heading: HIGH ANGLE
+text: Willard places Socrates' body into the urn. He closes the lid and steps back into the macabre shadows...
+dialog: An Army of Thousands
+scene_heading: INT. WILLARD'S HOUSE - BASEMENT - NIGHT
+text: A large pullman case opens INTO FRAME. Willard, eerily under lit by a flashlight, points to the bag.
+speaker_heading: WILLARD
+dialog: IN!
+text: Rats begin piling into the bag...
+scene_heading: EXT. WILLARD'S HOUSE - MOMENTS LATER
+text: The pullman bag bulges as Willard strains, carrying the suitcase. He opens the rear doors and enters.
+speaker_heading: INT. KITCHEN - LATER
+text: Rats swarming at his feet in the f.g., Willard opens the empty pullman bag.
+speaker_heading: WILLARD
+dialog: Last batch. Can't take anymore. The rest of you wait here.
+text: CAMERA PUSHES INTO WILLARD, lying as he looks toward Ben.
+speaker_heading: WILLARD
+dialog: Me and Ben will be back in a little while. Right, Ben?
+speaker_heading: BEN
+text: Sits atop the table like a commanding general.
+speaker_heading: WILLARD
+text: Sets the case on the floor.
+speaker_heading: WILLARD
+dialog: IN!
+dialog: As the rats follow orders...
+scene_heading: INT. DELIVERY VAN - MOMENTS LATER
+text: Willard enters with the pullman case. The doors close. Willard opens the cases and the rats file out. He is knee deep in rodents.
+scene_heading: INT. OFFICE BULLPEN - NIGHT
+text: The outer office is dark; quiet. Martin can be seen working through his open door. Tie loose, sleeves rolled up, he enters some figures into his computer.
+scene_heading: EXT. PARKING LOT - CONTINUOUS
+text: Martin's covered Mercedes is alone in the vacant, quiet parking lot. Headlights appear, panning across the parking lot. The delivery van ENTERS FRAME in the b.g. It proceeds toward the rear of the factory.
+scene_heading: EXT. CARGO/DELIVERY AREA - CONTINUOUS
+text: Headlights shine on the are; intensifying as the truck nears. The engine is cut. The van rolls QUIETLY INTO FRAME.
+speaker_heading: REAR DOORS OF THE VAN
+text: Willard ENTERS FRAME and pulls up the latch. CAMERA PULLS BACK as he grabs the doors and flings them open...
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+text: Martin draws his hands to his tired eyes. He takes a sip of GLENLIVET in a paper cup; the opened bottle, nearby. Seemingly bored, he turns to the computer and taps the keys.
+speaker_heading: MARTIN'S COMPUTER MONITOR
+dialog: The eye and brow logo of the Voyuerweb Homepage loads...
+speaker_heading: MR. MARTIN
+text: CAMERA CREEPS IN as he begins surfing...
+scene_heading: INT. FACTORY - CONTINUOUS
+text: The cargo door LOCK CLACKS. The door rises. A thirty-second alarm warning begins beeping. Willard walks under the door and coolly to the alarm panel. While disarming the alarm...
+speaker_heading: OVERHEAD - CARGO DOOR
+text: A wave of rats flood beneath the door.
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+dialog: Martin CLICKS on the mouse.
+speaker_heading: COMPUTER MONITOR
+dialog: A submission entitled "MY HOT WIFE!" The story: "We just bought a digital camera. My wife doesn't think she has a sexy body. What do you think? PDPMEMA."
+speaker_heading: MR. MARTIN
+dialog: Appears interested. He CLICKS...
+speaker_heading: COMPUTER MONITOR
+text: A 300 pound pink woman with red eyes from a flash, bares all in a disheveled living room.
+speaker_heading: MR. MARTIN
+text: Winches. He blindly reaches for the mouse and clicks.
+scene_heading: INT. ELEVATOR SHAFT - CONTINUOUS
+text: The elevator shaft is encased by thick wire mesh. With an ECHOING CLANG, the car rises into the darkness; creating shadows while the counterweight drops TOWARD CAMERA.
+scene_heading: INT. HALLWAY - CONTINUOUS
+text: The wire mesh door is opened and fastened to the elevator frame.
+text: CAMERA BEGINS MOVING toward the elevator as the light within the car casts an approaching, twisting, panning glow. CAMERA CONTINUES as the elevator car arrives and comes to rest with a CLANG. As CAMERA CONTINUES the FRAME RATE RAMPS, "SLOWS" to 96fps as the doors begin to open.
+speaker_heading: RATS
+text: Pour out of the elevator like a surreal nightmare. Tumbling over one another, seemingly thousands spill like a waterfall from the elevator and into the hallway.
+text: CAMERA CONTINUES MOVING. Like a draining pool, the level of rats drop to reveal Willard standing in the center of the elevator, having just been engulfed by rats. His expression is hard and mean and powerful.
+text: As he steps out of the elevator.
+dialog: We've Come to See You
+scene_heading: INT. MR. MARTIN'S OFFICE - CONTINUOUS
+text: Martin's hand ENTERS FRAME and clicks the mouse.
+dialog: Title: "My 22-year old Girlfriend."
+speaker_heading: MR. MARTIN
+text: React, pleased. Behind him...against the wall is a leather office couch. Ben's silhouette silently appears, having climbed up the back. The lone rat holds atop the couch.
+speaker_heading: COMPUTER MOUSE
+dialog: Martin's hand ENTERS FRAME, moves it...
+speaker_heading: COMPUTER MONITOR
+text: The cursor arrow is directed to a submission titled "If She Only Knew!" O.S., a double CLICK.
+speaker_heading: MR. MARTIN
+text: Behind him, a second rat appears from behind the couch and joins Ben. Martin remains oblivious.
+text: As a THIRD RAT appears over the top of the couch...
+speaker_heading: COMPUTER MOUSE
+text: His hand ENTERS FRAME, moves the mouse and CLICKS.
+speaker_heading: COMPUTER MONITOR
+dialog: An hour glass forms over a submission entitled: "Hidden Locker Room Cam!"
+speaker_heading: MR. MARTIN
+text: Smiles, adjusts in his chair with perverse anticipation. Behind him, two dozen rats now sit atop the couch.
+speaker_heading: COMPUTER MONITOR
+text: Images of a nude woman changing her gym clothes before a locker begins loading on the screen.
+speaker_heading: CLOSE UP - MR. MARTIN
+text: Smiles. He reaches O.S., and brings the paper cup of Glenlevit to his mouth. He sips, then sets the cup down. As he reaches for the mouse...
+speaker_heading: A RAT
+text: Is on his desk. Martin's hand sets upon it. The rat HISSES!
+speaker_heading: MR. MARTIN
+dialog: Leaps back!
+speaker_heading: MR. MARTIN
+dialog: Jesus fuckin' Christ
+text: Hand to his chest, he breathes hard; eyes locked on...
+speaker_heading: MR. MARTIN'S POV - THE RAT
+text: Scuttles across the desk and down to the floor. CAMERA FOLLOWS the rat as it moves toward the far couch to reveal the entire edge of the couch is lined with rats.
+speaker_heading: MR. MARTIN
+text: Shocked; confused. He pauses, holding his breath to listen, and hears a COLLECTIVE SCRATCHING AND SCUTTLING. He reaches out to his desk lamp and pans the light across the room.
+speaker_heading: MR. MARTIN'S POV - OFFICE
+text: The floor moves in rolling waves; entirely covered by rats.
+speaker_heading: MR. MARTIN
+text: Breathes scared; quick and deep.
+speaker_heading: MR. MARTIN
+dialog: Jesus...look at the rats!
+speaker_heading: WILLARD (O.S.)
+dialog: Yes...
+dialog: Martin startles, looks up.
+speaker_heading: WILLARD
+text: Stands silhouetted in the door-frame, dressed in a long coat and wearing leather gloves, holding the blood stained Christmas tree dowel which Martin used to kill Socrates.
+speaker_heading: WILLARD
+dialog: Look at the rats.
+speaker_heading: WIDER
+text: Willard enters. Martin is frozen behind his desk. Willard moves to the chair in which he had often been humiliated.
+speaker_heading: WILLARD
+dialog: We've come to see you.
+speaker_heading: MR. MARTIN
+dialog: We?
+speaker_heading: WILLARD
+dialog: They'll do anything I tell them.
+text: Martin fires a commanding finger at Willard.
+speaker_heading: MR. MARTIN
+dialog: Then get 'em the fuck outta here!
+speaker_heading: WILLARD
+speaker_heading: Sit DOWN!
+dialog: Willard SNAPS his fingers as if ordering a rat...
+speaker_heading: WILLARD
+dialog: SIT...DOWN!
+dialog: Martin holds, eyes the room.
+speaker_heading: MR. MARTIN'S POV
+text: Rats continue marching inside from the outer office. Martin slowly sinks into his chair.
+speaker_heading: WILLARD
+dialog: Mr. Martin...you stole this business from my father. It killed him and my mother. And now...you're trying to kill me!
+speaker_heading: MR. MARTIN
+dialog: Willard, Jesus, that's fuckin' nuts!
+speaker_heading: WILLARD
+dialog: YOU...NEVER LET ME ALONE FOR A MINUTE! YOU MADE A FOOL OUT OF ME IN FRONT OF EVERYBODY! AND NOW, YOU'RE TRYING TO TAKE MY HOUSE.
+speaker_heading: MR. MARTIN
+dialog: No. No!
+speaker_heading: WILLARD
+dialog: You...made me hate myself.
+dialog: (pause)
+dialog: I thought a lot about it. Hating myself.
+text: CAMERA PUSHES IN ON WILLARD, under-lit by the desk lamp.
+speaker_heading: WILLARD
+dialog: Well, right now...at this minute. I like myself.
+dialog: Willard raises the stick martin used to kill Socrates.
+speaker_heading: WILLARD
+dialog: You...killed Socrates.
+speaker_heading: MR. MARTIN
+dialog: I killed who?
+speaker_heading: WILLARD
+dialog: How do you think Socrates felt...when you stuck him?!
+text: Willard jabs the stick at Martin. The boss flinches.
+speaker_heading: WILLARD
+dialog: Answer me!!
+text: Willard jabs again. Mr. Martin attempts to gauge a grab at the stick.
+speaker_heading: MR. MARTIN
+dialog: Who the fuck is Socrates!?
+speaker_heading: WILLARD
+dialog: He was the only friend I ever had!
+text: Willard jabs at Martin who reaches out and grabs the stick. He yanks it from Willard's hands and jabs back!
+text: The pole THUNKS Willard in the chest, knocking him back. Martin quickly re-adjusts his grip and swings the stick like a baseball bat. It cracks against Willard's head.
+speaker_heading: WILLARD
+text: Is knocked to the ground, bleeding and dazed, but conscious.
+speaker_heading: MR. MARTIN
+dialog: Charges out of his office.
+scene_heading: INT. BULLPEN - CONTINUOUS
+dialog: Martin races for the door.
+scene_heading: INT. HALLWAY - CONTINUOUS
+text: Martin runs down the hallway toward the elevator. As he pulls back the wire enclosure to enter...
+text: Ben drops INTO FRAME, pouncing onto Mr. Martin's shoulder.
+speaker_heading: CLOSE - BEN
+text: His knife-like incisors pierce Martin's neck.
+speaker_heading: MR. MARTIN'S EYES
+text: Go wide. Blood squirts into them.
+speaker_heading: MARTIN
+text: Screams. He drops the dowel in order to grab Ben. Martin struggles to pull him off. Martin stumbles and falls into the elevator on his back.
+speaker_heading: BEN
+dialog: Tears at Martin's neck.
+speaker_heading: MARTIN
+dialog: Screams more.
+speaker_heading: WILLARD
+text: Slams the elevator enclosure door closed. With a flick of his hand, Willard latches the wire door closed, trapping Mr. Martin like a rat in a cage.
+speaker_heading: THE HALLWAY
+text: The rats are filing out of the office and into the hallway.
+speaker_heading: WILLARD
+text: Holding the dropped dowel, looking down on Martin...
+speaker_heading: WILLARD
+dialog: What's the matter, tiger? 'Fraid of a little blood?
+text: Willard rears back and drives the stick through the enclosure opening. Hitting Martin in the same manner he struck Socrates.
+speaker_heading: BEN
+dialog: Tears into Martin's jugular.
+speaker_heading: WILLARD
+dialog: Strikes!
+speaker_heading: THE HALLWAY
+dialog: The rats approach the elevator.
+speaker_heading: BEN
+dialog: Attacks!
+speaker_heading: WILLARD
+dialog: Eyes wild, strikes at Martin!
+speaker_heading: MR. MARTIN
+text: Battling to remain conscious, struggles on the floor. His eyes appear to register that rats are squeezing through the holes and into the elevator.
+speaker_heading: CLOSE - HOLES IN ENCLOSURE
+text: Rats squeeze into the elevator.
+speaker_heading: MARTIN
+dialog: Looks pleadingly to Willard.
+speaker_heading: WILLARD
+dialog: Smiles, vengeful.
+speaker_heading: MR. MARTIN
+text: Reaches upward, eyes rolling into his head...
+speaker_heading: MR. MARTIN
+dialog: Willard, no! Please!
+speaker_heading: WILLARD - EXTREMELY LOW ANGLE
+text: As CAMERA WHISKS INTO HIM.
+speaker_heading: WILLARD
+dialog: Tear him up!
+speaker_heading: THE RATS
+dialog: Hundreds descend upon Martin...
+speaker_heading: MR. MARTIN
+text: Rats tear into his hands, his back and his neck. He screams!
+speaker_heading: WILLARD
+text: Stands at the elevator door.
+speaker_heading: MR. MARTIN'S EYES
+text: Horrified, quickly blocked by a wall of converging rats.
+speaker_heading: MR. MARTIN'S BACK
+text: Amongst the swarm, a rat burrows into Mr. Martin's back. CAMERA QUICKLY ARCS TO REVEAL another burrowing out of Mr. Martin's side.
+speaker_heading: WILLARD
+text: Pushes the elevator button, whispering...
+speaker_heading: WILLARD
+dialog: Goodbye, Ben...
+speaker_heading: ELEVATOR SHAFT
+text: Martin's screams appear to fade as the rat-infested elevator rises into the upper darkness as Willard watches from below.
+dialog: Cleaning House
+scene_heading: INT. BASEMENT - WILLARD'S HOUSE - LATER
+text: The hole in the basement wall in which the rats first appeared FILLS FRAME. A glob of cement plaster is hurriedly plopped on the lower frame.
+speaker_heading: WIDER - WILLARD
+text: Holding a bucket of mixed cement, continues filling the hole. Several dozen remaining rats scuttle on the floor.
+speaker_heading: TIME CUT:
+speaker_heading: A FLAT CRATE
+text: Soy pellets pour into a box. Hungry rats swarm the crate.
+speaker_heading: WILLARD
+text: Eyes well with tears, yet his expression remains determined.
+speaker_heading: WILLARD
+speaker_heading: FOOD!
+scene_heading: INT. KITCHEN - A PACKAGE
+text: Labeled "The Giant Destroyer" is torn open. Four 6" sticks of Sodium Nitrate and Sulfur are removed.
+speaker_heading: WIDER
+text: Willard inserts the short fuses and lights them. Gas begins billowing from the sticks which he quickly tosses into the basement. He slams the door.
+text: Willard drops to his knees and jams a wet towel beneath the door while pushing his body weight against the door.
+text: CAMERA PUSHES IN ON WILLARD as hissing gas and squealing rats mix O.S. Rats can be heard charging up the steps and SCRATCHING WILDLY at the basement door, trying to escape.
+text: As Willard closes his eyes and covers his ears...
+speaker_heading: TIME CUT:
+speaker_heading: INT. BASEMENT - LATER
+text: Darkness. After a beat, the door opens. Residual gas clouds from the cellar. Willard, holding a cloth to his nose and mouth, stands in the kitchen, looking into the basement.
+text: In the f.g., on the stairs, lies the lifeless bodies of several dozen rats.
+speaker_heading: TIME CUT:
+speaker_heading: A SHOVEL
+text: GRINDS across the basement floor, cutting a path into the layer of rat feces and fur. The shovel rises and deposits its contents into a metal trash can.
+speaker_heading: TRASH CAN
+text: The bodies of dead rats nearly fill the can.
+scene_heading: EXT. ALLEY ADJACENT TO WILLARD'S HOUSE - LATER
+text: Fire burns in the trash can. Willard stands back in the cold, the eerie flames flickering across his eyes.
+scene_heading: INT. BACKDOOR - NIGHT
+text: Dripping with sweat, Willard nails the backdoor to the frame.
+speaker_heading: INT. PARLOR - NIGHT
+text: Willard reaches up into the fireplace and pulls the flue shut!
+scene_heading: INT. BATHROOM - NIGHT
+text: A stretch of gray duct tape peels from a roll. Willard tears it with his teeth and wraps it around the closed toilet lid.
+scene_heading: INT. KITCHEN - EARLY MORNING
+text: Exhausted, eyes red and stained with sweat and dried blood from Martin's attack, Willard pulls back the locking bar on a large rat trap.
+text: He places it in a brown paper grocery bag. On the floor is trash dumped out of the bag. Willard returns the trash to the bag, careful not to set off the trap.
+text: He sets the bag in the cupboard under the sink...
+speaker_heading: WIDER - KITCHEN
+text: All the cupboard doors are open. Standing, WILLARD RISES INTO FRAME, and begins closing the cupboards.
+text: Each cabinet holds a pair of large, set, rat traps. As the doors close, causing the FRAME TO GO BLACK...
+speaker_heading: OVER BLACK
+dialog: An indiscernible TAP...TAP...
+scene_heading: INT. WILLARD'S BEDROOM - MORNING
+speaker_heading: WILLARD'S EYE - FRAMED VERTICALLY
+text: Asleep...it pops open! Afraid. The eye "listens" to the sound. TAP. TAP... CAMERA TWISTS until the eye is horizontal.
+speaker_heading: WILLARD
+text: Without having showered or cleaned himself from the night before, has crashed on the bed. Still in his clothes, he rises slowly, LISTENS. TAP...TAP... He moves to the window and slides the bookshelf to enable to look outside.
+speaker_heading: WINDOW SILL - WILLARD'S POV
+text: It is morning and a cold sleet TAP TAP TAPS on the pane.
+speaker_heading: WILLARD
+text: Eases, yet remains tense. O.S., within the house, not in his room, A PHONE RINGS. He freezes, as if the cradled phone could detect his movements. THE PHONE RINGS. His eyes dart toward the nightstand.
+speaker_heading: NIGHTSTAND - CLOCK
+text: 9:30 AM. Martin's body has surely been found.
+speaker_heading: WIDE - WILLARD
+text: Holds, shadows from the Venetian blinds slash across his body creating the illusion of cage bars. The PHONE RINGS. He doesn't move. RING. He waits. Finally, the RINGING STOPS and the house is again silent.
+text: Still dressed from last night, including his shoes, Willard moves out of the room and into...
+scene_heading: INT. HALLWAY - CONTINUOUS
+text: Willard's bedroom door slowly opens. He pokes his head out and has a look around. It is silent and still. He moves toward the stairway.
+scene_heading: INT. STAIRWAY - CONTINUOUS
+text: Although it is morning, the gray sky, the fortifications on the windows, and the closed curtains create an eerie pale. He proceeds down the stairs.
+scene_heading: INT. FOYER - CONTINUOUS
+text: Willard steps off the last stair and holds, searching. Listening for the presence of rats.
+text: Suddenly...KNOCK! KNOCK! KNOCK! He's startled. KNOCK! KNOCK! KNOCK!
+text: CAMERA CREEPS with Willard as he carefully and with great stealth inches toward the door...
+text: MOVING IN TIGHT TO MEET his eye as it peers through the peephole.
+scene_heading: EXT. ENTRANCE - CONTINUOUS
+text: A uniformed POLICE OFFICER, SALMON, stands beside a suited DETECTIVE FINCH. The officer knocks.
+scene_heading: INT. FOYER - CONTINUOUS
+text: Frightened, Willard eases away from the peephole and holds still. After a moment, the low toned VOICES exchange indiscernible words before their FOOTSTEPS move off.
+text: Willard appears small as he stands alone in the large house, the portrait of his father appears large, even in the b.g.
+speaker_heading: DISSOLVE TO:
+speaker_heading: ANOTHER ANGLE - CONTINUOUS
+text: The PHONE RINGS. Again. Willard remains motionless. Although he stands in the exact same spot, the light has changed; a graying afternoon. A cold winter WIND blows outside.
+speaker_heading: DISSOLVE TO:
+speaker_heading: CLOSE - WILLARD
+text: Sweat beads on his face. He has remained motionless for hours. The OUTSIDE WIND is stronger now. Rain TAP TAP TAPS on the windows...
+speaker_heading: DISSOLVE TO:
+speaker_heading: WIDE - WILLARD
+text: Sweat drenched hair stuck to the sides of his temples. Willard remains hyper-alert. The drizzle has evolved into freezing sleet; a cold mean storm.
+dialog: It's All Over, Ben
+text: Then finally, through the SILENCE and the outside GALE. KNOCK KNOCK KNOCK. Willard tenses.
+speaker_heading: CATHRYN (O.S.)
+dialog: Willard! It's Cathryn!
+text: KNOCK KNOCK KNOCK. Willard considers...turns, and moves to the door, opening it just a crack.
+text: Through the ajar door, Cathryn appears rattled. Wearing a raincoat and winter clothes, she takes a step to enter, but he doesn't move. Although taken aback, she looks to him.
+speaker_heading: CATHRYN
+dialog: I've been calling all day.
+dialog: He offers no explanation as to why he never answered.
+speaker_heading: CATHRYN
+dialog: Did you hear?
+dialog: (beat)
+dialog: Martin's dead.
+text: She pauses for a reaction, but there is none. Frightened and upset, she continues...
+speaker_heading: CATHRYN
+text: At the office. The details are weird, all kinds of rumors. He was murdered or attacked by animals.
+text: Willard doesn't respond. Hinting, she looks out at the storm.
+speaker_heading: WILLARD
+dialog: I'm hungry.
+dialog: (beat)
+dialog: Can we go eat?
+text: Although puzzled by his reaction, she nods absently...
+speaker_heading: WILLARD
+dialog: Lemme get my coat.
+text: He moves toward his overcoat, hanging on a rack nearby. As he reaches out to grab it, he freezes...
+speaker_heading: OVERCOAT - WILLARD'S POV
+text: A stain of blood near the shoulder.
+speaker_heading: WILLARD
+text: Rattled, grabs the coat and while moving off up the stairs.
+speaker_heading: WILLARD
+dialog: Just a sec...
+scene_heading: INT. HALLWAY - CONTINUOUS
+text: He runs toward his room...
+scene_heading: INT. FRONT DOOR - CONTINUOUS
+text: Cathryn's left outside, the door wide open.
+speaker_heading: CATHRYN
+dialog: Can I use the bathroom?
+text: Receiving no response, Cathryn pokes her head inside...and enters. She moves into the dark parlor.
+scene_heading: INT. WILLARD'S BEDROOM - CONTINUOUS
+text: Willard hustles into the room, balling up the stained overcoat while racing toward the closet.
+scene_heading: INT. FIRST LEVEL BATHROOM - CONTINUOUS
+text: The room's dark. Cathryn appears in the doorway and peeks inside. She opens the door and turns on the light.
+scene_heading: INT. WILLARD'S BEDROOM - CONTINUOUS
+text: In the closet, Willard yanks a spare winter coat off a hanger while searching for a hiding place for the stained overcoat. He looks up...
+speaker_heading: WILLARD'S POV - ATTIC CRAWL SPACE DOOR
+dialog: It has been nailed shut.
+speaker_heading: WILLARD
+text: Looks down to boxes in the closet and pulls one out. As he begins to open it and stuff the coat inside... he freezes.
+speaker_heading: THE BASEBOARD HOLE
+text: Which he secured, suspecting Ben's pathway, is once again open. The metal can has been gnawed and the tape severed. The coin-filled sock is nowhere in sight.
+speaker_heading: WILLARD
+text: CAMERA PUSHES IN on his frightened reaction.
+scene_heading: INT. FIRST-LEVEL BATHROOM - CONTINUOUS
+text: Cathryn moves to the toilet, finding the gray duct tape stretched across the lid, she pauses and leans over to examine the side of the bowl...
+speaker_heading: SIDE OF THE TOILET
+text: The tape has been roughly severed, as if chewed...
+speaker_heading: CATHRYN
+text: Tests the lid. It lifts. She unfastens her pants as she turns to sit, pulling down her panties...
+scene_heading: INT. HALLWAY - CONTINUOUS
+text: CAMERA IS ON THE FLOOR as Willard carefully exits his bedroom. Again, he freezes as he sees something O.S.
+text: CAMERA PULLS BACK TO REVEAL the skeletal and petrified muscle of Scully the Cat. Displayed in the center of the hallway.
+scene_heading: INT. FIRST LEVEL BATHROOM -C ON
+text: CAMERA PUSHES TOWARD the toilet, past Cathryn, standing to fasten her pants, leaving the seat down and the lid up. Her hand ENTERS FRAME to push the trip handle. The toilet flushes.
+text: O.S., Cathryn turns off the lights as she exits.
+text: CAMERA HOLDS... After several beats, a wet, slimy rat crawls out from the toilet bowl and over the lid. A second appears almost immediately and leaps to the floor.
+speaker_heading: OVERHEAD
+text: The toilet bowl is filled with rats. As another squirms up and through the waste pipe...
+scene_heading: INT. FOYER - CONTINUOUS
+text: Willard hustles down the stairs wearing a winter raincoat. He moves directly toward the door. Finding it ajar, he pauses.
+speaker_heading: WILLARD
+dialog: Cathryn?
+dialog: He looks outside...
+scene_heading: EXT. FRONT ENTRANCE - CONTINUOUS
+text: The cold rain pours in sheets. Cathryn is not outside. From INSIDE the house...
+speaker_heading: CATHRYN (O.S.)
+dialog: In here...
+text: CAMERA INCHES IN as he realizes she may have seen his fortifications.
+scene_heading: INT. FOYER - CONTINUOUS
+text: Willard turns back toward the inside of the house.
+scene_heading: INT. PARLOR - CONTINUOUS
+text: Cathryn moves into the parlor and holds beneath the archway, putting on her gloves.
+speaker_heading: CATHRYN
+dialog: Sorry. I had to go so bad...
+text: Behind Cathryn on the mantle, beside Mr. Stiles' urn a pair of opalescent eyes peer at Willard from the darkness.
+speaker_heading: CATHRYN
+dialog: And you just took off upstairs...
+speaker_heading: WILLARD
+text: The eyes glare vengefully at Willard. The whiskers pulse angrily.
+speaker_heading: WILLARD
+dialog: We need to go.
+text: He takes Cathryn by the arm and pulls her outside.
+scene_heading: EXT. WILLARD'S HOUSE - CONTINUOUS
+text: Rain pouring, wind howling, Willard hustles toward Cathryn's car parked in front of his brownstone.
+text: He holds at the passenger door. As Cathryn moves around the car toward the driver's side, she holds...
+speaker_heading: CATHRYN
+dialog: Shit! I must've run over something'...
+text: Willard looks to the front tires. They're chewed flat, just like Mr. Martin's.
+speaker_heading: WILLARD
+text: His head whips toward the back tires. They're flat. Gnawed. Willard knows. O.S., two car doors slam. He looks in the direction of the sound.
+speaker_heading: DOWN THE STREET - WILLARD'S POV
+text: Silhouetted and covered raincoats and masked by an umbrella, Officer Salmon and Detective Finch move toward Willard.
+speaker_heading: WILLARD & CATHRYN
+text: Willard tenses, then moves toward the house.
+speaker_heading: WILLARD
+dialog: Get in. I'll go call triple A.
+speaker_heading: CATHRYN
+dialog: I have a cell...
+text: Ignoring her, he hustles inside as the two policeman approach the car...
+scene_heading: INT. FOYER - CONTINUOUS
+text: SLAM! Willard locks the door, then scans the area for any indication of Ben's location. He eases to the desk-table and opens a drawer causing the mail to spill to the floor. Willard reaches into the drawer and removes a letter opener.
+text: As he starts toward the foyer, KNOCK! KNOCK! KNOCK! Willard appears unaware of the knocking as he flips a switch and turns on the overhead chandelier.
+scene_heading: EXT. FRONT ENTRANCE - WILLARD'S HOUSE - CONTINUOUS
+text: Detective Finch and Officer Salmon stand with Cathryn outside.
+speaker_heading: CATHRYN
+dialog: Can you tell me why you want to talk to him?
+text: The police officer notes another light turning on...
+scene_heading: INT. PARLOR - CONTINUOUS
+text: The LETTER OPENER glints, filling the frame, held in Willard's fist like a switchblade. The pointed metal moves toward the mantle.
+speaker_heading: WILLARD
+text: Willard slides the urn aside, looking for any sign of Ben, but he is not there. Then...faint...but definite...a metallic CLINK.
+text: Willard listens, then squats beside the fireplace, CAMERA CRANING DOWN WITH HIM. O.S., Salmon continues knocking.
+speaker_heading: OFFICER SALMON (O.S.)
+dialog: Mr. Stiles, police! Come to the door, please, sir!
+text: Willard looks into the inner hearth. The metal damper rod is moving. CLINK. CLINK. CLINK. Willard pulls back and considers O.S., a strong gust of WIND WHISTLES, followed by an immediate CLINK CLINK CLINK!
+text: Believing the damper is knocking because of the wind, he eases. Until, behind him, with a startling CLANK, the metal damper rod drops into the hearth.
+text: Rats flood into the hearth; swarming, climbing over one another. Willard pops to his feet, screaming!
+scene_heading: EXT. FRONT ENTRANCE - CONTINUOUS
+text: As Willard's SCREAM CARRIES OUTSIDE, Cathryn knocks on the door while the law enforcement officers look to one another.
+speaker_heading: CATHRYN
+dialog: Willard, it's Cathryn. Are you alright? Let me in.
+speaker_heading: DETECTIVE FINCH
+dialog: What the fuck's he doin' in there?
+scene_heading: INT. DINING ROOM - CONTINUOUS
+text: Willard slams the doors closed, sealing himself off from the front rooms.
+scene_heading: INT. FOYER - OVERHEAD - CONTINUOUS
+text: A river of rats charge from the parlor, through the foyer, and toward the dinning room doors...
+scene_heading: INT. DINING ROOM - CONTINUOUS
+text: Willard turns on the lights.
+scene_heading: INT. FOYER - CONTINUOUS
+text: A line of rats, three deep, gnaw at the base of the doors...
+scene_heading: INT. DINING ROOM - CONTINUOUS
+text: Willard moves to the dining room table. Straining, he lifts and tips the table on its side with a CRASH!
+scene_heading: EXT. FRONT ENTRANCE - CONTINUOUS
+text: The officers tense. Cathryn begins POUNDING on the door.
+speaker_heading: CATHRYN
+dialog: Willard!
+text: The officers move her aside, attempting to force their way inside. The door is heavy and won't budge.
+scene_heading: INT. FOYER - CONTINUOUS
+text: The rats continue eating through the wood, making progress.
+scene_heading: INT. DINING ROOM - CONTINUOUS
+text: Willard pushes the upended table against the closed doors.
+dialog: The lights go out.
+text: Willard flicks the switch, but there is no response. Fumbling through the darkness, he moves to the adjacent kitchen.
+scene_heading: EXT. FRONT ENTRANCE - CONTINUOUS
+text: Cathryn and the officers note the sudden darkness and SILENCE inside. The detective gestures toward the police officer.
+speaker_heading: DETECTIVE FINCH
+dialog: Let's check 'round back.
+text: As they take off toward the side alley, adjacent the house.
+scene_heading: INT. BASEMENT - CONTINUOUS
+text: The FRAME IS BLACK. Willard opens the basement door, allowing some outside spill. In the darkness, he reaches for the flashlight stored on the first landing.
+speaker_heading: CLOSE - WILLARD'S HAND
+text: He grabs the flashlight, a rat snaps and bites his hand.
+speaker_heading: WILLARD
+text: Yelps with pain. He drops the flashlight. It lights up...
+speaker_heading: WILLARD'S POV
+text: The basement. The flashlight rolls and bounces creating a strobe light effect, catching glances of nothing but rats. Hundreds and hundreds in the basement. Eyes. Teeth. Claws.
+text: The flashlight settles, beam aimed at the fuse box.
+speaker_heading: THE FUSE BOX
+dialog: Is amassed with rats which have chewed through the wires.
+scene_heading: EXT. ALLEY - CONTINUOUS
+text: A flashlight flares INTO CAMERA. Pouring rain and howling wind whip across Finch and Salmon as they enter the alley.
+text: The officers search for doors, bang on the barred windows, searching for an entrance. Near the rear of the house, they rise on their tip toes in order to shine their flashlights in the side windows. They stretch to see inside.
+scene_heading: INT. KITCHEN - CONTINUOUS
+text: Willard quickly tips the kitchen table and slides it against the door. The officers' flashlight beams shine into the room.
+speaker_heading: DETECTIVE FINCH (O.S.)
+dialog: Stiles!
+text: Willard ducks and moves further into the kitchen. Remaining on the ground, Willard looks up just as the searching flashlight beams crisscross...
+speaker_heading: BEN
+text: Directly above Willard, holds on the counter island in the center of the kitchen, as if awaiting an explanation. The flashlight beams pan on and off of him.
+speaker_heading: WILLARD
+text: Is shaken, afraid. Showing submission, Willard raises his hands toward Ben.
+speaker_heading: WILLARD
+dialog: I'm sorry, Ben. I'm sorry I left you. I got scared. I came here and was about to go back and get you.
+speaker_heading: BEN
+text: Doesn't buy the lie. He glares at Willard.
+speaker_heading: WILLARD
+dialog: And...the others...the ones we left here...were Gone when I came back.
+scene_heading: EXT. ALLEY ADJACENT TO WILLARD'S HOUSE - CONTINUOUS
+text: Hearing Willard inside, the officers hold. Listen.
+speaker_heading: WILLARD (O.S.)
+dialog: I thought they went to find you!
+speaker_heading: DETECTIVE FINCH
+dialog: Who's he fuckin' talking to.
+text: The detective perspires, in tears as he looks to Ben above him.
+speaker_heading: WILLARD
+dialog: It's all over! You can live anywhere! You can go anywhere! I have nowhere but here!
+speaker_heading: BEN
+dialog: Remains motionless...
+scene_heading: EXT. ALLEY - CONTINUOUS
+text: Officer Salmon and Detective Finch stands on boxes, now able to see inside...
+speaker_heading: DETECTIVE FINCH
+dialog: No one's in there. They guy's nuts. We should call Bellvue.
+scene_heading: INT. KITCHEN - CONTINUOUS
+text: Flashlights flare across the room, unable to see him..
+speaker_heading: WILLARD
+dialog: There was nothing I could do for Socrates! But we got him back, Ben. We got Martin back. Together!
+speaker_heading: BEN
+dialog: Stares down at Willard.
+scene_heading: EXT. ALLEY - CONTINUOUS
+text: The police officer shines the light inside and freezes...
+speaker_heading: OFFICER SALMON
+dialog: Jesus! It's not just Bellvue. We gotta call the fuckin' health department exterminators...
+text: The detective checks the officer's flashlight beam.
+scene_heading: INT. KITCHEN - CONTINUOUS
+speaker_heading: DETECTIVE'S POV
+text: The floor's covered with rats, continuing to pour over the basement stairs and into the kitchen.
+scene_heading: EXT. ALLEY - CONTINUOUS
+text: Finch and Salmon hustle off of the boxes and return toward the front of the house.
+scene_heading: INT. KITCHEN - CONTINUOUS
+text: With the officers' departure, the flashlight beams are gone. Willard is alone in the dark kitchen. Ben remains on the island, staring down at him, the other rats slowly close in...
+speaker_heading: WILLARD
+dialog: We're done with each other, Ben. Just...GO! Go away! We are not friends anymore.
+speaker_heading: BEN
+dialog: Growls..
+speaker_heading: THE RATS
+dialog: Continue toward Willard.
+speaker_heading: WILLARD
+dialog: Stands...
+speaker_heading: WILLARD
+dialog: Food? If I give you food, will you go away?
+text: Willard partially, quickly, opens the cabinets, careful not to reveal the previously placed traps.
+speaker_heading: WILLARD
+dialog: I'll give you what there is...
+text: CAMERA PUSHES IN ON WILLARD as his head turns toward the cabinet beneath the sink...
+scene_heading: WILLARD'S POV - CABINET BENEATH THE SINK
+text: Willard moves to the lower cabinet, opens it, and removes the brown grocery bag, serving as a trash bag. He turns toward...
+speaker_heading: BEN
+dialog: Inches back...cautious...
+speaker_heading: WILLARD
+text: Approaches with the bag, tipping it at an angle. Noting Ben's hesitation, Willard reassures him.
+speaker_heading: WILLARD
+dialog: No. No, Ben. Food. Just food.
+speaker_heading: BEN
+dialog: Tenses...eyes on the bag.
+speaker_heading: WILLARD (O.S.)
+dialog: Whatever food's in the bag, yours.
+speaker_heading: WILLARD & THE TRASH BAG
+dialog: He sets it on the island...
+speaker_heading: WILLARD
+dialog: Food, Ben. Food.
+speaker_heading: BEN
+dialog: Inches toward the bag...
+speaker_heading: TRASH BAG - BEN'S POV
+text: Inside, although masked with paper and trash...near the base of the bag...the rat trap.
+speaker_heading: BEN
+dialog: Hisses! Begins to back away...
+speaker_heading: WILLARD
+text: Pounces! Drops the bag over Ben. Inside, unseen but definitely heard, a sickening WHACK! Ben squeals! Willard takes a step toward the bag, eyes wide and mean!
+speaker_heading: WILLARD
+dialog: FUCK YOU, BEN! I HATE YOU! I LOVE SOCRATES! I FUCKIN' HATE YOU!
+speaker_heading: TRASH BAG
+text: Atop the island...thrashes and jerks from Ben's panic. INSIDE THE BAG, Ben squeals; a command to the others...
+speaker_heading: THE RATS
+dialog: Move on Willard...
+speaker_heading: TRASH BAG
+text: The bag tears away REVEALING BEN, his right front arm caught in the trap, SQUEALING AND TRYING TO FREE HIMSELF
+speaker_heading: WILLARD
+dialog: Searches for an escape route...
+speaker_heading: THE RATS
+dialog: Charge toward him...
+speaker_heading: BEN
+text: CAMERA PUSHES IN as Ben begins gnawing on his own arm in an attempt to free himself.
+dialog: Friend's No More
+speaker_heading: ON THE UPPER CUPBOARDS
+dialog: Rats leap!
+speaker_heading: WILLARD
+text: Several rats leap onto Willard's back and shoulders.
+speaker_heading: CLOSE - WILLARD'S SHOULDER
+text: A pair of upper and lower incisors plunge into his skin!
+scene_heading: EXT. WILLARD'S HOUSE - CONTINUOUS
+text: Detective Finch and Officer Salmon return. The officer heads toward the patrol car and gets on the radio.
+text: Cathryn looks desperately toward Finch as Willard's SCREAMS can be heard in the house.
+speaker_heading: DETECTIVE FINCH
+dialog: I ain't settin' foot in there. There's, like, thousand fuckin' rats.
+text: Cathryn moves toward the door, struggling with the doorknob.
+speaker_heading: DETECTIVE FINCH
+dialog: Hey, you want to get eaten alive?
+text: CAMERA SWEEPS IN ON CATHRYN, realizing...
+speaker_heading: CATHRYN
+dialog: Martin...
+scene_heading: INT. KITCHEN - CONTINUOUS
+text: Willard throws his hands over and behind his neck, pulling off his coat. With rats clinging to the coat, Willard whips it against the hard marble atop the island...again and again. Rats squeal and squish.
+text: Dropping the coat, he retreats against the cabinets. He freezes with shock at something O.S., CAMERA RUSHES INTO WILLARD...
+speaker_heading: WILLARD'S POV - THE ISLAND
+text: The trap is still there, encircled by blood. Ben, however, is gone. Only his forearm remains, in the trap.
+speaker_heading: WILLARD
+text: Breaks for the back door. He tugs on the handle, it won't open.
+speaker_heading: WILLARD'S POV - DOOR FRAME
+text: Nails are hammered into frame. Fortifying the house to keep the rats out...he's locked himself in.
+speaker_heading: WILLARD
+text: He turns toward the front of the kitchen.
+speaker_heading: KITCHEN - WILLARD'S POV
+text: The hardwood floor rolls in waves of fur...toward him.
+speaker_heading: WILLARD
+dialog: Summons the courage.
+speaker_heading: WIDE
+text: Willard makes a desperate dash toward the dining room.
+speaker_heading: WILLARD'S FEET AND LEGS
+text: Teeth. Claws. Hairless tails whip and snap at him. Several rats are crushed by the impact of his feet.
+scene_heading: INT. DINING ROOM - CONTINUOUS
+text: The dividing door BANGS open! Willard charges inside, grabs a chair and SMASHES the bay window.
+speaker_heading: DINING ROOM/FOYER DOOR
+text: Barricaded by the upended dining room table...LURCHES from the force of the rats on the other side.
+speaker_heading: WILLARD
+text: Moves to the bay window...and meets the security bars. He clutches them, tugs and pulls with all his might. They will not move. CAMERA PUSHES INTO WILLARD.
+speaker_heading: WILLARD
+dialog: Cathryn!
+scene_heading: EXT. WILLARD'S HOUSE - CATHRYN
+dialog: Absently backs away...
+scene_heading: INT. DINING ROOM - CONTINUOUS
+speaker_heading: WILLARD
+dialog: Help me...
+scene_heading: EXT. WILLARD'S HOUSE - CONTINUOUS
+text: Cathryn continues backing away...afraid of him.
+scene_heading: INT. DINING ROOM - CONTINUOUS
+text: Willard yanks on the bars. Inside the dining room, a loud crack. Willard turns.
+speaker_heading: DINING ROOM CEILING
+text: A crack extends from the chandelier outward and across the ceiling, which appears to sag.
+speaker_heading: CHANDELIER
+text: Begins to sway. Then, inside the crystal column in the chandelier, a rat crawls from the inner ceiling. Another follows. The chandelier begins filling with rats.
+speaker_heading: WILLARD
+text: Reacts, horrified. O.S., a screech on the floor.
+speaker_heading: UPTURNED TABLE
+dialog: Marauding rats break through from the foyer.
+speaker_heading: CHANDELIER
+text: The crystal shatters. The chandelier chain SNAPS. The fixture falls. RATS pour from the hole in the ceiling.
+speaker_heading: WILLARD
+text: Attempts one final tug on the bars. They do not budge. He turns and breaks across the dining room to the foyer.
+scene_heading: INT. STAIRWAY - CONTINUOUS
+dialog: Willard charges up the steps, several at a time...
+speaker_heading: CLOSE - STAIRS
+text: Rats snap and bite at his feet.
+scene_heading: INT. UPSTAIRS HALLWAY - CONTINUOUS
+text: Willard reaches the upstairs landing. He looks down the hall toward his bedroom.
+scene_heading: INT. WILLARD'S BEDROOM - CONTINUOUS
+text: The shadows of the confining bars ripple upon the curtains.
+scene_heading: INT. UPSTAIRS HALLWAY - CONTINUOUS
+text: Willard continues toward the second flight of the stairs...
+scene_heading: INT. THIRD FLOOR LANDING - CONTINUOUS
+text: Willard reaches the landing and races immediately toward a closed door...
+scene_heading: INT. MR. STILES' HOME OFFICE - CONTINUOUS
+text: The door bangs open; dust particles swirl. Willard appears and holds. CAMERA SWEEPS IN ON his expression of hope at something, O.S.
+speaker_heading: WILLARD'S POV - DORMER WINDOW
+text: CAMERA PUSHES IN ON the yellow stained glass window, a shaft of golden light filtering inside, underlined by the dust particles. It's small, but large enough to crawl through...
+scene_heading: INT. MR. STILES' HOME OFFICE - CONTINUOUS
+text: Willard races toward the light, plants his foot on the
+text: bookcase and rises toward the window...
+speaker_heading: WINDOW
+text: The yellow light FILLS THE FRAME, until the black silhouette quickly blocks the light...the silhouette of a large armless rat. BEN.
+speaker_heading: WILLARD
+dialog: Holds, afraid.
+speaker_heading: WILLARD
+dialog: Ben...I thought we were friends.
+speaker_heading: BEN
+dialog: Beat. Then, Ben hisses! SNAPS INTO CAMERA!
+speaker_heading: WIDER
+text: Willard's back is to CAMERA as BEN BITES into Willard's face. Willard's hands clamp onto the bookcase, struggling to free himself of Ben's violent grasp.
+speaker_heading: WILLARD'S FEET
+text: Slip from the bookcase, dangling. Rats begin chewing through his feet and legs.
+speaker_heading: WIDER
+text: Willard continues struggling, however, as CAMERA PULLS BACK to REVEAL the rising tide of rats spilling in from the walls and doorway, it is apparent Willard's struggle will be short and futile.
+scene_heading: EXT. WILLARD'S HOUSE - CONTINUOUS
+text: Cathryn, street level, is looking up, as are the two officers. O.S., Willard's muffled and desperate screams can be heard, growing louder as CAMERA BEGINS TO RISE up the house.
+text: The rain POURS and the wind BLOWS as CAMERA continues CRANING UP THE HOUSE. Upon reaching the second level...Willard's screams cease. Only the rain and wind remain.
+text: CAMERA CONTINUES RISING and PUSHING CLOSER to the top level until the exterior of the yellow stained glass Dormer window once again FILLS THE FRAME AND CAMERA HOLDS...
+text: After a beat, Ben's silhouette climbs into the window, licking his wound. As the black form holds against the gold light and turns toward CAMERA, drum sticks CLACK introducing Pearl Jam's "RATS", which continues over a slow...
+speaker_heading: FADE TO BLACK.
+dialog: Waiting...Quiet as a Mouse
+dialog: End Credits
+dialog: (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+dialog: (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+scene_heading: m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+dialog: })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+dialog: ga('create', 'UA-67290913-1', 'auto');
+dialog: ga('send', 'pageview');
+dialog: 

@@ -1,0 +1,3563 @@
+dialog: 
+speaker_heading: SPIDER-MAN
+dialog: screenplay by
+dialog: Ted Newsom and John Brancato
+dialog: based on characters created by
+dialog: Stan Lee
+dialog: First Draft
+dialog: November 24,1985
+dialog: For Cannon Films
+dialog: 6464 Sunset Boulevard
+dialog: Los Angeles, CA 90028
+scene_heading: INT. BASEMENT - DAY
+text: A SINGLE GLISTENING STRAND OF A SPIDER’S WEB BISECTS THE BLACK FRAME. AS
+scene_heading: CLASSICAL MUSIC CARESSES OUR EARS, WE SEE THE STRAND CRISS-CROSSING OTHERS
+scene_heading: IN A PERFECT ORB WEB. A SPIDER-- BLACK WITH AN INTRICATE PATTERN-- DROPS
+text: INTO FRAME. IT GRACEFULLY GATHERS AND WEAVES THE STRANDS TOGETHER.
+text: The web and spider become small, a gray mass against a basement ceiling
+text: corner. The further BACK we go, the grimier the scene becomes: peeling
+text: industrial green paint, tangles of pipes and electrical cable, harsh
+dialog: lighting.
+text: We hear a low WHIR, the pitch growing higher-- a cyclotron. The colossal
+text: donut-shaped accelerator dominates the basement lab. It’s a cylindrical,
+text: metallic tube, suspended from the ceiling, with wires and fixtures over its
+text: length. Utilitarian, a patchwork of technology from the 40s to the 80s,
+dialog: with radioactivity warnings.
+scene_heading: INT. EXPERIMENTAL CHAMBER - DAY
+text: A STEEL AND GLASS CHAMBER IS BUILT AROUND AND BELOW A SECTION OF THE
+scene_heading: CYCLOTRON. METAL SHELVES OF EQUIPMENT, A LARGE ELECTRICAL TRANSFORMER WITH
+text: HEAVY CABLES LEADING TO IT FROM THE FLOOR.
+text: A three-fingered mechanical claw-- a “waldo”-- thrusts INTO FRAME. Its
+text: telescoping arm extends, lifts a tiny one-gram cylinder from a rack of
+text: standard weights on a shelf. Another waldo holds a lead canister, a third
+text: removes a sealed vial containing a thick, muddy liquid. A fourth arm
+text: reaches up to adjust a crystal focusing cone, which juts out from the
+text: cyclotron tube. The arm aims the cone at a digital scale on a table in the
+text: center of the room.
+text: The four waldos are mounted on a panel with a thick, clear pane above it.
+text: Through the glass, a shadowy figure manipulates the controls. A fibrous
+text: BLUE-WHITE BEAM erupts from the cone, focusing on the weight & the TITLES
+speaker_heading: END.
+scene_heading: INT. CONTROL ROOM - DAY
+text: THE WHIR IS MUFFLED NOW, THE MUSIC LOUD FROM A STEREO IN THE CONTROL ROOM.
+text: A VIDEO MONITOR SHOWS A WALDO PLACING THE GRAM WEIGHT ON A SCALE; A DIGITAL
+scene_heading: READ-OUT BESIDE THE SCREEN JUMPS FROM 0.000000 TO 1.000000. A COMPUTER
+scene_heading: SCREEN DISPLAYS IRREGULAR, COLORED PATTERNS DESCRIBING THE DOWNWARD ARCS OF
+scene_heading: SUB-ATOMIC PARTICLES. A DIGITAL CLOCK: 8:57 AM. A HALF-EATEN CHILI DOG
+text: LIES ON THE CONTROL PANEL.
+text: DR. OTTO OCTAVIUS (“DOC OCK”) manipulates the waldo controls. In his 50s,
+text: Ock is broad, thickly-featured, brooding, with unfashionably long hair. He
+text: wears a stained sweatshirt, protective goggles. Without interrupting his
+text: concentration, he lights a fresh cigarette from the butt of the last, and
+text: takes a bite of the chili dog.
+scene_heading: INT. BASEMENT HALLWAY - DAY
+text: ALEXANDER THORKEL AND SOLOMON ROSOMOFF (ROZ) ENTER FROM A FLIGHT OF STAIRS.
+scene_heading: TALL, THIN, 40, THORKEL WEARS HORN-RIMMED GLASSES AND A BROOKS BROTHERS
+scene_heading: SUIT. ROZ, A PROFESSOR OF ASTROPHYSICS, WALKS SPRYLY DESPITE HIS 75 YEARS.
+text: THE MEN HEAD TO THE DOOR AT THE END OF THE HALL: “CYCLOTRON, AUTHORIZED
+scene_heading: PERSONNEL ONLY.”
+speaker_heading: THORKEL
+dialog: I’m sorry to bother you, Professor. But the man is
+dialog: impossible.
+speaker_heading: ROZ
+text: He has his reasons, Thorkel. At the moment, he has
+dialog: something to prove.
+speaker_heading: THORKEL
+dialog: He refused to open the door.
+speaker_heading: ROZ
+dialog: Maybe he didn’t hear you knock.
+text: Thorkel snorts. Roz fishes a card-key from his tweeds, inserts it into the
+dialog: lock.
+scene_heading: INT. CONTROL ROOM - DAY
+scene_heading: THE DOOR BUZZES OPEN.
+speaker_heading: THORKEL
+dialog: You’ll be late for class, Dr. Octavius.
+text: Roz sighs. Ock doesn’t turn around. Thorkel snaps the MUSIC OFF.
+speaker_heading: THORKEL
+dialog: The University pays you to teach.
+text: Ock twists a dial, the WHIR increases in pitch, the light grows more
+text: intense. Thorkel frowns. Ock notices Roz-- a look of understanding between
+dialog: them.
+speaker_heading: ROZ
+dialog: Otto, I don’t like Thorkel any more than you do. But he
+dialog: has got a point.
+speaker_heading: OCK
+dialog: Rosomoff, I have better things to do than teach
+dialog: Introductory Physics to mindless adolescents.
+speaker_heading: ROZ
+dialog: Perhaps. But every now and then someone pays attention.
+dialog: You did.
+text: Thorkel looks at his watch. Ock sighs and snaps a switch.
+scene_heading: INT. EXPERIMENTAL CHAMBER - DAY
+text: THE FOUR WALDOS PULL BACKWARD AND HANG LIMPLY. THE WHIR WINDS DOWN.
+scene_heading: EXT. 7TH AVENUE - DAY
+text: THE DIESEL ENGINE OF A BUS WINDS DOWN AS IT PULLS UP. THE DOORS HISS OPEN.
+text: SNEAKERED FEET BOUND DOWN THE BUS STEPS INTO FRAME, ONTO THE SIDEWALK.
+text: THE YOUNG MAN IN THE SNEAKERS, PETER PARKER, PASSES A BANK CLOCK THAT READS
+scene_heading: 9:02. INTELLIGENT, 20, WITH DARK HAIR AND RIMLESS GLASSES, PETER IS NEITHER
+text: A NERD NOR A MALE MODEL. DRABLY DRESSED IN JEANS AND A BUTTON-DOWN SHIRT,
+text: HE CARRIES A BOOK-FILLED BACKPACK OVER ONE SHOULDER, A STYROFOAM CUP OF
+text: COFFEE IN THE OPPOSITE HAND. YAWNING, HE HURRIES DOWN THE AVENUE.
+scene_heading: EXT. GREENWICH VILLAGE STREET - DAY
+text: PETER HEADS DOWN A SIDE STREET TOWARD AN INSTITUTIONAL BUILDING. A SIGN
+scene_heading: READS: “CURTIS CONNORS SCIENCE CENTER,” AND BELOW, “EMPIRE STATE
+text: UNIVERSITY.” SOOT, NOT IVY, COVERS THE BRICK WALLS.
+dialog: int. science center lecture hall -day
+text: LOOKING DOWN OVER TIERS OF BUILT-IN CHAIRS TO A PODIUM AND BLACKBOARD
+scene_heading: FLANKED BY DOORS. SOMBER, TRADITIONAL ACADEMIA. THE HALF-FILLED CLASS
+text: SETTLES AS PETER ENTERS AND LOOKS UP TOWARD THE HIGHER ROWS.
+text: A weird kid in the first row-- HARRY OSBORN -- waves at Peter. Slight and
+text: awkward, Harry has nervous mannerisms and a garish heavy metal T-shirt.
+speaker_heading: HARRY
+dialog: Hiya Peter!
+text: Peter gives him a perfunctory wave. He climbs up toward the back row,
+text: where LIZ ALLEN sits with feet on the empty chair in front of her,
+text: seemingly absorbed in a dog-eared Jane Austin novel. Her style reflects a
+text: quirky sense of humor: floppy hot-pink sweater over a brilliant purple
+text: dress; brightly-striped knee socks with clashing ballet slippers; colorful
+dialog: jewelry.
+text: Liz is the single bright spot in this otherwise drab environment. Without
+text: looking up from her book, she folds her legs up for Peter to pass. He sits
+text: discretely one seat away from her, lays his backpack beside her. Peter
+text: eyes Liz over his coffee, clearly pleased to see her.
+speaker_heading: PETER
+dialog: Good morning, Liz.
+speaker_heading: LIZ
+dialog: How very dull, Peter Parker.
+speaker_heading: PETER
+dialog: It’s too early to be clever.
+text: She unzips his backpack and toys with his Nikon.
+speaker_heading: LIZ
+dialog: It’s never too early to be clever. Describe in a sentence
+dialog: how you feel about me.
+speaker_heading: PETER
+dialog: Huh?
+speaker_heading: LIZ
+dialog: Fill in the blank: “I blank Elizabeth Allan.”
+speaker_heading: PETER
+dialog: I-- uh--
+speaker_heading: LIZ
+dialog: Uh is a good start.
+speaker_heading: PETER
+dialog: I lov-loathe Elizabeth Allan. Abhor, detest, despise--
+speaker_heading: LIZ
+dialog: Oh. Well, I hate you and everyone who looks like you.
+text: Down below, Doc Ock rumbles in, cigarette dangling from his lips, and slams
+text: his notes down on the podium. There’s a “NO SMOKING” sign behind him. He
+text: starts his lecture as Liz and Peter continue their rapid parry and thrust.
+speaker_heading: PETER
+dialog: I hate the Platonic idea of you.
+speaker_heading: LIZ
+dialog: I hate people with alliterative names.
+speaker_heading: PETER
+dialog: I hate--
+speaker_heading: LIZ
+dialog: I hate your relatives, I hate your coffee, I hate your
+dialog: shoes.
+speaker_heading: OCK
+dialog: (barely audible; BG)
+dialog: As you’ll doubtless recall, there are four known forces in
+dialog: the universe--
+speaker_heading: PETER
+dialog: Not my coffee.
+text: She puts his camera down and grabs his cup, takes a sip.
+speaker_heading: LIZ
+dialog: No. I was lying about the coffee.
+speaker_heading: PETER
+dialog: Thank God.
+text: Liz looks deep into his eyes. It’s the first time she’s looked at him.
+speaker_heading: OCK (cont., OS)
+dialog: The strong force, which binds matter together; the weak
+dialog: force, which causes decay; electromagnetism; and gravity--
+speaker_heading: LIZ
+dialog: (melodramatic)
+dialog: I was lying about it all, Peter. I love you. Ever since
+dialog: the third grade, I’ve loved you, I’ve wanted you. I dream
+dialog: of you, night and day, my very being o’erbrims with a
+dialog: burning passion for you.
+text: Peter wishes this were true. Suddenly FLASH THOMPSON dips INTO FRAME and
+text: covers Liz’s mouth in a wet kiss. Peter looks away, grossed out.
+speaker_heading: OCK (cont.)
+dialog: -- gravity, Newtonian theory uses a simple equation with a
+dialog: constant--
+text: Flash dumps the pack on Peter’s lap, then climbs into the chair beside Liz
+text: and throws his arm around her. She tries to catch Peter’s eye, as if to
+text: apologize-- but he avoids her look.
+speaker_heading: OCK
+dialog: -- which we all know by heart-- Don’t we, Mr. Thompson!
+text: Flash grabs Peter’s notes without missing a beat, holds them out of view
+dialog: and reads.
+speaker_heading: FLASH
+dialog: Natch, Doc. That’s… 6.670 time 10 to the negative
+dialog: eleventh.
+speaker_heading: OCK
+dialog: (eyeing him)
+dialog: In what quantity?
+text: Flash tries to decipher the hidden notes.
+speaker_heading: HARRY
+dialog: Meters cubed over kilogram-seconds squared!
+text: Flash curls his lip. Peter retrieves his notes, clucks his tongue at
+dialog: Flash.
+speaker_heading: PETER
+dialog: Crime doesn’t pay, Flash.
+scene_heading: INT. READING ROOM - DAY
+text: EARLY AFTERNOON. THE LONG TABLES OF THE OAK-PANELED LIBRARY ARE CROWDED
+text: WITH STUDYING STUDENTS. A PRINT OF A FOX HUNTING SCENE HANGS ABOVE A
+text: MANTELPIECE. A FAT MALE LIBRARIAN SITS AT A DESK. WE DOLLY IN TO PICK OUT
+text: PETER PARKER, SLOUCHING IN A CHAIR WITH A NOTEBOOK IN HIS LAP. HE SNIFFS
+text: SOMETHING, LOOKS AROUND, AND SEES:
+text: HARRY in the stacks, dragging a small cloth bag over the floor and
+text: bookshelves.
+text: Peter rolls his eyes. Harry crosses to the table at the far end from
+text: Peter, He slides the squirming bag down the table like a whiskey glass in
+text: a saloon. Peter grabs the bag in mid-slide, shakes his head “No,” silently
+text: but firmly. Harry grins crazily and nods, Oh, yes!” Sensing mischief,
+text: the librarian glances up. Peter heads into the stacks with the bag,
+text: pursued by Harry. They whisper:
+speaker_heading: PETER
+dialog: You maniac. You’ll blow your scholarship.
+speaker_heading: HARRY
+dialog: They’ll never take me alive.
+text: Peter ducks as the librarian passes. Harry snatches the bag back,
+text: artistically swipes the man’s rump with it. The librarian doesn’t notice.
+speaker_heading: PETER
+dialog: What’s in there?
+speaker_heading: HARRY
+dialog: A little bunny I saved from dissection.
+speaker_heading: PETER
+dialog: Harry!
+text: Roz walks past, looks at Peter, who waves nervously.
+speaker_heading: ROZ
+dialog: Mr. Parker.
+speaker_heading: PETER
+dialog: Hi, Professor. What’s up?
+text: Harry scrambles atop stack “H-K” by a window. A tape deck sits at the
+dialog: ready.
+speaker_heading: ROZ
+dialog: You tell me.
+text: Roz sees Harry signal out the window--
+scene_heading: EXT. LIBRARY - DAY
+text: A VAN MARKED “RUTLAND’S COMPLEAT HUNTER” PARKED BY THE STEPS. TWO MEN IN
+text: RED HUNTING JACKETS RETURN HARRY’S SIGNAL AND OPEN THE VAN DOORS.
+scene_heading: INT. READING ROOM - DAY
+text: HARRY CLICKS ON THE TAPE PLAYER-- A HUNTING TRUMPET, ROUSING EVERYONE IN
+speaker_heading: THE LIBRARY.
+text: A dozen baying basset hounds rush in, following the scent over tables,
+text: under chairs, upsetting everything in their wake. Pandemonium: students
+text: laugh, applaud, some join in the chase. Dogs pursue the librarian, who
+text: falls, overturning a bookcase. Peter smiles in spite of himself. Roz
+text: claps.
+text: From atop his bookcase, Harry watches it all proudly. The scent bag’s
+text: still in his hand. The dogs pick up on it, leaping and yelping at him.
+scene_heading: EXT. WASHINGTON PARK - DAY
+text: LATE AFTERNOON. PETER AND LIZ CROSS THE PARK TOWARD A PRETZEL VENDOR.
+speaker_heading: PETER
+text: -- but the dogs treed him between Huxley and Kafka.
+speaker_heading: LIZ
+dialog: Poor Harry. Always desperate for attention. What about
+dialog: the bunny?
+speaker_heading: PETER
+dialog: Back to the lab. Harry’ll probably lose his scholarship.
+text: Peter pays for two pretzels-- two dollars and no change. He winces a
+text: little. She takes a bite of pretzel.
+speaker_heading: LIZ
+dialog: He’ll weasel out of trouble. Again.
+speaker_heading: PETER
+dialog: Maybe. I could have stopped it, though.
+speaker_heading: LIZ
+dialog: Since you’re feeling guilty, why not donate your pretzel to
+dialog: somebody who needs it?
+text: She gestures over her shoulder toward a derelict. A tacky, blatantly
+text: sexual woman in her early 20s-- KIM-- wiggles past the bum in question.
+speaker_heading: PETER
+dialog: My my.
+speaker_heading: LIZ
+dialog: Yeah. Really gets to you if you let it.
+text: Liz looks past Peter into the distance.
+speaker_heading: PETER
+dialog: I suppose.
+speaker_heading: LIZ
+dialog: You want to give them something, but they’ll just buy more
+dialog: Ripple. And they smell so…bad.
+speaker_heading: PETER
+dialog: What?
+text: Peter looks at Liz, puzzled and amused. She waves toward the Washington
+text: Square arch, where Flash gets out of his double-parked MG. His eyes follow
+text: Kim’s rear, he pants lasciviously.
+speaker_heading: LIZ
+dialog: God, Flash can be such a jerk.
+speaker_heading: PETER
+dialog: But you like that in a man?
+speaker_heading: LIZ
+dialog: You should write that one down.
+speaker_heading: PETER
+dialog: “Flash,” Liz. You’re going out with something that calls
+dialog: itself “Flash.”
+speaker_heading: LIZ
+dialog: Some prep school thing.
+speaker_heading: PETER
+dialog: Does it have a human name?
+speaker_heading: LIZ
+dialog: Eugene. Admit it, Peter-- you’d do anything for a nickname
+dialog: like “Flash.”
+speaker_heading: PETER
+dialog: I’d never admit that.
+speaker_heading: LIZ
+dialog: Hurry up, Flash!
+text: She stops. She looks at Flash, then back at Peter.
+speaker_heading: LIZ
+dialog: What are you doing this weekend?
+speaker_heading: PETER
+dialog: I’ve gotta study.
+speaker_heading: LIZ
+dialog: Oh. Maybe I should, too--
+speaker_heading: FLASH
+dialog: Lizzy!
+speaker_heading: LIZ
+dialog: I was sort of hoping to get out of--
+speaker_heading: FLASH
+dialog: I’m parked illegally!
+text: Liz purses her lips, then hurries to Flash, gets into his car. As the MG
+text: speeds away, she turns in the passenger seat, watching Peter recede into
+dialog: the distance.
+scene_heading: EXT. BUGLE OFFICES -DAY
+text: A 1940S OFFICE BUILDING, THE KIND WITH PITTED LINOLEUM AND SMELLY
+text: ELEVATORS. A FADED PLASTIC SIGN IN A FOURTH FLOOR WINDOW READS “THE
+scene_heading: BUGLE, NEW YORK’S FAVORITE TABLOID.”
+speaker_heading: JAMESON (VO)
+dialog: No. No. Forget it.
+scene_heading: INT. JAMESON’S OFFICE - DAY
+scene_heading: A HAND SORTS THROUGH 8X10 B&W PHOTOS: A BAG LADY WITH A SHOPPING CART--
+speaker_heading: JAMESON
+dialog: Too artsy.
+text: Peter looks over Jameson’s shoulder, collecting the rejects in mounting
+text: frustration. Next is a wacky sign, such as “HAPPIE FUNERAL HOME--“
+speaker_heading: JAMESON
+dialog: Too dumb.
+text: Peter makes a gesture as if to throttle Jameson. The next photo shows a
+text: mohawked punk in a business suit with a briefcase--
+speaker_heading: JAMESON
+dialog: Too hip. Your photos suck, kid.
+speaker_heading: PETER
+dialog: I think you’re trying to tell me something.
+text: J.JONAH JAMESON is 50, greying, sour-faced, cigar-chewing. Unlike the
+text: gruff-but-benign stereotype, publisher Jameson is a bastard to the last.
+text: Framed photos of celebrities, biological freaks and aliens line the walls.
+text: Papers and rotting coffee cups clutter his ratty desk; sluggish activity
+text: out in the main office. The feel is cynical exhaustion: the Bugle is the
+dialog: dregs of the newspaper world
+text: BETTY, Jameson’s 30-ish assistant, enters with a layout on boards. She
+text: looks Peter over. Peter doesn’t notice, holding up the bag lady photo.
+speaker_heading: PETER
+dialog: Think of the cutline: “Bag lady makes millions recycling
+dialog: cans!”
+text: Betty grins; Jameson considers it, then shakes his head. He signs the
+dialog: boards “JJJ.”
+speaker_heading: JAMESON
+dialog: Bring me some stuff that’ll grab the morons, something
+dialog: like, like--
+text: Jameson holds up the front-page board, featuring a bus teetering on
+text: abridge, with a huge headline, ‘BUS PLUNGE KILLS 20.” He grins proudly.
+speaker_heading: PETER
+dialog: Come on, that’s pure luck! The guy was in the right place
+dialog: at the right time--
+speaker_heading: JAMESON
+dialog: You make your own luck, Parker! Get into the middle of
+dialog: things, spend every day pounding the pavement of the
+dialog: city’s mean streets--
+speaker_heading: BETTY
+dialog: But you’re a full-time student, right?
+speaker_heading: PETER
+dialog: My scholarship only covers books and tuition, so I’ve got
+dialog: to freelance to--
+speaker_heading: JAMESON
+dialog: Save the chit-chat for the singles’ bar. Now out, both of
+dialog: you.
+text: Betty sticks her tongue out at Jameson and opens the door for Peter.
+scene_heading: EXT. PETER’S APARTMENT BUILDING - EVENING
+text: A SEEDY EAST VILLAGE WALK-UP. PETER COLLECTS HIS MAIL, UNLOCKS THE OUTSIDE
+speaker_heading: DOOR.
+scene_heading: INT. PETER’S HALLWAY - EVENING
+text: PANTING, PETER CLIMBS THE LAST FLIGHT TO HIS STUDIO LOFT, MUTTERING AT HIS
+text: BILLS. AT THE HEAD OF THE STAIRS, HE STOPS. HIS DOOR IS AJAR. HE TAKES A
+text: DEEP BREATH, CLUTCHING THE KEYS BETWEEN HIS FINGERS AS A WEAPON.
+speaker_heading: PETER
+dialog: There’s nothing in there worth stealing!
+speaker_heading: MAY
+dialog: (from within)
+dialog: That’s the understatement of the year.
+scene_heading: INT. PETER’S APARTMENT - EVENING
+text: A ONE-ROOM, EAVED APARTMENT, A CHAOS OF BOOKS AND PAPERS. A PHOTO ENLARGER
+text: AND DARKROOM BATHS IN KITCHEN POTS; 8X10S TACKED TO THE WALLS; A SPARE
+scene_heading: CAMERA AND LENSES. SELF-CONSCIOUSLY WACKY KITSCH: PLASTIC DINOSAURS, WIND-
+text: UP TOYS, A STUFFED CARP. AN UNMADE BED AND A 50S DINETTE SET ARE THE ONLY
+text: FURNITURE. A GRIMY SKYLIGHT LEADS TO THE ROOF. IT’S NOT A PRETTY PLACE,
+text: BUT IT HAS PERSONALITY.
+text: A slim, sharp-featured woman in her 50s kneels by the stereo-- AUNT MAY.
+text: In stylish slacks and jacket, she radiates vigor and poise. Peter enters,
+text: tosses his backpack and bills on the formica table.
+speaker_heading: PETER
+dialog: Aunt May, you’re trespassing.
+speaker_heading: MAY
+dialog: Your records are older than you are. Have you never heard
+dialog: of new wave?
+text: Peter sprawls in a plastic chair. May shrugs and settles for a Beatles
+text: album. Moving fast, she crosses toward him, leans to kiss his forehead and
+text: stops, stares, points at a pimple near his hairline.
+speaker_heading: PETER
+dialog: When I moved out, you swore up and down you wouldn’t meddle-
+dialog: -
+speaker_heading: MAY
+dialog: Oh, Peter. A zit.
+text: Annoyed, he brushes his hair over the offending spot. May crosses lithely
+text: to the kitchenette, where a grocery bag sits on the counter.
+speaker_heading: MAY
+dialog: I wasn’t meddling. I was just so desperately bored I
+dialog: thought I’d come over and make you dinner--
+text: She tosses him a fresh apple from the bag, he bites a chunk out of it.
+speaker_heading: PETER
+dialog: I am old enough to--
+speaker_heading: MAY
+dialog: --but I didn’t feel like getting to know your roaches.
+speaker_heading: PETER
+dialog: I’ll introduce you.
+speaker_heading: MAY
+dialog: Ick. And those foul chemicals in the pots--
+speaker_heading: PETER
+dialog: I’m a photographer, remember?
+speaker_heading: MAY
+dialog: Anyway, I’ve decided to kidnap you for dinner in Forest
+dialog: Hills--
+text: She grabs her coat, crosses to Peter and tugs on his shoulder.
+speaker_heading: PETER
+dialog: It’s Friday night…
+speaker_heading: MAY
+dialog: Yes. Do you have a date?
+speaker_heading: PETER
+dialog: No.
+text: She pulls his chair toward the door, he gets up,laughing.
+speaker_heading: PETER
+dialog: The record--
+speaker_heading: MAY
+dialog: (already in the hallway)
+dialog: It’ll shut itself off.
+scene_heading: INT. EXPERIMENTAL CHAMBER - NIGHT
+text: A WALDO WITHDRAWS FROM THE GRAM WEIGHT. THE CYCLOTRON WHIRS, LIGHT BEAMS
+text: DOWN ON THE TINY METAL CYLINDER FROM A CRYSTAL FOCUSING CONE.
+scene_heading: INT. CONTROL ROOM - NIGHT
+scene_heading: OCK CHAIN-SMOKES, HALF-WATCHING THE COLORED PARTICLE PATTERNS, SCRIBBLING
+scene_heading: NOTES. QUICK READOUTS: “80% ENERGY CAPACITY,” “STANDARD PARTICLE
+scene_heading: ACCELERATION,” ETC. THE MASS REMAINS STABLE AT 1.0000000. THE CLOCK READS
+dialog: 6:34.
+scene_heading: EXT. SCIENCE CENTER - NIGHT
+text: THORKEL AND WORKER WITH A TOOL BELT ENTER THE RED-BRICK BUILDING.
+scene_heading: INT. CONTROL ROOM - NIGHT
+text: ON THE COMPUTER SCREEN, A SINGLE STREAK GLOWS RED AND ARCS UPWARD WITH A
+scene_heading: MUSICAL TONE. A READOUT: “PLEASE AVOID SYSTEM OVERLOAD. THANK YOU.” OCK
+text: TWISTS A RHEOSTAT TO CRANK UP THE POWER. MORE RED STREAKS AND TONES. THE
+scene_heading: READOUT: “NEGATIVE GRAVITATION ACHIEVED.”
+text: Elation fills Octavius. He stands up and takes a deep breath. The digital
+text: mass counter fluctuates between 1.0000000 to 0.9999999.
+scene_heading: INT. BASEMENT HALLWAY - NIGHT
+text: THORKEL AND THE WORKER WALK DOWN THE HALL. ANIMAL NOISES FROM BEHIND A
+speaker_heading: DOOR.
+scene_heading: INT. CONTROL ROOM - NIGHT
+scene_heading: OCK STANDS, ARMS CROSSED. THE READ-OUTS ARE NORMAL AGAIN: NO TONES, NO
+scene_heading: MASS FLUCTUATION. THORKEL ENTERS, SHIELDING HIS EYES. OCTAVIUS TURNS,
+scene_heading: LIFTS HIS GOGGLES.
+speaker_heading: OCK
+dialog: Ha. Anti-gravitational particles.
+speaker_heading: THORKEL
+dialog: Power down. I need to talk to you.
+speaker_heading: OCK
+dialog: Proof. Proof of a unified field. Not just theory and
+dialog: equations-- experimental proof.
+speaker_heading: THORKEL
+dialog: Let’s talk in the hall.
+scene_heading: INT. BASEMENT HALLWAY - NIGHT
+text: THE WORKER CROUCHES, UNSCREWING A PANEL NEAR THE DOOR. IGNORING THIS,
+text: OCTAVIUS CROSSES TO THORKEL, A FEW YARDS FROM THE DOOR.
+speaker_heading: OCK
+dialog: In this obsolete little cyclotron, I’m solving the greatest
+dialog: physics problem of the 20th Century. With more power, I
+dialog: could--
+speaker_heading: THORKEL
+dialog: I’ve had an extremely bad day, Octavius. A sophomoric
+text: prank in the library and punitive measures.
+text: Behind them, the worker continues. Thorkel glances at him, keeps stalling.
+speaker_heading: THORKEL (cont.)
+dialog: Then the alumni reports came in-- fund-raising is down this
+dialog: year.
+speaker_heading: OCK
+dialog: I couldn’t care less. What I’ve done is--
+text: The worker looks at Thorkel and nods, walks off. Thorkel follows.
+speaker_heading: THORKEL
+dialog: What you’ve done is make the entire physics department look
+dialog: foolish. You compare yourself to Einstein; your colleagues
+dialog: compare you to Bozo the Clown.
+speaker_heading: OCK
+dialog: This is the unified field! All the forces of the universe
+dialog: tied together-- perfectly!
+text: Thorkel pauses at the foot of the staircase, his voice echoes down the
+dialog: hall.
+speaker_heading: THORKEL
+dialog: You’ve used up your grant. The electric bills alone exceed
+dialog: your annual salary. Not to mention the potential hazards
+dialog: of your radioactive fuel.
+speaker_heading: OCK
+dialog: I don’t care.
+dialog: (under his breath)
+dialog: Cretin.
+text: Ock crosses back to the cyclotron door, pulls out his card key.
+speaker_heading: THORKEL
+dialog: You’re denied access to the cyclotron.
+text: The lock spits out Ock’s card, a red light flashes once. He stares at it
+dialog: in disbelief.
+speaker_heading: OCK
+dialog: You changed the lock.
+text: Thorkel heads up the stairs. Anger wells up in Ock.
+speaker_heading: THORKEL
+dialog: That Nobel Prize will just have to wait.
+speaker_heading: OCK
+dialog: No!
+text: He bangs his fist on the door, causing the unseen lab animals to SCREAM.
+scene_heading: INT. MAY’S LIVING ROOM - NIGHT
+text: THE SOUND OF FANS SCREAMING ON A TV BASEBALL GAME. A REFRIGERATOR SLAMS
+dialog: O.S.
+text: Peter sits on the couch, feet propped on a coffee table. The lower-middle-
+text: class home reflects May’s personality: her own odd landscapes on the
+text: walls, crude sculptures, macramé hangings. There is too much furniture:
+text: an agglomeration of once-trendy pieces dating from the 40s to the present.
+text: BEN enters from the kitchen, a can of beer in each hand. Ben is 60,
+text: happily overweight, a gentle, good-natured working stiff with a mild
+text: Brooklyn accent. He wears trousers, sports shirt and slippers.
+speaker_heading: BEN
+dialog: Here you go, Pete.
+speaker_heading: PETER
+dialog: Uh, Uncle Ben, I--
+speaker_heading: BEN
+dialog: (solicitous)
+dialog: What, want a glass?
+speaker_heading: PETER
+dialog: No. No, that’s okay.
+text: Ben sits back in his comfy chair in the corner, with a magazine rack, a row
+text: of pipes, and a print of dogs playing poker. He pops open his beer.
+speaker_heading: BEN
+dialog: So, uh… how’s college goin’?
+speaker_heading: PETER
+dialog: Same old stuff.
+dialog: (beat)
+dialog: How’s the pharmacy?
+speaker_heading: BEN
+dialog: Ah, ya know. Neighborhood’s not what it used to be. Kid
+dialog: no more’n five swiped a candy bar the other day.
+speaker_heading: PETER
+dialog: You stop him?
+speaker_heading: BEN
+dialog: Wasn’t worth gettin’ upset over a Milky Way. Anyways, I
+dialog: was never much for, ya know, discipline.
+speaker_heading: PETER
+dialog: I know. Still thinking about retiring?
+speaker_heading: BEN
+dialog: Eh. If I ever get out from under. Maybe take May to
+dialog: France or somethin’.
+text: An awkward pause; they both know it’ll never happen. They look at the TV.
+speaker_heading: BEN
+dialog: Ya still follow the Mets, Pete?
+speaker_heading: PETER
+dialog: No…not really.
+speaker_heading: BEN
+dialog: S’funny. When your mom and dad, uh, passed away, I had
+dialog: this idea. I wanted you to be the best baseball player in
+dialog: the world.
+speaker_heading: PETER
+dialog: Remember Little League?
+speaker_heading: BEN
+dialog: Yeah, Babe Ruth you wasn’t.
+text: They laugh. Another awkward pause. Peter pops open his beer, sips it
+text: distastefully.
+speaker_heading: BEN
+dialog: Ya set for, uh, ya know-- money?
+speaker_heading: PETER
+dialog: Oh, sure.
+speaker_heading: BEN
+dialog: Cause if you get in a bind--
+speaker_heading: PETER
+dialog: No, no.
+speaker_heading: BEN
+dialog: Yeah, ya like to do things on your own
+dialog: (beat)
+dialog: I been thinkin’ lately. Maybe I wasn’t the, ya know,
+dialog: greatest dad--
+speaker_heading: PETER
+dialog: Oh, come on, Ben ,that’s not--
+speaker_heading: BEN
+dialog: -- no, I mean… we… your Aunt May not wantin’ kids and all…
+dialog: I mean we both…
+text: The front door opens. May enters with a pizza box, looks at Ben’s
+dialog: expression.
+speaker_heading: MAY
+dialog: You’re not getting maudlin again.
+text: She crosses to the kitchen. Peter looks relieved.
+speaker_heading: BEN
+dialog: When you won that scholarship, I was proud of you.
+speaker_heading: PETER
+dialog: I know.
+speaker_heading: BEN
+dialog: I’m always here, Pete.
+text: May re-enters, playing an imaginary violin. She flips off the TV, crosses
+text: back to the kitchen. Peter and Ben follow, Ben pats Peter’s shoulder.
+scene_heading: INT. MAY’S KITCHEN - NIGHT
+text: COPPER POTS, STRINGS OF GARLIC. ON THE TABLE SITS A PLASTIC PHOTO CUBE,
+text: FULL OF SHOTS OF PETER: BABY, CUTE KID, GEEKY HIGH SCHOOLER WITH GLASSES
+scene_heading: AND BRACES. MAY GETS PAPER PLATES; PETER STARES INTO THE PIZZA BOX; BEN
+text: OPENS THE FRIDGE FOR ANOTHER BEER.
+speaker_heading: PETER
+dialog: What the hell is that?
+speaker_heading: MAY
+dialog: Tofu. Ben, I wish you wouldn’t.
+text: Peter watches Ben as they all sit down to eat. Ben opens the can.
+speaker_heading: BEN
+dialog: I like beer. Helps take the edge off around here.
+text: Peter changes the subject, points to his geeky high school photo.
+speaker_heading: PETER
+dialog: Oh, not that. You promised you’d burn it.
+speaker_heading: MAY
+dialog: You were adorable.
+dialog: (to Ben)
+dialog: The least you could do is use a glass.
+text: Ben sighs and reaches for a piece of pizza.
+speaker_heading: MAY
+dialog: Absolutely no class.
+speaker_heading: PETER
+dialog: Funny thing happened after my physics class today. Harry
+dialog: Osborn--
+speaker_heading: MAY
+dialog: (to Ben)
+dialog: Use a fork.
+text: Ben puts down the pizza, looks at May.
+speaker_heading: BEN
+dialog: Okay, I’m a slob. Ya sorry you married so far beneath you?
+speaker_heading: MAY
+dialog: What do you think?
+text: Silence. May looks at Peter.
+speaker_heading: PETER
+dialog: A match made in heaven.
+speaker_heading: MAY
+dialog: (softening)
+dialog: See? You big dullard.
+text: Ben smiles; May smiles back. Peter isn’t smiling. He’s refereed too
+dialog: often.
+scene_heading: EXT. FDR DRIVE - NIGHT
+text: OCK’S AGED DODGE DART SPEEDS TOWARD DOWNTOWN MANHATTAN.
+scene_heading: INT. OCK’S CAR - NIGHT
+text: IN AN ALLEY NEAR E.S.U. A PARKED CAR, LITTERED WITH GARBAGE, SCHOOL PAPERS,
+text: CRUSHED CIGARETTE PACKS. ON THE CRACKED VINYL SEAT LIE THE REMAINS OF
+scene_heading: SEVERAL CHOPPED-UP CREDIT CARDS, ALL READING “OTTO OCTAVIUS.” OCK’S HANDS
+scene_heading: RUN A MAGNET OVER THE SCOTCH-TAPED COMPOSITE STRIPE ON A ESU CARD-KEY.
+scene_heading: EXT. SCIENCE CENTER - NIGHT
+scene_heading: TWO PHYSICS GRAD STUDENTS-- GAWKY STEVE AND ASIAN LUCY-- LEAVE THE
+text: BUILDING, LAUGHING. ROZ, SMILING, LOCKS THE DOOR ON THE WAY OUT.
+speaker_heading: STEVE
+dialog: -- from that paper you’d think he had an IQ well below
+dialog: plant life--
+speaker_heading: LUCY
+dialog: The theory isn’t all that stupid. Just sort of inelegant,
+dialog: and ugly, and--
+text: Ock climbs up the steps-- the laughter stops immediately.
+speaker_heading: STEVE
+dialog: Hey, Doc Ock! Speak of the devil!
+speaker_heading: ROZ
+dialog: (over him)
+dialog: Otto, Otto! Do join us. Chianti and pasta at Anna’s.
+dialog: Remember that night after your orals when I--
+speaker_heading: OCK
+dialog: No. No thank you. I have work.
+speaker_heading: ROZ
+dialog: I heard about Thorkel’s order--
+speaker_heading: OCK
+dialog: I left a paper in my desk.
+speaker_heading: STEVE
+dialog: You’re not planning to publish it, I hope?
+text: With a look, Roz silences the grads’ laughter. Ock pays them no mind
+text: anyway, goes up the steps and enters the building. Roz leads the students
+text: away, glancing back at Ock with concern.
+scene_heading: INT. BASEMENT HALLWAY - NIGHT
+scene_heading: OCK CROSSES TO THE CYCLOTRON DOOR, INSERTS THE JERRY-RIGGED CARD-KEY. THE
+text: LOCK REJECTS IT. HE SCRATCHES AT THE STRIPE WITH A HOUSE KEY, REINSERTS IT-
+text: - REJECTED. OCK LOOKS AROUND FURTIVELY, PUSHES AND HOLDS IT IN. THIS
+text: TIME, A GREEN LIGHT GOES ON AND THE DOOR UNLATCHES.
+scene_heading: INT. EXPERIMENTAL CHAMBER-NIGHT
+text: THE CYCLOTRON WHINES, THE BEAM ERUPTS FROM THE FOCUSER ONTO THE WEIGHT.
+text: Crawling on the crystal cone we see the spider from our opening image.
+scene_heading: INT. CONTROL ROOM
+text: RED PATTERNS ON THE COMPUTER SCREEN, WITH ACCOMPANYING TONES. THE DIGITAL
+scene_heading: READOUT DIPS BELOW 1.0, FLASHING SLOWLY-DESCENDING NUMBERS. A STRANGE,
+scene_heading: DISTINCTIVE THROB GROWS LOUDER. READOUT: ‘APPROACHING NEGATIVE MASS.”
+text: OCK WATCHES THE CHAMBER INTENTLY, THRILLED. “OVERLOAD-- SHUT DOWN NOW,
+scene_heading: PLEASE.” INSTEAD, OCK INCREASES POWER.
+scene_heading: INT. EXPERIMENTAL CHAMBER
+text: THE SPIDER DROPS ON A WEB STRAND TOWARD THE WEIGHT, WHICH PULSATES WEIRDLY.
+scene_heading: INT. CONTROL ROOM
+text: THE MASS INDICATOR NEARS ZERO. A VOLTMETER SWINGS INTO OVERLOAD, A WARNING
+scene_heading: ALARM SOUNDS, READOUT: ‘OVERLOAD-- DAMAGE MAY RESULT,” THEN: ‘SYSTEM
+scene_heading: ERROR -- SYSTEM ERROR-- SYSTEM ERROR.” THE WARNINGS FILL THE SCREEN.
+text: On the monitor, the gram weight PULSES, the THROB gets louder. The spider
+text: drops inches from it. Ock, annoyed, seizes the waldo controls to swipe at
+text: the descending spider.
+scene_heading: INT. EXPERIMENTAL CHAMBER
+text: A WALDO SWIPES AT THE SPIDER. SENSING THIS, THE SPIDER DROPS, ALIGHTING ON
+text: THE GLOWING GRAM WEIGHT.
+scene_heading: INT. CONTROL ROOM
+text: THE MASS READOUT JUMPS FROM 0.00000133 UP TO 1.77349012. ON THE MONITOR,
+text: THE WEIGHT SPINS OFF THE SCALE. IN RAPID SUCCESSION:
+text: All the dials and readouts go mad, the computer screen IMPLODES.
+text: Ock’s eyes open wide, his face registers ecstasy.
+text: The control room glass turns to fluid, sucked into the chamber.
+text: A yard-wide hole rips open in the cyclotron tube.
+text: Ock is thrust against the controls, his shirt rips away.
+text: The waldos flail madly, steel walls buckle like rubber.
+text: Wires snap, shooting sparks, cyclotron pipes squirm and bend like snakes.
+text: The PULSING light slashes through everything
+scene_heading: INT. BASEMENT HALLWAY
+text: THE LIGHT PENETRATES THE WALLS FROM THE CYCLOTRON ROOM
+text: Doors bang open and closed, carts of chemicals spin. Lab animals SCREAM.
+text: Walls and objects warp together, surrealistic.
+scene_heading: INT. EXPERIMENTAL CHAMBER
+text: AS SUDDENLY AS THE EFFECTS BEGAN, THEY CEASE. DEAD SILENCE.
+text: The spider, glowing slightly, scuttles across the floor.
+scene_heading: INT. CONTROL ROOM
+text: TIGHT ON OCK, LYING ON THE FLOOR IN THE EERIE, DIM LIGHT. HE OPENS HIS
+speaker_heading: EYES.
+text: The room around him looks melted: dials, monitors and switches distorted
+text: as in a fun-house mirror; a chair fused into a wall, the door twisted,
+dialog: rippled.
+text: Ock looks down, fascinated.
+text: The extended metallic waldo tentacles curl on the floor. We follow the
+text: length of one of them to its new source. It joins with Ock’s torso.
+text: All four waldos penetrate the flesh of Ock’s bare chest and belly.
+text: Octavius SHRIEKS.
+scene_heading: INT. BASEMENT HALLWAY
+text: WARPED AND WEIRD. OCK’S SCREAM ECHOES AND DIES.
+scene_heading: EXT. SCIENCE CENTER - DAY
+text: UNDAMAGED ON THE OUTSIDE, SURROUNDED BY NYPD PATROL CARS, FIRE TRUCKS,
+scene_heading: SEDANS MARKED “NUCLEAR REGULATORY COMMISSION,” EPA VANS AND A SINGLE
+text: AMBULANCE. POLICE SEARCH OCK’S DART AS A TOW TRUCK PREPARES TO TAKE IT.
+scene_heading: CONSTRUCTION WORKERS ERECT PLYWOOD BARRIERS AROUND THE BUILDING, OVER
+speaker_heading: WINDOWS.
+text: Police lines holdback a crowd of reporters, students and gawkers. J. Jonah
+text: James himself pushes to the front of the throng. Two guards hustle out to
+text: a NEWS PHOTOGRAPHER. Jameson collars the man.
+speaker_heading: JAMESON
+dialog: Get anything good?
+text: The photographer shakes his head. Jameson flings his cigar to the
+text: sidewalk. Ashen, Thorkel exits the Science Center, addresses the crowd.
+speaker_heading: THORKEL
+dialog: Please, all of you go home! There’s nothing to report
+dialog: here!
+speaker_heading: JAMESON
+dialog: That’s a load a’ crap!
+text: A barrage of AD LIB questions: “We heard there was an explosion!” “Was it
+dialog: terrorism?” “A nuclear accident?” “A meltdown, was it a meltdown?”
+speaker_heading: THORKEL
+dialog: No, no, no, please--
+speaker_heading: JAMESON
+dialog: I bet it was genetic engineering! You guys makin’ mutants
+dialog: in there?
+text: Peter, curious, makes his way toward Jameson.
+speaker_heading: THORKEL
+dialog: There was a boiler explosion. Only minor damage--
+speaker_heading: REPORTER
+dialog: Why the ambulance? Who was hurt?
+speaker_heading: THORKEL
+dialog: Just-- just a custodian-- we haven’t as yet reached the
+dialog: family--
+speaker_heading: JAMESON
+dialog: Was he killed?
+speaker_heading: THORKEL
+dialog: No. No, please. Nothing more I can say at this time.
+text: Thorkel re-enters the building. Police hold reporters back, AD LIB
+speaker_heading: QUESTIONS.
+speaker_heading: PETER
+dialog: You taking extension classes, Mr. Jameson?
+speaker_heading: JAMESON
+dialog: Parker-- you go here, right? Got your camera?
+speaker_heading: PETER
+dialog: Yeah--
+speaker_heading: JAMESON
+dialog: Get inside and get pictures. Fifty bucks.
+speaker_heading: PETER
+dialog: Can we make it a hundred?
+speaker_heading: JAMESON
+dialog: Seventy. But I want blood and gore. You know, sexy stuff.
+text: Peter nods, pulls his Nikon from his pack and hands the pack to Jameson.
+scene_heading: EXT. SCIENCE CENTER ALLEY - DAY
+text: PETER TEARS HIS PANTS ON THE TOP OF A CYCLONE FENCE, FALLS IN A GRACELESS
+text: HEAP. CURSING, HE CHECKS THE CAMERA FOR DAMAGE, GETS TO HIS FEET WITH
+text: PAIN. AN UNMARKED WHITE VAN BLOCKS THE FAR END OF THE ALLEY.
+text: Afire door opens to the science center. Peter ducks behind a dumpster.
+text: Two men in radiation suits carry out a small stretcher, atop it a vision
+text: from a nightmare: a whimpering dog fused with a wire cage. While the men
+text: load it into the van, Peter limps through the fire door and inside.
+scene_heading: INT. BASEMENT HALLWAY - DAY
+scene_heading: ARCHITECTURAL ANGLES SKEWED, WALLS AND DOORS “MELTED” AND RE-SOLIDIFIED AS
+text: A RESULT OF THE EXPERIMENT. VOICES OF VARIOUS OFFICIALS FILTER DOWN THE
+text: HALL. PETER STAYS OUT OF SIGHT, SNAPPING PICTURES.
+speaker_heading: NYPD CAPTAIN
+dialog: -- could be called burglary, but the Department
+dialog: relinquishes jurisdiction--
+speaker_heading: NRC MAN
+dialog: -- practical applications for defense--
+speaker_heading: FIRE CHIEF
+dialog: -- Jesus, those animals--
+text: Roz accompanies two paramedics wheeling a sheet-covered body on a gurney up
+text: the hall. Peter sees that it’s Ock, snaps a photo, then ducks into the
+dialog: men’s room.
+scene_heading: INT. MEN’S ROOM - DAY
+text: LIKE A DALI: URINALS COMPRESSED AND STRETCHED, PORCELAIN SINKS TWISTED,
+text: STALLS FUSED WITH THE SLOPED FLOOR AND GNARLED PLUMBING. PETER ENTERS,
+text: SWEEPING AWAY THE STRANDS OF A SPIDER’S WEB. THROUGH THE DOOR, HE HEARS
+text: THE GURNEY ROLL BY.
+speaker_heading: PARAMEDIC #1
+dialog: -- never seen nothin’ so weird.
+speaker_heading: PARAMEDIC #2
+dialog: Oh, I have. In ’69. We was up in Boston, trippin’ our
+dialog: brains out--
+speaker_heading: ROZ
+dialog: Please.
+text: Their voices recede. A SQUEAK at Peter’s feet startles him-- he looks down
+dialog: to see--
+text: A white lab rat, melded to its exercise wheel, struggling pathetically
+text: across the tile floor. Peter reacts, focuses his camera on it.
+text: Above Peter’s head, the still-glowing spider drops from its twisted web on
+text: a strand. It lands unnoticed on his hand-- and bites.
+text: Peter slaps his hand, but the spider drops onto the floor, ceases to glow.
+text: Its limbs contract in death.
+text: Peter drops his camera as a wave of nausea hits him. He braces against a
+text: sink, sees his image in a twisted mirror-- drenched in sweat, his face
+text: flushed red. A GUARD pushes the door open behind him.
+speaker_heading: GUARD
+dialog: Hey! What the hell you doin’ in here?
+speaker_heading: PETER
+dialog: I was thinking about throwing up--
+text: The guard grabs the dazed Peter and hustles him out.
+scene_heading: EXT. SCIENCE CENTER - DAY
+text: THE GUARD PUSHES PETER OUT THE DOOR. SOUNDS OF THE CROWD AND CITY ARE A
+text: MUDDLED ROAR TO PETER. AND HE’S NOT LIMPING ANYMORE.
+speaker_heading: PETER
+dialog: My ankle doesn’t hurt--
+speaker_heading: GUARD
+dialog: Good for you. Stay outta here.
+text: The guard shoves him past the police line, where Jameson approaches him.
+speaker_heading: JAMESON
+dialog: Okay, kid, what you got?
+text: Peter, dizzy, tries to rewind his film. In BG, medics load Ock into the
+dialog: ambulance.
+speaker_heading: PETER
+dialog: Can’t focus…
+speaker_heading: JAMESON
+dialog: Gimme that. Pick it up later.
+text: He snatches the camera, stuffs it in Peter’s backpack, heads off. Peter
+text: lifts his glasses to rub his eyes.
+text: PETER’S POV: The world comes into sharp, precise focus.
+text: Peter shakes himself, looks through the glasses again, then puts them in
+text: his pocket. He heads unsteadily down the street, away from the dwindling
+dialog: crowd.
+scene_heading: EXT. GREENWICH VILLAGE STREET - DAY
+text: STILL WOOZY, PETER STARTS ACROSS THE STREET. THE AMBULANCE BARRELS TOWARD
+speaker_heading: HIM--
+text: The SIREN suddenly WAILS above the urban din--
+text: Peter turns to see the bumper only feet away--
+text: Instinctively he jumps UP, OUT OF FRAME--
+text: The ambulance speeds on its way.
+scene_heading: EXT. BRICK BUILDING - DAY
+scene_heading: CLOSE, ON PETER’S FACE, PRESSED AGAINST THE BRICKS, EYES CLOSED, BREATHING
+text: HARD. HE OPENS HIS EYES, REGAINING HIS SENSES. PUZZLEMENT… THEN FEAR.
+text: HE LOOKS DOWN.
+text: The sidewalk is fifteen feet below him.
+text: He’s clinging flat against the wall, palms at his sides against the bricks.
+text: Peter whimpers. A tremor in his hand, he reaches to pull himself upward.
+text: He tries for a toehold. Brick crumbles beneath his feet, he swings wildly,
+text: but his fingertips hold him against the building’s face.
+text: He looks at his fingers, his hand-- the spider bite glows faintly under his
+dialog: skin.
+text: Tentatively at first, he inches upward. With growing confidence, he crawls
+text: up the wall to the roof of the ten-story structure.
+scene_heading: EXT. ROOFTOP - DAY
+text: UNLIKE THE CLAUSTROPHOBIC STREETS BELOW, SKY AND SPACE ABOUND. AT THE
+text: LEDGE, PETER CLUTCHES AN IRON VENT PIPE TO PULL HIMSELF UP. IT CRUNCHES IN
+text: HIS GRIP. HE CLAMBERS TO THE FLAT ROOF AND REGARDS THE PIPE, THE DIZZYING
+text: HEIGHT. HE LOOKS AROUND HIM, WONDERING IF HE’S LOST HIS MIND. HE SITS
+text: DOWN NEAR THE LEDGE.
+speaker_heading: PETER
+dialog: This is very strange.
+text: He rubs the back of his hand-- the glow of the spider-bite vanishes.
+text: Getting slowly to his feet, he stretches, flexes his muscles. His body
+text: feels somehow different. He shrugs, then jumps straight up-- about fifteen
+text: feet, as if from a trampoline. He lands agilely.
+text: Confusion turns to elation.
+text: He leaps to the roof access door, clings to it and crawls to the top of the
+text: small shack. New York stretches in every direction. The sun peeks out
+text: from behind the clouds.
+text: Peter LAUGHS in pure exhilaration. He leaps from the access door, and runs
+text: at full speed across the roof, enjoying his body. At the ledge, he leaps
+dialog: into space--
+scene_heading: EXT. NEW YORK ROOFTOPS - DAY
+text: --AND LANDS ATOP THE SLOPED ROOF OF THE NEXT BUILDING. PETER KEEPS JUMPING
+text: WITH THE SAME HEADY FREEDOM.
+text: Another leap, this time pirouetting in mid-air over a 50-story drop.
+text: The next jump, he lands upside-down on the side of a building, clinging and
+text: kicking his feet in the air. More LAUGHTER.
+text: A pre-teen PIGEON KEEPER turns from his cooing birds. Peter dashes by him
+text: and leaps from the building. Stunned, the kid walks out of the coop,
+text: leaving the door open. The birds fly out in a flurry.
+text: Peter slides down a high telephone cable across an alley between buildings.
+scene_heading: EXT. CONSTRUCTION SITE - DAY
+text: ATOP AN UNFINISHED BUILDING SIT STACKS OF IRON GIRDERS AND 2X4S. PETER
+text: TESTS HIS STRENGTH, IMITATING BRUCE LEE, ATTACKING THE BOARDS AND
+scene_heading: SPLINTERING THEM EASILY.
+text: He leaps and grabs the hook of a construction crane, swings on it like
+dialog: Tarzan.
+scene_heading: EXT. MANHATTAN STREET - DAY
+text: A MOTHER WHEELS A TWO-YEAR-OLD GIRL IN AN OPEN PRAM PAST THE CONSTRUCTION
+text: SITE. THE KID SUCKS A BOTTLE, LOOKS UP. THE LITTLE GIRL’S EYES FOLLOW--
+text: Peter swinging on the hook. He drops and scampers down the building’s
+dialog: skeleton.
+text: The little girl takes out her bottle and giggles.
+scene_heading: EXT. PHONE BOOTH - DAY
+text: PETER DROPS A QUARTER INTO THE SLOT OF THE OUTDOOR PHONE BAY. HIS FINGER
+text: FINDS “POISON CONTROL” ON A STICK-ON LIST OF EMERGENCY PHONE NUMBERS.
+speaker_heading: NURSE VOICE
+dialog: (filter)
+dialog: Poison emergency.
+speaker_heading: PETER
+dialog: Hi. I’ve got sort of a hypothetical question. Do you
+dialog: suppose the bite of a radioactive spider would transmit
+dialog: that spider’s proportional strength and agility?
+speaker_heading: NURSE VOICE
+dialog: (a long beat)
+dialog: Is this some sort of Zen thing?
+speaker_heading: PETER
+dialog: I mean, I suddenly have immense physical power, and the
+dialog: ability to crawl up walls--
+speaker_heading: NURSE VOICE
+dialog: Do ya? Lemme give you the number for Bellevue. That’s 561-
+dialog: 5151--
+speaker_heading: PETER
+dialog: Yeah, a psychiatric hospital. Listen, I’m serious--
+speaker_heading: NURSE
+dialog: I’m sure. They handle problems like yours all the time.
+speaker_heading: PETER
+dialog: Have a nice day.
+text: He hangs up and crawls up the wall.
+scene_heading: INT. OPERATING ROOM - DAY
+text: DR. CRAWFORD AND ASSISTANTS, GOWNED AND MASKED, LOOK BELOW FRAME AT THE
+scene_heading: PATIENT-- OCK. THEY ATTEMPT TO REMAIN CLINICAL, BUT WE SEE THEIR HORROR.
+speaker_heading: DR. CRAWFORD
+text: Again, hydraulics and electronics melded with dorsal
+dialog: tissue, ganglia, organs--
+dialog: (sighs)
+dialog: Jesus God… this is nuts.
+speaker_heading: NURSE
+dialog: Can’t those things be removed somehow?
+speaker_heading: DR. CRAWFORD
+dialog: Not without killing him.
+text: Into a tray, forceps drop a short length of cable intertwined with nerve
+dialog: ganglia.
+speaker_heading: DR. CRAWFORD
+dialog: Six hours to get that much.
+speaker_heading: DOCTOR #2
+dialog: What was he mucking around with?
+scene_heading: INT. EXPERIMENTAL CHAMBER - DAY
+scene_heading: WORK LIGHTS ILLUMINATE THE WARPED ROOM: CASCADES OF MELTED GLASS, A HOLE IN
+text: THE CYCLOTRON TUBE, A TANGLE OF WIRES AND METAL AT THE TRANSFORMER. AN NRC
+text: MAN WITH LEAD GLOVES AND BOOTS EXPLORES THE ROOM. ROZ WATCHES FROM THE
+text: CONTROL ROOM, GOING OVER OCK’S NOTES.
+speaker_heading: ROZ
+text: Octavius’ notes are pretty impenetrable.
+speaker_heading: NRC MAN
+dialog: Whatever he was up to, it was new. Look.
+text: He pushes a gloved finger into the metallic wall-- it’s soft and rubbery.
+text: Thorkel enters the control room, paces and fiddles around. They ignore
+dialog: him.
+speaker_heading: NRC MAN
+dialog: This was steel…
+speaker_heading: THORKEL
+dialog: Unbelievable. How do I explain this to the trustees?
+speaker_heading: ROZ
+dialog: Temperature?
+speaker_heading: NRC MAN
+dialog: Cool.
+speaker_heading: THORKEL
+dialog: Damn him. Look at this, expensive property, ruined--
+text: He throws a switch-- nothing happens.
+speaker_heading: ROZ
+dialog: Thorkel, stop that. Radiation levels?
+speaker_heading: NRC MAN
+dialog: Normal.
+speaker_heading: THORKEL
+dialog: Do you know how much this will cost to repair?!
+text: He angrily throws another switch-- the damaged cyclotron SQUEALS and THROBS
+text: once, Roz pushes the stunned Thorkel away and shuts the cyclotron off.
+text: The NRC Man ducks as a PULSE of energy shoots from the focusing cone to the
+text: transformer and rushes visibly along the cables.
+scene_heading: EXT. RAILROAD TRACKS - DAY
+scene_heading: EL BETWEEN STATIONS, ELECTRICAL HUM OF OVERHEAD WIRES. THE RUMBLE OF AN
+text: APPROACHING LONG ISLAND TRAIN. THE PULSE RIPPLES THROUGH THE POWERLINES.
+scene_heading: INT. COMMUTER TRAIN -DAY
+text: A LIGHT SATURDAY CROWD, INCLUDING THE GRAD STUDENT STEVE, ABSORBED IN AN
+scene_heading: EPIC MAGAZINE. AS USUAL, THE STIFF SUBURBANITES IGNORE ONE ANOTHER.
+scene_heading: EXT. RAILROAD TRACKS - DAY
+scene_heading: OVERHEAD LINES PULSE AND THROB AS IN THE EXPERIMENT. A MIRAGE-LIKE SHIMMER
+text: HANGS IN THE AIR.
+text: The commuter car whizzes forward into the shimmer and DISAPPEARS.
+scene_heading: INT. COMMUTER TRAIN
+text: THROUGH THE DIRTY WINDOWS, THE WEIRD PULSE AND THROB. THE PASSENGERS IGNORE
+text: IT. A FEW WORK THEIR WAY TO THE DOORS FOR THE NEXT STOP.
+text: A WHOOSH and a THUD as the train stops abruptly, the PULSE dissolving into
+text: DAYLIGHT. The doors HISS open: the passengers look out timidly.
+text: They see a snowy plain. A fur-clad Mongolian peasant with a yak stares
+text: back at them.
+scene_heading: EXT. MONGOLIAN WASTELAND - DAY
+scene_heading: REVEAL THE EL TRAIN LAYING INCONGRUOUSLY AMIDST THE DESOLATE LANDSCAPE.
+scene_heading: EXT. TIMES SQUARE - DAY
+scene_heading: THE MARQUEES, TRAFFIC AND LIGHTS. THE ROLLING NEWS SIGN READS: “LONG
+scene_heading: ISLAND TRAIN DISAPPEARS.” PERCHED ATOP THE SIGN HIGH ABOVE IT ALL, PETER
+text: SCANS THE SCENE, ARMS FOLDED. LOOKING DOWN, HE SEES A CHEESY THEATER SIGN:
+scene_heading: ‘BATTLE A MONSTER! $1000 FOR 1 MINUTE WITH HULK HOGAN.” CONTESTANTS LINE
+speaker_heading: UP OUTSIDE.
+scene_heading: EXT. THEATER ENTRANCE - DAY
+scene_heading: BENEATH THE MARQUEE, A DOZEN LARGE MEN STAND IN LINE. CROWD NOISE FROM
+text: WITHIN. PETER TAKES A PLACE BEHIND A RAMBO TYPE IN BANDANNA AND FATIGUES
+text: AND A GOON WEARING A NARROW BURGLAR MASK, STRIPED SHIRT AND CAP.
+speaker_heading: RAMBO
+dialog: What for da mask?
+speaker_heading: GOON
+dialog: Don’t wanna look stupid.
+speaker_heading: PETER
+dialog: Yeah. You might lose your scholarship.
+speaker_heading: GOON
+dialog: Zat a joke?
+text: Peter slowly shakes his head. He glances across the street and spies
+dialog: “LIEBER’S NOVELTIES: Toys, Jokes, Costumes.”
+scene_heading: INT. WRESTLING ARENA - DAY
+text: THUMP. RAMBO FLIES DOWN ON THE MAT, HOGAN PINS HIM. THE CROWD CHEERS.
+text: Near the ring, a new-wave AMAZON official cocks her head at Peter, who
+text: wears a rubber fly mask with huge compound eyes and antennae.
+speaker_heading: AMAZON
+dialog: Ya look kinda scrawny for this.
+text: Peter flexes his muscles, none too impressively. She hands him a release
+dialog: form.
+speaker_heading: AMAZON
+dialog: Says you won’t sue us if ya get killed.
+text: Peter signs the release. She reads it and shrugs.
+speaker_heading: AMAZON
+dialog: Okay, Mr. Thorkel. I trust ya. Ya got an honest face.
+text: Peter bows. Rambo crawls out of the ring. Peter bounds over the ropes onto
+text: the mat. Hogan looks at the fly-masked contestant, then leads the crowd in
+dialog: derision.
+text: The large, digital one-minute clock BUZZES.
+text: Peter gestures “come hither” with both hands. Hogan grins evilly and
+text: ROARS, lunging across the mat, dwarfing the skinny kid. Peter dodges the
+text: blond giant, leaping and spinning aside acrobatically. The CROWD BOOS,
+dialog: demanding action.
+text: At ringside near the Amazon, MAX REISS watches with interest. Reiss is a
+text: world-weary, balding agent, none too successful, judging from his unpressed
+dialog: suit.
+text: Hogan laughs and goes for Peter again. This time, he tosses the wrestler--
+text: hard. He lifts Hogan up over his head and slams him to the mat. Carrying
+text: the flailing giant under his arm, Peter scales a ring post. The clock
+text: ticks off the last few seconds. He dangles Hogan by his boot toe, like a
+dialog: prize trout.
+speaker_heading: PETER
+dialog: Now tell me you love me.
+speaker_heading: HOGAN
+dialog: Lemme down, bugface!
+speaker_heading: PETER
+dialog: That’s not even close.
+text: Peter drops Hogan face-first on the mat as the BUZZER SOUNDS. The unruly
+text: crowd BOOS and HISSES. AD LIB SCREAMS: “Rip-off!” “Bullshit!” “It was
+dialog: fixed”
+text: Hogan rolls over on the mat in pain, his nose bleeding. Peter leaps down,
+text: genuinely concerned. He puts his hand on Hogan’s shoulder.
+speaker_heading: PETER
+dialog: Are you okay?
+speaker_heading: HOGAN
+dialog: (cowering)
+dialog: Get away from me, freak!
+scene_heading: EXT. alley - DAY
+text: STILL MASKED, PETER EXITS THE BACK DOOR, COUNTING TEN HUNDRED DOLLAR BILLS.
+text: THE DOOR OPENS AGAIN AND REISS RUSHES OUT, FUMBLING FOR A BUSINESS CARD.
+speaker_heading: REISS
+dialog: Kid, you were terrific. Max Reiss, novelty acts. Was that
+dialog: judo or something? Ah, skip it. Question is, can you do
+dialog: it again?
+speaker_heading: PETER
+dialog: Oh-- I don’t know-- thanks, Mr. Reiss, but--
+text: Peter reads the business card while Reiss sizes him up.
+speaker_heading: REISS
+dialog: I dunno about the mask. Might want to get something
+dialog: sexier. People don’t like bugs.
+text: The door SLAMS open, Hogan strides out, bruised and furious. He walks over
+text: to Peter. Reiss backs off. Hogan lumbers over to Peter. Two ominous
+dialog: beats.
+speaker_heading: HOGAN
+dialog: How are you doing, kid?
+speaker_heading: PETER
+dialog: Oh, look, Mr. Hogan, I’m really sorry about what happened
+dialog: in there. Really--
+speaker_heading: HOGAN
+dialog: You can be great, kid, just stick with it. But let me give
+dialog: you one little piece of advice… be a good guy.
+speaker_heading: PETER
+dialog: Right.
+text: Hogan gives Peter a big smile and heads back into the building. Peter
+text: heads off, and Reiss calls after him:
+speaker_heading: REISS
+dialog: My number’s on the card! Call me!
+scene_heading: INT. LEIBER’S NOVELTY SHOP - DAY
+scene_heading: TOYS, GAMES, COSTUMES EVERYWHERE. LEIBER, A SHARP-EYED MAN WITH A
+scene_heading: SUSPICIOUS TWINKLE, WATCHES PETER-- STILL IN THE BUG MASK -- FINISH A
+text: SKETCH: A BODY SUIT WITH A WEB DESIGN AND A SPIDER ON THE CHEST.
+speaker_heading: LEIBER
+dialog: No refund on the mask, y’know. Health laws.
+speaker_heading: PETER
+dialog: Uh-huh. Look, this should be skintight. Bright colors.
+text: Red, maybe a deep midnight blue.
+speaker_heading: LEIBER
+dialog: What’s this? A cockaroach?
+speaker_heading: PETER
+text: A spider. Eight legs.
+text: Leiber looks at the fly-headed Peter, who has spotted a loud, trendy jacket-
+text: - like a red leopard skin-- on a nearby sale rack. He holds it up to
+dialog: himself.
+speaker_heading: LEIBER
+dialog: Eh. Week from tomorrow.
+speaker_heading: PETER
+dialog: How about tomorrow?
+speaker_heading: LEIBER
+dialog: You’re making my life difficult.
+speaker_heading: PETER
+dialog: Two suits by tomorrow for $400?
+speaker_heading: LEIBER
+text: An even five I throw in the jacket.
+speaker_heading: PETER
+dialog: Deal. But don’t tell anyone. I want to keep a low
+dialog: profile.
+text: Leiber nods seriously. The bug-headed Peter exits, jacket in a bag under
+dialog: his arm.
+speaker_heading: LEIBER
+dialog: Meshuggena.
+scene_heading: INT. OCK’S HOSPITAL ROOM- DUSK
+scene_heading: DR. CRAWFORD AND A BRAIN MAN STAND AT OCK’S BEDSIDE. A SNIDE ORDERLY LETS
+text: THE SHEET DOWN ON OCK’S BODY. A SPONGE AND PAN ON A TRAY; WIRES, IVS, EEG
+speaker_heading: MONITORS.
+speaker_heading: BRAIN MAN
+text: Still comatose. Alpha, beta, gamma brain waves low, but
+dialog: look--
+text: He points to an oscilloscope, tracing a lively wave.
+speaker_heading: BRAIN MAN (cont.)
+dialog: Normally there’s no activity at this wavelength. It’s like
+text: there’s a party going on in there.
+speaker_heading: DR. CRAWFORD
+dialog: A malfunction?
+speaker_heading: BRAIN MAN
+dialog: Well… not in the equipment.
+speaker_heading: ORDERLY
+dialog: He’s all washed, Doc. Want me to polish his chrome, too?
+text: The doctors’ icy stares cut the orderly’s guffaw. They all leave, Crawford
+text: flips off the light. Ock remains immobile.
+text: In the dim evening light, a metal arm rustles beneath the sheet.
+scene_heading: EXT. E.S.U. DORM - NIGHT
+text: PETER, WHISTLING, TAKES STEPS TWO AT A TIME INTO THE GEORGIAN BUILDING,
+scene_heading: WHICH FACES WASHINGTON SQUARE PARK (HE WON’T WEAR GLASSES FROM NOW ON.).
+scene_heading: INT. E.S.U. DORM - NIGHT
+text: PETER, LOOKING CRUSHED, TALKS WITH LIZ’S ROOMMATE ADELE, AN OVERWEIGHT
+text: BLACK GIRL. SHE LEANS AGAINST THE OPEN DOOR, A CAT UNDER HER ARM. THE ROOM
+text: BEYOND FEATURES TWO BEDS, TWO DESKS, MANY PLANTS. A BIG POSTER OF CHE
+text: GUEVARA ON ONE SIDE; A BOTTICELLI AND A SHELF OF WELL-LOVED DOLLS ON THE
+speaker_heading: OTHER.
+speaker_heading: ADELE
+dialog: I’m reading Marx to her dolls while she’s away.
+speaker_heading: PETER
+dialog: New Hampshire.
+speaker_heading: ADELE
+dialog: Yeah. Flash’s family has a ski cabin. Come the revolution,
+dialog: there’ll be no more ski cabins.
+text: Peter’s disappointment is gut-wrenching. He turns, and Adele scolds
+dialog: herself for telling the truth.
+scene_heading: EXT. E.S.U. DORM - NIGHT
+text: PETER SLOUCHES DOWN THE STEPS. HE KICKS A GARBAGE CAN. IT FLIES AND
+text: CRASHES IN THE STREET.
+scene_heading: INT. PETER’S APARTMENT - NIGHT
+text: A SOPPY TONY BENNETT SONG PLAYS AS PETER FIDGETS ON THE BED, STARING AT AN
+scene_heading: OPEN ASTRONOMY TEXT. HE GETS UP, GRABS AN APPLE, THEN DIALS A MEMORIZED
+speaker_heading: NUMBER.
+speaker_heading: PETER
+dialog: Hi, Ben, is-- thanks… Hi, Aunt May… Wait, you’ll appreciate
+dialog: this-- the most bizarre thing-- Just an apple… I know, but
+dialog: let me--Yeah, fascinating… No, let me talk… I can make the
+dialog: rent now…
+dialog: (firmly)
+dialog: Damn it, Aunt May! Listen for once!
+dialog: (apologetic)
+dialog: You know that’s not what I mean… No, you’re not a cow…
+dialog: Right, I’m sorry… I’m sorry! Fine… I’ll speak to you
+dialog: tomorrow.
+text: He hangs up in frustration, looks at the phone.
+speaker_heading: PETER
+dialog: By the way, I got super-powers today.
+text: He throws the half-eaten apple toward the garbage can. It misses.
+scene_heading: INT. OCK’S HOSPITAL ROOM - DAY
+text: MORNING LIGHT SPILLS THROUGH THE WINDOW. ROSOMOFF SITS AT OCK’S BESIDE;
+scene_heading: OCK NOW SITS UP, WIDE-EYES, ABNORMALLY ALERT, AN UNLIT CIGARETTE IN HIS
+text: MOUTH. THE WALDOS ARE IMMOBILE BENEATH THE SHEETS.
+speaker_heading: OCK
+dialog: Truth. I lifted the veil. Total inter-penetration of
+dialog: physical forces-- dimensions unknown since the birth of the
+dialog: cosmos!
+text: Roz lights Ock’s cigarette, eyes him dubiously. Ock doesn’t bother to
+dialog: smoke it.
+speaker_heading: ROZ
+dialog: A bit melodramatic… but if you could prove it… that would
+dialog: tie in your unified field theory, the Big Bang, Kaluza-
+dialog: Klein--
+speaker_heading: OCK
+dialog: Ach, theories! This was first-hand, experiential
+dialog: knowledge, the essence of the universe.
+text: Roz begins to sense the man’s madness.
+speaker_heading: ROZ
+dialog: Mm. But at what cost, Otto. You barely survived a coma.
+dialog: And look at yourself--
+text: Roz glances at Ock’s sheeted torso.
+speaker_heading: OCK
+dialog: My… self. I don’t matter. This human life, all life--
+text: insignificant. Bodies-- bags of sleepy, sluggish flesh.
+speaker_heading: ROZ
+dialog: (carefully)
+dialog: All right, we may be insignificant, imperfect creatures--
+dialog: but we’re all we’ve got.
+speaker_heading: OCK
+dialog: You’re wrong. Just for a moment, I heard, saw, felt-- I
+dialog: became Creation.
+text: Ock takes the cig from his mouth, stares at the smoldering end.
+speaker_heading: ROZ
+dialog: Creation? Or its opposite?
+speaker_heading: OCK
+dialog: Truth. Pure, eternal. Beyond the boundaries of mere
+dialog: mortality.
+text: Roz regards Ock sadly, takes the cigarette and extinguishes it.
+speaker_heading: ROZ
+dialog: Otto, we are mere mortals. You must never forget your own
+dialog: limits--
+speaker_heading: OCK
+dialog: I’ll repeat the experiment. I will hold the truth. That’s
+dialog: the only thing that matters.
+speaker_heading: ROZ
+dialog: No. It isn’t.
+text: He moves in closer, trying to see past Ock’s madness. He speaks quietly
+dialog: but firmly.
+speaker_heading: ROZ
+dialog: Life and death matter. Yours-- everyone’s. By comparison,
+dialog: our search for truth is only a product of curiosity, a game-
+dialog: -
+speaker_heading: OCK
+dialog: Oh, Roz. My mind is so far beyond yours now.
+dialog: (pleased)
+dialog: I could beat you at chess now.
+text: Roz realizes Ock is beyond communication, off the deep end. A KNOCK and
+text: Thorkel enters, smiling.
+speaker_heading: THORKEL
+dialog: Gentlemen. Professor, if you could…
+text: Rosomoff sighs and rises.
+speaker_heading: ROZ
+dialog: I was just leaving. Please, Otto. Be careful.
+text: Roz exits. Thorkel stands at the foot of the bed, leans on the bedpost.
+speaker_heading: THORKEL
+dialog: It’s good to see you awake. Feeling all right?
+text: Ock ignores him. Thorkel gives him a lemony smile.
+speaker_heading: THORKEL
+dialog: Then you’ll be glad to know the University has decided not
+dialog: to press criminal charges against you. Breaking and
+text: entering… the minor matter of the total destruction of a 23
+dialog: million dollar cyclotron…
+speaker_heading: OCK
+dialog: I will finish what I’ve begun…
+speaker_heading: THORKEL
+dialog: Doubtless. And you’ll have all the time in the world to
+dialog: pursue your work. Somewhere else.
+text: Ock’s eyes narrow. Thorkel smiles.
+speaker_heading: THORKEL
+dialog: To put it bluntly, Octavius, you’re history. Fired,
+dialog: canned, out on your ass. The University will take care of
+dialog: your medical bills, but I consider that a small price to
+dialog: pay for the pleasure of getting rid--
+text: Without warning, a steel waldo shoots out from beneath the sheet and
+text: clutches Thorkel by the throat. His smirk turns into a grimace as the arm
+text: lifts him off the floor, pushing the man up near the ceiling.
+text: Amazed, Ock looks along the waldo from his chest to the choking Thorkel.
+text: Ock touches the metal arm curiously as the man gasps for breath.
+text: Thorkel’s feet kick wildly, then go limp. Ock drops the body.
+text: Ock gets out of bed, stands over Thorkel’s body. An arm telescopes
+text: outward, the claw opens and shuts experimentally. Ock nods in growing
+text: pleasure. Another arm draws the curtains. A third arm shoots out and
+text: clicks the door locked. The fourth arm delicately clicks off the
+text: electronic monitors. Ock clenches and relaxes his human hands, the
+text: mechanical arms writhe like cobras. He smiles.
+scene_heading: INT. SURGEON’S DRESSING ROOM - DAY
+text: A LOCKER ROOM. A FAT DOCTOR HANGS UP HIS OVERCOAT, TAKES A LAB SMOCK.
+text: HANGING IN THE LOCKER IS A GREEN AND YELLOW JOGGING SUIT. AS HE PUTS THE
+text: SMOCK ON, A WALDO SNAKES AROUND A CORNER, INTO THE LOCKER. IT TAKES THE
+text: OVERCOAT AND JOGGING SUIT.
+scene_heading: INT. MEDICAL INCINERATOR -DAY
+text: FLAMES THROUGH THE OPEN GRATE CAST WEIRD SHADOWS ON OCK (DRESSED IN THE
+text: OVERCOAT AND JOGGING SUIT WITH HOLES TORN FOR THE WALDOS). HE GRABS THE
+text: GRATE HANDLE, BURNS HIMSELF, BACKS OVER THORKEL’S GLASSES WITH A CRUNCH.
+text: HE TOSSES THEM INTO THE FIRE. A WALDO CLOSES THE GRATE.
+scene_heading: INT. PETER’S APARTMENT - DAY
+text: IN HIS BATHROBE AT THE KITCHEN TABLE, PETER SQUEEZES THE CONTENTS OF A TUBE
+scene_heading: OF SUPER-GLUE INTO A BEAKER, THEN HEATS THE VISCOUS GOOP OVER A BUNSEN
+scene_heading: BURNER, STIRRING IT. A MICROSCOPE, SEVERAL EMPTY GLUE TUBES, JARS OF
+text: THINNER, AND VIALS OF POWDER LIE ABOUT.
+text: Mid-day. Peter tears open a bag from a sporting goods store, dumps out
+text: several reels of high-strength fishing line and boxes of miniature gas
+dialog: cartridges.
+text: Afternoon. Fast-food wrappers, chemical supplies and lengths of thin rubber
+text: tubing. Peter uses adhesive tape to secure his “web-shooter”: a pouch of
+text: glue under his arm; a tube down his forearm ending with a short metal
+text: nozzle at the heel of his hand; a watchband-thin reel of line around his
+text: wrist with a tiny gas cartridge; a pressure-sensitive button in his palm.
+text: Peter extends his arm toward the far wall, bends his wrist, presses the
+text: trigger with his middle finger. A hideous wad of goo oozes all over his
+text: hand and explodes through the tubing. He’s grossed out.
+text: Over the Bunsen burner again, Peter mixes more glue, thinner this time.
+text: Wads of failed line and glue stick to the walls like linguini. Peter tries
+text: again. He aims at the ceiling. A long stream of glue-impregnated line
+text: spits out and attaches to the ceiling with a SPLAT. Peter tugs at it-- it
+text: holds. He climbs up it, hand overhand, and hangs from the ceiling. He
+dialog: beams with success.
+scene_heading: EXT. SCIENCE CENTER -DAY
+text: THE FRONT DOOR. A WALDO REACHES INTO FRAME, SNAPS THE LOCK AND CHAIN WITH
+text: A METAL CLAW.
+scene_heading: INT. CONTROL ROOM - DAY
+text: OCK[IN THE JOGGING SUIT FROM NOW ON] SURVEYS THE DAMAGE, FLIPS ON THE
+scene_heading: CYCLOTRON. A SINGLE BLUE PULSE AND THROB. THE WALDOS BLOCK A SHOWER OF
+text: SPARKS.
+scene_heading: INT. ESU DORM -DAY
+text: READING COSMO BENEATH A CHE POSTER, ADELE LOOKS UP. THE TV HAS TURNED
+text: ITSELF ON, WILDLY FLIPPING FROM CHANNEL TO CHANNEL. FROM OS COMES THE BUZZ
+text: OF LIZ’S BLOW-DRYER, AND A BLAST OF AIR.
+text: The dryer levitates, whirling around, then pulls its cord from the socket
+text: and plummets to the bed. Freaked out, Adele hurried to the door.
+text: SCREAMS from the dorm rooms, students hurry into the hall and down the
+text: steps. Light bulbs shatter, vacuum cleaners race around, the hands of a
+text: wall clock spin crazily.
+scene_heading: EXT. WASHINGTON SQUARE PARK - DAY
+text: PLAYING CHESS WITH AN AGED PARTNER, ROZ SEES STUDENTS RUSH OUT OF THEIR
+scene_heading: DORM, SOME PANICKED, OTHERS AMUSED. AD LIB EXCLAMATIONS: “MY TOASTER-OVER
+text: ATTACKED ME!” “WHAT IS GOING ON?” “GODDAMNED CON-ED!”
+text: A kid’s ghetto blaster rises from his shoulder and spins in mid-air, then
+speaker_heading: EXPLODES.
+text: Manhole covers shiver, then spin out of the pavement like flying saucers
+text: and hover in mid-air, then drop to the earth with a CLANG in unison.
+text: Roz watches it all with scientific interest.
+speaker_heading: PARTNER
+dialog: Your move.
+scene_heading: INT. CONTROL ROOM - DAY
+scene_heading: AN ELECTRICAL MESS: SPARKS, OZONE. OCK BACKS AWAY FROM THE SIZZLING
+text: CONTROL PANEL, A WALDO THROWS A SWITCH TO SHUT THE CYCLOTRON DOWN.
+scene_heading: DISGUSTED, HE STORMS OUT.
+scene_heading: INT. PETER’S APARTMENT -DAY
+scene_heading: ATOP PETER’S MATTRESS SITS AN OPEN BOX MARKED “LIEBER’S NOVELTIES” WITH ONE
+scene_heading: SPIDER-MAN COSTUME INSIDE. WEARING THE OTHER COSTUME BUT NO MASK, PETER
+scene_heading: STANDS BEFORE A FULL-LENGTH MIRROR. HE TUGS AT THE TIGHT SUIT, FEELING
+text: PRETTY SILLY. PETER PULLS THE MASK OVER HIS FACE. HE PUFFS OUT HIS CHEST.
+speaker_heading: PETER/SPIDER-MAN
+dialog: In this corner-- The Human Spider!
+dialog: (shakes his head)
+dialog: Unh-uh. Arachnid-- Arachnia-- no.
+dialog: (unsurely)
+dialog: Spider-Man?
+text: IN THE MIRROR-- the reflected image of SPIDER-MAN nods.
+dialog: Ext. peter’s roof - dusk
+scene_heading: CITY LIGHTS IN THE DISTANCE. PETER’S RANGE-FINDER CAMERA SITS ON A TRIPOD
+text: BY THE OPEN SKYLIGHT. THE SELF-TIMER HUMS, THE CAMERA CLICKS AND FLASHES,
+scene_heading: CATCHING SPIDER-MAN IN ACTION: SWINGING ON WEB STRANDS, CLINGING TO WALLS,
+text: LEAPING THROUGH THE AIR.
+text: Spider-Man jumps back and fiddles with the camera, then a KNOCK from below.
+scene_heading: INT. PETER’S APARTMENT -NIGHT
+text: LOUD THUMPS AT THE DOOR. SPIDER-MAN DROPS THROUGH THE SKYLIGHT, MOVES TO
+text: ANSWER, THEN HESITATES, HE PULLS OFF HIS GLOVES AND MASK. MORE THUMPS,
+speaker_heading: RHYTHMIC.
+speaker_heading: PETER
+dialog: Cool your jets!
+scene_heading: EXT. HALLWAY - NIGHT
+text: HARRY SITS IN PETER’S DOORWAY, THUMPING HIS HEAD BACKWARD AGAINST THE DOOR.
+text: AS PETER, IN SWEATER AND JEANS, OPENS THE DOOR, THE DRUNK KID SPRAWLS ON
+text: HIS BACK. HARRY STARES FOGGILY AT THE RED-WEBBED BOOTS BESIDE HIS FACE.
+speaker_heading: HARRY
+dialog: Ooooh. Your feet are on fire.
+speaker_heading: PETER
+dialog: Harry…
+speaker_heading: HARRY
+dialog: “Harry Osborne diminishes the stature of the University.”
+speaker_heading: PETER
+dialog: Let me guess. The hunting dogs. You lost your
+dialog: scholarship.
+text: Peter lifts Harry upright, sits cross-legged beside him.
+speaker_heading: HARRY
+dialog: “Scholarship students must maintain dignity at all times.”
+speaker_heading: PETER
+dialog: I know. I’ve got one too.
+speaker_heading: HARRY
+dialog: Screw scholarships! Universities are death! They make
+dialog: slaves of us all with their fetid ideas! Burn ‘em down, I
+dialog: say!
+text: Peter lifts Harry up, leaning him against the doorjamb.
+speaker_heading: PETER
+dialog: Great idea. Let me get some shoes. I’ll take you home.
+speaker_heading: HARRY
+dialog: Why home? The real world beckons, man! The possibilities
+dialog: are endless.
+dialog: (beat)
+dialog: Want to go up to the World Trade Center and laugh at New
+dialog: Jersey?
+text: Peter, wearing shoes and a jacket, locks his door. He leads Harry to the
+dialog: stairwell.
+speaker_heading: HARRY
+dialog: You’re so responsible it’s disgusting. But you’re my only
+dialog: friend… do you hate me?
+speaker_heading: PETER
+dialog: Don’t be pitiful.
+speaker_heading: HARRY
+dialog: I am not pitiful! I am the bridge to the Übermensch!
+text: Harry goes pale, grabs his stomach. Peter holds him by the staircase.
+speaker_heading: PETER
+dialog: Don’t vomit on my shoes, Zarathustra.
+scene_heading: EXT. ELECTRODYNE FACTORY - DAY
+text: A SALESMAN WITH A CLIPBOARD LEADS THE OVERCOATED OCK THROUGH A CAVERNOUS
+scene_heading: STORAGE HANGER-- SECTIONS OF ALUMINUM PIPE, SPOOLS OF WIRE, ETC. WORKERS
+text: AND FORKLIFTS UNLOAD AND STACK CRATES.
+speaker_heading: SALESMAN
+dialog: (mumbling)
+dialog: Let’s see,that’s3,000 feet of 50-gaugecopepr armature wire…
+text: a transformer… accelerator rails… a few odds and ends…
+text: Ock points to a pipe section.
+speaker_heading: OCK
+dialog: And that.
+speaker_heading: SALESMAN
+dialog: What’s the idea? A do-it-yourself atom smasher?
+dialog: (smiles)
+dialog: Couple a high school whiz kids came in here once, plannin’
+dialog: to build their own neutron bomb. Blueprints, the whole nine
+dialog: yards. Wanted to be the first ones on their block to be the
+dialog: last ones on their block--
+text: He laughs. Ock stares at him. He goes back to his clipboard, clears his
+dialog: throat.
+speaker_heading: SALESMAN
+dialog: Okey-dokey. Then that’s… uh… oh, figure about 170,000
+dialog: dollars, plus tax.
+text: Ock frowns at the man.
+speaker_heading: SALESMAN
+dialog: Well, you do have to pay for it.
+text: The bulge under Ock’s coat moves ominously. His face darkens. He’s about
+text: to kill the salesman-- then notices there are too many witnesses about.
+speaker_heading: SALESMAN
+dialog: Are you okay?
+speaker_heading: OCK
+dialog: Money.
+text: He turns on his heel and strides away.
+scene_heading: INT. BUGLE NEWS ROOM - DAY
+text: A SLUGGISH MONDAY MORNING. PETER ENTERS BRISKLY WITH HIS NEW JACKET SLUNG
+scene_heading: OVER HIS SHOULDER, AN 8X10 ENVELOPE IN HIS HAND. HE PAUSES OUTSIDE
+scene_heading: JAMESON’S DOOR, NEAR BETTY’S DESK. THERE’S AN AIR OF COCKINESS TO PETER--
+text: AND BETTY SENSES IT.
+speaker_heading: PETER
+dialog: Is His Eminence receiving?
+speaker_heading: BETTY
+dialog: Uh-huh. And may God go with you, my son.
+scene_heading: INT. JAMESON’S OFFICE - DAY
+scene_heading: JAMESON, CIGAR IN HIS TEETH, SMILES AT THE BIZARRE PHOTOS: THE RAT MELDED
+text: WITH ITS CAGE, THE DISTORTED HALLWAY. PETER EXAMINES HIS NIKON.
+speaker_heading: JAMESON
+dialog: I bet you don’t think I appreciate you, Parker. I do.
+speaker_heading: PETER
+dialog: Well, thanks. You wouldn’t believe what I went through to
+dialog: get those. Right after you took my camera, this ambulan--
+speaker_heading: JAMESON
+dialog: I like enthusiasm. That’s why I use a lot of smart-ass
+dialog: kids. Not just ‘cause they work cheap.
+speaker_heading: PETER
+dialog: Mr. Jameson--
+speaker_heading: JAMESON
+dialog: I got a question, college boy.
+dialog: (suddenly livid)
+dialog: What the hell am I supposed to do with these!? I ask for
+dialog: disaster, pathos, what do I get? Salvador Dali! When I
+dialog: want artsy-fartsy double-exposures, I’ll ask for--
+speaker_heading: PETER
+dialog: Double-exposures? But they’re not-- I was in--
+speaker_heading: JAMESON
+dialog: I don’t give a gerbil’s ass how you got ‘em! I can’t print
+dialog: this surreal garbage!
+speaker_heading: PETER
+dialog: You print pictures of Bigfoot!
+speaker_heading: JAMESON
+dialog: Bunch of kids at your goddamned college say their
+dialog: appliances attacked them. Did you get pictures?
+speaker_heading: PETER
+dialog: Mr. Jameson--
+speaker_heading: JAMESON
+text: No! Washington Square, manhole covers turn into flying
+dialog: saucers and radios explode like A-bombs. Did you get
+dialog: pictures?
+speaker_heading: PETER
+dialog: Can I get a word in edgewise?
+speaker_heading: JAMESON
+dialog: No! Now get outta my face, kid.
+text: Jameson thrusts the photos back at Peter, who pulls the photo from the
+text: manila envelope: Spider-Man clinging upside-down on a wall.
+speaker_heading: PETER
+dialog: I suppose this wouldn’t interest you…
+text: Jameson turns the photo around, trying to figure it out. He looks up at
+text: Peter, holds his gaze--and tears the photo in half. Both halves flutter
+text: into the wastebasket.
+scene_heading: INT. BUGLE NEWS ROOM - DAY
+scene_heading: PETER, WITH HIS PACK, QUIETLY CLOSES THE DOOR OF JAMESON’S OFFICE. BETTY
+speaker_heading: RISES.
+speaker_heading: BETTY
+dialog: How about a cup of coffee?
+speaker_heading: PETER
+dialog: Yeah. Cream and hemlock.
+text: Peter sits on the edge of her desk as she walks off. A thought hits him.
+text: He pulls Reiss’ business card from his wallet and dials the number.
+speaker_heading: PETER
+dialog: Hello, uh, Mr. Reiss? I’m-- I’m the guy who wrestled Hulk
+dialog: Hogan the other day. The guy in the mask?
+speaker_heading: REISS
+dialog: (filter)
+dialog: I was hoping you’d call, babe. Look, you got
+dialog: representation?
+speaker_heading: PETER
+dialog: No…
+speaker_heading: REISS
+dialog: (filter)
+dialog: Good. We’ll make it oral for now. Meet me at Rockefeller
+dialog: Center at six tonight.
+speaker_heading: PETER
+dialog: Why? It is a wrestling match, or…
+speaker_heading: REISS
+dialog: (filter)
+dialog: Letterman show, NBC. We’ll talk then. Bye.
+text: Betty returns with his coffee. Peter slowly returns the receiver to its
+dialog: cradle.
+speaker_heading: BETTY
+dialog: Good news?
+text: Peter ignores the coffee, pulling on his new jacket, his mind reeling.
+speaker_heading: PETER
+dialog: Hey, Ma, I’m gonna be a stah…
+text: He bangs on Jameson’s window and throws him a raspberry.
+scene_heading: EXT. SCIENCE CENTER - DAY
+text: BOARDED UP AND LOCKED. STUDENTS GATHER AROUND A LIST OF RELOCATED COURSES.
+scene_heading: PETER FINDS “PSYCHICS 101-- CANCELED UNTIL FURTHER NOTICE.”
+scene_heading: EXT. BASKETBALL COURT - DAY
+text: A FENCED COURT NEAR CAMPUS. A VIGOROUS GAME OF TWO-ON-TWO, FLASH AND THREE
+scene_heading: PREPPY PALS: NORBERT, CHIP AND WINTHROP. FLASH DRIBBLES ANGRILY DOWN
+scene_heading: COURT, SHOOTS, MISSES. HE’S PISSED.
+speaker_heading: CHIP
+dialog: Frustrated, Thompson?
+speaker_heading: WINTHROP
+dialog: Miss Lizzy done had a headache. All weekend long.
+speaker_heading: FLASH
+dialog: Shut up!
+text: New jacket on, Peter approaches. He scales the wire fence gracefully and
+text: hops onto the court, sets down his pack. They ignore him.
+speaker_heading: PETER
+dialog: Mind if I shoot a few?
+speaker_heading: CHIP
+dialog: Peter, you don’t play basketball.
+speaker_heading: NORBERT
+dialog: We’ve got even teams--
+speaker_heading: FLASH
+dialog: No, Norb. Let’s give Dr. J. here a shot.
+text: He flings the ball toward Peter, hard.
+speaker_heading: FLASH
+dialog: Come on, guy.
+text: Peter bounces the ball experimentally, then dribbles toward the basket.
+text: Flash nods to Winthrop, who elbows Peter and knocks the ball away. Flash
+text: gets it. Peter blocks Flash legally, but Flash jumps up, makes a basket and
+text: purposely kicks Peter in the belly. Flash grins at Peter, who doubles over
+dialog: to catch his wind.
+text: Norb recovers the ball, passes to Chip, who passes to Peter. Winthrop
+text: covers him, giving him a rough time, smiling. Peter smiles right back,
+text: shoulders Winthrop, sending him flying backward into Norb; they both fall
+text: backward. Peter dashes for the hoop. Flash hooks Peter’s ankle to trip
+text: him, but Peter jumps up, flipping Flash to the concrete.
+text: He leaps up for a lay-up, clinging with his fingertips to the backboard for
+text: a second, and slam-dunks the basketball. He drops to earth with a spring.
+speaker_heading: PETER
+dialog: Thanks, guy.
+text: He grabs his pack, leaving by the gate. The four preppies stare at him.
+scene_heading: INT. STUDENT UNION - DAY
+scene_heading: A SUPER-MODERN CAFETERIA WITH VIDEO GAMES, BULLETIN BOARDS, AN ATRIUM.
+text: ALONE, PETER SIPS HIS COFFEE, READING THE TIMES, THE REMAINS OF A SALAD
+text: BEFORE HIM. LIZ AND ADELE JOIN HIM WITH THEIR LUNCH TRAYS.
+speaker_heading: LIZ
+dialog: Eat alone, gotta read. Social defense tactic 17
+dialog: (beat)
+dialog: Peter, that jacket is foul. Lose your glasses?
+speaker_heading: PETER
+dialog: Hi, Adele.
+text: Adele looks at him, then at Liz.
+speaker_heading: LIZ
+dialog: Brrr. It’s colder than New Hampshire in here.
+speaker_heading: PETER
+dialog: I’m sure you kept warm.
+speaker_heading: ADELE
+dialog: (falsetto)
+dialog: Sexual tension…
+speaker_heading: LIZ
+dialog: Oh, beware of jealousy, my lord, the green-eyed monster…
+speaker_heading: PETER
+dialog: Don’t misquote Othello at me. Besides, you’d have to care
+dialog: about somebody to strangle them.
+speaker_heading: LIZ
+dialog: What’s your problem?
+speaker_heading: PETER
+dialog: I’ve got no problems.
+speaker_heading: ADELE
+dialog: (looks at her watch)
+dialog: Time to get my bowling ball re-drilled.
+speaker_heading: LIZ
+dialog: Peter Parker, you have no idea what I did this weekend. Or
+dialog: didn’t do. It’s no business of yours either way.
+text: Peter zips up his pack, rises.
+speaker_heading: LIZ
+dialog: Sit down and stop being such a child.
+speaker_heading: PETER
+text: This from a girl who still plays with dolls.
+speaker_heading: LIZ
+dialog: (hurt)
+dialog: That wasn’t clever. That was just nasty.
+text: Peter heads off. Liz dumps her glass of milk over her plate and stifles a
+dialog: scream.
+scene_heading: INT. ROSOMOFF’S OFFICE - DAY
+text: AN OLD ROOM IN THE LIBRARY BUILDING. STAR CHARTS AND AN ANCIENT SEXTANT;
+scene_heading: BOOKS; A TELESCOPE; A LARGE REVOLVING MODEL OF THE SOLAR SYSTEM; AN ANTIQUE
+scene_heading: SPINNING WHEEL AND A HARPSICHORD. ODD, BUT INVITING.
+text: Roz leans over a large table, examining a precise NYC street and subway
+text: map. He glances at a news clipping: “Bronx Video Arcade Goes Tilt.” With
+text: a colored marker and a protractor, he traces a curved line on the map
+text: through the Bronx street. Other waveform lines in different colors criss-
+dialog: cross the map.
+speaker_heading: PETER
+dialog: (sings)
+text: The Bronx is up and the Battery’s down.
+text: Roz turns with a distracted smile.
+speaker_heading: ROZ
+dialog: Peter, what can I do for you?
+speaker_heading: PETER
+dialog: An extension on that astronomy paper? Because, uh…
+speaker_heading: ROZ
+dialog: Your dog ate it.
+speaker_heading: PETER
+dialog: Actually, I got this spider bite…
+speaker_heading: ROZ
+dialog: Pretty lame for such a smart kid.
+speaker_heading: PETER
+dialog: Really, Professor, I--
+text: Roz turns back to his map.
+speaker_heading: ROZ
+dialog: You have until tomorrow. Skip the excuses.
+text: Peter picks up one of the news clippings: “’Wall Crawler’ Spotted Across
+text: NY,” and another, “L.R.R.R. Train Detours to Mongolia.” Roz notice Peter’s
+dialog: interest.
+speaker_heading: ROZ
+dialog: Fortean phenomena. Anomalies in our so-called reality.
+dialog: Weirdness, my boy, and lots of it.
+speaker_heading: PETER
+dialog: Caused by Doc Ock’s experiment?
+speaker_heading: ROZ
+dialog: How much do you know about it?
+speaker_heading: PETER
+dialog: Not a lot. I saw inside of the Science Center. What
+dialog: exactly happened?
+speaker_heading: ROZ
+dialog: Only Octavius knows for sure. And last time I spoke to
+dialog: him, he was on the planet Whiz-Bang.
+text: Lucy enters with a computer print-out. Roz compares it with an earlier
+dialog: one.
+speaker_heading: LUCY
+dialog: See? With enough energy on this side of the equation, the
+text: slope approaches infinity.
+text: Roz scribbles several numbers on a pad, hands the page to her.
+speaker_heading: ROZ
+dialog: Run it again with these smaller values.
+speaker_heading: LUCY
+dialog: Why bother? Nobody takes Ock’s equations seriously.
+speaker_heading: ROZ
+dialog: I do. Run it again. Please.
+text: She shrugs with her eyebrows and leaves.
+speaker_heading: PETER
+dialog: Need any more help?
+speaker_heading: ROZ
+dialog: No, thank you. I’m sure you’ve got your own problems.
+text: Roz reviews the print-out, and, as Peter turns to leave:
+speaker_heading: ROZ
+dialog: Peter… that is one godawful jacket.
+scene_heading: EXT. BANK - DAY
+text: IN FRONT OF THE “FIRST NATIONAL BANK OF SCARSDALE,” A UNIFORMED GUARD SLAMS
+text: THE STEEL DOORS OF A BRINK’S TRUCK. HE CLIMBS IN THE CAB BESIDE A DRIVER.
+speaker_heading: GUARD
+dialog: Beers after the last pick-up?
+speaker_heading: DRIVER
+dialog: Sounds good. We’ll be done in a half-hour.
+speaker_heading: GUARD
+dialog: Not at this rate.
+text: The Driver revs the motor-- it’s not moving. The Guard unsnaps his
+text: holster. Without warning, two waldos SMASH THROUGH the thick glass on both
+dialog: sides.
+scene_heading: EXT. BANK- DAY
+text: OCK HOLDS THE TRUCK ALOFT BY THE REAR BUMPER; THE REAR WHEELS SPIN. TWO
+text: OTHER WALDOS SURROUND THE TRUCK, SQUIRMING INTO THE CAB. GUNSHOTS AND
+text: PANICKED SCREAMS FROM WITHIN. WITH HIS FOURTH WALDOS OCK TEARS OPEN THE
+text: REAR DOOR AND GRABS SEVERAL MONEY BAGS WITH HIS HANDS.
+text: In the bank, witnesses stare goggle-eyed. A teller pulls the drapes for
+dialog: protection.
+scene_heading: INT. COMPUTER ROOM - DAY
+scene_heading: LOW CEILINGS, TERMINALS, WHIRRING AIR CONDITIONING, THE CLICKING OF
+scene_heading: STUDENTS ENTERING DATA. ROZ ENTERS, UNCOMFORTABLE AND CLAUSTROPHOBIC HERE.
+text: ROZ CROSSES TO HARRY AT A SNAZZY GRAPHICS TERMINAL.
+speaker_heading: HARRY
+dialog: I’ve drawn up your graphics, but… what is this all about,
+dialog: anyway?
+speaker_heading: ROZ
+dialog: Just a theory. Let’s see it.
+text: Harry strikes a few keys, runs the program.
+speaker_heading: HARRY
+dialog: Okay… I hope I’ll get some brownie points for this, I could
+dialog: really use them…
+speaker_heading: ROZ
+dialog: I’ll do what I can.
+text: ON SCREEN-- a graphic of stars in space.
+speaker_heading: HARRY
+dialog: Standard chart of our cosmic neighborhood-- and--
+text: The graphic zooms quickly in on the solar system, Earth, then an aerial
+dialog: view of the Northeastern US.
+speaker_heading: HARRY
+dialog: Home sweet home. First your original set of values--
+text: Bluish pulses appear sporadically in a spiral in the New York area, then
+text: stop. Computer-generated TONES like the THROB of Ock’s experiment.
+speaker_heading: HARRY
+text: Sporadic pulses, petering out in 96 hours or so. But when
+dialog: we crank up the energy variable, we get three distinct
+dialog: phases--
+text: He pushes a button; the screen clears and resets.
+speaker_heading: HARRY
+dialog: Phase One: the same pulses. If the energy input keeps
+dialog: rising and we reach a critical point-- here-- into--
+text: Spiral flashes as before. The spiral pulses multiply and coalesce, forming
+text: a blue funnel over New York, growing and intensifying.
+speaker_heading: HARRY
+text: Phase Two: An energy vacuum, sucking power into itself.
+dialog: If it gets enough juice, we go into Phase Three: a chain
+dialog: reaction. Here’s where it gets really good.
+text: The image pulls back for a wider view as North America-- the Earth-- the
+text: solar system-- then the surrounding stars implode and dissolve into the
+text: blue pulse.
+speaker_heading: HARRY
+dialog: Zzzz-Zap. Big Bang in reverse, end of the universe. This’d
+dialog: make one hell of a video game.
+text: Rosomoff’s face registers growing dread.
+scene_heading: INT. SUBWAY PLATFORM - NIGHT
+text: PASSENGERS POUR OUT OF AN UPTOWN LOCAL; A SIGN IN BG READS “49TH ST.
+text: ROCKEFELLER CENTER.” PETER EDGES AWAY FROM THE CROWD TOWARD THE END OF THE
+text: PLATFORM, LOOKS AROUND, THEN HOPS DOWN INTO THE TRAIN BED, JOGS INTO THE
+speaker_heading: TUNNEL.
+scene_heading: INT. SUBWAY TUNNEL - NIGHT
+text: PETER LOOKS UP, THEN SPRINGS BACKWARD, HEAD OVER HEELS--
+text: --and lands upside-down, feet clinging to the grimy tunnel ceiling. He
+text: starts to unbutton his shirt-- we see the Spider-Man costume. Coins fall
+text: from his pants and clang on the rails below. Peter mutters to himself,
+text: pulls the mask over his face.
+speaker_heading: ON PETER’S CLOTHES
+text: Spider-Man squirts a stream of webbing to tie up the bundled clothes. A
+text: train approaches. Spider-Man nonchalantly attaches the stick bundle to the
+dialog: ceiling.
+scene_heading: EXT. ROCKEFELLER CENTER - NIGHT
+scene_heading: SPIDER-MAN EMERGES FROM THE SUBWAY, STROLLS TOWARD ROCKEFELLER PLAZA. A
+scene_heading: PEDESTRIAN MUTTERS, “WHAT AN ASSHOLE,” AND SPIDER-MAN’S WALK BECOMES
+scene_heading: TENTATIVE, EMBARRASSED. A CHILD: “LOOK, MOMMY, THE CIRCUS!” ANOTHER BY-
+scene_heading: PASSER: “EXCELLENT.” SPIDER-MAN’S WALK BECOMES MORE SELF-ASSURED.
+scene_heading: INT. TV STUDIO - NIGHT
+scene_heading: BACKSTAGE HUBBUB. REISS AND SPIDER-MAN WAIT IN THE WINGS, A FEMALE A.D.
+text: NEARBY, A MIX OF LIVE AND FILTERED SOUND FROM THE STAGE. MONITOR SHOWS
+text: LETTERMAN WATCHING A ”STUPID HUMAN TRICK,” A MAN PLAYING MUSIC ON HIS
+speaker_heading: TEETH.
+speaker_heading: REISS
+dialog: Where’d you get the clown suit?
+speaker_heading: SPIDER-MAN
+dialog: Like it?
+speaker_heading: REISS
+dialog: Nah. The big mask was better.
+dialog: A.D.
+dialog: Ten seconds.
+text: The A.D. leads the nervous Spider-Man toward the curtain. Reiss watches the
+text: MONITOR, where we see Letterman reading from a card--
+speaker_heading: LETTERMAN
+dialog: But wait, there’s more. For arachnid lovers everywhere,
+dialog: here’s “The Amazing Spider-Man.” How about a tacit round
+dialog: of applause.
+text: ON STAGE as Spider-Man shuffles out from behind a curtain. The tight
+text: costume earns him surprised WHOOPS from the audience. Letterman shakes
+text: Spidey’s hand, then winces at his sticky palm.
+speaker_heading: LETTERMAN
+dialog: Is that bug juice, or are you just glad to see me?
+speaker_heading: SPIDER-MAN
+dialog: Sorry. I’m still getting the hang of this.
+speaker_heading: LETTERMAN
+dialog: I see. So, Amazing Spider-Man-- I’ll assume that’s not
+dialog: your given name--
+speaker_heading: SPIDER-MAN
+dialog: Just call me Spidey.
+speaker_heading: LETTERMAN
+dialog: Can I get you a snack-- a housefly, maybe?
+speaker_heading: SPIDER-MAN
+dialog: Thanks, I already ate.
+speaker_heading: LETTERMAN
+dialog: I’ll hate myself in the morning for asking, but what
+dialog: exactly makes you any more amazing than the average jerk on
+dialog: the street?
+speaker_heading: SPIDER-MAN
+dialog: Well…
+text: He leaps straight up, somersaulting in mid-air and sticks on a Klieg light
+text: lattice. The audience REACTS, suitably impressed. Letterman cocks his
+dialog: head.
+speaker_heading: LETTERMAN
+dialog: Oh, boy. Must come in handy for changing light bulbs.
+text: Spider-Man shoots a long strand of webbing to the ceiling above the
+dialog: audience.
+speaker_heading: SPIDER-MAN
+dialog: And for my next impression-- Errol Flynn!
+text: He swings out over the boggled crowd and clings to a wall. Even Letterman
+text: is dumbstruck, leans cross-armed against his desk. Spidey does a
+dialog: horizontal dance.
+speaker_heading: LETTERMAN
+dialog: Hold it. Are you a shill for Velcro?
+text: The cameras swirl to track Spider-Man as he sings back to the stage.
+text: Letterman sits on the edge of his desk, shakes his head.
+speaker_heading: SPIDER-MAN
+dialog: Ta-daaa!
+text: The BAND reprises Spidey’s “Ta-daaa!” The audience CHEERS, Spidey bows.
+speaker_heading: LETTERMAN
+dialog: All right, amazing. Are you quite finished?
+speaker_heading: SPIDER-MAN
+dialog: Just about. You see, I also have this amazing strength…
+text: With one hand, Spider-Man lifts the desk-- and Letterman-- above his head.
+text: The audience goes wild.
+scene_heading: INT. TV STUDIO LOBBY - NIGHT
+text: REISS AND SPIDER-MAN COME OUT OF AN ELEVATOR, CROSS THE LOBBY TO THE DOOR.
+speaker_heading: SPIDER-MAN
+dialog: So they’re airing this tonight?
+speaker_heading: REISS
+dialog: Yup. Oh, here’s your check, minus my commission. Solid,
+dialog: solid novelty act.
+text: Spider-Man puts the check in his waistband. They head into the revolving
+dialog: door.
+scene_heading: EXT. FIFTH AVENUE - NIGHT
+scene_heading: SPIDER-MAN STANDS DEAD STILL OUTSIDE THE BUILDING, SHUDDERS-- STREET NOISE
+text: FADES TO SILENCE, TRACK IN TO HIS FACE. DISTORTED SOUNDS: A WINDOW
+scene_heading: SMASHING, BEN’S VOICE-- “HEY, WHAT--“ THIS IS SPIDER-MAN’S FIRST
+scene_heading: EXPERIENCE OF “SPIDER-SENSE,” A WARNING OF DANGER.
+speaker_heading: REISS
+dialog: (fading in)
+dialog: … a couple a drinks at Sardi’s?
+speaker_heading: SPIDER-MAN
+dialog: What?
+speaker_heading: REISS
+dialog: I asked if you felt like a drink--
+speaker_heading: SPIDER-MAN
+dialog: (distracted)
+dialog: No. No, I-- my aunt and uncle. Something’s wrong -- I
+dialog: need to make a phone call.
+speaker_heading: REISS
+dialog: Okay, kid. Call me tomorrow.
+text: Reiss heads off. Spider-Man stops at a phone kiosk, picks up the receiver--
+speaker_heading: SPIDER-MAN
+dialog: Mr. Reiss-- I need a quarter--
+speaker_heading: REISS
+dialog: I just gave-- yeah, sure.
+text: He gives him the coin and walks off. Pedestrians gawk at the costumed
+text: figure as he quickly dials. BEHIND HIM, across the street, there’s a cut-
+dialog: rate electronics store.
+speaker_heading: SPIDER-MAN
+dialog: Ben, is everything all right?…Are you sure?
+dialog: (relieved)
+dialog: No, I guess it was nothing-- I just had this feeling-- no,
+dialog: don’t wake her up… just watch Channel 4 at 12:30--
+text: ALARM from store in BG. A huge and menacing THIEF races into the street, a
+text: paper bag full of cash on one hand, a small TV under his arm. Spider-Man
+text: leans into the kiosk to be heard, speaks loudly.
+speaker_heading: SPIDER-MAN (cont.)
+dialog: Right, tonight. I know it’s late, but it’s worth it--I’ll
+dialog: be on television! It’s a long story--
+text: An Armenian STOREOWNER chases the thief, who dodges cars and buses and
+text: heads straight toward Spider-Man. Brakes SCREECH, horns BLARE.
+speaker_heading: STOREOWNER
+dialog: Stop him! Somebody stop him!
+text: Spider-Man dodges as the thief runs right past him and hurries down the
+text: subway. The winded Storeowner stops by Spider-Man, cursing him in Armenian.
+speaker_heading: SPIDER-MAN (on phone)
+dialog: Isn’t that great? You won’t believe it…
+speaker_heading: STOREOWNER
+dialog: Whatsa matter with you!
+speaker_heading: SPIDER-MAN (on phone)
+dialog: Okay. Okay. See you, Ben.
+text: He hangs up, turns calmly to the irate Storeowner.
+speaker_heading: STOREOWNER
+dialog: You coulda stopped him! Done something-- Stuck your leg
+dialog: out, tripped him-- anything!
+speaker_heading: SPIDER-MAN
+dialog: Oh, gimme a break. Do I look like Charles Bronson?
+text: Spider-Man walks off, leaving the Storeowner to his apoplexy.
+scene_heading: EXT. BANK MACHINE - NIGHT
+text: CLOTHES UNDER HIS ARM, SPIDEY PULLS OUT THE CHECK, AN IMPATIENT BUSINESSMAN
+text: AND A FISHWIFE BEHIND HIM.
+speaker_heading: SPIDER-MAN
+dialog: Can I borrow somebody’s pen?
+text: The businessman mutters, “Flake” under his breath, hands him a pen. He
+text: starts to sign “Peter,” then flips it over. It’s made out to “Spider-Man.”
+speaker_heading: SPIDER-MAN
+dialog: Wonderful. I guess I can still make a withdrawal.
+speaker_heading: FISHWIFE
+dialog: Hey, nutbar, move it!
+scene_heading: INT. DISCO - NIGHT
+text: COLORED LIGHTS THROB WITH THE MUSIC. YOUNG TRENDIES CLAP WITH THE BEAT AS
+text: SPIDER-MAN PUTS ON A FABULOUS SHOW OF ACROBATIC BREAKDANCING.
+text: In mid-move, Spider-Man freezes-- the tingle of his “spider-sense” again.
+text: SILENCE and TRACK IN. We hear GUNSHOTS, a man’s GROAN, distorted.
+text: Ambient SOUNDS of the disco return. The crowd urges Spider-Man to
+text: continue, but he pushes through them toward the bar. He lifts the lower
+text: portion of his mask over his nose to finish his Coke. KIM-- the sexpot
+text: Peter saw in Washington Square Park-- watches him hungrily.
+speaker_heading: KIM
+dialog: I love the way you move. What made you stop?
+speaker_heading: SPIDER-MAN
+dialog: Second time tonight… this weird, weird feeling, like a kick
+dialog: in the stomach…
+text: She runs her hand over his masked face, then over his chest and stomach.
+speaker_heading: KIM
+dialog: I want you.
+speaker_heading: SPIDER-MAN
+dialog: Uh…
+speaker_heading: KIM
+dialog: You’ll leave your mask on.
+speaker_heading: SPIDER-MAN
+dialog: Uh-hu, right… excuse me…
+text: He edges away from her stroking hand and scoots into the crowd. She
+dialog: shrugs.
+scene_heading: EXT. PLAZA - NIGHT
+scene_heading: A PUBLIC PLAZA IN THE THEATER DISTRICT, WITH A LARGE METAL CALDER-ESQUE
+scene_heading: SCULPTURE. A LIGHT CROWD: ELEGANT THEATRE-GOERS, A FEW HOOKERS, VENDORS,
+scene_heading: AND STREET PEOPLE. SPIDER-MAN, HIS WEB-WRAPPED CLOTHES UNDER HIS ARM AND A
+text: CHAMPAGNE BOTTLE IN HIS HAND, TRIES TO HAIL A CAB. A VENDOR POPS OPEN HIS
+speaker_heading: SAMPLE CASE.
+speaker_heading: VENDOR
+dialog: A watch, man. You look like you need a watch. These real
+dialog: Rolexes, man. 20 bucks.
+text: A cab pulls over. The vendor hangs in there.
+speaker_heading: VENDOR
+dialog: You want a red one? Red Rolex, right here, ten bucks.
+dialog: Matches your tux.
+text: Spider-Man leans into the cab.
+speaker_heading: SPIDER-MAN
+dialog: Can you take me to Forest Hills?
+speaker_heading: CABBIE
+dialog: Twenty-five bucks over the meter. You pay tolls.
+speaker_heading: VENDOR
+dialog: Hey, you buy three watches for that, man!
+text: Spider-Man gets in, the cab starts off. The vendor goes after a well-
+text: dressed YUPPIE COUPLE, starts his rap again.
+text: The peculiar THROB fills the plaza. People turn toward the metal
+text: sculpture, which PULSATES.
+scene_heading: INT. CAB - NIGHT
+text: SPIDER-MAN FACES FRONT, THE PLAZA BEHIND HIM. THE CAB MOVES VERY SLOWLY.
+speaker_heading: SPIDER-MAN
+dialog: I’m in a hurry. I’ve got to see my aunt and uncle--
+speaker_heading: CABBIE
+dialog: Fella, my foot’s all the way to the floor!
+scene_heading: EXT. PLAZA - NIGHT
+text: THE SCULPTURE HAS BECOME A HUGE MAGNET. IN QUICK SUCCESSION, EVERY SMALL
+scene_heading: METALLIC OBJECT IN THE AREA SAILS TOWARD IN FROM ALL DIRECTIONS:
+text: The vendor’s watches fly from out of the sample case-- the man’s car keys
+text: rip through his trousers-- his shirt studs-- the woman’s bra from within
+text: her evening dress-- a bag lady’s shopping cart-- a hooker’s metal belt and
+text: purse-- her pimp’s “gold” chains and rings-- a fat man’s buckle.
+text: All fly to the sculpture and stick magnetically. The THROB and PULSE
+text: abruptly cease; the objects clatter to the plaza pavement.
+text: Spider-Man’s cab-- suddenly released-- peels rubber with a SCREECH. We see
+text: his face looking out the rear window.
+scene_heading: INT. MIDTOWN TUNNEL - NIGHT
+text: THE CAB SHOOTS OUT OF THE TUNNEL INTO QUEENS.
+speaker_heading: CABBIE (VO.)
+dialog: Ah, ain’t any crazier than usual. Albino alligators in the
+text: sewers, subway mutants wit’ no faces, spontaneous human
+dialog: combustion. See it alla time.
+scene_heading: INT. CAB - NIGHT
+text: THROUGH THE CAB WINDOW AS IT TURNS INTO MAY’S BLOCK. TWO SQUAD CARS AND A
+scene_heading: DETECTIVE’S SEDAN SURROUND THE HOUSE. SPIDER-MAN LEANS FORWARD, CONCERNED.
+scene_heading: EXT. MAY’S HOUSE - NIGHT
+text: NEIGHBORS IN NIGHTCLOTHES CLUSTER ON THE STREET, A UNIFORMED COP KEEPING
+scene_heading: THEM BACK. AD LIB CONFUSION. “THE NEIGHBORHOOD’S GONE ALL TO HELL, I TELL
+text: YA,” “SUCH A NICE MAN,” “WHAT HAPPENED?” “THEY’RE ANIMALS,” “NO RESPECT FOR
+speaker_heading: NOTHIN’,” ETC.
+text: Spider-Man, champagne in hand, collars an old lady.
+speaker_heading: SPIDER-MAN
+dialog: Mrs. Shapiro, what happened?
+text: She sees the masked face, lets out a quick SHRIEK and backs away into the
+text: milling crowd. MAROTTA, a homicide detective in his 40s, waddles over.
+speaker_heading: MAROTTA
+dialog: What’s going on here?
+speaker_heading: SPIDER-MAN
+dialog: Somebody tell me what happened!
+speaker_heading: NEIGHBOR
+dialog: A burglar!
+speaker_heading: TEENAGER
+dialog: They shot him.
+speaker_heading: SPIDER-MAN
+dialog: Shot who? Shot who!?
+speaker_heading: WOMAN
+dialog: I was doin’ the dishes--
+speaker_heading: TEENAGER
+text: Right in the guts, blood all over.
+speaker_heading: MAROTTA
+dialog: Wait. Lieutenant Marotta, NYPD. What’s--
+speaker_heading: SPIDER-MAN
+dialog: WHO?!
+speaker_heading: NEIGHBOR
+dialog: Ben, Ben Parker. Lived in that place for, oh, fifteen,
+dialog: twenty years.
+speaker_heading: TEENAGER
+text: Like a stuck pig, moanin’, wow.
+speaker_heading: OLD MAN
+dialog: Ambulance took him away and May went--
+text: The bottle breaks in Spider-Man’s clenching fist, the rest SMASHES to the
+dialog: sidewalk.
+speaker_heading: SPIDER-MAN
+dialog: What hospital?
+speaker_heading: OLD MAN
+dialog: Oh, I think St. Francis--
+text: Spider-Man dashes back to the cab.
+speaker_heading: WOMAN
+dialog: I was just doin’ the dishes when I heard--
+speaker_heading: MAROTTA
+dialog: (yells after Spider-Man)
+dialog: Hey, who the hell are you?
+dialog: int. hospital waiting room - night
+scene_heading: STERILE, LONELY, HARSHLY LIT. MAY SITS STIFFLY ON THE COUCH, HIDING
+text: EMOTION. THE IMPERSONAL SOUNDS OF THE PAGING SYSTEM; A TV DRONES IN BG.
+text: Peter runs in, street clothes covering the Spider-Man outfit. His hand
+text: bleeds from the smashed bottle. May looks at him, disturbingly calm.
+speaker_heading: MAY
+dialog: Peter, you’re bleeding.
+speaker_heading: PETER
+dialog: It’s fine. Tell me what--
+speaker_heading: MAY
+dialog: Oh, Ben gets through everything.
+speaker_heading: PETER
+dialog: Aunt May, what happened?
+speaker_heading: MAY
+text: I was napping on the couch. There was a voice and a shot.
+text: I woke up. Ben was looking at me.
+speaker_heading: PETER
+dialog: How is he?
+speaker_heading: MAY
+dialog: He’ll be fine. They won’t tell me anything, but I’m sure
+dialog: he’ll be fine.
+text: He sits beside her, watching her. He hugs her, she responds by patting his
+dialog: head.
+speaker_heading: MAY
+dialog: Stop that. He’ll be fine.
+text: Peter looks stoically across the lobby. It slowly dawns on him: he is
+text: watching Spider-Man on the Letterman show. Marotta and a uniformed cop
+text: enter the hospital waiting room, move to Peter.
+speaker_heading: MAROTTA
+dialog: You the nephew?
+text: Peter nods, dazed.
+speaker_heading: UNIFORM COP
+dialog: Your uncle’s a brave old dude. Evidently the guy was
+dialog: comin’ at your aunt, so he jumped him. Caught a bullet,
+dialog: but chased the guy away. Lucky thing a black-‘n’-white was-
+dialog: -
+speaker_heading: MAROTTA
+dialog: Not now.
+text: From the other side of the waiting room, a grim-faced DOCTOR crosses slowly
+text: toward them. May stands up slowly, looks at his face and shudders.
+speaker_heading: DOCTOR
+dialog: Mrs. Parker, I’m sorry. We tried--
+text: A desperate sob. May clutches her chest, gasps for air. The Doctor runs
+dialog: to her side.
+speaker_heading: DOCTOR
+dialog: Jesus-- Code Blue! Crash cart in the lobby, Stat!
+text: A blur of action: orderlies, nurses, a stretcher. Marotta gently pulls
+text: Peter out of the line of “fire.”
+speaker_heading: UNIFORM COP
+dialog: We’ll get the bastard who did it, Mr. Parker. He’s trapped
+dialog: in a warehouse, see, over on 112th--
+text: Marotta silences him with a dirty look, sighs. He puts his arm around
+dialog: Peter.
+speaker_heading: MAROTTA
+dialog: Kid, leave it. You can’t do anything.
+text: Peter pulls away, then runs out into the night. Marotta looks at the cop.
+speaker_heading: UNIFORM COP
+dialog: Hey, I figured he oughta know!
+text: Marotta shakes his head, walks down the hall toward the doctor. The
+text: Uniform Cop slumps stupidly in a chair, looks at the TV: the end of the
+dialog: Spider-Man segment.
+speaker_heading: LETTERMAN
+dialog: (filter)
+dialog: Are you quite finished?
+speaker_heading: SPIDER-MAN
+dialog: (filter)
+dialog: Just about. See, I also have this amazing strength.
+scene_heading: EXT. PAINT WAREHOUSE - NIGHT
+text: A SWAT TEAM SURROUNDS THE DILAPIDATED STRUCTURE; SEARCHLIGHTS, SNIPERS.
+text: FLASHES OF GUNFIRE FROM A MIDDLE STORY OF A TALL WAREHOUSE. A TV NEWSWOMAN
+scene_heading: BROADCASTS A LIVE REPORT FROM BEHIND THE BARRICADE. OTHER REPORTERS BABBLE
+speaker_heading: IN BG.
+speaker_heading: NEWSWOMAN
+text: -- is holding the police at bay with a wall of automatic
+dialog: weapons fire--
+text: More SHOTS ring out in BG.
+speaker_heading: NEWSWOMAN (cont.)
+text: -- but because of the flammable chemicals, the SWAT team is
+dialog: helpless for now.
+text: High above her, Spider-Man clings to a wall facing the warehouse. He
+text: musters his courage.
+speaker_heading: SPIDER-MAN
+dialog: (to himself)
+dialog: Just do it, you chicken.
+text: He shoots a long web up to the warehouse roof, loops the strand around his
+dialog: hand, and swings--
+text: -- above the stunned police. Reporters try to catch him on film as--
+text: -- he arcs across the street to the warehouse, CRASHES through a window--
+scene_heading: INT. PAINT WAREHOUSE -NIGHT
+text: --AND SCATTERS A PYRAMID OF STACKED PAINT CANS, SPLATTERING PAINT
+scene_heading: EVERYWHERE IN THE DIMLY-LIT LOFT. THE GUNMAN FIRES AFTER THE ELUSIVE
+scene_heading: SHADOW, STROBE-LIKE STREAKS OF LIGHT ILLUMINATE SPIDER-MAN-- A VAT OF
+text: TURPENTINE EXPLODES INTO FLAME.
+text: On the other side of the cavernous room, Spider-Man kicks over a huge
+text: bucket of red paint, which floods across the floor like a blood river. The
+text: gunman, only half-visible in the dim, smoky light, whirls and FIRES again
+dialog: at Spider-Man.
+speaker_heading: GUNMAN
+dialog: I’ll kill you-- I’ll kill you!!!
+text: Bullets spray in every direction, exploding paint cans in a crazed rainbow
+text: of fluid and flames.
+speaker_heading: GUNMAN
+dialog: WHERE ARE YOU!?
+speaker_heading: SPIDER-MAN
+dialog: Up here.
+text: The gunman looks up, aims at the ceiling-- Spider-Man hangs from the
+text: rafters. Just as his trigger finger clenches, a jet of webbing shoots into
+text: the barrel of the gun, which BACKFIRES in his hands. Spider-man leaps
+text: down, his boot connects with the man’s jaw. Spider-Man pulls his mask off,
+text: stands above the unconscious gunman.
+speaker_heading: SPIDER-MAN
+dialog: Get up! I want you to look into my eyes when I--
+text: Spider-Man hoists the gunman off the floor in fury and prepares to smash
+text: the man’s skull. He hesitates… and sees the face of the Gunman in the
+text: dancing firelight.
+speaker_heading: SPIDER-MAN
+dialog: Oh, no…
+dialog: (desperate)
+dialog: NO!
+scene_heading: EXT. FIFTH AVENUE - NIGHT
+text: FLASHBACK: SPIDER-MAN ON THE PHONE. THE THIEF RUSHES TOWARD HIM AND WE
+scene_heading: FREEZE-FRAME ON HIS FACE-- THE THIEF AND THE GUNMAN ARE THE SAME MAN.
+scene_heading: INT. PAINT WAREHOUSE -NIGHT
+text: POLICE RUSH IN, GUNS DRAWN. SILENCE, BUT FOR THE CRACKLE OF FLAMES AND
+text: BURSTING OF PAINT CANS. THROUGH THE SMOKE, THEY SEE SOMETHING LARGE HANGING
+text: FROM THE RAFTERS LIKE A YO-YO. IT’S THE GUNMAN, MOANING, COMPLETELY
+text: ENVELOPED IN WEBBING.
+scene_heading: EXT. COURTHOUSE ROOF - NIGHT
+scene_heading: DAWN STARTS TO BREAK OVER MANHATTAN. CAMERA CRANES DOWN TO PICK UP SPIDER-
+text: MAN ON THE PEAK OF A MARBLE FACADE, LOOKING VERY SMALL INDEED.
+speaker_heading: CLOSER
+text: He tears off the mask. Peter’s eyes are red-rimmed, past tears. He pulls
+text: off his gloves: one hand still bleeds from the crushed bottle. He pulls
+text: the check from his waistband, stares at it… then slowly rips it into small
+text: pieces. He stands, watching the confetti-like bits flutter downward-- then
+text: violently rips the tunic from his chest. He pauses: we see the web-
+text: shooters still taped to his arms. Peter throws the mask, gloves and tunic
+text: down toward the street.
+text: As the blue and red costume drifts in the wind, pas an engraved motto:
+text: WITH GREAT POWER COMES GREAT RESPONSIBILITY.
+scene_heading: EXT. CEMETERY - DAY
+scene_heading: A CHILLY MORNING. AN URBAN CEMETERY IN QUEENS. IN A BLACK SUIT, PETER
+text: TOSSES A FLOWER INTO AN OPEN GRAVE. SEVERAL MOURNERS, INCLUDING SOME
+text: NEIGHBORS, BID HIM GOOD-BYE. HE LOOKS NUMB.
+speaker_heading: MRS. SHAPIRO
+dialog: May would have liked the eulogy. How is she?
+speaker_heading: PETER
+dialog: (absently)
+dialog: Okay… the doctors say no shocks for a while. She needs
+dialog: rest.
+speaker_heading: MRS. SHAPIRO
+dialog: You could use some too, honey.
+text: Peter nods, she hugs him. A hefty, blue-collar FRIEND of Ben’s, looking
+text: awkward in a suit and tie, shakes Peter’s hand.
+speaker_heading: FRIEND
+dialog: Ain’t nothing you coulda done, Peter.
+text: No nod to this one. Peter watches the man walk off, then looks at the
+dialog: grave.
+scene_heading: EXT. ELECTRODYNE FACTORY - DAY
+text: A LOADING BAY TO THE VAST WAREHOUSE. THE SALESMAN CHECKS OFF A LIST AS
+text: WORKERS LOAD ELECTRICAL EQUIPMENT INTO THE BACK OF A RENTED TRUCK. A HUGE
+scene_heading: SECTION OF ALUMINUM PIPE SITS NEARBY. OCK WATCHES. THE SALESMAN WAVES THE
+scene_heading: WORKERS AWAY.
+speaker_heading: SALESMAN
+dialog: Okay, boys, we need a forklift for that pipe.
+dialog: (To Ock)
+dialog: Where do you want the bill sent?
+text: Ock pulls a wad of crisp bills from his trench coat, hands it to the
+text: astonished man.
+speaker_heading: SALESMAN
+dialog: I’ll… uh… get you a receipt…
+text: He starts off into the warehouse, counting the cash, then stops, hearing a
+text: heavy CLANK behind him. He turns to see:
+text: The enormous section of pipe sitting in the truck bed. Ock climbs into the
+text: cab and drives away.
+scene_heading: INT. STUDENT UNION - DAY
+text: PETER, STILL IN HIS SUIT AND LOOKING BURNED OUT, SITS WITH HARRY OVER
+scene_heading: COFFEE. LIZ AND ADELE, CARRYING BREAKFAST TRAYS, APPROACH FROM THE CASHIER
+speaker_heading: IN BG.
+speaker_heading: HARRY
+dialog: Jesus Christ.
+speaker_heading: PETER
+dialog: Mm-hmm.
+speaker_heading: HARRY
+dialog: And you let me go on about Rosomoff working me too hard? I
+dialog: feel like a complete idiot.
+speaker_heading: PETER
+dialog: You’re not half the idiot I am, Harry.
+text: Adele and Liz set their trays on the adjoining table. Flash enters in BG.
+speaker_heading: LIZ
+dialog: Well, look who’s dressing for success.
+speaker_heading: ADELE
+text: At least this ensemble doesn’t glow in the dark.
+speaker_heading: HARRY
+dialog: Let him be.
+speaker_heading: LIZ
+dialog: Why? He knows how to defend himself. Maybe too well.
+text: Flash sits by Liz, waving a copy of the Bugle. Peter’s photo of Spider-Man
+text: on page one-- with a barely perceptible rip down the middle. The headline
+text: reads: “TV CLOWN ESCAPES CRIME SCENE,” and subhead, “’Spider-Man’ sought
+dialog: for questioning.”
+speaker_heading: FLASH
+dialog: Hey, guys. Check it out-- I saw this dud on the tube last
+dialog: night. He is incredibly cool.
+speaker_heading: LIZ
+dialog: I saw him too. He was silly and obnoxious.
+speaker_heading: ADELE
+dialog: And Flash isn’t?
+speaker_heading: LIZ
+dialog: Be nice.
+speaker_heading: HARRY
+dialog: Yeah, take pity on the feeble-minded.
+speaker_heading: FLASH
+dialog: (the insults pass him by)
+dialog: No, no, listen. They’re tryin’ to say he was in cahoots
+dialog: with this killer--
+speaker_heading: HARRY
+dialog: Flash, drop it--
+speaker_heading: FLASH
+dialog: -- but they got it all wrong. Any fool can figure it out.
+dialog: Spider-Man nailed this guy!
+text: Flash guzzles Liz’s glass of milk, to her annoyance.
+speaker_heading: FLASH
+dialog: I mean, Spidey is one guy I’d like to meet!
+speaker_heading: ADELE
+text: Toads of a feather…
+text: Adele notices the photo credit.
+speaker_heading: ADELE
+dialog: Peter-- you took this picture?
+speaker_heading: LIZ
+dialog: Let me see.
+text: Liz takes the paper, Flash reads it with her. Peter gets ready to leave.
+speaker_heading: FLASH
+dialog: Parker, you amaze me! You know this guy? Who is he,
+dialog: anyway? Where did he come from? Is he a cop, a martial
+dialog: arts freak?
+speaker_heading: PETER
+dialog: He’s a mistake.
+text: Peter walks away.
+speaker_heading: FLASH
+dialog: Mistake? Hey, guy, get back here!
+speaker_heading: LIZ
+dialog: Hm. What a lump.
+speaker_heading: ADELE
+dialog: What’s with him?
+speaker_heading: HARRY
+dialog: Nothing much.
+text: Harry rises with his and Peter’s coffee cups.
+speaker_heading: HARRY (cont.)
+dialog: His aunt had a coronary. His uncle was murdered by that
+dialog: guy Spider-Man caught. No, nothing much at all.
+text: Harry exits, letting the news sink in.
+scene_heading: INT. ROSOMOFF’S OFFICE - DAY
+text: ROZ LEANS ON HIS DESK BY THE MAP; MAROTTA TINKERS WITH THE ANTIQUE SEXTANT.
+speaker_heading: MAROTTA
+dialog: You were the last one to see Thorkel. In Octavius’
+dialog: hospital room.
+speaker_heading: ROZ
+dialog: So you’ve found Thorkel?
+speaker_heading: MAROTTA
+dialog: Some of him… char-broiled bones. Teeth. We ruled out
+dialog: suicide. Any bad blood between him and Ock?
+text: Roz gently takes the sextant away from him.
+speaker_heading: ROZ
+dialog: Octavius wasn’t the murderer type.
+speaker_heading: MAROTTA
+dialog: But you said he went off a little, after the accident, when
+dialog: those mechanical arms--
+speaker_heading: ROZ
+dialog: Waldos.
+speaker_heading: MAROTTA
+dialog: Right. We have reason to believe he also robbed an armored
+text: truck and killed two men. With the waldos.
+text: Roz reacts to this, then leans over the map. Marotta joins him. Peter
+text: enters and stands politely by the door. Neither man notices him.
+speaker_heading: ROZ
+dialog: Lieutenant, I’ve triangulated recent bizarre events-- the
+dialog: Bronx, Jersey, Brooklyn-- all rippling out from--
+dialog: (points)
+text: Here. The E.S.U. Science Center. Octavius’ experiment
+text: seems to have opened a hole in space-time, drastically
+dialog: changing the interrelation between molecular binding,
+dialog: electromagnetism and gravity--
+speaker_heading: MAROTTA
+dialog: Yeah, that’s fascinating, but I’m just a fat, dumb cop
+dialog: lookin’ for a psycho killer--
+speaker_heading: ROZ
+dialog: There’s an infinitely greater danger. If--
+dialog: (sees he won’t get through)
+dialog: Listen. The only thing Octavius cares about is repeating
+dialog: his experiment. To do that, he needs a radioactive
+dialog: catalyst, SL 270.
+text: He hands the cop a list. Marotta nods.
+speaker_heading: MAROTTA
+dialog: Toxic dumps, huh.
+speaker_heading: ROZ
+dialog: And he’ll need a cyclotron. He can’t use ours-- he’s
+dialog: already destroyed it.
+dialog: (hands him a second list)
+dialog: Guard every nuclear accelerator on the Eastern Seaboard.
+dialog: New Haven, Long Island, two in Cambridge--
+speaker_heading: MAROTTA
+dialog: You sure about all this?
+speaker_heading: ROZ
+dialog: (nods)
+dialog: I know him.
+text: Marotta recognizes Peter; Roz looks at him as well. They stare at him.
+speaker_heading: PETER
+dialog: Hi. Professor, I’m here about another extension. My uncle
+dialog: died.
+text: Roz looks at him dubiously, then sees he’s telling the truth. Marotta
+text: slips the lists into his coat.
+speaker_heading: ROZ
+dialog: Of course.
+speaker_heading: MAROTTA
+dialog: It’s a lot of ground to cover. We’ll try.
+dialog: (to Peter)
+dialog: Funny coincidence, huh?
+speaker_heading: ROZ
+dialog: No such thing as coincidence. “God does not play dice with
+dialog: the universe.”
+speaker_heading: MAROTTA
+dialog: Einstein, right? We’ll see ya.
+speaker_heading: ROZ
+dialog: Peter-- my condolences.
+text: Marotta walks out. Peter nods, turns to leave. Roz picks up the day’s
+dialog: Bugle.
+speaker_heading: ROZ
+dialog: This photo you took of “Spider-Man”--
+speaker_heading: PETER
+dialog: Luck. The right place at the right time.
+speaker_heading: ROZ
+dialog: Really. I’d like to speak with him.
+speaker_heading: PETER
+dialog: I don’t think I’ll be running into him.
+speaker_heading: ROZ
+dialog: You never know. Go get some sleep.
+speaker_heading: PETER
+dialog: I’ll try. Thanks.
+text: Roz turns back to his map. Peter watches him for a moment, then exits.
+scene_heading: INT. PETER’S APARTMENT- DAY
+text: ON THE PHONE, TIE LOOSENED. WE HEAR REISS’ ANGRY SQUEALS THROUGH THE
+speaker_heading: RECEIVER.
+speaker_heading: PETER
+dialog: No… No, thanks, but… No, Mr. Reiss-- I’m finished with the
+dialog: act!… Okay, I’m a fool… Look, that’s it, no more Spider-Man-
+dialog: - I’m sorry. Good-bye.
+text: He hangs up and flops face-down on the mattress, burying his face in the
+text: pillow. The PHONE RINGS. He glares at it, but answers.
+speaker_heading: PETER
+dialog: What.
+scene_heading: INT. JAMESON’S OFFICE - DAY
+text: ALL SMILES, JAMESON SITS ON HIS DESK, A COPY OF TODAY’S BUGLE IN ONE HAND.
+speaker_heading: JAMESON (on phone)
+dialog: Parker, I love you. We scooped every paper in the country
+dialog: on this Spider-Man jerk! I want more, Parker. I want more!
+text: A beat. Jameson glares.
+speaker_heading: JAMESON (on phone)
+dialog: What? Aww, don’t be an ass! Get pictures of him robbing a
+dialog: bank, or kicking a dog-- anything! This guy’s the best bad
+dialog: guy since Mengele, or Son a’ Sam, or J.R. Ewing!… Eh? Get
+dialog: outta here, nobody wants a hero!
+scene_heading: INT. PETE’S APARTMENT
+text: PETER LOOKS AT THE SQUEAKING RECEIVER, HANGS UP AND UNPLUGS THE PHONE.
+scene_heading: INT. JAMESON’S OFFICE - DAY
+scene_heading: STILL ON THE PHONE. BETTY, EXCITED, ENTERS AND HANDS JAMESON A SALES
+speaker_heading: REPORT.
+speaker_heading: JAMESON (cont.)
+dialog: Get this-- we sold out! I’ll double the print run! I’ll
+dialog: slot you on page one for the next month, buddy! I’ll--
+text: He finally notices the dead line.
+speaker_heading: JAMESON
+dialog: Parker?
+dialog: (hangs up; to Betty)
+dialog: What a newsman, on the job already!
+scene_heading: INT. PETER’S APARTMENT - DAY
+text: PETER STANDS WITH THE OPEN COSTUME BOX IN HIS HANDS, LOOKING AT THE SECOND
+scene_heading: RED-AND-BLUE OUTFIT. HE DECIDES SOMETHING, THEN STUFFS IT IN THE “LEIBER’S
+scene_heading: NOVELTIES” BAG, ALONG WITH THE WEB-SHOOTERS AND THE OBNOXIOUS NEW-WAVE
+speaker_heading: JACKET.
+scene_heading: EXT. EAST VILLAGE STREET - DAY
+text: BAG IN HAND, PETER LEAVES HIS BUILDING AND CROSSES THE STREET.
+speaker_heading: LIZ (OS)
+dialog: Peter! Wait a minute!
+text: He pauses, Liz runs up to him, a little breathless.
+speaker_heading: LIZ PETER
+dialog: I was just coming by to apologize I’m sorry if I was--
+text: Each pauses to let the other speak, then--
+speaker_heading: LIZ PETER
+dialog: No, I didn’t know about-- I’ve been acting like a--
+text: Both look at each other, then giggle. The tension eases. They walk
+dialog: together.
+speaker_heading: LIZ
+dialog: What’s in the bag? Garbage?
+speaker_heading: PETER
+dialog: Sort of. I’m returning the-- that outfit that you hated so
+dialog: much. Maybe I can get my money back.
+speaker_heading: LIZ
+dialog: Oh, don’t do it on my account--
+speaker_heading: PETER
+dialog: No, it wasn’t only you-- it -- it just wasn’t my style.
+dialog: Hey, look-- let’s go to lunch. Someplace nice for a
+dialog: change.
+speaker_heading: LIZ
+dialog: This from a man who winces at the cost of a pretzel?
+speaker_heading: PETER
+dialog: That was then. I’m better since the lobotomy.
+text: He points to an imaginary scar on his forehead; they laugh and walk off.
+scene_heading: EXT. ELECTRICAL SUBSTATION - DAY
+text: A WALDO THRUSTS INTO FRAME, PENETRATING A MASS OF CIRCUITS, WIRES AND
+text: SWITCHES. SPARKS AND OZONE FILL THE AIR. ALL FOUR OF OCK’S ARMS WORK AT
+text: ONCE, CUTTING AND RESPLICING HIGH-TENSION WIRES IN THE CAGED TRANSFORMER.
+scene_heading: OCK’S EYES FRENETICALLY SCAN A SERIES OF VOLTMETERS; ONE REGISTERS
+text: ESCALATING LEVELS WHILE OTHERS JUMP, THEN DROP.
+text: A LINEMAN sees Ock from the rear, the waldos stretching from his torso.
+speaker_heading: LINEMAN
+dialog: Hey!
+text: Ock ignores him. The Lineman pulls a heavy wrench from his toolbelt and
+text: brandishes it, approaching warily. Without turning around, Ock extends a
+text: waldo backward, grabs the wrench and crushes it in two. The Lineman runs
+dialog: off.
+text: Near the fence, the panicked Lineman slams into two GUARDS, male and
+dialog: female.
+speaker_heading: LINEMAN
+dialog: My wrench! He-- it-- arms!
+text: The guards draw their guns as he clambers over the fence.
+text: Another voltmeter needle swings as Ock throws a switch.
+speaker_heading: FEMALE GUARD
+dialog: Freeze! Hands up!
+text: Ock turns, the waldos waving like Medusa’s hair. The guard steps forward,
+text: her bullet RICOCHETS off a telescoping metal arm. It grabs the gun and the
+text: woman’s hand, squeezing. A second waldo whips around the male guard’s
+text: neck, shakes him like a terrier with a rat, then hurls him into a wall of
+dialog: wires.
+text: Electricity jolts his body and knocks him out. Ock’s attention returns to
+text: his work. Released, the woman falls to her knees in pain, crawls to her
+text: fallen comrade. Her hand extends for his revolver. But her body is
+text: dragged away from the gun-- a waldo had her ankle. She SCREAMS. Another
+text: waldo slaps her head, knocks her out.
+text: A voltmeter reads zero. Ock frowns-- then spies a locked metal cabinet
+text: marked “Third Rail Circuit-- NY Transit Authority.” Ock considers this.
+scene_heading: INT. CHIC FRENCH RESTAURANT- DAY
+text: AN IMPERIOUS WAITER SETS DESSERT BEFORE PETER AND LIZ, OUT OF PLACE IN THE
+scene_heading: REFINED ENVIRONMENT.
+speaker_heading: PETER
+dialog: -- but at least Aunt May’s okay now. I really have to stop
+dialog: by the hospital this afternoon.
+speaker_heading: LIZ
+dialog: Do you mind if I come too?
+speaker_heading: PETER
+dialog: I think I’d like that.
+text: He ignores his dessert, stares out the window.
+speaker_heading: PETER
+dialog: They keep saying there’s nothing I could’ve done. That’s a
+dialog: lie. I could’ve done something. If only I’d paid
+dialog: attention to my feelings.
+speaker_heading: LIZ
+dialog: You’re not trained for that. None of us are… I mean,
+dialog: sometimes I…
+dialog: (practical)
+dialog: Okay, let’s say you had gone back. What then? Are you
+dialog: bulletproof?
+speaker_heading: PETER
+dialog: Well, no.
+speaker_heading: LIZ
+dialog: So? The next day I’d read, “Peter Parker murdered,” and
+dialog: I’d feel…
+speaker_heading: PETER
+dialog: You’d feel what?
+speaker_heading: LIZ
+dialog: (covering)
+dialog: Listen. You think you’re responsible for everything that
+dialog: happens. Don’t flagellate yourself-- and don’t flatter
+dialog: yourself, either. You’re not the center of the universe.
+dialog: You’re just…Peter.
+speaker_heading: PETER
+dialog: Am I? I’m not so sure.
+dialog: (looks at her)
+dialog: I used to be sure of a lot of things. Oh, different things
+dialog: from week to week, but now-- I’m not sure of anything
+dialog: anymore.
+speaker_heading: LIZ
+dialog: I know what you mean. I…
+text: He looks a little queasy-- the spider-sense again. Liz’s voice and the
+text: restaurant SOUND drop out, TRACK IN TO TIGHT CLOSE-UP on Peter. We hear
+text: the Ock THROB and PANICKED CRIES of people in a subway car.
+text: Abruptly, we’re back to reality. And Liz is being oddly inarticulate,
+speaker_heading: LIZ
+dialog: Maybe unsure is-- good. Maybe you feel more that way.
+dialog: Like I was sure you and I were just friends-- and that’s
+dialog: it. But-- last weekend, when I was with Flash-- all I
+dialog: could think of was--
+text: She sees Peter is paying absolutely no attention. She bangs her spoon
+text: against her glass.
+speaker_heading: LIZ
+dialog: Hello. Earth to Peter. Are you listening?
+speaker_heading: PETER
+dialog: Unh-huh. Excuse me. I’ve gotta go.
+text: He grabs the Lieber’s bag and hurried out. The waiter sets the check down
+text: before the boiling Liz.
+speaker_heading: LIZ
+dialog: I think I really do hate him.
+scene_heading: EXT. OFFICE DISTRICT - DAY
+scene_heading: SUCH AS WALL STREET. “WALK” AND “DON’T WALK” SIGNS BLINK SIMULTANEOUSLY,
+text: STOPLIGHTS FLASH WITH NO PATTERN THEN EXPLODE IN SERIES DOWN THE STREET.
+scene_heading: PEDESTRIAN AND VEHICLE TRAFFIC SNARLS, HONKING HORNS, FRAZZLED NERVES.
+text: The THROB begins-- low, muffled, under the street cacophony. At an
+text: intersection, two cars coming from opposite directions suddenly swerve
+text: toward each other. The drivers spin their steering wheels to avoid a crash,
+text: but magnetic attraction makes them slide through the intersection, smash
+text: together sideways and stick. The drivers, inches apart, look at each
+text: other, baffled.
+text: A taxi swerves around the wreck--
+scene_heading: EXT. WARPED STREET - DAY
+text: --AND DOWN THIS LESS-CROWDED STREET. THE THROB SWELLS.
+text: THROUGH THE WINDSHIELD
+text: The PULSE spreads through the asphalt ahead, rippling mirage-like.
+text: The taxi’s wheels sink into the liquefying street, now the consistency of
+text: quicksand. The driver crawls out his window and leaps to the sidewalk as
+text: the gooey street swallows the cab.
+text: Spider-Man swings to the edge of an overlooking building, watches the cab
+text: sink. An earthquake-like RUMBLE from below.
+text: From beneath the street, a subway train BURSTS UP, arcs into the air with a
+speaker_heading: ROAR--
+text: the three-car train sails through the air past Spider-Man--
+text: a huge hole opens like an iris in the facade of a nearby modern office
+dialog: building
+text: the train thrusts into the shimmering hole, which clamps shut around it.
+text: The THROB and PULSE cease. The street below re-solidifies, trapping half-
+text: buried cars. SCREAMS, HONKS, SIRENS.
+scene_heading: INT. OFFICE BUILDING - DAY
+scene_heading: BUSINESSMEN AND SECRETARIES PEEK FROM UNDER DESKS AND AROUND DOORWAYS. ONE-
+scene_heading: AND-A-HALF SUBWAY CARS SIT INCONGRUOUSLY IN THEIR OFFICE. THE PASSENGERS
+text: CLAMBER OUT WINDOWS, PRY DOORS OPEN.
+scene_heading: INT. MIDDLE CAR - DAY
+scene_heading: SOLID STRUCTURAL GLASS BISECTS THE MIDDLE CAR. COMMUTERS IN THE OUTSIDE
+text: HALF OF THE CAR PRESS THEIR FACES AGAINST THE GLASS, POUND FOR HELP.
+scene_heading: EXT. OFFICE BUILDING - DAY
+text: THE OTHER ONE-AND-A-HALF CARS OF THE SUBWAY PROTRUDE FROM THE SHEER FACE OF
+text: THE BUILDING, THE LAST CAR DANGLING VERTICALLY BY ITS HITCH, TEN FLOORS
+text: ABOVE THE STREET.
+scene_heading: INT. LAST CAR - DAY
+scene_heading: VERTICAL. A PILE OF A HALF-DOZEN COMMUTERS ON THE “BOTTOM END.” AD LIB
+text: PANICKED CRIES: “GIVE ME A HAND--“ “WHAT--!” “I WAS GOING TO TAKE THE
+text: BUS!” “NOT THE DOOR!” A WILD-EYED TEENAGER PULLS OPEN THE REAR DOOR, A
+scene_heading: BAG OF FRUIT SPILLS DOWN--
+scene_heading: EXT. WARPED STREET - DAY
+text: AND SPLATTERS ON THE PAVEMENT. A CROWD GATHERS, POINTS UP. MORE AD LIB
+text: CRIES: “THIS CITY’S NUTS!” “GET THE FIRE DEPARTMENT!” “OH, MY GOD!”
+scene_heading: EXT. OFFICE BUILDING - DAY
+text: SPIDER-MAN SHOOTS A LONG STREAM OF WEBBING AND SWINGS TO THE GLASS-FRONT
+text: BUILDING.
+scene_heading: INT. MIDDLE CAR - DAY
+text: SPIDER-MAN’S HEAD POPS IN AN OPEN WINDOW.
+speaker_heading: SPIDER-MAN
+dialog: Hello.
+text: The passengers stare as he climbs in, backs them away from the glass wall.
+speaker_heading: SPIDER-MAN
+dialog: Okay, folks, stand back!
+text: He kicks it--nothing. Frustrated, he grabs a metal railing. Two
+text: passengers help him uproot it. Spider-Man uses the pole as a battering
+text: ram, punching a hole in the window. Office workers aid the passengers.
+text: Spider-Man runs toward the last car.
+scene_heading: INT. LAST CAR - DAY
+text: THE 2ND AND 3RD CAR ARE AT RIGHT-ANGLES TO EACH OTHER. SPIDEY OPENS THE
+text: DOOR AT THE “TOP” OF THE CAR, SCAMPERS DOWN THE GRAB-HANDLES TO THE PEOPLE
+text: BELOW. THE HALF-DOZEN PASSENGERS CLING TO SEATS.
+speaker_heading: SPIDER-MAN
+dialog: Cavalry’s here-- get the wagons in a circle.
+text: He hefts a ROTUND WOMAN over his shoulder.
+speaker_heading: SPIDER-MAN
+dialog: Have you tried Weight Watchers?
+text: She whacks him with her purse as he scampers straight up the floor.
+scene_heading: EXT. LAST CAR
+scene_heading: THE DOOR BETWEEN CARS. SPIDER-MAN PUSHES THE WOMAN UP-- HELPING HANDS FROM
+text: THE MIDDLE CAR LIFT HER TO SAFETY.
+scene_heading: EXT. WARPED STREET - DAY
+text: THE CROWD PARTS AS A HOOK AND LADDER TRUCK RUMBLES UP OVER THE SIDEWALK.
+scene_heading: EXT. LAST CAR - DAY
+scene_heading: SPIDER-MAN PUSHES ANOTHER PASSENGER TO SAFETY. THE THICK IRON LINK BETWEEN
+text: THE CARS CREAKS, BENDING UNDER THE STRAIN.
+scene_heading: EXT. WARPED STREET
+text: THE FIRE LADDER RESTS AGAINST THE BUILDING, BELOW AND TO ONE SIDE OF THE
+text: SWAYING CAR.
+scene_heading: INT. LAST CAR
+text: THE SUBWAY CAR LURCHES PERILOUSLY. SPIDEY RETURNS TO THE TWO REMAINING
+speaker_heading: PEOPLE.
+speaker_heading: SPIDER-MAN
+dialog: Let’s take the scenic route.
+scene_heading: EXT. LAST CAR
+scene_heading: SPIDER-MAN LOWERS A WEB-WRAPPED GIRL DOWN THROUGH THE DOOR, SWINGS HER LIKE
+text: A PENDULUM. AFTER A CLOSE MISS, A FIREMAN ATOP THE LADDER GRABS THE GIRL.
+text: The iron link bends nearly open.
+text: Spider-Man fastens a thread of webbing to the outside of the car.
+speaker_heading: SPIDER-MAN
+dialog: First floor, ladies lingerie, sporting goods…
+text: He grabs the terrified man around the waist, then lets out the line of
+text: webbing in short bursts to lower himself and the man to the sidewalk.
+scene_heading: EXT. WARPED STREET
+text: FIREMEN RUSH TO HELP, A WHITE MERCEDES LIMO PULLS UP. THE CHAUFFEUR OPENS
+text: THE DOOR FOR THE POLITICO, WHO BEAMS FOR THE NEWS CAMERAS.
+speaker_heading: POLITICO
+dialog: Where’s the hero? I want to thank him personally for his
+dialog: fine--
+text: An ominous GRATING of iron from above.
+speaker_heading: SPIDER-MAN
+dialog: Get back! It’s coming down!
+text: He scatters the crowd. The Politico looks up at the subway. The chauffeur
+dialog: runs.
+speaker_heading: POLITICO
+dialog: Oh, no-- my limo-- my Mercedes!
+text: He scrambles to his car. Spidey intercepts him, hefts him like a sack of
+dialog: potatoes and runs to cover as--
+text: the subway car rips away from its link--
+text: and falls, flattening the limo. Pieces scatter in every direction.
+text: Cameras click as Spider-Man sets the whimpering Politico down.
+speaker_heading: POLITICO
+dialog: My Mercedes…
+speaker_heading: SPIDER-MAN
+dialog: This is all you need.
+text: He hands him the Mercedes hood ornament.
+speaker_heading: REPORTER
+dialog: Hey, you some kind of superhero?
+speaker_heading: SPIDER-MAN
+dialog: Actually, I’m just trying to do as little harm as possible.
+speaker_heading: BUSINESSMAN
+dialog: Can I get your autograph? Er-- for my kid, he’s a fan.
+speaker_heading: SPIDER-MAN
+dialog: Fans? I have fans?
+text: He starts to sign “Pete--, “ crosses it out, signs “Spidey” with a
+dialog: flourish.
+speaker_heading: BYSTANDER
+dialog: He was here before it happened! I bet he caused the whole
+dialog: thing!
+speaker_heading: SPIDER-MAN
+dialog: What!?
+speaker_heading: POLITICO
+dialog: He assaulted me! I want him arrested!
+speaker_heading: FIREMAN
+dialog: Councilman, this guy just saved a whole buncha lives--
+speaker_heading: COP
+dialog: Okay, Zorro, assume the position.
+text: The cop pushes Spider-Man spread-eagle against a car.
+speaker_heading: FIREMAN
+dialog: Give the guy a break!
+speaker_heading: POLITICO
+dialog: Take off his mask! He destroyed my car! That’s city
+dialog: property!
+text: The cop, fireman and politico argue, ignoring Spider-Man, who shakes his
+text: head and scampers up the wall. The crowd APPLAUDS; he waves and disappears
+text: over a roof.
+scene_heading: INT. JAMESON’S OFFICE - DAY
+text: JAMESON LEANS BACK IN HIS CHAIR BY AN OPEN WINDOW, READING A COMPETITOR’S
+scene_heading: PAPER. LIKE KILROY, SPIDER-MAN PEAKS OVER THE SILL, THEN LEANS IN TO TAP
+scene_heading: JAMESON’S SHOULDER.
+speaker_heading: JAMESON
+dialog: Ak!
+text: He spins up out of his chair and backs away, horrified.
+speaker_heading: JAMESON
+dialog: Don’t hurt me, you Thing you! I’ve got scummy lawyers like
+dialog: you wouldn’t believe--
+text: Spider-Man crawls the rest of the way in and sits on a wall, chin in hand.
+speaker_heading: SPIDER-MAN
+dialog: Relax, Jameson. This is business. I know you want photos
+dialog: of me, so I’ll give your boy Parker an exclusive. On one
+dialog: condition--
+speaker_heading: JAMESON
+dialog: I don’t submit to blackmail! The first amendment protects
+dialog: my freedom to tell the news as I imagine it, and--
+speaker_heading: SPIDER-MAN
+dialog: Would you cool it already?
+speaker_heading: JAMESON
+dialog: Police, help! Po-- mmph.
+text: Web goo shoots out and covers Jameson’s mouth. Jameson inches to the door.
+speaker_heading: SPIDER-MAN
+dialog: Thank you. Now, repeat after me-- Spider-Man is a good
+dialog: guy. On the side of right, and niceness, and cute baby
+dialog: animals and all that.
+speaker_heading: JAMESON
+dialog: Frmpph-yrr.
+speaker_heading: SPIDER-MAN
+dialog: Fine.
+text: Spider-Man webs the door locked as Jameson grabs the knob. Betty and
+text: others gather at the glass partition, amused.
+speaker_heading: SPIDER-MAN
+dialog: Your friendly, neighborhood Spider-Man could use the good
+dialog: p.r. at the moment.
+text: He heads for the window. Jameson points frantically at his glued-up mouth.
+speaker_heading: SPIDER-MAN
+dialog: Oh, that? It’ll come unstuck in a half-hour or so. Your
+dialog: mouth needs the rest. Bye.
+speaker_heading: JAMESON
+dialog: Hmf-hrr?
+text: Spider-Man waves at the laughing Bugle employees and drops out.
+scene_heading: INT. MAY’S HOSPITAL ROOM - DAY
+scene_heading: A FOUR-PERSON WARD. MAY’S CORNER ALREADY REFLECTS HER PERSONALITY: BRIGHT
+text: FLOWERS, THE PHOTO-CUB OF PETER, A PATCHWORK COMFORTER. SHE SITS UP IN
+text: BED, ALERT BUT TIRED. LIZ SITS BESIDE HER ON THE BED. AN OLD CRONE IN THE
+text: NEXT BED, WATCHING A MUTED TV NEWS ACROSS THE ROOM-- FEATURING SPIDEY
+speaker_heading: FOOTAGE.
+speaker_heading: LIZ
+dialog: He left. I couldn’t believe it-- he just left! It’s as if
+dialog: he’s somewhere else… I’m only getting a piece of him.
+speaker_heading: MAY
+dialog: When Peter was little, he loved to hide. In closets, under
+dialog: the sink. He needed a secret place. But when I’d look for
+dialog: him, he’d laugh… he wanted to be found.
+speaker_heading: LIZ
+dialog: I don’t think he wants me to find him.
+speaker_heading: AGED CRONE
+dialog: Sure he does, toots. May, gimme dat changer thingie.
+text: May flings the remote control across to the Crone’s bed.
+speaker_heading: MAY
+dialog: Television is for idiots. Read a book.
+speaker_heading: AGED CRONE
+dialog: Read this.
+text: The Crone gives May a ”fongoo” bent elbow. Liz draws the curtain between
+dialog: the beds.
+speaker_heading: MAY
+dialog: I wish Ben said that to me, just once. I never let up,
+dialog: always needling him, telling him what to do.
+text: Liz takes May’s hand.
+speaker_heading: MAY
+dialog: Maybe I was hiding. For years, I never told Ben the one
+dialog: important thing.
+speaker_heading: LIZ
+dialog: He knew.
+speaker_heading: MAY
+dialog: Some things you should say anyway.
+speaker_heading: LIZ
+dialog: Even if they’re not clever.
+speaker_heading: MAY
+dialog: Even if you’ve heard them a million times in every stupid
+dialog: pop song ever written.
+speaker_heading: LIZ
+dialog: What if you get hurt?
+speaker_heading: MAY
+dialog: What if the world ends tomorrow?
+text: They look at each other. We hear the TV--
+speaker_heading: NEWSCASTER (filter)
+text: -- still baffled as to the cause of the subway disaster.
+text: The alleged “Spider-Man” is still wanted for questioning.
+dialog: In other news, police have a suspect in yesterday’s armored
+dialog: truck robbery and double murder--
+scene_heading: EXT. NEW YORK STREETS - DAY
+speaker_heading: WITH SPIDER-MAN
+scene_heading: SWINGING FROM SKYSCRAPER TO SKYSCRAPER-- REELING, LIKE A ROLLER-COASTER
+text: THROUGH THE CONCRETE CANYONS.
+text: From street level, looking up as Spider-Man swings like Tarzan. Pedestrians
+dialog: react: “Wowie,” “Check that out,” “What’s he advertising!” “It’s that jerk
+dialog: Spider-Man,” etc.
+scene_heading: EXT. CROWDED STREET - DAY
+text: OCK, TRENCH-COATED AS USUAL, DRIVES HIS RENTED TRUCK. IT SPUTTERS TO A HALT
+text: IN THE MIDDLE OF TRAFFIC. HORNS, IMPATIENT YELLS.
+scene_heading: INT. RENTAL TRUCK - DAY
+text: THE GAS GAUGE READS EMPTY. OCK CLIMBS OUT, LEAVING THE TRUCK BLOCKING THE
+speaker_heading: STREET.
+scene_heading: EXT. CROWDED STREET- DAY
+scene_heading: SPIDER-MAN’S POV: DIFFUSE, EXCEPT FOR OCK IN FOCUS AS HE WALKS THROUGH
+scene_heading: TRAFFIC, OBLIVIOUS TO THE UPROAR HE’S CAUSED.
+speaker_heading: STREET LEVEL
+text: A waldo tears off the driver’s door of a commuter’s Cadillac. Ock slides
+dialog: in.
+speaker_heading: OCK
+dialog: Out.
+speaker_heading: COMMUTER
+dialog: Sure thing.
+text: He scrambles out the passenger door.
+text: Spider-Man swoops down and across the street, still above Ock.
+scene_heading: EXT. NEW YORK STREETS - DAY
+text: THE CADDY SHOOTS AROUND TRAFFIC, THROUGH RED LIGHTS-- WHILE SPIDEY SWINGS
+text: RIGHT BEHIND IT, LOSING GROUND.
+text: To avoid congestion, Ock drives on the sidewalk, scattering panicked
+dialog: pedestrians.
+text: Spider-Man clings to a wall, shaking his head. He leaps down and --
+text: -- lands on the roof of a fast taxi paralleling Ock. The cabbie ignores
+speaker_heading: the CLUNK.
+text: Ock rounds a corner, Spider-Man leaps from the taxi to the rear seat of a
+text: motorcycle ridden by a BIKER CHICK in leathers and helmet.
+speaker_heading: SPIDER-MAN
+dialog: Could you do me a favor and, er--
+speaker_heading: BIKER CHICK
+dialog: -- follow that car? Love to, but you gotta wear a helmet.
+dialog: It’s the law.
+text: He takes the spare helmet from the sissy bar and fastens it on.
+text: They trail Ock’s car through downtown, drawing stares.
+scene_heading: EXT. GEORGE WASHINGTON BRIDGE - DAY
+text: OCK’S CADDY SPEEDS UP AN ON-RAMP. THE BIKER CHICK, CLOSE BEHIND, PULLS
+speaker_heading: OVER.
+speaker_heading: BIKER
+dialog: I don’t do Jersey. Bad vibes.
+speaker_heading: SPIDER-MAN
+dialog: I’m hip. Thanks for the lift.
+text: He hands her the helmet and she screeches off. Spider-Man spies an
+text: approaching semi, runs-- and leaps, clinging to the side of the trailer.
+text: The semi moves over the bridge. Ock’s Caddy is several cars ahead, halfway
+text: over the bridge. Spider-Man crawls up to the top of the trailer. A cloudy
+text: sky, an impending storm.
+scene_heading: EXT. JERSEY TURNPIKE - DAY
+text: STANDING ATOP THE TRAILER WITH HANDS ON HIPS, SPIDER-MAN SEES OCK VEER ONTO
+text: AN EXIT. AS THE TRUCK PASSES THE EXIT, SPIDEY SWINGS ON AN OVERHEAD EXIT
+text: SIGN TOWARD THE OVERPASS.
+text: Spider-Man lands on the overpass. Ock’s car recedes out of sight. There are
+text: no buildings to swing from, no vehicles to cling to. It starts to rain.
+text: Spider-Man sighs and starts walking.
+scene_heading: EXT. MUDDY STREET - NIGHT
+scene_heading: SUNSET. DRIZZLE. A SLEAZY AREA OF WRECKING YARDS AND DUMPS. A POLICE CAR
+text: WITH TWO GAPING HOLES IN THE WINDSHIELD -- AND TWO PATROLMEN DEAD INSIDE.
+scene_heading: CAMERA RISES OVER A CONCRETE WALL WITH RUSTING SIGNS: “TOXIC WASTE DUMP
+scene_heading: #49,” AND “HAZARD-- RADIOACTIVE AND POISONOUS MATERIALS,” WITH A
+scene_heading: RADIOACTIVITY SYMBOL AND SKULL AND CROSSBONES. OVER THE BARBED WIRE ATOP
+text: THE WALL, WE SEE WITHIN.
+scene_heading: EXT. TOXIC WASTE DUMP - NIGHT
+scene_heading: A NIGHTMARISH INDUSTRIAL LANDSCAPE: GIANT VATS OVER-BRIMMING WITH RANCID
+text: CHEMICALS; STACKED, RUSTING DRUMS; PUDDLES OF VISCOUS FLUID ON THE GRAVEL
+speaker_heading: BEDDING.
+text: In an open concrete bunker, Ock uses his human hands to pull open a vault-
+text: like drawer. Inside are dozens of sealed canisters, all bearing “Danger--
+text: Radioactivity” warnings. He checks through them, discarding unwanted
+text: canisters haphazardly. One near the back catches his eye: “SL 270” is
+text: scrawled on the stained label. He plucks it out, examines it, nodding.
+speaker_heading: SPIDER-MAN (O.S.)
+dialog: Open that now and you’ll spoil Christmas.
+text: Ock whirls around. Spider-Man drops down from atop a chemical vat, clucking
+text: his tongue and sauntering toward him.
+speaker_heading: SPIDER-MAN
+dialog: Surprise!
+speaker_heading: OCK
+speaker_heading: Surprise…
+text: He pulls open his overcoat-- all four waldos telescope toward the
+text: astonished Spider-Man. They encircle his body, squeezing like pythons.
+text: Spider-Man gulps for air, struggling desperately against the steel arms.
+text: He wriggles a hand free, shoots webbing up and pulls himself from Ock’s
+text: clutches.
+text: Ock grabs the small canister-- but a stream of webbing shoots down and
+text: jerks the container up to Spider-Man on the roof of the bunker. He springs
+text: down to the ground on the run.
+text: Ock’s waldos lift an oil drum and hurl it over his head. The drum BURSTS
+text: ahead of Spidey, spraying a greasy cloud of noxious gas and sizzling
+text: liquid. Spider-Man gags as Ock rumbles toward him.
+speaker_heading: OCK
+dialog: You are an insect!
+speaker_heading: SPIDER-MAN
+dialog: Doc, you know better than that. Insects are a completely
+dialog: different order from spiders--
+text: Spider-Man ducks as a waldo shoots out, puncturing a hole in a metal vat,
+text: which EXPLODES. He rolls under a flaming stream of napalm-like fluid.
+text: A waldo grabs the SL 270 container; a third arm backhands Spider-Man,
+text: knocking him through the air into a concrete wall. Shaken, Spider-Man gets
+text: to his feet, stumbles after Ock.
+speaker_heading: SPIDER-MAN
+dialog: Well? Had enough?
+text: Ock uses the waldos to pull himself over the retaining wall. Spider-Man
+text: leaps onto Ock’s back, throws him in a head-lock. Ock sputters, strikes
+text: backward with his real fists, to no avail.
+speaker_heading: SPIDER-MAN
+dialog: Aren’t we both too intellectual for this?
+text: A deep, ugly roar echoes from Ock’s chest. Two waldos whip backward, grab
+text: Spider-Man and fling him violently over the top of the wall--
+scene_heading: EXT. MUDDY STREET - NIGHT
+text: AND ONTO THE ROOF OF THE PATROL CAR. HE BOUNCES OFF AND SPLASHES INTO A
+scene_heading: PUDDLE. PAINFULLY, HE ROLLS OVER, STRUGGLING TO HIS HANDS AND KNEES. OUT
+scene_heading: OF NOWHERE, A WALDO CLAW CLUTCHES AT HIS THROAT, SQUEEZING. SPIDER-MAN
+scene_heading: PRESSES THE WEB-SHOOTER TRIGGERS-- THEY SPURT BLOBS OF GOOP, THEN AIR, OUT
+speaker_heading: OF WEBBING.
+text: Ock thrusts Spider-Man against the wall, rears back with another arm and
+text: aims a deadly blow. Spider-Man jerks his head-- the metal fist misses by
+text: inches, punching a crater in the concrete. Ock laughs maniacally, prepares
+dialog: for the final blow.
+speaker_heading: ROZ (O.S.)
+dialog: Octavius!
+text: Ock turns and sees Roz, getting out of his vintage Porsche.
+speaker_heading: ROZ
+dialog: Please.
+text: The wild violence drains from Ock’s face, replaced for a moment by sanity.
+text: He looks at Rosomoff, then at the metal arms, then again at Roz, pitifully.
+text: With an anguished cry, he loosens the grip on the choking Spider-Man. Ock
+text: rushes to the Cadillac, drives off. SIRENS wail in the distance as Roz
+text: helps Spider-Man to his feet.
+speaker_heading: ROZ
+dialog: I sent for the police. We can explain.
+speaker_heading: SPIDER-MAN
+text: Explain that some jerk in a mask and costume fought a mad
+dialog: scientist with four tentacles?
+speaker_heading: ROZ
+dialog: Right. Let’s go.
+scene_heading: INT. ROZ’S CAR - NIGHT
+text: SPIDER-MAN OPENS HIS WINDOW FOR AIR AS ROZ DRIVES THE BRIDGE TO MANHATTAN.
+speaker_heading: ROZ
+dialog: You’re sure you’re all right.
+speaker_heading: SPIDER-MAN
+dialog: (coughs)
+dialog: Yeah, just a lung full of New Jersey. Lucky you showed up
+dialog: when you did.
+speaker_heading: ROZ
+dialog: Logic. Lot 49 is the closest stockpile of SL 270--
+dialog: (looks at him)
+dialog: I do feel foolish talking with a man dressed like a--
+speaker_heading: SPIDER-MAN
+dialog: Imagine how I feel.
+speaker_heading: ROZ
+dialog: Excuse me if I’m impertinent, but-- how did you become…
+dialog: whatever it is you are?
+speaker_heading: SPIDER-MAN
+dialog: The usual. Heredity and environment. What’s the deal with
+dialog: Doc Ock?
+speaker_heading: ROZ
+dialog: He’ll try to finish his experiment.
+speaker_heading: SPIDER-MAN
+dialog: And blow up the universe just to prove he’s right? Bit
+dialog: egotistical, isn’t it?
+speaker_heading: ROZ
+text: A messianic complex is nothing new to Octavius. In his
+dialog: universe, there’s only one mind-- his own. It must be very
+dialog: lonely.
+speaker_heading: SPIDER-MAN
+dialog: Forgive me if I don’t feel too sympathetic right now.
+text: They drive south to Lower Manhattan on West End Avenue in the rain.
+speaker_heading: ROZ
+dialog: I listened to him talk of eternal truth and thought of the
+dialog: Bhagavad Gita, the Indian holy book-- “I am become Shiva,
+dialog: Death-- the destroyer of worlds.” Octavius was…
+speaker_heading: SPIDER-MAN
+dialog: Bonkers.
+speaker_heading: ROZ
+dialog: Loonytunes. And yet…
+speaker_heading: SPIDER-MAN
+dialog: Just drop me off here.
+scene_heading: EXT. WATERFRONT DISTRICT - NIGHT
+text: THE CAR PULLS OVER NEAR THE EERIE WHARVES UNDER THE ELEVATED WEST SIDE
+text: DRIVE. SPIDER-MAN GETS OUT AND LEANS IN THE WINDOW. THE RAIN HAS STOPPED.
+speaker_heading: ROZ
+dialog: Do you… live around here?
+speaker_heading: SPIDER-MAN
+dialog: No, but I’ve got this secret identity to worry about. I’ll
+dialog: swing the rest of the way.
+speaker_heading: ROZ
+dialog: I see. Well, Octavius won’t get much further. They’ll
+dialog: catch him and… put him away. Sad. He might very well have
+dialog: the truth.
+speaker_heading: SPIDER-MAN
+dialog: Phooey on that.
+text: Roz drives off. Spider-Man raises his arms to shoot a web-- it makes PHFFT
+text: noise, still out of webbing. He groans disgustedly, heads down a rain-
+text: slicked street.
+scene_heading: EXT. NEW YORK STREETS - NIGHT
+scene_heading: SPIDER-MAN TRUDGES CROSS TOWN TOWARD HOME. QUICK IMAGES OF NIGHTTIME NEW
+scene_heading: YORK: WAREHOUSES; TENEMENTS; CHINATOWN; THE BOWERY. SPIDEY WALKS BY A
+text: GROUP OF GANG KIDS, WHO LAUGH AND POINT.
+text: He stops a robbery by tiredly flipping the mugger into a dumpster. He
+text: avoids a police car by leaping and clinging to the side of a building.
+text: Inside a window he sees a couple kissing passionately. He looks away and
+text: drops to the street.
+scene_heading: EXT. PETER’S APARTMENT BUILDING - NIGHT
+text: SPIDER-MAN STANDS ON THE LANDING, SLAPS HIS THIGHS FOR HIS KEYS-- NOTHING.
+speaker_heading: SPIDER-MAN
+dialog: (mutters)
+dialog: I gotta get pockets.
+text: He hops on the wall and climbs upward. Near the roof, he hears the RUMBLE
+text: of an MG engine and VOICES below. Harry, Liz, Adele and Flash tumble out
+text: of the tiny car and head to the front door.
+speaker_heading: FLASH
+dialog: Aww-- we forgot the beer!
+speaker_heading: ADELE
+dialog: I’m not sure this is a great idea.
+speaker_heading: HARRY
+dialog: (ala Garbo)
+text: Maybe he vants to be alone.
+speaker_heading: LIZ
+dialog: Come on. He needs friends now.
+text: Groaning, Spider-Man crawls onto the roof, opens the skylight.
+scene_heading: INT. PETER’S HALLWAY - NIGHT
+text: FLASH BRINGS UP THE REAR ON THE STAIRS. EVERYONE’S PUFFING FROM THE CLIMB.
+speaker_heading: FLASH
+dialog: Is this worth it? He’s so damned dull. And I bet he
+dialog: doesn’t have any beery treats.
+text: Peter answers Liz’s knock. In his bathrobe, his face bruised, he looks a
+dialog: mess.
+speaker_heading: LIZ
+dialog: Peter! You poor baby, what happened?
+scene_heading: INT. PETER’S APARTMENT - NIGHT
+text: FLASH CLAPS PETER ON THE BACK, PUSHES PAST TO THE KITCHEN. PETER WINCES
+text: WHEN LIZ TOUCHES HIS BRUISE. SHE SHAKES HER HEAD AND GOES TO THE BATHROOM
+speaker_heading: MEDICINE CHEST.
+speaker_heading: ADELE
+dialog: What did happen to you?
+speaker_heading: PETER
+dialog: It’s nothing. Look--
+speaker_heading: HARRY
+dialog: You get mugged or something?
+speaker_heading: PETER
+dialog: Listen, I do appreciate your concern, but--
+speaker_heading: HARRY
+dialog: I got you a present.
+text: He pulls a colorful can from his jacket pocket-- Peter unscrews the lid and
+text: spring-snakes fly out. Peter looks at Harry tiredly.
+speaker_heading: HARRY
+dialog: (lamely)
+dialog: Thought it might cheer you up.
+text: Flash closes the fridge and returns from the kitchen.
+speaker_heading: FLASH
+dialog: Let’s go somewhere and get ya blotto.
+speaker_heading: ADELE
+dialog: I’m sorry about your uncle…
+speaker_heading: FLASH
+dialog: Guess Uncle Ben got his rice converted--
+text: Flash yoks it up. Liz enters from the bathroom with cotton swabs and a
+dialog: bottle of rubbing alcohol.
+speaker_heading: LIZ
+dialog: Flash, get lost.
+speaker_heading: FLASH
+dialog: Come on, laughter’s the best medicine!
+text: Adele pushes him out the door. Liz looks at Harry, who nods and follows
+text: the others into the hallway. Liz eases Peter down onto the mattress.
+text: Flash tries to look back inside-- Adele closes the door.
+text: Liz dabs Peter’s bruises. His head’s on the pillow, her face is close to
+text: his. He’s totally exhausted.
+speaker_heading: PETER
+dialog: I’m sorry about being a jerk this afternoon.
+speaker_heading: LIZ
+dialog: Just shut up and close your eyes. This’ll hurt.
+text: Eyes shut, he hardly has the energy to wince as she dabs a cut on his
+dialog: temple.
+speaker_heading: LIZ
+dialog: May’s much better. She’ll be out soon.
+speaker_heading: PETER
+dialog: Oh, God, I forgot to--
+speaker_heading: LIZ
+dialog: Ssh.
+dialog: (dabs him again)
+dialog: I always thought she was a strong person. She is-- but not
+dialog: for the reasons I thought.
+speaker_heading: PETER
+dialog: (half-asleep)
+dialog: Strong…
+speaker_heading: LIZ
+dialog: Her cleverness, that hard edge-- maybe they’re the weakest
+text: part of her. The strong part is… what’s underneath. The
+dialog: part she was protecting. There’s no reason to protect it…
+dialog: I think she’s just finding that out now.
+text: Peter’s features relax. Liz puts down the bottle of alcohol.
+speaker_heading: LIZ
+dialog: Peter?
+speaker_heading: PETER
+dialog: (far away)
+dialog: I’m here…
+text: He’s out. Liz sees this and smiles.
+speaker_heading: LIZ
+dialog: So am I.
+text: She kisses him tenderly on the lips, then curls beside him on the bed.
+scene_heading: EXT. HIGH-TECH CYCLOTRON - NIGHT
+scene_heading: BARBED-WIRE BARRICADES, SEARCHLIGHTS AND NATIONAL GUARD TROOPS SURROUND A
+scene_heading: SPRAWLING, FUTURISTIC ACCELERATOR LAB. AN OFFICER LEANS OUT OF A PATROL
+scene_heading: CAR MARKED ‘SUFFOLK COUNTY POLICE.”
+speaker_heading: OFFICER
+dialog: Is there an NYPD Lieutenant here? It’s a Professor Rizzo,
+dialog: or Rosta, or--
+text: With an all-night beard, Marotta comes to the car, a Styrofoam cup of
+text: coffee in hand, grabs the mike.
+speaker_heading: MAROTTA
+dialog: Yeah, Roz.
+speaker_heading: ROZ (filter)
+dialog: Any sign of our friend?
+speaker_heading: MAROTTA
+dialog: Nope. Maybe he skipped to Rio. Feds got troops
+dialog: surrounding every cyclotron on the continent. Are you
+dialog: absolutely positive that one at E.S.U. is kaput?
+scene_heading: INT. ROSOMOFF’S OFFICE - NIGHT
+text: ROZ, FULLY DRESSED, SITS ON THE DESK.
+speaker_heading: ROZ
+dialog: You didn’t see it, Lieutenant. You’d need a half a dozen
+dialog: men, precise equipment. They’d have to rebuild the
+text: transformer from scratch. There were…
+text: His voice trails off-- he realizes Ock’s plan. Marotta’s voice frantically
+text: squeaks through the phone.
+speaker_heading: MAROTTA (filter)
+dialog: Roz? Rosomoff? What is it?
+speaker_heading: ROZ
+text: Precise equipment… such as waldos…
+text: The lights flicker… and the phone RINGS madly, then EXPLODES.
+scene_heading: EXT. HIGH TECH CYCLOTRON - NIGHT
+text: A HIGH-PITCHED WHINE ON THE RADIO.
+speaker_heading: MAROTTA
+dialog: Roz? What’s goin’ on?
+scene_heading: EXT. NEW YORK SKYLINE - NIGHT
+text: LIGHTED BUILDINGS FLASH DARK IN CLUSTERS.
+scene_heading: INT. PETER’S APARTMENT - NIGHT
+scene_heading: PETER SLEEPS, LIZ, FULLY DRESSED, ASLEEP BESIDE HIM. TRACK IN ON PETER; WE
+text: HEAR THE OCK THROB GROWING LOUDER AND FASTER, CACOPHONY OF SCREAMS,
+text: EXPLOSIONS, THE END OF THE WORLD. SOUNDS STOP, PETER SITS BOLT UPRIGHT IN
+text: BED. HE EXTRICATES HIMSELF, GOES TO THE WINDOW. THE LIGHTS IN HIS
+text: APARTMENT GO OUT, AS DO THOSE THROUGHOUT THE NEIGHBORHOOD.
+speaker_heading: PETER
+dialog: Doctor Octopus, I presume.
+text: In the dim light, we see QUICK CUTS of Peter strapping on his web-shooters,
+text: loading fresh cartridges, pulling on his gloves, pulling down the Spider-
+text: Man mask. Liz half-opens her eyes sleepily.
+speaker_heading: LIZ
+dialog: Peter…?
+text: Spider-Man leaps up to the skylight and slips out.
+scene_heading: EXT. NEW YORK STREETS - NIGHT
+scene_heading: SPIDER MAN’S FORM SWINGS AGAINST THE NIGHT SKY THROUGH THE BLACKED-OUT
+speaker_heading: CITY.
+text: A baseball bat SMASHES a jewelry store window. Three LOOTERS fill their
+text: arms with sparkling rings and necklaces.
+text: The leader turns, and catches a red boot in the chin that knocks him end
+text: over end. Spider-Man’s fists quickly dispatch the other two.
+text: Across the street, three more LOOTERS run out of a pawn shop, carrying an
+text: assortment of radios, instruments, cameras, etc.
+speaker_heading: SPIDER-MAN
+dialog: There’s no time!
+text: He takes a running jump, bounces on a car roof like a trampoline, and
+text: tackles two of the looters. On the ground, he shoots a jet of webbing at
+text: the third looter’s back, then pulls hard and yanks him down.
+text: People of all colors and social strata scramble down fire escapes and into
+text: the streets to chase off the looters. Spider-Man clambers up a wall and
+text: swings off.
+scene_heading: INT. EXPERIMENTAL CHAMBER - NIGHT
+scene_heading: MAKESHIFT REPAIRS-- PATCHES OF FRESH METAL PLATING, JERRY-RIGGED WIRING,
+text: EVEN REPAIRS MADE WITH GAFFER’S TAPE. ALL IS STILL STRANGELY WARPED. THE
+scene_heading: EXPERIMENT’S ALREADY GOING: BRILLIANT LIGHT FROM THE FOCUSING CONE AGAIN
+scene_heading: CONCENTRATES ON THE GRAM WEIGHT, WHICH SHIVERS. OCK STANDS IN THE MIDDLE
+text: OF IT ALL, WALDOS WORKING FEVERISHLY AT AN IMPROVISED CONTROL BOARD. HE’S
+text: LOST IN HIS MAD RAPTURE.
+scene_heading: INT. CONTROL ROOM - NIGHT
+text: STILL SHOWING THE EFFECTS OF THE ORIGINAL IMPLOSION: THE GLASS WALL
+text: MELTED, DIALS AND CONTROLS WARPED AND USELESS. ROZ LEANS AGAINST THE
+text: TWISTED GLASS, SHIELDING HIS EYES FROM THE GLARE WITHIN THE CHAMBER.
+speaker_heading: ROZ
+dialog: (hoarsely)
+dialog: My God, Otto, you have to hear me! The world we know will
+dialog: collapse! Everything we have devoted our lives to-- all
+dialog: patterns, all harmonies-- will be destroyed!
+speaker_heading: OCK
+dialog: Truth. Truth alone exists. Truth must be released…
+speaker_heading: ROZ
+dialog: You have no right! This is cosmic suicide!
+text: In desperation, Roz climbs through the melted glass into the chamber,
+text: grabbing a waldo and trying to pull it from a huge rheostat. Ock, watching
+text: the gram weight, pays no attention to Roz’s futile struggle. The arm,
+text: moving to another part of the room, swats Roz aside and knocks him to the
+dialog: floor.
+scene_heading: ON THE GRAM WEIGHT
+text: The tiny cylinder rises very slowly from the scale, the THROB rises in
+text: pitch. Suddenly, the weight “falls upward,” accelerating toward the
+text: ceiling as if dropped.
+text: Spider-Man’s hand catches the gram weight. He’s clinging to the ceiling.
+speaker_heading: SPIDER-MAN
+dialog: Hey, Doc-- you dropped something.
+text: Spider-Man leaps onto Octavius and kicks him in the chest, knocking him
+text: backward, into a pile of acetylene tanks and torches. Roz gets to his
+dialog: feet.
+speaker_heading: ROZ
+dialog: Spider-Man, be careful! He’s quite mad.
+speaker_heading: SPIDER-MAN
+dialog: I’m not so happy myself.
+text: Without warning, a waldo springs out and wallops Spider-Man in the head.
+text: The blow sends him flying, knocks him up against the focusing cone. He
+text: falls on the floor in a heap-- unconscious.
+text: The BLUE-WHITE BEAM focuses on the floor. Roz runs for the cone and tries
+text: to right it, but a waldo grabs him by the collar and flings him away.
+text: Ock smiles and cranks up the power. The PULSE ripples through the tiles,
+text: sends them falling to the ceiling. The cement floor beneath begins to
+dialog: glow.
+scene_heading: EXT. NEW YORK STREETS - NIGHT
+text: SIRENS IN THE DISTANCE; RUNNING; SHADOWY FIGURES. THE BEAM OF A FLASHLIGHT
+text: IN LIZ’S HAND CUTS THROUGH THE DARKNESS: SHE, HARRY AND ADELE HURRY
+text: THROUGH THE STREETS.
+speaker_heading: HARRY
+dialog: (sleepily)
+dialog: This is a great way to get killed.
+speaker_heading: ADELE
+dialog: New York is a big place, Liz.
+speaker_heading: LIZ
+dialog: He was hurt-- he might be delirious or something. We have
+dialog: to find--
+dialog: (beat)
+dialog: Listen!
+text: She hears the faint THROB, runs up the street to locate it.
+scene_heading: EXT. SCIENCE CENTER - NIGHT
+scene_heading: LIGHT SPILLS FROM THE TORN-OPEN FRONT DOOR, THE ONLY ILLUMINATION IN THE
+text: AREA. THE PULSE SPREADS THROUGH THE SIDEWALK, THE CEMENT PAVING RIPPLES
+text: AND THROBS. LIZ RUNS TOWARD THE BUILDING-- ADELE GRABS HER.
+speaker_heading: ADELE
+dialog: Uh, Liz, I don’t think--
+text: Liz breaks away from Adele and dashes up the steps. Adele hurries after
+text: her-- a crevice opens as the building’s steps crumble. Harry pulls Adele
+dialog: away.
+scene_heading: INT. SCIENCE CENTER MAIN FLOOR - NIGHT
+text: THE BUILDING CREAKS, HUNKS OF CEILING FALL DOWNWARD. LIZ RUNS UPSTAIRS TO
+text: A CORRIDOR WITH MANY DOORS.
+speaker_heading: LIZ
+dialog: Peter! Peter, where are you?!
+text: A crack opens in the corridor’s floor beneath Liz. She leaps out of the
+text: way, twists open the knob of a door marked “Biology Lab,” gets in just as a
+text: hole opens in the floor where she’d been standing.
+scene_heading: EXT. SCIENCE CENTER - NIGHT
+text: ADELE AND HARRY BACK AWAY AS THE STRUCTURE SHAKES AND RUMBLES, THE BRICK
+text: WALLS SLOWLY SLIDING UPWARD, THE CONCRETE FOUNDATION RISING INTO VIEW. THE
+text: SIDEWALK BUCKLES, TREES UPROOT AND FALL OVER.
+scene_heading: INT. EXPERIMENTAL CHAMBER - NIGHT
+scene_heading: THE ROOM VIBRATES. ROZ DRAGS THE UNCONSCIOUS SPIDER-MAN TOWARD THE CONTROL
+text: ROOM. THE PULSE ENVELOPS THE ENTIRE FLOOR, THE LIGHT CASTS EERIE SHADOWS
+scene_heading: UPWARD ON OCK’S FACE.
+scene_heading: EXT. SCIENCE CENTER - NIGHT
+text: THE BUILDING PULLS FREE FROM THE GROUND. ADELE, HARRY AND OTHERS IN THE
+text: AREA TAKE COVER AS WATER MAINS BURST, SPEWING FOUNTAINS.
+scene_heading: INT. BIOLOGY LAB - NIGHT
+text: LIZ STEADIES HERSELF AS CHAIRS AND TABLES SLIDE FROM ONE END OF THE ROOM TO
+text: THE OTHER. A CAGEFUL OF WHITE MICE TUMBLES TO THE FLOOR AND SNAPS OPEN, THE
+text: MICE SCURRY IN PANIC.
+scene_heading: EXT. SCIENCE CENTER - NIGHT
+text: HEAVY ELECTRICAL CABLES STRETCH UPWARD TO THE RISING BUILDING, THEN SNAP IN
+scene_heading: SHOWERS OF SPARKS. THE SCIENCE CENTER RISES FURTHER, NOW AIRBORNE-- THE
+text: ELECTRICAL CABLES POINT UPWARD, SHOOTING ARCS OF POWER DIRECTLY AT THE
+text: BUILDING.
+speaker_heading: ANGLE UP
+text: as the Science Center hovers above the surrounding buildings like a brick
+dialog: spaceship.
+scene_heading: INT. BIOLOGY LAB - NIGHT
+text: LIZ CLUTCHES A WINDOW SILL, LOOKING OUT-- AND DOWN.
+speaker_heading: HER POV-- RISING
+text: The E.S.U. neighborhood recedes, hundreds of feet below. Dawn begins to
+text: show in the distance, silhouetting Manhattan.
+scene_heading: EXT. SUBSTATIONS - DAWN
+text: IN RAPID SUCCESSION, POWER STATIONS AROUND THE CITY EXPLODE AND SHOOT
+text: RIVERS OF ELECTRICITY TOWARD THE BUILDING ASCENDING IN THE DISTANCE.
+scene_heading: EXT. NEW YORK SKYLINE - DAWN
+scene_heading: TWISTING, ROPE-LIKE BEAMS CRACK THROUGH THE SKY, RIPPING HOLES THROUGH
+text: SKYSCRAPERS IN THEIR PATH.
+text: The bolts of power shoot at the concrete foundation--
+scene_heading: INT. EXPERIMENTAL CHAMBER - DAWN
+text: --AND RIP GAPING HOLES THROUGH THE WALLS AND FLOOR, DIRECTLY TO THE WHINING
+scene_heading: CYCLOTRON TRANSFORMER, WHICH PULSES AND THROBS. CURLING ARCS OF POWER
+text: DANCE CRAZILY AROUND OCK. HE WATCHES IN ECSTASY, HIS WALDOS TWITCH AND CURL
+text: IN PLEASURE.
+scene_heading: INT. CONTROL ROOM - DAWN
+text: THE TWISTED BANKS OF ELECTRONICS BURST. ROZ SHAKES SPIDER-MAN.
+speaker_heading: ROZ
+dialog: Get up! The second phase!
+scene_heading: EXT. NEW YORK- DAY
+text: AN ENERGY CYCLONE ERUPTS AND WHIRLS BENEATH THE RISING STRUCTURE, SUCKING
+scene_heading: OBJECTS FROM THE STREET: TINE CANS-- BUS BENCHES-- TREES-- NEWSSTANDS--
+text: PARKED CARS. ALL SWIRL IN THE INVERTED FUNNEL GROWING BENEATH THE
+text: BUILDING.
+scene_heading: INT. EXPERIMENTAL CHAMBER - DAY
+text: SPIDER-MAN LEAPS AROUND THE ENERGY STREAMS TO CATCH OCK’S ATTENTION.
+text: INTENSELY ABSORBED IN THE EXPERIMENT’S PROGRESS, HE REACTS SLOWLY. HIS
+text: WALDOS PROBE TOWARD SPIDER-MAN, WHO DANCES AND WHIRLS AWAY FROM THEIR
+speaker_heading: GRASP.
+text: Roz makes his way toward Ock’s control board.
+text: Spider-Man hurls an acetylene tank at Ock, who deflects it-- an energy bolt
+text: hits it and the tank EXPLODES, tearing a door-sized hole in the floor
+text: behind Spider-Man. Roz, at the controls, nods to Spider-Man.
+speaker_heading: SPIDER-MAN
+dialog: Come and get me, squid-breath
+speaker_heading: OCK
+dialog: You annoy me!
+text: Ock lunges for him, but Spider-Man jumps down through the hole in the
+text: floor. Ock falls after him.
+scene_heading: EXT. SCIENCE CENTER - DAY
+text: LOOKING UP FROM THE BOTTOM OF THE BUILDING: ARCS OF ENERGY CRACKLE THROUGH
+text: THE CLOUD COVER AND SHOOT INTO THE BASEMENT. FALLING, OCK THRUSTS A STEEL
+text: TENTACLE THROUGH THE CONCRETE AS AN ANCHOR, AND VAULTS ARM OVER ARM AFTER
+speaker_heading: SPIDER-MAN.
+text: Spider-Man scrambles around the edge of the foundation--
+text: --and onto the front facade. A waldo clamps around his ankle and tugs
+text: violently. Spider-Man resists, pulls against it, but a second waldo
+text: clutches his arm and peels him completely off the wall.
+text: The two waldos shake and whip him around like a rag doll.
+speaker_heading: SPIDER-MAN’S POV:
+text: The sun and the horizon swirl crazily, Manhattan far below through a gap in
+dialog: the clouds.
+text: Ock smiles. The waldos release Spider-Man-- he falls-- but immediately
+text: shoots a jet of webbing onto a metal tentacle. The sudden weight causes
+text: Ock to waver precariously. Spider-Man shoots another web and swings up to
+text: the front facade.
+scene_heading: INT. EXPERIMENTAL CHAMBER - DAY
+scene_heading: ROZ, IN A SWEAT, THROWS THE RHEOSTAT-- AN EAR-SPLITTING SCREECH--
+scene_heading: EXT. SCIENCE CENTER - DAY
+text: SEVERAL OF THE ENERGY STREAMS DISSIPATE. THE BUILDING HALTS ITS ASCENT,
+scene_heading: THEN LURCHES. IS FACADE TILTS TOWARD THE HORIZONTAL. OCK’S ARMS THRUST
+text: INTO BRICK TO HOLD ON. SPIDER-MAN CLINGS FLAT AGAINST A GLASS DOORWAY.
+scene_heading: THE HORIZON REELS DRUNKENLY AROUND THEM. SPIDER-MAN HANGS ON BY HIS
+scene_heading: FINGERTIPS; WALDO-FISTS SLAM INTO HIS HANDS, SHATTERING THE GLASS.
+scene_heading: INT. BIOLOGY LAB - DAY
+scene_heading: LIZ HURTLES ACROSS THE SLANTED ROOM, FURNITURE AND LABORATORY EQUIPMENT
+text: CRASH TOWARD HER AS SHE CRAWLS UP THE FLOOR TOWARD A WALL OF WINDOWS. A
+text: CASE OF FORMALDEHYDE-FILLED BOTTLES SMASHES INCHES FROM HER HEAD, SPILLING
+text: GRISLY PRESERVED SPECIMENS. SHE SUPPRESSES A SCREAM, KEEPING HER WITS
+speaker_heading: ABOUT HER.
+scene_heading: EXT. SCIENCE CENTER -DAY
+text: THE BUILDING HOVERS AND PITCHES UNSTABELY IN MID-AIR.
+text: Spidey rips loose a drainpipe to defend himself against Ock’s arms: a
+text: bizarre sword duel ensues, a ten-foot pipe vs. four metal tentacles.
+text: The building pitches violently in the opposite direction.
+scene_heading: INT. BIOLOGY LAB - DAY
+text: EVERYTHING THAT’S NOT TIED DOWN FALLS ACROSS THE ROOM AND SMASHES PAST LIZ
+text: THROUGH THE WINDOWS, WHICH NOW FACE DOWN ON NEW YORK-- A MILE BELOW.
+scene_heading: EXT. SCIENCE CENTER -DAY
+text: THE BUILDING SPINS, DEBRIS SPILLS OUT THE WINDOW.
+text: Ock lands a hard blow to Spider-Man’s jaw. Stunned, Spidey hugs the wall.
+text: Ock claws his way across the brick surface to finish him off.
+text: Behind Ock, Liz tumbles through an open window, clutching at Venetian
+text: blinds. She releases a pent-up SCREAM of terror, dangling a mile above
+dialog: ground.
+speaker_heading: SPIDER-MAN
+dialog: Liz!
+text: He seizes the offensive, swings at Ock with the drainpipe.
+text: The building reels, vertical walls nearly upright.
+text: Spidey heaves the drainpipe like a javelin, hitting Ock in the belly. The
+text: pipe hurtles downward. Double-jets of webbing shoot out to cover Ock’s
+text: livid face.
+text: Spider-Man swings around Ock toward Liz, shoots webbing to secure her to
+text: the face of the building.
+text: Spider-Man dodges and ducks the flailing waldos, weaving a web to bind them
+text: to the wall. More and more web-fluid-- the net draws tighter.
+speaker_heading: SPIDER-MAN
+dialog: You could use a nice, long rest.
+text: At last near enough to Ock’s body, Spidey clips him with a quick blow--
+text: he’s out. Spider-Man scrambles to Liz and pulls her inside.
+scene_heading: INT. EXPERIMENTAL CHAMBER - DAY
+text: ROZ RUNS FROM ONE BANK OF CONTROLS TO ANOTHER. SPIDER-MAN AND LIZ ENTER
+text: FROM THE CONTROL ROOM.
+speaker_heading: ROZ
+dialog: What’s she doing here?
+speaker_heading: LIZ
+dialog: This building is flying. I’m in a flying building…
+speaker_heading: SPIDER-MAN
+dialog: Professor, you ever fly one of these things before?
+speaker_heading: ROZ
+dialog: Sure, in the war. Pull those cables--
+text: Spider-Man runs across to the transformer, now glowing less brightly. He
+text: pulls a thick electrical cable-- the cyclotron GROANS, the PULSE diminishes
+text: further. Spider-Man grabs another cable.
+speaker_heading: ROZ
+dialog: One at a time! We’ll drop like a bomb!
+text: Spider-Man lets go as if it were red-hot.
+scene_heading: EXT. SCIENCE CENTER -- DAY
+text: SOME ENERGY STREAMS SPUTTER INTO NOTHINGNESS. THE BUILDING GENTLY DESCENDS
+text: TOWARD THE CLOUDS BELOW.
+scene_heading: INT. EXPERIMENTAL CHAMBER - DAY
+text: LIZ WATCHES AS SPIDER-MAN AND ROZ WORK TOGETHER.
+speaker_heading: LIZ
+dialog: I’m in a goddamn flying building…
+text: The PULSE in the floor “unspreads” toward the focusing cone.
+text: Liz’s earrings flutter-- the fly off her ears, sailing to the curved wall
+text: of the cyclotron. Other metal objects-- pliers, a welder’s torch, etc.--
+dialog: join them there.
+speaker_heading: ROZ
+dialog: Magnetism-- phase one. We’re returning to normal.
+text: Ock’s waldos ERUPT through the floor. Seething, he pulls himself into the
+text: room, loose strands of webbing hanging from his face and arms.
+speaker_heading: SPIDER-MAN
+dialog: (exasperated)
+dialog: Oh, come on!
+text: All four waldos surge out at Spider-Man. He barely leaps away, a waldo
+text: lashes after him and pulls loose another electrical cable--
+dialog: the room pitches
+text: Liz and Roz fall to the floor, she pulls Roz away from the glow.
+text: Spider-Man leaps to the ceiling above the cyclotron. Ock strikes out-- the
+text: magnetism sucks an arm against the accelerator tube and holds it fast.
+text: The Pulse shrinks further to an area below the focusing cone.
+text: Ock’s remaining arms strike madly at Spider-Man, Roz, everything.
+text: A waldo crosses the beam of power from the focusing cone-- concentric rings
+text: of energy shoot down the length of the arm-- the waldo BURSTS APART,
+text: scattering wire and metal.
+text: Ock YOWLS in pain, a two-foot remnant of a waldo flops limply at his torso.
+text: Spider-Man leaps to the ceiling above the focusing cone.
+speaker_heading: SPIDER-MAN
+dialog: Up here, Docky Ocky!
+speaker_heading: ROZ
+dialog: (desperately)
+dialog: No, no! Not there!
+text: Ock’s remaining two waldo arms thrust madly at Spider-Man-- he springs
+dialog: away.
+text: The waldos SMASH the cone.
+text: Unearthly SOUNDS.
+text: The fibrous BLUE WHITE BEAM envelops Doc Ock’s entire body.
+text: A dark, completely alien slit opens in space where the focusing cone had
+dialog: been.
+text: The widening gap draws Ock into its weird Beyond. He reaches toward it with
+dialog: his human hands.
+text: Liz & Spider-Man struggle to resist the gap’s pull. Roz watches in horror
+dialog: as--
+text: Ock’s body warps, twists inside itself. He HOWLS-- agony, pleasure,
+dialog: enlightenment, death.
+text: The gap implodes Doc Ock’s body and…
+text: disappears, closing and sucking the last of the energy and PULSE into it.
+text: Eerie silence, except for the growing WHISTLE of air.
+speaker_heading: ROZ
+dialog: (hushed)
+dialog: He found his truth.
+speaker_heading: LIZ
+dialog: We’re falling…
+speaker_heading: SPIDER-MAN
+dialog: Okay, I blew it-- let’s move!
+scene_heading: EXT. SCIENCE CENTER- DAY
+text: THE ENERGY HAS COMPLETELY DISAPPEARED. THE BUILDING PLUMMETS INTO THE
+speaker_heading: CLOUDS.
+scene_heading: INT. SCIENCE CENTER HALLWAY - DAY
+scene_heading: SPIDER-MAN AND ROZ HELP LIZ TOWARD THE STAIRCASE. THE WIND WHISTLES LOUDER
+text: AS GRAVITY ACCELERATES THE PLUNGE.
+scene_heading: EXT. SKYLINE - DAY
+text: THE SCIENCE CENTER FALLS OUT OF THE CLOUDS TOWARD CENTRAL PARK.
+scene_heading: INT. STAIRCASE - DAY
+scene_heading: PITCHING AND ROLLING, SPIDER-MAN, ROZ AND LIZ MOVE WEIGHTLESSLY UP TO THE
+scene_heading: EMERGENCY EXIT.
+scene_heading: EXT. SCIENCE CENTER - DAY
+text: THE DOOR SWINGS OPEN IN THE HURRICANE WIND. FIRE EXTINGUISHERS AND OTHER
+text: OBJECTS ARE SUCKED PAST THE TRIO, THEY LEAP AWAY FROM THE BUILDING--
+speaker_heading: SPIDER-MAN
+dialog: Hold tight, kids!
+scene_heading: EXT. CENTRAL PARK - DAY
+text: CENTRAL PARK ACCELERATES TOWARD THEM AS THEY PLUNGE TO EARTH.
+text: The Science Center disintegrates on impact with Central Park Lake.
+scene_heading: EXT. SKY - DAY
+scene_heading: FALLING, WITH LIZ HANGING ONTO HIS NECK, ROZ UNDER ONE ARM, SPIDER-MAN
+scene_heading: SHOOTS WEBBING DOWNWARD--
+scene_heading: EXT. CLEOPATRA’S NEEDLE - DAY
+dialog: TO THE TOP OF THE OBELISK--
+text: and swings gracefully down in a spiral around the monument.
+text: He touches ground, sets Roz and Liz on their feet. They look around them:
+scene_heading: EXT. CENTRAL PARK - DAY
+text: A HAILSTORM OF DEBRIS-- PAPERS, BOOKS, BOTTLES, BRICKS. THE LAKE’S SURFACE
+text: CHURNS AND CALMS.
+scene_heading: EXT. CLEOPATRA’S NEEDLE - DAY
+text: THE TRIO STANDS FOR A MOMENT, STUNNED. LIZ’S KNEES BUCKLE AS SHE FAINTS.
+scene_heading: SPIDER-MAN CATCHES HER.
+speaker_heading: SPIDER-MAN
+dialog: I can handle it.
+text: He hefts her into his arms and walks off into the gathering crowd.
+scene_heading: INT. LECTURE HALL CORRIDOR - DAY
+text: NORB AND CHIP LEANS AGAINST THE WALL, HANGING OUT. THEY READ A COPY OF THE
+scene_heading: TIMES. THE BOLD HEADLINE: “SCIENTISTS EXPLAIN TORNADO/
+scene_heading: EARTHQUAKE/ELECTRICAL STORM.” FLASH SWAGGERS UP, SWACKS THEIR TIMES WITH A
+text: COPY OF THE BUGLE.
+speaker_heading: FLASH
+dialog: Use that to wrap fish. I got the real story.
+text: He shows them the tacky Bugle headline: “SPIDER-MAN SAVES UNIVERSE.” Chip
+text: and Norb break up laughing. Students pour out of a classroom behind them.
+speaker_heading: FLASH
+dialog: Hey! This is the truth! Look, Doc Ock had this, uh,
+text: experiment thing, and the Science Center crashed into
+dialog: Central Park, and--
+text: He spots Peter and Harry, holds up the Bugle.
+speaker_heading: FLASH
+dialog: Parker, Osborn--true, am I right?
+speaker_heading: PETER
+dialog: (bemused)
+dialog: Oh, of course.
+speaker_heading: HARRY
+dialog: I was there.
+speaker_heading: FLASH
+dialog: See?
+speaker_heading: HARRY
+dialog: (wild-eyed)
+dialog: Or was it all a dream?
+text: Peter and Harry laugh and head out the door.
+scene_heading: EXT. LECTURE HALL - DAY
+text: THEY WALK OUT AND PAST THE BOARDED-OFF PIT THAT WAS THE SCIENCE CENTER.
+speaker_heading: HARRY
+dialog: Oh, I need your notes from the classes I missed.
+speaker_heading: PETER
+dialog: Well, I’ve missed a lot of classes myself….
+speaker_heading: HARRY
+dialog: Oh. Well, hang in there, amigo.
+text: He crosses away. Roz catches up to Peter from the lecture hall.
+speaker_heading: ROZ
+dialog: Peter-- I’m so very proud of you. I must apologize for
+dialog: doubting that you could do it.
+text: Peter eyes him, wondering what he knows. Roz eyes him back.
+speaker_heading: ROZ
+dialog: The paper, my boy. A solid B-plus.
+speaker_heading: PETER
+dialog: Oh. Yeah. Thanks.
+speaker_heading: ROZ
+dialog: If you really apply yourself, you’ll get an A next time.
+text: Roz smiles wisely. Peter watches him walk off.
+speaker_heading: PETER
+dialog: Next time…
+text: The idea of doing it all again makes Peter whistle lowly. He sees someone
+text: across the street.
+scene_heading: EXT. WASHINGTON SQUARE PARK - DAY
+text: SMILING, PETER RUNS UP TO LIZ.
+speaker_heading: PETER
+dialog: Hello, Liz.
+speaker_heading: LIZ
+dialog: Hello. So very boring. Peter Parker, how do you feel
+dialog: about me this morning?
+speaker_heading: PETER
+dialog: I… I like you. A lot.
+speaker_heading: LIZ
+dialog: Hm. Well, I like you, too. I like your aunt. I like your
+dialog: shoelaces. I like--
+text: He holds a fingertip to her lips.
+speaker_heading: PETER
+dialog: Hold it. Can we stop being clever, just for a moment?
+speaker_heading: LIZ
+dialog: Why?
+text: He kisses her. She looks at him bittersweetly.
+speaker_heading: LIZ
+dialog: This may be the end of a beautiful friendship, you know.
+speaker_heading: PETER
+dialog: Nah.
+text: She kisses him back. They walk off into the park, holding hands…. and we
+speaker_heading: FADE OUT.
+dialog: 

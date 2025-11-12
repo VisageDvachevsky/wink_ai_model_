@@ -1,0 +1,4703 @@
+dialog: 
+dialog: Chill Factor script
+dialog: Chill Factor -
+speaker_heading: SCENE
+scene_heading: EXT. JUNGLE/TEST SITE - HORN ISLAND,
+scene_heading: SOUTH PACIFIC - 1977- DAY.
+speaker_heading: BRYNNER
+dialog: Hemmings! Sam, I thought I told you to
+dialog: close up shop and be ready to move up the
+dialog: island by night-...
+speaker_heading: BRYNNER
+dialog: (off) ...-fall.
+speaker_heading: HEMMINGS
+dialog: Yes, Captain Brynner, you did, but-but--
+speaker_heading: BRYNNER
+dialog: (off) (interrupting) But...
+speaker_heading: BRYNNER
+dialog: ...what, Sam? Can't I go down to the
+text: loading dock for a few hours without
+dialog: coming back to find a major...
+speaker_heading: BRYNNER
+dialog: (off) ...screwup?
+speaker_heading: HEMMINGS
+dialog: Uh, with all due respect, sir, Dr. Long
+dialog: told me to prep the field for detonation
+dialog: at...
+speaker_heading: HEMMINGS
+dialog: ...noon.
+speaker_heading: BRYNNER
+dialog: Jesus Chri-- We're on a very slippery
+dialog: slope here, Sam. A covert military
+dialog: operation riddled with civilian...
+speaker_heading: BRYNNER
+dialog: (off) ...scientists.
+speaker_heading: HEMMINGS
+dialog: You don't think it's that bad, do you,
+dialog: sir? I mean, Long's spent the last two
+text: years developing his defoliant. The
+dialog: stuff can't even kill crabgrass yet.
+speaker_heading: BRYNNER
+dialog: Where's their protective...
+speaker_heading: BRYNNER
+dialog: (off) ...gear?
+speaker_heading: HEMMINGS
+dialog: (off) It's a hundred degrees...
+speaker_heading: HEMMINGS
+dialog: ...out here, captain. Don't you think
+dialog: the guys deserve a break?
+speaker_heading: BRYNNER
+dialog: They'll get a break tomorrow.
+speaker_heading: BRYNNER
+dialog: We're not gonna take chances on our last
+dialog: day.
+speaker_heading: SCENE
+scene_heading: INT. BLOCKHOUSE/LABORATORY - DAY.
+scene_heading: NARRATIVE TITLE
+speaker_heading: CAUTION
+scene_heading: NARRATIVE TITLE
+speaker_heading: NOTICE
+speaker_heading: TELSTAR
+dialog: (pants) Hey...
+speaker_heading: TELSTAR
+dialog: (off) ...doc. What's up?
+speaker_heading: TELSTAR
+dialog: I thought we wrapped the tests yes-...
+speaker_heading: TELSTAR
+dialog: (face off) ...-terday. Captain Brynner
+dialog: is...
+speaker_heading: TELSTAR
+dialog: ...gonna shit if he finds out we haven't
+dialog: closed up...
+speaker_heading: TELSTAR
+dialog: (face off) ...shop.
+speaker_heading: LONG
+dialog: I had something of an epiphany this
+dialog: morning, Telstar. I eliminated the
+dialog: binary shell and I grafted the cobalt ion
+dialog: to the other side of the molecule. I
+dialog: think it might give us a significantly
+text: more rapid chemical ignition.
+speaker_heading: TELSTAR
+dialog: It better.
+speaker_heading: SCENE
+scene_heading: INT. BLOCKHOUSE/COMPUTER ROOM - DAY.
+speaker_heading: SWEENEY
+dialog: (grunts)
+speaker_heading: LONG
+dialog: Mr. Sweeney, how goes it?
+speaker_heading: SWEENEY
+dialog: Well, (clears throat) Costello's finished
+dialog: with the stability profile, but Abbott is
+text: still chewing on the load file.
+speaker_heading: LONG
+dialog: So reaction temperature is fifty degrees.
+speaker_heading: SWEENEY
+dialog: Well, your prediction was on the nose.
+speaker_heading: LONG
+dialog: How much longer for the range and power
+dialog: projections?
+speaker_heading: SWEENEY
+text: (sighs) (raspberries) I don't know. Um,
+text: he's working, but there's a lot of data.
+dialog: Maybe...another hour?
+speaker_heading: LONG
+text: We don't have an hour. We're already
+dialog: supposed to be shut down.
+speaker_heading: SCENE
+scene_heading: INT. BLOCKHOUSE/LABORATORY - DAY.
+speaker_heading: BRYNNER
+dialog: Doc-...
+speaker_heading: BRYNNER
+dialog: (off) ...-tor Long.
+speaker_heading: BRYNNER
+dialog: What the hell is all this about a
+dialog: detonation today? We're scheduled...
+speaker_heading: BRYNNER
+dialog: ...to be off the island tonight.
+speaker_heading: LONG
+dialog: And I changed the schedule.
+speaker_heading: LONG
+dialog: I don't work for you, Captain Brynner.
+speaker_heading: BRYNNER
+dialog: Sweeney tells me you don't have computer
+dialog: confirmation?
+speaker_heading: LONG
+dialog: You know, captain, if you hadn't spent so
+dialog: much of your career questioning your
+dialog: superiors, you might've found yourself
+dialog: with more gold leaf on your col-...
+speaker_heading: LONG
+dialog: ...-lar.
+speaker_heading: BRYNNER
+dialog: This isn't some kind of pissing contest,
+dialog: Long. You may be in charge here, but
+dialog: those men out there are my responsi-...
+speaker_heading: BRYNNER
+dialog: ...-bility.
+speaker_heading: LONG
+dialog: Look, this is a scientific experiment,
+dialog: okay?
+speaker_heading: LONG
+dialog: If it works, your stock at the Pentagon
+dialog: will go up along with mine. I don't
+dialog: think I need to mention you could use the
+dialog: help.
+speaker_heading: BRYNNER
+dialog: The NSA thinks the UN is onto your
+dialog: work...
+speaker_heading: BRYNNER
+text: ...here, and the White House is screaming
+dialog: about chemical weapons, (face off) and
+dialog: we're...
+speaker_heading: BRYNNER
+dialog: ...sittin' here with our hands in the
+dialog: goddamn cookie jar! And let me tell you
+text: something else. I didn't join the
+dialog: service to let people like you turn...
+speaker_heading: BRYNNER
+dialog: ...the United States into the kind of
+dialog: country we're supposed to be fighting
+dialog: against.
+speaker_heading: LONG
+dialog: (overlapping) But you have no choice but
+dialog: to follow orders.
+speaker_heading: LONG
+dialog: Now listen to me.
+speaker_heading: LONG
+dialog: Now, I know. You have moral objections
+dialog: to what we're doing here, but believe...
+speaker_heading: LONG
+dialog: ...me, if I thought there was any real
+dialog: danger, I-I wouldn't go forward.
+speaker_heading: LONG
+dialog: You have my word on that.
+speaker_heading: BRYNNER
+dialog: (sighs) (whispering) All right. (in
+text: normal voice) One more shot, provided...
+dialog: (sighs) we're off the island tonight.
+speaker_heading: LONG
+dialog: Let's proceed.
+speaker_heading: TELSTAR
+dialog: Ladies and gentlemen...Elvis is
+text: approaching the stage.
+speaker_heading: TELSTAR
+dialog: (grunts)
+speaker_heading: LONG
+dialog: Safe distance - Two hun-...
+speaker_heading: LONG
+dialog: ...-dred yards.
+speaker_heading: LONG
+dialog: And make sure Hemmings hears you say it.
+speaker_heading: SCENE
+scene_heading: EXT. JUNGLE/TEST SITE - DAY.
+scene_heading: MEN AT SITE
+text: (low and indistinct chatter and grunts -
+text: continues under following scenes and
+dialog: dialogue)
+speaker_heading: TELSTAR
+text: (grunts) Two hundred yards, Hemmings.
+speaker_heading: TELSTAR
+dialog: D minus five.
+speaker_heading: HEMMINGS
+dialog: (off) All right, we're movin' out, men.
+speaker_heading: TELSTAR
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: INT. BLOCKHOUSE/COMPUTER ROOM - DAY.
+speaker_heading: SWEENEY
+dialog: (hums "Do You Know the Muffin Man?")
+speaker_heading: SCENE
+scene_heading: EXT. JUNGLE/TEST SITE - DAY.
+speaker_heading: TELSTAR
+dialog: (grunts) (sighs)
+speaker_heading: SCENE
+scene_heading: INT. BLOCKHOUSE/COMPUTER ROOM - DAY.
+speaker_heading: SWEENEY
+dialog: (grunts)
+speaker_heading: SWEENEY
+dialog: Jesus. (to Long) Dr. Long!
+speaker_heading: SCENE
+scene_heading: INT. BLOCK HOUSE/LABORATORY - DAY.
+speaker_heading: SWEENEY
+dialog: (off) Dr. (on) Long!
+speaker_heading: SWEENEY
+dialog: (panting) I got eight thousand yards.
+dialog: Radius is five...
+speaker_heading: SWEENEY
+text: (off) (panting) ...miles. (pants -
+text: continues under following scene and
+dialog: dialogue)
+speaker_heading: LONG
+dialog: What?
+speaker_heading: BRYNNER
+dialog: (off) Long...
+speaker_heading: BRYNNER
+dialog: ...what the hell?
+speaker_heading: SWEENEY
+dialog: (off) Abbott's pre-...
+speaker_heading: SWEENEY
+text: ...-dicting the effective detonation
+dialog: radius is five...
+speaker_heading: SWEENEY
+dialog: (off) ...miles!
+speaker_heading: BRYNNER
+dialog: That's the entire island!
+speaker_heading: SWEENEY
+dialog: We've gotta shut it down.
+speaker_heading: SWEENEY
+dialog: (off) We gotta shut it down!
+speaker_heading: LONG
+dialog: (quoting) "I am become Death, the...
+speaker_heading: LONG
+dialog: (off) ...destroyer of worlds."
+speaker_heading: LONG
+dialog: No!
+speaker_heading: LONG
+dialog: No!
+speaker_heading: BRYNNER
+dialog: (shouts indistinct)
+speaker_heading: LONG
+dialog: You'll kill us all!
+speaker_heading: BRYNNER
+dialog: Damn you, Long! My people are out there!
+dialog: Your people are out there!
+speaker_heading: LONG
+dialog: (overlapping) It's too...
+speaker_heading: LONG
+dialog: ...late! It's too late!
+speaker_heading: SCENE
+scene_heading: EXT. BLOCKHOUSE - DAY.
+speaker_heading: TELSTAR
+text: (gasps and pants - continues under
+dialog: following scene)
+speaker_heading: TELSTAR
+dialog: (yells)
+speaker_heading: SCENE
+scene_heading: INT. BLOCKHOUSE - DAY.
+speaker_heading: TELSTAR
+dialog: (off) (sobbing) Let me in!
+speaker_heading: GENERAL
+dialog: (voice over) Captain Andrew Thomas
+dialog: Brynner.
+speaker_heading: TELSTAR
+dialog: (off) (overlapping) (sobbing) Please let
+text: me in! (sobs indistinct - continues under
+dialog: following scene and dialogue)
+speaker_heading: ADAMS
+dialog: (voice over) It is the opinion of this
+dialog: review panel...
+speaker_heading: ADAMS
+dialog: (voice over) ...that the verdict
+dialog: delivered in this case is justified, and
+dialog: that you are in fact...
+speaker_heading: ADAMS
+dialog: (voice over) ...guilty of criminal
+dialog: negligence resulting in the deaths of
+text: eighteen members of a military research
+dialog: team...
+speaker_heading: SCENE
+scene_heading: EXT. JUNGLE/TEST SITE - DAY.
+speaker_heading: ADAMS
+text: (voice over) ...on the date of August
+text: eighteenth, nineteen seventy-seven.
+speaker_heading: SCENE
+scene_heading: INT. MILITARY COURTROOM - DAY.
+speaker_heading: ADAMS
+dialog: (reading) "It is also this panel's
+dialog: opinion that the sentence of reduction in
+dialog: rank...
+speaker_heading: ADAMS
+dialog: (off) (reading) ...forfeiture of all pay
+dialog: and allowances and twenty years in the
+dialog: United States disciplinar-...
+speaker_heading: ADAMS
+dialog: (reading) ...-y command at Fort
+text: Leavenworth is justified.
+speaker_heading: ADAMS
+dialog: (reading) Furthermore, you are advised
+dialog: that, while you are a prisoner, you
+dialog: remain bound by the National Security Act
+dialog: of nineteen forty-sev-...
+speaker_heading: ADAMS
+dialog: (off) (reading) ...-en. If you divulge
+dialog: classified information or discuss the
+dialog: nature of the project in which you were
+dialog: involved...
+speaker_heading: ADAMS
+dialog: (reading) ...you will face further
+dialog: prosecution." Do you under-...
+speaker_heading: ADAMS
+dialog: (off) ...-stand?
+speaker_heading: GENERAL
+dialog: I assume your silence indicates assent.
+dialog: Transfer to Leavenworth will be
+dialog: immediate. You're dismissed.
+speaker_heading: LONG
+dialog: (off) Andrew...
+speaker_heading: LONG
+dialog: ...I wish they would've let me say
+dialog: something...
+speaker_heading: LONG
+dialog: ...about--
+speaker_heading: BRYNNER
+dialog: (interrupting) There's nothing to say,
+dialog: doctor. Someone had to take the fall,
+dialog: and they still need you, whereas...I've
+dialog: never been anything more than a thorn in
+dialog: their collective side, as you once said.
+speaker_heading: BRYNNER
+dialog: So I'll be locked safely away in some
+dialog: hole along with my secret sins. And
+dialog: yours.
+speaker_heading: SCENE
+scene_heading: INT. FORT LEAVENWORTH/CELLBLOCK - DAY.
+scene_heading: NARRATIVE TITLE
+scene_heading: FORT LEAVENWORTH
+speaker_heading: SCENE
+scene_heading: INT. FORT LEAVENWORTH/BRYNNER'S CELL -
+speaker_heading: DAY.
+speaker_heading: BRYNNER
+dialog: (sighs)
+speaker_heading: SCENE
+scene_heading: EXT. FORT LEAVENWORTH - TEN YEARS LATER
+scene_heading: - DAY.
+scene_heading: NARRATIVE TITLE
+scene_heading: TEN YEARS LATER
+speaker_heading: SCENE
+scene_heading: INT. FORT LEAVENWORTH/BRYNNER'S CELL -
+speaker_heading: DAY.
+speaker_heading: YOUNG GUARD
+dialog: Ready?
+speaker_heading: SCENE
+scene_heading: EXT. RIVER - DAY.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON
+dialog: Been trying to figure out your secret.
+speaker_heading: LONG
+dialog: My secret?
+speaker_heading: MASON
+dialog: Yeah. Ten months we've been fishin' this
+dialog: river together. We use the same
+dialog: equipment, more or less...
+speaker_heading: MASON
+dialog: (off) ...but you pull twice as many fish
+text: out of the water as I do.
+speaker_heading: MASON
+dialog: And I'm good at this. Been doing it
+dialog: since I was a kid. But you, I don't
+dialog: know. Somehow you think...
+speaker_heading: MASON
+text: (off) ...like a fish.
+speaker_heading: LONG
+dialog: (chuckles) (chuckling) No, that's not
+dialog: possible, Mason. The trout... (grunts)
+speaker_heading: LONG
+dialog: (off) ...is a perfect hunter.
+speaker_heading: LONG
+dialog: (off) He's brains without ambition...
+speaker_heading: LONG
+dialog: ...sensitivity without neurosis. He's...
+speaker_heading: LONG
+dialog: (off) ...the master of his realm.
+speaker_heading: LONG
+dialog: (face off) How can we ever hope to win
+dialog: against the trout?
+speaker_heading: LONG
+dialog: There's only one way you can do it,
+dialog: Mason.
+speaker_heading: LONG
+dialog: (off) Turn the power of the hunter
+text: against him.
+speaker_heading: LONG
+dialog: Tie a fly...
+speaker_heading: LONG
+dialog: (off) ...create a piece of bait that
+text: sends the fish's instincts into
+dialog: overdrive...
+speaker_heading: LONG
+text: ...forcing him to strike. And only then
+dialog: does our noble friend realize that the
+dialog: prey...can bite...
+speaker_heading: LONG
+dialog: (face off) ...back...
+speaker_heading: LONG
+dialog: ...and that power...
+speaker_heading: LONG
+dialog: (face off) ...without caution...
+speaker_heading: LONG
+dialog: ...is death.
+speaker_heading: MASON
+dialog: Some people might say you're readin' an
+dialog: awful lot in-...
+speaker_heading: MASON
+dialog: (off) ...-to a simple thing like...
+speaker_heading: MASON
+dialog: (off) ...fishin'.
+speaker_heading: LONG
+dialog: (off) Some people might.
+speaker_heading: LONG
+dialog: But I don't think you would.
+speaker_heading: SCENE
+scene_heading: INT. DARLENE'S STORE - DAY.
+speaker_heading: MASON
+dialog: (exhales)
+speaker_heading: DARLENE
+dialog: (off) Goddamn it, Ma-...
+speaker_heading: DARLENE
+dialog: (off) ...-son. Of all the days for you
+dialog: to show up late. (sighs) First, the idiot
+dialog: April calls in sick. Then I got a bad
+dialog: tooth...
+speaker_heading: DARLENE
+dialog: ...and then my night man shows up when he
+dialog: feels like...
+speaker_heading: DARLENE
+dialog: ...it.
+speaker_heading: MASON
+dialog: Darlene, it's five-thirty. Now, I worked
+dialog: late for you this mornin', and you didn't
+dialog: wanna spring for over-...
+speaker_heading: MASON
+dialog: (face off) ...-time, (off) remember?
+speaker_heading: DARLENE
+dialog: Oh. Well, I have got to get to the
+dialog: dentist be-...
+speaker_heading: DARLENE
+dialog: ...-fore he closes, which means you're
+dialog: gonna have to cover the grill and the
+dialog: floor.
+speaker_heading: MASON
+dialog: I can handle it.
+speaker_heading: DARLENE
+dialog: Mm. It doesn't take a genius.
+speaker_heading: DARLENE
+dialog: (sighs) How'd we do today, doc?
+speaker_heading: LONG
+dialog: (sighs) Oh, caught a few, lost a few.
+speaker_heading: DARLENE
+dialog: (chuckles) Story of my life. (sighing)
+dialog: Well, one thing you won't lose is that
+dialog: friend of yours back there, I'll tell you
+dialog: that.
+speaker_heading: LONG
+dialog: Oh, no?
+speaker_heading: DARLENE
+dialog: Oh, you're two of a kind, doc. Oh, he
+dialog: may not have your sheepskins, and...
+speaker_heading: DARLENE
+dialog: (off) ...well, most of the time he looks
+dialog: like something the cat might have dragged
+dialog: in, but, you know...
+speaker_heading: DARLENE
+dialog: ...he's smart enough to get you...
+speaker_heading: DARLENE
+text: (off) ...somehow. (chuckles - continues
+dialog: under following scene)
+speaker_heading: DARLENE
+text: There's something else too.
+speaker_heading: LONG
+dialog: Uh, we both like to fish.
+speaker_heading: DARLENE
+dialog: (grunts) Secrets.
+speaker_heading: LONG
+dialog: Ah.
+speaker_heading: DARLENE
+dialog: His I know. Yours I don't have a clue.
+dialog: (grunts) But if it wasn't for you, I
+dialog: think he'd have drifted right on through
+dialog: this town.
+speaker_heading: DARLENE
+dialog: (chuckles)
+speaker_heading: LONG
+dialog: You know, I have yet to get a simple cup
+dialog: of coffee and a meal in this place,
+dialog: Darlene.
+speaker_heading: DARLENE
+dialog: And you ain't gonna start now.
+speaker_heading: DARLENE
+dialog: Ma-...
+speaker_heading: DARLENE
+dialog: (off) ...-son!
+speaker_heading: MASON
+dialog: Yeah?
+speaker_heading: DARLENE
+dialog: Be sure you feed Bosco.
+speaker_heading: DARLENE
+dialog: And don't give him any ice cream...
+speaker_heading: DARLENE
+text: (off) ...like April. It gives him gas.
+dialog: And make sure there's (on) two pots of
+dialog: coffee...
+speaker_heading: MASON
+text: (off) (overlapping) Two pots of coffee...
+speaker_heading: DARLENE
+dialog: (off) ...ready before the morning crowd
+text: blows in.
+speaker_heading: MASON
+dialog: (off) (overlapping) ...ready before the
+text: morning crowd blows in. I got it...
+speaker_heading: MASON
+dialog: (off) ...Darlene.
+speaker_heading: LONG
+dialog: (grunts)
+speaker_heading: BRYNNER
+dialog: (face off) Is this stool taken?
+speaker_heading: LONG
+dialog: No, go--
+speaker_heading: BRYNNER
+dialog: You look good, Richard.
+speaker_heading: BRYNNER
+dialog: You look fit...healthy...
+speaker_heading: BRYNNER
+dialog: ...not at all like a man responsible for
+dialog: the deaths of eighteen peo-...
+speaker_heading: BRYNNER
+dialog: (off) ...-ple.
+speaker_heading: LONG
+dialog: Is that why you're here? To blame...
+speaker_heading: LONG
+dialog: (off) ...me? Well, you could've saved
+dialog: yourself the trip.
+speaker_heading: LONG
+dialog: I know where the (chuckling) blame
+dialog: belongs. But I didn't put you in prison,
+dialog: Andrew. The government did...
+speaker_heading: LONG
+dialog: ...that.
+speaker_heading: BRYNNER
+dialog: Oh, I'm well aware of what the government
+dialog: did, I assure you. Actually, I've just
+dialog: come to say how grateful I am to you...
+speaker_heading: BRYNNER
+dialog: (off) ...and the government.
+speaker_heading: LONG
+dialog: Grateful?
+speaker_heading: BRYNNER
+dialog: (off) Mm-hm.
+speaker_heading: BRYNNER
+dialog: Together, you gave me the opportunity to
+dialog: realize just how very wrong my life had
+dialog: gone.
+speaker_heading: BRYNNER
+dialog: (off) Do you remember telling me once
+dialog: that all through my career, I'd never fit
+dialog: in? Well...
+speaker_heading: BRYNNER
+dialog: ...you were right, of course. But
+dialog: after...
+speaker_heading: BRYNNER
+dialog: (off) ...years of thinking the matter
+dialog: over, I began to see that the whole thing
+dialog: wasn't really my problem.
+speaker_heading: BRYNNER
+dialog: What rational man could fit in with the
+dialog: sorts of things our government was doing?
+dialog: The sorts of things you've...
+speaker_heading: BRYNNER
+dialog: (off) ...always done, Richard?
+speaker_heading: LONG
+dialog: Do you think I haven't seen the bodies of
+dialog: those...
+speaker_heading: LONG
+dialog: (off) ...men every time I've closed my
+dialog: eyes? But after you went away, I--
+speaker_heading: BRYNNER
+dialog: (interrupting) Went away? (chuckles -
+dialog: continues under following scene)
+speaker_heading: BRYNNER
+dialog: (off) "Went away." I like that.
+speaker_heading: BRYNNER
+text: Almost quaint.
+speaker_heading: LONG
+dialog: All right. After they put you away...
+speaker_heading: LONG
+dialog: ...I began trying to find ways of
+dialog: controlling the effects of the weapon
+dialog: that we tested on Horn Island.
+speaker_heading: BRYNNER
+dialog: And let me guess. You failed.
+speaker_heading: LONG
+dialog: So far, ye-yes.
+speaker_heading: BRYNNER
+dialog: Why is it you scientists can create
+dialog: implements of destruction...
+speaker_heading: BRYNNER
+dialog: (off) ...so quickly, but when it comes to
+dialog: cures and benefits, your...
+speaker_heading: BRYNNER
+dialog: ...speed is nothing short of glacial?
+speaker_heading: BRYNNER
+dialog: (off) Though at least you're trying,
+dialog: Richard. And if the road to hell is
+dialog: paved with good intentions...
+speaker_heading: BRYNNER
+dialog: ...we know you'll find your way there
+dialog: quickly.
+speaker_heading: BRYNNER
+dialog: (off) And don't worry.
+speaker_heading: BRYNNER
+dialog: It's not such a bad place. I should
+dialog: know, after all.
+speaker_heading: MASON
+dialog: Okay, doc.
+speaker_heading: MASON
+dialog: The usual. Doc.
+speaker_heading: SCENE
+scene_heading: EXT. U.S. ARMY RESEARCH
+scene_heading: LABORATORY/GUARD GATE - JEROME - NIGHT.
+scene_heading: NARRATIVE TITLE
+scene_heading: U.S. ARMY RESEARCH LAB. - JEROME
+speaker_heading: KIOSK GUARD
+dialog: Good morning, Dr. Long.
+speaker_heading: LONG
+dialog: Hi.
+speaker_heading: SCENE
+scene_heading: INT. U.S. ARMY RESEARCH LABORATORY -
+scene_heading: NIGHT.
+speaker_heading: PUMPER
+dialog: Morning, doc. Awful early, aren't ya?
+speaker_heading: LONG
+dialog: Couldn't sleep, Pumper. Is everything,
+dialog: uh, all right tonight?
+speaker_heading: PUMPER
+dialog: There's nothin' goin' on out there,
+dialog: doc...except maybe the occasional fly
+dialog: fisherman.
+speaker_heading: LONG
+dialog: (chuckles)
+speaker_heading: PUMPER
+dialog: Hey, doc. Might wanna...
+speaker_heading: PUMPER
+dialog: ...try this one out some-...
+speaker_heading: PUMPER
+text: (off) ...-time. (chuckles)
+speaker_heading: LONG
+dialog: Excellent.
+speaker_heading: PUMPER
+dialog: (chuckles)
+speaker_heading: CHARACTER
+speaker_heading: FOOTAGEDIALOGUE
+speaker_heading: SCENE
+scene_heading: EXT. U.S. RESEARCH LABORATORY/GUARD
+scene_heading: GATE - NIGHT.
+speaker_heading: BRYNNER
+dialog: Colonel Brynner. I've got an appointment
+dialog: to see Doc-...
+speaker_heading: BRYNNER
+dialog: (off) ...-tor Long.
+dialog: MP
+dialog: Can I see some I.D., sir?
+speaker_heading: BURKE
+dialog: (grunts - continues under following
+dialog: scene)
+speaker_heading: SCENE
+scene_heading: INT. DENNIS & CARL'S VAN - NIGHT.
+speaker_heading: DENNIS
+dialog: (into radio) Video lock.
+speaker_heading: DENNIS
+dialog: (into radio) You got thirty minutes.
+speaker_heading: SCENE
+scene_heading: INT. U.S. RESEARCH LABORATORY/CORRIDOR
+scene_heading: - NIGHT.
+speaker_heading: GUARD #1
+dialog: (grunts - continues under following
+dialog: scene)
+speaker_heading: GUARD #2
+dialog: (grunts - continues under following
+dialog: scene)
+speaker_heading: BRYNNER
+dialog: (indistinct)
+speaker_heading: SCENE
+scene_heading: INT. U.S. RESEARCH LABORATORY/LONG'S
+scene_heading: OFFICE - NIGHT.
+speaker_heading: LONG
+dialog: (off) (grunts)
+speaker_heading: BRYNNER
+dialog: (sighs) Forget about him.
+speaker_heading: BRYNNER
+dialog: Let's find the prize.
+speaker_heading: BURKE
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: INT. U.S. RESEARCH LABORATORY/CORRIDOR
+scene_heading: - NIGHT.
+speaker_heading: BRYNNER
+dialog: Vaughn.
+speaker_heading: VAUGHN
+dialog: (into radio) We're in.
+speaker_heading: SCENE
+scene_heading: INT. U.S. RESEARCH LABORATORY/STORAGE
+scene_heading: AREA - NIGHT.
+speaker_heading: BRYNNER
+dialog: This is it.
+speaker_heading: SCENE
+scene_heading: INT. U.S. RESEARCH LABORATORY/STORAGE
+scene_heading: AREA/FREEZER VAULT - NIGHT.
+speaker_heading: BRYNNER
+dialog: (sighs)
+speaker_heading: SCENE
+scene_heading: INT. LONG'S CAR - NIGHT.
+speaker_heading: LONG
+dialog: (pants)
+speaker_heading: LONG
+dialog: (pants)
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - NIGHT.
+scene_heading: MALE RAPPER #1
+dialog: (over speaker) (raps under following
+dialog: scene and dialogue)
+speaker_heading: ARLO
+dialog: (moans) That's right.
+speaker_heading: SCENE
+scene_heading: EXT. DARLENE'S STORE - NIGHT.
+scene_heading: NARRATIVE TITLE
+speaker_heading: ANDY'S
+speaker_heading: ARLO
+dialog: What, do you work for my boss, dog?
+speaker_heading: ARLO
+dialog: Okay, okay.
+speaker_heading: ARLO
+dialog: At least somebody likes this shit.
+speaker_heading: SCENE
+scene_heading: INT. DARLENE'S STORE - NIGHT.
+scene_heading: MALE SINGER #1
+text: (over speaker) (sings low and indistinct
+dialog: under following dialogue)
+speaker_heading: ARLO
+dialog: Mornin'.
+speaker_heading: MASON
+text: A little early for a delivery.
+speaker_heading: ARLO
+dialog: Oh...
+speaker_heading: ARLO
+dialog: ...yeah. Tryin' to get most of my day
+dialog: done before it hits nine-...
+speaker_heading: ARLO
+dialog: ...-ty.
+speaker_heading: MASON
+dialog: Where's Sam?
+speaker_heading: ARLO
+dialog: Sam? Andy gave Sam a nice big desk to
+text: park his fat ass behind.
+speaker_heading: ARLO
+dialog: Where do you want this stuff?
+speaker_heading: MASON
+text: Freezer in the back.
+speaker_heading: ARLO
+dialog: Great. (whistles - continues under
+dialog: following dialogue)
+speaker_heading: MASON
+dialog: (face off) Art.
+speaker_heading: LEWIS
+text: Morning, Mason. Two large coffees to go,
+dialog: okay?
+speaker_heading: MASON
+dialog: (off) All right.
+speaker_heading: PAPPAS
+dialog: So, Mason, last Wednesday night,
+dialog: uh...were you out...
+speaker_heading: PAPPAS
+dialog: (off) ...uh, drifting around like the
+dialog: trash you are, or were you here workin'?
+speaker_heading: MASON
+dialog: If it was Wednesday night, I was workin'.
+speaker_heading: PAPPAS
+dialog: (face off) Do you recognize this young
+dialog: man?
+speaker_heading: MASON
+dialog: Nope. (grunts) Is there a prob-...
+speaker_heading: MASON
+dialog: (off) ...-lem?
+speaker_heading: PAPPAS
+dialog: You find yourself wearing a...
+speaker_heading: PAPPAS
+dialog: (off) ...badge someday, then you can ask
+dialog: the questions. Until then...
+speaker_heading: PAPPAS
+dialog: (off) ...you answer mine.
+speaker_heading: PAPPAS
+dialog: (off) Got that?
+speaker_heading: PAPPAS
+dialog: So you don't remember...
+speaker_heading: PAPPAS
+dialog: (off) ...selling this young man beer
+text: Wednesday night.
+speaker_heading: MASON
+dialog: I don't sell beer to minors. I take that
+dialog: kinda thing...
+speaker_heading: MASON
+dialog: (off) ...seriously.
+speaker_heading: PAPPAS
+dialog: (chuckles) That's not the way I...
+speaker_heading: PAPPAS
+dialog: (off) ...hear it. As a matter of fact--
+speaker_heading: LEWIS
+dialog: (interrupting) Take it easy, Pappas. (to
+dialog: Mason) Mason, this boy says you did sell
+dialog: him beer...
+speaker_heading: LEWIS
+dialog: (face off) ...that night.
+speaker_heading: MASON
+dialog: Yeah. Well, he's lyin'.
+speaker_heading: PAPPAS
+dialog: Lying? (chuckles)
+speaker_heading: PAPPAS
+dialog: (off) Mason, you wouldn't know the truth
+dialog: if it bit you. We've got your whole
+dialog: record. (chuckles) We know about the-the
+dialog: conviction for vagrancy...
+speaker_heading: PAPPAS
+dialog: ...public drunkenness....
+speaker_heading: MASON
+dialog: I didn't sell the boy any...
+speaker_heading: MASON
+dialog: (face off) ...beer.
+speaker_heading: PAPPAS
+dialog: Shut your mouth until I tell you...
+speaker_heading: PAPPAS
+dialog: (off) ...to talk, son.
+speaker_heading: MASON
+dialog: You know, I gotta tell you. That really
+dialog: bothers me, somebody calls me "son."
+speaker_heading: PAPPAS
+dialog: Then how about if I call you "ass-...
+speaker_heading: PAPPAS
+dialog: (off) ...-hole"?
+speaker_heading: LEWIS
+dialog: (off) All right, both of...
+speaker_heading: LEWIS
+dialog: (off) ...you, just cool off.
+speaker_heading: LEWIS
+dialog: (off) Look, Ma-...
+speaker_heading: LEWIS
+dialog: ...-son, maybe the kid showed you a fake
+dialog: I.D. or, uh, you forgot to check.
+speaker_heading: MASON
+dialog: I didn't forget to check, and I know how
+text: to spot a fake I.D.
+speaker_heading: MASON
+dialog: Especially from a little geek like
+dialog: that...
+speaker_heading: MASON
+dialog: (off) ...kid.
+speaker_heading: PAPPAS
+dialog: That little geek is my...
+speaker_heading: PAPPAS
+dialog: (off) ...son.
+speaker_heading: LEWIS
+dialog: (off) All right. (grunts) Enough.
+dialog: Look...
+speaker_heading: LEWIS
+dialog: ...Mason, I don't wanna hear about you
+dialog: sellin'...
+speaker_heading: LEWIS
+dialog: ...alcohol to minors.
+speaker_heading: MASON
+dialog: (overlapping) I didn't sell any alcohol
+dialog: to any--
+speaker_heading: LEWIS
+dialog: (interrupting) I'm not saying you did.
+dialog: Just don't, okay? You make sure you keep
+dialog: your nose clean, we won't have any
+dialog: problems. (to Pappas) Let's go, Pappas.
+speaker_heading: LEWIS
+dialog: I said let's...
+speaker_heading: LEWIS
+dialog: (off) ...go.
+speaker_heading: PAPPAS
+dialog: You got a prob-...
+speaker_heading: PAPPAS
+dialog: (off) ...-lem too?
+speaker_heading: ARLO
+dialog: No, sir. I've never seen this guy
+dialog: before.
+speaker_heading: PAPPAS
+dialog: (chuckles)
+speaker_heading: ARLO
+dialog: Sure as hell have met a few assholes like
+dialog: that, though.
+speaker_heading: ARLO
+dialog: (off) (chuckles) (on) You gotta learn to
+dialog: lighten up when the man's in your face.
+speaker_heading: MASON
+dialog: That's my business.
+speaker_heading: ARLO
+dialog: No argument there.
+speaker_heading: MASON
+dialog: The guy's a fuckin' moron.
+speaker_heading: ARLO
+dialog: Hey, I'm with you on that one, my man.
+dialog: Prick.
+speaker_heading: MASON
+dialog: Look, you need me to sign an invoice or
+dialog: somethin'?
+speaker_heading: ARLO
+dialog: Uh, between this month and last month,
+dialog: you owe four hundred and seventeen
+dialog: dollars. And we need that in cash.
+speaker_heading: MASON
+dialog: Since when does...
+speaker_heading: MASON
+dialog: ...Darlene pay you in cash?
+speaker_heading: ARLO
+dialog: Since today. New policy.
+speaker_heading: MASON
+dialog: (sighs - continues under following scene)
+speaker_heading: MASON
+dialog: Yeah, well, Darlene didn't say anything
+dialog: about it to me, so tell Andy to bill her
+text: like usual and let them sort it out.
+dialog: Move.
+speaker_heading: ARLO
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: Well, he told me to collect cash.
+speaker_heading: MASON
+dialog: (sighing) Andy. Another fuckin'...
+speaker_heading: MASON
+dialog: (off) ...moron.
+speaker_heading: ARLO
+dialog: Hey, you and I are seein' eye to eye on a
+dialog: whole range of issues this mornin'.
+dialog: (chuckles - continues under following
+dialog: scene)
+speaker_heading: ARLO
+dialog: Uh, huh?
+speaker_heading: ARLO
+dialog: Except for the fact that I need cash.
+speaker_heading: MASON
+dialog: He could've called first.
+speaker_heading: ARLO
+dialog: He could've. That-That's true. But that
+dialog: would've been smart...
+speaker_heading: ARLO
+dialog: ...and fair...
+speaker_heading: ARLO
+dialog: ...two things Andy is not. Uh, but I
+dialog: tell you what.
+speaker_heading: ARLO
+dialog: (face off) Bein' that it's cash, I'm
+dialog: gonna give you ten percent...
+speaker_heading: ARLO
+dialog: ...off. Say, uh, three seventy-five.
+dialog: Seein' that we both have so much love...
+speaker_heading: ARLO
+dialog: ...for Andy, I'll tell him I lost a few
+text: cartons comin' over (face off) the
+dialog: mountain.
+speaker_heading: ARLO
+dialog: That'll make up the difference, huh?
+speaker_heading: ARLO
+dialog: (face off) Huh?
+speaker_heading: MASON
+dialog: Well, Darlene usually gives me a signed
+dialog: check for emergencies. I could always
+dialog: give you that.
+speaker_heading: ARLO
+dialog: (overlapping) Oh.
+speaker_heading: MASON
+dialog: Why don't I--?
+speaker_heading: ARLO
+dialog: (interrupting) No, no, no, no, no, no.
+dialog: Wait.
+speaker_heading: ARLO
+dialog: Night Shift, see? A check is not cash.
+speaker_heading: ARLO
+dialog: Cash got a whole lot of numbers on it.
+text: Pictures of old white men with messed-up
+dialog: hairdos.
+speaker_heading: ARLO
+dialog: (off) That's what I need.
+speaker_heading: ARLO
+dialog: (sighs) All right, all right. I-I'll go
+dialog: you one better. Two seventy-five and
+dialog: I'll tell him you'll make up the
+dialog: balance...
+speaker_heading: ARLO
+dialog: (off) ...next month. Huh?
+speaker_heading: LONG
+dialog: (pants - continues under following scenes
+dialog: and dialogue)
+speaker_heading: MASON
+dialog: Doc!
+speaker_heading: ARLO
+dialog: (off) Aw! Oh, Jesus.
+speaker_heading: MASON
+dialog: (grunts) Hang on. Hang on.
+speaker_heading: LONG
+dialog: Mason.
+speaker_heading: MASON
+text: Shit! Oh, shit. (grunts - continues
+dialog: under following scenes and dialogue)
+speaker_heading: LONG
+text: (grunts and pants - continues under
+dialog: following scenes)
+speaker_heading: LONG
+dialog: (panting) Is that...
+speaker_heading: LONG
+text: (off) (panting) ...his truck? (pants -
+text: continues under following scene and
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: Yeah, that's my truck.
+speaker_heading: LONG
+dialog: (panting) Mason, you have to take this...
+speaker_heading: LONG
+text: (face off) (panting) ...to Fort McGruder
+text: in his truck. (pants - continues under
+dialog: following scenes and dialogue)
+speaker_heading: ARLO
+dialog: Wait. This town is full of trucks. Nice
+dialog: new trucks. You don't need to go...
+speaker_heading: ARLO
+dialog: (off) ...take my sorry old truck.
+speaker_heading: LONG
+dialog: (overlapping) We do need your truck.
+speaker_heading: MASON
+dialog: Call an ambulance.
+speaker_heading: LONG
+dialog: (off) (indistinct to) No...
+speaker_heading: LONG
+dialog: ...there's no time.
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - NIGHT.
+speaker_heading: BURKE
+dialog: I don't see it.
+speaker_heading: BRYNNER
+dialog: Turn around at the gas station. Look
+text: behind the buildings.
+speaker_heading: SCENE
+scene_heading: INT. DARLENE'S STORE - NIGHT.
+speaker_heading: ARLO
+dialog: So you called the damned thing Elvis
+speaker_heading: LONG
+dialog: (shivering) I had no idea how powerful it
+dialog: was.
+speaker_heading: LONG
+dialog: (off) (shivering) Eighteen men were k-
+dialog: killed in sec-...
+speaker_heading: LONG
+text: (off) (shivering) ...-onds...with just a
+dialog: fraction of what's in...
+speaker_heading: LONG
+text: (shivering) ...here. (groans) (grunting)
+text: Mason... (shivers - continues under
+dialog: following scene and dialogue)
+speaker_heading: ARLO
+dialog: (sighs)
+speaker_heading: LONG
+dialog: (shivering) ...about the man who did
+dialog: this, he's-he's comin' after it.
+speaker_heading: LONG
+dialog: (shivering) You-You can't let him...
+speaker_heading: LONG
+dialog: (off) (shivering) ...have it. You have
+text: to...have to get it to M...to McGruder.
+speaker_heading: ARLO
+dialog: (overlapping) (grunts) (whispering) Hey,
+dialog: actually...
+speaker_heading: ARLO
+dialog: (whispering) ...why don't you make it a
+dialog: hundred and fifty dollars. We'll call it
+dialog: a day.
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - NIGHT.
+speaker_heading: VAUGHN
+dialog: (off) There.
+speaker_heading: BRYNNER
+dialog: Check it out.
+speaker_heading: BRYNNER
+dialog: (into radio) Carl...the main phone
+dialog: junction.
+speaker_heading: SCENE
+scene_heading: EXT. BRYNNER'S VAN - NIGHT.
+speaker_heading: BRYNNER
+dialog: (off) (into radio) Move. This is already
+dialog: affecting our schedule.
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - NIGHT.
+speaker_heading: BRYNNER
+dialog: (into radio) Dennis, radio the bikes. I
+dialog: wanna know if so much as a squirrel...
+speaker_heading: SCENE
+scene_heading: EXT. BRYNNER'S VAN - NIGHT.
+speaker_heading: BRYNNER
+text: (into radio) ...comes up that road.
+speaker_heading: SCENE
+scene_heading: INT. DARLENE'S STORE - NIGHT.
+speaker_heading: LONG
+dialog: (shivering) The compound has to be kept
+dialog: cold...
+speaker_heading: LONG
+text: (off) (shivering) ...or it'll ignite.
+dialog: (shivers - continues under following
+dialog: dialogue)
+speaker_heading: MASON
+dialog: Cold? Cold. How cold?
+speaker_heading: LONG
+dialog: (shivering) Never let it reach fifty
+dialog: degre-degrees.
+speaker_heading: MASON
+dialog: (pants) And what if it does?
+speaker_heading: LONG
+dialog: (shivering) Everything will die, Mason.
+speaker_heading: LONG
+dialog: (off) (shivering) In-In seconds,
+dialog: everything for hundreds...
+speaker_heading: LONG
+dialog: (off) (shivering) ...of m-miles.
+dialog: (shivers)
+speaker_heading: LONG
+dialog: (shivering) That's w-why you need his
+dialog: truck...
+speaker_heading: LONG
+text: (off) (shivering) ...Mason.
+speaker_heading: SCENE
+scene_heading: EXT. GAS STATION - NIGHT.
+speaker_heading: VAUGHN
+dialog: It's clean.
+speaker_heading: BRYNNER
+dialog: Check the immediate area.
+speaker_heading: VAUGHN
+dialog: This was supposed to be a...
+speaker_heading: VAUGHN
+text: ...quick in and out.
+speaker_heading: BRYNNER
+dialog: You have ten percent of a hundred million
+dialog: dollars comin' your way. I think we can
+dialog: impose on you for a little overtime.
+speaker_heading: SCENE
+scene_heading: INT. DARLENE'S STORE - NIGHT.
+speaker_heading: LONG
+dialog: (shivering) You're the only one I can
+dialog: trust.
+speaker_heading: LONG
+dialog: (off) (shivering) The only one who
+dialog: understands what this me-...
+speaker_heading: LONG
+dialog: (shivering) ...-m-means, Mason.
+dialog: (continues indistinct) (pants - continues
+dialog: under following scenes and dialogue)
+speaker_heading: MASON
+dialog: Doctor.
+speaker_heading: MASON
+dialog: Doc, wait. Doc, wait.
+speaker_heading: MASON
+dialog: (off) Wait, doc!
+speaker_heading: MASON
+dialog: (crying and panting) No. No.
+speaker_heading: MASON
+dialog: (cries - continues under following scene)
+speaker_heading: ARLO
+dialog: Sorry, man. He's dead.
+speaker_heading: MASON
+dialog: (off) (crying and whispering) No.
+speaker_heading: SCENE
+scene_heading: EXT. GAS STATION - NIGHT.
+speaker_heading: DENNIS
+text: (grunts) It's after five...
+speaker_heading: SCENE
+scene_heading: INT. DARLENE'S STORE - NIGHT.
+speaker_heading: DENNIS
+dialog: (off) ...sir. Our satellite link is on
+dialog: schedule. Should I start the feed?
+speaker_heading: MASON
+dialog: (overlapping) (grunts)
+speaker_heading: BRYNNER
+dialog: (off) Get 'em on line, then stall. Long
+dialog: can't have gotten far.
+speaker_heading: CARL
+dialog: Closin' down, sir.
+speaker_heading: BRYNNER
+text: Vaughn, Burke, move to the end of the
+dialog: street. Fan out and work your way back
+text: to the motel.
+speaker_heading: BRYNNER
+dialog: (off) (low and indistinct)
+speaker_heading: MASON
+dialog: We gotta get help. (to himself) Aw, fuck!
+dialog: (panting) Damn.
+speaker_heading: MASON
+dialog: Mornin'.
+speaker_heading: BRYNNER
+dialog: Is this your establishment?
+speaker_heading: MASON
+dialog: Yeah, they call me Dar-...
+speaker_heading: MASON
+dialog: (off) ....-lene.
+speaker_heading: BRYNNER
+dialog: Well, then, how about a cup of coffee,
+dialog: Darlene?
+speaker_heading: BRYNNER
+text: Iced coffee.
+speaker_heading: MASON
+dialog: I assume you want that to go.
+speaker_heading: BRYNNER
+dialog: Assumptions are always...
+speaker_heading: BRYNNER
+dialog: (face off) ...dangerous.
+speaker_heading: MASON
+dialog: Quite a getup for jacking...
+speaker_heading: MASON
+dialog: (off) ...deer.
+speaker_heading: BRYNNER
+dialog: I beg your pardon?
+speaker_heading: MASON
+dialog: Uh, you wanna hunt outta season, it's
+dialog: cool with me. But mostly, well, they
+dialog: just take a six...
+speaker_heading: MASON
+dialog: ...and a rifle. You, on the other
+dialog: hand...
+speaker_heading: MASON
+dialog: ...look like you're after something more
+dialog: dangerous.
+speaker_heading: BRYNNER
+dialog: Actually, I was just looking for a
+text: restroom.
+speaker_heading: BRYNNER
+dialog: I assume you have one.
+speaker_heading: MASON
+dialog: Assumptions are always dangerous.
+speaker_heading: MASON
+text: There is one in the back.
+speaker_heading: ARLO
+dialog: (whispering) Hey.
+speaker_heading: ARLO
+dialog: (whispering) Hey, be cool.
+speaker_heading: ARLO
+dialog: (whispering) Be cool. (in normal voice)
+dialog: Be--
+speaker_heading: ARLO
+dialog: That was quick.
+speaker_heading: BRYNNER
+dialog: (off) (chuckles - continues under
+dialog: following scene)
+speaker_heading: BRYNNER
+dialog: To tell you the truth, we're looking for
+text: a scientist who's gone missing from the
+dialog: Tech Center. Maybe you know him.
+dialog: Richard Long.
+speaker_heading: BRYNNER
+dialog: (off) We're worried...
+speaker_heading: BRYNNER
+dialog: ...about him.
+speaker_heading: ARLO
+dialog: I'll keep an eye out.
+speaker_heading: MASON
+dialog: (off) Doc...
+speaker_heading: MASON
+dialog: (off) ...Long.
+speaker_heading: MASON
+dialog: Doc Long. Yeah, I know him. Weirdo guy.
+dialog: He comes in from...
+speaker_heading: MASON
+dialog: (off) ...time to time, yeah.
+speaker_heading: MASON
+dialog: Not tonight...
+speaker_heading: MASON
+dialog: (off) ...though.
+speaker_heading: BRYNNER
+dialog: (grunts)
+speaker_heading: BRYNNER
+dialog: Odd, then, that his car...
+speaker_heading: BRYNNER
+dialog: (off) ...should be right outside.
+speaker_heading: MASON
+dialog: Like I say, Doc Long's...
+speaker_heading: MASON
+dialog: ...an odd guy.
+speaker_heading: MASON
+dialog: Say, general.
+speaker_heading: MASON
+dialog: That'll be fifty cents for the coffee.
+speaker_heading: ARLO
+dialog: What did I say?
+speaker_heading: ARLO
+dialog: (off) Dude in uniform get in your face,
+dialog: you do not shoot your mouth off.
+speaker_heading: MASON
+dialog: I need your truck.
+speaker_heading: ARLO
+dialog: (chuckles - continues under following
+dialog: scene)
+speaker_heading: ARLO
+dialog: No, no, no. You don't need my truck.
+dialog: You need somebody else's truck...
+speaker_heading: ARLO
+text: (off) ...and a shitload of ice.
+speaker_heading: MASON
+dialog: Look, if I don't get this stuff to
+dialog: McGruder, it's goodbye, Andy's Ice Cream,
+dialog: goodbye, Jerome, goodbye, Mon-...
+speaker_heading: MASON
+dialog: (off) ...-tana.
+speaker_heading: ARLO
+dialog: Wait, wait. You don't believe the dead
+dialog: guy, do...
+speaker_heading: ARLO
+dialog: (off) ...ya?
+speaker_heading: MASON
+dialog: Yeah, I believe him. He was my friend.
+speaker_heading: ARLO
+dialog: For cryin' out loud.
+speaker_heading: ARLO
+dialog: (off) Hey, listen! Do you know what I
+dialog: think? I...
+speaker_heading: ARLO
+dialog: ...think he was a wacko. And I think
+dialog: that G.I. ninja's a bigger wacko. And I
+dialog: think you're the biggest wack-...
+speaker_heading: ARLO
+dialog: (off) ...-o of all, wantin' to be a part
+dialog: of this wacko shit!
+speaker_heading: MASON
+dialog: I need your help.
+speaker_heading: ARLO
+dialog: You are seriously mistaken if you think
+dialog: you are going anywhere in my...
+speaker_heading: ARLO
+dialog: (off) ...truck.
+speaker_heading: MASON
+dialog: Then you drive me to McGrud-...
+speaker_heading: MASON
+dialog: (off) ...-er.
+speaker_heading: ARLO
+dialog: Look...I got two tons of the world's
+dialog: nastiest ice cream sittin' in a truck
+dialog: that should've been retired ten years
+dialog: ago. That shit will be worthless by
+dialog: noon.
+speaker_heading: ARLO
+dialog: (off) And if that Elvis shit...
+speaker_heading: ARLO
+dialog: ...is as dangerous as you seem to think
+dialog: it is, I'm gettin' my ass as far away
+dialog: from you and it as possible. (kisses)
+speaker_heading: ARLO
+dialog: Peace.
+speaker_heading: MASON
+dialog: (overlapping) All right.
+speaker_heading: ARLO
+dialog: (indistinct - continues under following
+dialog: dialogue)
+speaker_heading: MASON
+dialog: (off) Wait, wait, wait. Hold up. Hold
+dialog: up. Look.
+speaker_heading: MASON
+dialog: You want cash?
+speaker_heading: MASON
+dialog: (off) You want cash?
+speaker_heading: MASON
+dialog: I got, like, uh....
+speaker_heading: MASON
+dialog: (face off) I got, uh....
+speaker_heading: MASON
+dialog: I got fifty bucks. I'll get more.
+speaker_heading: MASON
+dialog: (off) I'll rent the truck from you. You
+dialog: can stay here, you can go. Whatever you
+dialog: want.
+speaker_heading: ARLO
+dialog: No.
+speaker_heading: MASON
+dialog: All right, then how about this?
+speaker_heading: ARLO
+dialog: Hey, you're gonna piss me-- What the
+dialog: hell are you supposed to be...
+speaker_heading: ARLO
+dialog: (off) ...doing?!
+speaker_heading: MASON
+dialog: (emphasizing) I need your truck!
+speaker_heading: ARLO
+dialog: You are not takin' my truck!
+speaker_heading: ARLO
+dialog: How far you got to go?
+speaker_heading: SCENE
+scene_heading: EXT. DARLENE'S STORE - NIGHT.
+speaker_heading: MASON
+dialog: (whispering) Go on.
+speaker_heading: ARLO
+dialog: (pants) Would you hurry up, please?
+speaker_heading: MASON
+dialog: Look, put this in the back. Keep it
+dialog: safe.
+speaker_heading: ARLO
+dialog: (sighs) (grunts)
+speaker_heading: MASON
+dialog: There we go. There we go. Did you keep
+dialog: it safe? Did you (continues indistinct)
+speaker_heading: ARLO
+dialog: What the hell is with you, dog? He's the
+dialog: one with the damn gun.
+speaker_heading: MASON
+dialog: You gave him ice cream, didn't you? Come
+dialog: on, let's go.
+speaker_heading: ARLO
+dialog: (overlapping) Yeah, to keep him off my
+dialog: ass.
+speaker_heading: MASON
+dialog: What did you do that for? It makes him
+dialog: mean as a snake.
+speaker_heading: ARLO
+dialog: That dog was mean before I met him.
+speaker_heading: MASON
+dialog: That dog ain't mean.
+speaker_heading: ARLO
+dialog: (overlapping) I'm gonna stomp your a--
+speaker_heading: MASON
+dialog: (overlapping) Come on, get in the truck.
+speaker_heading: ARLO
+dialog: I'm gonna bust a mudhole in your ass.
+dialog: I'm gonna-- Don't tell me to shut--
+dialog: It's none of your business. Man, I can
+dialog: talk all I want to.
+speaker_heading: MASON
+dialog: (off) Shut...
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - NIGHT.
+speaker_heading: MASON
+dialog: (off) ...up.
+speaker_heading: ARLO
+dialog: Are you kiddin'?
+speaker_heading: MASON
+dialog: (overlapping) (sighs)
+speaker_heading: MASON
+dialog: Come on!
+speaker_heading: ARLO
+dialog: Damn.
+speaker_heading: MASON
+dialog: (off) What the hell's goin' on?
+speaker_heading: ARLO
+dialog: It happens to this piece of shit...
+speaker_heading: ARLO
+dialog: (off) ...all the time.
+speaker_heading: ARLO
+dialog: Damn diesel injections are flood-...
+speaker_heading: MASON
+dialog: (off) (overlapping) Excuse me...
+speaker_heading: ARLO
+dialog: (off) ...-ed.
+speaker_heading: MASON
+dialog: (overlapping) ...excuse me. Can you fix
+dialog: this?
+speaker_heading: ARLO
+dialog: Do you wanna give me a minute?
+speaker_heading: MOTEL MANAGER
+dialog: (off) Well, if it's for national se-...
+speaker_heading: SCENE
+scene_heading: EXT. MOTEL - NIGHT.
+scene_heading: NARRATIVE TITLE
+speaker_heading: MOTEL
+speaker_heading: MOTEL MANAGER
+dialog: (face off) ...-curity, I guess it's (on)
+dialog: okay.
+speaker_heading: MOTEL MANAGER
+dialog: I just hope we don't bust in on anybody
+dialog: doing what people do in (chuckling)
+dialog: motels.
+speaker_heading: SCENE
+scene_heading: EXT. ICE CREAM TRUCK - NIGHT.
+speaker_heading: ARLO
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: EXT. MOTEL - NIGHT.
+speaker_heading: BURKE
+dialog: Wait for me here, sir, if you don't mind.
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - NIGHT.
+speaker_heading: MASON
+dialog: Get in (continues indistinct)
+speaker_heading: SCENE
+scene_heading: EXT. DARLENE'S STORE - NIGHT.
+speaker_heading: BURKE
+dialog: (grunts)
+speaker_heading: BURKE
+dialog: (grunts) Damn dog.
+speaker_heading: MASON
+dialog: (whispering) Hey. Hey.
+speaker_heading: MASON
+dialog: Hey.
+speaker_heading: MASON
+dialog: Get back in...
+speaker_heading: MASON
+dialog: (off) ...the truck.
+speaker_heading: ARLO
+dialog: (indistinct to) help me get in the truck.
+dialog: (continues indistinct)
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAWN.
+speaker_heading: MASON
+dialog: (off) (sighs - continues under following
+dialog: scene)
+speaker_heading: MASON
+dialog: You'd better coast through...
+speaker_heading: MASON
+dialog: ...town. (sighs)
+speaker_heading: ARLO
+dialog: (sighs)
+speaker_heading: SCENE
+scene_heading: EXT. ICE CREAM TRUCK - DAWN.
+speaker_heading: ARLO
+dialog: (sighs)
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAWN.
+speaker_heading: MASON
+dialog: We're clear.
+speaker_heading: ARLO
+dialog: (chuckling) Oh, man.
+speaker_heading: SCENE
+scene_heading: EXT. ROAD - DAWN.
+speaker_heading: BLONDE BIKER
+dialog: (into radio) All ready. I copy.
+speaker_heading: BEARDED BIKER
+dialog: Get Brynner on the radio.
+speaker_heading: BLONDE BIKER
+dialog: (into radio) Come in, command. Truck
+dialog: just passed...
+speaker_heading: SCENE
+scene_heading: INT. DENNIS & CARL'S VAN - DAWN.
+speaker_heading: BLONDE BIKER
+text: (over radio) ...checkpoint. Over.
+speaker_heading: DENNIS
+dialog: Run that back.
+speaker_heading: CARL
+dialog: Let me...
+speaker_heading: CARL
+dialog: (off) ...enhance it.
+speaker_heading: DENNIS
+dialog: Print it.
+speaker_heading: DENNIS
+dialog: (off) Sir...
+speaker_heading: DENNIS
+dialog: ...transmission just...
+speaker_heading: DENNIS
+dialog: (off) ...came in.
+speaker_heading: BRYNNER
+dialog: Well. It appears someone's been lying to
+dialog: us.
+speaker_heading: SCENE
+scene_heading: INT. DARLENE'S STORE - DAY.
+speaker_heading: BRYNNER
+dialog: (sniffs)
+speaker_heading: BRYNNER
+dialog: Radio the bikes.
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: VAUGHN
+dialog: Sir, all potential customers have been
+dialog: informed of the delay. Fur-...
+speaker_heading: VAUGHN
+dialog: (off) ...-ther orders?
+speaker_heading: BRYNNER
+dialog: No. A pair of average citizens have
+dialog: decided to risk their lives for their
+dialog: country. I almost remember what that
+dialog: feels like.
+speaker_heading: CHARACTER
+speaker_heading: FOOTAGEDIALOGUE
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+speaker_heading: MASON
+dialog: No cell.
+speaker_heading: ARLO
+dialog: Suppose you're gonna shoot me because you
+dialog: can't get service on my cell phone.
+scene_heading: NARRATIVE TITLE
+speaker_heading: BILLINGS
+speaker_heading: MASON
+dialog: Billings? No, no, no, no, no. We need
+text: to go to McGruder.
+speaker_heading: ARLO
+dialog: No, you gotta go to McGrud-...
+speaker_heading: ARLO
+dialog: ...-er.
+speaker_heading: MASON
+dialog: No, no, no, no, no. We gotta go to
+dialog: McGruder! I go where the truck goes!
+speaker_heading: ARLO
+dialog: No, no, no.
+speaker_heading: ARLO
+dialog: To get to McGruder, you have to go
+dialog: through Missoula, and I ain't goin' to
+dialog: Missoula.
+speaker_heading: MASON
+dialog: No way. We're goin' through McGrud-...
+speaker_heading: MASON
+dialog: (off) ...-er.
+speaker_heading: ARLO
+dialog: I ain't goin' through Missoula!
+speaker_heading: MASON
+dialog: Am I missing somethin' here?
+speaker_heading: ARLO
+dialog: Look...I kinda borrowed the truck from
+dialog: Andy.
+speaker_heading: MASON
+text: Borrowed.
+speaker_heading: ARLO
+dialog: Yeah, borrowed!
+speaker_heading: MASON
+dialog: You stole this truck.
+speaker_heading: MASON
+dialog: You stole this truck!
+speaker_heading: ARLO
+dialog: I did not steal this truck!
+speaker_heading: MASON
+dialog: (overlapping) You stole this truck!
+dialog: That's...
+speaker_heading: MASON
+dialog: ...what all the bullshit about the cash
+dialog: was, wasn't it?! You stole this truck,
+dialog: and now you're trying to sell...
+speaker_heading: MASON
+dialog: ...the ice cream for money!
+speaker_heading: ARLO
+dialog: (overlapping) I didn't steal the truck!
+dialog: He owed it to me! Anyway, the important
+dialog: thing is I'm not goin' through Missoula!
+speaker_heading: MASON
+dialog: Look, I don't give a shit if you go
+text: through Missoula at a hundred miles an
+dialog: hour. We're goin' to McGruder.
+speaker_heading: MASON
+dialog: And remember, I still have this. Yeah,
+dialog: that's what I thought.
+speaker_heading: SCENE
+scene_heading: EXT. ROAD - DAY.
+speaker_heading: ARLO
+dialog: (off) I'm about to get in your ass like
+dialog: last year's underwear, man.
+speaker_heading: MASON
+dialog: (off) That's...
+speaker_heading: MASON
+dialog: (voice over) ...fine.
+speaker_heading: ARLO
+dialog: (voice over) I ain't playin' that.
+speaker_heading: MASON
+dialog: (voice over) (overlapping) Shut up.
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+speaker_heading: MASON
+dialog: (face off) (grunts - continues under
+dialog: following scene)
+speaker_heading: ARLO
+dialog: Hey.
+speaker_heading: ARLO
+dialog: We can't push old Pete in this heat. He
+dialog: can't take it.
+speaker_heading: MASON
+dialog: Fine. (sighs)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON
+dialog: You better speed old Pete up.
+speaker_heading: SCENE
+scene_heading: EXT. ICE CREAM TRUCK - DAY.
+speaker_heading: BEARDED BIKER
+dialog: (off) Pull it over!
+speaker_heading: BEARDED BIKER
+dialog: Pull it over!
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+speaker_heading: MASON & ARLO
+dialog: (laugh)
+speaker_heading: MASON
+dialog: Whoo!
+speaker_heading: MASON
+dialog: Holy shit!
+speaker_heading: ARLO
+dialog: (off) (overlapping) (grunts)
+speaker_heading: MASON
+dialog: God-...
+speaker_heading: MASON
+dialog: (off) ...-damn!
+speaker_heading: ARLO
+dialog: (overlapping) Okay, okay! (exhales)
+speaker_heading: MASON
+text: Ah, one of them's in the back.
+speaker_heading: MASON
+dialog: No, no, no, no, no. Keep goin'.
+speaker_heading: ARLO
+text: (panting and whispering) Okay. (pants)
+scene_heading: NARRATIVE TITLE
+speaker_heading: 10% GRADES
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: (sighs) (pants)
+speaker_heading: MASON
+dialog: (off) (grunts)
+speaker_heading: MASON
+dialog: (face off) (grunts)
+speaker_heading: SCENE
+scene_heading: EXT. ICE CREAM TRUCK - DAY. (INTERCUT
+speaker_heading: WITH
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY)
+speaker_heading: MASON
+dialog: (pants)
+speaker_heading: ARLO
+dialog: You're nuts, goin' back there!
+speaker_heading: MASON
+dialog: Shut up.
+speaker_heading: ARLO
+dialog: (off) (pants - continues under following
+dialog: scene)
+speaker_heading: ARLO
+dialog: Take your gun!
+speaker_heading: MASON
+dialog: Doesn't work.
+speaker_heading: ARLO
+dialog: What?
+speaker_heading: MASON
+dialog: (off) Doesn't...
+speaker_heading: MASON
+dialog: ...work! It's not even load-...
+speaker_heading: MASON
+dialog: (off) ...-ed.
+speaker_heading: ARLO
+dialog: You mean to tell me you hijacked me with
+dialog: an empty gun?!
+speaker_heading: ARLO
+dialog: Hey!
+speaker_heading: ARLO
+dialog: (off) When this is all over, re-...
+speaker_heading: ARLO
+dialog: ...-mind me to kick your ass!
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: VAUGHN
+dialog: Looks like our share just got bigger.
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: EXT. ICE CREAM TRUCK - DAY.
+speaker_heading: MASON
+dialog: (grunts - continues under following
+dialog: scene)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (grunts - continues under following
+dialog: scenes)
+speaker_heading: MASON
+dialog: (yells - continues under following
+dialog: scenes)
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/BOX - DAY.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON &
+speaker_heading: BLONDE BIKER
+dialog: (grunt - continues under following
+dialog: scenes)
+speaker_heading: SCENE
+scene_heading: EXT. ICE CREAM TRUCK - DAY.
+speaker_heading: BLONDE BIKER
+dialog: (grunts - continues under following
+dialog: scene)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: BLONDE BIKER
+dialog: (grunts - continues under following
+dialog: scenes and dialogue)
+speaker_heading: MASON
+dialog: (grunts - continues under following
+dialog: scenes)
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+speaker_heading: ARLO
+dialog: (off) (whispering) Oh...
+speaker_heading: ARLO
+text: (whispering) ...shit.
+speaker_heading: SCENE
+scene_heading: EXT. ROAD - DAY.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+scene_heading: (INTERCUT WITH
+scene_heading: EXT. ICE CREAM TRUCK - DAY)
+speaker_heading: ARLO
+dialog: (whispering) Oh, shit.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (face off) (yells - continues under
+dialog: following scene)
+speaker_heading: MASON
+dialog: (groans)
+speaker_heading: MASON
+text: (groans - continues under following
+dialog: scene)
+speaker_heading: ARLO
+dialog: (whispering) Oh...
+speaker_heading: ARLO
+text: (off) (whispering) ...shit.
+speaker_heading: BLONDE BIKER
+dialog: (face off) (grunts)
+speaker_heading: MASON
+text: (yells - continues under following scene)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (groaning) Oh, no.
+speaker_heading: ARLO
+dialog: Get him to stand up, Night Shift.
+speaker_heading: MASON
+dialog: (grunting) All right.
+speaker_heading: ARLO
+dialog: Okay! All right!
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: EXT. MOTEL - DAY.
+speaker_heading: LEWIS
+dialog: So you're sure it was Mason?
+speaker_heading: MOTEL MANAGER
+dialog: Positive.
+speaker_heading: MOTEL MANAGER
+text: He came out of the store with the ice
+dialog: cream guy. The men from the base, they
+dialog: took off...
+speaker_heading: MOTEL MANAGER
+dialog: ...right after them.
+speaker_heading: LEWIS
+dialog: Thank you.
+speaker_heading: MOTEL MANAGER
+dialog: You're welcome.
+speaker_heading: PAPPAS
+dialog: (overlapping) Thanks. (sighs)
+speaker_heading: LEWIS
+dialog: It must've happened right after we left.
+speaker_heading: PAPPAS
+dialog: Missoula's reporting the refrigerator
+dialog: truck as a stolen vehicle. I told you
+dialog: Mason was walking shit.
+speaker_heading: LEWIS
+text: Pappas, that other guy was unloading ice
+dialog: cream into a freezer. Now, what could he
+dialog: have to do with a military scientist,
+dialog: huh?
+speaker_heading: PAPPAS
+dialog: The sooner you get up the lab, the sooner
+dialog: you'll figure it out.
+speaker_heading: LEWIS
+dialog: (chuckles)
+speaker_heading: LEWIS
+dialog: (off) And where are you going?
+speaker_heading: PAPPAS
+dialog: After that re-...
+speaker_heading: SCENE
+scene_heading: INT. PAPPAS' POLICE CAR - DAY.
+speaker_heading: PAPPAS
+dialog: ...-frigerator truck.
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+speaker_heading: MASON
+dialog: (face off) (grunts) (on) (pants)
+text: (panting) Elvis is on ice again.
+speaker_heading: ARLO
+dialog: (panting) Okay.
+speaker_heading: MASON
+dialog: (pants) (panting) Nice job back there.
+speaker_heading: MASON
+dialog: (off) (pants - continues under following
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: Don't gimme that "nice job" shit, man!
+dialog: They still got a vanload comin', and what
+dialog: do you got besides an empty...
+speaker_heading: ARLO
+dialog: (off) ...gun?!
+speaker_heading: MASON
+dialog: I was thankin' you, asshole!
+speaker_heading: ARLO
+dialog: Kiss my ass!
+speaker_heading: MASON
+dialog: (pants - continues under following scene)
+speaker_heading: MASON
+dialog: (panting) It's goin' through. (pants -
+dialog: continues under following dialogue)
+scene_heading: FEMALE 911 OPERATOR
+dialog: (over telephone) Emergency. Please...
+scene_heading: FEMALE 911 OPERATOR
+text: (over telephone) ...hold.
+speaker_heading: MASON
+dialog: (into telephone) You gotta b--! (to Arlo)
+dialog: They put me on hold!
+speaker_heading: ARLO
+dialog: Probably because they know a psycho when
+text: they hear one.
+speaker_heading: MASON
+dialog: (off) (overlapping) No...
+speaker_heading: MASON
+dialog: ...I'm not the psycho.
+speaker_heading: ARLO
+dialog: Hey, take a look at your situation and...
+speaker_heading: ARLO
+dialog: (off) ...reconsider that statement there,
+dialog: Night Shift. You're psy-...
+speaker_heading: ARLO
+dialog: ...-cho and a hijack-...
+speaker_heading: ARLO
+dialog: (off) ...-er!
+speaker_heading: MASON
+dialog: (overlapping) Hi--! The gun was empty!
+speaker_heading: ARLO
+dialog: Every time I look at you, I wanna hit...
+speaker_heading: ARLO
+dialog: ...you.
+speaker_heading: MASON
+dialog: You wanna hit me?
+speaker_heading: ARLO
+dialog: And I'm a peaceful man, and...
+speaker_heading: ARLO
+dialog: ...I believe in live and...
+speaker_heading: MASON
+dialog: (off) (overlapping) Yeah...
+speaker_heading: ARLO
+dialog: ...let live.
+speaker_heading: MASON
+dialog: (overlapping) ...you stole the truck to
+dialog: uphold your principles, right?
+speaker_heading: ARLO
+dialog: I did not steal the truck.
+speaker_heading: MASON
+dialog: (off) (overlapping) (pants - continues
+dialog: under following dialogue)
+speaker_heading: ARLO
+dialog: It was owed to me. You stole the damn...
+speaker_heading: ARLO
+dialog: (off) ...truck!
+speaker_heading: MASON
+dialog: (overlapping) Shut up, shut up! It's
+text: beeping.
+speaker_heading: ARLO
+dialog: Well, then, that means it's call...
+speaker_heading: ARLO
+dialog: (face off) ...waiting!
+speaker_heading: MASON
+dialog: (off) You (face off) snatch that (off)
+dialog: phone (face off) from me one more time,
+dialog: I'm--
+speaker_heading: ARLO
+dialog: (interrupting) Hey! Hey! (into
+dialog: telephone) Andy's Ice Cream.
+speaker_heading: BRYNNER
+dialog: (over telephone) Dutiful citizens, you
+dialog: have something which I have waited years
+dialog: for.
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY. (INTERCUT
+speaker_heading: WITH
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY)
+speaker_heading: BRYNNER
+dialog: (into telephone) Give it to me now, or
+dialog: you'll be dead...
+speaker_heading: BRYNNER
+text: (over telephone) ...within five minutes.
+speaker_heading: ARLO
+dialog: It's for you.
+speaker_heading: MASON
+dialog: (into telephone) Yeah?
+speaker_heading: BRYNNER
+dialog: (into telephone) Contrary to what Dr.
+dialog: Long may have told you, this is
+dialog: neither...
+speaker_heading: BRYNNER
+dialog: (over telephone) ...your concern nor your
+dialog: fight. Relinquish the package and you
+dialog: can go.
+speaker_heading: MASON
+dialog: (into telephone) I don't know what the
+dialog: hell...
+speaker_heading: MASON
+dialog: (off) (into telephone) ...you're talkin'
+dialog: about.
+speaker_heading: ARLO
+dialog: What'd he say?
+speaker_heading: BRYNNER
+dialog: (over telephone) Don't be tedious,
+dialog: waiter. Dr. Long called it Elvis.
+speaker_heading: SCENE
+scene_heading: EXT. ROAD - DAY.
+speaker_heading: BRYNNER
+dialog: (voice over) You have no idea what you're
+dialog: in possession of, do you?
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+speaker_heading: ARLO
+dialog: (pants - continues under following scene)
+speaker_heading: ARLO
+dialog: (into telephone) Listen, shithead!
+speaker_heading: ARLO
+dialog: (into telephone) I got three thousand
+dialog: dollars of highly perishable ice cream
+dialog: products that taste bad enough when
+dialog: it's...
+speaker_heading: ARLO
+dialog: (over telephone) ...frozen! So if you
+dialog: don't mind--!
+speaker_heading: BRYNNER
+dialog: (into telephone) (overlapping) Just give
+dialog: me Elvis and I'll make sure you have
+dialog: enough money for a dozen ice cream
+dialog: trucks.
+speaker_heading: ARLO
+dialog: (into telephone) I don't ever wanna see
+dialog: another ice cream...
+speaker_heading: ARLO
+dialog: (off) (into telephone) ...truck!
+speaker_heading: MASON
+dialog: Gimme this god-...
+speaker_heading: MASON
+dialog: (face off) ...-damn phone.
+speaker_heading: MASON
+dialog: (pants) (into telephone) Talk to me.
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY. (INTERCUT
+speaker_heading: WITH
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY)
+speaker_heading: BRYNNER
+dialog: (into telephone) I want you to look at
+dialog: one another...
+speaker_heading: BRYNNER
+dialog: (over telephone) ...and ask a simple
+dialog: question - Are you actually prepared...
+speaker_heading: BRYNNER
+dialog: (over telephone) ...to die for a country
+dialog: that's...
+speaker_heading: BRYNNER
+dialog: (over telephone) ...never done a thing
+dialog: for you?
+speaker_heading: BRYNNER
+dialog: (into telephone) Because if you don't
+dialog: give me that cylinder, your lives will
+dialog: end...
+speaker_heading: BRYNNER
+dialog: (over telephone) ...on this miserable
+text: road to nowhere.
+speaker_heading: BRYNNER
+dialog: (over telephone) And I can't guarantee
+dialog: the end will be quick.
+speaker_heading: MASON
+dialog: (into telephone) Elvis is fuckin' dead,
+dialog: man. Get yourself some CDs.
+speaker_heading: MASON
+dialog: (pants)
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: BRYNNER
+dialog: Vaughn, get the M-seventy-nine ready.
+speaker_heading: VAUGHN
+dialog: You can't fire on them. You're gonna
+text: detonate the crystals.
+speaker_heading: BRYNNER
+dialog: Prep the launcher now.
+speaker_heading: BRYNNER
+dialog: Now!
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+speaker_heading: ARLO
+text: (pants) (panting) Oh, shit.
+speaker_heading: SCENE
+scene_heading: EXT. ROAD - DAY.
+speaker_heading: BRYNNER
+dialog: Your move. (to Vaughn) Okay, Vaughn, you
+dialog: drive.
+speaker_heading: ARLO
+dialog: (off) Oh, my God.
+speaker_heading: MASON
+dialog: Hey. Hey, hey, hey!
+speaker_heading: MASON
+dialog: (off) Stop!
+speaker_heading: MASON
+dialog: (off) Stop this boat.
+speaker_heading: MASON
+dialog: Whoa! Slow...
+speaker_heading: MASON
+dialog: (off) ...down.
+speaker_heading: MASON
+dialog: (off) Stop!
+speaker_heading: MASON & ARLO
+dialog: (off) (yell - continues under following
+dialog: scene)
+speaker_heading: ARLO
+dialog: (off) (indistinct - continues under
+dialog: following scene)
+speaker_heading: MASON
+dialog: (yells)
+speaker_heading: ARLO
+dialog: Oh!
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+scene_heading: (INTERCUT WITH
+scene_heading: EXT. ICE CREAM TRUCK - DAY)
+speaker_heading: MASON
+dialog: Holy shit...
+speaker_heading: MASON
+dialog: (off) ...man!
+speaker_heading: ARLO
+dialog: Oh, shit.
+speaker_heading: MASON
+dialog: Back up! Back...
+speaker_heading: MASON
+dialog: (off) ...up!
+speaker_heading: ARLO
+dialog: (off) (grunts)
+speaker_heading: ARLO
+dialog: Come on, old...
+speaker_heading: ARLO
+dialog: (off) ...Pete! Come on! There it...
+speaker_heading: ARLO
+dialog: (off) ...is, old Pete! Come on, baby!
+speaker_heading: MASON
+dialog: (face off) All right, you got it.
+speaker_heading: MASON
+dialog: You got it.
+speaker_heading: MASON
+dialog: (off) Go, go!
+speaker_heading: MASON
+dialog: (off) Go! Got it, got it, got it!
+dialog: (groans)
+speaker_heading: SCENE
+scene_heading: EXT. ROAD - DAY.
+speaker_heading: MASON
+dialog: (grunts) Fuck! (pants)
+speaker_heading: MASON
+dialog: (face off) (groans)
+speaker_heading: MASON
+dialog: Oh, shit.
+speaker_heading: ARLO
+dialog: (overlapping) (grunts) (pants) Oh, we're
+dialog: screwed, Night...
+speaker_heading: ARLO
+dialog: ...Shift.
+speaker_heading: ARLO
+dialog: You can just bend over and kiss your
+dialog: crazy ass goodbye, buddy! (pants -
+dialog: continues under following dialogue)
+speaker_heading: MASON
+dialog: I think...
+speaker_heading: MASON
+dialog: ...we can make it.
+speaker_heading: ARLO
+dialog: You think we can make what?! (pants) You
+dialog: see that truck?!
+speaker_heading: ARLO
+text: Eight and a half feet wide! Weighs over
+dialog: five tons!
+speaker_heading: ARLO
+dialog: Hey, and what if we (off) don't make it?!
+speaker_heading: MASON
+dialog: (overlapping) (pants)
+speaker_heading: ARLO
+dialog: Your weedkiller on steroids goes down
+dialog: with us! Everybody (off) dies!
+speaker_heading: MASON
+dialog: I don't think we have much of a choice...
+speaker_heading: MASON
+dialog: (off) ...do we?
+speaker_heading: ARLO
+dialog: Oh, shit.
+speaker_heading: MASON
+dialog: (face off) That's right. Now, (on) move!
+speaker_heading: ARLO
+dialog: (overlapping) (pants - continues under
+dialog: following scene and dialogue)
+speaker_heading: MASON
+dialog: (pants)
+speaker_heading: ARLO
+dialog: Oh, shit.
+speaker_heading: ARLO
+dialog: (off) (panting) Okay.
+speaker_heading: MASON
+text: (groans) Okay. (grunts)
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+speaker_heading: ARLO
+dialog: Unbe-fucking-lievable.
+speaker_heading: SCENE
+scene_heading: EXT. ICE CREAM TRUCK - DAY.
+speaker_heading: ARLO
+dialog: (grunts)
+speaker_heading: MASON
+dialog: Goddamn!
+speaker_heading: ARLO
+dialog: (overlapping) Oh, Petey. Oh, Petey. Oh,
+dialog: please, Pete. Please don't do this to
+dialog: me. Okay.
+speaker_heading: ARLO
+dialog: Damn. (to Mason) Okay! Okay!
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK - DAY. (INTERCUT
+speaker_heading: WITH
+scene_heading: EXT. ROAD - DAY)
+speaker_heading: ARLO
+dialog: (pants) (panting) I should've had that
+dialog: dog bite me. I would've gotten rabies!
+dialog: Could've went to the hospital, had a
+dialog: pretty nurse!
+speaker_heading: ARLO
+dialog: Hey, hey! Whoo! Okay.
+speaker_heading: MASON
+dialog: (overlapping) Go, go, go, go, go. Oh,
+dialog: shit.
+speaker_heading: MASON
+dialog: (off) Oh, shit.
+speaker_heading: ARLO
+dialog: Come on, old Pete.
+speaker_heading: ARLO
+dialog: (off) Come on!
+speaker_heading: ARLO
+dialog: (off) Come on, old Pete.
+speaker_heading: ARLO
+dialog: (off) God, man!
+speaker_heading: ARLO
+dialog: (off) I'm goin'. I'm goin', baby. I'm
+dialog: goin', I'm goin'.
+speaker_heading: MASON
+dialog: (off) (overlapping) Oh...
+speaker_heading: MASON
+dialog: ...easy, easy, easy.
+speaker_heading: MASON
+dialog: (off) Left, left, left!
+speaker_heading: MASON
+dialog: Get over! Get over!
+speaker_heading: ARLO
+dialog: (off) Come on.
+speaker_heading: ARLO
+dialog: Oh, shit. (to truck) Come on, old...
+speaker_heading: ARLO
+dialog: (off) ...Pete! Come on.
+speaker_heading: ARLO
+dialog: (off) Come on, old Pete. Oh.
+speaker_heading: ARLO
+dialog: (off) I know the likeli-...
+speaker_heading: ARLO
+dialog: (off) ...-hood of you knowin' any prayers
+dialog: is slim...
+speaker_heading: ARLO
+dialog: ...Night Shift, but you might...
+speaker_heading: ARLO
+dialog: (off) ...wanna give it a try!
+speaker_heading: ARLO
+dialog: (off) Come on, old...
+speaker_heading: ARLO
+dialog: ...Pete. Come on.
+speaker_heading: MASON
+dialog: (off) (groans - continues under following
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: (off) Come on.
+speaker_heading: ARLO
+dialog: (off) Come on.
+speaker_heading: ARLO
+dialog: (off) Come on...
+speaker_heading: ARLO
+dialog: (off) ...you crazy bastard.
+speaker_heading: MASON
+dialog: (off) All right, you got it, you got it!
+speaker_heading: MASON
+dialog: (off) Got it, got it, got it!
+speaker_heading: MASON
+dialog: Go, go, go, go, go!
+speaker_heading: MASON
+dialog: Go!
+speaker_heading: SCENE
+scene_heading: INT. ICE CREAM TRUCK/CAB - DAY.
+speaker_heading: MASON
+dialog: Whoo!
+speaker_heading: ARLO
+dialog: (overlapping) Whoo!
+speaker_heading: MASON
+dialog: I made it!
+speaker_heading: MASON
+dialog: (off) (sighing) I made it.
+speaker_heading: ARLO
+dialog: What are you talkin' about?! I'm the one
+dialog: drivin'!
+speaker_heading: MASON
+dialog: You okay?
+speaker_heading: ARLO
+dialog: What the fuck was that?!
+speaker_heading: MASON
+dialog: Shit. You gotta pass him. (pants -
+dialog: continues under following dialogue)
+speaker_heading: ARLO
+dialog: Gee, you think so?
+speaker_heading: ARLO
+dialog: Holy--!
+speaker_heading: ARLO
+dialog: (grunts) (pants) Okay. That didn't work.
+speaker_heading: MASON
+dialog: (overlapping) (pants) Gee, you think so?
+speaker_heading: ARLO
+dialog: Shut up!
+speaker_heading: ARLO
+dialog: (off) (indistinct - continues under
+dialog: following scene and dialogue)
+speaker_heading: MASON
+dialog: Ho, ho...
+speaker_heading: ARLO
+dialog: (off) (overlapping) Oh...
+speaker_heading: MASON
+dialog: (off) ...ho!
+speaker_heading: ARLO
+dialog: (off) (overlapping) ...shit!
+speaker_heading: MASON
+text: (off) (shouts indistinct)
+speaker_heading: ARLO
+dialog: (off) (overlapping) (indistinct -
+text: continues under following scene and
+dialog: dialogue)
+speaker_heading: MASON
+dialog: Hang on!
+speaker_heading: MASON
+dialog: (off) Hey!
+speaker_heading: ARLO
+dialog: (yells)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: EXT. ROAD - DAY.
+speaker_heading: ARLO
+dialog: (off) (grunts - continues under following
+dialog: scene)
+speaker_heading: ARLO
+text: (off) (grunts and pants) Shit. (grunts
+dialog: and pants)
+speaker_heading: MASON
+dialog: (off) (grunting) Go on.
+speaker_heading: ARLO
+dialog: (face off) (grunting) Go, go.
+speaker_heading: MASON
+text: (off) (grunts and pants - continues under
+dialog: following scene and dialogue)
+speaker_heading: ARLO
+text: (off) (grunts and pants - continues under
+dialog: following scene and dialogue)
+speaker_heading: ARLO
+text: (crying) Oh, Pete. Oh, shit! Oh, shit!
+speaker_heading: MASON
+dialog: (pants)
+speaker_heading: ARLO
+dialog: No. (groans) Shit.
+speaker_heading: MASON
+dialog: (grunting) Come on.
+speaker_heading: ARLO
+text: (overlapping) (grunts) Oh, shit. Oh,
+dialog: shit. (pants - continues under following
+dialog: scene)
+speaker_heading: ARLO
+dialog: Oh, shit. (panting) It's okay. Okay.
+dialog: (grunts - continues under following
+dialog: dialogue)
+speaker_heading: MASON
+dialog: (grunts - continues under following
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: Okay.
+speaker_heading: MASON
+dialog: All right.
+speaker_heading: MASON
+dialog: (panting) Okay.
+speaker_heading: ARLO
+dialog: (panting) All right.
+speaker_heading: MASON
+dialog: Gimme that, gimme that, gimme that.
+speaker_heading: ARLO
+dialog: (overlapping) (panting) Okay. Okay.
+dialog: (pants - continues under following
+dialog: dialogue)
+speaker_heading: MASON
+dialog: (panting) These'll keep it cold.
+speaker_heading: ARLO
+dialog: (panting) Yeah...
+speaker_heading: ARLO
+dialog: (off) ...yeah.
+speaker_heading: MASON
+text: (face off) (sighing) Aw, shit (continues
+text: low and indistinct) (grunts and pants)
+speaker_heading: ARLO
+dialog: (grunts)
+speaker_heading: MASON
+dialog: All right, let's go.
+speaker_heading: ARLO
+dialog: (overlapping) (pants)
+speaker_heading: ARLO
+dialog: (panting) Okay. All right. Okay.
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: (pants - continues under following scene
+dialog: and dialogue)
+speaker_heading: MASON
+dialog: Hey, put it back! We're takin' off.
+speaker_heading: MASON
+dialog: Hey, wait, wait...
+speaker_heading: MASON
+dialog: (off) ...wait!
+speaker_heading: MASON
+dialog: (panting) I got an idea.
+speaker_heading: DRIVER
+dialog: Hey, hey, what's goin' on here? Are
+dialog: you...
+speaker_heading: DRIVER
+dialog: (off) ...guys all right?
+speaker_heading: MASON
+dialog: Just stay...
+speaker_heading: MASON
+dialog: (off) ...back!
+speaker_heading: DRIVER
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (off) Stay back! I'm taking your boat.
+speaker_heading: ARLO
+dialog: (face off) (overlapping) Listen! (on)
+dialog: Listen...
+speaker_heading: ARLO
+dialog: ...to him! You don't know who...
+speaker_heading: ARLO
+dialog: (face off) ...you're dealin' with!
+speaker_heading: MASON
+dialog: I'm a dangerous man!
+speaker_heading: ARLO
+dialog: Yeah, he's a dangerous...
+speaker_heading: ARLO
+dialog: (face off) ...man!
+speaker_heading: ARLO
+dialog: He's crazy!
+speaker_heading: MASON
+dialog: I'm crazy?
+speaker_heading: MASON
+dialog: I'm cra-...
+speaker_heading: MASON
+dialog: ...-zy!
+speaker_heading: DRIVER
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: What are you doin'?
+speaker_heading: MASON
+dialog: (off) (grunts - continues under following
+dialog: scene)
+speaker_heading: MASON
+text: Taking it down the hill.
+speaker_heading: ARLO
+dialog: You're--? What?!
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: You're not dangerous! You're crazy! I
+dialog: ain't gettin' in this damn thing!
+speaker_heading: MASON
+dialog: Then stay...
+speaker_heading: MASON
+dialog: ...here!
+speaker_heading: ARLO
+dialog: Oh, shit. (panting) Okay. Come on.
+speaker_heading: MASON & ARLO
+dialog: (grunt)
+speaker_heading: ARLO
+dialog: (pants - continues under following scene)
+speaker_heading: ARLO
+dialog: Oh, hell...
+speaker_heading: ARLO
+dialog: (off) ...no!!
+speaker_heading: ARLO
+dialog: (pants - continues under following
+dialog: dialogue)
+speaker_heading: MASON
+dialog: I don't want you to come anyway. (pants -
+dialog: continues under following dialogue)
+speaker_heading: ARLO
+dialog: What?
+speaker_heading: MASON
+dialog: Come on!
+speaker_heading: ARLO
+text: (whimpering) Oh, shit.
+speaker_heading: ARLO
+text: (panting) Oh, shit! (face off) Oh, (on)
+dialog: shit.
+speaker_heading: SCENE
+scene_heading: EXT. HILLSIDE - DAY.
+speaker_heading: ARLO
+text: (yells - continues under following scenes
+dialog: and dialogue)
+speaker_heading: MASON
+dialog: (off) (yells - continues under following
+dialog: scenes)
+speaker_heading: MASON & ARLO
+text: (overlapping, indistinct chatter, grunts
+text: and yells - continues under following
+dialog: scenes)
+speaker_heading: MASON & ARLO
+dialog: (pant - continues under following scene)
+speaker_heading: ARLO
+dialog: (yells)
+speaker_heading: ARLO
+dialog: (grunts - continues under following
+dialog: scene)
+speaker_heading: ARLO
+dialog: (pants - continues under following scenes
+dialog: and dialogue)
+speaker_heading: MASON
+dialog: Keep still.
+speaker_heading: ARLO
+dialog: (whispering) Okay. Okay.
+speaker_heading: ARLO
+text: (yells - continues under following scenes
+dialog: and dialogue)
+speaker_heading: MASON
+dialog: (yells - continues under following
+dialog: scenes)
+speaker_heading: ARLO
+dialog: Oh, shit!
+speaker_heading: MASON
+dialog: (overlapping) No!
+speaker_heading: ARLO
+dialog: Oh, no!
+speaker_heading: ARLO
+dialog: Oh, no!
+speaker_heading: MASON
+dialog: (overlapping) (grunts)
+speaker_heading: ARLO
+dialog: (off) (yells - continues under following
+dialog: scenes)
+speaker_heading: SCENE
+scene_heading: EXT. RIVER - DAY.
+speaker_heading: MASON & ARLO
+dialog: (gasp and grunt)
+speaker_heading: MASON
+dialog: Whoo!
+speaker_heading: ARLO
+text: (pants) Whoo-hoo-hoo! Whoo-hoo-hoo!
+speaker_heading: MASON & ARLO
+dialog: (laugh)
+speaker_heading: MASON & ARLO
+dialog: (face off) (grunt)
+speaker_heading: MASON
+dialog: (off) (pants - continues under following
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: (chuckles) (panting) All right. Hey.
+speaker_heading: MASON
+dialog: (off) (grunts - continues under following
+dialog: scene and dialogue)
+speaker_heading: ARLO
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (face off) (groans - continues under
+dialog: following scene)
+speaker_heading: MASON
+dialog: (laughs - continues under following
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: Whoo-hoo-hoo!
+speaker_heading: MASON & ARLO
+text: (in unison) Whoo-hoo! (continues under
+dialog: following scene)
+speaker_heading: ARLO
+dialog: Are you crazy?! Take the boat?!
+speaker_heading: SCENE
+scene_heading: EXT. ROAD - DAY.
+speaker_heading: CARL
+text: (grunts) (panting) There's nothing in
+dialog: here, sir. They got away with it.
+speaker_heading: BRYNNER
+dialog: All right. Let's clear the mess and move
+dialog: out.
+speaker_heading: CARL
+dialog: (sighs)
+speaker_heading: CHARACTER
+speaker_heading: FOOTAGEDIALOGUE
+speaker_heading: SCENE
+scene_heading: EXT. ROWBOAT - DAY.
+speaker_heading: ARLO
+dialog: Uh-oh.
+speaker_heading: MASON
+dialog: What?
+speaker_heading: ARLO
+dialog: This thing just went up a degree. Ice
+dialog: cream's not workin'.
+speaker_heading: MASON
+text: This river's fed by a glacier. Willing
+dialog: to bet my life that it's a good deal
+text: under fifty degrees.
+speaker_heading: ARLO
+dialog: Okay.
+speaker_heading: ARLO
+dialog: Worth a try.
+speaker_heading: MASON
+dialog: (sighs - continues under following scene)
+speaker_heading: ARLO
+dialog: Hey, you didn't happen to lock the truck
+dialog: up when you got out...
+speaker_heading: ARLO
+dialog: (off) ...did you?
+speaker_heading: MASON
+dialog: You're fucked, man.
+speaker_heading: ARLO
+dialog: See, now why would you do that to a man
+dialog: in my posi-...
+speaker_heading: ARLO
+dialog: (off) ...-tion?
+speaker_heading: MASON
+dialog: Hey, I didn't steal the truck. You...
+speaker_heading: MASON
+text: (face off) ...stole the truck.
+speaker_heading: ARLO
+dialog: (overlapping) Hey, I told you I did not
+dialog: steal that truck. Andy owes me a lot
+dialog: more than that four-wheeled...
+speaker_heading: ARLO
+dialog: (off) ...piece of shit was worth.
+speaker_heading: MASON
+text: It won't even start half the time.
+speaker_heading: ARLO
+dialog: (off) You know what I'm sayin'?
+speaker_heading: ARLO
+dialog: I deserve a lot more than that truck!
+dialog: Ten years, ten years I busted my ass for
+dialog: that fat rat bastard.
+speaker_heading: ARLO
+dialog: (off) And he swore, he swore once I got a
+dialog: degree...
+speaker_heading: ARLO
+dialog: ...there'd be a sales rep desk with my
+dialog: name on it. But every time something
+dialog: opened up, there'd be some idiot
+dialog: cousin...
+speaker_heading: ARLO
+dialog: (off) ...or nephew or some good old
+dialog: boy...
+speaker_heading: ARLO
+text: ...just ready to just slide him right in
+dialog: there. And what about me, huh? What
+dialog: about Arlo, huh? What about my needs?
+dialog: You know, I got a-I got student loans...
+speaker_heading: ARLO
+dialog: (off) ...overdrawn bank accounts.
+speaker_heading: ARLO
+dialog: Nobody's lookin' out for my interests.
+dialog: (grunts) My credit was fucked! And then
+dialog: when he promoted Sam over me, I just
+dialog: snapped. So I split.
+speaker_heading: MASON
+dialog: So you took his...
+speaker_heading: MASON
+dialog: (off) ...truck.
+speaker_heading: ARLO
+dialog: So I took his truck, yeah.
+speaker_heading: MASON
+dialog: (off) (overlapping) Yeah.
+speaker_heading: ARLO
+dialog: You know.
+speaker_heading: SCENE
+scene_heading: EXT. ROAD - DAY.
+speaker_heading: BRYNNER
+dialog: (face off) This river ends at a hydro
+dialog: dam...
+speaker_heading: BRYNNER
+dialog: ...in Missoula. All we need to do is get
+text: to Mason before anyone else does.
+speaker_heading: BRYNNER
+text: Carl, Dennis, get out of sight.
+speaker_heading: BRYNNER
+dialog: Officer Pappas, I'm glad you're here.
+speaker_heading: PAPPAS
+dialog: Mind if you tell me what's goin' on?
+speaker_heading: BRYNNER
+dialog: I'm Colonel Brynner, U.S. Special
+dialog: Operations Com-...
+speaker_heading: BRYNNER
+dialog: ...-mand out of Fort Bragg.
+speaker_heading: BRYNNER
+dialog: (off) We were called in by the Jerome
+dialog: base...
+speaker_heading: BRYNNER
+text: ...to pursue a man who's stolen
+dialog: government proper-...
+speaker_heading: BRYNNER
+dialog: ...-ty.
+speaker_heading: PAPPAS
+dialog: Right. Tim Mason.
+speaker_heading: BRYNNER
+dialog: You know the suspect?
+speaker_heading: PAPPAS
+dialog: Yeah, he's wanted in connection with a
+dialog: death this morning at the Jerome...
+speaker_heading: PAPPAS
+dialog: ...general store.
+speaker_heading: BRYNNER
+dialog: Richard Long.
+speaker_heading: PAPPAS
+dialog: That's right.
+speaker_heading: BRYNNER
+dialog: Long went missing from the Tech Center
+dialog: this morning along with a very
+dialog: dangerous...
+speaker_heading: BRYNNER
+dialog: ...weapon. Deputy, I'd deeply appreciate
+dialog: your assistance on this.
+speaker_heading: BRYNNER
+dialog: Who knows? It might even put some more
+dialog: gold on that collar of yours.
+speaker_heading: SCENE
+scene_heading: EXT. ROWBOAT - DAY.
+speaker_heading: MASON
+dialog: You know, four years ago, I was a split
+dialog: end at Kentucky State.
+speaker_heading: MASON
+dialog: (face off) We were nationally (off)
+dialog: ranked.
+speaker_heading: ARLO
+dialog: How wonderful for you.
+speaker_heading: MASON
+dialog: Started every game my senior year. Not
+dialog: all-American or anything, but not bad.
+dialog: Anyway, the real star was my best friend,
+dialog: the quarterback. Got taken in the first
+dialog: round.
+speaker_heading: ARLO
+dialog: Robert Del Rio?
+speaker_heading: MASON
+dialog: Yeah, Robert Del Rio.
+speaker_heading: ARLO
+dialog: I remember him. Got in a car crash or
+dialog: somethin'.
+speaker_heading: MASON
+dialog: We were celebrating right after the
+dialog: draft, going from bar to bar. I was
+dialog: drivin'.
+speaker_heading: MASON
+dialog: And I put the car into a ditch. He spent
+dialog: eighteen weeks in the...
+speaker_heading: MASON
+dialog: (off) ...hospital.
+speaker_heading: MASON
+dialog: Never gonna throw a ball in the pros.
+speaker_heading: MASON
+dialog: (sighs) Couldn't deal with it. So I
+dialog: split.
+speaker_heading: MASON
+dialog: (face off) And (off) things sort of just
+dialog: went downhill from there.
+speaker_heading: MASON
+dialog: Anyway, about ten months ago, I wound up
+text: in Jerome, workin' for Darlene.
+speaker_heading: ARLO
+dialog: Well, shit. Could be worse. I mean,
+dialog: we're both up shit's creek, but at least
+dialog: we have a paddle.
+speaker_heading: MASON
+dialog: We got two paddles.
+speaker_heading: ARLO
+dialog: (chuckles)
+speaker_heading: SCENE
+scene_heading: EXT. U.S. RESEARCH LABORATORY - DAY.
+speaker_heading: VITELLI
+dialog: Is the facility secure?
+speaker_heading: SERGEANT
+dialog: Yes, sir, colonel. There's four dead,
+text: but the security video's clean.
+speaker_heading: VITELLI
+text: It's a patched-in feed. It's probably a
+dialog: loop.
+speaker_heading: VITELLI
+dialog: (sighs) Deputy.
+speaker_heading: VITELLI
+dialog: Deputy, I'm Colonel Vitelli. I'm on
+dialog: special as-...
+speaker_heading: VITELLI
+dialog: ...-signment.
+speaker_heading: LEWIS
+dialog: Deputy Art Lewis, Jerome County Sheriff's
+dialog: Department.
+speaker_heading: VITELLI
+dialog: (overlapping) Uh-huh.
+speaker_heading: LEWIS
+dialog: I don't suppose you'd like to tell me
+dialog: what this is all about.
+speaker_heading: VITELLI
+dialog: I will tell you what I...
+speaker_heading: VITELLI
+dialog: ...can, deputy.
+speaker_heading: BIG RANGER
+dialog: (overlapping) Colonel Vitelli. We got a
+text: busted-in cold vault inside.
+speaker_heading: VITELLI
+dialog: Is it--?
+speaker_heading: BIG RANGER
+dialog: (off) Looks like it. Yes, sir.
+speaker_heading: VITELLI
+text: Alert seventy-fifth rangers. Code Blue.
+dialog: Tell them Elvis has left the building.
+speaker_heading: LEWIS
+dialog: What the hell are you talkin' about...
+speaker_heading: LEWIS
+dialog: ...colonel?
+speaker_heading: VITELLI
+dialog: Have you I.D.'d the bodies?
+speaker_heading: BIG RANGER
+text: They were all wearing hardware.
+speaker_heading: VITELLI
+dialog: Any of them Richard Long?
+speaker_heading: BIG RANGER
+dialog: No, sir.
+speaker_heading: LEWIS
+dialog: Well, I've got Dr. Long's body down at
+text: the coroner's office.
+speaker_heading: LEWIS
+text: One of our units is pursuing a suspect up
+dialog: the thirty-...
+speaker_heading: LEWIS
+dialog: ...-five.
+speaker_heading: VITELLI
+dialog: Who's your suspect?
+speaker_heading: LEWIS
+dialog: A man named Tim Ma-...
+speaker_heading: LEWIS
+dialog: ...-son.
+speaker_heading: VITELLI
+dialog: Run a check. FBI, Interpol.
+speaker_heading: BIG RANGER
+dialog: Yes, sir.
+speaker_heading: VITELLI
+dialog: If you're right, Lewis, this Mason is one
+dialog: hell of a pro. He must have a service
+dialog: record and a paper trail some-...
+speaker_heading: VITELLI
+dialog: ...-where.
+speaker_heading: LEWIS
+dialog: Mason? (chuckling) No, he's a soda-jerk
+text: drifter, a hamburger flipper.
+speaker_heading: VITELLI
+dialog: It could be a cover, I suppose.
+speaker_heading: VITELLI
+dialog: Whoever did this is a man who knows his
+dialog: business.
+speaker_heading: SCENE
+scene_heading: EXT. ROWBOAT - DAY.
+speaker_heading: MASON
+dialog: Listen, Arlo...
+speaker_heading: MASON
+dialog: ...for whatever it's worth, I'm sorry I
+dialog: dragged you into this...
+speaker_heading: MASON
+dialog: (off) ...shit.
+speaker_heading: ARLO
+dialog: To tell you the truth, you didn't.
+speaker_heading: ARLO
+dialog: (off) Not completely, anyway.
+speaker_heading: ARLO
+dialog: I mean, if that gun was...
+speaker_heading: ARLO
+dialog: ...loaded, I didn't buy you as a shoot-
+dialog: ...
+speaker_heading: ARLO
+dialog: (off) ...-er. It was your friend...
+speaker_heading: ARLO
+dialog: ...Long. Somethin' about that look in
+dialog: his eye when he talked about that
+dialog: Elvis...
+speaker_heading: ARLO
+dialog: (off) ...shit.
+speaker_heading: MASON
+dialog: Well, all the same. If we get to
+dialog: Missoula, help me find a car. I'd
+dialog: appreciate it. Then...you can...
+speaker_heading: MASON
+dialog: (off) ...split.
+speaker_heading: ARLO
+dialog: Split? I wouldn't get ten...
+speaker_heading: ARLO
+dialog: (off) ...miles.
+speaker_heading: MASON
+dialog: (chuckles)
+speaker_heading: ARLO
+dialog: Like I said, I got a pretty good idea of
+dialog: what's at stake here.
+speaker_heading: ARLO
+dialog: (off) We need to finish this, Night
+dialog: Shift.
+speaker_heading: ARLO
+dialog: Hang on to your ass, Missoula!
+speaker_heading: ARLO
+dialog: Arlo's back...and he's bringin' the King.
+speaker_heading: SCENE
+scene_heading: EXT. RIVER - DAY.
+speaker_heading: MASON
+dialog: (off) (yells - continues under following
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: (off) That is loud! I'm (continues
+dialog: indistinct)
+speaker_heading: MASON
+dialog: (off) (overlapping) Whoo!
+speaker_heading: ARLO
+dialog: (off) Yeah, baby!
+speaker_heading: MASON & ARLO
+dialog: (off) (in unison) Whoo!
+speaker_heading: SCENE
+scene_heading: INT. ANDY'S CAR - MISSOULA - DAY.
+speaker_heading: ARLO
+dialog: Damn.
+speaker_heading: SCENE
+scene_heading: INT. ANDY'S ICE CREAM FACTORY/STAIRWELL
+scene_heading: - DAY.
+speaker_heading: ARLO
+dialog: (sighs)
+speaker_heading: SCENE
+scene_heading: INT. ANDY'S ICE CREAM FACTORY/ANDY'S
+scene_heading: OFFICE - DAY.
+scene_heading: NARRATIVE TITLE
+dialog: Andy's
+scene_heading: NARRATIVE TITLE
+speaker_heading: CANCELLED
+scene_heading: ICE CREAM ANDY
+dialog: (off) Hey, Arlo.
+speaker_heading: ARLO
+dialog: (sighs) Well, that just about figures for
+dialog: today.
+scene_heading: ICE CREAM ANDY
+dialog: So...where's my truck?
+speaker_heading: ARLO
+text: It's, uh, parked just off of Highway
+dialog: Thirty-Five.
+scene_heading: ICE CREAM ANDY
+dialog: I did what I could for you...
+scene_heading: ICE CREAM ANDY
+dialog: (off) ...Arlo, and you screwed me for it.
+dialog: Now, where's my goddamn truck?
+speaker_heading: ARLO
+dialog: I ain't got time to argue with you today,
+dialog: Andy. But I can tell you this. Takin'
+dialog: your truck pissed you off?
+speaker_heading: ARLO
+dialog: (off) Huh?
+speaker_heading: ARLO
+dialog: You're gonna (chuckling) be real mad when
+text: I take the pickup.
+speaker_heading: BRYNNER
+dialog: (blows)
+speaker_heading: BRYNNER
+text: (growls) And so Missoula's prodigal son
+dialog: returns.
+speaker_heading: SCENE
+scene_heading: INT. HARDWARE STORE - DAY.
+speaker_heading: MASON
+dialog: (into telephone) Hello.
+speaker_heading: BRYNNER
+dialog: (over telephone) I got someone who's
+dialog: anxious to talk to you, Mr. Mason.
+speaker_heading: SCENE
+scene_heading: INT. ANDY'S ICE CREAM FACTORY/ANDY'S
+scene_heading: OFFICE - DAY.
+speaker_heading: BRYNNER
+dialog: I urge you to be persuasive.
+speaker_heading: BRYNNER
+dialog: This country trained me to kill...
+speaker_heading: BRYNNER
+dialog: (off) ...without compunction.
+speaker_heading: ARLO
+dialog: Well, well, well.
+speaker_heading: ARLO
+dialog: (off) Funny situation, ain't it, Andy?
+speaker_heading: BRYNNER
+dialog: Three seconds. One...
+scene_heading: ICE CREAM ANDY
+dialog: You've gotta help me, Ar-...
+scene_heading: ICE CREAM ANDY
+dialog: (off) ...-lo.
+speaker_heading: BRYNNER
+dialog: ...two.
+speaker_heading: ARLO
+dialog: Why don't you get that tub of shit Sam
+dialog: to...
+speaker_heading: ARLO
+dialog: (off) ...help you?
+scene_heading: ICE CREAM ANDY
+dialog: (overlapping) (pants) Look, I'm sorry.
+dialog: I'll make it up to you. Whatever you
+dialog: want. Please!
+speaker_heading: BRYNNER
+dialog: Gentlemen, I have never been known for
+dialog: my...
+speaker_heading: BRYNNER
+dialog: (face off) ...patience.
+scene_heading: ICE CREAM ANDY
+dialog: (pants) Arlo!
+speaker_heading: SCENE
+scene_heading: INT. HARDWARE STORE - DAY.
+speaker_heading: MASON
+dialog: (into telephone) Arlo.
+speaker_heading: SCENE
+scene_heading: INT. ANDY'S ICE CREAM FACTORY/ANDY'S
+scene_heading: OFFICE - DAY. (INTERCUT WITH
+scene_heading: INT. HARDWARE STORE - DAY)
+speaker_heading: ARLO
+dialog: All right, all right. Hey, hey.
+speaker_heading: ARLO
+dialog: Hey. (into telephone) (to Mason) Mason.
+speaker_heading: MASON
+dialog: (into telephone) Yeah.
+speaker_heading: ARLO
+dialog: (over telephone) I think you oughta cut
+dialog: a...
+speaker_heading: ARLO
+dialog: (over telephone) ...deal with this
+dialog: asshole.
+speaker_heading: ARLO
+dialog: (over telephone) Even though it is nice
+dialog: to see Andy...
+speaker_heading: ARLO
+dialog: (off) (into telephone) ...squirm, I don't
+dialog: want his brains all over my shirt...
+speaker_heading: ARLO
+dialog: (over telephone) ...or my conscience.
+speaker_heading: ARLO
+dialog: (into telephone) A-And you owe me...
+speaker_heading: ARLO
+dialog: (over telephone) ...man.
+speaker_heading: MASON
+dialog: (into telephone) Yeah, I know, I know.
+speaker_heading: MALE STORE
+speaker_heading: EMPLOYEE
+dialog: (overlapping) (grunts)
+speaker_heading: BRYNNER
+dialog: (into telephone) You still there, Mr.
+dialog: Mason?
+speaker_heading: MASON
+dialog: (into telephone) Yeah, I'm listenin'.
+speaker_heading: BRYNNER
+dialog: (over telephone) Then meet me at the dam
+text: in fifteen minutes.
+speaker_heading: BRYNNER
+dialog: (into telephone) And be intelligent about
+dialog: this. Tricks will cost lives.
+speaker_heading: SCENE
+scene_heading: INT. HARDWARE STORE - DAY.
+speaker_heading: LONG
+dialog: (voice over) Create a piece of bait
+dialog: that...
+speaker_heading: LONG
+text: (voice over) ...sends the fish's
+text: instincts into overdrive...
+speaker_heading: LONG
+text: (voice over) ...forcing him to strike.
+speaker_heading: STORE OWNER
+dialog: Everything all right...
+speaker_heading: STORE OWNER
+dialog: (off) ...son?
+speaker_heading: MASON
+dialog: Yeah, I just....
+speaker_heading: MASON
+dialog: (off) Tryin' to remember somethin'
+dialog: somebody once told me about tyin' a fly.
+speaker_heading: LONG
+dialog: (voice over) And only then does our noble
+dialog: friend realize...
+speaker_heading: LONG
+dialog: (voice over) ...that the prey can bite
+dialog: back.
+speaker_heading: MASON
+dialog: Let me have those.
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: DENNIS
+dialog: Sir... (grunting) I think you should take
+dialog: a look at this. Judging...
+speaker_heading: DENNIS
+dialog: ...by the signature pulse and
+text: velocity...helicopters. Maybe fifteen
+dialog: minutes.
+speaker_heading: CARL
+text: Rangers. That was only a matter of time.
+speaker_heading: BRYNNER
+dialog: Of which we have more than enough.
+speaker_heading: SCENE
+scene_heading: INT. HELICOPTER - DAY.
+speaker_heading: GOMEZ
+dialog: All right, listen up!
+speaker_heading: GOMEZ
+dialog: (off) Stay sharp!
+scene_heading: NARRATIVE TITLE
+speaker_heading: TOP
+speaker_heading: GOMEZ
+dialog: (face off) Now, this is the guy we're
+dialog: lookin' for! (off) His name is Tim Mason!
+speaker_heading: GOMEZ
+dialog: (off) And he's got the acrylic container!
+speaker_heading: HARDNOSE
+dialog: Do we know what's inside?!
+speaker_heading: GOMEZ
+dialog: You don't need to know! Let's just get
+dialog: it back, all right?!
+speaker_heading: SCENE
+scene_heading: EXT. CARNIVAL - DAY.
+scene_heading: PEOPLE AT CARNIVAL
+text: (off) (low and indistinct chatter -
+dialog: continues under following scenes)
+speaker_heading: SCENE
+scene_heading: EXT. DAM - DAY.
+speaker_heading: BRYNNER
+text: I don't see my container.
+speaker_heading: MASON
+dialog: You try anything, it goes in...
+speaker_heading: MASON
+dialog: (off) ...the river.
+speaker_heading: BRYNNER
+text: It's a little late for matinee heroics,
+dialog: Mason. Just give me the con-...
+speaker_heading: BRYNNER
+dialog: (off) ...-tainer!
+speaker_heading: MASON
+dialog: Where's Arlo?
+speaker_heading: BRYNNER
+dialog: Bring him up.
+speaker_heading: ARLO
+text: (low and indistinct) (pants) (indistinct)
+speaker_heading: MASON
+dialog: Bring him down!
+speaker_heading: BRYNNER
+dialog: (low and indistinct)
+speaker_heading: ARLO
+dialog: (pants)
+speaker_heading: MASON
+dialog: (pants - continues under following scene)
+speaker_heading: BRYNNER
+dialog: Your fellow hero, untouched...
+speaker_heading: BRYNNER
+dialog: ...and unharmed, de-...
+speaker_heading: BRYNNER
+dialog: ...-spite the mouth.
+speaker_heading: MASON
+dialog: Him first.
+speaker_heading: ARLO
+dialog: (pants)
+speaker_heading: MASON
+dialog: (panting) You all right?
+speaker_heading: MASON
+dialog: (pants - continues under following scene)
+speaker_heading: MASON
+dialog: Run!
+speaker_heading: MASON & ARLO
+dialog: (pant - continues under following scene)
+speaker_heading: VAUGHN
+dialog: Down! (continues under following scene)
+speaker_heading: MASON
+dialog: (face off) (grunts)
+speaker_heading: MASON
+dialog: (face off) (grunts)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: BRYNNER
+dialog: (grunts) (pants)
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: DENNIS
+dialog: (off) Rangers.
+speaker_heading: DENNIS
+dialog: Go.
+speaker_heading: SCENE
+scene_heading: EXT. DAM - DAY.
+speaker_heading: MASON
+dialog: (off) (grunts)
+speaker_heading: BRYNNER
+dialog: (off) (pants - continues under following
+dialog: scene)
+speaker_heading: BRYNNER
+dialog: You should've taken the money.
+speaker_heading: ARLO
+dialog: Bullshit. You would've killed us anyway.
+speaker_heading: MASON
+dialog: (overlapping) (grunts)
+speaker_heading: VAUGHN
+dialog: (off) Shit.
+speaker_heading: BRYNNER
+dialog: Just when we have all the cards, Vaughn.
+dialog: (chuckles) Take these two behind the van.
+speaker_heading: VAUGHN
+dialog: Move!
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: VAUGHN
+dialog: (face off) Move!
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: INT. HELICOPTER - DAY.
+speaker_heading: GOMEZ
+dialog: I got the container! Bring it in...
+speaker_heading: GOMEZ
+dialog: (off) ...hot!
+speaker_heading: PILOT
+dialog: That's not Mason.
+speaker_heading: GOMEZ
+dialog: Doesn't matter who he is! We're goin'...
+speaker_heading: GOMEZ
+dialog: (off) ...in!
+speaker_heading: SCENE
+scene_heading: EXT. DAM - DAY.
+speaker_heading: MASON
+dialog: Ow! (face off) (grunt)
+speaker_heading: ARLO
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: Are you all right?
+speaker_heading: MASON
+dialog: (panting) No. (pants)
+speaker_heading: PATROL CAP
+dialog: (low and indistinct)
+speaker_heading: BRYNNER
+dialog: (off) That's far enough, gentlemen!
+speaker_heading: BRYNNER
+dialog: Do you know who I am?
+speaker_heading: GOMEZ
+text: Gas masks.
+speaker_heading: BRYNNER
+dialog: Gas masks? Gas masks? The men on Horn
+dialog: Island had gas...
+speaker_heading: BRYNNER
+dialog: (off) ...masks!
+speaker_heading: PATROL CAP
+dialog: Where the fuck is Horn Island?
+speaker_heading: BRYNNER
+dialog: Was! Horn Island was!
+speaker_heading: MASON
+dialog: (panting) Listen, Arlo.
+speaker_heading: MASON
+dialog: (grunts - continues under following
+dialog: scene)
+speaker_heading: ARLO
+dialog: Hey!
+speaker_heading: VAUGHN
+dialog: Shut your mouth.
+speaker_heading: MASON
+dialog: (face off) (grunts) (pants)
+speaker_heading: BRYNNER
+dialog: Do you know what'll...
+speaker_heading: BRYNNER
+dialog: (off) ...happen if I drop this?
+speaker_heading: VITELLI
+dialog: Brynner.
+speaker_heading: BRYNNER
+dialog: Well, Lieutenant Vitelli.
+speaker_heading: BRYNNER
+dialog: (off) Good to see you again, Leo.
+speaker_heading: BRYNNER
+text: Pleasant surprise.
+speaker_heading: VITELLI
+dialog: I can't say it's a surprise.
+speaker_heading: VITELLI
+dialog: And I certainly can't say it's pleasant.
+speaker_heading: VITELLI
+dialog: As soon as I heard Elvis was on the
+dialog: loose, you came to mind.
+speaker_heading: VITELLI
+dialog: I checked your release date. I never
+dialog: liked coincidences.
+speaker_heading: BRYNNER
+dialog: And I don't like deviations from plans,
+dialog: Leo, as I'm sure you re-...
+speaker_heading: BRYNNER
+dialog: (off) ...-member.
+speaker_heading: GOMEZ
+dialog: Colonel, sir, who the hell is this guy?
+speaker_heading: VITELLI
+dialog: He was Major Andrew Bryn-...
+speaker_heading: VITELLI
+dialog: (off) ...-ner. We did two tours together
+dialog: in Vietnam.
+speaker_heading: VITELLI
+dialog: Until he got busted down to nursemaiding
+dialog: scientists.
+speaker_heading: BRYNNER
+dialog: Yeah, I had a small problem with members
+dialog: of our side murdering civil-...
+speaker_heading: BRYNNER
+dialog: (off) ...-ians. But I assure you, Leo...
+speaker_heading: BRYNNER
+dialog: ...I lost all my squeamishness at Leav-
+dialog: ...
+speaker_heading: BRYNNER
+dialog: (off) ...-enworth. I'll have no
+dialog: compunction at all about using this.
+speaker_heading: BRYNNER
+dialog: Hm. The wind's northwest. That oughta
+dialog: be...Seattle.
+speaker_heading: BRYNNER
+dialog: (off) Or I may be wrong. The breeze
+dialog: could be gusting south. That'd be
+dialog: Billings...
+speaker_heading: BRYNNER
+dialog: ...maybe even Salt Lake, not to mention
+dialog: Casper...
+speaker_heading: BRYNNER
+dialog: (off) ...Destry, Fair Oaks....
+speaker_heading: VITELLI
+dialog: Knowing you, Brynner, you've got buyers
+dialog: waiting to buy! You're not gonna use
+dialog: that...
+speaker_heading: VITELLI
+dialog: (off) ...here!
+speaker_heading: BRYNNER
+dialog: And I'm warning you, Leo. Don't test me.
+dialog: Get your men and your machines off my
+dialog: radar screen in five, or three million
+dialog: people will die.
+speaker_heading: BRYNNER
+dialog: (off) I'll do it.
+speaker_heading: VITELLI
+dialog: Tell the choppers we're lifting off!
+speaker_heading: GOMEZ
+dialog: Excuse me, sir?!
+speaker_heading: BRYNNER
+dialog: Your colonel's giving you a wise order,
+dialog: soldier.
+speaker_heading: VITELLI
+dialog: It's not over, Brynner.
+speaker_heading: GOMEZ
+dialog: Sir, we can't just let him get away with
+dialog: this!
+speaker_heading: VITELLI
+dialog: (overlapping) Gomez, you fight the
+dialog: battles you can win. Now, we've been
+text: outmaneuvered here. Brynner's next move
+dialog: is gonna be to get Elvis out of the
+dialog: country and sell him to the highest
+dialog: bidder. To do that, he has to have
+dialog: planned an exit point. That's where we
+dialog: intercept him. That's where we make our
+dialog: play. Now you and your men back off.
+speaker_heading: GOMEZ
+dialog: All right, let's move...
+speaker_heading: GOMEZ
+dialog: (off) ...out!
+speaker_heading: ARLO
+dialog: They're takin' off.
+speaker_heading: MASON
+dialog: (grunting) Huh?
+speaker_heading: ARLO
+dialog: They're movin'.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: BRYNNER
+dialog: Dennis!
+speaker_heading: BRYNNER
+dialog: Get your links set up!
+speaker_heading: BRYNNER
+dialog: I wanna patch in from...
+speaker_heading: BRYNNER
+dialog: ...here!
+speaker_heading: VAUGHN
+dialog: What about these two?
+speaker_heading: BRYNNER
+dialog: (off) We're gonna use them for
+dialog: demonstration (on) footage.
+speaker_heading: BRYNNER
+dialog: Having witnessed the effects myself, I
+dialog: can assure you it'll be very useful when
+text: the bidding starts.
+speaker_heading: BRYNNER
+dialog: (face off) Get 'em in the (off) middle of
+dialog: the dam.
+speaker_heading: VAUGHN
+dialog: Sir.
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: VAUGHN
+dialog: (off) Up!
+speaker_heading: DENNIS
+text: (off) Taipei is on-line.
+speaker_heading: DENNIS
+dialog: Geneva's comin' up, and we should have
+text: Karachi and Kabul in a cou-...
+speaker_heading: DENNIS
+dialog: (off) ...-ple of minutes.
+speaker_heading: BRYNNER
+dialog: All right. Tell the pilot we'll be a
+dialog: half-hour.
+speaker_heading: SCENE
+scene_heading: EXT. DAM - DAY.
+speaker_heading: BRYNNER
+dialog: (off) Carl! Set up the camera.
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: BRYNNER
+dialog: Dennis, we will open the bidding at one
+dialog: hundred million...
+speaker_heading: BRYNNER
+dialog: (off) ...dollars.
+speaker_heading: DENNIS
+dialog: (chuckles)
+speaker_heading: SCENE
+scene_heading: EXT. DAM - DAY.
+speaker_heading: MASON
+dialog: (pants and grunts)
+speaker_heading: BRYNNER
+dialog: (grunts) It won't be long, gentlemen.
+speaker_heading: ARLO
+dialog: (off) (pants - continues under following
+dialog: scene)
+speaker_heading: BRYNNER
+dialog: And it won't be pleasant. (grunts)
+speaker_heading: BRYNNER
+dialog: (face off) But...
+speaker_heading: BRYNNER
+dialog: ...such is the price...of patriotism.
+speaker_heading: BRYNNER
+dialog: Vaughn.
+speaker_heading: ARLO
+dialog: (panting) Hey!
+speaker_heading: ARLO
+dialog: Hey!
+speaker_heading: MASON
+dialog: Hey, just shut up.
+speaker_heading: ARLO
+dialog: We're gonna die!
+speaker_heading: MASON
+dialog: (overlapping) Arlo, shut up.
+speaker_heading: ARLO
+dialog: (pants - continues under following scene)
+speaker_heading: DENNIS
+dialog: Everybody's linked...
+speaker_heading: DENNIS
+dialog: (face off) ...up.
+speaker_heading: BRYNNER
+dialog: All right. Clear the area.
+speaker_heading: ARLO
+dialog: We're gonna die!
+speaker_heading: ARLO
+dialog: (off) We're gonna die!
+speaker_heading: MASON
+dialog: Hey, hey, hey.
+speaker_heading: ARLO
+dialog: (face off) (pants - continues under
+dialog: following scene and dialogue)
+speaker_heading: MASON
+dialog: Put your hand in my pants.
+speaker_heading: ARLO
+dialog: What?
+speaker_heading: MASON
+dialog: (sighs)
+speaker_heading: ARLO
+dialog: (face off) We're gonna die, and you want
+dialog: me to do some freaky shit like that?!
+speaker_heading: MASON
+dialog: (overlapping) Arlo! Arlo.
+speaker_heading: MASON
+text: Reach into my pocket.
+speaker_heading: ARLO
+dialog: (pants)
+speaker_heading: MASON
+dialog: (off) (panting) Come on!
+speaker_heading: ARLO
+dialog: Oh.
+speaker_heading: ARLO
+dialog: (face off) (whispering) Okay.
+speaker_heading: MASON
+dialog: Yeah.
+speaker_heading: ARLO
+dialog: (face off) (panting) Okay.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: (panting) Okay. All right, man. Okay.
+speaker_heading: ARLO
+dialog: (grunts)
+speaker_heading: MASON
+text: (panting) Okay. (continues indistinct)
+speaker_heading: ARLO
+dialog: (off) (panting) All right. Okay.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: Okay. (grunts)
+speaker_heading: MASON
+dialog: (sighs)
+speaker_heading: MASON
+dialog: Arlo!
+speaker_heading: MASON
+dialog: (pants)
+speaker_heading: ARLO
+dialog: (face off) (grunts) I'm sorry. I'm a
+dialog: little (continues indistinct)
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: VAUGHN
+dialog: I'm on it.
+speaker_heading: BRYNNER
+dialog: Stay put. (to Dennis) Keep the camera
+dialog: trained on...
+speaker_heading: BRYNNER
+dialog: (off) ...them. Bound or loose...
+speaker_heading: BRYNNER
+dialog: ..their deaths will be equally effective
+dialog: and inevitable.
+speaker_heading: DENNIS
+dialog: Sir, I got Taipei grindin' on me here.
+dialog: How long is this supposed to ta--?
+speaker_heading: SCENE
+scene_heading: EXT. DAM - DAY.
+speaker_heading: MASON
+dialog: (grunts - continues under following
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: (pants)
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: DENNIS
+dialog: Geneva just pulled the plug.
+speaker_heading: DENNIS
+dialog: (off) Kabula's out.
+speaker_heading: SCENE
+scene_heading: EXT. DAM - DAY.
+speaker_heading: ARLO
+dialog: (panting) Okay. (pants - continues under
+dialog: following dialogue)
+speaker_heading: MASON
+dialog: (grunts - continues under following
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: Come on, come on!
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: DENNIS
+dialog: Pakistan says they'll be back tomorrow.
+speaker_heading: DENNIS
+dialog: (off) And Taipei just went off-line, sir.
+speaker_heading: BRYNNER
+dialog: Go.
+speaker_heading: SCENE
+scene_heading: EXT. DAM - DAY.
+speaker_heading: ARLO
+dialog: Okay, here we go.
+speaker_heading: MASON
+dialog: (overlapping) (grunts)
+speaker_heading: ARLO
+dialog: Come here.
+speaker_heading: MASON
+text: (grunts) Go, go, go! (pants)
+speaker_heading: ARLO
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: INT. POSTAL VAN - DAY.
+speaker_heading: ARLO
+dialog: You just can't leave that stuff with that
+dialog: lu-...
+speaker_heading: MASON
+dialog: (off) (grunts)
+speaker_heading: ARLO
+dialog: (off) ...-natic.
+speaker_heading: MASON
+dialog: (overlapping) (pants) That's why I didn't
+dialog: give it...
+speaker_heading: MASON
+dialog: (off) ...to him. (pants - continues
+text: indistinct under following scene and
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: What?
+speaker_heading: ARLO
+dialog: (off) You got Elvis?!
+speaker_heading: MASON
+text: (panting) Sometimes the prey bites back.
+speaker_heading: MASON
+dialog: (off) Go!
+speaker_heading: ARLO
+dialog: (pants - continues under following scene)
+speaker_heading: MASON
+dialog: (face off) Stop.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: Hang...
+speaker_heading: ARLO
+dialog: (face off) ...on!
+speaker_heading: MASON
+dialog: (grunts)
+scene_heading: NARRATIVE TITLE
+dialog: Pacific
+speaker_heading: ARLO
+dialog: (pants) Whoo!
+speaker_heading: LABORATORY
+scene_heading: START MEASURING 0.00 AT START MARK
+speaker_heading: CHARACTER
+speaker_heading: FOOTAGEDIALOGUE
+speaker_heading: SCENE
+scene_heading: INT. POSTAL VAN - DAY.
+speaker_heading: MASON
+dialog: Aw, shit. Would you be more care-...
+speaker_heading: MASON
+dialog: (off) ...-ful?!
+speaker_heading: ARLO
+dialog: (panting) Okay. Okay.
+speaker_heading: SCENE
+scene_heading: EXT. DAM - DAY.
+speaker_heading: BRYNNER
+dialog: (face off) Positions. (on) We're taking
+dialog: up the hunt.
+speaker_heading: DENNIS
+dialog: (panting) Come on, Brynner, it's over.
+dialog: Nobody said anything about goin' up
+dialog: against Rangers.
+speaker_heading: CARL
+dialog: Besides, how are we gonna sell something
+dialog: we don't have?
+speaker_heading: BRYNNER
+dialog: Nothing has changed, I assure you both.
+dialog: The Army still thinks we got Elvis. They
+dialog: had a tactical withdrawal. It's just
+dialog: those two amateurs now. Do you really
+dialog: want to concede a hundred million dollars
+dialog: to them?
+speaker_heading: SCENE
+scene_heading: INT. POSTAL VAN - DAY.
+speaker_heading: ARLO
+dialog: (pants)
+speaker_heading: SCENE
+scene_heading: EXT. HIGHWAY - DAY.
+scene_heading: NARRATIVE TITLE
+dialog: Ft. McGruder 90
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: BRYNNER
+dialog: (into radio) Carl, establish contact with
+dialog: that deputy we met earlier. He'll be
+dialog: more useful now.
+speaker_heading: SCENE
+scene_heading: INT. POSTAL VAN - DAY.
+scene_heading: NARRATIVE TITLE
+speaker_heading: TEMPERATURE
+speaker_heading: MASON
+dialog: (face off) (sighs)
+speaker_heading: MASON
+dialog: (face off) (grunts - continues under
+dialog: following scenes)
+speaker_heading: MASON
+dialog: We need more ice!
+speaker_heading: ARLO
+dialog: All right, there's a service station on
+dialog: the other end of the Northridge Tunnel!
+dialog: They'll have ice!
+scene_heading: NARRATIVE TITLE
+speaker_heading: TEMPERATURE
+speaker_heading: MASON
+dialog: (off) Oh, fuck!
+speaker_heading: MASON
+dialog: Forty-five seven!
+speaker_heading: ARLO
+dialog: Oh, shit.
+speaker_heading: MASON
+dialog: (off) Okay.
+speaker_heading: MASON
+dialog: Come on, come on, come on.
+speaker_heading: MASON
+dialog: (pants)
+speaker_heading: SCENE
+scene_heading: EXT. MEADOW - DAY.
+speaker_heading: VITELLI
+dialog: (indistinct)
+speaker_heading: GOMEZ
+dialog: What's going on, colonel?
+speaker_heading: VITELLI
+dialog: Here's what I want you to do.
+speaker_heading: LIEUTENANT
+text: The Ranger units in McGruder've...
+speaker_heading: LIEUTENANT
+dialog: ...got the local airports covered, sir.
+dialog: Pentagon's covering the interna-...
+speaker_heading: LIEUTENANT
+dialog: ...-tional traffic.
+speaker_heading: VITELLI
+dialog: Good. (to Gomez) Gomez, I want two birds
+dialog: back to Missoula. I wanna...
+speaker_heading: VITELLI
+dialog: ...rendezvous here, approach from the
+text: southwest.
+speaker_heading: GOMEZ
+dialog: Yes, sir. (grunts)
+speaker_heading: GOMEZ
+dialog: Go.
+scene_heading: VITELLI'S HELICOPTER
+speaker_heading: PILOT
+dialog: Colonel, you've got a Tim Mason, patched
+text: through from McGruder.
+speaker_heading: VITELLI
+dialog: (into telephone) This is Vitelli. Is
+dialog: that...
+speaker_heading: SCENE
+scene_heading: INT. POSTAL VAN - DAY.
+speaker_heading: VITELLI
+dialog: (over telephone) ...you, Mason?
+speaker_heading: MASON
+dialog: (into telephone) Yeah, yeah...
+speaker_heading: MASON
+dialog: (off) (into telephone) ...yeah! Colonel!
+speaker_heading: MASON
+dialog: (into telephone) Listen, I've got Elvis!
+speaker_heading: ARLO
+dialog: We!
+speaker_heading: MASON
+dialog: (off) (overlapping) (into telephone) I've
+dialog: got the real thing!
+speaker_heading: ARLO
+dialog: (overlapping) We've got Elvis!
+speaker_heading: SCENE
+scene_heading: EXT. VITELLI'S HELICOPTER - DAY.
+scene_heading: (INTERCUT WITH
+scene_heading: INT. POSTAL VAN - DAY)
+speaker_heading: VITELLI
+dialog: (into telephone) What? Say again, Ma-...
+speaker_heading: VITELLI
+dialog: (over telephone) ...-son.
+speaker_heading: MASON
+dialog: (into telephone) What we gave Brynner on
+dialog: the dam was a phony!
+speaker_heading: MASON
+dialog: (over telephone) We've got the real
+dialog: thing!
+speaker_heading: VITELLI
+dialog: (into telephone) Where are you now...
+speaker_heading: VITELLI
+dialog: (over telephone) ...Mason?
+speaker_heading: MASON
+dialog: (into telephone) I'm at mile marker...
+speaker_heading: MASON
+dialog: (into telephone) ...sixty-two...
+speaker_heading: MASON
+text: (over telephone) ...heading west on...
+speaker_heading: MASON
+dialog: (off) (into telephone) ...thirty-five!
+speaker_heading: ARLO
+dialog: (off) Here...
+speaker_heading: ARLO
+dialog: ...they come!
+speaker_heading: MASON
+dialog: (into telephone) And Brynner's right
+dialog: on...
+speaker_heading: MASON
+dialog: (over telephone) ...our ass!
+speaker_heading: ARLO
+dialog: He's comin' up fast!
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: BRYNNER
+text: Hit him.
+speaker_heading: SCENE
+scene_heading: INT. POSTAL VAN - DAY
+speaker_heading: ARLO
+dialog: (grunts) Shit!
+speaker_heading: SCENE
+scene_heading: INT. BRYNNER'S VAN - DAY.
+speaker_heading: BRYNNER
+text: Hit him again.
+speaker_heading: SCENE
+scene_heading: INT. POSTAL VAN - DAY.
+speaker_heading: MASON & ARLO
+dialog: (grunt)
+speaker_heading: SCENE
+scene_heading: EXT. VITELLI'S HELICOPTER - DAY.
+speaker_heading: VITELLI
+dialog: (off) (into radio) We've gotta take out
+text: Brynner's van before (on) they reach...
+speaker_heading: SCENE
+scene_heading: INT. GOMEZ'S HELICOPTER - DAY.
+speaker_heading: VITELLI
+text: (off) (over radio) ...that tunnel.
+speaker_heading: GOMEZ
+dialog: Get ready to take it out!
+speaker_heading: SCENE
+scene_heading: INT. POSTAL VAN - DAY.
+speaker_heading: ARLO
+dialog: (off) Okay...
+speaker_heading: ARLO
+dialog: ...here comes the...
+speaker_heading: ARLO
+dialog: (off) ...tunnel!
+speaker_heading: MASON
+dialog: (panting) Tunnel.
+speaker_heading: SCENE
+scene_heading: INT. VITELLI'S HELICOPTER - DAY.
+speaker_heading: VITELLI
+dialog: (into radio) Do it now.
+speaker_heading: SCENE
+scene_heading: INT. GOMEZ'S HELICOPTER - DAY.
+speaker_heading: GOMEZ
+dialog: Hit it...
+speaker_heading: GOMEZ
+dialog: (off) ...now!
+speaker_heading: SCENE
+scene_heading: INT. POSTAL VAN - DAY.
+speaker_heading: MASON & ARLO
+dialog: (off) (yell and cheer - continues under
+dialog: following scene and dialogue)
+speaker_heading: ARLO
+dialog: (laughs)
+speaker_heading: MASON
+dialog: Whoo!
+speaker_heading: ARLO
+dialog: (overlapping) Whoo!
+speaker_heading: SCENE
+scene_heading: EXT. HIGHWAY - DAY.
+speaker_heading: VITELLI
+dialog: (voice over) Uh, so head for the other
+text: end of the tunnel.
+speaker_heading: SCENE
+scene_heading: INT. VITELLI'S HELICOPTER - DAY.
+speaker_heading: VITELLI
+dialog: (into radio) I'll stay here and secure
+dialog: this position.
+speaker_heading: SCENE
+scene_heading: INT. POSTAL VAN - DAY.
+speaker_heading: MASON
+dialog: Forty-seven. You'd better floor it.
+speaker_heading: ARLO
+dialog: What do you think I'm doin'?!
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL - DAY.
+speaker_heading: ARLO
+dialog: (off) It's a damn postal truck!
+speaker_heading: SCENE
+scene_heading: INT. POSTAL VAN - DAY.
+speaker_heading: MASON
+dialog: What the hell?
+speaker_heading: ARLO
+dialog: What the--?
+speaker_heading: MASON
+dialog: You've gotta be...
+speaker_heading: MASON
+dialog: (off) ...kiddin' me.
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL - DAY.
+speaker_heading: ARLO
+dialog: (off) Stupid.
+speaker_heading: MASON
+dialog: I'm gonna kill him.
+speaker_heading: PAPPAS
+dialog: Let me see your...
+speaker_heading: PAPPAS
+dialog: (off) ...hands!
+speaker_heading: MASON
+text: (grunts) (panting) Pappas! Move the car!
+speaker_heading: MASON
+dialog: (off) Move the car, please!
+speaker_heading: ARLO
+dialog: Unbe-fucking-lievable.
+speaker_heading: MASON
+dialog: (off) (overlapping) (pants)
+speaker_heading: PAPPAS
+dialog: I said let me see your hands now!
+speaker_heading: MASON
+dialog: You redneck idiot, do you have...
+speaker_heading: MASON
+dialog: ...any idea what's goin' on here?!
+speaker_heading: PAPPAS
+dialog: Yeah, asshole. I'm puttin' a murder
+dialog: suspect and a guy who...
+speaker_heading: PAPPAS
+text: (off) ...stole a truck under arrest.
+speaker_heading: MASON
+dialog: (off) (pants - continues under following
+dialog: dialogue)
+speaker_heading: PAPPAS
+dialog: (off) Now raise 'em!
+speaker_heading: ARLO
+dialog: Let me put it in easy terms, Aristotle.
+dialog: We are carrying a damn bomb...
+speaker_heading: ARLO
+dialog: (off) ...that is going to explode...
+speaker_heading: ARLO
+dialog: ...if we don't get out of this tunnel!
+speaker_heading: SCENE
+scene_heading: INT. GOMEZ'S HELICOPTER - DAY.
+speaker_heading: GOMEZ
+dialog: (into radio) No sign of 'em...
+speaker_heading: SCENE
+scene_heading: INT. VITELLI'S HELICOPTER - DAY.
+scene_heading: (INTERCUT WITH
+scene_heading: INT. TUNNEL - DAY)
+speaker_heading: GOMEZ
+text: (over radio) ...major.
+speaker_heading: MASON
+text: (groans) (pants) (into telephone) Yeah?
+speaker_heading: VITELLI
+dialog: (into telephone) Mason, what is the
+dialog: temperature of Elvis?!
+speaker_heading: MASON
+dialog: (into telephone) Forty-seven.
+speaker_heading: VITELLI
+dialog: (into telephone) If you're not out of
+dialog: there soon, I have got to seal the...
+speaker_heading: VITELLI
+dialog: (over telephone) ...tunnel!
+speaker_heading: MASON
+dialog: God! (panting) They're gonna seal it.
+speaker_heading: ARLO
+dialog: Well, why don't they talk to the sage of
+dialog: Jerome here?!
+speaker_heading: PAPPAS
+dialog: What the hell's a sage?
+speaker_heading: MASON
+dialog: (off) (panting) Listen, Pappas...
+speaker_heading: MASON
+dialog: ...there's a colonel...
+speaker_heading: MASON
+text: (off) ...on the other end of this phone.
+speaker_heading: MASON
+dialog: His name's Vitelli. Talk to him. He's
+dialog: right out-...
+speaker_heading: MASON
+dialog: (off) ...side!
+speaker_heading: PAPPAS
+dialog: What happened to Colonel Brynner?
+speaker_heading: MASON
+dialog: (sighs) (pants - continues under
+dialog: following scene and dialogue)
+speaker_heading: ARLO
+dialog: Listen, deputy.
+speaker_heading: ARLO
+dialog: (off) He's the dude...
+speaker_heading: ARLO
+dialog: ...the guy the Army guys are lookin' for!
+speaker_heading: PAPPAS
+text: Bullshit. (to Mason) Put the phone down,
+dialog: Mason.
+speaker_heading: PAPPAS
+dialog: (off) I've heard enough of both of ya.
+speaker_heading: MASON
+dialog: (overlapping) (panting) Wait. Listen to
+dialog: me, Pappas. If you don't let us by...
+speaker_heading: MASON
+dialog: (off) ...we're all gonna die in this...
+speaker_heading: MASON
+dialog: (off) ...tunnel now!
+speaker_heading: MASON
+dialog: (panting) Just go check the temperature.
+speaker_heading: PAPPAS
+dialog: Don't move!
+speaker_heading: MASON
+dialog: (off) (pants - continues under following
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: Shoot me. (grunts)
+speaker_heading: MASON
+dialog: (off) (panting) What's it say? (pants -
+text: continues under following scenes and
+dialog: dialogue)
+speaker_heading: ARLO
+text: Forty-nine point four.
+speaker_heading: MASON
+dialog: (pants) (into telephone) It says forty-
+dialog: nine.
+speaker_heading: SCENE
+scene_heading: INT. GOMEZ'S HELICOPTER - DAY.
+speaker_heading: GOMEZ
+dialog: (into radio) Forty-nine?
+speaker_heading: SCENE
+scene_heading: INT. VITELLI'S HELICOPTER - DAY.
+speaker_heading: GOMEZ
+dialog: (over radio) Major, we've gotta seal that
+dialog: tunnel! Major!
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL - DAY.
+speaker_heading: ARLO
+dialog: Mason.
+speaker_heading: MASON
+dialog: (panting) What?
+speaker_heading: ARLO
+dialog: It's melting, man.
+scene_heading: NARRATIVE TITLE
+speaker_heading: TEMPERATURE
+speaker_heading: MASON
+text: (face off) (pants) (sighing) Oh...
+speaker_heading: MASON
+text: ...shit. (low and indistinct)
+speaker_heading: VITELLI
+dialog: (over telephone) Mason. Mason!
+speaker_heading: MASON
+dialog: (into telephone) Yeah.
+speaker_heading: SCENE
+scene_heading: INT. VITELLI'S HELICOPTER - DAY.
+speaker_heading: VITELLI
+dialog: (into radio) It's too late, Mason.
+dialog: I've...
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL - DAY.
+speaker_heading: VITELLI
+dialog: (over telephone) ...gotta seal it.
+speaker_heading: SCENE
+scene_heading: INT. GOMEZ'S HELICOPTER - DAY.
+speaker_heading: GOMEZ
+dialog: Great. (to Pilot) All right...
+speaker_heading: GOMEZ
+dialog: (off) ...we're gonna seal that tunnel! I
+dialog: want it air-...
+speaker_heading: GOMEZ
+dialog: (off) ...tight!
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL - DAY.
+speaker_heading: PAPPAS
+dialog: What the hell was that?
+speaker_heading: MASON
+dialog: The Army, sealin' us in.
+speaker_heading: PAPPAS
+dialog: Jesus.
+scene_heading: FAT MAN IN TUNNEL
+dialog: What the hell is goin'...
+scene_heading: FAT MAN IN TUNNEL
+dialog: (off) ...on?
+speaker_heading: MASON
+dialog: (panting) All I had to do was get it...
+speaker_heading: MASON
+text: (off) (panting) ...on ice. (on) And now
+dialog: it's over!
+speaker_heading: MASON
+dialog: Kiss your ass goodbye...
+speaker_heading: MASON
+dialog: ...Pappas!
+scene_heading: FAT MAN IN TUNNEL
+dialog: Ice? You want ice? I got a whole case
+dialog: of beer...
+scene_heading: FAT MAN IN TUNNEL
+dialog: (off) ...back here in the car, floatin'
+dialog: in the stuff.
+speaker_heading: MASON
+dialog: (overlapping) You're kiddin' me.
+speaker_heading: ARLO
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (face off) (grunts)
+speaker_heading: SCENE
+scene_heading: INT. VITELLI'S HELICOPTER - DAY.
+scene_heading: (INTERCUT WITH
+scene_heading: INT. TUNNEL - DAY)
+speaker_heading: VITELLI
+dialog: (off) Nail it...
+speaker_heading: VITELLI
+dialog: (off) ...up.
+scene_heading: VITELLI'S HELICOPTER
+speaker_heading: PILOT
+dialog: Okay.
+speaker_heading: ARLO
+dialog: (over telephone) (indistinct)
+speaker_heading: ARLO
+dialog: (into telephone) We've got ice!
+speaker_heading: VITELLI
+dialog: (into telephone) What? Say again...
+speaker_heading: VITELLI
+dialog: (off) (over telephone) ...Mason. I can
+dialog: barely hear you.
+speaker_heading: ARLO
+dialog: (into telephone) We've got it...
+speaker_heading: ARLO
+dialog: (over telephone) ...on ice! We've got
+dialog: Elvis on ice!
+speaker_heading: VITELLI
+dialog: Hold it!
+scene_heading: FAT MAN IN TUNNEL
+dialog: (grunts)
+scene_heading: FAT MAN IN TUNNEL
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (whispering) Okay.
+speaker_heading: ARLO
+dialog: All right (continues indistinct)
+speaker_heading: MASON
+dialog: (pants - continues under following scenes
+dialog: and dialogue)
+scene_heading: NARRATIVE TITLE
+speaker_heading: TEMPERATURE
+speaker_heading: ARLO
+dialog: (off) (grunts)
+speaker_heading: ARLO
+dialog: We're too late. (pants)
+speaker_heading: MASON
+dialog: Oh.
+speaker_heading: ARLO
+dialog: (overlapping) (grunts)
+speaker_heading: MASON
+dialog: Come on. Come on.
+speaker_heading: ARLO
+dialog: (pants) (low and indistinct) (pants)
+scene_heading: NARRATIVE TITLE
+speaker_heading: TEMPERATURE
+speaker_heading: MASON
+dialog: (pants - continues under following scene)
+speaker_heading: MASON
+dialog: (off) It's workin'.
+speaker_heading: ARLO
+dialog: What?
+speaker_heading: MASON
+dialog: (off) (overlapping) (pants - continues
+dialog: under following scene and dialogue)
+speaker_heading: ARLO
+dialog: What?
+speaker_heading: MASON
+dialog: (panting) It's working.
+speaker_heading: ARLO
+dialog: (chuckles - continues under following
+dialog: scene and dialogue)
+speaker_heading: MASON
+dialog: (chuckles)
+speaker_heading: ARLO
+dialog: (kisses)
+speaker_heading: MASON
+dialog: (pants) We got-...
+speaker_heading: MASON
+dialog: ...-ta get outta here!
+speaker_heading: ARLO
+dialog: (into telephone) (overlapping) Vitelli!
+dialog: Vitelli!
+speaker_heading: MASON
+dialog: (overlapping) (grunts)
+speaker_heading: ARLO
+dialog: (into telephone) Can we get out on your
+dialog: end of the tunnel?
+speaker_heading: SCENE
+scene_heading: EXT. VITELLI'S HELICOPTER - DAY.
+speaker_heading: VITELLI
+text: (into telephone) Negative. Negative.
+speaker_heading: SCENE
+scene_heading: INT. VITELLI'S HELICOPTER - DAY.
+speaker_heading: VITELLI
+text: (off) (into telephone) There's ammo fire
+text: from Brynner's vehicle.
+speaker_heading: VITELLI
+dialog: (into telephone) He must've had a damn
+text: arsenal in there.
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL - DAY.
+speaker_heading: ARLO
+dialog: (into telephone) Well, hell, the smoke's
+dialog: gonna kill us anyway!
+speaker_heading: MASON
+dialog: (overlapping) (grunts) There's gotta
+dialog: be...
+speaker_heading: MASON
+dialog: (off) ...another way (face off) outta
+dialog: here. (on) (grunts) (pants) Hey.
+speaker_heading: ARLO
+dialog: Hold this. (pants - continues under
+dialog: following dialogue)
+speaker_heading: MASON
+dialog: Yeah, yeah, yeah.
+speaker_heading: ARLO
+text: (grunts and pants - continues under
+dialog: following scenes)
+speaker_heading: ARLO
+dialog: Sorry.
+speaker_heading: MASON
+dialog: (off) (pants - continues under following
+dialog: scene)
+speaker_heading: MASON
+dialog: (into telephone) I think I found a way
+dialog: out.
+speaker_heading: SCENE
+scene_heading: INT. VITELLI'S HELICOPTER - DAY.
+speaker_heading: MASON
+text: (over telephone) There's a vent shaft
+text: leading straight up.
+speaker_heading: VITELLI
+dialog: (into telephone) Okay, I'll have a
+dialog: chopper meet you at the top.
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL - DAY.
+speaker_heading: MASON
+dialog: (off) (into telephone) (panting) All
+dialog: right.
+speaker_heading: PAPPAS
+dialog: I'll lead 'em out.
+speaker_heading: MASON
+dialog: (off) (overlapping) (pants - continues
+dialog: under following scene)
+speaker_heading: MASON
+dialog: (panting) You sure?
+speaker_heading: PAPPAS
+dialog: Yeah, I'm sure.
+speaker_heading: MASON
+dialog: (off) All right, go.
+speaker_heading: PAPPAS
+dialog: Fol-...
+speaker_heading: PAPPAS
+dialog: (face off) ...-low me. Come on, let's
+dialog: go!
+speaker_heading: PAPPAS
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: (face off) Hang on, hang on.
+speaker_heading: MASON
+dialog: Let's go!
+speaker_heading: ARLO
+dialog: (off) Go.
+scene_heading: MAN #2 IN TUNNEL
+dialog: (face off) (grunts)
+scene_heading: PEOPLE IN TUNNEL
+dialog: (pant - continues under following scenes
+dialog: and dialogue)
+speaker_heading: ARLO
+dialog: Got it? (grunts) (to woman in tunnel)
+dialog: Come on, darlin'. (grunting) I gotcha.
+speaker_heading: MASON
+dialog: (panting) Arlo, I'm gonna get Elvis. You
+dialog: go.
+speaker_heading: MASON
+dialog: (off) They'll meet you at the top.
+speaker_heading: ARLO
+dialog: Okay. (to Fat Man in Tunnel) Come on, big
+dialog: guy!
+speaker_heading: MASON
+dialog: (pants - continues under following
+dialog: scenes)
+speaker_heading: MASON
+text: (grunts and coughs - continues under
+dialog: following scenes)
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL/AIR VENT - DAY.
+speaker_heading: ARLO
+dialog: Come on, Night Shift.
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL - DAY.
+speaker_heading: MASON
+dialog: (face off) (grunts) (pants)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (coughs)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (pants) (grunts)
+speaker_heading: MASON
+dialog: (grunts and pants)
+speaker_heading: MASON
+text: (yells - continues under following scene)
+speaker_heading: MASON
+text: (grunts and pants - continues under
+dialog: following scenes and dialogue)
+speaker_heading: BRYNNER
+dialog: (panting) No.
+speaker_heading: BRYNNER
+dialog: Where's Elvis?!
+speaker_heading: MASON
+dialog: (panting) Dead, last time I...
+speaker_heading: MASON
+text: (off) (panting) ...checked. (grunts and
+dialog: pants - continues under following scenes)
+speaker_heading: MASON
+text: (groans - continues under following
+dialog: dialogue)
+speaker_heading: BRYNNER
+dialog: (pants - continues under following scene)
+speaker_heading: BRYNNER
+dialog: Kill him now.
+speaker_heading: VAUGHN
+dialog: (off) Oh, don't worry.
+speaker_heading: VAUGHN
+dialog: I'm a professional. This won't hurt...
+speaker_heading: VAUGHN
+dialog: (face off) ...a bit.
+speaker_heading: MASON
+dialog: (overlapping) (pants) Well, I'm an
+dialog: amateur. (grunts - continues under
+dialog: following scene)
+speaker_heading: MASON
+dialog: And this is...
+speaker_heading: MASON
+dialog: (face off) ...gonna hurt like hell.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: BRYNNER
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: BRYNNER
+dialog: (grunts)
+speaker_heading: BRYNNER
+dialog: (off) (groans - continues under following
+dialog: scene and dialogue)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (grunts - continues under following
+dialog: scene)
+speaker_heading: BRYNNER
+dialog: (grunts)
+speaker_heading: MASON & BRYNNER
+dialog: (grunt)
+speaker_heading: BRYNNER
+dialog: (pants)
+speaker_heading: MASON
+dialog: (grunts) (pants)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL/AIR VENT - DAY.
+speaker_heading: PAPPAS
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: EXT. MOUNTAINTOP - DAY.
+speaker_heading: PAPPAS
+dialog: (grunts)
+speaker_heading: PAPPAS
+dialog: Come on out, son. All right. There ya
+dialog: go.
+speaker_heading: PAPPAS
+dialog: Come on, son. (continues indistinct to)
+dialog: there ya go.
+speaker_heading: PATROL CAP
+dialog: All right, (continues indistinct)
+speaker_heading: SCENE
+scene_heading: INT. VITELLI'S HELICOPTER - DAY.
+speaker_heading: VITELLI
+dialog: (into radio) Is Elvis out?
+speaker_heading: GOMEZ
+text: (over radio) Negative. Negative.
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL - DAY.
+speaker_heading: MASON
+dialog: (grunts and pants)
+speaker_heading: MASON & BRYNNER
+dialog: (grunt)
+speaker_heading: MASON & BRYNNER
+dialog: (pant)
+speaker_heading: MASON & BRYNNER
+dialog: (grunt - continues under following
+dialog: scenes)
+speaker_heading: BRYNNER
+dialog: Why? You're a nothing, nobody! Why?
+speaker_heading: MASON
+dialog: You'd never understand!
+speaker_heading: BRYNNER
+dialog: I would've in another life.
+speaker_heading: MASON
+dialog: (pants - continues under following
+dialog: dialogue)
+speaker_heading: BRYNNER
+dialog: They took that life away and left me with
+dialog: nothing.
+speaker_heading: BRYNNER
+dialog: But now I have it all.
+speaker_heading: ARLO
+dialog: (blows)
+speaker_heading: BRYNNER
+dialog: (grunts - continues under following
+dialog: scene)
+speaker_heading: BRYNNER
+text: (grunts and pants - continues under
+dialog: following scenes)
+speaker_heading: MASON
+dialog: (grunts - continues under following
+dialog: scene)
+speaker_heading: ARLO
+dialog: (grunts) Look out.
+speaker_heading: MASON
+dialog: What'd you come back for?!
+speaker_heading: ARLO
+dialog: Why'd you stay behind?!
+speaker_heading: MASON
+dialog: (grunts - continues under following
+dialog: scene)
+speaker_heading: ARLO
+dialog: (off) (indistinct)
+speaker_heading: MASON
+dialog: (off) (grunts - continues under following
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: (face off) (grunts)
+speaker_heading: SCENE
+scene_heading: EXT. TUNNEL - DAY.
+speaker_heading: ARLO
+dialog: (grunts)
+speaker_heading: MASON
+dialog: Elvis is still in there! It's gonna go
+dialog: off!
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL - DAY.
+speaker_heading: BRYNNER
+dialog: (grunts) (pants)
+speaker_heading: SCENE
+scene_heading: INT. VITELLI'S HELICOPTER - DAY.
+speaker_heading: VITELLI
+dialog: (into radio) Now! Seal that tunnel now!
+speaker_heading: SCENE
+scene_heading: INT. TUNNEL - DAY.
+speaker_heading: BRYNNER
+dialog: (pants)
+speaker_heading: SCENE
+scene_heading: EXT. MOUNTAINTOP - DAY.
+speaker_heading: MALE MEDIC
+dialog: Do you need some help gettin' in the
+dialog: ambulance?
+speaker_heading: MASON
+dialog: No, thanks. (grunts)
+speaker_heading: ARLO
+dialog: (pants) (whispering) Well.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: You know, we saved half a million people
+text: from a full-body peel.
+speaker_heading: MASON
+dialog: (chuckles)
+speaker_heading: ARLO
+dialog: We're the shit. Bigtime.
+speaker_heading: MASON
+dialog: They aren't exactly gonna publicize this,
+text: (chuckling) Arlo. (chuckles)
+speaker_heading: ARLO
+dialog: Hey-Hey-Hey-Hey-Hey. We are heroes, my
+dialog: man. It's time to start actin' like it.
+speaker_heading: MASON
+dialog: (grunts)
+speaker_heading: ARLO
+dialog: Stop limpin' around like that.
+speaker_heading: MASON
+dialog: Excuse me. I got a bullet in my leg.
+speaker_heading: ARLO
+dialog: Always the negative...
+speaker_heading: ARLO
+dialog: (off) ...with you.
+speaker_heading: VITELLI
+dialog: (overlapping) All right, gentlemen.
+dialog: We're about done here. Fine job.
+speaker_heading: ARLO
+dialog: Thank you.
+speaker_heading: VITELLI
+dialog: Your country and a lot of innocent people
+dialog: in it...
+speaker_heading: VITELLI
+dialog: (off) ...owe you.
+speaker_heading: ARLO
+dialog: Us. Owe us. (chuckles)
+speaker_heading: MASON
+dialog: You did help a little.
+speaker_heading: ARLO
+dialog: Who drove the ice cream...
+speaker_heading: ARLO
+dialog: (off) ...truck that kept Elvis cool?
+speaker_heading: MASON
+dialog: Who had to put a gun to your head?
+speaker_heading: ARLO
+dialog: Who put the big hurt on...
+speaker_heading: ARLO
+dialog: (off) ...that Army nut job to save your
+dialog: narrow butt?
+speaker_heading: MASON
+dialog: You, Arlo.
+speaker_heading: ARLO
+dialog: Hello.
+speaker_heading: MASON
+dialog: You.
+speaker_heading: ARLO
+dialog: Right. You damn skippy. And now that I
+dialog: am both jobless...
+speaker_heading: ARLO
+text: (off) ...and-and-and truckless in the
+dialog: service of my country...
+speaker_heading: ARLO
+dialog: ...I feel that my government owes me a
+dialog: little restitution.
+speaker_heading: MASON
+dialog: (overlapping) Us. Owes us.
+speaker_heading: ARLO
+dialog: I'll handle this from here, sweet
+dialog: (continues indistinct to) (to Vitelli)
+dialog: Owes us a little restitution.
+speaker_heading: VITELLI
+dialog: We do have to take into consideration
+dialog: that, through your courage...
+speaker_heading: VITELLI
+dialog: (off) ...and selfless actions, you did
+dialog: save millions of lives.
+speaker_heading: ARLO
+dialog: Exactly.
+speaker_heading: VITELLI
+dialog: However, you are also non-en-...
+speaker_heading: VITELLI
+dialog: (off) ...-listed personnel with detailed
+dialog: knowledge of classified secrets falling
+dialog: under the National Security Act.
+speaker_heading: VITELLI
+dialog: In order to protect those secrets, I am
+dialog: authorized to fine you, imprison you...
+speaker_heading: VITELLI
+dialog: (off) ...to take any extreme measures I
+dialog: deem necessary...
+speaker_heading: VITELLI
+dialog: ...including the permanently extreme.
+speaker_heading: ARLO
+dialog: I'd say we're about even.
+speaker_heading: MASON
+dialog: Patriotism is its own reward.
+speaker_heading: ARLO
+dialog: I think so too.
+speaker_heading: MASON
+dialog: (overlapping) (grunts) Yeah.
+speaker_heading: MASON
+dialog: Thank you.
+speaker_heading: ARLO
+dialog: (off) Thank you very much.
+speaker_heading: MASON
+dialog: What about all that "no need to get in
+dialog: the man's...
+speaker_heading: MASON
+dialog: ...face" crap you've been telling me?
+speaker_heading: ARLO
+dialog: (overlapping) I was not in the man's
+dialog: face. I was nego-...
+speaker_heading: ARLO
+dialog: ...-tiatin'.
+speaker_heading: MASON
+dialog: (overlapping) Look. That's negotiating?
+dialog: He threatened to kill...
+speaker_heading: MASON
+dialog: ...us.
+speaker_heading: ARLO
+dialog: But he didn't. See, that's negotiation.
+speaker_heading: MASON
+dialog: (overlapping) No.
+speaker_heading: MASON
+dialog: That's bullshit.
+speaker_heading: ARLO
+dialog: Bullshit, yeah. Well...if we're not
+dialog: gonna be famous, at least this'll be a
+dialog: great story to tell some ladies in a bar
+dialog: or somethin'.
+speaker_heading: MASON
+dialog: (overlapping) Arlo, nobody's gonna
+dialog: believe us.
+speaker_heading: MASON
+dialog: Nobody-Nobody's even gonna know this
+dialog: happened, except for the people that were
+dialog: here, the Army, you and me...
+speaker_heading: MASON
+dialog: ...and--
+speaker_heading: FEMALE MEDIC #1
+dialog: (interrupting) You shouldn't be walking
+dialog: on that.
+speaker_heading: ARLO
+dialog: Hello, somebody.
+speaker_heading: FEMALE MEDIC #2
+dialog: Heard you saved a lot of lives.
+speaker_heading: FEMALE MEDIC #1
+dialog: The Army said it was a terrorist bomb.
+speaker_heading: ARLO
+dialog: Oh!
+speaker_heading: MASON
+dialog: Oh, oh!
+speaker_heading: ARLO
+text: I feel faint.
+speaker_heading: MASON
+dialog: (overlapping) Ooh.
+scene_heading: MASON, ARLO, FEMALE
+speaker_heading: MEDIC #1 & FEMALE
+speaker_heading: MEDIC #2
+text: (overlapping, indistinct chatter and
+text: exclamations of "Oh!" and "Ooh!" -
+text: continues under following scene and
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: Oh. Oh, you got me? You got me?
+speaker_heading: FEMALE MEDIC #2
+dialog: I gotcha.
+speaker_heading: MASON
+dialog: (overlapping) Oh, you got me?
+speaker_heading: FEMALE MEDIC #1
+dialog: Yeah, I gotcha. Hold on.
+speaker_heading: MASON
+dialog: (overlapping) (groans - continues under
+dialog: following dialogue)
+speaker_heading: ARLO
+dialog: You know, it's, uh-it's very hush-hush,
+dialog: as we say in the spy game.
+speaker_heading: MASON
+dialog: (panting) Yeah. Yeah, yeah, yeah.
+speaker_heading: PEOPLE AT
+speaker_heading: MOUNTAINTOP
+text: (low and indistinct chatter - continues
+dialog: under following scenes and dialogue)
+speaker_heading: MASON
+dialog: (grunts - continues under following
+dialog: dialogue)
+speaker_heading: ARLO
+dialog: It all started with our mission in
+dialog: Istanbul.
+speaker_heading: MASON
+dialog: (overlapping) Yeah.
+speaker_heading: ARLO
+dialog: I was undercover as a tennis player.
+speaker_heading: MASON
+dialog: (overlapping) Yeah.
+speaker_heading: ARLO
+dialog: My code name was Blackjack. Night Shift
+dialog: was my coach. Uh-Uh-Uh, I'm sorry.
+dialog: Mason was my coach.
+speaker_heading: MASON
+dialog: (overlapping) (grunts)
+speaker_heading: ARLO
+dialog: Uh, he handled rackets, and I carried the
+dialog: balls.
+speaker_heading: MASON
+dialog: (overlapping) Yeah.
+speaker_heading: ARLO
+dialog: (overlapping) (low and indistinct to) you
+dialog: see, that was a-that was my mission.
+speaker_heading: MASON
+dialog: (overlapping) (indistinct to) big balls.
+speaker_heading: ARLO
+dialog: That's right.
+scene_heading: MASON, ARLO, FEMALE
+speaker_heading: MEDIC #1 & FEMALE
+speaker_heading: MEDIC #2
+text: (overlapping, indistinct chatter and
+text: grunts - continues under following scene
+dialog: and dialogue)
+speaker_heading: ARLO
+dialog: Ooh, that's it. Just grab-Just put your
+dialog: arm-- Don't be afraid.
+speaker_heading: MASON
+dialog: (overlapping) Oh.
+speaker_heading: SCENE
+text: BLACK BACKGROUND.
+speaker_heading: ARLO
+dialog: (voice over) You got a nice strong grip
+dialog: for a woman.
+speaker_heading: FEMALE MEDIC #1
+dialog: (voice over) Oh, thank you.
+speaker_heading: ARLO
+dialog: (voice over) Yes, you do.
+speaker_heading: FEMALE MEDIC #2
+text: (voice over) Ooh, ooh.
+speaker_heading: ARLO
+dialog: (voice over) Yeah, and, uh...that's a
+dialog: wonderful, wonderful walkie-talkie you
+dialog: got there.
+speaker_heading: MASON
+dialog: (voice over) (overlapping) Do I have to
+dialog: get naked?
+speaker_heading: FEMALE MEDIC #2
+dialog: (voice over) (overlapping) You don't have
+dialog: to.
+speaker_heading: MASON
+dialog: (voice over) I don't have to?
+speaker_heading: FEMALE MEDIC #2
+dialog: (chuckling) Are you kidding?
+dialog: 

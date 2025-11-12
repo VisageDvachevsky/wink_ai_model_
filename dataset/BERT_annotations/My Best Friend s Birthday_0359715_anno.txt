@@ -1,0 +1,3988 @@
+dialog: yy
+text: MY BEST FRIEND'S BIRTHDAY .
+dialog: Written By
+dialog: Craig Hamann & Quentin Tarantino
+dialog: Special Note:
+text: The following story takes place in Torrance,
+dialog: California. Almost nothing ever happens in Torrance,
+dialog: but sometimes a person has a bad night there.
+dialog: ic
+dialog: 
+scene_heading: EXT. CITY STR ~~ DAY
+text: A Ford Mustang driving down the street.
+scene_heading: INT. MICKEY'S MUSTANG -- MOVING -- DAY
+text: MICKEY BURNETT drives, listehing to the RADIO, which is dialed to
+text: KBLI. Clarence Pool, the D.J. and Mickey's best friend, is
+dialog: talking. ;
+speaker_heading: CLARENCE (V.0.)
+dialog: Hey you cool cats out there, my
+dialog: best friend Mickey Burnett's up
+dialog: after me, and you know what? It's
+dialog: Mickey's birthday!
+text: Mickey shakes his head and smiles.
+speaker_heading: MICKEY
+dialog: Tomorrow, Clarence.
+speaker_heading: CLARENCE (V.0.)
+dialog: So, here's a little Rockabilly
+dialog: medley for my pal on his 30th
+dialog: birthday. Yep, that's right.
+dialog: The big three . .. oh!
+text: MUSIC starts playing.
+speaker_heading: MICKEY
+dialog: Don't tell them how old I am.
+text: Clarence talks over the music.
+speaker_heading: . CLARENCE (V.0.)
+dialog: So, if you're listenin’, Mick,
+dialog: here's 30 minutes nonstop Rockabilly
+dialog: rock dedicated to you, buddy. One
+dialog: minute for each year!
+speaker_heading: MICKEY
+dialog: Clarence...
+speaker_heading: CLARENCE (V.0.)
+dialog: And if you listeners want, why
+dialog: don't you call Mickey on his show
+dialog: later and those of you old enough,
+dialog: tell him what you did on your 30th
+dialog: birthday.
+speaker_heading: CONT.
+dialog: ~N
+dialog: 2
+speaker_heading: . MICKEY
+dialog: Right, that's it. Tell the whole world.
+text: Mickey turns the radio off.
+speaker_heading: MICKEY
+dialog: Great, Clarence.
+scene_heading: INT. KBLI RADIO STATION -- DAY
+text: Two young men are sitting in the recording booth of the small
+text: radio station KBLI (pronounced K-Billy). CLARENCE POOL, a
+text: Rockabiily. boy complete with a pompadour haircut, is the disk-
+text: jockey. LENNY oTIs, the on-the-air guest, sits next to him.
+text: The phene light up. Clarence answers it.
+speaker_heading: CLARENCE
+dialog: The Clarence Pool .show.
+dialog: (pause)
+dialog: Sorry, we don't take requests.
+dialog: (pause)
+dialog: ‘Cause when I'm jock, I play what
+dialog: I wanna play, when I wanna play
+dialog: it. Someday, maybe, you can be
+dialog: a jock and, if your taste is as
+dialog: respected as mine, you can play
+dialog: what you wanna play.
+dialog: (pause)
+dialog: I den't care what Unruly Julie
+dialog: does on her show. I don't do it
+dialog: on mine.
+dialog: (pause)
+dialog: Well, then listen to Unruly Julie,
+dialog: dickbait!
+text: Clarence hangs up.
+speaker_heading: CLARENCE
+dialog: (under his breath)
+dialog: Unruly Julie...
+dialog: (to Lenny)
+dialog: Music's almost done, so we're gonna
+dialog: be goin’ on in a coupla seconds.
+dialog: You're not nervous, are ya?
+speaker_heading: CONT.
+dialog: +
+speaker_heading: CONT.
+text: INT.
+speaker_heading: LENNY ,
+dialog: Not at all. I thought I might be,
+dialog: but I don't feel a thing.
+speaker_heading: - CLARENCE
+dialog: Good. You'll be fine. Just don't
+dialog: think about making a fool outta
+dialog: yourself in all those millions of
+dialog: people's homes.
+dialog: (on-the-air -- talks in
+dialog: microphone)
+dialog: You're listening to K-Billy, and
+dialog: this is the original hillbilly cat
+dialog: Clarence Pool.talkin' to you. And
+dialog: we got a special guest in the booth
+dialog: today . . . and his name is ---
+dialog: What's your name, son?
+speaker_heading: . LENNY,
+dialog: Lenny Otis.
+speaker_heading: CLARENCE
+dialog: Otis? You mean like the drunk
+dialog: on the Andy Griffith Show?
+speaker_heading: LENNY
+dialog: What?
+speaker_heading: CLARENCE
+dialog: It doesn't matter. So, Lenny,
+dialog: you're the leader of the Eddie
+dialog: Cochran Fan Club?
+speaker_heading: LENNY
+dialog: I'm not the leader, I'm the head
+dialog: of the California chapter.
+scene_heading: KBLI FRONT OFFICE -- DAY
+text: MEG, the KBLI secretary, sits at a desk. Mickey walks in.
+speaker_heading: MEG
+dialog: Oh, hi, Mickey. Happy birthday.
+speaker_heading: MICKEY
+dialog: Thanks. Actually, it's tomor---
+speaker_heading: CONT.
+dialog: -
+text: Meg leaves.
+dialog: MR.
+speaker_heading: MEG °
+dialog: Boy, 30 years old. I'll bet you
+dialog: feel terrible about that.
+speaker_heading: + MICKEY
+dialog: Look, Meg, I'm kindda sensitive
+dialog: about the turning 30 stuff, okay?
+speaker_heading: MEG
+dialog: I can understand. I know this
+dialog: guy who lives two apartments down
+dialog: from me. He turned 30 two weeks
+dialog: ago. He hasn't been out of his
+dialog: apartment since.
+speaker_heading: : MICKEY
+dialog: That's, uh, nice to know, Meg.
+speaker_heading: MEG
+dialog: Mickey, would you cover for me?
+dialog: Drooley's Pizza's selling a medium
+dialog: pizza for the price of a small to-
+dialog: night only, and I'm really hungry.
+speaker_heading: MICKEY
+dialog: Sure, Meg.
+text: Mickey sits down behind her desk.
+text: the station owner walks in. He's all business.
+speaker_heading: MICKEY
+dialog: Hi, Mr. Trumper.
+speaker_heading: TRUMPER
+dialog: Hi, Mickey. Look, Grandma Mohmmi
+dialog: will be calling tonight. Be nice
+dialog: to her. And tell Clarence to
+dialog: start playing more of Elvis's live
+dialog: Vegas stuff. Grandma Mohmmi likes
+dialog: that.
+speaker_heading: MICKEY
+dialog: Well, ‘I think what Clarence is try-
+dialog: ing to do is get the audience to
+dialog: remember Elvis back in his Rockabilly
+dialog: days when he was crass and cool and ---
+speaker_heading: CONT.
+text: CONT. .
+speaker_heading: TRUMPER
+dialog: Grandma Mohmmi is this station's
+dialog: biggest contributor. Money talks,
+dialog: bulishit walks. I wanna hear
+dialog: Elvis's Vegas act from now on!
+text: Trumper's about to walk out, but pauses.
+speaker_heading: TRUMPER
+dialog: By the way, happy birthday.
+speaker_heading: MICKEY
+dialog: Thanks. :
+text: Trumper looks Mickey over.
+speaker_heading: TRUMPER
+dialog: 30 years old already. Shit, how
+text: time flies.
+text: Trumper leaves.
+text: CLANCY, ancther D.J., bops into the reception area, and sits down
+dialog: on the ¢cesk.
+speaker_heading: CLANCY
+dialog: Hey, happy three-oh, dude. You're
+dialog: gettin’ up there.
+speaker_heading: MICKEY
+dialog: Thanks for reminding me, Clancy.
+dialog: What're you doin' here?
+speaker_heading: CLANCY
+dialog: I vas down this way, so I thought
+dialog: I'd come on in. Wish you a happy
+dialog: birthday, then maybe zonk out in
+dialog: the lounge ‘till after your show.
+dialog: I'm subbin' for Rhonda tonight.
+speaker_heading: MICKEY
+dialog: You look like shit, man.
+speaker_heading: CLANCY
+dialog: Funny, I feel like diarrhea. Oh,
+dialog: hey, I'm sorry to hear sbout Pandora
+dialog: givin' you your walkin' papers.
+speaker_heading: CONT.
+dialog: “y>
+speaker_heading: MICKEY
+dialog: I con't want to talk about Pandora
+dialog: + + . or my birthday.
+speaker_heading: - “CLANCY
+dialog: Man, I feel like a bunch of little
+dialog: guys with pointy sticks ere in ny
+dialog: stomach goin' ..
+text: (makes a pointing gesture and
+dialog: groans)
+speaker_heading: MICKEY
+dialog: What'd you do last night?
+speaker_heading: “CLANCY
+dialog: I was out with Jerry. You know
+dialog: Jerry?
+speaker_heading: MICKEY
+dialog: Harry's brother Jerry?
+speaker_heading: CLANCY
+dialog: The same. We were experimenting
+dialog: with some shit . . . so strong I
+dialog: think an Indian tribe in Brazil
+dialog: has formed a religion around it.
+dialog: (whips out pack of gum)
+dialog: Want some gum?
+text: Clancy gives Mickey a stick of gun. The phone RINGS. Mickey
+text: pops the gum in his mouth and answers the phone.
+speaker_heading: MICKEY
+dialog: K-Billy.
+dialog: (pause)
+dialog: Oh, hi, Grandma Mohmnai.
+dialog: (pause)
+dialog: Oh, yes, we're going to play Elvis
+dialog: at Vegas, and I just want you to
+dialog: know that we all at K-Billy think
+dialog: you're ---
+text: (a look of horrible revulsion
+text: comes across his face)
+dialog: SHIT!
+dialog: (he spits out gum)
+speaker_heading: CLANCY
+dialog: (laughs)
+dialog: Whatsamatter? Don't like garlic
+dialog: gum?
+speaker_heading: CONT.
+dialog: ~
+dialog: Cont. ,
+speaker_heading: MICKEY
+dialog: Asshole! You stupid moronic ass-
+dialog: hole!
+speaker_heading: LANCY
+dialog: Last night.mejand Jerry went into
+dialog: this novelty shop stoned, Have
+dialog: * you ever wentlinto a novelty store
+dialog: fucked-up? It's an experience.
+dialog: We bought « hundred and fifty dollars
+dialog: worth of shat.
+text: Clancy holds up a plastic zip lock baggie full of white powder.
+text: Meanvhile, Mickey's digging through Meg's desk for anything that
+dialog: will give him relief
+speaker_heading: CLANCY
+dialog: I picked up this itchin' powder
+dialog: for Clarence. I thought he'd be
+dialog: a guy who could really appreciate
+dialog: it. This stuff is a killer. One
+dialog: little dab on the back of your
+dialog: hand will drive you crazy. Ya gotta
+dialog: wash it off.
+text: Mickey Zinds a pack of Lifesavers. He pops five in his mouth.
+speaker_heading: . MICKEY
+dialog: You shit-eatin' dickweed! You
+dialog: pile of shit!
+speaker_heading: CLANCY
+dialog: Hey, Mick . . . Grandma Mohmai.
+text: M:ckey looks at the phone, horrified.
+speaker_heading: MICKEY
+dialog: Grandma Mohmmi? Hello?- Hello?
+text: Mickey hangs up. He glares at Clancy.
+speaker_heading: CLANCY
+dialog: Gee . . . you think she heard you?
+scene_heading: INT. KBLI RADIO STATION -- DAY
+text: Clarence is interviewing Lenny Otis.
+speaker_heading: CONT.
+dialog: ic
+dialog: (~~
+dialog: CcON?.
+speaker_heading: CLARENCE
+dialog: Do you remember when he died?
+speaker_heading: . LENNY
+dialog: Do I remember the date, or actually
+dialog: when it happened?
+speaker_heading: CLARENCE
+dialog: The actual day.
+speaker_heading: LENNY
+dialog: I wasn't born yet.
+speaker_heading: CLARENCE
+dialog: Neither was I. But I remember. I
+dialog: remember when I was three years old.
+dialog: There was this one particular day.
+dialog: I felt really depressed. For no
+dialog: reason what-so-ever. -I had no idea
+dialog: why, but I was feelin' low. I even
+dialog: thought of suicide. I was gonna
+dialog: get in the bathtub and slit my wrists
+dialog: with a razor blade. I was actually
+dialog: gonna do it. Now for a three
+dialog: year old to be thinkin' like this,
+dialog: you gotta be feelin' pretty bad.
+dialog: The only reason I didn't do it was
+dialog: “The Partridge Family" was about
+dialog: ready to come on, and I wanted to
+dialog: see it. So, I thought I'd watch
+dialog: that, and do it after the show was
+dialog: over. But “The Partridge Family"
+dialog: was really funny that night and after
+dialog: the show I was feelin' better. So,
+dialog: I didn't do it. What were we talkin'
+dialog: about?
+speaker_heading: LENNY
+dialog: Eddie Cochran.
+speaker_heading: CLARENCE
+dialog: Oh, yeah. So anyway, I find out
+dialog: twenty years later that the very
+dialog: day I felt so depressed for no reason,
+dialog: low and behold, just so happens to
+dialog: be the day that one of the greatest
+dialog: rock 'n rollers of all time buys
+dialog: the farm. The very same date. I'm
+dialog: tellin' ya, I felt like someone spit
+dialog: in my socks.
+speaker_heading: (MORE)
+speaker_heading: CONT.
+dialog: ow
+dialog: ~
+speaker_heading: CONT.
+dialog: oo
+speaker_heading: CLARENCE
+dialog: But in a way there's a certain
+dialog: symmetry to that, I guess. How many --
+dialog: what's the word I'm lookin' for?
+dialog: It means other people who would
+dialog: be disciple in what you're doin’.
+dialog: You know what I mean?
+speaker_heading: LENNY
+dialog: Members?
+speaker_heading: CLARENCE
+dialog: Yeah, that's it. Members. How
+dialog: many members do you have?
+speaker_heading: LENNY .
+text: Six hundred in the California area.
+speaker_heading: CLARENCE
+dialog: whoa! That's a lot. Do you have
+dialog: a@ get together every year at the
+dialog: Ramada Inn or somethin'?
+speaker_heading: LENNY |
+dialog: Every once in a while we work some-
+dialog: thing out.
+speaker_heading: CLARENCE
+dialog: We'll be right back talking with
+dialog: Lenny Otis -- You're not related to
+dialog: Johnny Otis, are you?
+text: Clarence puts on some music.
+speaker_heading: P
+text: INT.
+speaker_heading: LENNY
+dialog: No. 7
+speaker_heading: CLARENCE
+dialog: The leader of the Eddie Cochran
+dialog: Fan Club... ina sec.
+speaker_heading: CLARENCE
+dialog: Well, so far, so good.
+scene_heading: KBLI FRONT OFFICE -- DAY
+text: Mickey drinking water. Clancy gets up, holding the baggie of
+dialog: itching powder. :
+speaker_heading: CONT.
+dialog: of
+dialog: rose
+speaker_heading: Conds ’
+speaker_heading: CLANCY
+dialog: Too bad about Grandma Mohmmi.
+dialog: Well, I'm gonna give Clarence this
+dialog: itchin' powder.
+dialog: ckey stands.
+speaker_heading: MICKEY
+dialog: No, you're not. You stay here
+dialog: and watch the phone.
+text: Mickey swipes the baggie from Clancy.
+speaker_heading: ’ MICKEY
+dialog: I don't trust you, and I don't
+dialog: want you messin' with Clarence
+text: while he's doing his show.
+speaker_heading: CLANCY
+dialog: S'cuse me, pal. It's a free world,
+dialog: and I can do what I wanna do.
+text: Mickey presses close to Clancy.
+speaker_heading: MICKEY -
+dialog: Not if you're dead, you can'r.
+speaker_heading: CLANCY
+dialog: (gets the point)
+dialog: I'll, uh, watch the phone.
+scene_heading: INT. EADIO STATION -- DAY
+text: Clarence and Lenny. MUSIC is still playing.
+speaker_heading: CLARENCE
+dialog: Y'know, this has really been a
+dialog: good interview.
+speaker_heading: LENNY
+dialog: It has?
+speaker_heading: CLARENCE
+dialog: Absolutely. I sound great.
+text: Mickey sticks his head in the booth and sings the first part of
+text: the theme song to the “PATTY DUKE SHOW." Clarence sings the
+text: other part and they join in on the chorus.
+speaker_heading: CONT.
+speaker_heading: ’
+dialog: om
+speaker_heading: CONT.
+speaker_heading: CLARENCE
+dialog: Mickey, this is the leader ‘of the
+dialog: Eddie Cochran Fan Club.
+speaker_heading: LENNY
+dialog: Head of the California chapter.
+dialog: Lenny Oris.
+text: Mickey and Lenny shake hands.
+speaker_heading: MICKEY
+dialog: You mean like Otis the drunk on
+dialog: the Andy Griffith Show?
+dialog: Lenny doesn't have an ansver.
+speaker_heading: MICKEY
+dialog: Clarence, I have something for you,
+text: Mickey hands Clarence the baggie of itching powder, which
+text: Clarence immediately assumes is a bag of cocaine. Clarence can't
+text: believe Mickey's flashing it around in front of a stranger.
+speaker_heading: CLARENCE
+dialog: Mickey!
+speaker_heading: MICKEY
+dialog: Clancy got it for you. Look, I gotta
+dialog: go back to the front office before
+dialog: Clancy ‘does something stupid.
+dialog: (points at baggie)
+dialog: We'll have fun with that later,
+dialog: okay?
+text: Clarence gestures “A-Okay" to Mickey. Mickey leaves.
+text: Clarence looks at Lenny, who also assumes the bag's full of
+dialog: cocaine.
+speaker_heading: CLARENCE
+dialog: So, Lenny, you're cool, right?
+speaker_heading: LENNY
+dialog: - Yeah, I'm cool. .
+speaker_heading: CLARENCE
+dialog: Good.
+text: Clarence pours out the bag on the counter, takes a razor blade
+text: from his drawer, and starts cutting lines.
+speaker_heading: CONT.
+dialog: ~
+speaker_heading: CONT. :
+speaker_heading: CLARENCE
+dialog: Want some toot-uncommon?
+scene_heading: _ . LENNY
+dialog: I'll pass.
+speaker_heading: CLARENCE
+dialog: Aaah, too cool, huh?
+text: Clarence makes two big lines and snorts them in both nostrils
+text: just as the song ends.
+speaker_heading: CLARENCE
+dialog: We're back with the leader of the
+dialog: Eddie Cochran Fan Club, Lenny Otis.
+dialog: Tell me, Lenny, what first got ya
+dialog: into Eddie?
+text: Lenny's kind of stunned. After all, this is the first time
+text: Clarence has really let him talk. He starts telling a story
+text: about how he first heard Eddie sing “Pink Legged Slacks.” ,
+text: As Lenny's talking, a weird look crosses Clarence's face. He
+text: jerks his head back. First, it's an irritation, then it grows to
+dialog: out anc out pain. :
+speaker_heading: CLARENCE
+dialog: A Rleenix. Give me a Kleenix.
+text: Lenny stops talking and gives Clarence a box of tissue. Clarence
+text: is blowing his nose as Lenny continues talking.
+text: Clarence starts rubbing his nose, then picking his nose. It gets
+text: worse. He starts BANGING the counter with his fists.
+speaker_heading: CLARENCE
+dialog: I AM IN HELL!
+text: Clarence starts FLAILING around in the booth. He points to the
+dialog: phone.
+speaker_heading: CLARENCE
+dialog: (to Lenny)
+dialog: 911 ...911..
+text: Meg happens to be walking by the booth, holding a pizza box. She
+text: sees what's happening to Clarence.
+dialog: 13
+scene_heading: INT. KBLI FRONT OFFICE -- DAY
+text: Mickey's sitting behind the desk. Clancy's on the phone with
+dialog: some girl. .
+speaker_heading: * CLANCY
+dialog: C'mon, Gers dine, you know that
+dialog: you're the snly one I love. Let
+dialog: me come over tonight. I mean it,
+dialog: I really az in love with you...
+dialog: by the way, i: your roommate still
+dialog: outta town? Good. Anyway, I really
+dialog: love you...
+text: Mickey quietly takes a stick of garlic gum out of the pack and
+text: gives it to Clancy.
+speaker_heading: CLANCY
+dialog: (to Mickey)
+dialog: Thanks.
+dialog: : (pops gum into his mouth)
+dialog: Okay, okay, so I had a little fling
+dialog: with Dori .. . yeah, and Paula, too.
+dialog: But they didn't mean anything.
+dialog: You're my one true ---
+dialog: (the garlic gum. gets to him)
+speaker_heading: FUCK!
+dialog: (he spits out the gum)
+text: Mickey laughs.
+text: Meg runs in.
+speaker_heading: MEG
+dialog: Mickey, there's something wrong
+dialog: with Clarence! ©
+scene_heading: INT. RADIO STATION HALLWAY -- DAY
+text: Mickey and Meg run down the hallway. Mr. Trumper steps out of a
+dialog: room. :
+speaker_heading: TRUMPER
+dialog: Mickey, come back here! Grandma
+dialog: Mohmmi just called me!
+text: He runs after Mickey and Meg.
+scene_heading: INT. RADIO STATION -- DAY
+text: Clarence is on the floor -- kicking and screaming.
+speaker_heading: CLARENCE
+dialog: “I'll never do it again! Just make
+dialog: it stop!
+text: Lenny's speaking into the microphone.
+speaker_heading: LENNY ‘
+dialog: Ahh, somebody, I think we need
+dialog: some help here.
+text: Mickey and Meg rush in, followed by Mr. Trumper.
+speaker_heading: MICKEY
+dialog: What happened?
+speaker_heading: LENNY
+dialog: (right by microphone)
+dialog: Well, he snorted that cocaine
+dialog: you gave hin.
+text: Mickey quickly covers the microphone with his hand.
+text: Clarence crawls over to the water cooler and tries to pour water
+text: into his nostrils.
+text: Mickey looks down at Clarence, then up at Mr. Trumper.
+text: Mr. Trumper glares at Mickey.
+scene_heading: EXT. DARWIN APARTMENTS -- EVENING
+text: Mickey parks his Mustang, and trudges to his apartment.
+scene_heading: INT. MICKEY'S APARIMENT -- EVENING
+text: Mickey comes in and is stopped short by a well-endowed woman,
+text: PANDORA, standing in the middle of the room and holding a record
+text: album. He can't believe it.
+speaker_heading: - MICKEY
+dialog: Pandora?
+speaker_heading: PANDORA
+dialog: Hi, Mickey. CONT
+speaker_heading: CONT.
+text: Ee walks over
+dialog: 15
+speaker_heading: MICKEY :
+dialog: What the hell are you -~ Baby, I'm
+dialog: sure glad to see you.
+text: to her and gives her a big kiss. She's taken by
+text: surprise, but.goes along with it. As he talks, Mickey kisses her
+text: lips, her hands, her fingers, etc.
+text: He kisses her.
+speaker_heading: MICKEY
+dialog: How long has it been?
+speaker_heading: PANDORA
+dialog: Since what?
+speaker_heading: MICKEY
+dialog: Since the last time we've seen
+dialog: each other.
+speaker_heading: PANDORA
+dialog: (counts her fingers)
+dialog: Let's see, January, February . .
+dialog: (holds up two fingers)
+dialog: Two monthes.
+speaker_heading: MICKEY
+dialog: (kisses both fingers)
+dialog: It seems one helluva lot longer
+dialog: than that. Oh, by the way, those
+dialog: phone calls you were getting last
+dialog: month . . . They'd ring, you'd answer,
+dialog: then they'd hang up. . .
+speaker_heading: PANDORA
+dialog: Uh-huh.
+speaker_heading: MICKEY
+dialog: That was me. I just had to hear
+dialog: the sound of your voice. What's
+dialog: it been like for you?
+speaker_heading: PANDORA
+dialog: Well, I've been ---
+speaker_heading: MICKEY
+dialog: I don't mean to cut you short, baby,
+dialog: but I'm just so happy.
+speaker_heading: (MORE)
+speaker_heading: CONT.
+dialog: ce
+speaker_heading: CONT.
+text: Mickey lifts Pandora off the ground and kisses her.
+text: on the coffee table and places her on his lap.
+dialog: resist at all.
+speaker_heading: MICKEY
+dialog: I've been going through hell without
+dialog: you. You know, baby, we fight over
+dialog: the stupidest things. But never
+dialog: again. Now I got you, Pandora,
+dialog: I'm never gonna let you go. That's
+dialog: & promise, baby.
+text: In fact, she seems to be enjoying it.
+text: her arms around his neck. .
+speaker_heading: ‘PANDORA
+dialog: Mickey, you're being so nice.
+speaker_heading: MICKEY
+dialog: And this is the way I'm gonna be
+dialog: from now on. Forever, and ever,
+dialog: and ever. Feel my heart beat.
+text: He puts her hand on his chest.
+speaker_heading: MICKEY
+dialog: Fast, ain't it? Let me feel yours.
+text: (he checks her pulse on
+dialog: her wrist)
+dialog: Just like mine. A mile a minute.
+dialog: It must be love.
+dialog: (kisses her wrist)
+dialog: Honey, I want you to know, the
+dialog: last few times we talked on the
+dialog: phone...
+speaker_heading: PANDORA
+dialog: Uh-huh.
+speaker_heading: MICKEY
+dialog: I didn't mean any of that. You
+dialog: know that, don't you?
+speaker_heading: PANDORA
+dialog: I thought you hated me.
+speaker_heading: MICKEY
+dialog: I was bluffing. I wanted you to
+dialog: think I hated you. All I felt vas
+dialog: “what do I do now?” I was angry
+dialog: at you. Listening to you was so
+dialog: damned frustrating. But I never
+dialog: stopped loving you.
+speaker_heading: CONT.
+dialog: 16
+text: He sits down
+dialog: She doesn't
+dialog: She puts
+speaker_heading: C
+dialog: co
+speaker_heading: PANDORA
+dialog: I'm a little surprised. I've never
+dialog: seen you so sweet before.
+speaker_heading: MICKEY
+dialog: This might turn out to be a good
+text: He strokes her
+dialog: birthday after -- Whoa! Is that
+dialog: why you came back today? You re-
+dialog: membered my birthday?
+dialog: (hugs her tight)
+dialog: I'm so in love with you. Tell me.
+dialog: I gotta know. What made you come
+dialog: back? I promise I won't interrupt.
+dialog: hair.
+speaker_heading: PANDORA
+dialog: well, yesterday, I was talking
+dialog: to Yolanda Waxman. Do you remember
+dialog: her?
+speaker_heading: MICKEY
+dialog: Uh-huh.
+speaker_heading: PANDORA .
+dialog: Yeah, well, she was over at the
+dialog: house. And we were going through
+dialog: my records, and I was telling her
+dialog: about this sad Rod Stewart song.
+dialog: So, we're looking through my albums
+dialog: and I can't find it. Then I re-
+dialog: member... it's not an album,
+dialog: it's a tape, and I left all my
+dialog: tapes here. So, I thought I'd come
+dialog: by and pick it up. I got it. See?
+text: She shows him the tape.
+dialog: Mickey's in a
+dialog: what he gets.
+speaker_heading: MICKEY
+dialog: That's why you came back?
+speaker_heading: PANDORA
+dialog: Oh, and guess what? When I vas
+dialog: goin' through my albums, I found
+dialog: one of your Elvis Prestley records.
+dialog: I knew you couldn't live without
+dialog: that, so I dropped it off.
+text: state of shock. After baring his soul, this is
+text: Pandora stands up and looks around the room.
+speaker_heading: CONT.
+dialog: ~
+dialog: “+y>
+dialog: 15
+speaker_heading: CONT.
+speaker_heading: PANDORA
+dialog: God! This place looks so empty
+dialog: Without my stuff. Maybe I should've
+dialog: left you some of my plants.
+text: The sound of a toilet FLUSHING from the bathroon,
+speaker_heading: MICKEY
+dialog: What's that?
+speaker_heading: PANDORA
+text: It's a toilet flushing.
+text: The bathroom door opens and-OLIVER, a handsome yuppie, steps out.
+speaker_heading: : OLIVER
+dialog: Whooah . . . Talk about dropping
+dialog: a@ cheese bomb. I wouldn't go in
+dialog: there in the next. hour if I was you.
+speaker_heading: PANDORA
+dialog: Oliver. Sweetheart. Come over
+dialog: here.
+text: Oliver valks over and holds hands with Pandora.
+speaker_heading: PANDORA
+dialog: Oliver, darling, I want you to
+dialog: meet one of my oldest friends,
+dialog: Mickey. Mickey, this is one of
+dialog: my nevest friends, Oliver Brandon.
+speaker_heading: OLIVER
+dialog: Hey, guy.
+text: Oliver extends his hand. Mickey ignores hin.
+speaker_heading: MICKEY
+dialog: : (to Pandora)
+dialog: How did you get in here? You gave
+dialog: me your key.
+speaker_heading: PANDORA
+dialog: Oh, Ollie got us’ in.
+speaker_heading: OLIVER
+dialog: You know, the old credit card in
+dialog: the lock routine. Hope you don't
+dialog: mind, guy. Had to get sugar here
+dialog: her Rod Stewart.
+speaker_heading: CONT.
+dialog: f-
+dialog: eo
+dialog: yy
+text: Oliver looks at Mickey's Elvis albun.
+speaker_heading: _ OLIVER
+dialog: I see you lik@ Elvis. That's nice.
+dialog: T have an aunt who likes Elvis.
+speaker_heading: * PANDORA
+dialog: Oliver's a rezi:ly great actor.
+speaker_heading: OLIVER
+dialog: You should talk. You're pretty
+dialog: great yourself.
+speaker_heading: PANDORA
+dialog: Iam not.
+speaker_heading: OLIVER ©
+dialog: You are.
+speaker_heading: PANDORA
+dialog: I'm not.
+speaker_heading: OLIVER
+dialog: You are.
+speaker_heading: PANDORA
+dialog: You're better.
+speaker_heading: OLIVER
+dialog: I'm not.
+speaker_heading: PANDORA
+dialog: You are. :
+speaker_heading: OLIVER
+dialog: Am not.
+speaker_heading: PANDORA
+dialog: Are, too. Mickey, don't listen
+dialog: to a word he says. He's really
+dialog: glorious. Oh, I'm so stupid. I
+dialog: didn't even tell you the most exciting
+dialog: news. I got a part in a play.
+dialog: It's the Torrance Community Theatre
+dialog: production of “Godspell.” That's
+dialog: where I met Ollie.
+dialog: (to Oliver)
+dialog: Tell him what part you play.
+speaker_heading: OLIVER ‘
+dialog: Jesus.
+dialog: : (pause -- to Pandora)
+dialog: Well, we gotta go or we'll be late.
+dialog: _ We got that thing to go to.
+speaker_heading: PANDORA
+dialog: What thing?
+speaker_heading: OLIVER
+dialog: You know, that thing.
+text: Pandora still isn't picking up on how uncomfortable Oliver is in
+text: Mickey's presence. She plays along anyway.
+speaker_heading: . PANDORA
+dialog: Oh... okay. Bye, Mickey. Call
+dialog: me up sometimes and we'll talk.
+speaker_heading: OLIVER
+dialog: Later, guy.
+text: They valk out, closing the door behind them. From outside,
+dialog: Mickey can hear: .
+speaker_heading: OLIVER (0.S.)
+dialog: Did you used to have a scene with
+dialog: that guy?
+speaker_heading: PANDORA (0.S.)
+dialog: Just a little one.
+text: Mickey just sits there, motionless.
+text: A few beats pass, then Clarence BARGES through the door, hoicing
+text: a half full bottle of beer in his hand.
+text: Mickey just sits there. As Clarence rants and raves, he takes
+text: hits off his beer.
+speaker_heading: CLARENCE
+dialog: I can't fuckin' believe it! I can't
+dialog: fuckin' believe it! Trumper fires
+dialog: us! He fuckin' fires us! And for
+dialog: what? For what? Just because he
+dialog: thinks we have some illegal substance
+dialog: in his shitty booth. You know how
+dialog: many jocks are high when they're
+dialog: working? Huh? You know how many
+dialog: jocks are fuckin' wasted when they're
+dialog: on the air? Huh?
+speaker_heading: CONT.
+dialog: ,
+dialog: o
+dialog: >
+speaker_heading: CONT.
+text: Mickey just sits there.
+speaker_heading: CLARENCE
+dialog: I don't know either. But I can
+dialog: tell you this, it's a lot. I mean,
+dialog: if pea-brain Trumper knew how many
+text: jocks are’ shit-faced stoned when
+dialog: they're working, he'd shit in his
+dialog: pants! No! He'd shit all over the
+dialog: wall! That's what he'd do. He'd
+dialog: shit all over the vall! All over
+dialog: the booth! All over the station!
+text: Clarence takes a big swig off the beer, finishing it. He goes
+text: inside Mickey's kitchen. We hear a refrigerator door open and
+text: close, and a bottle of beer get opened.
+text: Mickey just sits there.
+dialog: Clarence walks
+speaker_heading: CLARENCE (0.S.)
+dialog: (from kitchen)
+dialog: I'll tell ya somethin' else, pal.
+dialog: We made that station. The original
+dialog: cool cat Clarence Pool and Midnight
+dialog: Mickey vere K-Billy. We were the
+dialog: gurus of Rockabilly airwaves, I'll
+dialog: tell ya that.
+text: back into the living room with his beer.
+speaker_heading: CLARENCE
+dialog: It was because of our shows that
+dialog: we got enough sponsers to increase
+dialog: our power so that K-Billy is now
+dialog: heard in Lakewood, Compton, Inglewood,
+dialog: and parts of Bellflower, and not just
+dialog: Torrance. I'll tell ya that. We
+dialog: fuckin' did it. Not that prissy,
+dialog: prima donna prick Trumper.
+dialog: (takes a big svig)
+dialog: You know, Mick, we'll open up our
+dialog: own radio station. That's what we'll
+dialog: do. ‘Cause when people hear that
+dialog: you and I got canned at K-Billy,
+dialog: they won't listen anymore. We're
+dialog: too big for K-Billy anyway. We
+dialog: have a fuckin’ cult following. Trumper's
+dialog: gonna regret the day he ever fucked
+dialog: with Clarence Pool and Mickey Burnett
+speaker_heading: CONT.
+dialog: >>
+speaker_heading: CONT.
+speaker_heading: CLARENCE
+dialog: I mean, I wasn't even snortin'
+dialog: cocaine. Whoever heard of anyone
+dialog: firing somebody for snortin' itchin'
+dialog: powder? We could probably sue
+dialog: the bastard. In fact, that's what
+dialog: we'll do. We'll fuckin’ sue hin,
+dialog: take the money ve win, which will
+dialog: probably be a lot, and open up our
+dialog: own fuckin' station. Then we'll ---
+text: For the first time, Clarence realizes Mickey's just sitting
+text: there staring at hin. :
+speaker_heading: CLARENCE
+dialog: Hey, Mick, what's wrong?
+speaker_heading: MICKEY
+dialog: Pandora was just here.
+speaker_heading: CLARENCE
+dialog: Pandora?
+scene_heading: MICKEY .
+dialog: Yeah, with some yuppie shit named
+dialog: Oliver. I think she just dumped
+dialog: me again.
+text: Clarence doesn't know what to say.
+speaker_heading: MICKEY
+dialog: Hell, Clarence. I get fired, I'm
+dialog: turning thirty, and my ex-girlfriend
+text: makes a quick pitstop to wipe her
+text: feet off on me one more time.
+text: Clarence sits down next to Mickey.
+speaker_heading: CLARENCE
+dialog: You know that girl I told you about?
+dialog: The one I've been seein‘ on the
+dialog: sly ‘cause she's got an asshole
+dialog: boyfriend?
+speaker_heading: MICKEY
+dialog: Yeah, uh, what's her name . .
+speaker_heading: - CLARENCE
+dialog: Cecilia. You've never met her, and
+dialog: maybe you never will.
+speaker_heading: (MORE)
+speaker_heading: CONT.
+dialog: i: CONT.
+dialog: n>
+dialog: wu
+speaker_heading: CLARENCE +
+dialog: To be honest, I don't even know
+dialog: how long the relationship will exist.
+dialog: There's so many problems, and it's
+dialog: startin' to get to me. Especially
+dialog: - the part about her bozo boyfriend.
+dialog: Clarence makes
+dialog: Nov I could be mopin' about this.
+dialog: And I have to admit I was a little
+text: pissed there for a moment about
+dialog: us gettin' fired at K-Billy, but
+dialog: after a couple beers, I'm startin’
+dialog: to feel better. Are you startin'
+dialog: to see the point?
+speaker_heading: MICKEY
+dialog: No.
+speaker_heading: CLARENCE
+dialog: The point is, life's cool. We're
+text: cool. Life goes on. We go on.
+dialog: Fuck everything else. We got nothing
+dialog: to be sad about when it's been all
+dialog: Said and done. We got the future
+dialog: to celebrate.
+text: a toasting gesture with the beer bottle.
+speaker_heading: CLARENCE
+dialog: Tonight's the night, Mickey. My
+dialog: best friend's birthday.
+speaker_heading: MICKEY
+dialog: My birthday's tomorrow.
+speaker_heading: CLARENCE
+dialog: (ignores Mickey's comment)
+dialog: What do you want to do? Have a
+dialog: party? Wait a minute, that's stupid.
+dialog: Of course, we're gonna party. You
+dialog: wanna get laid?
+dialog: (slaps himself in the head)
+dialog: Shit... wake up, brain. Of
+dialog: course you should get laid. It'd
+dialog: be great therapy for you. Besides,
+dialog: it's the big three... oh.
+speaker_heading: MICKEY
+dialog: Clarence, I'm tired.
+speaker_heading: CONT.
+dialog: c
+speaker_heading: CONT.
+speaker_heading: CLARENCE
+dialog: Hate to disappoint my pal, but
+dialog: there just ain't no time to get
+dialog: tired. Big things are happenin'
+dialog: tonight. I know ‘cause I'm psychic
+dialog: about stuff like that. You can't
+dialog: escape it. It's in the cards, and
+dialog: there's nothing you can do about
+dialog: it.
+speaker_heading: MICKEY
+dialog: Clarence, you're the greatest and
+dialog: I love you.
+text: Mickey stands up.
+speaker_heading: CLARENCE
+dialog: Hey, I love you too, pal.
+text: Mickey takes Clarence by his arm, stands him up, and leads him to
+dialog: the door. :
+scene_heading: MICKEY .
+dialog: But tonight I'm gonna just sit back,
+dialog: then take a shower, and then go
+dialog: to bed.
+speaker_heading: CLARENCE
+dialog: Mickey, you're not listening to
+dialog: me.
+text: Mickey nudges Clarence out the door.
+speaker_heading: MICKEY
+dialog: I'll call you tomorrow. Sorry I'm
+dialog: ‘so down tonight.
+speaker_heading: CLARENCE
+dialog: Mickey...
+text: Mickey closes the door. From outside:
+speaker_heading: CLARENCE (0.S.)
+dialog: (outside the door)
+dialog: You can't fight fate.
+text: Mickey sits back down and sighs.
+dialog: £
+dialog: eo
+dialog: ts
+dialog: ww
+scene_heading: EXT. RONNY'S BAR -- NIGHT -
+text: A dive bar. Clarence parks his car, and goes inside.
+scene_heading: INT. RONNY'S BAR -~ NIGHT .
+text: Small and dumpy. RONNY, the pudgy bartender, stands next to a
+text: radio playing ELEVATOR MUSIC... Ronny hums to the schmaltzie music
+text: as he cleans glasses. Severz! CUSTOMERS are in the bar.
+text: Clarence walks over to the bar counter and unplugs Ronny's radio.
+speaker_heading: RONNY
+dialog: Awv, come on, Clarence. Why can't
+dialog: ve listen to my kind of music?
+dialog: Give me one good reason.
+speaker_heading: CLARENCE
+dialog: One good reason?
+dialog: (laughs)
+dialog: "Cause your music sucks, mine doesn't.
+text: Clarence moves to the juke box, deposits several coins, and
+text: pushes the appropriate buttons. Rockabilly MUSIC starts playing.
+text: Clarence dances by himself next to-the juke box. Suddenly, he
+text: notices MISTY KNIGHT, who's playing pool by herself. She's
+text: very sexy and wearing a revealing dress, which accentuates her
+text: Shapely figure.
+text: Clarence goes back to the bar counter. He sits down on a bar
+text: stcol. As he talks vith Ronny, he keeps glancing over at Misty.
+speaker_heading: CLARENCE
+dialog: Listen up, Ronny. I'm sorta on
+dialog: a mission tonight.
+speaker_heading: RONNY
+dialog: A mission?
+speaker_heading: CLARENCE
+dialog: That's right. I'm gonna show Mickey
+dialog: a good time for his birthday.
+text: A GUY walks up to the bar counter.
+speaker_heading: GUY
+text: Another pitcher, Ronny.
+text: Ronny Starts pouring a pitcher.
+speaker_heading: CONT.
+dialog: ~
+dialog: -y-
+speaker_heading: CONT.
+speaker_heading: RONKY °
+dialog: How is Micky? He's turning thirty,
+dialog: isn't he? How's he taking it?
+speaker_heading: . CLARENCE
+dialog: Not good. He's had a bad night.
+text: Ronny gives Guy the pitcher. Guy pays hin.
+speaker_heading: GUY
+dialog: Turning thirty, huh? You talkin'
+dialog: about Mickey Burnett? Yeah, I
+dialog: hear he's real busted up over Pandora
+dialog: droppin’ hin.
+speaker_heading: : CLARENCE
+dialog: You know Mickey?
+speaker_heading: . GUY
+dialog: Never met him. But I know this
+text: guy who drives a cab here in Torrance.
+dialog: His cousin's been goin’ out with
+dialog: Yolanda Waxman. She knows Pandora
+dialog: real well. Yeah, I hear Mickey's
+dialog: all screwed up inside. And nov,
+dialog: he's turning thirty? Shit, man,
+dialog: I couldn't deal with all that in
+dialog: one night.
+text: Guy goes back to his table. Ronny hands Clarence a beer.
+speaker_heading: RONNY
+text: Word travels fast in Torrance.
+speaker_heading: CLARENCE
+dialog: Yeah.
+text: Clarence keeps eyeing Misty. He decides to make a move. He gets
+text: up, beer in hand, and approaches Misty.
+text: As Misty leans over the pool table to make another shot, Clarence
+text: moves behind her. She pulls back on the cue stick, POKING
+text: Clarence in the eye.
+speaker_heading: CLARENCE
+dialog: Aaahhh! —
+text: Misty turns around. Clarence has his hand over his eye.
+speaker_heading: CONT.
+speaker_heading: ~“N
+speaker_heading: MISTY :
+dialog: Oohh . .. I'm sorry. Are you all
+dialog: right?
+speaker_heading: CLARENCE
+dialog: No problem. I think the blindness
+dialog: is only temporary.
+text: He rubs his eye.
+text: Misty laughs.
+speaker_heading: MISTY
+dialog: What're you doing?
+speaker_heading: (CLARENCE
+text: Peeling my eyeball off my brain.
+speaker_heading: ‘ MISTY
+dialog: I'm really sorry.
+speaker_heading: CLARENCE
+dialog: I'm okay now. I'm just fine. See?
+dialog: (takes hand away from eye)
+text: Looks almost like the other one.
+speaker_heading: CLARENCE
+dialog: My name is Clarence Pool.
+speaker_heading: MISTY
+dialog: I'm Misty Knight.
+speaker_heading: CLARENCE
+dialog: Misty Knight . .. what a pretty
+dialog: name. Very passionate sounding.
+speaker_heading: MISTY
+dialog: Are you the one who's playing
+dialog: Shakin' Stevens on the juke box?
+speaker_heading: CLARENCE
+dialog: That's me. Yeah, I --- You know
+dialog: who Shakin' Stevens is?
+speaker_heading: MISTY
+dialog: Oh, yes. He's my very favorite.
+dialog: Wait a second! Clarence Pool...
+dialog: not the Clarence Pool from KBLI?
+speaker_heading: CONT.
+dialog: +7
+dialog: c
+speaker_heading: CONT.
+speaker_heading: CLARENCE
+dialog: The one and only.
+speaker_heading: MISTY
+dialog: What a privilege to meet you. What
+dialog: are you doing here?
+speaker_heading: CLARENCE
+dialog: I come here a lot. Actually, right
+dialog: now I'm doin' a little recruiting.
+speaker_heading: . MISTY
+dialog: Recruiting?
+speaker_heading: _ CLARENCE
+dialog: For a party. See, there's this
+dialog: guy... my best friend. He's
+dialog: really cool, the coolest. Things-
+dialog: have been a bit tough for him.
+dialog: His girl walked out on him, and he's
+text: turning thirty. His name is Mickey.
+speaker_heading: MISTY
+dialog: Mickey . . . Mickey Burnett? You
+dialog: mean Midnight Mickey?
+speaker_heading: CLARENCE
+dialog: Yeah, that's hin.
+speaker_heading: MISTY
+dialog: I love his show. So, what's the
+dialog: scoop? Are you recruiting me?
+speaker_heading: CLARENCE
+dialog: Well, I don't want this to sound .
+dialog: you know . . . I mean I could bring
+dialog: my girl and if Mickey had a girl,
+dialog: we could all party. .
+speaker_heading: MISTY
+dialog: Oh, I get it. You want me to be
+dialog: Mickey's date for tonight. Right?
+speaker_heading: CLARENCE
+dialog: Yeah, I was thinking that ---
+speaker_heading: . MISTY
+dialog: Great.
+speaker_heading: CONT.
+speaker_heading: CONT.
+speaker_heading: CLARENCE
+dialog: It is? All right, all right. I
+dialog: ean, I'd only do this for a girl
+dialog: I liked ‘cause Mickey's the best.
+speaker_heading: MISTY
+dialog: Fine.
+speaker_heading: CLARENCE
+dialog: It is? Fabulous. I'll have to
+dialog: give you Mickey's address.
+text: Misty picks up a mammoth-sized purse from the floor. She pulls
+text: out a notebook and pen, and gives it to Clarence. Clarence
+text: writes the address down.
+speaker_heading: CLARENCE
+dialog: Nice purse. Very roomy. Sorta
+text: like a luxury model of the purses.
+text: (takes a key out of his
+dialog: pocket -- gives it to her)
+dialog: That's his key. We're best friends.
+dialog: We have keys to each other's place.
+dialog: Anyway, maybe you could go there
+dialog: and kindda surprise him and ---
+speaker_heading: MISTY
+dialog: Entertain him.
+speaker_heading: CLARENCE
+dialog: Yeah, right. Entertain him. Then
+dialog: you could talk him into coming over
+dialog: to my place -- he knows where it
+dialog: is -- and we'll have a birthday
+dialog: party. You and him, and me and
+dialog: my girl.
+speaker_heading: MISTY
+dialog: That sounds fun. Should we talk
+dialog: price now or later?
+speaker_heading: CLARENCE
+dialog: Price? What price?
+speaker_heading: MISTY
+dialog: My price.
+speaker_heading: CLARENCE
+dialog: Your price?
+dialog: (realizes she's a pro)
+dialog: Oh... your price. Uh, well,
+dialog: how much?
+speaker_heading: CONT.
+dialog: 4
+dialog: 4
+dialog: ui
+dialog: ©
+speaker_heading: MISTY
+dialog: Well, how much do you think?
+speaker_heading: CLARENCE
+dialog: - How much do you usually charge?
+speaker_heading: MISTY
+dialog: How much do you usually pay?
+speaker_heading: CLARENCE ©
+dialog: Uh, usually, uh, the going rate.
+scene_heading: MISTY.
+dialog: I should explain that I'm not a
+dialog: hooker, I'm a call-girl. Call-
+dialog: girl's are much more classier.
+speaker_heading: CLARENCE
+dialog: I. know that. I knew that before
+dialog: I came over here. I wouldn't get
+dialog: just a hooker for Mickey.
+speaker_heading: MISTY
+dialog: (flattered)
+dialog: Really? :
+dialog: (does some figuring in her
+dialog: head)
+dialog: Fifty dollars?
+speaker_heading: CLARENCE
+dialog: I could go thirty.
+speaker_heading: MISTY
+dialog: Forty. -
+text: Clarence thinks it over. He discreetly takes out his wallet
+text: peeking over his shoulder to see if Ronny's watching. Ronny's
+text: eyes are practically popping out of their sockets. He leans over
+text: the counter, peering at Clarence.
+text: Clarence blocks Ronny's view, hands Misty the forty dollars. She
+text: smiles, and so does Clarence.
+speaker_heading: MISTY
+dialog: I'll see you at your place...
+dialog: with your best friend.
+speaker_heading: CLARENCE
+dialog: It's gonna be a wild night.
+speaker_heading: CONT.
+dialog: 31
+speaker_heading: CONT.
+text: “As Misty leaves, Clarence sashays back to the bar counter. Ronny
+text: looks at Clarence.
+speaker_heading: . CLARENCE
+dialog: Something wrong, Ronny?
+dialog: sbi
+dialog: Where'd she go?
+speaker_heading: CLARENCE
+dialog: Mickey's.
+speaker_heading: -RONNY
+dialog: Why?
+speaker_heading: CLARENCE
+dialog: ‘Cause I told her to. Is Bill
+dialog: Smith's Video Bakery open tonight?
+speaker_heading: RONNY
+dialog: Yep.
+speaker_heading: CLARENCE
+dialog: Good. See ya.
+text: Clarence leaves the bar.
+text: Seconcs later, CLIFFORD THE PIMP walks in. He's black, dressed
+text: zn an outdated and unkempt. suit, and totally monotone. This guy
+text: is definitely in the wrong profession. He surveys the bar, then
+text: walks over to Ronny.
+speaker_heading: CLIFFORD
+dialog: Hey, dickhead, you see a girl with
+dialog: a short dress, blond hair, nice
+dialog: figure, shooting pool in here?
+speaker_heading: RONNY
+dialog: Yeah.
+speaker_heading: CLIFFORD
+dialog: Know where she went?
+speaker_heading: RONNY
+dialog: Yeah.
+speaker_heading: CLIFFORD
+dialog: Where?
+speaker_heading: CONT.
+speaker_heading: CONT.
+speaker_heading: RONNY
+dialog: .I can't tell you. When a customer
+dialog: comes into my bar, they know that
+dialog: they have total privacy. They can
+dialog: come and go where they want and
+dialog: completely trust me to keep ny
+dialog: lips sealed. I would never betray
+dialog: one of my customers. No matter
+dialog: what.
+text: Clifford GRABS Ronny by the shirt collar, pulling him half over
+text: the bar counter. Clifford sticks his fist up to Ronny's face.
+speaker_heading: -CLIFFORD
+dialog: How'd you like me to squash your
+dialog: fat face, num-nuts?
+speaker_heading: RONNY
+dialog: She went to Darwin Apartments on
+dialog: Carpenter Street. Apartment 13.
+text: Clifford releases Ronny, and storms out of the bar.
+speaker_heading: RONNY
+dialog: (mutters to himself)
+dialog: He better hepe our paths never
+dialog: cross again.
+scene_heading: Inv. BILL SMITH'S VIDEO BAKERY -- NIGHT
+dialog: This store is a combination bakery and video store. You can rent
+dialog: a tape with the pie, cake, or cookies you buy. Clarence stands
+text: by the counter, looking over all the pastry. BILL THE BAKER is
+text: waiting on him.
+speaker_heading: CLARENCE
+dialog: Let me have a dozen of those doughnuts,
+dialog: a box of those cookies, that cream
+dialog: pie...
+speaker_heading: BILL
+dialog: . Clarence, hey, hold on. You wanna
+dialog: give Mickey sugar diabetes?
+speaker_heading: CLARENCE
+dialog: It's his birthday. Let me have
+dialog: that cake.
+speaker_heading: BILL
+dialog: Which cake?
+speaker_heading: CONT.
+dialog: aos
+dialog: 5
+speaker_heading: CONT.
+dialog: 33
+speaker_heading: CLARENCE
+dialog: Whatta ya mean, which one? The
+dialog: coolest one. That big white one
+dialog: there.
+text: Bill pulls it out and sets it on the counter.
+speaker_heading: CLARENCE
+dialog: You'll write on it for me, won't
+dialog: ya?
+speaker_heading: BILL
+dialog: Yeah, sure. How's Mickey doin'
+dialog: anyway? I haven't seen him since
+text: Pandora cut out on hin.
+speaker_heading: CLARENCE
+dialog: You know about that?
+speaker_heading: BILL
+dialog: All my customers are talkin’ about
+dialog: it. And by the way, the last time
+dialog: Mickey was in here,.you and him were
+dialog: arguin' with me, and I want to make
+dialog: my point clear. You didn't give
+dialog: me a chance last time. Now, I agree
+dialog: that when it came to singin' and makin'
+dialog: albums and performing, Elvis was
+dialog: king. But I'm sorry, as a actor,
+dialog: the guy was a lost cause.
+speaker_heading: CLARENCE
+dialog: Elvis was a great actor. He just
+dialog: made some shitty movies.
+speaker_heading: BILL
+dialog: Wait a minute. Elvis wasn't a
+dialog: great actor. Marlon Brando's a
+dialog: great actor. Michael Caine's a
+dialog: great actor. Gene Hackman's a great
+dialog: actor. You put Elvis up with those
+dialog: guys?
+speaker_heading: CLARENCE
+dialog: Yes. Now just hear me out. When
+dialog: you say Elvis was shitty, you're
+dialog: probably talkin' about the Elvis
+dialog: who was in “Girls, Girls, Girls",
+dialog: “Harem Scarem", “Kissin' Cousins",
+dialog: or “Paradise, Hawaiian Style.”
+speaker_heading: (MORE)
+speaker_heading: CONT.
+dialog: uw
+dialog: t
+speaker_heading: CLARENCE
+dialog: That's not what I'm talkin’ about.
+dialog: Not to say he was bad in those.
+dialog: He was as good aS & person can be
+dialog: in "Clambake." But what I'm talkin'
+dialog: about is the first movies he made
+dialog: like “Jailhouse Rock” .-- which is
+dialog: one of Mickey's all time favorites --
+dialog: “Lovin' You", “King Creole", “Flaming
+dialog: Star." He was so natural, so sexy,
+dialog: so Elvis. He couldda been so great
+dialog: He had a wonderful natural quality
+dialog: about him. What fucked him up?
+dialog: "Blue Hawaii.” That was the first
+dialog: of the quote “Elvis Presley movies.”
+dialog: Elvis singin' a bunch of lame songs
+dialog: every minute. No story. Justa .
+dialog: real dog shit movie all around. But the
+dialog: fuckin' thing was a hit. So asshole
+dialog: Tom Parker said, “Well, that's what
+dialog: the people want.” So, any chance
+dialog: of Elvis growing as an actor, vworkin'
+dialog: with good directors and good scripts
+dialog: got shot to hell. Then they did
+text: “Kissin' Cousins” and they found out
+dialog: they could crank ‘em out in thirteen
+dialog: days. So, that's why ya had a
+dialog: Elvis movie out every Christmas
+dialog: and every summer.
+speaker_heading: BILL
+dialog: Yeah, I remember every Christmas
+dialog: and summer a new Elvis and Jerry
+dialog: Lewis movie would come out. And
+dialog: I'd keep goin' hoping they'd be
+dialog: good. But you know, his music was
+dialog: like that, too. There was never
+dialog: any doubt in my mind if he got
+dialog: himself some good material, and put
+dialog: out one good album, he'd be right
+text: back on top. As big as he ever
+dialog: was. I knew it, and so did everyone
+dialog: else who was cool. Just one good
+dialog: album was all it wouldda took. I
+text: had a picture of him on the wall.
+dialog: And I'd say, "Come on, Big E” --
+dialog: that's what I called him -- “Come on,
+dialog: Big E, you can do it.” It didn't
+dialog: matter he was in his late thirties.
+dialog: I mean, that's old --
+speaker_heading: CONT.
+dialog: (Cc
+speaker_heading: CONT.
+dialog: 35
+speaker_heading: CLARENCE
+dialog: Not for Elvis.
+speaker_heading: BILL
+dialog: - Right, not for Elvis. While the
+dialog: Clarence pulis
+dialog: Beatles are comin' out with “Sgt.
+dialog: Pepper's Lonely Heart Club Band"
+text: he comes out with the soundtrack
+dialog: for “It Happened At The World's
+dialog: Fair.” Look, what do you want
+dialog: written on the cake?
+text: a@ paper out from his shirt pocket.
+speaker_heading: CLARENCE
+dialog: I have it right here.
+dialog: (reads)
+dialog: “Friendship. Friendship will always be
+dialog: the love between Mickey and me.
+dialog: The joy of always know ---
+speaker_heading: BILL
+dialog: Hold it. Time out, Greenbay. I
+dialog: can't put all that on.
+speaker_heading: CLARENCE
+dialog: Why not?
+speaker_heading: BILL
+dialog: I don't have that much room?
+speaker_heading: CLARENCE
+dialog: How cuch room do you have?
+speaker_heading: BILL
+dialog: I got about enough room for “Happy
+dialog: Birthday, Mickey.”
+speaker_heading: CLARENCE
+dialog: Avv, man. Everyone puts that on
+dialog: their cake.
+speaker_heading: BILL
+dialog: Everyone named Mickey. Y'know,
+dialog: there's a reason, Clarence. It's
+text: short and sweet.
+speaker_heading: CLARENCE
+dialog: You're right. We're not eating the
+dialog: lettering. Actually, we are eating
+text: the lettering, but just put down whatever.
+speaker_heading: CONT.
+speaker_heading: Cc
+speaker_heading: Cc
+text: CONT. .
+text: Bill starts writing.
+speaker_heading: CLARENCE
+dialog: ’ You're not writing “whatever,” are
+dialog: you?
+speaker_heading: BILL
+dialog: No, I'm not writing “whatever.”
+text: Bill stops.
+speaker_heading: BILL .
+dialog: Look, just forget it. Take the
+dialog: cake the way it is.
+speaker_heading: CLARENCE
+dialog: You're right. And I want the cookies,
+dialog: the doughnuts, the pie. Maybe
+text: some fudge.
+speaker_heading: BILL
+dialog: Fuck it.
+text: Bill starts walking to the back of the store.
+speaker_heading: BILL
+dialog: I'm getting a box, Clarence. A big
+dialog: one. How the fuck do ya think
+dialog: you're gonna eat all that shit?
+text: Bill goes into the back room. Clarence is still thinking.
+speaker_heading: CLARENCE
+dialog: Maybe some chocolate eclairs, or
+dialog: some turnovers, or some apple
+dialog: fritters...
+scene_heading: EXT. CITY STREET -- NIGHT
+text: Clifford's walking down a dimly lit Torrance street, mumbling to
+dialog: himself. —
+speaker_heading: CLIFFORD
+dialog: I'm a hand grenade with the pin
+dialog: pulled.
+text: He stops to read a street sign. He pauses, deciding which
+dialog: direction he should take.
+dialog: . CONT. |
+dialog: =
+dialog: uw
+speaker_heading: CONT.
+text: Cc Clifford continues mumbling as he walks down another street.
+speaker_heading: . CLIFFORD
+text: I'm a fuming Volcano of rage ready
+text: to erupt.
+dialog: - I
+scene_heading: EXT. MICKEY'S APARTMENT -- NIGHT
+text: Misty stops in front of Mickey's apartment and checks the room
+text: number with the address in her notebook.
+speaker_heading: “MISTY
+dialog: - Whew. That was a long walk.
+text: She unlocks the door, using the key Clarence gave, her.
+scene_heading: INT. MICKEY'S APARTMENT (BATHROOM) -- NIGHT
+text: Mickey's in the shower. Obviously still depressed, he's just
+text: standing still letting the water run down his body.
+text: Suddenly, Misty opens the shower door.
+speaker_heading: MICKEY
+dialog: Aaahhh!
+speaker_heading: MISTY
+dialog: Hi, Micky. I'm Misty Knight, your
+dialog: birthday surprise.
+text: Mickey just stands there, mouth agape.
+speaker_heading: MISTY
+dialog: (sings)
+dialog: Happy birthday to you.
+dialog: Happy birthday to you.
+dialog: Happy birthday dear Mickey.
+dialog: Happy birthday to you.
+text: Mickey still isn't moving.
+speaker_heading: MISTY
+dialog: Now, I'll wait in the other room
+dialog: and when-you're done here, we can
+dialog: Start our party. .
+dialog: C (pause)
+dialog: o I love your radio show.
+dialog: { . CONT.
+dialog: “y
+dialog: 36
+dialog: CONT. *
+text: Misty closes the shover door.
+text: Mickey just stands there.
+text: Misty opens the shower door.
+speaker_heading: MISTY
+dialog: Oh . . . and keep it casual. What
+dialog: you have on is fine.
+text: Misty closes the shower door.
+text: Mickey's just standing there.
+scene_heading: INT. CLARENCE'S APARTMENT -- NIGHT
+text: Clarence stands next to a table dialing a phone. On the table is
+text: a big birthday cake, strawberry shortcake, a bowl of candy bars,
+text: doughnuts, fudge bars, cookies, a cream pie, and a bowl of punch.
+text: Clarence gets a BUSY SIGNAL. He hangs up. He tries again.
+text: Another BUSY SIGNAL. He hangs up. He dials the operator. As he
+text: talks, he dumps en entire bottle of-Vodka into the punch.
+speaker_heading: CLARENCE
+dialog: Operator, I need to make an emergency
+dialog: phone call.
+scene_heading: INT. CECILIA'S APARTMENT -- NIGHT
+text: CECILIA, a very attractive lady dressed in a police uniform, sits
+text: on her bed and talks with her analyst on the phone.
+speaker_heading: CECILIA
+dialog: Dr. Reighold, I can't live like
+dialog: this anymore. I have one on one
+text: end, and one on the other. And it's
+dialog: tearing me apart.
+speaker_heading: DR. REIGHOLD (V.0.)
+dialog: Well, now, Cecilia. What are the
+dialog: choices? co
+speaker_heading: CECILIA
+dialog: Well, Clarence is cool, at least
+dialog: he tells me he is.
+speaker_heading: (MORE)
+speaker_heading: CONT.
+dialog: 39
+speaker_heading: CONT.
+speaker_heading: CECILIA °
+dialog: But Eddie is supposed to be my boy-
+dialog: friend. And he's my partner. We
+text: drive around in a squad car together.
+dialog: But I have-to take a stand. I
+dialog: have to get out from the middle.
+text: The OPERATOR interrupts.
+speaker_heading: OPERATOR (V.0.)
+dialog: I have an emergency call for Cecilia
+dialog: Long from Aldo Ray.
+speaker_heading: CECILIA
+dialog: Aldo Ray?
+speaker_heading: DR. REIGHOLD (V.0.)
+dialog: Cecilia, you never told me you
+dialog: knew Aldo Ray. .
+speaker_heading: CECILIA
+dialog: I don't know Aldo Ray. Doctor,
+dialog: let me call you back.
+text: Cecilia hangs up. Almost immediately, the phone RINGS. WE SEE
+text: both sides of the conversation. As Clarence speaks, he munches
+text: on a candy bar and pours yet another bottle of Vodka into the
+dialog: punch.
+text: Ceciiia answers the phone.
+speaker_heading: CECILIA
+dialog: Hello.
+speaker_heading: CLARENCE
+dialog: Hello, baaabbbyyy.
+speaker_heading: CECILIA
+dialog: Clarence!
+speaker_heading: CLARENCE °
+dialog: Yeah. Who were you expecting?
+dialog: Aldo Ray?
+dialog: (he laughs)
+dialog: Cecilia, I just called to see if
+dialog: you'd like to go to a party tonight.
+dialog: Actually, the party's here, and
+dialog: it's for my best friend Mickey --
+dialog: I've told you about him -- but he
+dialog: doesn't know about the party 'cause
+dialog: it's gonna be a surprise.
+speaker_heading: CONT.
+dialog: &
+dialog: a
+speaker_heading: CONT.
+speaker_heading: CECILIA
+dialog: Clarence, listen to me .
+speaker_heading: * CLARENCE
+dialog: And there'll be just the four of
+dialog: us. You, me, Mickey, and his girl-
+text: friend, who he hasn't met yet.
+dialog: Well, actually, by now he probably
+dialog: has, but it doesn't matter because
+dialog: she'll bring him here some time
+dialog: tonight.
+speaker_heading: CECILIA
+dialog: Clarence, listen to me...
+speaker_heading: CLARENCE
+dialog: I know what you're gonna say. Just
+dialog: wear any old thing as long as it's
+dialog: nice.
+speaker_heading: CECILIA
+dialog: Clarence! I can't come over! In
+dialog: fact, I can't ever see you again!
+speaker_heading: CLARENCE
+dialog: What? You know, this smacks of
+dialog: the work of that lunk-head boyfriend
+dialog: of yours again.
+speaker_heading: CECILIA
+dialog: Yes, it's Eddie. He's been spying
+dialog: on me. He knows I've been seeing
+dialog: you. I.can feel it.
+speaker_heading: CLARENCE
+dialog: So what? -
+speaker_heading: CECILIA
+dialog: So, you don't know Eddie. He's
+dialog: really strong...
+text: INSERT: EDDIE, wearing workout clothes, doing curls. He SCREAMS.
+speaker_heading: CECILIA
+dialog: - . and really mean .
+text: INSERT: Eddie's bench pressing. He SCREAMS.
+speaker_heading: CECILIA
+dialog: . . and really jealous.
+speaker_heading: CONT.
+dialog: s
+dialog: eo
+dialog: (Cc
+speaker_heading: CONT.
+speaker_heading: INSERT:
+dialog: 4
+text: Eddie, wearing his cop uniform, aims his .357 right at
+text: the camera. He SCREAMS.
+speaker_heading: CLARENCE
+dialog: And I'm really pissed. I'm telling
+dialog: you, Cecilia, he doesn't know just
+dialog: who he's messing with here. And
+dialog: when I get pissed, watch out.
+speaker_heading: CECILIA
+dialog: I'm sorry, Clarence. I just can't
+dialog: come over.
+speaker_heading: CLARENCE
+dialog: Sure you can, baby. You can do
+dialog: it. You just need a little strength.
+text: The strength that a voman finds
+text: inside herself when the chips are
+dialog: doen, when it's time to get tough,
+dialog: when it's time to take a stand.
+dialog: ‘Know what I mean, baby?
+text: Clarence hears a DIAL TONE. He hangs up.
+text: INT.
+dialog: Misty’
+scene_heading: MICKEY'S APARTMENT (LIVING ROOM) -- NIGHT
+text: lying on top of a coffee table practicing sexy poses.
+text: Suddenty, Clifford BURSTS in through the front door.
+speaker_heading: CLIFFORD
+dialog: What do you think you're doin'?
+speaker_heading: MISTY
+dialog: Clifford, I'm with a customer.
+speaker_heading: CLIFFORD
+dialog: I get your customers.
+speaker_heading: MISTY
+dialog: How can you get me customers? You
+dialog: .can't even afford a car.
+speaker_heading: CLIFFORD
+dialog: Why don't you stay by the phone
+dialog: like I told you?
+speaker_heading: CONT.
+dialog: ~
+dialog: +>
+dialog: 5
+dialog: ro
+dialog: oo
+speaker_heading: CONT.
+speaker_heading: MISTY
+dialog: Clifford, you're upsetting me.
+dialog: Now, this is the last time I'n
+dialog: telling you, I don't want you to
+dialog: be my pimp anymore.
+speaker_heading: CLIFFORD
+dialog: So, you don't want me to be your
+dialog: pimp no more?
+text: Clifford moves at her, and starts strangling her. Misty
+text: Struggles and flails with her hands. She accidently BOPS
+text: Clifford in the nose.
+speaker_heading: ‘CLIFFORD
+dialog: Ooww!
+text: He holds his nose.
+speaker_heading: MISTY
+dialog: Clifford, you shouldn't have started
+dialog: choking me. Let me see you nose.
+dialog: Come on. Let me see.
+text: Clifiord does.
+speaker_heading: MISTY
+dialog: Oh, you're all right.
+text: She starts laughing.
+text: Clifford really gets pissed. He grabs her again. They struggle.
+speaker_heading: CLIFFORD
+dialog: I came all the way down here on
+dialog: the bus and this is what I get?
+text: Clifford THROWS Misty on the floor.
+speaker_heading: MISTY
+dialog: Owch!
+speaker_heading: CLIFFORD
+dialog: What'd I tell you? Shouldn't be
+dialog: messin' with the kid.
+text: Mickey steps out of the bathroom. He thinks Misty's alone.
+speaker_heading: MICKEY
+dialog: You know, maybe you're right. I've
+dialog: been down so long I need to party
+dialog: and ---
+dialog: - CONT...
+dialog: +7
+dialog: ~
+dialog: +7
+dialog: 43
+speaker_heading: CONT.
+text: “Mickey stops when he sees Clifford standing over Misty.
+speaker_heading: MICKEY
+dialog: (to Clifford)
+dialog: Get outta my. apartment!
+dialog: Clifford points et Mickey.
+speaker_heading: CLIFFORD
+dialog: You! Your ass is grass, and I'm
+dialog: the lawn mover!
+text: Clifford pulls out a pair. of nunchakus from inside his suit
+text: jacket. He starts twirling them.
+text: Misty gathers her stuff, and runs out the door.
+text: Clifford CHARGES Mickey, twirling the nunchakus.
+text: Mickey freaks. Just before Clifford's on him, he ducks back
+dialog: inside the bathroom. -
+speaker_heading: THE BATHROOM
+text: Mickey shuts the door. From inside the bathroom he hears a THUNK
+text: as Clifford runs into the door.
+speaker_heading: CLIFFORD (0.S.)
+dialog: (outside door)
+dialog: Ooohhh!
+text: Mickey hears another THUNK as Clifford hits the floor.
+scene_heading: THE LIVING ROOM
+text: Mickey steps out of the bathroom and finds Clifford lying on his
+text: back on the floor. He's dropped the nunchakus.
+text: Mickey picks Clifford up and starts to drag him toward the front
+dialog: door.
+text: Suddenly, Clifford breaks free. He does a “karate SCREAM" and
+text: moves into the ridiculous preying mantis stance from “Karate
+dialog: Kid.“
+text: Mickey snorts, and SMASHES Clifford with a flurry of karate
+text: KICKS.
+speaker_heading: CONT.
+dialog: e
+dialog: cont.
+text: Clifford SLAMS into the wall.
+text: Mickey BATTERS him with more karate kicks. One kick KNOCKS
+text: Clifford into the kitchen.
+text: From the living room, Mickey hears the CLATTER and CLANGING ‘of
+text: Clifford falling into kitchen utensils.
+text: Suddenly, Clifford bolts out of the kitchen twirling a floor mop
+text: as if it were a fighting staff.
+speaker_heading: CLIFFORD
+dialog: Nnnyyysaaehhh!
+text: Mickey BLOCKS Clifford's first few flails. He catches the mop in
+text: both hands.
+text: Clifford thrusts the mop forward, SMACKING Mickey right in the
+text: face, and KNOCKING him down.
+text: Cliffcrd stands above the fallen Mickey, twirling the mop.
+text: Lying on his back, Mickey KICKS Clifford in the groin.
+text: Cliffcrd backs up a few steps and folds, dropping the mop.
+text: Mickey springs to his feet. He touches his nose with his fingers
+text: and realizes it's bleeding. Now he's really pissed.
+text: Mickey grabs Clifford, raising him up.
+speaker_heading: MICKEY
+text: Lights out, prick.
+text: Mickey hauls off and SMASHES Clifford in the face with a sweeping
+text: haymaker of a punch.
+text: Clifford backpedals off camera.
+text: Mickey spins around and around, and finally falls on his butt
+text: from the force of his punch.
+text: Mickey scrambles “bo his feet, looking around his apartment.
+dialog: Where did Clifford go?
+text: Mickey looks out his front door, which is still open. Directly
+text: beneath Mickey's second floor balcony is a large trash can.
+text: Clifford's feet are dangling out of it.
+dialog: >
+dialog: 45
+scene_heading: EXT. DARWIN APARTMENTS -- NIGHT ‘
+text: Mickey runs down the steps, slipping on a leather jacket over a
+text: T-shirt and jeans. He stops by the trash can, and looks at
+text: Clifford's legs dangling out of it.
+text: Not wanting any part of Clifford, Mickey just keeps running.
+scene_heading: EXT. STREET BY DARWIN APARTMENTS -- NIGHT
+text: Mickey runs to his Mustang. He gets inside and tries to start
+dialog: it. It won't start.
+speaker_heading: MICKEY
+dialog: Don't do this to me.
+text: He tries again. It still won't start.
+text: A CUIE GIRL, 10. years old, zips by on roller skates. Suddenly,
+text: she stops, and skates back to Mickey's Mustang. She raps on his
+dialog: window.
+text: Mickey nods at her, and tries to start the car. It won't start.
+text: She raps on the window again. Mickey rolls the window down.
+speaker_heading: MICKEY
+dialog: What?
+speaker_heading: CUTE GIRL
+dialog: You're Midnight Mickey, aren't you?
+dialog: I've seen your picture in the Enter-
+dialog: tainment section of the Torrance
+dialog: Tribune.
+speaker_heading: MICKEY
+dialog: Right, I'm me. Look, I don't want
+dialog: to be rude, but I'm in a real hurry.
+speaker_heading: CUTIE GIRL
+dialog: Too bad about Pandora.
+speaker_heading: MICKEY
+dialog: Yeah, well, I gotta go and --- How
+dialog: do you know about Pandora?
+speaker_heading: CUTE GIRL
+dialog: I read it in Beatrice Buford's gossip
+text: column in the Torrance Tribune.
+speaker_heading: CONT.
+dialog: cy
+speaker_heading: CONT.
+speaker_heading: MICKEY
+dialog: What the hell's she writing that
+dialog: for? I thought Beatrice liked
+dialog: - all the jocks et K-Billy.
+speaker_heading: CUTE GIRL
+dialog: Well, that's the price of being
+dialog: a celebrity, I guess.
+text: Mickey tries to start his car. It won't start.
+text: just stands there, staring at hin.
+speaker_heading: MICKEY
+dialog: Look, honey,. you're very nice and
+dialog: very pretty, and I've enjoyed our
+dialog: conversation, but I'm kindda busy
+dialog: right now. Maybe we could talk
+dialog: again at another time.
+speaker_heading: CUTE GIRL
+dialog: Wow! Pervert-city! Wait ‘till
+dialog: I tell everyone that an older man
+dialog: like you came on to me.
+speaker_heading: MICKEY
+dialog: 46
+dialog: The Cute Girl
+dialog: What're you talkin' abour? I didn't
+dialog: come on to you.
+speaker_heading: CUTE GIRL
+dialog: You called me honey and pretty, and
+dialog: you said you wanted to meet with me
+dialog: later!
+speaker_heading: MICKEY
+dialog: I didn't say that. I said ---
+text: She skates away. Her voice trails off:
+speaker_heading: CUTE GIRL
+dialog: Wow! Midnight Mickey's a sickie!
+text: Mickey just groans and tries to start his car.
+scene_heading: EXT. A STREET -- NIGHT
+text: Clarence drives his car down a street.
+text: the sidewalk.
+dialog: car.
+text: He sees Misty walking on
+text: Clarence parks by the curb, and gets out of his
+speaker_heading: CONT.
+dialog: 5)
+text: CONT. .
+speaker_heading: : CLARENCE
+dialog: Misty! Over here!
+text: Misty sees Clarence. She runs over to hin.
+speaker_heading: CLARENCE
+dialog: That was quick.
+speaker_heading: MISTY
+dialog: Too quick. We never got started.
+speaker_heading: CLARENCE
+dialog: Too quick . . . it was? Mickey?
+dialog: I thought he'd savor someone like
+dialog: you.
+text: Misty doesn't hear him. She's already inside his car.
+scene_heading: INT. CLARENCE'S CAR -- MOVING -- NIGHT
+text: Clarence gets inside the car with Misty.
+speaker_heading: MISTY
+dialog: Clarence, could we just leave?
+speaker_heading: CLARENCE
+dialog: The experience was that bad?
+speaker_heading: MISTY
+dialog: It was terrible. What a mess. I don't
+dialog: want to talk about it.
+text: Clarence starts the car, and drives.
+speaker_heading: - CLARENCE
+dialog: I'm sorry he's not Johnny Weismuller.
+speaker_heading: MISTY
+dialog: I didn't have time to find out.
+text: Clarence reacts to this.
+speaker_heading: MISTY
+dialog: Please, let's just drop it. What
+dialog: are you doing here?
+speaker_heading: . CLARENCE
+dialog: Well . . . my baby left me.
+speaker_heading: CONT.
+speaker_heading: CONT.
+dialog: 46
+speaker_heading: MISTY
+dialog: Qh, that's sad. Why did she leave
+dialog: you?
+speaker_heading: CLARENCE
+text: She has a boyfriend.
+speaker_heading: MISTY
+dialog: What a stupid reason to leave some-
+dialog: body.
+speaker_heading: CLARENCE
+dialog: I was thinkin' about talkin’ to
+dialog: Mickey about it... after you
+dialog: two were done, I mean.
+speaker_heading: MISTY
+dialog: You can talk to me, if you like.
+speaker_heading: CLARENCE
+dialog: That's really nice, Misty. I don't
+dialog: know. Tell ya the truth, I don't
+dialog: really feel like talkin' about
+dialog: it. .
+text: Misty takes the forty dollars out of her purse, and hands it to
+dialog: Clarence.
+speaker_heading: MISTY
+dialog: I didn't really earn this.
+speaker_heading: CLARENCE
+dialog: Sure ya did. I couldn't take it
+dialog: back now.
+text: Misty tries to give him the money again.
+speaker_heading: CLARENCE
+dialog: Really ... I don't want it.
+text: Misty reluctantly puts the money back inside her purse.
+speaker_heading: MISTY
+dialog: What're you doing right now?
+speaker_heading: CLARENCE
+dialog: Just drivin’.
+speaker_heading: CONT.
+dialog: 5 .
+dialog: i “=>
+text: CONT. .
+speaker_heading: MISTY
+dialog: Seeing how your date fell through
+dialog: and things didn't work out for
+dialog: me, why don't we have that party
+dialog: anyvay? Justiiyou and me?
+speaker_heading: CLARENCE
+dialog: You and me? Eeally?
+speaker_heading: siSTY
+dialog: Really.
+scene_heading: EXT. BUSINESS BUILDING -- NIGHT
+text: An aging building with business offices inside. A YOUNG MAN
+text: stancs by the building strumming his guitar and singing folk
+text: songs. He has a hat on the sidewalk for people to donate spare
+dialog: change.
+text: A 4wd Bronco SCREECHES to a halt by the curb. “Torrance Police
+text: Depertment” insignias on the doors. Eddie gets out of the Bronco
+text: and looks at the building. He starts for the door, then stops by
+text: the Young Man, who's still singing.
+speaker_heading: EDDIE
+dialog: Get a job.
+text: Edd:e goes inside the building.
+scene_heading: INT. ARNS POSNER'S OFFICE -- NIGHT
+text: A cumpy office. ARNO POSNER, a dumpy private investigator, sits
+text: behind his dumpy desk, drinking a can of beer. A nameplate on
+dialog: his desk: “Arno Posner, P.I.”
+text: Eddie bursts into the office.
+speaker_heading: EDDIE :
+dialog: Okay, Posner, let's see the pictures.
+speaker_heading: POSNER
+dialog: Eddie, I wasn't expecting you.
+speaker_heading: EDDIE
+dialog: So what? ‘Let's see the fuckin’
+dialog: pictures.
+speaker_heading: CONT.
+dialog: CONT. ,
+text: Posner pulls a wad of snapshots out from a desk draver.
+speaker_heading: POSNER
+dialog: Okay, Eddie, but you're not gonna
+dialog: like it.
+text: He hands the pictures to Eddie. Eddie looks at them, getting
+text: angrier with each one.
+speaker_heading: POSNER
+dialog: I took ‘em. outside of the Dew Drop
+dialog: Motel.
+speaker_heading: EDDIE
+dialog: Dew Drop Motel . .. I hate that
+dialog: place!
+text: Eddie POUNDS his fist on Posner's desk. Papers go flying. Eddie
+text: looks at another picture.
+speaker_heading: EDDIE
+dialog: Look at this. .. they're snugglin'.
+text: Eddie KICKS a trash can against the wall.
+speaker_heading: POSNER
+dialog: Hey, take it easy.
+text: Eddie locks at another picture.
+speaker_heading: EDDIE
+dialog: They're kissin'!
+text: Eddie PUNCHES a file cabinet, knocking over a lamp which was on
+text: top of it.
+text: Eddie looks at another picture.
+speaker_heading: : EDDIE
+dialog: They're kissin' and snugglin'!
+dialog: (to Posner)
+dialog: How could you stand watchin’ such
+dialog: filth?
+speaker_heading: POSNER
+dialog: Just a job, pal.
+text: Eddie throws the pictures in Posner's face, and grabs him. He
+text: Starts SHAKING Posner by his shirt collar.
+speaker_heading: CONT.
+dialog: c
+dialog: wn
+dialog: eo
+speaker_heading: CONT.
+speaker_heading: EDDIE ,
+dialog: How can you call doin' this shit
+dialog: just a job?
+text: Posner's scared to death.. He's ready say anything to stop Eddie
+dialog: from hurting him. -
+speaker_heading: POSNER
+dialog: It was awful! It was terrible!
+dialog: I've never been so humiliated!
+text: Eddie stops shaking Posner, and releases hin.
+speaker_heading: EDDIE
+dialog: Who's the asshole with her?
+speaker_heading: POSNER
+dialog: His name's Clarence Pool. Some
+dialog: jock for KBLI. I got a phone number
+text: on him outta the book.
+text: Posner hancs Eddie a piece of paper with Clarence's phone number.
+speaker_heading: EDDIE -
+dialog: His address?
+speaker_heading: POSNER
+dialog: I ain't got that yet. He uses a
+dialog: post office box. But I know he
+dialog: hangs out at that dive Ronny's
+dialog: Bar.
+text: Eddie's about to leave.
+speaker_heading: POSNER
+dialog: Hey, Eddie, one thing... I think
+dialog: your chick was wise to me followin'
+dialog: her.
+speaker_heading: EDDIE
+dialog: Wise? There's nothin’ wise about
+dialog: someone fuckin' with me.
+text: Eddie leaves -- much to Posner's relief.
+scene_heading: EXT. BUSINESS BUILDING -- NIGHT
+text: Eddie walks out of the building, and steps inside a phone booth.
+speaker_heading: CONT.
+dialog: y
+text: CONT. .
+text: Edéie looks at the paper with Clarence's number. He digs through
+text: his pockets for some change. He doesn't have any.
+speaker_heading: EDDIE
+dialog: Shit.
+text: Eddie looks at the Young Man, and gets an idea.
+text: Eddie steps out of the phone booth and marches over to the Young
+text: Man. He tips over the Young Man's hat, and loose change scatters
+text: across the pavement.
+speaker_heading: H YOUNG MAN
+dialog: ey!
+text: Edc:e helps himself to some change. He looks at the Young Man,
+text: then grabs his guitar. Eddie SMASHES the guitar against the side
+text: of the building.
+text: The Young Man panics, and runs for it.
+speaker_heading: . EDDIE
+dialog: Welfare wimp.
+text: Edc:e returns to the phone booth, and deposits several coins into
+dialog: the phone.
+scene_heading: Int. CLARENCE'S APARTMENT -- NIGHT
+dialog: 
+text: ET SHOT on Clarence's phone machine. The phone RINGS. The
+text: answering machine kicks in. Rockabilly MUSIC starts playing.
+speaker_heading: CLARENCE (V.0.)
+dialog: Hello, baaaby. You've reached
+dialog: the ring-a-ding of the original
+dialog: hillbilly cat, Clarence Pool. And
+dialog: I'm gone, all gone. So, all you
+dialog: hep cats and kittens leave your
+text: name and number at the sound of
+dialog: the guitar lick. As soon as I'm
+dialog: done with my fresh fish special,
+dialog: I'll try not to drag my axle in
+dialog: waltz time, and get back to you.
+dialog: Bye.
+text: The phone machine BEEPS.
+speaker_heading: CONT.
+dialog: 4s x
+dialog: ~
+dialog: (co
+dialog: uw
+dialog: uw
+speaker_heading: CONT.
+speaker_heading: EDDIE (V.0.)
+dialog: You asshole! This is Eddie. I
+dialog: hope you know who I am. I hope
+dialog: that name means somethin' to you.
+dialog: I'm the man who's gonna drop-kick
+dialog: you to hell! |Cecilia's my woman.
+dialog: She's my property, and you been
+dialog: messin' with her. Look, garbage
+dialog: can, when I fi-d you and when I
+dialog: lay my hands on you, I'm gonna
+dialog: punch a hole through your rockabilly
+dialog: face! Then I'm gonna body-slam
+dialog: your rockabilly carcass to the
+dialog: ground! Then tie your rockabilly
+text: ass to the back of my car, and
+dialog: drag you down the middle of the
+dialog: street. I just wanted you to know
+dialog: that. I'M ON MY Way!
+text: RACK FOCUS to the doorway. Clarence and Misty enter, arm-in-arm.
+speaker_heading: CLARENCE
+dialog: Yeah, it'd be perfect for me and
+dialog: Mickey now that we're not workin’
+dialog: at K-Billy. There'd be a whole
+dialog: chain of 'em. It'll be called,
+dialog: “Rockabilly Burger." Fifties music
+dialog: piayin' all the time, pictures
+dialog: of Elvis everywhere. We'll have
+dialog: the Be Bopalula Burger and the
+text: Breathless Burito. One bite leaves
+dialog: you, “Ooohhh Breathless!"
+dialog: (pause)
+dialog: My room's just down the hall.
+dialog: (sings)
+dialog: Rock, rock, rockabilly burger!
+scene_heading: EXT. STREET BY DARWIN APARTMENTS -- NIGHT
+text: The hood is up on the Mustang. Mickey's working on the engine,
+text: using a flashlight to help him see.
+speaker_heading: MICKEY
+dialog: There, dammit, that should do it.
+text: Mickey slams the hood shut.
+speaker_heading: BIG GUY (0.S.)
+dialog: Hey, barf-bag!
+speaker_heading: CONT.
+dialog: >~ F.
+dialog: ~
+dialog: >
+dialog: 5s
+dialog: CONT. -
+text: Mickey turns, and sees a BIG GUY waddling toward him. The Cute
+text: Girl follows the Big Guy.
+speaker_heading: BIG GUY
+dialog: What're you tryin' to do to my
+dialog: daughter, puke-face?
+text: Mickey jumps inside the Mustang.
+speaker_heading: MICKEY
+dialog: I can't believe this shit.
+text: He starts the Mustang. The Mustang BURNS RUBBER and speeds away
+text: with the Big Guy and the Cute Girl running after it.
+scene_heading: INT. CLARENCE'S APARTMENT (BEDROOM) -- NIGHT
+text: The bedroom is rife with Elvis and movie posters. Clarence and
+text: Misty are on the floor next to the bed. Clarence's hands have
+text: been tied to a comic book stand. Clarence wears a robe, and
+text: Misty's wearing just her blouse, which stops above her knees.
+speaker_heading: CLARENCE
+dialog: So, how long have you been a call
+dialog: girl?
+speaker_heading: MISTY
+dialog: Not very long. In fact, this is
+dialog: my first time. I haven't even
+dialog: been iiving here that long.
+speaker_heading: CLARENCE
+dialog: Oh, I see.
+speaker_heading: MISTY
+dialog: I'm not finished.
+speaker_heading: CLARENCE
+dialog: Oh, I'm sorry.
+speaker_heading: MISTY
+dialog: See, for the past three years I
+dialog: worked at K-Mart in Cleveland.
+speaker_heading: CLARENCE
+dialog: Really? What department?
+speaker_heading: CONT.
+dialog: Cont.
+speaker_heading: MISTY
+dialog: Records and tapes.
+speaker_heading: : ' CLARENCE
+dialog: You lucky dog. I worked at K-Mart,
+dialog: too. :
+speaker_heading: MISTY
+dialog: Really?
+speaker_heading: CLARENCE
+dialog: Yeah, out here. I always tried to
+dialog: get into records and tapes, but
+dialog: they stuck me in women's shoes.
+speaker_heading: MISTY
+dialog: No kidding? I always felt sorry
+dialog: for those guys in women's shoes.
+dialog: Some of those ladies that would
+dialog: come in would make you try on fifty
+dialog: pairs of shoes before they made
+dialog: up their mind.
+speaker_heading: CLARENCE.
+dialog: Yeah, but I had a foot fetish, so
+dialog: it evened itself out. I remember
+dialog: my Shining moment of glory at K-Mart.
+dialog: I'm telling this customer what size
+text: shoe she wears, then all of a sudden
+dialog: this big fat rat falls out of the
+text: air duct, right in her lap.
+speaker_heading: MISTY
+dialog: Oh, my God . . . I would've freaked.
+speaker_heading: CLARENCE
+text: She starts screaming. The rat takes
+dialog: off like a shot. Wham! I go after
+dialog: him. I chased him all around the store
+dialog: for ten minutes. I finally beat him
+text: to death with a broom stick in hosiery.
+speaker_heading: MISTY
+dialog: (laughs)
+dialog: That's so classic! While I enjoyed
+dialog: records and tapes, I still felt
+dialog: unfullfilléd. You know what I mean?
+speaker_heading: CONT.
+text: CONT. .
+speaker_heading: CLARENCE
+dialog: I. hear ya talkin'.
+speaker_heading: . MISTY
+dialog: So, one night I go out on a date
+dialog: with this guy from auto accessories
+dialog: and we saw a film thta was to change
+dialog: my life.
+speaker_heading: CLARENCE
+dialog: What?
+speaker_heading: MISTY
+dialog: “Dressed to Kill."
+speaker_heading: . CLARENCE
+dialog: Wonderful movie. Excellent movie.
+speaker_heading: . MISTY
+dialog: You liked it, too?
+speaker_heading: CLARENCE
+dialog: Liked it? JI loved it. That Brian
+dialog: De Palma's a real mean motor scooter.
+speaker_heading: MISTY
+dialog: I love his movies.
+speaker_heading: CLARENCE
+dialog: He's right up there in my cool
+dialog: book. The man ain't shabby.
+speaker_heading: MISTY
+dialog: Well, you remember Nancy Allen in it?
+speaker_heading: CLARENCE
+dialog: Remember her? How could I forget
+dialog: her?
+speaker_heading: MISTY
+dialog: Wasn't she a knock out in that?
+speaker_heading: CLARENCE
+dialog: You know, I think they should pass a
+dialog: law that says Nancy Allen has to
+dialog: have sex with me anytime I want.
+speaker_heading: MISTY
+dialog: Remember what she was in that movie?
+speaker_heading: (MORE)
+speaker_heading: CONT.
+dialog: ‘
+speaker_heading: CONT.
+speaker_heading: MISTY
+dialog: She was a call girl... and she
+dialog: was so cool and so together, I said
+dialog: to myself, “Louise, that's the
+dialog: job for you."
+speaker_heading: CLARENCE
+dialog: Louise?
+speaker_heading: MISTY
+dialog: I mean Misty. "Misty, that's the job
+dialog: for you.” So, I came out here to
+dialog: make my mark. So far I've been
+dialog: an absolute failure.
+speaker_heading: : CLARENCE
+dialog: What have you failed at?
+speaker_heading: MISTY
+dialog: Well, my pimp, Clifford -- he's a
+dialog: lousy pimp. A helluva nice guy,
+dialog: but a lousy pimp. I just had to
+dialog: face the fact he wasn't doing anything
+dialog: to further my career. So, I fired
+dialog: him and tonight, my first time
+text: at bat with a paying customer...
+text: and everything explodes.
+speaker_heading: CLARENCE
+dialog: That's hardly your fault.
+speaker_heading: MISTY
+dialog: How am I ever going to start a
+dialog: referral system? When people pay
+dialog: for a good-cime girl, they want
+dialog: a good time. Not get involved
+dialog: in a miasma. That's why I was
+text: so upset.
+speaker_heading: CLARENCE
+dialog: Are you still upset?
+speaker_heading: - MISTY : :
+dialog: (coyly)
+dialog: No.
+speaker_heading: ( ) CLARENCE
+dialog: coyl
+dialog: Why? my
+speaker_heading: CONT.
+speaker_heading: ae oN
+dialog: 58
+text: CONT. .
+speaker_heading: MISTY
+dialog: (coyly right back)
+dialog: None of your business.
+text: They kiss.
+speaker_heading: CLARENCE
+dialog: You're sweet, you're nice, you have
+dialog: great taste in music. You know,
+dialog: the first time I saw you dancin’
+dialog: to that music, I thought to myself,
+dialog: “That's my kindda woman.”
+speaker_heading: MISTY
+dialog: Well, why didn't you do anything
+dialog: about it?
+speaker_heading: CLARENCE
+dialog: I did.
+speaker_heading: MISTY
+dialog: Yeah, you set me up with your friend.
+dialog: (pause)
+dialog: Why cidn't you do anything about
+dialog: it for you? .
+speaker_heading: CLARENCE
+dialog: I don't know. I guess I'm just
+dialog: stupid.
+speaker_heading: MISTY
+dialog: You're not stupid. Just wrong.
+text: They kiss.
+scene_heading: NT. RONNY'S BAR -- NIGHT
+text: Ronny's making himself a sandwich and listening to ELEVATOR MUSIC
+text: on his radio. Somebody speaks to him. He doesn't look up, being
+text: totally immersed in making his sandwich.
+speaker_heading: WOMAN (0.S.)
+dialog: Are you Ronny?
+speaker_heading: RONNY
+dialog: (not looking up)
+dialog: Who's asking?
+text: The radio is suddenly turned off.
+speaker_heading: CONT.
+speaker_heading: WOMAN (0.S.)
+dialog: I'm asking. Who else is talking
+dialog: to you?
+text: Ronny looks up and sees cestfie dressed in her cop uniform.
+speaker_heading: ONNY
+dialog: Okay, okay. I'm Ronny.
+speaker_heading: CECILIA
+dialog: Where's Clarence?
+speaker_heading: RONNY
+dialog: Who?
+speaker_heading: CECILIA
+dialog: Clarence Pool. Where is he?
+speaker_heading: RONNY
+dialog: I don't know any Clarence Pool.
+text: Cecilia whips out her nightstick, and waves it menecingly in
+text: front of Ronny's face. .
+dialog: CECILIA™
+dialog: I've had it with the games, dough-
+dialog: boy-face. I know Clarence comes
+dialog: here a lot, and I know he knows
+dialog: Ronny -- that's you. Where is he?
+speaker_heading: RONNY
+dialog: Is it an emergency, officer?
+text: Cecilia sets the nightstick gently on top of Ronny's shoulder.
+speaker_heading: CECILIA
+dialog: The emergency will be right here
+dialog: if you don't talk, nerf-nose.
+speaker_heading: RONNY
+text: He's at his apartment.
+speaker_heading: CECILIA
+dialog: I called there, fat-head. I got
+text: his phone machine.
+speaker_heading: RONNY
+text: Maybe he's not answering his phone.
+dialog: He does that sometimes.
+speaker_heading: CONT.
+speaker_heading: Cc
+speaker_heading: ’
+speaker_heading: CONT.
+text: Cecilia turns, and leaves the bar.
+text: Ronny waits until she's gone, then mutters to himself.
+speaker_heading: RONNY
+dialog: Lucky for her she's a woman. Other-
+dialog: wise, there's no telling what I
+dialog: would've done.
+scene_heading: EXT. CLARENCE'S APARTMENT -- NIGHT
+text: A disgruntled Mickey wipes some blood from his nose with a
+text: handkerchief, then takes a key out of his jacket pocket and opens
+dialog: the coor.
+scene_heading: Int. CLARENCE'S APARTMENT -- NIGHT
+text: Mickey looks arsund. He tries the bedroom.
+scene_heading: INT. CLARENCE'S APARTMENT (BEDROOM) -- NIGHT
+text: Mickey walks in on Clarence and Misty.
+speaker_heading: MICKEY
+dialog: Clarence, I just -- Whooaa .
+speaker_heading: MISTY
+dialog: (to Clarence)
+dialog: What's he doing here?
+speaker_heading: CLARENCE
+dialog: (to Mickey)
+dialog: What're you doin' here?
+speaker_heading: MICKEY
+dialog: What am I doing here? What's she
+dialog: doing here?
+speaker_heading: MISTY
+dialog: (points at Clarence)
+dialog: I'm with him.
+speaker_heading: MICKEY
+dialog: (to Clarence)
+dialog: She's with you?
+speaker_heading: CONT.
+text: INT.
+dialog: 61
+speaker_heading: CLARENCE
+dialog: She's with me.
+speaker_heading: MICKEY
+dialog: She was with me.
+speaker_heading: CLARENCE
+dialog: (to Misty)
+dialog: That's true.
+speaker_heading: MISTY
+dialog: I left. ,
+speaker_heading: MICKEY
+dialog: T know.
+speaker_heading: CLARENCE
+dialog: (to Misty)
+dialog: He knows.
+speaker_heading: MICKEY
+dialog: Look, Clarence, who gives a shit?
+dialog: Can I please talk to you. . . alone?
+speaker_heading: MISTY
+dialog: (to Clarence)
+dialog: I think you should taik to him.
+speaker_heading: CLARENCE
+dialog: We better talk, Mickey. See ya
+text: in the living room.
+scene_heading: LARENCE'S APARIMENT (LIVING ROOM) -~ NIGHT
+text: Mickey talks into the living room. Seconds later, Clarence joins
+text: him. Clarence pats Mickey on the back and they sit down to talk.
+speaker_heading: MICKEY
+dialog: You don't know what just happened
+dialog: to me ---
+speaker_heading: CLARENCE
+dialog: Yes, I do.
+speaker_heading: MICKEY
+dialog: You do?
+speaker_heading: CONT.
+speaker_heading: Cc
+speaker_heading: CONT.
+dialog: €2
+speaker_heading: CLARENCE
+dialog: Misty told me, and it's nothing to
+dialog: get upset about. It happens to
+dialog: everybody.
+speaker_heading: MICKEY
+dialog: You gotta be kidding.
+speaker_heading: CLARENCE
+dialog: It's happened to me.
+speaker_heading: _ MICKEY
+dialog: No shit? How come you never told
+dialog: me about it?
+speaker_heading: CLARENCE
+dialog: well, come on, it's not the type
+dialog: of thing a guy goes talkin’ about.
+speaker_heading: MICKEY
+dialog: Why not? We're best friends. I
+dialog: was gonna tell you.
+speaker_heading: CLARENCE
+dialog: Okay, you're right. “I'll tell
+dialog: you about it sometime. Right now I ---
+dialog: (looks at Mickey's nose)
+dialog: Did you get into a fight?
+speaker_heading: MICKEY
+dialog: Bell yes! I thought you said
+dialog: Misty told you what happened. Hell,
+dialog: if you think that's something, let
+dialog: me tell you, pal -- after the fight
+dialog: I had some asshole chasin' after
+dialog: me accusin' me of molesting his
+dialog: ten year old daughter. Great night.
+speaker_heading: CLARENCE
+dialog: Damn, man, you gotta loosen up.
+text: Clarence gets up. He gestures for Mickey to do the same.
+speaker_heading: CLARENCE
+dialog: Come here. _
+text: Mickey follows Clarence to the food table.
+speaker_heading: CONT.
+dialog: 4
+dialog: on
+dialog: uw
+speaker_heading: CONT.
+speaker_heading: CLARENCE
+dialog: Look at that, Mick. We got fudge,
+dialog: shortcake, cream pie, Vodka punch,
+dialog: even a big birthday cake. All for
+dialog: you. I say we forget all the shit
+dialog: that's happened to you tonight
+dialog: and have a birthday party.
+speaker_heading: MICKEY
+dialog: I'm not in the mood.
+speaker_heading: CLARENCE
+dialog: Not in the mood? Hey! It's me!
+dialog: Clarence! Remember? When have I
+dialog: ever steered you wrong? Look,
+dialog: Mickey, tell me this -- can you
+dialog: think of anyone, anyone at all,
+dialog: cooler than me?
+text: Mickey thinks about it.
+speaker_heading: MICKEY
+dialog: Billy Joe Ewald at Video Archives?
+speaker_heading: CLARENCE
+dialog: He doesn't like Sonny Chiba's karate
+dialog: filns.
+speaker_heading: MICKEY
+dialog: Oh, that's right. I forgot.
+dialog: (thinking)
+dialog: What about Tommy Mero?
+speaker_heading: CLARENCE
+dialog: He coesn't like the vanilla cokes
+dialog: at Cafe Fifties.
+speaker_heading: MICKEY
+dialog: He doesn't? What a asshole.
+speaker_heading: CLARENCE
+dialog: Tell me about it. I wrote him
+dialog: right out of my cool book.
+speaker_heading: MICKEY
+dialog: I gotta admit you're the coolest,
+dialog: Clarence.
+speaker_heading: CLARENCE
+dialog: Case closed. Anybody who works as
+dialog: hard as I do at being cool isn't
+dialog: gonna lead you wrong.
+speaker_heading: (MORE) CONT.
+dialog: ~
+dialog: ~
+speaker_heading: aN
+text: CONT. .
+speaker_heading: CLARENCE
+dialog: You gotta face life like a man on
+text: the prowl, always on the hunt for
+dialog: & good time. Or life passes
+dialog: you by.
+text: Mickey doesn't know what to say.
+speaker_heading: CLARENCE
+dialog: Before you say anything there's
+dialog: a little somethin' else.
+text: Clarence reaches behind the birthday cake, and picks up something
+text: wrappes up as a birthday present. He gives it to Mickey.
+speaker_heading: : CLARENCE
+dialog: Happy birthday, Mickey.
+speaker_heading: . MICKEY
+dialog: Thanks ...uh...
+speaker_heading: CLARENCE
+dialog: Open it.
+text: Mickey eagerly tears off the wrapping. It's a VHS tape of Howard
+text: Havks's “Rio Bravo.” Mickey's really taken by this.
+speaker_heading: MICKEY
+dialog: Clarence ... “Rio Bravo.”
+speaker_heading: CLARENCE
+dialog: Picked it up when I got the cake
+dialog: and stuff. I know how much you
+dialog: like Howard Hawks. Cast ain't
+dialog: shabby, either.
+speaker_heading: MICKEY
+dialog: Shit, Clarence. “Rio Bravo" ...
+dialog: birthday cake...
+text: Clarence and Mickey laugh, then embrace.
+speaker_heading: CLARENCE
+dialog: What you need is a hot steaming
+dialog: shower so you can relax. I'11
+dialog: finish up in there, and maybe Misty
+dialog: can invite a friend over, and we'll
+dialog: have our party.
+speaker_heading: CONT.
+dialog: on
+dialog: vn
+dialog: ave
+speaker_heading: Cae
+speaker_heading: MICKEY
+dialog: Okay, okay . . . cool.
+speaker_heading: _ CLARENCE
+dialog: Now you're talkin'. It's gonna be
+text: a wild night.
+dialog: i
+scene_heading: EXT. DARWIN APARTMENTS -- NIGHT
+text: Clifford's still upside down in the trash can. He fidgets, but
+text: can't free himself. He's stuck.
+text: KLONDIKE, a janitor, walks over to the garbage can with a broon
+text: and a bag of trash.
+speaker_heading: KLONDIKE
+dialog: Hey, man, you're gonna have to
+dialog: move for a second.
+speaker_heading: CLIFFORD
+dialog: I'm stuck in here.
+speaker_heading: KLONDIKE
+dialog: You are? :
+text: Klendike sets his broom and bag down. He grabs Clifford's legs
+text: and pulis up. Clifford raises a bit, then slides back down with
+text: a THUNK, hatting his head on the bottom of the trash can.
+speaker_heading: CLIFFORD
+dialog: Ooovwe!
+speaker_heading: KLONDIKE
+dialog: What's wrong?
+speaker_heading: CLIFFORD
+dialog: Just get me outta here, dick-head!
+speaker_heading: KLONDIKE
+dialog: I got an idea.
+text: Klondike pushes the trash can over. It CLUNKS to the ground.
+speaker_heading: CLIFFORD
+dialog: Aaahhh!
+text: Klondike starts SHAKING the can until Clifford can wiggle himself.
+text: free. Clifford slowly stands up, then brushes himself off.
+speaker_heading: CONT.
+dialog: ic
+dialog: *y
+dialog: a
+dialog: an
+text: CONT. .
+speaker_heading: KLONDIKE
+dialog: Here.
+text: Klondike hands Clifford a small whisk broom which hangs from his
+text: belt. Clifford uses it to brush himself off.
+speaker_heading: CLIFFORD
+dialog: Thanks.
+text: He gives the whisk broom back to Klondike.
+speaker_heading: KLONDIKE
+dialog: Quite a suit you're wearin’.
+speaker_heading: CLIFFORD
+dialog: I'm a pimp. I have to dress fancy.
+dialog: PR end all that.
+dialog: (pause)
+dialog: Well, I'm gonna go bust up my bitch.
+dialog: Tharks for your help.
+speaker_heading: KLONDIKE
+dialog: Well, I always say helpin' people
+dialog: is what life's all about.
+text: Clifford's about to leave. He pauses, then puts Klondike's trash
+text: bag in the garbage can.
+speaker_heading: KLONDIKE
+dialog: Thanks, man.
+speaker_heading: CLIFFORD
+dialog: No problem. See ya.
+speaker_heading: KLONDIKE
+dialog: Have a nice night.
+text: Clifford takes off. Klondike starts sweeping.
+scene_heading: INT. CLARENCE'S APARTMENT -- NIGHT
+text: Cecilia enter the apartment with a key in her hand. She looks
+text: around, then walks down the hallway. She hears the shower
+text: running in the bathroom.
+scene_heading: INT. CLARENCE'S APARIMENT (BATHROOM) -~ NIGHT
+text: Cecilia walks in the bathroom, thinking it's Clarence in the
+dialog: shower. .
+speaker_heading: CONT.
+speaker_heading: Cc
+speaker_heading: CONT.
+text: She starts unbuttoning her police uniforn.
+speaker_heading: CECILIA
+dialog: I'm not being pushed around anymore.
+dialog: I'm leaving Eddie. He doesn't own
+dialog: me. From now on, I'm making my
+dialog: own decisions.
+text: Cecilia pulls open the shower door, and finds Mickey, who covers
+dialog: himself.
+speaker_heading: “CECILIA
+dialog: Nnyyaa! Who are you?
+dialog: (thinks for a moment)
+dialog: Oh, my God! You and Clarence aren't
+dialog: oe. aren't... .
+speaker_heading: . MICKEY
+dialog: Aren't what?
+speaker_heading: CECILIA
+dialog: You and Clarence don't -go to gay
+dialog: bars together, do you?
+speaker_heading: MICKEY
+dialog: No, we don't go to gay bars.
+speaker_heading: CECILIA
+dialog: Where's Clarence?
+speaker_heading: MICKEY
+dialog: Obviously, not in here!
+text: Mickey SLAMS the shower door shut.
+scene_heading: INT. CLARENCE'S APARTMENT (HALLWAY) -- NIGHT
+text: Cecilia wanders out of the bathroom. She sees Clarence's bedroon
+text: door is closed.
+scene_heading: INT. CLARENCE'S APARTMENT (BEDROOM) -- NIGHT
+text: Cecilia opens the door and finds a blanket over two chairs, like
+text: a pup tent. GIGGLING comes from beneath the blanket. Clarence
+text: hears the door opening.
+speaker_heading: CONT.
+dialog: 47
+speaker_heading: CLARENCE
+dialog: : (thinking it's Mickey)
+dialog: Look, I love you, but you're gonna
+dialog: have to wait ‘till I'm done here,
+dialog: and I'll find someone for you.
+dialog: Okay? So, be cool for nov.
+text: Shocked, Cecilia backs out of the room, closing the door.
+text: Inside the tent, Clarence and Misty look at a book.
+speaker_heading: - + CLARENCE
+dialog: There's nothing here on fellatio,
+dialog: but the Guiness Book of World Records
+dialog: for kissing is 3 hours, 20 minutes.
+speaker_heading: MISTY
+dialog: Okay, we can do that.
+speaker_heading: CLARENCE
+dialog: Let's start now.
+scene_heading: INT. CLARENCE'S APARTMENT (LIVING ROOM) -- NIGHT
+text: Cecilia's gulping down cup after cup of Vodka punch. She's
+text: getting loaded. Mickey, fully dressed, walks over to her.
+speaker_heading: MICKEY
+dialog: I'm sorry I yelled at you in the
+dialog: bathroom. It's been a bad night.
+dialog: (pause)
+dialog: Are you a friend of Clarence's . .
+dialog: or Misty's?
+text: Cecilia doesn't answer. She keeps on drinking.
+speaker_heading: MICKEY
+dialog: (regards her cop uniform)
+dialog: I thought maybe that was your costume.
+dialog: (pause)
+dialog: Are you in the right apartment?
+text: She keeps drinking.
+speaker_heading: MICKEY
+dialog: You know, there's Vodka in that punch.
+text: Cecilia stammers, having difficulty finding the right words.
+speaker_heading: CONT.
+dialog: “y
+dialog: —_
+dialog: a
+dialog: o
+speaker_heading: CONT. f
+speaker_heading: CECILIA
+dialog: Oohh . . . I know there's, uh, punch
+dialog: in the Vodka... and I can hold
+dialog: my... punch... all right. .
+speaker_heading: MICKEY
+dialog: Why are you drinking like that?
+speaker_heading: CECILIA
+dialog: Who's drinkin . . . I mean, how'd
+dialog: you like to be... just slapped
+dialog: » . . din the face...
+speaker_heading: “MICKEY
+dialog: I wouldn’ t like it.
+speaker_heading: CECILIA
+dialog: I don't mean... by mean...
+dialog: I mean, by me, you dim-wit.
+speaker_heading: MICKEY
+dialog: What do you mean?
+speaker_heading: CECILIA
+dialog: I mean, I'm not pushing anyone . .
+dialog: I mean, I'm not being pushed around.
+dialog: by anyone anymore...
+speaker_heading: MICKEY
+dialog: Weil, good for you. Gotta stand
+dialog: on your own two feet. That's for
+dialog: sure.
+speaker_heading: CECILIA
+dialog: I'm bein' aggess -- aggess --
+speaker_heading: MICKEY
+dialog: Aggressive.
+speaker_heading: CECILIA
+dialog: Right! When I... see something
+dialog: Iwant .. . I'm gonna... grab it.
+speaker_heading: MICKEY
+dialog: Absolutely. Woman on the prowl,
+text: on the hunt for a good time.
+speaker_heading: CECILIA
+dialog: A good time . . . like right now!
+speaker_heading: CONT.
+dialog: y 4
+dialog: + -
+dialog: 55
+dialog: o
+speaker_heading: CONT.
+speaker_heading: MICKEY
+dialog: You got it.
+speaker_heading: CECILIA
+dialog: And right now... I want what I
+dialog: see . . . right now!
+speaker_heading: MICKEY
+dialog: Right now? What do you --
+speaker_heading: CECILIA
+dialog: And I'm gonna get it!
+text: Cecilia attacks Mickey, smothering him with kisses.
+scene_heading: EXT. CITY STREET -- NIGHT
+text: Clifford walks down a city street, mumbling to himsel£.
+speaker_heading: CLIFFORD
+dialog: I'm a fiery furnace of hatred .
+text: A howling storm of revenge.
+scene_heading: INt. RONNY'S BAR -- NIGHT
+dialog: 
+dialog: 
+text: Ecdie bursts into the bar and SLAMS his fist on the bar counter,
+text: scowling at Ronny.
+speaker_heading: EDDIE
+dialog: You! Where is she?
+speaker_heading: RONNY
+dialog: who?
+speaker_heading: EDDIE
+dialog: The girl with the asshole.
+speaker_heading: RONNY
+dialog: There's girls without assholes?
+text: Eddie reaches across the counter and grabs Ronny by his face.
+speaker_heading: EDDIE
+dialog: Listen up, butt~breath. My girl
+dialog: meets some Rockabilly asshole named
+dialog: Clarence Pool twice a week. I know
+dialog: the asshole comes here a lot, and
+dialog: I'm sure she's with him. Nov,
+dialog: where is she?
+speaker_heading: CONT.
+text: . CONT.
+scene_heading: am . RONNY
+text: . At the asshole's apartment.
+speaker_heading: |. EDDIE
+dialog: Where's the asshole live?
+speaker_heading: RONNY
+dialog: Asshole lives st East Wood Apart-
+text: ments on Callahan Drive.
+text: Eddie releases Ronny, turns, and starts walking coward the door.
+text: He stops, and goes back to the bar counter. He grabs Ronny by
+text: his face again. :
+speaker_heading: EDDIE
+text: Apartments have numbers.
+speaker_heading: RONKY
+dialog: Apartment 44,
+text: Eddie reieases Ronny, then leaves. Once Eddie's gone:
+speaker_heading: RONNY
+dialog: ‘ And stay out.
+scene_heading: INT. CLARENCE'S APARTMENT -~ NIGHT
+text: in the living room, Mickey and Cecilia are underneath a throw
+text: rug, kissing and groping at each other's clothes.
+text: at the same time, Clarence, wearing his robe, and Misty, wearing
+text: her long blouse, walk out of the bedroom, cuddling with each
+dialog: other.
+speaker_heading: CLARENCE .
+dialog: I feel like Fred did when he met
+dialog: Ginger.
+speaker_heading: MISTY
+dialog: Really?
+speaker_heading: CLARENCE
+dialog: Misty, I never lie about Fred and
+dialog: Ginger.
+text: Misty's really touched. She kisses Clarence.
+speaker_heading: r CLARENCE
+dialog: eo Now let's party.
+dialog: - (loudly)
+speaker_heading: J
+dialog: Mickey, I have a poem! CONT.
+dialog: CONT. ,
+text: Clarence reads from a sheet of paper. He and Misty move into the
+text: living room, catching Mickey and Cecilia off guard. As he reads,
+text: they scramble for their clothes. Misty sees this, and tugs at
+text: Clarence's arm. He ignores it.
+speaker_heading: CLARENCE
+dialog: (reads)
+dialog: “Friendship” by Clarence Pool.
+dialog: Friendship will always be
+dialog: the love between Mickey and me.
+dialog: The joy of always knowing
+dialog: that our affections are showing.
+dialog: And to show that we care,
+dialog: we lay our souls bare
+dialog: te the love we both share.
+dialog: (he looks up)
+dialog: Happy birthday, Mick ---
+text: Clarence sees Mickey and Cecilia partially undressed.
+speaker_heading: CLARENCE
+dialog: What's this? What the hell's
+dialog: this? Mickey, how could you?
+speaker_heading: MICKEY
+dialog: Could I what?
+speaker_heading: CLARENCE
+dialog: With her?
+speaker_heading: MICKEY
+dialog: Who's she?
+speaker_heading: MISTY
+dialog: (to Clarence)
+dialog: Who is she?
+speaker_heading: CLARENCE
+dialog: She's ... she's...
+speaker_heading: MICKEY
+dialog: (to Cecilia)
+dialog: Who are you?
+speaker_heading: CLARENCE
+dialog: My girlfriend.
+speaker_heading: CECILIA
+dialog: No, I'm not!
+speaker_heading: CONT.
+dialog: c
+dialog: ws
+dialog: nae
+dialog: w
+speaker_heading: MISTY
+dialog: (to Clarence)
+dialog: Your girlfriend?
+speaker_heading: MICKEY
+dialog: (to Cecilia)
+dialog: You are?
+speaker_heading: CLARENCE
+dialog: She is!
+speaker_heading: CECILIA
+dialog: No, I'm not!
+speaker_heading: . MISTY
+dialog: You bitch!
+speaker_heading: CECILIA
+dialog: (to Misty)
+dialog: who are you?
+speaker_heading: CLARENCE
+dialog: Cecilia, how could you? And with
+dialog: my best friend...
+speaker_heading: MISTY
+dialog: (to Clarence)
+dialog: Your best friend?
+dialog: (to Cecilia)
+dialog: You tramp!
+speaker_heading: MICKEY
+dialog: I'm sorry, Clarence. I didn'c
+dialog: know she Was your girlfriend.
+speaker_heading: CECILIA
+dialog: I'M NOT!
+speaker_heading: CLARENCE
+dialog: It's all right, Mickey. I know
+dialog: you didn't.
+dialog: (points at Cecilia)
+dialog: It's all her fault. How could you
+text: in my living room on my carpeting
+dialog: underneath my throw rug like a ---
+speaker_heading: CECILIA
+dialog: Like a what?
+dialog: (points at Misty)
+dialog: Like a whore?
+speaker_heading: CONT.
+dialog: c
+speaker_heading: CONT. ’
+speaker_heading: MISTY
+dialog: I'm not a whore! I'm a call-girl,
+scene_heading: _ .- MICKEY
+dialog: What the hell's goin' on here?
+speaker_heading: CLARENCE
+dialog: Yeah, Cecilia, what the hell's goin'
+dialog: on here?
+speaker_heading: CECILIA
+dialog: What’ 5 going on, Clarence? Why,
+dialog: we're having a party. We're having
+dialog: fun.
+text: Cecilia marches over to the birthday table. Clarence follows
+dialog: her.
+speaker_heading: CECILIA
+dialog: Let's have some more fun!
+text: Cecilia picks up a can of whipped cream, and SPRAYS it all over
+dialog: Clarence's face. :
+speaker_heading: MISTY
+dialog: You bitch!
+text: Misty runs over. She and Cecilia start fighting, while Clarence
+text: wipes his face with a napkin.
+text: Mickey intervenes, pulling the two women apart.
+speaker_heading: MICKEY
+dialog: Knock it off! Both of you! Just
+dialog: grow up and quit acting like brats!
+text: That coesn': go over well. Misty KICKS Mickey in the shin.
+speaker_heading: MICKEY
+dialog: Ooowww!
+text: Cecilia picks up the cream pie and SMASHES it into Mickey's face.
+text: He stumbles and falls on his butt by the table.
+text: Mickey grasps hold of the table and starts to slowly rise. At
+text: the same time, Clarence tries to break up the fight.
+speaker_heading: CLARENCE
+dialog: Girls, don't fight over me.
+text: Misty and Cecilia PUSH Clarence away. He stumbles, FALLING on
+text: top of Mickey, who PLUNGES face-first into the birthday cake.
+speaker_heading: CONT.
+dialog: 75
+dialog: CONT. °
+text: “Misty and Cecilia continue fighting. They fall on the floor and
+dialog: roll around.
+text: Clarence and Mickey both stand up. Mickey's covered with cream
+text: pie and birthday cake. Clarence hands him a napkin.
+speaker_heading: CLARENCE
+dialog: Hey, Mick, you're not pissed at
+dialog: me, are you?
+text: Mickey calmly takes the can of whipped cream off the table and
+text: pours it all over Clarence. Mickey sets the can back down on the
+text: fable, steps over the battling girls, and ambles toward the
+dialog: athroom.
+speaker_heading: CLARENCE
+dialog: There for a minute I thought he
+dialog: was pissed.
+text: Clarence steps over the girls, and heads for the bathroom.
+text: Misty and Cecilia never break stride. They keep fighting.
+scene_heading: EXT. EAST WOOD APARIMENTS -- NIGHT
+text: Eddie's walking through the complex, looking at apartment
+text: numbers. GILBERT, a young man, is walking by.
+speaker_heading: EDDIE
+dialog: Police! Freeze!
+text: Scared to death, Gilbert freezes. Eddie walks over to him, and
+text: looks him eye-to-eye.
+speaker_heading: EDDIE
+dialog: What's your name, boy?
+speaker_heading: GILBERT
+dialog: Gilbert.
+speaker_heading: EDDIE
+dialog: Gilbert? Is that your first name?
+text: Gilbert nervously nods yes.
+speaker_heading: EDDIE
+dialog: How can you live with yourself?
+dialog: (pause)
+dialog: You know where Clarence Pool lives?
+text: . CONT.
+dialog: yy ~
+dialog: ~-
+dialog: ~
+dialog: a
+speaker_heading: CONT.
+speaker_heading: GILBERT
+dialog: Glarence Pool?
+speaker_heading: ' EDDIE
+dialog: The Rockabilly asshole.
+speaker_heading: GILBERT
+dialog: I know where a Rockabilly asshole
+text: lives. Apartment 44.
+speaker_heading: EDDIE
+dialog: I know that --
+dialog: (sissy-like)
+dialog: "Gilbert" ... .
+dialog: (angry again)
+dialog: Where's apartment 44?
+speaker_heading: GILBERT
+text: Down the hall and turn left.
+speaker_heading: EDDIE
+dialog: You know the Rockabilly asshole?
+speaker_heading: GILBERT -
+dialog: Well . . . I've seen him around.
+text: Eddie grabs Gilbert by his collar, and pressed close.
+speaker_heading: EDDIE
+dialog: You ever talk to him?
+speaker_heading: GILBERT
+dialog: Maybe a couple times .
+speaker_heading: EDDIE
+dialog: You like hin?
+speaker_heading: GILBERT
+dialog: Uh. ..no...
+text: Eddie releases Gilbert.
+speaker_heading: EDDIE
+dialog: You're lucky. Now, get outta here!
+text: Eddie starts to walk away.
+speaker_heading: GILBERT
+dialog: But, sir, I live here.
+text: Eddie stops and points at him, as if to say "Don't talk back to
+dialog: me."
+speaker_heading: CONT.
+speaker_heading: CONT.
+speaker_heading: GILBERT
+dialog: T'll move!
+text: Gilbert runs away.
+speaker_heading: EDDIE
+dialog: And get that Iname changed!
+text: Eddie starts down the hall.
+speaker_heading: EDDIE
+dialog: (muttering)
+dialog: “Gilbert” . . . shit.
+scene_heading: INT. RONNY'S BAR -- NIGHT
+text: Elevator MUSIC plays on the radio. Ronny's talking to himself.
+speaker_heading: RONNY
+dialog: That did it. I mean it. I can't
+dialog: take it anymore. The next one who
+dialog: messes with me is getting exactly
+dialog: what they deserve.
+text: Clifford enters, obviously pissed.
+text: Ronny immediately pulls the plug on the radio, and blurts our:
+speaker_heading: RONNY
+dialog: East Wood Apartments! Callahan
+dialog: Drive! Apartment 44!
+text: Clifiord turns and leaves.
+scene_heading: INT. CLARENCE'S APARTMENT (LIVING ROOM) -- NIGHT
+text: Cecilia and Misty are still fighting. Suddenly, POUNDING on the
+dialog: door.
+speaker_heading: EDDIE (0.S.)
+dialog: Open up! I know you're in there,
+dialog: . Cecilia!
+text: Cecilia and Misty stop fighting. More POUNDING on the door.
+speaker_heading: EDDIE (0.S.)
+dialog: Open up!
+speaker_heading: CONT.
+dialog: ~
+dialog: o
+dialog: Cont. .
+speaker_heading: MISTY
+dialog: 
+dialog: Who's that?
+speaker_heading: _ CECILIA
+dialog: ‘My boyfriend.
+speaker_heading: MISTY
+dialog: How many have you got?
+speaker_heading: CECILIA
+dialog: He'll kill us.
+scene_heading: MISTY.
+dialog: Us? Why not just you?
+speaker_heading: CECILIA
+dialog: He likes beating up people. Once
+text: he starts, he just can't seem to
+dialog: stop. :
+text: Eddie POUNDS even harder on the door.
+scene_heading: INT. CLARENCE'S APARTMENT (BATHROOM) -- NIGHT
+text: - Clarence is at the sink, washing off the whipped cream. Mickey's
+text: in the shower, washing off cake and crean pie.
+speaker_heading: CLARENCE
+dialog: C'mon, Mickey. I need to get cleaned
+text: up, too.
+text: No answer from Mickey.
+speaker_heading: CLARENCE
+dialog: Look, I don't want you getting
+dialog: depressed or anything.
+speaker_heading: MICKEY
+dialog: Don't talk to me, Clarence.
+speaker_heading: CLARENCE
+dialog: Seriously, I'm sorry about what
+dialog: happened. It's a simple misunderstand-
+dialog: ing, I'm sure. I'm gonna straighten
+dialog: everything all out. Okay? I'll
+dialog: clear up the mess with the girls
+dialog: and everything'll be great. We
+dialog: can even have our party now. Besides,
+dialog: what else could possibly go wrong?
+dialog: ‘5 \
+speaker_heading: CONT.
+dialog: r
+dialog: ~
+dialog: yp
+speaker_heading: C
+dialog: ~t
+dialog: vey
+text: CONT. .
+text: Misty and Cecilia BURST inside the bathroom.
+speaker_heading: . : MISTY
+dialog: He's gonna kill us!
+speaker_heading: CLARENCE
+dialog: Who's gonna kill us?
+speaker_heading: CECILIA
+dialog: Eddie! He's here!
+speaker_heading: _ MICKEY
+dialog: (from shover)
+dialog: Clarence, what's going on?
+speaker_heading: CLARENCE
+dialog: (to Mickey)
+dialog: Nothing.
+dialog: (to girls) .
+dialog: Now I'm pissed! And when I get
+dialog: pissed, watch out!
+scene_heading: INT. CLARENCE'S APARTMENT (LIVING ROOM) -- NIGET
+text: Eddie BREAKS OPEN the door. He charges inside, gun dravyn.
+speaker_heading: EDDIE
+speaker_heading: FREEZE!
+text: Eddie realizes nobody's in the living room.
+speaker_heading: EDDIE
+dialog: Avright, you pompadour prick! I
+dialog: got a gun, and I'm gonna blast
+dialog: your ass off!
+scene_heading: IXT. CLARENCE'S APARTMENT (BATHROOM) -- NIGHT
+text: With the bathroom door open, Clarence, Misty, and Cecilia can
+text: hear Eddie's threat.
+speaker_heading: CLARENCE
+dialog: Oh... shit.
+speaker_heading: CECILIA
+dialog: We have to hide.
+text: Cecilia shuts and locks the bathroom door.
+text: . CONT.
+dialog: ic
+text: CONT. .
+text: Misty gets an idea. She opens the shower door. Mickey covers
+dialog: himself.
+speaker_heading: MISTY
+dialog: Quick, in here.
+text: Clarence, Cecilia, and Misty pile inside the shower with Mickey.
+scene_heading: MICKEY .
+dialog: Now what?
+text: Misty shuts the shower door.
+speaker_heading: CLARENCE
+dialog: Turn off the water.
+scene_heading: INT. CLARENCE*S APARTMENT (LIVING ROOM) -- NIGHT
+text: Eddie in the living room.
+speaker_heading: EDDIE
+dialog: I'm gonna fire a warnin' shot, dick-
+dialog: face, and then you better come
+dialog: out!
+text: Eddie pulls the trigger. CLICK! He pulls the trigger again.
+text: CLICK! He checks his .357.
+speaker_heading: EDDIE
+dialog: Avw, hell . . . forgot to load it.
+text: Edeie grabs a quick load from his belt, but then pauses. He
+text: thinks for a moment.
+speaker_heading: EDDIE
+dialog: No, that's too easy. Too fast.
+text: Eddie takes off his gun belt, holsters his gun, and sets the belt
+text: on a table.
+speaker_heading: EDDIE
+dialog: Awright, you ducktail dork! It's
+dialog: hand-to-hand now! -
+text: Eddie starts ransacking the apartment, searching for Clarence and
+text: Cecilia. He spots some of Cecilia's clothes on the living room
+text: floor, where she was with Mickey.
+speaker_heading: CONT.
+dialog: (~
+dialog: 81
+speaker_heading: CONT.
+text: Eddie picks up Cecilia's police blouse, and looks at it. He ex-
+text: plodes.
+speaker_heading: EDDIE
+speaker_heading: AAAAAAHHHHH !
+scene_heading: INT. CLARENCE'S APARIMENT (BATHROOM) -- NIGHT
+text: Clarence, Cecilia, Misty, and Mickey are crowded together inside
+text: the shower stall. They hear Eddie's screan.
+speaker_heading: MICKEY
+dialog: What the hell's tha---
+speaker_heading: CLARENCE
+dialog: Ssshhh, quiet.
+speaker_heading: MISTY
+dialog: Shut-up. You wanna die?
+speaker_heading: CECILIA
+dialog: Dumb-ass.
+text: Mickey reacts.
+scene_heading: INT. CLARENCE'S APARTMENT (HALLWAY) -- NIGHT
+text: Eddie's kicking open doors, looking for Clarence and Cecilia.
+speaker_heading: EDDIE
+dialog: I.can't wait to hurt somebody.
+text: He comes to the bathroom door. It's locked.
+speaker_heading: EDDIE
+dialog: The bathroom . . . Of course,
+dialog: where else would shit hide?
+scene_heading: INT. CLARENCE'S APARTMENT (BATHROOM) -- NIGHT
+text: Eddie BREAKS the door open, and barges inside. He sees someone's
+text: in the shower. Eddie opens the shower door and finds Clarence,
+text: Cecilia, Misty, and Mickey all huddled together, and all at least
+text: partially undressed.
+speaker_heading: EDDIE
+dialog: This is the sickest thing I've ever
+dialog: seen.
+speaker_heading: CONT.
+dialog: t
+dialog: ~
+dialog: c
+speaker_heading: CONT.
+text: Eddie clenches his fist, and winds up for a big punch.
+text: Clarence, Cecilia, and Misty SCREAM. Eddie SWINGS. Clarence,
+dialog: Cecilia, and Misty DUCK. -
+text: Eddie WALLOPS Mickey in the face. Mickey collapses on the shower
+dialog: floor. .
+text: Clarence, Cecilia, and Misty tumble out of the shower, falling on
+text: top of Eddie.
+speaker_heading: EDDIE
+dialog: Let me up! I'll kill everybody!
+scene_heading: INT. CLARENCE'S APARTMENT (LIVING ROOM) -- NIGHT
+text: Eddie, Clarence, Cecilia, and Misty stumble out of the bathroom.
+text: Edéie grabs Clarence and RAMS him against the wall all the way
+text: down the hallway. Cecilia and Misty run after them, SCREAMING.
+text: Once in the living room, Eddie gets Clarence into a headlock, but
+text: Misty and Cecilia jump on top of Eddie. They're all so tangled
+dialog: up, Eddie can't hit Clarence.
+text: They BANG against the walls, then BASH into the front door, which
+text: closes it. They BANG against another wall.
+speaker_heading: . EDDIE
+dialog: I'm gonna kill him!
+speaker_heading: CLARENCE
+dialog: He's gonna kill me!
+speaker_heading: CECILIA
+dialog: Don't kill him!
+speaker_heading: : EDDIE
+dialog: I'll kill all of ya!
+speaker_heading: MISTY
+dialog: We're all gonna be killed!
+scene_heading: INT. CLARENCE'S APARTMENT (BATHROOM) -- NIGHT
+text: Mickey groggily crawls out of the shower stall,
+speaker_heading: MICKEY
+dialog: God, please wake me up from this
+dialog: nightmare. Please wake me up...
+scene_heading: INT. CLARENCE'S APARIMENT (LIVING ROOM) ~- NIGHT
+text: “the four still .grepple. Eddie HURLS Misty into a couch. He
+text: THROWS Cecilia over a chair. Eddie still has Clarence in a head-
+dialog: lock.
+text: Mickey hobbles out’ of the beinrooe, pulling up his pants and
+text: slipping on his shirt. } .
+dialog: t
+text: Eddie THROWS Clarence onto the floor. He looks down at hin.
+speaker_heading: EDDIE
+dialog: Now I'm gonna break your Rockabilly
+dialog: face. .
+text: Mickey sees this. He rushes over, spins Eddie around, and
+text: CRUNCHES an uppercut into his gut. Eddie SHOVES Mickey into the
+text: wall. Mickey lands a few good SHOTS, then they WRESTLE with each
+dialog: other.
+text: Misty and Cecilia quickly help Clarence to his feet.
+speaker_heading: CLARENCE
+dialog: That did it! Now I'm pissed!
+dialog: And when I get pissed, girls,
+dialog: watch out! .
+text: nce charges forward, and blindly SWINGS a wild haymaker of a
+text: Edc:e sees it coming. He ducks.
+text: Clerence CLOBBERS Mickey in the face, knocking him ¢own and out.
+text: Clarence and Eddie look at a fallen Mickey for a moment. Eddie
+text: laughs to himself.
+speaker_heading: CLARENCE
+dialog: (points at Mickey)
+dialog: You see that? You see that, Eddie?
+dialog: That's just a small sample of what
+dialog: you'll get messin' with me, buddy!
+text: (starts dancing around Eddie,
+dialog: flicking a jab)
+dialog: C'mon! I'll hand you your ass!
+dialog: C'mon! Just try it! C'mon!
+text: Edcie winds up, and SMASHES Clarence in the mouth. Clarence
+text: falls on his butt, out cold.
+text: Edcéze's full of macho bravura.
+speaker_heading: CONT.
+dialog: _
+dialog: awe
+dialog: vale
+speaker_heading: EDDIE ’
+dialog: Anybody else? Huh? Anybody else?
+text: Clifford charges into the apartment, SLAMMING the front door
+text: against Eddie, who SMASHES head-first into the wall. Eddie drops
+text: to the floor, unconscious.
+speaker_heading: MISTY
+dialog: Oh, Clifford. What're you doing
+dialog: here? :
+text: Clifford's about to respond, but he sees the three guys lying on
+dialog: the floor.
+speaker_heading: ‘CLIFFORD
+dialog: (meaning guys)
+dialog: Who're they?
+dialog: (pause)
+dialog: Never mind. Misty, you're comin'
+dialog: with me.
+speaker_heading: CECILIA
+dialog: Who's he?
+speaker_heading: CLIFFORD
+dialog: I'm her pimp. .
+speaker_heading: MISTY
+dialog: Ex-pimp.
+speaker_heading: CLIFFORD
+dialog: - Look, whore --
+speaker_heading: MISTY
+dialog: Cali-girl.
+speaker_heading: CLIFFORD
+dialog: -- You're comin' with me.
+text: Clifford grabs Misty. She KNEES Clifford in the groin.
+speaker_heading: CLIFFORD
+dialog: Oooww...
+text: Clifford drops to his knees.
+text: Cecilia stuffs a waste basket over Clifford's head. He drops to
+dialog: the floor.
+text: Misty and Cecilia look at the four guys sprawled out on the
+dialog: floor.
+speaker_heading: CONT.
+dialog: 85
+dialog: CONT. ‘
+speaker_heading: ‘i CECILIA
+dialog: ic Pretty disgusting, if you ask me.
+text: Cecilia picks up the rest of her clothes.
+speaker_heading: MISTY
+dialog: What are you doing?
+speaker_heading: CECILIA
+dialog: I've had enough of men tonight.
+speaker_heading: MISTY
+dialog: Yeah... and I need to rethink
+dialog: what I want to do with my life.
+speaker_heading: CECILIA
+dialog: What're you doing now?
+speaker_heading: MISTY
+dialog: I'm a call-girl.
+speaker_heading: CECILIA
+dialog: You know, I could bust you for
+dialog: that.
+text: if Misty reacts.
+speaker_heading: CECILIA
+dialog: Don't worry, I won't. You handled
+dialog: yourself pretty good with that
+text: weird-looking pimp.
+speaker_heading: MISTY
+speaker_heading: CECILIA
+dialog: Maybe you should think about being
+dialog: on the force.
+speaker_heading: MISTY
+dialog: Like Nancy Allen in "RoboCop"?
+dialog: Ex-pimp.
+speaker_heading: CECILIA
+dialog: Something like that.
+speaker_heading: MISTY
+dialog: Wow! I'll get my clothes.
+text: Misty starts gathering her clothes.
+dialog: Co : CONT.
+dialog: 
+dialog: &&
+speaker_heading: CONT.
+text: Meanwhile, the four guys groggily look up at the ladies, who are
+text: getting ready to leave.
+text: Cecilia makes the rounds, standing over each one.
+speaker_heading: CECILIA
+dialog: (to Eddie)
+dialog: I don't ever want to see you again,
+dialog: Eddie. And I'll never be your
+dialog: partner on the force again either.
+dialog: (to Clarence)
+dialog: Good-bye forever, Clarence.
+dialog: (to Mickey)
+dialog: I'm sorry I threw a pie in your
+dialog: face, Mickey. Actually, you're
+dialog: kind of nice, but never again. I
+dialog: don't like your friends.
+dialog: (to Clifford)
+dialog: Get a new suit.
+text: Misty takes her turn.
+speaker_heading: MISTY
+dialog: (to Clifford) .-
+dialog: Stay out of my life, Clifford.
+dialog: And get a different job. I'm sorry,
+dialog: but you're a lousy pimp.
+dialog: (to Eddie)
+dialog: I don't know you, Eddie, but I
+dialog: think you're a jerk.
+dialog: (to Mickey)
+dialog: Happy birthday, Mickey. Hope it's
+dialog: a@ good one.
+dialog: (to Clarence)
+dialog: Guess what? I'm going to be a
+dialog: cop just like Nancy Allen in “RoboCop.”
+dialog: Anyway, thanks for the great time,
+dialog: Clarence. Call me.
+text: Misty moves next to Cecilia.
+speaker_heading: CECILIA
+dialog: How would you like a drink, Misty?
+speaker_heading: MISTY
+dialog: At Ronny's Bar?
+speaker_heading: CECILIA
+dialog: I'd rather be burned at the stake.
+dialog: I know another place. A lot classier.
+speaker_heading: CONT.
+dialog: et
+dialog: ~
+speaker_heading: CONT.
+scene_heading: o . MISTY
+dialog: Sure.
+text: Cecilia and Misty leave.
+text: The four guys struggle to their feet.
+speaker_heading: EDDIE
+dialog: (to Clarence) .
+dialog: Did you see that? She left me.
+dialog: Thanks to you I've lost Cecilia.
+speaker_heading: CLARENCE
+dialog: What do you mean? Thanks to you
+dialog: I lost Cecilia and Misty. Well,
+dialog: Maybe not Misty, but ---
+dialog: (looks at Clifford)
+dialog: By the way, who're you?
+speaker_heading: CLIFFORD
+dialog: I'm a pimp.
+speaker_heading: MICKEY:
+dialog: Will somebody just once tonight
+dialog: tell me what the hell's goin' on?
+dialog: o“-
+speaker_heading: . CLIFFORD
+dialog: (looks at Mickey)
+dialog: Wait a minute. You're the sonuva
+dialog: bitch who was with my whore.
+speaker_heading: CLARENCE
+dialog: Call-girl. -
+speaker_heading: EDDIE
+dialog: Whore? Who cares about a whore?
+speaker_heading: CLARENCE
+dialog: Call-girl.
+speaker_heading: CLIFFORD
+dialog: I do.
+speaker_heading: : EDDIE
+dialog: Why?
+speaker_heading: CLIFFORD
+dialog: ‘Cause she's my whore.
+speaker_heading: Cam CLARENCE
+dialog: i Cali-girl.
+speaker_heading: CONT.
+dialog: ~
+dialog: Cont.
+dialog: ow
+dialog: om
+speaker_heading: MICKEY
+dialog: Someone pleese tell me what's goin'
+dialog: on!
+speaker_heading: CLIFFORD
+dialog: Well, now I'm dead. No whore ---
+speaker_heading: CLARENCE
+dialog: Cali-girl.
+speaker_heading: CLIFFORD
+dialog: --- No business. No business, no
+dialog: life.
+speaker_heading: EDDIE
+dialog: What're you bellyachin' about? How
+dialog: about me? Do you know what it's
+dialog: like to have the woman you love
+dialog: watch you with admiration while you
+text: smash some faggot's head in with
+dialog: your nightstick?
+speaker_heading: CLIFFORD
+dialog: No.
+speaker_heading: EDDIE
+text: It's ecstacy . . . and now it's gone.
+speaker_heading: CLARENCE
+dialog: Big ass deal. I find the woman
+dialog: of my dreams and now she wants
+text: to run off and become a cop.
+speaker_heading: EDDIE
+dialog: And what's wrong with that?
+speaker_heading: CLARENCE
+dialog: From where I'm standin', plenty.
+text: Mickey can't take it anymore.
+speaker_heading: MICKEY
+text: I SAID, WILL SOMEBODY JUST TELL
+text: ME WHAT THE HELL'S GOIN' ON!
+text: Everybody shuts up. They look at Mickey, who looks like he's
+dialog: lost him mind.
+text: . CONT.
+dialog: >
+dialog: (
+dialog: ~
+dialog: o
+dialog: wo
+speaker_heading: CONT.
+speaker_heading: MICKEY
+text: I SWEAR I'LL KILL THE NEXT ASSHOLE
+text: WHO TALKS ABOUT ANYTHING, AND I
+text: MEAN ANYTHING AT ALL, THAT I DON'T
+dialog: COMPLETELY ibe wine !
+text: Looking like a madman, Mickey glares at the other three guys,
+text: daring anyone to talk in riddles.
+text: Everyone's a bit freaked. ‘Eddie looks at Clifford. Clifford
+text: looks at Eddie. They both look at Clarence.
+speaker_heading: CLARENCE -
+dialog: Uh... you-know, actually, when
+dialog: you think about it, Mickey's got
+dialog: a good point. I mean, we've all
+dialog: been through a lot, and talkin’
+dialog: about it is gettin’ us nowheres
+dialog: fast.
+dialog: (to Mickey)
+dialog: Know what I mean, pal?
+speaker_heading: MICKEY
+dialog: Yeah.
+text: Clarence looks at Eddie and Clifford. They're listening.
+speaker_heading: CLARENCE
+dialog: Okay .. . I suggest we stop dickin'
+dialog: around, count our losses, lick
+dialog: our wounds, and go to Ronny's
+dialog: Bar. Maybe after a few beers ve
+dialog: can make some sense outta all this.
+speaker_heading: EDDIE
+dialog: (to Clarence)
+dialog: You buyin'?
+speaker_heading: CLARENCE
+dialog: (gropes through pockets
+dialog: in his robe)
+dialog: Tell ya the truth, I don't know
+dialog: where I put my wallet ---
+text: Eddie, Clifford, and Mickey glower at Clarence. He can feel the
+dialog: tension.
+speaker_heading: CLARENCE
+dialog: Oh, that's right! I left it in
+dialog: my pants in the other room. No
+dialog: problem. I'll buy.
+speaker_heading: CONT.
+dialog: N\
+dialog: “y>
+dialog: -y
+text: CONT. .
+text: Clarence looks. at the other three guys, waiting for some
+text: respense. Nobody says anything.
+speaker_heading: CLARENCE
+dialog: Well, are we goin' or not?
+dialog: (pats Mickey on back)
+dialog: How about it, Mick? You look like
+dialog: you could use a cold one.
+text: Mickey takes a deep breath. He gives in.
+speaker_heading: -MICKEY
+dialog: All right.
+speaker_heading: CLARENCE
+dialog: Okay, okay.
+text: Clarence looks at Clifford and Eddie. They've relaxed a bit.
+text: Clificrd shrugs his shoulders. He's in. Eddie realizes he's odd
+dialog: Man cut.
+speaker_heading: EDDIE
+dialog: (to Clarence)
+dialog: Bring your wallet.
+speaker_heading: CLARENCE
+dialog: All righ:!
+text: Clarence raises his hand high for a high five. No one gives it
+text: to him. He clears his throat.
+speaker_heading: CLARENCE
+dialog: Right... Uh, I'll get dressed.
+scene_heading: INT. RONNY'S BAR -- NIGHT
+text: The radio's playing ELEVATOR MUSIC again. With his back to the
+text: bar, Ronny's cleaning glasses. He hears the plug get pulled on
+text: his radio. He turns around and sees Eddie, Clarence, Mickey, and
+text: Clifford all sitting at the bar counter. Ronny drops his glass.
+text: It SHATTERS on the floor.
+speaker_heading: CLARENCE
+dialog: Four beers, Ronny.
+text: Ronny stands frozen, looking at them.
+speaker_heading: CLARENCE
+dialog: Come on, Ronny. What's the delay?
+dialog: : CONT.
+dialog: o
+dialog: oe
+dialog: CONT. '
+text: “Ronny slowly gets the beers. He silently places them in front of
+text: the four guys. First Eddie, then Clarence, then Mickey, then
+text: Clifford. Eddie immediately chugs his beer down and is finished
+text: by the time Clifford gets his beer.
+text: Eddie belches, then gets up from the bar counter.
+speaker_heading: EDDIE
+dialog: See ya.
+speaker_heading: CLARENCE
+dialog: Leavin' already?
+speaker_heading: EDDIE
+dialog: Why? You buyin’ another round?
+speaker_heading: CLARENCE
+dialog: Uh... well ---
+speaker_heading: EDDIE
+dialog: Look, every night at about this
+dialog: time some asshole is throwin' an
+dialog: outdoor party. And every time
+dialog: that happens, some of the assholes
+dialog: there are smokin' dope. And every
+dialog: time that happens, I'm there bustin’
+dialog: heads, which is exactly what I
+dialog: feel like doin' considering the
+dialog: mood I'm in right now.
+text: Everyone looks at Eddie.
+speaker_heading: EDDIE
+dialog: Hey, I'm mendin’ a broken heart.
+dialog: What can I say?
+text: Eddie walks out of the bar.
+text: Ronny vaits until Eddie's gone.
+speaker_heading: RONNY
+dialog: Boy, that guy really pisses me
+dialog: off. He's lucky he left.
+speaker_heading: CLARENCE
+dialog: Yeah, I could see the animal rage
+dialog: buildin' up in you, Ronny.
+speaker_heading: RONNY
+dialog: It was!
+speaker_heading: CONT.
+dialog: .o
+speaker_heading: C9
+scene_heading: MICKEY .
+dialog: So, who's that Eddie guy?
+speaker_heading: CLARENCE
+text: Cecilia's boyfriend.
+speaker_heading: MICKEY
+dialog: I thought you were her boyfriend.
+speaker_heading: CLARENCE
+dialog: Iwas. I mean, we both were, but
+dialog: now we're not. I mean... Trust
+dialog: me, you don't wanna know.
+speaker_heading: MICKEY
+dialog: The guy can hit, that's for sure.
+dialog: Knocked me silly in your bathroom.
+speaker_heading: CLARENCE
+dialog: You're pretty bad yourself, Mick.
+dialog: You were right on him layin' on
+dialog: pain. I was impressed.
+speaker_heading: MICKEY
+dialog: For a while. After I pulled him
+dialog: off you, he caught mé with a punch
+text: I didn't even see. Knocked my
+text: lights out.
+speaker_heading: CLARENCE
+dialog: It did? The punch was that hard?
+dialog: I mean, the second punch... when
+dialog: we were all fighting in the living
+dialog: room. It knocked your lights right
+dialog: out?
+speaker_heading: : MICKEY
+dialog: Yeah.
+text: Clarence gloats, since Mickey's really talking about his punch.
+speaker_heading: CLARENCE
+dialog: (to himself)
+dialog: When I get pissed, watch out.
+speaker_heading: MICKEY
+dialog: Huh?
+speaker_heading: CLARENCE
+dialog: Nothing.
+speaker_heading: CONT.
+dialog: f
+speaker_heading: Cc
+dialog: 5
+speaker_heading: CONT.
+dialog: oe
+dialog: uw
+text: Clifford sniffs at his suit.
+text: Clifford pours
+dialog: Clarence looks
+speaker_heading: . CLIFFORD
+text: Smell like a trash can.
+text: beer on himself. Mickey sees this.
+speaker_heading: MICKEY
+dialog: Why'd you do that?
+speaker_heading: CLIFFORD
+dialog: Rather smell like a drunk then a
+dialog: bum. Bad for the image.
+speaker_heading: MICKEY
+dialog: Oh...
+text: at the clock. It's a few minutes past midnight.
+speaker_heading: CLARENCE
+dialog: Hey! That's it! It's past mid-
+dialog: night. :
+dialog: (to Mickey)
+dialog: It's your birthday!
+speaker_heading: MICKEY
+dialog: Clarence...
+speaker_heading: RONNY
+dialog: Happy birthday, Mickey.
+text: Ronny gives him another beer.
+speaker_heading: RONNY
+text: On the house.
+speaker_heading: MICKEY
+dialog: Thanks, Ronny, I ---
+speaker_heading: CLARENCE
+dialog: All right! Party time!
+speaker_heading: MICKEY
+dialog: Clarence...
+speaker_heading: CLIFFORD
+dialog: How old are you?
+speaker_heading: CONT.
+dialog: -
+dialog: ”
+dialog: 2
+speaker_heading: CONT.
+text: Before Mickey can respond:
+speaker_heading: . CLARENCE
+dialog: Thirty! The big three... oh!
+dialog: This is a milestone, Mickey! We're
+dialog: gonna party like there's no tomo---
+speaker_heading: MICKEY
+speaker_heading: CLARENCE!
+text: Clarence shuts up. Ronny and Clifford freeze.
+speaker_heading: _ MICKEY
+dialog: (to Clarence)
+dialog: I'd like to talk to you. .
+dialog: outside... now.
+text: Mickey leaves the bar.
+text: Clifford and Ronny look at Clarence.
+speaker_heading: CLARENCE
+dialog: He's fine. Really. Everything's
+dialog: cool. I'm gonna go outside and me
+dialog: and Mickey'll have a little chat,
+dialog: and then we're all gonna party.
+dialog: Ronny, get my man, Cliff, here,
+dialog: another beer.
+text: Ronny gives Clifford another beer.
+speaker_heading: CLARENCE
+dialog: Cliff, drink up as much as you
+dialog: want. On the house tonight.
+speaker_heading: RONNY
+dialog: Hey...
+speaker_heading: CLARENCE
+dialog: Ronny, get out the pretzels, the
+dialog: chips, the dip, and every kindda
+dialog: beer you got. I want it to be
+dialog: beer-city in here when I come
+text: back with Mickey.
+scene_heading: EXT. RONNY'S BAR -- NIGHT
+text: Clarence meets Mickey outside behind Ronny's bar.
+speaker_heading: CONT.
+dialog: co
+speaker_heading: oO
+dialog: ws
+speaker_heading: MICKEY
+dialog: Look, Clarence, I appreciate your
+dialog: sentiments. I really do. But
+dialog: _ I just don't vanna party. Okay?
+speaker_heading: ' CLARENCE
+dialog: Mickey . . 2 apts your birthday.
+speaker_heading: Mi CREY
+dialog: You've been saying that all night!
+dialog: I know it's my birthday. Nobody
+dialog: knows that more than me. And it's
+dialog: been a rotten.experience. This
+dialog: has been the worst night of my life.
+dialog: Any minute now someone I've never |
+dialog: seen before might walk around that
+text: corner and punch me in the mouth.
+dialog: What . . . you wanna party, Clarence?
+dialog: Fine. Why not buy a birthday cake?
+dialog: I'll go along so I can try it on
+dialog: first to see if it's the right
+dialog: size.
+speaker_heading: CLARENCE
+dialog: Hey, Mickey ---
+speaker_heading: MICKEY
+dialog: I'm serious here, Clarence. I feel
+dialog: like a Soupy Sales reject. How
+dialog: many people do you know have ever
+dialog: had a cake and a cream pie smashed
+dialog: into their face in their whole life,
+dialog: let alone one night. And what's
+dialog: with this everyone seein' me naked
+dialog: in the shower shit? You know, I
+dialog: used to like taking showers. I
+dialog: found them relaxing. I really did,
+dialog: but not anymore. Now, if I wanna
+dialog: meet an idiot,.I can just jump
+dialog: into the shower. Some asshole'll
+dialog: show up.
+text: Clarence becomes somber. He walks over to the front fender of a
+text: car, which protrudes from an alley. You can't see the entire car
+text: because the building wall blocks it. Clarence sits on the car
+dialog: hood.
+speaker_heading: MICKEY
+dialog: Clarence?
+speaker_heading: CONT.
+dialog: ‘
+speaker_heading: Cc
+speaker_heading: CONT.
+text: Clarence doesn't respond. He's depressed. Mickey walks over.
+speaker_heading: MICKEY
+dialog: Clarence, what's the matter?
+speaker_heading: CLARENCE
+dialog: You're right. It's all my fault.
+speaker_heading: MICKEY
+dialog: What's your fault?
+speaker_heading: CLARENCE
+dialog: Everything. I fucked up the whole
+dialog: night for you.
+speaker_heading: MICKEY
+dialog: Now wait. I didn't say that.
+speaker_heading: CLARENCE
+dialog: It seems like I turn everything
+dialog: to shit. It's really my fault ve
+dialog: got fired. And I ruined your birth-
+dialog: day party. This always happens.
+dialog: Like last week when you ve're gonna
+text: fight those two guys. I jump in to
+dialog: help you and I go and bump you ---
+speaker_heading: MICKEY
+dialog: Hold the phone, pal. Now, before
+dialog: you go blamin' yourself, consider
+dialog: this . . . If you hadn't accidently
+dialog: bumped me and knocked me into that
+dialog: fat girl's banana split, there
+dialog: wouldn't have been a diversion. If
+dialog: there's wasn't a diversion, the big
+dialog: guy wouldn't have started laughing,
+dialog: and you wouldn't have been able to
+text: sneak up behind him and slug him
+text: with the gumball machine. That left
+dialog: the other guy to me, which was one
+dialog: on one, and, hey, it was a piece
+dialog: of cake. It was teamwork, like
+dialog: it always is with us.
+speaker_heading: CLARENCE
+dialog: Yeah . . . like Starsky and Hutch
+dialog: or Crockett and Tubbs.
+speaker_heading: MICKEY
+dialog: You got it. CONT.
+speaker_heading: r CONT.
+speaker_heading: CLARENCE
+dialog: But you're still a little pissed.
+speaker_heading: MICKEY
+dialog: I'm not pissed.
+speaker_heading: CLARENCE
+dialog: You're pissed off. I know you.
+speaker_heading: MICKEY
+dialog: I'm not pissed off. You keep sayin'
+dialog: I'm pissed off, I might get pissed
+dialog: off. .
+speaker_heading: CLARENCE
+dialog: Then do Eastwood.
+speaker_heading: MICKEY
+dialog: Why cdo I gotta do Eastwood?
+speaker_heading: CLARENCE
+dialog: Because if you're not pissed off,
+dialog: you can do Eastwood, and I know
+dialog: you're pissed off. You're ina
+dialog: foul mood. .
+speaker_heading: MICKEY
+dialog: All right, if I do Eastwood, no
+dialog: more talk about me bein' pissed
+dialog: off, or anything bein' your fault.
+speaker_heading: : CLARENCE
+dialog: Nothin's my fault if you do Eastwood.
+text: Mickey takes a moment, then does an impersonation of Clint
+dialog: Eastwood as Dirty Harry.
+speaker_heading: MICKEY
+dialog: (Clint Eastwood voice)
+dialog: Well, what kindda gun you carryin'
+dialog: there, boy? Oh, a .38. Not a bad
+dialog: gun. Let's see what it can do.
+text: (holds pretend gun to his
+dialog: head)
+dialog: Boon!
+dialog: (snorts)
+dialog: Well, I just happen to have a .44
+dialog: Magnum, the most powerful handgun
+dialog: in the world. Let's see if it can
+dialog: blow your head clean off.
+speaker_heading: CONT.
+dialog: 98
+dialog: Cont. ~
+text: Mickey pretends to shoot a bigger gun at Clarence. They both
+dialog: laugh.
+speaker_heading: CLARENCE
+dialog: Sit down here.
+text: Mickey sits on the hood next to Clarence. Clarence reaches in-
+text: side his coat and pulls out a joint.
+speaker_heading: CLARENCE
+dialog: Here . . . goon, take it. It's
+dialog: from my private stash.
+text: Mickey takes the joint. Clarence gives him some matches.
+speaker_heading: _ CLARENCE
+dialog: Tell you what, seein' as how tonight
+dialog: Started on the wrong foot, why don't you
+dialog: light that up, you smoke it, and
+dialog: you relax. And when you're ready,
+dialog: you come back inside. In the mean-
+dialog: time, I'll call Misty and see if
+dialog: she's home. And this time, maybe
+dialog: we can get her to bring some friends,
+dialog: and we really will party.
+speaker_heading: MICKEY
+dialog: Misty seems like a nice girl, Clarence.
+speaker_heading: CLARENCE
+dialog: Yeah, I like her. So, what do
+dialog: you think? You wanna give the
+dialog: birthday party one more shot?
+speaker_heading: MICKEY
+dialog: (laughs)
+dialog: Why not?
+speaker_heading: CLARENCE
+dialog: Happy birthday, Mickey.
+speaker_heading: MICKEY
+dialog: Thanks, Clarence. You're my best
+dialog: friend. —
+text: They embrace. Clarence jumps off the car hood.
+speaker_heading: CLARENCE
+dialog: It's gonna be a wild mornin'!
+speaker_heading: CONT.
+dialog: (~
+speaker_heading: CONT.
+text: “Clarence goes back inside the bar.
+text: Mickey laughs. He lights up the joint, and takes a big drag.
+text: He exhales.
+text: Suddenly, RED AND BLUE LIGHTS start FLASHING.
+text: CAMERA follows Mickey as he turns, revealing the rest of the car
+text: parked in the dark alley.
+text: Mickey realizes he's sitting on the hood of a police car. A COP
+text: gets out of the car, and SHINES his flashlight on Mickey, who's
+text: holding the joint.
+text: Mickey reacts.
+dialog: la
+speaker_heading: I5
+dialog: vt
+dialog: 

@@ -1,0 +1,1273 @@
+dialog: The Thirteenth Floor
+scene_heading: INT. HOTEL ROOM-MIGHT 1930 L.A. Fuller writes a letter
+speaker_heading: FULLER
+text: They say, "Ignorance is bliss." For the first time in my life, I
+dialog: agree. I wish I had never uncovered the awful truth. I know now.
+text: once they find out, they will try to silence me. That is why I've
+dialog: written this all down for you in this letter. You*re the only
+dialog: one whom I can tell this to. The only one who could possibly
+dialog: understand. Good luck, my friend.
+scene_heading: INT. HOTEL-NIGHT
+speaker_heading: CLARK
+dialog: I hope you enjoyed your stay with us.
+speaker_heading: GENE
+dialog: Mr. Fuller, nice having you here tonight. Your usual table?
+speaker_heading: FULLER
+dialog: No thanks. Gene.
+speaker_heading: ASHTON
+dialog: Her name's Erika. She's from Toledo.
+speaker_heading: FULLER
+dialog: Ashton, would you do me a favor?
+speaker_heading: ASHTON
+dialog: You'd like to meet her?
+speaker_heading: FULLER
+dialog: I want you to keep this letter. Somebody will ask for it. A man
+dialog: named Douglas Hall. Remember, it's crucial that he receives it.
+speaker_heading: ASHTON
+text: It's a walk in the park.
+scene_heading: EXT. OUTSIDE THE HOTEL-NIGHT
+speaker_heading: DRIVER
+dialog: Going home, Mr. Fuller?
+speaker_heading: FULLER
+dialog: Yes, Charlie.
+scene_heading: INT HOME BEDROOM- NIGHT
+speaker_heading: WOMAN
+dialog: We're out of cat food.
+speaker_heading: FULLER
+dialog: Yes, I'll buy some in the morning.
+speaker_heading: WOMAN
+dialog: You've been smoking again.
+scene_heading: INT. COMPUTER ROOM -NIGHT 2000
+speaker_heading: COMPUTER
+text: Download complete. Link to simulation terminated.
+scene_heading: INT. BAR- NIGHT
+speaker_heading: BARTENDER
+text: One martini.
+speaker_heading: FULLER
+dialog: You forgot the olive.
+speaker_heading: BARTENDER
+dialog: We're out of olives. How about some pretzels?
+speaker_heading: FULLER
+dialog: No thank you.
+speaker_heading: PHONE
+dialog: Please leave a message at the tone.
+speaker_heading: FULLER
+dialog: Douglas, it's me. Listen, I've stumbled onto something
+dialog: incredible. This changes everything.
+scene_heading: EXT. OUTSIDE THE BAR -NIGHT
+speaker_heading: FULLER
+text: I don't know. I don't even know how to begin. What are you doing?
+scene_heading: INT. DOUGLAS'S HOUSE- MORNING
+speaker_heading: PHONE
+dialog: You have new messages. You have 3 new messages.
+speaker_heading: PHONE
+dialog: First new message
+text: Five twenty-five a.m.
+speaker_heading: HILLARY
+dialog: Douglas, it's Hilary. Don't forget to call Marshall. Legal is
+dialog: screaming for the contract. I'll have a notary come to the
+text: office at lunch.
+speaker_heading: PHONE
+dialog: Next new message
+text: Five forty-eight a.m.
+speaker_heading: HILLARY
+dialog: It's me again. Please call me as soon as you get up.
+speaker_heading: PHONE
+dialog: Next new message
+dialog: Six thirteen a.m.
+speaker_heading: McBAIN
+text: Mr. Douglas Hall, this is Detective McBain, LAPD. I'd appreciate
+text: a callback, please. My phone number is 555-7876.
+scene_heading: INT.POLICE OFFICE - MORNING
+speaker_heading: BERNTEIN
+dialog: I'm Detective Zev Bernstein. Sorry to drag you out of bed so
+text: early. This is Detective McBain.
+speaker_heading: McBAIN
+dialog: Mr. Hall? Thanks for coming down.
+speaker_heading: DOUGLAS
+dialog: Where is he?
+speaker_heading: McBAIN
+dialog: Can I get you some coffee?
+speaker_heading: DOUGLAS
+dialog: No.
+speaker_heading: McBAIN
+text: We found him in an alley at Spring and Grand. Looks like he ran
+text: into some guy who wasn't just asking for a quarter. Carved him up
+dialog: like a ham. Took everything
+dialog: Wallet, credit cards. Got a real kick out of it. What's your
+dialog: connection to the old man?
+speaker_heading: DOUGLAS
+dialog: I worked with him for 6 years. He was may boss. My friend.
+speaker_heading: McBAIN
+dialog: Hey, cigarette?
+speaker_heading: DOUGLAS
+dialog: I don't smoke.
+speaker_heading: McBAIN
+dialog: We found these on him. Traced the prescription. According to his
+dialog: doctor. Fuller listed you to call in case of medical
+dialog: emergencies. He had no next of kin?
+speaker_heading: DOUGLAS
+dialog: No he didn't.
+speaker_heading: McBAIN
+dialog: Sure?
+speaker_heading: DOUGLAS
+dialog: I think he would've told me.
+speaker_heading: McBAIN
+dialog: Have any idea who killed him?
+speaker_heading: DOUGLAS
+dialog: Everybody liked him.
+speaker_heading: McBAIN
+dialog: Mind if I tag along? Or we can continue in my office, if that's
+dialog: more convenient.
+speaker_heading: DOUGLAS
+dialog: That's fine.
+dialog: McBain, What do you do for a paycheck, anyway?
+speaker_heading: DOUGLAS
+dialog: Computer software. Would you mind taking care of the car this
+dialog: morning?
+speaker_heading: McBAIN
+dialog: Must make some decent bucks, huh?
+speaker_heading: DOUGLAS
+dialog: I make a living.
+scene_heading: INT. FULLER'S OFFICE -MORNING
+speaker_heading: DOUGLAS
+dialog: This was his apartment.
+speaker_heading: McBAIN
+dialog: You could be home already.
+speaker_heading: DOUGLAS
+dialog: What?
+speaker_heading: McBAIN
+dialog: I see these signs every time I leave work - " You could be home
+dialog: already. Apartment living in downtown." Never expected it could
+dialog: look anything like this.
+speaker_heading: DOUGLAS
+dialog: This company was Fuller's life. He worked and lived here.
+speaker_heading: McBAIN
+dialog: So what exactly do your people do here?
+speaker_heading: DOUGLAS
+dialog: I don't think you wouldn't be interested.
+speaker_heading: McBAIN
+dialog: I'm paid to be interested.
+speaker_heading: DOUGLAS
+dialog: Computer research. Fuller was onto a whole new frontier. Very
+text: sensitive material. Not at liberty to discuss it.
+speaker_heading: McBAIN
+dialog: A lot of money involved. This apartment must be worth a few
+dialog: million dollars.
+speaker_heading: DOUGLAS
+dialog: One of the perks of the job.
+speaker_heading: McBAIN
+dialog: This job has a whole lot of perks.
+text: (A woman comes in)
+speaker_heading: DOUGLAS
+dialog: Can I help you?
+speaker_heading: JANE
+text: I just talked to him 2 days ago. I can't believe he' gone. My
+dialog: name is Jane Fuller. Hannon was my father.
+speaker_heading: DOUGLAS
+dialog: I'm sorry. I'm Douglas Hall.
+speaker_heading: JANE
+dialog: You are the one he always wanted me to meet.
+speaker_heading: DOUGLAS
+dialog: Really? He never mentioned to me that he had a daughter.
+speaker_heading: JANE
+dialog: he didn't? I just arrived from Paris this morning. I was supposed
+dialog: to meet him. But then I heard.
+speaker_heading: McBAIN
+text: My condolences, Miss Fuller. I'm Detective McBain, LAPD. I have
+dialog: to ask you some questions.
+speaker_heading: JANE
+dialog: of course.
+speaker_heading: McBAIN
+dialog: Would you excuse us, Mr. Hall?
+speaker_heading: DOUGLAS
+dialog: Sure. Have we ever met before?
+speaker_heading: JANE
+dialog: No, that's not possible.
+speaker_heading: DOUGLAS
+dialog: You look very familiar. Nice to meet you, Miss Fuller.
+scene_heading: INT. THE 13TH FLOOR
+speaker_heading: DOUGLAS
+dialog: Hey, Whitney. How you doing?
+speaker_heading: WHITNEY
+text: Sliced him up like an animal. And for what? He was the Einstein
+dialog: of our generation. It's a waste.
+speaker_heading: DOUGLAS
+dialog: What the hell happened while I was away?
+speaker_heading: WHITNEY
+dialog: He was jacking into the system a lot.
+speaker_heading: DOUGLAS
+dialog: What?
+speaker_heading: WHITNEY
+dialog: I thought you knew. You didn't know?
+speaker_heading: DOUGLAS
+dialog: No, I thought we were months away from the first trial run.
+speaker_heading: WHITNEY
+dialog: We are. But you know, he was taking a big chance. What was I
+dialog: supposed to do? You know how he is.
+speaker_heading: DOUGLAS
+dialog: Any complications?
+speaker_heading: WHITNEY
+dialog: None that I know of yet.
+speaker_heading: DOUGLAS
+dialog: Did he ever tell you he had a daughter?
+speaker_heading: WHITNEY
+dialog: Why?
+speaker_heading: DOUGLAS
+dialog: Because I just met her.
+speaker_heading: WHITNEY
+dialog: You're kidding me.
+scene_heading: INT. OFFICE ROBBY
+speaker_heading: DOUGLAS
+dialog: John, I need the number of that cab company.
+speaker_heading: GUARD
+dialog: No need, sir. She went to the Omni Hotel.
+scene_heading: INT. THE 13TH FLOOR
+speaker_heading: WHITNEY
+dialog: Doug?
+speaker_heading: McBAIN
+dialog: Detective McBain. Sorry to disappoint you.
+speaker_heading: WHITNEY
+dialog: I'll find Doug.
+speaker_heading: McBAIN
+dialog: Actually it's you I want to have a few word with.
+speaker_heading: WHITNEY
+dialog: What for?
+speaker_heading: McBAIN
+dialog: Want me to catch your boss's killer?
+speaker_heading: WHITNEY
+dialog: Of course.
+speaker_heading: McBAIN
+dialog: The whole thing's a giant computer game?
+speaker_heading: WHITNEY
+dialog: No not at all, it doesn't need a user to interact with it to
+text: function. Its units are fully-formed, self-learning cyber beings.
+speaker_heading: McBAIN
+dialog: Units?
+speaker_heading: WHITNEY
+text: Electronic, simulated characters. They populate the system. They
+dialog: think they work, they eat,
+speaker_heading: McBAIN
+dialog: They fuck?
+speaker_heading: WHITNEY
+dialog: Let's just say that they're modeled after us. Right now we have
+dialog: a working prototype
+dialog: Los Angeles, circa 1937.
+speaker_heading: McBAIN
+dialog: Why '37?
+speaker_heading: WHITNEY
+dialog: Fuller wanted to start by recreating the era of his youth. You
+text: see, while my mind is jacked in, I'm walking around experiencing
+text: 1937. My body stays here and holds the consciousness of the
+dialog: program link unit.
+speaker_heading: McBAIN
+dialog: You think one of them units crawled up an extension cord and
+dialog: killed its maker?
+scene_heading: INT. HOTEL ROBBY
+speaker_heading: DOUGLAS
+dialog: Miss Fuller checked in yet?
+speaker_heading: DOUGLAS
+dialog: Glad I caught you.
+speaker_heading: JANE
+dialog: Mr. Hall. What are you doing here.
+speaker_heading: DOUGLAS
+dialog: Well, it's about your father. Actually. You said you spoke with
+dialog: him a few days ago. Can you tell me anything about that
+dialog: conversation? Did he seem strange to you at all?
+speaker_heading: JANE
+dialog: Well, he'd been under a lot of stress lately. He asked me to fly
+dialog: to the States, so I could help with the company.
+speaker_heading: DOUGLAS
+dialog: Help him run it?
+speaker_heading: JANE
+dialog: Shut it down.
+speaker_heading: DOUGLAS
+dialog: I worked with him for 6 years. If he wanted to shut it down, he
+dialog: would've told me about it.
+speaker_heading: JANE
+dialog: He didn't tell you about me. But I wish he had.
+speaker_heading: MAN
+dialog: It's nice to see you again.
+speaker_heading: JANE
+dialog: Sorry I'm late. Have you had a chance to look through the
+dialog: paperwork?
+speaker_heading: MAN
+dialog: Yes, I have. And I think we have a very strong case. The company
+dialog: should be yours in no time.
+speaker_heading: JANE
+dialog: What do you mean strong case?
+speaker_heading: MAN
+dialog: What I'm saying is , your father changed his will in favor of
+dialog: the employees. In fact you aren't mentioned in the original will
+dialog: either. But as I said, I think we have a very strong case.
+speaker_heading: JANE
+dialog: Who will heard the board now?
+speaker_heading: MAN
+dialog: Douglas Hall.
+speaker_heading: McBAIN
+dialog: Not bad. Owner of a &2 billion enterprise. Strange, Fuller would
+text: amend his will just a couple days before he died.
+speaker_heading: DOUGLAS
+dialog: I was on a airplane when it happened.
+speaker_heading: McBAIN
+text: According to the security guard, Fuller left the office at ten-
+text: thirty p.m., 30 minutes after your plane arrived. Autopsy shows
+dialog: that he died around midnight. You had time to catch up with him.
+speaker_heading: DOUGLAS
+dialog: But I didn't. I went straight home.
+speaker_heading: McBAIN
+text: Didn't talk to him? No, e-mails, no faxes, no even message?
+speaker_heading: DOUGLAS
+dialog: None of the above.
+speaker_heading: McBAIN
+dialog: You know, that's funny. We checked Fuller's phone records. He
+text: made a call with his calling card at 11:02p.m.b Your home number.
+dialog: I'd appreciate it if you didn't leave for a couple of days. And
+dialog: get that game fixed. It*s missing a spring.
+scene_heading: INT. HALL'S APARTMENT
+speaker_heading: PHONE
+dialog: Restore. To restore messages, press "rewind" now. Yesterday at
+text: two forty-five p.m.
+speaker_heading: MAN
+dialog: I managed to reschedule...
+speaker_heading: PHONE
+dialog: Yesterday at 5:14p.m.
+speaker_heading: MAN
+dialog: Hello, Mr. Hall
+speaker_heading: PHONE
+text: Yesterday at 11:02p.m.
+speaker_heading: FULLER
+dialog: Douglas, it's me. Listen, I've stumbled onto something
+dialog: incredible. This changed everything. I'm here in some bar on Main
+dialog: and 7th. In case something happens to me, I left you a massage
+dialog: in the system. I gave it to.. How did you find me?
+scene_heading: INT. THE 13TH FLOOR
+speaker_heading: WHITNEY
+dialog: What's going on?
+speaker_heading: DOUGLAS
+dialog: I'm trying to get into Fuller's files.
+speaker_heading: WHITNEY
+dialog: For what?
+speaker_heading: DOUGLAS
+dialog: He left a message for me the night he died. He knew someone
+dialog: wanted to kill him.
+speaker_heading: WHITNEY
+dialog: Did you tell the police?
+speaker_heading: DOUGLAS
+dialog: No.
+speaker_heading: WHITNEY
+dialog: Why not?
+speaker_heading: DOUGLAS
+dialog: He also said he left a message for me.
+speaker_heading: WHITNEY
+dialog: Douglas, please. This is my stuff, okay?
+speaker_heading: DOUGLAS
+dialog: So these are the units that Fuller interacted with when he was
+dialog: down there. Maybe he wanted me to go in.
+speaker_heading: WHITNEY
+dialog: If you're thinking what I think you're thinking. Don't even
+dialog: think about it.
+speaker_heading: DOUGLAS
+dialog: I need your help.
+speaker_heading: WHITNEY
+text: No, no, no. I won't help you. You're taking a serious risk.
+speaker_heading: DOUGLAS
+dialog: I have to get in.
+speaker_heading: WHITNEY
+dialog: you could die.
+speaker_heading: DOUGLAS
+dialog: The police think I killed him. They may be right.
+speaker_heading: WHITNEY
+dialog: What are you talking about?
+speaker_heading: DOUGLAS
+dialog: Everything points to me. To be perfectly honest, I don't know
+dialog: the truth is anymore. Either I did murder Fuller and I can' t
+dialog: remember, or I'm being framed. The one clue I have is in that
+dialog: machine. I need your help if I'm going to find it.
+speaker_heading: WHITNEY
+dialog: I'll set it for an hour.
+speaker_heading: DOUGLAS
+text: Set the timer for 120 minutes.
+speaker_heading: WHITNEY
+dialog: Set for 60 is better.
+speaker_heading: DOUGLAS
+dialog: 120 minutes, Whit.
+speaker_heading: WHITNEY
+dialog: 60 is safer. I'm setting it at 60.
+speaker_heading: DOUGLAS
+dialog: Whit, 1-2-0.
+speaker_heading: COMPUTER
+text: 120 minutes. Engage timer. Preparing user for download into
+dialog: simulation. Ready for download.
+speaker_heading: DOUGLAS
+text: Mr. Grierson, 117 West Whinston, Pasadena.
+speaker_heading: COMPUTER
+dialog: Transference beginning. Download complete.
+scene_heading: INT. BANK 1937 L.A. DAY
+speaker_heading: WOMAN
+dialog: You owe me $12.05. Listen young man! I do not have all day.
+speaker_heading: CLARK
+dialog: Ferguson, anything wrong? John, are you okay?
+speaker_heading: CLARK
+dialog: I'm terribly sorry, ma'am. Someone will be right with you.
+speaker_heading: CLARK
+dialog: John? Cigarette?
+speaker_heading: DOUGLAS
+dialog: No, thanks. Don't smoke.
+speaker_heading: CLARK
+dialog: Since when? Listen John. Why don't you break for lunch? Get some
+dialog: fresh air. You look terrible.
+scene_heading: EXT. STREET DAY
+speaker_heading: BOY
+dialog: Extra! Extra! Zeppelin blast kills 35! You want one, mister?
+dialog: It's 5 cents.
+speaker_heading: DOUGLAS
+dialog: How much to Pasadena?
+speaker_heading: DRIVER
+dialog: 90 cents. If I forget to turn the meter on.
+speaker_heading: DOUGLAS
+dialog: I understand.
+speaker_heading: DRIVER
+dialog: So this is it, 177 Whinston.
+speaker_heading: DOUGLAS
+dialog: It's gonna be a few minutes. Do you mind waiting?
+speaker_heading: DRIVER
+dialog: It'll be a pleasure, sir.
+scene_heading: INT. BOOK STORE DAY
+speaker_heading: GRIERSON
+dialog: Tell me if you need any help.
+speaker_heading: DOUGLAS
+dialog: Thank you. You own this place?
+speaker_heading: GRIERSON
+text: I mean, it's not much but it's mine. You looking for anything in
+dialog: particular?
+speaker_heading: DOUGLAS
+dialog: Interested in a scientist. Wrote a couple of books about
+text: semiconductors and the limitation of the 64-bit microchip.
+speaker_heading: GRIERSON
+dialog: Microchip. Semiconductors. What year?
+speaker_heading: DOUGLAS :
+dialog: Early seventies? His name was Hannon Fuller.
+speaker_heading: GRIERSON
+text: Hannon Fuller. 1870. No I can't say I've ever heard of Hannon
+dialog: Fuller. 1870, Microchips. But I'm not much of a technical
+dialog: person, you know. You been here before? You look kind of
+text: familiar.
+speaker_heading: DOUGLAS
+dialog: name's Douglas Hall.
+speaker_heading: GRIERSON
+dialog: Douglas Hall. It doesn't ring a bell. Guess you just have one of
+text: those faces familiar faces. Oh, it's late. I'd like to close up
+dialog: now.
+speaker_heading: DOUGLAS
+dialog: Of course. Pleasure.
+speaker_heading: GRIERSON
+dialog: Pleasure to meet you, Mr. Hall.
+scene_heading: EXT. 1257 Palo Alto Road DAY
+speaker_heading: DRIVER
+text: 1257 Palo Alto Road, la Cienega Heights. I guess that's it.
+speaker_heading: DOUGLAS
+dialog: Excuse me. I'm looking for Bridget Manilla.
+speaker_heading: WOMAN
+dialog: What do you want her for?
+speaker_heading: DOUGLAS
+dialog: I want to ask her some questions.
+speaker_heading: WOMAN
+dialog: She's got a job now. I'm her mother.
+speaker_heading: DOUGLAS
+dialog: Can you tell me where I can find her?
+speaker_heading: WOMAN
+dialog: You a copper?
+speaker_heading: DOUGLAS
+dialog: No.
+speaker_heading: WOMAN
+text: Now, listen. She ain't doing nothing wrong no more. If you don't
+dialog: cause her no trouble, you'll find her at Wilshire Grand Hotel.
+scene_heading: INT. WILSHIRE GRAND HOTEL
+speaker_heading: DOUGLAS
+dialog: I'm looking for Bridget Manilla.
+speaker_heading: WOMAN
+text: She's over there, second from the end.
+speaker_heading: DOUGLAS
+dialog: Bridget? I got your name from a good friend of mine.
+speaker_heading: BRIDGET
+dialog: Come bask later. I'm really busy right now.
+speaker_heading: DOUGLAS
+text: his name's fuller.
+speaker_heading: BRIDGET
+text: The manager's very tough on us. You'll have to wait till I'm off
+dialog: duty.
+speaker_heading: DOUGLAS
+dialog: I really don't think I can wait that long.
+speaker_heading: BRIDGET
+dialog: Go talk to Ashton over at the bar.
+scene_heading: INT. BAR COUNTER
+speaker_heading: DOUGLAS
+dialog: Excuse me. I'm looking for Ashton.
+speaker_heading: BARTENDER
+dialog: Right there. Ashton, some guy wants you.
+speaker_heading: ASHTON
+dialog: You're a lucky man. I just opened. Oh my. Something wrong?
+speaker_heading: DOUGLAS
+dialog: Bridget just sent me over here.
+speaker_heading: ASHTON
+dialog: What can I do you for?
+speaker_heading: DOUGLAS
+dialog: You know a gentleman named Hannon Fuller?
+speaker_heading: ASHTON
+text: Gin martini up, one olive and likes them frigid as an Eskimo.
+speaker_heading: DOUGLAS
+dialog: talked to him recently?
+speaker_heading: ASHTON
+dialog: Why?
+speaker_heading: DOUGLAS
+text: I'm his friend. He didn't come home last night. And his wife is
+dialog: concerned. My name is Douglas hall.
+speaker_heading: ASHTON
+dialog: Concerned wives? I can't help you with that. How about something
+dialog: fancy?
+speaker_heading: DOUGLAS
+dialog: So did... Does Fuller come here frequently?
+speaker_heading: ASHTON
+dialog: You could say that.
+speaker_heading: DOUGLAS
+dialog: What does he do?
+speaker_heading: ASHTON
+dialog: What everybody does
+text: Drinks, dances, has a good time. Especially has a good time. He
+dialog: really goes for the girls.
+speaker_heading: DOUGLAS
+dialog: Girls?
+speaker_heading: ASHTON
+dialog: Thought you said you knew him.
+speaker_heading: DOUGLAS
+dialog: Yeah, I thought I did.
+speaker_heading: ASHTON
+dialog: Are you in a hurry or something?
+speaker_heading: DOUGLAS
+dialog: Didn't happen to talk to Fuller the night before last, did you?
+speaker_heading: ASHTON
+dialog: Yes, I did.
+speaker_heading: DOUGLAS
+dialog: Did he mention my name? Did he give you something for me?
+speaker_heading: ASHTON
+dialog: What would that be?
+speaker_heading: DOUGLAS
+dialog: A message or a note, maybe.
+speaker_heading: ASHTON
+dialog: No, sorry.
+speaker_heading: DOUGLAS
+dialog: Did you see him talking to anybody else?
+speaker_heading: ASHTON
+dialog: I'm a very busy man. Listen, if you like, I can arrange something
+dialog: for you too. You see anything you want?
+speaker_heading: DOUGLAS
+dialog: Can you tell me where the bathroom is , please?
+scene_heading: INT. THE 13TH FLOOR
+speaker_heading: WHITNEY
+text: You all right? You sure? All right, take it easy. Hey, man. Take
+text: it easy. I told you, 120 minutes. It's too long. You're really
+dialog: pushing your luck.
+speaker_heading: DOUGLAS
+dialog: What happened?
+speaker_heading: WHITNEY
+dialog: The memory transference with your link it froze. Started
+dialog: overlapping! Thought I'd be shooting hoops with Ferguson for the
+dialog: rest of my life.
+scene_heading: INT. THE BAR 1973
+speaker_heading: FERGUSON
+dialog: You got a smoke?
+speaker_heading: ASHTON
+dialog: Sure.
+speaker_heading: FERGUSON
+dialog: Thank you. Mind if I ask you a question? Can you tell me where I
+dialog: am?
+scene_heading: INT. THE 13TH FLOOR
+speaker_heading: WHITNEY
+dialog: It works?
+speaker_heading: DOUGLAS
+dialog: Oh, it works.
+speaker_heading: WHITNEY
+dialog: How about Anston? My bartender?
+speaker_heading: DOUGLAS
+dialog: He's got much better haircut than you. Much better.
+speaker_heading: WHITNEY
+dialog: I wish I could see it for myself. How's the lighting? Textures?
+speaker_heading: DOUGLAS
+text: Colorization needs work, but the units don't notice.
+speaker_heading: WHITNEY
+dialog: What are they like?
+speaker_heading: DOUGLAS
+dialog: They're as real as you and me.
+speaker_heading: WHITNEY
+dialog: You see the old man was right! All those years of work! Did you
+dialog: find out what he was doing there?
+speaker_heading: DOUGLAS
+dialog: Yeah, He was having sex with girls.
+speaker_heading: WHITNEY
+dialog: You're kidding me.
+speaker_heading: GUARD
+dialog: Excuse me , Mr. Hall? A man in the lobby says he needs to talk
+dialog: to you.
+speaker_heading: DOUGLAS
+dialog: Thanks. Have him call my office in the morning.
+speaker_heading: GUARD
+dialog: He says it's urgent. He's a friend of Mr. Fuller's
+scene_heading: INT. LOBBY
+speaker_heading: DOUGLAS
+dialog: You're a friend of Fuller's?
+speaker_heading: TOM
+dialog: You're Hall, right?
+speaker_heading: DOUGLAS
+dialog: How can I help you, Mr. Tom Jones. You know, like the singer.
+dialog: How about some privacy?
+speaker_heading: DOUGLAS
+dialog: What do you want to talk about?
+speaker_heading: TOM
+text: About the night the old man died.
+speaker_heading: DOUGLAS
+dialog: I'll be right back, Joe.
+scene_heading: INT. THE GARAGE
+speaker_heading: DOUGLAS
+dialog: So where'd you meet Fuller?
+speaker_heading: TOM
+dialog: in my bar the other night. Waiting for you.
+speaker_heading: DOUGLAS
+dialog: Is that what you wanted to talk to me about?
+speaker_heading: TOM
+dialog: I want to talk about money now. Something in the seven figures.
+speaker_heading: DOUGLAS
+dialog: What money?
+speaker_heading: TOM
+dialog: Come on. You think you can get away with it?
+speaker_heading: DOUGLAS
+dialog: Get away with what?
+speaker_heading: TOM
+text: You took the old man, asshole! Listen to me. He was at the bar.
+dialog: You pick him up, leave together. Next day he's an obit. You do
+dialog: the math, asshole!
+scene_heading: INT.CAR NIGHT RAIN
+speaker_heading: CLARK
+dialog: Omni Hotel. How can I help you?
+speaker_heading: DOUGLAS
+dialog: Miss Jane Fuller, please.
+speaker_heading: JANE
+dialog: hello? Who is this?
+scene_heading: INT. HOTEL NIGHT
+speaker_heading: DOUGLAS
+dialog: The night your father was killed, he tried to reach me. He wanted
+dialog: to meet at some bar.
+speaker_heading: JANE
+dialog: What for?
+speaker_heading: DOUGLAS
+text: He left someone was after him.
+speaker_heading: JANE
+dialog: Did you talk to him?
+speaker_heading: DOUGLAS
+text: I know how strange this sounds. I can't remember.
+speaker_heading: JANE
+dialog: What do you mean, you can't remember? Did you talk to the
+dialog: detective about this?
+speaker_heading: DOUGLAS
+text: No, but the bartender will, if I don't pay up. I know how crazy
+dialog: this sounds.
+speaker_heading: JANE
+dialog: You can't just plug your brain into this machine and not expect
+dialog: to be affected by it please walk away from this before you get
+text: hurt too.
+speaker_heading: DOUGLAS
+dialog: Why do I get the feeling we've met before?
+speaker_heading: JANE
+dialog: Maybe, we have, in another life.
+speaker_heading: DOUGLAS
+dialog: What are you doing in Paris? What*s that other life like?
+speaker_heading: JANE
+dialog: I don't want to talk about it.
+speaker_heading: DOUGLAS
+dialog: Why not?
+speaker_heading: JANE
+dialog: I guess I don't want you to lose interest in me.
+speaker_heading: DOUGLAS
+dialog: You don't have to worry about that.
+speaker_heading: JANE
+dialog: Let's dance.
+speaker_heading: DOUGLAS
+dialog: Me? Mo, no.
+speaker_heading: JANE
+dialog: Yes, come on.
+speaker_heading: DOUGLAS
+dialog: I buy all my shoes in left pairs.
+speaker_heading: JANE
+text: It's easy. I'll show you the steps. You're doing pretty good for
+text: a man with no right foot.
+speaker_heading: DOUGLAS
+text: must've picked it up in another life.
+speaker_heading: JANE
+dialog: You know that feeling you have that we met before? It's the same
+dialog: with me.
+speaker_heading: DOUGLAS
+dialog: Why is that?
+speaker_heading: JANE
+text: They say that deja vu is usually a sign of love at first sight.
+scene_heading: INT. BEDROOM
+speaker_heading: McBAIN
+dialog: Don't make any sudden moves. What it's usually all about. Murder.
+scene_heading: INT. POLICE OFFICE
+speaker_heading: McBAIN
+dialog: Is that your car?
+speaker_heading: DOUGLAS
+dialog: Those are my plates.
+speaker_heading: McBAIN
+dialog: No, shit? That's from a security camera in your garage in your
+text: office building the night Fuller was killed.
+speaker_heading: DOUGLAS
+text: I'm not sure. I don't understand.
+speaker_heading: McBAIN
+dialog: That makes one of us. Fuller wants to shut down the project,
+dialog: and you sliced him up.
+speaker_heading: DOUGLAS
+dialog: I think it's time I call my attorney.
+speaker_heading: McBAIN
+dialog: You say you left your office at 10.
+speaker_heading: DOUGLAS
+dialog: I was working late with Whitney. I told you that.
+speaker_heading: McBAIN
+dialog: Anybody with you?
+speaker_heading: DOUGLAS
+dialog: No.
+speaker_heading: McBAIN
+dialog: You're picking up bad habits left and right.
+speaker_heading: DOUGLAS
+dialog: Must be the stress.
+speaker_heading: McBAIN
+dialog: Then you'll need a carton. Mane's Tom Jones. Said he saw your
+dialog: picture in the news paper. Said you looked like the guy Fuller
+dialog: left the bar with that night. We took his statement. Said we'd
+text: be in touch. Someone reached out and touched him first.
+scene_heading: INT. JAIL
+speaker_heading: COP
+dialog: Looks like you found an alibi. You're free to go for now.
+scene_heading: INT. CAR
+speaker_heading: DOUGLAS
+dialog: What did you tell him?
+speaker_heading: JANE
+dialog: The truth. We met for a drink, one thing led to another, we spent
+dialog: the night together. Your picture was on the news. He saw you and
+dialog: thought you were good for quick cash.
+speaker_heading: DOUGLAS
+text: I saw the pictures. The guy was slaughtered.
+speaker_heading: JANE
+text: He was an ex- con. Who knows what else he did.
+speaker_heading: DOUGLAS
+text: Just because I don't remember it doesn't mean I didn't do it.
+speaker_heading: JANE
+dialog: You're not a killer.
+speaker_heading: DOUGLAS
+dialog: Your father stumbled onto something. He left me a message that
+dialog: has something to do with this.
+speaker_heading: JANE
+dialog: So what are you going to do?
+speaker_heading: DOUGLAS
+text: Jack back in and find out.
+scene_heading: EXT. OUTSIDE THE BOOK STORE IN 1937
+speaker_heading: GRIERSON
+dialog: I'll call the police.
+speaker_heading: DOUGLAS
+dialog: I need to talk to you!
+speaker_heading: GRIERSON
+dialog: I told you! I'll call the police.
+speaker_heading: DOUGLAS
+dialog: Listen! I know why you pass out from time to time. I know why you
+dialog: wake up and have no idea where you are. What did you do 3 nights
+dialog: ago? Any idea?
+scene_heading: INT. THE BOOK STORE
+speaker_heading: DOUGLAS
+dialog: When did it first happen?
+speaker_heading: GRIERSON
+dialog: First time? About 4 weeks ago.
+speaker_heading: DOUGLAS
+dialog: And the last episode was 3 nights ago? It lasts for about 2
+dialog: hours?
+speaker_heading: GRIERSON
+dialog: My wife thinks I have some kind of secret love life.
+speaker_heading: DOUGLAS
+dialog: What about memory flashes, deja vu?
+speaker_heading: GRIERSON
+dialog: I was in World War I. I'm still having these nightmares.
+speaker_heading: DOUGLAS
+dialog: I'm talking about fantasies.
+speaker_heading: GRIERSON
+dialog: I do have them.
+speaker_heading: DOUGLAS
+dialog: In these fantasies, you're having sex with young girls.
+speaker_heading: GRIERSON
+text: When I wake up, I even have a perfume smell all over me.
+speaker_heading: DOUGLAS
+dialog: Real or imagined?
+speaker_heading: GRIERSON
+dialog: According to my wife, it's pretty real. I found this. A couple of
+dialog: days ago.
+speaker_heading: DOUGLAS
+dialog: Your size?
+speaker_heading: GRIERSON
+text: I'm married over 35 years now. And not once have I cheated on my
+dialog: wife. Not once.
+speaker_heading: DOUGLAS
+dialog: Let's have a drink.
+scene_heading: EXT. OUTSIDE HOTEL NIGHT
+speaker_heading: DOUGLAS
+dialog: You've been here before?
+speaker_heading: GRIERSON
+dialog: No, I can't afford places like this.
+speaker_heading: DOUGLAS
+dialog: my treat.
+speaker_heading: BELL BOY
+dialog: Good evening, Mr. Fuller.
+speaker_heading: DOUGLAS
+dialog: That's you.
+scene_heading: INT. HOTEL
+speaker_heading: CLARK
+dialog: Excuse me, sir. Members only.
+speaker_heading: CLARK
+dialog: Mr. Fuller, your usual table?
+speaker_heading: DOUGLAS
+dialog: Of course.
+speaker_heading: GRIERSON
+dialog: He is with me.
+speaker_heading: GIRL
+dialog: Hi, honey bear. I'll be with you in 5 minutes.
+speaker_heading: DOUGLAS
+dialog: Let's talk, " honey bear" You remember her?
+speaker_heading: GRIERSON
+text: Of course not. She's mistaken me for someone else. Or someone
+dialog: else.
+speaker_heading: DOUGLAS
+dialog: I want you to look around and tell me what you remember.
+speaker_heading: GRIERSON
+text: I don't know, Mr. Hall. I'd rather go home. I don't feel very
+dialog: well.
+speaker_heading: DOUGLAS
+dialog: You have the feeling you've been here before? Please try to
+dialog: remember. Do you recognized anybody?
+speaker_heading: GRIERSON
+dialog: I'm trying.
+speaker_heading: DOUGLAS
+dialog: Her? What's her name?
+speaker_heading: GRIERSON
+dialog: I think her name Erika, I believe. I believe her name is Erika.
+speaker_heading: DOUGLAS
+dialog: Do you remember did you talk to her?
+speaker_heading: GRIERSON
+text: I'm not sure. And that one looks familiar too.
+speaker_heading: DOUGLAS
+dialog: Bridget. Her name's Bridget.
+speaker_heading: GRIERSON
+dialog: Bridget. Oh Yes. I remember Bridget.
+speaker_heading: DOUGLAS
+dialog: Did you give her something to give me? Did you give her a letter
+dialog: or a note?
+speaker_heading: GRIERSON
+dialog: The man behind the bar. You're right. I wrote a letter. And gave
+text: it to him.
+scene_heading: INT. THE BASEMENT
+speaker_heading: ASHTON
+dialog: You looking for anything special? What are you?
+speaker_heading: DOUGLAS
+dialog: My name's Ferguson. I'm a bank teller.
+speaker_heading: ASHTON
+text: I'm Clark Gable. I talked to the Ferguson guy. He doesn't know a
+dialog: thing. I need to talk to Fuller.
+speaker_heading: DOUGLAS
+text: He's upstairs.
+speaker_heading: ASHTON
+text: Cut the crap! You think I don't know what's going in? I need to
+dialog: see him I need to talk to him again.
+speaker_heading: DOUGLAS
+dialog: You read the letter. I need to know what's in the letter.
+speaker_heading: ASHTON
+text: Everything. When I read it, I thought it was a gag. The world's a
+text: sham. Fat chance. but I'm not stupid, Mr. Hall. I watched you and
+dialog: Ferguson do the old switcheroo. That stuff about going to " the
+dialog: ends of the earth"
+speaker_heading: DOUGLAS
+dialog: What stuff?
+speaker_heading: ASHTON
+dialog: I did exactly what the letter said. I chose a place I'd never go
+dialog: to. I tried to drive to Tucson. I figured, what the hell. Never
+dialog: been to the countryside. And I took that car out on the highway.
+dialog: I was going over 50 through that desert. After a while, it was
+text: the only car on the road. It was just me, the heat and the dust.
+dialog: I did exactly what the letter said. "Don't follow any road signs
+text: and don't stop for anything. Not even barricades." But just when
+text: I should've been getting closer to the city. Something wasn't
+text: right. There was no movement, no life. Everything was still and
+text: quiet. And then I got out of the car. And what I saw scared me to
+text: the depths of my miserable soul. It was true. It was all a sham.
+dialog: It ain't real.
+speaker_heading: DOUGLAS
+dialog: Why would Fuller write about the limitations of the simulation?
+dialog: I know them.
+speaker_heading: ASHTON
+dialog: I'm asking the questions now. I want to know why would you put us
+dialog: through this? Why are you fucking with our minds?
+speaker_heading: DOUGLAS
+dialog: You weren't supposed to find out.
+speaker_heading: ASHTON
+dialog: Well I did. Now I want you to show me what is real. Is this real?
+dialog: Is that real blood? How do you like having your life fucked with?
+speaker_heading: DOUGLAS
+dialog: Damn, what's going on? Where's the letter?
+scene_heading: INT. THE 13Th FLOOR
+speaker_heading: WHITNEY
+dialog: Snap out of it. You won't hit me again?
+speaker_heading: DOUGLAS
+dialog: Did you yank me back?
+speaker_heading: WHITNEY
+text: Yeah, barely, man. Just barely. You didn't start the timer. It
+dialog: couldn't engage. What are you doing this alone for anyway?
+speaker_heading: DOUGLAS
+dialog: He tried to kill me.
+speaker_heading: WHITNEY
+dialog: Who?
+speaker_heading: DOUGLAS
+dialog: Ashton.
+speaker_heading: WHITNEY
+dialog: Jesus!
+speaker_heading: DOUGLAS
+text: he found out his world isn't real. This is a mistake. This whole
+dialog: project, this experiment. We are screwing with people's lives!
+speaker_heading: WHITNEY
+dialog: Now you're talking crazy. I know you just had a bad fucking trip.
+speaker_heading: DOUGLAS
+dialog: Bad fucking trip? These people are real. They are as real as you
+dialog: and me.
+speaker_heading: WHITNEY
+dialog: Yeah, that's because we designed them that way. In the end,
+dialog: they're just a bunch of electronic circuits.
+speaker_heading: DOUGLAS
+dialog: I tell you something else. I'm shutting this bad fucking trip
+dialog: right down. I'm telling everybody tomorrow.
+speaker_heading: WHITNEY
+dialog: You can't do that. You're talking about 6 years of our lives.
+dialog: All of us. You can't just pull the plug and go home.
+scene_heading: INT.HOTEL ROBBY
+speaker_heading: DOUGLAS
+dialog: I'm looking for Jane Fuller.
+dialog: Receptionist
+dialog: I'm sorry, she's no longer with us.
+speaker_heading: McBAIN
+dialog: the lady vanished. Any idea where to?
+speaker_heading: DOUGLAS
+dialog: Why would I?
+speaker_heading: McBAIN
+dialog: Hannon Fuller doesn't have a daughter. I think I made the age-old
+dialog: mistake. "Never trust a beautiful woman."
+speaker_heading: DOUGLAS
+dialog: Who is she, then?
+speaker_heading: McBAIN
+dialog: We don't know. It took us a couple days to contact the French
+dialog: authorities. Guess what? They never heard of her either.
+scene_heading: EXT.OUTSIDE THE HOTEL
+speaker_heading: DOUGLAS
+dialog: Do you remember me? Miss Fuller checked out. Did you drive her
+dialog: anywhere? I'm looking for her.
+speaker_heading: DRIVER
+dialog: No can do. Company rules.
+text: EXT.
+speaker_heading: DOUGLAS
+dialog: Hello! My name's Douglas hall. I'm looking for a young woman
+dialog: named Jane Fuller.
+speaker_heading: WOMAN
+dialog: I think you picked the wrong house.
+speaker_heading: DOUGLAS
+text: Maybe she's going under another name. She's about 5'8". Blonde
+dialog: hair.
+speaker_heading: WOMAN
+dialog: What do you want from her?
+scene_heading: INT. SUPER MARKET
+speaker_heading: DOUGLAS
+dialog: Excuse me, I'm looking for Natasha Molinaro.
+speaker_heading: CLARK
+text: Over there on register 4.
+speaker_heading: NATASHA
+dialog: $7.01 Just slide it through. Want cash back?
+speaker_heading: DOUGLAS
+dialog: No.
+speaker_heading: NATASHA
+dialog: Why don't you take a picture? It'll last longer.
+speaker_heading: DOUGLAS
+dialog: Must be deja vu or something.
+speaker_heading: NATASHA
+dialog: Paper or plastic?
+speaker_heading: DOUGLAS
+dialog: plastic.
+speaker_heading: NATASHA
+dialog: there you go.
+scene_heading: EXT.OUTSIDE THE SUPER MARKET
+speaker_heading: NATASHA
+dialog: Mr. Hall. You forgot your credit card.
+speaker_heading: DOUGLAS
+dialog: Thanks.
+speaker_heading: NATASHA
+dialog: No problem.
+speaker_heading: DOUGLAS
+dialog: Sorry about staring at you in there. You must get that a lot.
+speaker_heading: NATASHA
+dialog: Yeah, but mostly from the wrong kinds of guys. You're not from
+dialog: here, are you?
+speaker_heading: DOUGLAS
+dialog: What makes you ask?
+speaker_heading: NATASHA
+text: Well, it's just I don't know I just had this funny feeling that
+dialog: we met before.
+speaker_heading: DOUGLAS
+dialog: Maybe in another life.
+speaker_heading: NATASHA
+dialog: yeah, I guess that would explain it. Anyway, I got to get back to
+dialog: my daily grind, so. Maybe I'll see you around sometime.
+scene_heading: INT. THE SUPERMARKET
+speaker_heading: NATASHA
+dialog: 7.28 Out of 10. Here's your change. Thank you very much.
+speaker_heading: McBAIN
+dialog: Thank you.
+speaker_heading: COP
+text: Natasha Molinaro.. 27 single. Changes job like other change
+dialog: underwear. Came from Austin, Texas, made some money modeling.
+text: Left school without a degree. Her roommate has no idea what she
+text: was doing yesterday or the day before. Looks like Molinaro
+dialog: doesn't have an alibi.
+speaker_heading: McBAIN
+dialog: What else did the roommate say?
+speaker_heading: COP
+text: Says lately, Natasha hasn't been feeling well. She's been having
+text: some sort of amnesia attacks. Going out all night sleeping all
+dialog: day. Thought she was using drugs.
+speaker_heading: McBAIN
+dialog: Did she have a history of drugs?
+speaker_heading: COP
+dialog: Nope. She's clean.
+speaker_heading: McBAIN
+dialog: Hey Bernie? Good work.
+speaker_heading: JANE
+text: look, I can explain. I'm sorry. I need to see you Fuller' office.
+speaker_heading: DOUGLAS
+dialog: I know the truth.
+speaker_heading: JANE
+dialog: Where are you?
+speaker_heading: DOUGLAS
+dialog: You could call it the end of the world.
+scene_heading: INT. THE OFFICE
+speaker_heading: DOUGLAS
+dialog: How many simulated worlds like this are there?
+speaker_heading: JANE
+dialog: Thousands. Yours is the only one that ever created a simulation
+text: within the simulation. Something we never expected.
+speaker_heading: DOUGLAS
+dialog: So you had to kill Fuller.
+speaker_heading: JANE
+dialog: No. I was sent in after his death. I was to pretend to be his
+dialog: daughter, inherit the company. And shut it down. But he tricked
+dialog: us. He changed his will.
+speaker_heading: DOUGLAS
+dialog: If you didn't kill Fuller. Who did?
+speaker_heading: DOUGLAS
+dialog: I stabbed him.
+speaker_heading: JANE
+dialog: But it wasn't you. It was your user. He downloaded into you.
+dialog: Manipulated you.
+speaker_heading: DOUGLAS
+text: Like a puppet.
+speaker_heading: JANE
+text: A puppet doesn't have a soul.
+speaker_heading: DOUGLAS
+dialog: I can't have a soul any more than Fuller.
+speaker_heading: JANE
+dialog: But you do. Fuller did. That's I never expected that. We
+dialog: programmed this world so no one in it could learn the truth. And
+dialog: you and Fuller did. Don't you see what that means?
+speaker_heading: DOUGLAS
+dialog: There's just one little flaw in your thesis. None of this is
+dialog: real. You pull the plug. I disappear. And nothing I ever say
+dialog: nothing I ever do will ever matter. Why don't you find my user?
+dialog: I'm sure he's a much better catch.
+speaker_heading: JANE
+dialog: I told you about my other life. I was referring to my husband.
+dialog: He's
+dialog: your user. He killed Fuller.
+speaker_heading: DOUGLAS
+dialog: I'm his program link. A reflection of his character profile. I
+dialog: fell in love with a decent man. But he ...something happened to
+text: him. He began to use the simulation as his own personal
+dialog: playground. Like Fuller with the girls. He made himself a god,
+dialog: and it corrupted him. he began to enjoy the killings. He became
+dialog: abusive.
+speaker_heading: DOUGLAS
+text: What do you mean? I'm not even real. You can fall in love with a
+dialog: dream.
+speaker_heading: JANE
+dialog: You're more real to me than anything I've ever known.
+scene_heading: EXT. STREET NIGHT Whitney is in1937.
+speaker_heading: COP
+dialog: Nice driving.
+speaker_heading: WHITNEY
+text: There was something in the road and I had to swerve and I lost
+dialog: control.
+speaker_heading: COP
+dialog: You drunk?
+speaker_heading: WHITNEY
+dialog: I don't drink.
+speaker_heading: COP
+dialog: License and registration.
+speaker_heading: WHITNEY
+dialog: Look, I didn't jack in I left it at home.
+speaker_heading: COP
+dialog: Why don't you look in the glove box? Need a light?
+speaker_heading: WHITNEY
+dialog: Hey I got it. Here you go.
+speaker_heading: COP
+dialog: You ought to get this car looked at as soon as you can. It's
+dialog: leaking oil. That could be dangerous. Be a little more careful,
+dialog: huh? You want to turn off the car and step out, please? Turn off
+text: the car, sir. Right now, please. Open the trunk, please, sir.
+text: Hands in the air. Step away from the trunk.
+speaker_heading: WHITNEY
+dialog: Check man, It's Douglas!
+speaker_heading: COP
+dialog: Back up! I said back the hell up!
+speaker_heading: WHITNEY
+dialog: Hey, this is a joke.
+text: (Whitney is hit by a car)
+speaker_heading: GUARD
+dialog: Sorry to bother you, Mr. Hall, but Mr. Whitney's in the building
+text: and he is acting kind of strange.
+speaker_heading: DOUGLAS
+dialog: Hold on, I'll be right down.
+scene_heading: INT. DOUGLAS'S BEDROOM
+speaker_heading: JANE
+dialog: This is Jane Fuller. I need to speak with Detective McBain.
+speaker_heading: McBAIN
+dialog: You've got a lot of explaining to do. Or should I say, "Miss
+dialog: Molinaro"?
+scene_heading: INT. The 13th FLOOR
+speaker_heading: DOUGLAS
+dialog: How are you doing?
+speaker_heading: ASHTON
+dialog: All these pictures, this is your world? I never imagined it
+dialog: could be so beautiful.
+speaker_heading: DOUGLAS
+dialog: How did you do it?
+speaker_heading: ASHTON
+dialog: ...thing I remember, I was dumping Ferguson in the trunk.
+speaker_heading: DOUGLAS
+text: He jacked in.
+speaker_heading: ASHTON
+dialog: Who's Jack? Hey, what did you do to the world?
+speaker_heading: DOUGLAS
+dialog: Turn it off.
+speaker_heading: ASHTON
+text: Put it back. Don't do that! Put it back! What did I do? Where are
+dialog: you? Look at this ! You're really a God.
+speaker_heading: DOUGLAS
+text: No Ashton, I'm not really a God. I'm just like you. Just a bunch
+dialog: of electricity.
+speaker_heading: ASHTON
+dialog: What are you talking about?
+speaker_heading: DOUGLAS
+dialog: It's all smoke and mirrors. Just like your world. We're nothing
+text: but a simulation on some computer. It's like a machine. Like this
+dialog: arcade game. You've got your players and you put your nickel in.
+text: This one pitches. This one runs around the bases. Pre-
+dialog: programmed movements generated by electrical energy. We're
+dialog: improved on this model since then. The players can beat the shit
+text: out of and try to drown some other, which is always fun.
+speaker_heading: ASHTON
+dialog: But the letter said
+speaker_heading: DOUGLAS
+dialog: Everything was fake? The letter was meant for me. Fuller was
+dialog: talking about my world.
+speaker_heading: ASHTON
+dialog: So what are you saying? You're saying there's another world on
+dialog: top of this one?
+speaker_heading: DOUGLAS
+dialog: That's right.
+speaker_heading: ASHTON
+dialog: I don't understand.
+speaker_heading: DOUGLAS
+text: Fuller found out about it. They killed him.
+speaker_heading: ASHTON
+dialog: Why didn't they kill you?
+speaker_heading: DOUGLAS
+text: Maybe they will. Maybe that's why you're pointing a gun at me.
+text: I*m sorry, Ashton. We're stuck here. You and me. And the rest of
+dialog: us.
+speaker_heading: ASHTON
+dialog: So this is where I was born.
+speaker_heading: DOUGLAS
+dialog: And this is where you die.
+speaker_heading: DOUGLAS
+dialog: How much longer do you have?
+speaker_heading: JANE
+dialog: 10 minutes.
+speaker_heading: DOUGLAS
+dialog: Hi honey. I'm home. Did you miss me?
+speaker_heading: JANE
+dialog: When did you download into him?
+speaker_heading: DAVID
+text: Obviously, not soon enough.
+speaker_heading: JANE
+dialog: I was just doing my job.
+speaker_heading: DAVID
+dialog: Sure you were.
+speaker_heading: JANE
+text: He's shutting down the system, isn't he?
+speaker_heading: DAVID
+dialog: Aside from his devilish good looks, what's so special about this
+dialog: guy?
+speaker_heading: JANE
+text: He reminds me of you. The way you used to be. I'm still the same.
+speaker_heading: DAVID
+dialog: I'm still the same.
+speaker_heading: JANE
+dialog: No you're not. Why did you butcher those people?
+speaker_heading: DAVID
+dialog: Because it was fun.
+speaker_heading: JANE
+dialog: You've lost your mind.
+speaker_heading: DAVID
+dialog: You're the one who's fucking sick! Falling in love with a fucking
+dialog: simulation.
+speaker_heading: JANE
+dialog: I was just having some fun. Just like you did.
+speaker_heading: DAVID
+dialog: I think you're lying. Just remember, he's a part of me.
+speaker_heading: JANE
+text: That's not true. It's okay. Just pretend you're fucking him.
+speaker_heading: JANE
+dialog: Why?
+speaker_heading: DAVID
+dialog: I guess I'm just jealous.
+speaker_heading: McBAIN
+dialog: You're okay?
+speaker_heading: JANE
+dialog: What the hell took you so long?
+speaker_heading: McBAIN
+dialog: How'd you know he7d try to kill you?
+speaker_heading: JANE
+dialog: I knew when he was planning to download. He's dead?
+speaker_heading: McBAIN
+dialog: A bullet will do that to you. So, is somebody going to unplug me
+dialog: now? Do me a favor, will you? When you get back to wherever you
+dialog: come from just leave us alone down here, okay?
+speaker_heading: INT
+scene_heading: INT: 2024
+speaker_heading: DOUGLAS
+dialog: Where am I?
+speaker_heading: JANE
+dialog: Come, I'll show you.
+speaker_heading: MAN
+dialog: Jane, we're getting hungry! Tell Regina we're waiting for lunch.
+speaker_heading: JANE
+dialog: Okay dad. My father Fuller was modeled after him. There's so
+dialog: many things I have to tell you about, Doug.
+speaker_heading: THE END
+dialog: 

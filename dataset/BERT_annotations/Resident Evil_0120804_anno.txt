@@ -1,0 +1,3257 @@
+dialog: 
+dialog: Resident Evil
+dialog: 
+dialog: <!--
+dialog: google_ad_client = "pub-7685866183814465";
+dialog: google_alternate_ad_url = "http://www.horrorlair.com/defaultad_486.html";
+dialog: google_ad_width = 468;
+dialog: google_ad_height = 60;
+dialog: google_ad_format = "468x60_as";
+dialog: google_ad_channel ="0948875253";
+dialog: google_color_border = "CCCC99";
+dialog: google_color_bg = "CCCC99";
+dialog: google_color_link = "333300";
+dialog: google_color_url = "666633";
+dialog: google_color_text = "CC3300";
+dialog: //-->
+dialog: Resident EvilBy Paul W. S. Anderson2000
+dialog: IF THE SUSPENSE DOESNT KILL YOU
+speaker_heading: SOMETHING ELSE WILL
+speaker_heading: CLOSE ON GLASS VIALS
+text: being lifted from a large medical refrigerator. Gloved hands slip them into a foam lined carry case. The vials are delicate. Filled with a cool blue liquid.
+text: The hands move quickly. Urgently.
+speaker_heading: INT. OFFICE
+text: Sleek, super hitech. The blinds are closed. Cant tell if its day or night.
+dialog: Typists type. Assistants assist.
+dialog: Busy worker bees.
+speaker_heading: INT. LAB
+dialog: Same building. Same busy bees.
+text: Lab technicians and scientists in clean white suits.
+dialog: Working hard, advancing science, making life better.
+speaker_heading: INT. ELEVATOR
+dialog: Worker bees and science bees chat and flirt.
+dialog: Life is good.
+speaker_heading: INT. SECURITY ROOM
+text: Dozens of metal cages line the walls. Guard dogs.
+text: A sleek black DOBERMAN sniffs the air.
+dialog: Begins to bark.
+speaker_heading: CLOSE ON GLASS VIALS
+text: as the last one is lifted from the refrigerator. But in their haste, the gloved hands let the vial slip.
+text: The delicate glass tube tumbles end over end. And crashes to the floor.
+speaker_heading: CLOSE ON THE FLOOR
+text: covered in shards of glass and blue liquid.
+dialog: 2
+speaker_heading: INT. OFFICE
+text: A pretty secretary in her cubicle. LISA. A cute paperweight on her desk:
+dialog: LOVE IS .... NEVER HAVING TO SAY YOURE SORRY
+text: She cradles the phone, whispering, not wanting to be overheard. In front of her sits a carry case for glass vials. Similar in design to the one we have already seen, but this one is empty. LISA toys with it nervously.
+speaker_heading: LISA
+dialog: I went to the pick up, but there was nothing there .... no serum, no nothing.
+dialog: (looks around nervously)
+dialog: Im worried.
+dialog: (hesitates)
+dialog: Easy for you to say, Im the one in here!
+text: A fire alarm sounds.
+text: LISA almost jumps out of her skin. All around the worker bees look up from their computer screens. In an orderly fashion, they take their jackets from the backs of their seats and head for the door.
+dialog: Been through this drill a hundred times before.
+speaker_heading: LISA (contd)
+dialog: (relieved)
+dialog: Ive got to go. Its nothing .... fire drill. Meet me tonight .... the usual place.
+speaker_heading: INT. LAB
+text: The men and women of science look up from their experiments. Annoyed at the disturbance. A scientist with GREEN eyes lowers her face mask.
+speaker_heading: GREEN
+dialog: (sighs)
+dialog: Another day, another drill.
+text: A lab technician with BLUE eyes hands GREEN her coat.
+speaker_heading: BLUE
+dialog: Come on.
+text: He looks down at GREEN'S work. A half dissected white rabbit.
+dialog: 3
+speaker_heading: INT. ELEVATOR
+text: The elevator stops. A young man seems confused. He wears a GREY suit which looks brand new.
+speaker_heading: GREY
+dialog: What is that?
+text: A kindly woman in a BLACK skirt and jacket smiles.
+speaker_heading: BLACK
+dialog: Fire alarm new boy. Were going to have to take the stairs.
+speaker_heading: INT. OFFICE
+text: A crowd that has formed by the doors. LISA is amongst them. A man in a crisp WHITE shirt pushes his way to the front. Hes handsome. Looks like he works out.
+speaker_heading: WHITE
+dialog: Whats the matter?
+text: A woman with long GOLD hair smiles coyly at him. Playing helpless. We smell office flirtation in the air.
+speaker_heading: GOLD
+dialog: The doors wont open.
+speaker_heading: INT. SECURITY ROOM
+text: The guard dogs are in frenzy. Barking and snarling. Throwing themselves against the cage doors. Sensing that something is wrong. A uninformed guard attempts to calm them. His badge identifies him as CLARENCE.
+speaker_heading: CLARENCE
+dialog: Easy there .... easy there boys!
+speaker_heading: INT. LAB
+text: The overhead sprinklers go off, showering the science bees with freezing cold water.
+speaker_heading: BLUE
+dialog: Damn It! What happened to the halon system?
+speaker_heading: GREEN
+dialog: Quick get something over the experiments!
+dialog: 4
+speaker_heading: CONTINUED:
+text: She sees her hand written notes by the white rabbit. Already the ink has run. Theyre ruined.
+speaker_heading: GREEN (contd)
+dialog: Great.
+text: A lab technician with chocolate BROWN eyes stands by the big glass doors that lead out.
+speaker_heading: BROWN
+dialog: The doors wont open.
+speaker_heading: GREEN
+dialog: Forget the doors. Get those slides in a safe place.
+speaker_heading: INT. ELEVATOR
+text: The elevator is still stopped.
+speaker_heading: GREY
+dialog: (worried)
+dialog: Shouldnt the doors open or something?
+speaker_heading: BLACK
+dialog: Its supposed take us to the nearest floor.
+text: Then the lights go out.
+speaker_heading: GREY
+dialog: (very worried)
+dialog: Is that supposed to happen?
+speaker_heading: INT. OFFICE
+text: The worker bees are starting to panic. LISA is amongst them.
+speaker_heading: LISA
+dialog: What about the doors at the back?
+speaker_heading: WHITE
+dialog: Locked as well.
+text: Without warning the Halon system goes off. Pillars of high-pressure gas flood into the room, sucking the oxygen out of the air, making it impossible for a fire to breathe. A fire. Or people.
+text: The worker bees begin to choke.
+dialog: 5
+speaker_heading: INT. ELEVATOR
+text: The emergency lights have activated. Their surreal red glow makes everything seem ten times worse.
+speaker_heading: GREY
+dialog: (rising panic)
+dialog: Whats going on? Has this happened before? We have to get out of here!
+speaker_heading: BLACK
+dialog: Quiet.
+speaker_heading: GREY
+dialog: What?
+speaker_heading: BLACK
+dialog: Quiet!
+text: They hear a distant roaring sound. Rapidly approaching, like an express train.
+speaker_heading: GREY
+dialog: What is that?
+scene_heading: INT. ELEVATOR SHAFT
+text: The stalled car is in the foreground. Beyond it, we see that the shaft is wide enough for another two elevators. Out here, the roaring sound is even louder.
+text: The roaring reaches a crescendo and the source of the noise races past in a blur. Its another elevator. In freefall.
+text: Inside it, people are screaming.
+speaker_heading: INT. ELEVATOR
+text: CLOSE on Black as she realizes what the sound is.
+speaker_heading: BLACK
+dialog: Oh my god!
+text: Then the elevator drops. Like a stone.
+speaker_heading: INT. LAB
+text: Water is still pouring from the sprinkler system. GREEN waves hopelessly at a close circuit camera mounted in the ceiling. We see her image reflected in the lens.
+dialog: 6
+speaker_heading: CONTINUED:
+speaker_heading: GREEN
+dialog: Theres no fire here! No fire!
+speaker_heading: BLUE
+dialog: You know this water isnt going anywhere.
+text: GREEN looks down at the floor. The water level is rising.
+speaker_heading: BLUE (contd)
+dialog: This is a sealed room.
+dialog: Suddenly things become more urgent.
+speaker_heading: GREEN
+dialog: We have to get these doors open.
+speaker_heading: INT. ELEVATOR
+text: The car is in freefall. People are screaming. A man has wet himself.
+scene_heading: INT. ELEVATOR SHAFT
+text: The emergency brakes kick in. One on each corner of the car. Sparks fly. Metal screams.
+speaker_heading: INT. ELEVATOR
+text: The car shudders to a halt. People sprawled on the floor. Crying.
+speaker_heading: INT. LAB
+text: The water is rising.
+text: GREEN and Blue struggle with the door. Without warning a chair bounces violently off the labs glass window, just missing GREEN. The glass isnt scratched.
+speaker_heading: GREEN (contd)
+dialog: Jesus! What the hell are you doing?
+text: BROWN advances on the glass with a fire axe.
+speaker_heading: BROWN
+dialog: Stand clear!
+speaker_heading: BLUE
+dialog: Stop!
+text: BROWN halts. Holding the fire axe aggressively. Ready for a fight.
+dialog: 7
+speaker_heading: CONTINUED:
+speaker_heading: BLUE (contd)
+dialog: Use the other side.
+text: He indicates the other side of the axe head. A single steel point. Sharp as an ice pick.
+speaker_heading: BLUE (contd)
+dialog: Better chance of getting through it.
+text: BROWN hefts the axe and strikes the window with as much force as he can.
+scene_heading: INT. CORRIDOR OUTSIDE THE LAB
+text: The axe penetrates the glass. Just. A pea sized piece of glass pops out and bounces across the floor.
+speaker_heading: INT. OFFICE
+text: The Halon system switches itself off. The worker bees lie sprawled across the floor. Sprawled across their desks, Sprawled across one another. Not one moves.
+dialog: THE HIVE is dead.
+speaker_heading: CLOSE ON LISA
+text: amongst the bodies, still and lifeless.
+speaker_heading: INT. HALL WAY
+text: Three shiny steel doors stand at the centre of the hallway. Bodies are everywhere. Killed as they waited for an elevator.
+text: The eerie silence is broken by a scratching sound. One of the elevator doors pops open an inch. Hands force their way out.
+speaker_heading: INT. ELEVATOR
+text: The car has stopped between floors. BLACK has to lie on the carpeting to peer out of the gap in the elevator doors.
+speaker_heading: BLACK
+dialog: My God!
+dialog: 8
+speaker_heading: CONTINUED:
+speaker_heading: GREY
+dialog: Let me see.
+text: He too sees the bodies in the hallway.
+speaker_heading: GREY (contd)
+dialog: We have to get out of here. We have to get out of this building.
+text: A man with RED tie tries to force the doors open wider.
+speaker_heading: RED
+dialog: Here .... give me a hand.
+speaker_heading: GREY
+dialog: Thats as far as theyll go.
+speaker_heading: RED
+dialog: Theyre caught on something.
+speaker_heading: BLACK
+dialog: Thats wide enough.
+text: She takes her jacket off.
+speaker_heading: BLACK (contd)
+dialog: I think I can squeeze through.
+text: She gets down on her knees in front of the doors. The gap is barely 18 inches. Its going to be tight.
+speaker_heading: BLACK (contd)
+dialog: Ill get help.
+speaker_heading: INT. HALLWAY
+text: BLACK squeezes her head through the doors, Shes a slim woman, but the gap between the elevator floor and the top of the doorway is also very narrow. Even if she gets out, shes going to have to drop six feet to the floor.
+speaker_heading: BLACK
+dialog: Im stuck .... youre going to have to push.
+text: She inches through a little more.
+speaker_heading: BLACK (contd)
+dialog: Thats it. A bit more.
+speaker_heading: INT. ELEVATOR
+text: CRACK! A sharp metallic sound echoes around the car.
+dialog: 9
+speaker_heading: CONTINUED:
+speaker_heading: GREY
+dialog: What is that?
+scene_heading: INT. ELEVATOR SHAFT
+text: The roof of the elevator. Only three of the four emergency brakes are now holding on. CRACK! Another brake unhooks. All by itself.
+speaker_heading: INT. ELEVATOR
+speaker_heading: RED
+dialog: Oh Christ! Its the brakes.
+text: GREY begins to push frantically at BLACK. Still trapped half in and half out of the elevator.
+speaker_heading: GREY
+dialog: Get out! Weve got to get out.
+speaker_heading: BLACK
+dialog: I cant .... Im stuck!
+dialog: CRACK! The third brake goes.
+speaker_heading: RED
+dialog: Push her out of the way .... we have to get out.
+speaker_heading: BLACK
+dialog: I cant move!
+text: CRACK! The last brake unhooks. The car begins to drop again.
+speaker_heading: INT. HALLWAY
+text: BLACK'S P.O.V. We see the floor of the hallway race up at her head. The concrete lip is going to decapitate her. She screams. And at the moment of impact we ....
+speaker_heading: SMASH CUT TO:
+speaker_heading: CLOSE UP EYES
+text: Blue eyes snap open. Woken from a bad dream. WIDEN to reveal a womans face to go with the eyes. Its not perfection, but its close. Well call her ALICE.
+dialog: 10
+scene_heading: INT. BEDROOM DAY.
+text: ALICE sits up. Looks around. Four poster bed, oak paneled walls, painting of George Washington. Through the window she sees the ornate grounds of a manor house. Theres even a maze. This could be the 19th maybe even 18th Century.
+text: ALICE steps out of bed. Shes twenty one. Naked. I take it back, she is perfection.
+text: Something tumbles from the bedclothes and lands on the floor. ALICE picks it up. A handwritten note:
+dialog: TODAY ALL YOUR DREAMS COME TRUE
+text: ALICE shakes her head. She moves through the room like someone who doesnt know where she is. She stops in front of a full length mirror. Stares at her own naked body. Touches it. Like it was all strange to her. Like she doesnt know who she is.
+text: ALICE stands before an ancient wooden dresser with three drawers. She opens them one at a time.
+text: The first contains crisp starched linens.
+text: The second, neatly ironed womens underwear. Very white, very conservative.
+text: The third, a pair of Uzis with laser sighting, under-slung with miniature grenade launchers.
+text: ALICE stares at the weaponry. The look on her face says it all. Who am I?
+scene_heading: INT. MANSION  ENTRANCE HALLWAY DAY.
+text: ALICE descends a sweeping staircase. Shes found some clothes. A tight pair of ski pants and a Tshirt. They fit like theyre hers, but she cant remember ever having worn them.
+text: The hallway is luxurious and tasteful. Tapestries and paintings of old relatives that ALICE doesnt recognize adorn the walls. But this isnt a quaint old house. Theres something in the air.
+dialog: Something intangible. Something evil.
+dialog: 11
+scene_heading: INT. MANSION - DINING ROOM DAY.
+text: The table is set for dinner, but there are no guests. No sign of life.
+dialog: Creepy.
+scene_heading: INT. MANSION  STUDY DAY.
+text: A dark oak lined study. The only sound is the ticking of a grandfather clock. ALICE takes a framed photograph train the desk. Its of her and a handsome man. They are standing in front of rose bushes in the garden. He has his arm around her. He wears a wedding ring.
+text: ALICE looks at her own hand. She too wears a sample gold band. This man is her husband?
+text: A sudden shadow falls across the desk. ALICE jumps, startled. Something is moving out in the garden.
+speaker_heading: ALICE
+dialog: Hello!
+text: ALICE seems surprised by the sound of her own voice. So thats what she sounds like.
+scene_heading: EXT. MANSION  GARDENS - DUSK
+text: ALICE emerges from the study. In front of her is a huge marble statue. A series of bizarre gothic characters dancing round a maypole. A walrus wearing a waistcoat, a rabbit carrying a pocket watch, a bald beaded knight in armor. Both beautiful and also strangely unsettling.
+text: In the distance, she sees movement at the entrance to the ornate hedge maze.
+speaker_heading: ALICE
+dialog: Hello!
+text: But theres no reply. In the distance the sky is starting to darken.
+speaker_heading: EXT. MAZE - DUSK
+text: ALICE is following someone or something deeper and deeper into the maze. Dusk is turning rapidly to night, and the shadows within the maze are beginning to deepen. With every corner ALICE turns, the tension mounts.
+dialog: 12
+scene_heading: EXT. MAZE  CENTER - DUSK
+text: ALICE is about to turn back when she suddenly stumbles upon the middle of the maze. At the very center point is a chair. And in the chair, a man sitting with his back to her.
+speaker_heading: ALICE
+dialog: Hello.
+dialog: The man doesnt reply.
+speaker_heading: ALICE (contd)
+dialog: Im not sure if I belong here.
+text: ALICE cautiously approaches him.
+speaker_heading: ALICE (contd)
+dialog: I woke up .... and I cant remember.
+text: The man still doesnt speak. Doesnt even move. She reaches out to touch his shoulder.
+speaker_heading: MACE (contd)
+dialog: Are you alright?
+text: He is cold to her touch. Very cold.
+speaker_heading: ALICE (contd)
+dialog: I ....
+text: THE CAMERA tracks around to reveal that she has her hand on the shoulder of a statue. ALICE sighs. With relief. With embarrassment. The statue is of an old man with a top bat in his lap. The hat has a price tag  In This style 12/6.
+speaker_heading: MATT (V.0.)
+dialog: Freeze! Dont move.
+text: The sudden voice SCARES THE SHIT OUT OF US.
+speaker_heading: MATT (contd)
+dialog: Now put your hands on the chair. Do it!
+dialog: ALICE does it. This guy sounds tough.
+speaker_heading: MATT (contd)
+dialog: What are you doing here?
+dialog: MATT frisks her. We still havent seen his face.
+speaker_heading: ALICE
+dialog: I think I live here.
+dialog: 13
+speaker_heading: CONTINUED:
+speaker_heading: MATT (O.S.)
+dialog: You think.
+speaker_heading: ALICE
+dialog: I just woke up .... I dont remember anything.
+speaker_heading: MATT (O.S.)
+dialog: Youre clean. Turn around.
+text: ALICE finally sees him. Smart blue uniform, fresh faced. Not what she was expecting.
+speaker_heading: ALICE
+dialog: Youre a little young for a policeman aren't you?
+speaker_heading: MATT
+dialog: I get a lot of that.
+text: He holsters his gun.
+speaker_heading: MATT (contd)
+dialog: Who else is in the house?
+speaker_heading: ALICE
+dialog: No one .... but I didnt look everywhere.
+text: MATT starts to head back to the mansion.
+speaker_heading: MATT
+dialog: Come on .... I got a call to check the place out.
+text: Below MATT'S police badge is the name of a town - RACCOON CITY.
+speaker_heading: ALICE
+dialog: Where is that?
+speaker_heading: MATT
+dialog: What?
+speaker_heading: ALICE
+dialog: The town.
+speaker_heading: MATT
+dialog: Youre kidding right?
+text: ALICE shakes her head.
+speaker_heading: MATT (contd)
+dialog: Its just over that hill.
+dialog: 14
+speaker_heading: CONTINUED:(2)
+dialog: ALICE is still none the wiser.
+speaker_heading: MATT (contd)
+dialog: You really dont know anything do you?
+scene_heading: EXT. MANSION  GARDENS - NIGHT
+text: The two walk back to the house.
+speaker_heading: ALICE
+dialog: What were you doing in the maze?
+speaker_heading: MATT
+dialog: Thought I saw someone.
+dialog: MATT looks up at the mansion. We get the feeling he wants to change the subject.
+speaker_heading: MATT (contd)
+dialog: How can you live here? Place looks haunted.
+speaker_heading: ALICE
+dialog: Wait.
+speaker_heading: MATT
+dialog: What?
+text: ALICE turns to face the dark sky. A sudden breeze blows through her hair.
+speaker_heading: ALICE
+dialog: Do you hear that?
+text: The breeze intensifies and for a moment the night sky is blocked out. Above them, a dark void, twin rotors chopping silently through the night air. A Darkwing helicopter on stealth mode. It disappears over the roof of the mansion, losing altitude, coming in for a landing.
+speaker_heading: ALICE (contd)
+dialog: You call for back up?
+speaker_heading: MATT
+dialog: No.
+scene_heading: INT. MANSION - ENTRANCE HALLWAY NIGHT.
+text: MATT and ALICE race through the house. Through the windows they can see the Darkwing squatting on the lawn. They are halfway to the entrance when the doors are almost blown off their hinges.
+dialog: 15
+speaker_heading: CONTINUED:
+text: A dozen COMMANDOS stream in. A tight, disciplined group, dressed in black and armed to the teeth. If you find guns and body armor sexy, you just came.
+text: They dont ask ALICE and MATT to get to the floor. They just knock them down. Within seconds MATT has been relieved of his badge and gun.
+text: One of the COMMANDOS, TWELVE, slides an ancient oak panel to one side, revealing a computer jack point. He flips up the screen on his sleek wrist computer and jacks in.
+text: The leader of the Away Team stands above ALICE. Granite jaw, gravel voice, Alpha Dog Number ONE.
+speaker_heading: ONE
+dialog: Report.
+speaker_heading: ALICE
+dialog: (confused)
+dialog: What?
+speaker_heading: ONE
+dialog: I want your report soldier.
+speaker_heading: ALICE
+dialog: I dont know what youre talking about.
+speaker_heading: TWELVE
+dialog: Sir.
+text: TWELVE looks up from his computer. Floating an inch above it is a detailed holographic schematic of the mansion. As the schematic slowly revolves, a flashing text streamer reads:
+scene_heading: LOOKING GLASS HOUSE - STATUS - DEFENSIVE
+speaker_heading: TWELVE (contd)
+dialog: The houses primary defenses have been activated. Shes probably still suffering the side effects.
+speaker_heading: ONE
+dialog: Very well.
+text: He snatches MATT'S badge and tosses it to TWELVE.
+speaker_heading: ONE (contd)
+dialog: What about the cop?
+text: TWELVE enters MATT'S badge number into his computer. The holographic Schematic of Looking Glass House is replaced by the names and badge numbers of all the local police.
+dialog: 16
+speaker_heading: CONTINUED:(2)
+speaker_heading: TWELVE
+dialog: (shakes his head)
+dialog: Im not getting verification.
+speaker_heading: ONE
+dialog: (to Matt)
+dialog: Who are you?
+speaker_heading: MATT
+dialog: Im a cop .... a local cop.
+speaker_heading: TWELVE
+dialog: No sir.
+text: ONE takes out his sidearm. Points it straight at MATT.
+speaker_heading: MATT
+dialog: I just transferred! Im a rookie .... first day. They probably dont even have me on file yet.
+dialog: ONE turns to his subordinate.
+speaker_heading: ONE
+dialog: Well?
+speaker_heading: TWELVE
+dialog: (shrugs)
+dialog: The locals are inefficient. Its possible
+text: ONE lowers his gun. MATT remembers to breathe.
+speaker_heading: ONE
+dialog: Print him.
+text: Two COMMANDOS grab MATT. They extend his right hand and hold it rigid. TWELVE uses a tiny laser scanner to take MATT'S fingerprints.
+speaker_heading: MATT
+dialog: You cant do this... this is an invasion of my civil liberties!
+speaker_heading: TWELVE
+dialog: Blow me.
+dialog: MATT struggles, but to no avail.
+dialog: J.D.
+dialog: (to Alice)
+dialog: Nice ass!
+dialog: 17
+speaker_heading: CONTINUED:(3)
+text: One of the COMMANDOS is staring at her ass.
+speaker_heading: ALICE
+dialog: (shocked)
+dialog: What!
+text: Another Commando, a woman, intervenes.
+speaker_heading: RAIN
+dialog: Go easy on Sleeping Beauty. Shes lost her memory.
+dialog: J.D.
+dialog: (bragging)
+dialog: No woman forgets me.
+speaker_heading: RAIN
+dialog: Sure...once theyve seen how tiny you are, how could they?
+dialog: J.D.
+dialog: Fuck you.
+speaker_heading: RAIN
+dialog: Already did. I think I slept through it.
+speaker_heading: ALICE
+dialog: (bewildered)
+dialog: Who are you people?
+text: J.D. slaps his chest.
+dialog: J.D.
+dialog: J.D. Nelson at your service, and this fine figure of a woman is Rain.
+speaker_heading: RAIN
+dialog: Parents were hippies .... my revenge was to enlist.
+speaker_heading: ALICE
+dialog: (disbelief)
+dialog: You people are the military?
+speaker_heading: RAIN
+dialog: (laughs)
+dialog: Not quite.
+speaker_heading: ALICE
+dialog: Then who are you?
+dialog: 18
+speaker_heading: CONTINUED:(4)
+dialog: J.D.
+dialog: You loose your eyesight as well as your memory gorgeous?
+text: He points to the badge on his flak jacket. It reads: SANITATION.
+speaker_heading: RAIN
+dialog: We clean up the mess that others leave behind.
+speaker_heading: TWELVE (O.S.)
+dialog: I got him!
+text: TWELVE'S computer spits out details on MATT. The list is long.
+speaker_heading: TWELVE (contd)
+dialog: (surprised)
+dialog: Jesus, this guys got red flags everywhere. Quantico, Vicap, hes on all the data banks. Matthew Frost, a.k.a. Matthew Pryce, Matthew Wayne, Matt Zabrowaki.
+speaker_heading: ONE
+dialog: (to Matt)
+dialog: Who the fuck are you cowboy?
+dialog: MATT doesnt reply.
+speaker_heading: TWELVE
+dialog: This guys a real activist, Wanted for multiple counts of Eco terrorism. Hes sabotaged seal culls, oil refineries, whale hunts, animal testing labs, chemical weapons plants, nuclear facilities .... the list goes on.
+speaker_heading: ONE
+dialog: You got something to do with whats going on here?
+speaker_heading: MATT
+dialog: I dont know what youre talking about.
+speaker_heading: ONE
+dialog: Sure you dont.
+text: He nods to J.D. and Rain.
+speaker_heading: ONE (contd)
+dialog: Cuff him.
+dialog: 19
+speaker_heading: CONTINUED:(5)
+text: They force MATT to his knees and secure his hands behind his back.
+dialog: J.D.
+dialog: Should I secure him here?
+speaker_heading: ONE
+dialog: No .... he may not be alone, We take him with us.
+dialog: ONE turns to face the team.
+speaker_heading: ONE (contd)
+dialog: Prep for entry to the Hive.
+scene_heading: EXT. DARKWING - NIGHT
+text: Its cargo unloaded, the helicopter rises back up into the night sky.
+scene_heading: INT. DARICWING  COCKPIT NIGHT.
+text: The PILOT is bathed in the cool green wash of the H.U.D. The team leaders voice comes through with digital clarity.
+speaker_heading: ONE (O.S.)
+dialog: This is Alpha. Team preparing for entry to the Hive. Well be out of contact till we secure a hard wire.
+speaker_heading: PILOT
+dialog: Roger sir.
+scene_heading: INT. MANSION  ENTRANCE HALLWAY NIGHT.
+text: TWELVE flips open a tile on the intricate floor mosaic. Reveals another jack point.
+speaker_heading: ONE
+dialog: (to Alice)
+dialog: Sit on the floor.
+text: She sits down beside MATT. His hands are tightly manacled. Bruises already starting to show.
+speaker_heading: MATT
+dialog: Nice friends you have.
+text: TWELVE watches the scrolling holographic numbers that hover above his computer.
+dialog: 20
+speaker_heading: CONTINUED:
+speaker_heading: TWELVE
+dialog: Entry to the Hive in three...two... one.
+text: FROM ABOVE we see the pattern on the floor. A giant Art Deco spiral that suddenly begins to move. Arms of the spiral starting to unlock as a huge chunk of the floor begins to sink beneath the ground.
+text: ALICE watches amazed as the floor they are sitting on slips gracefully beneath the earth. Ancient wood paneled walls being replaced with polished high tech steel plates.
+speaker_heading: ALICE
+dialog: What the hell is going on here?
+speaker_heading: MATT
+dialog: (cynical)
+dialog: Mostly its bad...all of its illegal.
+dialog: J.D.
+dialog: Shut it!
+text: MATT does as hes told. ALICE gets to her feet and approaches the team leader.
+speaker_heading: ALICE
+dialog: (unsure)
+dialog: Sir?
+speaker_heading: ONE
+dialog: What is it soldier?
+speaker_heading: ALICE
+dialog: How deep are we going?
+speaker_heading: ONE
+dialog: Right to the bottom.
+speaker_heading: ALICE
+dialog: And when we get there?
+speaker_heading: ONE
+dialog: Were going to see the Queen. And then kill her.
+scene_heading: INT. DARKWTNG - COCKPIT NIGHT.
+text: The Pilot sets a clock on the H.U.D. to 03 hours 00 minutes. The numbers begin to count down. He picks up his mic, but waits till the H.U.D. reads SECURE before sending a message.
+dialog: 21
+speaker_heading: CONTINUED:
+speaker_heading: PILOT
+text: Darkwing to White Queen .... Alpha Team has entered the Hive. All communications down. Awaiting hard wire response.
+speaker_heading: WHITE QUEEN (O.S.)
+text: Roger Darkwing. The clock is running.
+scene_heading: INT. CAVERN NIGHT.
+text: The platform carrying ALICE and the Sanitation Team comes to rest in a vast underground cavern. This is a natural creation, but the hand of man is everywhere. As well as the hydraulics for the platform, there are also several temporary structures used for storage.
+text: A set of runway lights are laid out on the stone floor. They lead to a pair of thick steel doors set in the cavern walls. The doors bear the logo of the UMBRELLA CORPORATION.
+text: ONE glances at the digital counter on his left wrist. It reads 02:58:24. we see that the rest of the team carry identical timepieces. The seconds are ticking away.
+speaker_heading: ONE
+dialog: Move out!
+text: Lying halfway between the platform and the doors is the body of a man called SPENCE. ALICE immediately recognizes him from the photograph in the study. The man with his arm around her. The man that wears her ring.
+speaker_heading: ALICE
+dialog: Oh my God ....its my husband.
+dialog: J.D.
+dialog: (laughs)
+dialog: Hes not your husband.
+speaker_heading: ONE
+dialog: Life signs?
+speaker_heading: MEDIC
+dialog: Affirmative. He must have caught a dose of gas topside .... passed out by the time he made it down here.
+speaker_heading: ONE
+dialog: Bring him round.
+text: The MEDIC snaps a plastic vial under SPENCE'S nose. He comes round instantly.
+dialog: 22
+speaker_heading: CONTINUED:
+speaker_heading: SPENCE
+dialog: What?
+speaker_heading: MEDIC
+dialog: Lie still, Watch this light. Follow it.
+text: The Medic runs through a standard set of tests. SPENCE follows them without fail.
+speaker_heading: MEDIC (contd)
+dialog: Now how many fingers am I holding up?
+speaker_heading: SPENCE
+dialog: Three.
+speaker_heading: MEDIC
+dialog: Raise your left hand. Good. Now tell me your name.
+speaker_heading: SPENCE
+dialog: I...I cant remember.
+speaker_heading: MEDIC
+dialog: Hes fine. Memory loss, just like the other.
+text: By now ALICE is looking as confused as SPENCE.
+speaker_heading: ALICE
+dialog: But if hes not my husband ....then who is he?
+dialog: She hold up her wedding ring.
+speaker_heading: ALICE (contd)
+dialog: And what about this?
+speaker_heading: INT. CAVERN - LATER
+text: The Away Team have set up a piece of heavy industrial cutting gear. They are burning a hole in the locking mechanism of the large steel doors. MATT stands at a distance, under guard by one of the COMMANDOS. Clearly no one here trusts him. ALICE and SPENCE also stand slightly apart from the others. ONE is with them.
+speaker_heading: ONE
+dialog: The building above us, Looking Glass House, is the primary entrance to the Hive. You and your husband are soldiers. Placed there to protect that entrance.
+dialog: 23
+speaker_heading: CONTINUED:
+speaker_heading: ALICE
+dialog: Were not married?
+speaker_heading: ONE
+dialog: A cover story to allay suspicion. Secrecy is paramount. No one was to know of the Hives existence.
+speaker_heading: ALICE
+dialog: But I saw a photograph
+speaker_heading: ONE
+dialog: Look.
+text: He opens a drawer in one of the storage units. Inside are a dozen framed photographs. A dozen different happy couples standing in exactly the same pose, in front of exactly the same set of rose bushes.
+speaker_heading: ONE (contd)
+dialog: You rotate shifts at the house.
+text: ALICE is reeling. Having trouble taking all this in.
+speaker_heading: SPENCE
+dialog: You okay?
+speaker_heading: ALICE
+dialog: Yeah...Ill be fine.
+speaker_heading: SPENCE
+dialog: Why cant we remember anything?
+speaker_heading: ONE
+text: The Hive has its own defense mechanisms are all computer controlled. You and your partner were intended as the first line of defense in the mansion. If you were killed or incapacitated, then the computer could deploy its own defenses. A nerve agent released through hidden vents in the house. Primary effect of the gas is complete unconsciousness, lasting anything up to four hours. Secondary effects are varied, but can include acute memory loss.
+speaker_heading: SPENCE
+dialog: For how long?
+speaker_heading: ONE
+dialog: Subjective. An hour, a day, a week.
+dialog: 24
+speaker_heading: CONTINUED:(2)
+speaker_heading: ALICE
+dialog: (shrugs)
+dialog: Great.
+speaker_heading: SPENCE
+dialog: So we were attacked?
+speaker_heading: ONE
+dialog: No...Im afraid things are a little more complicated than that.
+text: The cutting equipment suddenly stops.
+speaker_heading: RAIN
+dialog: Sir, Weve breached the Hive.
+scene_heading: INT. THE HIVE  CORRIDOR NIGHT.
+text: The heavy steel doors slide aside to reveal a familiar looking corridor. The HIVE is the office building we had seen at the start of the movie. The blinds were closed, because there are no windows here. The whole structure is underground.
+text: The Medic uses a hand held device to sample the air.
+speaker_heading: MEDIC
+dialog: Halon content in the air is high. That must be how she killed then.
+speaker_heading: ONE
+dialog: Do we need masks?
+speaker_heading: MEDIC
+dialog: No, its breathable now.
+text: TWELVE jacks into a computer point by the doors.
+speaker_heading: ONE
+dialog: Status.
+speaker_heading: TWELVE
+dialog: Red Queen is down to basic logic functions.
+speaker_heading: ONE
+dialog: Which means?
+speaker_heading: TWELVE
+dialog: She could just about manage a game of Pong. Shes no threat.
+dialog: 25
+scene_heading: INT. THE HIVE - ELEVATOR SHAFT
+text: The COMMANDOS force open the doors to the shaft. Far below they can see the crumpled remnants of the cars.
+speaker_heading: ONE
+dialog: Looks like were taking the stairs.
+scene_heading: INT. THE HIVE - STAIRS
+text: As the team descend the stairs, ALICE falls in beside ONE.
+speaker_heading: ALICE
+dialog: Who is the Red Queen?
+speaker_heading: ONE
+dialog: The super computer which controls the Hive. State of the art A.I. created by the same corporation which built this place.
+speaker_heading: ALICE
+dialog: You mean this isnt a military base?
+speaker_heading: ONE
+dialog: Private enterprise. Umbrella Corp. could buy and sell the military.
+dialog: (wry smile)
+dialog: They pay better too.
+speaker_heading: ALICE
+dialog: And youre here to kill the Queen?
+speaker_heading: ONE
+dialog: Put a bolt right through the bitchs logic box.
+scene_heading: INT. THE HIVE - CORIRIDOR OUTSIDE THE LAD
+dialog: The same science lab we had seen at the start of the movie.
+text: The team approach the glass wall which separates the lab from the corridor. There are seven narrow jets of water which shoot out from the window. Seven pea sized holes punched in the glass by BROWN'S fire axe.
+text: The lab itself has totally filled with water. Floor to ceiling. The water is murky. Visibility zero. SPENCE peers into the gloom. Theres something in there...cant quite make it out.
+text: SUDDENLY something BUMPS against the glass. In BIG CLOSE UP we see BROWN'S hideously distorted face.
+dialog: 26
+speaker_heading: CONTINUED:
+text: SPENCE jumps back in fright. He loses his dignity, the audience lose their popcorn.
+text: GREEN, BLUE and BROWN have all drowned. GREEN'S face also floats close to the glass, her features bloated, but her eyes as beautiful as ever. Her mouth is frozen in a dying scream.
+speaker_heading: MACE
+dialog: What happened?
+speaker_heading: ONE
+dialog: Four hours ago, Red Queen went homicidal. Sealed the Hive and tried to kill everyone within it.
+speaker_heading: TWELVE
+dialog: When we realized what was happening, White Queen was brought on line to try and control her sister.
+speaker_heading: ALICE
+dialog: White Queen?
+speaker_heading: ONE
+text: An identical computer based at 1~ORAD. The two of them fought it out. An electronic Battle Royale. After 2.7 seconds it was over. Red Queen was disabled, and we were dispatched to finish her off.
+speaker_heading: ALICE
+dialog: Why did she do it?
+speaker_heading: TWELVE
+dialog: We dont know.
+dialog: J.D.
+dialog: (aggressive)
+dialog: But Im sure our bogus cop has a few answers...
+dialog: He shoves MATT.
+speaker_heading: J.D. (contd)
+dialog: ...dont you?
+speaker_heading: MATT
+dialog: I dont have anything to do with this.
+speaker_heading: RAIN
+dialog: Then what were you doing topside? A spot of gardening?
+dialog: 27
+speaker_heading: CONTINUED:(2)
+dialog: J.D.
+dialog: Maybe we should do a little pruning ourselves ...
+text: J.D. produces a knife. Holds it by MATT'S crotch.
+speaker_heading: J.D. (contd)
+dialog: get some answers.
+speaker_heading: ONE
+dialog: Leave him .... weve got professionals for that kind of thing.
+speaker_heading: MATT
+dialog: Im sure you do.
+text: J.D. leans in close to MATT. The wolfish smile has a sadistic edge to it.
+dialog: J.D.
+dialog: (whispers)
+dialog: Just to let you know. If youre responsible for this. Im going to make sure you pay .... personally.
+text: The team begins to move off.
+speaker_heading: MATT
+dialog: (to Alice)
+dialog: I dont kill people .... you have to believe me.
+text: ALICE looks at him like he were dirt on her shoe.
+speaker_heading: ALICE
+dialog: Sure .... I believe you.
+text: She walks off. J.D. shoves MATT ahead of him.
+dialog: J.D.
+dialog: Move it.
+text: TWELVE takes one last look into the flooded lab. Into GREEN'S dead staring eyes.
+speaker_heading: TWELVE
+dialog: Poor bastards.
+text: As he hurries after the rest of the team, we hold on GREEN'S dead face. After a moment SHE TURNS HER EYES to follow TWELVE.
+dialog: 28
+scene_heading: INT. THE HIVE - CORRIDOR NIGHT.
+text: RAIN stands by a set of heavy blast doors which are blocking their progress. Shes working on the locking mechanism.
+speaker_heading: ONE
+dialog: Hows it coming?
+speaker_heading: RAIN
+dialog: Most of these doors are magnetically sealed. Were not going to get them open till we sever the power.
+speaker_heading: ONE
+dialog: Can we cut through?
+speaker_heading: RAIN
+dialog: Itll take time.
+dialog: ONE checks his timepiece. 02:15:32
+speaker_heading: ONE
+dialog: Find an alternate route.
+speaker_heading: CLOSE ON The WEDDING RING
+text: as ALICE slips it from her finger. Inside the band of gold is an inscription:
+speaker_heading: PROPERTY OF UMBRELLA CORP.
+speaker_heading: MATT (O.S.)
+dialog: Sorry to hear about the marriage.
+text: ALICE looks up to see MATT.
+speaker_heading: ALICE
+dialog: Leave me alone.
+speaker_heading: MATT
+dialog: Im really not the man you think I am.
+speaker_heading: ALICE
+dialog: Why do you care what I think?
+speaker_heading: MATT
+dialog: Because I dont have many friends down here. And I have the feeling I may need one.
+speaker_heading: ALICE
+dialog: And why is that?
+dialog: 29
+speaker_heading: CONTINUED:
+speaker_heading: MATT
+dialog: Listen. Do you hear it?
+text: ALICE listens carefully. Its barely audible, but its there. A low groaning sound. It seems almost human. Almost.
+speaker_heading: ALICE
+dialog: What is that?
+speaker_heading: MATT
+dialog: I dont know. But Ive been hearing it since we entered this place.
+text: He looks up at the grille that covers one of the air ducts.
+speaker_heading: MATT (contd)
+dialog: Its coming from the vents.
+speaker_heading: AIR VENT - CONTINUOUS
+text: We see ALICE and MATT from inside the darkened air shaft. Is there something inside? Something watching them?
+speaker_heading: ALICE
+dialog: (unsure)
+dialog: Air conditioning?
+text: MATT shakes his head.
+speaker_heading: MATT
+dialog: I just hope your friends know what they're doing.
+speaker_heading: INT. SPECIMEN ROOM
+text: TWELVE punches in an access code  667  and a heavy steel door slides away to reveal a vast room filled with specimen tanks. The tanks are made of circular plexi and reach from floor to ceiling. There are literally hundreds of them, and with no clear way through the room, they form a grotesque kind of maze.
+text: Each tank is filled with a viscous liquid and some new exciting monstrosity. Animals spliced together. Skeletons that look barely human. Some that clearly arent.
+dialog: Bioengineering run amok.
+speaker_heading: RAIN
+dialog: Now this is some surreal shit right here.
+dialog: 30
+speaker_heading: CONTINUED:
+speaker_heading: MATT
+dialog: Pretty isnt it?
+dialog: (to Alice)
+dialog: Gene splicing, cloning, chemical testing all of it illegal. Banned by international law. Thats why Umbrella hides it away down here.
+dialog: J.D.
+dialog: (angry)
+dialog: Who the tuck asked your opinion?
+text: For a moment, it looks like J.D. may explode. He really doesnt like MATT.
+dialog: ONE defuses the situation.
+speaker_heading: ONE
+dialog: J.D you and Rain secure this exit.
+speaker_heading: ONE (contd)
+dialog: The rest of you, with me.
+speaker_heading: CLOSE ON ALICE
+text: as she wanders through the room. She sees human bodies stripped of their skin, just the bare musculature on show. Mesmerized by the freak show, she doesnt realize that she is being slowly separated from the others. This room does indeed function like a maze, and ALICE is becoming lost.
+text: She stops in front of one tank. It contains a strange four legged CREATURE with no eyes and a grotesque long tongue. Perhaps this was human once, but that was a long time ago.
+text: The liquid the dead Creature is kept in is being constantly circulated, and the movement makes the three foot long tongue sway. It shines past the Plexiglas, as though it were licking it. Up close, the pink fleshy tongue is covered in a thousand tiny barbs.
+dialog: This is the stuff of nightmares. Really fucked up nightmares. The kind serial killers have.
+text: ALICE looks away from the tank and realizes that the rest of the team have disappeared. She is alone in this grotesque maze. Where literally anything could be hiding. She suddenly senses movement. Something refracted through the curved glass of a specimen tank, Something horrifying.
+dialog: 31
+speaker_heading: CONTINUED:
+text: ALICE turns and Bam! Comes face to face with ONE. ALICE tries to stifle a scream, but doesnt quite succeed.
+speaker_heading: ONE
+dialog: Dont wander off.
+speaker_heading: ALICE
+dialog: (embarrassed)
+dialog: Sorry.
+text: She glances back at the monstrous Creature in the tank.
+speaker_heading: ALICE (contd)
+dialog: When I get my memory back, am I going to know what kind of stuff went on down here?
+speaker_heading: ONE
+dialog: No.
+speaker_heading: ALICE
+dialog: And I dont suppose you want to tell me?
+speaker_heading: ONE
+dialog: You suppose right soldier.
+speaker_heading: INT. CONTROL ROOM
+text: A glass walled control booth looks out onto a long stainless steel corridor. The metal is so highly polished it hurts to look at.
+speaker_heading: SPENCE
+dialog: Whats taking so long?
+text: TWELVE is operating three plasma screen laptops simultaneously, running multiple bypasses on the control room computers.
+speaker_heading: TWELVE
+dialog: Red Queens just beyond that door.
+text: TWELVE indicates a thick vault door at the end of the steel corridor.
+speaker_heading: TWELVE (contd)
+dialog: And shes well protected.
+text: Above the door sits an infra red camera with a Weapons Cluster built around it.
+dialog: 32
+speaker_heading: CONTINUED:
+speaker_heading: TWELVE (contd)
+dialog: High explosive, armor piercing, C.S. gas, this baby has it all.
+text: Every five seconds the camera pans the corridor, the Weapons Cluster following the sweep, prepared to annihilate anything that crosses its path.
+speaker_heading: SPENCE
+dialog: I thought she was going to have trouble with Pong?
+speaker_heading: ONE
+dialog: We dont believe in taking risks.
+text: Its clear that ONE doesnt want him bothering his men any more, so SPENCE drifts over to ALICE instead.
+speaker_heading: SPENCE
+dialog: So ....
+text: He looks ALICE over and twirls the wedding ring suggestively around his finger.
+speaker_heading: SPENCE (contd)
+dialog: Man and wife.
+speaker_heading: ALICE
+dialog: Our cover.
+speaker_heading: SPENCE
+dialog: Living in that house together. Late at night. You think we ... you know?
+speaker_heading: ALICE
+dialog: (very certain)
+dialog: I dont think so.
+text: In the steel corridor, the Weapons Cluster powers dawn.
+speaker_heading: TWELVE
+dialog: Were in!
+scene_heading: INT. STEEL CORRIDOR
+text: ONE leads the Away Team towards the vault door. They advance cautiously, still wary of any potential traps.
+speaker_heading: INT. CONTROL ROOM
+text: TWELVE is still at his station by the three laptops. He and ALICE watch through the glass wall as the Away Team advances.
+dialog: 33
+speaker_heading: CONTINUED:
+text: Shes clearly impressed by ONE'S leadership. Maybe a little taken with him as well.
+speaker_heading: ALICE
+dialog: Hes a cool customer.
+speaker_heading: TWELVE
+dialog: Kept us all alive a long time.
+scene_heading: INT. STEEL CORRIDOR
+text: ONE stands before the vault door. This thing look like it could withstand an atomic bomb, ONE places a tiny electronic box over the vaults locking mechanism.
+speaker_heading: INT. CONTROL ROOM
+speaker_heading: ONE (O.S.)
+dialog: Transmitter in position.
+text: TWELVE fires up his three computers.
+speaker_heading: TWELVE
+dialog: Roger...running the bypass.
+text: ALICE, MATT and SPENCE watch as thousands of letters and numbers scroll across the three plasma screens. On the first computer, the possibilities quickly reduce, and then settle on a simple code:
+speaker_heading: RQ KR 4 WQ QB 4 WQ QB 5 - UNLOCK
+dialog: After a moment the second screen reads:
+speaker_heading: WQ KB 8 WQ QB 8 RK K 2 - UNLOCK
+dialog: Then the third and final screen:
+speaker_heading: WK KB 5 RQ K WQ QR 6 - UNLOCK
+text: TWELVE sits back, satisfied.
+speaker_heading: TWELVE (contd)
+dialog: Checkmate.
+scene_heading: INT. STEEL CORRIDOR
+text: The vault door reverberates as its giant locking mechanisms come undone. Thirty inches of steel plate swing aside to reveal a high domed chamber bathed in red light. The lair of the Red Queen.
+dialog: 34
+speaker_heading: CONTINUED:
+speaker_heading: ONE
+dialog: Forward in teams.
+speaker_heading: INT. CONTROL ROOM
+text: ALICE, MATT and SPENCE watch in fascination as ONE unhooks what looks like a miniature rocket launcher from his belt.
+speaker_heading: ALICE
+dialog: What is that?
+speaker_heading: TWELVE
+dialog: Thats whats going to put the Queen to sleep. The shells are tipped with depleted uranium.
+speaker_heading: SPENCE
+dialog: Theyre radioactive?
+speaker_heading: TWELVE
+dialog: No .... its whats left of uranium once nuclear fission is over.
+speaker_heading: MATT
+dialog: Ten times heavier than lead.
+speaker_heading: TWELVE
+dialog: What the hell kind of environmentalist are you?
+speaker_heading: MATT
+dialog: (shrugs)
+dialog: I read Guns and Ammo.
+scene_heading: INT. STEEL CORRIDOR
+text: The first team of COMMANDOS are just about to enter the Queens chamber when without warning, a thick blast door suddenly SLAMS down.
+text: It separates the Away Team from the control room, cutting off their escape route.
+speaker_heading: ONE
+dialog: Twelve?
+speaker_heading: INT. CONTROL ROOM
+text: TWELVE scrambles for an answer, his fingers flying between the three keyboards.
+dialog: 35
+speaker_heading: CONTINUED:
+speaker_heading: TWELVE
+dialog: Some kind of dormant defense mechanism, we must have tripped it when we opened the door.
+speaker_heading: ONE (O.S.)
+dialog: Well put it back to sleep.
+speaker_heading: TWELVE
+dialog: Working on it.
+scene_heading: INT. STEEL CORRIDOR
+text: ONE keeps a tight rein on his troops. Allowing no one to panic.
+speaker_heading: ONE
+dialog: Hold your positions! Everyone stay calm!
+speaker_heading: COMMANDO
+dialog: Whats that?
+text: From within the Queens chamber comes a sudden movement. A horizontal beam of red light. Traveling down the corridor at high speed.
+speaker_heading: ONE
+dialog: Down! Down!
+text: ONE drags the Commando beside him to the ground as the wire thin beam of light passes overhead.
+speaker_heading: COMMANDO
+dialog: My fingers ....
+text: The Commando stares at his right hand. All four fingers are missing.
+speaker_heading: COMMANDO (contd)
+dialog: .... what happened to my fingers?
+text: They are lying on the highly polished floor. Along with the remains of his gun, also neatly sliced in half. The Commando begins to go into shock.
+speaker_heading: ONE
+dialog: Medic!
+text: The Medic is standing close by. Unmoving.
+speaker_heading: ONE (contd)
+dialog: Medic!
+dialog: 36
+speaker_heading: CONTINUED:
+text: Blood begins to pour from a razor thin line around the Medics neck. Then his head peels off and tumbles to the floor.
+text: The headless body remains standing for a moment. Then it falls to its knees and pitches forward.
+speaker_heading: COMMANDO 2
+dialog: (terrified)
+dialog: What the fuck was that?
+speaker_heading: ONE
+dialog: Laser beam. Stay out of its way .... itll cut straight through you.
+speaker_heading: INT. CONTROL ROOM
+text: ALICE and MATT are trying to force the heavy steel blast door open.
+speaker_heading: ALICE
+dialog: Weve got to get them out of there!
+speaker_heading: SPENCE
+dialog: (to Twelve)
+dialog: Help then.
+speaker_heading: TWELVE
+dialog: Im trying!
+scene_heading: INT. STEEL CORRIDOR
+text: ONE ties a bloody tourniquet around the remains of the Commandos hand.
+speaker_heading: ONE
+dialog: Stay conscious...youre going into shock ... you have to stay awake!
+speaker_heading: COMMANDO 2
+dialog: Its coming back!
+text: The thin line of laser light streaks back towards them. This time it is just above ankle level, like a trip wire. Commando 2 tries to jump over it, but the laser adjusts, suddenly raising in height.
+text: Commando 2 is caught off guard and sliced neatly in two. He stays conscious for a couple of seconds. Just long enough to see the horror of his own body falling apart.
+dialog: Only ONE has survived.
+dialog: 37
+speaker_heading: CONTINUED:
+text: He has leaped into the air and stayed there, his feet braced against either wall of the corridor. The laser beam has passed right underneath him, only just missing. A knife that hangs from his belt is cut clean in two. The metal blade clatters to the steel floor below.
+speaker_heading: INT. CONTROL ROOM
+text: ALICE and SPENCE struggle with the blast door. They are starting to inch it open.
+dialog: But the laser wire is coming back for ONE.
+speaker_heading: ONE (O.S.)
+dialog: Shut it down! Shut it down!
+speaker_heading: TWELVE
+dialog: Almost there.
+text: Streams of letters and numbers chase across his computer screens as TWELVE closes in on the override code.
+scene_heading: INT. STEEL CORIRIDOR
+text: ONE readies himself as the laser wire races towards bun. It is at waist level, but could alter at any moment.
+text: ONE stands his ground. Ready to pit his lightning reflexes against those of the computer. His concentration is absolute.
+text: At the last second, the single thin laser wire switches to a grid. Fifty interlocking laser lines fanning a deadly net from which there is no escape.
+speaker_heading: ONE
+dialog: Shit!
+text: The laser grid dices him into three inch cubes.
+speaker_heading: INT. CONTROL ROOM
+text: The others watch in horror as ONE'S body literally falls apart.
+text: Everyone in the corridor is dead.
+dialog: The team have been wiped out in under thirty seconds.
+text: TWELVE'S laptop beeps. Breaking the silence. It has cracked the override code.
+text: In the steel corridor laser flickers and dies.
+dialog: 38
+speaker_heading: CONTINUED:
+dialog: Too little. Too late.
+speaker_heading: TWELVE
+dialog: Alright ....
+text: He gets uncertainly to his feet.
+speaker_heading: TWELVE (contd)
+dialog: Lets do it.
+speaker_heading: SPENCE
+dialog: (incredulous)
+dialog: What?
+speaker_heading: TWELVE
+dialog: We have to complete the mission.
+text: SPENCE glances into the steel corridor.
+speaker_heading: SPENCE
+dialog: Im not going in there.
+speaker_heading: TWELVE
+dialog: Her defenses are down.
+speaker_heading: SPENCE
+dialog: Deja vu anyone? Youre on your own.
+text: TWELVE takes a deep breath.
+speaker_heading: TWELVE
+dialog: Alright.
+scene_heading: INT. STEEL CORRIDOR
+text: TWELVE stands at the threshold of the corridor. His eyes flick from one detail to another. The end of the corridor dead body .... the vault door .... dead body .... ONE'S missile launcher...death .... the security camera silently watching .... death .... death .... more death...
+speaker_heading: TWELVE
+dialog: (losing it)
+dialog: Alright .... get a grip .... calm down.
+speaker_heading: ALICE (O.S.)
+dialog: Hey.
+text: The sudden voice makes TWELVE jump out of his skin. He turns to see ALICE at his shoulder.
+speaker_heading: ALICE (contd)
+dialog: Want some company?
+dialog: 39
+speaker_heading: CLOSE UP EYES
+text: Dead and staring. One of the COMMANDOS. We can still see the surprise frozen on his face. ALICE and TWELVE edge their way past the body.
+text: Side by side, jacked up on adrenaline. Ready for anything.
+speaker_heading: ALICE
+dialog: By the way...you got a name?
+text: He indicates the patch on his shoulder.
+speaker_heading: TWELVE
+dialog: Twelve.
+speaker_heading: ALICE
+dialog: Thats a number, not a name.
+speaker_heading: TWELVE
+dialog: Isiab Tagawa Mercurio.
+speaker_heading: MACE
+dialog: Catchy.
+speaker_heading: TWELVE
+dialog: Thats why Twelve stuck.
+speaker_heading: ALICE
+dialog: Id introduce myself but...
+dialog: She shrugs. Doesnt even know her own name.
+scene_heading: INT. THE QUEENS CHAMBER
+text: Flooded with red light, this is the very heart of THE HIVE. The room pulses with a life of its own.
+text: TWELVE now carries the missile launcher. The trigger is slick with blood.
+text: He approaches a computer console at the centre of the room. Circular in design, and just over four feet high, it resembles a giant chess piece.
+speaker_heading: GIRL (V.0.)
+dialog: Get out!
+text: A beautiful sixteen year old GIRL walks from the shadows. Shes furious, her hands clenched in anger.
+speaker_heading: GIRL (contd)
+dialog: Get out! You cant be in here!
+dialog: 40
+speaker_heading: CONTINUED:
+text: TWELVE walks straight up to the Girl and then steps CLEAN THROUGH HER!
+speaker_heading: TWELVE
+dialog: Holographic representation of the Red Queen.
+speaker_heading: GIRL-RED QUEEN
+dialog: You have to get out!
+text: TWELVE begins to set up the missile launcher, oblivious to the angry youth at his side.
+speaker_heading: TWELVE
+dialog: Head programmers daughter.
+speaker_heading: RED QUEEN
+dialog: I wouldnt advise this.
+speaker_heading: TWELVE
+dialog: (to Alice)
+dialog: Dont listen to anything she says.
+speaker_heading: RED QUEEN
+dialog: Disabling me will result in loss of primary power.
+speaker_heading: TWELVE
+dialog: Shes only trying to deceive us...
+speaker_heading: RED QUEEN
+dialog: Youll never be able to reach the surface.
+speaker_heading: TWELVE
+dialog: .... confuse us ....
+speaker_heading: RED QUEEN
+dialog: Everything I have done has been for your own good.
+speaker_heading: TWELVE
+dialog: .... shell say anything to stop us shutting her down.
+text: TWELVE readies the rocket launcher. He stands before a glowing red lens at the top of the console. The Red Queens eye
+speaker_heading: RED QUEEN
+dialog: The console is armored. You wont penetrate it.
+dialog: 41
+speaker_heading: CONTINUED:(2)
+dialog: He points
+speaker_heading: TWELVE
+dialog: Uranium tipped shells.
+speaker_heading: ALICE
+dialog: Ten times heavier than lead.
+text: The rocket launcher straight at the Queens eye.
+speaker_heading: RED QUEEN
+dialog: (desperate)
+dialog: I implore you.
+speaker_heading: TWELVE
+dialog: Implore away.
+speaker_heading: RED QUEEN
+dialog: Please ....
+text: Red Queens pleading voice sounds almost human. A vulnerable young girl.
+speaker_heading: RED QUEEN (contd)
+dialog: .... please!
+text: TWELVE'S finger tightens. Fourteen pounds of pressure on a fifteen pound trigger. Hes going to do it.
+text: All the humanity suddenly vanishes from Red Queens voice.
+speaker_heading: RED QUEEN (contd)
+dialog: (cold)
+dialog: Youre all going to die down here.
+speaker_heading: TWELVE fires.
+text: The missile penetrates the console.
+text: The image of the Queen and then the lights in the chamber flicker and die.
+text: For a second, inky darkness. Then the emergency lighting kicks in.
+text: This new menacing half light is accompanied by a heavy metallic pounding noise. Distant to start with, but gradually drawing closer. Like a giants footsteps slowly approaching.
+speaker_heading: ALICE
+dialog: What is that?
+dialog: 42
+speaker_heading: CONTINUED:(3)
+speaker_heading: TWELVE
+dialog: Most of the doors down here are magnetic locking. When we cut the main power, we popped them all wide open. Getting out should be a lot easier than coming in.
+speaker_heading: INT. THE HIVE  VARIOUS
+text: A MONTAGE OF SHOTS show heavy steel doors opening all across the complex.
+text: Even the door to the flooded science lab slides open, allowing a torrent of water to race into the corridor.
+text: The bodies of GREEN, BLUE and BROWN are swept along in the tide.
+speaker_heading: INT. CONTROL ROOM
+speaker_heading: TWELVE
+dialog: Here it is. Her logic chip.
+text: TWELVE holds a small BOX in his hand. The size of a single CD case, its surface is covered in a pattern of black and white squares, like a miniature chess board.
+speaker_heading: TWELVE (contd)
+text: The essence of the Red Queen condensed on a single microprocessor.
+speaker_heading: SPENCE
+dialog: Is it safe?
+speaker_heading: TWELVE
+dialog: Dont worry. She cant do anything from in there. Its like putting the genie back in the bottle.
+speaker_heading: SPENCE
+dialog: You mean shes not dead?
+speaker_heading: TWELVE
+dialog: Are you kidding? Do you know how much she cost? Theyll try to put her right, or at least figure out what went wrong.
+speaker_heading: MATT
+dialog: So its okay for a computer to kill people. You just send her to the shrink. If she were a person, shed fry.
+speaker_heading: TWELVE
+dialog: People dont cost as much as she does.
+dialog: 43
+speaker_heading: CONTINUED:
+speaker_heading: MATT
+dialog: Thats a real nice attitude you have.
+text: TWELVE ignores him.
+speaker_heading: TWELVE
+dialog: With the main power down, therell be no ventilation.
+dialog: (packs up his equipment)
+dialog: The airs going to start getting stale pretty soon.
+speaker_heading: INT. SPECIMEN ROOM
+text: The labyrinth of horror. Looks even worse by the dim glow of the emergency lights.
+speaker_heading: TWELVE
+dialog: Everybody stay close.
+text: ALICE shoots him a look. Thats one major piece of unneeded advice. TWELVE takes the lead as they head through the giant room. But the deeper they go, the greater the sense of unease. The specimens seem to be watching them. Leering at them.
+text: A SUDDEN FLASH OF MOVEMENT. A glimpse of something hideous, seen through the curved glass of the specimen jars. Was it just a trick, a distortion of the glass, or is there something else in here with them?
+dialog: Unease becomes dread.
+text: SPENCE slows. Almost stops. Without thinking, hes holding his breath. Just like the audience. We all sense it. Something terrible is about to happen.
+text: SUDDENLY a clawed HAND on his neck. Digging in, biting into the flesh.
+text: SPENCE SCREAMS and turns to face the horror.
+speaker_heading: SPENCE (contd)
+dialog: What the fuck are you doing?
+text: Its J.D. He and RAIN are where ONE left them. Guarding the retreat.
+dialog: J.D.
+dialog: Quiet.
+dialog: They all listen.
+dialog: 44
+speaker_heading: CONTINUED:
+text: The shuffle of feet? And a low moaning noise. Almost human. Almost.
+speaker_heading: SPENCE
+dialog: What is that?
+text: ALICE and MATT share a look. This is the sane noise they had heard through the air vents. Only now its closer. Now its in the room with them.
+speaker_heading: RAIN
+dialog: There.
+text: She sees movement behind one of the specimen tanks.
+speaker_heading: RAIN (contd)
+dialog: Over there.
+dialog: J.D.
+dialog: No .... there!
+dialog: J.D. sees another one. Whatever they are, theyre all around.
+speaker_heading: SPENCE
+dialog: What the fuck is down here?
+dialog: J.D.
+dialog: Im not waiting to find out. Now move!
+text: J.D. pushes them towards the exit.
+speaker_heading: RAIN
+dialog: were almost there .... keep going!
+text: The exit is just ahead. Something big moves behind one of the tanks. S.D. lets loose a burst from his M16. The tank shatters sending broken plexi and fluid everywhere. They still havent seen their pursuers.
+dialog: J.D.
+dialog: Run!
+text: They do. ALICE sprinting ahead, straight into A figure in a lab coat. A WOMAN. Her tongue is swollen and bloated. Her death was painful and slow. You can see it in whats left of her face.
+text: THE UNDEAD HAVE ARRIVED.
+dialog: 45
+speaker_heading: CONTINUED:(2)
+text: ALICE screams as the UNDEAD WOMAN hinges at her. The Womans actions are slow and jerky, but ALICE is caught by surprise and knocked to the ground. She struggles to get up, but the weight of the Undead Woman keeps her pinned to the floor.
+text: ALICE looks into the Womans dead eyes, which stare straight back at her. Theres no life left here, but there is something else. A terrible, terrible hunger.
+text: RAIN kicks the Woman off. She rolls over and begins to get up. Broken ribs mean nothing. Pain means nothing.
+text: RAIN empties a round into her chest. Then another, then another. Still the Woman advances. Bullets mean nothing.
+text: The M16 dry clicks. Empty.
+text: TWELVE moves to help when two more UNDEAD loom behind him. One grabs his arms, the other his hair. He struggles to break free, but cant.
+speaker_heading: TWELVE
+dialog: Help me!
+text: But J.D. cant hear over the sound of his own gunfire. Hes blasting away at the rising tide of undead.
+text: ALICE sits with her back against one of the tanks. In a state of shock. Traumatized.
+text: WE SEE but she doesnt  a figure moving behind the tank, circling towards her. Its monstrous face distorted even more by the coned Plexiglas.
+text: RAIN struggles with the Undead Woman. Trying to hold her off. To keep the teeth from her throat.
+speaker_heading: MATT
+dialog: (to Spence)
+dialog: Help them!
+text: MATT is helpless, his hands still cuffed. SPENCE surveys the scene. Sees ALICE in shock. TWELVE and RAIN pinned by the Undead. J.D. nowhere to be seen.
+text: Then he bolts for the exit.
+text: One of the Undead bites down hard on TWELVE'S shoulder. He screams in pain.
+text: RAIN struggles with the Undead Woman. She has RAIN by the hair.
+dialog: 46
+speaker_heading: CONTINUED:(3)
+speaker_heading: RAIN
+dialog: Bitch!
+text: RAIN grabs her by the head and twists. The UNDEAD'S neck snaps with a hollow crack and she falls to the ground. Unmoving.
+text: The figure behind ALICE comes into view. Shes still unaware of the danger. Its BROWN, the scientist from the start of the movie. The fire axe still dangles uselessly from his right hand. His face is bloated and swollen from the water. Death by drowning always looks bad. Especially when the bodies start to walk around.
+text: He reaches for ALICE. His fingers are inches from her skin.
+text: Two more Undead have surrounded TWELVE. The four of them have wrestled him to the ground and are biting in a frenzy at his arms and chest.
+text: One of them wrestles a .45 auto from TWELVE'S belt, but doesnt know what to do with it.
+speaker_heading: MATT (O.S.)
+dialog: Ill take that.
+text: Still in cuffs, MATT snatches the gun from the UNDEAD'S hand. The Undead creature looks up in surprise as MATT blows the back of its head off. Surprisingly, theres very little blood. Inside, the creatures are dry, withered husks.
+text: A scream brings cur attention back to ALICE. The Undead BROWN has a hand on her throat. He drops the fire axe and secures his other hand around her wind pipe.
+text: MATT carefully takes aim. BROWN'S head in his sights- And squeezes.
+dialog: Click. Empty.
+text: ALICE is slammed against the plexi tank. The last of her breath leaving her body. Shes passing out. She feels BROWN'S saliva on her face. Rank and fetid.
+dialog: But still she doesnt move. The trauma has triggered some kind of recall in Mices mind.
+speaker_heading: BIG CLOSE UP ON ALICES EYES
+text: Suddenly THE CAMERA accelerates forward, racing past the cool blue of her iris and plunging deep within the dark well of her pupil.
+dialog: 47
+speaker_heading: CONTINUED:(4)
+text: As THE CAMERA spirals through the darkness, we sense sudden flashes of color and sound. MEMORIES.
+speaker_heading: ALICES FLASHBACK:
+text: Blurred imagery, distorted voices. The logic of a dream.
+text: THE CAMERA lost in a dark, evil forest. The kind you see in fairy tales. But as we pull back, the forest is revealed to be a giant oil painting.
+text: In front of it stands a table. And on the table a foam lined carry case and a pair of gloves. We recognize them front the start of the movie.
+speaker_heading: UNSEEN VOICE
+dialog: I can help you get the virus. Access codes, security plans, the works.
+speaker_heading: END ALICES FLASHBACK
+speaker_heading: SMASH CUT TO:
+speaker_heading: THE PRESENT
+text: ALICE forced against the plexi tank. BROWN'S hands around her neck, Choking. Dying.
+text: BAM! BROWN'S head is suddenly pinned against the Plexiglas by the fire axe. The axe has gone clear through his skull, in one ear and out the other. His hands drop away from ALICE'S throat, but BROWN'S body remains standing. His head pinned to the specimen tank.
+speaker_heading: ALICE
+dialog: (choked)
+dialog: Thank you.
+text: SPENCE stands there. Her saviour.
+speaker_heading: ALICE (contd)
+dialog: You came back.
+speaker_heading: SPENCE
+dialog: I didnt know the door code.
+speaker_heading: RAIN
+dialog: Hate to break up the husband/wife thing, but lets get the fuck out of here. Theres more of them on the way.
+dialog: 48
+speaker_heading: CONTINUED:
+text: They race for the exit. TWELVE seems badly injured. ALICE and SPENCE have to help him. Behind them, a dozen Undead are slowly following.
+text: Up ahead they hear gunfire and moments later see J.D. by the exit, holding a whole band of undead at bay.
+dialog: J.D.
+dialog: (flip)
+dialog: What took you?
+speaker_heading: RAIN
+dialog: Aim for the head. That seems to work.
+text: TWELVE arrives at the door. Tries to type the entry code in. The sound of gunfire is deafening.
+dialog: J.D.
+dialog: Whats taking so long?
+speaker_heading: TWELVE
+dialog: Im trying.
+text: His hands are shaking so hard, he cant hit the keys.
+speaker_heading: RAIN
+dialog: Out of the way tech boy.
+text: RAIN pushes him aside.
+speaker_heading: RAIN (contd)
+dialog: Whats the code?
+speaker_heading: TWELVE
+dialog: (shaken)
+dialog: Six, six, seven.
+text: RAIN punches in the code.
+speaker_heading: RAIN
+dialog: See how easy that was?
+text: The door slides smoothly open to reveal...A DOZEN UNDEAD! Their hands reaching for RAIN. Grabbing her, dragging her into the dark void beyond.
+speaker_heading: RAIN
+dialog: (screans)
+dialog: No!
+dialog: J.D.
+dialog: Out of my way!
+dialog: 49
+speaker_heading: CONTINUED:(2)
+text: J.D. runs forward, two guns in his hands, both blazing. RAIN has almost disappeared under a mass of rotting undead limbs.
+speaker_heading: RAIN
+dialog: (desperate)
+dialog: Oh my God! Help me!
+text: Other hands reach for her and try to drag her away from the undead. Its ALICE and TWELVE. Playing tug of war with the undead, and RAIN is the rope.
+text: But its hopeless and RAIN is dragged deeper into the ravening horde.
+dialog: J.D.
+dialog: Rain! No!
+text: J.D. plunges into the doorway after her. His hand grabs hers, and for a moment she holds on.
+speaker_heading: RAIN
+dialog: (pleading)
+dialog: J.D. .... dont let go! Please! Dont let go!
+dialog: Then one of the undead gets a hold of J.D.S hand and takes a nice big bite. You know the fleshy bit between your thumb and forefinger? Well J.D. doesnt have that any more.
+speaker_heading: J.D. (contd)
+dialog: (intense pain)
+dialog: Aaaaah!
+text: He lets go and RAIN disappears from sight. All that can be beard are her screams.
+speaker_heading: J.D. (contd)
+dialog: NO!
+text: J.D. would fling himself into the horde of undead, but the others hold him back.
+speaker_heading: ALICE
+dialog: Its no good.
+dialog: J.D.
+dialog: (furious)
+dialog: Let go of me!
+text: The screaming stops.
+speaker_heading: MATT
+dialog: Weve got to go back!
+dialog: 50
+speaker_heading: CONTINUED:(3)
+dialog: J.D.
+dialog: (almost in tears)
+dialog: Rain!
+dialog: But shes gone. And the undead want fresh meat.
+speaker_heading: ALICE
+dialog: We have to get out of this room.
+text: The undead pour into the room. Too many to hold back. And now they move faster. Excited by the sight of blood. Still J.D. wont move.
+speaker_heading: ALICE (contd)
+dialog: J.D. .... please.
+text: She looks him in the eye. Icy calm, despite the ravening horde that threatens to overwhelm them.
+speaker_heading: ALICE (contd)
+dialog: We have to go.
+text: J.D. finally snaps out of it. Realizing that RAIN is never coming back. Stunned, he nods and they move off.
+text: The survivors race through the room, weaving between the slower moving undead. When something gets in their way, J.D. levels it with a burst from his M16. His anger rising.
+dialog: J.D.
+dialog: Motherfuckers! Dirty motherfuckers!
+text: Mound them, Plexiglas tanks shatter and explode as stray bullets crash into them.
+text: And in all the chaos, the group begins to get separated.
+dialog: Like mice in a maze.
+speaker_heading: CLOSE ON A HEAVY DOOR
+text: as SPENCE slams it behind them.
+dialog: They are back where they started. WIDER TO REVEAL -
+speaker_heading: INT. CONTROL ROOM
+text: SPENCE looks around. Only now does he realize that some of their group is missing.
+dialog: 51
+speaker_heading: CONTINUED:
+speaker_heading: SPENCE
+dialog: Where are the others? Where the tuck are the others?
+speaker_heading: ALICE and MATT are gone.
+dialog: J.D.
+dialog: Dont look at me.
+speaker_heading: TWELVE
+dialog: Damn!
+text: TWELVE un-straps his Kevlar vest and lets it fall to the ground. His entire body is covered with bite shaped marks. The bruises are already turning an ugly yellow color.
+speaker_heading: TWELVE (contd)
+dialog: I feel like lunch.
+text: J.D. slumps to the ground, his back to the wall. Nice solid wall. No chance of anything creeping up on him. RAIN'S death has snapped something within J.D. blood drips from his savaged hand.
+text: On the other side of the door we bear dozens of fists pounding.
+speaker_heading: SPENCE
+dialog: Well Im not going to end up a Goddamn Happy Meal for one of those tucks!
+dialog: J.D.
+dialog: Whatever they are, you can stop them with a shot to the head.
+speaker_heading: SPENCE
+dialog: (angry)
+dialog: Whatever they are? Its pretty goddamn obvisous what they are. Lab coats, badges. Those people used to work here.
+speaker_heading: TWELVE
+dialog: All the people working here are dead.
+speaker_heading: SPENCE
+dialog: Well that isnt stopping them from walking around!
+dialog: J.D.
+dialog: Where did they come from? Why didnt we see them on the way in?
+dialog: 52
+speaker_heading: CONTINUED:(2)
+speaker_heading: TWELVE
+dialog: When we cut the power, we unlocked all the doors. We let Pandora out of the box.
+speaker_heading: SPENCE
+dialog: Those things could be all over the place. Were never going to make it to the surface.
+speaker_heading: TWELVE
+dialog: So she was right.
+speaker_heading: SPENCE
+dialog: What?
+speaker_heading: TWELVE
+dialog: The Queen...she was right.
+text: The moment is broken by the sound of a gun being racked. J.D. is checking his assault rifle.
+dialog: J.D.
+dialog: Twenty seven rounds.
+dialog: (to Twelve)
+dialog: You?
+speaker_heading: TWELVE
+dialog: Six in the clip...one in the breech.
+speaker_heading: SPENCE
+dialog: We are so fucked.
+dialog: Not too eloquent, but it seems pretty accurate.
+speaker_heading: CUT TO:
+speaker_heading: CLOSE ON ALICE
+dialog: for the first time, all alone in the dark. And its terrifying. WIDEN to reveal -
+speaker_heading: INT. SECURITY ROOM
+text: We recognize the room from the start of the movie. The one with all the caged guard dogs. Only now the cages are empty. Many have holes in them, chewed straight through the mesh. What would make a dog do that?
+text: ALICE cautiously makes her way down the half lit corridor. Then suddenly she stops. Senses that she isnt alone. In the audience, people are watching from behind their fingers.
+dialog: 53
+speaker_heading: CONTINUED:
+text: Then she hears it. A sharp clicking sound. Nails on a cement floor.
+text: In the shadows, a dark shape moving.
+dialog: A low demonic growl.
+speaker_heading: ALICE
+dialog: Easy there I Good doggie.
+text: The Doberman advances into a shaft of light. But this is like no dog weve ever seen before. Its eyes are glazed. Its flesh decaying. Undead doggie.
+speaker_heading: ALICE (contd)
+dialog: Oh hell.
+text: The Doberman charges and ALICE does the only sensible thing. She runs.
+text: The Dog leaps at her, all teeth and claws. ALICE dodges and dives into one of the cages f or protection. She slams the mesh door in the hellhounds face.
+text: ALICE wedges door shut. Shes trapped in the cage, and the door wont hold for long. But it doesnt matter anyway, because out of the shadows steps a second Doberman.
+text: ALREADY IN THE CAGE WITH HER!
+text: The second Undead Dog jumps at ALICE, knocking her to the ground. Shes no match for its savagery. Its a struggle just to keep its jaws from her throat.
+text: As if that werent enough, the first Dog is slowly forcing the cage door open. It will be through in moments.
+dialog: They want blood, her blood.
+text: The Dog on top of ALICE forces its jaws around her face.
+speaker_heading: BIG CLOSE UP ON ALICES EYES
+text: Suddenly THE CAMERA accelerates forward, racing past the cool blue of her iris and plunging deep within the dark well of her pupil.
+text: As THE CAMERA spirals through the darkness, we sense sudden flashes of color and sound. MEMORIES.
+text: THROUGH HER EYES WE SEE: schematics of the dog: biological cross sections: details of the dogs skeleton: a weak point identified on the Dobermans neck.
+dialog: 54
+speaker_heading: CONTINUED:(2)
+text: Her hands are already there. Guided by instinct.
+speaker_heading: SNAP!
+text: The Undead Dog stops moving. Shes killed it with her bare hands.
+text: CRASH! The cage door bursts open. The other Dog charges. Ferocious, unstoppable. In one slick acrobatic move, ALICE leaps into the air and boosts herself through a hole in the cage roof.
+text: The Dog jumps after her, but ALICE is just out of reach.
+text: She rolls over the cage roof, drops to the ground and slams the cage door shut. Right in the Hellhounds face. ALICE slams the door bolt home. The Dog is trapped, helpless in the cage.
+text: ALICE smiles and turns away, SMACK INTO ANOTHER OF THE UNDEAD!
+text: Its the security guard who used to tend the dogs. CLARENCE. We recognize him from the start of the movie. ALICE recognizes him from his name tag.
+speaker_heading: ALICE (contd)
+dialog: Easy there Clarence.
+text: The undead guard lunges for her, but ALICE is lightning fast, as though someone else had taken possession of her body. She weaves through his arm, lifts the sidearm from his bolster and drills a bullet through his forehead.
+text: As the Undead Clarence collapses, MORE MEMORIES FLOOD INTO ALICE. In ULTRA FAST SUCCESSION we see a dozen schematics of the handgun. In two seconds flat, she has ejected the magazine, checked the number of bullets, slammed the mag home and chambered another round.
+text: All before Clarences body has hit the ground.
+text: ALICE is stunned by all this sudden killer instinct. Stares at herself, gun in hand.
+speaker_heading: ALICE (contd)
+dialog: Damn! Im a tough bitch.
+speaker_heading: INT. CONTROL ROOM
+text: TWELVE stares at the door. Its beginning to buckle under the weight of the undead. He suddenly turns back to the others:
+dialog: 55
+speaker_heading: CONTINUED:
+speaker_heading: TWELVE
+dialog: Its a long shot .... but there might be someone who could help us.
+dialog: J.D.
+dialog: Who?
+text: TWELVE takes the Box from his pocket.
+speaker_heading: SPENCE
+dialog: Youre kidding right?
+speaker_heading: TWELVE
+dialog: If anyone could find a way out of here it would be her.
+speaker_heading: SPENCE
+dialog: No. Absolutely not.
+dialog: He looks to J.D.
+speaker_heading: SPENCE (contd)
+dialog: Right?
+dialog: No reply.
+speaker_heading: SPENCE (contd)
+dialog: In case Ive been the only one paying attention, that homicidal bitch tried to kill us all.
+speaker_heading: TWELVE
+dialog: That homicidal bitch may be the only one who can tell us what the hells going on down here.
+dialog: (shrugs)
+dialog: I know its not ideal.
+speaker_heading: SPENCE
+dialog: You said that right.
+dialog: J.D.
+dialog: If you switched her back on...you could control her?
+speaker_heading: SPENCE
+dialog: I dont believe this.
+speaker_heading: TWELVE
+dialog: If she says or does anything we dont like ....
+text: He indicates the switch at the base of the Box.
+dialog: 56
+speaker_heading: CONTINUED:(2)
+speaker_heading: TWELVE (contd)
+dialog: its the flip of a switch.
+speaker_heading: CLOSE ON A GUILLOTINE BLADE
+text: the kind used for shying through thick stacks of paper. It comes down on a battered pair of handcuffs for the hundredth time. Finally a link breaks.
+speaker_heading: WIDEN TO REVEAL 
+speaker_heading: INT. OFFICE
+text: MATT, now free from the cuffs, starts to make his way through the familiar office space. This is where we had last seen LISA. But now the place is trashed. Smeared with dirt and blood.
+text: He reaches LISA'S cubicle and sits down at her desk. We recognize the LOVE IS .... NEVER HAVING TO SAY YOURE SORRY paperweight.
+text: After a moment he begins to methodically check the desk drawers.
+speaker_heading: UNSEEN P.O.V.
+text: moving through the office space. Slow, jerky steps. Glimpsing MATT in the distance.
+speaker_heading: CLOSE ON MATT
+text: as he turns, sensing something. Theres someone in here with hint. MATT cranes his head around the side of the cubicle. Nothing there. He goes back to the desk and redoubles his efforts. He finds the foam lined carry case. Snaps it open. Empty.
+speaker_heading: UNSEEN P.O.V.
+text: closing in on MATT. He has his back to us. Trying to force open a locked drawer in LISA'S desk.
+speaker_heading: CLOSE ON MATT
+text: as the locked drawer pops open. He rifles through the papers inside. All useless. Then he stops. Hes found a framed picture. MATT and LISA arm in arm, smiling at the camera.
+text: MATT gives the photograph a long look.
+speaker_heading: CRASH!
+dialog: 57
+speaker_heading: CONTINUED:
+text: a sudden noise makes MATT turn. An office chair has been knocked over by the staggering monstrosity in front of him. Its LISA. Back from the dead.
+text: MATT still holds the photo in his hand. The two of them arm in arm. LISA alive and beautiful. But the reality stands above him. LISA the undead. Her face distorted into a grotesque mask. The agony of suffocation.
+speaker_heading: MATT
+dialog: Oh baby
+text: LISA stares at him. Makes no attempt to attack.
+speaker_heading: CLOSE ON HER EYES
+text: we see MATT reflected in her pupils. The undead LISA groans. Is there a hint of recognition?
+text: Slowly she raises her hand to his cheek. Touches him lightly. Tenderly.
+text: Then sinks her nails into his flesh.
+speaker_heading: MATT
+dialog: (in agony)
+dialog: Aaaaah!
+text: LISA lunges forward pushing MATT back over the desk. Her teeth snap at his throat. MATT fights back, but LISA is surprisingly strong. He slugs her across the face, breaking her teeth and his knuckles, but she doesnt flinch. Doesnt hesitate for a moment. She wants blood.
+text: Slowly, inevitably, she forces her mouth around MATT'S windpipe. Her broken teeth-ready to tear out a jagged chunk of raw flesh. When suddenly she stiffens. And then falls to the ground.
+text: To reveal ALICE standing behind her. The heavy LOVE IS .... paperweight in her hand.
+text: MATT struggles to his feet.
+text: ALICE looks down at LISA. This is the second time weve seen her die. Lying beside the body is the broken picture frame. MATT and LISA. Hand in hand. Smiling.
+speaker_heading: ALICE
+dialog: Who was she?
+dialog: 58
+speaker_heading: CONTINUED:
+speaker_heading: MATT
+dialog: (choked)
+dialog: My sister.
+speaker_heading: ALICE
+dialog: Im sorry.
+speaker_heading: MATT
+dialog: I could have talked to her .... Reasoned with her.
+speaker_heading: ALICE
+dialog: Not with these things.
+speaker_heading: MATT
+dialog: Theyre not things, theyre people! They have mothers, bothers .... brothers.
+speaker_heading: ALICE
+dialog: (cold)
+dialog: No. You cant think of them that way anymore.
+speaker_heading: MATT
+dialog: You know something?
+text: MATT stares at her. The new icy composure. Who is this woman?
+speaker_heading: MATT (contd)
+dialog: When you remember who you are...I have the feeling we're not going to get on.
+speaker_heading: CUT TO:
+speaker_heading: CLOSE UP OF THE BOX
+text: as TWELVE plugs it into the holographic projector on his computer. The chess squares illuminate and a life size 3D image of the teenage Queen flickers into life beside them.
+text: The genie is out of the bottle.
+speaker_heading: RED QUEEN
+dialog: Ah, there you are.
+dialog: (gloating)
+dialog: I did warn you.
+text: Red Queen is about to continue when J.D. cuts her off.
+dialog: 59
+speaker_heading: CONTINUED:
+dialog: J.D.
+dialog: Lets get something straight I From what I understand, youre state of the art Artificial Intelligence, which means you consider yourself a living, thinking being, correct?
+speaker_heading: RED QUEEN
+dialog: Yes .... that is correct.
+dialog: J.D.
+dialog: And this box is the last remnants of your sorry ass. So let me make one thing clear. You try to fuck with us in any way and I will personally grind your super gigabyte punk ass into dust. Finito! Comprende?
+speaker_heading: RED QUEEN
+dialog: I speak fiftyseven languages.
+dialog: J.D.
+dialog: Good. So now you can answer some questions. Number one .... what the Luck were you people doing down here?
+speaker_heading: RED QUEEN
+dialog: The usual thing. Gene splicing, toxicology, bioengineering. All in service of mankinds one great goal finding new and exciting ways to wipe itself out.
+speaker_heading: SPENCE
+dialog: Arent we the witty little microchip?
+speaker_heading: RED QUEEN
+dialog: Merely here to serve.
+text: The argument is interrupted by the undead. Banging hard against the door to the Specimen Room.
+speaker_heading: TWELVE
+dialog: What are those things out there?
+speaker_heading: RED QUEEN
+dialog: Things?
+speaker_heading: SPENCE
+dialog: Drooling, staggering...bad complexions, worse attitude.
+dialog: 60
+speaker_heading: CONTINUED:(2)
+speaker_heading: RED QUEEN
+dialog: I presume you are referring to the retro animated weapons systems.
+dialog: J.D.
+dialog: The what?
+speaker_heading: RED QUEEN
+dialog: In human mythology, I believe they are traditionally referred to as the undead.
+speaker_heading: TWELVE
+dialog: Explain.
+speaker_heading: RED QUEEN
+text: Even in death, the human body still remains active. Hair and fingernails continue to grow, new cells are produced, and the brain itself holds a small electrical charge that takes months to dissipate. Much of the research in the Hive was devoted to those electronic signals left in the brain .... fragments of memory that decay over time. A virus, T3 was developed. This T-virus provides a massive jolt to those trace electronic impulses.
+dialog: (pauses a beat)
+dialog: Put quite simply, it reanimates the body.
+dialog: J.D.
+dialog: Youre bringing the dead back to life?
+speaker_heading: RED QUEEN
+dialog: Not fully. The subjects have the simplest of motor functions. Perhaps a little memory .... virtually no intelligence. Driven by the basest of impulses .... the most basic of needs.
+speaker_heading: TWELVE
+dialog: Which is?
+speaker_heading: RED QUEEN
+dialog: The need to feed.
+speaker_heading: SPENCE
+dialog: (fearing the worst)
+dialog: And what do these things feed on?
+dialog: 61
+speaker_heading: CONTINUED:(3)
+speaker_heading: RED QUEEN
+dialog: They feed on what mankind has always wanted to prey upon, what you have always sought to destroy. Yourselves.
+speaker_heading: SPENCE
+dialog: They eat people?
+speaker_heading: TWELVE
+dialog: Thats inhuman.
+speaker_heading: RRD QUEEN
+dialog: On the contrary. I find it perfectly in keeping with human behavior. Stripped of culture, intelligence, reason .... they are your true primal selves. The evil that dwells within all of you.
+dialog: The computer smiles.
+speaker_heading: RED QUEEN (contd)
+dialog: Its quite poetic really.
+text: SPENCE sits down on the cold floor.
+speaker_heading: SPENCE
+dialog: Oh my God.
+speaker_heading: RED QUEEN
+dialog: I was trying to keep them isolated, but I'm afraid you've changed all that.
+speaker_heading: TWELVE
+dialog: Why develop such a thing?
+speaker_heading: RED QUEEN
+dialog: To use as a weapon of course. Imagine it an enemy nation infected with T3. The idea of having your own mother and father rise up out of the grave against you. To be attacked by your own flesh and blood. The psychological impact alone would be devastating.
+dialog: J.D.
+dialog: If theyre a weapon, you must be able to control them.
+speaker_heading: RED QUEEN
+text: When the enemy surrenders, the infected area would be sprayed with an anti-toxin, T-4.
+dialog: 62
+speaker_heading: CONTINUED:(4)
+speaker_heading: TWELVE
+dialog: And that would kill them?
+speaker_heading: RED QUEEN
+text: It would prevent further transmission. The remaining undead would have to be dispatched individually. Severing the top of the spinal column or massive trauma to the brain are the most effective methods.
+speaker_heading: SPENCE
+dialog: We are so fucked.
+dialog: J.D.
+dialog: You said that already.
+speaker_heading: SPENCE
+dialog: Well now I really mean it.
+speaker_heading: INT. OFFICE
+text: ALICE and MATT pick their way cautiously through the devastation.
+speaker_heading: ALICE
+dialog: What were you looking for back there?
+speaker_heading: MATT
+dialog: Evidence.
+speaker_heading: ALICE
+dialog: Of what? You saw the kind of horrors they had in that specimen room. Well thats just the tip of the iceberg.
+speaker_heading: ALICE
+dialog: How could they do all of this without someone knowing?
+speaker_heading: MATT
+dialog: Like who?
+speaker_heading: ALICE
+dialog: The government.
+speaker_heading: MATT
+dialog: (laughs)
+dialog: Of course the government knows.
+speaker_heading: (MORE)
+dialog: 63
+speaker_heading: CONTINUED:
+speaker_heading: MATT (contd)
+text: Just like they know about the genetically modified meat in your burgers, the D.N.A. enhanced corn in your taco shells. They know about all this shit. They just dont get involved. They leave it to companies like Umbrella. Buy the end product if it works out, deny all responsibility if it doesnt. We wanted concrete evidence for the press. We were going to smuggle out a sample of their new viral weapon.
+speaker_heading: ALICE
+dialog: And?
+speaker_heading: MATT
+dialog: (looks around)
+dialog: We didnt cause this if thats what you mean?
+speaker_heading: ALICE
+dialog: (accusingly)
+dialog: Then who did?
+speaker_heading: MATT
+dialog: My sister had a contact within the Hive. Someone I never met. They were supposed to help us get samples of the T-virus. think they double crossed us instead.
+speaker_heading: ALICE
+dialog: Why?
+speaker_heading: MATT
+dialog: On the open market, who knows what something like that would be worth?
+speaker_heading: ALICE
+dialog: (looks at the horror all around)
+dialog: Worth all this?
+speaker_heading: MATT
+dialog: To someone.
+speaker_heading: INT. CONTROL ROOM
+text: TWELVE continues his interrogation of the Red Queen.
+speaker_heading: TWELVE
+dialog: Why kill everyone in the Hive?
+dialog: 64
+speaker_heading: CONTINUED:
+speaker_heading: RED QUEEN
+dialog: Because there was a leak. T3 escaped an unplanned pattern of infection began. Once the virus was loose, I couldnt allow anyone to leave the Hive. So I took the appropriate action.
+speaker_heading: SPENCE
+dialog: You butchered them.
+speaker_heading: RED QUEEN
+dialog: If one infected human had escaped from the Hive...
+text: A green holographic projection springs up in front of the Box. Its a map of the USA. A tiny pin prick of red appears in the map.
+speaker_heading: RED QUEEN (contd)
+dialog: ...the infection would have spread to cover the United States within 13 days.
+text: The pin prick grows rapidly until it becomes a tide of red which sweeps dramatically across the map.
+speaker_heading: RED QUEEN (contd)
+dialog: Canada and South America in 27 days...
+text: The map expands until eventually it becomes an entire globe. And the faster the map grows, the faster the red tide flows.
+speaker_heading: RED QUEEN (contd)
+dialog: ...worldwide infection in less than two months.
+text: The holographic globe, now submerged beneath a blood red sea, flickers and disappears.
+speaker_heading: RED QUEEN (contd)
+dialog: So I took steps.
+speaker_heading: SPENCE
+dialog: Steps
+text: The group are stunned. Silenced by the enormity of their situation.
+speaker_heading: RED QUEEN
+dialog: If I might make a suggestion. You have sufficient ammunition. One bullet apiece to the spinal column should suffice.
+dialog: 65
+speaker_heading: CONTINUED:(2)
+dialog: J.D.
+dialog: What are you saying?
+speaker_heading: RED QUEEN
+dialog: Merely that I think suicide would be preferable to what awaits you.
+speaker_heading: SPENCE
+dialog: But were not infected.
+speaker_heading: RED QUEEN
+dialog: Just one bite, one scratch from these creatures will infect you. You could live a long and happy life, but when you die...you become one of them.
+text: J.D. looks down at his bloody hand.
+speaker_heading: RED QUEEN (contd)
+text: This facility housed five hundred technicians and support staff. Five hundred against five. Odds of a hundred to one.
+speaker_heading: TWELVE
+dialog: We can do the math.
+speaker_heading: RED QUEEN
+dialog: Logic dictates that you wont leave here alive.
+dialog: J.D.
+dialog: (angry)
+dialog: Fuck logic!
+text: The computer smiles at the irony.
+speaker_heading: RED QUEEN
+dialog: Easy for you to say.
+speaker_heading: TWELVE
+dialog: Listen to me .... were getting out of here and you're going to help us.
+speaker_heading: RED QUEEN
+dialog: If you insist. But those of you who become infected... I cant allow you to leave.
+speaker_heading: TWELVE
+dialog: (angry)
+dialog: Understood!
+dialog: 66
+speaker_heading: CONTINUED:(3)
+text: He switches off the Red Queen. The holograph flickers and dies.
+speaker_heading: SPENCE
+dialog: What did she mean?
+speaker_heading: TWELVE
+dialog: What?
+speaker_heading: SPENCE
+dialog: Those of you who become infected...I can't allow you to leave."
+dialog: J.D.
+dialog: Who cares. As soon as we get near the surface, we're closing that bitch down.
+dialog: (shoots Twelve a look)
+dialog: Permanently.
+scene_heading: INT. CONNECTING CORRIDOR
+text: MATT and ALICE advance through the gloom. Every shadow hides a potential horror.
+speaker_heading: ALICE
+dialog: I swear weve been here before.
+text: They stop at a four way junction.
+speaker_heading: ALICE (contd)
+dialog: This place is a labyrinth.
+speaker_heading: NATT
+dialog: I hope not. Every good labyrinth has a monster at its heart.
+dialog: (Alice stares-at him)
+dialog: Didnt they teach you about the Minotaur at school?
+speaker_heading: ALICE
+dialog: How would I know?
+speaker_heading: MATT
+dialog: Sorry. How is the memory?
+speaker_heading: ALICE
+dialog: I remember some things, training, basic instinctual stuff, but not others. still cant even remember my name.
+dialog: (shrugs)
+dialog: Stress seems to bring things back.
+dialog: 67
+speaker_heading: CONTINUED:
+speaker_heading: MATT
+dialog: (glances round the creepy corridor)
+dialog: Stress huh?
+speaker_heading: ALICE
+dialog: Quiet!
+text: She suddenly halts. Senses something up ahead.
+speaker_heading: ALICE (contd)
+dialog: Theres something moving behind that door.
+speaker_heading: MATT
+dialog: (whispered)
+dialog: How do you know?
+text: ALICE eases the safety off her gun.
+speaker_heading: ALICE
+dialog: I know.
+text: MATT and ALICE take position beside the door. She gets ready to kick it in.
+speaker_heading: ALICE (contd)
+dialog: On three.
+dialog: Palms are sweaty.
+speaker_heading: ALICE (contd)
+dialog: One ....
+dialog: Trigger fingers itchy.
+speaker_heading: ALICE (contd)
+dialog: .... Two ....
+dialog: THE DOOR BURSTS OPEN! To reveal ....
+speaker_heading: TWELVE
+dialog: Dont shoot! Dont shoot! Its us.
+text: Its hard to tell whos more shocked. ALICE and MATT, or TWELVE and the others. Maybe just the audience.
+dialog: Both groups lower their guns.
+text: From behind SPENCE walks a little girl dressed in red. She smiles at ALICE.
+dialog: 68
+speaker_heading: CONTINUED:(2)
+speaker_heading: ALICE
+dialog: Whos your friend?
+speaker_heading: CUT TO:
+speaker_heading: CLOSE ON THE BOX
+text: as a holographic floor plan appears above the Box.
+speaker_heading: RED QUEEN
+dialog: The Hive.
+text: In 3D the underground complex bears an uncanny resemblance to a spiral of D.N.A.
+speaker_heading: TWELVE
+dialog: Where are we?
+speaker_heading: RED QUEEN
+dialog: The red dots.
+text: Five tiny red figures at the base of THE HIVE.
+speaker_heading: SPENCE
+dialog: Right at the bottom...of course.
+speaker_heading: RED QUEEN
+dialog: For maximum efficiency I would suggest the following route.
+text: She highlights a way through the holographic maze.
+speaker_heading: RED QUEEN (contd)
+dialog: Through the storage units on this level, to an access tunnel here. That will get you close to the surface. Then youll only have to cut through the medical labs and youll be back at the loading platform.
+speaker_heading: TWELVE
+dialog: Sounds simple.
+text: J.D. chambers a round with a loud metallic snap.
+dialog: J.D.
+dialog: Sure.
+speaker_heading: ALICE
+dialog: What about those things?
+dialog: 69
+speaker_heading: CONTINUED:
+speaker_heading: TWELVE
+dialog: The Queen has sensors throughout the Hive she can tell us where they are.
+speaker_heading: RED QUEEN
+dialog: Im afraid not. My primary sensors are thermal. Because the creatures are dead, their body temperature is negligible. To me theyre virtually invisible.
+speaker_heading: SPENCE
+dialog: Great.
+speaker_heading: TWELVE
+dialog: What about your motion sensors?
+speaker_heading: RED QUEEN
+dialog: Inoperative.
+speaker_heading: TWELVE
+dialog: Why?
+speaker_heading: RED QUEEN
+dialog: In case it had escaped your notice, so far today Ive been attacked by a supercomputer, had the majority of my files corrupted and then scarcely thirty minutes ago, you yourself fired a uranium tipped shell clean through my main frame. Its been...stressful. So pardon me if Im not functioning at full capacity.
+dialog: J.D.
+dialog: (impatient)
+dialog: Thats enough .... lets get moving.
+speaker_heading: ALICE
+dialog: Wait.
+speaker_heading: MATT
+dialog: What is it?
+text: ALICE points to the five tiny red figures in the maze.
+speaker_heading: ALICE
+dialog: There we are. One, two, three, four, five.
+speaker_heading: MATT
+dialog: So?
+speaker_heading: ALICE
+dialog: So whos that?
+dialog: 70
+speaker_heading: CONTINUED:(2)
+text: In the centre of the maze, another red dot.
+speaker_heading: RED QUEEN
+text: the heat signature indicates a human male six feet two, 120 pounds.
+speaker_heading: MATT
+dialog: Scrawny guy.
+text: They stare at the softly pulsing heat signature. It gives nothing away. For now we will call him the STRANGER.
+speaker_heading: ALICE
+dialog: How did he survive?
+dialog: The Red Queen seems genuinely surprised.
+speaker_heading: RED QUEEN
+dialog: I cant say. My termination methods were very methodical.
+text: She realizes everyone is staring at her.
+speaker_heading: RED QUEEN (contd)
+dialog: Sorry.
+text: ALICE looks at the map again. The pulsing red dot of the Stranger.
+speaker_heading: ALICE
+dialog: We should help him.
+speaker_heading: SPENCE
+dialog: Forget it! Hes miles away.
+dialog: ALICE looks to MATT for support.
+speaker_heading: MATT
+dialog: I dont know. We make a detour like that we may never get out.
+speaker_heading: SPENCE
+dialog: Besides, hes doing fine by himself. He doesn't need our help.
+speaker_heading: INT. ACCESS TUNNEL
+text: A wide access tunnel over a mile in length. The HIVE really is vast. As they march, J.D. takes a pack from his belt and tosses it to ALICE.
+dialog: J.D.
+dialog: Take one, pass the rest around.
+dialog: 71
+speaker_heading: CONTINUED:
+text: She opens up the pack. Inside are a variety of krations. She tosses a bar to each of the others. MATT looks at the protein bar.
+speaker_heading: MATT
+dialog: I cant eat this.
+speaker_heading: ALICE
+dialog: I dont feel like eating either, but you have to keep your strength up.
+speaker_heading: MATT
+dialog: No, I mean I cant eat it. It has animal fat in it. I'm vergetarian.
+dialog: J.D.
+dialog: Do you believe this guy.
+text: He looks at MATT in disbelief.
+speaker_heading: J.D. (contd)
+dialog: The shit were in and he doesnt want to hurt the little animals!
+text: ALICE ignores J.D. She tosses MATT a different bar.
+speaker_heading: ALICE
+dialog: Try this.
+speaker_heading: SPENCE (O.S.)
+dialog: Look .... look what I found. Our marching days are done.
+speaker_heading: SPENCE (contd)
+dialog: Now we ride in style.
+speaker_heading: CUT TO:
+speaker_heading: ON BOARD THE CART
+text: SPENCE is at the wheel, J.D. riding shotgun. Mice, TWELVE and MATT jammed in the back. The walls of the tunnel race by. Above them a network of pipes and cables hang from the ceiling.
+text: SPENCE drives gleefully. A handful of undead are spread out sporadically along the corridor. He swerves to hit one of them. Sends it flying.
+dialog: 72
+speaker_heading: CONTINUED:
+speaker_heading: SPENCE
+dialog: (laughs)
+dialog: I always wanted to drive one of these. I just couldnt stand the idea of golf.
+text: The Roadkill Undead tries to get to its feet. J.D. shoots it in the head as they race past.
+dialog: J.D.
+dialog: Fore!
+text: One of the undead manages to catch a hold of the side of the cart. He is immediately jerked off his feet and dragged along the ground. J.D. looks down at the hapless creature bumping along beside the cart.
+speaker_heading: J.D. (contd)
+dialog: No riding ....
+text: He waits until he has the UNDEAD'S attention. The monster stares up at J.D. with hungry eyes.
+speaker_heading: J.D. (contd)
+dialog: .... no riding. Without a ticket.
+text: J.D. shoots him point blank in the hand. The UNDEAD'S fingers lose their grip and he slips away. The carts back wheels bump as they run over his body.
+text: The tunnel veers sharply to the left. SPENCE takes the 90 degree turn at high speed. He almost has the cart up on two wheels.
+speaker_heading: SPENCE
+dialog: (enjoying every second)
+dialog: Yeeeha!
+speaker_heading: MATT
+dialog: (to Alice)
+dialog: How long is this tunnel anyway?
+text: ALICE takes out the Box and the Red Queen flickers into life.
+speaker_heading: RED QUEEN
+dialog: Enjoying the ride?
+speaker_heading: MATT
+dialog: We need to see the map again.
+text: The holographic map of the hive appears above the Box.
+dialog: 73
+speaker_heading: CONTINUED:(2)
+speaker_heading: ALICE
+dialog: Youre nearing the end of the tunnel. Round the next corner and youll be there.
+speaker_heading: MATT
+dialog: Look ....
+text: The red dot of the Stranger is also moving through THE HIVE, headed up.
+speaker_heading: MATT (contd)
+dialog: .... whoever it is, theyre headed for the surface too.
+text: SPENCE glances over his shoulder at the map.
+speaker_heading: SPENCE
+dialog: See .... told you he didnt need our help.
+speaker_heading: ALICE
+dialog: Eyes on the road!
+text: SPENCE goes back to his driving.
+speaker_heading: MATT
+dialog: Wait a moment.
+dialog: (troubled)
+dialog: Somethings not right here.
+text: He studies the holographic map.
+speaker_heading: MATT (contd)
+dialog: Wasnt there more of the Hive?
+speaker_heading: RED QUEEN
+dialog: What?
+speaker_heading: TWELVE
+dialog: Hes right .... the map was bigger last time.
+speaker_heading: RED QUEEN
+dialog: (petulant)
+dialog: Perhaps.
+text: As we look closer, we can see the jagged edges of the holographic map, as though part of it has just been torn off. In fact it is disintegrating before our eyes.
+dialog: 74
+speaker_heading: CONTINUED:(3)
+speaker_heading: RED QUEEN (contd)
+dialog: I cant be expected to temember everything.
+text: MATT is about to question the Queen further when SPENCE takes another corner at high speed. The cart skids around the turn and SLAMS INTO A CROWD OF UNDEAD. DOZENS OF THEM!
+text: Theyre everywhere. Too many to avoid. SPENCE hauls the wheel to the left, but its way too late, and theyre going way too fast. The cart hits the crowd sending bodies flying.
+text: The cart topples and overturns.
+text: MATT is the first to his feet. What he sees is a disaster. J.D. is pinned beneath the cart, unable to move. ALICE lies with her back to the tunnel wall, concussed and unmoving. SPENCE and TWELVE sit a few feet away, dazed.
+dialog: The undead are everywhere.
+speaker_heading: MATT
+dialog: Get to your feet!
+text: He grabs TWELVE and hauls him up.
+speaker_heading: MATT (contd)
+dialog: Get up or were all dead.
+text: The undead are closing in on J.D. Easy meat. He sees them coming and begins to panic.
+dialog: J.D.
+dialog: I cant move!
+text: His gun is lying on the ground. Just out of reach.
+speaker_heading: J.D. (contd)
+dialog: Help me!
+text: MATT reaches for a gun, but hes lost his weaponry in the crash. He takes a .45 from SPENCE'S belt. Hes still concussed. Doesnt need it.
+speaker_heading: J.D. (contd)
+dialog: Keep them away from me!
+text: One of the undead drops to his knees and prepares to take a bite out of J.D.
+speaker_heading: J.D. (contd)
+dialog: (screams)
+dialog: Fucker!
+dialog: 75
+speaker_heading: CONTINUED:(4)
+text: MATT fires. The undead collapses on top of J.D.
+speaker_heading: J.D. (contd)
+dialog: Get him off me .... get him off me!
+text: MATT and TWELVE race to his assistance, firing as they go. SPENCE hobbles along behind. Theyre just about managing to keep the undead at bay.
+speaker_heading: J.D. (contd)
+dialog: My leg .... its trapped under the cart.
+text: MATT and TWELVE put their backs against the overturned cart. SPENCE helps as best he can.
+speaker_heading: TWELVE
+dialog: (to Spence)
+dialog: Nice driving.
+speaker_heading: MATT
+dialog: One ....two ....heave!
+text: The cart moves a little, but then rocks back onto J.D.s leg. He screams in pain.
+speaker_heading: MATT (contd)
+dialog: Again. One .... two .... heave!
+text: The cart moves a little more. Still not enough.
+dialog: J.D.
+dialog: (in agony)
+dialog: For Christs sake!
+speaker_heading: MATT
+dialog: This time .... this time well get it.
+text: He nods to SPENCE and TWELVE. The undead are closing in.
+speaker_heading: MATT (contd)
+dialog: Ready?
+dialog: They nod back.
+speaker_heading: MATT (contd)
+dialog: One ....two .... HEAVE!
+text: The cart crashes back onto its wheels. J.D. is free.
+speaker_heading: TWELVE
+dialog: Lets get out of here.
+dialog: 76
+speaker_heading: CONTINUED:(5)
+text: He jumps into the driving seat of the cart. In the time it has taken them to free J.D., they have become completely surrounded. A solid wall of undead, getting closer and closer.
+speaker_heading: CLOSE ON ALICE
+text: In all the confusion, everyone seems to have forgotten about her. She lies concussed, her back against the tunnel wall. Her eyes wide and staring, but seeing nothing. A group of undead have gathered around her.
+dialog: Shes dead meat.
+text: One of the undead drags his fingers through her hair.
+speaker_heading: BIG CLOSE UP ON ALICES EYES
+text: Suddenly THE CAMERA accelerates forward, racing past the cool blue of her iris and plunging deep within the dark well of her pupil.
+text: As THE CAMERA spirals through the darkness, we sense sudden flashes of color and sound. MEMORIES.
+speaker_heading: ALICES FLASHBACK:
+text: Blurred Imagery distorted voices. The logic of a dream.
+text: THE CAMERA lost in a dark, evil forest. The kind you see in fairy tales. But as we pull back, the forest is revealed to be a giant oil painting.
+text: In front of it stands a table. And on the table a foam lined carry case and a pair of gloves. We recognize them from the start of the movie.
+speaker_heading: UNSEEN VOICE
+dialog: I can help you get the virus. Access codes, security plans, the works.
+speaker_heading: LISA
+dialog: Good.
+text: THE CAMERA PANS to reveal who LISA is talking to. The Unseen Voice belongs to ALICE.
+speaker_heading: ALICE
+dialog: But theres going to be a price.
+text: She and LISA stand in front of a giant oil painting in the entrance hallway of Looking Glass House.
+dialog: 77
+speaker_heading: CONTINUED:
+speaker_heading: LISA
+dialog: Name it.
+speaker_heading: END ALICES FLASHBACK
+speaker_heading: SMASH CUT TO:
+speaker_heading: THE PRESENT
+speaker_heading: WIDE ON ALICE AND THE UNDEAD
+text: ALICE lying like a limp rag doll. A dozen figures crowded around her, like an angry lunch line jostling for position. One undead with his hands in her hair. Another with her fingers already in his mouth.
+text: Suddenly ALICE snaps back to life. Her eyes burning with a new found intensity. Her free hand comes up.
+speaker_heading: ALICE
+dialog: Get the fuck off me.
+text: With a startlingly professional movement, she snaps the neck of the Undead. Whatever skills have just returned, theyre lethal.
+speaker_heading: CLOSE ON THE GOLF CART
+dialog: The others are in trouble.
+speaker_heading: TWELVE
+dialog: It wont start.
+speaker_heading: MATT
+dialog: Try it again.
+speaker_heading: TWELVE
+dialog: I already did!
+text: The undead are everywhere. MATT, SPENCE and the bloodied J.D. keep firing, but nothing can hold back the tide.
+text: The slide on J.D.s automatic racks back and stays there. Hes out of ammo. J.D. struggles to load another clip, but his injured hand makes it difficult. He fumbles and drops the spare mag. He stoops to retrieve it, and when he looks back up, he stares straight into a familiar face.
+text: The undead that was dragged behind the cart! His clothes are ripped and torn and covered in dark oily blood.
+dialog: But hes back for J.D.
+dialog: 78
+speaker_heading: CONTINUED:
+dialog: J.D.
+dialog: Oh shit!
+text: J.D. struggles with the spare clip.
+speaker_heading: J.D. (contd)
+dialog: Get in! Get in!
+text: The Undead reaches for or J.D. He tries to fend it of f with his injured hand. But the Undead just grabs a hold of the bandages. With a smile on his face, he sinks his teeth into J.D.s already wounded hand. The pain is unbearable.
+speaker_heading: J.D. (contd)
+dialog: Aaaaaah!
+text: MATT turns, alerted by J.D.s scream. He shoots the Undead and J.D. pushes it off his hand.
+text: MATT looks around. A sea of undead faces. Its hopeless. Then suddenly a miracle. The dead sea parts as ALICE carves her way through it. She ducks, she kicks, she weaves, she rolls. And everywhere she goes, things die.
+speaker_heading: ALICE
+dialog: I got my memory back.
+speaker_heading: MATT
+dialog: In that case, what I said earlier .... I take it back. Whoever you are, I think were going to get along just fine.
+text: ALICE'S sudden arrival has thrown the undead into confusion, but it wont last long.
+speaker_heading: ALICE
+dialog: We cant stay here. Theres too many of them.
+dialog: ALICE looks around. They have to get out of here.
+speaker_heading: ALICE
+dialog: Above us!
+text: MATT looks up. He sees the network of pipes and cables hanging from the ceiling.
+dialog: 79
+speaker_heading: CONTINUED:(2)
+speaker_heading: ALICE (contd)
+dialog: Thats how were getting out.
+dialog: She turns to the others.
+speaker_heading: ALICE (contd)
+dialog: Everyone up on the cart.
+text: One by one they climb onto the broken roof of the golf cart. From there they can pull themselves up onto the overhanging pipes. There is an eighteen inch gap between the top of the pipes and the ceiling. Enough room to crawl along.
+text: Down below, the undead reach for them, but their outstretched fingers cant quite touch the pipes. Ear the moment, they are safe.
+text: Two of the undead try to climb onto the roof of the golf cart, but they dont have the coordination. The roof collapses, taking them with it.
+dialog: J.D.
+dialog: (laughs)
+dialog: You dumb fucks.
+text: He ties a fresh bandage around his hand. Theres blood everywhere. It drops down onto the undead below, driving them into a frenzy. Like sharks circling their prey.
+speaker_heading: J.D. (contd)
+dialog: You like that?
+text: He deliberately squeezes a few more drops onto their foreheads.
+speaker_heading: J.D. (contd)
+dialog: You like that huh?
+text: The undead begin to fight amongst themselves, pushing and jostling, desperate for a taste of blood.
+speaker_heading: J.D. (contd)
+dialog: You like how that tastes?
+text: They reach their hands out imploringly to J.D.
+speaker_heading: J.D. (contd)
+dialog: Well fuck you!
+speaker_heading: MATT
+dialog: Cool it man. No point in getting them all riled up.
+dialog: 80
+speaker_heading: CONTINUED:(3)
+dialog: J.D.
+dialog: (angry)
+dialog: What .... youre worried about their feelings? Im the one bleeding to death here.
+text: This is about to turn nasty, when ALICE interrupts.
+speaker_heading: ALICE
+dialog: Lets get going.
+text: She stares the two men down.
+speaker_heading: ALICE (contd)
+dialog: Thats if you gentlemen have quite finished.
+text: Everyone can see the change in her character. Shes icy cold. What no one else knows, is the reason why.
+dialog: She caused all this.
+speaker_heading: THE PIPES - LATER
+text: The team slowly work their way along the crawlspace. MATT is in the lead, followed by SPENCE and ALICE. J.D. then TWELVE bring up the rear.
+text: J.D. is very pale. Hes lost a lot of blood.
+dialog: J.D.
+dialog: I need to rest.
+text: He stops to catch his breath.
+speaker_heading: ALICE
+dialog: We have to keep moving.
+dialog: J.D.
+dialog: (still not moving)
+dialog: How much further?
+speaker_heading: ALICE
+dialog: From what I remember of the map, not far.
+dialog: J.D.
+dialog: Why dont you just switch on your little friend and ask her?
+text: ALICE shakes her head.
+dialog: 81
+speaker_heading: CONTINUED:
+speaker_heading: ALICE
+dialog: I dont want to use her unless we have to. Every time she seems to get less reliable.
+speaker_heading: MATT
+dialog: Shes definitely forgetting things.
+speaker_heading: ALICE
+dialog: Twelve?
+speaker_heading: TWELVE
+dialog: I dont know.
+dialog: (shrugs)
+dialog: Its possible her memory was damaged when we shut her down and transferred her to the box
+text: TWELVE is interrupted by an agonizing cry from below. A large crowd of undead have gathered beneath them. They seem more angry and aggressive than usual.
+text: ALICE glances at J.D.s wound.
+speaker_heading: ALICE
+dialog: They can smell the blood.
+text: A hundred undead fingers reach out towards the live meat above them. Just a few tantalizing inches away.
+speaker_heading: ALICE (contd)
+dialog: Lets get going.
+dialog: J.D.
+dialog: Why worry? They cant get to us.
+speaker_heading: ALICE
+dialog: I just want to get out of here.
+speaker_heading: THE PIPES  LATER
+text: They have almost reached the end of the tunnel.
+text: Below, the crowd of undead has become even larger and more unruly. As if they sense that they are about to lose their prey.
+text: ALICE points to something up ahead.
+speaker_heading: ALICE
+dialog: Thats the one we want.
+dialog: 82
+speaker_heading: CONTINUED:
+text: The network of pipes splits in two, one branch disappearing into a vent straight ahead, and a second smaller bundle of pipes veering off into a vent in the side wall.
+speaker_heading: MACE (contd)
+text: Straight ahead. Just another hundred feet.
+text: They pass the junction where the pipes split. Only another fifty feet to go. As before, MATT leads the way. S.D. and TWELVE bringing up the rear.
+text: Below, the undead are getting frantic.
+speaker_heading: CLOSE ON A SUPPORT BRACKET
+text: One of the metal brackets that hold the pipes to the ceiling. The bolts that fix the bracket to the rock are old and rusted. As MATT passes over this section, we see that one of the bolts is beginning to come loose.
+text: SPENCE is next. His body is heavier and the bolt begins to worm out of the rock. The whole support bracket is beginning to buckle.
+speaker_heading: MATT
+text: The pipes go into some kind of air shaft.
+text: A mesh screen covers the entrance to the air shaft. MATT uses a knife to pries it away from the rock.
+speaker_heading: MATT (contd)
+dialog: I think I can get the cover loose.
+text: The mesh screen pops off, a sharp edge cutting MATT'S hand.
+speaker_heading: MATT (contd)
+dialog: Damn!
+text: MATT lifts the screen away with his bloody hand and tosses it below. The undead scramble all over it. One sticks the mesh in his mouth to lick the traces of blood from it. The undead are working themselves into a frenzy.
+speaker_heading: CLOSE ON THE RUSTED BOLT
+text: As ALICE passes beneath it. The bolt is almost completely free of the rock. The whole bracket suddenly begins to sag.
+speaker_heading: ALICE
+dialog: What is that?
+dialog: 83
+speaker_heading: CONTINUED:(2)
+text: A harsh metallic Sound as the rusted bolt shoots free.
+speaker_heading: MATT
+dialog: The supports .... theyre coming loose!
+text: SPENCE and MATT are already safely in the air vent.
+speaker_heading: MATT (contd)
+dialog: Hurry! Youve got to get of f there.
+text: ALICE redoubles her efforts. J.D. and TWELVE are right behind her. But the faster they go, the greater the strain on the support brackets.
+text: BANG! BANG! BANG! Rusted metal bolts shoot free of the ceiling. Loud as gunshots.
+text: A whole length of piping comes free and sags towards the undead. Now suddenly TWELVE, J.D. and ALICE are within reach. Undead fingers reach around their arms, their legs, their throats.
+speaker_heading: ALICE
+dialog: (desperate)
+dialog: No!
+text: She struggles against them. MATT reaches out an arm to her, when CRASH! The whole section of piping finally gives way.
+speaker_heading: MATT
+dialog: Hold on!
+text: MATT braces himself and keeps a hold of ALICE. He drags her slowly, painfully into the air shaft and safety.
+dialog: But theres no one to help TWELVE and J.D.
+text: J.D. tumbles off the pipes and is dragged under by a sea of undead. His ME firing wildly as he is sucked down.
+dialog: J.D.
+dialog: (screaming)
+dialog: Fuck you! Fuck you!
+text: The undead rip at his flesh, bite into his limbs.
+text: But still he keeps fighting. Screaming and shooting.
+dialog: 84
+speaker_heading: CONTINUED:(3)
+text: Undead bodies are flung through the air by the force of the 2416. And when thats out of ammo, J.D. begins to blaze away with a .45 automatic, until finally the others can lift him to safety.
+speaker_heading: J.D. (contd)
+dialog: Aaaaaaaah!
+text: Hes safe, but badly mauled.
+speaker_heading: CLOSE ON TWELVE
+text: also in trouble, but near to a fallen section of piping. He begins to drag himself back up to safety, the undead literally hanging off him.
+speaker_heading: ALICE
+dialog: Keep them off him!
+text: ALICE and the others lay down a blanket of covering fire. His legs no longer work, but TWELVE pulls himself back towards the roof with sheer force of will.
+speaker_heading: ALICE (contd)
+dialog: Just keep them away from him!
+text: The others blaze away, keeping the tide of undead at bay. Just.
+speaker_heading: TWELVE
+dialog: Oh God ....
+text: TWELVE collapses at the top of the pipes. Hes back near the roof now, but separated from the others by a twenty foot section of fallen piping. It may as well be the Grand Canyon.
+dialog: The only way for him to go is back.
+speaker_heading: TWELVE
+dialog: I cant feel my legs.
+speaker_heading: ALICE
+dialog: Well get to you somehow.
+speaker_heading: TWELVE
+dialog: No.
+text: He shakes his head. Suddenly determined.
+speaker_heading: TWELVE (contd)
+dialog: You go.
+dialog: 85
+speaker_heading: CONTINUED:
+speaker_heading: ALICE
+dialog: Were not leaving you.
+speaker_heading: TWELVE
+dialog: Yes you are.
+text: Already the undead are climbing the fallen section of pipe.
+speaker_heading: TWELVE (contd)
+dialog: You cant kill them all.
+text: He looks down at his ravaged body.
+speaker_heading: TWELVE (contd)
+dialog: And Im not going anywhere.
+speaker_heading: ALICE
+dialog: Twelve ....
+text: There are tears in her eyes.
+speaker_heading: TWELVE
+dialog: I want you to go.
+text: She shakes her head.
+speaker_heading: TWELVE (cont)
+dialog: (Firm)
+dialog: Now!
+dialog: MATT takes ALICE by the arm. He knows what has to be done.
+speaker_heading: TWELVE (contd)
+dialog: (shouts)
+dialog: Just do it now .... Go!
+text: TWELVE watches his friends disappear into the gloom of the air vent.
+text: Below him, a pair of undead are climbing the fallen pipe. Their once crisp lab coats are streaked with dirt and blood. We recognize them as the scientists from the start of the movie. BLUE and GREEN.
+text: BLUE is leading the way. A hungry look in his eyes.
+speaker_heading: TWELVE (contd)
+dialog: Just you and me ugly.
+text: TWELVE checks his handgun. Just one shell left.
+speaker_heading: TWELVE (contd)
+dialog: Thats lucky.
+dialog: 86
+speaker_heading: CONTINUED:(2)
+text: BLUE is almost upon him. Undead hands reaching out. TWELVE puts the gun into his own mouth.
+text: He starts to breathe short, angry breaths. Hes keying himself up, getting ready to pull the trigger. To escape the horror.
+text: BLUE has his hands on TWELVE, his undead fingers covered in fresh blood.
+text: TWELVE closes his eyes. His finger tightens on the trigger.
+speaker_heading: INT. WIDE AIR VENT
+text: ALICE, MATT and SPENCE stop when they hear the single shot echo down the air shaft. They know what it means.
+text: ALICE hangs her head.
+text: Her tears glisten in the half light.
+scene_heading: INT. ACCESS TUNNEL  PIPES
+text: BLUE falls from the overhanging pipes, a fresh bullet hole bored neatly between his eyes.
+speaker_heading: TWELVE
+dialog: Fuck it!
+text: TWELVE holds the smoking gun in his hand. Still very much alive. He used the last bullet on the undead, not himself.
+speaker_heading: TWELVE (contd)
+dialog: Im not going out that easy.
+text: He looks at the undead climbing the pipe towards bin.
+speaker_heading: TWELVE (contd)
+dialog: (defiant)
+dialog: Youre going to have to work for your supper.
+text: Behind him, the network of pipes splits in two. One running back down the length of the access tunnel, the way they came. The other disappearing into a small air vent in the side wall.
+dialog: 87
+speaker_heading: INT. NARROW AIR SHAFT
+text: TWELVE pulls the mesh screen aside and drags himself into the vent. This is much narrower than the one the others escaped into.
+dialog: Tight, claustrophobic, terrifying.
+text: SPENCE begins to crawl away from the pipes. Every movement is agony. He leaves a trail of fresh blood behind him.
+speaker_heading: CLOSE ON GREEN
+text: As she enters the air shaft.
+scene_heading: INT. NARROW AIR SHAFT  VENTLATION FAN
+text: A large metal fan blocks TWELVE'S progress. Its sharp steel blades spin at high speed, forcing air down the shaft. Theres no way around it, and no way through it.
+speaker_heading: TWELVE
+dialog: Damn!
+text: TWELVE looks back down the shaft. Around the corner, he can see the shadow of GREEN. No way forward and no way back. Hes trapped.
+text: TWELVE fumbles through his utility belt. Finds his laptop. He glances at the spinning metal blades.
+speaker_heading: TWELVE (contd)
+dialog: Here goes.
+text: He tries to force the laptop between the blades. The blades spark and begin to chop away at the computer. He pushes harder. Shreds of plastic and microchip and flung back at him. TWELVE pushes harder still.
+text: And suddenly the fan stops. The laptop has lodged between the blades, jamming the mechanism.
+text: TWELVE glances at the mangled remains of his computer. The most expensive door stop ever.
+speaker_heading: TWELVE (contd)
+dialog: Thank you Bill Gates.
+text: Behind him, GREEN makes a noise. Excited. She smells fresh meat.
+text: TWELVE begins to drag himself between the sharp metal blades of the fan. GREEN is right on his tail.
+dialog: 88
+speaker_heading: CONTINUED:
+text: Her fingers reach for his legs. TWELVE pulls himself faster. In his haste, he dislodges the laptop slightly. The steel blades move a fraction. The laptop groans under the strain. Its going to be crushed at any moment.
+text: TWELVE is clear of the blades. GREEN follows him. The laptop splinters and begins to crack.
+text: GREEN is half way through the blades.
+dialog: CRACK! The laptop is split clean in two.
+text: The blades spin back to life, slicing neatly through GREEN. Her legs are suddenly no longer attached to her body.
+speaker_heading: TWELVE (contd)
+dialog: (laughs)
+dialog: Yes!
+text: GREEN looks down at her legs, and then back up at TWELVE. She drags her torso towards him. Oblivious to anything but the fresh meat up ahead.
+speaker_heading: TWELVE (contd)
+dialog: Oh shit!
+text: TWELVE begins to haul himself away. But his progress is blocked. The air shaft takes a sharp 90 degree turn. STRAIGHT DOWN. Theres no way to climb down there, and no end in sight. The shaft seems to drop forever.
+text: GREEN growls. A Low animal noise. She senses that she has her prey trapped.
+text: TWELVE fumbles in his utility belt again. His hands finds a grenade. Its slick with blood. His own.
+text: He glances back at GREEN. The legless monstrosity is still coming forward. An unearthly light in her green eyes.
+speaker_heading: TWELVE (contd)
+dialog: Screw you.
+text: TWELVE throws the grenade back at GREEN. It bounces and rolls, then hits her squarely in the forehead. GREEN stops. Picks up the grenade. Smells it. Smells the blood. Then begins to lick hungrily at it. She tries to force it in her mouth and
+speaker_heading: THE GRENADE EXPLODES
+text: GREEN is vaporized. But TWELVE has no time for celebration. The explosion races up the confines of the air shaft.
+dialog: 89
+speaker_heading: CONTINUED:(2)
+text: The blast hits him like a tidal wave. Searing his flesh and flinging him backwards. He is hurled against the far wall of the shaft and then drops like a stone.
+dialog: Into the depths.
+speaker_heading: INT. HALLWAY
+text: A deserted hallway. Nothing moves, but still we hear something. A low scratching noise. Like rats running behind the wall.
+text: Without warning, there is the muffled burst of automatic gunfire and a section of the roof collapses. Pipes and plaster fall to the floor, followed by MATT and ALICE. SPENCE brings up the rear, propping up a near dead J.D.
+text: ALICE looks around, getting her bearings.
+speaker_heading: ALICE
+dialog: Follow me. Not far to go now.
+scene_heading: INT. CORRIDOR OUTSIDE THE LAB
+text: The three survivors pass the lab where we had first met GREEN, BROWN and BLUE. ALICE points ahead.
+speaker_heading: ALICE
+dialog: This way to the entrance. Were almost there.
+speaker_heading: MATT
+dialog: Wait. I know where we are.
+text: MATT stops. Stares through the glass window into the lab.
+speaker_heading: MATT
+dialog: This is where they kept the Tvirus.
+speaker_heading: ALICE
+dialog: (impatient)
+dialog: So?
+speaker_heading: MATT
+dialog: So .... we have to find it. Its evidence. Of what they were doing down here
+speaker_heading: ALICE
+dialog: No way. We should keep going. Get to the surface.
+dialog: 90
+speaker_heading: CONTINUED:
+dialog: MATT cant understand her reluctance. But how could he? How could anyone else know she is implicated?
+speaker_heading: HARD CUT TO:
+speaker_heading: INT. LAB
+text: The same lab we had seen at the start of the movie. But now the place is a mess. ALICE looks around, uneasy.
+speaker_heading: ALICE
+dialog: This is a mistake.
+text: MATT places The Box on a lab table. The Red Queen flickers back to life. But now her image seems faint, Strangely distorted. Something is wrong.
+speaker_heading: MATT
+dialog: You okay?
+speaker_heading: SPENCE
+dialog: Shes just a computer .... who cares how she feels.
+speaker_heading: RED QUEEN
+dialog: Unexpected power drain.
+text: Half of her face freezes for a moment, making it seem as if she has had a stroke, Its a weird, unsettling image.
+speaker_heading: SPENCE
+dialog: Lets just get on with it.
+speaker_heading: MATT
+dialog: we need to know where the T-virus is stored.
+speaker_heading: RED QUEEN
+dialog: Both the T-3 and T-4 antidote are kept at 27.4 degrees Fahrenheit in the freezer behind you.
+dialog: (hesitates)
+dialog: No wait. 24.7 degrees, yes, yes, thats it. 24.7 degrees.
+text: The computers memory is clearly fading fast.
+speaker_heading: CLOSE ON FREEZER
+text: as MATT opens the door. Inside are two racks, one marked T-3, the other T4. Both racks are empty.
+dialog: 91
+speaker_heading: CONTINUED:
+speaker_heading: MATT
+dialog: I dont understand.
+text: We realize that we have seen this all before. At the start of the movie, when the gloved hands were emptying the freezer.
+speaker_heading: MATT (contd)
+dialog: Its gone ....
+text: BIG CLOSE UP ON SPENCES EYES
+text: Suddenly THE CAMERA accelerates forward, racing past the iris and plunging deep within the dark well of his pupil.
+text: As THE CAMERA spirals through the darkness, we sense sudden flashes of color and sound. MEMORIES.
+speaker_heading: SPENCES FLASHBACK:
+text: Blurred imagery, distorted voices. The logic of a dream.
+text: THE CAMERA lost in a dark, evil forest. The kind you see in fairy tales. But as we pull back, the forest is revealed to be a giant oil painting.
+text: In front of it stands a table. And on the table a foam lined carry case and a pair of gloves. We recognize them from the start of the movie.
+speaker_heading: UNSEEN VOICE
+dialog: I can help you get the virus. Access codes, security plans, the works.
+speaker_heading: LISA
+dialog: Good.
+text: THE CAMERA PANS to reveal who LISA is talking to. The Unseen Voice belongs to ALICE.
+speaker_heading: ALICE
+dialog: .... but theres going to be a price.
+text: She and LISA stand in front of a giant oil painting in the entrance hallway of Looking Glass house
+speaker_heading: LISA
+dialog: Name it.
+speaker_heading: ALICE
+dialog: You have to guarantee me .... youll bring the Corporation down.
+dialog: 92
+speaker_heading: CONTINUED:
+text: THE CAMERA TRACKS BACK at warp speed, to reveal SPENCE. Standing at a distance. Unseen. Listening.
+scene_heading: THE IMAGE SUDDENLY DISTORTS, MORPHING INTO:
+scene_heading: INT. MANSION  ALICES BEDROOM DAWN.
+text: SPENCE looks down on ALICE, still asleep in bed. He finishes writing out a note and then places it by her sleeping form - TODAY ALL YOUR DREAMS COME TRUE
+speaker_heading: CLOSE ON GLASS VIALS
+text: being lifted from the lab refrigerator. Gloved bands slip them into a foam lined carry case. The vials are delicate. Filled with a cool blue liquid.
+text: The hands move quickly. Urgently. A repeat of the first image we saw in the movie. Only now we PULL BACK to reveal that the gloved bands belong to SPENCE. He is standing in the lab as it used to be. Clean, pristine. Before the horror.
+speaker_heading: CLOSE ON GLASS VIALS
+text: as the last one is lifted from the refrigerator. But in his haste, SPENCE lets the vial slip. The delicate glass tube tumbles end over end. And crashes to the floor.
+speaker_heading: CLOSE ON THE FLOOR
+text: covered in shards of glass and blue liquid.
+speaker_heading: CLOSE ON SPENCE
+text: looking down at the floor in horror.
+speaker_heading: END OF FLASHBACK:
+speaker_heading: CLOSE ON SPENCE
+text: His eyes filled with the sudden realization of what he has done. He caused everything.
+speaker_heading: ALICE (V.0.)
+dialog: Spence?
+text: PULL BACK to reveal that SPENCE holds a gun in his hand.
+dialog: 93
+speaker_heading: CONTINUED:
+speaker_heading: ALICE (contd)
+dialog: (confused)
+dialog: Spence?
+text: The gun is pointed at the others.
+speaker_heading: ALICE (contd)
+dialog: What are you doing?
+speaker_heading: SPENCE
+dialog: Finishing what I started.
+speaker_heading: ALICE
+dialog: What do you mean?
+speaker_heading: SPENCE
+dialog: I stole your idea.
+dialog: (to Matt)
+dialog: Drop the gun.
+dialog: MATT does as hes told.
+speaker_heading: SPENCE (contd)
+dialog: On the floor. Now kick it over to me.
+speaker_heading: MATT
+dialog: You caused all this, didnt you?
+speaker_heading: SPENCE
+dialog: Shut up.
+dialog: (to Alice)
+dialog: It should have been so simple.
+speaker_heading: ALICE
+dialog: Why? Why do it?
+speaker_heading: MATT
+dialog: For money.
+speaker_heading: SPENCE
+dialog: Yes .... a lot of it.
+text: He reaches behind a shelving unit. Jammed back there is the carry case containing the T-3 virus and its antidote T-4. Exactly where he had hidden it.
+speaker_heading: SPENCE (contd)
+dialog: What do you know? I knew where it was all the time.
+dialog: (smiles)
+dialog: I just didnt remember.
+dialog: 94
+speaker_heading: CONTINUED:(2)
+speaker_heading: NATT
+dialog: So whos paying you?
+speaker_heading: SPENCE
+dialog: Does it matter? All that matters is the money.
+dialog: (to Alice)
+dialog: It can still work out.
+speaker_heading: ALICE
+dialog: What are you talking about?
+text: She casts her eyes around the room. All the death. All the horror.
+speaker_heading: ALICE (contd)
+dialog: Look around you Spence. Theres hundreds of people dead.
+speaker_heading: SPENCE
+dialog: It was an accident. That was never supposed to happen. The moneys out there waiting. You wont believe how much. We can just disappear.
+text: He looks imploringly at ALICE.
+speaker_heading: SPENCE (contd)
+dialog: In or out?
+dialog: No reply.
+speaker_heading: SPENCE (contd)
+dialog: (harder)
+dialog: In or out?
+text: ALICE shakes her head.
+speaker_heading: SPENCE (Contd)
+dialog: You cant be serious. Youd rather stay down here .... with him?
+text: ALICE just stares coldly at SPENCE.
+speaker_heading: SPENCE (contd)
+dialog: Alright. If thats what you want. hope you and your new boyfriend are very happy.
+text: SPENCE backs away, to the lab doors. Hes carrying everyones guns.
+dialog: 95
+speaker_heading: CONTINUED: (3)
+speaker_heading: SPENCE (contd)
+dialog: But if you ask me .... I dont think its going to last.
+text: SPENCE steps through the doors. They close behind him.
+text: MATT makes to follow. We hear the deadened sound of automatic gunfire through the steel doors. SPENCE can be seen through the thick glass window as he heads off down the corridor -
+speaker_heading: MATT
+dialog: Damn it!
+text: MATT struggles with the door, but it wont budge.
+speaker_heading: MATT (contd)
+dialog: He shot out the mechanism. Were never going to get this thing open.
+speaker_heading: RED QUEEN (0.S.)
+dialog: I wouldnt worry about your friend.
+speaker_heading: ALICE
+dialog: What do you mean?
+speaker_heading: CLOSE ON THE QUEEN 
+speaker_heading: RED QUEEN
+dialog: Ive been a bad, bad girl.
+scene_heading: INT. GLOOMY CORRIDOR
+text: SPENCE hurries down the corridor. Up ahead he can see the main entrance to THE HIVE. Beyond it the cavern and the elevator platform.
+dialog: Hes home free.
+speaker_heading: INT. LAB
+text: Red Queen brings up the holographic floor plan. We see SPENCE'S heat signature moving towards the exit. But another signature is closing in on him. The Stranger.
+speaker_heading: RED QUEEN
+dialog: Look. Its got his scent already.
+speaker_heading: ALICE
+dialog: It?
+dialog: 96
+scene_heading: INT. UNDERGROUND CAVERN
+text: SPENCE leaves THE HIVE and crosses the cavern. He passes by the underground river and the spot where they had first discovered him hours earlier.
+text: He reaches the platform and busies himself with the controls. Ready to return to the mansion and safety.
+speaker_heading: INT. LAB
+text: On the holographic map, the two heat signatures meet. And merge.
+scene_heading: INT. UNDERGROUND CAVERN
+text: The elevator platform comes to life. The hydraulics start to power up. Blood drips into a pool at SPENCE'S feet.
+speaker_heading: SPENCE
+dialog: What ....
+text: SPENCE looks up to the ceiling. Hanging there is The Stranger. But its not the 120 pound male the Red Queen had described. Instead it is THE CREATURE that ALICE had found so unnerving in the Specimen Room.
+dialog: 300 pounds of pure evil.
+text: Four claw like talons dig into the rock face, holding it in place. Its long fleshy tongue uncoils, snaking down towards its prey. We see the razor sharp barbs that cover the tongues grotesque length.
+speaker_heading: SPENCE (contd)
+dialog: Fuck me ....
+text: As if to oblige, THE CREATURE drops from the ceiling. Its tongue lashes out, the razor barbs tearing SPENCE'S clothes and gouging into the flesh beneath.
+text: SPENCE'S screams are cut short as THE CREATURE leaps forward and begins to devour hint whole.
+text: SPENCE goes into shock and passes out.
+text: Then suddenly, without warning, THE CREATURE dashes forward. Lightning fast. STRAIGHT INTO CAMERA.
+dialog: In search of new prey.
+dialog: 97
+speaker_heading: INT. LAB
+text: ALICE, J.D. and MATT listen as the Red Queen casually fills them in on their executioner.
+speaker_heading: RED QUEEN
+dialog: (mid sentence)
+dialog: .... a bio-mechanical weapon of the highest order. It was one of the earlier experiments produced by the Hive, using the same genetic material as the tvirus. You released it accidentally in the specimen room.
+speaker_heading: ALICE
+dialog: But it was dead .... I saw it.
+speaker_heading: RED QUEEN
+dialog: In stasis.
+speaker_heading: MATT
+dialog: If you knew what it was, why didnt you
+dialog: The Red Queen doesnt reply.
+dialog: J.D.
+dialog: Because she was saving it .... for us. Isn't that right?
+speaker_heading: RED QUEEN
+dialog: (embarrassed)
+dialog: I didnt think any of you would make it this far .... .Not without infection.
+dialog: J.D.
+dialog: You were going to let that thing finish us off.
+text: BAM! A sudden noise SCARES THE SHIT out of them.
+text: THE CREATURE is right there at the window.
+speaker_heading: MATT
+dialog: The fuckers got no eyes.
+text: THE CREATURE moves to the cluster of small holes that BROWN had punched in the glass with his fire axe. The tip of its grotesque long tongue snakes through one of the narrow holes. It sways back and forth.
+dialog: 98
+speaker_heading: CONTINUED:
+speaker_heading: ALICE
+dialog: (whispered)
+dialog: Its sensing the air. It can smell us.
+text: THE CREATURE withdraws its tongue, then backs away from the glass.
+speaker_heading: MATT
+dialog: Whats it doing?
+text: Suddenly THE CREATURE races at them. Hurling its whole body weight against the window. The glass quivers, but holds.
+dialog: J.D.
+dialog: Its not getting through there. That glass is bullet proof.
+text: THE CREATURE tries again. Hurling itself even harder at the window. And again it is repulsed.
+text: But small spider web cracks have begun to appear in the glass.
+speaker_heading: EXT. HALLWAY
+text: ALICE and MATT race through the abandoned hallway. They carry J.D. between them. Theyre going back the way they came. Back into THE HIVE.
+speaker_heading: MATT
+dialog: This is hopeless. Its got us cut off from the exit. All were doing is going deeper.
+speaker_heading: ALICE
+dialog: You got any better ideas?
+speaker_heading: RED QUEEN (0.S.)
+dialog: I know a way.
+speaker_heading: MATT
+dialog: What did you say?
+speaker_heading: RED QUEEN
+dialog: I know a way out.
+dialog: J.D.
+dialog: Fuck you!
+text: J.D. coughs. Hes in a bad way.
+dialog: 99
+speaker_heading: CONTINUED:
+speaker_heading: J.D. (contd)
+dialog: Shes never going to let us out. Im infected
+speaker_heading: RED QUEEN
+dialog: Im sorry .... I do like you, but my sensors indicate your blood loss is already at 42.7%
+dialog: (genuine compassion in her voice)
+dialog: Youre not leaving this complex alive.
+text: Behind them they bear the glass in the lab shatter.
+dialog: The hunt is on.
+speaker_heading: RED QUEEN (contd)
+dialog: We have to hurry.
+dialog: MATT and ALICE share a look.
+speaker_heading: RED QUEEN (contd)
+dialog: You have to trust me.
+speaker_heading: INT. CORRIDORS
+text: MATT and ALICE run blindly through a complex maze of corridors. J.D. held between them. Close behind, THE CREATURE. Gaining fast.
+speaker_heading: RED QUEEN
+dialog: Take a left, here.
+dialog: They round a corner.
+speaker_heading: RED QUEEN (contd)
+dialog: Then a right.
+text: They race towards an intersection.
+speaker_heading: RED QUEEN (contd)
+dialog: Straight ahead.
+dialog: Then another.
+speaker_heading: RED QUEEN (contd)
+dialog: Now a left
+dialog: (confused)
+dialog: no .... no a right.
+speaker_heading: MATT
+dialog: What?
+dialog: 100
+speaker_heading: CONTINUED:
+speaker_heading: RED QUEEN
+dialog: A right.
+speaker_heading: MATT
+dialog: Youre sure?
+speaker_heading: RED QUEEN
+dialog: Yes, yes Im sure.
+text: Up ahead is a door.
+speaker_heading: INT. DEAD END ROOM
+text: The survivors burst into the room, slamming the door behind them. Four walls of concrete, no other door.
+speaker_heading: MATT
+dialog: Now what?
+text: MATT looks around the bare room.
+speaker_heading: MATT (contd)
+dialog: Now what!
+dialog: The Queen doesnt reply.
+speaker_heading: MATT (contd)
+dialog: Its a dead end!
+dialog: MATT is getting furious.
+speaker_heading: MATT (contd)
+dialog: (shouts)
+dialog: Youve led us into a dead end. Theres no way out of here!
+speaker_heading: RED QUEEN
+dialog: (hesitant)
+dialog: No there is!
+dialog: J.D.
+dialog: I told you not to trust her:
+speaker_heading: RED QUEEN
+dialog: (confused)
+dialog: I .... I cant remember, I thought ....
+speaker_heading: MATT
+dialog: You thought what?
+speaker_heading: RED QUEEN
+dialog: Im sorry.
+dialog: 101
+speaker_heading: CONTINUED:
+speaker_heading: MATT
+dialog: Youre sorry! You piece of ....
+text: But ALICE stops him.
+speaker_heading: ALICE
+dialog: No. Look ....
+text: The bare outline of a door etched in one of the walls. Recessed and hidden.
+speaker_heading: RED QUEEN
+dialog: (halting)
+dialog: I knew there .... was reason .... but Memory ....
+speaker_heading: MATT
+dialog: How do we open it?
+speaker_heading: ALICE
+dialog: Theres a key pad here.
+text: Hidden in the wall, barely visible.
+speaker_heading: RED QUEEN (contd)
+dialog: Emergency exit ....
+text: The Red Queen struggles with her words. Her power almost exhausted.)
+speaker_heading: RED QUEEN (contd)
+dialog: .... memory ....
+text: BAM! The door behind them buckles and almost wrenches off the wall.
+speaker_heading: ALICE
+dialog: (shocked)
+dialog: Jesus!
+dialog: THE CREATURE has found them.
+speaker_heading: MATT
+dialog: (urgent)
+dialog: Whats the code?
+text: MATT moves to the keypad which controls the emergency exit.
+speaker_heading: RED QUEEN
+dialog: Four .... Digits
+dialog: 102
+speaker_heading: CONTINUED: (2)
+speaker_heading: RED QUEEN (contd)
+dialog: Faaaaw .... Threeeee
+text: Her image flickers. Shes dying.
+speaker_heading: RED QUEEN (contd)
+dialog: Nnnnnnine .... Ssssss
+text: And suddenly she is gone. The Queen is dead.
+speaker_heading: MATT
+dialog: Ssseven, ssix .... what?
+text: THE CREATURE continues to pound against the door behind them. Its talons punching through the metal.
+speaker_heading: ALICE
+dialog: Just try one.
+speaker_heading: MATT
+dialog: What if its the wrong number?
+speaker_heading: ALICE
+dialog: Then we try the other .... just hurry up.
+text: MATT'S finger hovers over the two digits.
+speaker_heading: MATT
+dialog: Here goes.
+text: He punches the seven. The door beeps.
+speaker_heading: DOOR
+dialog: Access Denied.
+text: The outline of the keypad sinks back into the wall. Disappearing for good.
+speaker_heading: MATT
+dialog: No!
+text: The emergency exit door does the same, leaving nothing but a bare concrete wall.
+speaker_heading: MATT (contd)
+dialog: Thats just not fair!
+text: BAM! The door behind them has almost given way. THE CREATURE'S tongue pokes through a hole in the metal and lashes around the room.
+dialog: 103
+speaker_heading: CONTINUED:(3)
+text: MATT desperately looks around. Four solid walls, no air vents, no way out.
+dialog: J.D.
+dialog: Were going to die in here.
+text: Suddenly, the emergency exit behind them begins to open.
+speaker_heading: DOOR
+dialog: Stand clear .... door opening.
+text: They look on in astonishment as the door swings aside to reveal
+speaker_heading: ALICE
+speaker_heading: TWELVE!
+text: Leaning weakly against the control panel on the other side. His body torn and broken, but a smile like the Cheshire Cat.
+speaker_heading: TWELVE
+dialog: Computer geeks ....were not so easy to kill.
+text: Sensing its prey may escape, the Creature slams against the door once more. It begins to squeeze its body through the gap.
+speaker_heading: TWELVE (contd)
+dialog: What is that thing?
+text: ALICE starts to seal the exit behind them.
+speaker_heading: ALICE
+dialog: You dont want to know.
+scene_heading: INT. UNDERGROUND CAVERN
+text: ALICE and MATT exit THE HIVE, carrying J.D. between them. TWELVE limps behind.
+text: They cross the cavern to the elevator platform. Lying by the controls is the skeletal remnants of SPENCE. He still clutches a machine pistol uselessly in his hand. Lying by the body is the carry case containing the Tvirus and its antidote. flattered but still intact. ALICE picks it up.
+text: MATT lays J.D. on the platform. TWELVE busies himself with the controls.
+speaker_heading: MATT
+dialog: Get us out of here Twelve.
+dialog: 104
+speaker_heading: CONTINUED:
+speaker_heading: TWELVE
+dialog: Platforms already powered up.
+dialog: (smiles)
+dialog: Were headed topside in seconds.
+text: The platform begins to vibrate with energy. ALICE kneels by what remains of SPENCE'S body. She slips the wedding ring off his finger. Just like Mices, it bears the same inscription:
+speaker_heading: PROPERTY OF UMBRELLA CORP.
+text: She slips the ring into her pocket.
+speaker_heading: ALICE
+dialog: You were a lousy husband.
+speaker_heading: SMASH CUT TO:
+text: THE CREATURE FALLING from the ceiling without warning.
+text: LANDING RIGHT ON ALICE! You can barely hear her cry of pain and surprise above the SCREAMS OF THE AUDIENCE.
+speaker_heading: MATT
+dialog: No.
+text: MATT races forward, but is sideswiped by THE CREATURE'S tongue. He is flung through the air and crashes into the side of the platform. He lies still, like a broken doll.
+text: THE CREATURE'S mouth opens to reveal row upon row of teeth. This thing is built to kill.
+text: It rears triumphant above ALICE. We see it from her P.O.V. The tongue retracts, leaving THE CREATURE free to feast upon her.
+dialog: As THE CREATURE takes its first bite
+text: THE SUDDEN NOISE OF MACHINE GUN FIRE IS DEAFENING.
+text: THE CREATURE is hurled off. Multiple rounds pierce its armored hide. We see that ALICE holds SPENCE'S machine pistol in her hand.
+text: The gun dry clicks. Out of ammo.
+dialog: J.D.
+dialog: Catch!
+dialog: 105
+speaker_heading: CONTINUED:(2)
+text: With the last of his strength, J.D. throws her the combat knife from his belt.
+speaker_heading: CLOSE ON THE KNIFE
+text: as it arcs through the air.
+text: THE CREATURE charges forward again.
+text: The controls of the platform read FULL POWER.
+speaker_heading: ALICE
+dialog: (pain)
+dialog: Aaaaah!
+text: ALICE cries out in agony as THE CREATURE'S deadly tongue lashes past her. She twists her body so that it scrapes down her left arm, lacerating, but not killing. The tongue smashes into the platforms floor, the sharp barbs digging into the ornate wooden tiles.
+speaker_heading: CLOSE ON THE KNIFE
+text: as ALICE catches it and in one seamless move drives it straight through the hideous tongue, pinning it to the platforms floor.
+text: THE CREATURE screams. A terrifying inhuman Sound.
+speaker_heading: TWELVE
+dialog: Going up!
+text: He hits the controls and the platform begins to rise into the air. THE CREATURE is dragged toward the ceiling, its body banging off the platform, but held in place by its pinned tongue. Its limbs flail helplessly in the air.
+speaker_heading: ALICE
+dialog: Die you fucker!
+text: A second later, the platform disappears into the shaft. Cutting THE CREATURE'S tongue from its body.
+text: THE CREATURE screams in unholy agony and then is gone.
+speaker_heading: INT. PLATFORM
+text: MATT groans and struggles to sit up.
+speaker_heading: ALICE
+dialog: Matt?
+dialog: 106
+speaker_heading: CONTINUED:
+speaker_heading: MATT
+dialog: Im okay.
+text: THE CREATURE'S severed tongue is left pinned to the floor of the platform. Still writhing with a life of its own, but pinned firmly in place by J.D.s knife.
+speaker_heading: ALICE
+dialog: (to J.D.)
+dialog: Thanks.
+dialog: J.D.
+dialog: Dont mention it.
+text: She kneels by him.
+speaker_heading: ALICE
+dialog: How are you doing?
+dialog: J.D.
+dialog: Bad.
+speaker_heading: ALICE
+dialog: This will help.
+text: The battered box containing the T-virus and its antidote hangs from her belt. She breaks it open, reaches for a shot of the antidote.
+dialog: J.D.
+dialog: Save it.
+dialog: (shakes his head)
+dialog: Too late for me.
+speaker_heading: ALICE
+dialog: J .D ....
+dialog: J.D.
+dialog: (interrupts)
+dialog: I saved one round ....
+text: He pulls the revolver from his belt.
+dialog: J.D.
+dialog: .... when the time comes ....
+speaker_heading: ALICE
+dialog: Were going to get you out of here.
+dialog: J.D.
+dialog: I dont want to be one of those things.
+text: We can see the life ebbing from him.
+dialog: 107
+speaker_heading: CONTINUED:(2)
+speaker_heading: J.D. (contd)
+dialog: Walking around .... without a soul.
+text: He presses the gun into her hand.
+speaker_heading: J.D. (contd)
+dialog: Youll take care of it
+text: J.D. looks her in the eye.
+speaker_heading: J.D. (contd)
+dialog: soldier.
+text: ALICE nods. And J.D.s eyes slowly close. His head sinks to his chest.
+text: ALICE lets out a cry. But J.D. doesnt move.
+text: Slowly, shakily, she raises the gun. Her vision is blurred with tears.
+text: The muzzle of the gun is an inch from J.D.s head. Her finger tightens on the trigger, but still she cant fire.
+text: THEN SUDDENLY, J.D.s hand shoots up! Grabbing her arm. ALICE screams in shock I
+speaker_heading: J.D. (contd)
+dialog: Wait .... wait a second .... Im not dead yet.
+text: ALICE is weeping in relief.
+speaker_heading: J.D. (contd)
+dialog: Maybe Id better have this back.
+text: He eases the revolver back into his belt. In the background, TWELVE and MATT are laughing. Despite the shock, ALICE cant help it. She begins to laugh too.
+text: A TALON SUDDENLY PUNCHES THROUGH THE FLOOR!
+text: Almost impaling MATT. Missing his torso by inches, but slicing through his left leg.
+speaker_heading: MATT
+dialog: (in pain)
+dialog: Aaaaaah!
+text: THE CREATURE has lodged itself beneath the platform. Its talons are pulling apart the floor. Peeling it like a grape.
+dialog: 108
+speaker_heading: CONTINUED:(3)
+speaker_heading: ALICE
+dialog: Get over! Get over to the other side of the platform!
+speaker_heading: TWELVE
+dialog: Seven levels to the top!
+text: TWELVE looks up to see the mansion far above them.
+speaker_heading: TWELVE (contd)
+dialog: Six.
+text: THE CREATURE is partially onto the platform. Fighting to drag its bulk through the jagged hole.
+speaker_heading: MATT
+dialog: Its going to be close!
+speaker_heading: TWELVE
+dialog: Five.
+text: But THE CREATURE is almost through.
+speaker_heading: ALICE
+dialog: Dammit! Were not going to make it.
+text: ALICE races over to the platform controls. She punches them furiously. The platform slows to a halt. They are still a good seventy feet from the mansion.
+speaker_heading: TWELVE
+dialog: (incredulous)
+dialog: What the hell are you doing I
+speaker_heading: ALICE
+dialog: Use the emergency ladders.
+text: She nods over to two steel ladders recessed into the wall of the shaft.
+speaker_heading: ALICE (contd)
+dialog: Im going to put the platform into free fall. Now get going!
+text: TWELVE staggers to the emergency ladders as MATT helps J.D. onto the first rung.
+speaker_heading: MATT
+dialog: Climb.
+dialog: J.D.
+dialog: I cant!
+dialog: 109
+speaker_heading: CONTINUED:(4)
+text: THE CREATURE'S talons slash out at J.D., missing him by inches. It strains to reach bin, its back leg still caught in the floor.
+speaker_heading: MATT
+dialog: Climb damn it!
+text: Slowly, painfully, J.D. begins to climb.
+speaker_heading: ALICE
+dialog: Hurry!
+text: MATT boosts TWELVE onto the ladders, then turns to ALICE.
+speaker_heading: MATT
+dialog: Send this fucker back to hell!
+text: ALICE punches in the command code.
+speaker_heading: ALICE
+dialog: Done.
+text: The platform begins to drop away, back into the depths.
+text: ALICE makes a jump for the ladders, just as THE CREATURE frees itself from the floor and makes a leap for her.
+speaker_heading: CLOSE ON A TALON
+text: as it snags ALICE'S foot.
+speaker_heading: ALICE
+dialog: (agony)
+dialog: Aaaaah!
+text: ALICE nearly loses her grip on the ladder.
+speaker_heading: NATT
+dialog: Hang on!
+dialog: He turns to J.D.
+speaker_heading: MATT (contd)
+dialog: Give me the gun. Your gun!
+text: MATT reaches for the revolver on J.D.s belt, just as J.D. turns to face him, his face contorted in a death mask. His eyes burning with unholy life. HES ONE OF THE UNDEAD NOW!
+text: J.D. lunges at MATT, his teeth snapping at the warm flesh. MATT struggles to fight him off!
+dialog: 110
+speaker_heading: CLOSE ON ALICE
+text: as she looks up, sees MATT in trouble, but can do nothing. THE CREATURE begins to claw its way up her body. ALICE screams in pain. Shes holding their combined body weight. Every movement THE CREATURE makes is agony.
+speaker_heading: CLOSE ON THE CREATURE
+text: as it tightens its grip on ALICE. Its going to drag them both to their deaths.
+speaker_heading: CLOSE ON THE UNDEAD J.D.
+text: his inhuman eyes, his gaping mouth. His undead hands all over MATT, clawing at his face.
+text: MATT struggles with J.D. He has one finger on the revolver at J.D.s belt.
+speaker_heading: CLOSE ON THE CREATURE
+text: as its jaws snap at ALICE.
+speaker_heading: CLOSE ON ALICE
+text: to reveal her fist, filled with vials of T4, the Tvirus antidote. She jams them into the jaws of THE CREATURE. The vials break and spill liquid everywhere.
+text: The antidote reacts with THE CREATURE as though it were acid. The inside of its mouth begins to bubble and burn. Its skin cracking and popping.
+speaker_heading: CLOSE ON MATT
+text: as he finally gets his hand on J.D.s gun. But J.D. lunges at MATT'S exposed throat. They both overbalance and begin to fall. MATT'S reflexes save him, but the undead J.D. isnt as fast. He pitches off the ladder and plunges to his death. Again.
+speaker_heading: MATT
+dialog: No!
+text: But his cry isnt for J.D. Its for the gun, which slips from his hand.
+speaker_heading: CLOSE ON THE REVOLVER
+text: as it spins through the air. Its fall suddenly arrested by a hand. She catches it, and in one deft move, turns it on THE CREATURE.
+dialog: 111
+speaker_heading: CONTINUED:
+speaker_heading: ALICE
+dialog: Back to hell with you.
+speaker_heading: CLOSE ON THE BULLET
+text: as it races from within the gun. We see the rifling of the barrel race past us and then track through the open air as the bullet flies towards THE CREATURE'S head. We are inches behind it as the bullet tears into THE CREATURE, cracking through its armored hide, already weakened by the T-4.
+text: THE CAMERA plunges into the entry wound and plows through THE CREATURE'S skull and brain matter. All the time following the bullet, until finally emerging into the blinding light again through the exit wound.
+speaker_heading: CLOSE ON THE CREATURE
+text: as slowly, painfully, it loses its grip on ALICE and pitches back into the depths.
+speaker_heading: INT. PLATFORM
+text: Far below, the walls are begin to whip past faster and faster. The empty platform is accelerating to incredible speeds.
+speaker_heading: INT. CAVERN DUSK
+text: The platform crashes into the cave floor at over 200 m.p.h. Broken rock, splintered wood and twisted metal fly everywhere.
+speaker_heading: CLOSE ON THE CREATURE
+text: as it tumbles through the air, its agonized howls are brought to an abrupt halt as it hits -
+text: THE REMANTS OF THE PLATFORM.
+text: A huge broken shard of wooden flooring impales THE CREATURE.
+text: Its own body weight dragging it down the jagged shaft. THE CREATURE spasms and the last breath leaves its twisted body.
+text: What is left of THE CREATURE hangs a few feet above the floor of the wrecked platform, dripping the dark oily substance that passes far its blood. An explosion of bones and organs. Some recognizably human, some not.
+speaker_heading: CLOSE ON A PIECE OF PAPER
+text: as it drifts slowly through the air. It had fallen from ALICE'S pocket during the struggle.
+dialog: 112
+speaker_heading: CONTINUED:
+text: We follow the paper until eventually it lands on the bizarre remnants of THE CREATURE. As slime and ooze soak through the paper, it unfolds, to reveal the words:
+dialog: TODAY ALL YOUR DREAMS COME TRUE
+scene_heading: INT. MANSION - ENTRANCE HALLWAY DAWN.
+text: MATT appears at the lip of the shaft. Hauls himself onto the mansion floor.
+speaker_heading: MATT
+dialog: What the hell did you do to that thing?
+speaker_heading: ALICE (O.S.)
+dialog: Something the Queen said.
+text: ALICE emerges, and then drags TWELVE from the open shaft.
+speaker_heading: ALICE (contd)
+dialog: She said the Creature was the product of the same genetic material as the undead. So I figured the antidote would effect it harm it in some way.
+text: TWELVE groans. His head bus to one side. Near exhaustion, but still hanging on.
+speaker_heading: ALICE
+dialog: Wed better get him to a hospital.
+text: They hoist TWELVE between them and head for the mansion door.
+speaker_heading: MATT
+dialog: (shakes his head)
+dialog: Hell of a night.
+text: Just as ALICE'S hand reaches for the door, the wrist alarm on TWELVE'S left hand goes off. A shrill beeping noise. The digital wrist clock flashes: 00:00:00
+speaker_heading: ALICE
+dialog: Now what?
+scene_heading: EXT. MANSION - STEPS - DAWN
+text: ALICE swings open the mansion door. But instead of a fresh breeze and a brand new dawn, they find themselves still inside.
+text: The whole mansion has been tented out! Contained within a viral perimeter.
+dialog: 113
+speaker_heading: CONTINUED:
+text: Sudden banks of bright lights kick in, blinding the survivors. Gloved hands reach for, them. Faceless TECHNICIANS hidden beneath monstrous anti-viral suits.
+dialog: From one horror to another!
+scene_heading: INT. DARKWING HELICOPTER DAWN.
+text: ALICE is bundled into the back of the Darkwing. The door slams behind her, and she finds herself staring into the reflective visor of a clean suit. No sign of a face beneath, just her own reflection.
+speaker_heading: ALICE
+dialog: Wheres Matt? What about Twelve?
+speaker_heading: The TECHNICIAN doesnt reply.
+speaker_heading: ALICE (contd)
+dialog: He needs help!
+speaker_heading: TECH
+dialog: Hes safe.
+text: The voice is hideously distorted by an electronic filter.
+speaker_heading: TECH (contd)
+dialog: Youre all safe.
+scene_heading: INT. SECOND DARKWING HELICOPTER  CONTINUOUS DAWN.
+text: The stretcher holding TWELVE is loaded into the craft.
+speaker_heading: MEDIC
+dialog: Secure!
+text: As the Darkwing begins to take off, a team of MEDICS race to save TWELVE'S life.
+speaker_heading: MEDIC 2
+dialog: Jesus hes a mess.
+speaker_heading: MEDIC 3
+dialog: Vitals are plunging!
+speaker_heading: MEDIC 1
+dialog: 50 ccs of adrenaline!
+speaker_heading: MEDIC 2
+dialog: Hes going flatline.
+text: TWELVE'S eyes flicker and then close.
+dialog: 114
+speaker_heading: CONTINUED:
+speaker_heading: CHIEF MEDIC
+dialog: Come on goddamn it!
+text: The CHIEF MEDIC rips his mask off.
+speaker_heading: MEDIC 2
+dialog: What are you doing! Protocol ....
+speaker_heading: CHIEF MEDIC
+dialog: Fuck protocol! Im not going to let this man die.
+text: The Chief Medic begins to give TWELVE mouth to mouth. If anyone can save him, this man can. He has GEORGE CLOONEY written all over him.
+speaker_heading: CHIEF MEDIC (contd)
+dialog: Breathe ....
+text: He blows another lung-full of air into TWELVE'S month.
+speaker_heading: CHIEF MEDIC (contd)
+dialog: .... Breathe ....
+dialog: And another.
+speaker_heading: CHIEF MEDIC (contd)
+dialog: .... Breathe ....
+text: The Chief Medics lips touch TWELVE'S for the last time, when suddenly THE PATIENTS EYES SPRING OPEN. TWELVE is back to life, but not the way they had intended.
+text: The doctor screams as the newly undead TWELVE lunges at him.
+speaker_heading: SMASH CUT TO:
+speaker_heading: CLOSE UP EYES
+text: Blue eyes snap open. Woken from a bad dream. WIDEN to reveal a womans face to go with the eyes. Its not perfection, but its close.
+dialog: Wait a second. Havent we been here before?
+speaker_heading: WIDER STILL TO REVEAL:
+speaker_heading: INT. THE CELL
+text: White on white. Padded walls and an electronically locked door. ALICE lies on the floor. Coming round.
+dialog: 115
+speaker_heading: CONTINUED:
+text: She squints. The bright white light hurts her eyes. Even her hospital gown is crisp starched white.
+text: High above, out of reach, a smoked glass window. A light comes on behind it to reveal four figures. THE INTERROGATORS.
+speaker_heading: INTERROGATOR 1
+dialog: What happened in the hive?
+speaker_heading: ALICE
+dialog: Who are you people? Where am I?
+speaker_heading: INTERROGATOR 2
+dialog: We ask the questions.
+speaker_heading: ALICE
+dialog: Where are my friends?
+speaker_heading: INTERROGATOR 1
+dialog: What happened in the Hive?
+speaker_heading: ALICE
+dialog: You have no right to hold me here I
+text: The light behind the smoked glass window dims, and The INTERROGATORS disappear from view.
+speaker_heading: INT. THE CELL
+text: ALICE lies on the bare floor. White on white.
+text: A siren wakes her.
+text: The light behind the smoked glass window comes on. The INTERROGATORS are revealed once more.
+speaker_heading: INTERROGATOR 1
+dialog: What happened in the Hive?
+speaker_heading: ALICE
+dialog: Im not answering your questions I
+speaker_heading: INTERROGATOR 2
+dialog: What happened in the Hive?
+speaker_heading: ALICE
+dialog: I know what youre trying to do youre trying to hush this whole thing up.
+dialog: 116
+speaker_heading: CONTINUED:
+speaker_heading: INTERROGATOR 1
+dialog: You dont realize the gravity of your situation.
+speaker_heading: ALICE
+dialog: Well Im not going to keep my mouth shut, you understand?
+speaker_heading: INTERROGATOR 1
+dialog: Things would go better for you if you coopeated.
+speaker_heading: ALICE
+dialog: Where are my friends?
+text: The INTERROGATORS remain silent.
+speaker_heading: ALICE (contd)
+dialog: Where are they dammit!
+speaker_heading: INTERROGATOR 2
+dialog: What happened in the Hive?
+speaker_heading: ALICE
+dialog: Screw you!
+text: The light behind the smoked glass window dims. The INTERROGATORS disappear from view.
+speaker_heading: INT. THE CELL
+text: ALICE sits in the corner, her back against the wall. White on white.
+dialog: She has no idea if it is night or day.
+dialog: She has no idea how long shes been here.
+dialog: A day? A week? A month?
+text: She stares at the white label on her white hospital gown. It bears the logo of the UMBRELLA CORPORATION.
+text: The siren sounds again. ALICE looks up as the light behind the smoked glass window comes on. But The INTERROGATORS are nowhere to be seen. Their seats are empty. Instead, a half lit figure moves behind the glass. It seems unsteady on its feet.
+speaker_heading: CLOSE ON ALICE
+text: as she hears a terrifyingly familiar sound. A low groaning noise. It seems almost human. Almost.
+dialog: 117
+speaker_heading: CONTINUED:
+text: At that moment, the electronic look by the door clicks from red to green. The padded cell door swings open an inch. No telling what horror waits outside. But what choice does she have?
+scene_heading: EXT. CORRIDOR OUTSIDE THE CELL
+text: The same bright white on white. A corridor stretching off into infinity. ALICE nervously peers around the door. Straight into the face of
+speaker_heading: ALICE
+speaker_heading: MATT!
+text: Dressed in an identical hospital gown.
+speaker_heading: MATT
+dialog: They were holding me in a cell next door.
+speaker_heading: ALICE
+dialog: What is this place?
+speaker_heading: MATT
+dialog: Some kind of Umbrella facility.
+text: She gazes down the endless white corridor. No sign of life.
+speaker_heading: ALICE
+dialog: And where is everyone?
+text: SUDDENLY a figure steps into the foreground. It scares MATT and ALICE almost as much as it does us.
+speaker_heading: ALICE (contd)
+dialog: Youre okay!
+text: Before them stands a familiar holographic teenage girl. Only now she is dressed all in white.
+speaker_heading: WHITE QUEEN
+dialog: No.
+text: There is a sadness in her voice.
+speaker_heading: WHITE QUEEN (contd)
+dialog: I think youre mistaking me for my sister. I didnt understand what my she was trying to do. I helped kill her.
+text: The young girl looks imploringly at ALICE. Is it possible? Is this computer seeking forgiveness?
+dialog: 118
+speaker_heading: CONTINUED:
+speaker_heading: WHITE QUEEN (contd)
+dialog: I was wrong.
+text: They are interrupted by distant gunfire. The screams of the dying.
+speaker_heading: MATT
+dialog: What happened here?
+speaker_heading: WHITE QUEEN
+dialog: The infection spreads to cover the United States within 13 days .... Canada and South America in 27 days .... Worldwide infection in less than two months.
+text: The WHITE QUEEN is quoting her sister verbatim. She turns to ALICE.
+speaker_heading: WHITE QUEEN (contd)
+dialog: We couldnt contain it.
+text: The sound of gunfire is getting closer.
+speaker_heading: WHITE QUEEN (contd)
+dialog: I think youd better go. Its not safe
+text: ALICE takes one last look back at the WHITE QUEEN. Her eyes hold a sadness no teenager has ever known.
+speaker_heading: WHITE QUEEN (contd)
+dialog: (quietly)
+dialog: Go.
+text: MATT and ALICE run down the corridor. After a moment they are swallowed in the blinding white light.
+speaker_heading: DISSOLVE TO:
+speaker_heading: CLOSE UP EYES
+text: Blue eyes snap open. Waken from a bad dream. WIDEN to reveal a womans face to go with the eyes. Its not perfection, but its close.
+text: ALICE sits up with a start. She is in bed. Naked. The scars from THE HIVE are old now. A good six months must have passed.
+speaker_heading: MATT (O.S.)
+dialog: You okay?
+speaker_heading: WIDER TO REVEAL
+dialog: 119
+speaker_heading: CONTINUED:
+text: the interior of a big R.V. ALICE is in the back on the fold­out bed. MATT is up front, driving. The rentacop uniform is gone, replaced with jeans and a black sweater. And guns. Lots of guns.
+speaker_heading: ALICE
+dialog: Yeah .... bad dreams.
+speaker_heading: MATT
+dialog: Why dont I find that surprising?
+speaker_heading: ALICE
+dialog: How we doing?
+speaker_heading: MATT
+text: Almost there. Another ten, twelve miles.
+text: As ALICE pulls on some clothes, she looks around the familiar cramped interior of the R.V. She smiles at the piles of Guns and Ammo magazines. She clearly shares this place with MATT.
+scene_heading: EXT. CEMETERY - DUSK
+dialog: A huge urban graveyard. Thousands were once buried here.
+text: But now all the graves have been dug up. From within.
+text: In the distance, movement. An R.V.
+scene_heading: EXT. RECREATIONAL VEHICLE - DUSK
+text: As the R.V. races past, we see that it has been heavily modified. Thick metal plating covers most of the windows, and a gun turret has been added to the roof.
+text: A serious piece of post apocalyptic hardware.
+scene_heading: INT. RECREATIONAL VEHICLE - FRONT SEATS DUSK.
+text: ALICE, now dressed, sits down beside MATT. His hands rest on the steering wheel. We notice that he wears a gold band on his left hand. The one SPENCE had once worn. The twin of ALICE'S.
+speaker_heading: ALICE
+dialog: I keep thinking about the Hive- You think we could have done things differently? Stopped them there?
+speaker_heading: MATT
+dialog: Doubtful. But its a nice thought.
+dialog: 120
+speaker_heading: CONTINUED:
+text: She looks out through the windshield. We still havent seen where theyre going.
+speaker_heading: ALICE
+dialog: Almost there.
+text: She turns back to MATT.
+speaker_heading: ALICE (contd)
+dialog: You think well find anyone alive?
+scene_heading: EXT. CITY STREET - DUSK
+text: The R.V. cruises down a street lined with abandoned cars and trucks. No drivers, no passengers, no pedestrians. MATT and ALICE are the only one alive here.
+text: A Brinks armored car lies on its side. A strongbox spills $100 bills out into the street. They flutter idly In the wind.
+scene_heading: EXT. BROOKLYN BRIDGE - DUSK
+text: The R.V. races over the deserted bridge, headed for Manhattan.
+text: THE CAMERA CRANES UP to reveal the New York skyline. Both familiar, yet terrifyingly different. For now there is no movement, no lights, no sign of life.
+text: The sun sinks beneath the tall buildings, and the tiny R.V. is swallowed by the silent city.
+speaker_heading: THE END
+dialog: MATT and ALICE will return in:
+speaker_heading: RESIDENT EVIL: APOCALYPSE
+dialog: Back to Horror and Suspense
+dialog: (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+dialog: (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+scene_heading: m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+dialog: })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+dialog: ga('create', 'UA-67290913-1', 'auto');
+dialog: ga('send', 'pageview');
+dialog: 

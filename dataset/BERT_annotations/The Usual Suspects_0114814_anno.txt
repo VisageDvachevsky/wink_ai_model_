@@ -1,0 +1,4702 @@
+dialog: 
+dialog: window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app105.us.archive.org';v.server_ms=1387;archive_analytics.send_pageview({});});
+dialog: __wm.init("https://web.archive.org/web");
+scene_heading: __wm.wombat("http://www.pages.drexel.edu:80/~ina22/splaylib/Screenplay-Usual_Suspects.HTM","20150921091145","https://web.archive.org/","web","/_static/",
+dialog: "1442826705");
+dialog: Screenplay-Usual_Suspects.STW
+dialog: The Usual Suspects (1995)
+dialog: 
+dialog: Written By Christopher McQuarrie
+dialog: 
+dialog: Produced and Directed By Bryan Singer
+dialog: Stephen Baldwin........................Michael McManus
+dialog: Gabriel Byrne..............................Dean Keaton
+dialog: Benicio Del Toro..........................Fred Fenster
+dialog: Kevin Pollak..............................Todd Hockney
+dialog: Kevin Spacey.......................Roger "Verbal" Kint
+dialog: Chazz Palminteri............................Dave Kujan
+dialog: Pete Postlethwaite...........................Kobayashi
+dialog: Suzy Amis................................Edie Finneran
+dialog: Giancarlo Esposito...........................Jack Baer
+dialog: Dan Hedaya..................................Jeff Rabin
+dialog: Paul Bartel...................................Smuggler
+dialog: Carl Bressler................................Saul Berg
+dialog: Phillip Simon..................................Fortier
+dialog: Jack Shearer...................................Renault
+dialog: Christine Estabrook........................Dr. Plummer
+dialog: 
+dialog: Revised, 05/25/94 White
+dialog: Revised, 06/01/94 Blue
+dialog: Revised, 06/07/94 Pink
+dialog: Revised, 06/11/94 Yellow
+dialog: 
+speaker_heading: SCRIPT DATE 5/25/94
+dialog: 
+dialog: 
+speaker_heading: 1 BLACK 1
+text: The lonely sound of a buoy bell in the distance. Water
+text: slapping against a smooth, flat surface in rhythm. The
+dialog: creaking of wood.
+text: Off in the very far distance, one can make out the sound of
+dialog: sirens.
+text: SUDDENLY, a single match ignites and invades the darkness.
+text: It quivers for a moment. A dimly lit hand brings the rest of
+text: the pack to the match. A plume of yellow-white flame flares
+text: and illuminates the battered face of DEAN KEATON, age forty.
+text: His salty-gray hair is wet and matted. His face drips with
+text: water or sweat. A large cut runs the length of his face from
+text: the corner of his eye to his chin. It bleeds freely. An un-
+text: lit cigarette hangs in the corner of his mouth.
+text: In the half-light we can make out that he is on the deck of
+text: a large boat. A yacht, perhaps, or a small freighter. He
+text: sits with his back against the front bulkhead of the wheel
+dialog: house.
+text: His legs are twisted at odd, almost impossible angles. He
+dialog: looks down.
+text: A thin trail of liquid runs past his feet and off into the
+text: darkness. Keaton lights the cigarette on the burning pack of
+dialog: matches before throwing them into the liquid.
+dialog: The liquid IGNITES with a poof.
+text: The flame runs up the stream, gaining in speed and intensity.
+text: It begins to ripple and rumble as it runs down the deck
+dialog: towards the stern.
+scene_heading: 2 EXT. BOAT - NIGHT - STERN 2
+text: A stack of oil drums rests on the stern. They are stacked on
+text: a palette with ropes at each corner that attach it to a huge
+text: crane on the dock. One of the barrels has been punctured at
+text: its base. Gasoline trickles freely from the hole.
+text: The flame is racing now towards the barrels. Keaton smiles
+dialog: weakly to himself.
+text: The flame is within a few yards of the barrels when another
+text: stream of liquid splashes onto the gas. The flame fizzles
+text: out pitifully with a hiss.
+text: Two feet straddle the flame. A stream of urine flows onto
+dialog: the deck from between them.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 2
+text: The sound of a fly zipping. Follow the feet as they move
+text: over to where Keaton rests at the wheel house.
+text: CRANE UP to the waist of the unknown man. He pulls a pack of
+text: cigarettes out of one pocket and a strange antique lighter
+text: from the other. It is gold, with a clasp that folds down
+text: over the flint. The man flicks up the clasp with his thumb
+text: and strikes it with his index finger. It is a fluid motion,
+dialog: somewhat showy.
+text: Keaton looks up at the man. A look of realization crosses
+text: his face. It is followed by frustration, anger, and finally
+dialog: resignation.
+speaker_heading: VOICE (O.S.)
+dialog: How are you, Keaton?
+speaker_heading: KEATON
+dialog: I'd have to say my spine was broken,
+dialog: Keyser.
+text: He spits the name out like it was poison.
+text: The man puts the lighter back in his pocket and reaches under
+text: his jacket. He produces a stainless .38 revolver.
+speaker_heading: VOICE (O.S.)
+dialog: Ready?
+speaker_heading: KEATON
+dialog: What time is it?
+text: The hand with the gun turns over, turning the gold watch on
+dialog: its wrist upward.
+text: The sound of sirens is closer now. Headed this way.
+speaker_heading: VOICE (O.S.)
+dialog: Twelve thirty.
+text: Keaton grimaces bitterly and nods. He turns his head away
+dialog: and takes another drag.
+text: The hand with the gun waits long enough for Keaton to enjoy
+text: his last drag before pulling the trigger.
+speaker_heading: GUNSHOT
+text: The sound of Keaton's body slumping onto the deck.
+text: MOVE OUT ACROSS THE DECK. Below is the stream of gasoline
+dialog: still flowing freely.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 3
+text: The sound of the gasoline igniting. The flame runs in front
+text: of us towards the barrels, finally leaping up in a circle
+text: around the drums, burning the wood of the pallet and licking
+text: the spouting stream as it pours from the hole.
+text: MOVE OUT ACROSS THE DOCK, away from the boat.
+text: The pier to which the boat is moored is littered with DEAD
+dialog: BODIES. Twenty or more men have been shot to pieces and lie
+text: scattered everywhere in what can only be the aftermath of a
+dialog: fierce fire-fight.
+text: A BARGE COMES INTO VIEW.
+text: On the deck of the barge is a tangle of cables and girders.
+text: The mesh of steel and rubber leaves a dark and open cocoon
+dialog: beneath its base.
+text: MOVE INTO THE DARKNESS.
+text: Sirens are close now. Almost here. The sound of fire raging
+dialog: out of control.
+scene_heading: SIRENS BLARING. TIRES SQUEALING. CAR DOORS OPENING. FEET
+speaker_heading: POUNDING THE PAVEMENT.
+text: MOVE FURTHER, SLOWER, INTO THE DARKNESS
+text: Voices yelling. New light flickering in the surrounding
+dialog: darkness.
+speaker_heading: SUDDENLY, AN EXPLOSION.
+text: Then silence. TOTAL BLACKNESS.
+dialog: We hear the voice of ROGER "VERBAL" KINT, whom we will soon
+dialog: meet.
+speaker_heading: VERBAL (V.O.)
+dialog: New York. - six weeks ago. A truck
+dialog: loaded with stripped gun parts got
+dialog: jacked outside of Queens. The driver
+dialog: didn't see anybody, but somebody
+dialog: fucked up. He heard a voice.
+dialog: Sometimes, that's all you need.
+speaker_heading: BOOM
+scene_heading: 3 INT. DARK APARTMENT - DAY - NEW YORK - SIX WEEKS PRIOR TO
+speaker_heading: PRESENT DAY 3
+text: The black explodes with the opening of a door into a dark
+text: room. Outside, the hall is filled with blinding white light.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 4
+text: Shadows in the shapes of men flood into the room. We can
+text: make out men in hoods with flashlights. They are laden with
+dialog: weapons.
+speaker_heading: VOICES
+scene_heading: POLICE. SEARCH WARRANT. DON'T MOVE.
+text: It is a blur of violent action and sound. Beams of
+text: flashlights cut the darkness in all directions.
+speaker_heading: FINALLY:
+text: A dozen flashlights land on one man. He lies naked in bed,
+text: Merging from a deep sleep. He squints at the flood of blinding
+text: white light, more annoyed than frightened. He nearly laughs
+text: at the sound of countless guns cocking. He is McMANUS. Age
+dialog: twenty-eight.
+speaker_heading: VOICE (O.S.)
+dialog: Mr. McManus?
+speaker_heading: MCMANUS
+dialog: Yeah.
+speaker_heading: VOICE (O.S.)
+dialog: Police. We have a warrant for your
+dialog: arrest.
+speaker_heading: MCMANUS
+dialog: Will they be serving coffee downtown?
+text: Two dozen black gloved hands grab him and yank him out of
+dialog: bed.
+scene_heading: 4 INT. AUTO BODY SHOP - DAY 4
+text: An old paint mixer vibrates furiously.
+text: TODD HOCKNEY, a dark, portly man in his thirties is working
+dialog: on an old Fire-bird.
+text: A YOUNG HISPANIC KID mixes paint a few feet away.
+dialog: SUDDENLY, the garage door opens TO REVEAL:
+text: A row of five men silhouetted by the bright sun.
+dialog: Hockney squints.
+speaker_heading: HOCKNEY
+dialog: Can I help you?
+text: Hockney's voice is gruff.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 5
+speaker_heading: MAN
+dialog: Todd Hockney?
+text: Hockney reaches for something just inside the door of the
+dialog: Fire-bird.
+speaker_heading: HOCKNEY
+dialog: Who are you?
+text: All six men INSTANTLY PRODUCE GUNS and aim them at Hockney.
+speaker_heading: MAN
+dialog: Police.
+text: Hockney withdraws a filthy towel and wipes grease and sweat
+dialog: from his forehead.
+speaker_heading: HOCKNEY
+dialog: We don't do gun repair.
+scene_heading: 5 EXT. STREET - NEW YORK - DAY 5
+text: FRED FENSTER, a tall, thin man in his thirties strolls
+text: casually down the street. He is dressed conspicuously in a
+dialog: loud suit and tie with shoes that have no hope of matching.
+text: He smokes a cigarette and chews gum at the same time.
+text: He happens to glance over his shoulder and notice a brown
+text: Ford sedan with four men in it cruising along the curb. He
+text: picks up his step a little. The Ford keeps up.
+text: He looks ahead at the corner. He tries to look as comfortable
+text: as he can, checking his watch as though remembering an
+text: appointment he is late for. The Ford stays right on him.
+text: SUDDENLY, he bolts. He gets no more than a few yards before
+text: cars pour out of every conceivable nook and cranny. Brakes
+text: are squealing, radios squawking, guns cocking. Fenster is
+text: surrounded instantly. He stops short and flaps his hands on
+dialog: his thighs in defeat.
+scene_heading: 6 INT. MONDINO'S RESTAURANT - DAY 6
+text: An attractive man and woman walk quickly through the front
+dialog: of a small New York cafe. They are charged with nervous,
+dialog: excited energy.
+text: The man is DEAN KEATON, a well dressed, sturdy looking man
+text: in his forties with slightly graying hair. He looks much
+text: better than he did in the opening scene. The woman with him
+dialog: is EDIE FINNERAN, age thirty-three, poised and attractive -
+dialog: Easily the calmer of the two.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 6
+text: They come to a staircase at the back of the restaurant leading
+text: down to a dark room. Edie takes Keaton's arm and stops him.
+speaker_heading: EDIE
+dialog: Let me look at you.
+text: Keaton is uncomfortable in his suit, or perhaps the situation.
+text: Still, he smiles with genuine warmth.
+text: Edie straightens his tie and picks microscopic imperfections
+dialog: from his lapel.
+speaker_heading: EDIE (CONT'D)
+dialog: Now remember, this is another kind
+dialog: of business. They don't earn your
+dialog: respect. You owe it to them. Don't
+dialog: stare them down but don't look away
+dialog: either. Confidence. They are fools
+dialog: not to trust you. That's the attitude.
+speaker_heading: KEATON
+dialog: I'm having a stroke.
+speaker_heading: EDIE
+dialog: You've come far. You're a good man.
+dialog: I love you.
+text: Keaton blinks then stammers, looking for a response.
+speaker_heading: PAUSE
+speaker_heading: EDIE (CONT'D)
+dialog: Live with it.
+text: She kisses him and runs down the steps with Keaton close
+text: behind. Keaton playfully grabs her ass and she nearly stumbles
+dialog: down the stairs.
+scene_heading: 7 INT. RESTAURANT - DOWNSTAIRS 7
+text: They come to the bottom of the steps giggling and jabbing
+text: each other. Once off the stairs they instantly transform as
+dialog: though hit with cold air. They assume a cool, professional
+text: exterior and walk two feet apart. One would look at them and
+dialog: see only two business associates here to ply their trade.
+text: They walk across the dimly lit dining room to a table in the
+text: far corner where two men are already waiting. The first is
+dialog: MR. FORTIER, age thirty-five, the other is MR. RENAULT, age
+text: sixty. Both men are impeccably dressed with a distinguished
+dialog: air. They stand and smile.
+speaker_heading: FORTIER
+dialog: Edie, nice to see you.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 7
+speaker_heading: EDIE
+dialog: Sorry we're late.
+speaker_heading: FORTIER
+dialog: Nonsense. Sit, please.
+speaker_heading: RENAULT
+dialog: (struggling with
+dialog: English)
+dialog: You must be Mr. Keaton.
+speaker_heading: EDIE
+dialog: I'm sorry. Dean Keaton.
+text: Renault's hand is already out.
+speaker_heading: RENAULT
+dialog: Monsieur Renault. A pleasure.
+speaker_heading: KEATON
+dialog: How do you do?
+text: They shake hands. Keaton takes Fortier's hand next.
+speaker_heading: FORTIER
+dialog: Monsieur Fortier. So nice to finally
+dialog: meet you.
+text: Everyone sits at the table. All faces are smiling.
+speaker_heading: LOW ANGLE: UNDER TABLE
+text: Edie's hand reaches out and finds Keaton's leg. Her hand
+text: runs high up his inner thigh and squeezes firmly.
+text: Her face is absolutely calm, giving no hint of what her hand
+text: is doing. Keaton smiles and clears his throat.
+scene_heading: 8 INT. MONDINO'S RESTAURANT 8
+text: Follow a waiter past the flight of steps.
+speaker_heading: PAN DOWN TO REVEAL:
+text: Five sets of feet arriving at the bottom.
+dialog: The feet in the middle wear shoes notably nicer than the
+dialog: rest.
+speaker_heading: PAN UP TO REVEAL:
+speaker_heading: SPECIAL AGENT DAVID KUJAN (Pronounced Koo-yahn), U.S. CUSTOMS.
+dialog: Thirtyish, dark-haired and determined.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 8
+scene_heading: 9 INT. RESTAURANT - DOWNSTAIRS 9
+speaker_heading: FORTIER
+dialog: Edie brought us your proposal and
+dialog: I'll be honest. We're very impressed.
+dialog: A bit skeptical, I must admit, but
+dialog: impressed.
+speaker_heading: KEATON
+dialog: Skeptical.
+speaker_heading: RENAULT
+dialog: We find the concept brilliant, but
+dialog: New York is difficult for new
+dialog: restaurants. How can we be certain
+dialog: that our money will be returned in
+dialog: the long run?
+text: Keaton looks at Edie and smiles confidently.
+speaker_heading: KEATON
+dialog: It's simple gentlemen, design
+dialog: versatility. A restaurant that can
+dialog: change with taste without losing the
+dialog: overall aesthetic. Our atmosphere
+dialog: won't be painted on the walls.
+speaker_heading: FORTIER
+dialog: This was the part of the proposal
+dialog: that intrigued us, but I'm not sure
+dialog: I follow.
+speaker_heading: KEATON
+dialog: Let's say for example -
+speaker_heading: VOICE (O.S.)
+dialog: This I had to see myself.
+text: Keaton looks up. He sees David Kujan. Behind him are the
+dialog: very serious looking guys in suits.
+dialog: Keaton is not happy to see them.
+speaker_heading: KEATON
+dialog: Dave. I'm in a meeting.
+speaker_heading: KUJAN
+dialog: Time for another one.
+speaker_heading: KEATON
+dialog: This is my attorney, Edie Finneran.
+dialog: (Gesturing)
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 9
+speaker_heading: KEATON (CONT'D)
+dialog: This is Mr. Renault and Mr. Fortier.
+dialog: Everyone, this is David Kujan.
+speaker_heading: KUJAN
+dialog: Special Agent Kujan. U.S. Customs.
+dialog: (Gestures to men behind
+dialog: him)
+dialog: These gentlemen are with the New
+dialog: York police department. You look
+dialog: great, Keaton. Better than I would
+dialog: have thought.
+speaker_heading: RENAULT
+dialog: Is there a problem, Mr. Keaton?
+speaker_heading: KUJAN
+dialog: The small matter of a stolen truck-
+dialog: load of guns that wound up on a boat
+dialog: to Ireland last night.
+text: Renault and Fortier's confusion is giving way to suspicion.
+speaker_heading: FORTIER
+dialog: Mr. Keaton?
+speaker_heading: KEATON
+dialog: If you will excuse us for a moment,
+dialog: gentlemen.
+speaker_heading: KUJAN
+dialog: We need to ask you some questions
+dialog: downtown. You'll be quite awhile.
+dialog: Renault starts to get up.
+speaker_heading: RENAULT
+dialog: We should leave you to discuss
+dialog: whatever this is.
+speaker_heading: KEATON
+dialog: Please. Sit.
+text: Keaton stands up and throws a wad of money on the table to
+text: cover the check. He looks at Edie. She moves to stand, but
+text: he sits her back down with a hand on her shoulder.
+speaker_heading: KEATON (CONT'D)
+dialog: Enjoy the meal.
+dialog: (To Edie)
+dialog: I'll call you.
+text: Kujan takes him by the arm, but Keaton yanks away.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 10
+text: He looks out over the dozens of other faces in the restaurant.
+text: Everyone is looking at him with some level of surprise. If
+text: Keaton is humiliated by the whole affair, he hides it well.
+scene_heading: 10 INT. LOCK-UP HALLWAY - NIGHT 10
+text: A police officer steps into the frame and opens the steel
+dialog: door.
+text: FOLLOW A PAIR OF FEET as they shuffle across the cement floor.
+text: The shoes are shabby and worn, as are the wrinkled pants
+text: that hang too low and loose at the cuffs. The right foot is
+text: turned slightly inward and falls with a hard limp. It is
+dialog: clear that the knee does not extend fully.
+text: The sound of a steel door opening. The bottom corner of a
+text: steel cage comes into view. Another set of feet falls into
+text: step with the first. Another steel door and another set of
+text: feet. Another door, another and another. Five pairs of feet
+dialog: walk single file down the hall.
+text: The lame feet are in the front of the line. They come to
+text: another steel door, this one solid and covered with dents
+dialog: and rivets.
+speaker_heading: CRANE UP TO REVEAL:
+text: ROGER KINT, VERBAL to his few friends. He has a deeply lined
+dialog: face, making his thirty-odd years a good guess at best. From
+dialog: his twisted left hand, we can see that he suffers from a
+text: slight but not debilitating palsy. Behind him are Dean Keaton,
+dialog: Fred Fenster, McManus and Todd Hockney. Verbal steps through
+text: the door, followed by the rest.
+speaker_heading: VERBAL (V.O.)
+dialog: It didn't make sense that I be there.
+dialog: I mean these guys were hard-core
+dialog: hijackers, but there I was. At that
+dialog: point, I wasn't scared, I knew I
+dialog: hadn't done anything they could do
+dialog: me for. Besides, it was fun. I got
+dialog: to make like I was notorious.
+scene_heading: 11 INT. LINE-UP ROOM 11
+text: The five men are ushered into the room in front of a white
+text: wall painted with horizontal blue stripes. Each has a number
+text: at either end to denote the height of the man in front of
+dialog: it.
+dialog: Between these lines are thinner blue lines to tell the
+dialog: specific height in inches.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 11
+text: Bright lights shine on all of them. They squint, eyes
+dialog: adjusting.
+text: Keaton leans forward a bit and looks at the men in line with
+text: him. He shares a look of familiarity with Fenster and then
+text: McManus. Hockney smiles at all of them.
+speaker_heading: MCMANUS
+dialog: (To Keaton)
+dialog: Where you been, man?
+speaker_heading: VOICE (O.S.)
+dialog: SHUT UP IN THERE. Alright, you all
+dialog: know the drill. When your number is
+dialog: called, step forward and repeat the
+dialog: phrase you've been given. Understand?
+dialog: The men all nod.
+speaker_heading: VOICE (O.S.) (CONT'D)
+dialog: Number one. Step forward.
+text: Hockney takes a step forward. He looks directly into a mirror
+text: on the other side of the room. It is three feet square and
+text: we can make out faint light behind it. It is a two-way. He
+text: speaks in a complete dead-pan.
+speaker_heading: HOCKNEY
+dialog: Hand-me-the-keys, you-fucking-cock-
+dialog: sucker.
+speaker_heading: VOICE (O.S.)
+dialog: Number two. Step forward.
+text: McManus steps up and makes a gun with his thumb and
+text: forefinger. He mocks criminal intensity, pointing at the
+dialog: mirror. He camps up his line.
+speaker_heading: MCMANUS
+dialog: Give me the keys, you motherfucking,
+dialog: cocksucking pile of shit, or I'll
+dialog: rip off your--
+speaker_heading: VOICE (O.S.)
+text: KNOCK IT OFF. Get back in line.
+dialog: McManus steps back.
+text: The rest of the men do their bit as Verbal speaks.
+speaker_heading: VERBAL (V.O.)
+dialog: It was bullshit. The whole rap was a
+dialog: setup. Everything is the cops' fault.
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 12
+speaker_heading: VERBAL (V.O.) (CONT'D)
+dialog: You don't put guys like that in a
+dialog: room together. Who knows what can
+dialog: happen?
+scene_heading: 12 INT. INTERROGATION ROOM - NIGHT 12
+text: McManus sits in a chair in front of a white wall. He smiles
+dialog: at someone off-screen.
+speaker_heading: OVERLAPPED:
+speaker_heading: MCMANUS
+dialog: This has to be embarrassing for you
+dialog: guys, huh? I mean you know and I
+dialog: know this is a load of shit, but at
+dialog: least I don't have a captain with
+dialog: his dick in my ass making me play
+dialog: along. That has got to suck,
+speaker_heading: VOICE (O.S.)
+dialog: Are you done?
+speaker_heading: MCMANUS
+dialog: Do you work for a broad? That would
+dialog: have to be the worst.
+speaker_heading: VOICE (0.S.)
+dialog: Are you done?
+speaker_heading: MCMANUS
+dialog: Still, I guess dignity is a small
+dialog: pries to pay for medical and a
+dialog: pension. A small pension, mind you,
+dialog: but a pension nonetheless.
+speaker_heading: VERBAL (V.O.)
+dialog: They drilled us all night. Somebody
+dialog: was pissed about that truck getting
+dialog: knocked off and the cops had nothing.
+dialog: They were hoping somebody would slip.
+dialog: Give them something to go on. They
+dialog: knew we wouldn't fight it because
+dialog: they knew how to lean on us. They'd
+dialog: been doing it forever. Our rights
+dialog: went right out the window. It was a
+dialog: violation. I mean disgraceful. They
+dialog: went after McManus first. He was a
+dialog: good guy. Crazy though. A top notch
+dialog: entry man.
+speaker_heading: VOICE (O.S.)
+dialog: So where'd you dump the truck?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 13
+speaker_heading: MCMANUS
+dialog: What truck?
+speaker_heading: VOICE (O.S.)
+dialog: The truck with the guns, fucko.
+speaker_heading: MCMANUS
+dialog: You kill me, you really do. Where's
+dialog: my phone call?
+speaker_heading: VOICE (O.S.)
+dialog: Right here. Suck it out.
+speaker_heading: MCMANUS
+dialog: Clever guy.
+speaker_heading: VOICE (O.S.)
+dialog: You want to know what your buddy
+dialog: Fenster told us?
+speaker_heading: MCMANUS
+dialog: Do I look stupid enough to fall for
+dialog: that? Jesus Christ. Beat me if you
+dialog: gotta, but no more of the candy-land
+dialog: tactics, man.
+speaker_heading: VOICE (O.S.)
+dialog: WHERE'S THE FUCKING TRUCK?
+scene_heading: 13 INT. INTERROGATION ROOM 13
+text: Now Fenster is in the seat. He sweats profusely.
+speaker_heading: FENSTER
+dialog: I want to call my lawyer. I don't
+dialog: know about any truck. I was in
+dialog: Connecticut all night on Friday.
+speaker_heading: VOICE (O.S.)
+dialog: That's not what McManus said.
+speaker_heading: OVERLAPPED:
+speaker_heading: FENSTER
+dialog: Who?
+speaker_heading: VOICE
+dialog: McManus. He told us another story
+dialog: altogether.
+speaker_heading: FENSTER
+dialog: Was it the one about the hooker with
+dialog: dysentery I swear, she never mentioned
+dialog: money until I came.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 14
+speaker_heading: VOICE (O.S.)
+dialog: Be fold us about the truck.
+speaker_heading: FENSTER (O.S.)
+dialog: To be honest, it was more like a
+dialog: mobile home. She made a lot of money,
+dialog: too.
+speaker_heading: VOICE (O.S.)
+dialog: Who took the guns off your hands?
+speaker_heading: FENSTER
+dialog: Hey, are we talking about the same
+dialog: thing?
+speaker_heading: VOICE (O.S.)
+dialog: I'm losing my patience.
+speaker_heading: VERBAL (V.O.)
+dialog: Fenster always worked with McManus.
+dialog: He was a real tight-ass, but when it
+dialog: came to the job, he was right on.
+dialog: Smart guy. A gopher. Got whatever
+dialog: you needed for next to nothing.
+speaker_heading: FENSTER
+dialog: You guys got nothing on me. Where's
+dialog: your probable cause?
+speaker_heading: VOICE (O.S.)
+dialog: You're a known hijacker. You're
+dialog: sweating like a guilty motherfucker.
+dialog: That's my p.c. Save us the time.
+dialog: Tell us where the truck is.
+text: Fenster knocks on the table.
+speaker_heading: FENSTER
+dialog: HELLO? Can you hear me in the back?
+dialog: P.C.
+text: He looks under his chair.
+speaker_heading: FENSTER (CONT'D)
+dialog: Where is it? I'm lookin'. It's not
+dialog: happening. What's going on with that?
+dialog: I want--
+text: Hockney's turn in the chair. He laughs it all off.
+speaker_heading: HOCKNEY
+dialog: - my lawyer. I'll have your badge,
+dialog: cocksucker.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 15
+speaker_heading: OVERLAPPED:
+speaker_heading: HOCKNEY (CONT'D)
+dialog: I know you. You don't think I know
+dialog: you're on the take. This whole fucking
+dialog: precinct is dirty. You don't have a
+dialog: fucking leg to stand on.
+speaker_heading: VERBAL (V.O.)
+dialog: Hockney was just a bad bastard. Good
+dialog: with explosives. Mean as a snake
+dialog: when it mattered .
+speaker_heading: VOICE (O.S.)
+dialog: You think so, tough guy? I can put
+dialog: you in Queens the day of the
+dialog: hijacking.
+speaker_heading: HOCKNEY
+dialog: I live in Queens. What the fuck is
+dialog: this? You come into my store and
+dialog: lock me up in front of my customers.
+dialog: What the hell is wrong with this
+dialog: country? Are you guys gonna charge
+dialog: me or what?
+speaker_heading: VOICE (O.S.)
+dialog: You know what happens if you do
+dialog: another turn in the joint?
+speaker_heading: HOCKNEY
+dialog: I'll fuck your father in the shower.
+dialog: Charge me, dick-head.
+scene_heading: 14 INT. INTERROGATION ROOM 14
+text: Now Keaton sits in the chair, cool and indifferent.
+speaker_heading: VERBAL (V.O.)
+dialog: Keaton was the real prize for them,
+dialog: for obvious reasons.
+speaker_heading: VOICE (O.S.)
+dialog: I'll charge you when I'm ready.
+speaker_heading: KEATON
+dialog: With what?
+speaker_heading: VOICE (O.S.)
+dialog: You know damn well, dead-man.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 16
+speaker_heading: KEATON
+dialog: Hey, that was your mistake, not mine.
+dialog: Did you ever think to ask me? I've
+dialog: been walking around with the same
+dialog: face, same name - I'm a businessman,
+dialog: fellas.
+speaker_heading: VOICE (O.S.)
+dialog: What's that? The restaurant business?
+dialog: Not anymore From now on you're in
+dialog: the getting-fucked-by-us business .
+dialog: I'm gonna make you famous, cocksucker.
+text: Keaton shows just a flicker of contempt. The threat has hit
+dialog: home.
+speaker_heading: KEATON
+dialog: Like I said. It was all your mistake.
+dialog: Charge me with it and I'll beat it.
+dialog: Let's get back to the truck.
+text: A FIST flies into the frame and connects with Keaton's jaw.
+text: His head snaps back, blood flowing freely from his mouth.
+speaker_heading: 15 INT. CELL BLOCK 15
+text: Keaton is brought in to a holding where he joins Fenster,
+text: Hockney, Verbal and McManus. He sits in a corner and keeps
+dialog: to himself.
+dialog: Fenster is in mid-tirade.
+speaker_heading: FENSTER
+dialog: Somebody should do something. What
+dialog: is this shit - getting hauled in
+dialog: every five minutes? Okay, so I did
+dialog: a little time, does that mean I get
+dialog: railed every time a truck finds its
+dialog: way off the planet?
+text: McManus is silently staring at Keaton, who sits on a bench,
+dialog: looking away.
+speaker_heading: HOCKNEY
+dialog: These guys got no probable cause.
+speaker_heading: FENSTER
+dialog: You're fuckin' A right, no P.C. Well
+dialog: screw P.C. No right. No goddamn right.
+dialog: You do some time, they never let you
+dialog: go. Treat me like a criminal, I'll
+dialog: end up a criminal.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 17
+speaker_heading: HOCKNEY
+dialog: You are a criminal.
+speaker_heading: FENSTER
+dialog: Why you gotta go and do that? I'm
+dialog: trying to make a point.
+speaker_heading: KEATON
+dialog: Then make it. Christ, you're making
+dialog: me tired all over.
+dialog: McManus looks at Keaton.
+speaker_heading: MCMANUS
+dialog: I heard you were dead, Keaton.
+speaker_heading: KEATON
+dialog: You heard right.
+speaker_heading: HOCKNEY
+dialog: The word I got is you hung up your
+dialog: spurs, man. What's that all about?
+speaker_heading: MCMANUS
+dialog: What's this?
+speaker_heading: HOCKNEY
+dialog: Rumor has it, Keaton's gone straight -
+dialog: cleaning house. I hear he's tapping
+dialog: Edie Finneran.
+speaker_heading: MCMANUS
+dialog: Who?
+speaker_heading: HOCKNEY
+dialog: She's a heavy-weight criminal lawyer
+dialog: from uptown. Big-time connected. She
+dialog: could erase Dillinger's record if
+dialog: she tried. I hear she's Keaton's
+dialog: meal ticket.
+dialog: (To Keaton)
+dialog: Is it true?
+speaker_heading: MCMANUS
+dialog: What about it, Keaton? You a lawyer's
+dialog: wife. What sort of "retainer" you
+dialog: giving her?
+text: Keaton shoots McManus a fiery glare.
+speaker_heading: FENSTER
+dialog: I'd say you've gotten on his main
+dialog: and central nerve, McManus.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 18
+speaker_heading: KEATON
+dialog: Do your friend a favor, Fenster,
+dialog: keep him quiet .
+speaker_heading: MCMANUS
+dialog: You're clean, Keaton? Say it ain't
+dialog: so. Was it you that hit that truck?
+speaker_heading: FENSTER
+dialog: Forget him. It's not important. I
+dialog: was trying to make a point.
+speaker_heading: KEATON
+dialog: (Ignoring McManus)
+dialog: This whole thing was a shakedown.
+speaker_heading: MCMANUS
+dialog: What makes you say that?
+speaker_heading: KEATON
+dialog: How many times have you been in a
+dialog: line-up? It's always you and four
+dialog: dummies. The P.D. pays homeless guys
+dialog: ten bucks a head half the time. No
+dialog: way they'd line five felons in the
+dialog: same row. No way. And what the hell
+dialog: is a voice line-up? A public defender
+dialog: could get you off of that.
+speaker_heading: FENSTER
+dialog: So why the hell was I hauled in and
+dialog: cavity searched tonight?
+speaker_heading: KEATON
+dialog: It was the Feds. A truck load of
+dialog: guns gets snagged, Customs comes
+dialog: down on N.Y.P.D. for some answers -
+dialog: they come up with us. They're grabbing
+dialog: at straws. It's politics - nothing
+dialog: you can do.
+speaker_heading: FENSTER
+dialog: I had a guy's fingers in my asshole
+dialog: tonight.
+speaker_heading: HOCKNEY
+dialog: Is it Friday already?
+speaker_heading: FENSTER
+dialog: Fuck you. I'11 never shit right again.
+dialog: So who did it? Own up.
+speaker_heading: KEATON
+dialog: I don't want to know.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 19
+speaker_heading: MCMANUS
+dialog: Nobody asked you, workin'-man.
+speaker_heading: HOCKNEY
+dialog: Fuck who did it. What I want to know
+dialog: is, who's the gimp?
+text: ALL EYES suddenly turn on Verbal. He has been quietly
+dialog: listening the whole time without uttering a word.
+speaker_heading: KEATON
+dialog: He's alright.
+speaker_heading: HOCKNEY
+dialog: How do I know that? How about it,
+dialog: pretzel-man? What's your story?
+speaker_heading: KEATON
+dialog: His name is Verbal Kint. I thought
+dialog: you guys knew him.
+speaker_heading: MCMANUS
+dialog: Verbal?
+speaker_heading: VERBAL
+dialog: Roger really. People say I talk too
+dialog: much.
+speaker_heading: HOCKNEY
+dialog: Yeah, I was gonna tell you to shut
+dialog: up.
+speaker_heading: KEATON
+dialog: We've met once or twice. Last time
+dialog: was in...
+speaker_heading: VERBAL
+dialog: County. I was in for fraud.
+speaker_heading: KEATON
+dialog: You were waiting for a line-up then,
+dialog: too. What happened with that?
+speaker_heading: VERBAL
+dialog: I walked. Ninety days, suspended.
+speaker_heading: HOCKNEY
+dialog: So you did it?
+speaker_heading: VERBAL
+dialog: To your mother's ass.
+text: Verbal looks away from Hockney, awaiting a violent response.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 20
+text: Everyone slowly starts to laugh. Hockney looks as if he is
+text: about to boil in his own skin.
+speaker_heading: KEATON
+dialog: (To Hockney)
+dialog: Let it go.
+text: Verbal smiles at Keaton appreciatively.
+text: McManus stands and walks to the toilet in the corner of the
+dialog: cell. He starts taking a leak;
+speaker_heading: MCMANUS
+dialog: Look, we've all been put out by this,
+dialog: I figure we owe it to ourselves to
+dialog: salvage a little dignity. Now Fenster
+dialog: and I got wind of a possible job -
+speaker_heading: KEATON
+dialog: Why don't you just calm down'
+speaker_heading: HOCKNEY
+dialog: What do you care what he says?
+speaker_heading: MCMANUS
+dialog: Yeah, I'm just talking here, and
+dialog: Hockney seems to want to hear me
+dialog: out. I know Fenster is with me -
+dialog: (To Verbal)
+dialog: How about you, guy?
+dialog: McManus finishes pissing.
+speaker_heading: VERBAL
+dialog: I'm interested, sure.
+speaker_heading: MCMANUS
+dialog: There, so you see, I'm going to
+dialog: exercise my right to free assembly.
+text: McManus taps the bars of his cell and the others LAUGH.
+speaker_heading: KEATON
+dialog: I'm not kidding. Shut your mouth.
+speaker_heading: MCMANUS
+dialog: You're missing the point.
+speaker_heading: KEATON
+dialog: No, you're missing the point. Shut
+dialog: up. I don't want to hear anything
+dialog: you have to say. I don't want to
+dialog: know about your "job". Just don't
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 21
+speaker_heading: KEATON (CONT'D)
+dialog: let me hear you. I want nothing to
+dialog: do with any of you -
+dialog: (Beat)
+dialog: I beg your pardon but all of you can
+dialog: go to hell.
+speaker_heading: MCMANUS
+dialog: Dean Keaton, gone the high road.
+dialog: What is the world coming to?
+text: McManus and Keaton stare at one another for a long and tense
+text: moment. Finally McManus turns to the others.
+speaker_heading: MCMANUS (CONT'D)
+dialog: Forget him then.
+dialog: (Whispering)
+dialog: Now I can't talk about this here in
+dialog: any detail, but listen up...
+text: Everyone but Keaton gravitates toward McManus's cell as he
+text: begins to speak in low, hushed tones.
+speaker_heading: VERBAL (V.O.)
+dialog: And that was how it began. The five
+dialog: of us brought in on a trumped-up
+dialog: charge to be leaned on by half-wits.
+dialog: What the cops never figured out, and
+dialog: what I know now, was that these men
+dialog: would never break, never lie down,
+dialog: never bend over for anybody. ..
+dialog: Anybody.
+scene_heading: 16 EXT. PIER - DAY - SAN PEDRO - PRESENT DAY 16
+text: It is morning in the aftermath of the opening scene.
+text: Harsh sunlight shines on a line of body bags on the dock.
+dialog: Police swarm everywhere, photographers are taking pictures
+text: of the scene while a team of men in rolled up sleeves and
+text: plastic gloves pick at the remains.
+text: Two men on a fire boat operate a water cannon, dousing the
+text: smoldering remains of a burned-out ships hull.
+text: Watching this from the edge of the pier is a man in a dark
+dialog: suit. He is SPECIAL AGENT JACK BAER of the F.B.I. He is tall
+text: and fit, in his late thirties. He gazes out over the water
+dialog: thoughtfully.
+text: A UNIFORM COP trots up to him.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 22
+speaker_heading: COP
+dialog: Who are you?
+text: Baer holds up his badge without looking at the man.
+speaker_heading: BAER
+dialog: Agent Jack Baer, F.B.I. How many
+dialog: dead?
+text: Before the cop can answer, Baer turns and walks along the
+dialog: line of body bags.
+speaker_heading: COP
+dialog: Fifteen so far. We're still pulling
+dialog: some bodies out of the water.
+text: Baer eyes the corpses on the dock, burned beyond recognition.
+speaker_heading: COP (CONT'D)
+dialog: Looking for anyone in particular?
+text: Baer looks at the cop for the first time, unamused.
+speaker_heading: BAER
+dialog: I don't want any of the bodies taken
+dialog: away until I've had a chance to go
+dialog: over this, understood?
+speaker_heading: COP
+dialog: I have to clear the scene. I've got
+dialog: word direct from the Chief.
+text: Baer lights a cigarette, only half listening.
+speaker_heading: BAER
+dialog: (Unimpressed)
+dialog: Yes, the chief. Spooky stuff. Any
+dialog: survivors?
+speaker_heading: COP
+dialog: Two. There's a guy in county hospital,
+dialog: but he's in a coma. The D.A. has the
+dialog: other guy - A cripple - from New
+dialog: York I think. Listen, the Chief said -
+speaker_heading: BAER
+dialog: Excuse me.
+text: Baer walks away from the cop, ignoring him completely. He
+text: wanders through the carnage on the pier.
+speaker_heading: 17 EXT. OCEAN 17
+text: A half mile out from the pier.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 23
+text: The sea is choppy, stirred by the wind. An object floats
+text: into view a few feet away, bobbing in the water.
+text: It is A DEAD BODY - a man, face down, wearing a CHECKERED
+text: BATHROBE. He drifts quietly toward the open ocean.
+scene_heading: 18 INT. HEARING ROOM - DAY - LOS ANGELES PRESENT 18
+text: Verbal Kint sits in a chair in front of a microphone attached
+text: to a tape recorder, his brow beaded with sweat.
+text: On the wall behind him is the seal of the STATE OF CALIFORNIA
+text: He is cleaner, better kept, in a well-cut suit and neatly
+dialog: trimmed hair. He looks older than he did in New York - worn
+dialog: down.
+speaker_heading: VOICE #1 (O.S.)
+dialog: My client offers his full cooperation
+dialog: in these proceedings. In exchange,
+dialog: his testimony is to be sealed and
+dialog: all matters incriminating to himself
+dialog: are to be rendered inadmissible.
+speaker_heading: VOICE #2 (O.S.)
+dialog: The district attorney's office will
+dialog: comply provided -
+speaker_heading: VOICE #1
+dialog: No provisions, nothing. My clients
+dialog: testimony for his immunity.
+speaker_heading: VOICE #2
+dialog: May I be frank, Counselor? I suspect
+dialog: your political power as much as I
+dialog: respect it. I don't know why Mr.
+dialog: Kint has so many faceless allies in
+dialog: City Hall, and I don't care. The
+dialog: embarrassment he helped cause the
+dialog: city of New York will not happen
+dialog: here.
+speaker_heading: VOICE #1
+dialog: Immunity.
+speaker_heading: VOICE #2
+dialog: Counselor, I will prosecute your
+dialog: client.
+speaker_heading: VOICE #1
+dialog: Then prosecute. I will be very
+dialog: impressed to see if the District
+dialog: Attorney manages to bring in twenty-
+dialog: seven simultaneous counts of murder
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 24
+speaker_heading: VOICE #1 (CONT'D)
+dialog: against one man with cerebral palsy.
+dialog: I would think a man with your job
+dialog: would agree with these alleged
+dialog: "faceless people in City Hall" you
+dialog: mention.
+speaker_heading: VOICE #2 1
+dialog: One would think the counsel is veiling
+dialog: a threat.
+speaker_heading: VOICE #1
+dialog: Counsel isn't veiling anything.
+speaker_heading: VOICE #2
+dialog: I'11 take my chances then. I'11 feel
+dialog: safer without a job if a man like
+dialog: Mr. Kint is behind bars.
+speaker_heading: VOICE #1
+dialog: Mr. Kint will plead guilty to weapons
+dialog: possession.
+speaker_heading: VOICE #2
+dialog: You're joking.
+speaker_heading: VOICE #1
+dialog: Weapons. Misdemeanor one.
+speaker_heading: VOICE #2
+dialog: Counselor, you're insulting me.
+speaker_heading: VOICE #1
+dialog: Counselor, you're bluffing. Shall I
+dialog: push for misdemeanor two?
+text: Voices mumble off screen. Verbal fidgets in his chair.
+speaker_heading: VOICE #2
+dialog: Misdemeanor one. Fine. This is
+dialog: ludicrous.
+text: A tiny smile and a genuine look of disbelief flash across
+dialog: Verbal's face.
+speaker_heading: VOICE #2 (CONT'D)
+dialog: (Clearing throat)
+dialog: As for the rest of the charges grand
+dialog: larceny, arson... murder - the
+dialog: district attorney will accept the
+dialog: subject's testimony in connection
+dialog: with the above mentioned events and
+dialog: in exchange will offer complete
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 25
+speaker_heading: VOICE #2 (CONT'D)
+dialog: immunity. The transcript... The
+dialog: transcript of said testimony will be
+dialog: sealed and all matters incriminating
+dialog: to Mr. Kint will be rendered
+dialog: inadmissible.
+text: Verbal lets out a long-held sigh of relief.
+scene_heading: 19 INT. POLICE STATION - HALLWAY - DAY 19
+text: David Kujan is walking quickly beside SERGEANT RABIN, a dark
+dialog: and weathered looking man in his late thirties. They move up
+text: a staircase into the heart of police headquarters.
+speaker_heading: KUJAN
+dialog: What do you mean I can't see him?
+speaker_heading: RABIN
+dialog: The D.A. came dfgown here last night
+dialog: ready to arraign before they even
+dialog: moved him to county. Kint's lawyer
+dialog: comes in and five minutes later, the
+dialog: D.A. comes out looking like he'd
+dialog: been bitch-slapped by the boogey
+dialog: man. They took his statement and cut
+dialog: him a deal.
+speaker_heading: KUJAN
+dialog: Did they charge him with anything?
+speaker_heading: RABIN
+dialog: Weapons. Misdemeanor two.
+speaker_heading: KUJAN
+dialog: What the fuck is that?
+text: Rabin motions for Kujan to lower his voice. He points out
+text: that they are walking through a bullpen filled with desks
+text: where a number of other police are working within earshot.
+speaker_heading: RABIN
+dialog: I give the D.A. credit for getting
+dialog: that much to stick. This whole thing
+dialog: has turned political. The Mayor was
+dialog: here - the chief - the Governor called
+dialog: this morning, for Christ's sake.
+dialog: This guy is protected - From up on
+dialog: high by the prince of fucking
+dialog: darkness.
+speaker_heading: KUJAN
+dialog: When does he post bail?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 26
+speaker_heading: RABIN
+dialog: Two hours, tops.
+speaker_heading: KUJAN
+dialog: I want to see him.
+text: Rabin comes to an office door with his name on it. He opens
+dialog: it and lets Kujan in before following.
+speaker_heading: 20 INT. RABIN'S OFFICE 20
+speaker_heading: RABIN
+dialog: Dave, please.
+dialog: Rabin's office can only be described as a disaster area. The
+dialog: desk is cluttered with weeks, perhaps months or even years
+dialog: of paperwork that could never conceivably be sorted out.
+text: Above his desk is a bulletin board. It is a breathtaking
+dialog: catastrophe of papers, wanted posters, rap-sheets, memos and
+dialog: post-its. This is in the neighborhood of decades. Rabin is a
+dialog: man with a system so cryptic, so far beyond the comprehension
+text: of others, he himself is most likely baffled by it.
+speaker_heading: RABIN (CONT'D)
+dialog: Even if I was to let you talk to
+dialog: him, he won't talk to you. He's
+dialog: paranoid about being recorded and he
+dialog: knows the interrogation rooms are
+dialog: wired
+speaker_heading: KUJAN
+dialog: This won't be an' interrogation,
+dialog: just a... friendly chat to kill
+dialog: time.
+speaker_heading: RABIN
+dialog: (enunciating)
+dialog: He won't go into the interrogation
+dialog: room.
+speaker_heading: KUJAN
+dialog: Someplace else, then.
+speaker_heading: RABIN
+dialog: Where?
+dialog: Kujan looks around Rabin's messy office.
+speaker_heading: RABIN
+dialog: No, no, no, no, no.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 27
+speaker_heading: KUJAN
+dialog: If it was a dope deal, where's the
+dialog: dope, if it was a hit, who called it
+dialog: in?
+speaker_heading: RABIN
+dialog: And I am sure you have a host of
+dialog: wild theories to answer these
+dialog: questions.
+speaker_heading: KUJAN
+dialog: You know damn well what I think.
+speaker_heading: RABIN
+dialog: That's crazy, Dave and it doesn't
+dialog: matter. He has total immunity and
+dialog: his story checks out. He doesn't
+dialog: know what you want to know.
+speaker_heading: KUJAN
+dialog: I don't think he does. Not exactly,
+dialog: but there's a lot more to his story.
+dialog: I want to know why twenty-seven men
+dialog: died on that pier for what looks to
+dialog: be ninety-one million dollars worth
+dialog: of dope that wasn't there. Above
+dialog: all, I want to be sure that Dean
+dialog: Keaton is dead.
+speaker_heading: RABIN
+dialog: He's dead.
+speaker_heading: KUJAN
+text: Two hours. Just until he makes bail.
+speaker_heading: RABIN
+dialog: They're all dead. No matter how tough
+dialog: you say this Keaton was, no one on
+dialog: that boat could've made it out alive.
+scene_heading: 21 INT. HOSPITAL - DAY 21
+text: A door marked INTENSIVE CARE.
+text: The door BURSTS OPEN. SUDDENLY, the hallway is a flurry of
+dialog: activity.
+text: DOCTOR LISA PLUMBER, age fifty, walks quickly beside JACK
+speaker_heading: BAER.
+dialog: Baer walks with all of the determination of a battalion of
+dialog: Chinese infantry.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 28
+text: DOCTOR RIDGLY WALTERS, a young intern in his late twenties
+dialog: rushes up to them.
+speaker_heading: PLUMBER
+dialog: Ridgly, this is Special Agent Jack
+dialog: Baer from the F.B.I. Agent Baer,
+dialog: this is Doctor Ridgly Waiters.
+speaker_heading: RIDGLY
+dialog: Nice to meet you.
+speaker_heading: BAER
+dialog: Is he talking?
+speaker_heading: RIDGLY
+dialog: He regained consciousness less than
+dialog: an hour ago. He spoke - not English -
+dialog: then he lapsed.
+speaker_heading: BAER
+dialog: Hungarian?
+speaker_heading: RIDGLY
+dialog: I don't -
+speaker_heading: BAER
+dialog: It was Hungarian. Most of them were
+dialog: Hungarians. Any fluent Hungarians on
+dialog: your staff?
+speaker_heading: RIDGLY
+dialog: We have a Turkish audiologist.
+text: Ridgly opens a door and Baer barrels through.
+speaker_heading: 22 INT. HOSPITAL ROOM 22
+scene_heading: (<< .. DENOTES LINES SPOKEN IN HUNGARIAN)
+text: Baer comes to an abrupt halt at the foot of a bed surrounded
+text: by a massive tangle of medical equipment. In the center of
+text: it all is the as yet unnamed ARKOSH KOVASH, mid-thirties.
+text: His body is nearly mummified in bandages and plaster from
+dialog: waist to chin.
+speaker_heading: KOVASH
+dialog: <>
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 29
+speaker_heading: BAER
+dialog: will he die?
+speaker_heading: PLUMBER
+dialog: There's a chance.
+text: Baer walks over to Rovash and kneels down on the bed beside
+dialog: him.
+text: He looks closely at his battered and scalded face. He listens
+text: to him far a moment. Kovash goes on incessantly.
+speaker_heading: KOVASH
+dialog: <>
+text: Baer pulls a cellular phone out of his jacket and dials.
+speaker_heading: BAER
+dialog: Call hospital security and put a man
+dialog: on the door until the police get
+dialog: here.
+speaker_heading: KOVASH
+dialog: <>
+text: Ridgly runs out of the room. Kovash babbles louder and louder,
+text: trying to get Baer's attention. Baer sticks a finger in one
+dialog: ear to block him out and hear the phone.
+speaker_heading: PLUMBER
+dialog: Is he dangerous?
+speaker_heading: BAER
+dialog: Yes.
+text: Someone picks up on the other end of the phone.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 30
+speaker_heading: BAER (CONT'D)
+dialog: Joel, it's Baer. I'm down at L.A.
+dialog: county. The guy they pulled out of
+dialog: the harbor is Arkosh Kovash... Yes,
+dialog: I'm sure... No, he's all fucked up...
+dialog: What? I can't hear you.
+dialog: (To Arkosh)
+dialog: Shut up, Hugo, I'm on the phone.
+dialog: (Into Phone)
+dialog: Yes... No... Not until I put someone
+dialog: on him. Listen, I need you to send
+dialog: me someone who can speak Hungarian.
+text: He's awake and talking like a Thai
+dialog: hooker... How should I know? Get me
+dialog: someone who can talk to him -
+text: Baer is suddenly distracted by something Kovash has said. In
+text: the middle of a long string of unintelligible dialect, he
+dialog: has spouted two words that have gotten Baer's attention.
+text: He turns and looks down at the tattered man in the bed.
+dialog: Kovash realizes Baer is listening and says the two words
+dialog: again.
+speaker_heading: KOVASH
+dialog: Keyser - Soze.
+speaker_heading: BAER
+dialog: What?
+text: He waves his hand, gesturing for Kovash to say it again.
+speaker_heading: KOVASH
+dialog: Keyser - Soze.
+speaker_heading: BAER
+dialog: No shit?
+dialog: (Into Phone)
+dialog: Joel, call Dan Metzheiser over at
+dialog: Justice and find Dave Kujan from
+dialog: Customs.
+scene_heading: 23 INT. HALLWAY - POLICE STATION 23
+text: Rabin walks out of a small room. Behind him, we catch a
+text: glimpse of a workroom with a bench covered with wires.
+text: Kujan comes out a moment later, gently fixing his tie.
+text: Rabin opens the door to his office and Kujan enters. Rabin
+text: follows, looking up and down the hall before closing the
+dialog: door behind them.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 31
+text: As the door closes we can just make out the back of Verbal's
+text: head. He is seated in Rabin's office, smoking a cigarette.
+speaker_heading: 24 INT. RABIN'S OFFICE 24
+text: Kujan and Rabin sit down across from Verbal.
+speaker_heading: KUJAN
+dialog: (Exasperated)
+dialog: Verbal, you know we're trying to
+dialog: help you.
+speaker_heading: VERBAL
+dialog: Sure. And I appreciate that. And I
+dialog: want to help you, Agent Kujan. I
+dialog: like cops. I would have liked to
+dialog: have been a Fed myself but my C.P.
+dialog: was -
+speaker_heading: KUJAN
+dialog: Verbal, I know you know something. I
+dialog: know you're not telling us everything.
+speaker_heading: VERBAL
+dialog: I told the D.A. everything I know.
+speaker_heading: 25 INT. WORKSHOP 25
+text: Rabin stands over LOUIS, a messy looking technician at his
+text: workbench in a room full of electronic equipment. He adjusts
+text: several dials on a receiver until the voices of Kujan and
+text: Verbal come clearly through a tinny speaker on the wall.
+text: Rabin reaches over for a nearby pot of coffee.
+speaker_heading: KUJAN (VOICE)
+dialog: I know you liked Keaton I know you
+dialog: think he was a good man.
+speaker_heading: VERBAL (VOICE)
+dialog: I know he was good.
+speaker_heading: KUJAN
+dialog: He was a corrupt cop, Verbal.
+speaker_heading: 26 INT. RABIN'S OFFICE 26
+speaker_heading: VERBAL
+dialog: Sure. Fifteen years ago, but he was
+dialog: a good thief Anyway, the cops wouldn't
+dialog: let him go legit.
+speaker_heading: KUJAN
+dialog: Keaton was a piece of shit.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 32
+speaker_heading: VERBAL
+dialog: You trying to get a rise out of me,
+dialog: Agent Kujan?
+speaker_heading: KUJAN
+dialog: I just want to hear your story.
+speaker_heading: VERBAL
+dialog: It's right here.
+text: He taps a finger on the stack of paper that Kujan brought
+dialog: in.
+text: Kujan picks it up and thumbs through it.
+speaker_heading: KUJAN
+dialog: According to your statement you are
+dialog: a short-con operator. Run of the
+dialog: mill scams. Everything you do, you
+dialog: learned from somebody else.
+speaker_heading: VERBAL
+dialog: That's been suppressed. Anything in
+dialog: there is inadmissible.
+speaker_heading: KUJAN
+dialog: Oh, I know. Sweet deal you have.
+dialog: Total immunity.
+speaker_heading: VERBAL
+dialog: (laughing)
+dialog: Well I do have the weapons charge.
+dialog: I'm looking at six whole months hard
+dialog: time.
+speaker_heading: KUJAN
+dialog: (smiling)
+dialog: You know a dealer named Ruby Deemer,
+dialog: Verbal?
+speaker_heading: VERBAL
+dialog: You know a religious guy named John
+dialog: Paul?
+speaker_heading: KUJAN
+dialog: You know Ruby is in Attica?
+speaker_heading: VERBAL
+dialog: He didn't have my lawyer.
+speaker_heading: KUJAN
+dialog: I know Ruby. He's very big on respect.
+dialog: Likes me very much.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 33
+text: Verbal sees this getting to something. His smiles fades.
+speaker_heading: KUJAN (CONT'D)
+dialog: Now I know your testimony was sealed.
+dialog: Ruby is well connected. He still has
+dialog: people running errands for him. What
+dialog: do you think he'd say if he found
+dialog: out you dropped his name to the D.A.?
+speaker_heading: VERBAL
+dialog: There's nothing in there about Ruby.
+speaker_heading: KUJAN
+dialog: I'11 be sure to mention that to him.
+text: Verbal is not smiling anymore. He stares at Kujan with utter
+text: contempt, knowing he is being shafted.
+speaker_heading: KUJAN (CONT'D)
+dialog: The first thing I learned on the
+dialog: job, know what it was? How to spot a
+dialog: murderer. Let's say you arrest three
+dialog: guys for the same killing. Put them
+dialog: all in jail overnight. The next
+dialog: morning, whoever is sleeping is your
+dialog: man. If you're guilty, you know you're
+dialog: caught, you get some rest - let your
+dialog: guard down, you follow?
+speaker_heading: VERBAL
+dialog: No.
+speaker_heading: KUJAN
+dialog: I'11 get right to the point. I'm
+dialog: smarter than you. I'11 find out what
+dialog: I want to know and I'11 get it from
+dialog: you whether you like it or not.
+speaker_heading: VERBAL
+dialog: I'm not a rat.
+text: Kujan puts his hand on the transcript of Verbal's confession.
+text: Rabin walks in with a cup of coffee. Verbal takes it with
+text: his good hand and sips it with a relish.
+speaker_heading: VERBAL (CONT'D)
+dialog: Ahhh. Back when I was picking beans
+dialog: in Guatemala we used to make fresh
+dialog: coffee. Right off the trees I mean.
+dialog: That was good. This is shit, but
+dialog: hey...
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 34
+speaker_heading: RABIN
+dialog: Can we get started again?
+speaker_heading: KUJAN
+dialog: Now what happened after the line-up?
+text: Verbal sneers at Kujan, unable to change the subject.
+scene_heading: 27 EXT. POLICE STATION - NIGHT - NEW YORK - SIX WEEKS PRIOR 27
+text: Keaton stops at the top of the front steps of the police
+text: station and lights a cigarette. Edie comes out behind him,
+dialog: fuming mad.
+speaker_heading: EDIE
+dialog: ...and the desk Sergeant is actually
+dialog: trying to tell me he can't release
+dialog: you? Can you believe that? You
+dialog: weren't even charged. New York police -
+dialog: Jesus. I want to take pictures of
+dialog: your face to bring to the D.A. first
+dialog: thing in the morning.
+speaker_heading: KEATON
+dialog: Just forget about it.
+text: He looks across the street and sees Fenster and McManus
+text: talking by a newsstand. McManus is thumbing through magazines.
+speaker_heading: EDIE
+dialog: Absolutely not.
+text: Keaton looks to his right and sees Hockney trying to hail a
+dialog: cab.
+speaker_heading: EDIE (CONT'D)
+dialog: I'11 have this thing in front of a
+dialog: grand jury by Monday.
+speaker_heading: KEATON
+dialog: Edie, please. I don't want to hear
+dialog: this right now. What did Renault and
+dialog: Fortier say?
+speaker_heading: EDIE
+dialog: They want more time to think about
+dialog: investing.
+speaker_heading: KEATON
+dialog: Goddamnit.
+speaker_heading: EDIE
+dialog: They just said they wanted time.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 35
+speaker_heading: KEATON
+dialog: Time for what, Edie? Time to look
+dialog: into me a little more, that's what.
+dialog: No matter how well you cover my tracks
+dialog: now, they'll find out who I am.
+speaker_heading: EDIE
+dialog: Give me some credit. I got you this
+dialog: far, let's go to the grand jury.
+dialog: This is never going to stop if we -
+speaker_heading: KEATON
+dialog: No. It's never going to stop, period.
+dialog: It won't take more than a week before
+dialog: every investor in this city is walking
+dialog: away from us. It's finished. I'm
+dialog: finished.
+text: Just then, Verbal bumps into him on his way out the door. He
+text: excuses himself and hobbles down the steps, oblivious to who
+text: he has bumped into as he tries to navigate the stairs.
+speaker_heading: EDIE
+dialog: Don't give up on me now, Dean.
+speaker_heading: KEATON
+dialog: They'll never stop.
+speaker_heading: EDIE
+dialog: I love you.
+speaker_heading: KEATON
+dialog: (To himself)
+dialog: They ruined me tonight.
+speaker_heading: EDIE
+dialog: Dean, I love you. Do you hear me?
+text: Verbal gets to the sidewalk and stops. He turns, realizing
+dialog: it is Keaton on the steps.
+speaker_heading: EDIE (CONT'D)
+dialog: Let's just go to my place. We'll
+dialog: worry about this tomorrow.
+text: Keaton and Verbal look at one another for a moment. Keaton
+text: then looks over to the newsstand and sees Fenster looking at
+dialog: him.
+speaker_heading: KEATON
+dialog: Huh?
+text: McManus notices Fenster and glances up from his magazine to
+dialog: see what he is looking at.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 36
+speaker_heading: EDIE
+dialog: Come home with me, please. Dean?
+text: Keaton looks at Hockney who has one foot in a cab. He is
+text: looking at Fenster and McManus who are looking at Keaton.
+dialog: This makes Hockney look up at Keaton as well.
+text: SUDDENLY, Edie tunes in to what is going on. She notices the
+text: others on the street. She reaches over and takes Keaton by
+text: the arm, pulling gently. She glares at the others.
+speaker_heading: EDIE (CONT'D)
+dialog: Come home, Dean.
+speaker_heading: KEATON
+dialog: (Distant)
+dialog: Alright.
+text: Verbal looks at everyone else from where he stands on the
+text: street. Fenster, McManus and Hockney all look at him and
+text: then at each other. It is a strange moment of unspoken
+dialog: understanding.
+text: All eyes finally turn to Keaton, high on the front steps of
+text: the police station as he walks away with Edie.
+scene_heading: 28 INT. HALLWAY - DAY 28
+text: Verbal stands in front of an apartment door. He hesitates
+text: for a long moment before he knocks.
+text: After a moment, the door opens and Keaton stands on the other
+text: side of it. He is wearing a bathrobe and smoking a cigarette.
+text: He looks at Verbal without any expression whatsoever.
+speaker_heading: KEATON
+dialog: What are you doing here? How did
+dialog: you find me?
+speaker_heading: VERBAL
+dialog: I just asked one of the detectives
+dialog: downtown. He seemed pretty happy to
+dialog: tell me.
+text: Keaton curses under his breath and motions for Verbal to
+dialog: come in.
+speaker_heading: 29 INT. EDIE'S APARTMENT 29
+text: Verbal walks in and sits down on the couch, watching Keaton
+text: cautiously. He looks around the large apartment, beautifully
+dialog: furnished and decorated.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 37
+text: Edie walks into the room in a man's button-down shirt and
+dialog: sweat pants.
+speaker_heading: EDIE
+dialog: Dean, who was at the -
+text: She stops when she sees Verbal. Verbal stands and smiles
+dialog: nervously.
+speaker_heading: VERBAL
+dialog: How do you do?
+speaker_heading: KEATON
+dialog: Verb - Roger, this is Edie Finneran.
+dialog: Edie, this is Roger Kint, he was at -
+speaker_heading: EDIE
+dialog: (Cold)
+dialog: I know who he is.
+speaker_heading: VERBAL
+dialog: I hope I didn't disturb you.
+speaker_heading: EDIE
+dialog: I hope so, too, Mr. Kint. Can I get
+dialog: you something to drink?
+speaker_heading: VERBAL
+dialog: A glass of water would be nice.
+text: Edie shoots a look at Keaton on her way out of the room.
+text: Keaton tries to hush his voice despite his anger.
+speaker_heading: KEATON
+dialog: What the hell do you want?
+speaker_heading: VERBAL
+dialog: wanted to talk to you. The other
+dialog: guys --
+speaker_heading: KEATON
+dialog: I did you a favor by standing up for
+dialog: you last night, but don't think we're
+dialog: friends. I'm sorry, but I have other
+dialog: things -
+speaker_heading: VERBAL
+dialog: They're gonna do a job. Three million
+dialog: dollars, maybe more.
+text: Keaton is speechless. Verbal sits on the couch again.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 38
+speaker_heading: VERBAL (CONT'D)
+dialog: They sent me to offer you a cut. We
+dialog: could use a fifth man - a driver -
+dialog: That's all you'll do.
+text: Edie walks in with a glass of ice water and hands it to
+dialog: Verbal.
+speaker_heading: VERBAL (CONT'D)
+dialog: Thank you.
+text: Verbal drinks slowly. Edie stands over him, her face blank.
+dialog: It is an awkward moment. She deliberately makes Verbal
+dialog: uncomfortable.
+speaker_heading: LONG PAUSE - FINALLY:
+speaker_heading: EDIE
+dialog: So what is it you do, Mr. Kint?
+speaker_heading: VERBAL
+dialog: Umm ...
+speaker_heading: EDIE
+dialog: A hijacker like Dean, here? Or
+dialog: something more creative?
+speaker_heading: KEATON
+dialog: That's enough, Edie.
+speaker_heading: EDIE
+dialog: (Angry)
+dialog: I don't know what you came here for,
+dialog: but we won't have any part of it.
+speaker_heading: KEATON
+dialog: Edie, please.
+text: Keaton takes Edie by the arm and tries to guide her toward
+text: the other room. She pulls away, anger turning to rage.
+speaker_heading: EDIE
+dialog: I've spent the last year of my life
+dialog: putting his back together again - I
+dialog: won't have you come in here and -
+dialog: What makes you think - GET OUT. GET
+dialog: OUT OF MY HOME. HOW DARE YOU COME
+speaker_heading: HERE?
+text: Keaton is pulling her now. She yanks her arm away and shoves
+dialog: him.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 39
+speaker_heading: EDIE (CONT'D)
+dialog: Don't touch me. Just don't.
+text: She turns and walks out of the room. Somewhere in the back
+text: of the apartment, a door slams.
+text: Keaton turns and glares at Verbal. Verbal cringes.
+speaker_heading: KEATON
+dialog: Get out.
+speaker_heading: VERBAL
+dialog: If you'll just let me -
+text: SUDDENLY, KEATON LUNGES. He grabs Verbal by the lapels and
+text: lifts him off the couch, moving him effortlessly across the
+text: room and slamming him into the wall next to the front door.
+dialog: He opens it.
+speaker_heading: VERBAL (CONT'D)
+dialog: Don't hurt me.
+speaker_heading: KEATON
+dialog: (Seething)
+dialog: Hurt you, you sonofabitch? I could
+dialog: kill you.
+text: Keaton starts to shove Verbal out the door.
+speaker_heading: VERBAL
+dialog: (Quickly)
+dialog: They're going to hit the Taxi Service.
+dialog: Keaton freezes. LONG PAUSE.
+speaker_heading: VERBAL (CONT'D)
+dialog: New York's Finest Taxi Service.
+speaker_heading: KEATON
+dialog: They - That's bullshit. They don't
+dialog: operate anymore.
+speaker_heading: VERBAL
+dialog: McManus has a friend in the Fourteenth
+dialog: Precinct. They're coming out for one
+dialog: job - Thursday. They're picking up a
+dialog: guy smuggling emeralds out of South
+dialog: America. Fenster and McManus have a
+dialog: fence set to take the stuff.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 40
+speaker_heading: YELLOW 06/11/94
+speaker_heading: KEATON
+dialog: What fence? Who?
+speaker_heading: VERBAL
+dialog: Some guy in California. His name is
+dialog: Redfoot.
+speaker_heading: KEATON
+dialog: Never heard of him.
+text: Keaton moves to throw Verbal out. Verbal grabs Keaton and
+dialog: holds tight.
+speaker_heading: VERBAL
+dialog: You have to come.
+speaker_heading: KEATON
+dialog: What's with you? What do you care
+dialog: whether I come or not?
+speaker_heading: VERBAL
+dialog: They - They don't know me. You do.
+dialog: They won't take me unless you go.
+dialog: Look at me. I need this.
+speaker_heading: KEATON
+dialog: Tough break.
+speaker_heading: VERBAL
+dialog: Don't tell me you don't need this.
+dialog: Is this your place?
+dialog: Keaton is unable to answer.
+speaker_heading: VERBAL (CONT'D)
+dialog: They're never going to stop with us,
+dialog: you know that. This way we hit the
+dialog: cops where it hurts and get well in
+dialog: the mean time.
+text: Keaton lets Verbal go and steps back, thinking.
+speaker_heading: VERBAL (CONT'D)
+dialog: As clean as you could ever get,
+dialog: they'll never let you go now. I'm
+dialog: not knocking you. You look like you've
+dialog: got a good little seam going with
+dialog: this lawyer -
+text: WHAM. Keaton punches Verbal in the stomach and drops him to
+text: one knee. Verbal coughs and tries to find his breath.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 41
+speaker_heading: KEATON
+dialog: You watch your mouth.
+speaker_heading: VERBAL
+dialog: (Gasping)
+dialog: Okay, okay. You say it's the real
+dialog: thing? That's cool.
+text: Keaton reaches for Verbal. Verbal flinches. Keaton gently
+text: helps him up and guides him to the couch. They both sit.
+text: Keaton reaches for a pack of cigarettes and lights one for
+dialog: each of them.
+speaker_heading: KEATON
+dialog: I apologize.
+text: Verbal takes one and has a few drags, catching his breath
+dialog: and rubbing his stomach in pain. Finally:
+speaker_heading: VERBAL
+dialog: I was out of line.
+speaker_heading: KEATON
+dialog: You okay?
+speaker_heading: VERBAL
+dialog: I'11 be alright.
+speaker_heading: KEATON
+dialog: Well, I'm sorry.
+speaker_heading: VERBAL
+dialog: Forget it.
+dialog: (Beat)
+dialog: I'11 probably shit blood tonight.
+text: Keaton laughs. Verbal thinks about it for a moment and laughs
+dialog: with him.
+text: Keaton's laughter trails off. He thinks for a moment.
+speaker_heading: KEATON
+dialog: How are they going to do it?
+speaker_heading: VERBAL
+dialog: McManus wants to go in shooting. I
+dialog: said no way.
+speaker_heading: KEATON
+dialog: Fenster and Hockney?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 42
+speaker_heading: VERBAL
+dialog: They're pretty pissed off. They'll
+dialog: do anything. Now I got a way to do
+dialog: it without killing anyone: but like
+dialog: I said, they won't let me in without
+dialog: you.
+speaker_heading: KEATON
+dialog: Three million?
+speaker_heading: VERBAL
+dialog: Maybe more.
+speaker_heading: KEATON
+dialog: No killing?
+speaker_heading: VERBAL
+dialog: Not if we do it my way.
+speaker_heading: LONG PAUSE
+speaker_heading: KEATON
+dialog: (Lost in thought)
+dialog: I swore I'd live above myself.
+text: Verbal smiles, knowing he has him.
+scene_heading: 30 EXT. KENNEDY AIRPORT - DAY 30
+speaker_heading: VERBAL (V.O.)
+dialog: New York's finest Taxi Service was
+dialog: not your normal taxi service. It was
+dialog: a ring of corrupt cops in the N.Y.P.D.
+dialog: that ran a high-profit racket, driving
+dialog: smugglers and drug dealers all over
+dialog: the city. For a few hundred dollars
+dialog: a mile, you got your own black and
+dialog: white and a police escort. They
+dialog: even had their own business cards.
+text: OSCAR WHITEHEAD, a tall gray-haired man in his fifties comes
+text: out of the international terminal in a white linen suit. He
+text: holds a large suitcase in his right hand.
+speaker_heading: VERBAL (V.O.) (CONT'D)
+dialog: After a while, somebody started asking
+dialog: questions and the taxi service shut
+dialog: down. Ever since then, Internal
+dialog: Affairs had been waiting to catch
+dialog: them in the act.
+text: Oscar stands on the curb long enough to light a cigarette.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 43
+text: After a moment, a POLICE CRUISER pulls up to him. He opens
+text: the back door and gets in.
+speaker_heading: VERBAL (V.O.) (CONT'D)
+dialog: And that was how we started. McManus
+dialog: came to us with the job; Fenster got
+dialog: the vans; Hockney supplied the
+dialog: hardware; 'I came through with how
+dialog: to do it so no one got killed - but
+dialog: Keaton - Keaton put on the finishing
+dialog: touch. A little "Fuck you" from the
+dialog: five of us to the N.Y.P.D.
+text: The car drives out of the airport. A VAN follows at a
+dialog: distance.
+speaker_heading: 31 INT. POLICE CAR 31
+text: SERGEANT JIM STRAUSZ, a meaty, imposing looking man in his
+text: forties drives the car. Beside him is a thin, greasy looking
+speaker_heading: PATROLMAN, STEVE RIZZI. They are two drivers for New York's
+dialog: Finest Taxi Service.
+speaker_heading: RIZZI
+dialog: How was the flight?
+dialog: Oscar hands Rizzi a thick envelope.
+speaker_heading: OSCAR
+dialog: Will that get me to the Pierre?
+dialog: Rizzi counts the stack of hundred dollar bills in the
+dialog: envelope.
+speaker_heading: RIZZI
+dialog: That'll get you to Cape Cod.
+text: The two men laugh. Strausz watches the road, expressionless.
+speaker_heading: 32 EXT. HIGHWAY 32
+text: The cruiser heads towards the heart of Manhattan.
+speaker_heading: 33 EXT. STREET - LATER 33
+text: The police car makes its way down a wide, abandoned street.
+text: A WHITE MINIVAN pulls out behind it and heads the same way.
+speaker_heading: 34 INT. POLICE CAR 34
+text: Strausz looks in the rear-view mirror. The white minivan is
+dialog: flashing his high-beams.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 44
+speaker_heading: STRAUSZ
+dialog: What the
+speaker_heading: RIZZI
+speaker_heading: LOOK OUT.
+text: Strausz looks in front of him. A green minivan swerves in
+text: front of them from out of nowhere. Strausz slams on the brakes
+text: and skids to a halt. The white minivan rams them from behind.
+text: Strausz and Rizzi are stunned for a moment as two more vans
+text: screech up on either side of the cruiser, boxing it in with
+dialog: only a few inches between them.
+text: The cruiser is surrounded on all sides.
+text: SUDDENLY, SHOTGUN BARRELS come through the open windows.
+dialog: They come to rest, one on Strausz's left temple one on Rizzi's
+text: right. RIZZI looks out of the corner of his eye.
+text: He sees the driver of the van next to him holding the shotgun
+text: with one hand. A stocking is over the driver's head.
+text: Strausz looks straight ahead. The minivan in front of them
+text: is missing a back window. Another man with a stocking on his
+text: head aims a sub-machine gun at them from inside.
+text: By the twisted right hand holding the front of the gun, we
+dialog: know it is Verbal.
+dialog: Strausz and Rizzi raise their hands without being asked.
+speaker_heading: 35 EXT. STREET 35
+text: The driver of the white van gets out with a gallon jug in
+text: one hand and a sledge hammer in the other.
+text: Moving like lightning, he jumps onto the roof of the police
+dialog: car
+text: He stands on the front of the roof and swings the hammer
+dialog: down.
+speaker_heading: 36 INT. POLICE CAR 36
+speaker_heading: SMASH
+text: The hammer punches three huge holes in the windshield and
+text: finally caves it in. Strausz and Rizzi are covered with
+text: pebbles of broken glass. Whitehead clutches his bag in the
+text: back seat. He trembles in terror.
+text: The man standing on the roof doubles over and sticks a gun
+text: in Strausz's face. His face hangs upside down and looks
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 45
+text: gruesome - covered from the mouth up in a stocking. By the
+dialog: voice, we know it is McManus.
+speaker_heading: MCMANUS
+dialog: GIVE ME THE SHIT.
+speaker_heading: STRAUSZ
+dialog: Give it up.
+text: Oscar hands the suitcase up front and Strausz passes it to
+dialog: McManus.
+speaker_heading: 37 INT. FRONT VAN 37
+text: Through the front windshield of the front van we see Keaton
+text: at the wheel. Verbal is behind him leaning out the back
+dialog: window.
+text: Beneath Keaton's stocking mask we see he is trembling and
+text: sweating - sickened by what he is doing.
+text: He glances up at the rear-view mirror and looks at the scene
+text: outside. He looks down at the floor in shame, shaking his
+dialog: head.
+speaker_heading: 38 INT. POLICE CAR 38
+speaker_heading: MCMANUS
+dialog: The money.
+dialog: Strausz looks at Rizzi.
+speaker_heading: MCMAMJS
+text: THE MONEY. LET'S HAVE IT.
+text: Rizzi hands the money through the remains of the windshield.
+text: McManus takes the money and stuffs it in his jacket. He steps
+text: back and takes the cap off of the gallon jug. He quickly
+text: pours some kind of liquid all over the roof of the car.
+speaker_heading: STRAUSZ
+dialog: Do you know who I am?
+text: A hand reaches into the driver's side window and rips
+text: Strausz's badge off of his shirt.
+text: Strausz dares to turn his head right at the shotgun pointing
+text: at him through the window. On the other end is a masked and
+dialog: smiling Todd Hockney.
+speaker_heading: HOCKNEY
+dialog: We do now, Jerk-off.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 46
+text: McManus lights a pack of matches and drops them on the roof
+text: of the car as he jumps off. THE LIQUID IGNITES, the roof of
+text: the car is instantly in flames.
+dialog: Strausz and Rizzi attempt to bail out, but the vans are too
+dialog: close for them to open the doors.
+text: The vans pull away.
+dialog: Strausz and Rizzi escape from the car.
+text: Oscar is trapped inside, SCREAMING.
+dialog: Strausz and Rizzi stop, each expecting the other to go let
+dialog: Oscar out.
+speaker_heading: 39 EXT. STREET - LATER 39
+text: The scene is swarming with fresh police cars. Strausz and
+dialog: Rizzi are fielding questions from a dozen other cops.
+dialog: Photographers are everywhere.
+speaker_heading: VERBAL (V.O.)
+dialog: The papers got Keaton's call that
+dialog: day and were on the scene before the
+dialog: cops were. Strausz and Rizzi were
+dialog: indicted three days later. Within a
+dialog: few weeks, fifty more cops went down
+dialog: with them. It was beautiful. Everybody
+dialog: got it right in the ass, from the
+dialog: chief on down.
+speaker_heading: 40 INT. GARAGE - NIGHT 40
+text: Hockney, Fenster, McManus and Verbal are all laughing in a
+dialog: secluded garage. They are still in their black clothes from
+text: the robbery. Hockney is throwing everyone a can of beer.
+text: Keaton sits off by himself. He watches the others, unable to
+dialog: join in the festivities.
+text: The others sit around a cheap card table. It is covered with
+text: emeralds. Dozens of them. Everyone is in awe.
+speaker_heading: MCMANUS
+dialog: There's more than I thought.
+speaker_heading: HOCKNEY
+dialog: When does the fence come?
+speaker_heading: MCMANUS
+dialog: Redfoot? He never comes to see me. I
+dialog: have to go see him.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 47
+speaker_heading: VERBAL
+dialog: In California?
+speaker_heading: MCMANUS
+dialog: Yeah. It'll take a few days. Me and
+dialog: Fenster -
+speaker_heading: HOCKNEY
+dialog: Hold the fuckin' phone. You and
+dialog: Fenster? No, no, no.
+speaker_heading: MCMANUS
+dialog: Guys, come on.
+speaker_heading: HOCKNEY
+dialog: I'm sure you can understand my
+dialog: hesitation.
+speaker_heading: FENSTER
+dialog: Then who goes?
+speaker_heading: HOCKNEY
+dialog: We all go. How about it, Keaton?
+text: All eyes turn to Keaton. He comes out of his trance.
+speaker_heading: KEATON
+dialog: We need to lay low for a while.
+speaker_heading: MCMANUS
+dialog: Fine with me.
+speaker_heading: PAUSE
+dialog: Everyone looks at each other, their
+dialog: moment of distrust blowing over. All
+text: eyes drift back to the emeralds on
+dialog: the table.
+text: Hockney begins to snicker, then McManus, then Fenster. Verbal
+dialog: joins in at last.
+text: McManus grabs Verbal and hugs him, shaking him violently.
+speaker_heading: MCMANUS
+dialog: My boy with the plan.
+text: SUDDENLY, everyone yells and pours beer over Verbal's head.
+text: He laughs as he is drenched in white foam, nearly choking as
+dialog: the others chant his name.
+text: Keaton watches from across the room, trying to smile in vain.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 48
+scene_heading: 41 INT. WAITING ROOM - LAW OFFICE - DAY 41
+text: Keaton and Verbal sit side by side on a sofa. A sign on the
+text: door behind them reads: MONTGOMERY and LaGUARDIA - ATTORNEYS
+speaker_heading: AT LAW.
+speaker_heading: VERBAL
+dialog: We're going to miss the flight.
+speaker_heading: KEATON
+dialog: We'll make it.
+speaker_heading: VERBAL
+dialog: Don't do this. Send her a card -
+dialog: something.
+speaker_heading: KEATON
+dialog: We'll make it.
+speaker_heading: VOICE (O.S.)
+dialog: Ms. Finneran will be with you in a
+dialog: moment.
+text: Keaton stands and paces across the waiting room. He comes to
+text: a set of glass doors and looks through them.
+text: Keaton realizes he is standing on a balcony overlooking a
+dialog: library below.
+text: He sees Edie working in the library with an old woman. The
+dialog: two women talk for a moment.
+text: SUDDENLY, Keaton turns with a start. Verbal is standing behind
+dialog: him.
+speaker_heading: VERBAL
+dialog: We're gonna miss the plane.
+dialog: (beat)
+dialog: She'll understand.
+text: Edie is smiling and laughing with the old woman.
+text: Keaton's face is marked with guilt and anguish.
+text: Keaton turns and walks out of the waiting room. Verbal takes
+text: one last glance at Edie and turns back to Keaton.
+speaker_heading: 42 INT. LIBRARY 42
+text: Edie seems to sense something behind her. She turns and looks
+text: through the glass doors and up into the waiting room.
+text: NOTHING IS THERE. She goes back to chatting with the old
+dialog: woman.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 49
+scene_heading: 43 INT. RABIN'S OFFICE -DAY - LOS ANGELES - PRESENT 43
+speaker_heading: KUJAN
+dialog: Heartwarming. Really, I feel weepy.
+speaker_heading: VERBAL
+dialog: You wanted to know what happened
+dialog: after the line-up, I'm telling you.
+speaker_heading: KUJAN
+dialog: Oh come on, Verbal. Who do you think
+dialog: you're talking to? You really expect
+dialog: me to believe he retired? For a woman?
+dialog: Bullshit. He was using her.
+speaker_heading: VERBAL
+dialog: He loved her.
+speaker_heading: KUJAN
+dialog: Sure. And I'm supposed to believe
+dialog: that hitting the Taxi Service wasn't
+dialog: his idea either.
+speaker_heading: VERBAL
+dialog: That was all Fenster and McManus.
+speaker_heading: KUJAN
+dialog: Come on. Keaton was a cop for four
+dialog: years. Who else would know the Taxi
+dialog: Service better? That job had his
+dialog: name all over it.
+speaker_heading: VERBAL
+dialog: You keep trying to lay this whole
+dialog: ride on Keaton. It wasn't like that.
+dialog: Sure he knew, but Edie had him all
+dialog: turned around. I'm telling you
+dialog: straight, I swear.
+speaker_heading: KUJAN
+dialog: Let me tell you something. I know
+dialog: Dean Keaton. I've been investigating
+dialog: him for three years. The guy I know
+dialog: is a cold-blooded bastard. L.A.P.D.
+dialog: indicted him on three counts of murder
+dialog: before he was kicked off the force,
+dialog: so don't sell me the hooker with the
+dialog: heart of gold.
+speaker_heading: VERBAL
+dialog: You got him wrong.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 50
+speaker_heading: KUJAN
+dialog: Do I? Keaton was under indictment a
+dialog: total of seven times when he was on
+dialog: the force. In every case, witnesses
+dialog: either reversed their testimony to
+dialog: the grand jury or died before they
+dialog: could testify. When they finally did
+dialog: nail him for fraud, he spent five
+dialog: years in Sing Sing. He killed three
+dialog: prisoners inside - one with a knife
+dialog: in the tailbone while he strangled
+dialog: him to death. Of course I can't prove
+dialog: this but I can't prove the best part
+dialog: either.
+dialog: Kujan pauses to drink some coffee.
+speaker_heading: KUJAN (CONT'D)
+dialog: Dean Keaton was dead. Did you know
+dialog: that? He died in a fire two years
+dialog: ago during an investigation into the
+dialog: murder of a witness who was going to
+dialog: testify against him. Two people saw
+dialog: Keaton enter a warehouse he owned
+dialog: just before it went up. They said he
+dialog: had gone in to check a leaking gas
+dialog: main. It blew up and took all of
+dialog: Dean Keaton with it. Within three
+dialog: months of the explosion, the two
+dialog: witnesses were dead, one killed
+dialog: himself in his car and the other
+dialog: fell down an open elevator shaft.
+speaker_heading: 44 INT. WORKSHOP 44
+text: Rabin and Louis look at one another as they listen.
+speaker_heading: KUJAN (ON SPEAKER)
+dialog: Six weeks ago I get an anonymous
+dialog: call telling me I can find Keaton
+dialog: eating at Mondino's with his lawyer,
+dialog: and there he is. Now because he never
+dialog: profited from his alleged death and
+dialog: because someone else was convicted
+dialog: for the murder we tried to pin on
+dialog: Keaton, we had to let him go.
+speaker_heading: 45 INT. RABIN'S OFFICE 45
+speaker_heading: KUJAN
+dialog: He was dead just long enough for a
+dialog: murder rap to blow over, then he had
+dialog: lunch.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 51
+speaker_heading: VERBAL
+dialog: I don't know about that.
+speaker_heading: KUJAN
+dialog: I don't think you do. But you say
+dialog: you saw Keaton die. I think you're
+dialog: covering his ass and he's still out
+dialog: there somewhere. I think he was behind
+dialog: that whole circus in the harbor. My
+dialog: bet is he's using you because you're
+dialog: stupid and you think he's your friend.
+dialog: You tell me he's dead, so be it. I
+dialog: want to make sure he's dead before I
+dialog: go back to New York.
+speaker_heading: VERBAL
+dialog: (Blurting)
+dialog: He wasn't behind anything. It was
+dialog: the lawyer.
+speaker_heading: KUJAN
+dialog: What lawyer?
+speaker_heading: PAUSE
+speaker_heading: KUJAN (CONT'D)
+dialog: What lawyer, Verbal?
+text: Verbal stammers for a moment, looking around wildly.
+speaker_heading: VERBAL
+dialog: Back when I was in that barber shop
+dialog: quartet in Skokie, Illinois I used
+dialog: to have -
+text: Kujan grabs Verbal's shirt and yanks him half out of his
+dialog: seat.
+speaker_heading: KUJAN
+dialog: You think I don't know you held out
+dialog: on the D.A.? What did you leave out
+dialog: of that testimony? I can be on the
+dialog: phone to Ruby Deemer in ten minutes.
+speaker_heading: VERBAL
+dialog: The D.A. gave me immunity.
+speaker_heading: KUJAN
+dialog: NOT FROM ME, YOU PIECE OF SHIT. THERE
+dialog: IS NO IMMUNITY FROM ME. You atone
+dialog: with me or the world you live in
+dialog: becomes the hell you fear in the
+dialog: back of your tiny mind.
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 52
+speaker_heading: KUJAN (CONT'D)
+dialog: Every criminal I have put in prison,
+dialog: every cop who owes me a favor, every
+dialog: creeping scumbag that works the street
+dialog: for a living, will know the name of
+dialog: Verbal Kint. You'll be the lowest
+dialog: sort of rat, the prince of snitches,
+dialog: the loudest cooing stool pigeon that
+dialog: ever grabbed his ankles for the man.
+dialog: Now you talk to me, or that precious
+dialog: immunity they've seen so fit to grant
+dialog: you won't be worth the paper the
+dialog: contract put out on your life is
+dialog: printed on.
+text: Verbal looks at Kujan with utter contempt.
+speaker_heading: VERBAL
+dialog: There was a lawyer. Kobayashi.
+speaker_heading: KUJAN
+dialog: Is he the one that killed Keaton?
+speaker_heading: VERBAL
+dialog: No. But I'm sure Keaton's dead.
+speaker_heading: KUJAN
+dialog: Convince me. Tell me every last
+dialog: detail.
+speaker_heading: 46 INT. HOSPITAL - DAY 46
+scene_heading: (<< >> DENOTES LINES SPOKEN IN HUNGARIAN)
+text: Kovash's room is now filled with people. Jack Baer stands
+text: next to DANIEL METZHEISER, a balding man in his forties.
+text: Next to him is Doctor Plumber. Across from her is Ridgly
+dialog: Waiters.
+text: Sitting beside the bed is TRACY FITZGERALD, a casually dressed
+text: woman in her late twenties. She holds a 15x20 inch drawing
+dialog: pad on her lap.
+text: Police fill the hall. People are talking loudly outside.
+text: LIONEL BODI, a cop in his mid-twenties pushes his way in.
+speaker_heading: BAER
+dialog: Are you the translator?
+speaker_heading: BODI
+dialog: Patrolman Lionel Bodi, sir.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 53
+speaker_heading: PLUMBER
+dialog: Agent Beer, this is getting out of
+dialog: hand.
+speaker_heading: BAER
+dialog: I'11 see to it we're gone before he
+dialog: blows his porch light, Doctor.
+dialog: Baer gestures to Tracy.
+speaker_heading: BAER (CONT'D)
+dialog: (To Bodi)
+dialog: This is Tracy Fitzgerald. She's a
+dialog: composite sketch artist from county.
+text: The young couple smile at one another nervously.
+speaker_heading: BODI
+dialog: Hi.
+speaker_heading: TRACY
+dialog: Hi.
+speaker_heading: METZHEISER
+dialog: (Impatient)
+dialog: I've got a noon meeting, Baer.
+speaker_heading: PLUMBER
+dialog: Agent Baer, please.
+speaker_heading: BAER
+dialog: Everyone calm down.
+dialog: (To Bodi)
+dialog: Ask this man about the shoot-out in
+dialog: the harbor.
+speaker_heading: BODI
+dialog: <>
+text: Kovash smiles with relief when he hears his own language.
+speaker_heading: KOVASH
+dialog: <>
+speaker_heading: BODI
+dialog: <>
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 54
+speaker_heading: KOVASH
+dialog: <>
+speaker_heading: BODI
+dialog: He says they were buying - It doesn't
+dialog: make sense. I'm sorry, I'm a little
+dialog: rusty. They were there to buy
+dialog: something.
+speaker_heading: BAER
+dialog: Dope, we know.
+speaker_heading: KOVASH
+dialog: <>
+dialog: (talking slowly)
+dialog: <>
+speaker_heading: BODI
+dialog: Not dope. Something else. Some what?..
+dialog: He doesn't know what they were buying.
+dialog: But not dope... people.
+speaker_heading: KOVASH
+dialog: <>
+speaker_heading: METZHEISER
+dialog: Your witness is whacked, Baer.
+speaker_heading: BODI
+dialog: He says he'll tell us everything he
+dialog: knows if we protect him.
+speaker_heading: .BAER
+dialog: Tell him fine.
+speaker_heading: BODI
+dialog: <>
+speaker_heading: KOVASH
+dialog: <>
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 55
+speaker_heading: BODI
+dialog: No good. He needs guarantees. He
+dialog: says... his life is in danger... He
+dialog: has seen the Devil... looked him in
+dialog: the eye.
+speaker_heading: METZHEISER
+dialog: I'11 be on my way.
+text: Baer grabs Metzheiser by the arm.
+speaker_heading: BAER
+dialog: (To Bodi)
+dialog: Tell him to tell this man what he
+dialog: was telling me before. Who is the
+dialog: Devil? Who did he see?
+speaker_heading: BODI
+dialog: <>
+speaker_heading: KOVASH
+dialog: <>
+dialog: Metzheiser is suddenly interested.
+speaker_heading: BODI
+dialog: He says he saw him in the harbor. He
+dialog: was shooting... Killing... Killing
+dialog: many men.
+speaker_heading: METZHEISER
+dialog: Did he say Keyser Soze? He saw Keyser
+dialog: Soze
+speaker_heading: BODI
+dialog: He says he saw him in the harbor. He
+dialog: was shooting... Killing... Killing
+dialog: many men.
+speaker_heading: METZHEISER
+dialog: Did he say Keyser Soze? He saw Keyser
+dialog: Soze.
+speaker_heading: KOVASH
+dialog: <>
+speaker_heading: BODI
+dialog: He says he knows his face. He sees
+text: it when he closes his eyes.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 56
+speaker_heading: METZHEISER
+dialog: Ask him what this Devil looks like.
+speaker_heading: BAER
+dialog: (To Tracy)
+dialog: Ready?
+text: Tracy holds up her pad and pencil. She nods.
+scene_heading: 47 EXT. LOS ANGELES SKYLINE - DAY - FIVE WEEKS PRIOR 47
+speaker_heading: VERBAL (V.O.)
+dialog: McManus' fence was this guy named
+dialog: Redfoot. He had a good reputation
+dialog: around L.A. Seemed like a good guy -
+dialog: Looked like a cowhide full of
+dialog: thumbtacks.
+scene_heading: 48 EXT. FRIENDSHIP BELL - NIGHT 48
+text: All five guys stand in a group. It is utterly quiet.
+text: An old but well kept Cadillac creeps into the lot from the
+text: far end and idles up to them. The windows are tinted too
+text: much to see in. The car passes within a few feet of them and
+dialog: drives on.
+text: A moment later, a chrome and leather monster of a Harley
+text: Davidson pulls into the lot. The rider is dressed in an almost
+text: comical array of leather, silver and suede.
+text: He waves to the Caddy as it parks a few yards from Keaton
+text: and the others. It sits quietly, almost menacing.
+text: As he gets closer, we can see he is wearing one black boot
+text: and one red. Keaton is still looking at them when the bike
+text: pulls up to them and stops.
+speaker_heading: REDFOOT and McManus shake hands.
+speaker_heading: REDFOOT
+dialog: How've you been?
+speaker_heading: MCMANUS
+dialog: Good. You?
+speaker_heading: REDFOOT
+dialog: Alright. How's it going, Fenster?
+speaker_heading: FENSTER
+dialog: Getting by.
+speaker_heading: REDFOOT
+dialog: You got it?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 57
+text: McManus holds up a briefcase.
+text: Redfoot takes it and gets off the bike. He walks over to the
+text: Caddy. The door of the Caddy opens. Redfoot hands the case
+text: to Someone inside that we cannot see. The door closes.
+speaker_heading: KEATON
+dialog: (Whispering)
+dialog: Snazzy dresser this guy.
+text: A moment later, the door of the Caddy opens again. Someone
+text: hands Redfoot a different briefcase and he walks back over
+dialog: to McManus.
+dialog: He hands him the case.
+text: McManus hands the case back to Hockney. Hockney opens it,
+dialog: revealing the stacks of money inside.
+speaker_heading: REDFOOT
+dialog: You must be Keaton.
+speaker_heading: MCMANUS
+dialog: Jesus, I'm sorry. Redfoot, this is
+dialog: Dean Keaton, that's Todd Hockney,
+dialog: and that's Verbal Kint.
+speaker_heading: REDFOOT
+dialog: (To Verbal)
+dialog: The man with the plan.
+dialog: Verbal smiles.
+speaker_heading: REDFOOT (CONT'D)
+dialog: Are you guys interested in more work?
+text: McManus moves to answer, but Keaton cuts him off.
+speaker_heading: KEATON
+dialog: We're on vacation.
+speaker_heading: REDFOOT
+dialog: I've got a ton of work and no good
+dialog: people.
+speaker_heading: MCMANUS
+dialog: What's the job?
+text: Keaton shoots McManus a foul look. McManus pretends not to
+dialog: notice.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 58
+speaker_heading: REDFOOT
+dialog: A jeweler out of Texas named Saul.
+text: He rents a suite at a hotel downtown
+dialog: and does free appraisals. Buys
+dialog: whatever he can. Word is he moves
+dialog: with a lot of cash. I'11 take the
+dialog: merchandise, you keep the green.
+speaker_heading: HOCKNEY
+dialog: Security?
+speaker_heading: REDFOOT
+dialog: Two bodyguards. Pretty good.
+speaker_heading: MCMANUS
+dialog: Give us time to check it out?
+speaker_heading: REDFOOT
+dialog: I'd expect nothing less.
+speaker_heading: MCMANUS
+dialog: We'll call you.
+speaker_heading: REDFOOT
+dialog: Take your time. Enjoy L.A.
+speaker_heading: KEATON
+dialog: A friend of mine in New York tells
+dialog: me you knew Spook Hollis.
+speaker_heading: REDFOOT
+dialog: I hear you did time with old Spook.
+dialog: Yeah, he was a good egg. I used to
+dialog: run a lot of dope for him. Fuckin'
+dialog: shame he got shivved.
+speaker_heading: KEATON
+dialog: I shivved him.
+text: Now McManus is shooting the angry look at Keaton.
+speaker_heading: KEATON (CONT'D)
+dialog: Better you hear it from me now than
+dialog: somebody else later.
+speaker_heading: REDFOOT
+dialog: Business or personal?
+speaker_heading: KEATON
+dialog: A little of both.
+speaker_heading: REDFOOT
+dialog: Ain't it a crime? Call if you're
+dialog: interested.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 59
+text: Redfoot fires up his bike and takes off with the Caddy close
+dialog: behind.
+speaker_heading: MCMANUS
+dialog: (To Keaton)
+dialog: What's your fucking problem?
+speaker_heading: KEATON
+dialog: One job, that was the deal.
+speaker_heading: MCMANUS
+dialog: Take it as it comes, brother.
+speaker_heading: KEATON
+dialog: This is bullshit.
+text: McManus laughs and walks away. Fenster and Hockney follow.
+dialog: Verbal turns to Keaton.
+speaker_heading: VERBAL
+dialog: What is it Keaton?
+speaker_heading: KEATON
+dialog: (Distant)
+dialog: Something - I don't know.
+dialog: (Shaking himself)
+dialog: I ever tell you about the restaurant
+dialog: I wanted to open?
+text: Keaton walks off. Verbal follows him in confusion.
+speaker_heading: VERBAL (V.O.)
+dialog: L.A., was good for about two hours.
+dialog: We were from New York. There's no
+dialog: place to eat after one; you can't
+dialog: get a pizza that doesn't taste like
+dialog: a fried fruit-bat, and the broads
+dialog: don't want to know you if you don't
+dialog: look like a broad. Within a few days
+dialog: the last of us was ready to go back
+dialog: to N.Y., but Keaton wouldn't have
+dialog: it, so he really didn't have a choice.
+dialog: We went to work.
+scene_heading: 49 INT. PARKING GARAGE - NIGHT 49
+text: McManus walks along a line of cars. He comes across a black
+text: Mercedes and stops. He looks down at the license plate and
+text: walks over to the next car, a green Honda. He pulls a slim-
+text: jim out of his jacket and pops the lock an the Honda. He
+text: reaches in and opens the hood. He walks around and sticks
+dialog: his head in the engine.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 60
+speaker_heading: 50 INT. VAN 50
+text: Verbal sits behind the wheel. Keaton is beside him. Hockney
+text: and Fenster are in the back. They all watch McManus from
+text: where they are parked a few dozen yards away.
+scene_heading: 51 INT. PARKING GARAGE 51
+speaker_heading: DING-DING
+text: The elevator bell sounds at the far end of the garage. The
+text: doors open. Two men in ill-fitting suits get out and look
+text: around cautiously. The first is TUCCI, a big bellied, white
+text: haired menace. The other is HIGHAM, lean and bad skinned.
+dialog: They are bodyguards and give it away by their every careful
+dialog: move.
+text: They turn back to the elevator and motion to someone inside.
+text: Out walks SAUL BERG, a slightly overweight man in his forties
+text: with an open collar silk shirt and a thick gold chain on his
+text: hairy chest. He carries a LARGE ALUMINUM BRIEFCASE.
+text: He lets his guards do the worrying. He walks straight to his
+dialog: car.
+text: Saul passes McManus under the hood of the Honda. He takes
+text: out his keys and pushes a button on his key chain. The
+text: Mercedes beeps three times and tells Saul his alarm is off.
+text: Tucci keeps an eye on McManus. Higham watches Saul.
+text: McManus pretends to tinker with the car's engine. He has put
+text: a pistol just inside the grill and keeps it within reach.
+text: The van on the other side of the garage starts and pulls out
+text: of the spot. It cruises over toward the Mercedes.
+text: Tucci sees the van. He and Higham are suddenly busy trying
+text: to keep track. They hear laughing behind them and turn around.
+text: FENSTER and HOCKNEY are walking towards them. They are
+dialog: sporting mustaches and sunglasses in addition to matching
+text: suits, each with loud plaid sport coats, decades out of style.
+text: Saul glances at Tucci and Higham.
+speaker_heading: HIGHAM
+dialog: Just get in the car, Saul.
+text: Under the hood of the Honda and out of sight, McManus pulls
+dialog: on a black ski mask.
+text: The van gets closer.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 61
+speaker_heading: HOCKNEY
+dialog: I get out of the car, and man if the
+dialog: thing wasn't wrecked. And I see this
+dialog: broad in the back seat with nothing
+dialog: on.
+text: Saul gets in the car quickly but calmly as Fenster and Hockney
+dialog: laugh and talk louder. They look drunk - The desired effect.
+speaker_heading: HOCKNEY (CONT'D)
+dialog: I'm laughing so hard I can't breathe -
+dialog: Tucci and Higham try to take it all in stride. Saul's reverse
+text: lights come on and he begins to back out of the spot.
+speaker_heading: HOCKNEY (CONT'D)
+dialog: ...And the fat guy comes out of the
+dialog: car with his pants on backwards and
+dialog: says -
+text: SUDDENLY, the van revs and screeches to a halt behind Saul's
+text: Mercedes, blocking him in. Hockney and Fenster drop the drunk
+text: act and snap to. They both pull out guns and start screaming.
+speaker_heading: HOCKNEY (CONT'D)
+dialog: DON'T MOVE, YOU FUCKERS.
+speaker_heading: FENSTER
+speaker_heading: RIGHT THERE. FREEZE.
+text: McManus comes up from under the hood.
+dialog: Tucci and Higham throw their hands in the air. Hockney and
+dialog: Fenster grab them and reach into their belts to get their
+dialog: guns.
+text: Keaton jumps out of the van and runs up to Saul's car, his
+text: face covered in a ski mask. He yanks on the door handle but
+text: it is locked. Saul sits in terror behind the wheel. Keaton
+text: pulls out a pistol and smashes the window with it.
+speaker_heading: KEATON
+dialog: Give me the case.
+text: Saul reaches over for the case. Keaton trains the gun on
+dialog: him.
+text: SUDDENLY, Saul comes up with a pistol and points it at Keaton.
+text: Keaton sidesteps and grabs his wrist. The gun goes off into
+dialog: the fender of the Honda.
+text: Hockney and Fenster both look over at the sound of the gun.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 62
+dialog: Tucci and Higham seize the opportunity. Tucci grabs Hockney,
+text: Higham grabs Fenster. The four men grapple for the guns.
+text: Fenster's gun falls to the floor. McManus picks it up. He
+text: trains a pistol on each bodyguard and takes a breath. They
+text: are some ten feet apart and moving erratically. Hockney and
+text: Fenster constantly fall in the line of fire.
+text: McManus walks around the four men, keeping a pistol trained
+text: on each of the guards. Finally he comes to an angle where
+text: they are all in front of him. One guard is a few feet away,
+text: the other is ten feet past him.
+speaker_heading: McMANUS' P.O.V.
+text: The closer of the two moves in and out of the sights of the
+dialog: pistol in McManus' right hand, the one farther away does the
+dialog: same with the left.
+text: Verbal gets out of the van and moves towards them to help.
+speaker_heading: BOOM
+text: Both of McManus' guns go off like one shot. Tucci and Higham
+text: collapse, each with a bullet in his head
+speaker_heading: PAUSE
+text: The only sound is Saul grappling with Keaton for the gun.
+text: His arm is halfway out the window. His elbow rests in the
+dialog: door frame.
+text: Keaton cannot get the gun out of his hand. Finally, he pushes
+text: down with all his weight. Saul's elbow breaks backwards on
+text: the door frame. He screams in agony. The gun falls from his
+dialog: hand.
+dialog: All five of the men look at each other for an impossibly
+text: long moment. The confusion is only aggravated by Saul's
+dialog: screaming.
+text: SLOWLY, Keaton raises his pistol and aims it at Saul. His
+text: hand trembles, his eyes squint to near slits. His finger
+text: tenses and slacks off over and over again on the trigger.
+speaker_heading: BOOM
+text: VERBAL SHOOTS SAUL. Keaton looks at him in surprise. Verbal
+dialog: trembles more than he does.
+dialog: The garage is silent.
+speaker_heading: HOCKNEY
+dialog: What the hell?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 63
+speaker_heading: MCMANUS
+dialog: Bad day. Fuck it.
+speaker_heading: DING-DING
+text: The elevator light comes on. All five men look.
+speaker_heading: KEATON
+dialog: Move.
+text: Keaton reaches into the car and grabs Saul's case. Everyone
+text: else piles into the van. Keaton gets in as Verbal is driving
+dialog: for the exit.
+speaker_heading: 52 INT. VAN 52
+text: The mood in the van is grim. Everyone is silent. Keaton pops
+text: the clasps on the case and opens it.
+speaker_heading: KEATON
+dialog: Son of a bitch.
+text: Everyone looks in the case. It is filled with cash on one
+text: side. The other side is filled with clear plastic bags of
+speaker_heading: WHITE POWDER.
+scene_heading: 53 EXT. PARKING LOT - NIGHT 53
+text: Keaton and the others stand in silhouette in front of the
+text: lights of an oncoming car in the distance. We can make out
+dialog: McManus loading a gun.
+speaker_heading: KEATON
+dialog: What are you doing?
+speaker_heading: MCMANUS
+dialog: What does it look like? I'm going to
+dialog: kill him.
+speaker_heading: KEATON
+dialog: We did it your way. Now I'11 deal
+dialog: with him.
+speaker_heading: MCMANUS
+dialog: You gonna kill him?
+speaker_heading: KEATON
+dialog: I'm going to deal with him.
+text: The car, Redfoot's escort Caddy, is now in front of them.
+text: The horn lets out three short blasts.
+text: Redfoot comes around from behind the Caddy on his motorcycle.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 64
+text: He gets off the bike, trying to hide a faint smile.
+text: McManus throws Saul's case on the ground in front of him.
+speaker_heading: MCMANUS
+dialog: What the fuck is this, Redfoot?
+speaker_heading: REDFOOT
+dialog: Get a grip. I didn't know.
+speaker_heading: KEATON
+dialog: You didn't know.
+speaker_heading: REDFOOT
+dialog: The job got thrown to me by this
+dialog: lawyer.
+speaker_heading: KEATON
+dialog: Who is he?
+speaker_heading: REDFOOT
+dialog: Some Limey. He's a middle-man for
+dialog: somebody. He doesn't say and I don't
+dialog: ask.
+speaker_heading: KEATON
+dialog: We want to meet him.
+speaker_heading: REDFOOT
+dialog: He wants to meet you. He called last
+dialog: night and asked me to set it up.
+dialog: What do I tell him'
+speaker_heading: KEATON
+dialog: Tell him we'll meet.
+speaker_heading: MCMANUS
+dialog: If you're lying, Redfoot...
+speaker_heading: REDFOOT
+dialog: McManus, you're a real bad-ass, but
+dialog: get off my tip.
+dialog: McManus lunges for Redfoot.
+text: The Caddy doors instantly pop open and rifle barrels come
+dialog: into view from within.
+text: Fenster and Hockney draw guns and aim at the Caddy.
+text: Keaton and Verbal grab McManus and hold him back.
+text: Redfoot gets on his Harley, smiling defiantly.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 65
+speaker_heading: REDFOOT (CONT'D)
+dialog: Real shame about Saul getting whacked.
+dialog: Lots of cops looking for the guys
+dialog: that did it. I'm sure They'll get
+dialog: around to asking me.
+dialog: He starts his bike.
+speaker_heading: MCMANUS
+dialog: Fuck you.
+text: Redfoot drives off..The Caddy waits until he is completely
+dialog: out of sight before following.
+scene_heading: 54 INT. RABIN'S OFFICE - DAY - PRESENT 54
+speaker_heading: KUJAN
+dialog: So this lawyer...
+speaker_heading: VERBAL
+dialog: Kobayashi.
+speaker_heading: KUJAN
+dialog: Came from Redfoot.
+speaker_heading: VERBAL
+dialog: Right.
+speaker_heading: KUJAN
+dialog: And why leave this out when you talked
+dialog: to the D.A.?
+speaker_heading: KNOCK AT THE DOOR
+text: Rabin sticks his head in.
+speaker_heading: RABIN
+dialog: Someone to see you, Agent Kujan.
+text: Kujan steps out into the hall, shutting the door behind him.
+scene_heading: 55 INT. OUTSIDE RABIN'S OFFICE 55
+text: Kujan smiles instantly, recognizing the man standing with
+dialog: Rabin.
+speaker_heading: KUJAN
+dialog: Jack. What are you doing here?
+speaker_heading: BAER
+dialog: I've been looking all over for you.
+dialog: You still after the coke that walked
+dialog: out of that blood bath in the harbor?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 66
+speaker_heading: KUJAN
+dialog: Yeah.
+speaker_heading: BAER
+dialog: You can stop looking. There was no
+dialog: coke. I've been in L.A. county with
+dialog: a guy they pulled out of a drainpipe
+dialog: in San Pedro yesterday after the
+dialog: shoot-out. He came to this morning
+dialog: and started talking. He was part of
+dialog: a Hungarian mob there to do a deal
+dialog: with a bunch of goats from Argentina.
+dialog: He says it was definitely not a dope
+dialog: deal.
+speaker_heading: KUJAN
+dialog: There was ninety-one million -
+speaker_heading: BAER
+dialog: We know, but our man says no way on
+dialog: the dope. This Hungarian tells me
+dialog: the whole bunch was pulling stumps
+dialog: for Turkey the next' day. They had
+dialog: no time to negotiate that kind of
+dialog: product and no means to move it.
+speaker_heading: KUJAN
+dialog: What was the money for?
+speaker_heading: BAER
+dialog: He didn't know. No one doing the
+dialog: deal knew except a few key people.
+dialog: This guy says they were real hush
+dialog: about it. Whatever it was it was
+dialog: highly sensitive.
+speaker_heading: KUJAN
+dialog: I don't get it.
+speaker_heading: BAER
+dialog: They tell me you got the cripple
+dialog: from New York in there. He mention
+dialog: Keyser Soze
+speaker_heading: KUJAN
+dialog: Who?
+speaker_heading: BAER
+dialog: Bear with me here...
+scene_heading: 56 INT. RABIN'S OFFICE - LATER 56
+text: BOOM - The door bursts open.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 67
+speaker_heading: KUJAN
+dialog: Who is Keyser Soze?
+text: Verbal looks up in shock. He drops his cigarette and trembles
+dialog: at the mere mention of the name.
+speaker_heading: VERBAL
+dialog: Ahhh fuck.
+scene_heading: 57 INT. HOLLYWOOD ATHLETIC CLUB - DAY - TWO WEEKS PRIOR 57
+text: Keaton stands while the rest sit and listen.
+speaker_heading: KEATON
+dialog: So I need to know if anyone can think
+dialog: of anybody. Somebody with power.
+dialog: Enough to possibly track us from New
+dialog: York.
+speaker_heading: MCMANUS
+dialog: Look. We've been over it for an hour
+dialog: now. I say we pack up and run. Let's
+dialog: go back to New York. At least get
+dialog: out of L.A.
+text: SUDDENLY, The sound of a man clearing his throat.
+text: Everyone turns to the door behind them.
+text: MR. KOBAYASHI a tall, slim, well groomed man stands in the
+text: hall. He has a briefcase in his hand. He smiles politely.
+speaker_heading: KOBAYASHI
+dialog: Mr. Keaton?
+text: Keaton stands back and lets him in. Kobayashi looks them
+dialog: over.
+speaker_heading: KOBAYASHI (CONT'D)
+dialog: I am Mr. Kobayashi. I've been asked
+dialog: by my employer to bring a proposal
+dialog: to you gentlemen. That must be Mr.
+dialog: Hockney. I recognize Mr. Fenster
+dialog: from his mug shot, as well as Mr.
+dialog: McManus.
+dialog: (To Verbal)
+dialog: I can only assume that you are Mr.
+dialog: Kint. I believe you were the one
+dialog: who disposed of Saul. My employer
+dialog: sends his gratitude. A most
+dialog: unexpected benefit.
+dialog: Everyone looks at one another in shock that he would know
+dialog: this.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 68
+speaker_heading: KEATON
+dialog: What can we do for you?
+speaker_heading: KOBAYASHI
+dialog: My employer requires your services.
+dialog: One job. One day's work. Very
+dialog: dangerous. I don't expect all of you
+dialog: to live, but those who do will have
+dialog: ninety-one million dollars to divide
+dialog: any way they see fit.
+speaker_heading: KEATON
+dialog: Who's your boss?
+speaker_heading: KOBAYASHI
+dialog: My employer wishes to remain
+dialog: anonymous.
+speaker_heading: KEATON
+dialog: Don't jerk me off. We all know what
+dialog: this is. You don't work with me if I
+dialog: work with you without knowing who
+dialog: I'm working for. Now let's cut the
+dialog: shit. Who's the man?
+speaker_heading: KOBAYASHI
+dialog: I work for Keyser Sate.
+text: A strange look crosses Keaton's face. Skepticism, mockery
+text: and just a hint of fear. Hockney, McManus and Fenster all
+dialog: share similar looks.
+speaker_heading: KEATON
+dialog: What is this?
+speaker_heading: VERBAL
+dialog: Who's Keyser Soze?
+speaker_heading: KOBAYASHI
+dialog: I am sure you've heard a number of
+dialog: tall tales, myths and legends about
+dialog: Mr. Soze I can assure you gentlemen,
+dialog: most of them are true.
+speaker_heading: VERBAL
+dialog: Who's Keyser Soze?
+speaker_heading: KOBAYASHI
+dialog: Judging by the sudden change in mood,
+dialog: I am sure the rest of your associates
+dialog: can tell you, Mr. Kint. I have come
+dialog: with an offer directly from Mr. Soze.
+dialog: An order actually.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 69
+speaker_heading: KEATON
+dialog: An order.
+speaker_heading: KOBAYASHI
+dialog: In nineteen-eighty one, Mr. Keaton,
+dialog: you participated in the hijacking of
+dialog: a truck in Buffalo, New York. The
+dialog: cargo was raw steel. Steel that
+dialog: belonged to Mr. Soze and was destined
+dialog: for Pakistan to be used in a nuclear
+dialog: reactor. A very profitable violation
+dialog: of U.N. Regulations. You had no way
+dialog: of knowing this, because the man
+dialog: shipping the steel was working for
+dialog: Mr. Sate without his knowledge.
+dialog: (Beat)
+dialog: Mr. Fenster and Mr. McManus hijacked
+dialog: a twin-prop cargo flight earlier
+dialog: this year out of Newark airport. The
+dialog: plane was carrying platinum and gold
+dialog: wiring. Also set for Pakistan.
+text: Kobayashi turns and points at Hockney.
+speaker_heading: KOBAYASHI (CONT'D)
+dialog: Two months ago, Mr. Hockney stole a
+dialog: truck carrying gun parts through
+dialog: Queens -
+text: Everyone looks at Hockney. He smiles shyly. It occurs to
+dialog: them all that he robbed the truck for which they were all
+dialog: arrested in the first place.
+speaker_heading: KOBAYASHI (CONT'D)
+dialog: - guns allegedly set to be destroyed
+dialog: by the state of New York. They were
+dialog: to be "lost" in a weigh station and
+dialog: routed to Belfast. Again, Mr. Soze,
+dialog: using pawns who had no knowledge.
+dialog: (turning to Verbal)
+dialog: Which brings us to Mr. Kint.
+text: Verbal crumbles under his stare.
+speaker_heading: KOBAYASHI (CONT'D)
+dialog: Nine months ago, one of Mr. Soze's
+dialog: less than intelligent couriers was
+dialog: taken in a complicated confidence
+dialog: scam by a cripple. He was relieved
+dialog: of sixty-two thousand dollars. Now
+dialog: (To all of them)
+dialog: - It has taken us some time to find
+dialog: you.
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 70
+speaker_heading: KOBAYASHI (CONT'D)
+dialog: Our intention was to approach you
+dialog: after your apprehension in New York.
+speaker_heading: KEATON
+dialog: You set up the line-up.
+speaker_heading: KOBAYASHI
+dialog: Mr. Soze made a few calls, yes. You
+dialog: were not to be released until I came
+dialog: to see you. It seems Mr. Keaton's
+dialog: attorney, Ms. Finneran, was a bit
+dialog: too effective in expediting his
+dialog: release. Holding the rest of you
+dialog: became a moot point.
+speaker_heading: KEATON
+dialog: What about Redfoot?
+speaker_heading: KOBAYASHI
+dialog: Mr. Redfoot knew nothing. Mr. Soze
+dialog: rarely works with the same people
+dialog: for very long, and they never know
+dialog: who they're working for. One cannot
+dialog: be betrayed if one has no people.
+speaker_heading: FENSTER
+dialog: So why tell us?
+speaker_heading: KOBAYASHI
+dialog: Because you have stolen from Mr.
+dialog: Soze. That you did not know you
+dialog: stole from him is the only reason
+dialog: you are still alive, but he feels
+dialog: you owe him. You will repay your
+dialog: debt.
+speaker_heading: HOCKNEY
+dialog: Who is this guy? How do we know you
+dialog: work for Soze
+speaker_heading: KOBAYASHI
+dialog: I don't think that is relevant, Mr.
+dialog: Hockney. The five of you are
+dialog: responsible for the murder of Saul
+dialog: Berg and his bodyguards. Mr. Redfoot
+dialog: can attest to your involvement, and
+dialog: we can see to it that he will. He is
+dialog: not of your "superior" breed.
+speaker_heading: MCMANUS
+dialog: This is a load of shit.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 71
+speaker_heading: KOBAYASHI
+dialog: The offer is this, gentlemen. Mr.
+dialog: Soze's primary interest, as I am
+dialog: sure you all know, is narcotics.
+dialog: He's been - competing shall we say,
+dialog: with a group of Argentinians for
+dialog: several years. Competing with Mr.
+dialog: Soze has taken its toll. These
+dialog: Argentinians are negotiating the
+dialog: sale of ninety-one million dollars
+dialog: in cocaine in three days time.
+dialog: Needless to say, this purchase will
+dialog: revitalize the diminishing strength
+dialog: of their organization. Mr. Soze wants
+dialog: you to stop the deal. If you choose,
+dialog: you may wait until the buy. Whatever
+dialog: money changes hands is yours. The
+dialog: transaction will take place on a
+dialog: boat in San Pedro. Mr. Soze wants
+dialog: you to get to the boat and destroy
+dialog: the cocaine on board. Then you are
+dialog: free of your obligation to Mr. Soze.
+speaker_heading: KEATON
+dialog: Give me one good reason why I
+dialog: shouldn't kill you right now.
+text: Kobayashi smiles and puts his briefcase on the table in front
+dialog: of him.
+speaker_heading: KOBAYASHI
+dialog: A gift from Mr. Soze gentlemen.
+text: He turns and walks out of the room.
+text: Keaton walks over to the case and opens it. He reaches in
+text: and pulls out five thick manila envelopes, each marked in
+text: bold black letters. "KEATON", "McMANUS", "HOCKNEY", "FENSTER"
+text: and "KINT." Keaton pulls out the files, revealing a map
+dialog: underneath.
+text: Keaton hands each man his file. He opens his first. He pulls
+text: out a thick stack of papers and thumbs through them.
+speaker_heading: KEATON
+dialog: Jesus Christ. Open them.
+text: All of the men open their files. Inside are mug shots of
+dialog: each man in his respective file as well as a printout of his
+dialog: criminal record. But there is more.
+speaker_heading: HOCKNEY
+dialog: They know everything.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 72
+speaker_heading: MCMANUS
+dialog: This is my life in here. Everything
+dialog: I've done since I was eighteen.
+speaker_heading: FENSTER
+dialog: Everybody I ever worked with, did
+dialog: time with.
+speaker_heading: HOCKNEY
+dialog: They fucking know everything.
+text: Keaton pulls out a large black and white photograph of himself
+text: and his lawyer EDIE FINNERAN. They are laughing arm in arm
+text: by a fountain in New York. He hides the photo from the others.
+speaker_heading: KEATON
+dialog: This is not right.
+speaker_heading: FENSTER
+dialog: I don't know. Who was that guy that
+dialog: used to talk about Soze in New York?
+speaker_heading: MCMANUS
+dialog: Bricks Marlin.
+speaker_heading: FENSTER
+dialog: Yeah. He said he did jobs for him.
+dialog: Indirect stuff. Always five times
+dialog: more money than the job was worth.
+speaker_heading: KEATON
+dialog: Come on. The guy is a pipe dream.
+dialog: This Kobayashi is using him for window
+dialog: dressing.
+speaker_heading: FENSTER
+dialog: I don't know. This is bad.
+speaker_heading: HOCKNEY
+dialog: It's bullshit. This guy could be
+dialog: L.A.P.D. I think it's a setup.
+speaker_heading: FENSTER
+dialog: The way I hear it, Soze is some kind
+dialog: of butcher. No pity.
+speaker_heading: KEATON
+dialog: There is no Keyser Soze.
+text: Verbal thumbs through his file. A long list of names, numbers,
+dialog: addresses. It is a detailed portfolio of his entire criminal
+text: and personal life. He looks up at Keaton.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 73
+speaker_heading: VERBAL
+dialog: Who is Keyser Soze
+scene_heading: 58 INT. RABIN'S OFFICE - DAY - PRESENT 58
+text: Kujan leans into Verbal's face. He hangs on his every word.
+speaker_heading: VERBAL
+dialog: He is supposed to be Turkish. Some
+dialog: say his father was German. Nobody
+dialog: believed he was real. Nobody ever
+dialog: saw him or knew anybody that ever
+dialog: worked directly for him, but to hear
+dialog: Kobayashi tell it, anybody could
+dialog: have worked for Soze. You never knew.
+dialog: That was his power. The greatest
+dialog: trick the Devil ever pulled was
+dialog: convincing the world he didn't exist.
+dialog: One story the guys told me - the
+dialog: story I believe - was from his days
+dialog: in Turkey. There was a petty gang
+dialog: of Hungarians that wanted their own
+dialog: mob. They realized that to be in
+dialog: power you didn't need guns or money
+dialog: or even numbers. You just needed the
+dialog: will to do what the other guy
+dialog: wouldn't. After a while they come to
+dialog: power, and then they come after Soze
+dialog: He was small time then, just running
+dialog: dope, they say...
+speaker_heading: 59 INT. SOZE'S HOME - DAY 59
+dialog: Three of the Hungarians come bursting into Keyser Soze's
+dialog: home. They grab his five children and round them up in the
+text: front room. One of the men grabs his wife and back-hands her
+dialog: across the face.
+speaker_heading: VERBAL (V.O.)
+dialog: They come to his home in the afternoon
+dialog: looking for his business. They find
+dialog: his wife and kids in the house and
+dialog: decide to wait for Sate.
+scene_heading: 60 INT. SOZE'S HOME - LATER 60
+dialog: The front door opens and in walks Keyser Sate. We are never
+dialog: allowed to see his face.
+text: Sate's wife lies in the corner, beaten and bruised. Her dress
+text: is tattered to shreds. She cannot look up at her husband.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 74
+text: The three Hungarians stand to greet him. Two hold guns in
+text: their hands. The third holds a straight razor. He grabs Soze
+text: youngest boy and holds the razor to his throat.
+speaker_heading: VERBAL (V.O.)
+dialog: He comes home to his wife raped and
+dialog: his children screaming. The Hungarians
+dialog: knew Soze was tough. Not to be trifled
+dialog: with.
+dialog: So they let him know they meant business.
+text: The Hungarian smiles. Soze's wife SCREAMS IN HORROR.
+text: The Hungarian holds up a BLOOD SOAKED RAZOR.
+text: SUDDENLY, he grabs another child. A little girl no older
+dialog: than six.
+speaker_heading: VERBAL (V.O.) (CONT'D)
+dialog: They tell Soze they want his territory -
+dialog: all his business. Soze looks over
+dialog: the faces of his family... Then he
+dialog: showed these men of will what will
+dialog: really was.
+text: SUDDENLY, Soze pulls out a pistol and shoots the two men
+text: with guns. He turns and aims at the third man holding his
+dialog: child.
+text: The man threatens to cut the child's throat, slicing just
+dialog: enough to draw blood.
+speaker_heading: SOZE FIRES.
+text: The stunned Hungarian watches the child fall from his arms.
+text: Sate turns the pistol on the next child, then the next and
+text: the next. He kills his children one by one in front of the
+dialog: Hungarian.
+speaker_heading: VERBAL (V.O.) (CONT'D)
+dialog: He tells him he would rather' see
+dialog: his family dead than live another
+dialog: day after this.
+text: SOZE walks over to his wife, crying and beaten on the floor
+text: and holds up her head. She gives him the strangest look. One
+dialog: of trust perhaps, saturated with fear and humiliation.
+text: He puts the gun between her eyes and fires.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 75
+speaker_heading: VERBAL (V.O.) (CONT'D)
+dialog: He lets the last Hungarian go, and
+dialog: he goes running. He waits until his
+dialog: wife and kids are in the ground and
+text: he goes after the rest of the mob.
+dialog: He kills their kids, he kills their
+dialog: wives, he kills their parents and
+dialog: their parents' friends.
+text: A dark and looming figure of a man walks in front of a wall
+text: of fire - a black shadow blurred by waves of heat.
+speaker_heading: VERBAL (V.O.) (CONT'D)
+dialog: He burns down the houses they live
+dialog: in and the stores they work in, he
+dialog: kills people that owe them money.
+dialog: And like that he was gone.
+dialog: Underground. No one has ever seen
+text: him again. He becomes a myth, a spook
+dialog: story that criminals tell their kids
+dialog: at night. If you rat on your pop,
+dialog: Keyser Sate will get you. And nobody
+dialog: really ever believes.
+scene_heading: 61 INT. RABIN'S OFFICE - DAY 61
+speaker_heading: KUJAN
+dialog: Do you believe in him, Verbal?
+speaker_heading: VERBAL
+dialog: Keaton always said: "I don't believe
+dialog: in God, but I'm afraid of him." Well
+dialog: I believe in God, and the only thing
+dialog: that scares me is Keyser SOZE.
+speaker_heading: 62 INT. WORKSHOP 62
+text: Jack Baer and Rabin listen to Verbal on the speaker with one
+dialog: ear.
+speaker_heading: RABIN
+dialog: You give this any weight, Agent Baer?
+speaker_heading: BAER
+dialog: I can introduce you to Dan Metzheiser
+dialog: from Justice. He has a file on Sate
+dialog: in D.C. It's been a hobby of his for
+dialog: a few years. A lot of guys equate
+dialog: him to that reporter on the Incredible
+dialog: Hulk.
+speaker_heading: RABIN
+dialog: Had you heard of him before?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 76
+speaker_heading: BAER
+dialog: On the street? A few times. Outside
+dialog: stuff. Somebody was working for a
+dialog: guy who was working for a guy who
+dialog: got money through Keyser Soze. That
+dialog: kind of shit. Could be an old badge.
+dialog: A hex sign to keep people from fucking
+dialog: with you back when a name meant
+dialog: something.
+speaker_heading: RABIN
+dialog: But you're here.
+speaker_heading: BAER
+dialog: Shit yeah. I got a guy trying to
+dialog: walk out of the hospital on a fried
+dialog: drumstick to get away from SOZE.
+dialog: I'11 run it up the flagpole.
+speaker_heading: 63 INT. RABIN'S OFFICE 63
+speaker_heading: VERBAL
+dialog: I came clean. I told it like it
+dialog: happened on the boat. So what if I
+dialog: left out how I got there? It's got
+dialog: so many holes in it, the D.A. would've
+dialog: told me to blow amnesty out my ass.
+dialog: So you got what you wanted out of
+dialog: me. Big fucking deal.
+speaker_heading: KUJAN
+dialog: And this is why you never told the
+dialog: D.A.
+speaker_heading: VERBAL
+dialog: You tell me, Agent Kujan. If I told
+dialog: you the Loch Ness Monster hired me
+dialog: to hit the harbor, what would you
+dialog: say?
+speaker_heading: KUJAN
+dialog: Turn state's evidence. Take the stand
+dialog: on this and we'll hear it out.
+speaker_heading: VERBAL
+dialog: I've got immunity now. What can you
+dialog: possibly offer me?
+speaker_heading: KUJAN
+dialog: If there is a Keyser Soze he'll be
+dialog: looking for you.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 77
+speaker_heading: VERBAL
+dialog: Where's your head, Agent Kujan? Where
+dialog: do you think the pressure's coming
+dialog: from? Keyser Soze - or whatever you
+dialog: want to call him - knows where I am
+dialog: right now. He's got the front burner
+dialog: under' your ass to let me go so he
+dialog: can scoop me up ten minutes later.
+dialog: Immunity was just to deal with you
+dialog: assholes. I got a whole new problem
+dialog: when I post bail.
+speaker_heading: KUJAN
+dialog: So why play into his hands? We can
+dialog: protect you.
+speaker_heading: VERBAL
+dialog: Gee, thanks, Dave. Bang-up job so
+dialog: far. Extortion, coercion. You'll
+dialog: pardon me if I ask you to kiss my
+dialog: pucker. The same fuckers that rounded
+dialog: us up and sank us into this mess are
+dialog: telling me They'll bail me out?
+dialog: Fuck you. You think you can catch
+dialog: Keyser Soze? You think a guy like
+dialog: that comes this close to getting
+dialog: fingered and sticks his head out? If
+dialog: he comes up for anything, it will be
+dialog: to get rid of me.
+dialog: (beat)
+dialog: After that, my guess is you'll never
+dialog: hear from him again.
+scene_heading: 64 INT. HALLWAY OUTSIDE HOSPITAL ROOM - DAY 64
+text: Doctor Plumber watches from out in the hall. Kovash spits
+dialog: out a constant river of Hungarian while Bodi tries to keep
+dialog: up, relaying everything to Tracy Fitzgerald.
+text: She sketches frantically while Daniel Metzheiser looks on.
+text: The composite sketch of Keyser SOZE is taking form.
+dialog: << >> Denotes liners spoken
+dialog: In Hungarian.
+speaker_heading: BODI
+dialog: <>
+speaker_heading: KOVASH
+dialog: <>
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 78
+speaker_heading: BODI
+dialog: (To Tracy)
+text: The nose is sharper. Smaller too.
+dialog: (To Arkosh in Hung.)
+dialog: <>
+speaker_heading: KOVASH
+dialog: <>
+speaker_heading: BODI
+dialog: <>
+speaker_heading: KOVASH
+dialog: <>
+speaker_heading: BODI
+dialog: (To Tracy)
+dialog: He says the hair is longer and
+dialog: lighter.
+speaker_heading: 65 EXT. BEACH - DAY 65
+text: Waves pound across a stone jetty. A MAN sits fishing while
+text: his young son, BRANDO strolls toward the open sea. He pokes
+text: at rocks and seaweed with a fishing pole. He glances down at
+text: Something wedged between the rocks beneath his feet. He pokes
+text: at it. He notes the checkered pattern of the fabric entwined
+text: with the twisted mess. It is the bloated carcass of THE MAN
+text: IN THE CHECKERED BATHROBE. BRANDO pokes it's eye with the
+dialog: fishing pole. It pops.
+speaker_heading: 66 INT RABIN'S OFFICE 66
+speaker_heading: VERBAL
+dialog: That was how I ended up in a barber
+dialog: shop quartet in Skokie, Illinois.
+speaker_heading: KUJAN
+dialog: This is totally irrelevant.
+speaker_heading: VERBAL
+dialog: Oh, but it's not. If I hadn't been
+dialog: nailed in Illinois for running a
+dialog: three card monte in between sets, I
+dialog: never would have took off for New
+dialog: York. I never would have met Keaton,
+dialog: see. That barber shop quartet was
+dialog: the reason for everything.
+speaker_heading: KUJAN
+dialog: Can we just get back to Kobayashi?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 79
+speaker_heading: VERBAL
+dialog: The quartet is part of the bit about
+dialog: Kobayashi. The quartet was in my
+dialog: file, along with every other thing I
+dialog: had done since high school, see?
+dialog: Aliases, middle-men. They knew me
+dialog: better than I did. They knew all of
+dialog: us.
+text: Kujan looks at his watch.
+speaker_heading: KUJAN
+dialog: You're stalling, Verbal.
+speaker_heading: VERBAL
+dialog: Give a guy a break, huh?
+speaker_heading: KUJAN
+dialog: What happened?
+text: Verbal slumps a bit. He realizes his stalling tactic has
+dialog: failed.
+speaker_heading: VERBAL
+dialog: We woke up the next morning and
+dialog: Fenster was gone. He couldn't handle
+dialog: the idea of slumming for SOZE. He
+dialog: left a note wishing us good luck and
+dialog: took a chunk of the money we'd scraped
+dialog: together.
+speaker_heading: KUJAN
+dialog: Then what?
+speaker_heading: VERBAL
+dialog: McManus was furious. He was talking
+dialog: about tracking him down and ripping
+dialog: his heart out and all sorts of shit.
+dialog: That night we got the call.
+speaker_heading: KUJAN
+dialog: What call?
+speaker_heading: VERBAL
+dialog: Kobayashi told us where we could
+dialog: find Fenster.
+scene_heading: 67 EXT. BEACH - NIGHT - TWO WEEKS PRIOR 67
+text: Keaton looks out over the ocean and smokes a cigarette.
+speaker_heading: KEATON
+dialog: What do you want to do with him?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 80
+text: McManus kneels in the sand. Hockney and Verbal stand behind
+text: him, staring at something in front of them.
+text: It is the body of Fred Fenster, literally peppered with bullet
+text: holes. McManus stares at him, fighting any flicker of emotion.
+speaker_heading: MCMAMJS
+dialog: I worked five years with Fenster.
+dialog: More jobs, more money than I can
+dialog: count.
+speaker_heading: KEATON
+dialog: I'm sorry, McManus.
+speaker_heading: MCMANUS
+dialog: I want to bury him.
+speaker_heading: KEATON
+dialog: No time.
+text: McManus springs to his feet and points a pistol at Keaton.
+text: Keaton turns to face him and raises his head. McManus might
+dialog: as well be pointing a feather-duster.
+speaker_heading: MCMANUS
+dialog: YOU WILL FIND TIME. You're not the
+dialog: only one with debts, man.
+speaker_heading: KEATON
+dialog: No shovel.
+speaker_heading: MCMANUS
+speaker_heading: WITH OUR HANDS.
+speaker_heading: 68 EXT. BEACH 68
+text: Everyone digs in the sand on the deserted beach with their
+text: hands. They are up to their waists in the hole they have
+text: scooped out. Fenster's body is a few feet away.
+speaker_heading: HOCKNEY
+dialog: This is nuts.
+speaker_heading: MCMANUS
+dialog: Dig.
+speaker_heading: HOCKNEY
+dialog: This is fucking dry sand, man. When
+dialog: he rots, the surfers'll smell him
+dialog: from a hundred yards out.
+speaker_heading: MCMANUS
+speaker_heading: DIG, YOU FUCKER.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 81
+dialog: Hockney can see that McManus has truly gone over the edge
+text: for now. Keaton gives him a look that says don't argue.
+speaker_heading: HOCKNEY
+dialog: Keaton, we gotta go. They're gonna
+dialog: find him.
+speaker_heading: KEATON
+dialog: Dig.
+speaker_heading: VERBAL
+dialog: What are we gonna do?
+speaker_heading: HOCKNEY
+dialog: I can run. I got no problem with
+dialog: that.
+speaker_heading: KEATON
+dialog: They don't seem to have a problem
+dialog: with it either.
+speaker_heading: MCMANUS
+dialog: Nobody runs.
+speaker_heading: HOCKNEY
+dialog: This ain't my boy we're burying. I
+dialog: don't owe anybody.
+speaker_heading: MCMANUS
+dialog: We got a deal here.
+speaker_heading: HOCKNEY
+dialog: Since when?
+speaker_heading: MCMANUS
+dialog: Since tonight.
+speaker_heading: HOCKNEY
+dialog: Fuck that.
+speaker_heading: MCMANIJS
+dialog: It's payback.
+speaker_heading: KEATON
+dialog: IT'S NOT PAYBACK. I don't answer to
+dialog: you. It's precaution. You want
+dialog: payback? You want to run? I don't
+dialog: care. I'm going to finish this thing.
+dialog: Not for Fenster, not for anybody
+dialog: else, but for me. This Kobayashi
+dialog: cocksucker isn't going to stand over
+dialog: me.
+dialog: (Beat)
+dialog: All of you can go to hell.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 82
+text: Keaton turns and digs furiously with both hands. Hockney
+text: takes a moment and slowly starts to do the same.
+text: The four men dig for Fenster. The first to find some rest.
+scene_heading: 69 INT. RABIN'S OFFICE - DAY - PRESENT 69
+text: Verbal smokes with his good hand shaking badly.
+speaker_heading: KUJAN
+dialog: And after they killed Fenster nobody
+dialog: would run?
+speaker_heading: VERBAL
+dialog: I wanted to. I thought we could make
+dialog: it.
+speaker_heading: KUJAN
+dialog: Why didn't you say anything?
+speaker_heading: VERBAL
+dialog: I tried, believe me, but Keaton
+dialog: wouldn't have it. It was too far-
+dialog: fetched for him. Keaton was a
+dialog: grounded guy. An ex-cop. To a cop,
+dialog: the explanation is never that
+dialog: complicated. It's always simple.
+dialog: There's no mystery on the street, no
+dialog: arch-criminal behind it all. If you
+dialog: got a dead guy and you think his
+dialog: brother did it, you're going to find
+dialog: out you're right. Nobody argued
+dialog: with Keaton. They just set their
+dialog: minds on whacking Kobayashi.
+scene_heading: 70 EXT. PARKING LOT - NIGHT - TWO WEEKS PRIOR 70
+text: Redfoot's Harley rests on the roof of the Caddy in a mangled
+text: heap. The body of the Caddy is riddled with bullet holes.
+text: Redfoot's dead body has been shoved head-first through a
+text: hole in the windshield up to his waist, recognizable only by
+dialog: the trademark red boot.
+scene_heading: 71 INT. OFFICE BUILDING - DAY 71
+text: Kobayashi walks through the front door of a plush office
+text: tower followed by two bodyguards. He heads toward the
+text: elevator, failing to notice Hockney a few feet away, reading
+dialog: a newspaper.
+text: We see a wire running from Hockney's ear to his collar.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 83
+speaker_heading: HOCKNEY
+dialog: He's coming up.
+scene_heading: 72 INT. HALLWAY - FORTIETH FLOOR 72
+text: Keaton, McManus and Verbal stand by the six elevators on the
+dialog: fortieth floor. They are all wearing khaki overalls and tool
+text: belts with walkie-talkies. They look like servicemen.
+text: All of the elevators have been propped open and stranded.
+text: McManus moves into one of the elevators. As the doors close
+text: behind him, he scrambles for the ceiling hatch.
+speaker_heading: 73 INT. HALLWAY 73
+dialog: Keaton and Verbal listen for anything on the radio.
+speaker_heading: 74 INT. LOBBY 74
+text: The elevator opens. Kobayashi and his bodyguards get on the
+dialog: elevator.
+speaker_heading: 75 INT. ELEVATOR 75
+text: The elevator is empty except for the three men. McManus has
+text: vanished. Kobayashi presses a button and they are on the
+dialog: way.
+text: SUDDENLY, the ceiling hatch opens and McManus' arm comes
+dialog: out.
+text: POP - POP. Two shots from a suppressed pistol and the guards
+dialog: drop to the floor, DEAD.
+text: Kobayashi looks up with surprising calm into McManus' barrel.
+speaker_heading: MCMANUS
+dialog: Press forty.
+scene_heading: 76 INT. HALLWAY - FORTIETH FLOOR 76
+text: The elevator opens and Kobayashi is greeted by Keaton and
+text: Verbal. McManus drops from the ceiling hatch and pushes him
+dialog: out.
+text: Verbal and McManus grab the dead bodies and drag them out of
+text: the elevator. They drag them to the next elevator which has
+text: been forced open, revealing an empty shaft.
+speaker_heading: KEATON
+dialog: The answer is no.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 84
+speaker_heading: KOBAYASHI
+dialog: Mr. Soze will be most -
+speaker_heading: KEATON
+dialog: Listen to me, cocksucker. There is
+dialog: no Keyser Sate. If you say his name
+dialog: again, I'11 kill you right here.
+speaker_heading: KOBAYASHI
+dialog: A strange threat. I can only assume
+dialog: you're here to kill me anyway. Pity
+dialog: about Mr. Redfoot.
+speaker_heading: MCMANUS
+dialog: Fair trade for Fenster.
+text: The elevator opens and Hockney steps out.
+speaker_heading: KOBAYASHI
+dialog: Ahh, Mr. Hockney. Do join us.
+speaker_heading: KEATON
+dialog: We know you can get to us, and now
+dialog: you know we can get to you. I'm
+dialog: offering you the chance to call this
+dialog: off.
+speaker_heading: KOBAYASHI
+dialog: Mr. So- My employer has made up his
+dialog: mind. He does not change it.
+speaker_heading: KEATON
+dialog: Neither do we.
+speaker_heading: MCMANUS
+dialog: You got Fenster, you may get more,
+dialog: but you won't get us all. Not before
+dialog: one of us gets to you.
+speaker_heading: KOBAYASHI
+dialog: I believe you, Mr. McManus. I quite
+dialog: sincerely do. You would not have
+dialog: been chosen if you were not so
+dialog: capable, but I cannot make this
+dialog: decision. Whatever you can threaten
+dialog: me with is... ludicrous in comparison
+dialog: to what will be done to me if -
+speaker_heading: MCMANUS
+dialog: Just so you know. I'm the guy. I'm
+dialog: the one that's gonna get through to
+dialog: you.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 85
+speaker_heading: KOBAYASHI
+dialog: I am sorry, Mr. McManus.
+dialog: (To Keaton)
+dialog: I implore you to believe me, Mr.
+dialog: Keaton. Mr. Soze is very real and
+dialog: very determined.
+speaker_heading: KEATON
+dialog: We'll see.
+text: McManus holds a pistol to Kobayashi's chin. The lawyer's
+dialog: cool eyes never falter.
+speaker_heading: KOBAYASHI
+dialog: Before you do me in, you will let me
+dialog: finish my business with Ms. Finneran
+dialog: first, won't you?
+text: SUDDENLY, Keaton grabs McManus' hand and pulls the gun away
+dialog: before he can shoot.
+speaker_heading: KEATON
+dialog: What did you say?
+speaker_heading: KOBAYASHI
+dialog: Edie Finneran. She is upstairs in my
+dialog: office for an extradition deposition.
+dialog: I requested she be put on the case
+dialog: personally. She flew out yesterday.
+dialog: Everyone looks at Keaton.
+speaker_heading: KOBAYASHI (CONT'D)
+dialog: No matter. Kill away, Mr. McManus.
+speaker_heading: KEATON
+dialog: You're lying.
+speaker_heading: KOBAYASHI
+dialog: Am I?
+scene_heading: 77 INT. HALLWAY - FIFTIETH FLOOR 77
+text: Everyone follows Kobayashi quietly down a dimly lit, oak-
+text: lined hallway. Verbal holds a small pistol discreetly in the
+dialog: small of Kobayashi's back.
+text: They come to a glass office foyer. Kobayashi gestures and
+text: everyone looks through the glass into the lobby beyond.
+text: EDIE FINNERAN is talking casually with the receptionist.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 86
+speaker_heading: 78 INT. LOBBY 78
+text: Edie glances toward the men in the hall.
+text: Keaton turns quickly on his heels, facing the others. From
+text: where Edie stands, it looks as though Kobayashi is talking
+dialog: to a group of harmless maintenance men.
+dialog: They see A LARGE MAN dressed very much like the two dead
+text: bodies left in the hall downstairs. The man notices Kobayashi
+text: and the others. He stands and stares menacingly.
+speaker_heading: KOBAYASHI
+dialog: Ms. Finneran's escort in Los Angeles.
+dialog: Never leaves her for a moment. I
+dialog: thought you'd like to know she was
+dialog: in good hands.
+text: Keaton's mind races for an alternative. He can find none.
+text: Verbal lowers his gun without being told.
+speaker_heading: KOBAYASHI (CONT'D)
+dialog: Get your rest, Gentlemen. The boat
+dialog: will be ready for you on Friday. If
+dialog: I see you or your friends before
+dialog: then, or fail to check in every half
+dialog: hour with that unpleasant looking
+dialog: man in there, Ms. Finneran will
+dialog: find herself the victim of a gruesome
+dialog: violation before she dies. As will
+dialog: your father, Mr. Hockney. and your
+dialog: Uncle Randall in Arizona, Mr. Kint.
+dialog: I might only castrate Mr. McManus'
+dialog: nephew, David. Do I make myself clear?
+text: All of the men surround Kobayashi, aching to kill him.
+speaker_heading: KOBAYASHI (CONT'D)
+dialog: I'11 take care of the dead men
+dialog: downstairs. We'll add them to the
+dialog: cost of Mr. Fenster. Now if you'll
+dialog: excuse me.
+text: Kobayashi walks into the office. Edie turns to greet him.
+text: Keaton slowly turns and watches as they shake hands and talk.
+dialog: Kobayashi says something they cannot hear and Edie laughs,
+dialog: her back to the window.
+text: Kobayashi smiles over her shoulder at Keaton.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 87
+text: All the while, the bodyguard watches Keaton. He nods politely
+text: before Keaton and the others leave. Verbal watches for a
+dialog: moment more and follows.
+scene_heading: 79 EXT. HILLSIDE ROAD - DAY 79
+text: Keaton, Verbal, Hockney and McManus sit in a rented sedan
+dialog: overlooking San Pedro harbor.
+text: Another file from Kobayashi's briefcase is laid out on the
+text: dashboard. This has a map and a good fifty pages of
+dialog: information in it.
+speaker_heading: KEATON
+dialog: It's a logistical nightmare. Close
+dialog: quarters, no advance layout, ten
+dialog: men, maybe twenty.
+speaker_heading: HOCKNEY
+dialog: Can we stealth these guys?
+speaker_heading: KEATON
+dialog: Doubtful. With all that coke, they'll
+dialog: be ready - which brings me to sunny
+dialog: spot number two. Even if one of us
+dialog: gets through and jacks the boat, we
+dialog: get nothing.
+speaker_heading: MCMANUS
+dialog: And if we wait for the money?
+speaker_heading: KEATON
+dialog: Ten more men at least. In my opinion,
+dialog: it can't be done. Anyone who walks
+dialog: into this won't come out alive.
+speaker_heading: MCMANUS
+dialog: I'm for waiting for the money.
+speaker_heading: HOCKNEY
+dialog: Me too.
+speaker_heading: VERBAL
+dialog: Did you hear what he just said?
+speaker_heading: HOCKNEY
+dialog: If I'm going in, I want a stake.
+speaker_heading: MCMANUS
+dialog: So do I.
+text: Verbal is shocked by what he is hearing. He looks at Keaton
+dialog: as if to ask him for his decision.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 88
+text: Keaton's cold stare is all the answer Verbal needs. He slumps
+dialog: in his seat, resigned to the others.
+speaker_heading: VERBAL
+dialog: I just can't believe we're just gonna
+dialog: walk into certain death.
+speaker_heading: PAUSE
+dialog: They all suddenly realize the weight
+dialog: of their situation.
+speaker_heading: FINALLY:
+speaker_heading: MCMANUS
+dialog: News said it's raining in New York.
+dialog: No one knows quite how to respond.
+speaker_heading: 80 EXT, PIER - SAN PEDRO - NIGHT 80
+text: A large boat, sleek and yacht-like, but without finesse.
+text: This is a boat for business - heavy and fast. It is moored
+dialog: to the pier.
+text: A large crane hoists a pallet of fuel drums from the dock.
+text: It swings slowly over the boat. A man on the dock yells in
+dialog: Spanish to the crane operator.
+speaker_heading: 81 EXT. BOATHOUSE 81
+text: Behind an old and weathered boat in dry-dock, Keaton and
+dialog: Verbal watch the boat from the shadows.
+speaker_heading: VERBAL
+dialog: What-are they speaking?
+speaker_heading: KEATON
+dialog: Russian, I think. I don't know.
+speaker_heading: VERBAL
+dialog: Hungarian?
+speaker_heading: KEATON
+dialog: Knock it off.
+speaker_heading: DOLLY OVER TO REVEAL:
+text: McManus climbing up the side of the boathouse.
+speaker_heading: CONTINUE PAST HIM TO REVEAL:
+text: A large boat. A very large boat.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 89
+speaker_heading: 82 EXT. BARGE 82
+text: Hockney maneuvers through a mesh of twisted steel, arriving
+text: at a vantage point near the stern of the large boat.
+speaker_heading: HOCKNEY'S P.O.V.
+text: A black van pulls up and parks near the crane. Four men in
+text: suits get out. One remains with the van and the other three
+dialog: walk toward the boat.
+text: On the boat, five men come up from below deck. They are tense
+text: and cautious around the men in suits. Someone speaks in
+text: Spanish and someone else in Russian. It takes a moment before
+dialog: anyone speaks the same tongue. They settle on French for
+dialog: both negotiators.
+text: Hockney sits in the van. He handles a large shoulder bag
+text: stuffed with plastique. He tests a timer on top.
+text: He picks up a walkie-talkie.
+speaker_heading: HOCKNEY
+dialog: Are we ready, kids?
+scene_heading: 83 EXT. BOATHOUSE.-- ROOF 83
+text: McManus is positioning himself on the roof of the boathouse.
+text: He stops and grabs his radio.
+speaker_heading: MCMANUS
+dialog: If I didn't have to stop and answer
+dialog: you, I would be.
+speaker_heading: 84 INT. BOATHOUSE 84
+speaker_heading: KEATON
+dialog: (into radio)
+dialog: Everyone shut up. I'm ready. McManus,
+dialog: you better be set up in ten seconds.
+speaker_heading: MCMANUS
+dialog: (On radio)
+dialog: I'm there.
+speaker_heading: KEATON
+dialog: (To Verbal)
+dialog: I want you to stay here. Understand?
+speaker_heading: VERBAL
+dialog: But I'm supposed to -
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 90
+speaker_heading: KEATON
+dialog: If we don't make it out, I want you
+dialog: to take the money and go.
+speaker_heading: VERBAL
+dialog: (Confused)
+dialog: Keaton, I can't just -
+speaker_heading: KEATON
+dialog: I want you to find Edie. Both of you
+dialog: find some place safe. Tell her what
+dialog: happened - Everything. She knows
+dialog: people. She'll know what to do. If
+dialog: we can't get Kobayashi my way, she'll
+dialog: get him her way.
+speaker_heading: VERBAL
+dialog: What if I -
+speaker_heading: KEATON
+dialog: Just do what I tell you.
+text: Keaton turns and takes a few steps. He stops and looks back,
+text: his face marked with guilt and agony.
+speaker_heading: KEATON (CONT'D)
+dialog: Tell her I... Tell her I tried.
+text: Keaton leaves before Verbal can respond. He walks down a
+dialog: ramp toward the boat.
+text: He is no more than a few yards out of the shadows before the
+dialog: first man sees him.
+speaker_heading: 85 EXT. DOCK 85
+text: One of the men in suits starts to yell to the others. Men
+dialog: pull out guns and try to look as cool as they can.
+dialog: Keaton walks right into the face of all of these men,
+text: undaunted. His hands are in his pockets.
+text: Above him, in the darkness, McManus pokes his head out and
+text: spies Keaton. He pulls his head back and sticks out the barrel
+dialog: of the rifle.
+text: Keaton comes to a stop about twenty feet from fifteen men
+dialog: all together.
+speaker_heading: 86 EXT. BOATHOUSE - ROOF 86
+speaker_heading: McMANUS'S P.O.V.
+text: McManus stares through the scope of his rifle at the scene.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 91
+text: The cross-hairs breeze past Keaton and find a target. A man
+dialog: in a suit.
+speaker_heading: MCMANUS
+dialog: Pow.
+text: He moves to another and then another, picking up speed and
+text: mock-shooting the men. He is steady and quick. It is clear
+dialog: he could take all fifteen in a few seconds.
+speaker_heading: MCMANUS (CONT'D)
+dialog: Pow-pow-pow-pow-pow-pow. Oswald was
+dialog: a fag.
+speaker_heading: 87 EXT. DOCK 87
+text: The men shout questions at Keaton in a number of languages.
+speaker_heading: 88 EXT. BARGE 88
+speaker_heading: HOCKNEY'S P.O.V.
+text: A few men standing on the dock near the stern of the large
+dialog: boat, move towards the commotion.
+text: Hockney bails out and runs quickly and quietly through the
+dialog: shadows, bringing the bomb with him.
+speaker_heading: 89 EXT. BOATHOUSE 89
+text: Verbal remains in the darkness, looking frightened.
+scene_heading: 90 INT. BOATHOUSE - ROOF 90
+text: McManus still wanders with his scope.
+speaker_heading: MCMANUS
+dialog: Old McDonald had a farm, ee-aye, ee-
+dialog: aye, oh. And on this farm he shot
+dialog: some guys. Ba-da-bip, ba-da-bing,
+dialog: bang-boom.
+speaker_heading: 91 EXT. DOCK 91
+text: Finally two men walk right towards Keaton. The rest train
+text: guns on him. They reach for his arms, pointing their guns
+dialog: right at him.
+text: At the far end of the dock, Hockney throws his bomb onto the
+dialog: stern of the large boat.
+speaker_heading: IT EXPLODES
+text: The men surrounding Keaton, are distracted.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 92
+text: Keaton pulls a pistol out of each pocket and shoots the two
+dialog: men closest to him.
+speaker_heading: 92 EXT. BOATHOUSE - ROOF 92
+speaker_heading: MCMANUS
+text: ELVIS HAS LEFT THE BUILDING.
+dialog: He fires as fast as he can.
+speaker_heading: 93 EXT. PIER 93
+text: The men from the boat and the men in suits try to peg Keaton,
+dialog: but McManus' sniping has them running.
+speaker_heading: 94 INT. CRANE 94
+text: The crane operator opens the door to bail out, leaving the
+dialog: crane in motion.
+speaker_heading: 95 EXT. BOATHOUSE - ROOF 95
+text: McManus runs across the roof of the boathouse and jumps down
+text: to the pier. He arrives at a thick mooring cable and climbs
+dialog: across to the boat.
+speaker_heading: MEANWHILE ON THE DOCK:
+text: Keaton climbs up onto a small lifeboat hanging from the side
+text: of the larger boat. From this he climbs aboard the large
+dialog: boat.
+speaker_heading: 96 EXT. DOCK 96
+text: Hockney is firing in all directions.
+text: SUDDENLY, he realizes no one is left on the dock.
+speaker_heading: PAUSE
+text: FINALLY, he turns and runs back for the van parked on the
+text: pier above. He finds a ramp leading from the dock to the
+dialog: pier.
+text: At the van, he finds the one man who has stayed behind to
+text: protect it. The man hears Hockney coming and raises his
+text: gun. Hockney runs straight at him, screaming frantically.
+speaker_heading: HOCKNEY
+dialog: (In Spanish)
+dialog: <>
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 93
+speaker_heading: BOOM!
+text: He shoots the man point blank in the face and runs over his
+dialog: body as it falls.
+text: He gets to the back door of the van and yanks it open.
+text: The inside is stacked with large wooden crates.
+speaker_heading: 97 INT. VAN 97
+text: Hockney, suddenly oblivious to the sound of gunfire, opens
+text: one of the crates and looks inside.
+dialog: IT IS FILLED WITH MONEY. Cash and negotiable bonds of all
+dialog: kinds.
+dialog: He smiles.
+speaker_heading: BOOM
+text: BLOOD sprays all over the money.
+text: Hockney looks at it, puzzled.
+text: Hockney raises a blood-soaked hand from his belly.
+text: He turns and stares in horror.
+text: BOOM - Another shot takes off the top of his head.
+speaker_heading: 98 EXT. PIER 98
+text: McManus runs like a wild man across the deck, heading for
+dialog: the hatch .
+text: He shoots in all directions as though he has eyes in the
+text: back of his head. He sees Keaton climbing onto the deck of
+dialog: the boat.
+speaker_heading: 99 EXT. WAREHOUSE 99
+text: Verbal is wrestling with what to do. He finally makes a break
+dialog: for the other side of the boathouse.
+speaker_heading: 100 EXT. BOAT DECK 100
+text: The crane continues to swing.
+text: A single bullet hits one of the barrels on the suspended
+dialog: pallet.
+text: Gasoline pours out through the bullet-hole.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 94
+speaker_heading: 101 EXT. BOAT 101
+text: Keaton finds the hatch and goes below, shooting a man on his
+text: way up the stairs. McManus jumps on board and runs down behind
+dialog: him.
+speaker_heading: 102 EXT. PIER 102
+text: Verbal arrives at the top of the ramp leading from the dock
+text: to the pier. He ducks down behind a guardrail beside the
+dialog: ramp.
+text: He turns and sees Hockney's dead body next to the van.
+text: He looks around frantically, frozen in terror.
+text: It is quiet, except for the sounds of screaming, far off in
+text: the bowels of the boat and the hum of the crane.
+scene_heading: 103 INT. RABIN'S OFFICE - DAY - PRESENT 103
+speaker_heading: KUJAN
+dialog: Why didn't you run?
+speaker_heading: VERBAL
+dialog: I froze up. I thought about Fenster
+dialog: and how he looked when we buried
+dialog: him, then I thought about Keaton. It
+dialog: looked like he might pull it off.
+text: A KNOCK ON THE DOOR.
+text: Rabin steps in and motions for Kujan to come outside.
+speaker_heading: 104 INT.HALLWAY 104
+text: Rabin and Jack Baer are in the hall. Rabin hands Kujan a
+text: thick manila folder. Kujan thumbs through it.
+speaker_heading: BAER
+dialog: A boy came across a body on the beach
+dialog: this morning. Thrown clear when the
+dialog: boat burned. Shot once in the head.
+dialog: Two guys from the F.B.I. just
+dialog: identified him.
+speaker_heading: KUJAN
+dialog: And ?
+speaker_heading: RABIN
+dialog: His name was Arturo Marquez. A petty
+dialog: smuggler out of Argentina. He was
+dialog: arrested in New York last year for
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 95
+speaker_heading: RABIN (CONT'D)
+dialog: trafficking. He escaped to California
+dialog: and got picked up in Long Beach.
+dialog: They were setting up his extradition
+dialog: when he escaped again. Get this -
+dialog: Edie Finneran was called in to advise
+dialog: the proceedings.
+speaker_heading: KUJAN
+dialog: Kobayashi.
+dialog: Bear nods.
+speaker_heading: RABIN
+dialog: I called New York County and they
+dialog: faxed me a copy of Marquez's
+dialog: testimony. He was a rat.
+text: Kujan pulls out page after page from the file.
+speaker_heading: KUJAN
+dialog: A big fucking rat.
+speaker_heading: RABIN
+dialog: Arturo was strongly opposed to going
+dialog: back to prison. So much so that he
+dialog: informed on close to fifty guys.
+dialog: Guess who he names for a finale?
+text: Kujan finds one sheet and notices a paragraph is highlighted.
+speaker_heading: KUJAN
+dialog: Keyser Soze
+speaker_heading: BAER
+dialog: There's more.
+scene_heading: 105 INT. RABIN'S OFFICE - MOMENTS LATER 105
+text: Kujan walks in and sits down in front of Verbal. He smiles.
+speaker_heading: KUJAN
+dialog: I'11 tell you what I know. Stop me
+dialog: when it sounds familiar.
+dialog: Verbal is confused.
+speaker_heading: KUJAN (CONT'D)
+dialog: There was no dope on that boat.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 96
+scene_heading: 106 INT. BOAT - NIGHT - ONE WEEK PRIOR 106
+text: Keaton is weaving through tight, low-ceiling corridors,
+text: looking in every cabin, working his way towards the bottom
+dialog: of the boat.
+text: ELSEWHERE IN THE BOAT, McManus is tearing though the
+dialog: corridors, seemingly less interested in securing the cargo
+dialog: as he is in killing everyone on board.
+text: He screams like a lunatic, shooting everything in his path,
+dialog: killing some men with his bare hands, shooting others,
+text: stabbing others still with a knife he has brought along.
+speaker_heading: 107 INT. CORRIDOR 107
+dialog: JAIME, one of the men from the boat, is half-pushing, half-
+text: helping a thin and sweaty looking MAN IN A CHECKERED BATHROBE
+text: towards a cabin at the end of the hall.
+text: The man in the robe is trembling. He seems stricken with
+dialog: fear.
+speaker_heading: MAN IN ROBE
+dialog: He's here. I saw him on deck.
+text: Jaime pushes him inside the cabin and shuts the door.
+text: A stereo playing softly in the room mixes with the man's
+dialog: panicked breathing.
+text: The man in the robe screams through the closed door, his
+text: voice echoing off of the metal bulkheads.
+speaker_heading: MAN IN ROBE (CONT'D)
+dialog: I'M TELLING YOU IT'S KEYSER SOZE.
+text: Jaime stands outside the door of the cabin and turns to face
+text: down the hall. Off in some other part of the boat, he can
+text: hear McManus wailing like a banshee and the ever-less frequent
+dialog: sound of gunshots.
+speaker_heading: 108 INT. HOLD 108
+text: Keaton has come to the four-foot-high door to the hold. The
+text: door is open slightly. Keaton finds this strange. He pushes
+text: the door open and steps inside. The hold is empty.
+text: He hears a noise behind him. He wheels around to fire. He
+text: sees McManus in the door. His face is covered with blood.
+speaker_heading: MCMANUS
+dialog: Did you hear what I heard?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 97
+speaker_heading: KEATON
+dialog: What happened to you?
+speaker_heading: MCMANUS
+dialog: Keyser Soze is on the boat.
+speaker_heading: KEATON
+dialog: What?
+speaker_heading: MCMANUS
+dialog: I heard somebody screaming his nuts
+dialog: off. He said Keyser Soze was on the
+dialog: boat.
+speaker_heading: KEATON
+dialog: Are you alright?
+text: McManus rubs some of the blood off with his sleeve.
+speaker_heading: MCMANUS
+dialog: Huh? Oh, It's not mine.
+speaker_heading: KEATON
+dialog: There's no coke.
+text: McManus looks around the hold as though he'll see four and a
+dialog: half tons of dope in some corner where Keaton might have
+dialog: missed it.
+text: The two men look at one another. There is a long, pregnant
+dialog: silence.
+speaker_heading: MCMANUS
+dialog: Let's get the fuck out of here.
+speaker_heading: KEATON
+dialog: Right behind you.
+speaker_heading: 109 INT. CORRIDOR 109
+text: Keaton and McManus step out of the hold, walking slowly and
+dialog: cautiously back from where they came. They hear the sounds
+text: of footsteps running on the deck above and the occasional
+dialog: hollered sentence in Spanish.
+speaker_heading: KEATON
+dialog: Where's Hockney?
+speaker_heading: MCMANUS
+dialog: I don't think he made it to the boat.
+dialog: They come to a corner. They can go left or right.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 98
+speaker_heading: KEATON
+dialog: I can't remember which way.
+speaker_heading: MCMANUS
+dialog: Right -
+speaker_heading: BOOM - BOOM
+text: Gunshots fill the hallway from behind them. They do not stop
+text: to turn around. Keaton goes left, McManus goes right. They
+text: run in opposite directions with the sound of gunfire right
+dialog: behind them.
+scene_heading: 110 INT. HALLWAY - CABIN 110
+text: Jaime squints and cocks his head.
+text: SOMEONE IS COMING. He raises a pistol and crouches by the
+dialog: door.
+speaker_heading: 111 INT. CABIN 111
+text: The man in the bathrobe sits on the foot of the bed watching
+text: the door. He hears the sounds of fighting somewhere not too
+dialog: far away.
+text: He crawls over the bed and squeezes between it and the
+text: bulkhead. Only the top of his head is visible. He starts to
+dialog: cry.
+text: BOOM - BOOM - Two shots just outside in the hall.
+text: SUDDENLY, the door bursts open. Jaime collapses in a heap on
+text: the floor, a bullet hole in his eye.
+speaker_heading: FIGURE LOOMS IN THE DOOR
+text: The man in the bathrobe looks up at the figure. We cannot
+dialog: see him.
+speaker_heading: MAN IN ROBE
+dialog: I told them nothing.
+speaker_heading: BOOM
+text: The man in the robe falls dead.
+scene_heading: 112 EXT. DECK - MOMENTS LATER 112
+text: The boat is quiet now. Keaton walks out onto the deck.
+text: He looks out over the pier and sees Verbal standing in the
+text: middle of the carnage, frozen. Their eyes meet. Keaton waves
+text: at him as if to shoe him away.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 99
+speaker_heading: 113 EXT. PIER - TOP OF RAMP 113
+text: Verbal hesitates and finally moves towards the van with the
+text: money. He looks back over his shoulder and sees Keaton.
+text: Keaton sees him looking and waves again, hurrying him along.
+text: Verbal turns away and focuses on the van.
+speaker_heading: 114 EXT. DECK 114
+text: Keaton hears a noise behind him. He swings around and points
+text: his gun at McManus again. He puts the gun down.
+text: McManus smiles. He walks slowly across the deck towards
+dialog: Keaton. Something is not right about him.
+speaker_heading: MCMANUS
+dialog: Strangest thing...
+text: He slumps to the deck. Keaton rushes over to him. He kneels
+text: down and sees a pipe sticking out of the back of McManus's
+dialog: neck.
+speaker_heading: 115 EXT. PIER 115
+text: Verbal approaches the van, stepping over Hockney's body. He
+text: closes the back doors of the van. He looks to his left at
+text: the huge loading crane. He glances upward along the giant'
+text: arm as it swings steadily on.
+text: Somewhere, off in the distance, the sound of SIRENS can be
+dialog: heard.
+speaker_heading: 116 EXT. DECK 116
+text: Keaton kneels by McManus, trembling with rage. After a moment
+text: he stands, looking down at McManus' dead body.
+speaker_heading: 117 EXT. PIER 117
+text: SUDDENLY, Verbal realizes something. He turns and goes to
+text: call out a warning to Keaton. He is too late.
+speaker_heading: 118 EXT. DECK 118
+dialog: Keaton never sees the crane coming.
+speaker_heading: WHAM
+text: The pallet of barrels hits him square
+text: in the back and sends him flying
+dialog: into the wheel house of the boat.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 100
+text: Keaton is still for a moment. Finally, he tries to get up,
+text: but finds he cannot move his legs.
+speaker_heading: 119 EXT. PIER 119
+text: Verbal runs down the ramp as fast as he can. He comes to a
+text: rope ladder hanging down the side of the boat. SUDDENLY, he
+text: stops dead in his tracks, looking up at the boat.
+text: From where he stands, he can just make out the figure of a
+text: TALL, THIN MAN walking along the edge of the deck. He moves
+text: quietly and calmly in the shadows towards the crane, looking
+dialog: out of place in his expensive suit.
+dialog: Something about this man terrifies him.
+scene_heading: 120 INT. RABIN'S OFFICE - DAY - PRESENT 120
+speaker_heading: KUJAN
+dialog: And that's when you say in your
+dialog: statement that you saw...
+dialog: Kujan picks up his copy of Verbal's statement to the D.A.
+speaker_heading: KUJAN (CONT'D)
+text: A man in a suit with a slim build.
+dialog: Tall.
+speaker_heading: VERBAL
+dialog: Wait a minute.
+speaker_heading: KUJAN
+dialog: (Looking at watch)
+dialog: I don't have a minute. Are you saying
+dialog: it was Keyser Soze? You told the
+dialog: D.A. you didn't know who it was.
+text: Verbal is drowning in Kujan's interrogation. He looks dazed.
+speaker_heading: VERBAL
+dialog: I - there had to be dope there.
+speaker_heading: KUJAN
+dialog: Don't shine me, Verbal. No more
+dialog: stalling. You know what I'm getting
+dialog: at.
+speaker_heading: VERBAL
+dialog: I don't.
+speaker_heading: KUJAN
+dialog: YES YOU DO. YOU KNOW WHAT I'M GETTING
+dialog: AT.
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 101
+speaker_heading: KUJAN (CONT'D)
+dialog: THE TRUTH. TRY TO TELL ME YOU DIDN'T
+dialog: KNOW. TRY TO TELL ME YOU SAW SOMEONE
+speaker_heading: KILL KEATON.
+text: For the first time, Verbal stands and tries to move away
+text: from Kujan, but Kujan stays in his face, backing him into a
+text: corner. Verbal shields himself with his hands and shuts his
+dialog: eyes.
+speaker_heading: KUJAN (CONT'D)
+dialog: TRY TO KEEP LYING TO ME NOW. I KNOW
+speaker_heading: EVERYTHING.
+speaker_heading: VERBAL
+dialog: I don't know what you're talking
+dialog: about.
+speaker_heading: KUJAN
+dialog: YOU KNOW. YOU'VE KNOWN THIS WHOLE
+text: FUCKING TIME. GIVE IT TO ME.
+text: Verbal looks into Kujan's eyes with genuine terror. Kujan's
+text: face is red, his body trembles. His locomotive breathing is
+dialog: the only sound in the room.
+speaker_heading: VERBAL
+dialog: I don't understand what you're saying.
+dialog: I saw Keaton get shot, I swear to
+dialog: you.
+speaker_heading: KUJAN
+dialog: Then why didn't you help him?
+speaker_heading: VERBAL
+dialog: I WAS AFRAID, OKAY? Somehow, I was
+dialog: sure it was Keyser Soze at that point.
+dialog: I couldn't bring myself to raise my
+dialog: gun to him.
+speaker_heading: KUJAN
+dialog: But Keaton...
+speaker_heading: VERBAL
+dialog: It was Keyser Soze, Agent Kujan. I
+dialog: mean the Devil himself. How do you
+dialog: shoot the Devil in the back?
+text: Verbal holds up a shaking, twisted hand.
+speaker_heading: VERBAL (CONT'D)
+dialog: What if you miss?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 102
+scene_heading: 121 EXT. BARGE - NIGHT - ONE WEEK PRIOR 121
+text: Verbal is hiding in the tangle of girders and cables on the
+dialog: barge.
+speaker_heading: VERBAL'S P.O.V.
+text: Keaton's body is completely obscured.
+text: The man in a suit strides across the deck over to Keaton,
+text: stopping to relieve himself on a small fire on the deck.
+text: He walks up and stands over Keaton. The two men exchange
+text: words and the man in the suit pulls out a pistol. He points
+dialog: it at Keaton.
+scene_heading: RED AND BLUE LIGHTS FLASH BEHIND VERBAL
+text: Verbal turns. He can just make out police cars coming in the
+dialog: distance.
+speaker_heading: BANG
+text: Verbal hears a shot from the deck of the boat. He turns in
+text: time to see the man in the suit running across the deck toward
+dialog: the gangway.
+text: Verbal can barely see the man from where he is now. The man
+text: in the suit is covered by shadows and the poor angle from
+text: the barge. Verbal strains to see but he cannot.
+text: The man in the suit stops long enough to pull out a lighter.
+text: He turns and walks back across the deck and out of sight.
+text: A moment later flames leap up from on the deck.
+text: The mesh of steel and rubber leaves a dark and open cocoon
+dialog: at its base.
+text: MOVE INTO THE DARKNESS.
+text: Sirens are close now. Almost here. The sound of fire raging
+dialog: out of control.
+scene_heading: SIRENS BLARING. TIRES SQUEALING. CAR DOORS OPENING. FEET
+speaker_heading: POUNDING THE PAVEMENT.
+text: MOVE FURTHER, SLOWER, INTO THE DARKNESS.
+text: Voices yelling. New light flickering in the surrounding
+dialog: darkness.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 103
+speaker_heading: BLUE 06/01/94
+scene_heading: 122 INT. RABIN'S OFFICE - DAY - PRESENT 122
+speaker_heading: KUJAN
+dialog: Arturo Marquez. Ever hear of him?
+speaker_heading: VERBAL
+dialog: Wha- No.
+speaker_heading: KUJAN
+dialog: He was a stool pigeon for the Justice
+dialog: Department. He swore out a statement
+dialog: to Federal Marshals that he had seen
+dialog: and could positively identify one
+dialog: Keyser Soze and had intimate knowledge
+dialog: of his business, including, but not
+dialog: exclusive to, drug trafficking and
+dialog: murder.
+speaker_heading: VERBAL
+dialog: I never heard of him.
+speaker_heading: KUJAN
+dialog: His own people were selling him to a
+dialog: gang of Hungarians. Most likely the
+dialog: same Hungarians that Sate all but
+dialog: wiped out back in Turkey. The money
+dialog: wasn't there for dope. The Hungarians
+dialog: were going to buy the one guy that
+dialog: could finger Soze for them.
+speaker_heading: VERBAL
+dialog: I said I never heard of him.
+speaker_heading: KUJAN
+dialog: But Keaton had. Edie Finneran was
+dialog: his extradition advisor. She knew
+dialog: who he was and what he knew.
+speaker_heading: VERBAL
+dialog: I don't -
+speaker_heading: KUJAN
+dialog: There were no drugs on that boat. It
+dialog: was a hit. A suicide mission to whack
+dialog: out the one man that could finger
+dialog: Keyser Soze so Sate had a few thieves
+dialog: put to it. Men he knew he could march
+dialog: into certain death.
+speaker_heading: VERBAL
+dialog: But how - wait. You're saying SOZE
+dialog: sent us to kill someone?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 104
+speaker_heading: KUJAN
+dialog: I'm saying Keaton did.
+text: Verbal cannot grasp this. He squints, trying to understand.
+speaker_heading: KUJAN (CONT'D)
+dialog: Verbal, he left you behind for a
+dialog: reason. If you all knew Soze could
+dialog: find you anywhere, why was he ready
+dialog: to send you off with the money when
+dialog: he could have used you to take the
+dialog: boat?
+speaker_heading: VERBAL
+dialog: He wanted me to live.
+speaker_heading: KUJAN
+dialog: Why did he want you to live? A one-
+dialog: time dirty cop without a loyalty in
+dialog: the world finds it in his heart to
+dialog: save a worthless rat-cripple? No,
+dialog: sir. Why'
+speaker_heading: VERBAL
+dialog: Edie.
+speaker_heading: KUJAN
+dialog: I don't buy that reform story for a
+dialog: minute. And even if I did, I certainly
+dialog: don't believe he would send you to
+dialog: protect her. So why?
+speaker_heading: VERBAL
+dialog: Because he was my friend.
+speaker_heading: KUJAN
+dialog: No, Verbal. You weren't friends.
+dialog: Keaton didn't have friends. He saved
+dialog: you because he wanted it that way.
+dialog: It was his will.
+text: Verbal grinds to a mental halt, trying to grasp the
+dialog: implication.
+speaker_heading: SUDDENLY:
+speaker_heading: VERBAL
+dialog: No...
+speaker_heading: KUJAN
+dialog: Keaton was Keyser Soze
+speaker_heading: VERBAL
+dialog: NO.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 105
+speaker_heading: KUJAN
+dialog: The kind of guy who could wrangle
+dialog: the wills of men like Hockney and
+dialog: McManus. The kind of man who could
+dialog: engineer a police line-up from all
+dialog: his years of contacts in N.Y.P.D.
+text: Verbal stands on wobbly legs, shaking with anger.
+speaker_heading: VERBAL
+dialog: NO, NO, NO, NO, NO.
+speaker_heading: KUJAN
+dialog: THE KIND OF MAN THAT COULD HAVE KILLED
+speaker_heading: EDIE FINNERAN.
+text: A strange look crosses Verbal's face. Shock perhaps, or
+dialog: revelation.
+speaker_heading: KUJAN (CONT'D)
+dialog: They found her yesterday in a hotel
+dialog: in Pennsylvania. Shot twice in the
+dialog: head.
+text: It starts to sink in with Verbal. His eyes swell.
+speaker_heading: VERBAL
+dialog: Edie...
+speaker_heading: KUJAN
+dialog: He used all of you to get him on
+dialog: that boat. He couldn't get on alone
+dialog: and he had to pull the trigger himself
+dialog: to make sure he got his man. The one
+dialog: man that could identify him.
+speaker_heading: VERBAL
+dialog: This is all bullshit.
+speaker_heading: KUJAN
+dialog: He left you to stay behind and tell
+dialog: us he was dead. You saw him die,
+dialog: right? Or did you? You had to hide
+dialog: when the first police cars showed
+dialog: up. You heard the shot, just before
+dialog: the fire but you didn't see him die.
+speaker_heading: VERBAL
+dialog: I knew him. He would never -
+speaker_heading: KUJAN
+dialog: He programmed you to tell us just
+dialog: what he wanted you to. Customs has
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 106
+speaker_heading: KUJAN (CONT'D)
+dialog: been investigating him for years. He
+dialog: knew we were close. You said it
+dialog: yourself. Where is the political
+dialog: pressure coming from? Why are you
+dialog: being protected? It's Keaton making
+dialog: sure you tell us what you're supposed
+dialog: to. Immunity is your reward.
+speaker_heading: VERBAL
+dialog: BUT WHY ME? WHY NOT HOCKNEY OR FENSTER
+dialog: OR McMANUS? I'm a cripple. I'm stupid.
+dialog: Why me?
+text: Verbal hears the weight of his words and falls back in his
+text: chair, Kujan looks at him with some pity,; but he is too far
+dialog: in to stop.
+speaker_heading: KUJAN
+dialog: Because you're a cripple, Verbal.
+dialog: Because you're stupid. Because you
+dialog: were weaker than them. Because you
+dialog: couldn't see far enough into him to
+dialog: know the truth.
+text: Verbal is crying now. He shakes his head, eyes closed.
+speaker_heading: KUJAN (CONT'D)
+dialog: If he's dead, Verbal - if what you
+dialog: say is true, then it won't matter.
+dialog: It was his idea to hit the Taxi
+dialog: Service in New York, wasn't it? Tell
+dialog: me the truth.
+speaker_heading: VERBAL
+dialog: (Sobbing)
+dialog: It was all Keaton. We followed him
+dialog: from the beginning.
+text: Kujan smiles with triumphant satisfaction.
+speaker_heading: VERBAL (CONT'D)
+dialog: I didn't know. I saw him die. I
+dialog: believe he's dead. Christ
+speaker_heading: KUJAN
+dialog: Why lie about everything else, then?
+speaker_heading: VERBAL
+dialog: You know what it's like, Agent Kujan,
+dialog: to know you'll never be good?
+speaker_heading: (MORE)
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 107
+speaker_heading: VERBAL (CONT'D)
+dialog: Not good like you. You got good all
+dialog: fucked around. I mean a stand up
+dialog: guy. I grew up knowing I was never
+dialog: going to be good at anything 'cause
+dialog: I was a cripple. Shit, I wasn't even
+dialog: a good thief. But I thought the one
+dialog: thing I could be good at was at
+dialog: keeping my mouth shut - keeping the
+dialog: code. I didn't want to tell you for
+dialog: my dignity, that's all, and you robbed
+dialog: me, Agent Kujan. You robbed me.
+text: Kujan pulls the microphone out from under his tie and puts
+text: it on the desk. Verbal actually manages to snort a laugh,
+text: but only briefly, overcome by an apparent wave of nausea.
+speaker_heading: KUJAN
+dialog: You're not safe on your own.
+speaker_heading: VERBAL
+dialog: You think he's...?
+speaker_heading: KUJAN
+dialog: Is he Keyser Soze? I don't know,
+dialog: Verbal. It seems to me that Keyser
+dialog: Sate is a shield. Like you said, a
+dialog: spook story, but I know Keaton - and
+dialog: someone out there is pulling strings
+dialog: for you. Stay here and let us protect
+dialog: you.
+speaker_heading: VERBAL
+dialog: I'm not bait. No way. I post today.
+speaker_heading: KUJAN
+dialog: You posted twenty minutes ago. Captain
+dialog: Leo wants you out of here a.s.a.p.,
+dialog: unless you turn state's.
+speaker_heading: VERBAL
+dialog: I'11 take my chances, thank you.
+dialog: It's tougher to buy the cheapest bag-
+dialog: man than it is to buy a cop.
+speaker_heading: KUJAN
+dialog: Where are you going to go, Verbal?
+dialog: You gonna run? Turn states evidence.
+dialog: You might never see trial. If somebody
+dialog: wants to get you, you know they'll
+dialog: get you out there.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 108
+speaker_heading: VERBAL
+dialog: Maybe so, but I'm no rat, Agent Kujan.
+dialog: You tricked me, that's all. I won't
+dialog: keep my mouth shut 'cause I'm scared.
+dialog: I'11 keep it shut 'cause I let Keaton
+dialog: down by getting caught - Edie Finneran
+dialog: too. And if they kill me, it's because
+dialog: They'll hear I dropped a dime.
+dialog: They'll probably hear it from you.
+text: Verbal stands, mustering his shattered dignity and walks
+text: towards the door. Rabin opens it for him from outside.
+dialog: For once Kujan cannot bring himself to look at Verbal.
+text: Verbal turns to the door, stopping to look Rabin in the eye.
+speaker_heading: VERBAL (CONT'D)
+dialog: Fuckin' cops.
+text: He steps out of the room and into the hall. Rabin follows
+dialog: him.
+scene_heading: 123 INT. HOSPITAL - DAY 123
+dialog: Daniel Metzheiser comes out of Arkosh Kovash's room with a
+text: single sheet of 15x20 inch paper in his hand. He inspects
+text: the sketch with great interest. He folds the edges of the
+dialog: paper back to make it smaller.
+scene_heading: 124 INT. HOSPITAL RECEPTION ROOM 124
+text: Metzheiser walks behind the reception desk without asking
+text: the nurse for permission and helps himself to the fax machine.
+speaker_heading: 125 INT. DEPOT - LATER 125
+text: Verbal is downstairs in the depot of the police station
+dialog: picking up his personal belongings.
+text: A FAT, WHITE-HAIRED COP is checking off the items as he takes
+dialog: them out of the tray in which they are kept.
+speaker_heading: COP
+dialog: One watch: gold. One cigarette
+dialog: lighter: gold. One wallet: brown.
+dialog: One pack of cigarettes.
+text: Verbal collects his personal items and shuffles on his lame
+dialog: leg toward the exit.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 109
+scene_heading: 126 INT. DISPATCHER'S OFFICE 126
+text: Jack Baer stands by a fax machine. A green light comes on
+text: next to a digital display.
+speaker_heading: THE DISPLAY READS: RECEIVING
+speaker_heading: 127 INT. RABIN'S OFFICE 127
+text: Kujan stares solemnly at the bulletin board, drinking from
+text: Rabin's coffee cup. Rabin sits at the desk, sifting through
+dialog: the mound of gapers as though considering organizing them
+dialog: once and for all.
+speaker_heading: RABIN
+dialog: You still don't know shit.
+speaker_heading: KUJAN
+dialog: I know what I wanted to know about
+dialog: Keaton.
+speaker_heading: RABIN
+dialog: Which is shit.
+speaker_heading: KUJAN
+dialog: No matter. He'll have to know how
+dialog: close we came.
+speaker_heading: RABIN
+dialog: Keyser Sate or not, if Keaton's alive
+dialog: he'll never come up again.
+speaker_heading: KUJAN
+dialog: I'11 find him.
+speaker_heading: RABIN
+dialog: Waste of time.
+speaker_heading: KUJAN
+dialog: (To himself)
+dialog: A rumor is not a rumor that doesn't
+dialog: die.
+speaker_heading: RABIN
+dialog: What?
+speaker_heading: KUJAN
+dialog: Nothing. Something I - forget it.
+text: Kujan shakes his head. He gestures to the desk.
+speaker_heading: KUJAN (CONT'D)
+dialog: Man, you're a fucking slob.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 110
+dialog: Rabin regards the mess of his office.
+speaker_heading: RABIN
+dialog: Yeah. It's got it's own system though.
+dialog: It all makes sense when you look at
+dialog: it right. You just have to step back
+dialog: from it, you know? You should see my
+dialog: garage, now that's a horror show...
+text: Kujan is not listening. He has been staring at the bulletin
+text: board, lost in thought, his unfocused eyes drifting across
+dialog: the mess of papers, not looking at anything at all.
+speaker_heading: 128 EXT. STREET 128
+text: Verbal steps out into the sunlight, putting on a pair of
+text: cheap sunglasses. He looks up and down the crowded street.
+dialog: People on their way to and from lunch, no doubt.
+text: Cars choke the street in front of the police department as
+dialog: they wait for pedestrians to clear the way.
+scene_heading: 129 INT. DISPATCHER'S OFFICE -129
+text: A single sheet of paper comes out of the fax machine, face
+dialog: down.
+speaker_heading: 130 INT. RABIN'S OFFICE 130
+text: Kujan still stares at the bulletin board.
+text: SUDDENLY, Kujan's face changes. He leans in closer to the
+text: bulletin board and squints his eyes. His face changes again.
+dialog: First a look of puzzlement, then confusion - finally
+dialog: realization.
+text: The coffee cup tumbles from his hand. It hits the floor with
+text: the SMASH of cheap porcelain. Coffee splatters everywhere.
+text: Rabin snaps out of his droning and looks up in surprise.
+speaker_heading: KUJAN'S P.O.V.
+text: Kujan is staring not at what is on the bulletin board, but
+dialog: at the bulletin board itself.
+text: His eyes follow the aluminum frame, mounted firmly to the
+dialog: wall. One might note it's sturdy construction and it's
+dialog: convenient size. Big enough to hold a lifetime of forgotten
+dialog: and disregarded notes and facts. Years of police trivia that
+dialog: has been hung and forgotten with the intention of finding a
+dialog: use for it all someday. One might want such a bulletin board
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 111
+dialog: for one's self. One would look to see who makes such a
+dialog: bulletin board.
+text: Kujan's eyes are locked on a metal plate bearing the
+dialog: manufacturer's name.
+speaker_heading: It reads: QUARTET - SKOKIE, ILLINOIS
+text: Kujan's eyes flash all over the bulletin board. He finds a
+text: picture of Rabin in the far corner. He stands beside a scale
+text: in fishing gear. He proudly holds a hand out to his freshly
+text: caught marlin. His eyes skim quickly over and stop on an
+dialog: eight and a half by eleven inch fax sheet of what must be a
+text: THREE HUNDRED POUND BLACK MAN. Kujan glazes over his name,
+dialog: it is irrelevant. His aliases stand out.
+dialog: Slavin, BRICKS, Shank, REDFOOT, Thee, Rooster...
+text: KUJAN'S EYES WIDEN with sudden realization. He runs for the
+dialog: door.
+text: His foot crushes the broken pieces of Rabin's coffee cup.
+text: The cup that hovered over Verbal's head for two hours.
+dialog: Kujan is in too much of a hurry to notice the two words
+dialog: printed on the jagged piece that had been the bottom of the
+dialog: cheap mug.
+speaker_heading: KOBAYASHI PORCELAIN.
+speaker_heading: 131 EXT. HALLWAY 131
+text: Kujan is sprinting wildly down the hall for the stairs.
+speaker_heading: 132 EXT. STREET 132
+text: Verbal looks behind him and sees ANOTHER COP standing just
+text: inside the doorway, lighting a cigarette. The cop notices
+text: Verbal and watches him in the way that cops look at people
+dialog: they cannot place in the category of idiot citizen, or stupid
+dialog: criminal.
+text: Verbal smiles politely, meekly at the cop and walks down the
+text: steps into the moving throng.
+speaker_heading: 133 INT. DEPOT 133
+text: Kujan runs up to the desk where Verbal had only moments before
+text: picked up his belongings. Rabin is right behind him, a look
+dialog: of absolute confusion on his face.
+speaker_heading: KUJAN
+dialog: WHERE IS HE? DID YOU SEE HIM?
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 112
+speaker_heading: COP
+dialog: The Cripple? He went that way.
+text: The Cop gestures towards the door.
+text: Kujan runs outside looking around frantically.
+speaker_heading: 134 EXT. SIDEWALK 134
+text: Verbal limps his way carefully across the sidewalk, avoiding
+dialog: people as best as he can.
+text: He looks over his shoulder, getting farther away from the
+text: police station. He can see Rabin and the cop on the steps,
+text: looking around with strange, lost expressions on their faces.
+text: He does not notice the car creeping along the curb beside
+dialog: him.
+speaker_heading: 135 INT. CAR 135
+speaker_heading: DRIVER'S P.O.V.
+text: The driver's hands tap the wheel patiently. His eyes follow
+text: Verbal as he fumbles through the crowd.
+speaker_heading: 136 EXT. SIDEWALK 136
+text: Kujan pushes and shoves, looking this way and that.
+speaker_heading: 137 EXT. STREET 137
+text: LOW ANGLE on the feet of dozens of people.
+text: Verbal's feet emerge from the crowd on the far side. They
+dialog: hobble along the curb.
+dialog: SUDDENLY, the right foot seems to relax a little, the inward
+text: angle straightens itself out in a few paces and the limp
+text: ceases as though the leg has grown another inch.
+speaker_heading: CRANE UP VERBAL'S BODY
+text: Verbal's hands are rummaging around in his pockets. The good
+dialog: left hand comes up with a pack of cigarettes, the bad right
+text: hand comes up with a lighter. The right hand flexes with all
+dialog: of the grace and coordination of a sculptor's, flicking the
+text: clasp on the antique lighter with the thumb, striking the
+text: flint with the index finger. It is a fluid motion, somewhat
+dialog: showy.
+text: Verbal lights a cigarette and smiles to himself. He turns
+text: and sees the car running alongside.
+speaker_heading: (CONTINUED)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: p. 113
+scene_heading: 138 INT. DISPATCHER'S OFFICE 138
+text: Jack Beer pulls the sheet out of the fax machine and turns
+text: it over, revealing the composite sketch of Keyser SOZE.
+dialog: Though crude and distorted, one cannot help but notice how
+text: much it leaks like VERBAL KINT.
+speaker_heading: 139 EXT. STREET 139
+text: The car stops. The driver gets out.
+dialog: IT IS KOBAYASHI, or the man we have come to know as such. He
+text: smiles to Verbal. Verbal steps off of the curb, returning
+text: the smile as he opens the passenger door and gets in.
+text: The man called Kobayashi gets in the driver's seat and pulls
+dialog: away.
+text: A moment later, Agent David Kujan of U.S. Customs wanders
+text: into the frame, looking around much in the way a child would
+text: when lost at the circus. He takes no notice of the car pulling
+text: out into traffic, blending in with the rest of the cars filled
+dialog: with people on their way back to work.
+speaker_heading: BLACK
+speaker_heading: THE END
+dialog: 

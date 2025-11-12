@@ -1,0 +1,1493 @@
+dialog: The script to
+dialog: Tim Burton's The Nightmare Before Christmas
+speaker_heading: NARRATOR
+dialog: 'Twas a long time ago, longer now than it seems, in a place
+dialog: that perhaps you've seen in your dreams. For the story that you are
+dialog: about to be told, took place in the holiday worlds of old. Now, you've
+dialog: probably wondered where holidays come from. If you haven't, I'd say it's
+dialog: time you begun.
+dialog: This Is Halloween
+speaker_heading: SHADOW
+dialog: Boys and girls of every age
+dialog: Wouldn't you like to see something strange?
+scene_heading: SIAMESE SHADOW
+dialog: Come with us and you will see
+dialog: This, our town of Halloween
+scene_heading: PUMPKIN PATCH CHORUS
+dialog: This is Halloween, this is Halloween
+text: Pumpkins scream in the dead of night
+speaker_heading: GHOSTS
+dialog: This is Halloween, everybody make a scene
+dialog: Trick or treat till the neighbors gonna die of fright
+dialog: It's our town, everybody scream
+dialog: In this town of Halloween
+scene_heading: CREATURE UNDER BED
+dialog: I am the one hiding under your bed
+text: Teeth ground sharp and eyes glowing red
+scene_heading: MAN UNDER THE STAIRS
+dialog: I am the one hiding under your stairs
+text: Fingers like snakes and spiders in my hair
+speaker_heading: CORPSE CHORUS
+dialog: This is Halloween, this is Halloween
+dialog: Halloween! Halloween! Halloween! Halloween!
+speaker_heading: VAMPIRES
+dialog: In this town we call home
+text: Everyone hail to the pumpkin song
+speaker_heading: MAYOR
+dialog: In this town, don't we love it now?
+text: Everybody's waiting for the next surprise
+speaker_heading: CORPSE CHORUS
+text: Round that corner, man hiding in the trash can
+dialog: Something's waiting now to pounce, and how you'll scream
+scene_heading: HARLEQUIN DEMON, WEREWOLF, AND MELTING MAN
+dialog: Scream! This is Halloween
+dialog: Red 'n' black, slimy green
+speaker_heading: WEREWOLF
+dialog: Aren't you scared?
+speaker_heading: WITCHES
+dialog: Well, that's just fine
+dialog: Say it once, say it twice
+dialog: Take the chance and roll the dice
+dialog: Ride with the moon in the dead of night
+speaker_heading: HANGING TREE
+dialog: Everybody scream, everybody scream
+speaker_heading: HANGED MEN
+dialog: In our town of Halloween
+speaker_heading: CLOWN
+dialog: I am the clown with the tear-away face
+text: Here in a flash and gone without a trace
+speaker_heading: SECOND GHOUL
+dialog: I am the "who" when you call, "Who's there?"
+dialog: I am the wind blowing through your hair
+scene_heading: OOGIE BOOGIE SHADOW
+dialog: I am the shadow on the moon at night
+dialog: Filling your dreams to the brim with fright
+speaker_heading: CORPSE CHORUS
+dialog: This is Halloween, this is Halloween
+dialog: Halloween! Halloween! Halloween! Halloween!
+dialog: Halloween! Halloween!
+scene_heading: CHILD CORPSE TRIO
+text: Tender lumplings everywhere
+dialog: Life's no fun without a good scare
+speaker_heading: PARENT CORPSES
+dialog: That's our job, but we're not mean
+dialog: In our town of Halloween
+speaker_heading: CORPSE CHORUS
+dialog: In this town
+speaker_heading: MAYOR
+dialog: Don't we love it now?
+scene_heading: MAYOR WITH CORPSE CHORUS
+text: Everyone's waiting for the next surprise
+speaker_heading: CORPSE CHORUS
+dialog: Skeleton Jack might catch you in the back
+text: And scream like a banshee
+dialog: Make you jump out of your skin
+dialog: This is Halloween, everybody scream
+dialog: Won't ya please make way for a very special guy
+dialog: Our man Jack is king of the pumpkin patch
+text: Everyone hail to the Pumpkin King now
+speaker_heading: EVERYONE
+dialog: This is Halloween, this is Halloween
+dialog: Halloween! Halloween! Halloween! Halloween!
+scene_heading: CORPSE CHILD TRIO
+dialog: In this town we call home
+text: Everyone hail to the pumpkin song
+speaker_heading: EVERYONE
+dialog: La la-la la, Halloween! Halloween! (etc.)
+speaker_heading: EVERYONE
+dialog: [applause]
+speaker_heading: WITCHES
+dialog: Cackling
+speaker_heading: CLOWN
+dialog: It's over!
+speaker_heading: BEHEMOTH
+dialog: We did it!
+dialog: [tummy bump]
+speaker_heading: WEREWOLF
+dialog: Wasn't it terrifying?
+scene_heading: HYDE &amp; CYCLOPS
+dialog: What a night!
+speaker_heading: MAYOR
+dialog: Great Halloween everybody.
+speaker_heading: JACK
+dialog: I believe it was our most horrible yet! Thank you everyone.
+speaker_heading: MAYOR
+dialog: No, thanks to you, Jack. Without your brilliant leadership -
+speaker_heading: JACK
+dialog: Not at all Mayor.
+speaker_heading: VAMPIRE (fat)
+dialog: You're such a scream, Jack
+speaker_heading: WITCH
+dialog: You're a witch's fondest dream!
+speaker_heading: WITCH (little)
+dialog: You made walls fall, Jack
+speaker_heading: WITCH
+dialog: Walls fall? You made the very mountains crack, Jack
+scene_heading: DR. FINKELSTEIN
+dialog: The deadly nightshade you slipped me wore off, Sally.
+speaker_heading: SALLY
+dialog: Let go!
+scene_heading: DR. FINKELSTEIN
+dialog: You're not ready for so much excitement!
+speaker_heading: SALLY
+dialog: Yes I am!
+scene_heading: DR. FINKELSTEIN
+dialog: You're coming with me!
+speaker_heading: SALLY
+dialog: No I'm not!
+text: [Sally pulls out the thread that's holding her arm on]
+scene_heading: DR. FINKELSTEIN
+dialog: Come back here you foolish oaf! Ow!
+scene_heading: CREATURE FROM BLACK LAGOON
+dialog: Ooo Jack, you make wounds ooze and flesh crawl.
+speaker_heading: JACK
+dialog: Thank you, thank you, thank you -- very much
+speaker_heading: MAYOR
+dialog: Hold it! We haven't given out the prizes yet! Our first award goes to
+dialog: the vampires for most blood drained in a single evening.
+dialog: [applause]
+speaker_heading: MAYOR
+text: A frightening and honorable mention goes to the fabulous Dark Lagoon leeches
+speaker_heading: SAX PLAYER
+dialog: Nice work, Bone Daddy.
+speaker_heading: JACK
+dialog: Yeah, I guess so. Just like last year and the year before that and the
+dialog: year before that.
+dialog: [entering graveyard]
+dialog: Jack's Lament
+dialog: Performed by Danny Elfman
+dialog: There are few who'd deny, at what I do I am the best
+dialog: For my talents are renowned far and wide
+text: When it comes to surprises in the moonlit night
+dialog: I excel without ever even trying
+dialog: With the slightest little effort of my ghostlike charms
+dialog: I have seen grown men give out a shriek
+text: With the wave of my hand, and a well-placed moan
+dialog: I have swept the very bravest off their feet
+dialog: Yet year after year, it's the same routine
+dialog: And I grow so weary of the sound of screams
+dialog: And I, Jack, the Pumpkin King
+dialog: Have grown so tired of the same old thing
+dialog: Oh, somewhere deep inside of these bones
+text: An emptiness began to grow
+dialog: There's something out there, far from my home
+dialog: A longing that I've never known
+dialog: I'm the master of fright, and a demon of light
+dialog: And I'll scare you right out of your pants
+dialog: To a guy in Kentucky, I'm Mister Unlucky
+dialog: And I'm known throughout England and France
+dialog: And since I am dead, I can take off my head
+dialog: To recite Shakespearean quotations
+dialog: No animal nor man can scream like I can
+dialog: With the fury of my recitations
+dialog: But who here would ever understand
+dialog: That the Pumpkin King with the skeleton grin
+dialog: Would tire of his crown, if they only understood
+dialog: He'd give it all up if he only could
+dialog: Oh, there's an empty place in my bones
+dialog: That calls out for something unknown
+dialog: The fame and praise come year after year
+dialog: Does nothing for these empty tears
+dialog: [leaving graveyard and entering forest]
+speaker_heading: SALLY
+dialog: Jack, I know how you feel.
+dialog: [Sally gathers herbs]
+dialog: [back at Dr. Finkelstein's castle]
+scene_heading: DR. FINKELSTEIN
+dialog: Sally, you've come back.
+speaker_heading: SALLY
+dialog: I had to.
+scene_heading: DR. FINKELSTEIN
+dialog: For this?
+dialog: [showing her arm]
+speaker_heading: SALLY
+dialog: Yes.
+scene_heading: DR. FINKELSTEIN
+dialog: Shall we then.
+dialog: That's twice this month you've slipped deadly nightshade into my tea
+dialog: and run off --
+speaker_heading: SALLY
+dialog: Three times!
+scene_heading: DR. FINKELSTEIN
+dialog: You're mine you know! I made you with my own hands.
+speaker_heading: SALLY
+dialog: You can make other creations. I'm restless, I can't help it.
+scene_heading: DR. FINKELSTEIN
+dialog: It's a phase my dear, it'll pass. We need to be patient that's all.
+speaker_heading: SALLY
+dialog: But, I don't want to be patient.
+dialog: [forest]
+speaker_heading: ZERO
+dialog: bark
+speaker_heading: JACK
+dialog: No Zero, not now. I'm not in the mood.
+speaker_heading: ZERO
+dialog: bark
+speaker_heading: JACK
+dialog: All right. [giving Zero a rib from himself] Here ya go boy.
+dialog: [Zero gets rib and shows off his nose]
+dialog: [Back to Halloweentown]
+speaker_heading: MAYOR
+dialog: Morning gents [to the band]
+text: [humming This Is Halloween, walks up to Jack's front door and rings bell]
+speaker_heading: MAYOR
+dialog: Jack, you home?
+text: [getting worried, switches face and knocks with desperation then switch
+dialog: back to happy face]
+speaker_heading: MAYOR
+dialog: Jack? I've got the plans for next Halloween. I need to go over them
+dialog: with you so we can get started.
+dialog: MAYOR (with worried face)
+dialog: Jack, please, I'm only an elected an official here, I can't make
+dialog: decisions by myself. Jack, answer me!!
+dialog: [falls down steps]
+scene_heading: ACCORDION PLAYER
+text: He's not home.
+speaker_heading: MAYOR
+dialog: Where is he?
+speaker_heading: SAX PLAYER
+text: He hasn't been home all night.
+speaker_heading: MAYOR
+dialog: ooooo
+dialog: [back to forest]
+speaker_heading: JACK
+dialog: (yawning) Where are we? It's someplace new.
+speaker_heading: ZERO
+dialog: bark bark
+speaker_heading: JACK
+dialog: What is this?
+text: [Jack sees Valentine's tree, shamrock tree, Easter egg tree, turkey tree]
+speaker_heading: JACK
+dialog: [gasps]
+dialog: [sees Xmas tree]
+dialog: [turns knob and gets sucked in]
+speaker_heading: ZERO
+dialog: bark bark
+speaker_heading: JACK
+dialog: Whoa!!!!
+dialog: What's This?
+dialog: Performed by Danny Elfman
+dialog: What's this? What's this?
+dialog: There's color everywhere
+dialog: What's this?
+text: There's white things in the air
+dialog: What's this?
+dialog: I can't believe my eyes
+dialog: I must be dreaming
+dialog: Wake up, Jack, this isn't fair
+dialog: What's this?
+dialog: What's this? What's this?
+dialog: There's something very wrong
+dialog: What's this?
+dialog: There's people singing songs
+dialog: What's this?
+text: The streets are lined with
+text: Little creatures laughing
+dialog: Everybody seems so happy
+dialog: Have I possibly gone daffy?
+dialog: What is this?
+dialog: What's this?
+text: There's children throwing snowballs
+text: instead of throwing heads
+dialog: They're busy building toys
+dialog: And absolutely no one's dead
+text: There's frost on every window
+dialog: Oh, I can't believe my eyes
+dialog: And in my bones I feel the warmth
+dialog: That's coming from inside
+dialog: Oh, look
+dialog: What's this?
+text: They're hanging mistletoe, they kiss
+dialog: Why that looks so unique, inspired
+text: They're gathering around to hear a story
+text: Roasting chestnuts on a fire
+dialog: What's this?
+dialog: What's this?
+dialog: In here they've got a little tree, how queer
+dialog: And who would ever think
+dialog: And why?
+text: They're covering it with tiny little things
+dialog: They've got electric lights on strings
+text: And there's a smile on everyone
+dialog: So, now, correct me if I'm wrong
+dialog: This looks like fun
+dialog: This looks like fun
+dialog: Oh, could it be I got my wish?
+dialog: What's this?
+dialog: Oh my, what now?
+text: The children are asleep
+dialog: But look, there's nothing underneath
+dialog: No ghouls, no witches here to scream and scare them
+text: Or ensnare them, only little cozy things
+text: Secure inside their dreamland
+dialog: What's this?
+text: The monsters are all missing
+dialog: And the nightmares can't be found
+text: And in their place there seems to be
+dialog: Good feeling all around
+dialog: Instead of screams, I swear
+text: I can hear music in the air
+text: The smell of cakes and pies
+dialog: Are absolutely everywhere
+text: The sights, the sounds
+text: They're everywhere and all around
+dialog: I've never felt so good before
+text: This empty place inside of me is filling up
+dialog: I simply cannot get enough
+dialog: I want it, oh, I want it
+dialog: Oh, I want it for my own
+dialog: I've got to know
+dialog: I've got to know
+dialog: What is this place that I have found?
+dialog: What is this?
+dialog: Christmas Town, hmm...
+speaker_heading: SANDY CLAWS
+dialog: Ho Ho Ho Ho ho ho ho ho
+speaker_heading: JACK
+dialog: hmm..
+dialog: [Halloweentown]
+speaker_heading: CLOWN
+dialog: This has never happened before.
+dialog: Witch
+dialog: It's suspicious.
+dialog: Witch (little)
+dialog: It's peculiar.
+speaker_heading: VAMPIRES
+dialog: It's scary.
+speaker_heading: MAYOR
+dialog: Stand aside.
+speaker_heading: WEREWOLF
+dialog: grrrr
+speaker_heading: MAYOR
+dialog: Coming through. We've got find Jack. There's only 365 days left till
+dialog: next Halloween.
+speaker_heading: WEREWOLF
+dialog: 364!
+speaker_heading: MAYOR
+dialog: Is there anywhere we've forgotten to check?
+dialog: Clown
+dialog: I looked in every mausoleum.
+speaker_heading: WITCHES
+dialog: We opened the sarcophagi.
+dialog: Hyde
+text: I tromped through the pumpkin patch.
+speaker_heading: VAMPIRE
+text: I peeked behind the Cyclops's eye. I did! But he wasn't there.
+speaker_heading: MAYOR
+text: It's time to sound the alarms.
+text: [DR. FINKELSTEIN's castle]
+speaker_heading: SALLY
+text: Frog's breath will overpower any odor. Bitter. [coughing] Worm's
+dialog: wart. Where's that worm's wart?
+scene_heading: DR. FINKELSTEIN
+dialog: Sally, that soup ready yet?
+speaker_heading: SALLY
+dialog: Coming....lunch
+scene_heading: DR. FINKELSTEIN
+text: Ah, what's that? Worm's wart, mmm, and...frog's breath.
+speaker_heading: SALLY
+dialog: What's wrong? I-I thought you liked frog's breath.
+scene_heading: DR. FINKELSTEIN
+dialog: Nothing's more suspicious than frog's breath. Until you taste it I won't
+text: swallow a spoonful.
+speaker_heading: SALLY
+dialog: I'm not hungry... [knocking spoon] Oops!
+scene_heading: DR. FINKELSTEIN
+dialog: You want me to starve. An old man like me who hardly has strength as it
+dialog: is. Me, to whom you owe your very life.
+speaker_heading: SALLY
+text: Oh don't be silly. [eats soup with trick spoon] Mmmm, see. Scrumptious.
+dialog: [Dr. Finkelstein eats soup]
+dialog: [Halloween]
+speaker_heading: MAYOR
+dialog: Did anyone think to dredge the lake?
+speaker_heading: VAMPIRE
+dialog: Ah, this morning!
+speaker_heading: ZERO
+dialog: barks
+dialog: Witch
+dialog: Hear that?
+dialog: Witch (little)
+dialog: What?
+dialog: Witch
+dialog: Shh!
+speaker_heading: ZERO
+dialog: barks
+speaker_heading: VAMPIRE
+dialog: Zero!
+text: [fanfare as Jack and Zero arrive]
+dialog: Kid
+dialog: Jack's back!
+speaker_heading: MAYOR
+dialog: Where have you been?
+speaker_heading: JACK
+dialog: Call a town meeting and I'll tell everyone all about it.
+speaker_heading: MAYOR
+dialog: When?
+speaker_heading: JACK
+dialog: Immediately!
+speaker_heading: MAYOR
+dialog: [in his mayor truck]
+dialog: Town meeting, town meeting, town meeting tonight, town meeting tonight
+dialog: [at meeting]
+dialog: Clown
+dialog: [giggles as he hits Sally]
+speaker_heading: JACK
+dialog: Listen everyone. I want to tell you about Christmastown.
+dialog: Town Meeting Song
+text: Performed by Danny Elfman and Cast
+speaker_heading: JACK
+dialog: There are objects so peculiar
+dialog: They were not to be believed
+text: All around, things to tantalize my brain
+dialog: It's a world unlike anything I've ever seen
+dialog: And as hard as I try
+dialog: I can't seem to describe
+dialog: Like a most improbable dream
+dialog: But you must believe when I tell you this
+dialog: It's as real as my skull and it does exist
+dialog: Here, let me show you
+dialog: This is a thing called a present
+text: The whole thing starts with a box
+speaker_heading: DEVIL
+dialog: A box?
+dialog: is it steel?
+speaker_heading: WEREWOLF
+dialog: Are there locks?
+speaker_heading: HARLEOUIN DEMON
+dialog: Is it filled with a pox?
+scene_heading: DEVIL, WEREWOLF, HARLEQUIN DEMON
+dialog: A pox
+dialog: How delightful, a pox
+speaker_heading: JACK
+dialog: If you please
+text: Just a box with bright-colored paper
+text: And the whole thing's topped with a bow
+speaker_heading: WITCHES
+dialog: A bow?
+dialog: But why?
+dialog: How ugly
+dialog: What's in it?
+dialog: What's in it?
+speaker_heading: JACK
+dialog: That's the point of the thing, not to know
+speaker_heading: CLOWN
+dialog: It's a bat
+dialog: Will it bend?
+text: CREATURE UNDER THE STAIRS
+dialog: It's a rat
+dialog: Will it break?
+speaker_heading: UNDERSEA GAL
+dialog: Perhaps it s the head that I found in the lake
+speaker_heading: JACK
+dialog: Listen now, you don't understand
+dialog: That's not the point of Christmas land
+dialog: Now, pay attention
+text: We pick up an oversized sock
+dialog: And hang it like this on the wall
+speaker_heading: MR. HYDE
+dialog: Oh, yes! Does it still have a foot?
+scene_heading: MEDIUM MR. HYDE
+dialog: Let me see, let me look
+scene_heading: SMALL MR. HYDE
+text: Is it rotted and covered with gook?
+speaker_heading: JACK
+dialog: Um, let me explain
+text: There's no foot inside, but there's candy
+text: Or sometimes it's filled with small toys
+text: MUMMY AND WINGED DEMON
+dialog: Small toys
+speaker_heading: WINGED DEMON
+dialog: Do they bite?
+speaker_heading: MUMMY
+dialog: Do they snap?
+speaker_heading: WINGED DEMON
+dialog: Or explode in a sack?
+speaker_heading: CORPSE KID
+dialog: Or perhaps they just spring out
+dialog: And scare girls and boys
+speaker_heading: MAYOR
+dialog: What a splendid idea
+dialog: This Christmas sounds fun
+dialog: I fully endorse it
+dialog: Let's try it at once
+speaker_heading: JACK
+dialog: Everyone, please now, not so fast
+dialog: There's something here that you don't quite grasp
+dialog: Well, I may as well give them what they want
+dialog: And the best, I must confess, I have saved for the last
+dialog: For the ruler of this Christmas land
+text: Is a fearsome king with a deep mighty voice
+dialog: Least that's what I've come to understand
+dialog: And I've also heard it told
+dialog: That he's something to behold
+text: Like a lobster, huge and red
+text: When he sets out to slay with his rain gear on
+text: Carting bulging sacks with his big great arms
+dialog: That is, so I've heard it said
+dialog: And on a dark, cold night
+text: Under full moonlight
+text: He flies into a fog
+text: Like a vulture in the sky
+dialog: And they call him Sandy Claws
+dialog: Well, at least they're excited
+dialog: But they don't understand
+dialog: That special kind of feeling in Christmas land
+dialog: Oh, well...
+dialog: [Jack's house]
+speaker_heading: JACK
+dialog: There's got to be a logical way to explain this Xmas thing.
+dialog: [Dr. Finkelstein's castle]
+scene_heading: DR. FINKELSTEIN
+dialog: You've poisoned me for the last time you wretched girl.
+dialog: [locks Sally away]
+dialog: [dingdong]
+scene_heading: DR. FINKELSTEIN
+dialog: Oh my head...the door is open.
+speaker_heading: JACK
+dialog: Hel-lo
+scene_heading: DR. FINKELSTEIN
+dialog: Jack Skellington, up here my boy.
+speaker_heading: JACK
+dialog: Dr. I need to borrow some equipment.
+scene_heading: DR. FINKELSTEIN
+dialog: Is that so, whatever for?
+speaker_heading: JACK
+dialog: I'm conducting a series of experiments.
+scene_heading: DR. FINKELSTEIN
+dialog: How perfectly marvelous. Curiosity killed the cat, you know.
+speaker_heading: JACK
+dialog: I know.
+scene_heading: DR. FINKELSTEIN
+dialog: Come on into the lab and we'll get you all fixed up.
+speaker_heading: SALLY
+dialog: Hmm. Experiments?
+dialog: [Jack's house]
+speaker_heading: JACK
+dialog: Zero, I'm home.
+dialog: [Jack examines &amp; experiments with Xmas stuff]
+speaker_heading: JACK
+dialog: Interesting reaction....but what does it mean?
+dialog: [Sally's room]
+text: [after Sally jumps to give Jack his basket...]
+scene_heading: DR. FINKELSTEIN
+dialog: You can come out now if you promise to behave. Sally. Sally. Oooh! Gone
+dialog: again!
+dialog: [Jack's house]
+text: [Sally gives Jack his basket and sneaks off and picks a flower which
+dialog: catches on fire]
+dialog: Jack's Obsession
+text: Performed by Danny Elfman and Cast
+scene_heading: CITIZENS OF HALLOWEEN
+dialog: Something's up with Jack
+dialog: Something's up with Jack
+dialog: Don't know if we're ever going to get him back
+dialog: He's all alone up there
+text: Locked away inside
+dialog: Never says a word
+dialog: Hope he hasn't died
+dialog: Something's up with Jack
+dialog: Something's up with Jack
+speaker_heading: JACK
+dialog: Christmas time is buzzing in my skull
+dialog: Will it let me be? I cannot tell
+dialog: There's so many things I cannot grasp
+dialog: When I think I've got it, and then at last
+text: Through my bony fingers it does slip
+text: Like a snowflake in a fiery grip
+dialog: Something here I'm not quite getting
+dialog: Though I try, I keep forgetting
+dialog: Like a memory long since past
+text: Here in an instant, gone in a flash
+dialog: What does it mean?
+dialog: What does it mean?
+dialog: In these little bric-a-brac
+text: A secret's waiting to be cracked
+dialog: These dolls and toys confuse me so
+dialog: Confound it all, I love it though
+dialog: Simple objects, nothing more
+text: But something's hidden through a door
+dialog: Though I do not have the key
+dialog: Something's there I cannot see
+dialog: What does it mean?
+dialog: What does it mean?
+dialog: What does it mean?
+dialog: Hmm...
+dialog: I've read these Christmas books so many times
+dialog: I know the stories and I know the rhymes
+dialog: I know the Christmas carols all by heart
+text: My skull's so full, it's tearing me apart
+dialog: As often as I've read them, something's wrong
+dialog: So hard to put my bony finger on
+dialog: Or perhaps it's really not as deep
+dialog: As I've been led to think
+dialog: Am I trying much too hard?
+dialog: Of course! I've been too close to see
+text: The answer's right in front of me
+dialog: Right in front of me
+dialog: It's simple really, very clear
+text: Like music drifting in the air
+text: Invisible, but everywhere
+dialog: Just because I cannot see it
+dialog: Doesn't mean I can't believe it
+dialog: 
+dialog: You know, I think this Christmas thing
+dialog: It's not as tricky as it seems
+dialog: And why should they have all the fun?
+dialog: It should belong to anyone
+dialog: Not anyone, in fact, but me
+dialog: Why, I could make a Christmas tree
+dialog: And there's no reason I can find
+dialog: I couldn't handle Christmas time
+dialog: I bet I could improve it too
+dialog: And that's exactly what I'll do
+dialog: Hee,hee,hee
+speaker_heading: JACK
+dialog: Eureka!! This year, Christmas will be ours!
+speaker_heading: MAYOR
+dialog: Patience, everyone. Jack has a special Job for each of us. Dr.
+dialog: Finkelstein, your Xmas assignment is ready. Dr. Finkelstein to the front
+dialog: of the line.
+speaker_heading: VAMPIRE
+dialog: What kind of a noise is that for a baby to make?
+speaker_heading: JACK
+dialog: Perhaps it can be improved?
+speaker_heading: VAMPIRES
+dialog: No problem!
+speaker_heading: JACK
+dialog: I knew it! Dr. thank you for coming. We need some of these.
+dialog: [showing picture of Santa and sleigh]
+scene_heading: DR. FINKELSTEIN
+dialog: Hmm.. their construction should be exceedingly simple. I think.
+speaker_heading: MAYOR
+dialog: How horrible our Xmas will be.
+speaker_heading: JACK
+dialog: No--how jolly.
+speaker_heading: MAYOR
+dialog: [switches face]
+dialog: Oh, how jolly our Xmas will be. [gets pelted] What are you doing here?
+speaker_heading: LOCK
+dialog: Jack sent for us.
+speaker_heading: SHOCK
+dialog: Specifically.
+speaker_heading: BARREL
+dialog: By name.
+speaker_heading: LOCK
+dialog: Lock
+dialog: 
+speaker_heading: SHOCK
+dialog: Shock
+speaker_heading: BARREL
+dialog: Barrel
+speaker_heading: MAYOR
+dialog: Jack, Jack it's Oogie's boys!
+speaker_heading: JACK
+dialog: Ah, Halloween's finest trick or treaters. The job I have for you is top
+text: secret. It requires craft, cunning, mischief.
+speaker_heading: SHOCK
+dialog: And we thought you didn't like us, Jack.
+dialog: [giggles]
+speaker_heading: JACK
+dialog: Absolutely no one is to know about it. Not a soul. Now--
+dialog: [whispers to LS&amp;B]
+dialog: And one more thing -- leave that no account Ooogie Boogie out of this!
+speaker_heading: BARREL
+dialog: Whatever you say, Jack.
+speaker_heading: SHOCK
+dialog: Of course Jack.
+speaker_heading: LOCK
+dialog: Wouldn't dream of it Jack.
+dialog: [all said with their fingers crossed]
+dialog: Kidnap the Sandy Claws
+text: Performed by Paul Reubens, Catherine O'Hara, and Danny Elfman
+scene_heading: LOCK, SHOCK, AND BARREL
+dialog: Kidnap Mr. Sandy Claws
+speaker_heading: LOCK
+dialog: I wanna do it
+speaker_heading: BARREL
+dialog: Let's draw straws
+speaker_heading: SHOCK
+dialog: Jack said we should work together
+dialog: Three of a kind
+scene_heading: LOCK, SHOCK, AND BARREL
+text: Birds of a feather
+dialog: Now and forever
+dialog: Wheeee
+dialog: La, la, la, la, la
+dialog: Kidnap the Sandy Claws, lock him up real tight
+dialog: Throw away the key and then
+dialog: Turn off all the lights
+speaker_heading: SHOCK
+dialog: First, we're going to set some bait
+text: Inside a nasty trap and wait
+dialog: When he comes a-sniffing we will
+dialog: Snap the trap and close the gate
+speaker_heading: LOCK
+dialog: Wait! I've got a better plan
+dialog: To catch this big red lobster man
+dialog: Let's pop him in a boiling pot
+dialog: And when he's done we'll butter him up
+scene_heading: LOCK, SHOCK, AND BARREL
+dialog: Kidnap the Sandy Claws
+dialog: Throw him in a box
+dialog: Bury him for ninety years
+dialog: Then see if he talks
+speaker_heading: SHOCK
+dialog: Then Mr. Oogie Boogie Man
+dialog: Can take the whole thing over then
+dialog: He'll be so pleased, I do declare
+dialog: That he will cook him rare
+scene_heading: LOCK,SHOCK, AND BARREL
+dialog: Wheeee
+speaker_heading: LOCK
+dialog: I say that we take a cannon
+dialog: Aim it at his door
+dialog: And then knock three times
+dialog: And when he answers
+dialog: Sandy Claws will be no more
+speaker_heading: SHOCK
+dialog: You're so stupid, think now
+dialog: lf we blow him up to smithereens
+dialog: We may lose some pieces
+dialog: And then Jack will beat us black and green
+scene_heading: LOCK,SHOCK, AND BARREL
+dialog: Kidnap the Sandy Claws
+dialog: Tie him in a bag
+dialog: Throw him in the ocean
+dialog: Then, see if he is sad
+scene_heading: LOCK AND SHOCK
+dialog: Because Mr. Oogie Boogie is the meanest guy around
+dialog: If I were on his Boogie list, I'd get out of town
+speaker_heading: BARREL
+dialog: He'll be so pleased by our success
+dialog: That he'll reward us too, I'll bet
+scene_heading: LOCK, SHOCK, AND BARREL
+dialog: Perhaps he'll make his special brew
+dialog: Of snake and spider stew
+dialog: Ummm!
+dialog: We're his little henchmen and
+dialog: We take our job with pride
+dialog: We do our best to please him
+dialog: And stay on his good side
+speaker_heading: SHOCK
+dialog: I wish my cohorts weren't so dumb
+speaker_heading: BARREL
+dialog: I'm not the dumb one
+speaker_heading: LOCK
+dialog: You're no fun
+speaker_heading: SHOCK
+dialog: Shut up
+speaker_heading: LOCK
+dialog: Make me
+speaker_heading: SHOCK
+dialog: I've got something, listen now
+dialog: This one is real good, you'll see
+dialog: We'll send a present to his door
+dialog: Upon there'll be a note to read
+dialog: Now, in the box we'll wait and hide
+text: Until his curiosity entices him to look inside
+speaker_heading: BARREL
+dialog: And then we'll have him
+dialog: One, two, three
+scene_heading: LOCK, SHOCK, AND BARREL
+text: Kidnap the Sandy Claws, beat him with a stick
+dialog: Lock him up for ninety years, see what makes him tick
+text: Kidnap the Sandy Claws, chop him into bits
+text: Mr. Oogie Boogie is sure to get his kicks
+dialog: Kidnap the Sandy Claws, see what we will see
+text: Lock him in a cage and then, throw away the key
+speaker_heading: OOGIE BOOGIE
+dialog: Sandy Claws..hahaha
+dialog: [city hall]
+speaker_heading: JACK
+dialog: It goes something like this. [Jingle bells]
+dialog: How about it? Think you can manage?
+scene_heading: PERSON INSIDE BASS
+dialog: a one, and a two, and a three, and a. . .
+dialog: [Jingle in a flat key by the band]
+speaker_heading: MAYOR
+dialog: Next!
+speaker_heading: JACK
+dialog: Fantastic! Now why don't you all practice on that and we'll be in great
+dialog: shape. Sally, I need your help more than anyone's.
+speaker_heading: SALLY
+dialog: You certainly do, Jack. I had the most terrible vision.
+speaker_heading: JACK
+dialog: That's splendid.
+speaker_heading: SALLY
+dialog: No, it was about your Xmas. There was smoke and fire.
+speaker_heading: JACK
+dialog: That not my Xmas. My Xmas is filled with laughter and joy and this--my
+dialog: Sandy Claws outfit. I want you to make it.
+speaker_heading: SALLY
+dialog: Jack, please, listen to me--it's going to be a disaster.
+speaker_heading: JACK
+dialog: How could it be--just follow the pattern. This part is red, the trim is
+dialog: white.
+speaker_heading: SALLY
+dialog: It's a mistake, Jack.
+speaker_heading: JACK
+dialog: Now don't be modest, who else is clever enough to make my Sandy claws outfit.
+speaker_heading: MAYOR
+dialog: Next!
+speaker_heading: JACK
+dialog: I have every confidence in you.
+speaker_heading: SALLY
+dialog: But it seems wrong to me, very wrong.
+dialog: [to Behemoth]
+speaker_heading: JACK
+text: This device is called a nutcracker.
+scene_heading: LOCK, SHOCK &amp; BARREL
+dialog: Jack, Jack we caught him we caught him.
+speaker_heading: JACK
+dialog: Perfect! Open it up. Quickly!
+text: [opens to reveal the Easter bunny]
+speaker_heading: JACK
+dialog: That's not Sandy Claws!
+speaker_heading: SHOCK
+dialog: It isn't?
+speaker_heading: BARREL
+dialog: Who is it?
+speaker_heading: BEHEMOTH
+dialog: Bunny!
+speaker_heading: JACK
+dialog: Not Sandy Claws...take him back!
+speaker_heading: LOCK
+dialog: We followed your instructions--
+speaker_heading: BARREL
+dialog: we went through the door--
+speaker_heading: JACK
+text: Which door? There's more than one. Sandy Claws is behind the door
+dialog: shaped like this.
+dialog: [shows Xmas cookie in shape of tree]
+speaker_heading: SHOCK
+dialog: I told you!
+dialog: [LS&amp;B start fighting]
+speaker_heading: JACK
+dialog: Arr!! [making scary face at LS&amp;B]
+speaker_heading: JACK
+dialog: I'm very sorry for the inconvenience, sir. Take him home first and
+dialog: apologize again. Be careful with Sandy Claws when you fetch him. Treat
+dialog: him nicely.
+scene_heading: LOCK, SHOCK &amp; BARREL
+dialog: Got it. We'll get it right next time.
+dialog: [Dr. Finkelstein's castle]
+scene_heading: DR. FINKELSTEIN
+dialog: You will be a decided improvement over that treacherous Sally.
+speaker_heading: IGOR
+dialog: Master, the plans.
+scene_heading: DR. FINKELSTEIN
+dialog: Excellent, Igor.
+dialog: [throws him a dog bone]
+dialog: Making Christmas
+text: Performed by Danny Elfman and the Citizens of Halloween
+speaker_heading: CLOWN
+dialog: This time, this time
+speaker_heading: GROUP
+dialog: Making Christmas
+scene_heading: ACCORDION PLAYER
+dialog: Making Christmas
+speaker_heading: MAYOR
+dialog: Making Christmas, making Christmas
+dialog: Is so fine
+speaker_heading: GROUP
+dialog: It's ours this time
+dialog: And won't the children be surprised
+dialog: It's ours this time
+speaker_heading: CHILD CORPSE
+dialog: Making Christmas
+speaker_heading: MUMMY
+dialog: Making Christmas
+scene_heading: MUMMY AND CORPSE CHILD
+dialog: Making Christmas
+speaker_heading: WITCHES
+dialog: Time to give them something fun
+scene_heading: WITCHES AND CREATURE LADY
+dialog: They'll talk about for years to come
+speaker_heading: GROUP
+dialog: Let's have a cheer from everyone
+dialog: It's time to party
+speaker_heading: DUCK TOY
+dialog: Making Christmas, making Christmas
+speaker_heading: VAMPIRES
+text: Snakes and mice get wrapped up so nice
+text: With spider legs and pretty bows
+scene_heading: VAMPIRES AND WINGED DEMON
+dialog: It's ours this time
+speaker_heading: CORPSE FATHER
+dialog: All together, that and this
+scene_heading: CORPSE FATHER, WOLF MAN
+dialog: With all our tricks we're
+scene_heading: CORPSE FATHER, WOLF MAN, DEVIL
+dialog: Making Christmastime
+speaker_heading: WOLF MAN
+dialog: Here comes Jack
+speaker_heading: JACK
+dialog: I don't believe what's happening to me
+dialog: My hopes, my dreams, my fantasies
+dialog: Hee, hee, hee, hee
+speaker_heading: HARLEQUIN
+dialog: Won't they be impressed, I am a genius
+dialog: See how I transformed this old rat
+dialog: Into a most delightful hat
+speaker_heading: JACK
+dialog: Hmm, my compliments from me to you
+dialog: On this your most intriguing hat
+dialog: Consider though this substitute
+dialog: A bat in place of this old rat
+dialog: Huh! No, no, no, now that's all wrong
+dialog: This thing will never make a present
+dialog: It's been dead now for much too long
+dialog: Try something fresher, something pleasant
+dialog: Try again, don't give up
+scene_heading: THREE MR. HYDES
+dialog: All together, that and this
+dialog: With all our tricks we're making Christmastime
+dialog: (Instrumental)
+speaker_heading: GROUP
+dialog: This time, this time
+speaker_heading: JACK
+dialog: It's ours!
+speaker_heading: GROUP
+dialog: Making Christmas, making Christmas
+dialog: La, la, la
+dialog: It's almost here
+scene_heading: GROUP AND WOLF MAN
+dialog: And we can't wait
+scene_heading: GROUP AND HARLEOUIN
+dialog: So ring the bells and celebrate
+speaker_heading: GROUP
+dialog: 'Cause when the full moon starts to climb
+dialog: We'll all sing out
+speaker_heading: JACK
+dialog: It's Christmastime
+dialog: Hee, hee, hee
+dialog: [Christmastown]
+speaker_heading: SANDY CLAWS
+dialog: Kathleen, Bobby, Susie, yes, Susie's been nice. Nice, nice, naughty,
+dialog: nice, nice, nice. There are hardly any naughty children this year.
+dialog: [door chime: jingle all the way]
+speaker_heading: SANDY CLAWS
+dialog: Now who could that be?
+scene_heading: LOCK, SHOCK &amp; BARREL
+dialog: Trick or treat!
+speaker_heading: SANDY CLAWS
+dialog: Huh?
+dialog: [back to Halloweentown]
+dialog: [to Jack in Sandy garb]
+speaker_heading: SALLY
+dialog: You don't look like yourself Jack, not at all.
+speaker_heading: JACK
+dialog: Isn't that wonderful. It couldn't be more wonderful!
+speaker_heading: SALLY
+dialog: But you're the Pumpkin King.
+speaker_heading: JACK
+text: Not anymore. And I feel so much better now.
+speaker_heading: SALLY
+dialog: Jack, I know you think something's missing. But --
+text: [pricks Jack's finger with needle]
+speaker_heading: JACK
+speaker_heading: SALLY
+dialog: Sorry
+speaker_heading: JACK
+dialog: You're right, something is missing but what? I've got the beard, the
+dialog: coat, the boots --
+scene_heading: LOCK, SHOCK &amp; BARREL
+dialog: Jack, Jack this time we bagged him!
+speaker_heading: LOCK
+dialog: This time we really did!
+dialog: 
+speaker_heading: BARREL
+dialog: He sure is big Jack!
+speaker_heading: SHOCK
+dialog: And heavy!
+speaker_heading: SANDY CLAWS
+dialog: Let me out!
+speaker_heading: JACK
+dialog: Sandy Claws in person. What a pleasure to meet you. Why you have
+dialog: hands! You don't have claws at all.
+speaker_heading: SANDY CLAWS
+dialog: Where am I?
+speaker_heading: JACK
+dialog: Surprised aren't you? I knew you would be. You don't need to have
+dialog: another worry about Xmas this year.
+speaker_heading: SANDY CLAWS
+dialog: What?
+speaker_heading: JACK
+dialog: Consider this a vacation Sandy, a reward. It's your turn to take it easy.
+speaker_heading: SANDY CLAWS
+dialog: But there must be some mistake!
+speaker_heading: JACK
+dialog: See that he's comfortable. Just a second fellows. Of course, that's
+dialog: what I'm missing.
+speaker_heading: SANDY CLAWS
+dialog: But --
+speaker_heading: JACK
+dialog: Thanks! [took Sandy's hat]
+speaker_heading: SANDY CLAWS
+dialog: You just can't... Hold on where are we going now?
+speaker_heading: JACK
+dialog: ho ho ho
+speaker_heading: SALLY
+dialog: This is worse than I thought, much worse. I know...
+speaker_heading: SANDY CLAWS
+dialog: Me? On vacation on Xmas eve?
+speaker_heading: BARREL
+dialog: Where are we taking him?
+speaker_heading: SALLY
+dialog: Where?
+speaker_heading: LOCK
+dialog: To Oogie boogie, of course. There isn't anywhere in the whole world more
+dialog: comfortable than that and Jack said to make him comfortable. Didn't he?
+scene_heading: SHOCK &amp; BARREL
+dialog: Yes he did.
+speaker_heading: SANDY CLAWS
+dialog: Haven't you heard of peace on earth and good will toward men?
+scene_heading: LOCK, SHOCK &amp; BARREL
+dialog: No!
+dialog: [Dr. Finkelstein's castle]
+dialog: [getting fog juice]
+speaker_heading: SALLY
+dialog: This'll stop Jack.
+dialog: [working on new creation to replace Sally]
+scene_heading: DR. FINKELSTEIN
+dialog: What a joy to think of all we'll have in common. We'll have
+dialog: conversations worth having.
+dialog: [Oogie's]
+scene_heading: LOCK, SHOCK &amp; BARREL
+dialog: [laughing]
+speaker_heading: SANDY CLAWS
+dialog: Don't do this. Naughty children never get any presents.
+speaker_heading: SHOCK
+dialog: I think he might be too big.
+speaker_heading: LOCK
+dialog: No he's not. If he can go down a chimney, he can fit down here!
+dialog: [in Oogie's lair]
+dialog: Oogie Boogie's Song
+dialog: Performed by Ken Page with Ed lvory
+speaker_heading: OOGIE BOOGIE
+dialog: Well, well, well, what have we here?
+dialog: Sandy Claws, huh?
+dialog: Oh, I'm really scared
+dialog: So you're the one everybody's talkin' about, ha, ha
+dialog: You're jokin', you're jokin'
+dialog: I can't believe my eyes
+dialog: You're jokin' me, you gotta be
+dialog: This can't be the right guy
+dialog: He's ancient, he's ugly
+dialog: I don't know which is worse
+dialog: I might just split a seam now
+dialog: If I don't die laughing first
+dialog: Mr. Oogie Boogie says
+dialog: There's trouble close at hand
+dialog: You'd better pay attention now
+dialog: 'Cause I'm the Boogie Man
+dialog: And if you aren't shakin'
+dialog: There's something very wrong
+dialog: 'Cause this may be the last time
+dialog: You hear the boogie song, ohhh
+scene_heading: THREE SKELETONS
+dialog: Ohhh
+speaker_heading: OOGIE BOOGIE
+dialog: Ohhh
+text: TWO SKELETONS IN VICE
+dialog: Ohhh
+speaker_heading: OOGIE BOOGIE
+dialog: Ohhh
+speaker_heading: THREE BATS
+dialog: Ohhh, he's the Oogie Boogie Man
+speaker_heading: SANTA
+dialog: Release me now
+dialog: Or you must face the dire consequences
+dialog: The children are expecting me
+dialog: So please, come to your senses
+speaker_heading: OOGIE BOOGIE
+dialog: You're jokin', you're jokin'
+dialog: I can't believe my ears
+dialog: Would someone shut this fella up
+dialog: I'm drownin' in my tears
+dialog: It's funny, I'm laughing
+dialog: You really are too much
+dialog: And now, with your permission
+dialog: I'm going to do my stuff
+speaker_heading: SANTA
+dialog: What are you going to do?
+speaker_heading: OOGIE BOOGIE
+dialog: I'm gonna do the best I can
+dialog: Oh, the sound of rollin' dice
+dialog: To me is music in the air
+dialog: 'Cause I'm a gamblin' Boogie Man
+dialog: Although I don't play fair
+dialog: It's much more fun, I must confess
+dialog: With lives on the line
+dialog: Not mine, of course, but yours, old boy
+dialog: Now that'd be just fine
+speaker_heading: SANTA
+dialog: Release me fast or you will have to
+dialog: Answer for this heinous act
+speaker_heading: OOGIE BOOGIE
+dialog: Oh, brother, you're something
+dialog: You put me in a spin
+dialog: You aren't comprehending
+dialog: The position that you're in
+dialog: It's hopeless, you're finished
+dialog: You haven't got a prayer
+dialog: 'Cause I'm Mr. Oogie Boogie
+dialog: And you ain't going nowhere
+dialog: [LS&amp;B laughing]
+dialog: [back to Halloweentown]
+dialog: [Sally pouring fog juice into fountain]
+text: [Jack appears from coffin and there's applause]
+speaker_heading: MAYOR
+text: Think of us as you soar triumphantly through the sky outshining every
+text: star. Your silhouette a dark blot on the moon, you who are our pride,
+dialog: you who are our glory, you who have frightened billions into an early grave.
+dialog: [the fog starts to get worse]
+speaker_heading: MAYOR
+dialog: You who have eh, devastated the souls of the living...
+speaker_heading: JACK
+text: Oh no! We can't take off in this! The reindeer can't see an inch in
+text: front of their noses.
+speaker_heading: SALLY
+dialog: Whew!
+speaker_heading: VAMPIRE
+dialog: This fog's as thick as, as...
+speaker_heading: CYCLOPS
+dialog: Jelly brains
+speaker_heading: VAMPIRE
+dialog: Thicker!
+speaker_heading: JACK
+dialog: There go all of my hope, my precious plans, my glorious dreams.
+dialog: Kid
+dialog: [crying] There goes Xmas.
+speaker_heading: ZERO
+dialog: barks
+speaker_heading: JACK
+dialog: No Zero, down boy. My what a brilliant nose you have. The better to
+dialog: light my way! To the head of the team, Zero! We're off!
+speaker_heading: SALLY
+dialog: Wait Jack, no!
+dialog: [Jack is off!]
+dialog: [cheers]
+speaker_heading: JACK
+dialog: ho ho ha ha ha
+speaker_heading: SALLY
+dialog: Good bye Jack, my dearest Jack. Oh how I hope my premonition is wrong.
+dialog: Sally's Song
+dialog: Performed by Catherine O'Hara
+dialog: I sense there's something in the wind
+dialog: That feels like tragedy's at hand
+dialog: And though I'd like to stand by him
+dialog: Can't shake this feeling that I have
+text: The worst is just around the bend
+dialog: And does he notice my feelings for him?
+dialog: And will he see how much he means to me?
+dialog: I think it's not to be
+dialog: What will become of my dear friend?
+dialog: Where will his actions lead us then?
+dialog: Although I'd like to join the crowd
+dialog: In their enthusiastic cloud
+dialog: Try as I may, it doesn't last
+dialog: And will we ever end up together?
+dialog: No, I think not, it's never to become
+dialog: For I am not the one
+dialog: [Jack playing Sandy]
+speaker_heading: JACK
+dialog: ho ho ho ho ho ho he he he
+dialog: [lands loudly &amp; wakes up little kid]
+dialog: A little kid
+dialog: Santa!
+dialog: [sees Jack]
+dialog: [gasps] Santa?
+speaker_heading: JACK
+dialog: Merry Xmas! And what is your name?
+dialog: Kid
+dialog: uh uh
+speaker_heading: JACK
+dialog: That's all right. I have a special present for you anyway.
+dialog: There you go sonny. Hohohohehehe
+dialog: [goes back up chimney]
+dialog: Mother
+dialog: And what did Santa bring you honey?
+text: [pulls out shrunken head]
+dialog: [mother and father scream]
+speaker_heading: JACK
+dialog: Merry Xmas!
+dialog: Cop
+speaker_heading: [ON PHONE]
+dialog: Hello, police.
+dialog: [frantic peanuts-type talk]
+dialog: Attacked by Xmas toys? That's strange. That's the second toy complaint
+dialog: we've had.
+speaker_heading: JACK
+dialog: hohohohehehe
+dialog: [killer wreath, snake, vampire toy, killer duck]
+dialog: [screams]
+dialog: [Jack puts toys down chimneys]
+dialog: [screams]
+dialog: [Jack in the box chases fat kid]
+speaker_heading: JACK
+dialog: You're welcome one and all!
+dialog: Cop
+dialog: [on phone]
+dialog: Where'd you spot him?
+dialog: ---Fast as we can, ma'am
+dialog: ---Police
+dialog: ---I know, I know a skeleton
+dialog: ---Keep calm
+dialog: ---Turn off all the lights
+dialog: ---Make sure the doors are Locked
+dialog: ---Hello, police
+dialog: Newscaster
+text: Reports are pouring in from all over the globe
+text: that an impostor is shamelessly impersonating Santa Claus,
+text: mocking and mangling this joyous holiday.
+dialog: Halloween residents
+dialog: [cheers]
+dialog: Newscaster
+text: Police assure us that this moment, military units are mobilizing to stop
+text: the perpetrator of this heinous crime.
+speaker_heading: SALLY
+dialog: [over the Newscaster]
+dialog: Jack, someone has to help Jack. Where'd they take that Sandy Claws?
+dialog: Newscaster
+dialog: --Come back and save Xmas
+speaker_heading: JACK
+dialog: Look Zero, search lights!
+dialog: [firing at Jack]
+speaker_heading: JACK
+text: They're celebrating! They're thanking us for doing such a good job.
+dialog: [almost hits Zero]
+speaker_heading: JACK
+dialog: Whoa, careful down there, you almost hit us.
+speaker_heading: ZERO
+dialog: bark
+speaker_heading: JACK
+dialog: It's ok, Zero. Head higher!
+dialog: [Oogie lair]
+speaker_heading: OOGIE BOOGIE
+dialog: Are you a gamblin man, Sandy? Let's play.
+dialog: [sees sally's leg]
+speaker_heading: OOGIE BOOGIE
+dialog: Mmmm.. my, my....what have we here?
+dialog: [Sally's hands start to rescue Sandy]
+speaker_heading: SALLY
+dialog: [whispering] I'll get you out of here.
+speaker_heading: OOGIE BOOGIE
+text: Ah, lovely. Tickle, tickle, tickle. Tickle, tickle, tickle.
+dialog: [Sally's hands untie Sandy]
+text: [Oogie realizes that there's no body to the leg]
+speaker_heading: OOGIE BOOGIE
+dialog: What?!? You trying to make a dupe out of me?
+dialog: [Oogie sucks Sandy and Sally back in]
+dialog: [back to Jack]
+speaker_heading: JACK
+dialog: Who's next on my list. Ah, little Harry and Jordan. Won't they be
+dialog: surprised.
+dialog: [sleigh gets hit]
+speaker_heading: JACK
+dialog: They're trying to hit us! ZERO!
+speaker_heading: ZERO
+dialog: Bark
+dialog: [sleigh gets hit]
+dialog: [as Jack's falling]
+speaker_heading: JACK
+dialog: Merry Xmas to all and to all a good night...
+dialog: [Halloween]
+speaker_heading: WEREWOLF
+dialog: howl!
+dialog: MAYOR (with white face)
+text: I knew this Xmas thing was a bad idea. I felt it in my gut. Terrible
+dialog: news folks. The worst tragedy of our times. Jack has been blown to
+text: smithereens. Terrible, terrible news.
+dialog: [back to "normal" town]
+dialog: Cop
+dialog: [in car]
+text: Attention, attention citizens. Terrible news. There's still no sign of
+text: Santa Claus. Although the impostor has been shot down, it looks like
+dialog: Xmas will have to be canceled this year. I repeat the impostor has been
+text: shot down but there's still no sign ......
+dialog: [Jack in cemetery]
+dialog: Poor Jack
+dialog: Performed by Danny Elfman
+dialog: What have I done?
+dialog: What have I done?
+dialog: How could I be so blind?
+dialog: All is lost, where was I?
+dialog: Spoiled all, spoiled all
+dialog: Everything's gone all wrong
+dialog: What have I done?
+dialog: What have I done?
+text: Find a deep cave to hide in
+dialog: In a million years they'll find me
+text: Only dust and a plaque
+dialog: That reads, 'Here Lies Poor Old Jack"
+dialog: But I never intended all this madness, never
+dialog: And nobody really understood, well how could they?
+dialog: That all I ever wanted was to bring them something great
+dialog: Why does nothing ever turn out like it should?
+dialog: Well, what the heck, I went and did my best
+dialog: And, by god, I really tasted something swell
+dialog: And for a moment, why, I even touched the sky
+dialog: And at least I left some stories they can tell, I did
+dialog: And for the first time since I don't remember when
+dialog: I felt just like my old bony self again
+dialog: And I, Jack, the Pumpkin King
+dialog: That's right! I am the Pumpkin King, ha, ha, ha, ha
+dialog: And I just can't wait until next Halloween
+dialog: 'Cause I've got some new ideas that will really make them scream
+dialog: And, by God, I'm really going to give it all my might
+dialog: Uh oh, I hope there's still time to set things right
+dialog: Sandy Claws, hmm
+dialog: [Oogie lair]
+speaker_heading: SALLY
+dialog: You wait till Jack hears about this. By the time he's through with you,
+dialog: you'll be lucky if you...
+speaker_heading: MAYOR
+text: The king of Halloween has been blown to smithereens. Skeleton Jack is
+text: now a pile of dust.
+speaker_heading: SALLY
+dialog: [gasp]
+speaker_heading: JACK
+dialog: Come on Zero. Xmas isn't over yet!
+speaker_heading: OOGIE BOOGIE
+dialog: What's that you were saying about luck, rag doll?
+speaker_heading: SALLY
+dialog: Help, help, help, help
+speaker_heading: OOGIE BOOGIE
+text: Sandy, looks like it's Oogie's turn to boogie.
+speaker_heading: SALLY
+dialog: [scream]
+speaker_heading: OOGIE BOOGIE
+dialog: one 2 3 4 5 6 7 -- hahaha
+speaker_heading: SANDY CLAWS
+dialog: This can't be happening!
+speaker_heading: OOGIE BOOGIE
+text: Ashes to ashes, and dust to dust. Oh, I'm feeling weak...with hunger.
+dialog: One more roll of the dice oughta do it. Haha [rolls dice]
+dialog: What! Snake eyes. [bang on table]
+dialog: Eleven! Haha looks like I won the jackpot!
+text: Bye bye doll face and sandman.
+dialog: Ha, ha, ha
+dialog: [about to dump Sally &amp; Sandy Claus into the lava]
+dialog: What the...
+speaker_heading: JACK
+dialog: Hello Oogie
+speaker_heading: OOGIE BOOGIE
+dialog: Jack, but they said you were dead. You must be double dead.
+dialog: Well come on bone man.
+speaker_heading: ZERO
+dialog: bark bark
+speaker_heading: OOGIE BOOGIE
+dialog: oooo ooo ooo. Pull an arm. ha ha
+speaker_heading: SALLY
+dialog: Jack look out!
+speaker_heading: OOGIE BOOGIE
+dialog: So long, Jack. haha
+speaker_heading: JACK
+dialog: How dare you treat my friends so shamefully.
+text: [Jack pulls the thread that came loose that held Oogie together]
+speaker_heading: OOGIE BOOGIE
+dialog: Now look what you've done. My bugs, my bugs, my bugs, bye bye bye
+speaker_heading: JACK
+dialog: Forgive me Mr. claws, I'm afraid I've made a terrible mess
+dialog: of your holiday.
+speaker_heading: SANDY CLAWS
+dialog: Bumpy sleigh ride, Jack? The next time you get the urge to take over
+dialog: someone else's holiday, I'd listen to her! She's the only one who makes
+dialog: any sense around this insane asylum!
+dialog: Skeletons....
+speaker_heading: JACK
+dialog: I hope there's still time--
+speaker_heading: SANDY CLAWS
+dialog: To fix Xmas? Of course there is, I'm Santa Claus!
+text: [and laying a finger aside of his nose, up Oogie's chimney he rose]
+speaker_heading: SALLY
+dialog: He'll fix things Jack. He knows what to do.
+speaker_heading: JACK
+dialog: How did you get down here Sally?
+speaker_heading: SALLY
+dialog: Oh, I was trying to, well, I wanted to, to --
+speaker_heading: JACK
+dialog: to help me
+speaker_heading: SALLY
+dialog: I couldn't just let you just...
+speaker_heading: JACK
+dialog: Sally, I can't believe I never realized...that you...
+speaker_heading: MAYOR
+dialog: Jack, Jack!
+speaker_heading: BARREL
+dialog: Here he is!
+speaker_heading: LOCK
+dialog: Alive!
+speaker_heading: SHOCK
+dialog: Just like we said.
+speaker_heading: MAYOR
+dialog: Grab a hold my boy!
+scene_heading: JACK &amp; SALLY
+dialog: whoa!
+speaker_heading: NEWSCASTER
+dialog: Good news, folks. Santa Claus, the one and only has finally been
+text: spotted. Old Saint Nick appears to be traveling at supersonic speed.
+text: He's setting things right, bringing joy and cheer wherever he goes. Yes
+text: folks, Kris Kringle has pulled it out of the bag and delivered Xmas to
+dialog: excited children all over the world!
+dialog: Finale
+text: Performed by Danny Elfman, Catherine O'Hara, and the Citizens of Halloween
+speaker_heading: CHORUS
+dialog: La, la, la, (etc.)
+dialog: Jack's OK, and he's back, OK
+scene_heading: CHILD CORPSE AND CHORUS
+dialog: He's all right
+scene_heading: MAYOR AND CHORUS
+dialog: Let's shout, make a fuss
+dialog: Scream it out, wheee
+speaker_heading: CHORUS
+text: Jack is back now, everyone sing
+dialog: In our town of Halloween
+speaker_heading: JACK
+dialog: It's great to be home!
+speaker_heading: SANDY CLAWS
+dialog: Hohohohoho
+dialog: Happy Halloween!
+dialog: [Sandy Claws brings snow to Halloween]
+speaker_heading: JACK
+dialog: Merry Xmas!
+speaker_heading: CHILD CORPSE
+dialog: What's this?
+speaker_heading: CYCLOPS
+dialog: What's this?
+speaker_heading: HARLEQUIN DEMON
+dialog: I haven't got a clue
+speaker_heading: MR. HYDE
+dialog: What's this?
+speaker_heading: CLOWN
+dialog: Why it's completely new
+scene_heading: OFF-SCREEN VOICE
+dialog: What's this?
+speaker_heading: WOLFMAN
+dialog: Must be a Christmas thing
+scene_heading: OFF-SCREEN VOICE
+dialog: What's this?
+speaker_heading: MAYOR
+dialog: It's really very strange
+speaker_heading: CHORUS
+dialog: This is Halloween
+dialog: Halloween! Halloween! Halloween!
+dialog: What's this?
+dialog: What's this?
+dialog: (Repeat)
+scene_heading: DR. FINKELSTEIN
+dialog: Careful, my precious jewel!
+dialog: [Dr. F. with his new wife!]
+speaker_heading: JACK
+dialog: My dearest friend, if you don't mind
+dialog: I'd like to join you by your side
+dialog: Where we can gaze into the stars
+scene_heading: JACK AND SALLY
+dialog: And sit together, now and forever
+dialog: For it is plain as anyone can see
+dialog: We're simply meant to be
+text: [at the end of FINALE, Zero zooms off into the heavens]
+dialog: THE END!
+dialog: 

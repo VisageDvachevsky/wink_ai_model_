@@ -1,0 +1,4631 @@
+dialog: 
+scene_heading: INT. PUBLISHING HOUSE RECEPTION AREA - DAY
+text: It's grand and modern. Random House-Knopf-Taschen is etched
+text: on the wall in large gold letters. An old woman enters
+text: carrying a tattered manuscript, maybe a thousand pages. She
+text: seems haunted, hollow-eyed, sickly. The young receptionist,
+text: dressed in a shiny, stretchy one-piece pantsuit, looks up.
+speaker_heading: RECEPTIONIST
+dialog: Oh, hi.
+speaker_heading: OLD WOMAN
+dialog: (apologetically)
+dialog: Hi, I was in the neighborhood and thought
+dialog: I'd see --
+speaker_heading: RECEPTIONIST
+dialog: I think he's in a conference.
+dialog: Unfortunately. I'm really sorry.
+speaker_heading: OLD WOMAN
+dialog: Would you just try him? You never know.
+dialog: As long as I'm here. You never know.
+speaker_heading: RECEPTIONIST
+dialog: Of course. Please have a seat.
+text: The old woman smiles and sits, the bulky manuscript on her
+text: lap. She stares politely straight ahead.
+speaker_heading: RECEPTIONIST (CONT'D)
+dialog: (quietly into headset)
+dialog: It's her -- I know, but couldn't you just
+dialog: -- Yes, I know, but -- I know, but she's
+dialog: old and it would be a nice -- Yes, sorry.
+dialog: (to old woman)
+dialog: I'm sorry, ma'am, he's not in right now.
+dialog: It's a crazy time of year for us.
+text: The receptionist gestures toward a Christmas tree in the
+text: corner. Its ornaments are holograms.
+speaker_heading: OLD WOMAN
+dialog: This book -- It's essential that people
+dialog: read it because --
+text: (gravely, patting the
+dialog: manuscript)
+dialog: -- It's the truth. And only I know it.
+speaker_heading: RECEPTIONIST
+dialog: (nodding sympathetically)
+dialog: Maybe after the holidays then.
+scene_heading: INT. TILED HALLWAY - DAY
+text: The old woman carries her manuscript haltingly down a subway
+text: hall. She stops to catch her breath, then continues and
+text: passes several archway with letters printed above them. When
+text: she arrives at one topped by an LL, she slips a card in a
+text: slot. A plastic molded chair drops into the archway. She
+text: sits in the chair; it rises.
+scene_heading: INT. TUBE -DAY
+text: The woman is still in the chair as it slips gracefully into a
+text: line of chairs shooting through a glass tube. The other
+text: chairs are peopled with commuters. We stay with the woman as
+text: she and the others travel over New York City in the tube.
+text: There are hundreds of these commuter tubes crisscrossing the
+text: skyline. The woman glances at the manuscript in her lap.
+dialog: It's called:
+dialog: Eternal Sunshine of the Spotless Mind
+text: This serves as the movie's opening title. The other credits
+text: follow, as the old woman studies commuters in passing tubes.
+text: Their faces are variously harsh and sad and lonely and blank.
+scene_heading: INT. WAITING ROOM - DAY
+scene_heading: SUBTITLED: FIFTY YEARS EARLIER
+text: Every doctor's office waiting room: chairs against the wall,
+text: magazines on end tables, a sad-looking potted plant, generic
+text: seascape paintings on the walls. The receptionist, Mary, 25,
+text: can be seen typing in the reception area. Behind her are
+text: shelves and shelves of medical files. The door opens and
+text: Clementine enters. She's in her early thirties, zaftig in a
+text: faux fur winter coat over an orange hooded sweatshirt. She's
+text: decidedly funky and has blue hair. Mary looks up.
+speaker_heading: MARY
+dialog: May I help you?
+speaker_heading: CLEMENTINE
+dialog: (approaching reception area)
+dialog: Yeah, hi, I have a one o'clock with Dr.
+dialog: Mierzwiak. Clementine Kruczynski.
+speaker_heading: MARY
+dialog: Yes, please have a seat. He'll be right
+dialog: with you.
+text: Clementine sits. She looks tired, maybe hungover. She picks
+text: up a magazine at random and thumbs without interest.
+scene_heading: INT. INNER OFFICE AREA - CONTINUOUS
+text: Mary pads down the hallway. She knocks on a closed door.
+speaker_heading: MIERZWIAK (O.S.)
+dialog: Yes?
+text: Mary opens the door, peeks in. Howard Mierzwiak, 40's,
+text: professional, dry, sits behind his desk studying some papers.
+speaker_heading: MARY
+dialog: Howard, your one o'clock.
+speaker_heading: MIERZWIAK
+dialog: (not looking up)
+dialog: Thanks, Mary. You can bring her in.
+text: She smiles and nods. It's clear she's in love. It's equally
+text: clear that Mierzwiak doesn't have a clue. Mary turns to
+dialog: leave.
+speaker_heading: MIERZWIAK (CONT'D)
+dialog: (looking up)
+dialog: Mary...
+speaker_heading: MARY
+dialog: (turning back)
+dialog: Yes?
+speaker_heading: MIERZWIAK
+dialog: Order me a pastrami for after?
+speaker_heading: MARY
+dialog: Cole slaw, ice tea?
+speaker_heading: MIERZWIAK
+dialog: (nodding)
+dialog: Thanks.
+speaker_heading: MARY
+dialog: Welcome, Howard.
+text: She smiles and heads down the hall. Stan, 30's, tall,
+text: spindly, and earnest in a lab coat pops out of a doorway.
+speaker_heading: STAN
+dialog: Boo.
+speaker_heading: MARY
+dialog: Hi.
+text: She glances back nervously at Mierzwiak's open door.
+speaker_heading: STAN
+dialog: Barely seen you all morning, kiddo.
+text: He leans in to kiss her. She cranes her neck to keep him
+dialog: off.
+speaker_heading: MARY
+dialog: (reprimanding whisper)
+dialog: Stan... c'mon...
+speaker_heading: STAN
+dialog: Sorry. I just --
+speaker_heading: MARY
+dialog: (somewhat guiltilly)
+dialog: It's just...y'know... I mean...
+speaker_heading: STAN
+dialog: I know. Anyway --
+speaker_heading: MARY
+dialog: Anyway, I've got to do my tap
+dialog: dance here.
+text: She indicates the door to the reception area. Stan nods.
+speaker_heading: STAN
+dialog: See you later, alligator.
+speaker_heading: MARY
+dialog: 'kay.
+speaker_heading: STAN
+dialog: Hey, if you're ordering lunch for
+dialog: Mierzwiak, would you --
+speaker_heading: MARY
+dialog: I better do this, Stan.
+text: Stan nods again and Mary opens the door to the waiting room.
+speaker_heading: MARY (CONT'D)
+dialog: Ms. Kruczynski?
+speaker_heading: CLEMENTINE (O.S.)
+dialog: Hi.
+text: After a moment, Clementine appears in the doorway. Mary
+text: leads her down the hall, not looking back.
+speaker_heading: MARY
+dialog: (professionally courteous)
+dialog: How are you today?
+speaker_heading: CLEMENTINE
+dialog: Okay, I guess.
+speaker_heading: MARY
+dialog: (at Mierzwiak's office)
+dialog: Here we are.
+text: Mierzwiak steps out from behind his desk.
+speaker_heading: MIERZWIAK
+dialog: Ms. Kruczynski, please come in.
+text: Clementine enters the office. Mary smiles at Mierzwiak and
+text: closes the door, leaving them alone.
+scene_heading: INT. OFFICE - CONTINUOUS
+text: Mierzwiak directs Clementine to a chair next to a coffee
+text: table and a conspicuously placed box of tissues. Mierzwiak
+text: sits across from her. He smiles.
+speaker_heading: MIERZWIAK
+dialog: How are you today?
+speaker_heading: CLEMENTINE
+dialog: Okay, I guess.
+speaker_heading: MIERZWIAK
+dialog: (nodding sympathetically)
+dialog: Well, why don't you tell me what's going
+dialog: on? Do you mind if I turn this on?
+text: He indicates a tape recorder.
+speaker_heading: CLEMENTINE
+dialog: I don't care.
+text: He turns it on, smiles at her, gestures for her to begin.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Well, I've been having a bad time of it
+dialog: with um, my boyfriend, I guess.
+speaker_heading: MIERZWIAK
+dialog: You guess he's your boyfriend? Or you
+dialog: guess you're having a bad time with hm?
+speaker_heading: CLEMENTINE
+dialog: What? No. I don't like the term
+dialog: boyfriend. It's so gay.
+text: Mierzwiak nods. He's attentive, pleasant, and neutral
+dialog: throughout.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Maybe gay isn't the right word. But,
+dialog: anyway, it's been rough with him...
+dialog: whatever the fuck he is. Heheh. My
+dialog: significant other... heh heh. And I
+dialog: guess on a certain level, I want to break
+dialog: it off, but I feel... y'know... it's like
+dialog: this constant questioning and re
+dialog: questioning. Do I end it? Should I give
+dialog: it more time? I'm not happy, but what do
+dialog: I expect? Relationships require work.
+dialog: You know the drill. The thing that I
+dialog: keep coming back to is, I'm not getting
+dialog: any younger, I want to have a baby... at
+dialog: some point... maybe... right? So then I
+dialog: think I should settle -- which is not
+dialog: necessarily the best word -- I mean, he's
+dialog: a good guy. It's not really settling.
+dialog: Then I think maybe I'm just a victim of
+dialog: movies, y'know? That I have some
+dialog: completely unrealistic notion of what a
+dialog: relationship can be. But then I think,
+dialog: no, this is what I really want, so I
+dialog: should allow myself the freedom to go out
+dialog: and fucking find it. You know? Agreed?
+dialog: But then I think he is a good guy and...
+dialog: It's complicated. Y'know?
+speaker_heading: MIERZWIAK
+dialog: I think I know. I think we can help. Why
+dialog: don't you start by telling me about your
+dialog: relationship. Everything you can think
+dialog: of. Everything about him. Everything
+dialog: about you. And we'll take it from there.
+text: She nods, thinks.
+speaker_heading: CLEMENTINE
+dialog: Um, well, he's a fucking tidy one --
+scene_heading: EXT. COMMUTER TRAIN STATION
+scene_heading: SUBTITLE: TWO WEEKS LATER
+text: The platform is crowded with business commuters. Joel is
+text: among them. He is in his 30's, gaunt, and holding a
+text: briefcase. The platform across the tracks from him is empty.
+text: Suddenly he turns and makes his way through the crowd. He
+text: climbs the stairs, crosses the overpass to the empty
+text: platform. Soon an almost empty train pulls up to that
+text: platform. Joel gets on and watches the business commuters
+text: through the dirty window as his train pulls out of the
+dialog: station.
+scene_heading: EXT. MONTAUK TRAIN STATION - LATER
+text: Joel talks on a phone. The wind howls around him. He tries
+text: to shield the mouthpiece as he talks.
+speaker_heading: JOEL
+dialog: Hi, Cindy. Joel. Listen, I'm not
+dialog: feeling well this morning. No. Food
+dialog: poisoning, I think. Sorry it took me so
+dialog: long to call in, but I've been vomiting.
+scene_heading: EXT. BEACH - DAY
+text: Joel wanders the windy, empty beach, with his briefcase. He
+text: passes an old man with a metal detector. They nod at each
+dialog: other.
+text: Later: Joel looks out at the ocean.
+text: Later: Joel sits on a rock and pulls out a notebook. He
+text: opens it and writes with a gloved hand.
+speaker_heading: JOEL
+dialog: January 13th, 2006. Today I skipped work
+dialog: and took the train out to Montauk.
+dialog: (thinks)
+text: It's cold.
+dialog: (thinks some more)
+text: The sky is gray.
+dialog: (thinks some more)
+dialog: I don't know what else to say. Nothing
+dialog: happens. Nothing changes. I saw Naomi
+dialog: last night. We had sex. It was weird to
+dialog: fall into our old familiar sex life so
+text: easily. Like no time has passed. After
+dialog: two years apart suddenly we're talking
+dialog: about getting together again. I guess
+dialog: that's good.
+text: He has no other thoughts. He glances up, spots a female
+text: figure in the distance, walking in his direction. She stands
+text: out against the gray in a fluorescent orange hooded
+text: sweatshirt. It's Clementine. He watches her for a bit, then
+text: as she nears, he goes back to his writing, or at least
+text: pretends to. Once she passed, he watches her walk away. She
+text: stops and stares out at the ocean. Joel writes.
+speaker_heading: JOEL (V.O.) (CONT'D)
+dialog: If I'm constitutionally incapable of
+dialog: making eye-contact with a woman I don't
+dialog: know. I guess I'd better get back to
+dialog: Naomi.
+text: Later: Joel walks up near the beach houses closed for the
+text: season. He peeks cautiously in a dark window.
+text: Later: Joel digs into the sand with a stick.
+scene_heading: INT. DINER - DAY
+text: It's a local tourist place, but off-season empty. Joel sits
+text: in a booth and eats a grilled cheese sandwich and a bowl of
+text: tomato soup. An elderly couple drink coffee at the counter.
+text: Clementine enters, looks around, takes off her hood. Joel
+text: glances at her bright blue hair. She picks an empty booth
+text: and sits. Joel studies her discreetly. The waitress
+text: approaches her with a coffee pot.
+speaker_heading: WAITRESS
+dialog: Coffee?
+speaker_heading: CLEMENTINE
+dialog: God, yes. You've saved my life!
+text: The waitress pours the coffee.
+speaker_heading: WAITRESS
+dialog: You know what you want yet?
+speaker_heading: CLEMENTINE
+dialog: (laughing)
+dialog: Ain't that the question of the century.
+text: The waitress is not amused.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: You got grilled cheese and tomato soup?
+speaker_heading: WAITRESS
+dialog: Yeah. We're having a run on it.
+text: The waitress heads to the grill. Clementine fishes in her
+text: bag, brings the coffee cup under the table for a moment,
+text: pours something in, then brings the cup back up.
+speaker_heading: CLEMENTINE
+dialog: (calling)
+dialog: And some cream, please.
+text: Clementine looks around the place. Her eyes meet Joel's
+text: before he is able to look away. She smiles vaguely. He
+text: looks embarrassed, then down at his journal. Clementine
+text: pulls a book from her purse and starts to read. Joel glances
+text: up, tries to see the cover. It's blue. He can't read the
+dialog: title.
+scene_heading: EXT. BEACH - DAY
+text: Joel stares out at the ocean. Far down the beach Clementine
+text: stares at it, too. Joel glances sideways at her then back at
+dialog: the ocean.
+scene_heading: EXT. MONTAUK TRAIN STATION PLATFORM - LATE AFTERNOON
+text: Joel sits on the bench waiting for a train. Clementine
+text: enters the platform, sees Joel, the only other person there.
+text: She waves, sort of goofily enthusiastic, playing as if
+text: they're old friends. He waves back, embarrassed. She takes
+text: a seat on a bench far down the platform. Joel stares at his
+text: hands, pulls out his journal and tries to write in order to
+text: conceal his awkwardness.
+scene_heading: INT. TRAIN - A BIT LATER
+text: Joel sits at the far end of the empty car and watches the
+text: slowly passing desolate terrain. After a moment the door
+text: between cars opens and Clementine enters. Joel looks up.
+text: Clementine is not looking at him; she busies herself deciding
+text: where to sit. She settles on a seat at the opposite end of
+text: the car. Joel looks out the window. He feels her watching
+text: him. The train is picking up speed. Finally:
+speaker_heading: CLEMENTINE
+dialog: (calling over the rumble)
+dialog: Hi!
+text: Joel looks over.
+speaker_heading: JOEL
+dialog: I'm sorry.
+speaker_heading: CLEMENTINE
+dialog: Why?
+speaker_heading: JOEL
+dialog: Why what?
+speaker_heading: CLEMENTINE
+dialog: Why are you sorry? I just said hi.
+speaker_heading: JOEL
+dialog: No, I didn't know if you were talking to
+dialog: me, so...
+text: She looks around the empty car.
+speaker_heading: CLEMENTINE
+dialog: Really?
+speaker_heading: JOEL
+dialog: (embarrassed)
+dialog: Well, I didn't want to assume.
+speaker_heading: CLEMENTINE
+dialog: Aw, c'mon, live dangerously. Take the
+dialog: leap and assume someone is talking to you
+text: in an otherwise empty car.
+speaker_heading: JOEL
+dialog: Anyway. Sorry. Hi.
+text: Clementine makes her way down the aisle towards Joel.
+speaker_heading: CLEMENTINE
+dialog: It's okay if I sit closer? So I don't
+dialog: have to scream. Not that I don't need to
+dialog: scream sometimes, believe me.
+dialog: (pause)
+dialog: But I don't want to bug you if you're
+dialog: trying to write or something.
+speaker_heading: JOEL
+dialog: No, I mean, I don't know. I can't really
+dialog: think of much to say probably.
+speaker_heading: CLEMENTINE
+dialog: Oh. So...
+text: She hesitates in the middle of the car, looks back where she
+dialog: came from.
+speaker_heading: JOEL
+dialog: I mean, it's okay if you want to sit down
+dialog: here. I didn't mean to --
+speaker_heading: CLEMENTINE
+dialog: No, I don't want to bug you if you're
+dialog: trying to --
+speaker_heading: JOEL
+dialog: It's okay, really.
+speaker_heading: CLEMENTINE
+dialog: Just, you know, to chat a little, maybe.
+dialog: I have a long trip ahead of me.
+dialog: (sits across aisle from Joel)
+dialog: How far are you going? On the train, I
+dialog: mean, of course.
+speaker_heading: JOEL
+dialog: Rockville Center.
+speaker_heading: CLEMENTINE
+dialog: Get out! Me too! What are the odds?
+speaker_heading: JOEL
+dialog: The weirder part is I think actually I
+dialog: recognize you. I thought that earlier in
+dialog: the diner. That's why I was looking at
+dialog: you. You work at Borders, right?
+speaker_heading: CLEMENTINE
+dialog: Ucch, really? You're kidding. God.
+dialog: Bizarre small world, huh? Yeah, that's
+dialog: me: book slave there for, like, five
+dialog: years now.
+speaker_heading: JOEL
+dialog: Really? Because --
+speaker_heading: CLEMENTINE
+dialog: Jesus, is it five years? I gotta quit
+dialog: right now.
+speaker_heading: JOEL
+dialog: -- because I go there all the time. I
+dialog: don't think I ever saw you before.
+speaker_heading: CLEMENTINE
+text: Well, I'm there. I hide in the back as
+dialog: much as is humanly possible. You have a
+dialog: cell phone? I need to quit right this
+dialog: minute. I'll call in dead.
+speaker_heading: JOEL
+dialog: I don't have one.
+speaker_heading: CLEMENTINE
+dialog: I'll go on the dole. Like my daddy
+dialog: before me.
+speaker_heading: JOEL
+dialog: I noticed your hair. I guess it made an
+dialog: impression on me, that's why I was pretty
+dialog: sure I recognized you.
+speaker_heading: CLEMENTINE
+dialog: Ah, the hair.
+text: (pulls a strand in front of her
+dialog: eyes, studies it)
+dialog: Blue, right? It's called Blue Ruin. The
+dialog: color. Snappy name, huh?
+speaker_heading: JOEL
+dialog: I like it.
+speaker_heading: CLEMENTINE
+dialog: Blue ruin is cheap gin in case you were
+dialog: wondering.
+speaker_heading: JOEL
+dialog: Yeah. Tom Waits says it in --
+speaker_heading: CLEMENTINE
+dialog: Exactly! Tom Waits. Which song?
+speaker_heading: JOEL
+dialog: I can't remember.
+speaker_heading: CLEMENTINE
+dialog: Anyway, this company makes a whole line
+text: of colors with equally snappy names. Red
+dialog: Menace, Yellow Fever, Green Revolution.
+dialog: That'd be a job, coming up with those
+dialog: names. How do you get a job like that?
+dialog: That's what I'll do. Fuck the dole.
+speaker_heading: JOEL
+dialog: I don't really know how --
+speaker_heading: CLEMENTINE
+text: Purple Haze, Pink Eraser.
+speaker_heading: JOEL
+dialog: You think that could possibly be a full
+dialog: time job? How many hair colors could
+dialog: there be?
+speaker_heading: CLEMENTINE
+dialog: (pissy)
+dialog: Someone's got that job.
+dialog: (excited)
+dialog: Agent Orange! I came up with that one.
+dialog: Anyway, there are endless color
+dialog: possibilities and I'd be great at it.
+speaker_heading: JOEL
+dialog: I'm sure you would.
+speaker_heading: CLEMENTINE
+dialog: My writing career! Your hair written by
+dialog: Clementine Kruczynski.
+dialog: (thought)
+dialog: The Tom Waits album is Rain Dogs.
+speaker_heading: JOEL
+dialog: You sure? That doesn't sound --
+speaker_heading: CLEMENTINE
+dialog: I think. Anyway, I've tried all their
+dialog: colors. More than once. I'm getting too
+dialog: old for this. But it keeps me from
+dialog: having to develop an actual personality.
+dialog: I apply my personality in a paste. You?
+speaker_heading: JOEL
+dialog: Oh, I doubt that's the case.
+speaker_heading: CLEMENTINE
+dialog: Well, you don't know me, so... you don't
+dialog: know, do you?
+speaker_heading: JOEL
+dialog: Sorry. I was just trying to be nice.
+speaker_heading: CLEMENTINE
+dialog: Yeah, I got it.
+text: There's a silence.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: My name's Clementine, by the way.
+speaker_heading: JOEL
+dialog: I'm Joel.
+speaker_heading: CLEMENTINE
+dialog: No jokes about my name? Oh, you wouldn't
+dialog: do that; you're trying to be nice.
+speaker_heading: JOEL
+dialog: I don't know any jokes about your name.
+speaker_heading: CLEMENTINE
+dialog: Huckleberry Hound?
+speaker_heading: JOEL
+dialog: I don't know what that means.
+speaker_heading: CLEMENTINE
+dialog: Huckleberry Hound! What, are you nuts?
+speaker_heading: JOEL
+dialog: I'm nut nuts.
+speaker_heading: CLEMENTINE
+dialog: (singing)
+dialog: Oh my darlin', oh my darlin', oh my
+dialog: darlin' Clementine? No?
+speaker_heading: JOEL
+dialog: Sorry. It's a pretty name, though. It
+dialog: means "merciful", right?
+speaker_heading: CLEMENTINE
+dialog: (impressed)
+dialog: Yeah. Although it hardly fits. I'm a
+dialog: vindictive little bitch, truth be told.
+speaker_heading: JOEL
+dialog: See, I wouldn't think that about you.
+speaker_heading: CLEMENTINE
+dialog: (pissy)
+dialog: Why wouldn't you think that about me?
+speaker_heading: JOEL
+dialog: Oh. I don't know. I was just... I don't
+dialog: know. I was... You seemed nice, so --
+speaker_heading: CLEMENTINE
+dialog: Now I'm nice? Don't you know any other
+dialog: adjectives? There's careless and snotty
+dialog: and overbearing and argumentative...
+dialog: mumpish.
+speaker_heading: JOEL
+dialog: Well, anyway... Sorry.
+text: They sit in silence for a while.
+speaker_heading: CLEMENTINE
+dialog: I just don't think "nice" is a
+dialog: particularly interesting thing to be.
+text: The conductor enters the car.
+speaker_heading: CONDUCTOR
+dialog: Tickets.
+text: Joel hands the conductor his ticket. The conductor punches
+text: it and hands it back.
+speaker_heading: CLEMENTINE
+dialog: What is nice, anyway? I mean, besides an
+dialog: adjective? I guess it can be an adverb,
+dialog: sort of.
+text: The conductor turns to Clementine. She fishes in her bag.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: It doesn't reveal anything. Nice is
+text: pandering. Cowardly.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: And life is more interesting than that.
+dialog: Or should be. Jesus God, I hope it is...
+dialog: someday.
+dialog: (to conductor)
+dialog: I know it's here.
+text: The conductor and Joel watch as she gets more agitated.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: I don't need nice. I don't need myself
+dialog: to be it and I don't need anyone else to
+dialog: be it at me.
+speaker_heading: JOEL
+dialog: Okay.
+speaker_heading: CLEMENTINE
+dialog: Shit. Shit. I know it's here. Hold on.
+text: She dumps the contents of the bag onto the seat and sifts
+text: frantically through. Joel sees the book she was reading in
+text: the diner. It's The Play by Stephen Dixon.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Damn it. DAMN IT!
+dialog: (there it is)
+dialog: Oh. Here.
+text: She hands the conductor the tickets, smiles sweetly. He
+text: punches it, hands it back to her, and walks away.
+speaker_heading: CONDUCTOR
+dialog: Next stop Southampton.
+text: The conductor heads into the next car. Clementine shoves
+text: stuff back into her purse. Her hands are a little shaky.
+text: She pulls a airline-sized bottle of alcohol from her pocket,
+text: opens it, and downs it. Joel is watching all of this but
+text: pretending not to. She looks out the window for a while.
+text: The train pulls into the station. The doors open. Nobody
+text: gets on. The doors close. The train pulls out.
+speaker_heading: CLEMENTINE
+dialog: Joel? It's Joel, right?
+speaker_heading: JOEL
+dialog: Yes?
+speaker_heading: CLEMENTINE
+dialog: I'm sorry I... yelled at you. Was it
+dialog: yelling? I can't really tell. Whatever,
+dialog: I'm a little out of sorts today.
+speaker_heading: JOEL
+dialog: That's okay.
+speaker_heading: CLEMENTINE
+dialog: (stares out window)
+dialog: My embarrassing admission is I really
+dialog: like that you're nice. Right now,
+dialog: anyway. I can't tell from one moment to
+dialog: the next what I'm going to like. But
+dialog: right now I'm glad you said, "that's
+dialog: okay" to me. That was nice of you.
+speaker_heading: JOEL
+dialog: It's no problem. Anyway, I have some
+dialog: stuff I need to --
+speaker_heading: CLEMENTINE
+dialog: Oh, okay. Well, sure, I'll just...
+text: (stands, throws bag over
+dialog: shoulder)
+dialog: Take care, then.
+speaker_heading: JOEL
+dialog: (pulling journal from
+dialog: briefcase)
+dialog: Probably see you at the book store.
+speaker_heading: CLEMENTINE
+dialog: (heading toward other end of
+dialog: car)
+dialog: Unless I get that hair-color-naming job.
+text: Clementine sits and stares out the window.
+scene_heading: INT. TRAIN - LATER
+text: There are a few more people in the car now. Clementine has
+text: inched a few seats closer to Joel. She watches him. His
+text: head is immersed in his journal.
+scene_heading: INT. TRAIN - LATER
+text: It's dark out. The train is pretty crowded. Joel stares out
+text: the window. Clementine sits closer still to Joel, eyes him.
+scene_heading: EXT. TRAIN STATION - EVENING
+text: The doors open and Joel emerges along with others. He heads
+text: to the parking lot, arrives at the car. There's a big dented
+text: scrape along the driver's side. He gets in.
+scene_heading: INT. CAR - MOMENTS LATER
+text: Joel drives. He passes Clementine walking. She looks cold.
+text: He considers, slows, rolls down his window.
+speaker_heading: JOEL
+dialog: Hi. I could give you a ride if you need.
+speaker_heading: CLEMENTINE
+dialog: No, that's okay. Thanks, though.
+speaker_heading: JOEL
+dialog: You're sure? It's cold.
+speaker_heading: CLEMENTINE
+dialog: I don't want to take you out of your way.
+speaker_heading: JOEL
+dialog: It's okay.
+speaker_heading: CLEMENTINE
+dialog: Yeah?
+text: He pulls over. She climbs in. They drive.
+speaker_heading: JOEL
+dialog: Where do you live?
+speaker_heading: CLEMENTINE
+dialog: You're not a stalker or anything, right?
+speaker_heading: JOEL
+dialog: Well, I probably wouldn't say if I were,
+dialog: but no.
+speaker_heading: CLEMENTINE
+dialog: You can't be too careful. I've been
+dialog: stalked. I've been told I'm highly
+dialog: stalkable. I don't need that.
+speaker_heading: JOEL
+dialog: I'm not a stalker.
+speaker_heading: CLEMENTINE
+dialog: (beat)
+dialog: You know Wilmont?
+speaker_heading: JOEL
+dialog: Yeah.
+speaker_heading: CLEMENTINE
+text: Wilmont. Near the high school.
+text: Joel turns. They drive in silence.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Look, I'm very sorry I came off sort of
+dialog: nutso. I'm not really.
+speaker_heading: JOEL
+dialog: It's okay. I didn't think you were.
+text: There's a silence.
+speaker_heading: CLEMENTINE
+dialog: So you like bookstores, huh?
+speaker_heading: JOEL
+dialog: I like to read.
+speaker_heading: CLEMENTINE
+dialog: Me too. It is Rain Dogs, by the way.
+speaker_heading: JOEL
+dialog: Yeah? I can't remember that album very
+dialog: well. I remember liking it. But --
+speaker_heading: CLEMENTINE
+dialog: The song's 9th and Hennepin. I spent
+text: most of the train ride trying to
+dialog: remember. "Till you're full of rag water
+dialog: and bitters and blue ruin/And you spill
+dialog: out/Over the side to anyone who'll
+dialog: listen." Remember?
+speaker_heading: JOEL
+dialog: Sort of, um...
+speaker_heading: CLEMENTINE
+dialog: Remember? "And you take on the dreams of
+dialog: the ones who have slept there/And I'm
+dialog: lost in the window/I hide on the
+dialog: stairway/I hang in the curtain/I sleep in
+dialog: your hat..."
+dialog: (starts to cry)
+dialog: Oh, shit. I'm so stupid. Sorry.
+speaker_heading: JOEL
+dialog: What?
+speaker_heading: CLEMENTINE
+dialog: I'm just a bit of a wreck. "I sleep in
+dialog: your hat" makes me cry.
+dialog: (pointing to a house)
+dialog: Me.
+text: Joel pulls over.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Thanks very much. That was very nice of
+dialog: you.
+speaker_heading: JOEL
+dialog: Well, I wouldn't want to be --
+speaker_heading: CLEMENTINE
+dialog: Oh, geez, I'm full of shit. I already
+dialog: told you that.
+dialog: (pause)
+dialog: Anyway. See Ya.
+text: Clementine opens the car door.
+speaker_heading: JOEL
+dialog: Take care.
+speaker_heading: CLEMENTINE
+dialog: (turning back)
+dialog: Hey, do you want to have a drink? I have
+dialog: lots of drinks. And I could --
+speaker_heading: JOEL
+dialog: Um --
+speaker_heading: CLEMENTINE
+dialog: Never mind. Sorry, that was stupid. I'm
+dialog: embarrassed. Good night, Joel.
+scene_heading: INT. CLEMENTINE'S APARTMENT - A FEW MINUTES LATER
+text: Joel stands in the living room, somewhat nervously. He tries
+text: to calm himself by focusing on the surroundings. He looks at
+text: the books on her shelves. Clementine is in the kitchen. We
+text: see her as she passes by the doorway several times, preparing
+text: drinks and chatting.
+speaker_heading: CLEMENTINE
+dialog: Thanks. I like it, too. Been here about
+dialog: four years. It's really cheap. My
+text: downstairs neighbor is old so she's
+dialog: quiet, which is great. And the
+text: landlord's sweet, which is bizarre, but
+dialog: great, and I have a little porch in the
+dialog: back, which is great, because I can read
+dialog: there, and listen to my crickets and...
+text: Clementine is in the living room now with two gin and tonics.
+speaker_heading: CLEMENTINE (CONT'D)
+text: Two blue ruins...
+text: Joel is looking at a framed black and white photograph of
+text: crows flying.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: You like that?
+speaker_heading: JOEL
+dialog: Very much.
+speaker_heading: CLEMENTINE
+dialog: This... someone gave that to me, just
+dialog: like, recently. I like it, too. I like
+dialog: crows. I think I used to be a crow.
+text: She caws and hands Joel a drink.
+speaker_heading: JOEL
+dialog: Thanks. That was good, that crow sound.
+speaker_heading: CLEMENTINE
+dialog: Do you believe in that stuff?
+dialog: Reincarnation?
+speaker_heading: JOEL
+dialog: I don't know.
+speaker_heading: CLEMENTINE
+dialog: Me neither. Oh, there's an inscription
+text: on the back.
+dialog: (takes it off the wall, reads:)
+dialog: The way a crow/Shook down on me/The dust
+dialog: of snow/From a hemlock tree/Has given my
+dialog: heart/A change of mood/And saved some
+dialog: part/Of a day I rued.
+speaker_heading: JOEL
+dialog: Frost?
+speaker_heading: CLEMENTINE
+dialog: (impressed)
+dialog: Yeah. I'm not, like, a Robert Frost
+dialog: lover by any stretch. His stuff seems
+dialog: strictly grade school to me. But this
+dialog: made me cry for some reason. Maybe
+dialog: because it is grade school. Y'know?
+speaker_heading: JOEL
+dialog: It's pretty.
+speaker_heading: CLEMENTINE
+dialog: I miss grade school. I don't know why
+dialog: I'm calling it grade school all of a
+dialog: sudden. When I went we called it
+dialog: elementary school. But I like grade
+dialog: school better. Sounds like something
+dialog: someone from the forties would call it.
+dialog: I'd like to be from then. Everyone wore
+dialog: hats. Anyway, cheers!
+speaker_heading: JOEL
+dialog: Cheers.
+text: They click glasses. Clementine giggles and takes a big gulp
+text: of her drink. Joel sips. She plops down on the couch and
+text: pulls her boots off.
+speaker_heading: CLEMENTINE
+dialog: God, that feels so fucking good. Take
+dialog: yours off.
+speaker_heading: JOEL
+dialog: I'm fine.
+speaker_heading: CLEMENTINE
+dialog: Yeah? Well, have a seat, anyway.
+text: Joel sits in a chair across the room. Clementine finishes
+text: her drink.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Ready for another?
+speaker_heading: JOEL
+dialog: No, I'm okay for now.
+text: She heads toward the kitchen with her glass.
+speaker_heading: CLEMENTINE
+dialog: Well, I'm ready. Put some music on.
+text: Joel crosses to the CD's and studies them.
+speaker_heading: JOEL
+dialog: What do you want to hear?
+speaker_heading: CLEMENTINE (O.S.)
+dialog: You pick it.
+speaker_heading: JOEL
+dialog: You just say. I'm not really --
+speaker_heading: CLEMENTINE (O.S.)
+dialog: I don't know! I can't see them from
+dialog: here, Joel! Just pick something good.
+text: Joel studies the unfamiliar CD's. He picks up Bang On a Can
+text: performing Brian Eno's Music for Airports to look at.
+text: Clementine reenters with her drink.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Oh, excellent choice.
+text: She grabs it and sticks it in the CD player. The music is
+text: dreamy and haunting and slow. Clementine falls back onto the
+text: couch, closes her eyes and sips her drink.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Mmmmmmm. Way to go, Joel. You pick
+dialog: good.
+text: Joel sits down in his chair and drinks. There's a silence,
+text: which seems fine to Clementine but makes Joel anxious.
+speaker_heading: JOEL
+dialog: Well, I should probably get going.
+speaker_heading: CLEMENTINE
+dialog: No, stay. Just for a little while.
+text: (opens her eyes, brightly)
+dialog: Refill?
+speaker_heading: JOEL
+dialog: No. I --
+speaker_heading: CLEMENTINE
+dialog: I know a man who needs a refill.
+text: She grabs Joel's drink from his hand, takes it into the
+dialog: kitchen.
+speaker_heading: CLEMENTINE (CONT'D) (O.S.) (CONT'D)
+dialog: God bless alcohol, is what I say. Where
+dialog: would I be without it. Oh, Jesus, Mary,
+dialog: and Joseph, maybe I don't want to think
+dialog: about that.
+text: She giggles. Joel looks around the room again. There are
+text: several potatoes dressed as women in beautiful handmade
+text: costumes: a nurse potato, a stripper potato, a schoolteacher
+text: potato, a housewife potato. Clementine returns with Joel's
+text: drink and a refill for herself.
+speaker_heading: JOEL
+dialog: Thanks.
+speaker_heading: CLEMENTINE
+dialog: Drink up, young man. It'll make the
+text: whole seduction part less repugnant.
+text: Joel looks a little alarmed.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: I'm just kidding. C'mon.
+text: She sits back on the couch, closes her eyes. Joel watches
+text: her, looks at her breasts. She opens her eyes, smiles
+text: drunkenly at him.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Y'know, I'm sort of psychic.
+speaker_heading: JOEL
+dialog: Yeah?
+speaker_heading: CLEMENTINE
+dialog: Well, I go to a psychic and she's always
+dialog: telling me I'm psychic. She should know.
+dialog: Do you believe in that stuff?
+speaker_heading: JOEL
+dialog: I don't know.
+speaker_heading: CLEMENTINE
+dialog: Me neither. But sometimes I have
+dialog: premonitions, so, I don't know. Maybe
+dialog: that's just coincidence. Right? Y'know,
+dialog: you think something and then it happens,
+dialog: or you think a word and then someone says
+dialog: it? Y'know?
+speaker_heading: JOEL
+dialog: Yeah, I don't know. It's hard to know.
+speaker_heading: CLEMENTINE
+dialog: Exactly. Exactly! That's exactly my
+text: feeling about it. It's hard to know.
+dialog: Like, okay, but how many times do I think
+dialog: something and it doesn't happen? That's
+dialog: what you're saying, right? You forget
+dialog: about those times. Right?
+speaker_heading: JOEL
+dialog: Yeah, I guess.
+speaker_heading: CLEMENTINE
+dialog: (dreamy beat)
+dialog: But I think I am. I like to think I am.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: It's helpful to think there's some order
+dialog: to things. You're kind of closed
+dialog: mouthed, aren't you?
+speaker_heading: JOEL
+dialog: Sorry. My life isn't that interesting.
+dialog: I go to work. I go home. I don't know
+dialog: what to say.
+speaker_heading: CLEMENTINE
+dialog: Oh.
+dialog: (considers this)
+dialog: Does that make you sad? Or anxious? I'm
+dialog: always anxious thinking I'm not living my
+dialog: life to the fullest, y'know? Taking
+dialog: advantage of every possibility? Just
+dialog: making sure that I'm not wasting one
+dialog: second of the little time I have.
+speaker_heading: JOEL
+dialog: I think about that.
+text: She looks at him really hard for a long moment. Joel tries
+text: to hold her gaze, but can't. He looks down at his drink.
+text: Clementine starts to cry again.
+speaker_heading: CLEMENTINE
+dialog: You're really nice. I'm sorry I yelled
+dialog: at you before about it. God, I'm an
+dialog: idiot.
+speaker_heading: JOEL
+dialog: I do have a tendency to use that word too
+dialog: much.
+speaker_heading: CLEMENTINE
+dialog: I like you. That's the thing about my
+dialog: psychic thing. I think that's my
+dialog: greatest psychic power, that I get a
+dialog: sense about people. My problem is I
+dialog: never trust it. But I get it. And with
+dialog: you I get that you're a really good guy.
+speaker_heading: JOEL
+dialog: Thanks.
+speaker_heading: CLEMENTINE
+dialog: And, anyway, you sell yourself short. I
+dialog: can tell. There's a lot of stuff going
+dialog: on in your brain. I can tell. My
+dialog: goal... can I tell you my goal?
+speaker_heading: JOEL
+dialog: Yeah.
+speaker_heading: CLEMENTINE
+dialog: (ala Paul Simon)
+dialog: What's the goal, Joel?
+dialog: (laughs)
+dialog: My goal, Joel, is to just let it flow
+dialog: through me? Do you know what I mean?
+dialog: It's like, there's all these emotions and
+text: ideas and they come quick and they change
+text: and they leave and they come back in a
+dialog: different form and I think we're all
+dialog: taught we should be consistent. Y'know?
+dialog: You love someone -- that's it. Forever.
+dialog: You choose to do something with your life
+dialog: -- that's it, that's what you do. It's a
+dialog: sign of maturity to stick with that and
+dialog: see things through. And my feeling is
+dialog: that's how you die, because you stop
+dialog: listening to what is true, and what is
+dialog: true is constantly changing. You know?
+speaker_heading: JOEL
+dialog: Yeah. I think so. It's hard to --
+speaker_heading: CLEMENTINE
+dialog: Like I wanted to talk to you. I didn't
+dialog: need any more reason to do it. Who knows
+dialog: what bigger cosmic reason might exist?
+speaker_heading: JOEL
+dialog: Yeah.
+speaker_heading: CLEMENTINE
+dialog: You're very nice. God, I have to stop
+dialog: saying that. You're nervous around me,
+dialog: huh?
+speaker_heading: JOEL
+dialog: No.
+speaker_heading: CLEMENTINE
+dialog: I'm nervous. You don't need to be
+dialog: nervous around me, though. I like you.
+dialog: Do you think I'm repulsively fat?
+speaker_heading: JOEL
+dialog: No, not at all.
+speaker_heading: CLEMENTINE
+dialog: I don't either. I used to. But I'm
+dialog: through with that. Y'know, if I don't
+dialog: love my body, then I'm just lost. You
+dialog: know?
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: With all the wrinkles and scars and the
+dialog: general falling apart that's coming
+dialog: 'round the bend.
+dialog: (beat)
+dialog: So, I've been seeing this guy...
+text: Joel looks slightly crestfallen.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: (off his reaction)
+dialog: Well, for the last week, anyway! He's
+dialog: kind of a kid. Kind of a goofball, but
+dialog: he's really stuck on me, which is
+dialog: flattering. Who wouldn't like that? And
+dialog: he's, like, a dope, but he says these
+dialog: smart and moving things sometimes, out of
+dialog: nowhere, that just break my heart. He's
+dialog: the one who gave me that crow photograph.
+speaker_heading: JOEL
+dialog: Oh, yeah.
+speaker_heading: CLEMENTINE
+dialog: That made me cry. But, anyway, we went
+dialog: up to Boston, because I had this urge to
+dialog: lie on my back on the Charles River. It
+dialog: gets frozen this time of year.
+speaker_heading: JOEL
+dialog: That's scary sounding.
+speaker_heading: CLEMENTINE
+dialog: Exactly! I used to do it in college and
+dialog: I had this urge to go do it again, so I
+dialog: got Patrick and we drove all night to get
+dialog: there and he was sweet and said nice
+dialog: things to me, but I was really
+text: disappointment to be there with him.
+dialog: Y'know? And that's where psychic stuff
+dialog: comes in. Like, it just isn't right with
+dialog: him. Y'know?
+speaker_heading: JOEL
+dialog: I think so.
+speaker_heading: CLEMENTINE
+dialog: I don't believe in that soulmate crap
+dialog: anymore, but... he says so many great
+dialog: things. We like the same writers. This
+dialog: writer Stephen Dixon he turned me on to.
+dialog: And he's cute. It's fucked up. Joel,
+dialog: you should come up to the Charles with me
+dialog: sometime.
+speaker_heading: JOEL
+dialog: Okay.
+speaker_heading: CLEMENTINE
+dialog: Yeah? Oh, great!
+text: She sits closer to him.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: I'll pack a picnic -- a night picnic --
+dialog: night picnics are different -- and --
+speaker_heading: JOEL
+dialog: (shy)
+dialog: Sounds good. But right now I should go.
+speaker_heading: CLEMENTINE
+dialog: (pause)
+dialog: You should stay.
+speaker_heading: JOEL
+dialog: I have to get up early in the morning
+dialog: tomorrow, so...
+speaker_heading: CLEMENTINE
+dialog: (beat)
+dialog: Okay.
+text: Joel puts on his overcoat. Clementine heads to the phone
+text: table, pulls out a notepad.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: I would like you to call me. Would you
+dialog: do that? I would like that.
+speaker_heading: JOEL
+dialog: Yes.
+text: She scribbles her phone number, hands it to him. He puts it
+text: in his pocket. He stands there uncomfortably for a moment,
+text: then forces himself to speak.
+speaker_heading: JOEL (CONT'D)
+dialog: I don't think your personality comes out
+dialog: of a tube. I think the hair is just... a
+dialog: pretty topping.
+text: She tears up, swallows, and kisses him on the cheek. He's
+text: surprised and pleased and nervous.
+speaker_heading: JOEL (CONT'D)
+dialog: (shyly formal)
+dialog: So, I enjoyed meeting you.
+speaker_heading: CLEMENTINE
+dialog: You'll call me, right?
+speaker_heading: JOEL
+dialog: Yeah.
+speaker_heading: CLEMENTINE
+dialog: When?
+speaker_heading: JOEL
+dialog: Tomorrow?
+speaker_heading: CLEMENTINE
+dialog: Tonight. Just to test out the phone
+dialog: lines and all.
+speaker_heading: JOEL
+dialog: Okay.
+text: We stay with Clementine as she watches Joel tromping through
+text: the snow and getting in his car.
+scene_heading: INT. JOEL'S CAR - NIGHT
+text: Joel speeds through the suburban Rockville Center
+text: neighborhood. There is no snow on the ground. He seems
+text: different, somehow foggy and disoriented.
+scene_heading: SUBTITLE: THREE DAYS EARLIER
+text: He arrives at his apartment building and parks.
+scene_heading: EXT. JOEL'S APARTMENT BUILDING - CONTINUOUS
+text: Joel gets out of his car, spots a van parked across the
+text: street. There are two dark figures inside.
+speaker_heading: VOICE-OVER
+dialog: Them.
+text: He hurries inside the building.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel enters, dumps his overcoat on a chair, turns off the
+text: lights, crosses to look furtively out the window. It's
+text: snowing in large flakes which seem to fall only in the beam
+text: of a streetlight.
+speaker_heading: JOEL
+text: It was snowing.
+speaker_heading: VOICE-OVER
+dialog: There are two of them. Couldn't make
+text: them out. The orange glow of a
+dialog: cigarette.
+text: Joel squints to see inside the van. Two dark figures talk.
+text: One sucks on a cigarette and s dim orange light momentarily
+text: illuminates the interior. The figure in the driver seat
+text: rolls down his window and gives a cheery wave to Joel.
+speaker_heading: JOEL
+text: The driver waved. So casual, friendly.
+speaker_heading: VOICE-OVER
+dialog: I'm like a joke to them.
+text: Joel pulls away from the window, his face blanched.
+speaker_heading: VOICE-OVER
+dialog: I guess they figure they can act like
+dialog: they want. They don't have to worry
+dialog: about me remembering.
+text: He paces, mulling things over. As he does, the scene starts
+text: to change, almost as if it is drying out.
+speaker_heading: JOEL
+dialog: I might be making a mistake.
+speaker_heading: VOICE-OVER
+dialog: Maybe I'm making a mistake. Maybe I just
+dialog: need to learn to live with this. First
+dialog: of all, I'll get over it. Secondly, it
+dialog: happened. Those who do not remember
+dialog: history are condemned to repeat it. Who
+dialog: said that? Churchill? I'm not sure.
+dialog: But I don't care. She did it to me. I
+dialog: have to rid myself of this. Fuck her.
+speaker_heading: JOEL
+dialog: Fuck you, Clementine.
+text: The colors bleach, the surroundings become slightly vague.
+text: Even Joel's persona and voice-over seem to alter, his
+text: emotional intensity becoming diffused. Joel does not seem
+text: aware of this. He stops pacing, takes a small vial from his
+text: pocket, dumps the lone pill onto his palm. He looks at it.
+text: It's pink. There's some illegible initials stamped on it.
+speaker_heading: JOEL (CONT'D)
+dialog: Pink.
+dialog: (beat)
+dialog: There was a number on it. I remember.
+dialog: AL 1718?
+dialog: (beat)
+dialog: I have to follow through with this. I
+dialog: have no choice.
+speaker_heading: VOICE-OVER
+dialog: The pill was pink, I remember. It had
+dialog: some letters and numbers on it. What
+dialog: were they? AL 1718? AL something. Four
+dialog: digits. I don't like taking pills when I
+dialog: don't know what they are. I have no
+dialog: choice.
+text: He swallows it, peeks out the window again, takes off his
+text: clothes, slips into a pair of pajamas fresh from the store
+text: packaging. He sits on the edge of the bed, dials the phone.
+speaker_heading: JOEL (CONT'D)
+dialog: We're sorry, the number you have
+dialog: dialed...
+dialog: (beat)
+dialog: Screw you, Clementine, for doing this ...
+speaker_heading: RECORDED VOICE
+dialog: We're sorry, the number you have dialed
+dialog: is no longer in service. If you think
+dialog: you have reached this recording in error
+dialog: -
+speaker_heading: JOEL (CONT'D)
+dialog: Bye.
+text: Joel hangs up and lies on his back on the bed. By now the
+text: scene is lifeless, almost a husk. He hears the apartment
+text: building door open. He hears footsteps.
+speaker_heading: JOEL (CONT'D)
+dialog: It's them.
+speaker_heading: VOICE-OVER
+text: It's too late.
+text: His eyelids are getting heavy. He closes his eyes.
+speaker_heading: BLACK.
+text: He hears a key in his apartment door.
+speaker_heading: JOEL (CONT'D)
+dialog: Fuck.
+scene_heading: INT. BOOKSTORE - NIGHT
+text: Joel sits in the bookstore coffee shop. It's a jarring
+text: transition, visually and emotionally. Joel is in the midst
+text: of some traumatic state of mind.
+text: He fingers the vial with the pink pill in it as he watches
+text: Clementine stack books on shelves. Her hair is bright orange
+dialog: now.
+speaker_heading: JOEL
+dialog: I should maybe talk to you.
+speaker_heading: VOICE-OVER
+dialog: Clementine. I should just maybe talk to
+dialog: her.
+text: Joel rises and heads toward Clementine.
+speaker_heading: JOEL
+dialog: I love you and if you knew that... if I
+dialog: told you what happened... I'll explain
+dialog: everything, what we meant to each other.
+dialog: I'll tell you everything about our time
+dialog: together. You'll know everything again
+dialog: and...
+speaker_heading: VOICE-OVER
+dialog: Maybe if I just explain what happened, I
+dialog: wouldn't have to go through this and I
+dialog: could tell you everything and it would be
+dialog: like you knew and we could rebuild and we
+dialog: could be happy again and...
+text: Right before Joel gets there, Patrick, a skinny young man
+text: approaches Clementine. Joel stops, watches. The young man
+text: seems out of breath. He glances over at Joel, then taps
+text: Clementine on the shoulder. She turns, annoyed, sees who it
+text: is and her face lights up.
+speaker_heading: JOEL
+dialog: Clementine.
+speaker_heading: VOICE-OVER
+dialog: That's your look for me.
+text: Clementine giggles, stands and pokes Patrick playfully in the
+dialog: ribs.
+speaker_heading: PATRICK
+dialog: I just thought I'd say hi. I was in the
+dialog: neighborhood.
+speaker_heading: CLEMENTINE
+dialog: You were not.
+speaker_heading: PATRICK
+dialog: I was not.
+text: Joel is mesmerized by their familiarity. As he stands there,
+text: the scene starts to dry out.
+text: Clementine and Patrick continue their flirtation but it's
+text: turning lifeless, as if they are just reciting lines. The
+text: bookstore start to lose its color and immediacy.
+speaker_heading: CLEMENTINE
+dialog: Come over after I'm done here?
+speaker_heading: PATRICK
+dialog: I can't. I want to, but I have to study.
+speaker_heading: CLEMENTINE
+dialog: You rat.
+speaker_heading: PATRICK
+dialog: I really want to, but tonight's
+dialog: important. Test tomorrow.
+speaker_heading: JOEL
+dialog: How could she have done this to me? How
+dialog: could anyone do this to anyone?
+speaker_heading: CLEMENTINE
+dialog: (to Patrick)
+dialog: You didn't say anything about my hair.
+speaker_heading: PATRICK
+dialog: It's so cool. You're by far the most
+text: sensational person in the room.
+speaker_heading: CLEMENTINE
+dialog: In the room?
+speaker_heading: PATRICK
+dialog: In the world.
+text: Joel seems dazed, in some sort of dream confusion, as he
+text: realizes the world around him is looking increasingly odd.
+speaker_heading: JOEL
+dialog: What's happening here?
+dialog: (looks at watch; it's 9:30)
+dialog: Oh, God! I have to go home. They'll be
+dialog: there soon.
+text: Joel turns to leave.
+scene_heading: INT. JOEL'S CAR - NIGHT
+text: Joel drives fast, recklessly. The intensity is back. He's
+text: weeping as he drives.
+speaker_heading: JOEL
+dialog: Gotta get home. How could she do this to
+dialog: me?
+dialog: How could she not care about what we
+dialog: meant to each other. What a fuck! What
+dialog: a fucking monster she is!
+speaker_heading: VOICE-OVER
+dialog: Oh, God. I miss her. I can't believe
+dialog: she's with that guy now! I'm never going
+dialog: to see her again. I love her so much.
+dialog: What a fucking monster she is!
+text: The scene is faded as he parks in front of his apartment
+text: building, and gets out of the car. Joel spots the parked
+text: van. We've seen this before, but it's dried out now.
+speaker_heading: JOEL
+dialog: Them.
+scene_heading: EXT. NEW YORK STREET - DAY
+text: Joel trudges along carrying two big trash bags full of stuff.
+text: He's been crying. He looks behind him and finds himself
+text: looking out the window of his apartment at the dark van on
+text: the snowy street. He turns back to the New York Street and
+text: spots the address he was looking for: 610 11th Avenue.
+scene_heading: INT. WAITING ROOM - DAY
+text: Joel sits in the small room with his bags. A woman across
+text: from him cradles a box full of belongings in her lap. Her
+text: eyes are red from crying. Mary, the receptionist, pokes her
+text: head through her window into the waiting room.
+speaker_heading: MARY
+dialog: Hello again, Mr. Barish. Good, you've
+dialog: got your stuff.
+scene_heading: INT. HALLWAY - DAY
+text: Joel walks with his bags behind Mary.
+speaker_heading: MARY
+dialog: (not looking back)
+dialog: How are you today?
+dialog: (at lab)
+dialog: Here we are.
+scene_heading: INT. LABORATORY - DAY
+text: Joel enters. Mierzwiak stands there with Stan in his lab
+dialog: coat.
+speaker_heading: MIERZWIAK
+dialog: Ah, Mr. Barish. This is Stan. He'll be
+dialog: in charge of your procedure tonight.
+text: Stan nods professionally.
+speaker_heading: STAN
+dialog: Mr. Barish.
+speaker_heading: JOEL
+dialog: How exactly is this going to work
+dialog: tonight?
+text: As Mierzwiak talks, the room colors start to fade,
+text: Mierzwiak's tone of voice is also affected; it becomes dry
+text: and monotonous.
+speaker_heading: MIERZWIAK
+dialog: We'll start with your most recent
+dialog: memories and go backwards -- There is an
+dialog: emotional core to each of our memories --
+dialog: As we eradicate this core, it starts its
+dialog: degradation process -- By the time you
+text: wake up in the morning, all memories
+dialog: we've targeted will have withered and
+text: disappeared. Like a dream upon waking.
+speaker_heading: JOEL
+dialog: Is there any sort of risk of brain
+dialog: damage?
+speaker_heading: MIERZWIAK
+dialog: Well, technically, the procedure itself
+text: is brain damage, but on a par with a
+dialog: night of heavy drinking. Nothing you'll
+dialog: miss.
+text: Joel looks quizzically at the eroding environment. Suddenly
+dialog: he gets it.
+speaker_heading: JOEL
+dialog: It's happening now! I'm already in my
+dialog: brain.
+text: Mierzwiak looks at the fading room.
+speaker_heading: MIERZWIAK
+dialog: Yes, I suppose you are.
+dialog: (back in his faded memory
+dialog: persona)
+dialog: So, let's get started -- If we want the
+dialog: procedure underway tonight, we have some
+dialog: work to do.
+text: Joel is sitting in a chair. Electrodes connect him to some
+text: electronic machinery monitored by Stan. Mierzwiak watches
+text: from the corner.
+speaker_heading: STAN
+dialog: We use the articles you brought to create
+dialog: a map of Clementine in your brain.
+dialog: Tonight while you sleep we'll be able to
+text: trace the map and erase.
+speaker_heading: JOEL
+dialog: But you're tracing and erasing now. It's
+text: already started. I'm home in my bed.
+text: Stan pulls a snow globe from one of Joel's bags, shows it to
+text: Joel. The equipment registers Joel's reaction.
+speaker_heading: STAN
+dialog: Very good.
+text: Stan pulls out a potato dressed as a Vegas showgirl. Joel
+text: studies it. The machines register his response.
+speaker_heading: MIERZWIAK
+dialog: We'll dispose of these mementos when
+dialog: we're done here. That way you won't be
+text: confused later by their unexplainable
+dialog: presence in your home.
+text: Stan pulls out a coffee mug with a photo of Clementine
+text: printed on it. Joel looks at the cup. The machines record
+dialog: his reaction.
+speaker_heading: STAN
+dialog: Good. We're getting healthy read-outs.
+text: The room, Stan, and Mierzwiak are now vague and wispy.
+speaker_heading: STAN'S VOICE
+dialog: Patrick, do me a favor --
+text: Joel is watching Stan. Stan is not speaking, yet his voice
+dialog: continues.
+speaker_heading: STAN'S VOICE (CONT'D)
+dialog: -- and check the voltage levels, I'm not
+dialog: wiping as clean as I would like here.
+text: Joel looks up. Stan's voice seems to be coming from above.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel lies on his back in fresh pajamas. His eyes are closed
+text: and electrodes connect his head to several machines. The
+text: machines are operated by Stan, now in grubby street clothes
+text: and in need of a shave, and by Patrick, dressed similarly.
+text: The monitor on one of the machines traces a myriad of light
+text: blips running like streams through an image of Joel's brain.
+text: Stan presses buttons and operates a joystick, aiming for the
+text: lines. Patrick (who we saw earlier with Clementine at the
+text: bookstore) studies a meter on one of the machines.
+speaker_heading: PATRICK
+text: The voltage looks fine.
+speaker_heading: STAN
+dialog: Then check the connections.
+text: Patrick fiddles with some jacks.
+speaker_heading: PATRICK
+dialog: Does that help?
+speaker_heading: STAN
+dialog: Yeah, that looks better. Thanks.
+scene_heading: INT. LAB ROOM - DAY
+text: The memory is becoming vague, characters' affects flat. Stan
+text: pulls out a pile of loose-leaf pages. Mierzwiak smiles.
+speaker_heading: MIERZWIAK
+dialog: Ah, your journal. This will be
+dialog: invaluable.
+speaker_heading: STAN
+dialog: (reading)
+dialog: December 15th, 2004. I met someone
+dialog: tonight. Oh, Christ: I don't know what
+dialog: to do. Her name is Clementine and she's
+dialog: amazing. So alive and spontaneous and
+dialog: passionate and sensitive. Things with
+dialog: Naomi and I have been stagnant for so
+dialog: long.
+text: The scene is just a shell of itself as Stan rattles on.
+speaker_heading: STAN'S VOICE
+dialog: I think we got this one. Let's push on.
+text: Joel looks up at the ceiling.
+scene_heading: INT. JOEL'S APARTMENT - DAY
+text: Joel, snapped into a new memory, cries as he fills two large
+text: plastic garbage bags with mementos of his relationship with
+text: Clementine. There are funny little gifts, wind-up toys, some
+text: potatoes dressed as women, some clothing Clementine has left
+text: there, some CD's. He pulls a big clump of pages out of his
+text: loose-leaf journal and dumps them in the bag.
+text: He gets some clean loose-leaf paper and writes:
+dialog: December 15, 2004 Nothing much happened today. I stayed
+text: home. Naomi worked on her dissertation.
+text: The scene is fading as he continues to write.
+scene_heading: INT. HALLWAY - DAY
+text: Joel looks for an office number. He finds it. The plaque on
+text: the door reads Lacuna Ltd. Joel enters.
+scene_heading: INT. WAITING ROOM - DAY
+text: Joel enters the Lacuna waiting room. Mary sits in the
+dialog: reception area.
+speaker_heading: MARY
+dialog: May I help you?
+speaker_heading: JOEL
+dialog: My name is Joel Barish. I have an
+dialog: appointment.
+speaker_heading: MARY
+dialog: Please have a seat. Dr. Mierzwiak will
+dialog: be right with you.
+scene_heading: INT. OFFICE HALL - DAY
+text: Mary leads Joel down the hall.
+speaker_heading: MARY
+dialog: (without turning)
+dialog: How are you today?
+speaker_heading: JOEL
+dialog: Not great.
+speaker_heading: MARY
+dialog: (at Mierzwiak's office)
+dialog: Here we are.
+text: Joel glimpses Mary smiling coquettishly at Mierzwiak.
+scene_heading: INT. MIERZWIAK'S OFFICE - DAY
+text: Joel and Mierzwiak are in the sitting area. Joel looks at
+text: the tape recorder.
+speaker_heading: MIERZWIAK
+dialog: I'm sorry you saw one of our notification
+dialog: cards. You never should have.
+speaker_heading: JOEL
+dialog: Well... I did.
+speaker_heading: MIERZWIAK
+dialog: We can help you through this. Why don't
+dialog: you start now by telling me everything
+dialog: you can remember about your relationship
+dialog: with Clementine.
+speaker_heading: JOEL
+dialog: (thinks, then:)
+dialog: It was a mess. I don't know how it got
+dialog: this way...
+speaker_heading: PATRICK'S VOICE
+dialog: It's kind of a dump, don't you think?
+text: Joel looks up, trying to locate the voice.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Patrick is checking out the apartment. Stan monitors the
+dialog: equipment.
+speaker_heading: STAN
+dialog: (uninterested)
+text: It's an apartment.
+speaker_heading: PATRICK
+dialog: Not a dump, then, but kind of plain.
+text: Uninspired. And there's a stale smell.
+dialog: Sort of stuffy. I don't know. Stuffy.
+speaker_heading: STAN
+dialog: Patrick, let's just get through this. We
+dialog: have a long night ahead of us.
+speaker_heading: PATRICK
+dialog: Yeah.
+text: Patrick returns to the bedside, focuses on the machines for a
+text: moment. He glances at the unconscious Joel.
+speaker_heading: PATRICK (CONT'D)
+dialog: So who do you think is better-looking, me
+dialog: or this guy?
+text: Stan glances sideways at Patrick.
+scene_heading: INT. MIERZWIAK'S OFFICE - DAY
+text: Mierzwiak sits with Joel in the sitting area.
+speaker_heading: MIERZWIAK
+dialog: So we'll need you to go home and bring in
+dialog: everything you ever received from
+dialog: Clementine and anything that might remind
+dialog: you of her...
+text: The scene is faded and disappearing fast. It's gone.
+scene_heading: INT. JOEL'S OFFICE - DAY
+text: Joel gets off the elevator and approaches the receptionist.
+speaker_heading: JOEL
+text: So then she just stops calling.
+speaker_heading: VOICE-OVER
+dialog: I wasn't going to call her. Not after
+dialog: the way she was.
+speaker_heading: JOEL
+dialog: Any messages, Carmen?
+text: Carmen the receptionist shakes her head.
+text: Next day: Joel approaches the receptionist.
+speaker_heading: JOEL (CONT'D)
+dialog: Any messages for me, Carmen.
+speaker_heading: CARMEN
+dialog: Nothing, Joel.
+speaker_heading: VOICE-OVER
+dialog: It's bullshit. She's punishing me for
+dialog: being honest with her.
+text: Joel is at his office desk on the phone.
+scene_heading: PHONE MACHINE VOICE
+dialog: You have no messages.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel enters, checks his phone machine: zero messages.
+scene_heading: INT. JOEL'S OFFICE - DAY
+text: Joel gets off the elevator, approaches Carmen, who is in
+text: conversation with someone else.
+speaker_heading: JOEL
+dialog: Sorry, Carmen. Any messages?
+text: Carmen shakes her head "no", goes back to her conversation.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel checks his machine: zero messages.
+speaker_heading: VOICE-OVER
+dialog: That's it. I'm just gonna--
+text: Without a moment's hesitation, he dials the phone.
+speaker_heading: VOICE-OVER (CONT'D)
+dialog: I'm gonna tell her I'm through playing
+dialog: games and --
+speaker_heading: RECORDED VOICE
+dialog: The number you have dialed has been
+dialog: disconnected.
+text: Joel's eyes bug.
+scene_heading: INT. ROB AND CARRIE'S LIVING ROOM - NIGHT
+text: Joel sits across Rob and Carrie, mid-40's.
+speaker_heading: JOEL
+dialog: Why would she do that?
+scene_heading: VAGUE RECORDED VOICE
+dialog: -- If you think you have reached this
+dialog: recording in error, please check your
+text: number and dial again.
+speaker_heading: CARRIE
+dialog: I don't know, honey. It's horrible.
+speaker_heading: JOEL
+dialog: She's punishing me for being honest. I
+dialog: should just go to her house.
+speaker_heading: ROB
+dialog: I don't think you should go there, Joel.
+speaker_heading: JOEL
+dialog: Yeah, I don't want to seem desperate.
+speaker_heading: CARRIE
+dialog: Maybe you need to look at this as a sign
+dialog: to move on. Just make a clean break.
+speaker_heading: JOEL
+dialog: I don't know. I'm so... I can't believe
+dialog: she'd be so goddamn immature!
+speaker_heading: ROB
+dialog: Joel, look, the thing is --
+speaker_heading: CARRIE
+dialog: (agitated, interrupting)
+dialog: Joel, honey... We have to feed the dog.
+dialog: Would you just wait here? Just a second.
+text: Joel nods, confused, as Rob and Carrie leave the room and
+text: close the door behind them. Joel hears a hushed argument
+text: ensue in the hall. He notices the dog asleep on the floor.
+text: He grabs a magazine off the coffee table, flips through it
+text: distractedly as he paces, puts it down, picks up another. A
+text: subscription card falls to the floor. He picks it up and is
+text: about to shove it back in the magazine when he sees it is not
+text: a subscription card at all. It reads:
+text: Clementine Kruczynski has had Joel Barish erased from her
+dialog: memory. Please never mention their relationship to her
+dialog: again. Thank you.
+dialog: Lacuna Ltd.
+dialog: 610 11th Avenue, NY, NY
+text: Joel stares at the card, incredulous.
+text: Later: Rob and Carrie are now back in the room.
+speaker_heading: CARRIE (CONT'D)
+dialog: You weren't supposed to see that.
+speaker_heading: JOEL
+dialog: They can't erase memories. It's a joke.
+dialog: It's a nasty Clementine hoax.
+speaker_heading: CARRIE
+dialog: Sweetie, we called the company.
+text: Joel just stands there.
+text: Close-up of a vague dictionary page.
+speaker_heading: VOICE-OVER
+text: Lacuna: Noun. A blank, a missing
+text: portion, especially in a manuscript.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel is on the phone pacing.
+speaker_heading: CARRIE'S VOICE
+dialog: You can't tell her, Joel. They explained
+dialog: that. Like waking a sleepwalker. It
+dialog: might have a devastating effect.
+scene_heading: INT. JOEL'S CAR - NIGHT
+text: Joel drives past vague local landmark.
+speaker_heading: CARRIE'S VOICE
+dialog: Think about it: to be told you lived an
+dialog: existence of which you have no
+dialog: recollection.
+speaker_heading: JOEL'S VOICE
+dialog: But what am I supposed to do?
+speaker_heading: CARRIE'S VOICE
+dialog: Move on, sweetie.
+speaker_heading: JOEL'S VOICE
+dialog: How can I? How can I move on when I know
+dialog: I'm the only one to carry this love we
+dialog: had? How do I do that?
+scene_heading: INT. CAR - NIGHT
+text: Joel in his parked car next to a fence surrounding a drive-in
+text: movie closed for the season. He weeps. The windows fog up
+text: until the outside is completely obscured.
+scene_heading: EXT. NEW YORK STREET - DAY
+text: Joel looks for an address.
+scene_heading: INT. ELEVATOR - DAY
+text: Joel gets off on the sixth floor. He searches for a room
+text: number. As he turns the corner, he sees that the hallway is
+text: faded, vague and mostly erased. He keeps walking, comes to
+text: the door marked Lacuna and opens it. Inside he can see
+text: vague, erased version of Mary the receptionist.
+speaker_heading: MARY
+dialog: (dead monotone)
+dialog: Hi, May I help you?
+text: These degraded, faded memories allow Joel to detach himself
+text: and hear what's going on in his bedroom.
+speaker_heading: STAN'S VOICE
+dialog: So, Mary's coming over tonight.
+text: Joel looks up.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Stan works the joystick. Patrick sits on the bed with Joel.
+speaker_heading: PATRICK
+dialog: Yeah?
+speaker_heading: STAN
+dialog: Just wanted to let you know.
+speaker_heading: PATRICK
+dialog: I like Mary. I like when she comes to
+dialog: visit. I just don't think she likes me.
+speaker_heading: STAN
+dialog: She likes you okay.
+speaker_heading: PATRICK
+dialog: I wonder if I should invite my girlfriend
+dialog: over, too. I have a girlfriend now.
+speaker_heading: STAN
+dialog: You can if you want.
+speaker_heading: PATRICK
+dialog: Did I tell you I have a new girlfriend?
+speaker_heading: STAN
+dialog: (re: memory on monitor)
+dialog: This one's history. Moving on...
+speaker_heading: PATRICK
+dialog: The thing is ... my situation is a little
+dialog: weird. My girlfriend situation.
+speaker_heading: STAN
+dialog: Patrick, we need to focus.
+text: Stan aims the joystick.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel distractedly reads a book, checks the clock, goes back
+text: to the book. The door opens. He looks up. Clementine is
+text: staggering in, drunk.
+speaker_heading: CLEMENTINE
+dialog: Yo ho ho!
+speaker_heading: JOEL
+dialog: It's three.
+speaker_heading: VOICE-OVER
+dialog: Shit. The last time I saw you.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Anyhoo, sweetie, I done a bad thing. I
+dialog: kinda sorta wrecked your car...
+speaker_heading: JOEL
+dialog: I can't believe you wrecked my car.
+speaker_heading: JOEL
+dialog: You're driving drunk. It's pathetic.
+speaker_heading: CLEMENTINE
+dialog: ...a little. I was a little tipsy.
+dialog: Don't call me pathetic.
+speaker_heading: JOEL
+dialog: Well it is pathetic. And fucking
+dialog: irresponsible. You could've killed
+dialog: somebody.
+text: The scene is starting to degrade. The acting becomes anemic.
+speaker_heading: JOEL (CONT'D)
+dialog: I don't know, maybe you did kill
+dialog: somebody.
+speaker_heading: CLEMENTINE
+dialog: Oh Christ I didn't kill anybody. It's
+dialog: just a fucking dent. You're like some
+dialog: old lady or something.
+speaker_heading: VOICE-OVER
+dialog: Right! She called me an old lady here,
+dialog: too! And I remember, I said...
+speaker_heading: JOEL (CONT'D)
+dialog: And what are you like? A wino?
+speaker_heading: CLEMENTINE
+dialog: A wino? Jesus, Are you from the fifties?
+dialog: A wino!
+dialog: (laughs)
+dialog: Face it, Joel. You're freaked out
+dialog: because I was out late without you, and
+dialog: in your little wormy brain, you're trying
+dialog: to figure out, did she fuck someone
+dialog: tonight?
+speaker_heading: JOEL
+dialog: No, see, Clem, I assume you fucked
+dialog: someone tonight. Isn't that how you get
+dialog: people to like you?
+text: This shuts Clementine up. She is stung and she starts
+text: gathering up her belongings, which are strewn about the
+text: apartment. Joel is immediately sorry he said this. He
+text: follows her around.
+speaker_heading: JOEL (CONT'D)
+dialog: I'm sorry. Okay. I didn't mean that. I
+dialog: just... I was just... pissed, I guess.
+text: Clementine is out the door. Joel follows.
+scene_heading: EXT. STREET - NIGHT
+text: Joel looks at his dented car, looks at Clementine clomping
+text: off in the distance.
+scene_heading: INT. JOEL'S CAR - CONTINUOUS
+text: Joel drives to catch up with Clementine. He rolls down his
+text: window to talk to her.
+speaker_heading: JOEL
+dialog: Let me drive you home.
+speaker_heading: CLEMENTINE
+dialog: (without turning)
+dialog: Fuck you, Joel. Faggot.
+speaker_heading: JOEL
+text: Look at it out here. It's falling apart.
+dialog: I'm erasing you. And I'm happy.
+text: She keeps clomping.
+speaker_heading: JOEL (CONT'D)
+dialog: You did it to me. I can't believe you
+dialog: did this to me. By morning you'll be
+dialog: gone. Ha!
+text: He stops the car, gets out.
+scene_heading: EXT. STREET - CONTINUOUS
+text: It's a street you might see in a dream, more an impression of
+text: a quiet street than an actual one, with what little detail
+text: there is obscured in darkness. Joel wanders it. In the
+text: distance Clementine walks off, but as in an animated loop,
+text: she doesn't get any farther away. It's lonely.
+speaker_heading: PATRICK'S VOICE
+dialog: See, remember that girl? The one we did
+dialog: last week? The one with the potatoes?
+text: Joel looks up, startled.
+speaker_heading: STAN'S VOICE
+dialog: Yeah, that's this guy's girlfriend. Was.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Stan watches the screen. Patrick paces, fidgets, looks at
+text: the unconscious Joel.
+speaker_heading: PATRICK
+dialog: I gotta tell you something. I kind of
+dialog: fell in love with her last night.
+speaker_heading: STAN
+text: She was unconscious, Patrick.
+speaker_heading: PATRICK
+dialog: She was beautiful. So sweet and funky
+dialog: and voluptuous. I kind of stole a pair
+dialog: of her panties, is what.
+speaker_heading: STAN
+dialog: Jesus, Patrick!
+scene_heading: EXT. STREET - NIGHT
+text: On the vague street Joel listens to Patrick and Stan.
+speaker_heading: PATRICK'S VOICE
+dialog: I know. It's not like... I mean, they
+dialog: were clean and all.
+speaker_heading: STAN'S VOICE
+dialog: Look, just don't tell me this stuff. I
+dialog: don't want to know this shit.
+speaker_heading: PATRICK'S VOICE
+dialog: Yeah, okay.
+speaker_heading: STAN'S VOICE
+dialog: We have work to do.
+text: There's a click and Joel finds himself in --
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel and Clementine sit and eat dinner in front of the TV.
+text: It's hard to make out what they're watching.
+text: They sit on opposite ends of the couch. They look bored.
+text: The scene quickly degenerates. The room fades.
+speaker_heading: PATRICK'S VOICE
+dialog: Okay, but there's more.
+text: Joel listens.
+speaker_heading: PATRICK'S VOICE (CONT'D)
+dialog: After we did her, I went to where she
+dialog: worked and I asked her out.
+text: Joel looks over at the faded Clementine across the couch.
+text: She stares straight ahead at the TV.
+speaker_heading: STAN'S VOICE
+dialog: Patrick... do you know how unethical...
+speaker_heading: JOEL
+dialog: That must be the guy I saw you with.
+speaker_heading: VOICE-OVER
+text: In the bookstore that night. The skinny
+dialog: guy.
+text: There's a click and Joel finds himself in --
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel watches TV. Clementine walks by in her underwear, looks
+text: at the TV. She slips into a skirt.
+speaker_heading: CLEMENTINE
+dialog: How can you watch this crap?
+speaker_heading: JOEL
+dialog: Where are you going?
+speaker_heading: CLEMENTINE
+text: I'm fucking crawling out of my skin.
+text: The scene starts to fade. Clementine puts on her shoes and
+text: heads out the door.
+scene_heading: EXT. ZOO - DAY
+text: Joel and Clementine walk around unhappily. They barely look
+text: at the animals. Clementine watches parents with babies.
+speaker_heading: JOEL
+dialog: Oh shit. I remember this.
+dialog: (to Clementine)
+dialog: Want to go?
+speaker_heading: CLEMENTINE
+dialog: (pissy)
+dialog: I want to have a baby.
+speaker_heading: JOEL
+dialog: Let's talk about it later.
+speaker_heading: CLEMENTINE
+dialog: No. I want to have a baby. I have to
+dialog: have a baby.
+speaker_heading: JOEL
+dialog: I don't think we're ready.
+speaker_heading: CLEMENTINE
+dialog: You're not ready.
+speaker_heading: JOEL
+dialog: Clementine, do you really think you could
+dialog: take care of a kid?
+text: She turns violently toward him, glaring.
+speaker_heading: CLEMENTINE
+dialog: What?!
+speaker_heading: JOEL
+dialog: (mumbly)
+dialog: I don't want to talk about this here.
+speaker_heading: CLEMENTINE
+dialog: Joel, We're fucking gonna talk about it!
+text: Joel looks around. People are watching.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: You can't fucking say something like that
+dialog: and say you don't want to talk about it!
+speaker_heading: JOEL
+dialog: Clem, I'm sorry. I shouldn't have --
+speaker_heading: CLEMENTINE
+dialog: (screaming now)
+dialog: I'd make a fucking good mother! I love
+dialog: children! I'm creative and smart and I'd
+dialog: make a fucking good mother!
+text: The scene starts to fade. Clementine's rant continues but
+text: becomes attenuated and vague.
+speaker_heading: JOEL
+dialog: Oh, thank God. It's going.
+speaker_heading: CLEMENTINE
+dialog: It's you! It's you who can't commit to
+dialog: anything! You have no idea how lucky you
+dialog: are I'm interested in you! I don't even
+dialog: know why I am! I should just end it
+dialog: right here, Joel. Leave you in the zoo.
+dialog: Maybe you could find a nice sloth to hang
+dialog: out with!
+text: She's crying now, but it's almost animatronic, no real
+text: emotion in it. The scene is a husk.
+speaker_heading: JOEL
+dialog: It's going, Clementine. All the crap and
+dialog: hurt and disappointment. It's all being
+text: wiped away.
+text: She looks up at him.
+speaker_heading: CLEMENTINE
+dialog: I'm glad.
+text: Their eyes lock. She is fading before his eyes.
+speaker_heading: JOEL
+dialog: Me, too.
+scene_heading: INT. BAR - NIGHT
+text: It's noisy and crowded. Joel and Clementine sit at a small
+text: table. She is drunk and staring off, blankly.
+speaker_heading: JOEL
+dialog: So, um --
+speaker_heading: CLEMENTINE
+text: (swiveling head toward him)
+dialog: Would you get me another, Joely?
+text: Joel sighs, stands, and heads to the crowded bar.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Thanky! Thanky!
+text: Joel is at the bar, trying to get the bartender's attention.
+text: Joel is paying the bartender. He turns with the drink to
+text: head back to the table. He sees Clementine flirting with a
+text: man in Joel's seat.
+text: Joel is at the table. Clementine looks from her
+dialog: conversation.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Joel, this is Mark. He likes my boobs.
+dialog: He came over special to tell me that.
+dialog: Isn't that nice. He doesn't think I'm
+dialog: fat.
+text: The scene starts to fade. Mark rises.
+speaker_heading: MARK
+dialog: I didn't know she was with someone, man.
+speaker_heading: CLEMENTINE
+dialog: S'okay, Mark. Joel doesn't like my
+text: boobs.
+dialog: (stage whisper)
+dialog: I don't think he likes girls.
+text: The bar gets quiet and vague.
+speaker_heading: JOEL
+dialog: You're drunk.
+speaker_heading: CLEMENTINE
+dialog: You're a whiz kid. So perceptive, so --
+text: Clementine keeps talking but there are no more intelligible
+text: words, just a whisper -- like a breeze.
+text: A doorbell buzzes. Joel looks up.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Patrick opens the door. Mary stands there in a winter coat,
+text: carrying a backpack.
+speaker_heading: MARY
+dialog: (coolly)
+dialog: Oh, hey, Patrick.
+speaker_heading: PATRICK
+dialog: Hi, Mary. How's it going?
+text: She walks past him.
+speaker_heading: STAN
+dialog: Hey, you.
+text: Stan and Mary kiss. She looks down at Joel as she takes off
+text: her coat.
+speaker_heading: MARY
+text: It's freezing out.
+speaker_heading: STAN
+dialog: You found us okay?
+speaker_heading: MARY
+dialog: Yeah.
+dialog: (re: Joel)
+dialog: Poor guy.
+dialog: (looking around)
+dialog: Have anything to drink?
+speaker_heading: STAN
+dialog: We haven't checked.
+speaker_heading: MARY
+dialog: Well, allow me to do the honors. It's
+dialog: fucking freezing and I need something.
+text: She heads into the kitchen. Stan turns back to monitor the
+text: slivers of light.
+speaker_heading: PATRICK
+dialog: Mary hates me. I've never been popular
+dialog: with the ladies.
+speaker_heading: STAN
+dialog: Maybe if you stopped stealing their
+dialog: panties.
+speaker_heading: PATRICK
+dialog: (guilty beat)
+dialog: Okay, There's more, Stan --
+text: Stan looks over at Patrick. Mary returns with a bottle of
+text: scotch and two glasses.
+speaker_heading: MARY
+dialog: Hey, hey.
+text: She pours the whiskey.
+speaker_heading: MARY (CONT'D)
+dialog: Oh, Patrick, you didn't want any, did
+dialog: you?
+speaker_heading: PATRICK
+dialog: Nah, I don't know.
+text: Mary hands a glass to Stan. She holds hers up in a toast.
+speaker_heading: MARY
+dialog: Blessed are the forgetful, for they get
+dialog: the better even of their blunders.
+text: Mary and Stan click glasses.
+speaker_heading: MARY (CONT'D)
+dialog: Nietzsche. Beyond Good and Evil. Found
+dialog: it my Bartletts.
+speaker_heading: STAN
+dialog: That's a good one.
+speaker_heading: MARY
+dialog: Yeah, I can't wait to tell Howard! It
+dialog: seems really appropriate.
+speaker_heading: STAN
+dialog: (a little sulky)
+dialog: It's a good one all right.
+speaker_heading: PATRICK
+dialog: What's your bartlett's?
+speaker_heading: STAN
+dialog: It's a quote book.
+speaker_heading: MARY
+dialog: I love quotes. So did Winston Churchill.
+text: He actually has a quotation in Bartlett's
+dialog: about Bartlett's. Isn't that trippy?
+speaker_heading: PATRICK
+dialog: (trying to engage)
+dialog: Yeah. Cool.
+speaker_heading: MARY
+dialog: "The quotations when engraved upon the
+dialog: memory give you good thoughts."
+speaker_heading: PATRICK
+dialog: Very cool. Trippy.
+speaker_heading: MARY
+dialog: I like to read what smart people say. So
+dialog: many beautiful, important things.
+speaker_heading: STAN
+dialog: Yup.
+speaker_heading: MARY
+dialog: Don't you think Howard's like that?
+dialog: Smart? Important?
+speaker_heading: STAN
+dialog: (beat)
+dialog: Yup.
+speaker_heading: PATRICK
+dialog: Definitely!
+speaker_heading: MARY
+dialog: I think he'll be in Bartlett's one day.
+text: Stan focuses on the monitor. Mary pours herself another
+dialog: drink.
+speaker_heading: PATRICK
+dialog: Definitely.
+scene_heading: INT. JOEL'S BEDROOM - NIGHT
+text: It's dark. Joel and Clementine are in bed. The memory is
+text: already in the midst of being erased. Clementine is talking
+text: in a monotonous, robotic manner.
+speaker_heading: CLEMENTINE
+dialog: You don't tell me things, Joel. I'm an
+dialog: open book. I tell you everything. Every
+dialog: damn embarrassing thing. You don't trust
+dialog: me.
+speaker_heading: JOEL
+dialog: No, it isn't that.
+speaker_heading: CLEMENTINE
+dialog: I want to know you.
+speaker_heading: JOEL
+dialog: I just don't have anything very
+dialog: interesting about my life.
+speaker_heading: CLEMENTINE
+dialog: Joel, you're a liar.
+text: The scene is faded completely now and Joel just lies there
+text: for a moment, registering Clementine's statement.
+scene_heading: INT. CHINESE RESTAURANT - NIGHT
+text: Joel and Clementine eat dinner in silence. Joel looks around
+text: at other couples in the restaurant. Some seem happy and
+text: engaged. Others seem bored with each other. He turns back
+text: to his food.
+speaker_heading: JOEL
+dialog: How's the chicken?
+speaker_heading: VOICE-OVER
+dialog: Is that like us? Are we just bored with
+dialog: each other?
+speaker_heading: CLEMENTINE
+dialog: Good.
+text: He watches her as she downs her wine and pours herself
+text: another glass. She holds the wine bottle up to Joel.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: More?
+speaker_heading: JOEL
+dialog: No. Thanks.
+text: There's a silence.
+speaker_heading: CLEMENTINE
+dialog: How's the fish?
+text: The scene is fading.
+speaker_heading: JOEL
+dialog: It's good.
+text: They continue to eat in silence as the scene dissolves.
+speaker_heading: PATRICK'S VOICE
+dialog: Hi, Clementine! -- Why, what's wrong? --
+dialog: Oh, I'm sorry. -- Well, I'm not sure, I
+dialog: kind of have to study for my test --
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Patrick is on the phone next to Joel's bed. Stan watches the
+text: lights on the computer screen.
+speaker_heading: PATRICK
+dialog: Hold on. Let me ask my friend.
+dialog: (covering mouthpiece)
+dialog: Stan, can I leave for a little while? My
+dialog: girlfriend is very --
+speaker_heading: STAN
+dialog: Patrick, we're in the middle of --
+speaker_heading: PATRICK
+text: She's right in the neighborhood. She's
+text: upset.
+text: Mary is in the kitchen. She pokes her head out. She's got
+text: some pie on a plate.
+speaker_heading: MARY
+dialog: Let him go, Stan. I can help.
+speaker_heading: STAN
+dialog: (sighing, to Patrick)
+dialog: Go.
+speaker_heading: PATRICK
+dialog: (quietly)
+dialog: Mary hates me.
+dialog: (into phone)
+dialog: I'll be right over, Tangerine.
+scene_heading: INT. CLEMENTINE'S APARTMENT - NIGHT
+text: Candles are lit. Joel and Clementine are under a blanket on
+text: the living room rug listening to music.
+speaker_heading: CLEMENTINE
+dialog: Joely...
+speaker_heading: JOEL
+dialog: Yeah, Tangerine?
+speaker_heading: CLEMENTINE
+dialog: Do you know The Velveteen Rabbit?
+speaker_heading: JOEL
+dialog: No.
+speaker_heading: CLEMENTINE
+dialog: It's my favorite book. Since I was a
+dialog: kid. It's about these toys. There's
+dialog: this part where the skin Horse tells the
+dialog: rabbit what it means to be real.
+dialog: (crying)
+text: I can't believe I'm crying already. He
+dialog: says, "It takes a long time. That's why
+dialog: it doesn't often happen to people who
+dialog: break easily or have sharp edges, or who
+dialog: have to be carefully kept. Generally by
+dialog: the time you are Real, most of your hair
+dialog: has been loved off, and your eyes drop
+dialog: out and you get loose in the joints and
+dialog: very shabby. But these things don't
+dialog: matter at all, because once you are Real
+dialog: you can't be ugly, except to people who
+dialog: don't understand."
+text: She's weeping. Joel is stroking her hair. They kiss and
+text: begin to make love under the blanket. It's sweet and gentle
+text: and then it starts to fade.
+speaker_heading: JOEL
+dialog: (screaming)
+dialog: No! Jesus, No!
+text: He looks down and Clementine's tear-streaked face is fading.
+text: She continues as if she's still being made love to, even
+text: though Joel is completely beside himself. He jumps up naked
+text: and yells at the ceiling.
+speaker_heading: JOEL (CONT'D)
+dialog: Please! Please! I've changed my mind!
+text: (looks down at fading
+text: Clementine, then at ceiling)
+dialog: I don't want this. Wake me up! Stop the
+dialog: procedure! Plea --
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel is unconscious on the bed, completely still. Mary and
+text: Stan watch the monitor and smoke a joint. After a silence:
+speaker_heading: MARY
+dialog: It's amazing, isn't it? Such a gift
+dialog: Howard gave the world.
+speaker_heading: STAN
+dialog: (a sigh)
+dialog: Yeah.
+speaker_heading: MARY
+dialog: To let people begin again. It's
+dialog: beautiful. You look at a baby and it's
+text: so fresh, so clean, so free. And
+dialog: adults... they're like this messy tangle
+dialog: of anger and phobias and sadness...
+dialog: hopelessness. And Howard just makes it
+dialog: go away.
+speaker_heading: STAN
+dialog: You love him, don't you?
+text: Mary seems surprised, taken aback, caught. She is silent for
+text: a long moment.
+speaker_heading: MARY
+dialog: No.
+dialog: (beat)
+dialog: Besides, Howard's married, Stan. He's a
+dialog: very serious and ethical man. I'm not
+dialog: going to tempt him to betray all he
+dialog: believes in.
+text: Stan takes another drag on the joint, passes it to Mary.
+scene_heading: EXT. STREET - NIGHT
+text: Patrick, bundled up and carrying a full backpack, trudges
+text: through the snow.
+scene_heading: INT. CLEMENTINE'S APARTMENT - CONTINUOUS
+text: Clementine watches out the window as Patrick nears. She's
+text: crying. He makes his way up her front stairs. She swings
+text: open the door and hugs him.
+speaker_heading: PATRICK
+dialog: Oh, baby, what's going on?
+speaker_heading: CLEMENTINE
+text: I don't know. I'm lost. I'm scared. I
+text: feel like I'm disappearing. I'm getting
+dialog: old and nothing makes any sense to me.
+speaker_heading: PATRICK
+dialog: Oh, Tangerine.
+speaker_heading: CLEMENTINE
+dialog: Nothing makes any sense. Nothing makes
+dialog: any sense.
+text: She pushes herself out of the embrace and looks at Patrick.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Come up to Boston with me?
+speaker_heading: PATRICK
+dialog: Sure. We'll go next weekend and --
+speaker_heading: CLEMENTINE
+dialog: Now. Now! I have to go now. I have to
+dialog: see the frozen Charles! Now! Tonight!
+speaker_heading: PATRICK
+dialog: Um, okay. I'll call my study partner.
+speaker_heading: CLEMENTINE
+dialog: Yay! It'll be great! I'll get my shit.
+text: She runs into the bedroom. Patrick is at the phone and
+text: realizes he doesn't know Joel's number. After a moment's
+text: thought, he *69's. The phone rings.
+speaker_heading: JOEL'S VOICE
+dialog: Hi, it's Joel. Please leave a message
+text: after the beep.
+dialog: Beep.
+speaker_heading: PATRICK
+dialog: (whisper)
+dialog: Stan, it's Patrick. Pick up.
+speaker_heading: STAN'S VOICE
+dialog: Hey, where are you?
+speaker_heading: PATRICK
+dialog: I got into a situation with the old lady.
+dialog: Can you handle things tonight alone? I'm
+dialog: really sorry, man.
+scene_heading: INT. JOEL'S APARTMENT - CONTINUOUS
+text: Stan is on the phone. He's really stoned and watches Mary,
+text: stoned herself, dancing in a sexy trance to something soft
+text: and low on the stereo.
+speaker_heading: STAN
+dialog: I can handle it. He's pretty much on
+text: auto-pilot anyway.
+scene_heading: INT. CLEMENTINE'S APARTMENT - CONTINUOUS
+speaker_heading: PATRICK
+dialog: Thanks, Stan. I owe you.
+text: Patrick hangs up, rifles quickly through his backpack. He
+text: pulls out a silver bracelet, puts it in his pocket, then
+text: pulls out a journal, flips through it, keeping an eye on the
+text: bedroom door. The handwriting is a woman's. He finds what
+text: he's looking for. He reads:
+speaker_heading: CLEMENTINE'S VOICE
+dialog: I took Joel to walk on Charles River with
+dialog: me last night. It was so beautiful and
+dialog: charming. Joel was nervous about
+dialog: stepping onto the ice, but he wanted to
+dialog: please me so much -- he's so sweet --
+text: that he came out after me. We lay down
+text: right in the center and watched the
+dialog: stars. He took my hand and said "I
+dialog: could...
+scene_heading: EXT. CHARLES RIVER - NIGHT
+text: Joel and Clementine lie together holding hands on the frozen
+text: river. They look up at the stars.
+speaker_heading: JOEL
+dialog: ...die right now, Clem. I'm just...
+dialog: happy. I've never felt that before. I'm
+dialog: just exactly where I want to be.
+text: Clementine looks over at him. Her eyes are filled with love
+text: and tears. Then they get vague. The scene is being erased.
+text: Joel is panicked.
+speaker_heading: JOEL (CONT'D)
+dialog: Clem, no! This can't keep happening.
+dialog: Please! Oh, fuck! Please!
+text: Crazily, Joel runs off, passing through a series of decayed
+text: scenes: He and Clementine arguing in a car, having sex on the
+text: beach, laughing and holding hands at a movie, eating grilled
+text: cheese and tomato soup together in bed, Joel watching her
+text: sleep, them drinking at a bar. He arrives at a decayed
+text: version of his first meeting with Mierzwiak.
+speaker_heading: MIERZWIAK
+dialog: We can help you through this. Why don't
+dialog: you start now by telling me everything
+dialog: you can remember about --
+speaker_heading: JOEL
+dialog: You have to stop this!
+speaker_heading: MIERZWIAK
+dialog: What? What do you mean?
+speaker_heading: JOEL
+text: I'm trapped in my head and everything I
+dialog: love is being erased! Stop it now!
+speaker_heading: MIERZWIAK
+dialog: Yes, but... I'm just something you're
+dialog: imagining. What can I do? I'm in your
+dialog: head, too.
+scene_heading: INT. CLEMENTINE'S APARTMENT - NIGHT
+text: Patrick reads the journal.
+speaker_heading: CLEMENTINE'S VOICE
+dialog: ... and we made love right on the ice.
+dialog: It was absolutely freezing on my ass! It
+dialog: was wonderful.
+text: Clementine enters, dressed for the cold. Patrick puts the
+text: notebook away.
+speaker_heading: CLEMENTINE
+dialog: I'm so excited. Yay!
+speaker_heading: PATRICK
+dialog: I'm excited, too. Oh, and I wanted to
+dialog: give you this. It's a little... thing.
+text: Patrick pulls the bracelet from his pocket, hands it to her.
+speaker_heading: PATRICK (CONT'D)
+text: I didn't have a chance to wrap it.
+speaker_heading: CLEMENTINE
+dialog: It's gorgeous.
+dialog: (slipping it on)
+dialog: Just my taste. I've never gone out with
+dialog: a guy who brought me a piece of jewelry I
+dialog: liked.
+dialog: (kisses him)
+dialog: Thanks. So let's get going. Long drive.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Stan and Mary have sex on the floor next to Joel's bed.
+scene_heading: EXT. FOREST - DAY
+text: Joel and Clementine are hiking, Clementine in front.
+speaker_heading: CLEMENTINE
+dialog: Such a beautiful view.
+speaker_heading: JOEL
+dialog: (looking at her)
+dialog: Yes indeed.
+dialog: (snapping out of memory)
+dialog: Fuck! They're erasing you, Clem!
+speaker_heading: CLEMENTINE
+dialog: Oh?
+speaker_heading: JOEL
+dialog: I hired them to. We're in my brain. But
+dialog: I want it to stop, before I wake up and
+dialog: don't know you anymore.
+speaker_heading: CLEMENTINE
+dialog: Wow. Um, well... can't you just force
+dialog: yourself awake?
+speaker_heading: JOEL
+dialog: I don't know.
+text: He concentrates. Nothing happens.
+speaker_heading: JOEL (CONT'D)
+dialog: Aaargh! It's horrible! I'm trapped!
+text: He starts to have a fit, banging against trees, stomping his
+text: feet, screaming. But even while he's doing this the memory
+text: and Clementine are fading around him.
+scene_heading: INT. JOEL'S APARTMENT - DAY
+text: It's raining out. Joel is reading, slouched in a chair. He
+text: looks over at Clementine, stretched out on her belly in her
+text: underwear. She's reading, too.
+speaker_heading: VOICE-OVER
+dialog: She's so sexy.
+speaker_heading: JOEL
+dialog: I loved you on this day. I love this
+dialog: memory. The rain. Us just hanging.
+text: Clementine looks over at him, smiles. Her brow furrows in
+dialog: thought.
+speaker_heading: CLEMENTINE
+dialog: What if you hide me?
+speaker_heading: JOEL
+dialog: What do you mean?
+speaker_heading: CLEMENTINE
+dialog: (formulating)
+dialog: Well... if they're looking for me in
+dialog: memories I'm in, what if you take me to a
+dialog: memory I'm not in?
+dialog: (proud)
+dialog: And we can hide there till morning.
+text: Joel ponders this. The scene and Clementine are beginning to
+text: dissolve. Joel grabs Clementine's hand. She giggles with
+text: glee. He pulls her out of the scene as it degrades.
+speaker_heading: JOEL
+dialog: Where? Where? Where?
+text: He drags her through the landscape of already decayed
+text: memories and turns off into:
+scene_heading: INT. KITCHEN - DAY
+text: The kitchen is dated and vague. Joel and Clementine are in
+text: an oversized playpen; they're adults but small. Joel wears
+text: footsie pajamas with some vague little animals on them. He
+text: holds a a red furry huckleberry hound doll. Clementine is
+text: still in her panties and bra. An oversized woman in high
+text: heels, seen from a low angle, hurries back and forth
+text: preparing dinner.
+speaker_heading: CLEMENTINE
+dialog: Jesus. What's this?
+text: Joel looks around at the kitchen, at his doll, at the woman.
+speaker_heading: JOEL
+dialog: I must be about two.
+dialog: (oddly)
+dialog: I want my mommy. She's busy. She's not
+text: looking at me.
+dialog: (back to himself, re: doll)
+dialog: Look, my Huckleberry Hound doll! I told
+dialog: you about this!
+dialog: (beat)
+dialog: I want my mommy!
+text: He starts to cry. Clementine tries to comfort him. She hugs
+dialog: him.
+speaker_heading: JOEL (CONT'D)
+dialog: (crying still)
+dialog: I want my mommy.
+dialog: (adult, to Clementine)
+dialog: I don't want to lose you, Clem.
+speaker_heading: CLEMENTINE
+dialog: I'm right here.
+speaker_heading: JOEL
+dialog: I'm scared. I want my mommy. I don't
+dialog: want to lose you. I don't want to
+dialog: lose...
+speaker_heading: CLEMENTINE
+dialog: Joel, Joely, look... it's not fading.
+dialog: The memory. I think we're hidden.
+text: Joel sucks in some snot. His mother scurries back and forth
+text: clanging pots. The room is not decaying. Joel smiles.
+scene_heading: INT. JOEL'S BEDROOM - NIGHT
+text: Stan and Mary lie on the floor, their stoned minds wandering
+text: after sex. Stan suddenly perks up. He looks at the monitor.
+speaker_heading: STAN
+text: It's stopped.
+speaker_heading: MARY
+dialog: What?
+speaker_heading: STAN
+dialog: Listen, it's not erasing.
+text: He makes his way, naked, to the computer screen.
+speaker_heading: STAN (CONT'D)
+text: It's not erasing. He's off the screen.
+speaker_heading: MARY
+dialog: Where?
+speaker_heading: STAN
+text: I don't know. He's not on the map.
+text: Stan tries to break through his marijuana haze. He fiddles
+text: nervously with the equipment.
+speaker_heading: STAN (CONT'D)
+dialog: I don't know what to do! I don't know
+dialog: what to do! Crap. Crap...
+speaker_heading: MARY
+dialog: Well, what should we do?
+speaker_heading: STAN
+dialog: I don't know! I just said that!
+speaker_heading: MARY
+dialog: Sor-ry
+dialog: (beat)
+dialog: We have to do something. He can't wake
+text: up half done.
+speaker_heading: STAN
+dialog: Shit!
+text: He jerks the joystick spastically. Mary, also naked, gets up
+text: and looks over his shoulder at the screen.
+speaker_heading: MARY
+dialog: (definitely)
+dialog: We should call Howard.
+text: Stan turns and looks at her. He's stoned and trying to
+dialog: understand her motivation.
+speaker_heading: STAN
+dialog: No way. I can handle this.
+speaker_heading: MARY
+text: This guy's only half cooked. There's no
+dialog: time to fuck around, Stan.
+text: Stan tries to think. He paces. Mary watches him. Finally:
+speaker_heading: STAN
+dialog: (without making eye contact)
+dialog: Okay.
+text: He dials the phone, waits.
+speaker_heading: STAN (CONT'D)
+dialog: Hello, Howard?
+scene_heading: INT. MIERZWIAK'S BEDROOM - CONTINUOUS
+text: The room is dark. A groggy Mierzwiak is in bed on the phone.
+text: His wife lies beside him, eyes open, listening.
+speaker_heading: MIERZWIAK
+dialog: Stan? What's going on?
+speaker_heading: STAN'S VOICE
+dialog: The guy we're doing? He's disappeared
+text: from the map. I can't find him anywhere.
+speaker_heading: MIERZWIAK
+dialog: Okay, what happened right before he
+dialog: disappeared?
+speaker_heading: STAN'S VOICE
+text: I was away from the monitor for a second.
+dialog: I had it on automatic. I had to go pee.
+speaker_heading: MIERZWIAK
+dialog: Well, where was Patrick?
+speaker_heading: STAN'S VOICE
+dialog: He went home sick.
+speaker_heading: MIERZWIAK
+dialog: Jesus. All right, what's the address.
+speaker_heading: STAN'S VOICE
+text: 1062 Sherman Drive. Apartment 1E,
+dialog: Rockville Center.
+text: Mierzwiak writes it down on a bedside not pad. He hangs up.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Stan hangs up the phone, looks at Mary.
+speaker_heading: MARY
+dialog: He's coming?
+speaker_heading: STAN
+dialog: You better go.
+speaker_heading: MARY
+dialog: Hell no.
+text: She starts getting dressed.
+speaker_heading: MARY (CONT'D)
+dialog: Shit, I'm so stoned. I don't want him to
+dialog: see me stoned. Stop being stoned, Mary!
+text: She hurries into the bathroom with her bag.
+speaker_heading: MARY (CONT'D) (O.S.) (CONT'D)
+dialog: God, I look like shit! God!
+text: Mary slams the bathroom door. Stan puts his head in his
+dialog: hands.
+scene_heading: INT. KITCHEN - DAY
+text: Joel and Clementine are in the playpen. Joel's oversized
+text: mother reaches down as she hurries by and pats Joel on the
+dialog: head.
+speaker_heading: MOTHER
+dialog: How's my baby boy?
+text: She's gone.
+speaker_heading: JOEL
+dialog: I really want her to pick me up. It's
+dialog: weird how strong that desire is.
+text: Clementine holds his hand. He looks over at her.
+speaker_heading: CLEMENTINE
+dialog: You know, we're okay. They're not
+dialog: finding us. You'll remember me in the
+dialog: morning. And you'll come to me and tell
+dialog: me about us and we'll start over.
+speaker_heading: JOEL
+dialog: I loved you so much this day. On my bed
+dialog: in your panties. I remember I thought,
+dialog: how impossibly lucky am I to have you on
+dialog: my bed in your panties.
+text: She kisses him.
+speaker_heading: CLEMENTINE
+dialog: You remember what happened next?
+speaker_heading: JOEL
+dialog: I came over to the bed and you smelled so
+dialog: good, like you just woke up, slightly
+text: sweaty. And I climbed on the bed with
+dialog: you and you said something like --
+speaker_heading: CLEMENTINE
+dialog: -- another rainy day. Whatever shall we
+dialog: do?
+text: He laughs. She unbuttons his pajamas. They begin to make
+text: love. Joel's mother hurries around the kitchen. Joel stops,
+text: looks at Clementine.
+speaker_heading: JOEL
+dialog: There's this guy!
+speaker_heading: CLEMENTINE
+dialog: What?
+speaker_heading: JOEL
+dialog: There's this guy. I heard him talking in
+dialog: my apartment. He's one of the eraser
+dialog: guys. And he fell for you when they were
+dialog: erasing you, so he introduced himself the
+text: next day as if he were a stranger and now
+dialog: you're dating him.
+speaker_heading: CLEMENTINE
+dialog: Really? Is he cute?
+speaker_heading: JOEL
+dialog: He stole a pair of your panties while you
+dialog: were being erased!
+speaker_heading: CLEMENTINE
+dialog: Gross! You must remember to tell me this
+dialog: in the morning. I'm, like, so freaked
+text: out now.
+scene_heading: INT. CLEMENTINE'S CAR - NIGHT
+text: It's a rust bucket. Clementine drives through the snow.
+text: She's crying and holding Patrick's hand.
+speaker_heading: CLEMENTINE
+dialog: What's wrong with me?
+speaker_heading: PATRICK
+dialog: Nothing is wrong with you. You're the
+dialog: most wonderful person I've ever met.
+text: She glances gratefully over at him then starts to cry even
+dialog: harder.
+scene_heading: INT. JOEL'S BEDROOM - NIGHT
+text: Stan works on trying to get the signal back. His hair is
+text: combed and he's dressed neatly, looking professional but
+text: still stoned. Mary is pacing nervously to and from the
+text: window, looking out into the night. She's dressed also, and
+text: she's wearing more make-up now. Her hair is pulled up into
+text: some sort of style. Suddenly she freezes at the window.
+speaker_heading: MARY
+dialog: There he is. Oh my God. Oh my God. Do
+dialog: I look okay?
+text: She doesn't say anything.
+speaker_heading: MARY (CONT'D)
+dialog: I'm still stoned. Are you? Crap.
+text: She looks in the mirror.
+speaker_heading: MARY (CONT'D)
+dialog: (to Joel)
+dialog: Your Visine didn't do shit, fella.
+text: The doorbell buzzes. Mary lunges for the door, then calms
+text: herself before opening it. Mierzwiak, holding an equipment
+text: bag, looks surprised.
+speaker_heading: MIERZWIAK
+dialog: Mary. What are you doing here?
+speaker_heading: STAN
+text: She came to help, Howard.
+speaker_heading: MARY
+dialog: I wanted to learn as much about the
+dialog: procedure as possible, Howard. I think
+dialog: it's important for my job...to help
+dialog: comfort the clientele. You know.
+text: Mierzwiak looks from Mary to Stan, nods, and enters. Mary
+text: closes the door. Mierzwiak crosses to the equipment.
+speaker_heading: MIERZWIAK
+dialog: Let's get to the bottom of this. Shall
+dialog: we?
+text: He sits down in front of the computer and does some fiddling.
+speaker_heading: MIERZWIAK (CONT'D)
+dialog: Odd.
+text: He fiddles some more. Mary looks on, fascinated.
+speaker_heading: STAN
+dialog: I tried that already.
+speaker_heading: MIERZWIAK
+dialog: Did you try going through C-Gate?
+speaker_heading: STAN
+dialog: Yeah. Of course.
+text: Mierzwiak ponders. He unzips his equipment bag, pulls out
+text: another laptop computer and plugs it in to the system.
+speaker_heading: MIERZWIAK
+dialog: I'm going to do a Spectrum search
+dialog: throughout his memory, see if anything
+text: comes up.
+text: Mierzwiak presses some more buttons. The program starts up.
+text: A much more complex and detailed human brain appears on this
+text: screen. It rotates. Eventually Mierzwiak sees a small
+text: distant light in the brain. He zeroes in on it.
+speaker_heading: MIERZWIAK (CONT'D)
+dialog: Okay, here it is. I don't know why it's
+dialog: off the map like that, but --
+scene_heading: INT. KITCHEN - DAY
+text: Joel is being bathed in the oversized sink by his oversized
+text: mother. Clementine sits in the water with him, laughing.
+text: The mother doesn't seem to see her.
+speaker_heading: MOTHER
+dialog: Little baby getting awwwl cleean. Awl
+dialog: clean.
+speaker_heading: JOEL
+dialog: (to Clementine)
+dialog: I love getting bathed in the sink. It's
+dialog: such a feeling of security.
+speaker_heading: CLEMENTINE
+dialog: (giggling)
+dialog: I've never seen you happier.
+text: The elements of the scene flash explosively away: Joel's
+text: mother, his Huckleberry Hound doll, the details of the
+text: kitchen, Clementine. Joel is thrown into:
+scene_heading: INT. CAR - NIGHT
+text: He sits with Clementine in the parked car, outside a drive-in
+text: movie theater. The movie on the giant screen is partially
+text: obscured by a fence. Joel and Clementine drink wine.
+scene_heading: INT. JOEL'S BEDROOM - NIGHT
+text: Mierzwiak looks up from the computer screen.
+speaker_heading: MIERZWIAK
+dialog: Okay, we're back in.
+speaker_heading: MARY
+dialog: That was beautiful to watch, Howard.
+text: Like a surgeon or a concert pianist.
+speaker_heading: MIERZWIAK
+dialog: Well, thank you, Mary.
+speaker_heading: STAN
+dialog: (sighing)
+dialog: You get some sleep, Howard. I'll take it
+dialog: from here.
+speaker_heading: MIERZWIAK
+dialog: Yeah, probably a good idea.
+scene_heading: INT. CAR - NIGHT
+text: Clementine and Joel laugh as they try to give voice to what
+text: the characters on the screen are saying.
+speaker_heading: CLEMENTINE
+dialog: But can't you see... I love you, Antoine.
+speaker_heading: JOEL
+dialog: Don't call me Antoine. My name is Wally.
+speaker_heading: CLEMENTINE
+dialog: Yes, but I can't love a man named Wally.
+text: She starts to fade. The scene starts to fade. Joel
+dialog: remembers their previous plan.
+speaker_heading: JOEL
+dialog: They found us before. The plan didn't
+dialog: work. I don't know what to do now.
+speaker_heading: CLEMENTINE
+dialog: (mouthing to woman on screen)
+dialog: Hide me somewhere deeper? Somewhere
+dialog: buried?
+text: Joel grabs her. They run off just as the scene decays into a
+text: husk behind them.
+scene_heading: INT. JOEL'S BEDROOM - NIGHT
+text: Stan is back at the controls. Mierzwiak's at the door with
+dialog: Mary.
+speaker_heading: STAN
+dialog: Howard, they've disappeared again.
+speaker_heading: MIERZWIAK
+dialog: Oh dear.
+speaker_heading: MARY
+dialog: I'm so sorry, Howard, you must be tired.
+text: He nods, distractedly. She smiles to herself as he heads
+text: back to the equipment.
+scene_heading: EXT. SCHOOLYARD - AFTERNOON
+text: Joel, now the size of a junior high school kid and dressed
+text: accordingly, is peering around the corner of the school
+text: building toward the bike rack. Clementine is with him,
+text: dressed as she was in the parked car.
+speaker_heading: CLEMENTINE
+dialog: Look at you, cutey! What are we doing?
+speaker_heading: JOEL
+dialog: This kid, Joe Early, is going to beat the
+dialog: shit out of me.
+speaker_heading: VOICE-OVER
+dialog: I'm terrified. I thought if I hung
+dialog: around the art room long enough, he'd go
+dialog: home and I could get my bike.
+text: They head toward the bike rack. Joel's is the only bike
+dialog: remaining.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Poor Joel.
+text: They're at the bike rack and a bunch of kids, including
+text: giant, fat Joe Early come around the corner.
+speaker_heading: JOE EARLY
+dialog: Hi, Jill.
+speaker_heading: JOEL
+dialog: He calls me Jill. Everyone calls me Jill
+dialog: after this.
+text: The other kids laughs.
+speaker_heading: JOEL
+dialog: Just shut up, Joe. I'm going home.
+speaker_heading: JOE EARLY
+dialog: I don't think so. We're fighting.
+speaker_heading: JOEL
+dialog: I don't want to fight you.
+text: The kids start chanting, "fight, fight, fight..." Joe Early
+text: throws a wild punch that hits Joel in the side. joel falls
+text: and stays down, covering himself.
+speaker_heading: JOE EARLY
+dialog: C'mon, Jill. Get up, faggot. C'mon.
+text: Joel doesn't say anything. He peeks humiliated at
+text: Clementine. She's watching him. She's got a tear in her
+text: eye. She kneels down beside him, puts her arm around him.
+speaker_heading: JOEL
+text: I'm too scared to even throw a punch.
+dialog: When I tell people this story I leave
+dialog: that part out.
+text: The scene flashes violently to white and is gone.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Mierzwiak is at the machine.
+speaker_heading: MIERZWIAK
+dialog: We got him back. Stan, I think I'm just
+dialog: going to have to get through this
+dialog: manually. We're running late.
+scene_heading: EXT. BEACH - DAY
+text: It's cold. Joel and Clementine walk, all bundled up. She
+text: points at a house up the beach.
+speaker_heading: CLEMENTINE
+dialog: Our house! Our house!
+text: She runs ahead, laughing. The scene is decaying. Joel
+text: chases after her.
+speaker_heading: JOEL
+dialog: Clem, c'mon, we've got to hide you.
+dialog: Remember?
+text: He grabs her arm and yanks and they are in:
+scene_heading: INT. BOY'S BEDROOM - NIGHT
+text: It's dark. Joel, junior high school size, is in bed
+text: masturbating. Clementine is in there, too, in her winter
+text: coat, still laughing from before. She realizes what's going
+dialog: on.
+speaker_heading: CLEMENTINE
+dialog: (mock offended)
+dialog: Joel!
+speaker_heading: JOEL
+dialog: (continuing to masturbate)
+dialog: I don't like it either, but I'm just
+dialog: trying to find horrible secret place to --
+text: Joel's mother pops her head in the door.
+speaker_heading: MOTHER
+dialog: Joel, I was just --
+dialog: (sees what's going on)
+dialog: Oh. Um... I'll ask you in the morning,
+dialog: honey. Have a good night.
+text: The mother backs out, closes the door. Joel cringes.
+text: Clementine laughs, still in the mode of the memory she was
+text: swiped from. Flash! It's all gone.
+scene_heading: INT. RESTAURANT - NIGHT
+text: Joel and Clementine are laughing as she blows out the candle
+text: on a slice of cheesecake in front of her. Joel hands her a
+text: small wrapped box.
+speaker_heading: JOEL
+dialog: Happy Birthday.
+speaker_heading: CLEMENTINE
+dialog: (unwrapping the gift)
+dialog: Thanks, Joely. A present! Oh boy!
+text: She pulls out the bracelet. It's the same bracelet Patrick
+dialog: gave her.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Oh, Joel. It's beautiful!
+dialog: (slip it on)
+dialog: I mean, you're the first guy who ever
+dialog: bought me a piece of jewelry I could
+dialog: honestly say that about.
+text: He notices she's starting to fade.
+speaker_heading: JOEL
+dialog: I scoured the city for it.
+speaker_heading: CLEMENTINE
+dialog: I love it!
+text: She leans across the table to kiss him. He grabs her and
+text: runs through the decaying scene and into the vague night.
+scene_heading: EXT. SUBURBAN STREET - DAY
+text: Joel is one of a group of five year olds. He holds a hammer
+text: and is poised to hit a dead bird in a red wagon. The other
+text: boys are goading him.
+speaker_heading: BOYS
+dialog: C'mon, Joel, you have to. Do it already.
+text: Joel doesn't want to. Clementine watches.
+speaker_heading: JOEL
+dialog: I can't. I have to go home. I'll do it
+dialog: later.
+speaker_heading: VOICE-OVER
+dialog: I didn't want to do this. But I had to
+dialog: or they would've called me a girl.
+text: Joel miserably smashes the bird repeatedly with the hammer.
+text: Red jelly guts cover the hammer and the wagon bottom. The
+dialog: kids hoot.
+speaker_heading: VOICE-OVER
+dialog: I can't believe I did that. I'm so
+dialog: ashamed.
+text: A live bird watches from a tree. Clementine, still dressed
+text: for her birthday dinner (wearing her new bracelet), pulls
+text: Joel away from the other boys. The two of them walk down
+text: Joel's suburban street.
+speaker_heading: CLEMENTINE
+dialog: It's okay. You were a little kid.
+dialog: (beat)
+dialog: This is a great birthday present.
+dialog: Getting to see you as a boy.
+text: She kisses him and they walk holding hands.
+speaker_heading: JOEL
+dialog: (pointing)
+dialog: That's where I live. Lived.
+text: Joel looks down at her hand. It's fading. The bracelet is
+text: gone. Clementine is gone. His childhood house is gone.
+scene_heading: INT. JOEL'S BEDROOM - NIGHT
+text: Mierzwiak works the equipment. He has located a small area
+text: of light in the brain imaging and eradicates them.
+speaker_heading: MIERZWIAK
+dialog: I'm getting the hang of it. I still
+dialog: understand it. But I'm finding him
+dialog: quickly enough. I'm hopeful there won't
+dialog: be too much peripheral eradication.
+text: Mary sits on the bed.
+speaker_heading: MARY
+dialog: (a little giggly)
+dialog: I like watching you work.
+text: Stan sighs, grabs his coat.
+speaker_heading: STAN
+dialog: I'll go out for a smoke. If no one
+dialog: minds.
+speaker_heading: MIERZWIAK
+dialog: (not looking up)
+dialog: That's fine, Stan.
+text: Mary doesn't say anything. Stan huffs and is out the door.
+text: Mierzwiak continues to find and erase points of light. Mary
+text: gets up her courage to speak.
+speaker_heading: MARY
+dialog: Do you like quotes, Howard?
+speaker_heading: MIERZWIAK
+dialog: How do you mean?
+speaker_heading: MARY
+dialog: Oh, um, like famous quotes. I find
+dialog: reading them inspirational to me. And in
+dialog: my reading I've come across some I
+dialog: thought you might like, too.
+speaker_heading: MIERZWIAK
+dialog: Oh. Well, I'd love to hear some.
+text: Mary is thrilled, beside herself. She tries to calm down.
+speaker_heading: MARY
+dialog: Okay, um, there's one that goes "Blessed
+dialog: are the forgetful, for they get the
+dialog: better even of their blunders."
+speaker_heading: MIERZWIAK
+dialog: Is that Nietzsche?
+speaker_heading: MARY
+dialog: Yeah, yeah it is, Howard. And here I was
+dialog: thinking I could tell you something you
+dialog: didn't know.
+speaker_heading: MIERZWIAK
+dialog: It's a good quote, Mary. I'm glad we
+dialog: both know it.
+text: He smiles at her. She's flustered, flattered.
+speaker_heading: MARY
+dialog: (sputtering)
+dialog: There's another one I like, I read. It's
+dialog: by Pope Alexander.
+speaker_heading: MIERZWIAK
+dialog: Alexander Pope?
+speaker_heading: MARY
+dialog: Yes, shit. Oops, sorry!
+dialog: (puts hand over mouth)
+dialog: Sorry. It's just I told myself I wasn't
+dialog: going to say Pope Alexander and sound
+dialog: like a dope and then I go ahead and do
+dialog: it. Like I psyched myself out.
+speaker_heading: MIERZWIAK
+dialog: It's no big deal.
+speaker_heading: MARY
+dialog: You are such a sweetheart.
+text: There's an embarrassed moment as that line hangs in the air.
+text: Then Mary plunges ahead to bury it.
+speaker_heading: MARY (CONT'D)
+dialog: Anyway, the quote goes "How happy is the
+dialog: blameless Vestal's lot! The world
+dialog: forgetting, by the world forgot: Eternal
+dialog: sunshine of the spotless mind! Each
+dialog: prayer accepted, and each wish resign'd".
+text: She smiles, proud and embarrassed.
+speaker_heading: MIERZWIAK
+dialog: That's lovely.
+speaker_heading: MARY
+dialog: Really? I thought it was appropriate
+dialog: maybe. That's all.
+dialog: (beat, then quickly)
+dialog: I really admire the work that you do. I
+dialog: know it's not proper to be so familiar
+dialog: but I guess since we're outside the
+dialog: workplace I feel a certain liberty to --
+speaker_heading: MIERZWIAK
+dialog: It's fine, Mary. I'm happy to hear it.
+speaker_heading: MARY
+dialog: Okay. Good. Great. Thanks.
+dialog: (blurting)
+dialog: I like you, Howard... an awful lot. Is
+dialog: that terrible?
+text: Mierzwiak seems momentarily taken aback, then returns to his
+text: unflappable self.
+speaker_heading: MIERZWIAK
+dialog: You're a wonderful girl, Mary.
+text: She leans over and kisses him, then pulls away quickly.
+speaker_heading: MARY
+dialog: I've loved you for a very long time. I'm
+dialog: sorry! I shouldn't have said that.
+speaker_heading: MIERZWIAK
+dialog: I've got a wife, Mary. Kids. You know
+dialog: that.
+speaker_heading: MARY
+dialog: (suddenly weepy)
+dialog: I wish I was your wife. I wish I had
+dialog: your kids.
+text: Mierzwiak comforts her with a hug. It turns into kiss. He
+text: pulls away.
+speaker_heading: MIERZWIAK
+dialog: We can't do this.
+speaker_heading: MARY
+dialog: No you're right. Once again. You're a
+dialog: decent man, Howard.
+text: He smiles sadly at her. She smiles courageously at him.
+speaker_heading: MIERZWIAK
+dialog: I want you to know it's not because I'm
+dialog: not interested. If that means anything.
+text: They look at each other a long while, then Howard goes back
+text: to locating and eradicating blips of lights.
+scene_heading: EXT. JOEL'S APARTMENT BUILDING - NIGHT
+text: Stan sits in the van and smokes a cigarette. He has an
+text: unobstructed view into Joel's bedroom window. He watches
+text: Mierzwiak and Mary. They're talking as Howard works. It
+text: appears to be a very serious discussion. A car pulls up
+text: outside. Stan turns to see. A middle-aged woman gets out,
+text: checks the address on Joel's building, approaches the only
+text: lit window, watches Mierzwiak and Mary inside. Mierzwiak's
+text: resolve has apparently weakened and he and Mary kiss again.
+text: This time it leads to groping, partial undressing, and
+text: falling onto the bed alongside the unconscious Joel. The
+text: woman in the window is transfixed. As Mierzwiak fumbles to
+text: unzip his pants, he catches sight of the woman in the window.
+text: He practically shrieks and jumps up.
+scene_heading: EXT. COUNTRY ROAD - DAY
+text: Joel and Clementine walking, hand-in-hand, look up
+dialog: simultaneously.
+scene_heading: INT. JOEL'S BEDROOM - CONTINUOUS
+text: Mary looks confusedly at Howard.
+speaker_heading: MARY
+dialog: What?
+text: She follows his eyes and sees the woman in the window, who
+text: turns and walks off in a huff.
+speaker_heading: MARY (CONT'D)
+dialog: Oh my God!
+text: Mierzwiak is already in his coat. He's out the door.
+scene_heading: EXT. JOEL'S APARTMENT BUILDING - CONTINUOUS
+text: The woman is at her car. Stan watches from the van.
+text: Mierzwiak is hurrying to the woman.
+speaker_heading: MIERZWIAK
+dialog: Hollis! Hollis!
+scene_heading: HOLLIS (THE MIDDLE-AGED WOMAN)
+dialog: I knew it, Howard. I don't even know why
+dialog: I bothered to copy the damn address.
+speaker_heading: MIERZWIAK
+dialog: It didn't start out to be this. I came
+dialog: here to work. It's a one-time mistake.
+text: Mary is right behind Mierzwiak now. Hollis is in her car.
+speaker_heading: MARY
+dialog: (heroically)
+dialog: Mrs. Mierzwiak, it's true. And it's not
+dialog: Mr. Mierzwiak's fault. I'm a stupid
+text: little girl with a stupid little crush.
+dialog: I basically forced him into it. I swear.
+text: Hollis turns, looks at Mary and then at Mierzwiak.
+speaker_heading: HOLLIS
+dialog: Don't be a monster, Howard. Tell the
+dialog: girl.
+text: Stan is out of the van now, listening. Mary shivers in the
+text: cold, hugs herself. There's a long silence. Then:
+speaker_heading: MARY
+dialog: Tell me what?
+text: Hollis and Mierzwiak have locked eyes. Mary looks back and
+text: forth between them. Hollis starts her car.
+speaker_heading: HOLLIS
+dialog: Poor kid. You can have him. You did.
+text: She drives off. Mary watches Howard with increased
+text: foreboding.
+speaker_heading: MARY
+dialog: What, Howard?
+speaker_heading: MIERZWIAK
+dialog: We... have a history. I'm sorry. You
+dialog: wanted the procedure. You wanted it
+dialog: done... to get past. I have to finish in
+dialog: there. It's almost morning. We'll talk
+dialog: later.
+text: He shuffles inside. Mary stands there, unable to digest
+text: this, struggling in vain to remember. Stan watches.
+speaker_heading: STAN
+dialog: Let me take you home.
+text: Mary shakes her head "no." She walks off, dazed.
+scene_heading: EXT. CHARLES RIVER - NIGHT
+text: Clementine and Patrick lie on their backs on the frozen river
+text: and look up at the night sky.
+speaker_heading: PATRICK
+dialog: I could die right now, Clem. I'm just
+dialog: happy. I've never felt that before. I'm
+dialog: just exactly where I want to be.
+text: Clementine looks over at him. Their eyes meet. She sobs.
+speaker_heading: CLEMENTINE
+dialog: I want to go home.
+text: She hurries toward the shore, slips on the ice, gets up, and
+text: continues, now running.
+scene_heading: INT. COMMUTER TRAIN - NIGHT
+text: Mary, in shock, sits in the empty fluorescent car. She tries
+text: to look out the window but can only see her own reflection.
+scene_heading: INT. JOEL'S BEDROOM - NIGHT
+text: It's deathly silent as Mierzwiak and Stan work on completing
+text: the job. Mierzwiak locates a light hidden very deep in the
+text: map of Joel's brain. He targets it.
+scene_heading: EXT. ROWBOAT - DAY
+text: Joel, the size of a ten year old, sits fishing with his
+text: oversized father. Clementine is naked and in the boat, too.
+text: She's reading The Play by Stephen Dixon.
+speaker_heading: CLEMENTINE
+dialog: I love this book, Joel. Thank you so
+dialog: much for telling me about it.
+text: Joel is his father. The father is drunk and sullen. He
+text: faces away from Joel, looks out at the lake.
+speaker_heading: FATHER
+dialog: Don't be like me, son. Don't waste your
+dialog: life. You'll come to a point someday
+dialog: where it'll be too late. You'll be sewn
+dialog: into your fate...
+speaker_heading: JOEL
+dialog: It was horrifying, seeing my father like
+dialog: that.
+dialog: There was no hope for me if his life was
+dialog: such a failure. And he saw failure in
+dialog: me, too, written in my future.
+text: Clementine watches the frightened, confused Joel.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Joel, you're not sewn in. He's wrong.
+speaker_heading: FATHER
+dialog: ...and there'll be nowhere to go except
+dialog: where you're headed, like a train on a
+text: track. Inevitable, unalterable.
+text: The scene poops out of existence with a flash of light.
+scene_heading: INT. CHINESE RESTAURANT - NIGHT
+text: Joel finds himself eating Chinese food and sitting across
+text: from Clementine. He is ragged and jarred.
+speaker_heading: JOEL
+dialog: I'm done, Clem. I'm just going to ride
+text: it out. Hiding is clearly not working.
+speaker_heading: CLEMENTINE
+dialog: Yeah.
+speaker_heading: JOEL
+dialog: I want to enjoy my little time left with
+dialog: you.
+speaker_heading: CLEMENTINE
+dialog: This is our first "date" date.
+speaker_heading: JOEL
+dialog: Do you remember what we talked about?
+speaker_heading: CLEMENTINE
+dialog: Naomi, I guess.
+speaker_heading: JOEL
+dialog: Yeah.
+speaker_heading: CLEMENTINE
+dialog: What was I wearing?
+speaker_heading: JOEL
+dialog: God, I should know. Your hair was red.
+dialog: I remember it matched the wallpaper.
+speaker_heading: CLEMENTINE
+dialog: Egad, were you horrified?
+speaker_heading: JOEL
+dialog: No! I think you were wearing that black
+dialog: dress, y'know, with the buttons.
+text: She is wearing the black dress.
+speaker_heading: CLEMENTINE
+dialog: No, you were with me when I bought that.
+dialog: At that place on East 6th. It was later.
+scene_heading: INT. DRESS SHOP - SHOP
+text: The scene has already been erased. It's just a decayed husk.
+text: A vague Joel watches a vague Clementine model a black dress.
+scene_heading: INT. RESTAURANT - NIGHT
+text: Clementine wears a generic black dress now.
+speaker_heading: JOEL
+text: Right. Something black though.
+speaker_heading: CLEMENTINE
+dialog: I'll buy that. Black's always good.
+speaker_heading: JOEL
+dialog: We did talk about Naomi.
+speaker_heading: CLEMENTINE
+dialog: I said: Are you sure? You seem unsure.
+speaker_heading: JOEL
+dialog: I'm sure, I said.
+speaker_heading: CLEMENTINE
+dialog: But you weren't. I could tell.
+speaker_heading: JOEL
+dialog: I was so nervous. I remember I couldn't
+dialog: think of anything to say. There were
+text: long silences.
+text: There is a long silence.
+speaker_heading: JOEL (CONT'D)
+dialog: I thought I was foolish. I thought I'd
+dialog: mistaken infatuation for love. You said:
+speaker_heading: CLEMENTINE
+dialog: So what. Infatuation is good, too.
+speaker_heading: JOEL
+dialog: And I didn't have an argument.
+scene_heading: INT. CAR - NIGHT
+text: Joel and Clementine pull up to Clementine's house.
+speaker_heading: JOEL
+dialog: I dropped you off after. You said --
+speaker_heading: CLEMENTINE
+dialog: (Mae West)
+dialog: Come up and see me... now.
+speaker_heading: JOEL
+dialog: It's very late.
+speaker_heading: CLEMENTINE
+dialog: Yes, exactly. Exactly my point.
+scene_heading: INT. CLEMENTINE'S APARTMENT - NIGHT
+text: Joel and Clementine are in the midst of awkward shy sex.
+speaker_heading: JOEL
+dialog: This was our first time.
+text: The scene starts to fade. Joel watches Clementine disappear.
+scene_heading: INT. LACUNA RECEPTION AREA - NIGHT
+text: Mary enters the dark room, frazzled. She flips on the
+text: fluorescent lights and searches the file folders, finds one
+text: with her name on it. Her jaw drops. With a shaky hand, she
+text: puts the tape into the player on her desk and presses "play."
+scene_heading: MIERZWIAK VOICE
+dialog: Okay, so just tell me what you remember.
+dialog: And we'll take it from there.
+speaker_heading: MARY'S VOICE
+dialog: (shaky)
+dialog: Um, I liked you immediately. At the job
+dialog: interview. You seemed so... important
+dialog: and mature. And I loved that you were
+dialog: helping all these people. You didn't
+dialog: come on to me at all. I liked that. I
+dialog: was tongue-tied around you at first. I
+dialog: wanted you to think I was smart. You
+dialog: were so nice. I loved the way you
+dialog: smelled. I couldn't wait to come to
+dialog: work. I had these fantasies of us being
+dialog: married and having kids and just...
+dialog: (starts to cry)
+dialog: ...and so... then... when...
+dialog: that one day, when I thought you looked
+dialog: at me back... like... Oh, Howie, I can't
+dialog: do this? How can I do this?
+scene_heading: MIERZWIAK VOICE
+dialog: It's what's best, Mary. You know that.
+text: Mary slumps to the floor. We move into her eyes.
+speaker_heading: MARY'S VOICE
+dialog: Yeah, I know. Oh, God. Okay, well, I
+dialog: was so excited...
+text: A SERIES OF MURKY IMAGES. NO DETAIL.
+text: A flirtatious look from Mierzwiak.
+speaker_heading: MARY'S VOICE (CONT'D)
+dialog: ...Remember you bought me that little
+dialog: wind-up frog?
+text: A vague shot of a wind-up frog.
+speaker_heading: MARY'S VOICE (CONT'D)
+dialog: And you said...
+text: A vague shot of Mierzwiak mouthing to Mary's voice.
+speaker_heading: MARY'S VOICE (CONT'D)
+dialog: "This is for your desk. Just a little
+dialog: token"
+text: Back to Mary sitting on the floor, listening to the tape.
+speaker_heading: MARY'S VOICE (CONT'D)
+dialog: I knew then... I knew something was going
+dialog: to happen... something wonderful.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel sits in the quiet living room. The scene is fading.
+speaker_heading: JOEL
+dialog: Naomi.
+speaker_heading: VOICE-OVER
+text: On the couch. Dark. Quiet. I wondered
+dialog: if I had made a terrible mistake. I
+text: almost reached for the phone about a
+dialog: thousand times. I thought I could take
+dialog: it back, erase it, explain I had
+dialog: momentarily lost my mind. Then I told
+dialog: myself we weren't happy. That was the
+dialog: truth. That what we were was safe.
+dialog: It was unfair to you and to me to stay in
+dialog: a relationship for that reason. I
+dialog: thought about Clementine and the spark
+dialog: when I was with her, but then I thought
+dialog: what you and I had was real and adult and
+dialog: therefore significant even if it wasn't
+dialog: much fun. But I wanted fun. I saw
+dialog: other people having fun and I wanted it.
+dialog: Then I thought fun is a lie, that no one
+dialog: is really having fun; I'm being suckered
+dialog: by advertising and movie bullshit... then
+dialog: I thought maybe not, maybe not. And then
+dialog: I thought, as I always do at this point
+dialog: in my argument, about dying.
+scene_heading: INT. ROOM - DAY
+text: An elderly man sits.
+speaker_heading: VOICE-OVER
+dialog: I projected myself to the end of my life
+dialog: in some vague rendition of my old man
+text: self. I imagined looking back with a
+text: tremendous hole of regret in my heart.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel sits.
+speaker_heading: VOICE-OVER
+dialog: I didn't pick up the phone to call you,
+text: Naomi. I didn't pick up the phone.
+text: The scene dissolves.
+scene_heading: INT. JOEL'S APARTMENT - DAY
+text: Namoi is red-eyed from crying. She is packing things in
+text: boxes. Joel paces, steals glances at her, doesn't know what
+text: to say. She holds up a book. The scene starts to fade.
+speaker_heading: NAOMI
+dialog: Yours?
+speaker_heading: JOEL
+dialog: You take it. I don't know.
+text: She tosses it in a box.
+speaker_heading: JOEL (CONT'D)
+dialog: Naomi, I really value our relationship.
+dialog: I hope it's possible for us to stay in
+dialog: touch.
+speaker_heading: NAOMI
+dialog: Don't do this to me now, Joel. Really.
+scene_heading: INT. JOEL'S BEDROOM - DAY
+text: Joel watches out the window as Naomi stuffs a final box in
+text: the trunk of a car. There's another woman down there with
+text: her. They get into the car and drive off.
+scene_heading: INT. BORDER'S BOOKSTORE - NIGHT
+text: Joel talks to Clementine. The scene is fogging over.
+speaker_heading: JOEL
+dialog: I told her today I need to end it.
+speaker_heading: CLEMENTINE
+dialog: Is that what you want?
+speaker_heading: JOEL
+dialog: I did it. I guess that means something.
+text: Clementine shrugs. The scene fades.
+scene_heading: EXT. PARK - DAY
+text: Joel walks with Naomi.
+speaker_heading: NAOMI
+dialog: So what's going on, Joel?
+speaker_heading: JOEL
+dialog: I don't know, I've just been thinking,
+dialog: maybe we're not happy with each other.
+speaker_heading: NAOMI
+dialog: What?
+speaker_heading: JOEL
+dialog: Y'know, we've been, I don't know, sort
+dialog: of, unhappy with each other and --
+speaker_heading: NAOMI
+dialog: Don't say "we" when you mean "you."
+speaker_heading: JOEL
+dialog: I think maybe, we're both so used to
+dialog: operating at this level that -- How can
+dialog: one person be unhappy? If one person is
+dialog: unhappy, both have to be... by
+dialog: definition.
+speaker_heading: NAOMI
+dialog: Bullshit. Who is it? You met someone.
+speaker_heading: JOEL
+dialog: No. I just need some space, maybe.
+speaker_heading: NAOMI
+dialog: The thing is, Joel, whatever it is you
+dialog: think you have with this chick, once the
+dialog: thrill wears off, you're just going to be
+dialog: Joel with the same fucking problems.
+speaker_heading: JOEL
+dialog: It's not somebody else.
+speaker_heading: VOICE-OVER
+dialog: I hate myself.
+text: Naomi walks off. Joel watches her. The scene fades.
+scene_heading: INT. BORDER'S BOOKSTORE - NIGHT
+text: Joel enters, looks around. There's no sign of Clementine.
+text: Joel approaches a male employee.
+speaker_heading: JOEL
+dialog: Is there a Clementine who works here?
+scene_heading: MALE EMPLOYEE #1
+dialog: (calling to another male
+dialog: employee)
+dialog: Mark, is Clem on tonight?
+scene_heading: MALE EMPLOYEE #2
+dialog: On my dick, bro.
+dialog: (turns, sese Joel, embarrassed)
+dialog: Oh, hey. Yeah, I think she's upstairs in
+dialog: Philosophy.
+text: Joel climbs stairs, searches the aisle, spots Clementine.
+speaker_heading: JOEL
+dialog: Hi.
+text: She turns.
+speaker_heading: CLEMENTINE
+dialog: I didn't think you'd show your face
+dialog: around me again. I figured you were
+dialog: humiliated. You did run away, after all.
+speaker_heading: JOEL
+dialog: Sorry to track you down like this. I'm
+dialog: not a stalker. But I needed to see you.
+speaker_heading: CLEMENTINE
+dialog: (seemingly uninterested)
+dialog: Yeah?
+speaker_heading: JOEL
+dialog: I'd like to... take you out or something.
+speaker_heading: CLEMENTINE
+dialog: Well, you're married.
+speaker_heading: JOEL
+text: Not yet. Not married.
+speaker_heading: CLEMENTINE
+dialog: Look, man, I'm telling you right off the
+dialog: bat, I'm high maintenance. So I'm not
+dialog: going to tiptoe around your marriage or
+dialog: whatever it is you got going there. If
+dialog: you want to be with me, you're with me.
+speaker_heading: JOEL
+dialog: Okay.
+speaker_heading: CLEMENTINE
+dialog: So make your domestic decisions and maybe
+dialog: we'll talk again.
+text: She goes back to stacking. Joel stands there helplessly.
+speaker_heading: JOEL
+dialog: I just think that you have some kind
+dialog: of... quality that seems really important
+dialog: to me.
+text: The scene is disintegrating. Clementine's speech is
+text: delivered without passion.
+speaker_heading: CLEMENTINE
+dialog: Joel, I'm not a concept. I want you to
+dialog: just keep that in your head. Too many
+dialog: guys think I'm a concept or I complete
+dialog: them or I'm going to make them alive, but
+dialog: I'm just a fucked-up girl who is looking
+dialog: for my own peace of mind. Don't assign
+dialog: me yours.
+speaker_heading: JOEL
+dialog: I remember that speech really well.
+speaker_heading: CLEMENTINE
+dialog: (smiling)
+dialog: I had you pegged, didn't I?
+speaker_heading: JOEL
+dialog: You had the whole human race pegged.
+speaker_heading: CLEMENTINE
+dialog: Probably.
+speaker_heading: JOEL
+dialog: I still thought you were going to save
+dialog: me. Even after that.
+speaker_heading: CLEMENTINE
+dialog: I know.
+speaker_heading: JOEL
+dialog: It would be different, if we could just
+dialog: give it another go around.
+speaker_heading: CLEMENTINE
+dialog: Remember me. Try your best. Maybe we
+dialog: can.
+text: The scene is gone.
+scene_heading: INT. ROB AND CARRIE'S CAR - NIGHT
+text: Joel sits forlornly in the back seat. Rob drives and Carrie
+text: sits in the front passenger seat. The car stops in front of
+text: Joel's apartment building.
+speaker_heading: JOEL
+dialog: Thanks, guys.
+speaker_heading: CARRIE
+dialog: I hope you feel better, sweetie.
+speaker_heading: JOEL
+dialog: Yeah.
+speaker_heading: CARRIE
+dialog: Say hi to Naomi.
+text: The car door closes.
+scene_heading: INT. BUILDING STAIRWAY - NIGHT
+text: Joel climbs the stairs.
+speaker_heading: VOICE-OVER
+dialog: I hope she's not up. I need to think.
+scene_heading: INT. JOEL'S BEDROOM - NIGHT
+text: The lights are off. Joel sits on a chair near the window,
+text: writing in his journal. The streetlight illuminates the
+text: paper. Naomi sleeps in the bed.
+speaker_heading: VOICE-OVER
+dialog: I met someone tonight at a party on the
+text: beach. Her name is Clementine. There is
+text: something alive about her.
+text: Naomi turns over in bed, sees Joel.
+speaker_heading: NAOMI
+dialog: (full of sleep)
+dialog: Hi.
+speaker_heading: JOEL
+dialog: Hi.
+speaker_heading: NAOMI
+dialog: How was it?
+speaker_heading: JOEL
+dialog: You didn't miss much. Rob Carrie say
+dialog: hello.
+speaker_heading: NAOMI
+dialog: Hi, Rob and Carrie.
+speaker_heading: JOEL
+dialog: Go back to sleep.
+text: The room is starting to decompose.
+speaker_heading: NAOMI
+dialog: Yeah. Come to bed. I'm cold.
+speaker_heading: JOEL
+text: In a minute.
+text: Naomi turns over. Joel goes back to his writing.
+speaker_heading: VOICE-OVER
+dialog: (more and more emotionless)
+dialog: I don't know what to do about this. I've
+dialog: been feeling so alienated and numb
+dialog: lately. Forever. The thought of not
+dialog: acknowledging my feelings again seems
+dialog: self-destructive.
+dialog: How can I continue on this path toward a
+text: living death, a life filled with
+dialog: obligation and guilt and responsibility
+dialog: but joyless, hopeless? I need to speak
+dialog: with Clementine.
+text: The scene has turned to a husk.
+scene_heading: INT. JOEL'S APARTMENT - AFTERNOON
+text: Joel is at his closet, putting on a sweater. Naomi is at the
+text: dining room table, papers spread out before her, writing.
+text: Joel turns and watches her for a moment.
+speaker_heading: JOEL
+dialog: So you don't mind?
+speaker_heading: NAOMI
+dialog: I've got to finish this chapter anyway.
+text: The scene is fading.
+speaker_heading: JOEL
+dialog: Okay. I wish you could come.
+speaker_heading: VOICE-OVER
+dialog: This is it. The night we met. My God,
+text: it's over.
+speaker_heading: NAOMI (CONT'D)
+dialog: Me, too.
+text: He approaches Naomi, kisses her on the top of the head. She
+dialog: continues to write.
+speaker_heading: NAOMI (CONT'D)
+dialog: Say hi to Rob and Carrie. Have some fun!
+speaker_heading: JOEL
+dialog: I hope you get your work done.
+speaker_heading: NAOMI
+dialog: (sighing)
+dialog: Yeah.
+scene_heading: INT. ROB AND CARRIE'S CAR - NIGHT
+text: Rob drives. Carrie fiddles with the radio dial in the front
+text: passenger seat. Joel sits in the back.
+speaker_heading: CARRIE
+dialog: I'm sorry Naomi couldn't make it. You
+dialog: okay? You seem quiet.
+speaker_heading: JOEL
+dialog: Just a little overworked, maybe.
+speaker_heading: VOICE-OVER
+dialog: The trip to the party where I met
+dialog: Clementine. My first memory of her is
+dialog: now my last memory of her.
+text: Joel looks out the window. Carrie turns around and says
+text: something to Joel. She is backlit, her hair a halo of frizz.
+speaker_heading: JOEL
+dialog: I remember you turned around. Your face
+dialog: was dark and your hair was backlit -- I
+dialog: could see a halo of frizz -- you asked me
+dialog: if things were okay between Naomi and me.
+speaker_heading: CARRIE
+dialog: I did. You said, things were fine.
+speaker_heading: JOEL
+dialog: I remember.
+speaker_heading: CARRIE
+dialog: This is the night you met Clementine,
+dialog: Joel. I remember watching you walk down
+dialog: the beach with her and I thought, oh
+dialog: shit.
+speaker_heading: JOEL
+dialog: Yeah, you told me that later.
+speaker_heading: CARRIE
+dialog: I told you that later.
+text: Joel looks out he window. He sees the husk of a memory on
+text: the darkened roadside. It's Joel and Carrie in:
+scene_heading: INT. ROB AND CARRIE'S KITCHEN - DAY
+text: Faded. Carrie and Joel sit at the table with coffee.
+speaker_heading: CARRIE
+dialog: Who was the girl you walked off with?
+speaker_heading: JOEL
+dialog: No one.
+scene_heading: EXT. BEACH PARKING LOT - NIGHT
+text: Rob, Carrie, and Joel emerge from the car, parked amidst a
+text: small cluster of cars in an otherwise empty parking lot.
+scene_heading: EXT. BEACH - NIGHT
+text: Joel watches his shoes in the sand as he trudges along.
+speaker_heading: CARRIE
+dialog: Is this the right way?
+scene_heading: EXT. BEACH - MOMENTS LATER
+text: Joel, Rob, and Carrie step out of the brush and see a bonfire
+text: down the beach. People and music can be heard.
+scene_heading: EXT. BEACH - LATER
+text: Joel sits on a log, a paper plate of chicken and corn on his
+text: lap. People warm themselves at the fire. Joel watches
+text: couples talking, kissing, Rob sharing a joint with a guy.
+speaker_heading: JOEL
+dialog: You were down by the surf. I could just
+dialog: make you out in the dark.
+text: Joel looks down to the water. There's Clementine, in her
+text: orange hooded sweatshirt, looking out to sea.
+speaker_heading: JOEL (CONT'D)
+dialog: Your back to me. In that orange
+dialog: sweatshirt I would come to know so well
+dialog: and even hate eventually. At the time I
+dialog: thought, how cool, an orange sweatshirt.
+speaker_heading: VOICE-OVER
+dialog: I remember being drawn to you even then.
+dialog: I thought, I love this woman because
+text: she's alone down there looking out at the
+text: black ocean.
+speaker_heading: JOEL (CONT'D)
+dialog: But I went back to my food. The next
+dialog: thing I remember, I felt someone sitting
+text: next to me and I saw the orange sleeve
+text: out of the corner of my eye.
+text: A shot of the orange sleeve. Joel looks up.
+speaker_heading: CLEMENTINE
+dialog: Hi there.
+speaker_heading: JOEL
+dialog: Hi.
+speaker_heading: VOICE-OVER
+dialog: I was so nervous. What were you doing
+dialog: there, I wondered. Your hair was lime
+dialog: green. Green revolution.
+text: A shot of her green hair.
+speaker_heading: JOEL
+dialog: You said...
+speaker_heading: CLEMENTINE
+dialog: I saw you sitting over here. By
+dialog: yourself. I thought, thank God, someone
+dialog: normal, who doesn't know how interact at
+dialog: these things either.
+speaker_heading: JOEL
+dialog: Yeah. I don't ever know what to say.
+speaker_heading: CLEMENTINE
+dialog: I can't tell you how happy I am to hear
+dialog: that. I mean, I don't mean I'm happy
+dialog: you're uncomfortable, but, yknow... I'm
+dialog: such a loser. Every time I come to a
+dialog: party I tell myself I'm going to be
+dialog: different and it's always exactly the
+dialog: same and then I hate myself after for
+dialog: being such a clod.
+speaker_heading: JOEL
+dialog: Even then I didn't believe you entirely.
+dialog: I thought how could you be talking to me
+dialog: if you couldn't talk to people?
+speaker_heading: VOICE-OVER
+dialog: But I thought, I don't know, I thought it
+dialog: was cool that you were sensitive enough
+dialog: to know what I was feeling and that you
+dialog: were attracted to it.
+speaker_heading: CLEMENTINE
+dialog: But, I don't know, maybe we're the normal
+dialog: ones, y'know? I mean, what kind of
+dialog: people do well at this stuff?
+speaker_heading: VOICE-OVER
+dialog: And I just liked you so much.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: You did? You liked me?
+speaker_heading: JOEL
+dialog: You know what I did.
+speaker_heading: CLEMENTINE
+dialog: Yeah, I know. I'm fishing.
+speaker_heading: JOEL
+dialog: You said --
+text: She picks a drumstick off of Joel's plate.
+speaker_heading: CLEMENTINE
+dialog: I'm Clementine. Can I borrow a piece of
+dialog: your chicken?
+speaker_heading: JOEL
+dialog: And you picked it out of my plate before
+dialog: I could answer and it felt so intimate
+dialog: like we were already lovers.
+speaker_heading: JOEL (CONT'D)
+dialog: I remember --
+speaker_heading: VOICE-OVER
+dialog: The grease on your chin in the bonfire
+text: light.
+text: Shot of a smudge of chicken grease on Clementine's chin.
+speaker_heading: CLEMENTINE
+dialog: Oh God, how horrid.
+speaker_heading: JOEL
+dialog: I'm Joel.
+speaker_heading: VOICE-OVER
+dialog: No, it was lovely.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Hi, Joel. So no jokes about my name?
+speaker_heading: JOEL
+dialog: You mean, like...
+dialog: (singing)
+dialog: Oh, my darlin', oh, my darlin', oh, my
+dialog: darlin', Clementine... ? Huckleberry
+dialog: Hound? That sort of thing?
+speaker_heading: CLEMENTINE
+dialog: Yeah, like that.
+speaker_heading: JOEL
+dialog: Nope. No jokes. My favorite thing when
+dialog: I was a kid was my Huckleberry Hound
+dialog: doll. I think your name is magic.
+text: She smiles.
+speaker_heading: CLEMENTINE
+dialog: (eyes welling)
+dialog: This is it, Joel. It's gonna be gone
+dialog: soon.
+speaker_heading: JOEL
+dialog: I know.
+speaker_heading: CLEMENTINE
+dialog: What do we do?
+speaker_heading: JOEL
+dialog: Enjoy it. Say good-bye.
+text: She nods.
+text: Joel and Clementine are walking near the surf.
+speaker_heading: JOEL (CONT'D)
+dialog: So you're still on the Zoloft?
+speaker_heading: VOICE-OVER
+dialog: Next thing I remember we were walking
+text: down near the surf.
+speaker_heading: CLEMENTINE
+dialog: No, I stopped. I didn't want to feel
+text: like I was being artificially modulated.
+speaker_heading: JOEL
+dialog: I know what you mean. That's why I
+dialog: stopped.
+speaker_heading: CLEMENTINE
+dialog: But my sleeping is really fucked up.
+speaker_heading: JOEL
+dialog: I don't think I've slept in a year.
+speaker_heading: CLEMENTINE
+dialog: You should try Xanax. I mean, it's a
+dialog: chemical and all, but it works... and it
+dialog: works just having it around, knowing that
+dialog: it's there. Like insurance.
+speaker_heading: JOEL
+dialog: yeah?
+speaker_heading: CLEMENTINE
+dialog: I'll give you a couple. See what you
+dialog: think.
+speaker_heading: JOEL
+dialog: Okay.
+speaker_heading: CLEMENTINE
+dialog: Have you ever read any Anna Akhmatova?
+speaker_heading: JOEL
+dialog: I love her.
+speaker_heading: CLEMENTINE
+dialog: Really? Me, too! I don't meet people
+dialog: who even know who she is and I work in a
+dialog: book store.
+speaker_heading: JOEL
+dialog: I think she's great.
+speaker_heading: CLEMENTINE
+dialog: Me too. There's this poem --
+speaker_heading: JOEL
+dialog: Did this conversation come before or
+dialog: after we saw the house?
+speaker_heading: CLEMENTINE
+dialog: I think, before.
+speaker_heading: JOEL
+dialog: Seems too coincidental that way.
+speaker_heading: CLEMENTINE
+dialog: Yeah, maybe.
+text: Joel and Clementine wander near some beach houses closed for
+dialog: the winter.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Do you know her poem that starts "Seaside
+dialog: gusts of wind,/And a house in which we
+dialog: don't live...
+speaker_heading: JOEL
+dialog: Yeah, yeah. It goes "Perhaps there is
+dialog: someone in this world to whom I could
+dialog: send all these lines"?
+speaker_heading: CLEMENTINE
+dialog: Yes! I love that poem. It breaks my
+dialog: heart. I'm so excited you know it.
+dialog: (pointing to houses)
+dialog: Look, houses in which we don't live.
+text: Joel chuckles appreciatively.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: I wish we did. You married?
+speaker_heading: JOEL
+dialog: Um, no.
+speaker_heading: CLEMENTINE
+dialog: Let's move into this neighborhood.
+text: Clementine tries one of the doors on a darkened house. Joel
+text: is nervous.
+speaker_heading: JOEL
+dialog: I do sort of live with somebody though.
+speaker_heading: CLEMENTINE
+dialog: Oh.
+text: She walks to the next house, tries the door.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Male or female?
+speaker_heading: JOEL
+dialog: Female.
+speaker_heading: CLEMENTINE
+dialog: At least I haven't been barking up the
+dialog: wrong tree.
+text: She finds a window that's unlatched. She lifts it.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Cool.
+speaker_heading: JOEL
+dialog: What are you doing?
+speaker_heading: CLEMENTINE
+text: It's freezing out here.
+text: She scrambles in the window. Joel looks around, panicked.
+speaker_heading: JOEL
+dialog: (whisper)
+dialog: Clementine.
+speaker_heading: VOICE-OVER
+dialog: I couldn't believe you did that. I was
+text: paralyzed with fear.
+text: The front door opens and Clementine stands there beckoning.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: C'mon, man. The water's fine. Nobody's
+dialog: coming here tonight, believe me. This
+text: place is closed up. Electricity's off.
+speaker_heading: JOEL
+dialog: I hesitated for what seemed like forever.
+speaker_heading: CLEMENTINE
+dialog: I could see you wanted to come in, Joel.
+text: He walks cautiously toward the door.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: As soon as you walked in. I knew I had
+dialog: you. You knew I knew that, right?
+scene_heading: INT. HOUSE - CONTINUOUS
+text: Joel enters the darkened and Clementine closes the door
+text: behind him.
+speaker_heading: JOEL
+dialog: I knew.
+speaker_heading: CLEMENTINE
+dialog: I knew by your nervousness that Naomi
+dialog: wasn't the kind of girl who forced you to
+text: criminally trespass.
+speaker_heading: JOEL
+text: It's dark.
+speaker_heading: CLEMENTINE
+dialog: Yeah. What's your girlfriend's name?
+speaker_heading: JOEL
+dialog: Naomi.
+text: She's searching through drawers for something. She pulls out
+text: a flashlight, shines it in Joel's face.
+speaker_heading: CLEMENTINE
+dialog: Ah-ha! Now I can look for candles,
+text: matches, and the liquor cabinet.
+speaker_heading: JOEL
+dialog: I think we should go.
+speaker_heading: CLEMENTINE
+dialog: No, it's our house! Just tonight --
+dialog: (looking at envelope on
+dialog: counter)
+dialog: -- we're David and Ruth Laskin. Which
+dialog: one do you want to be? I prefer to be
+dialog: Ruth but I'm flexible.
+dialog: (opens cabinet)
+dialog: Alcohol! You make drinks. I'm going
+text: find the bedroom and slip into something
+dialog: more Ruth. I'm ruthless at the moment.
+text: She runs upstairs, giggling. The room is drying out, turning
+text: into a husk.
+speaker_heading: JOEL
+dialog: (calling after her)
+dialog: I really should go. I really need to
+dialog: catch my ride.
+speaker_heading: VOICE-OVER
+dialog: I didn't want to go. I was too nervous.
+dialog: I thought, maybe you were a nut. But you
+dialog: were exciting. You called from upstairs.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: (flat)
+dialog: So go.
+speaker_heading: JOEL
+text: I did. I walked out the door. I felt
+dialog: like I was a scared little kid. I
+dialog: thought you knew that about me. I ran
+text: back to the bonfire, trying to outrun my
+dialog: humiliation. You said, "so go" with such
+text: disdain.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: (poking her head downstairs)
+dialog: What if you stay this time?
+speaker_heading: JOEL
+text: I walked out the door. There's no more
+dialog: memory.
+speaker_heading: CLEMENTINE
+dialog: Come back and make up a good-bye at
+dialog: least. Let's pretend we had one.
+text: Clementine comes downstairs, vague and robotic, making her
+text: way through the decaying environment.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: Bye, Joel.
+speaker_heading: JOEL
+dialog: I love you.
+text: She smiles. They kiss. It fades.
+speaker_heading: CLEMENTINE
+dialog: I --
+scene_heading: EXT. BEACH - NIGHT
+text: Joel finds himself hurrying back to the bonfire. This scene,
+text: too, is disintegrating. It dries up and Joel is just
+text: standing there on a faded beach at night, the bonfire frozen
+text: in the distance like a photograph.
+scene_heading: INT. CAR - NIGHT
+text: Joel sits in the back seat, Rob and Carrie are in the front.
+speaker_heading: CARRIE
+dialog: Did you have fun?
+text: Joel nods glumly.
+text: Carrie continues to talk, but her voice goes under as Joel
+text: studies the faded husks of memories, piled like refuse
+text: outside the moving car window. He sees dried-out version of
+text: previous interactions with Clementine playing out in loops.
+text: He looks back and sees the memory of his ride home from the
+text: beach with Rob and Carrie. It, too, is decaying. Soon all
+text: has crumbled into dust. Everything goes black.
+scene_heading: INT. JOEL'S BEDROOM - EARLY MORNING
+text: Howard watches the monitor. The last specks of light are
+text: fading. It grows dark. He is tired, his eyes are hollow.
+text: He turns to Stan, who is staring out the window at the dawn.
+speaker_heading: HOWARD
+dialog: Okay.
+text: Stan turns and wordlessly begins the clean-up. He pulls the
+text: electrodes off of Joel's scalp, coils cable, packs bags.
+text: Howard dials the bedside phone. He waits as it rings.
+speaker_heading: HOLLIS'S VOICE
+dialog: Hi, you've reached the Mierzwiaks. We
+dialog: can't come to --
+text: Howard hangs up.
+scene_heading: EXT. JOEL'S APARTMENT BUILDING - EARLY MORNING
+text: Stan and Howard load the last of the equipment into the back
+text: of the van. He and Howard look at each other.
+speaker_heading: STAN
+dialog: So, I've got to drop the van off.
+speaker_heading: MIERZWIAK
+dialog: Thanks, Stan. Thanks.
+scene_heading: INT. PATRICK'S CAR - EARLY MORNING
+text: Patrick and Mary are heading home from Boston. Mary is
+text: silent and depressed. Patrick tries to break the silence.
+speaker_heading: PATRICK
+dialog: You want to stop for coffee or something?
+text: Mary shakes her head "no." Long silence.
+speaker_heading: PATRICK (CONT'D)
+dialog: Well, it was sure beautiful on that
+dialog: river. Thanks for sharing it with me.
+text: Mary doesn't say anything. Silence.
+speaker_heading: PATRICK (CONT'D)
+dialog: Well do it again soon.
+scene_heading: EXT. PARKING STRUCTURE - EARLY MORNING
+text: Stan pulls the van into space marked "Lacuna." He gets out,
+text: crosses to his car. Mary is sitting on the hood.
+speaker_heading: STAN
+dialog: Hey.
+speaker_heading: MARY
+dialog: (beat)
+dialog: Do you swear you didn't know?
+speaker_heading: STAN
+dialog: I swear.
+speaker_heading: MARY
+dialog: And you never even suspected? Never saw
+dialog: us behaving in any unusual way together?
+speaker_heading: STAN
+dialog: Once, maybe.
+text: She watches him closely, waiting for him to continue.
+speaker_heading: STAN (CONT'D)
+text: It was here. At his car. I was coming
+dialog: back from a job and spotted you together.
+dialog: You seemed caught. I waved. You
+dialog: giggled.
+speaker_heading: MARY
+dialog: How did I look?
+speaker_heading: STAN
+dialog: (beat)
+text: Happy. Happy with a secret.
+text: Mary starts to cry.
+speaker_heading: MARY
+dialog: And after that?
+speaker_heading: STAN
+dialog: I never saw you together like that again.
+dialog: So I figured I was imagining things.
+text: Mary says nothing.
+speaker_heading: STAN (CONT'D)
+dialog: I really like you, Mary. You know that.
+speaker_heading: MARY
+dialog: Do you remember anything else? What I
+dialog: was wearing? Was I standing close to
+dialog: him? Was I leaning against his car like
+dialog: I owned it? How did he look at me when I
+dialog: giggled? Tell me everything.
+speaker_heading: STAN
+dialog: (thinking)
+dialog: You were in red. That red sweater with
+dialog: the little flowers, I think. You were
+text: leaning against his car.
+dialog: (thinking)
+dialog: He looked a little like a kid. Kind of
+text: goofy and wide-eyed. I'd never seen him
+dialog: look like that before. Happy. You
+dialog: looked beautiful. You looked in love.
+speaker_heading: MARY
+dialog: (heading toward the levator)
+dialog: Thanks, Stan.
+text: She stops but doesn't turn to face him.
+speaker_heading: MARY (CONT'D)
+dialog: You're nice.
+dialog: (beat)
+dialog: But I love him. I knew I loved him. Now
+dialog: I know.
+text: He nods. She waves, heads to the elevator.
+scene_heading: INT. JOEL'S BEDROOM - MORNING
+text: Joel awakens. The apartment is neat, like when he went to
+text: sleep. He gets out of bed and heads into the bathroom.
+scene_heading: EXT. COMMUTER TRAIN STATION - MORNING
+text: Joel waits on the crowded platform. The platform across the
+text: tracks is empty. Joel's train arrives. It's packed. He
+text: squeezes on with all the other commuters.
+scene_heading: INT. OFFICE - DAY
+text: Joel works in his cubicle over the light table. He seems
+text: distracted. He dials his phone. He's nervous.
+speaker_heading: JOEL
+dialog: Hi... Naomi? Yeah, hi! How are you? I
+dialog: know, I know. It's been a long time.
+dialog: Not too much. You? Oh, that's great!
+dialog: Congratulations! Maybe I could buy you
+dialog: dinner to celebrate? Tonight? I'm free.
+dialog: Okay, good!
+scene_heading: INT. LACUNA RECEPTION AREA - DAY
+text: Mary does paperwork at her desk. She looks through her
+text: reception window at the sad people waiting in the lobby with
+text: their bags of stuff.
+scene_heading: INT. MIERZWIAK'S OFICE - CONTINUOUS
+text: Mierzwiak dials his phone and waits. He hangs up. Mary
+text: enters with the papers.
+speaker_heading: MARY
+dialog: I need this signed, Howard.
+text: He takes it, unable to make eye contact. He signs it, hands
+dialog: it back.
+speaker_heading: MARY (CONT'D)
+dialog: Thanks.
+dialog: (beat)
+dialog: So... do we talk about this... or what?
+speaker_heading: MIERZWIAK
+dialog: I don't know what I'm supposed say, Mary.
+dialog: I want to do the right thing here.
+speaker_heading: MARY
+dialog: Do you love me? Did you love me?
+text: Something. I listened to my tape. I
+dialog: can't believe I've been sitting right in
+dialog: front of it for a year. It's like
+dialog: listening to someone else's story. I
+dialog: mean, I hear myself talking about having
+dialog: sex with you and I can't even imagine you
+dialog: naked. I can't even say "naked" to you!
+speaker_heading: MIERZWIAK
+dialog: I have a family, Mary.
+speaker_heading: MARY
+dialog: You made me have an abortion.
+speaker_heading: MIERZWIAK
+dialog: It was a mutual decision.
+speaker_heading: MARY
+dialog: You made me have you erased! I loved
+dialog: you. I love you! How could you --
+speaker_heading: MIERZWIAK
+dialog: I didn't make you. You thought it best.
+dialog: (off her stare)
+dialog: But, look, I take full responsibility.
+text: She looks at him for a long while. Then, out of frustration,
+text: she screams.
+scene_heading: INT. RESTAURANT - NIGHT
+text: Joel sits across from Naomi.
+speaker_heading: NAOMI
+dialog: (oddly cautious)
+dialog: So... you haven't been involved with
+dialog: anyone in all this time?
+speaker_heading: JOEL
+dialog: It's been a pretty lonely couple of
+dialog: years.
+speaker_heading: NAOMI
+dialog: I'm sorry.
+speaker_heading: JOEL
+dialog: Well, it was my fault -- the break-up.
+dialog: I'm sorry.
+speaker_heading: NAOMI
+dialog: Oh, sweetie. It really does cut both
+dialog: ways. We were taking each other for
+dialog: granted and --
+speaker_heading: JOEL
+dialog: I miss you.
+speaker_heading: NAOMI
+dialog: Miss you, too.
+dialog: (awkward pause)
+dialog: I have been seeing someone for a little
+dialog: while.
+speaker_heading: JOEL
+dialog: (trying for enthusiasm)
+dialog: Oh! Great. That's great!
+speaker_heading: NAOMI
+dialog: A religion instructor at Columbia. A
+dialog: good guy. He's a good guy.
+speaker_heading: JOEL
+dialog: I'm sorry. I really shouldn't have --
+speaker_heading: NAOMI
+dialog: I'm glad you called.
+scene_heading: INT. JOEL'S BEDROOM - NIGHT
+text: Joel and Naomi are in bed having sex. There are certain
+dialog: sexual routines, habits, they have fallen back into almost
+text: immediately. She sticks her tongue in his ear in a way
+text: that's trying to be sexual but just feels embarrassing to
+text: him. They finish and lie there.
+speaker_heading: JOEL
+dialog: So you think the dissertation will get
+dialog: published?
+speaker_heading: NAOMI
+dialog: I don;t know. I'm not sure there's a big
+dialog: public demand for books on Calvinism and
+dialog: Misogyny.
+scene_heading: INT. CLEMENTINE'S APARTMENT - NIGHT
+text: Clementine lies in bed with Patrick.
+scene_heading: EXT. COMMUTER TRAIN STATION - MORNING
+text: The platform is crowded with business commuters. Joel is
+dialog: among them.
+text: The platform across the tracks from them is empty. Suddenly,
+text: Joel turns and makes his way through the crowd. He climbs
+text: the stairs, crosses the overpass and makes his way to the
+text: empty platform. An almost empty train pulls into that
+text: platform. Joel gets on the train and watches the business
+text: commuters through the dirty window as his train pulls out of
+dialog: the station.
+scene_heading: INT. MARY'S APARTMENT - MORNING
+text: Mary gets out of bed. She has been crying all night. She's
+text: a wreck. She puts on some coffee then crosses into the
+text: living room area. Sitting there are piles of the files from
+text: work. She pulls the top one out, copies the name and address
+text: onto an envelope stuffs the file and tape cassette in. She
+text: pulls another file out. This one has Joel's name on it. She
+text: copies it onto an envelope.
+scene_heading: INT. CLEMENTINE'S APARTMENT - NIGHT
+text: Joel says goodbye to Clementine.
+speaker_heading: CLEMENTINE
+dialog: So you'll call me, right?
+speaker_heading: JOEL
+dialog: Yeah.
+speaker_heading: CLEMENTINE
+dialog: When?
+speaker_heading: JOEL
+dialog: Tomorrow?
+speaker_heading: CLEMENTINE
+dialog: Tonight. Just to test out the phone
+dialog: lines.
+speaker_heading: JOEL
+dialog: Yeah.
+text: Joel exits. We stay on Clementine as she watches Joel head
+text: to his car, tromping through the snow.
+scene_heading: INT. JOEL'S APARTMENT - NIGHT
+text: Joel enters, drops his overcoat on a chair, dials the phone.
+speaker_heading: JOEL
+dialog: Hi, Naomi, it's Joel.
+speaker_heading: NAOMI'S VOICE
+dialog: Hi.
+speaker_heading: JOEL
+dialog: How's it going?
+speaker_heading: NAOMI'S VOICE
+dialog: Good. I called you at work today. They
+dialog: said you were home sick.
+speaker_heading: JOEL
+dialog: I know. I had to take the day to think.
+speaker_heading: NAOMI'S VOICE
+dialog: Yeah, I tried you at home. Did you get
+dialog: my message?
+speaker_heading: JOEL
+dialog: I just got in.
+speaker_heading: NAOMI'S VOICE
+dialog: Long day thinking.
+text: Joel flips on messages with volume down.
+speaker_heading: JOEL
+dialog: Yeah, I suppose so.
+scene_heading: NAOMI ON MACHINE
+dialog: (cheerful)
+dialog: Hi. They told me you were sick! So...
+dialog: Where are you?! I had a really nice time
+dialog: last night. Just wanted to say hi, so...
+dialog: hi. Call me. I'm home. Call me!
+speaker_heading: NAOMI'S VOICE
+dialog: That's me.
+speaker_heading: JOEL
+dialog: There you are.
+dialog: (pause)
+dialog: Naomi, it's just... I'm afraid if we fall
+dialog: back into this fast without considering
+dialog: the problems we had...
+speaker_heading: NAOMI
+dialog: Okay, Joel. I suppose you're right.
+speaker_heading: JOEL
+dialog: I had a good time last night. I really
+dialog: did.
+speaker_heading: NAOMI
+dialog: So I'm going to get some sleep. I'm glad
+dialog: you're okay.
+speaker_heading: JOEL
+dialog: We'll speak soon.
+speaker_heading: NAOMI
+dialog: 'Night.
+text: She hangs up and Joel stands there for a minute feeling
+text: creepy, then he dials the number on a piece of paper.
+speaker_heading: CLEMENTINE'S VOICE
+dialog: What took you so long?
+speaker_heading: JOEL
+dialog: I just walked in.
+speaker_heading: CLEMENTINE'S VOICE
+dialog: Hmmm. Do you miss me?
+speaker_heading: JOEL
+dialog: Oddly enough, I do.
+speaker_heading: CLEMENTINE'S VOICE
+dialog: Ha Ha! You said, I do. I guess that
+dialog: means we're married.
+speaker_heading: JOEL
+dialog: I guess so.
+speaker_heading: CLEMENTINE'S VOICE
+dialog: Tomorrow night... honeymoon on ice.
+scene_heading: EXT. CHARLES RIVER - NIGHT
+text: Clementine steps out onto it. Joel follows nervously.
+speaker_heading: CLEMENTINE
+dialog: Don't worry. It's really solid this time
+dialog: of year.
+speaker_heading: JOEL
+dialog: I don't know.
+text: She takes his hand and he is suddenly imbued with confidence.
+speaker_heading: JOEL (CONT'D)
+dialog: This is so beautiful.
+text: She squeezes his hand.
+speaker_heading: CLEMENTINE
+dialog: Isn't it?
+text: She runs and slides on the ice. Joel is by himself now.
+speaker_heading: JOEL
+dialog: I don't know. What if it breaks?
+speaker_heading: CLEMENTINE
+dialog: What if?
+text: Clementine lies on her back and stares up at the stars. Joel
+text: is paralyzed. He looks back at the shore.
+speaker_heading: JOEL
+dialog: I think I should go back.
+speaker_heading: CLEMENTINE
+dialog: Joel, come here. Please.
+text: He hesitates then gingerly makes his way over to her. She
+text: reaches for his hand and gently pulls him down. He lies on
+text: his back beside her, their bodies touching. He wants to turn
+text: to her, but out of shyness, doesn't. She holds his hand.
+text: They look up at the stars. She smiles, doesn't say anything
+text: and snuggles closer to him.
+speaker_heading: JOEL
+dialog: Listen, did you want to make love?
+speaker_heading: CLEMENTINE
+dialog: Make love?
+speaker_heading: JOEL
+dialog: Have sex. Y'know --
+speaker_heading: CLEMENTINE
+dialog: Oh, um...
+speaker_heading: JOEL
+dialog: Because I just am not drunk enough or
+dialog: stoned enough to make that happen right
+dialog: now.
+speaker_heading: CLEMENTINE
+dialog: That's okay. I --
+speaker_heading: JOEL
+dialog: I'm sorry. I just wanted to say that.
+dialog: This seems like the perfect romantic
+dialog: exotic place to do it and --
+speaker_heading: CLEMENTINE
+dialog: Hey, Joel --
+speaker_heading: JOEL
+dialog: -- and I'm just too nervous around you
+dialog: right now.
+speaker_heading: CLEMENTINE
+dialog: I'm nervous, too.
+speaker_heading: JOEL
+dialog: Yeah? I wouldn't have thought that.
+speaker_heading: CLEMENTINE
+dialog: Well, you obviously don't know me.
+speaker_heading: JOEL
+dialog: I'm nervous because I have and enormous
+dialog: crush on you.
+text: She smiles up at the sky.
+speaker_heading: CLEMENTINE
+dialog: Show me which constellations you know.
+speaker_heading: MONTAGE
+text: We see people going to their mailboxes, finding manila
+text: envelopes. One by one they open the envelopes and pull out
+text: tapes. We see stunned, confused, disbelieving reactions as
+text: people listen to their tapes.
+scene_heading: EXT. CLEMENTINE'S APARTMENT - DAY
+text: Joel drops Clementine off. She kisses him.
+scene_heading: INT. JOEL'S APARTMENT - A FEW MINUTES LATER
+text: Joel enters with his mail. He opens a manila envelope, reads
+text: the enclosed file, sticks the cassette tape in his stereo,
+text: listens. Joel dials the phone.
+speaker_heading: CLEMENTINE'S VOICE
+dialog: Yeah?
+speaker_heading: JOEL
+dialog: Did you send this? Is it a joke?
+speaker_heading: CLEMENTINE'S VOICE
+dialog: I probably got the same thing as you.
+speaker_heading: JOEL
+dialog: I mean, I haven't even told anyone I've
+dialog: met you. Who would even know to do this?
+speaker_heading: CLEMENTINE'S VOICE
+dialog: (matter of fact)
+text: Maybe it's true then. It's my voice on
+text: the tape.
+speaker_heading: JOEL
+dialog: That's what you have to say? How could
+dialog: it be true? I never even heard of any
+dialog: procedure like this. It's a joke.
+speaker_heading: CLEMENTINE
+dialog: Maybe. Call someone who'd know.
+speaker_heading: MONTAGE
+text: We see the people we saw opening envelopes, now on the phone.
+text: We hear over and over: "Is this true?", "Did this really
+dialog: happen?", "Do I know you?", "Is it true?"
+scene_heading: INT. ROB AND CARRIE'S KITCHEN - DAY
+text: Carrie is on the phone. She pauses nervously, then speaks:
+speaker_heading: CARRIE
+dialog: Yes, Joel. It is true. We weren't
+dialog: supposed to say anything. They say it's
+text: like waking a sleepwalker.
+scene_heading: INT. JOEL'S APARTMENT - CONTINUOUS
+text: Joel hangs up. He dials the phone.
+speaker_heading: JOEL
+dialog: It's true.
+speaker_heading: CLEMENTINE'S VOICE
+dialog: I know. I spoke to my friend Magda.
+text: Joel is immersed in the several page document.
+speaker_heading: JOEL
+dialog: Look, I have to go. I have to think.
+speaker_heading: CLEMENTINE'S VOICE
+dialog: Joel, we've fucked. We've made love.
+dialog: Like a million times. And we were so
+text: sweet and shy and inept with each other
+dialog: last night. Isn't that lovely?
+text: Joel doesn't know what to say as this registers. He just
+text: stands there dumbly.
+speaker_heading: CLEMENTINE'S VOICE (CONT'D)
+dialog: Come over here, sweetheart. Please.
+scene_heading: INT. CLEMENTINE'S APARTMENT - LATER
+text: Joel and Clementine review their separate Lacuna packages
+dialog: together.
+speaker_heading: CLEMENTINE
+dialog: Says you were closed off, non
+dialog: communicative, never told me what you
+dialog: were feeling.
+speaker_heading: JOEL
+dialog: Says you were a bully...
+speaker_heading: CLEMENTINE
+dialog: (laughing)
+dialog: A bully? Moi?
+speaker_heading: JOEL
+dialog: That's what it says. You drank too much,
+dialog: you picked on me for being passive and
+text: timid.
+speaker_heading: CLEMENTINE
+dialog: Well, sounds like me. Sorry, man.
+dialog: (reading)
+dialog: Says you were jealous and suspicious.
+speaker_heading: JOEL
+dialog: Says you would sometimes disappear all
+dialog: night, then brag to me about your sexual
+dialog: conquests.
+speaker_heading: CLEMENTINE
+dialog: Did I use the term "sexual conquests" or
+dialog: is that your way of putting it.
+speaker_heading: JOEL
+dialog: I don't know.
+speaker_heading: CLEMENTINE
+dialog: Doesn't sound like me.
+speaker_heading: JOEL
+dialog: Says you were a slob, leaving trails of
+dialog: panties and dirty socks in your wake.
+speaker_heading: CLEMENTINE
+dialog: Says you were constantly calling me a
+dialog: slob.
+dialog: (laughs)
+dialog: It's sexy that we were like a married
+text: couple, griping and overly-familiar and
+dialog: bored. Don't you think?
+speaker_heading: JOEL
+dialog: (considering)
+dialog: I sort of do. But I only see it as a
+dialog: fantasy version of reality. Cleaned up
+dialog: enough to be erotic.
+speaker_heading: CLEMENTINE
+dialog: We should have sex. It's old hat for us.
+text: She smiles at nervous Joel.
+speaker_heading: CLEMENTINE (CONT'D)
+dialog: You know my body like the back of your
+dialog: hand.
+text: She unbuttons her blouse.
+speaker_heading: CLEMENTINE (CONT'D)
+text: Every curve, every freckle.
+text: She takes off her shirt. He stares at her. He has clearly
+dialog: never seen this body before.
+speaker_heading: JOEL
+dialog: You're so beautiful.
+text: She approaches him, kisses him, his arms wrap around her
+text: waist for the first time.
+scene_heading: INT. LACUNA LTD. WAITING ROOM - MORNING
+text: Stan enters the waiting room, now crowded with people holding
+text: their files, a stunned-looking lot. There is a new woman in
+text: the reception window. The file cases behind her are bare.
+speaker_heading: RECEPTIONIST
+dialog: May I help you?
+speaker_heading: STAN
+dialog: I work here. I used to work here. Stan.
+dialog: Please just tell Howard I'm here to clean
+dialog: out my desk.
+speaker_heading: RECEPTIONIST
+dialog: (into phone)
+dialog: Mr. Mierzwiak, Stan is here to -- Yes
+dialog: sir.
+dialog: (to Stan)
+dialog: He says he needs to see you.
+scene_heading: INT. MIERZWIAK'S OFFICE - MOMENTS LATER
+text: Stan enters. Mierzwiak is pale and pacing.
+speaker_heading: MIERZWIAK
+dialog: She should not have done this, Stan. As
+dialog: mad as she was... as justifiably --
+speaker_heading: STAN
+dialog: I don't know what you're talking about,
+dialog: Howard.
+speaker_heading: MIERZWIAK
+dialog: Mary has stolen our files and is sending
+dialog: them back to people.
+speaker_heading: STAN
+dialog: Jesus.
+text: Mierzwiak turns up the volume on a small video monitor
+text: looking in on the lab, where Patrick has clearly taken over
+text: Stan's position. He is in the process of interviewing a sad
+text: young woman.
+speaker_heading: YOUNG WOMAN
+dialog: ... so I called everybody I know and
+dialog: asked them to tell me everything. Now I
+dialog: know my entire history with him, but it's
+dialog: in the form of a story, I'm losing my
+dialog: mind.
+speaker_heading: MIERZWIAK
+dialog: This is why people must never be told.
+dialog: It's like waking a --
+speaker_heading: YOUNG WOMAN
+dialog: I don't know what to do. Before I
+dialog: thought I was depressed for no reason.
+dialog: Now it's like I've been assigned a
+dialog: reason.
+speaker_heading: PATRICK
+dialog: This never should've happened, ma'am.
+dialog: We'll take care of it.
+speaker_heading: MIERZWIAK
+dialog: I know you don't like me much, Stan, but
+dialog: please talk to Mary. She of all people
+dialog: should know this is a dangerous thing
+dialog: she's doing.
+scene_heading: INT. OFFICE - DAY
+text: Joel works over his light box. His phone rings.
+speaker_heading: JOEL
+dialog: Hi, it's Joel.
+speaker_heading: CLEMENTINE'S VOICE
+dialog: Hey, lover. Whatcha doing?
+speaker_heading: JOEL
+dialog: I'm just, y'know, passing the time best I
+dialog: can till I can see you.
+speaker_heading: CLEMENTINE'S VOICE
+dialog: God, I can't believe I ever hated you.
+speaker_heading: JOEL
+dialog: You must have been crazy.
+speaker_heading: CLEMENTINE'S VOICE
+dialog: Guess what I'm wearing.
+speaker_heading: JOEL
+dialog: I don't know. Panties and --
+speaker_heading: CLEMENTINE'S VOICE
+dialog: Your dried cum.
+speaker_heading: JOEL
+dialog: Jesus.
+speaker_heading: CLEMENTINE
+dialog: You're still excited by my irreverence.
+dialog: You haven't yet started to think of it as
+dialog: my "gratuitous need to shock."
+speaker_heading: JOEL
+dialog: I can't stop thinking about you.
+speaker_heading: CLEMENTINE
+dialog: Yay. Meet me after work by the old mill.
+speaker_heading: JOEL
+dialog: What old mill? Is that somewhere we --
+speaker_heading: CLEMENTINE
+dialog: I just wanted to say that. Come by my
+dialog: house.
+scene_heading: INT. MARY'S APARTMENT - DAY
+text: Mary opens the door. Stan stands there with two cups of take
+text: out coffee.
+speaker_heading: MARY
+dialog: Oh.
+speaker_heading: STAN
+dialog: Hi.
+speaker_heading: MARY
+dialog: What do you want, Stan?
+speaker_heading: STAN
+dialog: Can I... I brought some --
+text: She steps aside for Stan to enter. He does, looks around,
+text: sees the tapes and the stuffed envelopes on the floor.
+speaker_heading: STAN (CONT'D)
+dialog: What's this?
+speaker_heading: MARY
+dialog: Nothing.
+speaker_heading: STAN
+dialog: I know what it is.
+speaker_heading: MARY
+dialog: Then why did you ask me?
+speaker_heading: STAN
+dialog: I don't know. I just -- there are a lot
+dialog: of really confused people showing up at
+dialog: the office.
+speaker_heading: MARY
+dialog: They have a right to know. Howard is a
+text: thief. He steals the truth.
+dialog: (suddenly weeping)
+dialog: I can't remember my baby! I can't
+dialog: remember my baby. It existed and I can't
+dialog: even remember. Do you understand that?
+text: Stan doesn't know what to say. He stands there dumbly. Mary
+text: slumps into a ball on a chair.
+speaker_heading: STAN
+text: Mary, people come to him voluntarily.
+speaker_heading: MARY
+dialog: I won't allow it. Those who cannot
+dialog: remember the past are condemned to repeat
+dialog: it. What do you think of that? That's
+dialog: from my quote book.
+speaker_heading: STAN
+text: The office is filled with people who want
+text: their memories re-erased.
+speaker_heading: MARY
+dialog: (hysterically)
+dialog: Remember the Alamo! Remember the Alamo!
+speaker_heading: STAN
+dialog: Mary... please. This is hurting people.
+dialog: Long pause, then:
+speaker_heading: MARY
+dialog: (small)
+dialog: I don't want to hurt people.
+dialog: (breaking down)
+dialog: But these things happened! All these
+dialog: little sadnesses, the big ones. What if
+dialog: no one remembers? What does that do to
+dialog: the world?
+dialog: (beat, quietly)
+dialog: Someone has to remember, Stan.
+text: They look at each other.
+scene_heading: EXT. PARK - AFTERNOON
+text: Vague elliptical images of a young girl on a swig.
+speaker_heading: SAD WOMAN'S VOICE
+dialog: I was by myself in the park because my
+dialog: friend Davia was sick that day. I was on
+dialog: a swing. There was this smiling man
+dialog: walking a little bushy dog --
+text: Vague shots of a man smiling, a scruffy dog on a leash.
+speaker_heading: SAD WOMAN'S VOICE (CONT'D)
+dialog: The man said something like, "He's
+dialog: friendly --"
+text: Vague shot of the man, his voice overlapping with the
+dialog: woman's.
+speaker_heading: SAD WOMAN'S VOICE (CONT'D)
+dialog: "-- he won't bite."
+speaker_heading: MAN
+dialog: He won't bite. You can pet him if you
+dialog: want...
+text: Shot of the girl petting the dog.
+speaker_heading: MAN
+dialog: Do you want to give him a biscuit?
+text: The girl nods.
+speaker_heading: MAN (CONT'D)
+dialog: They're in my car. Why don't you --
+scene_heading: DISTRAUGHT WOMAN'S VOICE
+dialog: Excuse me? Hello?
+scene_heading: INT. LACUNA RECEPTION AREA - DAY
+text: Mary, with a headset on, looks up, startled. She switches
+text: off the tape. She has been crying. There's a pile of tapes
+text: next to her. The distraught woman is standing there.
+speaker_heading: MARY
+dialog: May I help you?
+speaker_heading: DISTRAUGHT WOMAN
+dialog: I'm here for Dr. Mierzwiak. My name is
+dialog: Helene Kernfeld.
+speaker_heading: MARY
+dialog: Yes, please have a seat. The doctor will
+dialog: be with you momentarily.
+text: The woman sits. Mary presses an intercom button.
+speaker_heading: MARY (CONT'D)
+dialog: Howard, your 10:30.
+text: She switches the tape back on.
+speaker_heading: SAD WOMAN'S VOICE
+dialog: He took me to his car and ...
+text: Vague shot of the girl being raped.
+scene_heading: INT. COMMUTER TUBE - DAY
+text: The old woman is staring off blankly, her giant manuscript in
+text: her lap, as she travels over the New York skyline. We move
+text: into her eyes.
+scene_heading: INT. VAGUE SPACE
+text: Vague reenactments of memories intermingle in this undefined
+dialog: space:
+text: The young girl being raped by the man in the car.
+text: A soldier on a battlefield looking at his slaughtered
+dialog: friends.
+text: A couple fighting, from the woman's point of view.
+speaker_heading: MAN
+dialog: I...I... I... find you physically
+dialog: repulsive! I can't even look at you!
+text: They look at each other in silence.
+text: A little boy being called "faggot" by an endless succession
+dialog: of boys.
+text: The aftermath of a car accident from the driver's POV.
+text: Mary having an abortion.
+scene_heading: INT. COMMUTER TUBE - DAY
+text: The old woman and her chair lift out of the line of
+text: commuters.
+scene_heading: INT. WAITING ROOM - DAY
+text: It's modern and well-appointed. The old woman enters, sits
+text: behind the reception desk, drops her manuscript into the
+text: drawer. She takes some pills with water. An old man
+text: enters.
+speaker_heading: OLD MAN
+dialog: How are you today, Mary?
+speaker_heading: OLD WOMAN (MARY)
+dialog: Let's see... Still dying, Howard.
+speaker_heading: OLD MAN (HOWARD)
+dialog: You don't have to jump down my throat. I
+dialog: was trying to be nice.
+speaker_heading: OLD WOMAN (MARY)
+dialog: Well, don't try. It's unbecoming on you.
+text: Old Howard mutters something and disappears into the back.
+text: Old Mary pulls out a file from behind, removes a small disc,
+text: places it in a machine on her desk, slips on earphones and
+text: listens, somewhat wearily but attentively. We watch the
+text: color drain from her face, but don't hear the recording.
+text: Another old woman enters the office. Old Mary looks up,
+text: seems a bit startled, conceals it, turns off the tape.
+speaker_heading: OLD WOMAN (MARY) (CONT'D)
+dialog: May I help you?
+speaker_heading: SECOND OLD WOMAN
+dialog: I'd like to make an appointment.
+speaker_heading: OLD WOMAN (MARY)
+dialog: I think the doctor is free this morning.
+dialog: He can probably take you right away for
+dialog: an initial consultation.
+text: The second old woman smiles gratefully.
+scene_heading: INT. OLD MAN'S OFFICE - A FEW MINUTES LATER
+text: Old Howard works at his desk. Old Mary enters with the
+dialog: second old woman.
+speaker_heading: OLD WOMAN (MARY)
+dialog: Dr. Mierzwiak, this is Clementine
+dialog: Kruczynski. She'd like to talk to you.
+text: Old Howard and the old Mary eye each other.
+speaker_heading: OLD MAN (HOWARD)
+dialog: Hello, Ms. Kruczynski. Nice to meet you.
+dialog: Please have a seat.
+text: He indicates a sitting area. She sits. He joins her.
+speaker_heading: OLD MAN (HOWARD) (CONT'D)
+dialog: Would you mind if I tape our discussion?
+text: She shakes her hear. He punches a couple of buttons on his
+text: computer console. A tape recorder starts up and his computer
+text: screen lights up so only he can see it. On it we see a whole
+dialog: file on Clementine Kruczynski: a list of fifteen dates of
+dialog: previous erasures stretching back fifty years, all of them
+dialog: involving Joel Barish.
+speaker_heading: OLD MAN (HOWARD) (CONT'D)
+dialog: So, why don't you begin by telling me why
+dialog: you've come here.
+speaker_heading: SECOND OLD WOMAN (CLEMENTINE)
+dialog: Well, I met this man, Joel, three years
+dialog: ago at a senior dance... We'd both been
+dialog: alone for so long and...
+scene_heading: INT. TUBE - NIGHT
+text: The old woman (Mary) travels in the commuter tube over
+text: Manhattan. It's late, the tube is mostly empty. She has
+text: earphones on.
+speaker_heading: SECOND OLD WOMAN (CLEMENTINE) (V.O.)
+dialog: I remember Joel and I were having
+dialog: breakfast --
+scene_heading: INT. VAGUE SPACE
+text: An old man and the second old woman eat breakfast.
+speaker_heading: SECOND OLD WOMAN (CLEMENTINE) (V.O.)
+dialog: -- I said something like we should go
+text: upstate and see the leaves change...
+text: The old man looks up from his cereal and stares blankly. The
+text: woman smiles, but there is no response... just a dead stare.
+speaker_heading: SECOND OLD WOMAN (CLEMENTINE) (V.O.)
+speaker_heading: (CONT'D)
+text: He just stared at me as if I didn't
+dialog: exist. As if I had never existed...
+scene_heading: INT. TUBE - CONTINUOUS
+text: The second old woman's (Clementine) voice drones tinnily on
+text: in the distance. The old woman with the earphones is dead,
+text: her eyes glassy and unseeing.
+speaker_heading: SECOND OLD WOMAN (CLEMENTINE) (V.O.)
+dialog: -- his eyes used to be so filled with
+dialog: love. But it was gone. How can I go
+dialog: back to being alone after seeing love? I
+dialog: was alone for so long. What had I done
+dialog: with my life? I was alone so long.
+scene_heading: INT. SECOND OLD WOMAN'S APARTMENT - NIGHT
+text: The old Clementine is unconscious on her bed, hooked up to
+text: modern versions of the erasing machines. Two young
+text: technicians monitor the equipment. The woman's bedside phone
+text: rings. Her machine picks up. After a moment:
+speaker_heading: OLD MAN'S VOICE
+dialog: Hi, it's Joel. What's going on, Clem?
+dialog: Why won't you call me back? Please call
+dialog: me. We need to speak.
+text: The machine clicks off. One of the technicians reaches over
+text: and presses the "erase" button on the machine.
+speaker_heading: BLACK.
+speaker_heading: THE END
+dialog: 

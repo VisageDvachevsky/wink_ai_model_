@@ -1,0 +1,5777 @@
+dialog: 
+dialog: 
+scene_heading: THE BEST EXOTIC MARIGOLD HOTEL
+dialog: Written by
+dialog: Ol Parker
+text: Based on the book THESE FOOLISH THINGS by Deborah Moggach
+dialog: 
+dialog: 
+dialog: 10/01/11
+dialog: 
+dialog: 
+speaker_heading: 1 OVER BLACK 1
+text: Muffled music; soothing, generic.
+speaker_heading: AUTOMATED VOICE
+dialog: Thank you for your patience.
+dialog: Your call is important to us. We
+dialog: will be with you shortly.
+scene_heading: 2 INT. MANSION FLAT, LONDON - DAY 2
+text: A neat, well-appointed flat, tastefully decorated. Framed
+text: against a large window which looks out over the city, an
+text: elegant woman in her 70's: EVELYN GREENSLADE. She's on the
+text: phone, on hold.
+text: On the desk in front of her is a brand new laptop computer;
+text: the screen reads 'Getting Started ...'
+speaker_heading: AUTOMATED VOICE
+speaker_heading: (ON PHONE)
+dialog: Thank you for your patience.
+dialog: Your call is important to us. We
+dialog: will be with you shortly.
+text: Evelyn's patience is strained nonetheless. She taps her
+text: fingers on the desk.
+speaker_heading: AUTOMATED VOICE (cont'd)
+speaker_heading: (ON PHONE)
+dialog: Thank you for your patience.
+dialog: Your call is -
+text: A slightly-accented voice finally interrupts.
+speaker_heading: FEMALE VOICE
+dialog: Mrs Greenslade, thank you for
+speaker_heading: WAITING -
+speaker_heading: EVELYN
+speaker_heading: (OVERLAPPING)
+dialog: Yes, now if you could stay on the
+dialog: phone for a moment and talk to
+dialog: me, just talk to me. I'm not
+dialog: even clear, I don't actually
+dialog: understand what it is I'm trying
+dialog: to order. Is wireless the same
+dialog: as wi-fi? And what do either of
+dialog: them have to do with broadband?
+speaker_heading: FEMALE VOICE
+dialog: Mrs Greenslade, since the account
+dialog: is not in your name, before we
+dialog: can make any changes we need to
+dialog: speak to the account holder. Can
+dialog: I please talk to the account
+dialog: holder?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+speaker_heading: EVELYN
+dialog: What?
+speaker_heading: FEMALE VOICE
+dialog: I'm asking if I can speak to the
+dialog: account holder. Before we can
+dialog: make any changes -
+speaker_heading: EVELYN
+dialog: You can't talk to him, no.
+speaker_heading: (BEAT)
+dialog: He's dead. He died. There's
+dialog: only me.
+scene_heading: 3 INT. CORRIDOR/JUDGES CHAMBERS. INNS OF COURT - NIGHT 3
+text: GILES, a judge in full wig and robes, moves quickly down a
+text: corridor. He passes other judges, going the opposite way.
+text: He arrives at the office of GRAHAM DASHWOOD, goes in.
+text: GRAHAM is at his desk. His robes are on a hanger, his wig
+text: is on a stand beside him.
+speaker_heading: GILES
+dialog: We're late.
+scene_heading: 4 INT. CORRIDOR. INNS OF COURT - NIGHT 4
+text: Moments later. Graham and Giles walk down the corridor.
+speaker_heading: GRAHAM
+dialog: Bloody retirement parties. Hard
+dialog: cheese, soft wine, and endless
+dialog: speeches. Why do people do that?
+dialog: No one ever said about any kind
+dialog: of party: it was a wonderful
+dialog: occasion, just a shame that the
+dialog: speeches were so short.
+speaker_heading: GILES
+dialog: it'll be you one day.
+speaker_heading: GRAHAM
+dialog: One day very soon.
+speaker_heading: GILES
+dialog: You've been saying that for
+dialog: years.
+text: They walk into a large room, full of lawyers.
+scene_heading: 4A INT. HALL. INNS OF COURT - CONTINUOUS 4A
+text: At one end of the hall, a very old JUDGE is giving a very
+dialog: dull speech.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 3.
+speaker_heading: JUDGE
+dialog: An occasion such as this leads
+dialog: one to cast ones mind back to the
+dialog: days when I first entered my
+dialog: pupillage. I had the very good
+dialog: fortune of serving as a junior to
+dialog: Mr Justice Stancombe
+text: Graham's not listening any more. He's looking around the
+text: room. At the old, tired faces.
+speaker_heading: JUDGE (CONT'D)
+dialog: . the unwelcome news that I
+dialog: would transfer Chambers, bringing
+dialog: to mind the old adage a fronte
+dialog: praecipitium, a tergo 1upi
+text: Everything seems to slow down, the judge's mouth moving
+text: more and more sluggishly, though his voice remains the
+text: same. The effect is strange .. then the sound of laughter.
+speaker_heading: GRAHAM
+dialog: This is the day.
+text: Everyone looks round at him. He's almost as surprised as
+text: they are that he's spoken out loud.
+speaker_heading: GILES
+dialog: Graham?
+speaker_heading: GRAHAM
+dialog: This is the day.
+text: He turns and walks out.
+scene_heading: 5 INT. HOSPITAL - DAY 5
+text: Staff bustle around a busy A &amp; E ward. MURIEL lies on a
+text: bed in the corridor.
+text: The Head Nurse, KAREN, rushes past.
+speaker_heading: MURIEL
+dialog: Listen, young lady. I want a cup
+dialog: of tea, and I want it now.
+speaker_heading: KAREN
+dialog: The trolley will be along
+dialog: shortly.
+speaker_heading: MURIEL
+dialog: How hard d'you have to fall down
+dialog: before you get some proper
+dialog: attention? Hours I've been lying
+dialog: here, and not a single doctor has
+dialog: come to see me.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 3A.
+speaker_heading: KAREN
+dialog: Now that's not quite true, is it
+dialog: Mrs Donnelly?
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 4.
+speaker_heading: KAREN (CONT'D)
+dialog: A doctor did try and examine you,
+dialog: and you sent him away.
+speaker_heading: MURIEL
+dialog: That one?
+text: She looks up to the far end of the ward, where a doctor is
+text: washing his hands. He's black.
+speaker_heading: MURIEL
+dialog: He can wash all he likes, that
+dialog: colour's not coming out. I want
+dialog: an English doctor.
+speaker_heading: KAREN
+dialog: An English doctor? Why didn't
+dialog: you say so? I'll get one right
+dialog: away.
+text: She goes away, comes back moments later with a tall,
+text: handsome doctor. The bad news for Muriel is
+speaker_heading: KAREN (CONT'D)
+dialog: This is Dr Ghujarapartidar. And
+dialog: this is Mrs Donnelly.
+scene_heading: 5A EXT. NEW HOUSING ESTATE - DAY 5A
+text: A crescent of identical bungalows, part of a brand new
+dialog: retirement facility.
+text: A mobility scooter carrying an elderly resident trundles
+text: down the road.
+speaker_heading: ESTATE AGENT (O.S.)
+dialog: .. with an unlimited range of
+dialog: leisure opportunities just a
+dialog: stone's throw away...
+scene_heading: 6 INT. NEW HOUSING DEVELOPMENT - DAY 6
+text: A young estate agent, EVAN, is showing DOUGLAS and JEAN
+text: around a very small, and very beige bungalow.
+speaker_heading: EVAN
+dialog: So as I say, what you're looking
+dialog: at here is very competitively
+dialog: priced, you can't get better
+dialog: value for your grey pound.
+dialog: Another little feature, not
+dialog: necessary right now, but give it
+dialog: a couple of years
+speaker_heading: (POINTS)
+text: . rails on the walls to help
+dialog: you get around, and down here, a
+dialog: panic button in case of a sudden
+text: fall, brings the Warden running.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 4A.
+speaker_heading: JEAN
+dialog: What if we fell somewhere else?
+speaker_heading: EVAN
+dialog: Sorry?
+speaker_heading: JEAN
+dialog: It's just that we might not
+dialog: manage to plan our sudden fall in
+dialog: the exact corner where the button
+dialog: is.
+speaker_heading: EVAN
+dialog: Yeah. As I say -
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 5.
+speaker_heading: JEAN
+dialog: And would it be possible to get
+dialog: the rail to go through the middle
+dialog: of the room as well?
+speaker_heading: DOUGLAS
+speaker_heading: DARLING
+speaker_heading: JEAN
+dialog: To help us get across, not just
+dialog: around?
+speaker_heading: DOUGLAS
+speaker_heading: (TO EVAN)
+dialog: Could we have a moment, please?
+dialog: Thanks. Thanks so much.
+dialog: Evan goes.
+speaker_heading: JEAN
+dialog: Thirty years in the Civil Service
+dialog: and this is all we can afford?
+speaker_heading: DOUGLAS
+dialog: Would it help if I apologized
+dialog: again?
+speaker_heading: JEAN
+dialog: No. But try it anyway.
+scene_heading: 7 INT. BAR - NIGHT 7
+text: JUDITH (40ish) is sitting opposite someone. We don't see
+dialog: whom.
+speaker_heading: JUDITH
+dialog: And then after that I worked as a
+dialog: systems analyst for a few years
+dialog: but I just found it so dull, what
+dialog: I really wanted was to do
+dialog: something that was more creative,
+dialog: that matched my ...
+speaker_heading: (BEAT)
+dialog: I'm sorry. On the form they
+dialog: asked for our age bracket, and
+dialog: the age we wanted to meet . and
+dialog: in both cases I ticked 35-45.
+text: Now we see the man she's talking to. It's NORMAN. He's
+text: dapper, nice looking. And at least 70.
+speaker_heading: NORMAN
+dialog: That's right, yes. So did I.
+text: They're at a speed dating evening. Numbered tables, etc.
+speaker_heading: NORMAN (CONT'D)
+dialog: Anyway, don't stop. Something
+speaker_heading: MORE CREATIVE
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 6.
+speaker_heading: JUDITH
+dialog: How old are you?
+speaker_heading: NORMAN
+dialog: Early 40's.
+speaker_heading: JUDITH
+dialog: D'you mean you were born in the
+dialog: early 40's?
+speaker_heading: NORMAN
+dialog: Judy, I know what you're asking -
+speaker_heading: JUDITH
+dialog: It's Judith.
+speaker_heading: NORMAN
+dialog: Judith. And trust me, I've still
+dialog: got it.
+text: The bell goes; the signal for the women to get up and move
+text: along to the next table. Judith leaves without looking
+dialog: back.
+speaker_heading: NORMAN (CONT'D)
+dialog: I just can't find anyone that
+dialog: wants it.
+text: Another hopeful candidate arrives opposite Norman. And
+text: looks crestfallen at what's on offer.
+scene_heading: 8 INT/EXT. BEDROOM/STAIRS/HALL. FAMILY HOUSE - DAY 8
+text: MADGE is in her bedroom. She's arguing with her son-in-law
+text: CRAIG. Madge's suitcases are by the door.
+speaker_heading: CRAIG
+dialog: This is crazy. You're crazy.
+dialog: You can't just up and leave like
+dialog: this.
+speaker_heading: MADGE
+dialog: And yet if you watch me, that's
+dialog: exactly what you'll see happen.
+text: She picks up her suitcases, heads out of the room. Madge's
+text: daughter JESSICA is on the landing.
+speaker_heading: JESSICA
+dialog: What's going on?
+speaker_heading: CRAIG
+dialog: Your mother's lost it.
+speaker_heading: JESSICA
+dialog: My mother never had it.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 7.
+speaker_heading: CRAIG
+dialog: Talk to her. She doesn't listen
+dialog: to me.
+speaker_heading: MADGE
+dialog: Nobody listens to you.
+text: She heads down the stairs. Craig and Jessica follow.
+speaker_heading: MADGE (CONT'D)
+speaker_heading: (TO JESSICA)
+dialog: It's one of the great mysteries
+dialog: of life that someone so vibrant
+dialog: and fascinating as my daughter
+dialog: should choose to spend her life
+dialog: with this fraction of a man.
+speaker_heading: JESSICA
+dialog: I still don't understand what's
+text: going on.
+speaker_heading: CRAIG
+dialog: I just asked her to babysit. And
+text: now she says she's leaving.
+text: They're at the bottom of the stairs. Jessica's children,
+text: LIAM and KATIE, are watching.
+speaker_heading: JESSICA
+dialog: But you love babysitting.
+speaker_heading: MADGE
+dialog: I loved it last night.
+speaker_heading: LIAM
+dialog: We had pizza and stayed up late.
+speaker_heading: MADGE
+dialog: And the night before.
+speaker_heading: KATIE
+dialog: We had Chinese and stayed up
+dialog: late.
+speaker_heading: LIAM
+dialog: If you don't go, tonight we could
+dialog: do a curry.
+speaker_heading: MADGE
+dialog: It's tempting, my darlings, but
+dialog: you know why I must leave.
+speaker_heading: LIAM
+dialog: We know.
+speaker_heading: KATIE
+dialog: (to her parents)
+dialog: Being here is stopping her
+dialog: finding a husband.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 8.
+speaker_heading: CRAIG
+dialog: Another one?
+speaker_heading: LIAM AND KATIE
+dialog: Bye Granny.
+speaker_heading: MADGE
+dialog: Don't let the buggers get you
+dialog: down.
+text: Madge turns to go.
+speaker_heading: CRAIG
+dialog: How many husbands have you had,
+dialog: anyway?
+text: She turns back, smiles.
+speaker_heading: MADGE
+dialog: Including my own?
+text: Then she's out of the front door, and heading for the taxi.
+speaker_heading: JESSICA
+dialog: Mother? Mother!
+scene_heading: 9 INT/EXT. TAXI - DAY 9
+text: Moments later. Madge climbs into the back of the cab.
+speaker_heading: TAXI DRIVER
+dialog: Name the place, darling. Where
+dialog: are you going?
+text: Madge smiles.
+speaker_heading: MADGE
+dialog: I have absolutely no idea.
+scene_heading: 10 INT. MANSION FLAT - DAY 10
+text: Evelyn, whom we saw earlier on the phone, is in the living
+text: room. Her son CHRISTOPHER is there. And her lawyer
+speaker_heading: HAROLD.
+speaker_heading: CHRISTOPHER
+dialog: There's no other way There
+dialog: just isn't. Harold told us this
+dialog: three months ago.
+speaker_heading: HAROLD
+dialog: And I'm afraid matters have only
+dialog: got worse.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 8A.
+speaker_heading: CHRISTOPHER
+dialog: We can't wait any longer. We
+dialog: need to put this flat on the
+dialog: market, and at least make a start
+dialog: at paying off Dad's debts.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 9.
+text: Christopher turns to Harold.
+speaker_heading: CHRISTOPHER (CONT'D)
+dialog: I've talked it through with Polly
+dialog: and the boys, and of course we
+dialog: all agreed. Ma will move in with
+dialog: us.
+speaker_heading: HAROLD
+dialog: I think that's best, Evelyn.
+dialog: It's what Hugh would've wanted.
+text: They wait for confirmation from Evelyn. None comes.
+speaker_heading: CHRISTOPHER
+dialog: Good. Settled. End of
+dialog: discussion.
+speaker_heading: EVELYN
+dialog: That's what your father used to
+dialog: say.
+speaker_heading: CHRISTOPHER
+speaker_heading: MA -
+speaker_heading: EVELYN
+dialog: When there'd never really been
+dialog: any discussion at all.
+speaker_heading: CHRISTOPHER
+dialog: I want to look after things for
+dialog: you.
+speaker_heading: EVELYN
+dialog: Like he did for forty years
+speaker_heading: CHRISTOPHER
+dialog: Yes.
+speaker_heading: EVELYN
+dialog: And look how that turned out.
+text: She turns to Harold
+speaker_heading: EVELYN (CONT'D)
+dialog: How can any of us know what Hugh
+dialog: would've wanted? And would he
+dialog: have seen fit to tell us anyway?
+speaker_heading: (BEST)
+dialog: Obviously the flat has to be
+dialog: sold.
+dialog: (Best, then to Christopher)
+dialog: And you're very kind. And dear
+dialog: Polly. But no, I won't be coming
+dialog: to live with you.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 9A.
+scene_heading: 11 INT. HOSPITAL - DAY 11
+text: Muriel has now been transferred to a ward. She is
+text: listening to DR GHUJARAPARTIDAR.
+speaker_heading: DR GHUJARAPARTIDAR
+dialog: You need a new hip, Mrs Donnelly.
+dialog: It's not a difficult operation.
+speaker_heading: MURIEL
+dialog: Easy for you to say, you're not
+dialog: having it.
+speaker_heading: DR GHUJARAPARTIDAR
+dialog: Regardless. You do need a new
+dialog: hip.
+speaker_heading: MURIEL
+dialog: I'm not getting it from you.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+scene_heading: 2nd Green Revisions I0/01/11 10.
+speaker_heading: DR GHUJARAPARTIDAR
+dialog: Not me personally, no.
+speaker_heading: MURIEL
+dialog: Not any of your lot.
+speaker_heading: DR GHUJARAPARTIDAR
+dialog: I see.
+speaker_heading: MURIEL
+dialog: So when do I have the operation?
+speaker_heading: DR GHUJARAPARTIDAR
+dialog: I'm afraid you'll be on a waiting
+dialog: list for at least six months.
+speaker_heading: MURIEL
+dialog: At my age, I can't plan that far
+dialog: ahead. I don't even buy green
+dialog: bananas.
+speaker_heading: DR GHUJARAPARTIDAR
+dialog: There is another way. Our
+dialog: hospital trust is funding a new
+dialog: pilot scheme, that will enable us
+dialog: to out-source you to another
+dialog: hospital, where they can perform
+dialog: the procedure almost immediately,
+dialog: and at a fraction of the cost.
+speaker_heading: MURIEL
+dialog: Is it local?
+speaker_heading: DR GHUJARAPARTIDAR
+dialog: That depends how you define
+dialog: local.
+scene_heading: 12 INT. EVELYN'S FLAT/CHRISTOPHER'S OFFICE - NIGHT 12
+text: Evelyn is on the phone to her son Christopher. They're
+text: both sitting at computers. Evelyn's new-found dexterity is
+dialog: impressive.
+text: Around Evelyn's room are packing boxes, some already full.
+speaker_heading: CHRISTOPHER
+speaker_heading: (ON PHONE)
+dialog: When did you get a computer?
+speaker_heading: EVELYN
+dialog: How far along is the progress
+dialog: bar? The strip at the bottom
+dialog: that tells you -
+speaker_heading: CHRISTOPHER
+dialog: I know what it is. What are you
+dialog: showing me anyway?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 11.
+text: The webpage has come up. It's a picture of a beautiful old
+text: building. And underneath is written 'THE BEST EXOTIC
+scene_heading: MARIGOLD HOTEL'.
+text: As Christopher gapes in horror, he hears a mellifluous
+text: Indian voice.
+speaker_heading: INDIAN VOICE
+dialog: 'Come and spend your autumn years
+dialog: in an Indian palace with the
+dialog: sophistication of an English
+text: country manor. Steeped in the
+dialog: tradition of the Raj, tucked away
+dialog: on the outskirts of Jaipur .'
+scene_heading: 13 INT. INTERNET CAFE - DAY 13
+text: The mellifluous tones continue. Madge mouths the words to
+text: herself as she scans the same web-page.
+speaker_heading: INDIAN VOICE
+dialog: it exudes historical
+text: ambience and is graced with
+dialog: breathtaking surroundings .'
+scene_heading: 14 INT. SALON - DAY 14
+text: Jean whom we earlier saw looking at the bungalow, is at
+text: the hairdressers. Her stylist ABI listens to her reading a
+text: computer printout for the same hotel. Which looks classy,
+dialog: elegant, and welcoming.
+text: Madge's voice bleeds into Jean's.
+speaker_heading: JEAN
+speaker_heading: (READING)
+dialog: 'Lofty terraces, open courtyards,
+text: domes, arches and canopied
+dialog: balconies transport one back in
+dialog: time.'
+speaker_heading: ABI
+dialog: I wouldn't mind going there
+dialog: myself.
+scene_heading: 15 EXT. GOLF COURSE - DAY 15
+text: In the background, a train rumbles along the Piccadilly
+dialog: Line towards Heathrow.
+text: Douglas, Jean's husband, is on the green with his friend
+text: SIMON. Douglas is lining up a tricky putt.
+speaker_heading: SIMON
+dialog: There won't be any golf courses.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 12.
+speaker_heading: DOUGLAS
+dialog: Just as well. I can't afford the
+dialog: green fees.
+speaker_heading: SIMON
+dialog: But a retirement home?
+text: Douglas misses his putt.
+speaker_heading: DOUGLAS
+dialog: It's a luxury development, where
+dialog: all the residents are in their
+dialog: golden years.
+speaker_heading: SIMON
+dialog: Like the Costa Brava.
+speaker_heading: DOUGLAS
+dialog: Yes. But with more elephants.
+text: Simon holes out.
+scene_heading: 16 INT. JUDGES CHAMBERS - DAY 16
+text: Graham, the judge, is in his office. It's nearly empty;
+text: his entire life is being packed away.
+text: His friend Giles watches him put more things in boxes.
+speaker_heading: GILES
+dialog: How long have we known each
+dialog: other? And you've never once
+dialog: talked about India.
+speaker_heading: GRAHAM
+dialog: D'you want these books?
+speaker_heading: GILES
+dialog: You might need them again.
+text: Graham smiles at him, calls out.
+speaker_heading: GRAHAM
+dialog: Mrs Megson!
+text: His cleaner, MRS MEGSON, comes in.
+speaker_heading: MRS MEGSON
+dialog: Sir?
+text: Graham takes a beautiful vase off the shelf, gives it to
+dialog: her.
+speaker_heading: GRAHAM
+dialog: I want you to have this.
+speaker_heading: MRS MEGSON
+dialog: Are you sure?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 13.
+speaker_heading: GRAHAM
+dialog: Absolutely. There's a slight
+dialog: crack on the bottom. But I think
+dialog: you might know something about
+dialog: that already.
+dialog: Mrs Megson goes.
+speaker_heading: GRAHAM (CONT'D)
+dialog: I used to live there. A long
+dialog: time ago.
+scene_heading: 17 INT. BASEMENT BEDSIT. EARLS COURT - DAY 17
+text: A bedsit. Slightly down at heel, and sparsely furnished.
+text: Norman, whom we met speed dating, is talking to someone.
+dialog: We don't see who.
+text: Quietly, in the background, Radio 2 music from an old
+dialog: battery radio.
+speaker_heading: NORMAN
+dialog: I have to go. I do. And I could
+dialog: say I wish you'd come, but I've
+dialog: never lied to you. We both know
+dialog: I need more than you can offer.
+dialog: We know that. Don't we?
+text: We see who's sitting in front of him. An ancient
+dialog: dachshund.
+speaker_heading: NORMAN (CONT'D)
+dialog: (to the dog)
+dialog: Don't make that face at me.
+text: Norman's Polish landlady, MRS JELLINEK, is at the door.
+speaker_heading: MRS JELLINEK
+dialog: (to her dog)
+dialog: You. Upstairs.
+text: The dog hops off the chair, and leaves. Norman watches him
+dialog: go.
+speaker_heading: MRS JELLINEK (cont'd)
+dialog: Any warm clothes you have use for
+dialog: no more, I take them. And not
+dialog: forget to leave keys when you go.
+text: She leaves. Norman is left alone.
+speaker_heading: NORMAN
+dialog: I'll miss you too.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 14.
+scene_heading: 18 EXT. HOUSING ESTATE - DAY 18
+text: The district ambulance driver, JACKSON, is pushing Muriel
+text: in a wheelchair across a housing estate.
+speaker_heading: MURIEL
+dialog: You know who'll be there, don't
+dialog: you? Indians. Loads of them, A
+text: sea of brown faces and black
+text: hearts, all greasy haired and
+dialog: reeking of spices. Never see one
+dialog: on their own, do you? No,
+dialog: becuase they hunt in packs. All
+dialog: the better to rob me blind and -
+speaker_heading: JACKSON
+dialog: You know what? You can take it
+dialog: from here.
+speaker_heading: MURIEL
+dialog: You're supposed to see me into my
+dialog: flat. That's what they said.
+speaker_heading: JACKSON
+dialog: My wife is from Mumbai.
+text: He heads off. Muriel shouts after him.
+speaker_heading: MURIEL
+dialog: No good moaning to me, mate. You
+dialog: married her!
+text: But he's gone.
+text: Muriel wheels herself on over the bumpy ground.
+scene_heading: 19 EXT. PASSENGER DROP-OFF. STANSTED AIRPORT - EVENING 19
+text: A reluctant Christopher is pushing a trolley carrying
+text: Evelyn's cases to the terminal.
+speaker_heading: CHRISTOPHER
+dialog: You're sure your tickets are in
+dialog: order?
+speaker_heading: EVELYN
+dialog: They should be. The hotel paid
+dialog: for them. I'm sure they'd
+dialog: rather have us there than not.
+dialog: And its fantastically cheap for
+dialog: the first three months.
+speaker_heading: CHRISTOPHER
+dialog: I wonder why.
+text: They walk on in silence.
+speaker_heading: CHRISTOPHER (CONT'D)
+dialog: How will we know you're alright?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 15.
+speaker_heading: EVELYN
+dialog: I'll call. They do have phones
+dialog: there, you know. Or you can
+dialog: just read my blog.
+speaker_heading: CHRISTOPHER
+dialog: Your what?
+speaker_heading: EVELYN
+dialog: On the interweb. You can log in
+dialog: whenever you like, read my news.
+speaker_heading: CHRISTOPHER
+dialog: I just hope the first item will
+dialog: be announcing your return. I
+dialog: don't suppose they'll be paying
+dialog: for the journey back...?
+text: Evelyn stops. They've reached the terminal.
+speaker_heading: EVELYN
+dialog: Could you please, before I go,
+dialog: say one thing that is supportive?
+dialog: Because I've never done anything
+dialog: like this before.
+speaker_heading: CHRISTOPHER
+dialog: Without Dad, you never did
+dialog: anything at all. And i don't
+dialog: think you'll be able to cope.
+speaker_heading: EVELYN
+dialog: Well. I suppose we'll find out,
+dialog: won't we?
+text: They head into the building.
+scene_heading: 20 INT. CHECK-IN AREA. AIRPORT - EVENING 20
+text: Madge is at the First Class Check-In desk.
+speaker_heading: MADGE
+dialog: And the connecting flight to
+dialog: Jaipur is first class too?
+text: The check-in girl nods, hands Madge back her passport.
+speaker_heading: MADGE (CONT'D)
+dialog: I tell you, it's tough to get
+dialog: upgraded nowadays. I had to
+dialog: flirt so hard with the travel
+dialog: agent, it was practically phone
+dialog: sex.
+scene_heading: 21 INT. SECURITY AREA. AIRPORT - EVENING 21
+text: The light is fading.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 15A.
+text: Norman appears to be relishing a detailed search from a
+dialog: female Security Guard.
+speaker_heading: NORMAN
+dialog: Come on. Thorough as you like
+text: Muriel is waiting to collect her bag from the belt.
+speaker_heading: SECURITY GUARD
+dialog: We'd like to take a look in this
+dialog: bag, Madam, if you don't mind.
+text: He lifts the bag onto a table. It's heavier than he
+dialog: thought.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 16.
+speaker_heading: SECURITY GUARD (cont'd)
+dialog: What you got in here anyway?
+text: He opens the bag, stares in astonishment.
+speaker_heading: MURIEL
+text: PG Tips. Brown sauce. Ten jars
+dialog: of Marmite. Thirty one packets
+text: of Chocolate Hobnobs. Pickled
+text: onions. Pickled eggs. And
+dialog: pickle.
+speaker_heading: SECURITY GUARD
+text: No liquids on the plane.
+speaker_heading: MURIEL
+dialog: What does that mean?
+speaker_heading: SECURITY GUARD
+dialog: It means you can't take the
+dialog: pickled onions. Or the pickled
+dialog: eggs.
+speaker_heading: (BEAT)
+dialog: The pickle's fine.
+scene_heading: 22 INT. BOARDING GATE. AIRPORT - EVENING/NIGHT 22
+text: The passengers from Flight 1045 to Delhi are seated at the
+text: gate, waiting to board.
+text: Muriel is wheeled up by an attendant and parked at the end
+text: of the only remaining row of empty chairs. Douglas and
+text: Jean are already sitting there.
+text: Jean smiles politely as Graham sits down a couple of seats
+dialog: away.
+text: Norman arrives, carrying his battery radio, sees an empty
+text: place between Jean and Madge, who is sitting at the end.
+text: He smiles knowingly at Madge as he sits.
+text: Finally Evelyn takes the only available space, between
+dialog: Graham and Douglas.
+text: And there the seven passengers wait patiently, unaware of
+dialog: their common fate.
+text: The sound of a jet engine, quiet at first, finally engulfs
+dialog: them.
+scene_heading: 23 EXT. RUNWAY. INDIA - DAWN 23
+text: The plane cruises down through a stunning sunset, and lands
+dialog: at Delhi Airport.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 17.
+scene_heading: 24 INT. AIRPORT TERMINAL, DELHI - DAY 24
+text: Evelyn, Douglas, Jean and Graham are descending on an
+text: escalator. Madge is a few steps up.
+speaker_heading: JEAN
+dialog: Obviously one's read one's
+dialog: Kipling, but we view this as an
+dialog: opportunity to explore another
+dialog: culture, as well as making new
+dialog: friends. And a retired judge is
+dialog: just the class of guest one was
+dialog: hoping for, isn't it Douglas?
+speaker_heading: DOUGLAS
+dialog: I'm sorry?
+speaker_heading: GRAHAM
+speaker_heading: (TO EVELYN)
+dialog: And is this your first time in
+dialog: India?
+speaker_heading: JEAN
+dialog: You don't seem like an
+dialog: experienced traveller.
+speaker_heading: EVELYN
+dialog: I'm not. Although one has read
+dialog: one's guidebooks.
+text: Jean blinks. Evelyn and Graham share a smile. Douglas
+text: hides his. And Madge sees it all.
+text: As they head towards the baggage carousel, they're met by
+text: Muriel and Norman, emerging from the elevator. Norman is
+text: pushing Muriel's wheelchair.
+speaker_heading: NORMAN
+dialog: Norman Cousins.
+speaker_heading: MADGE
+dialog: Madge Hardcastle. A pleasure.
+speaker_heading: NORMAN
+dialog: Play your cards right, it could
+dialog: be.
+text: Madge stares at him. A voice comes over the tannoy.
+speaker_heading: AIRPORT ANNOUNCER
+dialog: Ladies and gentlemen, we regret
+dialog: to inform you that owing to bad
+dialog: weather, Flight 105 to Jaipur has
+dialog: been cancelled. The airline is
+dialog: happy to arrange
+speaker_heading: CUT TO:
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 18.
+scene_heading: 25 INT. AIRPORT. DELHI - DAY 25
+text: Hours later. The airport is deserted, except for the
+text: Marigold Hotel party, who sit slumped and exhausted on
+text: another row of seats, with Muriel's wheelchair at the other
+dialog: end.
+text: After a moment, Graham says
+speaker_heading: GRAHAM
+dialog: Alright. Plan B.
+scene_heading: 26 INT. DELHI AIRPORT - DAY 26
+text: Moments later. They're all moving briskly through the hi-
+text: tech, ultra-modern, beautifully air-conditioned building.
+speaker_heading: JEAN
+dialog: Of course it's a good idea. Who
+dialog: can you trust if not a High Court
+dialog: Judge?
+speaker_heading: DOUGLAS
+dialog: And this way we see more of the
+dialog: country.
+text: Norman is pushing Muriel's wheelchair.
+speaker_heading: NORMAN
+dialog: (leaning down, to
+speaker_heading: MURIEL)
+dialog: If anyone asks, say you're my
+dialog: mother. I don't want people to
+dialog: think we're together.
+speaker_heading: MURIEL
+dialog: In your dirty dreams.
+speaker_heading: JEAN
+dialog: Douglas, these are not words that
+dialog: often pass my lips, but you may
+dialog: actually be right. The country
+dialog: seems to be rather more civilised
+dialog: than one originally thought.
+scene_heading: 27 EXT. DELHI BUS STATION - EVENING 27
+text: Moments later. Our heroes are in the middle of an
+text: extraordinary scene. Stifling heat, deafening noise; the
+text: chaos, the bustle, the grime, the crowds, the life.
+text: They're surrounded by taxi drivers, baggage
+text: handlers,beggars etc. All clamouring for their attention.
+text: Evelyn looks a little shocked. Jean is traumatized, a
+text: handkerchief to her face.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 19.
+text: Graham, at the ticket booth, triumphantly holds up a
+text: fistful of tickets.
+speaker_heading: GRAHAM
+dialog: (shouting over the din)
+dialog: The bus will drop us in the
+dialog: centre of town. We can take tuk-
+dialog: tuks the rest of the way!
+text: They follow him through the hordes. And see their bus.
+text: It's absolutely rammed. People are practically hanging out
+dialog: of the windows.
+speaker_heading: MADGE
+dialog: There's not enough room.
+speaker_heading: GRAHAM
+dialog: It's time to prove the first and
+dialog: only rule of India: there's
+dialog: always room.
+text: He starts to fight his way to the door. Evelyn's at the
+text: back. She stops, for a moment, looks around her.
+speaker_heading: EVELYN
+dialog: What larks, Pip.
+text: Douglas is just ahead of her. He turns, smiles.
+speaker_heading: DOUGLAS
+dialog: Let's hope so.
+scene_heading: 28 EXT. HIGHWAY - EVENING 28
+text: Muriel's wheelchair is strapped to the back of the bus,
+text: which is screaming down the six-lane highway. A huge tower
+text: of luggage is piled precariously on the roof.
+text: The road appears to be complete chaos; cars, buses, even
+text: cows overtaking each other.
+text: The bus pulls into the outside lane to follow a truck which
+text: is overtaking some slower vehicles. As the truck pulls back
+text: into the inside lane, it reveals a huge truck barrelling
+text: towards them on the wrong carriageway.
+text: Norman, sitting at the front, screams his last scream...
+speaker_heading: NORMAN
+scene_heading: NOOOOOOO... . U
+text: At the last minute, the bus pulls back into the inside
+text: lane. The Indians on the bus take absolutely no notice.
+scene_heading: 29 INT. BUS - EVENING 29
+text: Norman is grinning from ear to ear.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 20.
+speaker_heading: NORMAN
+dialog: I'm loving this!
+text: Evelyn is sitting next to Madge.
+speaker_heading: EVELYN
+dialog: A few months ago I was organising
+text: the church flowers.
+speaker_heading: MADGE
+dialog: Are you struggling with the
+dialog: feeling you're not in control of
+dialog: your circumstances?
+speaker_heading: EVELYN
+dialog: A little.
+speaker_heading: MADGE
+dialog: You know what the shortest prayer
+dialog: in the world is?
+speaker_heading: EVELYN
+dialog: No.
+speaker_heading: MADGE
+dialog: Fuck it.
+text: Evelyn laughs.
+speaker_heading: MADGE (CONT'D)
+dialog: You're not doing the church
+dialog: flowers any more. May as well
+dialog: enjoy the ride.
+text: Douglas is watching a nice Indian family. They're having a
+text: picnic. The father notices Douglas looking, offers him
+dialog: some food.
+text: Douglas makes the namaste gesture, takes some happily.
+speaker_heading: JEAN
+dialog: Are you insane? "Avoid all food
+dialog: not from a reputable vendor, it
+dialog: will have been washed with impure
+dialog: water."
+text: Douglas keeps eating, with great enjoyment.
+speaker_heading: DOUGLAS
+dialog: It's just a sandwich.
+speaker_heading: JEAN
+dialog: Marvellous. Then I'll have the
+dialog: ham, cheese, and streptococcus,
+dialog: please. Or perhaps the bacteria,
+text: lettuce and tomato.
+text: Douglas turns to Muriel.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 21.
+speaker_heading: DOUGLAS
+dialog: Would you like some of this? I
+dialog: believe it's aloo ka paratha.
+speaker_heading: MURIEL
+dialog: If I can't pronounce it, I'm not
+dialog: eating it.
+text: The cacophony of horns continues. Jean screams, as another
+text: collision looms.
+scene_heading: 30 EXT. COUNTRYSIDE - DUSK 30
+text: The last of the light. The bus moves on through a beautiful
+dialog: landscape.
+scene_heading: 31 INT. BUS - NIGHT 31
+text: Everyone is asleep, or trying to sleep.
+text: Except Muriel. She reaches into her bag, and carefully
+text: removes a biscuit. She surreptitiously lifts it to her
+text: mouth, and starts to chew.
+text: Madge has fallen asleep on Evelyn's shoulder. But Evelyn
+text: is still awake, as is Graham.
+speaker_heading: EVELYN
+dialog: How long since you were here?
+speaker_heading: GRAHAM
+dialog: Forty years.
+speaker_heading: EVELYN
+dialog: As long as I was married.
+speaker_heading: (BEAT)
+dialog: He died recently. My husband.
+speaker_heading: GRAHAM
+dialog: I'm sorry.
+speaker_heading: EVELYN
+dialog: D'you think we're going to be
+dialog: alright?
+speaker_heading: GRAHAM
+dialog: God, don't ask me. I'm more
+dialog: scared than you are.
+text: They both smile, sit in silence for a bit.
+speaker_heading: GRAHAM (CONT'D)
+dialog: Yes. I think it's going to be
+dialog: extraordinary.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 22.
+scene_heading: 32 EXT. BUS - DAWN 32
+text: The sun rises. A beautiful, pearly dawn.
+text: The bus drives through the great gates of Jaipur. Below,
+text: the city shimmers in the heat. It's a magnificent sight.
+speaker_heading: EVELYN (O.S.)
+dialog: What exactly is a tuk-tuk?
+scene_heading: 33 EXT. JAIPUR STREET - DAWN 33
+text: Our heroes are squashed into a pair of them, facing
+text: forwards and backwards, attempting not to swallow too much
+text: dust as they wheel crazily through the teeming morning
+text: streets of the city. They stare in amazement at the world
+text: racing past them.
+text: A scooter overtakes. A young man is driving, his
+text: girlfriend riding side-saddle on the back. Her sari
+text: billows out behind her. Douglas and Evelyn both watch her,
+text: struck by this image of beauty, youth and vitality.
+scene_heading: 34 EXT. STREET/GARDEN PATH. MARIGOLD HOTEL - MORNING 34
+text: The tuk-tuks have pulled up, and our travellers emerge,
+text: exhausted and dirty, staring through some garden gates at
+text: the Marigold Hotel. Once a beautiful building, once
+text: possibly even luxurious, it is clearly in the process of
+text: being given at least half the face-lift it badly needs.
+text: Parts of the building are freshly painted, some of the
+text: ornate balconies are crumbling, and one wall is clad with
+text: crazily skewed bamboo scaffolding. A huge old tree towers
+text: over an untended garden, its branches poking into the
+text: windows of the building.
+scene_heading: 34A EXT. ROOFTOP. MARIGOLD HOTEL - MORNING 34A
+text: A young man leans out from an upper balcony to see the
+scene_heading: arrival below: SONNY KAPOOR (early 20's).
+text: He deposits a paint pot and brush on a parapet, and races
+text: off across the rooftop.
+scene_heading: 34B EXT. GARDEN PATH/COURTYARD. MARIGOLD HOTEL - MORNING 34B
+text: Dazed and horrified, the travellers wander up the pathway.
+text: A cow standing in front of them is pushed into the garden
+text: by a couple of young houseboys who then run to the tuk-tuks
+dialog: to collect their luggage.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 23.
+scene_heading: 34C EXT. STAIRWAY/COURTYARD. MARIGOLD HOTEL - MORNING 34C
+text: Sonny clatters down the steep steps, and comes tearing out
+text: onto a verandah, as the travellers arrive in the courtyard
+text: below. He spreads his arms wide.
+speaker_heading: SONNY
+dialog: Welcome to India!!!
+text: They stare up at him.
+scene_heading: 35 EXT/INT. COURTYARD/HALLWAY.BEDROOM. MARIGOLD HOTEL - DAY 35
+text: The courtyard is not without charm, although somewhat
+text: delapidated. A fountain at the centre does not look as if
+text: it has seen water in years, and faded awnings are strung up
+text: haphazardly.
+text: Sonny is leading Madge into the darkness of the building,
+text: towards her room.
+speaker_heading: SONNY
+dialog: This is a building of the utmost
+dialog: character, which means that
+dialog: perhaps not everything will
+dialog: function in the way you expect it
+dialog: to. But as the manager and chief
+dialog: executive supervising officer of
+dialog: the Marigold Hotel, I can tell
+dialog: you with great pride that the
+dialog: building has stood for centuries,
+dialog: and will stand for many more, in
+dialog: 100% shipshape condition. Please
+dialog: follow me, carefully avoiding
+dialog: that naughty stone there
+dialog: round this corner, leading us
+dialog: most successfully all the way to
+dialog: . your bedroom!
+text: The room is very small, comfortable, and tastefully
+text: decorated. But there's no door.
+speaker_heading: MADGE
+dialog: Where?
+speaker_heading: SONNY
+dialog: Here. In here.
+speaker_heading: MADGE
+dialog: My dear man. Rooms have doors.
+dialog: What you're showing me here is an
+dialog: alcove.
+speaker_heading: SONNY
+text: The door is coming soon, most
+dialog: definitely.
+speaker_heading: MADGE
+dialog: How soon?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 24.
+speaker_heading: SONNY
+dialog: Let us not concern ourselves with
+dialog: details, Mrs Hardcastle. Rather
+dialog: than speaking of doors, we should
+dialog: instead take pleasure in the
+dialog: freedom to roam.
+speaker_heading: MADGE
+dialog: Does your room have a door?
+speaker_heading: SONNY
+dialog: Oh yes.
+speaker_heading: MADGE
+dialog: Then that's where I'll be
+dialog: staying.
+scene_heading: 36 EXT. UPPER COURTYARD, MARIGOLD HOTEL - DAY 36
+text: Douglas and Jean arrive at their room. Douglas goes in
+text: through the arched doorway, promptly comes back out again.
+speaker_heading: DOUGLAS
+dialog: Bird in the room! Bird in the
+dialog: room!
+text: Jean pushes him aside, goes on in. Several pigeons are
+text: flying around in some panic.
+scene_heading: 37 EXT/INT. VERANDAH/BEDROOM. MARIGOLD HOTEL - DAY 37
+text: Evelyn arrives at her room, goes on in.
+text: The room is light and airy. And rather nice. But all the
+text: furniture is covered in sheets.
+text: As Evelyn stands there, Sonny comes rushing in, yanks all
+text: the sheets off, and runs out again.
+scene_heading: 38 EXT/INT. BEDROOMS/TERRACE. MARIGOLD HOTEL - DAY 38
+text: Muriel wheels herself towards her room. Standing inside is
+text: a male nurse, AJIT.
+text: Muriel swivels her chair around. Graham is just going into
+dialog: his room.
+speaker_heading: MURIEL
+dialog: There's an Indian in there!
+text: Graham smiles, goes on into his room. Which is dusty, but
+text: comfortable and pleasant.
+text: He looks around with satisfaction.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 25.
+scene_heading: 39 EXT. STAIRWAY, MARIGOLD HOTEL - DAY 39
+text: Norman is laboriously climbing the stairs to his room. He
+text: stops, catches his breath.
+scene_heading: 40 EXT. TERRACE, MARIGOLD HOTEL - DAY 40
+text: Ajit is attempting to explain himself to Muriel.
+speaker_heading: MURIEL
+dialog: My what?
+speaker_heading: AJIT
+dialog: Your physiotherapist. To help
+dialog: with your recovery after the
+dialog: operation.
+speaker_heading: MURIEL
+dialog: You're not touching me.
+speaker_heading: AJIT
+dialog: Traditionally that is how
+dialog: physiotherapy is practised.
+scene_heading: 41 EXT. ROOF, MARIGOLD HOTEL - DAY 41
+text: Norman comes out onto the roof of the hotel. His room is
+text: right in front of him, a kind of penthouse cabin. A bed,
+text: but not much else. The trees poke in through the open
+dialog: window.
+text: He walks through the room, hangs his battery radio on a
+text: hook and leans out of the balcony, surveying the view.
+speaker_heading: NORMAN
+dialog: This'll do.
+scene_heading: 42 INT. RECEPTION - DAY 42
+text: Jean is confronting Sonny.
+speaker_heading: JEAN
+dialog: I want to stay at the other
+text: hotel, the one in the brochure.
+speaker_heading: SONNY
+dialog: Mrs Ainslie, prepare to be
+dialog: amazed. This is that very
+dialog: building!
+speaker_heading: JEAN
+dialog: You've Photoshopped it!
+speaker_heading: SONNY
+dialog: I have offered a vision of the
+dialog: future.
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 26.
+speaker_heading: SONNY (CONT'D)
+dialog: Of course I had hoped that by now
+dialog: it would be the present. But in
+dialog: India we have a saying:
+dialog: everything will be alright in the
+dialog: end. So if it is not alright,
+text: then it is not yet the end.
+speaker_heading: JEAN
+dialog: What will start to make this
+dialog: alright is for you to give us a
+dialog: refund.
+speaker_heading: SONNY
+dialog: Of course if that is what you
+dialog: desire, you must have it.
+dialog: Absolutely no problem, I will
+dialog: refund you completely.
+speaker_heading: JEAN
+dialog: You will? Straight away?
+speaker_heading: SONNY
+dialog: Without question, Mrs Ainslie, I
+dialog: most definitely will. Straight
+dialog: away in three months.
+scene_heading: 43 INT. GRAHAM'S ROOM. MARIGOLD HOTEL - DAY 43
+text: Graham is taking some things out of his bag: an old map of
+text: Jaipur, sepia-tinted photographs of a British family during
+text: the Raj, official documents yellowing with age.
+text: He picks up a photograph, looks at it.
+text: From outside, we can hear Ajit, the physiotherapist
+speaker_heading: AJIT (O.S.)
+dialog: a stay of five days and it is
+dialog: done under general anaesthesia.
+dialog: A hip replacement usually takes
+dialog: only two hours
+scene_heading: 44 EXT. TERRACE. MARIGOLD HOTEL - DAY 44
+text: Ajit's explanation continues. Muriel is trying not to
+dialog: panic.
+speaker_heading: AJIT
+dialog: Your surgeon will remove the top
+dialog: end of the thigh bone, and insert
+text: an artificial bone instead. A
+dialog: most routine procedure.
+speaker_heading: MURIEL
+dialog: Have you got a marker pen on you?
+speaker_heading: AJIT
+dialog: Why?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 27.
+speaker_heading: MURIEL
+dialog: I want to mark it. So you don't
+dialog: take the wrong hip.
+scene_heading: 45 EXT. UPPER VERANDAH. MARIGOLD HOTEL - DAY 45
+text: Douglas is on his way down the stairs.
+text: Evelyn comes out of her bedroom.
+speaker_heading: EVELYN
+dialog: Oh, hello.
+speaker_heading: DOUGLAS
+dialog: Is everything alright?
+speaker_heading: EVELYN
+dialog: I was just going to find the
+dialog: manager.
+speaker_heading: DOUGLAS
+dialog: I'm afraid he's dealing with my
+dialog: wife. Or vice versa.
+speaker_heading: EVELYN
+dialog: I promised I'd call my son, to
+dialog: tell him I'd arrived, and -
+speaker_heading: DOUGLAS
+dialog: And the phone in your room
+dialog: doesn't work. May I?
+scene_heading: 45A INT. EVELYN'S ROOM. MARIGOLD HOTEL - DAY 45A
+text: Douglas picks up the very old-style phone. Evelyn is
+dialog: watching.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: Now, did you try jiggling it a
+dialog: bit?
+speaker_heading: EVELYN
+dialog: Yes, did that.
+speaker_heading: DOUGLAS
+dialog: Did you kind of bang it lightly
+dialog: on the desk a few times?
+speaker_heading: EVELYN
+dialog: That too.
+speaker_heading: DOUGLAS
+dialog: Hmm.
+text: He twists off the mouthpiece of the receiver, lifts the
+text: receiver carefully. And blows on it.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 28.
+speaker_heading: EVELYN
+dialog: How did you come to be here? In
+dialog: India.
+speaker_heading: DOUGLAS
+dialog: I invested our - well, my -
+dialog: retirement money in our
+dialog: daughter's internet company. She
+dialog: assured me that as soon as the
+dialog: start-up actually started up, and
+dialog: the conversion from virtual to
+dialog: actual proved sufficiently
+dialog: viable, then she would be able to
+dialog: pay it all back.
+speaker_heading: EVELYN
+dialog: I'm not sure I understand what
+dialog: most of those words mean.
+speaker_heading: DOUGLAS
+dialog: It turns out neither did she.
+text: Douglas has put the mouthpiece back on, holds the receiver
+text: to his ear.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: There you are. Good as new.
+speaker_heading: EVELYN
+dialog: Really?
+speaker_heading: DOUGLAS
+dialog: No, of course not. I've got no
+dialog: idea what I'm doing.
+text: Evelyn bursts out laughing.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: Now, would you like me to not fix
+dialog: that chair? Because I can do
+dialog: that too.
+scene_heading: 45B EXT. STAIRWAY. MARIGOLD HOTEL - NIGHT 45B
+text: The houseboys are struggling with the unequal task of
+text: pulling Muriel's wheelchair, with Muriel in it, up the
+text: narrow steps.
+speaker_heading: SONNY (O.S.)
+dialog: In honour of your arrival, a
+dialog: special welcome British roast for
+dialog: you all!
+scene_heading: 46 EXT. UPPER COURTYARD - NIGHT 46
+text: A group of mismatched table and chairs, that constitute the
+text: dining area of the hotel.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 29.
+text: Sonny is serving up a meal. His guests, wearing garlands
+text: of marigolds, listen politely.
+speaker_heading: SONNY
+dialog: .Cooked lovingly by myself and
+dialog: my most loyalist factotum and
+dialog: helper, Young Wasim ...
+text: He points to YOUNG WASIM. Who is about 80, and is sitting
+text: in the corner, fast asleep.
+speaker_heading: MADGE
+dialog: Roast what?
+speaker_heading: SONNY
+text: A wonderful taste of Blighty.
+speaker_heading: MADGE
+dialog: Roast what?
+speaker_heading: SONNY
+text: Roast goat curry.
+speaker_heading: DOUGLAS
+dialog: Yes please.
+speaker_heading: JEAN
+dialog: So the upshot is that he's spent
+dialog: all our money getting us here,
+dialog: and we can't leave till he's made
+dialog: some more.
+text: Muriel has arrived at her table.
+speaker_heading: SONNY
+dialog: Gentle friends, you have found
+dialog: your way to this place,
+dialog: bequeathed to me by my beloved
+dialog: father, that I have raised from
+text: the ruins of his broken dreams,
+dialog: and renamed The Best Exotic
+dialog: Marigold Hotel For The Elderly
+dialog: And Beautiful. Yes, I use the
+dialog: words most deliberately...
+text: Norman is not looking very well at all. Sonny doesn't
+text: notice, keeps on going.
+speaker_heading: SONNY (CONT'D)
+dialog: .You have all heard the chimes
+dialog: at midnight, and long in tooth
+dialog: have youbecome. Who knowshow
+dialog: many daysyou have left?But we
+dialog: are mosthonoured that youhave
+dialog: chosen tospend that time with
+dialog: us.
+text: Norman's head suddenly tips forward, and he falls from his
+text: chair onto the floor.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 30.
+text: General panic. Everybody crowds round, but no one knows
+dialog: what to do.
+speaker_heading: SONNY (CONT'D)
+dialog: Let me through, please. My
+dialog: brother is a doctor.
+text: He kneels next to Norman, and checks his watch as he feels
+dialog: for a pulse.
+text: Everybody waits. And then
+speaker_heading: SONNY (CONT'D)
+dialog: This man is dead.
+text: An appalled silence.
+speaker_heading: SONNY (CONT'D)
+dialog: Please, we must cover his face.
+dialog: We should preserve his dignity at
+dialog: this terrible moment.
+text: Madge looks around. All there is is a napkin. She passes
+text: it Sonny, who lays it over the face of Norman.
+text: Who promptly coughs.
+speaker_heading: DOUGLAS
+dialog: He just coughed. I heard him
+dialog: cough!
+speaker_heading: EVELYN
+dialog: He moved! He's alive!
+speaker_heading: MADGE
+dialog: He's fainted, that's all.
+text: Sonny shakes his watch next to his ear. It's stopped.
+text: Norman sits up.
+speaker_heading: NORMAN
+dialog: What's going on? Did I nod off?
+text: Everyone crowds round Norman, helps lift him back up.
+text: Except Muriel. She just stares at them all.
+speaker_heading: MURIEL
+dialog: Hell. I'm in hell.
+scene_heading: 47 EXT. STREET. MARIGOLD HOTEL - DAWN 47
+text: The sun rises. A washer-man bicycles up to the hotel, a
+text: load of clean sheets balanced on his handlebars.
+text: Shopkeepers on the street are beginning to set out their
+dialog: wares.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 31.
+speaker_heading: EVELYN (V.0.)
+dialog: Day Nine. Old habits die easier
+dialog: than we think, and new ones form.
+scene_heading: 48 INT. EVELYN'S ROOM, MARIGOLD HOTEL - DAWN 48
+text: Evelyn is typing - hunt and peck - at her computer. Beside
+text: her, the classified pages of the local newspaper.
+speaker_heading: EVELYN (V.0.)
+dialog: No longer do I reach out in the
+dialog: morning for Radio 4. My news
+dialog: comes instead from the Jaipur
+speaker_heading: HERALD
+scene_heading: 49 EXT. STREET, MARIGOLD HOTEL - DAY 49
+text: A sign reads: 'THE BEST EXOTIC MARIGOLD HOTEL FOR THE
+scene_heading: ELDERLY AND BEAUTIFUL - OPEN FOR BUSINESS.'
+text: Sonny affixes a sticker: 'NOW WITH GUESTS!'
+speaker_heading: EVELYN (V.0.)
+dialog: . Soon I might even grow
+dialog: accustomed to the storm of car
+text: horns and vendors.
+scene_heading: 50 EXT. STREET, CENTRAL JAIPUR - DAY 50
+text: The main road in Jaipur is chaotically busy. Crowds,
+text: bikes, cows, dust, noise, and laughter.
+text: Sonny's battered old car has broken down. Madge is in the
+text: front seat, Douglas and Jean in the back.
+text: Sonny is aiming a couple of kicks at the engine.
+speaker_heading: EVELYN (V.0.)
+dialog: Can there be anywhere else in the
+dialog: world that is such an assault on
+dialog: the senses?
+scene_heading: 51 EXT/INT. PUBLIC RECORDS OFFICE, JAIPUR - DAY 51
+text: An office out of a Kafka novel; cloth bags containing files
+text: are piled all around the room, floor to ceiling.
+text: Graham is seated at a desk, in front of a sober official.
+text: He is filling in a form.
+speaker_heading: EVELYN (V.0.)
+dialog: Those who know the country of old
+dialog: just go about their business.
+dialog: But nothing can prepare the
+dialog: uninitiated for this riot of
+dialog: noise and colour ...
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 32.
+scene_heading: 51A EXT. JANTAR MANTAR OBSERVATORY. JAIPUR - DAY 51A
+text: Norman seems less interested in the astonishing geometric
+dialog: devices of the ancient observatory than in the female
+dialog: tourists who have come to see them...
+scene_heading: 52 EXT. STREET, CENTRAL JAIPUR - DAY 52
+text: The chaos and din of the street is even more mind-boggling.
+text: Madge now has the bonnet up, and is studying the engine.
+text: Douglas stands in the street, staring in wonderment around
+dialog: him.
+text: Inside the car, Jean looks utterly traumatized, shrinking
+text: lower in her seat as a horde of kids swarm at the windows,
+text: shouting, wheedling, gesticulating. Sonny does his best to
+dialog: wave them away.
+speaker_heading: EVELYN (V.0.)
+dialog: ... for the heat, the motion, the
+text: perpetual teeming crowds. Sonny
+dialog: is conducting his own personal
+dialog: assault on our senses
+scene_heading: 53 INT. UPPER COURTYARD, MARIGOLD HOTEL - NIGHT 53
+text: The guests look on with trepidation, as another meal is
+text: laid before them.
+speaker_heading: EVELYN (V.0.)
+dialog: with the flow of exotic
+dialog: dishes he demands daily from the
+dialog: kitchen. Mooli Moong Dal.
+dialog: Baghara Baingan. Banjari Gosht.
+dialog: Paneer Methi Chaman ...
+text: As the list unfolds, the guests, one by one, enter their
+text: bathrooms; a litany of doors closing
+dialog: Until Norman.
+speaker_heading: EVELYN (V.0.) (cont'd)
+dialog: Mutton Vindaloo ...
+text: Norman lies on his bed, reading the Kama Sutra.
+text: He spins the book round, in order to study an illustration
+text: more intently.
+scene_heading: 54 INT. HOSPITAL, JAIPUR - DAY 54
+dialog: The hospital puts the NHS to shame. It's hi-tech, bright,
+dialog: and spanking clean.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 33.
+text: Sonny pushes Muriel through the doors of the lobby. The
+text: reception area is a forest of dark skin. Muriel is rigid
+dialog: with fear.
+speaker_heading: EVELYN (V.0.)
+dialog: Initially you're overwhelmed.
+dialog: But gradually you realise: it's
+dialog: like a wave. Resist, and you'll
+dialog: be knocked over ...
+text: Sonny is in discussion with some doctors.
+text: Then he turns to see that Muriel has vanished. Through the
+text: window Muriel can be seen frantically wheeling herself away
+dialog: down the path...
+speaker_heading: EVELYN (V.0.) (cont'd)
+dialog: Dive into it, and you'll swim out
+text: the other side.
+scene_heading: 55 EXT/INT. STREET/ROOM, MARIGOLD HOTEL - DAY 55
+text: Madge is exchanging some coins with a street trader in
+dialog: return for a mobile phone.
+text: In her room, Madge scans a phone directory, and dials a
+dialog: number.
+speaker_heading: EVELYN (V.0.)
+dialog: This is a new and different
+dialog: world.
+scene_heading: 56 INT. EVELYN'S ROOM, MARIGOLD HOTEL - DAY 56
+text: Evelyn is finishing her blog. She picks up the paper,
+dialog: checks something.
+speaker_heading: EVELYN (V.0.)
+dialog: The challenge is to cope with it.
+scene_heading: 57 EXT. GARDEN, MARIGOLD HOTEL - DAY 57
+text: Evelyn is coming down the path to the gate.
+speaker_heading: EVELYN (V.0.)
+dialog: And not just cope ... but thrive.
+scene_heading: 58 EXT. STREET, JAIPUR - DAY 58
+text: Evelyn is walking down a rough street on the outskirts of
+text: the city. Kids are everywhere, laughing, shouting, doing
+text: tricks, begging.
+text: Evelyn approaches them, holding up a piece of paper.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 34.
+speaker_heading: EVELYN
+dialog: Please, can anyone direct me to
+dialog: this address?
+text: Evelyn's piece of paper gets passed around: none of the
+text: kids can read. An older boy finally points. Suddenly
+dialog: there's lots of pointing.
+speaker_heading: EVELYN (CONT'D)
+dialog: Thank you.
+text: She goes to move, but the kids are still all around her.
+speaker_heading: EVELYN (CONT'D)
+dialog: I'm sorry, I don't . I don't
+dialog: really have much ...
+text: She gives them the contents of her pockets.
+speaker_heading: EVELYN (CONT'D)
+dialog: Alright? Alright now? Goodbye.
+text: She starts to walk, is surprised that the entire posse of
+text: kids walks with her. In fact, the group seems to be
+text: growing exponentially. She looks like the Pied Piper.
+scene_heading: 59 INT. DOUGLAS AND JEAN'S ROOM, MARIGOLD HOTEL - DAY 59
+text: Douglas is getting ready to go out. Jean clearly isn't.
+speaker_heading: DOUGLAS
+dialog: Graham was talking about this
+dialog: marvellous temple. I thought you
+dialog: might want to come with me.
+speaker_heading: JEAN
+dialog: I'm your wife. Have we met?
+speaker_heading: DOUGLAS
+dialog: You'd really rather stay here all
+dialog: day?
+speaker_heading: JEAN
+dialog: Given the alternative, yes.
+speaker_heading: DOUGLAS
+dialog: When I walk out in the morning,
+text: the street kids all smile at me.
+speaker_heading: JEAN
+dialog: Because you give them money.
+speaker_heading: DOUGLAS
+dialog: One does this trick where he
+text: holds his hands out in front of
+text: himself, and then swings through
+dialog: his own arms. Got to be worth a
+dialog: rupee or two.
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 34A.
+speaker_heading: DOUGLAS (CONT'D)
+speaker_heading: (BEAT)
+dialog: I'll go on my own then.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 35.
+scene_heading: 60 EXT. CHAND POLE STREET. JAIPUR - DAY 60
+text: The road is absolutely rammed; with cars, bikes and
+text: rickshaws. All honking horns, all seemingly headed in
+dialog: different directions.
+text: Evelyn has somehow made it to the central reservation. She
+text: takes a deep breath, and plunges into the maze of traffic,
+text: heading for the other side.
+scene_heading: 61 EXT. RICKSHAW. SUBURBAN ROAD, JAIPUR - DAY 61
+text: Graham is in a rickshaw. The rickshaw driver, PRAVESH, is
+text: driving it through a neighborhood in transition. Skeletal
+text: structures of a new India rise above the houses.
+scene_heading: 61A EXT. BUILDING SITE/STREET. JAIPUR - DAY 61A
+text: Some kids playing cricket.
+text: The rickshaw weaves its way through them and comes to a
+dialog: halt.
+text: Graham gets out, and stands in the street, dwarfed by a
+text: huge modern building, some months away from completion.
+speaker_heading: GRAHAM
+dialog: This can't be right, surely?
+speaker_heading: PRAVESH
+dialog: I am thinking so, saab.
+speaker_heading: GRAHAM
+dialog: But there were houses all along
+dialog: here . these were homes.
+speaker_heading: PRAVESH
+dialog: I can take you some other
+dialog: place..?
+speaker_heading: GRAHAM
+dialog: No. That'll do for now. Thank
+dialog: you.
+text: He hands over some money, and Pravesh pedals away.
+text: Graham turns to look at the boys playing cricket. One of
+text: them, SANJAY, is batting.
+speaker_heading: GRAHAM (CONT'D)
+dialog: Excuse me. There used to be
+speaker_heading: HOUSES HERE
+speaker_heading: SANJAY
+text: All knocked down.
+speaker_heading: GRAHAM
+dialog: And the people? The families?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 36.
+speaker_heading: SANJAY
+dialog: They move.
+text: Graham nods, turns to look at the giant structure that has
+text: taken over, then turns back.
+speaker_heading: GRAHAM
+dialog: Don't grip so tightly with your
+dialog: right hand.
+text: Sanjay looks puzzled.
+speaker_heading: GRAHAM (CONT'D)
+text: On the bat. The right is just a
+dialog: guide. Keep your left elbow
+dialog: high, play down the line of your
+dialog: arm, and then you'll hit through
+speaker_heading: THE BALL
+text: Sanjay looks at him, squinting in the sun.
+scene_heading: 62 INT. CORRIDOR. HOSPITAL - DAY 62
+text: Ajit is wheeling Muriel through the hospital.
+speaker_heading: MURIEL
+dialog: When can I go back to England?
+speaker_heading: AJIT
+dialog: As soon as you can walk onto the
+dialog: plane. How does the hip feel?
+speaker_heading: MURIEL
+dialog: They must have got lucky.
+speaker_heading: AJIT
+dialog: It's strange. I think the more
+dialog: operations they perform, the
+dialog: luckier they get.
+text: He glances down at Muriel, who betrays no signof getting
+dialog: Ajit's joke.
+scene_heading: 63 EXT. MARKET. BACK STREETS - DAY 63
+text: Evelyn is still searching for the right address. She's
+text: turned off the main road, and is heading down a narrow side
+text: streets. The city has become denser, and the walls seem to
+dialog: have closed in.
+text: She pushes her way through the crowded market.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 37.
+scene_heading: 63A EXT. PASSAGE/COURTYARD - DAY 63A
+text: Uncertain, Evelyn turns down a narrow alley, and suddenly
+text: finds herself in an enclosed courtyard strewn with
+text: makeshift washing lines. The atmosphere is faintly
+dialog: threatening.
+text: As she tries to find her way out, she becomes aware that
+text: she is being watched: the walls are full of doorways, and
+text: people have come out to stare at her. She has stumbled
+dialog: into their home.
+text: Evelyn tries to suppress her panic, turning from one face
+dialog: to another.
+speaker_heading: EVELYN
+dialog: I'm so sorry. I didn't realise -
+text: She backs into a kind of flatbed trolley, piled high with
+text: cooking utensils, which clatter noisily to the ground. She
+text: goes to pick them up.
+speaker_heading: EVELYN (CONT'D)
+dialog: Oh, I'm dreadfully sorry...
+text: A man is staring at her: SURESH.
+speaker_heading: SURESH
+dialog: Yes.
+speaker_heading: EVELYN (CONT'D)
+dialog: I'm sorry, I'm just trying to get
+dialog: to this address.
+speaker_heading: SURESH
+dialog: Yes.
+speaker_heading: EVELYN
+dialog: Do you understand me? Can you
+dialog: help me find this place?
+speaker_heading: SURESH
+dialog: Yes.
+speaker_heading: EVELYN
+dialog: Is that yes you understand, or
+dialog: yes you can help me?
+speaker_heading: SURESH
+dialog: Yes.
+text: Some of the children who have gathered laugh at this, and
+text: the tension is broken slightly.
+speaker_heading: EVELYN
+dialog: Let's go with both, shall we?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 38.
+scene_heading: 63B EXT. STREET. JAIPUR - DAY 63B
+text: Suresh's flatbed trike is rolling down the street, piled
+text: impossibly high with bundles of brightly-coloured textiles.
+text: On the back, enthroned in the fabric, is Evelyn.
+scene_heading: 64 EXT. WASTELAND - DAY 64
+dialog: Graham is playing cricket with the teenagers. He's good,
+text: too. He whacks a ball off into the distance.
+speaker_heading: GRAHAM
+speaker_heading: (TRIUMPHANT)
+dialog: YES!
+text: A boy runs off to fetch the ball. Graham half-runs, half-
+text: walks to the other end, then turns for a second run,
+text: breathing heavily. Then walks back to the crease, gets
+text: ready for the next delivery.
+text: It's hot and he's tired, but he hasn't felt this good for
+dialog: years.
+speaker_heading: SANJAY
+dialog: Give me the ball. I can take
+dialog: him.
+text: He turns cheerily to Graham.
+speaker_heading: SANJAY (CONT'D)
+dialog: Down is where you're going,
+dialog: Uncle.
+speaker_heading: GRAHAM
+dialog: Come on. Do your worst.
+text: They're both enjoying the banter, as Sanjay heads back to
+text: the beginning of his run-up, then turns and sprints in to
+dialog: bowl.
+text: As Graham watches Sanjay running towards him, Sanjay seems
+text: to slow, his movements becoming sluggish, never seeming to
+text: reach the crease. He looks at the faces of the other boys,
+text: frozen, waiting. The ball seems to take forever to leave
+text: Sanjay's hand.
+text: Graham steps back, completely fails to play a stroke, and
+dialog: is bowled.
+speaker_heading: SANJAY
+dialog: That's what I'm talking about! I
+dialog: felt the need, the need for -
+text: Graham still hasn't moved.
+speaker_heading: SANJAY (CONT'D)
+dialog: Are you alright, Uncle?
+text: Graham finds his voice at last.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 39.
+speaker_heading: GRAHAM
+dialog: Yes. Yes, I'm fine.
+scene_heading: 65 EXT. STREET/CALL CENTRE BUILDING - DAY 65
+text: Suresh brakes, stops outside a glass-clad high-rise
+dialog: building.
+speaker_heading: SURESH
+dialog: Yes.
+text: Suresh helps Evelyn down off the back.
+speaker_heading: EVELYN
+dialog: Thank you.
+speaker_heading: SURESH
+dialog: Yes.
+speaker_heading: EVELYN
+dialog: This is it?
+speaker_heading: SURESH
+dialog: Yes.
+speaker_heading: EVELYN
+dialog: Then thank you. You're very
+dialog: kind.
+speaker_heading: SURESH
+dialog: Yes.
+text: He rides off. Evelyn looks nervously up at the building.
+scene_heading: 66 INT. OPERATIONS ROOM. CALL CENTRE - DAY 66
+text: A brightly-lit open plan office on a high floor of the
+text: building. The city sprawls magnificently below.
+text: Partitions divide off the cubicles. Within them sit rows
+text: of workers, all early 20's, all with headsets clamped to
+text: their ears. As chaotic as the streets of Jaipur are, this
+text: place is immaculate, controlled and efficient.
+text: We hear snatches of what they're saying.
+speaker_heading: TELEMARKETERS
+dialog: Thank you for talking to us today
+dialog: We do appreciate your call
+dialog: while I have you on the
+dialog: phone, can I talk to you about
+dialog: our special offers . your call
+dialog: is important to us . now is
+dialog: there anything else I can help
+dialog: you with ... shouldn't take more
+dialog: than five minutes . your custom
+dialog: is valuable to us
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 39A.
+speaker_heading: TELEMARRETERS (CONT'D)
+dialog: I'm afraid I'll have to refer
+dialog: that to my supervisor just a
+dialog: routine security check before we
+dialog: start . Thank you for talking
+dialog: to us today
+text: Through a glass partition, Evelyn can be seen sitting at a
+text: desk, talking to someone.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 40.
+scene_heading: 67 INT. SUPERVISOR'S OFFICE. CALL CENTRE - DAY 67
+text: JAY (late 20's) is talking to Evelyn.
+speaker_heading: JAY
+dialog: You're sure I can't offer you
+dialog: something? We have English
+dialog: Breakfast Tea. Building Tea, as
+dialog: you call it.
+speaker_heading: EVELYN
+dialog: Builder's tea. It's called
+dialog: builder's tea. And no, I'm fine.
+dialog: Thank you.
+speaker_heading: JAY
+dialog: Tell me then. How can I help
+dialog: you?
+dialog: Beat.
+speaker_heading: EVELYN
+dialog: I don't think you can. I'm
+dialog: sorry, I shouldn't have come.
+text: She stands.
+speaker_heading: JAY
+speaker_heading: WAIT -
+speaker_heading: EVELYN
+dialog: I saw your advertisement in the
+dialog: local paper, and it specifically
+dialog: mentioned the ability to talk to
+dialog: older people. But this is not
+dialog: what I imagined ...
+speaker_heading: JAY
+dialog: You came for a job?
+speaker_heading: EVELYN
+dialog: I've wasted your time.
+speaker_heading: JAY
+dialog: Mrs Greenslade. Everyone working
+dialog: here is a graduate of a good
+dialog: university. This is a place for
+dialog: ambitious people. Young people.
+speaker_heading: EVELYN
+dialog: I see that. Good day.
+speaker_heading: JAY
+dialog: Please. One second.
+text: Evelyn stops.
+speaker_heading: JAY (CONT'D)
+dialog: It is really builder's tea?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 41.
+speaker_heading: EVELYN
+dialog: Yes. We dunk biscuits into it.
+speaker_heading: JAY
+dialog: You dunk?
+speaker_heading: EVELYN
+dialog: It means lowering a biscuit into
+dialog: your tea, letting it soak in
+text: there, then trying to calculate
+dialog: the exact moment just before it
+text: dissolves to whip it up to the
+dialog: mouth, and enjoy the blissful
+dialog: union of biscuit and tea
+dialog: combined.
+speaker_heading: (BEAT)
+dialog: It's more relaxing than it
+dialog: sounds.
+speaker_heading: JAY
+dialog: Perhaps you can help us after
+dialog: all.
+scene_heading: 68 INT. OPERATIONS ROOM. CALL CENTRE - DAY 68
+text: A few minutes later. From the open-plan office Evelyn can
+text: be seen talking to Jay.
+text: One person watching is SUNAINA (20's). She's talking on
+dialog: the phone.
+speaker_heading: SUNAINA
+dialog: We do appreciate your custom,
+dialog: which is very important to us.
+dialog: And can I draw your attention to
+dialog: our special -
+text: But the person at the other end has hung up. Sunaina
+text: starts to dial another number.
+text: Then the clock hits 11, and a buzzer sounds. Sunaina gets
+text: up, heads for the door.
+scene_heading: 69 EXT. FORECOURT. CALL CENTRE - DAY 69
+text: Dozens of motorcycles are parked in front of the building.
+text: People are hanging around chatting and smoking.
+text: Sonny arrives on his motorcycle, a bag of marigolds
+text: strapped to the pillion seat.
+text: Sunaina, who is with some friends, spots him, comes over.
+text: She smiles as he pulls her to him.
+speaker_heading: SUNAINA
+dialog: I get two breaks in eight hours.
+dialog: Explain to me why I would want to
+dialog: waste one of them with you -
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 42.
+text: He kisses her. She kisses him back.
+speaker_heading: SONNY
+dialog: Leave this place. Come and work
+dialog: for me.
+speaker_heading: SUNAINA
+dialog: You can't afford me.
+speaker_heading: SONNY
+dialog: I cannot afford anything.
+speaker_heading: SUNAINA
+dialog: Still tempting. I miss you. Am
+dialog: I coming round tonight?
+speaker_heading: SONNY
+dialog: Let's meet somewhere else. I
+dialog: will rent a hotel room.
+speaker_heading: SUNAINA
+dialog: Sonny, you own a hotel. It has
+dialog: many rooms.
+speaker_heading: SONNY
+text: Some of them now occupied. With
+dialog: actual real guests.
+speaker_heading: SUNAINA
+dialog: Paying guests?
+speaker_heading: SONNY
+dialog: Why must you nitpick? It is not
+dialog: an attractive quality.
+speaker_heading: SUNAINA
+dialog: It isn't?
+text: They kiss again, start to make out a bit. Then
+speaker_heading: JAY (O.S.)
+dialog: Sunaina!
+text: They turn to see Jay who has come out of the Call Centre.
+speaker_heading: JAY (CONT'D)
+dialog: (calling, to Sonny)
+dialog: You can let go of my sister now.
+dialog: Break's over.
+speaker_heading: SONNY
+dialog: Hello Jay.
+speaker_heading: JAY
+dialog: Sonny boy.
+speaker_heading: SONNY
+dialog: Don't call me that.
+text: Jay smiles, holds the door open for Sunaina.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 43.
+speaker_heading: JAY
+dialog: Let's go.
+scene_heading: 70 EXT. GARDEN - EVENING 70
+text: Jean is sitting in a chair, reading. Graham comes up the
+dialog: path.
+speaker_heading: JEAN
+dialog: Good evening, Your Honour.
+speaker_heading: GRAHAM
+dialog: Mrs Ainslie. I hope you had a
+dialog: good day. What did you get up
+dialog: to?
+speaker_heading: JEAN
+dialog: Well, I started in my bedroom,
+dialog: where I had a lovely couple of
+dialog: hours giving all the cockroaches
+text: names. Then after a lunch that
+dialog: will long have a place in my
+dialog: heartburn, I came out here
+text: and stared blindly at a book
+dialog: waiting for someone - anyone to
+dialog: rescue me. And how glad I am it
+dialog: was you.
+speaker_heading: GRAHAM
+dialog: Why would you not go out?
+dialog: There's so much to see.
+dialog: Jean had hoped for some appreciation of her wit, and is
+text: floored by his question. She can hardly understand, let
+text: alone tell him, the depths of her discomfort.
+speaker_heading: GRAHAM (CONT'D)
+dialog: Open your eyes, Mrs Ainslie. All
+dialog: life is here, I tell you.
+text: Jean stares at him. He goes on through the archway into
+text: the hotel. Then stops.
+speaker_heading: GRAHAM (CONT'D)
+dialog: I could talk to the chef, if you
+dialog: like. Perhaps get you some
+text: grilled chicken, plain rice.
+speaker_heading: JEAN
+dialog: I would appreciate that very
+dialog: much.
+text: Graham goes on in. Jean just sits there. Wishing he'd
+dialog: come back out again.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 44.
+scene_heading: 71 EXT. TERRACE. MARIGOLD HOTEL - NIGHT 71
+text: Muriel is back. She's in her chair, on the terrace outside
+dialog: her room.
+text: A young hotel worker, ANOKHI, brings out a tray of food to
+dialog: her.
+text: Muriel watches her, but Anokhi is deferential, won't meet
+text: Muriel's eyes. She puts the tray down and leaves.
+text: Muriel just sits there, glaring balefully into the night,
+text: the untouched tray of food by her side.
+scene_heading: 72 EXT. UPPER COURTYARD - NIGHT 72
+text: Evelyn comes into the dining area. Graham is there, at a
+text: table in the corner.
+speaker_heading: GRAHAM
+dialog: Good evening.
+speaker_heading: EVELYN
+dialog: Good evening.
+text: Evelyn sits at her table.
+speaker_heading: EVELYN (CONT'D)
+dialog: I trust you had a good day?
+speaker_heading: GRAHAM
+dialog: I'd rather hear about yours.
+speaker_heading: EVELYN
+dialog: I got a job. My first. Ever.
+dialog: I'm going to be a sort of
+dialog: cultural advisor.
+speaker_heading: GRAHAM
+dialog: A role I'm sure you'll perform
+dialog: with great distinction.
+text: He's about to inquire further, when Evelyn sees Douglas and
+text: Jean emerge from their room.
+speaker_heading: EVELYN
+dialog: Perhaps if you wouldn't mind
+dialog: keeping that news to yourself.
+speaker_heading: GRAHAM
+dialog: I'm flattered you shared it with
+dialog: me.
+text: He turns to greet the new arrivals.
+speaker_heading: GRAHAM (CONT'D)
+dialog: Good evening, the Ainslies.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 45.
+speaker_heading: EVELYN
+dialog: Have you had a good day?
+speaker_heading: DOUGLAS
+dialog: Spectacular.
+speaker_heading: (TO GRAHAM)
+dialog: I went to the temple you told me
+text: about. A place of meditation and
+text: peace, quite stunning.
+speaker_heading: JEAN
+dialog: So spiritual, I bet you hardly
+dialog: noticed the smell of elephant
+dialog: dung.
+speaker_heading: DOUGLAS
+text: No elephants, sadly. Still none.
+speaker_heading: (TO GRAHAM)
+dialog: I thought I might see you there.
+dialog: Where did you get to instead?
+speaker_heading: JEAN
+dialog: Yes, where do you get to every
+dialog: day?
+speaker_heading: GRAHAM
+dialog: Well, I've just finished telling
+dialog: Mrs Greenslade all about it.
+text: Evelyn registers the lie, but says nothing.
+speaker_heading: JEAN
+dialog: I'm sure she wouldn't mind
+text: hearing it again.
+text: She waits. But Graham is as elusive as he is tactful.
+speaker_heading: GRAHAM
+dialog: I talked to the chef for you. He
+dialog: said it will be no problem.
+speaker_heading: JEAN
+dialog: Did you hear that, Douglas?
+text: Plain grilled food; manna from
+dialog: heaven.
+speaker_heading: DOUGLAS
+dialog: I don't have to have it too, do
+dialog: I?
+speaker_heading: JEAN
+speaker_heading: (TO GRAHAM)
+dialog: I don't know how to thank you.
+speaker_heading: DOUGLAS
+speaker_heading: (TO EVELYN)
+dialog: You really should see this
+dialog: temple.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 46.
+speaker_heading: EVELYN
+dialog: I'd like that very much.
+speaker_heading: DOUGLAS
+dialog: But maybe take a clothes peg for
+dialog: your nose.
+scene_heading: 73 EXT. COURTYARD/UPPER VERANDAH, MARIGOLD HOTEL - NIGHT 73
+text: Graham and Evelyn emerge through the arch heading for their
+dialog: rooms.
+text: Graham starts down the stairs.
+speaker_heading: EVELYN
+dialog: Goodnight.
+speaker_heading: GRAHAM
+dialog: Goodnight to you.
+text: He seems about to say something else. She waits for a
+text: moment, then walks on.
+speaker_heading: GRAHAM (CONT'D)
+dialog: Mrs Greenslade?
+speaker_heading: EVELYN
+dialog: Evelyn.
+speaker_heading: GRAHAM
+dialog: Can I show you something?
+scene_heading: 74 INT. GRAHAM'S ROOM - NIGHT 74
+text: Moments later. Evelyn is sitting in front of Graham's
+dialog: collage.
+speaker_heading: GRAHAM
+dialog: I grew up here. Just a short
+dialog: drive away. It was a big house,
+dialog: and we had servants, everyone
+dialog: did. We knew their wives, their
+dialog: children. One boy, Manoj, became
+dialog: my friend. We played a lot of
+dialog: cricket together, played anything
+dialog: we could. And that's how it
+dialog: stayed for years. Until one
+dialog: night, he became something more.
+speaker_heading: (BEAT)
+dialog: We had a few months, we had that.
+dialog: There was a weekend in Udaipur,
+dialog: we sat by a lake and watched the
+dialog: sun go down, and I remember
+dialog: thinking . I will never be this
+dialog: happy again. And I was right.
+dialog: Because quite suddenly it was
+dialog: over. We'd fallen asleep, and
+dialog: they found us.
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 47.
+speaker_heading: GRAHAM (CONT'D)
+speaker_heading: (BEAT)
+dialog: For me it was bad enough. But I
+dialog: already knew who I was, and I
+dialog: think my family had guessed. For
+dialog: Manoj, the disgrace was absolute;
+dialog: a double taboo. His father was
+dialog: fired, they were sent away, all
+dialog: of them. I don't know what I
+dialog: could've done, but it should've
+dialog: been more than nothing. I put up
+dialog: no fight. I let it happen.
+speaker_heading: (BEAT)
+dialog: Soon afterwards I went to
+dialog: England, to University. I always
+dialog: told myself I'd come back. But I
+dialog: never did.
+speaker_heading: EVELYN
+dialog: Until now.
+speaker_heading: GRAHAM
+dialog: And now I think .. what if I am
+dialog: the last person on earth he wants
+dialog: to see?
+text: Evelyn says nothing.
+speaker_heading: GRAHAM (CONT'D)
+dialog: I don't think I can go through
+dialog: with it.
+speaker_heading: EVELYN
+dialog: Do you want to see him again?
+speaker_heading: GRAHAM
+dialog: Yes. Yes. Oh yes.
+speaker_heading: EVELYN
+dialog: Then you must.
+scene_heading: 75 EXT. TEMPLE/STREET. MARIGOLD HOTEL - DAY 75
+text: As the bell tolls, the faithful arrive at the temple for
+dialog: morning prayers.
+scene_heading: 75A EXT. UPPER VERANDAH/SERVANTS COURTYARD - DAY 75A
+text: Evelyn stands outside her room, listening to the bells,
+text: sipping a cup of tea, pensive. She looks down into a
+text: dilapidated part of the building, where the staff are
+text: housed. Women in bright saris go about their business.
+scene_heading: 76 INT/EXT. MURIEL'S ROOM/VERANDAH, MARIGOLD HOTEL - DAY 76
+text: From her wheelchair, Muriel is re-making her bed. She
+text: tucks in a perfect hospital corner.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 48.
+text: She looks up. Anokhi is on the verandah, replacing her
+text: untouched supper tray with breakfast. Anokhi is about to
+text: leave, but stops.
+text: Then she goes to fetch Muriel's jar of pickle from the
+text: windowsill, and places it on the table.
+text: Muriel watches, then wheels herself outside, looks at the
+dialog: tray.
+text: From outside, Sonny's voicecan be heard.
+speaker_heading: SONNY (O.S.)
+dialog: And so now that we are fully
+dialog: operational, Mr Maruthi, it is
+dialog: clear that with a small injection
+dialog: of funds for the Phase Two
+dialog: Development ...
+scene_heading: 77 EXT. GARDEN/COURTYARD. MARIGOLD HOTEL - DAY 77
+text: Brimming with confidence, Sonny is walking a wealthy
+text: investor, MR MARUTHI, around the grounds. Some builders
+text: are dismantling scaffolding.
+speaker_heading: SONNY
+dialog: .. the Best Exotic Marigold
+text: Hotel can rise like a phoenix to
+dialog: its previous state of glory. And
+dialog: when I say small injection, I
+dialog: mean small in the sense of medium-
+text: sized. Possibly larger.
+speaker_heading: MR MARUTHI
+dialog: This hotel was never glorious.
+speaker_heading: SONNY
+dialog: Just the phoenix part then.
+speaker_heading: MR MARUTHI
+dialog: How many rooms will there be?
+speaker_heading: SONNY
+dialog: Many.
+speaker_heading: MR MARUTHI
+dialog: How many?
+speaker_heading: SONNY
+dialog: A great amount. Plenty of rooms,
+dialog: no question.
+text: They've arrived in the courtyard.
+speaker_heading: SONNY (CONT'D)
+dialog: I am not a details man, Mr
+dialog: Maruthi.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 49.
+speaker_heading: MR MARUTHI
+dialog: Nor was your father.
+text: They see Muriel on her verandah.
+speaker_heading: SONNY
+dialog: Mr Maruthi, I present to you one
+dialog: of our beloved guests. Dear Mrs
+dialog: Donnelly, please describe in as
+dialog: much detail as you desire your
+dialog: experience of the ambience and
+dialog: atmosphere of the Best Exotic
+dialog: Marigold Hotel.
+speaker_heading: MURIEL
+dialog: Kill me. Kill me now.
+text: Sonny steers Mr Maruthi towards the reception, speaks
+dialog: quietly.
+speaker_heading: SONNY
+text: The wheel is spinning. But the
+text: hamster is dead.
+text: He stops, as he sees an elegant older woman standing in the
+text: doorway. This is the redoubtable MRS KAPOOR.
+speaker_heading: SONNY (CONT'D)
+dialog: Mummyji! What are you doing
+dialog: here?
+speaker_heading: MRS KAPOOR
+dialog: You called. I came.
+speaker_heading: SONNY
+dialog: I couldn't have called. The
+dialog: phones don't work.
+speaker_heading: MRS KAPOOR
+dialog: That's why I came.
+scene_heading: 78 INT. SONNY'S OFFICE. MARIGOLD HOTEL - DAY 78
+text: Moments later. Sonny closes the door behind him.
+text: His mother starts going through the contents of his desk.
+speaker_heading: MRS KAPOOR
+dialog: Who was that man out there?
+speaker_heading: SONNY
+dialog: The contents of this desk are
+dialog: mine. Don't open the drawers. I
+dialog: must insist you don't open the
+dialog: drawer.
+text: Mrs Kapoor opens the drawer.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 50.
+speaker_heading: SONNY (CONT'D)
+dialog: Tell me why you have come.
+speaker_heading: MRS KAPOOR
+dialog: Do I need a reason to visit my
+dialog: favourite son?
+speaker_heading: SONNY
+text: No. He is in his mansion in
+dialog: Delhi.
+speaker_heading: MRS KAPOOR
+dialog: My second favourite.
+speaker_heading: SONNY
+dialog: He went to Kerala to make his
+dialog: fortune.
+speaker_heading: MRS KAPOOR
+dialog: But make it, he did.
+speaker_heading: SONNY
+dialog: As I will make mine. I have a
+dialog: dream, Mummyji. A most brilliant
+dialog: one: to out-source old age. And
+dialog: not just for the British. There
+dialog: are many other countries where
+dialog: they don't like old people too.
+speaker_heading: MRS KAPOOR
+dialog: Your brothers own a third of the
+dialog: hotel each, they are entitled to
+dialog: a third of the profits.
+speaker_heading: SONNY
+dialog: Success does not happen
+dialog: overnight, Mummyji. This is blue
+dialog: sky thinking, and it requires
+dialog: long-term strategy and patience.
+speaker_heading: MRS KAPOOR
+dialog: How is your girlfriend?
+speaker_heading: SONNY
+dialog: I look forward to you meeting
+dialog: her.
+speaker_heading: MRS KAPOOR
+dialog: And I look forward to you meeting
+dialog: the woman you will marry. She is
+dialog: from a good family in Delhi.
+speaker_heading: SONNY
+dialog: I can marry as I choose, Mummyji.
+dialog: I need no permission.
+speaker_heading: MRS KAPOOR
+dialog: I presume it is your girlfriend
+dialog: who teaches you such nonsense.
+dialog: One reason not to marry her.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 51.
+speaker_heading: SONNY
+dialog: What if I love her?
+speaker_heading: MRS KAPOOR
+dialog: An even better reason. Now send
+dialog: Young Wasim to the car for my
+dialog: luggage.
+speaker_heading: SONNY
+dialog: He cannot carry, he has a dicky
+dialog: back ... wait, your luggage? How
+dialog: long are you staying?
+speaker_heading: MRS KAPOOR
+dialog: As long as it takes.
+scene_heading: 79 INT. BATHROOM. DOUGLAS AND JEAN'S. MARIGOLD HOTEL - 79
+speaker_heading: DAY
+text: Jean is looking out of her bathroom window, down into the
+dialog: courtyard.
+text: She sees Graham come out of his room. She turns back to
+text: the mirror, looks at herself.
+scene_heading: 80 EXT. MURIEL'S TERRACE. MARIGOLD HOTEL - DAY 80
+text: Near to Muriel, Anokhi is sweeping the floor.
+speaker_heading: MURIEL
+dialog: You won't get the dirt out like
+dialog: that.
+text: Anokhi just smiles at her radiantly.
+speaker_heading: MURIEL (CONT'D)
+dialog: I worked in service for years,
+dialog: looked after a lovely house. I
+dialog: kept it spotless. You need a bit
+dialog: more pressure on that brush.
+text: Graham walks past, on his way out.
+speaker_heading: GRAHAM
+dialog: She won't speak English. She's
+dialog: what used to be called an
+dialog: Untouchable. An outcast, born
+dialog: below society. To a good Hindu,
+text: even her shadow is polluted.
+text: He greets Anokhi in Hindi, and heads for the door.
+speaker_heading: MURIEL
+dialog: Where d'you go every day? Is it
+dialog: a woman? Nip round there for a
+dialog: curry and a bit of afters?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 52.
+speaker_heading: GRAHAM
+dialog: I don't think so. I'm gay.
+dialog: Although nowadays more in theory
+dialog: than practice. Good day.
+text: He leaves. A moment later, Jean comes rushing out.
+text: Immediately she realises two things; first, that Graham has
+text: already gone. And second, that Muriel is watching her.
+speaker_heading: JEAN
+dialog: Good morning.
+text: Muriel says nothing.
+speaker_heading: JEAN (CONT'D)
+dialog: Lovely day.
+text: Still nothing from Muriel.
+speaker_heading: JEAN (CONT'D)
+dialog: Lovely.
+speaker_heading: (BEAT)
+dialog: Lovely.
+text: She turns and goes back in.
+text: Muriel thinks for a while, then turns to Anokhi.
+speaker_heading: MURIEL
+dialog: Long old life, isn't it?
+scene_heading: 81 EXT. VICEROY CLUB - DAY 81
+text: A classic colonial building, straight out of the English
+dialog: Raj.
+text: Madge is being shown around by an elderly secretary, MR
+speaker_heading: DHARUNA.
+speaker_heading: MR DRARUNA
+dialog: The Viceroy Club was opened by
+dialog: the great Lord Kitchener himself,
+dialog: and many of the fixtures have
+dialog: remained unchanged since then.
+speaker_heading: MADGE
+dialog: Yes, I see that. Perhaps you
+dialog: could tell me a little about the
+dialog: clientele? Any maharajahs?
+dialog: Wealthy widowed land-owners?
+speaker_heading: MR DHARUNA
+dialog: It is not the policy of this club
+dialog: to divulge details of our
+dialog: members.
+text: They go past a very handsome older Indian man. Who
+dialog: radiates wealth and privilege.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 53.
+speaker_heading: MR DHARUNA (cont'd)
+dialog: Good morning, Your Excellency.
+speaker_heading: MADGE
+dialog: Where do I sign up?
+speaker_heading: MR DHARUNA
+dialog: The admission fee is 120,000
+dialog: rupees, and thereafter 15,000
+dialog: rupees each month.
+speaker_heading: MADGE
+dialog: I wonder if I might get a little
+dialog: discount. Owing to my status.
+speaker_heading: MR DHARUNA
+dialog: Your status, madam?
+speaker_heading: MADGE
+dialog: Yes. One was rather hoping to
+text: fly under the radar, but one is a
+dialog: member of the Royal Family.
+speaker_heading: MR DHARUNA
+dialog: Which member, madam?
+speaker_heading: MADGE
+dialog: I'm Princess Margaret.
+speaker_heading: MR DHARUNA
+scene_heading: (BOWING SLIGHTLY)
+dialog: It is most surely an honour to
+dialog: meet you. And may I say how well
+dialog: you look. Especially taking into
+dialog: account that you died nine years
+dialog: ago.
+speaker_heading: (BEAT)
+dialog: Your real name please, madam.
+dialog: And 120,000 rupees.
+scene_heading: 82 INT. PUBLIC RECORDS OFFICE - DAY 82
+text: Graham comes into the chaotic office.
+text: The bookish official, MR CHIDAMBRAM, is behind the desk.
+speaker_heading: GRAHAM
+dialog: Good morning.
+speaker_heading: MR CHIDAMBRAM
+dialog: Good morning, Sir. Did I not say
+dialog: that we will contact you when
+dialog: there is information regarding
+dialog: your inquiry?
+speaker_heading: GRAHAM
+dialog: Yes, you did say that. You did.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 54.
+speaker_heading: MR CHIDAMBRAM
+dialog: While it is most pleasant to see
+dialog: you, your presence does not
+dialog: actually accelerate our
+dialog: investigation.
+speaker_heading: GRAHAM
+dialog: I'll try not to come in tomorrow.
+speaker_heading: MR CHIDAMBRAM
+dialog: I expect I will see you then.
+scene_heading: 83 INT. CALL CENTRE - DAY 83
+text: None of the operators are on the phone. Instead they are
+text: sitting in a semi-circle, looking curiously at Evelyn. Who
+text: is sitting next to Jay, a little daunted by the attention.
+speaker_heading: EVELYN
+dialog: .You ring in the morning.
+dialog: Let's assume the person answering
+dialog: will be a woman. She will have
+dialog: had her breakfast. Tea or
+dialog: coffee. Semi-skimmed milk,
+dialog: always. If she's under 50 she'll
+dialog: be contemplating yet another
+dialog: diet, over 50 she'll have more or
+dialog: less given up, and be eating
+text: toast. The radio may be playing,
+dialog: or more likely daytime TV. A
+dialog: chat show, or a programme with a
+text: moderator speaking to a panel of
+dialog: young women whose boyfriends have
+dialog: all slept with their mothers.
+dialog: The girlfriends' mothers, I mean,
+dialog: not their own. Although
+dialog: Anyway, then the boyfriends
+dialog: usually come out, and everybody
+dialog: fights.
+text: Sunaina is in the audience. She calls out.
+speaker_heading: SUNAINA
+dialog: I'm not surprised people hang up
+dialog: on us.
+text: Laughter.
+speaker_heading: EVELYN
+dialog: That's the point. When the phone
+dialog: rings and it's this robot
+dialog: nobody wants a machine, but it's
+dialog: almost worse when it's a person
+dialog: behaving like one. All these
+dialog: sales cliches just strung
+dialog: together. 'Your call is
+dialog: important to us'. Is it? Well
+dialog: then sound like it.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 55.
+speaker_heading: SUNAINA
+dialog: 'Your custom is valuable'.
+speaker_heading: EVELYN
+dialog: Right. That one. Don't ever say
+dialog: that.
+speaker_heading: SUNAINA
+dialog: 'Service is our middle name'.
+speaker_heading: EVELYN
+dialog: Yes, when your middle name is
+speaker_heading: ACTUALLY
+speaker_heading: SUNAINA
+dialog: Shantanu.
+speaker_heading: EVELYN
+dialog: Which is beautiful. You people
+dialog: are young, vibrant, real. I'm
+dialog: sure the typical housewife would
+dialog: enjoy talking to each and every
+dialog: one of you.
+speaker_heading: SUNAINA
+dialog: Her morning sounds like fun.
+dialog: What are you doing here?
+dialog: Beat.
+speaker_heading: EVELYN
+dialog: I suppose I'm not typical
+dialog: anymore.
+speaker_heading: (TO JAY)
+dialog: Is that the sort of thing?
+scene_heading: 84 INT. MADGE'S ROOM - EVENING 84
+text: Madge is at her mirror, doing her make-up with great care.
+text: She looks beautiful.
+scene_heading: 85 EXT. VICEROY CLUB BAR - EVENING 85
+text: Madge walks up the gravel path towards the magnificent
+text: building. She's superbly dressed, looks great. She goes
+text: up to the BARMAN.
+speaker_heading: MADGE
+dialog: Excuse me. Would there be any
+dialog: wealthy single men in tonight?
+speaker_heading: BARMAN
+dialog: There is one.
+text: Madge puts some money into his breast pocket.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 56.
+speaker_heading: MADGE
+dialog: Perhaps you could seat me next to
+dialog: him?
+speaker_heading: BARMAN
+dialog: This way, madam.
+text: He leads her along across the terrace. Madge follows,
+text: checking her hair, her breath, etc.
+text: The barman reaches an ornate suite of furniture. There's
+text: someone sitting there, his back to us, an elegant arm
+text: draped over the side of the chair.
+speaker_heading: BARMAN (CONT'D)
+dialog: His Royal Highness Prince Michael
+dialog: of Kent.
+text: The man rises from his chair and turns. And Madge is left
+text: staring at Norman.
+text: There's a pause. Then Madge reaches into the barman's
+text: breast pocket, and removes her money.
+speaker_heading: MADGE
+dialog: I'll have that back, thank you
+dialog: very much.
+scene_heading: 86 EXT. MARIGOLD HOTEL - EVENING 86
+text: Graham comes through the courtyard, heads for his room.
+text: Muriel is on her verandah.
+speaker_heading: GRAHAM
+dialog: Good evening.
+text: Muriel nods at him, and he goes on into his room.
+text: A moment later, Jean sits down next to Muriel.
+speaker_heading: JEAN
+dialog: You know where he goes. I know
+dialog: you know. But you won't tell me.
+text: Muriel says nothing.
+speaker_heading: JEAN (CONT'D)
+dialog: I can get Hobnobs out here, you
+dialog: know. I know a way.
+speaker_heading: (BEAT)
+dialog: As many as you want. Milk or
+dialog: plain.
+dialog: Long pause.
+speaker_heading: MURIEL
+dialog: Public Records Office.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 57.
+speaker_heading: JEAN
+dialog: Thank you.
+scene_heading: 87 EXT. WELL - EVENING 87
+text: A huge construction, centuries old, with a series of steps
+text: reaching down deep into the earth, so people can climb down
+dialog: to get their water.
+text: Young couples sit on the steps in the evening heat, boys
+text: leap into the water.
+text: Sonny and Sunaina are watching the swimmers.
+speaker_heading: SONNY
+dialog: My father used to bring me to
+dialog: this well to swim. He said the
+dialog: water was better, and so were the
+dialog: people we would meet.
+speaker_heading: (BEAT)
+dialog: He would have liked you so much.
+text: Sunaina smiles at this.
+speaker_heading: SONNY (CONT'D)
+dialog: My mother doesn't want us to be
+dialog: married.
+speaker_heading: SUNAINA
+dialog: She hasn't met me yet.
+speaker_heading: SONNY
+dialog: She doesn't need to meet you
+text: Sunaina absorbs this.
+speaker_heading: SONNY (CONT'D)
+dialog: She knows you are not from Delhi.
+dialog: That you have no family money,
+dialog: and work in a call centre. You
+dialog: are a part of a new India she
+dialog: cannot welcome.
+speaker_heading: SUNAINA
+dialog: Isn't this where you tell her
+dialog: what you want?
+speaker_heading: SONNY
+dialog: That conversation will be easier
+dialog: when the hotel is a success.
+speaker_heading: SUNANINA
+dialog: Do you love me?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 58.
+speaker_heading: SONNY
+dialog: I have found a new investor. I
+dialog: am most optimistic that he will
+dialog: enable us to move forward with
+dialog: Phase Two of the Marigold Hotel
+speaker_heading: PROJECT
+speaker_heading: SUNANINA
+dialog: Shouldn't you finish Phase One
+dialog: first?
+speaker_heading: SONNY
+dialog: In business, if you stand still,
+dialog: you move backwards. No, I have
+dialog: that wrong. If you stand still,
+dialog: you are overtaken by people going
+dialog: the other way. Wait -
+speaker_heading: SUNAINA
+dialog: You didn't answer the question.
+dialog: Do you love me?
+speaker_heading: SONNY
+dialog: My feelings for you cannot be
+text: reduced to a single word.
+speaker_heading: SUNAINA
+dialog: It's a nice word, Sonny. And
+dialog: people like hearing it.
+speaker_heading: SONNY
+dialog: Sunaina, please. My mother is
+dialog: wrong. It is you who are too good
+dialog: for me.
+speaker_heading: SUNANINA
+dialog: You say that a lot. You
+dialog: shouldn't I'll start to believe
+dialog: you.
+text: They watch the boys in the water.
+scene_heading: 88 INT. VICEROY CLUB BAR - NIGHT 88
+text: Madge and Norman are sitting together. Norman is looking
+text: across at the bar, where an attractive older ex-pat lady is
+text: sitting, thus far resisting Norman's attempts to catch her
+dialog: eye.
+speaker_heading: NORMAN
+dialog: I still think you're cramping my
+dialog: style.
+speaker_heading: MADGE
+dialog: Please. You have no style to
+dialog: cramp.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 58A.
+speaker_heading: NORMAN
+dialog: That lady at the bar keeps
+dialog: looking at me.
+speaker_heading: MADGE
+dialog: As one would something in a
+dialog: museum.
+speaker_heading: NORMAN
+dialog: Why must you mock? I just want
+dialog: to feel young again, to be needed
+dialog: as much as I need, if only for
+dialog: one night, one wonderful night.
+dialog: Tell me you don't know how that
+dialog: feels.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 59.
+dialog: Silence for a bit.
+speaker_heading: MADGE
+dialog: Give me a minute. Then join us.
+text: She gets up, heads towards the bar. Where she sits a
+text: couple of seats away from the woman. Who is called CAROL.
+text: She sits there a moment, then sighs, and starts to talk to
+dialog: the barman.
+speaker_heading: MADGE (CONT'D)
+dialog: Rejected again. Many years ago,
+dialog: that man over there gave me the
+dialog: most extraordinary night of my
+dialog: life. He may seem coarse and
+dialog: uncouth, but that only disguises
+dialog: a tenderness and an exquisite
+dialog: sensitivity to a woman's needs
+text: Norman arrives at the bar.
+speaker_heading: NORMAN
+dialog: Those drinks not ready yet?
+text: Madge turns to Carol.
+speaker_heading: MADGE
+dialog: They say patience is passion
+dialog: tamed.
+text: Carol smiles.
+speaker_heading: MADGE (CONT'D)
+dialog: I'm Madge.
+speaker_heading: CAROL
+dialog: Carol.
+speaker_heading: MADGE
+dialog: And this . is Norman.
+speaker_heading: CAROL
+dialog: How do you do?
+speaker_heading: NORMAN
+dialog: Carol? As in Christmas?
+text: Madge winces.
+speaker_heading: CAROL
+dialog: I suppose.
+speaker_heading: NORMAN
+dialog: Great.
+dialog: Silence.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 60.
+speaker_heading: MADGE
+dialog: So what brings you to Jaipur,
+dialog: Carol?
+speaker_heading: NORMAN
+dialog: Yes, Carol. What brings you to
+dialog: Jaipur?
+speaker_heading: CAROL
+dialog: I run a small boutique travel
+dialog: agency. But I've actually lived
+dialog: here all my life. My father
+dialog: worked in the Foreign Office.
+dialog: Another silence.
+speaker_heading: NORMAN
+dialog: You're very fit.
+speaker_heading: CAROL
+dialog: I beg your pardon?
+speaker_heading: MADGE
+dialog: Oh god.
+speaker_heading: NORMAN
+dialog: I mean you look like you keep
+dialog: yourself in shape. Physically.
+speaker_heading: CAROL
+dialog: Well, I did join a gym last year.
+dialog: It cost a fortune, and I didn't
+dialog: get any fitter. Apparently you
+dialog: have to actually go.
+text: Madge laughs. Norman doesn't. Then realizes that it was a
+text: joke, lets out a too-loud bray of laughter.
+speaker_heading: CAROL (CONT'D)
+dialog: And so what do you do, Norman?
+speaker_heading: NORMAN
+dialog: Me?
+speaker_heading: CAROL
+dialog: Yes.
+speaker_heading: NORMAN
+dialog: Oh. I'm
+speaker_heading: MADGE
+dialog: Norman's in business.
+speaker_heading: CAROL
+dialog: Really?
+speaker_heading: NORMAN
+dialog: Yes.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 61.
+speaker_heading: CAROL
+dialog: What business?
+speaker_heading: NORMAN
+speaker_heading: (TO MADGE)
+dialog: You tell her.
+speaker_heading: MADGE
+dialog: Import-Export.
+speaker_heading: NORMAN
+dialog: Although these days there's
+dialog: rather more Ex- than Im-, if you
+dialog: see what I mean.
+speaker_heading: CAROL
+dialog: I'm afraid I don't.
+text: Madge gets up.
+speaker_heading: MADGE
+dialog: I have to splash some water on my
+dialog: face. Please God I drown in it.
+text: She heads for the bathroom.
+text: Norman and Carol share another silence.
+speaker_heading: CAROL
+dialog: Well look, it's been lovely
+dialog: chatting.
+speaker_heading: NORMAN
+dialog: No it hasn't.
+speaker_heading: CAROL
+dialog: No. It hasn't. But I really
+speaker_heading: MUST -
+speaker_heading: NORMAN
+dialog: Carol?
+text: She was about to go, stops.
+speaker_heading: NORMAN (CONT'D)
+dialog: Can we drop all this pretence?
+dialog: And start again? I'm not
+dialog: charming. I'm not good at
+dialog: repartee. And I'm not a
+dialog: plutocrat with the sexual
+dialog: capacity of a rutting rhino. My
+dialog: name is Norman. And I'm lonely.
+speaker_heading: CAROL
+dialog: My name is Carol. So am I.
+scene_heading: 89 INT. VICEROY CLUB BAR - NIGHT 89
+text: Minutes later. Madge comes out of the bathroom.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 62.
+speaker_heading: EVELYN (V.0.)
+dialog: Day 22. Like Darwin's finches,
+dialog: we are slowly adapting to our
+dialog: environment. And when one does
+dialog: adapt, my god, the riches that
+dialog: are available.
+text: Madge looks across the bar. And is startled to see Norman
+text: and Carol chatting up a storm, laughing together.
+text: As she watches, Norman orders more drinks, then turns
+text: smiling back to his new friend.
+text: Madge walks slowly out of the bar, and into the night.
+scene_heading: 90 INT. EVELYN'S ROOM. MARIGOLD HOTEL - MORNING 90
+text: Evelyn is at her computer, typing.
+speaker_heading: EVELYN (V.0.)
+dialog: There is no past that we can
+dialog: bring back by longing for it
+scene_heading: 91 EXT. PATH/GARDEN. MARIGOLD HOTEL - DAY 91
+text: Ajit is pushing Muriel down to the gate for her morning
+dialog: constitutional.
+speaker_heading: EVELYN
+dialog: . only a present that builds
+dialog: and creates itself as the past
+dialog: withdraws ...
+scene_heading: 92 INT. SUPERVISOR'S OFFICE. CALL CENTRE - DAY 92
+text: Jay is counting out cash into Evelyn's hand; her first
+dialog: paycheck.
+speaker_heading: EVELYN
+dialog: And India, like so many things in
+dialog: life, like life itself I suppose,
+dialog: is about what you bring to it.
+scene_heading: 93 EXT. JAIPUR STREET - DAY 93
+text: Ajit is pushing Muriel through a poor neighborhood. Muriel
+text: is looking left and right, astounded by the life she sees.
+speaker_heading: MURIEL
+dialog: Where's this? Where are we?
+speaker_heading: AJIT
+dialog: Janta Colony Kachi Basti.
+speaker_heading: MURIEL
+dialog: What happened to my usual route?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 63.
+speaker_heading: AJIT
+dialog: Anokhi has invited you to her
+dialog: home.
+speaker_heading: MURIEL
+dialog: You didn't tell me.
+speaker_heading: AJIT
+dialog: You'd have said no.
+scene_heading: 94 INT. DOUGLAS AND JEAN'S ROOM. MARIGOLD HOTEL - DAY 94
+text: Jean is sitting, reading a book.
+speaker_heading: JEAN
+dialog: Will you check in at the bank?
+text: Douglas emerges from the bathroom.
+speaker_heading: DOUGLAS
+dialog: I checked yesterday. And the day
+dialog: before. As requested.
+speaker_heading: (BEAT)
+dialog: Will you be staying in again?
+speaker_heading: JEAN
+dialog: Why do you ask that every
+dialog: morning?
+speaker_heading: DOUGLAS
+dialog: Because I hope for a different
+dialog: answer. Because I think you'll
+dialog: be hurt if I don't. And because
+dialog: it's not healthy for you to spend
+dialog: all day and every day in the
+text: confines of the hotel.
+text: He goes back into the bathroom. Jean changes the subject.
+speaker_heading: JEAN
+dialog: I didn't sleep a wink. The tap
+dialog: in there never stops dripping.
+speaker_heading: DOUGLAS (O.S.)
+dialog: I talked to Young Wasim about it.
+speaker_heading: JEAN
+dialog: What did he say?
+speaker_heading: DOUGLAS (O.S.)
+dialog: No idea. It was in Hindi.
+text: Douglas comes out of the bathroom, holding the tap.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: I thought I might get it fixed
+dialog: myself.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 63A.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 64.
+speaker_heading: DOUGLAS
+dialog: No time like the present.
+dialog: Actually I say that, but I
+dialog: enjoyed yesterday, and I'm
+dialog: optimistic about tomorrow too.
+speaker_heading: JEAN
+dialog: I wish I could say the same.
+speaker_heading: DOUGLAS
+dialog: So do I.
+dialog: He goes.
+text: Jean sits for a while, looking utterly disconsolate and
+text: lost. Then she gets up, goes over to the balcony.
+text: Down below she can see Graham leaving.
+scene_heading: 95 EXT. LOWER COURTYARD - DAY 95
+text: Madge is sitting on a chair. Norman arrives.
+speaker_heading: NORMAN
+dialog: Your Madgesty.
+speaker_heading: MADGE
+dialog: I gather the night went well.
+speaker_heading: NORMAN
+dialog: Would you like to hear about it?
+speaker_heading: MADGE
+dialog: Not in the least.
+speaker_heading: NORMAN
+dialog: Good. Because you're going to.
+text: Two drinks, some sexually charged
+speaker_heading: BANTER -
+text: Douglas comes out, carrying a tap. And heads out of the
+text: archway.
+speaker_heading: DOUGLAS
+dialog: Morning. Lovely day.
+speaker_heading: MADGE
+dialog: Good morning.
+text: They watch him leave.
+speaker_heading: NORMAN
+text: Two drinks, some sexually charged
+dialog: banter, and we were heading back
+text: to her place. Bidding the
+dialog: rickshaw farewell, I walked her
+text: to the door.
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 65.
+speaker_heading: NORMAN (CONT'D)
+dialog: And there, my young friend, I
+dialog: leaned forward, and I kissed her.
+dialog: Beat.
+speaker_heading: MADGE
+dialog: And?
+speaker_heading: NORMAN
+dialog: And what?
+speaker_heading: MADGE
+dialog: Is that all? You didn't seal the
+dialog: deal?
+speaker_heading: NORMAN
+dialog: We have a date next week.
+speaker_heading: MADGE
+dialog: What is wrong with you?
+speaker_heading: NORMAN
+dialog: I wanted to prolong the
+dialog: anticipation. To spend some time
+dialog: with the knowledge that soon I'm
+dialog: going to eat, drink, and laugh
+dialog: with someone, hold her to me,
+dialog: kiss her softly. Then go back to
+dialog: her place and get my end away.
+scene_heading: 96 EXT. MARKET - DAY 96
+text: The market is buzzing with commerce. Evelyn is at a stall
+text: selling fabrics, talking to the vendor, AKRAM.
+speaker_heading: EVELYN
+dialog: (holding up a pashmina)
+dialog: Bow much for this, please Kitna
+speaker_heading: PAISE
+speaker_heading: AKRAM
+dialog: One thousand rupees Ek hazaar
+speaker_heading: RUPIA
+speaker_heading: EVELYN
+dialog: Thank you.
+text: She reaches for her wallet. Then Douglas speaks from
+text: behind her.
+speaker_heading: DOUGLAS
+dialog: No no, forgive me. That's not
+dialog: how it works.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 65A.
+text: Evelyn turns, happy to see him.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 66.
+speaker_heading: EVELYN
+dialog: Good morning.
+speaker_heading: DOUGLAS
+dialog: And to you. Sorry to butt in,
+dialog: but you don't ask him how much he
+dialog: wants, you just tell him how much
+dialog: you'll pay.
+speaker_heading: (TO AKRAM)
+dialog: She'll give you two hundred.
+dialog: Absolutely no more, final offer.
+speaker_heading: AKRAM
+dialog: One thousand rupees.
+speaker_heading: DOUGLAS
+dialog: Pity.
+speaker_heading: (TO EVELYN)
+dialog: Now walk away. Walk away.
+speaker_heading: EVELYN
+speaker_heading: BUT -
+speaker_heading: DOUGLAS
+dialog: I know what I'm doing.
+text: Evelyn complies, and they turn and walk away.
+speaker_heading: EVELYN
+dialog: Yes. The thing is, you see, I
+dialog: did actually want to buy that.
+dialog: To brighten up my room.
+speaker_heading: DOUGLAS
+dialog: He'll come after us.
+speaker_heading: EVELYN
+dialog: Do you think so?
+speaker_heading: DOUGLAS
+dialog: Absolutely. This is how the game
+dialog: is played. Just keep on walking.
+text: They push through the crowds.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: He's playing it cool, but he'll
+dialog: come.
+text: They keep walking.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: He's playing it very cool.
+text: They keep walking. Then Douglas stops. Evelyn looks at
+dialog: him.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 67.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: He's not coming.
+speaker_heading: CUT TO:
+text: Moments later. They're back at Akram's stall. Evelyn
+text: counts out the money.
+speaker_heading: EVELYN
+dialog: Eight hundred and fifty, nine
+dialog: hundred, nine hundred and fifty,
+dialog: one thousand.
+text: She turns to Douglas, smiles.
+speaker_heading: EVELYN (CONT'D)
+dialog: You'll get him next time.
+text: Then she notices something.
+speaker_heading: EVELYN (CONT'D)
+dialog: Why are you carrying a tap?
+scene_heading: 97 INT. MARIGOLD HOTEL, DOUGLAS AND JEAN'S ROOM - DAY 97
+text: Jean gives up on the sentence she has already read a
+text: hundred times, and snaps her book shut. She stands, then
+text: sits again.
+text: Then stands.
+scene_heading: 98 EXT. SWEEPER COLONY - DAY 98
+text: Ajit is now pushing Muriel through a poverty-stricken slum.
+text: The people live on the streets, or in collapsing tin
+text: shacks. Everywhere there is struggle and deprivation.
+text: And yet the pervasive atmosphere is nowhere near as
+dialog: depressing as we would expect. The colours are bright, the
+text: smiles on the children's faces even brighter.
+dialog: Not that Muriel can recognise the joy, of course. She's
+text: horrified by her surroundings. And acutely aware of the
+text: stares of the slum-dwellers.
+scene_heading: 98A EXT. ANOKHI'S HUT - DAY 98A
+text: A primitive brick and cement hut, one of the few amongst
+text: dwellings made mostly from sticks and plastic bags.
+text: A bunch of young kids are fascinated by Muriel's
+text: wheelchair, pushing it around and taking turns to sit on
+dialog: it.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 68.
+scene_heading: 99 INT. ANOKHI'S HUT - DAY 99
+text: Muriel sits on the only chair.
+text: Opposite - squashed together as if posing for a photograph -
+dialog: are all the generations of Anokhi's family: Anokhi herself,
+text: her husband, mother, grandmother, and several children.
+text: They all smile at Muriel.
+text: A long pause. Then Muriel turns to Ajit.
+speaker_heading: MURIEL
+dialog: How soon can I leave?
+scene_heading: 100 INT/EXT. HARDWARE SHOP - DAY 100
+text: Douglas is talking to JAMSHED, who works behind the
+text: counter. Evelyn sits outside.
+speaker_heading: DOUGLAS
+dialog: You see what I think, and of
+dialog: course I'm no expert, is that the
+dialog: valve seat has eroded, so we'll
+dialog: need the washer changed and a new
+dialog: seat re-ground.
+text: Douglas glances back at Evelyn. Who betrays not the
+text: slightest scepticism.
+text: Jamshed studies the tap.
+speaker_heading: JAMSHED
+text: The gland nut has come away from
+text: the spindle.
+speaker_heading: DOUGLAS
+dialog: Well of course, it could be that
+dialog: too. Can you fix it?
+speaker_heading: JAMSHED
+dialog: Not cheaply. Not cheaply. Most
+dialog: expensively indeed.
+text: Jamshed takes the tap to a workstation at the back, starts
+text: to fiddle with it. Douglas joins Evelyn.
+speaker_heading: DOUGLAS
+dialog: I was in a tuk-tuk the other day,
+dialog: didn't seem to be taking the
+text: usual route back to the hotel.
+dialog: It turned out that the driver had
+dialog: decided to take me to another
+dialog: hotel, that he was sure I would
+dialog: prefer. And of course one wants
+dialog: to believe that he genuinely had
+dialog: my welfare at heart, and that it
+dialog: wasn't run bg his brother-in-law.
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 69.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: One wants to trust, in general,
+dialog: don't you think? But you never
+dialog: really know, do you?
+text: Jamshed stops fiddling with the tap. And takes a hammer to
+dialog: it.
+speaker_heading: EVELYN
+dialog: The day I met my husband was the
+dialog: day the fair came to town. My
+dialog: girlfriend and I went on the
+text: carousel. Her horse was fine.
+dialog: But when the ride began I felt
+dialog: mine give a little, like it might
+dialog: collapse. Then these strong arms
+dialog: were around me, holding the horse
+text: together. And a voice in my ear
+dialog: said "Just trust me". And I did.
+dialog: Without question. Until the day
+dialog: he died.
+speaker_heading: DOUGLAS
+dialog: How wonderful.
+speaker_heading: EVELYN
+dialog: The sale of our flat went through
+dialog: last week. I had to sell it to
+dialog: pay off Hugh's debts.
+speaker_heading: (BEAT)
+dialog: I've been forced to get a job out
+dialog: here. Which, in fact, I love.
+dialog: But even at Sonny's rates, I
+dialog: still couldn't make ends meet.
+dialog: After what my own husband did to
+dialog: our life savings.
+speaker_heading: (BEAT)
+dialog: So no. You're right. You never
+dialog: know.
+text: Jamshed holds up the tap. Which is now in several parts.
+speaker_heading: JAMSHED
+dialog: No good. You must be buying
+dialog: another.
+scene_heading: 101 EXT. PATHWAY/GATE/STREET, MARIGOLD HOTEL - DAY 101
+text: Jean walks down the path to the gate.
+text: She stops, looks fearfully at the chaotic sea of humanity
+text: outside. She's unable to move.
+text: Finally, she steps out. And is of course immediately
+text: assaulted by the assorted kids, beggars, street vendors,
+dialog: etc.
+text: As anxiety begins to engulf her, she quickens her pace,
+text: brushing through them as best she can, until she is almost
+dialog: running.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 70.
+scene_heading: 102 INT. ANOKHI'S HUT - DAY 102
+text: Muriel is still at the tea party.
+text: Anokhi speaks. Ajit translates.
+speaker_heading: AJIT
+dialog: She wants to thank you for your
+dialog: kindness.
+speaker_heading: MURIEL
+dialog: I haven't been kind.
+speaker_heading: AJIT
+dialog: You're the only one that
+text: acknowledges her.
+text: Anokhi brings out a plate of food.
+speaker_heading: ANOKHI
+dialog: Tarkha dhal. Chapati.
+speaker_heading: MURIEL
+dialog: I'm not eating that.
+speaker_heading: AJIT
+dialog: You will insult her very deeply
+dialog: if you do not.
+text: Muriel looks up. They're all still watching, waiting
+text: smiling.
+text: She looks at Anokhi's grandmother, as dignified as she is
+dialog: old.
+text: Muriel reaches out, takes something off the tray. And has
+dialog: a bite. It's not too bad.
+speaker_heading: MURIEL
+dialog: I'd still rather a Scotch Egg.
+text: Then she sees something through the open doorway: the
+text: children have turned her wheelchair on its side and are
+text: spinning the wheels.
+text: She's on her feet in a flash.
+speaker_heading: MURIEL (CONT'D)
+dialog: Get off! Get off it, you dirty
+dialog: thieving bastards!
+text: Several terrified faces turn.
+text: One little girl starts to cry.
+text: Everyone is staring at Muriel.
+speaker_heading: MURIEL (CONT'D)
+text: I didn't see. They were playing.
+dialog: I'm sorry. I'm sorry
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 71.
+scene_heading: 103 EXT. STREET. JAIPUR - DAY 103
+text: Jean is now in a tuk-tuk, lurching and weaving through the
+text: traffic, a handkerchief clasped firmly over her mouth,
+text: panic in her eyes.
+scene_heading: 104 INT. STAIRCASE/CORRIDORS/OFFICE. PUBLIC RECORDS OFFICE.104
+speaker_heading: JAIPUR - DAY
+text: The corridors are full of people patiently waiting their
+text: turn to grapple with a vast bureaucracy.
+text: Reaching the top of the staircase, Jean takes it all in.
+text: She walks down another corridor. Then stops.
+text: Through a doorway, she sees Graham at the desk, talking to
+dialog: Mr Chidambram.
+speaker_heading: CUT TO:
+text: In the office.
+speaker_heading: GRAHAM
+dialog: But I've filled out that form.
+dialog: I've given it to you. Many
+dialog: times.
+speaker_heading: MR CHIDAMBRAM
+dialog: There is a process. You are
+dialog: making an enquiry. For each
+dialog: enquiry a form must be filled in.
+speaker_heading: GRAHAM
+dialog: But it's the same enquiry I make
+dialog: every day.
+speaker_heading: MR CHIDAMBRAM
+dialog: And therefore the same form you
+dialog: must fill in.
+text: Graham glances towards the doorway, catches sight of Jean.
+text: Their eyes lock, then Jean pulls back out of sight,
+dialog: panicked.
+scene_heading: 104A INT.CORRIDOR, PUBLIC RECORDS OFFICE. JAIPUR - DAY 10414A
+text: Jean is hurrying down a corridor. Behind her, Graham
+text: emerges from a doorway, and calls to her
+speaker_heading: GRAHAM
+dialog: Mrs Ainslie... .?
+speaker_heading: 105 OMITTED 105
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 72.
+scene_heading: 106 INT. TEA ROOM. JAIPUR - DAY 106
+text: Later. Jean and Graham are sitting in an elegant tea room.
+text: Jean is still very shaken.
+speaker_heading: JEAN
+dialog: I don't know how you can bear
+dialog: this country. What do you see
+dialog: that I don't?
+speaker_heading: GRAHAM
+text: Unutterable beauty. Everywhere.
+text: In the light, the colours, the
+dialog: smiles, the people who see life
+dialog: as a privilege not a right, and
+dialog: so teach me something every day.
+text: The waiter brings their tea.
+speaker_heading: JEAN
+dialog: Is this milk pasteurized?
+speaker_heading: WAITER
+dialog: Yes madam.
+speaker_heading: JEAN
+dialog: But that's not true, is it?
+dialog: You're just lying to me right now
+speaker_heading: GRAHAM
+dialog: It'll be fine.
+text: The waiter goes.
+speaker_heading: GRAHAM (CONT'D)
+dialog: It's a pleasant surprise to see
+dialog: you out and about.
+speaker_heading: JEAN
+dialog: Is it?
+text: She looks at him.
+speaker_heading: GRAHAM
+dialog: Yes. That's progress. Where
+dialog: were you going?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 73.
+speaker_heading: JEAN
+dialog: To the bank. I . was going to
+dialog: the bank. Not that there's any
+dialog: reason to think something has
+dialog: changed. But our daughter, you
+dialog: see, she did promise, and one
+text: does try to remain optimistic.
+dialog: One has to. Otherwise
+speaker_heading: OTHERWISE
+text: Graham worries she might be about to break down. He
+text: reaches across the table, puts his hand on hers.
+text: She leans forward, puts her other hand over his, holds on
+dialog: tightly.
+text: Graham is startled. He tries gently to pull back, but she
+text: holds on.
+speaker_heading: GRAHAM
+speaker_heading: JEAN -
+speaker_heading: JEAN
+dialog: Oh god. Is it possible you feel
+dialog: the same?
+text: She brings his hand to her mouth, kisses it.
+speaker_heading: JEAN (CONT'D)
+dialog: The way you talk to me. Your
+dialog: compassion, your understanding
+dialog: .. the wonderful, tender
+dialog: consideration, it had to be more
+dialog: than just -
+speaker_heading: GRAHAM
+dialog: I'm gay.
+text: She stares at him. Beat.
+speaker_heading: JEAN
+dialog: As in ... happy?
+text: Graham says nothing. Jean lets go of his hand.
+speaker_heading: JEAN (CONT'D)
+dialog: Yes. I see. Of course I see.
+text: The ghastly inappropriateness of it all settles on them
+dialog: both.
+speaker_heading: JEAN (CONT'D)
+dialog: I appear to have humiliated
+dialog: myself. And embarrassed you.
+speaker_heading: GRAHAM
+dialog: I'm not embarrassed.
+text: Jean smiles wanly, grateful for his lie.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 74.
+speaker_heading: JEAN
+dialog: Like I said. This country is
+dialog: driving me mad.
+speaker_heading: (BEAT)
+dialog: Shall we go?
+scene_heading: 107 EXT/INT. DOUGLAS AND JEAN'S ROOM. MARIGOLD HOTEL - DAY107
+text: Evelyn is outside in the courtyard. We don't see Douglas.
+speaker_heading: EVELYN
+dialog: Anything?
+speaker_heading: DOUGLAS (O.S.)
+dialog: Not yet.
+text: Evelyn waits a moment.
+speaker_heading: EVELYN
+dialog: How about now?
+speaker_heading: DOUGLAS (O.S.)
+dialog: One second.
+dialog: Another pause.
+speaker_heading: DOUGLAS (O.S.) (cont'd)
+dialog: Oh good lord.
+speaker_heading: EVELYN
+dialog: What?
+speaker_heading: DOUGLAS (O.S.)
+dialog: Listen.
+text: The sound of a flowing tap.
+speaker_heading: DOUGLAS (O.S.) (cont'd)
+dialog: And now ...
+text: The tap stops.
+speaker_heading: DOUGLAS (O.S.) (cont'd)
+dialog: No drip.
+text: He appears in the doorway, triumphant.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: No drip!
+text: He walks towards her, hand in the air.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: Hi-five !
+text: Evelyn just looks at him. She's never hi-fived anyone in
+dialog: her life.
+text: After a moment Douglas puts his hand down.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 75.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: I've never done that before. It
+dialog: just seemed appropriate.
+text: Jean has appeared at the other side of the courtyard.
+text: Douglas senses her mood, moves towards her.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: Darling!
+speaker_heading: EVELYN
+dialog: Mrs Ainslie, how are you? Did
+dialog: you have a good day?
+text: Jean doesn't answer. She's staring at Douglas. Who looks
+dialog: so happy.
+speaker_heading: DOUGLAS
+dialog: Let me tell you about ours. Your
+dialog: husband of many a year, who has
+dialog: never even known which end of a
+dialog: hammer to use, has actually
+dialog: managed to -
+speaker_heading: JEAN
+scene_heading: (SUDDENLY INTERRUPTING)
+dialog: We have to get out of here.
+speaker_heading: DOUGLAS
+dialog: What did you say?
+speaker_heading: JEAN
+dialog: I can't stay in this country a
+dialog: moment longer.
+speaker_heading: DOUGLAS
+dialog: Why ...?
+speaker_heading: EVELYN
+dialog: Do excuse me.
+text: She makes a tactful exit. Jean is going past Douglas into
+dialog: their room.
+speaker_heading: DOUGLAS
+dialog: I don't understand
+speaker_heading: JEAN
+speaker_heading: (INTERRUPTING)
+dialog: Pick a reason. Pick ten. The
+dialog: climate, the squalor, the poverty
+text: She goes past him into their room.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 76.
+scene_heading: 108 INT. DOUGLAS AND JEAN'S ROOM - CONTINUOUS 108
+speaker_heading: JEAN
+dialog: . we should never have come.
+dialog: This whole trip is a grotesque
+dialog: fantasy. It's time to go home.
+text: Jean starts to pack. Irrationally, compulsively.
+speaker_heading: DOUGLAS
+dialog: Who's paying for the tickets?
+speaker_heading: JEAN
+dialog: (not hearing him)
+dialog: Look at us. A group of self-
+text: deluding old fossils traipsing
+dialog: around as if it's our bloody gap
+dialog: year. Humiliating ourselves
+speaker_heading: DOUGLAS
+dialog: Not us, we can't pay. And I
+dialog: don't see you asking our friends
+speaker_heading: BACK HOME
+speaker_heading: JEAN
+speaker_heading: (OVERLAPPING)
+dialog: .. We should just face up to the
+dialog: truth. That we're all old, we're
+dialog: all past it. That's the real
+dialog: truth, the raw, unvarnished fact
+dialog: of the matter. All we're good
+dialog: for now is the beige bloody
+text: bungalow with the sodding panic
+text: button in the sodding corner ...
+text: She stops packing, and subsides onto the bed, crying
+dialog: quietly.
+text: Nobody speaks for a while.
+speaker_heading: DOUGLAS
+speaker_heading: (GENTLY)
+dialog: We just have to make the best of
+dialog: it, darling. I really think
+dialog: that's the best thing to do.
+speaker_heading: JEAN
+dialog: Yes, well. When I want your
+dialog: opinion, I'll give it to you.
+scene_heading: 109 INT. MEEHAR CLINIC - MORNING 109
+text: An impossibly small roadside clinic.
+text: Norman is sitting there, the only man in three rows of
+text: brightly dressed women.
+text: DR RAMA comes out of the consulting area.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 77.
+speaker_heading: DR RAMA
+dialog: Mr John Smith.
+text: No response. The doctor looks at Norman, who has forgotten
+dialog: his own alias.
+speaker_heading: DR RAMA (cont'd)
+dialog: Mr John Smith?
+text: Norman jumps up.
+speaker_heading: NORMAN
+dialog: That's right! Me!
+scene_heading: 110 EXT/INT. MARKET/OPERATIONS ROOM. CALL CENTRE - DAY 110
+text: Sonny is at the flower market, sitting on his motor bike,
+text: waiting for the flower vendor to tie up his bundle of
+text: marigolds. He's on his phone.
+speaker_heading: SONNY
+dialog: Come on. Pick up pick up pick
+dialog: up.
+text: The phone is answered at the other end.
+speaker_heading: SONNY (CONT'D)
+speaker_heading: (INTO PHONE)
+dialog: Sunaina, I must see you. I must.
+dialog: If I cannot hold your body
+dialog: against mine, I swear I will go
+dialog: mad.
+text: We cut to the call centre. It's not Sunaina on the phone,
+text: but Jay, who is standing next to her.
+speaker_heading: SONNY'S VOICE
+speaker_heading: (ON PHONE)
+dialog: I yearn for you, I burn for you,
+dialog: I -
+speaker_heading: JAY
+dialog: I think it's my sister you're
+dialog: burning for there, Sonny boy.
+speaker_heading: SONNY
+dialog: Thank you, Jay. Thank you.
+text: Jay hands the phone to Sunaina.
+speaker_heading: SUNAINA
+dialog: Hey.
+speaker_heading: SONNY
+dialog: Private line, Sunaina. Do those
+dialog: words mean nothing to you?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 78.
+speaker_heading: SUNAINA
+dialog: He took the phone. What could I
+dialog: do?
+speaker_heading: SONNY
+dialog: I miss you. I miss you every
+dialog: moment. Come and see me.
+dialog: Tonight.
+speaker_heading: SUNAINA
+dialog: I cannot tonight. It is my
+dialog: parents 25th wedding anniversary.
+dialog: Tell your mother that.
+speaker_heading: SONNY
+dialog: Come after. Come late
+speaker_heading: SUNANINA
+dialog: You'll be asleep.
+speaker_heading: SONNY
+dialog: I'll be waiting.
+speaker_heading: SUNANINA
+dialog: You'll be asleep. But i can wake
+dialog: you in that special way...
+speaker_heading: SONNY
+dialog: You will sneak in?
+speaker_heading: SUNAINA
+dialog: I'm not ashamed.
+speaker_heading: SONNY
+dialog: Neither am I. Absolutely not.
+dialog: There is no shame. You do not
+dialog: have to sneak.
+speaker_heading: (BEAT)
+dialog: All the same, if you did want to
+dialog: be very quiet, and not let anyone
+dialog: see you, it couldn't hurt.
+scene_heading: 111 INT. CONSULTING ROOM - DAY 111
+text: Norman is talking to DR RAMA.
+speaker_heading: NORMAN
+dialog: I'm worried there's no lead in my
+dialog: pencil.
+speaker_heading: DR RAMA
+dialog: OK. I don't know what that
+dialog: means.
+speaker_heading: NORMAN
+dialog: No snap in my celery.
+speaker_heading: DR RAMA
+dialog: I'm still not quite with you.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 78A.
+speaker_heading: NORMAN
+dialog: I plan to party hearty tonight,
+dialog: but I can't guarantee that my
+dialog: love gun will fire.
+speaker_heading: DR RAMA
+dialog: Mr Smith -
+speaker_heading: NORMAN
+dialog: Will the lance dance, and the
+dialog: trouser lion roar?
+speaker_heading: DR RAMA
+dialog: What is your problem?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 79.
+speaker_heading: NORMAN
+dialog: I don't know if I can still have
+dialog: sex.
+speaker_heading: DR RAMA
+dialog: Ah.
+speaker_heading: NORMAN
+dialog: I'm not a young man anymore,
+dialog: doctor. And I'm a little bit
+dialog: scared. Truth be told, I'm a lot
+dialog: scared.
+speaker_heading: DR RAMA
+dialog: How long since you've been with a
+dialog: woman?
+speaker_heading: NORMAN
+dialog: What's today?
+speaker_heading: DR RAMA
+dialog: Monday.
+speaker_heading: NORMAN
+dialog: Six years.
+speaker_heading: DR RAMA
+dialog: I've got some pills that'll help.
+scene_heading: 112 EXT. SERVANTS COURTYARD. MARIGOLD HOTEL - DAY 112
+text: The back of the hotel, where Sonny envisages his Phase Two
+text: development. Very dilapidated.
+text: Anokhi is cleaning pots. Young Wasim sits in the corner.
+text: Ajit has just wheeled Muriel into the courtyard.
+speaker_heading: MURIEL
+speaker_heading: (TO ANOKHI)
+dialog: I wanted to tell you something...
+text: Anokhi looks up.
+speaker_heading: MURIEL (CONT'D)
+speaker_heading: (TO AJIT)
+dialog: Tell her. Tell her I was glad to
+dialog: come, glad she invited me.
+dialog: Ajit translates.
+speaker_heading: MURIEL (CONT'D)
+dialog: Glad to meet her family. Her
+dialog: grandmother. Her kids.
+text: Ajit translates. Anokhi speaks.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 80.
+speaker_heading: AJIT
+dialog: She asks if you have children?
+speaker_heading: MURIEL
+dialog: I looked after somebody else's.
+dialog: Ajit translates.
+speaker_heading: MURIEL (CONT'D)
+dialog: This one family, years I was with
+dialog: them. I ran the house, looked
+dialog: after the money, did it all,
+dialog: cared for them like they were my
+dialog: own.
+text: Ajit starts to translate. But Muriel doesn't wait.
+speaker_heading: MURIEL (CONT'D)
+dialog: That's the mistake, see. You
+dialog: don't want to get like that, to
+dialog: start feeling part of something.
+dialog: One day they decided I needed
+dialog: some help. I was grateful, I
+dialog: tried to teach her. Not just the
+dialog: books, but how to crisp up the
+dialog: bacon like the gentleman
+dialog: preferred it, the way the little
+dialog: one liked to have her hair
+dialog: brushed. The things you only
+dialog: know if you care. But then they
+dialog: said I was no longer useful to
+dialog: them. Thanked me for my service.
+dialog: As if that's all it was.
+speaker_heading: (BEAT)
+dialog: I got a flat in the end. I'm the
+dialog: only one in the building not a
+dialog: foreigner. More Indians there
+dialog: than here! But before I came to
+dialog: this place, my biggest problem
+dialog: was what to do with all the time
+dialog: I had. Because that flat's so
+dialog: small, I can have the whole place
+text: spotless in half an hour. And
+dialog: then what am I supposed to do for
+dialog: the rest of the day?
+text: There's silence for a bit. Then Ajit speaks.
+speaker_heading: AJIT
+dialog: Did you want me translate that as
+dialog: well?
+text: Muriel smiles. It's the first time we've seen this.
+text: Muriel stops, thrusts something into Ajit's hand.
+speaker_heading: MURIEL
+dialog: Give her these.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 81.
+text: Ajit hands Anokhi what Muriel gave him: a packet of
+dialog: Chocolate Hobnobs.
+text: This time it's Muriel who cannot meet Anokhi's eye. Tries
+text: to hide her desire to leave. Ajit turns her chair and
+text: pushes her away.
+text: Over this, the sound of singing
+scene_heading: 113 EXT. ROOFTOP. MARIGOLD HOTEL - EVENING 113
+text: Norman's on his rooftop, under the primitive spout of water
+text: that passes as his shower. Hanging from a nail in the wall,
+text: the battery radio is pumping out a bizarre Indian cover
+text: version of the Chic song "Le Freak".
+text: Norman is naked, and singing along lustily.
+speaker_heading: NORMAN
+dialog: Aaaaaah, freak out! Le freak,
+dialog: c'est chic .. Aaaah, freak out!
+text: Feet slapping in the soapy water, he performs a nifty disco
+dialog: move.
+scene_heading: 114 INT. SONNY'S OFFICE. MARIGOLD HOTEL - EVENING 114
+text: Sonny is in his office, going through the accounts.
+text: There's a strange ringing somewhere nearby. He pays no
+text: attention, then stops and thinks for a moment. Then
+text: realises what it is.
+text: He sweeps the pile of papers off the desk, starts
+text: frantically looking for the telephone.
+scene_heading: 115 EXT. UPPER COURTYARD. MARIGOLD HOTEL - EVENING 115
+text: Graham and Evelyn are having drinks.
+speaker_heading: EVELYN
+dialog: I've been getting out and about
+dialog: as much as I can, but I feel I've
+dialog: hardly scratched the surface. And
+dialog: of course I'd love to see
+dialog: Udaipur. The lake you talked
+dialog: about.
+speaker_heading: GRAHAM
+dialog: I'd love to take you. Perhaps -
+text: He breaks off. Douglas and Jean have come in. Jean looks
+text: rather desperate.
+scene_heading: EVELYN AND DOUGLAS
+speaker_heading: (SIMULTANEOUSLY)
+dialog: Good evening.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+speaker_heading: 81A.
+text: An awkward moment. Graham stands.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 82.
+speaker_heading: GRAHAM
+dialog: Good evening, Mrs Ainslie.
+dialog: Please allow me.
+text: He pulls a chair out for her. She shoots him a look of
+dialog: passionate gratitude for his exquisite sensitivity.
+speaker_heading: JEAN
+dialog: You're very kind. But I rather
+dialog: think I'll turn in early.
+dialog: Goodnight everyone.
+text: She goes into her room.
+scene_heading: 116 EXT. COURTYARD. MARIGOLD HOTEL - EVENING 116
+text: Muriel is sitting outside her room, doing the crossword.
+text: Madge is coming through the arch, stops dead.
+text: Norman is standing in front of her, on his way out. He
+text: looks transformed. And rather handsome.
+speaker_heading: MADGE
+dialog: Is this it?
+speaker_heading: NORMAN
+dialog: This is it.
+speaker_heading: MADGE
+dialog: You're not worried about the
+dialog: danger of having sex at your age?
+text: Norman shrugs.
+speaker_heading: NORMAN
+text: If she dies, she dies.
+text: He leaves. Sonny sprints into the courtyard.
+speaker_heading: SONNY
+dialog: Progress, Mrs Donnelly, Mrs
+text: Hardcastle! The wheel is turning
+dialog: most assuredly in our favour!
+text: He shoots up the stairs.
+scene_heading: 117 EXT. UPPER COURTYARD. MARIGOLD HOTEL - EVENING. 117
+text: Douglas, Graham and Evelyn are looking at the menu.
+text: Sonny bursts in.
+speaker_heading: SONNY
+dialog: Mr Dashwood! Everybody! Great
+dialog: news!
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 83.
+speaker_heading: GRAHAM
+dialog: What is it, Sonny?
+speaker_heading: SONNY
+dialog: They are working, they are
+dialog: working!
+speaker_heading: GRAHAM
+dialog: That is great news. What are
+dialog: working?
+speaker_heading: SONNY
+dialog: The telephones of the Marigold
+dialog: Hotel.
+speaker_heading: GRAHAM
+dialog: Well, congratulations.
+speaker_heading: SONNY
+dialog: Thank you. I must tell
+dialog: everybody. I must tell my
+dialog: mother!
+text: He runs off. Comes back.
+speaker_heading: SONNY (CONT'D)
+dialog: Oh wait. You have a phone call.
+scene_heading: 118 EXT. STREET, POOR NEIGHBOURHOOD. JAIPUR - EVENING 118
+text: Graham, Evelyn, and Douglas are walking quickly up a quiet
+dialog: street.
+speaker_heading: GRAHAM
+text: It's a false alarm. There's no
+dialog: way they could find anything in
+dialog: that office. They probably just
+dialog: picked an address at random, just
+dialog: to keep me off their backs. I'm
+dialog: sure that's what happened. It's
+dialog: going to be nothing. Don't you
+dialog: think it's going to be nothing?
+speaker_heading: EVELYN
+dialog: I think you should knock on the
+dialog: door and see.
+speaker_heading: GRAHAM
+dialog: Yes. Yes I should.
+speaker_heading: (BEAT)
+dialog: Yes.
+scene_heading: 119 EXT. HOUSE - EVENING 119
+text: Some men sit under a tree, playing cards.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 84.
+text: Across the street, Graham approaches a house. At a polite
+text: distance, Evelyn and Douglas wait. Graham knocks at the
+text: open door.
+text: A woman, GAURIKA, appears. She stares at Graham.
+speaker_heading: GRAHAM
+dialog: I'm sorry to disturb you so late.
+dialog: My name is Graham Dashwood. A
+dialog: long time ago I -
+speaker_heading: GAURIKA
+dialog: I know who you are.
+dialog: Beat.
+speaker_heading: GRAHAM
+dialog: I am afraid I don't know you.
+speaker_heading: GAURIKA
+dialog: I am Gaurika. The wife of Manoj.
+speaker_heading: GRAHAM
+dialog: (after a fraction of a
+speaker_heading: BEAT)
+dialog: I'm very pleased to meet you.
+dialog: And if you could, if you would
+dialog: tell him that I called around,
+dialog: I'd appreciate that very much,
+dialog: AND -
+text: He breaks off. She's walked past him, looking to the other
+text: side of the road.
+text: He turns to look at the men playing cards. Gaurika calls in
+dialog: Hindi.
+text: A beautiful-looking man looks up. MANOJ.
+text: He looks across at the house. Stands up slowly as Graham
+text: walks across the street towards him.
+text: Graham reaches him. The two men just stand there for a
+text: moment. Then they hug very tightly.
+text: From the steps of the house, Gaurika watches.
+text: Evelyn looks at her, fascinated.
+text: Across the street, Manoj and Graham are still holding each
+text: other, unable to let go.
+scene_heading: 120 EXT. STREET - NIGHT 120
+text: Douglas and Evelyn are walking.
+speaker_heading: DOUGLAS
+dialog: (a tiny bit sloshed)
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 85.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: First time going in to London
+dialog: with my dad, on his commute...
+dialog: He'd always been so extraordinary
+dialog: to me, so unique. But there he
+dialog: was standing on the station
+dialog: platform, utterly
+dialog: indistinguishable from all the
+dialog: other men in suits. And then of
+dialog: course a few years later I was
+dialog: one of them... Hated my job.
+dialog: Hated it.
+speaker_heading: (BEAT)
+dialog: Sorry, talking too much. Blame a
+dialog: good dinner out.
+speaker_heading: EVELYN
+dialog: What was she thinking?
+speaker_heading: DOUGLAS
+dialog: I beg your pardon?
+speaker_heading: EVELYN
+dialog: His wife. Manoj's wife. She
+dialog: knew who Graham was. Had he told
+dialog: her?
+speaker_heading: (BEAT)
+dialog: D'you think we'll find out
+dialog: tomorrow?
+speaker_heading: DOUGLAS
+dialog: Not me, I'm heading up to the
+dialog: Badi Mahal Palace. Very excited,
+dialog: been reading all about it.
+speaker_heading: EVELYN
+dialog: Tell me.
+speaker_heading: DOUGLAS
+dialog: I would, if I could remember a
+dialog: word.
+text: Evelyn laughs. Then Douglas suddenly grabs her. And pulls
+text: her out of the way of a motor bike, zooming past them.
+text: Sunaina hasn't realised she nearly hit them, and powers on
+text: towards the Marigold.
+text: Douglas and Evelyn stand for a moment, startled, holding
+text: each other. Something passes between them that embarrasses
+text: them both. Then they part quickly, guiltily.
+text: They're outside a small restaurant, and with exquisite
+text: timing, a group of musicians start to play a romantic tune.
+speaker_heading: WAITER
+dialog: Come, please. Nice meal,
+dialog: please...
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 86.
+speaker_heading: DOUGLAS
+speaker_heading: (NAMASTE GESTURE)
+dialog: We've eaten, thank you...
+text: They continue on their way. Slightly further apart than
+dialog: before.
+scene_heading: 121 EXT. MARIGOLD HOTEL - NIGHT 121
+text: It's the middle of the night, and everything's quiet Or
+text: as quiet as it can be in the middle of the usual night-time
+text: Indian cacophony.
+text: Sunaina parks her bike outside the hotel, goes on in.
+scene_heading: 122 INT. BEDROOM, MARIGOLD HOTEL - NIGHT 122
+text: Sonny is sleeping peacefully.
+scene_heading: 123 EXT. COURTYARD, MARIGOLD HOTEL - NIGHT 123
+text: Sunaina moves across the courtyard.
+text: Not sneaking, exactly. But making no sound.
+scene_heading: 124 INT. BEDROOM, MARIGOLD HOTEL - NIGHT 124
+text: Sonny sleeps on.
+scene_heading: 125 INT. CORRIDOR, MARIGOLD HOTEL - NIGHT 125
+text: Sunaina is definitely sneaking now. She aims down the
+text: passage towards Sonny's room.
+scene_heading: 126 INT. BEDROOM, MARIGOLD HOTEL - NIGHT 126
+text: Sonny stirs, but doesn't wake up.
+scene_heading: 127 INT. BEDROOM, MARIGOLD HOTEL - NIGHT 127
+dialog: Sunaina comith esno te bedroom.
+text: She takes off her clothes. And climbs, naked, into bed
+text: beside the sleeping figure.
+scene_heading: 128 INT. BEDROOM, MARIGOLD HOTEL - NIGHT 128
+text: A loud scream.
+text: In a different bed, in a different room, Sonny wakes up.
+dialog: And remembers.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 87.
+scene_heading: 129 INT. BEDROOM, MARIGOLD HOTEL - NIGHT 129
+text: It's Sunaina that's screamed. Because she's in bed with
+dialog: Madge.
+dialog: Who couldn't be happier.
+speaker_heading: MADGE
+dialog: A midnight booty call. How
+text: utterly marvellous.
+scene_heading: 130 INT. CORRIDOR, MARIGOLD HOTEL - NIGHT 130
+text: Sonny hares out of his temporary bedroom, and races down
+text: the corridor, towards Madge's room.
+scene_heading: 131 INT. BEDROOM, MARIGOLD HOTEL - NIGHT 131
+text: Sunaina has jumped out of the bed and across the room,
+text: grabbing one of Madge's generous scarves to cover her
+text: nakedness.
+speaker_heading: SUNAINA
+dialog: I'm so sorry, I'm so sorry . I
+dialog: don't know what your name is, but
+dialog: I'm incredibly sorry.
+speaker_heading: MADGE
+dialog: Don't be. Most action I've had
+dialog: in weeks.
+speaker_heading: SUNAINA
+dialog: If you could just please not
+speaker_heading: MENTION -
+text: Sonny bursts in.
+speaker_heading: SONNY
+dialog: Do not worry, Mrs Hardcastle! I
+dialog: can explain each and every thing!
+dialog: Hesees Sunaina.
+speaker_heading: SONNY (CONT'D)
+dialog: Oh my god you are naked.
+text: He turns to Madge.
+speaker_heading: SONNY (CONT'D)
+dialog: Mrs Hardcastle, I must apologise
+dialog: with deep and profound sincerity -
+speaker_heading: SUNAINA
+dialog: How could you not tell me you
+dialog: weren't in your room!
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 88.
+speaker_heading: SONNY
+dialog: Yes, Sunaina, to you too I must
+dialog: apologise with equally deep and
+dialog: profound sincerity. Now go. Get
+text: out. Quickly.
+speaker_heading: SUNAINA
+dialog: I'm going. Just let me get
+dialog: dressed, and -
+speaker_heading: SONNY
+dialog: No no, quicker than that. You
+dialog: must leave, before -
+text: MrsKapoor flings open the door.
+speaker_heading: MRS KAPOOR
+dialog: What is going on here? Who
+dialog: screamed?
+text: She sees the nearly-naked Sunaina.
+speaker_heading: MRS KAPOOR (cont'd)
+dialog: No no no no no. No! This is a
+dialog: respectable hotel, not a brothel.
+speaker_heading: (TO SUNAINA)
+dialog: You, get out.
+speaker_heading: (TO MADGE)
+dialog: And Mrs Hardcastle, I expected
+dialog: better of you. Actually, this is
+dialog: exactly what I expected of you,
+dialog: but nevertheless -
+speaker_heading: SUNAINA
+dialog: Mrs Kapoor, I'm Sunaina.
+speaker_heading: MRS KAPOOR
+dialog: Since I will not be paying for
+dialog: your services, your name is of no
+dialog: interest to me.
+speaker_heading: (BEAT)
+dialog: How do you know mine?
+text: Sunaina is shocked to realise that Mrs Kapoor doesn't know
+text: her name. Sonny steps forward reluctantly.
+speaker_heading: SONNY
+dialog: Because this . is my Sunaina.
+speaker_heading: MRS KAPOOR
+dialog: The girl who my son described as
+dialog: not too modern.
+speaker_heading: MADGE
+dialog: This is getting interesting.
+speaker_heading: MRS KAPOOR
+speaker_heading: (TO SUNAINA)
+dialog: Tell me, please.
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 89.
+speaker_heading: MRS KAPOOR (cont'd)
+dialog: Is there anyone in this building
+dialog: you haven't slept with?
+speaker_heading: SONNY
+dialog: Mummyji, do not get the wrong
+dialog: idea. Sunaina was not here to be
+dialog: with Mrs Hardcastle. She was
+dialog: here to have sex with me!
+text: Mrs Kapoor turns to Sunaina. Who is speechless.
+speaker_heading: MRS KAPOOR
+dialog: This is the sort of woman you
+dialog: are. OK. Each to her own. But
+dialog: do not ever try and tell me that
+dialog: you are suitable wife for my son.
+speaker_heading: (BEAT)
+dialog: Find your clothes and go. I
+dialog: don't expect to see you again.
+scene_heading: 132 EXT. GARDEN/PATHWAY. MARIGOLD HOTEL - NIGHT 132
+text: Sunaina is leaving the hotel, angry and humiliated. Evelyn
+text: and Douglas are coming up the path.
+speaker_heading: EVELYN
+dialog: Sunaina?
+text: And now Sunaina is even more humiliated.
+scene_heading: 132A EXT. STREET. MARIGOLD HOTEL - NIGHT 132A
+text: Sunaina roars away on her scooter.
+speaker_heading: DISSOLVE TO:
+scene_heading: 133 EXT. STREET. MARIGOLD HOTEL - DAWN 133
+text: The same street. The sun is just coming up, and traders are
+text: setting up their stalls, spreading their wares on rugs on
+dialog: the ground.
+text: One trader is unloading some fruit. A few guava roll off
+text: the edge of his wagon.
+text: Someone picks them up for him. It's Graham, who smiles as
+text: he puts them back. The trader gives him a fresh one.
+text: Graham takes it, and walks on, munching the delicious
+text: fruit. A contented man.
+scene_heading: 134 EXT. GARDEN. MARIGOLD HOTEL - DAWN 134
+text: Norman is sitting on a stone bench under a spreading tree.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 90.
+speaker_heading: GRAHAM (O.S.)
+dialog: How did it go?
+text: Norman turns, to see Graham standing above him.
+speaker_heading: NORMAN
+dialog: I have seen the top of the
+dialog: mountain. And it is good.
+text: Graham nods, sits down next to him. They gaze out at the
+dialog: waking city.
+speaker_heading: GRAHAM
+dialog: I saw someone yesterday, a man I
+dialog: hadn't seen for many years. A
+dialog: man I've loved all my life.
+text: Norman is a bit startled by this.
+speaker_heading: NORMAN
+dialog: A man... .?
+speaker_heading: GRAHAM
+dialog: Yes.
+speaker_heading: NORMAN
+dialog: Carry on.
+speaker_heading: GRAHAM
+dialog: (smiling, unperturbed)
+dialog: I didn't know how he'd been in
+dialog: the meantime, didn't want to
+dialog: guess. I brought disgrace upon
+dialog: him and his family, and imagined
+dialog: he might hate me for it.
+speaker_heading: (BEAT)
+dialog: But we talked all night. He's
+dialog: been happy. He's led a peaceful
+dialog: life, married to a woman who
+dialog: understood him and loved him
+dialog: nonetheless. But he's never
+dialog: forgotten me. That's what he
+dialog: said.
+speaker_heading: (BEAT)
+dialog: I asked his forgiveness anyway.
+dialog: He said he had nothing to forgive
+dialog: me for. That instead I should
+dialog: forgive myself.
+speaker_heading: (BEAT)
+dialog: All that time. All that time I
+dialog: believed I'd sentenced him to a
+dialog: life of shame. When I was the
+dialog: one in prison.
+speaker_heading: (BEAT)
+dialog: But not any more.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 91.
+text: Silence for a while.
+speaker_heading: NORMAN
+text: Top of the mountain.
+speaker_heading: GRAHAM
+dialog: Yes.
+text: Norman smiles, then stands and goes on inside.
+text: Graham settles back into his chair, looks out at the world.
+speaker_heading: GRAHAM (CONT'D)
+dialog: Not any more.
+scene_heading: 135 EXT. COURTYARD/VERANDAH, MARIGOLD HOTEL - DAWN 135
+text: Norman comes into the courtyard. Madge, sipping from a cup
+text: of chai, calls down from her verandah.
+speaker_heading: MADGE
+dialog: How was the night?
+speaker_heading: NORMAN
+dialog: Rather special.
+text: He leaves. Madge just stares after him.
+scene_heading: 136 EXT. STAIRCASE. MARIGOLD HOTEL - DAWN 136
+text: Norman on the stairs to his room.
+text: He stops, catches his breath.
+scene_heading: 137 EXT. GARDEN. MARIGOLD HOTEL - DAWN 137
+text: Graham is watching a stunningly beautiful bird. A snow
+text: crane; white and magnificent. It's on the grass in front
+dialog: of him.
+text: Then it opens its huge wings, takes off. And flies up into
+text: the bright blue sky. It's an extraordinary sight.
+text: As Graham watches the snow crane swoop and dip, it appears
+text: suddenly to slow and stall, until it seems to hang in the
+text: air, almost motionless.
+scene_heading: 138 EXT. ROOFTOP. MARIGOLD HOTEL - DAWN 138
+text: Norman crosses the rooftop to his bedroom. He comes
+text: inside, sits on the bed.
+scene_heading: 139 EXT. GARDEN, MARIGOLD HOTEL - MORNING 139
+text: Graham is still sitting in the garden.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 92.
+speaker_heading: EVELYN (O.S.)
+dialog: You're back.
+text: He doesn't turn round. Evelyn has come out to the garden.
+text: She goes over to him.
+speaker_heading: EVELYN (CONT'D)
+dialog: It's been rather an extraordinary
+dialog: night all round. First tell me
+dialog: your news, and then -
+text: She breaks off.
+text: Graham is dead.
+scene_heading: 139A EXT. COURTYARD. MARIGOLD HOTEL - DAY 139A
+speaker_heading: EVELYN (V.0.)
+dialog: Day 45. Of course it was
+dialog: inevitable. Put enough old
+dialog: people in the same place, it
+dialog: won't be too long before one of
+dialog: them goes...
+text: Jean, Douglas, Madge, Norman and Muriel shocked and sobered
+scene_heading: 140 EXT. COUNTRYSIDE - DAY 140
+text: A train is crossing the endless fields.
+scene_heading: 141 INT. TRAIN - DAY 141
+text: Evelyn stares out of the window. Madge, Norman, Douglas
+text: and Jean are behind her. Opposite sits Manoj. Evelyn
+text: turns to look at him, and at Gaurika, Manoj's wife, who
+text: sits beside him.
+speaker_heading: EVELYN (V.0.)
+dialog: We all know it'll happen, but few
+dialog: of us know when. Graham died of
+dialog: a heart attack, evidently not his
+dialog: first. So he had a better idea
+dialog: than most what was coming, he
+dialog: just neglected to tell us. His
+dialog: prerogative.
+scene_heading: 142 EXT. LAKE - DAWN 142
+text: Three white vehicles are driving across a narrow causeway,
+text: which barely rises above the surface of the lake. They
+text: seem to be floating. Clouds of dust billow behind them.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 93.
+speaker_heading: EVELYN (V.0.)
+dialog: There was talk of sending the
+dialog: body home, but Manoj felt he
+dialog: should have a Hindu burial. At
+dialog: the place they had visited
+dialog: together. Not a holy place.
+dialog: Although for them perhaps it was.
+scene_heading: 143 EXT. FUNERAL PYRE, RUINS - DAY 143
+text: A ruined garden, surrounded by the waters of the lake,
+text: crumbling pillared porticoes and arches. What must once
+text: have been a royal retreat is now long abandoned and
+text: overgrown.
+text: Graham's friends stand watching the pyre, transfixed by the
+text: flames. Manoj, dressed in white, stands with Gaurika. He
+text: recites a Hindi prayer.
+speaker_heading: EVELYN (V.0.)
+text: A body takes a long time to be
+dialog: consumed. Many hours for the
+dialog: mourners to remember their dead.
+dialog: The fire must be lit at dawn, and
+dialog: by sunset, there must be nothing
+dialog: left but ash.
+scene_heading: 144 EXT. LAKESIDE - SUNSET 144
+text: Stripped to the waist, Manoj walks into the water, holding
+text: a bowl.
+speaker_heading: EVELYN (V.0.)
+dialog: Where do our souls go? is that
+dialog: all of us that is left behind?
+dialog: Perhaps the most we can ask is
+dialog: that when we do shuffle off, we
+dialog: do so knowing that we were loved
+text: Manoj pours Graham onto the water. The ashes shim r and
+text: dance, caught in the gentle currents.
+scene_heading: 145 EXT. SERVANT'S GARDEN. MARIGOLD HOTEL - DAY 145
+text: Muriel and Anokhi are in the servants' garden. Young Wasim
+text: sits silently in the corner.
+speaker_heading: MURIEL
+dialog: So there's a process, they call
+dialog: it pickling. I have no idea what
+dialog: it is, or how they do it, but
+dialog: whoever invented it was a smart
+dialog: man. But the real genius was the
+dialog: one who introduced an onion into
+dialog: the system. That I could never
+dialog: have thought of.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 94.
+text: Ajit looks at her, ready to translate.
+speaker_heading: MURIEL (CONT'D)
+dialog: No, forget it.
+text: Muriel is looking out at the yard. She sees Mrs Kapoor,
+text: talking to some surveyors. They're mapping out the
+dialog: building.
+text: Mrs Kapoor sees Muriel watching her, comes over to them.
+speaker_heading: MRS KAPOOR
+dialog: Mrs Donnelly, what are you doing
+dialog: here? You should not be here,
+dialog: talking with this one.
+speaker_heading: MURIEL
+dialog: I'm helping her clean. If these
+dialog: pots get any dirtier, you'll have
+dialog: to serve the food with
+dialog: penicillin.
+speaker_heading: MRS KAPOOR
+dialog: We have other rooms. Go to one
+dialog: of them instead. While this is
+text: still a hotel.
+text: She turns back to the surveyors.
+speaker_heading: MURIEL
+speaker_heading: (TO AJIT)
+dialog: What's her problem? What's
+dialog: happening here?
+text: Ajit can't answer. But he knows a man who can.
+text: He points to Young Wasim.
+speaker_heading: AJIT
+dialog: He can tell you.
+scene_heading: 146 EXT. ROOFTOP BAR, BHARATPUR PALACE HOTEL. UDAIPUR - 146
+speaker_heading: EVENING
+text: A stunning view over the city. Madge is having a drink
+text: with Norman. Douglas is sitting on the wall, but keeps
+text: looking down towards the stairs.
+speaker_heading: MADGE
+dialog: When someone dies, you think
+dialog: about your own life. And in my
+dialog: case, there is less of it in
+dialog: front of me than behind. And I
+dialog: don't want to grow older. I
+dialog: don't want to be condescended to,
+dialog: ignored and marginalised by
+dialog: society. To become peripheral to
+dialog: the action.
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 95.
+speaker_heading: MADGE (coat' d)
+dialog: I don't want to be the first
+text: person let off the plane in a
+dialog: hostage crisis.
+text: They laugh together. And don't even see Douglas go.
+scene_heading: 147 EXT. LANDING. BHARATPUR PALACE HOTEL - EVENING 147
+text: The landing is large, and open to the sky. Evelyn has just
+text: come up the stairs to go to her room. She's leaning against
+text: the stone baluster.
+speaker_heading: DOUGLAS
+dialog: I wondered where you'd been.
+text: Evelyn turns. Douglas is on the stairs above her.
+speaker_heading: DOUGLAS (CONT'D)
+text: We're all up top, having a drink.
+speaker_heading: EVELYN
+dialog: I went to see Gaurika. Manoj's
+dialog: wife. I wanted to ask her what
+dialog: she knew. And the answer was
+dialog: that she knew everything, that
+dialog: he'd loved another man, and
+dialog: always would. He told her when
+dialog: the marriage was arranged.
+speaker_heading: (BEAT)
+dialog: They had no secrets from each
+dialog: other, none.
+text: Suddenly she's crying. Unable to stop.
+text: Douglas puts his arms around her, and holds her to him.
+speaker_heading: EVELYN (CONT'D)
+dialog: And that's right, don't you see?
+dialog: That must be right. Because what
+dialog: is the point of a marriage in
+dialog: which nothing is shared?
+text: Her words hang in the air. They stand there for a moment.
+text: Jean has come out of her room, and stands there, watching
+dialog: them.
+speaker_heading: JEAN
+dialog: Mrs Greenslade, might I have my
+dialog: husband back now?
+text: They spring apart.
+speaker_heading: JEAN (CONT'D)
+dialog: Douglas?
+text: She walks off back into the room. Douglas turns to Evelyn.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 96.
+speaker_heading: DOUGLAS
+speaker_heading: FORGIVE ME
+speaker_heading: EVELYN
+dialog: Yes, of course.
+speaker_heading: DOUGLAS
+dialog: Forgive me.
+text: Evelyn goes quickly to her room, leaving him standing
+dialog: there.
+scene_heading: 148 INT. DOUGLAS AND JEAN'S ROOM - EVENING 148
+text: Douglas closes the door.
+speaker_heading: DOUGLAS
+dialog: She was upset.
+speaker_heading: JEAN
+dialog: Spare me your explanations.
+dialog: D'you think I'm jealous?
+speaker_heading: DOUGLAS
+dialog: I don't see why else you would
+dialog: have embarrassed me. And Evelyn.
+speaker_heading: JEAN
+dialog: You were already doing a
+dialog: perfectly good job of
+dialog: embarrassing yourself. Can you
+dialog: imagine how ghastly it's been for
+dialog: everyone to watch you mooning
+dialog: around after that simpering doe-
+text: eyed ex-housewife, taking
+dialog: advantage of her loneliness and -
+speaker_heading: DOUGLAS
+dialog: God, can you hear yourself? Can
+dialog: you? Do you have any idea what a
+dialog: terrible person you've become?
+text: Jean is stunned into silence.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: All you give out is this endless
+dialog: negativity, a refusal to see any
+dialog: kind of light and joy even when
+dialog: it's right in your face, and a
+dialog: desperate need to squash any sign
+dialog: of happiness in me or anyone else
+dialog: .. it's a wonder I don't fling
+dialog: myself at the first kind word or
+dialog: gesture that comes my way. But I
+dialog: don't. Out of some dried-out
+dialog: notion of loyalty and respect,
+dialog: neither of which I ever bloody
+dialog: get in return.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 97.
+text: There's a long silence.
+speaker_heading: JEAN
+dialog: I checked my emails. This came.
+text: She hands him a piece of paper.
+scene_heading: 149 EXT. ROOFTOP BAR. BHARATPUR PALACE HOTEL - EVENING 149
+text: Evelyn comes onto the terrace, and heads for Madge and
+text: Norman. She picks up Madge's glass.
+speaker_heading: MADGE
+dialog: Are you alright?
+speaker_heading: EVELYN
+dialog: I just need some water.
+text: She drains the glass.
+speaker_heading: MADGE
+dialog: That was a gin and tonic.
+speaker_heading: EVELYN
+dialog: Yes. I know that now.
+speaker_heading: MADGE
+dialog: What's happened?
+speaker_heading: NORMAN
+dialog: Good evening, the Ainslies.
+text: Douglas and Jean are approaching them.
+speaker_heading: MADGE
+dialog: How are you both?
+speaker_heading: JEAN
+dialog: We're particularly well.
+dialog: Douglas, tell them our news.
+text: She looks to him, waits. He says nothing.
+text: So she turns, and smiles.
+speaker_heading: JEAN (CONT'D)
+dialog: We're going home.
+scene_heading: 150 EXT. EVELYN'S VERANDAH/KITCHEN. MARIGOLD HOTEL - DAY 150
+text: Sonny is with his investor, Mr Maruthi. They emerge from
+text: the upper courtyard onto the terrace overlooking the back
+dialog: of the hotel.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 98.
+speaker_heading: SONNY
+dialog: And so I would ask you to loosen
+dialog: the strings on your purse, Mr
+dialog: Maruthi, and to do it most
+dialog: rapidly. So that Phase Two
+dialog: Development of the Best Exotic
+dialog: Marigold Hotel can begin with
+dialog: immediate effect.
+text: Mr Maruthi looks down, sees Muriel. She's with Anokhi,
+dialog: Ajit, and Young Wasim.
+text: He calls down to her.
+speaker_heading: MR MARUTHI
+dialog: Mrs Donnelly, I believe.
+text: Sonny spots the danger, tries to lead Mr Maruthi away.
+speaker_heading: SONNY
+dialog: And now if you would please be
+dialog: following me to the ground floor
+speaker_heading: ROOMS
+text: Mr Maruthi ignores him, calls down again.
+speaker_heading: MR MARUTHI
+dialog: How are things at the hotel?
+speaker_heading: SONNY
+dialog: Mr Maruthi -
+speaker_heading: MURIEL
+speaker_heading: (CALLING BACK)
+dialog: Better. They're going better.
+text: Sonny takes a moment to recover.
+speaker_heading: SONNY
+dialog: You see? Profound satisfaction.
+dialog: Such is the inevitable result of
+dialog: a prolonged stay at the Marigold
+dialog: Hotel.
+text: And now Mr Maruthi has spotted something else. The
+text: surveyors, who are still taking their measurements.
+speaker_heading: MR MARUTHI
+dialog: What are those men doing?
+speaker_heading: SONNY
+dialog: (Glancing back for a moment)
+dialog: Working for me, Mr Maruthi. To
+dialog: create a home for the elderly so
+dialog: wonderful that they will simply
+dialog: refuse to die! Stare death in
+dialog: the face and say-
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+speaker_heading: 98A.
+speaker_heading: SONNY (CONT'D)
+dialog: (follows Mr Maruthi's
+speaker_heading: GAZE)
+dialog: What are those men doing?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 99.
+scene_heading: 151 EXT. KITCHEN/SERVANT'S GARDEN. MARIGOLD HOTEL - DAY 151
+text: Moments later. Through the window, Muriel watches Sonny
+text: confronting his mother.
+speaker_heading: SONNY
+dialog: Mummyji, what is going on here?
+speaker_heading: MRS KAPOOR
+dialog: I have spoken to your brothers.
+dialog: They want to sell the hotel.
+dialog: These men are here to value the
+dialog: building.
+speaker_heading: SONNY
+dialog: They are valuing the land. My
+dialog: brothers do not care about the
+dialog: building. They will knock it
+dialog: down.
+speaker_heading: MRS KAPOOR
+dialog: They could just wait a month for
+dialog: it to fall down of its own
+dialog: accord.
+speaker_heading: SONNY
+dialog: You joke, Mummyji, but inside I
+dialog: know you are not laughing. You
+dialog: do not want to see this dream
+dialog: destroyed. Send these people
+dialog: away.
+speaker_heading: MRS KAPOOR
+dialog: No, my son. It is too late.
+scene_heading: 152 INT. SONNY'S OFFICE - NIGHT 152
+text: Mrs Kapoor is at the desk, going through the accounts.
+text: Sonny stands opposite her.
+speaker_heading: SONNY
+dialog: Mummyji, please -
+speaker_heading: MRS KAPOOR
+dialog: These figures do not support your
+dialog: argument.
+speaker_heading: SONNY
+dialog: There is still time to turn
+text: things around. With a small
+dialog: injection of funds, we can -
+speaker_heading: MRS KAPOOR
+dialog: Who is trusting you with that
+dialog: money? Eh? You, who cannot run
+dialog: a chai stand. Just like your
+dialog: father.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 100.
+text: Beat. Then Sonny speaks quietly.
+speaker_heading: SONNY
+dialog: Do I remind you of him so much?
+dialog: Is that why you must be cruel to
+dialog: me?
+speaker_heading: MRS KAPOOR
+dialog: You think I am cruel?
+speaker_heading: SONNY
+dialog: You loved my father. And he
+dialog: loved this hotel.
+speaker_heading: MRS KAPOOR
+speaker_heading: (FIERCELY)
+dialog: Two mistakes. There will not be
+dialog: a third.
+speaker_heading: (BEAT)
+dialog: Say goodbye to all this, Sonny.
+dialog: And come with me to Delhi. Your
+dialog: life will become easier.
+speaker_heading: SONNY
+dialog: Not easier, Mummyji. Smaller.
+text: He leaves.
+text: Mrs Kapoor comes back to the desk, fiddling with some
+text: paperwork, discomfited.
+text: She turns to the doorway. Muriel is there, in her chair.
+speaker_heading: MRS KAPOOR
+dialog: Mrs Donnelly. Can I help you?
+speaker_heading: MURIEL
+dialog: Depends. Do you know how to use
+dialog: a computer?
+speaker_heading: MRS KAPOOR
+dialog: I assume you are joking.
+speaker_heading: MURIEL
+dialog: Mrs Ainslie said she had an
+dialog: address where I could get some
+dialog: things I need. Some biscuits.
+dialog: She said I could get them on the
+dialog: line.
+speaker_heading: MRS KAPOOR
+dialog: I wish you luck.
+text: Mrs Kapoor smiles, and leaves.
+text: Muriel watches her go, then turns to the computer.
+text: Her fingers fly across the keyboard.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 101.
+scene_heading: 153 INT. TRAIN - NIGHT 153
+text: The train rattles its way through the night. Jean is
+text: chatting away, in a better mood than we've seen her for
+text: some time. Evelyn listens in silence.
+speaker_heading: JEAN
+dialog: The whole thing is actually
+dialog: tremendously exciting. Not just
+text: getting on a plane, but getting
+text: on a plane and turning left.
+speaker_heading: NORMAN
+dialog: Turning left?
+speaker_heading: JEAN
+dialog: First class. And home in time
+dialog: for our 40th wedding anniversary.
+dialog: We haven't yet decided how to
+dialog: mark the occasion.
+speaker_heading: MADGE
+dialog: Perhaps a minute's silence?
+scene_heading: 154 INT. SONNY'S OFFICE, MARIGOLD HOTEL - NIGHT 154
+text: Ajit keeps watch, while Muriel is at the printer. Waiting
+text: as it disgorges pages.
+speaker_heading: 155 OMITTED 155
+scene_heading: 155A EXT. STREET. JAIPUR STATION - DAY 155A
+text: The tuk-tuks are lined up.
+speaker_heading: NORMAN
+dialog: (hailing a tuk-tuk)
+dialog: Two should fit us all, I think.
+speaker_heading: EVELYN
+dialog: I'm actually going to walk.
+dialog: Apparently they're getting ready
+dialog: for a festival.
+speaker_heading: DOUGLAS
+dialog: Perhaps you'd like one of us to
+dialog: accompany you.
+speaker_heading: MADGE
+dialog: I'm happy to walk with you.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 102.
+speaker_heading: EVELYN
+dialog: I'll be fine.
+text: Evelyn speaks to both Douglas and Jean.
+speaker_heading: EVELYN (CONT'D)
+dialog: I'm delighted for your daughter's
+dialog: success. I wish you all every
+dialog: happiness.
+speaker_heading: JEAN
+dialog: Thank you.
+text: Evelyn turns, and walks away.
+scene_heading: 156 INT. TUK-TUX - DAY 156
+text: Douglas and Jean are in the tuk-tuk with Madge and Norman.
+text: There is a sombre atmosphere.
+text: A motor-bike hurtles past them, going the other way.
+speaker_heading: DOUGLAS
+dialog: Was that Sonny?
+scene_heading: 157 INT. CHRISTOPHER'S HOUSE, LONDON - DAY 157
+text: A phone is ringing. Christopher is still in bed, his wife
+text: Polly asleep next to him.
+text: He answers.
+speaker_heading: CHRISTOPHER
+speaker_heading: YES
+dialog: (can't believe his ears)
+dialog: Ma?
+scene_heading: 158 EXT. PHONE BOOTH. TICKET OFFICE. JAIPUR STATION - DAY 158
+text: Evelyn stands under the awning of the ticket office.
+speaker_heading: EVELYN
+dialog: I just wanted to hear your voice.
+speaker_heading: (BEAT)
+dialog: No, I'm sorry, I didn't think
+dialog: about the time . How are you?
+dialog: And Polly? The boys . how are
+dialog: the boys?
+text: She listens to him. She's holding back tears.
+speaker_heading: EVELYN (CONT'D)
+dialog: Oh good, I'm glad you've been
+dialog: reading it. Yes. Yes, I've made
+dialog: some very good friends.
+speaker_heading: (BEAT)
+dialog: No, I'm fine, of course I am.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 103.
+dialog: As much as she had wanted to speak to him, she now wants
+text: the conversation to be over.
+speaker_heading: EVELYN (CONT'D)
+dialog: I think my money is running out,
+dialog: I'd better go. Goodbye for now,
+dialog: darling. I'll call again later.
+text: She hangs up. And stays there with her hand on the phone.
+text: Out on the street, Sonny is pulling up. She looks over to
+dialog: him.
+speaker_heading: SONNY
+dialog: Mrs Greenslade. Where are the
+dialog: others?
+speaker_heading: EVELYN
+text: They're on their way to the
+dialog: hotel.
+text: Sonny looks around, at a loss.
+speaker_heading: EVELYN (CONT'D)
+dialog: What's the matter?
+speaker_heading: SONNY
+dialog: I wanted to warn you before you
+dialog: see for yourself of the most
+dialog: momentous changes that are
+dialog: occurring, absolutely all of them
+dialog: without question for the very
+dialog: positive.
+speaker_heading: EVELYN
+dialog: What are you talking about?
+speaker_heading: SONNY
+dialog: I am delighted to announce the
+dialog: closing of the Best Exotic
+text: Marigold Hotel, and the joyful
+dialog: return of all of its inhabitants
+dialog: to their home country.
+speaker_heading: EVELYN
+dialog: What?
+scene_heading: 159 EXT. GARDEN PATH. MARIGOLD HOTEL - DAY 159
+text: Norman and Madge have arrived back at the hotel.
+text: Mrs Kapoor is breaking the news to them.
+speaker_heading: MRS KAPOOR
+dialog: Please relax in the knowledge
+dialog: that your journey home is being
+dialog: arranged, and paid for by the
+dialog: hotel.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 104.
+speaker_heading: MADGE
+dialog: Our journey here was arranged and
+dialog: paid for by the hotel, and look
+dialog: how that went. I'd rather walk
+dialog: back to England.
+speaker_heading: NORMAN
+dialog: I'd rather not go back at all.
+text: A voice comes behind them. Carol has come out of the
+dialog: courtyard.
+speaker_heading: CAROL
+dialog: Why would you have to?
+scene_heading: 160 EXT. JAIPUR STATION - DAY 160
+text: Sonny and Evelyn are still talking.
+speaker_heading: SONNY
+dialog: And for myself the news is even
+dialog: better. I shall be moving to
+dialog: Delhi to live with my mother, and
+dialog: furthermore I shall be wed to a
+dialog: most suitable person of her
+dialog: choice, whom I look forward very
+dialog: much to meeting before I spend
+dialog: the rest of my life with her.
+speaker_heading: EVELYN
+dialog: But what about your girlfriend?
+speaker_heading: SONNY
+dialog: She is no longer my girlfriend.
+speaker_heading: EVELYN
+dialog: This is a disaster.
+speaker_heading: SONNY
+dialog: Then we must treat it just the
+dialog: same as we would treat a triumph,
+dialog: is that not what your Mr Kipling
+dialog: tells us? Although of course,
+dialog: here we have a problem. Because
+dialog: I, Sunil Indrajit Kapoor, have
+dialog: never had a triumph, so of course
+dialog: I do not know how to treat one.
+dialog: No, all I have had is an constant
+dialog: series of disasters interspersed
+dialog: with the occasional catastrophe,
+text: an unending stream of total -
+speaker_heading: EVELYN
+dialog: Sonny, do you love her? Sunaina?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 105.
+speaker_heading: SONNY
+dialog: Most deeply.
+speaker_heading: EVELYN
+dialog: Have you told her you love her?
+speaker_heading: SONNY
+dialog: It is because I love her that I
+dialog: must not tell her. She can do so
+dialog: much better than me.
+speaker_heading: EVELYN
+dialog: And you have told her that?
+speaker_heading: SONNY
+dialog: Many times.
+speaker_heading: EVELYN
+dialog: Good. Women love it when you say
+dialog: that kind of thing. It's a
+dialog: powerful aphrodisiac.
+speaker_heading: SONNY
+dialog: Really?
+speaker_heading: EVELYN
+dialog: No, of course not. Go and find
+dialog: her right now, before you lose
+dialog: her forever. Her future is hers
+dialog: to choose, and so is yours. You
+dialog: can have anything you want,
+dialog: Sonny. You just need to stop
+dialog: waiting for someone to tell you
+dialog: you deserve it. Or you can just
+dialog: keep failing yourself, and
+dialog: hurting the ones you love -
+speaker_heading: SONNY
+dialog: Mrs Greenslade, stop drilling!
+dialog: You have struck oil!
+text: He goes to his bike, climbs on, and rockets off.
+scene_heading: 161 EXT. UPPER COURTYARD. MARIGOLD HOTEL - DAY 161
+text: Madge is sitting, pensive. Carol comes in.
+speaker_heading: MADGE
+dialog: Where's Norman?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 106.
+speaker_heading: CAROL
+dialog: Packing.
+speaker_heading: MADGE
+dialog: But we don't have to leave yet.
+speaker_heading: CAROL
+dialog: I asked him to come and stay with
+dialog: me.
+speaker_heading: MADGE
+dialog: Is that wise? I'm not sure he's
+dialog: trained.
+speaker_heading: CAROL
+dialog: You think it's too soon.
+speaker_heading: MADGE
+dialog: It doesn't matter what I think.
+speaker_heading: CAROL
+dialog: It is too soon. But at our age we
+dialog: can't afford the luxury of taking
+dialog: it slow. And it's either this or
+dialog: he goes home and I don't want
+dialog: him to go home.
+text: Madge looks at her for a while. Then smiles.
+speaker_heading: MADGE
+dialog: I wish you both the very best.
+speaker_heading: CAROL
+dialog: You haven't met anyone?
+speaker_heading: MADGE
+dialog: Single by choice. Just not my
+dialog: choice.
+speaker_heading: (BEAT)
+dialog: I actually think it might be
+dialog: over. For me. With men. And if
+dialog: that's gone, I'm not quite sure
+dialog: what's left.
+speaker_heading: BEAT
+speaker_heading: CAROL
+dialog: Did you know Norman brought
+dialog: pills? The first night he stayed
+dialog: with me?
+speaker_heading: MADGE
+dialog: They obviously did the trick.
+speaker_heading: CAROL
+dialog: I saw them in his pocket. I
+dialog: didn't want it to be like that.
+dialog: So when I had the chance I
+dialog: swapped them.
+speaker_heading: (BEAT)
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 106A.
+speaker_heading: CAROL (CONT'D)
+dialog: He went all night on two aspirin.
+speaker_heading: (BEAT)
+dialog: It's never over.
+text: Norman appears with his one bag and his battery radio.
+speaker_heading: NORMAN
+dialog: Ready?
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 107.
+scene_heading: 162 EXT. STREET, CENTRAL JAIPUR - DAY 162
+text: Sonny roars through the streets on his bike.
+scene_heading: 163 EXT. STREET. MARIGOLD HOTEL - DAY 163
+text: Evelyn approaches.
+text: She sees a taxi waiting outside the hotel.
+scene_heading: 164 EXT. STAIRCASE, MARIGOLD HOTEL - CONTINUOUS 164
+text: The houseboy is carrying Douglas and Jean's bags down to
+dialog: the car.
+scene_heading: 165 EXT. COURTYARD, MARIGOLD HOTEL - CONTINUOUS 165
+text: Evelyn comes into the courtyard. Muriel is sitting there.
+text: The two women stare at each other.
+speaker_heading: MURIEL
+dialog: Do you want him to see you?
+scene_heading: 165A EXT. STREET. JAIPUR 165A
+text: Sonny is waiting at a junction, texting into his mobile
+dialog: phone.
+scene_heading: 166 INT. DOUGLAS AND JEAN'S ROOM, MARIGOLD HOTEL - DAY 166
+text: Douglas is checking they haven't left anything. Jean is at
+text: the door. She's impatient.
+speaker_heading: JEAN
+speaker_heading: DOUGLAS
+scene_heading: 166A INT. CALL CENTRE - DAY 166A
+text: Sunaina picks up her mobile, looks at the message.
+scene_heading: 167 EXT/INT. TAXI/STREET. MARIGOLD HOTEL - DAY 167
+text: Jean is sitting in the taxi, which is driven by BARUM.
+text: Douglas climbs in.
+text: A beat.
+speaker_heading: DOUGLAS
+dialog: My wallet, I forgot my wallet.
+dialog: One second.
+text: Before Jean has a chance to say anything, he goes back in.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 108.
+text: She watches him go.
+scene_heading: 168 EXT. COURTYARD, MARIGOLD HOTEL - CONTINUOUS 168
+text: Douglas comes back into the courtyard, heads towards the
+text: staircase to Evelyn's room.
+text: Then Muriel speaks from her verandah.
+speaker_heading: MURIEL
+text: She's not back yet.
+text: Douglas stops. Beat.
+speaker_heading: DOUGLAS
+dialog: Right.
+speaker_heading: (BEAT)
+dialog: Then perhaps you could tell her I
+dialog: said goodbye.
+text: He turns and walks out.
+scene_heading: 169 INT. EVELYN'S ROOM, MARIGOLD HOTEL - CONTINUOUS 169
+text: Evelyn is at her window, listening. She turns to watch him
+dialog: leave.
+scene_heading: 170 EXT. MARIGOLD HOTEL - CONTINUOUS 170
+text: Douglas gets back into the taxi.
+speaker_heading: DOUGLAS
+dialog: (slamming the door)
+dialog: False alarm. Had it the whole
+dialog: time. Let's go.
+speaker_heading: 171 OMITTED 171
+scene_heading: 172 EXT. CALL CENTRE - DAY 172
+text: Sonny roars into the forecourt, gets off his bike, and runs
+text: into the building.
+text: A SECURITY GUARD goes to stop him, but Sonny's already
+text: running up the stairs.
+scene_heading: 172A INT. STAIRWELL/LANDING. CALL CENTRE - DAY 172A
+text: Sonny keeps going up, floor after floor.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 109.
+speaker_heading: SONNY
+speaker_heading: (YELLING)
+dialog: Sunaina! Sunaina!
+text: He reaches the seventh floor.
+text: Jay appears on the landing above him.
+speaker_heading: JAY
+dialog: What's going on?
+text: Sonny is doubled over, totally out of breath. Holds up a
+dialog: finger.
+speaker_heading: JAY (CONT'D)
+dialog: Sonny?
+speaker_heading: SONNY
+dialog: I need to see Sunaina!
+speaker_heading: JAY
+dialog: Her shift's not over. And when
+dialog: it is, she doesn't want to see
+dialog: you.
+dialog: Beat.
+speaker_heading: SONNY
+dialog: Jay, you are the son my mother
+dialog: wished I was; an intelligent man,
+dialog: with a strong head for business.
+dialog: You see things as they are, not
+dialog: as you wish them to be. So fuck
+dialog: off out of my way.
+text: Jaydoesn't move.
+speaker_heading: SONNY (CONT'D)
+dialog: Or you can give her a message.
+text: Sunaina is standing against the wall, unseen by Sonny,
+dialog: listening.
+speaker_heading: SONNY (CONT'D)
+dialog: Tell her from me what I should
+dialog: have told her the day we met.
+dialog: What I will announce to anyone
+dialog: who asks. And many who do not.
+text: Sunaina speaks to Jay.
+speaker_heading: SUNAINA
+dialog: Including your mother?
+speaker_heading: JAY
+speaker_heading: (TO SONNY)
+dialog: Including my mother?
+speaker_heading: SUNAINA
+dialog: His mother.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 110.
+speaker_heading: JAY
+speaker_heading: (TO SONNY)
+dialog: Your mother.
+speaker_heading: SONNY
+dialog: I will tell every mother in the
+dialog: land.
+speaker_heading: SUNAINA
+speaker_heading: (TO JAY)
+dialog: What will you tell them?
+speaker_heading: JAY
+speaker_heading: (TO SONNY)
+dialog: What will you tell them?
+speaker_heading: SONNY
+dialog: The only thing that matters in
+dialog: this world. That I love you.
+dialog: And always will.
+speaker_heading: (BEAT)
+dialog: And by you, I mean Sunaina, Jay,
+dialog: not you. Although if you are to
+dialog: be my brother-in-law, I hope we
+dialog: can become better friends.
+speaker_heading: SUNAINA
+dialog: Why is he only saying this now?
+speaker_heading: JAY
+speaker_heading: (TO SUNAINA)
+dialog: You ask him.
+speaker_heading: SUNAINA
+dialog: Why are you only saying this now?
+speaker_heading: SONNY
+dialog: Because, Sunaina, love of my
+dialog: life, no more will I believe that
+dialog: I am not worthy, for only by
+dialog: loving you as you deserve will I
+dialog: become so.
+text: On Sunaina's face as she hears this.
+scene_heading: 173 EXT. STREET, CENTRAL JAIPUR - DAY 173
+text: The cacophonous sound of drumming: a small band of players
+text: are beating out a deafening, syncopated rhythm as the
+text: Ganeshi festival begins to unfold.
+text: Sonny is on his bike, Sunaina riding side-saddle on the
+text: back. They're speeding through the city.
+text: Sonny rockets through an arch way up a side street, is
+text: confronted by a huge traffic jam. The Ganeshi procession is
+text: bringing everything to a standstill.
+text: He does a U-turn, speeds off back the way they came.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 111.
+scene_heading: 174 INT/EXT. TAXI/STREET - DAY 174
+text: Douglas and Jean are sitting in the traffic jam.
+speaker_heading: DOUGLAS
+dialog: It's funny. They call it rush
+text: hour, but nothing actually moves.
+speaker_heading: (BEAT)
+dialog: It's not that funny.
+speaker_heading: (BEAT)
+dialog: Although I suppose it's all about
+dialog: context, isn't it? I mean -
+speaker_heading: JEAN
+dialog: Douglas?
+speaker_heading: DOUGLAS
+dialog: Yes?
+speaker_heading: JEAN
+dialog: If you say one more word, I'll
+dialog: kill you with my thumbs.
+scene_heading: 174A EXT. COURTYARD. MARIGOLD HOTEL - DAY 174A
+text: Muriel sits alone in the courtyard, under her awning.
+text: Then Carol and Norman appear from reception, followed by
+text: Mrs Kapoor. They cross towards the arch.
+speaker_heading: MURIEL
+dialog: Where d'you think you're going?
+speaker_heading: MADGE
+dialog: You may well ask.
+text: Madge is sitting under the shade of a tree..
+speaker_heading: NORMAN
+dialog: We're moving in together.
+speaker_heading: MURIEL
+dialog: Already?
+speaker_heading: CAROL
+dialog: That point has been made.
+speaker_heading: MRS KAPOOR
+text: The hotel is closing.
+speaker_heading: MURIEL
+dialog: Doesn't have to.
+text: Silence. Everyone stares at Muriel.
+text: She takes out the spreadsheets.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 112.
+speaker_heading: MURIEL (CONT'D)
+dialog: I've been going over the
+dialog: accounts.
+scene_heading: 174B EXT. STREET, CENTRAL JAIPUR - DAY 174B
+text: If anything, the traffic is now worse. Jean and Douglas's
+text: taxi has progressed a few yards, and is now wedged into the
+text: arch. The Ganeshi procession is completely blocking the far
+text: entrance to the archway.
+text: Jean gets out, looks at the sea of unmoving traffic ahead
+dialog: and behind.
+speaker_heading: JEAN
+dialog: This is ridiculous. It could go
+dialog: on for hours. There's no way
+dialog: we're ever going to get out of
+dialog: here.
+speaker_heading: DOUGLAS
+dialog: Maybe there is.
+text: A rickshaw arrives next to them, swerving through the
+text: traffic. It is ridden by IFTI.
+speaker_heading: JEAN
+dialog: You. Can you get us to the
+dialog: airport?
+speaker_heading: IFTI
+dialog: Sorry long way sore legs not
+dialog: possible.
+speaker_heading: JEAN
+dialog: I'll give you everything I have.
+speaker_heading: IFTI
+dialog: Step right in mind your head
+dialog: let's go.
+speaker_heading: JEAN
+dialog: Come on, Douglas. Come on!
+text: Douglas gets the suitcases out of the trunk of the cab.
+speaker_heading: IFTI
+dialog: Sorry no manage people and cases.
+speaker_heading: JEAN
+dialog: (grabbing her suitcases)
+dialog: What?
+speaker_heading: IFTI
+dialog: Not possible. Two person, no
+dialog: cases; one person, and cases.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 113.
+speaker_heading: JEAN
+dialog: (taking off her watch)
+dialog: How about if I give you something
+dialog: else? My watch?
+speaker_heading: IFTI
+speaker_heading: (TAKES IT)
+dialog: Sure. Thank you. Still not
+dialog: possible.
+speaker_heading: DOUGLAS
+dialog: We'll get another flight. We can
+dialog: go back to the hotel, and leave
+text: in the morning.
+speaker_heading: JEAN
+dialog: No.
+speaker_heading: DOUGLAS
+dialog: Jean, you heard what he said. He
+dialog: can't do it.
+speaker_heading: JEAN
+dialog: He can do one person, and cases.
+speaker_heading: DOUGLAS
+dialog: Yes, but
+speaker_heading: JEAN
+dialog: Could fate find a better way to
+dialog: tell us what we need to hear?
+speaker_heading: DOUGLAS
+dialog: Which is what?
+speaker_heading: JEAN
+dialog: That it's over. It was over a
+dialog: long long time ago.
+speaker_heading: DOUGLAS
+dialog: This is not the time to talk
+dialog: about this. Let's wait till we
+speaker_heading: GET-
+speaker_heading: JEAN
+dialog: I have to go, Douglas.
+speaker_heading: DOUGLAS
+dialog: I won't let you.
+speaker_heading: JEAN
+dialog: No, you'll want to come after me.
+dialog: Chase me to the airport and tell
+dialog: me everything will be fine.
+dialog: But please don't. Because the
+dialog: truth is we both deserve more
+dialog: than we've had. You're just too
+dialog: kind and too loyal to admit it.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+speaker_heading: 113A.
+dialog: Beat.
+speaker_heading: JEAN (CONT'D)
+dialog: I will be alright.
+speaker_heading: (SHE SMILES)
+dialog: I'm turning left.
+text: She climbs onto the rickshaw.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 114.
+text: As the drumming intensifies, Douglas stands holding his
+text: suitcase, watching her weave through the traffic and out of
+dialog: sight.
+scene_heading: 174C EXT. STREET. MARIGOLD HOTEL - DAY 174C
+text: Sonny and Sunaina roar towards the hotel, drive into the
+dialog: gate and up the path...
+scene_heading: 175 EXT. STREET/COURTYARD. MARIGOLD HOTEL - DAY 175
+text: Mrs Kapoor is studying the spreadsheets.
+speaker_heading: MRS KAPOOR
+dialog: I don't know what any of these
+dialog: figures mean.
+text: Sonny and Sunaina drive into the courtyard, screech to a
+dialog: halt.
+text: They dismount.
+speaker_heading: SONNY
+dialog: Mummyji? Mummyjit
+speaker_heading: MRS KAPOOR
+dialog: Right here, you do not need to
+dialog: shout.
+speaker_heading: SONNY
+dialog: Do you remember what my father
+dialog: used to say? That nothing happens
+dialog: unless first we dream. Like him
+dialog: I have dreamt, Mummyji, and like
+dialog: him, I have failed. The Marigold
+text: Hotel is crumbling into dust.
+dialog: And it turns out I can live with
+dialog: that. But the one thing I will
+dialog: not do is live without this girl.
+dialog: To whom I did not introduce you
+dialog: properly before.
+speaker_heading: (BEAT)
+dialog: This is Sunaina Shantanu Palawat.
+dialog: The woman I love, and wish to
+dialog: marry.
+speaker_heading: SUNAINA
+dialog: I am very pleased to meet you,
+dialog: Mrs Kapoor.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 115.
+text: Sunaina puts out her hand. Mrs Kapoor will not take it.
+speaker_heading: MRS KAPOOR
+dialog: (shaking her head)
+dialog: No. I forbid it. I forbid this
+text: match. Utterly and completely.
+dialog: Do you hear me, Sonny? This
+dialog: cannot happen.
+text: And then a low, rumbling sound comes from the corner. Like
+text: a quiet volcano.
+text: Young Wasim is speaking. It's a long, poetic and heartfelt
+dialog: speech.
+dialog: Unfortunately it's in Hindi.
+speaker_heading: MADGE
+dialog: What is he saying?
+speaker_heading: MURIEL
+dialog: What he said to me, I imagine.
+text: She turns to Sunaina.
+speaker_heading: MURIEL (CON'TD)
+dialog: Can you help?
+speaker_heading: SUNAINA
+text: He is saying . he is saying
+dialog: that he has been with this family
+dialog: as long as he can remember.
+dialog: Given them a lifetime of service.
+dialog: And that he remembers another
+dialog: fight, between two young people
+dialog: and their parents. And he
+dialog: remembers the moment where the
+text: young man stood up to his mother
+speaker_heading: MRS KAPOOR
+dialog: . and said yes, I want to marry
+dialog: this woman. Yes, she is from a
+dialog: different community. But she is
+dialog: smart, she is beautiful, and I
+dialog: love her.
+dialog: Long pause.
+speaker_heading: MRS KAPOOR (cont'd)
+dialog: I don't know who he's talking
+dialog: about.
+text: She offers Sunaina her hand.
+speaker_heading: MRS KAPOOR (cont'd)
+dialog: Take care of my favourite son.
+text: Sunaina shakes her hand.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 116.
+speaker_heading: NORMAN
+dialog: So I'm not clear now. Am I
+dialog: staying or going?
+speaker_heading: MURIEL
+dialog: Depends how you read the
+dialog: accounts.
+speaker_heading: SONNY
+dialog: The accounts?
+speaker_heading: MURIEL
+dialog: Turns out the original plan is
+dialog: good, it works. Just not in the
+text: hands of an imbecile.
+speaker_heading: SONNY
+dialog: I knew that plan was good!
+speaker_heading: MURIEL
+dialog: What the place needs is more
+dialog: money.
+speaker_heading: SONNY
+dialog: Unfortunately my investor, Mr
+dialog: Maruthi has decided that while he
+dialog: greatly admires my endeavors, he
+speaker_heading: CANNOT -
+speaker_heading: MURIEL
+text: He's reconsidered.
+speaker_heading: SONNY
+dialog: You spoke to him?
+speaker_heading: MURIEL
+dialog: So long as there is someone to
+dialog: help the manager.
+speaker_heading: SONNY
+dialog: The manager needs no help.
+speaker_heading: SUNAINA
+dialog: Sonny...
+speaker_heading: SONNY
+dialog: The manager needs a little help.
+speaker_heading: MURIEL
+speaker_heading: (TO NORMAN)
+dialog: So will you stay?
+text: Norman looks at Carol.
+speaker_heading: NORMAN
+dialog: I'd like to.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 117.
+speaker_heading: CAROL
+dialog: In the shack on the roof?
+speaker_heading: NORMAN
+dialog: I sleep in the trees.
+speaker_heading: SONNY
+speaker_heading: (TO CAROL)
+dialog: We have a double room. Bathroom
+text: ensuite. And a fully working
+dialog: door.
+text: He points to Graham's room.
+speaker_heading: SONNY (CONT'D)
+text: A guest has recently checked out.
+text: Madge can't believe he just said that.
+speaker_heading: CAROL
+dialog: I'll think about it.
+speaker_heading: MURIEL
+speaker_heading: (TO MADGE)
+dialog: Mrs Hardcastle ? You're staying.
+speaker_heading: MADGE
+dialog: On my own?
+speaker_heading: MURIEL
+dialog: You're off your game. Lost your
+dialog: confidence, maybe. But you're a
+dialog: thoroughbred. You'll be back.
+text: Madge smiles.
+speaker_heading: MURIEL (CON'TD)
+dialog: And what about you, Mrs
+dialog: Greenslade?
+text: Evelyn has come down, unnoticed by all. Except Muriel.
+speaker_heading: EVELYN
+dialog: What about me, Mrs Donnelly?
+speaker_heading: MURIEL
+dialog: We haven't talked much, you and
+dialog: I.
+speaker_heading: EVELYN
+dialog: My loss, evidently.
+speaker_heading: (BEAT)
+dialog: I'm not sure what I should do.
+dialog: Nothing here has quite worked out
+dialog: as I hoped.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+speaker_heading: 117A.
+speaker_heading: MURIEL
+dialog: Most things don't. But sometimes
+dialog: what happens instead is the good
+dialog: stuff.
+speaker_heading: (BEAT)
+speaker_heading: (MORE)
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 118.
+speaker_heading: MURIEL (CONT'D)
+dialog: Haven't you got work in the
+dialog: morning?
+text: Evelyn nods.
+speaker_heading: MURIEL (CONT'D)
+dialog: Besides, he'll be back.
+speaker_heading: EVELYN
+dialog: You don't know him. He's the
+dialog: most loyal man I've ever met.
+speaker_heading: MURIEL
+dialog: 50,000 rupees says I'm right. At
+dialog: your current salary that should
+dialog: take you three months to pay off.
+text: Muriel stands up. Everybody stares. She starts to walk
+text: slowly but proudly across the courtyard. She reaches the
+text: doorway, turns back.
+speaker_heading: MURIEL
+dialog: If you'll excuse me, someone's
+dialog: waiting to help me make mango
+dialog: chutney. Why did no one tell me
+dialog: about that stuff?
+speaker_heading: MRS KAPOOR
+dialog: Who is the new assistant manager?
+speaker_heading: MURIEL
+dialog: Why? Are you thinking of
+dialog: applying for the job?
+text: She gestures for her wheelchair.
+text: Sonny rushes up with it. She sinks down.
+speaker_heading: MURIEL (CONT'D))
+dialog: That's enough exercise for one
+dialog: day.
+scene_heading: 175A EXT. AIRPORT ROAD. JAIPUR - EVENING 175A
+text: Jean sits in the rickshaw, surrounded by her luggage,
+text: carried by Ifti's strong legs towards her future.
+speaker_heading: EVELYN (V.0.)
+text: Day 51. The only real failure is
+dialog: the failure to try.
+scene_heading: 175B INT. EVELYN'S ROOM, MARIGOLD HOTEL - EVENING 175B
+text: Evelyn is at her computer typing.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 119.
+speaker_heading: EVELYN (V.0.)
+dialog: And the measure of success is how
+dialog: we cope with disappointment. As
+dialog: we always must.
+scene_heading: 175C EXT. STREET, CENTRAL JAIPUR - NIGHT 175C
+text: Douglas, still holding his suitcase, is surrounded by
+text: Ganeshi drummers, silhouetted against the lights of the
+dialog: city.
+text: The sound fades as he disappears into the celebration, and
+text: is replaced by the gentle sound of temple bells, ringing
+dialog: for morning prayers.
+speaker_heading: EVELYN (V.0.)
+dialog: We came here, and we tried. All
+dialog: of us, in our different ways.
+scene_heading: 176 INT. EVELYN'S ROOM, MARIGOLD HOTEL - MORNING 176
+text: Evelyn is still sitting, fully dressed in her room. She's
+dialog: been up all night.
+text: Her alarm clock buzzes. She turns it off.
+scene_heading: 177 EXT. EVELYN'S TERRACE, MARIGOLD HOTEL - MORNING 177
+text: Evelyn comes out of her room, walks across the terrace.
+scene_heading: 178 EXT. COURTYARD, MARIGOLD HOTEL - MORNING 178
+speaker_heading: EVELYN (V.0.)
+dialog: Some achieved more than others.
+dialog: but we did our best. Nothing
+dialog: else matters.
+text: Evelyn walks through the courtyard, and on out of the
+dialog: hotel.
+scene_heading: 179 EXT. GARDEN/PATHWAY, MARIGOLD HOTEL - MORNING 179
+text: Evelyn walks down the path towards the street.
+text: Then Douglas comes through the gate, with his suitcase.
+text: They stand there, looking at each other for a moment.
+speaker_heading: EVELYN
+dialog: Good morning.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 120.
+speaker_heading: DOUGLAS
+dialog: It is, isn't it?
+speaker_heading: EVELYN
+dialog: You're still here.
+speaker_heading: DOUGLAS
+dialog: I missed the plane.
+speaker_heading: EVELYN
+dialog: What about Jean?
+speaker_heading: DOUGLAS
+dialog: She didn't.
+dialog: Beat.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: (putting down his
+speaker_heading: SUITCASE)
+dialog: I had quite an interesting night,
+dialog: actually. I met the same taxi
+dialog: driver, but this time I let him
+dialog: take me to his brother's hotel.
+dialog: Which turned out to be less of a
+text: hotel, and more of a brothel,
+dialog: really. They gave me this pipe,
+dialog: said it was apple tobacco, but
+dialog: that's not what we called it when
+dialog: I was a student. So I made my
+dialog: excuses and left, wanted some
+dialog: time to think. This city at
+dialog: night is extraordinary.
+speaker_heading: (BEAT)
+dialog: Of course the apple tobacco
+dialog: helped.
+speaker_heading: (BEAT)
+dialog: Guess what? I finally saw an
+dialog: elephant.
+dialog: Silence for a bit.
+speaker_heading: EVELYN
+dialog: I'm late for work.
+text: She goes past him.
+speaker_heading: DOUGLAS
+dialog: Um ...
+text: She stops, turns.
+speaker_heading: DOUGLAS (CONT'D)
+dialog: What time do you finish?
+speaker_heading: EVELYN
+dialog: I get back about 5.
+speaker_heading: DOUGLAS
+dialog: Tea time.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 121.
+speaker_heading: EVELYN
+dialog: Yes.
+speaker_heading: DOUGLAS
+dialog: How do you take it?
+speaker_heading: EVELYN
+text: With a little milk.
+text: She turns and walks away.
+text: She's smiling.
+scene_heading: 180 EXT. MARKET, JAIPUR - DAY 180
+speaker_heading: EVELYN (V.0.)
+dialog: Perhaps it's true: we don't stop
+dialog: playing because we grow old, we
+dialog: grow old because we stop playing.
+text: Douglas is haggling with a motorbike mechanic. He seems to
+dialog: be having more success with the price than in earlier days.
+scene_heading: 180A EXT. ROOFTOP, MARIGOLD HOTEL - DAY 180A
+text: Carol is lying on Norman's bed, reading a book, while he
+text: washes his socks in a bucket.
+speaker_heading: EVELYN (V.0.) (CONT'D)
+dialog: All we really know about the
+dialog: future is that it will be
+dialog: different.
+scene_heading: 181 EXT. VICEROY CLUB. JAIPUR - DAY 181
+text: Madge is chatting vivaciously to someone. It's the elegant
+text: older man we saw earlier. And he seems utterly smitten.
+speaker_heading: EVELYN (V.0.) (CONT'D)
+dialog: So we must celebrate the changes.
+scene_heading: 182 EXT. STREET. JAIPUR - DAY 182
+text: Sonny and Sunaina race through the streets on his
+text: motorbike. Sonny raises a fist in salute.
+speaker_heading: EVELYN (V.0.)
+dialog: Let them come. Bring them on.
+dialog: Because as someone once said,
+dialog: everything will be alright in the
+dialog: end ...
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+text: Coming from the other direction, another motorbike, Douglas
+text: at the handlebars, returning Sonny's greeting.
+text: And on the pillion seat, riding side-saddle, her scarf
+text: flying in the breeze, is Evelyn, on her way home from work.
+speaker_heading: EVELYN (V.0.) (cont'd)
+dialog: So if it's really not alright,
+dialog: then trust me: it's not yet the
+dialog: end.
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 

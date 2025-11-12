@@ -1,0 +1,3459 @@
+dialog: April 18, 1999
+dialog: “IF |HAD A HAMMER"
+dialog: By
+dialog: Josh Becker
+speaker_heading: ACT ONE:
+text: FRONT TITLES: The front title sequence is over a STOCK FOOTAGE montage of the
+text: big news events of 1958 through early 1964 set to The Weavers’ version of “If | Had a
+text: Hammer”: Elvis Presley, wearing an army uniform, waves as he boards an airplane for
+text: Germany; U.S. troops are shipped to Vietnam where fighting has begun in earnest;
+text: Chuck Berry is indicted for tax evasion; Little Richard quits music to become an
+text: ordained Seventh Day Adventist minister; Martin Luther King delivers his “I have a
+text: dream” speech to a Washington, D.C. civil rights rally; students hold a sit-in at a
+text: university; John and Jackie Kennedy sit in the back-seat of the presidential Lincoln-
+text: Continental cruising down the streets of Dallas; Jack Ruby shoots Lee Harvey Oswald;
+text: LBJ is sworn in as president; the Beatles arrive in America...
+speaker_heading: DISSOLVE:
+text: A title reads: “Saturday, February 8th, 1964.”
+scene_heading: EXT. “STUDENTS FOR POLITICAL ACTION” OFFICE — DAY
+text: The “Students For Political Action” office is a small storefront located in a downtown
+text: area. Poor, inner-city people fill the streets. A 21-year old beatnik boy named MAX,
+text: with a goatee and a beret, steps up to the front door, pulls out a key, goes to insert it
+text: into the lock and the door swings open. Max finds this somewhat surprising and enters.
+scene_heading: INT. “STUDENTS FOR POLITICAL ACTION” OFFICE — DAY
+text: Max steps into the ratty interior of the office—old and broken office furniture, torn easy
+text: chairs with stuffing hanging out, a torn, yellowing poster on the wall announcing The
+text: Weavers reunion concert at Carnagie Hall—and he finds the air full of cigarette smoke,
+text: which he waves away from his face. Max turns on the light.
+text: In the very back of the office is LORRAINE DEMPSEY, an attractive, intense 19-year
+text: old girl with a short, boyish haircut, wearing a plaid skirt and a sweater. She cranks a
+text: mimeograph machine which on each revolution spits out a yellow flyer stating in big
+text: bold letters, “Free the Springfield Five!! Emergency Meeting Sunday at 8:00 P.M.”
+text: Lorraine sees Max and blinks, a smoldering cigarette butt dangling from her lips.
+speaker_heading: MAX
+dialog: Lorraine, you're still here? That’s exactly where |
+dialog: left you last night.
+text: Lorraine squints through the smoke wafting up into her eyes.
+speaker_heading: LORRAINE
+dialog: I’m ready, Max. Nothing can stop me now.
+speaker_heading: MAX
+dialog: You need to go to sleep.
+speaker_heading: LORRAINE
+dialog: (waves her hand)
+dialog: Nah! | slept all the time when | was young.
+dialog: (points)
+dialog: I’ve made 500 flyers, you think that’s enough?
+speaker_heading: MAX
+dialog: | should think so.
+speaker_heading: LORRAINE
+dialog: And you'll help me hand them out?
+speaker_heading: MAX
+dialog: That's why I’m here.
+speaker_heading: LORRAINE
+dialog: Good. Y’know, Max, as I’ve stood here all night
+dialog: cranking this machine, it came to me that we’re
+text: standing at a crossroads.
+speaker_heading: MAX
+dialog: A crossroads to what?
+speaker_heading: LORRAINE
+dialog: To anew age.
+speaker_heading: MAX
+dialog: That's what they were all saying about Kennedy
+dialog: and Camelot and all that, but look what happened.
+speaker_heading: LORRAINE
+dialog: It's bigger than that.
+speaker_heading: MAX
+dialog: Yeah, | think you’ve been up too long.
+speaker_heading: LORRAINE
+dialog: Hopefully, it will be a time when stuff like this . . .
+dialog: (waves flyers)
+dialog: . .. won't happen anymore. | mean, if we don’t do
+dialog: something right away these five boys will spend the
+text: rest of their young lives in jail.
+speaker_heading: MAX
+dialog: Hey, you don’t have to convince me. But their pre-trial
+dialog: hearing is Monday. If they go in there with some cracker,
+dialog: redneck, court-appointed attorney, they'll get life for sure.
+speaker_heading: LORRAINE
+dialog: | know! This could well be their last chance. That’s
+dialog: why it’s so important and that’s why I’m so nervous.
+dialog: This is the first important political action that I’ve
+dialog: personally organized. People just have to show up.
+speaker_heading: MAX
+dialog: I'll be there.
+speaker_heading: LORRAINE
+dialog: | mean, real people?
+speaker_heading: MAX
+dialog: Gosh, thanks a lot.
+dialog: (Lorraine smiles)
+dialog: Look, it’s an important cause, why wouldn’t they
+dialog: show up?
+speaker_heading: LORRAINE
+dialog: (thinks)
+dialog: Um... to make me look bad?
+speaker_heading: MAX
+dialog: Make you look bad to whom, if | may ask?
+speaker_heading: LORRAINE
+dialog: Myself.
+speaker_heading: MAX
+dialog: Is that what this is all about, Lorraine? Looking good?
+speaker_heading: LORRAINE
+dialog: No, not at all. It’s entirely about those five boys and
+dialog: the injustice that’s being done to them. | mean, if |
+dialog: don’t do something about it why should | expect
+dialog: anyone else to do anything, right?
+speaker_heading: MAX
+dialog: Right.
+speaker_heading: LORRAINE
+dialog: We all have to draw a line somewhere and say, “If you
+dialog: go beyond that line you have to deal with me, too.” At
+dialog: least, that’s what | think.
+speaker_heading: MAX
+dialog: Right. Me, too. You could always just tackle people
+text: out in the street and drag ‘em in kicking and screaming.
+speaker_heading: LORRAINE
+dialog: | might yet.
+speaker_heading: MAX
+dialog: | bet you would, too. But why do you do this,
+dialog: Lorraine, staying up all night, burning it at both ends?
+speaker_heading: LORRAINE
+dialog: Someone’s got to, right?
+speaker_heading: MAX
+dialog: Do they? Why?
+speaker_heading: LORRAINE
+dialog: Because if nobody cares the whole world will go to
+dialog: hell.
+speaker_heading: MAX
+dialog: But, Lorraine, you can’t save the whole world.
+speaker_heading: LORRAINE
+dialog: No, but | can try. And step one is getting everyone
+dialog: to care about this issue, the Springfield Five.
+speaker_heading: MAX
+dialog: But you can’t actually make anyone else care about
+dialog: something, Lorraine. Not really.
+speaker_heading: LORRAINE
+dialog: Oh, sure you can. These are old, time-worn techniques
+dialog: used by the wobblies before the war. But getting to
+dialog: a whole group at once, that’s the trick. That's where
+dialog: songs come in.
+speaker_heading: MAX
+dialog: (skeptical)
+dialog: Yeah, but even songs won’t make someone care
+dialog: if they don't.
+speaker_heading: LORRAINE
+dialog: If it's the right song being sung the right way.
+speaker_heading: MAX
+dialog: | don’t think that’s true.
+speaker_heading: LORRAINE
+dialog: (off-handed)
+dialog: Sure it is. Deep down | honestly think that people
+dialog: really want to do what's right and actually do care,
+dialog: they just need a little push in the right direction to get
+dialog: them going, and that’s where | come in.
+text: Lorraine reaches into her sweater pocket and pulls out a pack of cigarettes, which she
+text: finds empty and crumples.
+speaker_heading: LORRAINE
+dialog: Gotta smoke?
+speaker_heading: MAX
+dialog: No. You're an idealist, Lorraine.
+speaker_heading: LORRAINE
+dialog: I'm more than idealist, Max, I’m an instrument of
+dialog: God.
+text: Lorraine checks out the overflowing ashtray and spots a long butt. She straightens it
+text: out and lights it, then takes a sip of coffee. She winces and sticks out her tongue.
+speaker_heading: LORRAINE
+dialog: Blah! How can coffee get colder than the room
+dialog: it’s in?
+speaker_heading: MAX
+dialog: | don’t know. You going to the Purple Onion tonight?
+speaker_heading: LORRAINE
+dialog: Oh yeah, sure. Got to.
+text: (she waves a pile of flyers)
+dialog: | have to get every single person at the Purple Onion
+dialog: tonight to come to my meeting Sunday. Those people
+dialog: are what | have to work with; they're my building
+dialog: materials and this meeting is my testing ground. If
+dialog: | have to yell and scream, I'll do it. If | have to
+dialog: whisper and sing songs, I'll do that.
+speaker_heading: MAX
+dialog: And you dig it.
+speaker_heading: LORRAINE
+dialog: Yeah, yeah, that, too.
+dialog: (snaps her fingers)
+dialog: That reminds me, have you got an extra guitar
+dialog: pick?
+speaker_heading: MAX
+dialog: Not here. You can always use a matchbook.
+speaker_heading: LORRAINE
+dialog: They shred. That’s OK, I'll swing by the music
+dialog: store.
+text: Lorraine sits down and puts on her shoes. Max checks out her legs as she does this.
+dialog: Suddenly...
+speaker_heading: MAX
+dialog: Lorraine, you drive me crazy! Why won't you
+dialog: go out with me?
+speaker_heading: LORRAINE
+dialog: Look, Max, you’re my friend. Let’s leave it at
+dialog: that, OK?
+speaker_heading: MAX
+dialog: (frustrated)
+dialog: But | don’t want to leave it at that.
+speaker_heading: LORRAINE
+dialog: If there was something here, Max, we’d know about
+dialog: it by now, right?
+speaker_heading: MAX
+dialog: ! know about it.
+speaker_heading: LORRAINE
+dialog: (shrugs)
+text: It takes two to tango.
+speaker_heading: MAX
+dialog: But what can | do, Lorraine?
+text: Lorraine smiles and hands Max a thick pile of flyers.
+speaker_heading: LORRAINE
+dialog: Here. Hand these out. See ya later, alligator.
+text: Lorraine walks out of the office and Max watches her go, groaning audibly after she’s
+dialog: left.
+scene_heading: EXT. “STUDENTS FOR POLITICAL ACTION” OFFICE — DAY
+text: Lorraine exits the office and strides up the street immediately attempting to hand out
+text: flyers.
+speaker_heading: LORRAINE
+dialog: Demand justice now! Free the Springfield Five!
+text: Most people take the flyers that are offered to them, although many immediately
+text: discard them, some right on the street. When Lorraine sees this she goes over and
+text: picks the flyer back up.
+speaker_heading: LORRAINE
+dialog: (to herself)
+dialog: Slob!
+speaker_heading: DISSOLVE:
+scene_heading: EXT. THE BUCKLEY HOUSE — DAY
+dialog: 8
+text: This is a small house in a neighborhood of nearly identical homes. Big leafy trees line
+text: the shady street. A red 1960 Ford Falcon sits in the driveway. The distinctive sound of
+text: the Three Stooges playing on TV can be heard from within. A car pulls up in front of
+dialog: the house.
+scene_heading: INT. THE BUCKLEY HOUSE/LIVING ROOM — DAY
+text: DAN BUCKLEY, a 14-year old wearing a Boy Scout uniform, sits watching the Three
+text: Stooges on TV and laughing. The doorbell rings. Dan dashes over and opens the
+text: door. Two other 14-year old boys in Boy Scout uniforms come bursting in and they all
+text: begin talking at once. Dan and his pals leave.
+text: MR. BUCKLEY and MRS. BUCKLEY enter the living room. Phil’s Dad is wearing a
+text: bowling shirt and holds a bowling ball up in front of his face.
+scene_heading: MRS. BUCKLEY
+dialog: Be careful with that in the house.
+scene_heading: MR. BUCKLEY
+dialog: Hon, please, I’ve got to get in the proper frame
+dialog: of mind, OK?
+dialog: (chuckles)
+dialog: Get it, “frame” of mind? Bowling. Frame
+scene_heading: MRS. BUCKLEY
+dialog: That's great, dear, you’re another Red Skelton.
+scene_heading: MR. BUCKLEY
+text: (imitates Red Skelton’s lisp)
+dialog: Good night and God blesh.
+dialog: (looks around)
+dialog: Where's Phil?
+scene_heading: MRS. BUCKLEY
+dialog: (shakes her head)
+text: Still in bed.
+text: Mr. Buckley looks at his watch and frowns.
+scene_heading: MR. BUCKLEY
+dialog: It’s after ten, what’s with him?
+scene_heading: MRS. BUCKLEY
+dialog: You tell me. Ever since he graduated high school
+dialog: and started work, he’s changed. He just doesn’t
+dialog: seem to give a damn about anything anymore. |
+dialog: don’t know what to do with him.
+text: Mr. Buckley considers this for a moment, then exits the living room.
+scene_heading: INT. HALLWAY OUTSIDE PHIL’S ROOM — DAY
+text: Phil’s Dad steps up to a closed bedroom door, tries the doorknob and finds it locked.
+scene_heading: MR. BUCKLEY
+dialog: Phil? You up?
+speaker_heading: PHIL (O.S.)
+dialog: Yeah.
+scene_heading: MR. BUCKLEY
+dialog: Aren't you supposed to be at work?
+speaker_heading: PHIL (O.S.)
+dialog: | got the day off.
+scene_heading: MR. BUCKLEY
+dialog: How come?
+speaker_heading: PHIL (O.S.)
+dialog: It just happens that way sometimes.
+scene_heading: MR. BUCKLEY
+dialog: Huh. Well, why don’t you get out of bed.
+speaker_heading: PHIL (O.S.)
+dialog: Why? What's the difference?
+text: Mrs. Buckley steps up beside her husband.
+scene_heading: MR. BUCKLEY
+dialog: Because it’s a beautiful day.
+speaker_heading: PHIL (O.S.)
+dialog: It's a beautiful day here in my bed, too.
+scene_heading: MR. BUCKLEY
+dialog: | don’t like this behavior, Phil.
+speaker_heading: PHIL (O.S.)
+dialog: 10
+dialog: Yeah?
+scene_heading: MR. BUCKLEY
+dialog: Yeah. So get your ass out of bed!
+speaker_heading: PHIL (O.S.)
+dialog: Yeah, yeah, | will.
+scene_heading: MR. BUCKLEY
+dialog: Do it soon.
+speaker_heading: PHIL (O.S.)
+dialog: All right. OK.
+scene_heading: MR. BUCKLEY
+dialog: (shrugs)
+dialog: Y’know, Phil, if you waste this day, you'll never
+dialog: get it back.
+speaker_heading: PHIL (O.S.)
+dialog: Yeah? Big deal.
+scene_heading: MRS. BUCKLEY
+dialog: (to her husband)
+dialog: You see?
+scene_heading: MR. BUCKLEY
+dialog: Yeah, | see.
+scene_heading: MRS. BUCKLEY
+dialog: What can we do?
+scene_heading: MR. BUCKLEY
+dialog: How the hell am | supposed to know?
+dialog: (he kisses his wife)
+dialog: | gotta go. See ya.
+dialog: 
+scene_heading: MRS. BUCKLEY
+dialog: Bye.
+text: Phil’s Dad and Mom exit and we stay on Phil’s closed bedroom door.
+scene_heading: INT. PHIL’S BEDROOM - DAY
+text: PHIL BUCKLEY, a tall, handsome, eighteen-year old boy with a crewcut, lies in bed in
+dialog: 11
+text: his boxer shorts smoking a cigarette. Phil wears a can opener on a shoelace around
+text: his neck. The ashtray beside his bed is overflowing with smashed butts. Phil smokes
+text: languidly, the smoke drifting up from his nose. There are ashes on his chest, but he
+text: doesn’t notice.
+text: Phil reaches under the bed and comes out with a can of beer. He opens it with his can
+text: opener, guzzles, winces, grins and belches.
+text: Phil glances over at the wall beside him. There are many photos of Elvis cut from
+text: magazines, as well as pictures of Tuesday Weld, Chuck Berry, Bobby Darin and Mickey
+text: Mantle. Phil suddenly sits up, reaches over and grabs an acoustic guitar that’s leaning
+text: against the wall and begins strumming it.
+text: Phil plays a variety of tunes and rhythms in a half-assed fashion, but nothing sounds
+text: very good. He glances over at a book on his desk, “Beginning Guitar.” Phil opens the
+text: book and begins to play. He’s doing OK until he attempts to make a specific chord and,
+text: sadly, his fingers don’t want to stretch that way.
+speaker_heading: PHIL
+dialog: Ouch!
+text: Phil shuts the book. He walks over to his dresser, steps in front of the mirror, crosses
+text: his arms, lowers his chin and proceeds to do a poor Ed Sullivan imitation.
+speaker_heading: PHIL
+dialog: Tonight we have a really big shew. | mean,
+dialog: a really, really big shew. Let's all give a very
+dialog: warm welcome to the talented, amazing, one-
+dialog: of-a-kind Phil Buckley!
+text: (he imitates the fans cheering;
+text: smiling humbly he picks up his
+text: guitar and imitates Elvis)
+dialog: Thank you. Thank you very much. I'd like
+dialog: to play my newest song which has been
+dialog: (continued)
+speaker_heading: PHIL (cont.)
+dialog: number-one on the hit parade for over three
+dialog: months...
+text: Phil sits down on the bed, strums his guitar, but still isn’t getting the sound he wants.
+text: He thinks for a second, then puts down the guitar and digs through one of his dresser
+text: drawers. He comes up with a cheap old microphone with a strange, multi-pronged plug
+text: on the end. Phil considers this situation for a moment, then produces a Boy Scout knife
+text: and deftly cuts off the plug. He then splits the wire and shaves off the insulation.
+dialog: 12
+text: Phil takes the mike over to his record player and connects the bare wires to the back of
+text: the amplifier. Suddenly, feedback fills the room. Phil’s eyes light up.
+speaker_heading: PHIL
+dialog: Boss!
+text: He moves the mike away from the amp, then blows into it and hears his amplified
+text: breath through his speakers. Phil takes the microphone and shoves it into the hole of
+text: his guitar and presto! It’s electric! Now he really starts to rock and it’s clear that Phil is
+text: not particularly talented, simply enthusiastic. He does the Chuck Berry duck-walk
+text: across his room, guitar wailing.
+scene_heading: INT. KITCHEN — DAY
+text: Phil’s Mom is doing the dishes. She hears the strange, electronic noise and looks all
+dialog: around.
+scene_heading: MRS. BUCKLEY
+dialog: What on Earth?
+scene_heading: INT. PHIL’S BEDROOM — DAY
+dialog: Phil’s a rock & roll maniac playing to thousands of adoring fans and everything's terrific
+text: until — sproing! — one of his guitar strings breaks. Phil frowns, setting down his guitar.
+text: He scrutinizes the money on his dresser — he has one dollar to his name.
+text: Nevertheless, a guitar with a broken string seems like a fairly useless item. Phil stands
+text: up, finally motivated to do something. He puts his guitar in it’s battered old case and
+text: begins putting on his clothes.
+speaker_heading: DISSOLVE:
+scene_heading: EXT. CITY STREETS — DAY
+text: Phil walks along the street carrying his guitar case. Phil isn’t paying any attention to
+text: anything going on around him. He’s got a tune in his head and a vague, amused look
+text: on his face. He occasionally makes an Elvis Presley-style hip gyration accompanied by
+text: a grunt and we realize that Phil’s still on The Ed Sullivan Show in his head. He adds
+text: the crowd reaction sounds, cheering and laughing.
+text: The beatnik kid MAX from the “Students for Political Action” office offers Phil a flyer.
+speaker_heading: MAX
+dialog: Free the Springfield Five! Let justice be done,
+dialog: 13
+text: man. Meeting on Sunday at the Purple Onion.
+text: Phil waves it away entirely uninterested.
+speaker_heading: PHIL
+dialog: No thanks.
+scene_heading: INT. MUSIC STORE — DAY
+text: This is the all-purpose variety of music store that sells most every sort of instrument and
+text: all the accessories. Lorraine stands before a large variety of guitar picks holding her
+text: guitar and deliberates. She chooses a pick, checks its thickness, then drops it back in
+text: its bin. Finally, Lorraine makes her decision, chooses a pick, then steps over to the
+text: counter and pays the portly, middle-aged CLERK a quarter.
+text: Lorraine strolls over to the sheet music. She flips through until she finds something she
+text: likes and pulls it out—it’s Woody Guthrie’s song “This Land is Your Land.” Lorraine
+text: plays the first several chords, humming the tune. Something else catches her attention
+text: and she walks to another part of the store, stepping behind a big display case filled with
+text: woodwind instruments.
+text: Just then Phil steps up in front of the woodwind case, then crosses to the acoustic
+text: guitar section where Lorraine just stood. He finds the guitar string he needs and it costs
+text: fifty cents, half of his accumulated wealth. Phil resigns himself to this inevitability and
+text: replaces his broken string. He sees the portly Clerk watching him and smiles at the
+text: guy. The Clerk smiles back.
+text: Lorraine hands a yellow flyer to an OLD BLACK WOMAN, who puts on her glasses and
+text: looks at it with interest.
+text: Now Phil attempts to tune his guitar. He does a rather half-assed job, shrugs—that’s
+text: good enough—then spots the open sheet music in front of him of “This Land is Your
+text: Land.” Phil concentrates deeply, furrowing his brow, and painfully strums and sings the
+text: first few chords of the song.
+speaker_heading: PHIL
+dialog: (singing)
+dialog: This land is your land
+dialog: This land is my land
+dialog: From California
+dialog: To the New York Island
+dialog: From the redwood forests
+dialog: To the Gulf stream waters
+dialog: This land was made for you and me—
+dialog: 14
+text: Lorraine steps up from behind and proclaims. . .
+speaker_heading: LORRAINE
+dialog: I love this song!
+text: Phil turns around and checks Lorraine out. He smiles his coolest smile.
+speaker_heading: PHIL
+dialog: Really? No kidding? Me, too.
+speaker_heading: LORRAINE
+dialog: (excited)
+dialog: Really? Come on, let’s play it together.
+text: Lorraine begins playing the song and Phil very hesitantly follows along, glancing
+text: frequently at the lyrics.
+speaker_heading: LORRAINE & PHIL
+dialog: (singing)
+dialog: As | went walking
+dialog: That ribbon of highway
+dialog: | saw above me
+dialog: That endless skyway
+dialog: | saw below me
+dialog: That golden valley
+dialog: This land was made for you and me
+dialog: (continued)
+speaker_heading: LORRAINE & PHIL (cont.)
+dialog: This land is your land
+dialog: This land is my land
+dialog: From California
+dialog: To the New York Island
+dialog: From the redwood forests
+dialog: To the Gulf stream waters
+dialog: This land was made for you and me
+dialog: | roamed and rambled
+dialog: And | followed my footsteps
+dialog: To the sparkling sands
+dialog: Of her diamond deserts
+dialog: While all around me
+dialog: 15
+text: A voice was sounding, sayin’,
+dialog: This land was made for you and me
+text: The sun came shining
+dialog: And | was strolling
+dialog: And the wheat fields waving
+text: And the dust clouds rolling
+dialog: As the fog was lifting
+text: A voice was chanting
+dialog: This land was made for you and me
+text: Suddenly, everybody in the store, including the old black woman and the clerk, joins in
+dialog: for the finale.
+speaker_heading: EVERYBODY
+dialog: This land is your land
+dialog: This land is my land
+dialog: From California
+dialog: To the New York Island
+dialog: From the redwood forests
+dialog: To the Gulf stream waters
+dialog: This land was made for you and me
+dialog: This land was made for you and me
+text: Everybody laughs, then returns to their business. Lorraine turns to Phil.
+speaker_heading: LORRAINE
+dialog: Wow! Did you see the way the music draws
+dialog: people in? It’s fantastic.
+speaker_heading: PHIL
+dialog: Yeah, it sure is. So, you like music, eh?
+speaker_heading: LORRAINE
+dialog: Yes, very much. Do you?
+speaker_heading: PHIL
+dialog: Oh, yeah. Uh, my name’s Phil, what’s yours?
+speaker_heading: LORRAINE
+dialog: Lorraine.
+text: (he puts out his hand to shake
+text: and she hands him a yellow flyer)
+dialog: There’s a really important meeting tomorrow
+text: night for the Springfield Five.
+dialog: 16
+text: Phil takes the flyer looking confused.
+speaker_heading: PHIL
+dialog: Is that a new band?
+speaker_heading: LORRAINE
+dialog: No! Don’t you read the newspaper?
+speaker_heading: PHIL
+dialog: Sure, but | must've missed it.
+speaker_heading: LORRAINE
+dialog: It's been the headline for the last week.
+speaker_heading: PHIL
+dialog: The neighbor’s dog grabs our paper all the time
+text: and chews it up. What’s going on?
+speaker_heading: LORRAINE
+dialog: The Springfield Five are five colored boys that were
+text: arrested for no good reason as they were driving
+dialog: down south to a civil rights rally. We're trying to
+dialog: get them out of jail.
+speaker_heading: PHIL
+dialog: Oh. OK. Tomorrow night, huh?
+speaker_heading: LORRAINE
+text: At 8:00.
+speaker_heading: PHIL
+dialog: (frowns)
+dialog: But tomorrow's Sunday, y’know.
+speaker_heading: LORRAINE
+dialog: Yeah? So?
+speaker_heading: PHIL
+text: So, Ed Sullivan’s on Sunday at eight.
+text: Lorraine grimaces with disdain.
+speaker_heading: LORRAINE
+dialog: 17
+dialog: Oh, that’s too bad. I’m talking about real
+dialog: problems in the real world here.
+speaker_heading: PHIL
+dialog: | know, I’m just telling you that that’s not a good
+dialog: time for a meeting.
+text: Lorraine looks stricken.
+speaker_heading: LORRAINE
+dialog: You think? | printed 500 flyers.
+speaker_heading: PHIL
+dialog: (shrugs)
+dialog: It may not mean anything, y'know, maybe he
+dialog: hasn’t got anyone good on the show this week.
+text: Lorraine suddenly looks like she’s got a headache. She reaches into her sweater
+text: pocket and finds it empty.
+speaker_heading: LORRAINE
+dialog: Have you got a cigarette?
+speaker_heading: PHIL
+dialog: Sure. Wanna get a cup of coffee to go with it?
+text: Lorraine looks him up and down.
+speaker_heading: LORRAINE
+dialog: (grins)
+dialog: OK. Caffeine and nicotine are my favorite food
+dialog: groups.
+speaker_heading: PHIL
+dialog: Don’t forget beer, it’s just like liquid bread.
+text: Lorraine laughs and she and Phil exit.
+scene_heading: INT. COFFEE HOUSE — DAY
+text: Phil and Lorraine both drink mugs of coffee and smoke cigarettes.
+speaker_heading: LORRAINE
+dialog: Well, | worked for a while at a crisis phone line,
+dialog: 18
+dialog: but | got really tired sitting up all night listening
+text: to drug addicts moan about not scoring and
+dialog: pretending to be a marriage counselor. | didn’t
+dialog: really feel like | was part of the fight.
+speaker_heading: PHIL
+text: (Phil nods, mesmerized)
+dialog: Right.
+text: Lorraine really looks at Phil.
+speaker_heading: LORRAINE
+dialog: Do you know what | mean?
+speaker_heading: PHIL
+dialog: Sure.
+speaker_heading: LORRAINE
+dialog: Really?
+speaker_heading: PHIL
+dialog: (shrugs)
+dialog: No, not really.
+speaker_heading: LORRAINE
+dialog: Haven't you ever had a feeling of pure empathy?
+speaker_heading: PHIL
+dialog: (thinks, then shakes
+dialog: his head)
+dialog: I'm not sure. What's empathy?
+speaker_heading: LORRAINE
+dialog: It’s like sympathy, only you don’t feel bad for
+dialog: someone, you feel bad with them.
+dialog: (Phil digests this)
+dialog: Haven't you ever felt that way?
+speaker_heading: PHIL
+dialog: Oh, yeah. “Lassie” does that to me almost every
+dialog: week.
+speaker_heading: LORRAINE
+dialog: (shakes her head)
+dialog: TV again! Jesus!
+dialog: 19
+speaker_heading: PHIL
+dialog: You don’t like TV?
+speaker_heading: LORRAINE
+dialog: No, | don’t. | think it makes people apathetic.
+speaker_heading: PHIL
+dialog: It’s just entertainment.
+speaker_heading: LORRAINE
+dialog: And some entertainment has value. But mindless
+dialog: entertainment is useless. What are some of your
+dialog: interests?
+speaker_heading: PHIL
+dialog: (shrugs)
+dialog: Me? Oh, well, | have a wide range of interests.
+speaker_heading: LORRAINE
+dialog: (nods)
+dialog: Really? Like what?
+text: Phil suddenly feels cornered.
+speaker_heading: PHIL
+dialog: Well, like everything.
+speaker_heading: LORRAINE
+dialog: (skeptical)
+dialog: Everything, huh? Interested in paleontology?
+speaker_heading: PHIL
+dialog: Do you know very much about paleontology?
+speaker_heading: LORRAINE
+dialog: (smiles)
+dialog: No.
+speaker_heading: PHIL
+dialog: (grins)
+dialog: I’m the foremost authority.
+speaker_heading: LORRAINE
+dialog: 20
+dialog: OK. So, what's your favorite subject?
+speaker_heading: PHIL
+dialog: You mean like in school?
+speaker_heading: LORRAINE
+dialog: No, | mean like in life.
+speaker_heading: PHIL
+dialog: Oh, that. Well...uh... music, | guess.
+speaker_heading: LORRAINE
+dialog: You sure don’t sound convinced.
+speaker_heading: PHIL
+dialog: No, | am. Music. Definitely. | wanna be a
+dialog: musician.
+speaker_heading: LORRAINE
+dialog: (surprised)
+dialog: Really?
+speaker_heading: PHIL
+dialog: Yeah.
+speaker_heading: LORRAINE
+dialog: You know, it’s really hard to be a musician.
+dialog: | take guitar lessons twice a week and that’s
+dialog: not nearly enough.
+speaker_heading: PHIL
+dialog: (skeptical)
+dialog: Well... It all depends on what you're after,
+dialog: right?
+speaker_heading: LORRAINE
+dialog: (confused)
+dialog: What do you mean?
+speaker_heading: PHIL
+dialog: Well, that’s if you want to be, say, a good or
+dialog: great musician.
+speaker_heading: LORRAINE
+dialog: (nods)
+dialog: 21
+dialog: Right.
+speaker_heading: PHIL
+dialog: Well, Bobby Darin doesn’t really have a great
+dialog: voice, but he’s a very successful singer. Or what
+dialog: about Bob Dylan? He can’t sing at all.
+speaker_heading: LORRAINE
+dialog: Yeah, but he’s a great song writer.
+text: Phil waves his hand in total deprecation.
+speaker_heading: PHIL
+dialog: You can hire guys to do that.
+speaker_heading: LORRAINE
+dialog: Yeah, so...?
+speaker_heading: PHIL
+dialog: So, you don’t necessarily have to be good to
+dialog: be famous. Look at Dean Martin.
+text: Lorraine consider this for a second, then dismisses the whole thing.
+speaker_heading: LORRAINE
+dialog: That's silly. Of course you do. What are you
+dialog: talking about? If it’s not their musical ability then
+dialog: it’s their presentation. It’s gotta be something.
+dialog: (Phil nods, good point;
+dialog: Lorraine remembers)
+dialog: Oh, y’know, tonight’s Hootenanny night at
+dialog: the Purple Onion, you have to come.
+speaker_heading: PHIL
+dialog: (confused)
+dialog: Hootenanny? Is that like when you square-
+dialog: dance and stuff?
+speaker_heading: LORRAINE
+dialog: (laughs)
+dialog: No. Hootenanny night means that it’s open
+dialog: microphone for anyone that wants to get up
+dialog: and sing or play or read a poem or do anything.
+speaker_heading: PHIL
+dialog: 22
+dialog: (nods)
+dialog: Will you be there?
+speaker_heading: LORRAINE
+dialog: (smiles and nods)
+dialog: Yes, | will. I’m going to sing a song tonight.
+dialog: You really should come, | mean, if you actually
+dialog: want to be a musician and all.
+speaker_heading: PHIL
+dialog: Right. | do. And | will.
+text: Lorraine suddenly stands.
+speaker_heading: LORRAINE
+dialog: I’ve gotta go. So, will | see you tonight at the
+dialog: Purple Onion?
+speaker_heading: PHIL
+dialog: Sure. Absolutely.
+speaker_heading: LORRAINE
+dialog: (smiles)
+dialog: Great. Will you sing a song?
+speaker_heading: PHIL
+dialog: (shrugs)
+dialog: Do | have to?
+speaker_heading: LORRAINE
+dialog: No, you don’t have to do anything you don’t
+dialog: want to do. None of these people are professionals,
+dialog: it’s just a hootenanny. But let’s face it, Phil, if you
+dialog: can’t sing at a hootenanny you'll never be famous
+dialog: as a musician.
+speaker_heading: PHIL
+dialog: (nods)
+dialog: Right.
+speaker_heading: LORRAINE
+dialog: (smiles)
+dialog: OK. See ya there if you’re there.
+dialog: 23
+speaker_heading: PHIL
+dialog: I'll be there. Nice meeting you.
+speaker_heading: LORRAINE
+dialog: You, too.
+text: Lorraine departs. The Waitress steps up and hands Phil the bill, which is 42 cents. He
+dialog: leaves his entire 49 cents.
+speaker_heading: PHIL
+dialog: (smooth)
+dialog: Keep the change, sweetheart.
+text: The WAITRESS snorts and Phil leaves.
+speaker_heading: DISSOLVE:
+scene_heading: EXT. “STUDENTS FOR POLITICAL ACTION” OFFICE — DAY
+text: Lorraine stands in front of the office handing out yellow flyers and demanding Justice!
+text: A big, green 1963 Cadillac Sedan devVille with very pointy fins pulls up in front of her
+text: and stops. The car’s electric window comes down revealing a good-looking couple in
+text: their early 40s. They are Lorraine’s MOM and DAD.
+speaker_heading: MOM
+dialog: Get in the car, dear, before someone mugs
+dialog: you.
+text: Lorraine sighs and gets in the back seat of the car.
+speaker_heading: LORRAINE
+dialog: (sarcastically)
+dialog: Thank God, saved at last.
+scene_heading: INT. CADILLAC — DAY
+text: Lorraine’s Dad guns it and the car pulls away quickly. Dad glances back at Lorraine.
+speaker_heading: DAD
+dialog: 24
+dialog: Did you forget you were having lunch with us?
+speaker_heading: LORRAINE
+dialog: No, | didn’t. | tried to, but | couldn't.
+text: Her Mom looks back at her.
+speaker_heading: MOM
+dialog: What have you got on your hands?
+text: Lorraine looks at her hands and sees purple stains.
+speaker_heading: LORRAINE
+dialog: Ink.
+speaker_heading: MOM
+dialog: (smiles)
+dialog: It’s just your shade.
+speaker_heading: LORRAINE
+dialog: Yes, it is nice, isn’t it?
+speaker_heading: DAD
+dialog: So, did you get an early start on solving the world’s
+dialog: problems today?
+speaker_heading: LORRAINE
+dialog: As a matter of fact, | did. | think I'll be having a very
+dialog: big meeting Sunday night.
+speaker_heading: DAD
+dialog: | hope you do. But honestly, Lorraine, do you really
+text: think a bunch of college kids meeting in a low-rent
+dialog: downtown office are going to get those five Negro boys
+dialog: set free?
+speaker_heading: LORRAINE
+dialog: I certainly hope so. If nothing else it will raise people’s
+dialog: awareness of the problem. A line has to be drawn
+dialog: somewhere.
+text: Mom turns to Dad.
+speaker_heading: MOM
+dialog: How did she turn out this way?
+dialog: 25
+speaker_heading: DAD
+dialog: It's got to be your fault, I’m never home.
+speaker_heading: MOM
+dialog: You can say that again.
+text: Lorraine points at herself.
+speaker_heading: LORRAINE
+dialog: I’m my own fault. And where are we going for
+dialog: lunch, if | may ask?
+speaker_heading: DAD
+dialog: The club.
+speaker_heading: LORRAINE
+dialog: (sighs)
+dialog: Unmitigated decadence, and the food’s not very
+dialog: good.
+speaker_heading: MOM
+dialog: You were such a happy little girl, Lorraine. What
+dialog: happened?
+speaker_heading: LORRAINE
+dialog: | developed a social conscience.
+speaker_heading: MOM
+dialog: Well it certainly hasn’t made you any happier, | can
+dialog: tell you that. Why don’t you go away to Europe
+dialog: for a while — say a year — and make up your mind
+dialog: there?
+speaker_heading: LORRAINE
+dialog: | live here in America, mom. The problems of
+dialog: America are my problems. And my mind is made
+dialog: up.
+speaker_heading: DAD
+dialog: Your mom’s not kidding, Lorraine. You want to go
+dialog: to Europe for a year, see the sights, go to school,
+dialog: don’t go to school. Anything you want, just say the
+dialog: word.
+dialog: 
+dialog: 26
+speaker_heading: LORRAINE
+dialog: Oh, Dad, please.
+speaker_heading: DAD
+dialog: You were accepted to the University of Florence,
+dialog: weren't you? You loved Italy when we all went
+dialog: there a few years ago. You ran around the house
+dialog: talking Italian for months.
+speaker_heading: LORRAINE
+dialog: (sighs wearily)
+dialog: This is such a bore.
+text: Lorraine’s Mom and Dad look at each other and shake their heads.
+speaker_heading: DAD
+dialog: So, Lorraine, how many people are you expecting
+dialog: at this rally of yours?
+speaker_heading: LORRAINE
+dialog: | don’t know. About a hundred, I’d say.
+speaker_heading: DAD
+dialog: Well, how many chairs did you rent?
+speaker_heading: LORRAINE
+text: Fifty, but there’s twenty or thirty chairs there and
+dialog: | figure some people can stand.
+speaker_heading: DAD
+dialog: How’re you getting the rented chairs there?
+speaker_heading: LORRAINE
+dialog: (exasperated)
+dialog: Dad, please, I'll work it out.
+dialog: 
+speaker_heading: DAD
+dialog: Look, you want to be an organizer and organizers
+dialog: bring in the people. If they don’t bring in a decent
+dialog: crowd, you'll have to admit, they’re not worth much
+dialog: as an organizer, right?
+speaker_heading: LORRAINE
+dialog: (begrudgingly)
+dialog: 27
+dialog: Yeah, | suppose.
+speaker_heading: DAD
+dialog: OK, how about this? If less than fifty people show
+dialog: up to your meeting, you consider doing something
+dialog: else. Anything else. More than fifty and I’ll shut up,
+dialog: for awhile. What do you say? But you have to give
+dialog: me a fair count.
+speaker_heading: LORRAINE
+dialog: All | did was agree to go to lunch, I’m not here to
+dialog: negotiate any deals.
+speaker_heading: DAD
+dialog: Just think about it, OK? That's all | ask.
+speaker_heading: LORRAINE
+dialog: Whatever you say.
+text: Lorraine sighs deeply, lost in the vast expanse of the back seat. Her hand goes into her
+text: sweater pocket, but she still doesn’t have any cigarettes.
+speaker_heading: DISSOLVE:
+scene_heading: INT. PHIL’S BEDROOM — DAY
+text: Phil sits on his bed noodling with his guitar. He has the newspaper on the floor and
+text: glances at it over the top of the guitar.
+speaker_heading: PHIL
+dialog: Folk songs, folk songs ... Crap! | don’t know
+dialog: any folk songs.
+dialog: (focuses on the newspaper)
+dialog: Hey! Lyndon Baines Johnson, Lady Bird Johnson,
+dialog: Lynda Bird Johnson and Luci Baines Johnson?
+dialog: They all have the same initials. How weird!
+text: Phil’s Dad walks past the bedroom door, sees the newspaper and stops.
+scene_heading: MR. BUCKLEY
+dialog: There’s the newspaper. What's it doing in here?
+speaker_heading: PHIL
+dialog: I’m reading it.
+text: Phil sighs.
+dialog: 28
+scene_heading: MR. BUCKLEY
+dialog: Great day in the morning, what next? So, what’s
+dialog: up?
+speaker_heading: PHIL
+dialog: Nothin’.
+scene_heading: MR. BUCKLEY
+dialog: Y’know, I’ve been meaning to speak to you.
+text: (he comes in and sits
+dialog: down on the bed)
+dialog: So, Phil, what are you doing? You've been out
+dialog: of high school for six months.
+speaker_heading: PHIL
+dialog: I’m working at the shoe store. Knockin’ ‘em
+text: dead, too.
+scene_heading: MR. BUCKLEY
+dialog: What does that mean?
+speaker_heading: PHIL
+dialog: It means, Dad, that working at the shoe store is
+text: a bore.
+scene_heading: MR. BUCKLEY
+dialog: You don't like it? Find another job.
+speaker_heading: PHIL
+dialog: Like what? Working in a gas station?
+scene_heading: MR. BUCKLEY
+dialog: Well, don’t you have some goal? Some ambition?
+speaker_heading: PHIL
+dialog: (guffaws)
+dialog: Yeah, | wanna be president and get my brains
+text: blown out.
+scene_heading: MR. BUCKLEY
+dialog: (shocked)
+dialog: 29
+dialog: That’s not nice.
+speaker_heading: PHIL
+dialog: It sure wasn’t.
+scene_heading: MR. BUCKLEY
+dialog: What's with you?
+speaker_heading: PHIL
+dialog: What?
+scene_heading: MR. BUCKLEY
+dialog: Now come on, you must care about something?
+speaker_heading: PHIL
+dialog: (timidly)
+dialog: Well...
+scene_heading: MR. BUCKLEY
+dialog: Yeah? Goon.
+speaker_heading: PHIL
+dialog: Well, | like playing the guitar.
+scene_heading: MR. BUCKLEY
+dialog: (confused)
+dialog: You took lessons for about three weeks, then
+dialog: dropped out. How serious can you be about that?
+speaker_heading: PHIL
+dialog: (serious)
+dialog: Hey! People can be serious about things in their
+dialog: own ways, can’t they?
+scene_heading: MR. BUCKLEY
+dialog: (unconvinced)
+dialog: | suppose. Look, Phil, what about college?
+text: His Father lights a Viceroy cigarette.
+speaker_heading: PHIL
+dialog: Yeah, well... I'll probably go to community
+dialog: college in the fall.
+dialog: 30
+scene_heading: MR. BUCKLEY
+dialog: | meant, a university. What about State? |
+dialog: went to State.
+text: Phil points at his Dad’s cigarettes.
+speaker_heading: PHIL
+dialog: Could | have cigarette?
+text: His Dad shakes a cigarette out of the pack and gives him one.
+scene_heading: MR. BUCKLEY
+dialog: You smoke too much.
+speaker_heading: PHIL
+dialog: So do you. | didn’t get into State.
+text: His Dad lights Phil’s cigarette with a match, then his own.
+scene_heading: MR. BUCKLEY
+dialog: If your grades are good at the community college
+dialog: you could get in.
+speaker_heading: PHIL
+dialog: Yeah? Well...
+text: Phil shrugs and puffs on his cigarette.
+scene_heading: MR. BUCKLEY
+dialog: You just don’t care, do you?
+speaker_heading: PHIL
+dialog: Not about that.
+scene_heading: MR. BUCKLEY
+dialog: So what do you care about?
+speaker_heading: PHIL
+dialog: Hey! Come on, Dad, lay off, will ya?
+scene_heading: MR. BUCKLEY
+dialog: Fine. So what are you doing tonight?
+speaker_heading: PHIL
+dialog: 31
+dialog: | have a date.
+text: His Dad grabs the wastebasket and uses it as an ashtray.
+scene_heading: MR. BUCKLEY
+dialog: Really? Have | met her?
+speaker_heading: PHIL
+dialog: Uh-uh. | just met her today at the music store.
+dialog: She’s a cute folkie girl that’s really committed to
+dialog: all kinds of things.
+scene_heading: MR. BUCKLEY
+dialog: (interested)
+dialog: Really? Like what?
+speaker_heading: PHIL
+dialog: (waves his hand)
+dialog: Oh, you know, Negroes and equality and things like
+dialog: that.
+scene_heading: MR. BUCKLEY
+dialog: (impressed)
+dialog: Yeah, things like that. Well, she sounds interesting.
+speaker_heading: PHIL
+dialog: Yeah, she is. And cute, too.
+scene_heading: MR. BUCKLEY
+dialog: Maybe you should become a folkie, then you’d
+dialog: be committed to all kinds of things, too.
+speaker_heading: PHIL
+dialog: I’ve been thinking about it.
+text: The conversation grinds to an uncomfortable halt. They both sit there looking at each
+text: other. Finally, his Dad points at the guitar.
+scene_heading: MR. BUCKLEY
+dialog: Go on, Elvis, play something.
+text: Phil quickly considers for a moment, then hits upon a possibility.
+dialog: 32
+speaker_heading: PHIL
+dialog: Wait a minute.
+scene_heading: MR. BUCKLEY
+dialog: What?
+speaker_heading: PHIL
+dialog: | think I’ve got it!
+scene_heading: MR. BUCKLEY
+dialog: What?
+speaker_heading: PHIL
+dialog: What song to play.
+text: Phil opens his beginning guitar book, finds what he’s looking for and crudely begins to
+dialog: play and sing “/f | Had a Hammer.”
+speaker_heading: PHIL
+dialog: (singing)
+dialog: If | had a hammer
+dialog: ?’'d hammer in the mornin’
+dialog: ’'d hammer in the evenin’
+dialog: All over this land
+dialog: I'd hammer out danger
+dialog: ?’'d hammer out warnin’
+dialog: l’d hammer out love between
+dialog: My brothers and my—
+text: Phil’s Dad looks at his watch and jumps to his feet.
+scene_heading: MR. BUCKLEY
+dialog: —Holy Christ! Look at the time, | gotta get
+dialog: dressed.
+text: His Dad abruptly exits.
+speaker_heading: PHIL
+dialog: —Sisters ...
+text: Phil sighs, picks up his cigarette, which has gone out, and puts it in his mouth. He
+text: takes his guitar over to the mirror and begins posing again.
+speaker_heading: PHIL
+dialog: The one, the only, Phil Buckley!
+dialog: 33
+text: Phil strums the guitar, adds in the sound of the cheering crowd, and smokes his unlit
+text: cigarette like he’s Frank Sinatra.
+speaker_heading: DISSOLVE:
+scene_heading: INT. PHIL’S HOUSE/ LIVING ROOM — NIGHT
+text: Phil steps into the living room all dressed up and ready to go out, his guitar case in
+text: hand. His mother, father and brother all sit watching the black and white TV, while
+text: eating TV dinners at folding TV tables (Ronald Reagan is pitching “20 Mule Team
+text: Borax,” saying, “I’m standing here in a borax mine . . .”). None of the three can look
+text: away from the TV for more than a brief second.
+speaker_heading: DAN
+dialog: Where ya goin’
+speaker_heading: PHIL
+dialog: Out.
+speaker_heading: DAN
+dialog: Where?
+speaker_heading: PHIL
+dialog: None o’ your beeswax, ratfink.
+scene_heading: MR. BUCKLEY
+text: Phil's got a date with a folkie girl.
+text: This catches his Mother and brother's interest.
+scene_heading: MRS. BUCKLEY
+dialog: What's a folkie girl?
+speaker_heading: DAN
+dialog: You know, mom, like Mary from Peter, Paul
+dialog: & Mary. She’s hot stuff, too.
+scene_heading: MRS. BUCKLEY
+dialog: Oh, well, she is a lovely girl.
+speaker_heading: PHIL
+dialog: Yeah, but I’m not going out with her.
+speaker_heading: DAN
+dialog: 34
+dialog: So, where ya goin’?
+speaker_heading: PHIL
+dialog: (hesitantly)
+dialog: To the Purple Onion.
+speaker_heading: DAN
+dialog: That's a folk club, right?
+speaker_heading: PHIL
+dialog: (nods)
+dialog: Yeah, what of it?
+speaker_heading: DAN
+dialog: So, what's up? Are you suddenly becoming a
+dialog: folkie like Bob Dylan?
+speaker_heading: PHIL
+dialog: (embarrassed)
+dialog: Maybe | am and maybe I’m not!
+scene_heading: MRS. BUCKLEY
+dialog: And you’re performing?
+speaker_heading: PHIL
+dialog: (coughs)
+dialog: Yeah.
+text: All three look at him in astonishment.
+speaker_heading: DAN
+dialog: But Phil, you don’t know how to play the guitar.
+speaker_heading: PHIL
+dialog: Yes | do.
+dialog: (everyone looks at
+dialog: him in silence)
+dialog: Kind of.
+speaker_heading: DAN
+dialog: Well, just remember one thing, Phil.
+speaker_heading: PHIL
+dialog: 35
+dialog: Yeah. What's that?
+speaker_heading: DAN
+text: The answer is blowin’ in the wind.
+text: This gets a laugh from his family as they all simultaneously turn back to the television,
+text: suddenly mesmerized in rapt silence as a new show begins. Phil exits quietly.
+scene_heading: EXT. PHIL’S HOUSE — NIGHT
+text: Phil gets outside holding his guitar case. He lights up a cigarette, hikes up his
+text: windbreaker jacket and poses like James Dean. He looks back at the house and sees
+text: his family through the front window illuminated in flickering blue. Phil clamps the
+text: cigarette between his teeth and walks purposefully down the driveway.
+scene_heading: EXT. PHIL’S BLOCK — NIGHT (Digital Effect)
+text: Phil walks up the block, passing house after house that all look exactly the same, all of
+text: them with the same flickering, radiant blue TV light illuminating their living rooms. Phil
+text: flicks his butt, hunches his shoulders and heads off into the night.
+speaker_heading: DISSOLVE:
+speaker_heading: ACT TWO:
+scene_heading: EXT. THE PURPLE ONION — NIGHT
+text: Phil comes walking up to the front of the Purple Onion, and it’s a whole, big-deal, folk
+text: scene. There are folkies all over the place. All the men are wearing sport coats and
+text: thin ties and the women are wearing skirts and dresses. There are a lot of crewcuts on
+text: the boys, girls with their hair up or wearing babushkas, and many cool hats on both the
+text: men and the women. Almost everybody smokes cigarettes.
+text: Phil approaches warily. Who are these people? He knows no one. Except Lorraine,
+text: that is, who stands in front of the club handing out flyers.
+speaker_heading: LORRAINE
+dialog: Please come to this meeting tomorrow, it’s
+dialog: really important. See what you can do, OK?
+text: The person takes the flyer and one step later tosses it on the ground. Lorraine looks
+text: pained, goes over and picks it up. She sees Phil standing there, smiles and waves him
+dialog: over.
+dialog: 36
+speaker_heading: LORRAINE
+dialog: Phil.
+speaker_heading: PHIL
+dialog: Lorraine.
+speaker_heading: LORRAINE
+dialog: You made it.
+text: Phil steps up.
+speaker_heading: PHIL
+dialog: | said | would, didn’t I.
+text: Lorraine gives him a hug and a kiss, which Phil finds very encouraging. She gives him
+text: his 34 flyer, but keeps holding onto his hand.
+speaker_heading: LORRAINE
+dialog: Yes, you did. Will you be here tomorrow for
+dialog: the meeting?
+speaker_heading: PHIL
+dialog: (nods)
+dialog: Yeah, | think | will.
+speaker_heading: LORRAINE
+dialog: You gonna sing a song tonight?
+speaker_heading: PHIL
+dialog: Yep.
+speaker_heading: LORRAINE
+dialog: What song?
+speaker_heading: PHIL
+dialog: I’m not telling. What song are you singing?
+speaker_heading: LORRAINE
+dialog: “If | Had a Hammer.”
+text: (Phil grimaces like he
+dialog: was kicked in the gut)
+dialog: What's the matter? Don’t you like it?
+speaker_heading: PHIL
+dialog: 37
+dialog: (grins painfully)
+dialog: No, no, it’s a great Peter, Paul & Mary song.
+speaker_heading: LORRAINE
+text: It's a Weavers song. Peter, Paul & Mary re-did
+dialog: it.
+speaker_heading: PHIL
+dialog: (not listening)
+dialog: Yeah, right, the Wheelers. They're great, too.
+text: Just then a slouchy fellow named TERRY, with thick, black-rimmed glasses, and rather
+text: long, shaggy hair, walks up and gets a big hug and a kiss from Lorraine, which
+dialog: distresses Phil.
+speaker_heading: TERRY
+dialog: Hey, Lorraine.
+speaker_heading: LORRAINE
+dialog: Hey, Terry. You made it.
+speaker_heading: TERRY
+dialog: Said | would.
+speaker_heading: LORRAINE
+dialog: This is Phil.
+speaker_heading: TERRY
+dialog: Nice to meet you, Phil.
+text: He puts out his hand. Phil somewhat begrudgingly shakes Terry's hand.
+speaker_heading: PHIL
+dialog: Yeah. You, too.
+speaker_heading: LORRAINE
+dialog: (to Terry)
+dialog: Are you singing a song?
+speaker_heading: TERRY
+dialog: No.
+speaker_heading: LORRAINE
+dialog: (frowning)
+dialog: 38
+dialog: Really? How come?
+speaker_heading: TERRY
+dialog: ‘Cause | don’t want to.
+text: Phil looks at Terry with sudden respect, then glances down at the guitar in his own hand
+text: — why the hell is he singing a song? Phil is about to bring this up to Lorraine when she
+text: turns away and yells.
+speaker_heading: LORRAINE
+dialog: Make way for the pregnant lady!
+text: A good-looking couple in their mid-twenties comes walking up, both holding guitar
+text: cases. They are ALVIN & DEBBIE and Debbie is six months pregnant. They too give
+text: Lorraine hugs and kisses. Lorraine introduces Phil and Terry.
+speaker_heading: LORRAINE
+dialog: Phil, Terry; Debbie and Alvin.
+text: Everybody shakes hands and says hello. Phil attempts to speak to Lorraine again.
+speaker_heading: PHIL
+dialog: Uh, Lorraine —
+text: Lorraine is paying attention to Alvin & Debbie.
+speaker_heading: LORRAINE
+dialog: So, are you guys going to sing?
+speaker_heading: DEBBIE
+dialog: Yeah, we’re all signed up and everything.
+dialog: All | need is a few drinks first.
+speaker_heading: LORRAINE
+dialog: Me, too.
+text: Lorraine and Debbie both laugh. Phil looks at Terry who seems casually bemused,
+text: then he turns back to Lorraine.
+speaker_heading: PHIL
+dialog: Um...
+text: Lorraine points at Phil.
+speaker_heading: LORRAINE
+dialog: 39
+text: Phil's singing a song, too.
+text: Alvin slaps Phil on the back.
+speaker_heading: ALVIN
+dialog: Good, | thought maybe we were the only ones.
+dialog: Man oh man, we’ve been practicing our heads
+dialog: off.
+speaker_heading: DEBBIE
+dialog: I'll bet we’ve rehearsed this song a thousand
+dialog: times.
+text: Phil looks like he’s about to say something when Lorraine takes hold of his arm and
+text: leads him inside.
+speaker_heading: LORRAINE
+dialog: Let’s get you signed up so you don’t miss your
+dialog: big chance to sing. Phil’s gonna be a famous singer
+text: some day, like Bobby Darin and Al Martino.
+speaker_heading: TERRY
+dialog: Boy oh boy are you in the wrong place.
+text: Lorraine hustles Phil inside and the others happily follow along.
+speaker_heading: PHIL
+dialog: She means, Dean Martin.
+speaker_heading: TERRY
+dialog: | got news for you, Dean Martin wouldn’t be caught
+dialog: dead in this joint.
+scene_heading: INT. THE PURPLE ONION — NIGHT
+text: Lorraine, Phil and the others enter the Purple Onion, a small dark club that’s pretty
+text: much full. Lorraine points down toward the stage.
+speaker_heading: LORRAINE
+text: I’ve got the front table staked out with my guitar.
+dialog: We'll be right there.
+text: Terry, Alvin and Debbie head to the table.
+dialog: 40
+text: Lorraine takes Phil over to the M.C., a 40-year old guy with a graying beard, who stands
+text: behind a crude lighting board. The M.C. looks at Phil and winces.
+dialog: M.C.
+dialog: Who’s he?
+speaker_heading: LORRAINE
+dialog: A friend.
+dialog: M.C.
+dialog: You sure have a lot of friends.
+speaker_heading: LORRAINE
+dialog: As a matter of fact | do, what's it to you?
+dialog: M.C.
+dialog: Nothing. Not a thing.
+speaker_heading: LORRAINE
+dialog: (nods at Phil)
+dialog: He wants to sing.
+dialog: M.C.
+dialog: Then sing out, my friend, sing out. What's your
+dialog: name?
+speaker_heading: PHIL
+dialog: Phil Buckley.
+dialog: M.C.
+dialog: OK, Phil there you go.
+text: The M.C. writes “Phil” at the bottom of the Hootenanny list, a blackboard with ten acts
+text: listed above him. Phil gulps, thinking what have | done? The M.C. tells Phil:
+dialog: M.C.
+dialog: Keep in mind, though, friend, that with ten acts
+dialog: ahead of you there’s a pretty good chance you
+dialog: won't get to go on at all.
+speaker_heading: PHIL
+dialog: (mumbles to himself)
+dialog: God willing.
+dialog: 41
+speaker_heading: LORRAINE
+dialog: (encouraging)
+dialog: Oh, now. You said you want to be a musician,
+dialog: right?
+speaker_heading: PHIL
+dialog: Right.
+speaker_heading: LORRAINE
+dialog: Here you go.
+dialog: (to the M.C.)
+dialog: Are we set for tomorrow?
+text: The M.C. steps up to Lorraine and whispers in her ear.
+dialog: M.C.
+dialog: Sure. Uh, Lorraine... ?
+speaker_heading: LORRAINE
+dialog: Yeah?
+dialog: M.C.
+dialog: (shakes his head)
+dialog: Later.
+text: Lorraine and Phil walk across the club.
+speaker_heading: LORRAINE
+dialog: (excited)
+dialog: I’m so glad Terry made it, | really think you two will
+dialog: hit it off. He’s really smart. | met him at a sit-in,
+dialog: and | met Alvin & Debbie at an SDS meeting. They
+dialog: are very committed to the cause.
+speaker_heading: PHIL
+dialog: What cause?
+speaker_heading: LORRAINE
+dialog: The cause of freedom and equality.
+dialog: 42
+speaker_heading: PHIL
+dialog: (nods)
+dialog: Oh. Right. That.
+dialog: (casually)
+dialog: By the way, what are some of your favorite folk
+dialog: songs?
+speaker_heading: LORRAINE
+dialog: (thinks)
+dialog: Well, | really like Bob Dylan’s “Talking Word War 3
+dialog: Blues.”
+speaker_heading: PHIL
+dialog: (shakes his head; sighs)
+dialog: | don’t know that one.
+text: The guitar is starting to feel like 500 pound weight to Phil.
+speaker_heading: LORRAINE
+dialog: Bring your guitar tomorrow night to the meeting
+dialog: and we can have our own little hootenanny after-
+dialog: ward. |’ll teach it to you.
+text: That sounds like a fine idea to Phil, who nods and grins.
+speaker_heading: PHIL
+dialog: Boss.
+text: As they cross the room, Lorraine waves and says hi to just about everybody and they all
+text: wave and say hi back to her. Phil’s impressed.
+text: They arrive at the table down near the stage where Terry, Alvin & Debbie are sitting
+text: drinking a pitcher of beer and are all smoking cigarettes. Lorraine sits beside Terry.
+text: Phil quickly sits on her other side.
+text: Lorraine leans across the table to speak and whispers with Debbie. Debbie points at
+dialog: Phil.
+speaker_heading: DEBBIE
+dialog: Wow! He looks like Troy Donahue. Where’d you
+dialog: find him?
+dialog: 43
+speaker_heading: LORRAINE
+dialog: At the music store. | think he’s got potential, too.
+dialog: He just needs some guidance.
+speaker_heading: DEBBIE
+dialog: From you, perhaps?
+speaker_heading: LORRAINE
+dialog: (considers; looks at Phil)
+dialog: ... Perhaps.
+text: Phil and Terry look at each other past Lorraine’s shapely rump.
+speaker_heading: TERRY
+dialog: (to Phil)
+dialog: What song are you singing?
+speaker_heading: PHIL
+dialog: I’m still thinking about it. What are some your
+dialog: favorite folk songs?
+speaker_heading: TERRY
+dialog: | don’t like folk songs.
+speaker_heading: PHIL
+dialog: (confused)
+dialog: Then what are you doing here?
+text: Terry glances at Lorraine’s derriere, then up to Phil. Phil grins and shrugs, indicating
+text: that he too is there for the same reason.
+speaker_heading: TERRY
+dialog: You a student?
+speaker_heading: PHIL
+dialog: Uh, no. I’m gonna start at SCC in the fall.
+speaker_heading: TERRY
+dialog: (grins)
+dialog: Harvard of the highway. It’s like high school with
+dialog: ashtrays. | went for a year. Workin’?
+speaker_heading: PHIL
+dialog: 44
+dialog: Ata shoe store. You?
+speaker_heading: TERRY
+dialog: | work on the college newspaper.
+speaker_heading: PHIL
+dialog: (nods; impressed)
+dialog: Your parents rich?
+speaker_heading: TERRY
+dialog: No, not really.
+dialog: (whispers and points)
+dialog: But Lorraine’s sure are.
+speaker_heading: PHIL
+dialog: (interested)
+dialog: Really? But she seems so...
+speaker_heading: TERRY
+dialog: . .. Down to Earth?
+speaker_heading: PHIL
+dialog: Yeah. Right.
+speaker_heading: TERRY
+dialog: It’s the rejection of the money. Very common.
+speaker_heading: PHIL
+dialog: (fascinated)
+dialog: It is?
+speaker_heading: TERRY
+dialog: Sure, take a look around you. What do you
+dialog: see?
+speaker_heading: PHIL
+dialog: (looks around)
+dialog: People. Folkies.
+speaker_heading: TERRY
+dialog: Middle-class to upper-middle-class white people,
+text: with just a few token Negroes thrown in for color,
+dialog: whose own self-hatred causes them to have to
+dialog: pretend to help other people less fortunate than
+dialog: themselves to ease their guilt.
+dialog: 45
+speaker_heading: PHIL
+dialog: (looks around)
+dialog: Huh.
+text: Across the table, Alvin & Debbie are having a discussion.
+speaker_heading: DEBBIE
+dialog: So, when will you start looking for a new job?
+dialog: You said after the New Year, well it’s February.
+speaker_heading: ALVIN
+dialog: But, Deb, | like my job.
+speaker_heading: DEBBIE
+dialog: You like your job? Come on.
+speaker_heading: ALVIN
+dialog: All right, | don’t hate my job. I’ve had plenty of
+dialog: jobs I’ve hated, too. And then | don’t like waking
+text: up in the morning.
+speaker_heading: DEBBIE
+dialog: But Alvin, dear, you don’t make enough money.
+dialog: We're going to need more money soon. We might
+dialog: even have to buy a house.
+speaker_heading: ALVIN
+dialog: (holds up his hands)
+dialog: Whoa! Slow down, will you. I’m not ready for
+dialog: any of this.
+text: Debbie points at her protruding belly.
+speaker_heading: DEBBIE
+dialog: Too late.
+speaker_heading: LORRAINE
+dialog: Hey! Come on you guys, you're out in public,
+dialog: remember.
+speaker_heading: DEBBIE
+dialog: There are times when his complacency makes me
+dialog: want to kill him.
+dialog: 46
+speaker_heading: LORRAINE
+dialog: But you've decided to have his child instead.
+text: Terry and Phil continue to talk.
+speaker_heading: PHIL
+dialog: So, you’re up at State?
+speaker_heading: TERRY
+dialog: (nods)
+dialog: Yep.
+speaker_heading: PHIL
+dialog: So, what are you taking up?
+speaker_heading: TERRY
+dialog: Time and space.
+speaker_heading: PHIL
+dialog: (grins)
+dialog: I’m doin’ that right here, why go to State?
+speaker_heading: TERRY
+dialog: Less parental supervision. More parties. More
+text: chicks.
+speaker_heading: PHIL
+dialog: But don’t they make you take tests occasionally?
+speaker_heading: TERRY
+dialog: Occasionally, but school’s easy if you know how
+dialog: to do it.
+speaker_heading: PHIL
+dialog: So what are really studying?
+speaker_heading: TERRY
+dialog: Computers.
+speaker_heading: PHIL
+dialog: Computers, huh? You really are into weird stuff.
+speaker_heading: TERRY
+dialog: Computers aren’t so weird. Someday there'll be
+dialog: 47
+text: hundreds of them, everywhere.
+speaker_heading: PHIL
+dialog: (shrugs)
+dialog: Sure, if you say so.
+text: Lorraine sits back down between Phil and Terry.
+speaker_heading: LORRAINE
+dialog: You boys getting acquainted?
+text: Both grunt in the affirmative.
+text: The bearded M.C. steps up onto the small stage and speaks into the microphone.
+dialog: M.C.
+dialog: I'd like to welcome everybody to the Purple
+dialog: Onion’s weekly Hootenanny night. This is
+dialog: the night when we get a preview of the up-
+dialog: coming folk stars of the future. I’d also like
+dialog: to announce a very important meeting to be
+dialog: held here tomorrow night to help arrange a
+dialog: defense fund for the Springfield Five.
+dialog: (Lorraine looks around
+dialog: and smiles)
+dialog: If you really care about the cause of freedom
+dialog: you'll make sure to be here. OK. Now let’s
+dialog: have some fun. Our first act of the evening
+dialog: is the husband and wife duo, Alvin & Debbie.
+dialog: Let’s give them a warm Purple Onion welcome.
+text: The audience applauds as Alvin & Debbie step up on stage.
+speaker_heading: ALVIN
+dialog: Thank you very much. But don’t get Debbie too
+dialog: excited, she might have the baby right here.
+text: Debbie elbows him the ribs and the audience chuckles. They launch into a highly
+text: energetic rendition of “Rock Island Line”
+speaker_heading: ALVIN & DEBBIE
+dialog: (singing)
+dialog: Well the Rock Island Line
+dialog: 48
+dialog: Is a mighty good road
+dialog: Oh the Rock Island Line
+dialog: It is the road to ride
+dialog: The Rock Island Line
+dialog: Is a mighty good road
+dialog: But if ya want to ride
+dialog: Ya gotta ride it like ya find it
+dialog: Get your ticket at the station
+dialog: For the Rock Island Line
+dialog: Well | may be right
+dialog: And | may be wrong
+dialog: | know you’re gonna miss me
+dialog: When I’m gone
+text: Underneath the table, Phil edges his foot over until it's beside Lorraine’s foot. Phil
+text: moves his foot the next inch so that his foot is now touching Lorraine’s foot. He glances
+text: over and she gives no sign of anything other than being mesmerized by the singing.
+speaker_heading: ALVIN & DEBBIE
+dialog: Well the Rock Island Line
+dialog: Is a mighty good road
+dialog: Oh the Rock Island Line
+dialog: It is the road to ride
+dialog: The Rock Island Line
+dialog: Is a mighty good road
+dialog: But if ya want to ride
+dialog: Ya gotta ride it like ya find it
+dialog: Get your ticket at the station
+dialog: For the Rock Island Line
+dialog: Little Emmalina
+text: Sittin’ in the shade
+dialog: Countin’ all the money
+dialog: That we ain’t made
+text: Terry moves his foot until it’s touching Lorraine’s other foot. We see Lorraine note the
+text: situation, then throw a glance at both boys. They both smile innocently.
+speaker_heading: ALVIN & DEBBIE
+dialog: Well the Rock Island Line
+dialog: Is a mighty good road
+dialog: Oh the Rock Island Line
+dialog: 49
+dialog: It is the road to ride
+dialog: The Rock Island Line
+dialog: Is a mighty good road
+dialog: But if ya want to ride
+dialog: Ya gotta ride it like ya find it
+dialog: Get your ticket at the station
+dialog: For the Rock Island Line
+text: The audience has enjoyed this very much and claps loudly and stomps their feet.
+text: Grinning, Alvin & Debbie return to their seats. Lorraine puts her arms around both of
+dialog: them.
+speaker_heading: LORRAINE
+dialog: You see, those endless hours of practicing pay off.
+speaker_heading: ALVIN
+dialog: (grinning)
+dialog: They sure do.
+text: Phil looks like he’s in pain. Debbie grabs the pitcher of beer.
+speaker_heading: DEBBIE
+dialog: | need a drink. Who needs refills?
+text: Everyone holds up their mug.
+text: Terry turns to Phil looking somewhat impressed.
+speaker_heading: TERRY
+dialog: That was pretty good.
+speaker_heading: PHIL
+dialog: Yeah.
+speaker_heading: TERRY
+dialog: So, uh, you a big folk music fan?
+speaker_heading: PHIL
+dialog: (shakes his head)
+dialog: No, not really. Folk music’s OK.
+speaker_heading: TERRY
+dialog: What kind of music do you like?
+text: Phil looks around to see if anyone is listening.
+dialog: 50
+speaker_heading: PHIL
+dialog: (lowers his voice)
+dialog: | like rock & roll.
+speaker_heading: TERRY
+dialog: Me, too. Like what?
+speaker_heading: PHIL
+dialog: | like Elvis.
+speaker_heading: TERRY
+dialog: (nods)
+dialog: Yeah. He’s boss. And Chuck Berry.
+speaker_heading: PHIL
+dialog: Yeah.
+text: Lorraine returns to her seat between Phil and Terry.
+speaker_heading: LORRAINE
+dialog: What are you boys talking about.
+speaker_heading: TERRY
+dialog: Rock & roll music.
+speaker_heading: LORRAINE
+dialog: (waves it away)
+dialog: That's for children.
+dialog: (points at the stage)
+dialog: Now that was music! Bebop-a-lula? Tutti fruitti,
+dialog: oh Rudy? Come on, boys, grow up.
+text: Phil and Terry both feel chastised. Lorraine sees someone she knows and moves off.
+speaker_heading: LORRAINE
+dialog: Excuse me a sec, I’ve got work to do.
+text: Lorraine picks up a pile of her flyers and heads off.
+text: Lorraine cruises around the club handing out flyers. Yellow flyers are set down on the
+text: table and quickly used as coasters, folded and put into pockets, phone numbers are
+text: written on them, corners torn off, one gets folded up and put under the short leg of a
+dialog: table.
+dialog: 51
+text: A yellow flyer comes down revealing four middle-aged people, three men in suits and
+text: ties and a woman in a dressy dress, all looking at the flyers and guzzling a pitcher of
+text: beer. They are: PETE, LEE, FRED and the woman is RONNIE. Collectively they are
+text: the FOUR FEATHERS. They all drink heartily and wave around the flyers.
+speaker_heading: RONNIE
+dialog: It looks good. How's it going?
+speaker_heading: LORRAINE
+dialog: Good. We ought to have a lot of people. But |
+dialog: still need you guys to be there.
+speaker_heading: RONNIE
+dialog: Need? Oh, come on, Lorraine, you can handle
+dialog: this. I’m sure you've got everything completely
+text: under control.
+speaker_heading: LORRAINE
+dialog: Well, yeah, | do, but still. . .
+speaker_heading: RONNIE
+dialog: Well, don’t depend on me being there. You've
+dialog: got to finally handle things on your own.
+speaker_heading: LORRAINE
+dialog: | know.
+dialog: 
+speaker_heading: RONNIE
+dialog: | remember the first meeting | organized. It was a
+text: garment-workers strike just after the war. Somewhere
+dialog: in Upstate New York.
+speaker_heading: PETE
+dialog: Gloversville.
+speaker_heading: LEE
+dialog: That's right, Gloversville. Lordy, they almost tore
+text: the house down.
+speaker_heading: RONNIE
+dialog: Those were the days.
+text: The Four Feathers all toast and drink.
+speaker_heading: LORRAINE
+dialog: 52
+dialog: Good luck, tonight, you guys.
+speaker_heading: RONNIE
+dialog: Thanks, you, too. And | just know your meeting
+dialog: will be great.
+speaker_heading: LEE
+dialog: Sure.
+speaker_heading: PETE
+dialog: Absolutely.
+text: Lorraine walks away.
+speaker_heading: LORRAINE
+dialog: (to herself)
+dialog: Shit! She’s not gonna be there. | was depending
+text: on her.
+text: The M.C. steps up beside Lorraine and takes her arm.
+dialog: M.C.
+dialog: Lorraine, you’ve got to help me.
+speaker_heading: LORRAINE
+dialog: Sure, Marty, how?
+text: (he tries to speak, but all
+text: that comes out are inaudible
+dialog: noises)
+dialog: What is it?
+dialog: M.C.
+dialog: You just have to sleep with me, Lorraine. You
+dialog: have to.
+speaker_heading: LORRAINE
+dialog: | do, huh?
+dialog: M.C.
+dialog: | love you Lorraine.
+speaker_heading: LORRAINE
+dialog: Oh, for God’s sake. That's ridiculous.
+dialog: M.C.
+dialog: 53
+dialog: (stung)
+dialog: Oh, it is, huh? You want to use the club tomorrow,
+dialog: right?
+speaker_heading: LORRAINE
+dialog: (indignant)
+dialog: You already said | could use the club tomorrow.
+dialog: M.C.
+dialog: Right. | did. And | mean it, too. And | don’t
+dialog: expect anything in return, either.
+speaker_heading: LORRAINE
+dialog: Don’t you?
+dialog: M.C.
+dialog: (smiles)
+dialog: Well...
+speaker_heading: LORRAINE
+dialog: | thought you honestly cared about the Springfield
+dialog: Five.
+dialog: M.C.
+dialog: (distracted)
+dialog: Who? Oh, them. Yeah, | do. But Lorraine, please
+dialog: think of the good you could do, for me. Please.
+text: Lorraine turns and walks away, her expression saying, “When hell freezes over.”
+text: Lorraine returns to her table and sits back down.
+text: At which point MOUSTAPHA HAKIM arrives. He is a black man in his 30s wearing a
+text: dark suit and tie, a round leather, African hat, sunglasses and carrying a particularly
+text: beat-up guitar.
+text: Terry looks relieved.
+speaker_heading: MOUSTAPHA
+dialog: Greetings, folk fans.
+speaker_heading: TERRY
+dialog: You got here.
+speaker_heading: MOUSTAPHA
+dialog: 54
+dialog: You didn’t think | would?
+speaker_heading: TERRY
+dialog: No, no, | did.
+speaker_heading: MOUSTAPHA
+dialog: And who are all of these nice-looking white people?
+speaker_heading: TERRY
+dialog: You know Lorraine.
+text: Moustapha shakes Lorraine’s hand.
+speaker_heading: MOUSTAPHA
+dialog: (smiles)
+dialog: Lorraine. Always a pleasure.
+speaker_heading: TERRY
+dialog: That's Alvin & Debbie.
+speaker_heading: MOUSTAPHA
+dialog: Alvin, Debbie.
+text: They both shake his hand and both look uncomfortable doing it.
+speaker_heading: TERRY
+dialog: And this is Phil.
+text: Moustapha shakes Phil’s hand, then grabs a chair and seats himself beside him.
+speaker_heading: MOUSTAPHA
+dialog: Be prepared, the blues’re coming.
+text: Terry leans over to Moustapha and nods toward the back.
+speaker_heading: TERRY
+dialog: Canwe...
+speaker_heading: MOUSTAPHA
+dialog: Cool down, my friend. Everything in good time.
+text: Moustapha turns to Phil.
+speaker_heading: MOUSTAPHA
+dialog: (nods)
+dialog: 55
+dialog: You like the blues?
+speaker_heading: PHIL
+dialog: Sure.
+speaker_heading: MOUSTAPHA
+dialog: Like what?
+speaker_heading: PHIL
+dialog: Well... Like Chuck Berry.
+speaker_heading: MOUSTAPHA
+dialog: Chuck Berry. That’s your idea of blues?
+speaker_heading: PHIL
+dialog: Well, rhythm and blues. How about Muddy Rivers?
+speaker_heading: MOUSTAPHA
+dialog: That's Muddy Waters.
+speaker_heading: PHIL
+dialog: Right, but | hear he’s formed a group with Johnny
+dialog: Rivers.
+text: Moustapha turns to Terry.
+speaker_heading: MOUSTAPHA
+dialog: Come on, let’s go.
+text: Terry grins devilishly as he and Moustapha head off together.
+text: Lorraine turns back to Phil.
+speaker_heading: LORRAINE
+dialog: Having a good time?
+speaker_heading: PHIL
+dialog: Oh yeah.
+speaker_heading: LORRAINE
+dialog: What do you think of Terry?
+speaker_heading: PHIL
+dialog: He’s interesting.
+dialog: 56
+text: The M.C. steps up to the small blackboard and erases Alvin & Debbie’s name at the top
+text: of the list. The next name is “Bobby Lee.”
+dialog: M.C.
+dialog: Ladies and gentlemen, the Purple Onion welcomes
+dialog: back the angry, intense, and always energetic, Bobby
+dialog: Lee Baker!
+text: The audience applauds excitedly as BOBBY LEE BAKER, a brooding man in his 30s,
+text: dressed in black with a beret and a jazz patch. He steps up on the stage with a
+text: cigarette smoldering between his lips irritating his eyes. He slowly tunes a 12-string
+text: guitar, entirely ignoring the audience. He flicks his cigarette butt without looking and we
+text: see that it lands in an inattentive WOMAN ’s drink.
+speaker_heading: BOBBY
+dialog: We're living in a world of oppression. White
+text: people hold down the black people. Rich
+dialog: people hold down the poor people. Some-
+dialog: times it makes me so mad | can barely talk.
+dialog: Bile builds up in my throat and | can’t even
+dialog: spit. Those are the times when you'd kinda
+dialog: like to see the whole shebang go up in one
+dialog: big ball of fire, know what | mean?
+text: The audience looks back at him wide-eyed and silent. Bobby coughs, then suddenly
+text: launches into an intense rendition of “/n My Time of Dyin” with some terrific guitar
+text: picking, as well as the use of a bottleneck.
+speaker_heading: BOBBY LEE
+dialog: (singing)
+dialog: In my time of dyin’
+dialog: Don’t want nobody to mourn
+dialog: All | want for you to do
+dialog: Is to take my body home
+dialog: Well, well, well
+dialog: So | can die easy
+dialog: Well, well, well
+dialog: So | can die easy
+dialog: Jesus gonna make up
+dialog: 57
+dialog: My dyin’ bed
+text: The Woman drinks her drink and her eyes widen as she swallows the cigarette butt.
+speaker_heading: BOBBY
+dialog: Well meet me, Jesus, meet me
+dialog: Meet me in the middle of the air
+dialog: If these wings should fail me, Lord
+dialog: Won't you meet me with another pair
+dialog: Well, well, well
+dialog: So | can die easy
+dialog: Well, well, well
+dialog: So | can die easy
+dialog: Jesus gonna make up
+dialog: My dyin’ bed
+dialog: Lord in my time of dyin’
+dialog: Don’t want nobody to cry
+dialog: All | want you to do
+dialog: Is to take me when | die
+dialog: Well, well, well
+dialog: So | can die easy
+dialog: Well, well, well
+dialog: So | can die easy
+dialog: Jesus gonna make up
+dialog: My dyin’ bed
+text: There is a big round of applause. To everyone’s astonishment, Bobby Lee Baker
+text: stands up and without a look back walks right out of the club.
+speaker_heading: BOBBY LEE
+dialog: (to himself)
+dialog: Aw shit!
+text: Terry and Moustapha returned at some point during the song. Terry turns to Phil.
+speaker_heading: TERRY
+dialog: (impressed)
+dialog: Man, that was good.
+text: Phil looks like he has a headache.
+speaker_heading: PHIL
+dialog: 58
+dialog: Yeah.
+dialog: (changing subjects)
+dialog: So, Lorraine said she met you at some kind of
+dialog: meeting, right?
+speaker_heading: TERRY
+dialog: Yeah. SDS.
+speaker_heading: PHIL
+dialog: What's that?
+speaker_heading: TERRY
+dialog: Students for a Democratic Society.
+speaker_heading: PHIL
+dialog: And you like try to get laws changed and stuff?
+speaker_heading: TERRY
+dialog: (shrugs)
+dialog: They do. | go ‘cause there’s usually cute chicks
+dialog: there.
+dialog: (that seems like a good
+dialog: reason to Phil)
+dialog: And cute folkie chicks that are always screaming
+dialog: about freedom and equality sometimes put out,
+dialog: know what | mean?
+speaker_heading: PHIL
+dialog: (he knows)
+dialog: So, then you don’t really care about freedom and
+dialog: equality and civil rights?
+speaker_heading: TERRY
+dialog: Yeah, sure | do, but not as much as getting laid.
+text: Terry wags his eyebrows. Phil grins.
+text: We see Lorraine’s stack of yellow flyers in her hand as she crosses the club and steps
+text: up to a table where three very cool-looking, beat-types sit, seemingly engrossed in
+text: smoking cigarettes and don’t notice Lorraine . They are: DEAN, MARYLOU & BILL.
+speaker_heading: LORRAINE
+dialog: (smiles)
+dialog: Look, it’s the three dead beats.
+dialog: 59
+text: Dean, Bill and MaryLou all look around—where?
+speaker_heading: BILL
+dialog: Whoa... it’s Lorraine.
+speaker_heading: MARYLOU
+dialog: Hey, Lorraine.
+speaker_heading: DEAN
+dialog: (grunts)
+dialog: Urgh.
+speaker_heading: LORRAINE
+dialog: Wow, you folks sure look mellow.
+speaker_heading: MARYLOU
+dialog: Yeah, we are.
+speaker_heading: BILL
+dialog: Mellowville.
+speaker_heading: DEAN
+dialog: Hooo!
+text: Lorraine furrows her brow and leans forward to MaryLou.
+speaker_heading: LORRAINE
+dialog: What's wrong with you guys?
+speaker_heading: MARYLOU
+dialog: Wrong? Nothin’s wrong.
+speaker_heading: BILL
+dialog: It’s all right. Everything’s right.
+speaker_heading: LORRAINE
+dialog: But you guys are acting weird.
+text: MaryLou pantomimes sticking a needle in her arm and winks at Lorraine. Lorraine
+text: looks horrified.
+speaker_heading: LORRAINE
+dialog: You took heroin?
+dialog: 60
+scene_heading: MARYLOU, BILL & DEAN
+dialog: (together, grinning)
+dialog: Yeah.
+speaker_heading: LORRAINE
+dialog: Really?
+scene_heading: MARYLOU, BILL & DEAN
+dialog: (together)
+dialog: Yeah.
+speaker_heading: LORRAINE
+dialog: But doesn’t it hurt? Y’know, the needle?
+speaker_heading: MARYLOU
+dialog: nods)
+dialog: A little. Then you throw up.
+speaker_heading: LORRAINE
+dialog: wide-eyed)
+dialog: Oh my
+dialog: No, it’s
+dialog: Yeah, i
+dialog: Right, tl
+text: Bill points at the yellow flyer:
+dialog: Hey, wi
+dialog: Itsami
+dialog: God, that’s disgusting.
+speaker_heading: MARYLOU
+dialog: reassuring)
+dialog: not. It’s fine. Really.
+speaker_heading: BILL
+dialog: ’s fine.
+speaker_heading: LORRAINE
+dialog: nods)
+dialog: hrowing up is just fine.
+dialog: Ss.
+speaker_heading: BILL
+dialog: hat’s with that?
+dialog: 
+speaker_heading: LORRAINE
+dialog: eeting I’m having here tomorrow.
+speaker_heading: MARYLOU
+dialog: Cool. Very cool.
+speaker_heading: BILL
+dialog: 61
+dialog: Knock ‘em dead, Lorraine. Save everybody.
+speaker_heading: LORRAINE
+dialog: (sighs)
+dialog: Yeah, | will. See ya around.
+text: Lorraine turns and leaves, shaking her head in disbelief. She puts her hand in her
+text: sweater pocket and still doesn’t have any cigarettes. Just then Phil steps up.
+speaker_heading: LORRAINE
+dialog: (smiles)
+dialog: Gotta smoke.
+speaker_heading: PHIL
+dialog: As a matter of fact | do.
+text: Phil shakes two out of the pack, puts both of them in his mouth and lights them at the
+text: same time—ala Paul Henreid—then hands one to Lorraine.
+speaker_heading: LORRAINE
+dialog: (smiles)
+dialog: Very classy.
+speaker_heading: PHIL
+dialog: That's me. I’m the classiest guy you ever knew.
+speaker_heading: LORRAINE
+dialog: (waves her smoke)
+dialog: So? What'dya think?
+speaker_heading: PHIL
+dialog: I'll join up if | get you in the deal.
+speaker_heading: LORRAINE
+dialog: If only things were that simple.
+text: A female voice calls out...
+speaker_heading: FEMALE VOICE
+dialog: (0.S.)
+dialog: Lorraine! Over here!
+text: Lorraine sees a table with two couples in black and white evening clothes. Even from
+dialog: 62
+text: this distance we can tell they are smashed. Lorraine winces in pain.
+speaker_heading: LORRAINE
+dialog: Oh, dear God, what'’re they doing here?
+dialog: (to Phil)
+dialog: | went to high school with these people.
+text: Lorraine and Phil step up to the table. The voice belongs to MINDY, an attractive 19-
+text: year old girl in a black strapless evening gown and white gloves. The boys are wearing
+text: tuxes. Mindy and Lorraine hug and kiss.
+speaker_heading: LORRAINE
+dialog: Mindy, what on Earth are you doing here?
+speaker_heading: MINDY
+dialog: You told us about this hootenanny thing on
+dialog: Saturday nights and we decided to come and see
+dialog: for ourselves. Are you singing tonight, Lorraine?
+speaker_heading: LORRAINE
+dialog: Yes, | am.
+dialog: (points at Phil)
+dialog: So’s he. This is my friend, Phil.
+text: Mindy shakes Phil’s hand. She looks him up and down and obviously approves.
+speaker_heading: MINDY
+dialog: Phil. This is Brian, Cheryl and Tim. I’m Mindy,
+dialog: Lorraine’s former best-friend.
+text: Phil waves and shakes hands. BRIAN says to Phil. . .
+speaker_heading: BRIAN
+dialog: Are you a musician?
+text: Phil glances at Lorraine.
+speaker_heading: PHIL
+dialog: Uh, no. | mean, no. This is a hootenanny,
+dialog: anybody can get up and sing.
+speaker_heading: BRIAN
+dialog: Right. Of course. Boy am! a square.
+dialog: 63
+text: Lorraine hands out flyers.
+speaker_heading: LORRAINE
+dialog: So now that you've started going new places,
+dialog: you should come to this meeting here tomorrow
+dialog: night, for the Springfield Five.
+speaker_heading: MINDY
+dialog: | read about them. Terrible. Tomorrow night?
+dialog: Sorry, can’t make it.
+speaker_heading: LORRAINE
+dialog: It’s really important, y’know. Couldn’t you try?
+speaker_heading: MINDY
+dialog: Sorry, it’s out of the question. So, when do we
+dialog: get to hear some music?
+speaker_heading: LORRAINE
+dialog: Soon.
+text: TIM raises his hand.
+speaker_heading: TIM
+dialog: No mixed drinks?
+speaker_heading: LORRAINE
+dialog: Uh, no. Just beer.
+text: Tim and Brian turn to one another, both imitating Jim Backus.
+speaker_heading: TIM
+dialog: | need an Old-Fashioned the old-fashioned way.
+speaker_heading: BRIAN
+dialog: The way dear old dad used to make ‘em.
+text: Brian and Tim laugh. Lorraine turns to Tim.
+speaker_heading: LORRAINE
+dialog: How about you, Tim? What are you doing
+dialog: tomorrow night?
+speaker_heading: TIM
+dialog: (thinks)
+dialog: 64
+dialog: Sunday night? “Lassie,” then “Ed Sullivan,” then
+dialog: “Gunsmoke,” why?
+speaker_heading: BRIAN
+dialog: Ring-a-ding-ding!
+speaker_heading: LORRAINE
+dialog: Never mind. See ya.
+speaker_heading: MINDY
+dialog: Bye, Lorraine. Nice meeting you, Phil.
+speaker_heading: PHIL
+dialog: Yeah, you, too.
+text: Lorraine and Phil walk away. Lorraine looks back, then at Phil and shakes her head
+speaker_heading: PHIL
+dialog: What?
+speaker_heading: LORRAINE
+dialog: The TV generation.
+speaker_heading: PHIL
+dialog: Are you from another generation?
+speaker_heading: LORRAINE
+dialog: Apparently.
+dialog: (waves her hand)
+dialog: This one. Where some things still matter. Ring-
+text: a-ding-ding? “Lassie” and “Gunsmoke.” Good
+dialog: God! You people and your mindless amusements.
+speaker_heading: PHIL
+dialog: Hey, | didn’t invent this stuff. Blame Edison.
+text: Lorraine stops and turns to face Phil.
+speaker_heading: LORRAINE
+dialog: But it’s not reality, Phil. We live in reality, where
+dialog: there’s suffering and injustice and war.
+speaker_heading: PHIL
+dialog: 65
+dialog: | think you forgot locust and cattle disease.
+text: Lorraine gets angry.
+speaker_heading: LORRAINE
+dialog: It’s not funny!
+speaker_heading: PHIL
+dialog: (shakes his head)
+dialog: Damn, you are one serious girl. What do you
+dialog: want to be when you grow up? Abraham Lincoln?
+speaker_heading: LORRAINE
+dialog: (smiles)
+text: Or a modern female version of him.
+text: Phil takes Lorraine’s ink-stained hand.
+speaker_heading: PHIL
+dialog: | have a great idea that will help all of society.
+speaker_heading: LORRAINE
+dialog: What's that?
+speaker_heading: PHIL
+dialog: Let’s drink some more beer. Did | mention that
+dialog: beer is like liquid bread?
+speaker_heading: LORRAINE
+dialog: Yes, you did.
+text: They sit down at the table.
+speaker_heading: PHIL
+dialog: Well it is, you know. And dark beer is like
+text: pumpernickel bread.
+dialog: (pours beer)
+dialog: Sadly, this stuff is like Wonder Bread.
+speaker_heading: LORRAINE
+dialog: But it's OK ‘cause then you don’t really get drunk.
+speaker_heading: PHIL
+dialog: Yeah, but | like getting drunk.
+dialog: 66
+text: They toast and drink.
+text: The M.C. steps back up to the small blackboard and erases Bobby Lee’s name. Phil
+text: watches the M.C. erase the name, then looks down to his own first name at the bottom
+text: of the list. There’s still seven people above him, but nevertheless Phil is getting
+text: nervous. He glances at his guitar, then scratches his chin. The next name listed is
+dialog: “Moustapha.”
+text: The M.C. steps up to the microphone.
+dialog: M.C.
+dialog: I'd now like to introduce a personal friend of mine...
+text: (he winks at Moustapha
+dialog: who shakes his head)
+dialog: . .. Moustapha Hakim!
+text: Moustapha stands holding his beat-up guitar and steps in front of the microphone.
+speaker_heading: MOUSTAPHA
+dialog: Greetings, ladies and gentlemen. I'd like to sing
+text: a song by the great Huddie Ledbetter, better known
+dialog: as “Leadbelly.” This man spent most of his life in
+dialog: prison. But even when he wasn’t in prison, he wasn’t
+dialog: (continued)
+speaker_heading: MOUSTAPHA (cont.)
+text: free. In America Negroes are still slaves, sitting in the
+text: back of the bus, living in the ghetto, dying in
+dialog: poverty. The Springfield Five are just one more
+dialog: example of the American hypocrisy.
+text: The audience feels ashamed. Lorraine looks around and grins. Moustapha then sings
+dialog: “Bourgeois Blues.”
+speaker_heading: MOUSTAPHA
+dialog: (singing)
+dialog: Me and my wife
+dialog: Went out on the town
+dialog: Everywhere we went
+dialog: The people turned us down
+dialog: Lord it’s a bourgeois town
+dialog: It's a bourgeois town
+dialog: | got the bourgeois blues
+dialog: I’m gonna spread the news all around
+dialog: 67
+dialog: Home of the brave
+dialog: Land of the free
+dialog: | don’t want to be mistreated
+dialog: By no bourgeoisie
+dialog: Lord it’s a bourgeois town
+dialog: It's a bourgeois town
+dialog: | got the bourgeois blues
+dialog: I’m gonna spread the news all around
+dialog: Me and my wife
+dialog: We were Starting upstairs
+dialog: | heard a white man say
+dialog: | don’t want no niggers up there
+dialog: Lord it’s a bourgeois town
+dialog: It's a bourgeois town
+dialog: | got the bourgeois blues
+dialog: I’m gonna spread the news all around
+dialog: (continued)
+speaker_heading: MOUSTAPHA (cont.)
+dialog: The white folks in Washington
+dialog: They know how
+dialog: They call a colored man a nigger
+dialog: Just to see him bow
+dialog: Lord it’s a bourgeois town
+dialog: It's a bourgeois town
+dialog: | got the bourgeois blues
+dialog: I’m gonna spread the news all around
+dialog: Tell all the colored folks
+dialog: Listen to me
+dialog: Don't try to buy no home
+dialog: In Washington D.C.
+dialog: Oh Lord it’s a bourgeois town
+dialog: It's a bourgeois town
+dialog: | got the bourgeois blues
+dialog: I’m gonna spread the news all around
+text: There is a big round of guilty applause.
+dialog: 68
+dialog: M.C.
+dialog: Moustapha Hakim, ladies and gentlemen.
+text: Moustapha sits back down at the table beside Phil looking satisfied.
+speaker_heading: MOUSTAPHA
+dialog: The blues have come.
+speaker_heading: TERRY
+text: And they were gone, man, solid gone.
+speaker_heading: MOUSTAPHA
+dialog: Thank you.
+text: They slap five.
+text: The M.C. gets back up on stage and erases Moustapha’s name. Phil notes this with a
+text: wince. Next on the list is “4 Feathers.”
+dialog: M.C.
+dialog: And now I'd like to introduce some Purple Onion
+dialog: hootenanny regulars, ladies and gentlemen will you
+dialog: please welcome the incredible harmonies of The Four
+dialog: Feathers!
+text: The Four Feathers take the stage. They are all reasonably looped and get a big round
+text: of applause.
+speaker_heading: PETE
+dialog: The U.S. and the Soviet Union continue to conduct
+dialog: atomic bomb tests, irradiating our land, water and
+dialog: skies.
+speaker_heading: LEE
+dialog: We say, “Ban the Bomb!”
+speaker_heading: RONNIE
+dialog: There’s only one world and we all have to live
+dialog: in it together. It’s time to wake up, people!
+text: The Four Feathers then proceed to do a beautifully harmonized rendition of “Darling
+dialog: Corey.”
+dialog: 69
+speaker_heading: FOUR FEATHERS
+dialog: (singing)
+dialog: Wake up, wake up, darlin’ Corey
+dialog: What makes you sleep so sound?
+dialog: The revenue officer is comin’
+dialog: Gonna tear your still-house down
+dialog: The first time | seen darlin’ Corey
+text: She was standing by the sea
+text: She had a .45 strapped around her bosom
+text: She had a banjo on her knee
+dialog: Go away, go away, darlin’ Corey
+dialog: Quit hangin’ around my bed
+dialog: That liquor has ruined my body
+dialog: Pretty women gone to my head
+dialog: (continued)
+speaker_heading: FOUR FEATHERS (cont.)
+dialog: Oh yes, oh yes, my darlin’
+dialog: I'll do the best | can
+dialog: I'll never give my pleasure
+dialog: To another gamblin’ man
+text: Dig a hole, dig a hole in the meadow
+text: Dig a hole in the cold, cold ground
+text: Dig a hole, dig a hole in the meadow
+dialog: Gonna lay my Corey down.
+text: The Four Feathers pause for a big round of applause, then launch directly into “When
+text: the Saints Go Marching In” which brings on a bigger round of applause.
+speaker_heading: FOUR FEATHERS
+dialog: (singing)
+dialog: We are traveling in the footsteps
+dialog: Of those that have come before
+dialog: And we'll all be reunited
+text: On a new and sunlit shore
+dialog: Oh when the saints go marching in
+dialog: Oh when the saints go marching in
+dialog: Oh Lord | want to be in that number
+dialog: 70
+text: When the saints go marching in
+dialog: And when the sun refused to shine
+dialog: And when the sun refused to shine
+dialog: Oh Lord | want to be in that number
+dialog: And when the sun refused to shine
+text: Phil looks like he’s having a heart attack. Lorraine puts her hand on his shoulder
+text: reassuringly.
+speaker_heading: FOUR FEATHERS
+dialog: Oh when the trum-pet sounds the call
+dialog: Oh when the trumpet sounds the call
+dialog: Oh Lord | want to be in that number
+dialog: Oh when the trumpet sounds the call
+dialog: (continued)
+speaker_heading: FOUR FEATHERS (cont.)
+dialog: Some say this world of trouble
+dialog: Is the only one we need
+dialog: But I’m waiting for the mornin’
+text: When the new world is revealed
+dialog: Oh when the new world is revealed
+dialog: Oh when the new world is revealed
+dialog: Oh Lord | want to be in that number
+dialog: Oh when the new world is revealed
+dialog: Oh when the saints go marching in
+dialog: Oh when the saints go marching in
+dialog: Oh Lord | want to be in that number
+text: When the saints go marching in
+text: The Four Feathers bring down the house. The audience claps and stomps their feet.
+text: Lorraine, Terry and the whole table join them loudly. Phil honestly looks ill. He is ina
+text: total panic. His hands are sweating and he looks nauseous.
+speaker_heading: PHIL
+dialog: (to no one in particular)
+dialog: I think | gotta go.
+text: Phil starts to stand and Lorraine reaches out and takes his arm.
+dialog: 71
+speaker_heading: LORRAINE
+dialog: What do you mean?
+speaker_heading: PHIL
+dialog: | can’t do this.
+speaker_heading: LORRAINE
+dialog: Sure you can. You'll be fine.
+speaker_heading: PHIL
+dialog: (seriously)
+dialog: No, no, you don’t understand.
+speaker_heading: LORRAINE
+dialog: (smiles reassuringly)
+dialog: Of course | do. Everyone feels this way their first
+dialog: time.
+speaker_heading: PHIL
+dialog: Yeah, but these people are really good.
+speaker_heading: LORRAINE
+dialog: Right. And their not professionals.
+speaker_heading: PHIL
+dialog: Yeah, but they really seem to... care.
+speaker_heading: LORRAINE
+dialog: Well, don’t you?
+speaker_heading: PHIL
+dialog: (good question)
+dialog: Um...
+text: Lorraine spots someone she knows and quickly exits.
+speaker_heading: LORRAINE
+dialog: ‘Scuse me.
+text: Phil is in a deep quandary. He glances over at the door—he could just leave and no
+text: one would be the wiser. Meanwhile, Terry is watching him.
+speaker_heading: TERRY
+dialog: What's wrong?
+dialog: 72
+speaker_heading: PHIL
+dialog: (sighs deeply)
+dialog: Lorraine is doing the song that | was gonna do.
+dialog: | was all ready, too, y'know. | practiced the song
+dialog: like a hundred times. But now I’m screwed.
+text: Terry takes pity on Phil.
+speaker_heading: TERRY
+dialog: Come with me. Everything’ll be just fine.
+speaker_heading: PHIL
+dialog: What?
+speaker_heading: TERRY
+dialog: Just come on.
+text: Terry leads Phil out the back door.
+scene_heading: EXT. THE PURPLE ONION/ALLEY — NIGHT
+text: Terry and Phil come out into the under-lit alley behind the Purple Onion. Terry pulls out
+text: a big, fat, crooked cigarette. Phil can’t believe it. He looks all around to make sure
+dialog: they're alone.
+speaker_heading: PHIL
+dialog: (shocked)
+dialog: That's marijuana, isn’t it?
+text: Terry nods, lighting up.
+speaker_heading: TERRY
+dialog: Say it louder, maybe a cop’ll hear you.
+speaker_heading: PHIL
+dialog: (frightened)
+dialog: But, it’s illegal.
+speaker_heading: TERRY
+dialog: Yep.
+speaker_heading: PHIL
+dialog: Doesn't it lead to hard drugs like morphine and
+dialog: heroin?
+dialog: 73
+speaker_heading: TERRY
+dialog: (grins fiendishly)
+dialog: Whoa! Slow down, tiger. One step at a time.
+text: Terry hands Phil the burning joint. Phil hesitantly takes it, gives the issue one more
+text: brief moment of consideration, shrugs, then takes a hit.
+scene_heading: INT. THE PURPLE ONION — NIGHT
+text: Lorraine sits back down in her seat, looking somewhat embarrassed and straightens
+text: her hair. She notices that Phil and Terry’s chairs are empty. She glances around as
+text: though people are looking at her and pulls her sweater closed. The M.C. steps up to
+text: the microphone, grinning, his hair askew.
+dialog: M.C.
+dialog: Ladies and gentlemen, I’m proud to welcome
+dialog: back a Purple Onion regular, a dedicated fighter
+dialog: for equality and justice, and the organizer of
+dialog: the Springfield Five defense fund meeting here
+dialog: tomorrow at eight. Let’s give a warm hand to
+dialog: Lorraine Dempsey!
+text: Lorraine throws a last look at the empty seats on either side of her where Phil and Terry
+text: used to be, shakes her head, smiles and heads up on stage holding her guitar.
+speaker_heading: LORRAINE
+dialog: Sometimes it’s not easy to do what's right. We're
+dialog: always tempted to go the other way. To take the
+dialog: wrong path. And sometimes we don’t even know
+dialog: which path we’re on. Justice, freedom and equality
+dialog: are not just words. They’re goals that we have to
+dialog: work for. That's why | strongly urge you to be here
+dialog: tomorrow night at eight P.M. for a very important
+dialog: meeting. We can make a difference . . .
+scene_heading: EXT. THE PURPLE ONION/ALLEY — NIGHT
+text: Phil and Terry are just finishing the joint. Their eyes are bloodshot and at half-mast.
+dialog: They're stoned.
+speaker_heading: PHIL
+dialog: (grinning)
+dialog: 74
+dialog: Man, If | had a hammer I'd hurt myself.
+text: They both laugh like total idiots.
+speaker_heading: TERRY
+dialog: So, what’dya think?
+speaker_heading: PHIL
+dialog: About what?
+text: (Terry waves his hand,
+dialog: Phil grins)
+dialog: Oh, yeah. Boss. Is it always like this?
+speaker_heading: TERRY
+dialog: Like what?
+speaker_heading: PHIL
+dialog: This?
+speaker_heading: TERRY
+dialog: Yeah.
+speaker_heading: PHIL
+dialog: Wow. How much is this stuff?
+speaker_heading: TERRY
+dialog: Pretty cheap.
+speaker_heading: PHIL
+dialog: And you got it from... um
+dialog: (he can’t remember)
+dialog: That Negro man.
+speaker_heading: TERRY
+dialog: Moustapha. Right.
+speaker_heading: PHIL
+dialog: Does he grow it.
+speaker_heading: TERRY
+dialog: No, man. He gets it from someone else who gets
+dialog: it from someone else who brings it from Panama
+dialog: or Mexico or wherever.
+speaker_heading: PHIL
+dialog: 75
+dialog: Wow! Too much! | feel like I’m in Panama or
+dialog: Mexico or wherever now.
+speaker_heading: TERRY
+dialog: Yeah. | know what you mean. Wherever’s where
+dialog: it’s at.
+speaker_heading: PHIL
+dialog: And that’s where we are. Where it’s at.
+speaker_heading: TERRY
+dialog: Yeah.
+text: They start laughing idiotically again.
+scene_heading: INT. THE PURPLE ONION — NIGHT
+text: Lorraine proceeds to sing “/f | Had a Hammer’ in a pretty and forceful way.
+speaker_heading: LORRAINE
+dialog: (singing)
+dialog: If | had a hammer
+dialog: ?’'d hammer in the mornin’
+dialog: ’'d hammer in the evenin’
+dialog: All over this land
+dialog: I'd hammer out danger
+dialog: ?’'d hammer out warnin’
+dialog: ’'d hammer out love between
+dialog: My brothers and my sisters
+dialog: All over this land
+dialog: If | had a bell
+dialog: I'd ring it in the mornin’
+dialog: I'd ring it in the evenin’
+dialog: All over this land
+dialog: I'd ring out danger
+dialog: I'd ring out warnin’
+dialog: I'd ring out love between
+dialog: My brothers and my sisters
+dialog: All over this land
+dialog: If | had a song —
+scene_heading: EXT. THE PURPLE ONION/ALLEY — NIGHT
+dialog: 76
+text: Terry is holding forth to a stoned and completely rapt Phil.
+speaker_heading: TERRY
+dialog: Elvis and Chuck Berry and Little Richard
+dialog: and Jerry Lee Lewis all had their careers
+dialog: taken from them, man. Where'd they all
+dialog: go? What happened to rock & roll? They
+text: were stopped, drafted, arrested, persecuted.
+dialog: Their careers were stopped. Why? It’s
+dialog: because there’s a conspiracy to stop rock
+dialog: & roll, and I’m telling you it’s the same
+dialog: guys that killed Kennedy.
+text: Phil has no idea what Terry’s talking about.
+speaker_heading: PHIL
+dialog: Killed Kennedy? Lee Harvey Oswald killed
+dialog: Kennedy.
+speaker_heading: TERRY
+dialog: (lights up)
+dialog: Ah ha! That’s what they’d like you to believe.
+speaker_heading: PHIL
+dialog: Then Jack Ruby killed Oswald.
+speaker_heading: TERRY
+dialog: Pretty convenient, huh? Get rid of the patsy.
+speaker_heading: PHIL
+dialog: But | saw it on TV.
+speaker_heading: TERRY
+dialog: Yeah? | see “Howdy Doody” on TV but that don’t
+dialog: make it true.
+text: Phil looks all around, freaking out.
+scene_heading: INT. THE PURPLE ONION — NIGHT
+text: Lorraine finishes the song with a flurry.
+speaker_heading: LORRAINE
+dialog: Well, | have a hammer
+dialog: 77
+dialog: And | have a bell
+dialog: And | have a song to sing
+dialog: All over this land
+dialog: It's the hammer of justice
+dialog: It’s the bell of free-e-dom
+dialog: It's a song about love between
+dialog: My brother and my sisters
+dialog: All over this land
+text: Lorraine receives a big round of applause. She glances at the two empty seats and
+text: furrows her brow. The audience hollers for “More!”
+speaker_heading: LORRAINE
+dialog: All right. Now we’re all gonna sing a song
+dialog: together, because we all have to stick together
+dialog: if we’re gonna make things better. And we can
+dialog: all start by being here tomorrow night at eight
+dialog: to help put together the defense fund for the
+dialog: Springfield Five. OK? Now, instead of singing
+dialog: “the” union, let’s all sing “our’ union, OK?
+dialog: And if you don’t know the verses, just join in
+dialog: for the chorus.
+text: Lorraine begins to play the melody to “The Battle Hymn of the Republic” which
+text: becomes “Solidarity Forever.” The audience hesitantly joins in at first, but gets stronger
+text: with each chorus.
+speaker_heading: LORRAINE
+dialog: (singing)
+dialog: Solidarity forever
+dialog: Solidarity forever
+dialog: Solidarity forever
+dialog: For our union makes us strong.
+dialog: When our union’s inspiration
+dialog: Through the worker's blood shall run
+dialog: There can be no power greater
+text: Anywhere beneath the sun
+dialog: Yet what force on Earth is weaker
+dialog: Than the feeble strength of one
+dialog: But our union makes us strong
+dialog: Solidarity forever
+dialog: Solidarity forever
+dialog: 78
+dialog: Solidarity forever
+dialog: For our union makes us strong.
+dialog: It is we who plowed the prairies
+dialog: Built the cities where they trade
+dialog: Dug the mines and built the workshops
+text: Endless miles of railroad laid
+dialog: Now we stand outcast and starving
+dialog: ‘Mid the wonders we have made
+dialog: But our union makes us strong
+dialog: (continued)
+speaker_heading: LORRAINE (cont.)
+dialog: Solidarity forever
+dialog: Solidarity forever
+dialog: Solidarity forever
+dialog: For our union makes us strong.
+dialog: They have taken untold millions
+dialog: That they never toiled to earn
+dialog: But without our brain and muscle
+dialog: Not a single wheel will turn
+dialog: We can break their haughty power
+dialog: Gain our freedom when we learn
+dialog: That our union makes us strong.
+dialog: Solidarity forever
+dialog: Solidarity forever
+dialog: Solidarity forever
+dialog: For our union makes us strong.
+dialog: In our hands is placed the power
+dialog: Greater than their hoarded gold
+dialog: Greater than the might of atoms
+dialog: Magnified a thousand fold
+dialog: We can bring to birth a new world
+text: From the ashes of the old
+dialog: For our union makes us strong.
+dialog: (Lorraine call out)
+dialog: Now, come on! Everybody!
+dialog: (everybody joins in)
+dialog: Solidarity forever
+dialog: Solidarity forever
+dialog: Solidarity forever
+dialog: 79
+dialog: For our union makes us strong.
+text: There is the biggest round of applause of the evening. Everybody laughs and cheers.
+text: Lorraine returns to her table to the smiles of her friends, then seats herself between the
+text: two empty seats and frowns. Debbie is drunk and gives Lorraine a fresh beer and
+text: another cigarette, which Lorraine gratefully takes. Alvin keeps one hand on his wife’s
+text: belly while drinking and smoking with the other.
+speaker_heading: DEBBIE
+dialog: (drunk)
+dialog: Good job, Lorraine. Solidarity forever!
+speaker_heading: ALVIN
+dialog: (drunk)
+dialog: That was great, Lorraine, just great.
+dialog: (points at Debbie’s belly)
+dialog: This kid is gonna grow up in a better world than
+dialog: what we got. What we got was shit. Old and worn-
+text: out and busted.
+text: Lorraine looks all around.
+speaker_heading: LORRAINE
+dialog: Have you seen Terry or Phil?
+text: Alvin and Debbie look around.
+speaker_heading: DEBBIE
+dialog: No.
+text: Lorraine stands.
+speaker_heading: LORRAINE
+dialog: I'll be back in a sec.
+text: Lorraine leaves. Debbie drunkenly turns back to Alvin.
+speaker_heading: DEBBIE
+dialog: And that’s why you've got to get a better job.
+speaker_heading: ALVIN
+dialog: Oh, Jesus Christ! | don’t give a shit about a better
+dialog: job, can’t you get that through your thick skull?
+speaker_heading: DEBBIE
+dialog: 80
+dialog: | get it, but I’m not buyin’ it.
+text: Phil and Terry return and they’re toasted and giggling. Terry gives Moustapha the
+text: thumbs-up.
+speaker_heading: TERRY
+dialog: I'll go get some more beer.
+speaker_heading: PHIL
+dialog: Good thinking.
+text: Phil sits down beside Moustapha.
+speaker_heading: PHIL
+dialog: So, uh... Moustachio—
+speaker_heading: MOUSTAPHA
+dialog: —Moustapha.
+speaker_heading: PHIL
+dialog: Exactly. So, what's it like being a Negro?
+speaker_heading: MOUSTAPHA
+dialog: (laughs)
+dialog: Boy, you are stoned.
+speaker_heading: PHIL
+dialog: (looks around)
+dialog: Yeah? | guess so. Everything has sort of an
+dialog: echo.
+speaker_heading: MOUSTAPHA
+dialog: “What's it like being a Negro?” Shit! What’s
+dialog: it like being a silly little stoned white boy?
+speaker_heading: PHIL
+dialog: (grins foolishly)
+dialog: Not bad. Pretty good, actually.
+speaker_heading: MOUSTAPHA
+dialog: But that wears off. Bein’ black don’t. Everywhere
+dialog: you go, all the time, you still a Negro, and you’re
+dialog: generally outnumbered, unless you're in the ghetto.
+dialog: All the white folk are friendly here tonight, but that
+dialog: don’t mean they won't be back out lynchin’ niggers
+dialog: 81
+dialog: again tomorrow.
+speaker_heading: PHIL
+dialog: (this is heavy)
+dialog: Wow!
+speaker_heading: MOUSTAPHA
+dialog: (sarcastic)
+dialog: Wow! Golly gee-whiz!
+dialog: (points at Phil)
+dialog: | was down in Birmingham last year for Dr. King’s
+dialog: big march, the one where he got arrested. You hear
+dialog: about that?
+speaker_heading: PHIL
+dialog: Uh... maybe.
+speaker_heading: MOUSTAPHA
+dialog: (shakes his head sadly)
+dialog: Shit! You don’t know anything, do you? Your head’s
+text: as empty as a bucket, that’s why you hear an echo.
+dialog: What're you doin’ here, anyway? You ain’t no folkie.
+dialog: You ain’t committed to no causes.
+text: Phil points at Lorraine who is talking to a guy at another table.
+speaker_heading: PHIL
+dialog: She invited me.
+speaker_heading: MOUSTAPHA
+dialog: (laughs)
+dialog: Yeah, the great recruiter, Sweet Lorraine.
+dialog: (gets serious)
+dialog: Y’know, man, we all stand for somethin’, even if
+dialog: we don’t know what it is. You can either stand for
+dialog: something on purpose or by mistake, but either way
+dialog: you still do. Think about it.
+text: Phil does think about it. When he looks up Moustapha has left and he’s the only one
+text: left sitting at the table. He immediately gets paranoid, thinking that everyone must be
+text: looking at him. He can’t figure out what to do with his hands. Phil starts biting his
+text: nails. He stops himself and lights a cigarette from a pack on the table.
+dialog: 82
+text: Lorraine sits down beside Phil.
+speaker_heading: LORRAINE
+dialog: You missed my songs.
+speaker_heading: PHIL
+dialog: You sang more than one?
+speaker_heading: LORRAINE
+dialog: Two. They went over very well.
+speaker_heading: PHIL
+dialog: Well that’s cool.
+text: She looks Phil in the eyes and shakes her head in disapproval.
+speaker_heading: LORRAINE
+dialog: (whispers)
+dialog: You and Terry smoked pot?
+speaker_heading: PHIL
+dialog: (stutters)
+dialog: Um... Thatis... We,uh...
+speaker_heading: LORRAINE
+dialog: (shocked)
+dialog: That's so irresponsible.
+speaker_heading: PHIL
+dialog: What'dya mean?
+speaker_heading: LORRAINE
+dialog: Phil, you’re about to go on.
+text: Phil waves his hand, smiling.
+speaker_heading: PHIL
+dialog: No, no, no. There’s still gotta be six or seven
+dialog: people ahead of me. He said they probably
+dialog: wouldn’t get to me anyway.
+text: Phil points at the blackboard and there are still quite a few people ahead of him, except
+text: the M.C. suddenly picks up the eraser and erases all the names above Phil’s name.
+text: Now Phil is next. Phil’s mouth drops open in panic.
+dialog: 83
+dialog: M.C.
+dialog: Due to several last minute cancellations, may |
+dialog: introduce one more good friend of Lorraine’s,
+dialog: Phil Butler!
+text: Phil gets a squeeze on the arm from Lorraine and a thumbs-up from Terry, Moustapha,
+dialog: Alvin and Debbie.
+text: Phil makes his way onstage, which is a very long walk. He sits down on the stool,
+text: strums his guitar, coughs, squints up at the bright lights glaring in his eyes.
+speaker_heading: PHIL
+dialog: That’s Buckley, not Butler.
+text: The audience could really give a shit less. And sadly, Phil hasn’t got the slightest clue
+text: what to play. This is the worst moment of his entire life. Phil suddenly has super-sonic
+text: hearing and sight — he can hear people breathing, puffing on cigarettes, moving their
+text: chairs, all looking at him expectantly.
+text: Phil moves closer to the lower, guitar microphone and gets feedback. Phil suddenly
+text: shoves the microphone into the hole in the guitar and proceeds to do the Elvis-style
+dialog: version of “If | Had a Hammer.”
+speaker_heading: PHIL
+dialog: If | had a h-h-h-hammer
+text: Pd h-h-h-hammer in the mornin’
+dialog: I'd h-h-h-hammer in the evenin’
+dialog: All over this crazy old land, oh yeah!
+text: There is a big solid moment when the audience has absolutely no idea what they are
+text: watching. They look befuddled. Phil doesn’t care. In for a penny in for a pound. He
+dialog: goes for it...
+speaker_heading: PHIL
+dialog: l'd-a hammer out danger
+dialog: ?’'d-a hammer out warnin’
+dialog: ’'d-a hammer out-a love between
+dialog: My brothers and my sisters
+dialog: All over this land
+text: Phil does the Chuck Berry duckwalk. The audience is sufficiently drunk so that they
+text: begin to clap along, hooting and hollering. Phil grabs two beer bottles and clanks them
+dialog: together.
+speaker_heading: PHIL
+dialog: If | had a bell
+dialog: I'd ring-a-ding-ding it in the mornin’
+dialog: I'd ring-a-ding-ding it in the evenin’
+dialog: All over this land
+dialog: I'd ring-a-ding-ding out danger
+dialog: I'd ring-a-ding-ding out warnin’
+dialog: I'd ring-a-ding-ding out love between
+dialog: My brothers and my sisters
+dialog: All over this land
+dialog: If | had a song
+dialog: You can just bet I’d sing it in the mornin’
+dialog: And I'd sing it in the evenin’
+dialog: All over this nutty old land
+dialog: I'd sing out danger
+dialog: I'd sing out warnin’
+dialog: I'd sing out love between
+dialog: My brothers and my sisters
+dialog: All over this land
+dialog: (gives a big pelvis shake)
+dialog: Ha!
+text: There is a huge round of applause for Phil. He takes a bow, happily surprised at the
+text: turn of events. The M.C. comes on.
+dialog: M.C.
+dialog: That's Phil Buckley, not Butler. Sorry about
+dialog: that, buddy. Very funny routine. You ought to
+dialog: be on Ed Sullivan. Anyway, thanks for coming to
+dialog: the Purple Onion’s weekly Hootenany. And don’t
+dialog: forget about the defense fund meeting for the Springfield
+dialog: Five tomorrow. And thanks for coming. Last call.
+text: Many people stand up to leave.
+text: Lorraine looks at Phil in astonishment as he gulps down a beer. Terry is grinning and
+text: slaps Phil on the back.
+dialog: 84
+dialog: 85
+speaker_heading: TERRY
+dialog: This guy is a wild man.
+speaker_heading: LORRAINE
+dialog: | can’t decide whether that was inspired or
+dialog: just pure nonsense.
+speaker_heading: PHIL
+dialog: Does it matter?
+speaker_heading: LORRAINE
+dialog: | don’t know.
+text: They all stand to leave. As everyone files out we can see numerous yellow flyers
+text: strewn hither, thither and yon. Lorraine sighs, picking some of them back up as she
+dialog: exits.
+speaker_heading: DISSOLVE:
+scene_heading: EXT. THE PURPLE ONION — NIGHT
+text: In front of the club Phil and Terry are watching Lorraine say goodbye to everyone and
+text: give out yellow flyers.
+speaker_heading: LORRAINE
+dialog: Remember the meeting is here tomorrow at
+dialog: eight.
+text: Many people say that they'll be there. Finally, the only people left are Lorraine, Phil and
+dialog: Terry.
+text: Lorraine confronts Phil and Terry.
+speaker_heading: LORRAINE
+dialog: | can’t believe you missed my songs.
+speaker_heading: PHIL
+dialog: (abashed)
+dialog: Sorry.
+text: Lorraine steps up to Phil’s side and takes his arm.
+speaker_heading: LORRAINE
+dialog: Goodnight Terry.
+dialog: 86
+speaker_heading: PHIL
+dialog: Yeah, goodnight Terry. Nice meeting you.
+dialog: Terry sees what's what.
+speaker_heading: TERRY
+dialog: Yeah, you too. ‘Night, Lorraine.
+text: Terry leaves. Lorraine and Phil look at each other. The neon lights on the front of the
+text: building go out, plunging Lorraine and Phil into darkness.
+speaker_heading: LORRAINE
+dialog: You hurt my feelings.
+speaker_heading: PHIL
+dialog: Sorry. Did you like my song?
+speaker_heading: LORRAINE
+dialog: Honestly, no.
+speaker_heading: PHIL
+dialog: (hurt)
+dialog: You didn’t?
+speaker_heading: LORRAINE
+dialog: You faked it.
+speaker_heading: PHIL
+dialog: But they liked it.
+speaker_heading: LORRAINE
+dialog: (confused)
+dialog: Hmmm...
+text: Phil takes advantage of this moment and kisses Lorraine. They stand looking at each
+dialog: other.
+speaker_heading: LORRAINE
+dialog: I’m not really sure | like you.
+speaker_heading: PHIL
+dialog: (grins)
+dialog: 87
+dialog: Me neither.
+text: He kisses her again. Just then the M.C. steps out of the door. Phil and Lorraine’s lips
+text: separate. The M.C. sees them lurking there.
+dialog: M.C.
+dialog: Is that you, Lorraine?
+speaker_heading: LORRAINE
+dialog: Yeah, it is.
+dialog: M.C.
+dialog: Still recruiting for the cause?
+speaker_heading: LORRAINE
+dialog: Up yours!
+dialog: M.C.
+dialog: Goodnight
+text: He leaves. Lorraine and Phil kiss again, longer. Lorraine steps away from him.
+speaker_heading: LORRAINE
+dialog: See you tomorrow?
+speaker_heading: PHIL
+dialog: Absolutely.
+text: Lorraine walks away and Phil watches her go. Finally, Phil walks off in the other
+dialog: direction.
+speaker_heading: FADE OUT:
+speaker_heading: ACT THREE:
+dialog: A title reads: “Sunday, February 9, 1964”
+speaker_heading: FADE IN:
+scene_heading: EXT. PHIL’S HOUSE — DAY
+text: The morning sun shines over the top of Phil’s house. Phil's father pushes a lawnmower
+text: out of the garage, pulls the rope and starts the noisy engine.
+scene_heading: INT. PHIL’S BEDROOM — DAY
+dialog: 88
+text: Phil lies in bed asleep. The sound of the lawnmower engine slowly wakes him up. Phil
+text: glances at the clock and sees that it’s after 10:00 A.M. He’s never slept this long in his
+text: life. He looks down at the pillow and sees a three-inch circle of drool.
+speaker_heading: PHIL
+dialog: (to himself)
+dialog: | feel like | got hit on the head with a hammer.
+text: Phil glances over at his dresser where three folded-up yellow flyers repose. Phil
+text: scratches his head and a wistful smiles crosses his face as he recalls last night.
+speaker_heading: PHIL
+dialog: (to himself)
+dialog: Sweet Lorraine.
+dialog: (smiles)
+dialog: | knocked ‘em dead. They loved me.
+scene_heading: INT. PHIL’S HOUSE/HALLWAY OUTSIDE BATHROOM — DAY
+text: We can see the closed door of the bathroom and hear the water running in the shower.
+text: We can also hear Phil singing in the shower.
+speaker_heading: PHIL
+dialog: (O.S./singing)
+dialog: If | had a h-h-hammer
+dialog: ?’'d hammer a lot
+dialog: Then I'd h-h-hammer some more
+dialog: Then I'd hammer on the door
+dialog: ’'d h-h-hammer all the nails
+text: Stickin’ out of the log
+dialog: Then I'd h-h-hammer all the ants
+dialog: And I’d hammer all the dogs
+text: Phil’s mother and his brother meet in the hallway, stop and listen to Phil for a moment.
+speaker_heading: DAN
+dialog: What's with him?
+scene_heading: MRS. BUCKLEY
+dialog: (shrugs)
+dialog: | guess he had a good time last night.
+speaker_heading: DAN
+dialog: Holy Toledo, | sure hope he doesn’t turn into
+dialog: 89
+dialog: a folkie.
+scene_heading: MRS. BUCKLEY
+dialog: (sighs)
+dialog: It might be good for him. He’s seemed awfully
+dialog: aimless lately. And those folk people do seem
+dialog: to care about things.
+speaker_heading: DAN
+dialog: (skeptical)
+dialog: Yeah, | guess. But Ma...
+scene_heading: MRS. BUCKLEY
+dialog: Yes?
+speaker_heading: DAN
+dialog: (confused)
+dialog: Do people just change like that?
+scene_heading: MRS. BUCKLEY
+dialog: (shrugs)
+dialog: Sometimes, | suppose.
+text: His mother walks away. Dan considers her words for a second, then he too walks
+text: away. Phil keeps right on singing in the shower.
+speaker_heading: PHIL
+dialog: (O.S./singing)
+dialog: I'd h-h-hammer all the bugs
+dialog: Then I'd h-h-hammer all the bats
+dialog: Then I'd h-h-hammer all the cats
+dialog: Then I'd h-h-hammer all the gnats . . .
+scene_heading: INT. PHIL’S BEDROOM — DAY
+text: Phil stands in front of his mirror with wet hair, his guitar in hand, posing. He does his
+dialog: poor Ed Sullivan imitation.
+speaker_heading: PHIL
+dialog: We have a really big shew. For all of you folk
+dialog: fans that like Bob Dylan and Peter, Paul & Mary,
+dialog: | now give you the new voice of the nation, Phil
+dialog: Buckley!
+text: The crowds cheer wildly. Phil acts humble as he raises his guitar.
+dialog: 90
+speaker_heading: PHIL
+dialog: Thank you, thank you.
+scene_heading: EXT. PHIL’S HOUSE — DAY
+text: Phil’s father is raking up the cut grass on the front lawn. Phil comes outside.
+speaker_heading: PHIL
+dialog: Here, let me help.
+scene_heading: MR. BUCKLEY
+dialog: Excuse me?
+speaker_heading: PHIL
+dialog: Let me help.
+scene_heading: MR. BUCKLEY
+dialog: (amazed)
+dialog: Huh. I’m not sure I’ve ever heard you say anything
+dialog: like that before.
+speaker_heading: PHIL
+dialog: (seriously)
+dialog: Look, dad, if we’re all gonna get by in this world
+dialog: then | guess we’d better pitch in and help each other,
+dialog: right?
+scene_heading: MR. BUCKLEY
+dialog: Right.
+text: He hands Phil the rake. Phil shrugs, takes it and begins to rake. His father grabs the
+text: piles of cut grass and puts them in a trash can.
+scene_heading: MR. BUCKLEY
+dialog: So, how was your date last night?
+speaker_heading: PHIL
+dialog: Good. Real good.
+scene_heading: MR. BUCKLEY
+dialog: And you got up and sang?
+speaker_heading: PHIL
+dialog: Yep. And they liked me, too.
+dialog: 91
+scene_heading: MR. BUCKLEY
+dialog: Well, I'll be damned. I’m really glad to hear it,
+dialog: Phil. So you’re going to become a musician now?
+speaker_heading: PHIL
+dialog: Dad, | am a musician.
+scene_heading: MR. BUCKLEY
+dialog: (shrugs)
+dialog: OK. All right. You sure got your money's worth
+dialog: out of those two weeks of guitar lessons.
+speaker_heading: PHIL
+dialog: (defensive)
+dialog: It was three weeks, OK? And I’d’ve kept it up,
+dialog: but my fingers hurt really bad, all right?
+text: His father throws his hands up in capitulation.
+scene_heading: MR. BUCKLEY
+dialog: All right, all right.
+speaker_heading: DISSOLVE:
+scene_heading: INT. PHIL’S HOUSE/KITCHEN — DAY
+text: Phil’s mother makes lunch while Phil lectures her.
+speaker_heading: PHIL
+dialog: Is it right for a woman to make less money doing
+dialog: the same job as a man?
+scene_heading: MRS. BUCKLEY
+dialog: Of course not.
+speaker_heading: PHIL
+dialog: That's right. And is it right for Negroes to have
+dialog: to sit at the back of the bus?
+scene_heading: MRS. BUCKLEY
+dialog: Well, no.
+speaker_heading: PHIL
+dialog: 92
+dialog: That's right, no. It’s time to stand up and let
+dialog: our voices be heard.
+text: His mother scoops gobs of mayonnaise into the tuna fish and nods in agreement.
+scene_heading: MRS. BUCKLEY
+dialog: So you sang a song last night?
+speaker_heading: PHIL
+dialog: Yeah.
+scene_heading: MRS. BUCKLEY
+dialog: How'd it go?
+speaker_heading: PHIL
+dialog: (casually)
+dialog: Great. They loved me.
+scene_heading: MRS. BUCKLEY
+dialog: (surprised)
+dialog: Really? That’s very nice.
+text: Phil walks away.
+speaker_heading: PHIL
+dialog: Oh yeah, they’re a good crowd.
+speaker_heading: DISSOLVE:
+scene_heading: EXT. PHIL’S HOUSE/BACKYARD — DAY
+text: Phil and Dan play catch with mitts and a hardball in the backyard.
+speaker_heading: PHIL
+dialog: So then the same guys that stopped rock & roll
+dialog: killed Kennedy.
+speaker_heading: DAN
+dialog: (fascinated)
+dialog: Really? How?
+speaker_heading: PHIL
+dialog: It's very complicated and you probably won't
+dialog: 93
+dialog: understand, but it’s what’s called a “conspiracy,”
+text: which means that a bunch of people were involved.
+speaker_heading: DAN
+dialog: Yeah? How many?
+speaker_heading: PHIL
+dialog: | don’t know, but a bunch. So then, after they
+dialog: stopped rock & roll by sending Elvis away to
+dialog: the army, they decided they had to kill Kennedy
+dialog: to keep him quiet.
+speaker_heading: DAN
+dialog: Really? That's creepy. What else did they do?
+speaker_heading: PHIL
+text: They set Lee Harvey Oswald up as a patsy, then
+text: had Jack Ruby shoot him to shut him up.
+text: Dan is horrified.
+speaker_heading: DAN
+dialog: Do mom and dad know this?
+speaker_heading: PHIL
+dialog: (shrugs helplessly)
+dialog: Probably not. They accept anything they’re told.
+dialog: Just like robots.
+speaker_heading: DISSOLVE:
+scene_heading: EXT. THE PURPLE ONION — DAY
+text: Max, the beatnik, loiters around in front of the Purple Onion smoking a cigarette.
+text: Lorraine comes driving up in her parents’ enormous green Cadillac, every square inch
+text: of space jammed with wooden folding chairs. The trunk bulges open and is tied down
+dialog: with twine.
+speaker_heading: MAX
+dialog: (shakes his head)
+dialog: Wow! What a Jew canoe.
+speaker_heading: LORRAINE
+dialog: That’s not nice.
+dialog: 94
+speaker_heading: MAX
+dialog: Lorraine, time to get a sense of humor. | was
+dialog: kidding.
+speaker_heading: LORRAINE
+dialog: Disparaging remarks about religion aren’t funny.
+speaker_heading: MAX
+dialog: What's wrong with you?
+speaker_heading: LORRAINE
+dialog: Where were you last night?
+speaker_heading: MAX
+dialog: | hung out with some buddies, why?
+speaker_heading: LORRAINE
+dialog: You said you were coming to the Purple Onion?
+speaker_heading: MAX
+dialog: | didn’t make it.
+speaker_heading: LORRAINE
+dialog: Then why’d you say you were coming?
+speaker_heading: MAX
+dialog: Lorraine, | don’t owe you anything. I’m here
+text: unloading chairs out of a sense of commitment,
+dialog: not out of guilt.
+speaker_heading: LORRAINE
+dialog: | just don’t like it when people say things and
+dialog: don’t do them, that’s all.
+speaker_heading: MAX
+dialog: Yeah. Well get used to it.
+text: Max and Lorraine silently unload the wooden chairs and lean them against the wall.
+text: Both of them throw hurt, reproving glances at one another.
+speaker_heading: DISSOLVE:
+scene_heading: INT. PHIL’S BEDROOM — NIGHT
+text: Phil is getting dressed and rehearsing in front of the mirror.
+dialog: 95
+speaker_heading: PHIL
+dialog: (to himself)
+dialog: And | say, the Springfield Five must be freed or
+dialog: none of us is safe. If five Springfield youths can
+dialog: be put in jail for absolutely no good reason, then |
+dialog: say, who’s next?
+dialog: (turns and yells)
+dialog: Mom!
+scene_heading: MRS. BUCKLEY
+dialog: (0.S,)
+dialog: Yes.
+speaker_heading: PHIL
+dialog: Have | got any clean socks?
+scene_heading: MRS. BUCKLEY
+speaker_heading: (O.S.)
+text: In the laundry room.
+speaker_heading: PHIL
+dialog: Thanks.
+dialog: (continues)
+dialog: So | say, free the Springfield Five, that’s what |
+dialog: say. And damnit, | mean what | say.
+text: Phil exits his bedroom.
+scene_heading: INT. PHIL’S HOUSE/LIVING ROOM — NIGHT
+text: Phil steps into the living room once again dressed up and ready to go out, guitar case in
+text: hand. He finds his family in the exact same positions he left them last night, seated at
+text: TV tables watching TV. Dan looks at Phil and shakes his head sadly.
+speaker_heading: DAN
+dialog: You're not going back to the Purple Onion again,
+dialog: are you?
+speaker_heading: PHIL
+dialog: What if | am?
+speaker_heading: DAN
+dialog: (total disdain)
+dialog: 96
+text: Nothin’. Only Ed Sullivan is about to go on now
+dialog: and The Beatles are gonna be on show tonight,
+dialog: that’s all.
+text: Phil is stricken.
+speaker_heading: PHIL
+dialog: The Beatles. Uh! | have to see them!
+speaker_heading: DAN
+dialog: So sit down.
+speaker_heading: PHIL
+dialog: But | told this girl I'd go to her stupid meeting.
+dialog: She gave me three flyers.
+text: He pulls out the three yellow flyers. Dan points at him and laughs.
+speaker_heading: DAN
+dialog: (grins fiendishly)
+dialog: Ha ha!
+text: Phil is paralyzed.
+scene_heading: MR. BUCKLEY
+dialog: Now Phil, you told this girl you’d attend the meeting.
+scene_heading: MRS. BUCKLEY
+dialog: That's right, Phil. And what about the rights of the
+dialog: Negroes and women?
+text: Dan looks right at Phil and speaks flatly.
+speaker_heading: DAN
+dialog: The Beatles, Phil. “She Loves You, Yeah, Yeah,
+dialog: Yeah,” “| Wanna Hold Your Hand,” “Twist & Shout.”
+speaker_heading: PHIL
+dialog: (immobilized)
+dialog: Uh...
+scene_heading: INT. THE PURPLE ONION — NIGHT
+dialog: 97
+text: Lorraine comes rushing into the Purple Onion in a fluster, her arms loaded with grocery
+text: bags, as well as her guitar. The M.C. is waiting for her impatiently.
+dialog: M.C.
+dialog: For God’s sake, Lorraine, I’m gonna miss Ed
+dialog: Sullivan.
+speaker_heading: LORRAINE
+dialog: Oh, for goodness’ sake, Ed Sullivan is just an old
+dialog: gossip columnist.
+dialog: M.C.
+dialog: (befuddled)
+dialog: There are times, Lorraine, when | don’t understand
+dialog: you at all.
+text: He gives her the key to the club, then rushes out. Lorraine takes off her coat and
+text: begins to hurriedly set things up for the meeting. The 50 folding chairs still need
+text: unfolding. She tacks a hand-made poster up on the wall that reads, “Free The
+dialog: Springfield Five!”
+scene_heading: INT. PHIL’S HOUSE/LIVING ROOM — NIGHT
+text: Phil still stands there looking at his family and his family sits there looking back at him.
+text: The opening title music for “The Ed Sullivan Show” begins and Phil’s guitar case hits
+text: the floor. Phil seats himself on the couch beside his mother, who is knitting. Blue light
+text: flickers on their faces as we hear The Ed Sullivan Show begin.
+speaker_heading: ED SULLIVAN
+dialog: (0.S.)
+dialog: Tonight we have a really big shew, with Topo
+text: Gigo, the Italian mouse, the St. Petersburg ballet,
+dialog: and for you youngsters out there—
+dialog: (young girls scream shrilly)
+dialog: —from Liverpool, England, The Beatles!
+text: The screaming grows louder still. Phil and his family sit mesmerized, their mouths
+text: open, lit in flickering blue.
+scene_heading: EXT. PHIL’S HOUSE & BLOCK — NIGHT
+text: Every single house on the block is emitting blue illumination and is tuned to Ed Sullivan.
+speaker_heading: ED SULLIVAN
+dialog: 98
+dialog: (0.S.)
+dialog: But first stay tuned to a word from our sponsor,
+dialog: Chesterfield cigarettes.
+scene_heading: INT. THE PURPLE ONION — NIGHT
+text: Lorraine is just finishing setting up. She has all 50 folding chairs unfolded and arranged
+text: in rows, piles of flyers lined up on a table, several jugs of cider and paper cups. She
+text: gives everything a final inspection, straightening this, turning that. She sighs, looking
+text: around expectantly, glancing down at her watch.
+scene_heading: INT. PHIL’S HOUSE/LIVING ROOM — NIGHT
+text: Phil and his family stare at the TV. A piece of classical music ends.
+speaker_heading: ED SULLIVAN
+dialog: (0.S.)
+dialog: Let’s give a nice warm hand to the St. Petersburg
+dialog: ballet.
+dialog: (polite applause is heard)
+dialog: | would now like to read a telegram that | received
+dialog: today from Colonel Tom Parker and Elvis Presley.
+dialog: “Congratulations to The Beatles on their American
+dialog: debut.”
+text: The girls go crazy screaming again.
+scene_heading: EXT. CITYSCAPE — NIGHT (Digital Effect)
+text: We see the entire city and coming out of every single window of every house and
+text: building is the blue light of Ed Sullivan.
+speaker_heading: ED SULLIVAN
+dialog: (0.S.)
+dialog: And now, ladies and gentlemen, from Liverpool,
+dialog: England . . . The Beatles!
+text: The crowd goes completely insane. Paul’s first bass note is heard—
+scene_heading: INT. THE PURPLE ONION — NIGHT
+text: —Lorraine sits looking down at the yellow flyer announcing the meeting. She crumples
+text: it up and throws it away. We then see that she is sitting among 49 empty folding chairs.
+text: Nobody showed up for her meeting. Lorraine looks very frustrated and lights a
+text: cigarette. Finally, she stands up knocking over her chair. She goes over to the table,
+dialog: 99
+text: takes all the flyers and throws them in the trash, then five pounds of potato salad, too.
+scene_heading: EXT. CITYSCAPE — NIGHT (Digital Effect)
+text: Once again we see the entire city with flickering blue light coming out of every window.
+speaker_heading: ED SULLIVAN
+dialog: (0.S.)
+dialog: The Beatles will be on the show again next Sunday
+text: night live from the Paradise Hotel in Miami Beach,
+dialog: Florida.
+text: A title appears on the screen: “Of the 180 million people in America in 1964, 73 million
+text: people watched The Beatles on Ed Sullivan that Sunday night, still making it
+dialog: proportionally the largest audience for any show, ever.”
+scene_heading: INT. PURPLE ONION — NIGHT
+text: Lorraine picks up her guitar and exits. A second later all the lights go off.
+scene_heading: EXT. THE PURPLE ONION — NIGHT
+text: Lorraine steps out of the Purple Onion and locks the door. Just then Phil comes
+text: running up, guitar case in hand. He sees Lorraine and smiles.
+speaker_heading: PHIL
+dialog: Hi. Am | late?
+speaker_heading: LORRAINE
+dialog: (laughs)
+dialog: Are you late?
+speaker_heading: PHIL
+dialog: Am |?
+speaker_heading: LORRAINE
+dialog: (flatly)
+dialog: You missed it. It’s over.
+speaker_heading: PHIL
+dialog: (casually)
+dialog: Whoops. Sorry about that. Did it go all right?
+dialog: 100
+speaker_heading: LORRAINE
+dialog: Look around. You see anyone else?
+speaker_heading: PHIL
+dialog: (looks around)
+dialog: Uh...no. Break up early?
+speaker_heading: LORRAINE
+dialog: (flatly)
+dialog: Yeah, it broke up early.
+speaker_heading: PHIL
+dialog: So, you wanna get a cup of coffee?
+text: Lorraine laughs sardonically.
+speaker_heading: LORRAINE
+dialog: You don't give a shit at all, do you?
+speaker_heading: PHIL
+dialog: About what?
+speaker_heading: LORRAINE
+dialog: About anything.
+speaker_heading: PHIL
+dialog: (offended)
+dialog: Hey! | care about a lotta stuff.
+speaker_heading: LORRAINE
+dialog: Like what?
+speaker_heading: PHIL
+dialog: Well, like music.
+speaker_heading: LORRAINE
+dialog: Ha! You can’t even play the Goddamn guitar.
+dialog: | mean, for Christ sake, how are you ever going
+dialog: to be a musician?
+speaker_heading: PHIL
+dialog: | told ya, it’s possible.
+speaker_heading: LORRAINE
+dialog: 101
+dialog: So is getting hit by a meteor. Y’know, you're what
+dialog: the world is coming to, Phil, and | don’t like it!
+dialog: Apathy and inability. It’s a really bad combination.
+speaker_heading: PHIL
+dialog: What's gotten into you? | thought we had a really
+dialog: good time last night.
+speaker_heading: LORRAINE
+dialog: (pointing)
+dialog: You didn’t show up to my Goddamn meeting!
+speaker_heading: PHIL
+dialog: I said | was sorry.
+speaker_heading: LORRAINE
+dialog: So what? Does saying your sorry push the erase
+dialog: button or something? | just threw out five pounds
+dialog: of potato salad. Ya know what?
+speaker_heading: PHIL
+dialog: (uncertain)
+dialog: What?
+speaker_heading: LORRAINE
+dialog: Drop dead!
+text: Lorraine turns and walks away.
+speaker_heading: PHIL
+dialog: Where are you going?
+speaker_heading: LORRAINE
+dialog: Italy.
+dialog: (she waves)
+dialog: Arivederci!
+text: Lorraine stomps away, disappearing into the night. Phil stands there looking dazed.
+speaker_heading: PHIL
+dialog: (to himself)
+dialog: Huh.
+dialog: 102
+text: Just then Terry comes running up from the other direction, also carrying a guitar case.
+speaker_heading: TERRY
+dialog: Did | miss the meeting?
+speaker_heading: PHIL
+dialog: We both did.
+speaker_heading: TERRY
+dialog: Did you see The Beatles on Ed Sullivan?
+speaker_heading: PHIL
+dialog: Oh yeah, they were boss!
+speaker_heading: TERRY
+dialog: I’m never cuttin’ my hair again.
+speaker_heading: PHIL
+dialog: Boy oh boy, those girls were really screaming,
+dialog: huh?
+speaker_heading: TERRY
+dialog: Man, they were crying. I’ve never seen anything
+dialog: like it.
+speaker_heading: PHIL
+dialog: Me neither.
+speaker_heading: TERRY
+dialog: | like John.
+speaker_heading: PHIL
+dialog: Really. | like George. He sure can play that
+dialog: guitar.
+text: They both looked geeked up.
+speaker_heading: PHIL
+dialog: You just missed Lorraine. She threw a hairy
+dialog: fit at me for missing the meeting.
+text: Terry waves his hand disdainfully.
+dialog: 103
+speaker_heading: TERRY
+dialog: The Springfield Five. | mean, who gives a crap?
+dialog: Not me.
+speaker_heading: PHIL
+dialog: (chuckles)
+dialog: Not me, either.
+speaker_heading: TERRY
+dialog: Wanna come over my place? We could smoke
+dialog: some more reefer, y'know, maybe jam a little bit?
+dialog: What'dya say?
+speaker_heading: PHIL
+dialog: Really? Cool.
+speaker_heading: TERRY
+dialog: Cool’s out, man. No one’s saying it anymore.
+speaker_heading: PHIL
+dialog: Really? No kidding? What're they saying instead.
+speaker_heading: TERRY
+dialog: Tuff. T-U-F-F. It’s really tuff, y'know.
+speaker_heading: PHIL
+dialog: (nods)
+dialog: OK. Cool. | mean,Tuff.
+text: They both exit. We stay on the dark and empty exterior of the Purple Onion. We hear
+text: last night’s cheering crowd and Ronnie, the female member of the Four Feathers,
+dialog: speaking.
+speaker_heading: RONNIE (0.S.)
+dialog: Thank you. Thank you very much. Y’know, it
+dialog: just so happens we do have one more song.
+speaker_heading: DISSOLVE:
+scene_heading: INT. THE PURPLE ONION — NIGHT (Flashback)
+text: It’s the night before at the Purple Onion and the Four Feathers are on stage. They sing
+text: the song “Goodnight Irene” and the entire audience happily joins in, including Phil.
+dialog: 104
+speaker_heading: FOUR FEATHERS
+dialog: (singing)
+dialog: Irene Goodnight
+dialog: Irene Goodnight
+dialog: Goodnight Irene
+dialog: Goodnight Irene
+dialog: I'll see you in my dreams
+dialog: Last Saturday night | got married
+dialog: Me and my wife settled down
+dialog: Now me and my wife are parted
+dialog: I’m gonna take another stroll downtown
+dialog: Irene Goodnight
+dialog: Irene Goodnight
+dialog: Goodnight Irene
+dialog: Goodnight Irene
+dialog: I'll see you in my dreams
+dialog: Sometimes | live in the country
+dialog: Sometimes | live in the town
+dialog: Sometimes | take a great notion
+dialog: To jump in the river and drown
+dialog: Irene Goodnight
+dialog: Irene Goodnight
+dialog: Goodnight Irene
+dialog: Goodnight Irene
+dialog: I'll see you in my dreams
+dialog: (continued)
+speaker_heading: FOUR FEATHERS (cont.)
+dialog: You caused me to weep
+dialog: You caused me to moan
+dialog: You caused to leave my home
+dialog: But the very last words that | heard her say
+dialog: Were just sing me one more song
+dialog: Irene Goodnight
+dialog: Irene Goodnight
+dialog: Goodnight Irene
+dialog: Goodnight Irene
+dialog: I'll see you in my dreams
+dialog: 105
+dialog: Stop your ramblin’
+dialog: Stop your gamblin’
+dialog: Stop stayin’ out late at night
+dialog: Go home to your wife and your family
+dialog: Stay there by your fireside bright
+scene_heading: EXT. THE PURPLE ONION — NIGHT
+text: It’s the whole, big-deal folk scene going on in front of the club, folkies all over the place.
+speaker_heading: DISSOLVE:
+scene_heading: EXT. THE PURPLE ONION — NIGHT
+text: The building is abandoned, the lights are out and no one is around. One of Lorraine’s
+text: yellow flyers blows past.
+speaker_heading: FOUR FEATHERS (O.S.)
+dialog: (singing)
+dialog: Irene Goodnight
+dialog: Irene Goodnight
+dialog: Goodnight Irene
+dialog: Goodnight Irene
+dialog: I'll see you in my dreams
+dialog: Goodnight Irene
+dialog: Goodnight Irene
+dialog: I'll see you in my dreams...
+speaker_heading: FADE OUT.
+dialog: 

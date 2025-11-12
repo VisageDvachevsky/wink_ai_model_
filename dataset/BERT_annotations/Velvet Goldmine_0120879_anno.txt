@@ -1,0 +1,5640 @@
+dialog: 
+scene_heading: window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app13.us.archive.org';v.server_ms=901;archive_analytics.send_pageview({});});
+dialog: __wm.init("http://web.archive.org/web");
+scene_heading: __wm.wombat("http://www.geocities.com:80/moulingoldmine4/VGscript.html","20050104095225","http://web.archive.org/","web","/_static/",
+dialog: "1104832345");
+dialog: Velvet Goldmine Script
+dialog: <!--
+speaker_heading: p.MsoNormal
+dialog: {mso-style-parent:"";
+dialog: margin-bottom:.0001pt;
+dialog: font-size:12.0pt;
+dialog: font-family:"Times New Roman";
+dialog: margin-left:0cm; margin-right:0cm; margin-top:0cm}
+dialog: -->
+dialog: <!-- Hide from older browsers
+dialog: // No right click script v.2.5
+dialog: // (c) 1998 barts1000.
+speaker_heading: // barts1000@aol.com
+dialog: //http://fxcentral.webprovider.com
+dialog: // Don't delete this header!
+dialog: var message='I worked waaaay too long on this To find it on someone elses site would traumatise me That can mean aa very messy law suit these days So feel free to reference or copy this for your own use but DO NOT put it on another site ';
+dialog: //Message for the alert box
+dialog: // Don't edit below!
+dialog: function click(e) {
+dialog: if (document.all) {
+dialog: if (event.button == 2) {
+dialog: alert(message);
+dialog: return false;
+dialog: }
+dialog: }
+dialog: if (document.layers) {
+dialog: if (e.which == 3) {
+dialog: alert(message);
+dialog: return false;
+dialog: }
+dialog: }
+dialog: }
+dialog: if (document.layers) {
+dialog: document.captureEvents(Event.mousedown);
+dialog: }
+dialog: document.onmousedown=click;
+dialog: // -->
+speaker_heading: VELVET GOLDMINE
+dialog: Todd
+dialog: Haynes
+dialog: 
+dialog: Story by
+dialog: Todd Haynes
+dialog: and James Lyons
+speaker_heading: Screenplay transcribed by KATE (AKA [RHPS]
+dialog: Magenta) of Moulin
+dialog: Goldmine
+dialog: ~The lyrics
+dialog: are not in the screenplay, but can be found
+dialog: here~
+dialog: 
+dialog: *
+dialog: Though a labour of love, this script took quite some time to painstakingly and
+dialog: accurately transcribe for your benefit. You may use it for personal purposes,
+dialog: but DO NOT REPRODUCE it
+dialog: anywhere else on the net
+dialog: *
+dialog: 
+dialog: 
+dialog: * Although what you are about to
+dialog: see is a work of fiction,
+dialog: it should nevertheless be played at
+dialog: maximum volume *
+dialog: 
+speaker_heading: FEMALE NARRATOR
+dialog: (British)
+dialog: Histories,
+dialog: like ancient ruins, are the fictions of empire. While everything forgotten hangs
+text: in dark dreams of the past, ever threatening to return.
+dialog: 
+dialog: Sad mists of music rise as we
+speaker_heading: FADE UP TO:
+dialog: 
+scene_heading: EXT. A GALAXY OF STARS – NIGHT – 1854
+dialog: 
+dialog: We descend, music building.
+dialog: 
+text: A falling star soars across the sky
+text: and explodes in lavender sparks. Purple mists clear to reveal the rooftops of a
+dialog: storybook Dublin.
+dialog: 
+scene_heading: EXT. OLD DUBLIN – NIGHT – 1854
+dialog: 
+text: A luminous green spaceship is just
+text: making its ascent, leaving a trail of pink smoke.
+dialog: 
+dialog: In one grand synthetic
+text: WHOOSH the spacecraft disappears into the sky.
+dialog: 
+speaker_heading: EXT- WILDE RESIDENCE – NIGHT – 1854
+dialog: 
+text: We descend upon a lamp lit street of
+text: Gregorian townhouses.. A light appears in the lower part of one building. Its
+text: door opens and a Housemaid steps out. She discovers a small bundle at her feet.
+dialog: It’s a baby.
+dialog: 
+speaker_heading: HOUSEMAID
+dialog: Lord’n heaven-
+dialog: 
+text: She lifts it into her arms and looks
+dialog: up to the sky.
+dialog: 
+dialog: The last green traces of the
+text: spacecraft’s eerie glow can be seen through the clouds.
+dialog: 
+dialog: Madame Wilde! Richard! Come.
+dialog: Quickly!
+dialog: 
+dialog: A Male Servant appears with a
+text: lantern, followed by Mrs Wilde, a lean, middle-aged woman in a robe. They
+dialog: surround the Housemaid and her miraculous find.
+dialog: 
+dialog: CLOSE ON the Baby. Mrs Wild opens the
+text: blanket and reveals a luminous emerald pin, ornate and antique, clasped to the
+dialog: infant’s pinafore. Music rises as we:
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. CLASSROOM/IRISH BOY’S SCHOOL – DAY-
+dialog: 1862
+dialog: 
+text: TRACK past the ruddy-cheeked faces of
+dialog: eight year old school children standing and stating their future ambitions.
+dialog: 
+speaker_heading: SCHOOL CHILDREN
+dialog: I want to Be
+dialog: a Farmer. I want to be a Barrister. I want to be a Truck Driver.
+dialog: 
+dialog: Settle on the last child in the row,
+text: a solemn tow-haired boy whose seriousness is betrayed only by the cherry-redness
+text: of his lips.  A hand-made name card hanging from his neck reads ‘Oscar Wilde’.
+dialog: 
+speaker_heading: EIGHT YEAR OLD
+speaker_heading: OSCAR
+dialog: I want to be a pop idol.
+dialog: 
+dialog: He wears the emerald pin on his
+text: lavender cravat. It sparkles.
+dialog: 
+speaker_heading: FAST CUT TO:
+speaker_heading: EXT. ENGLISH
+speaker_heading: SCHOOLYARD -  DAY – 1955
+dialog: 
+speaker_heading: SUBTITLE-
+dialog: ‘One hundred years later...’
+dialog: 
+text: The camera soars over the Schoolboys
+text: fighting in a crowd. It isn’t immediately apparent that a century has passed,
+dialog: and the child being beaten is not the young Oscar Wilde but a designated
+dialog: ancestor.
+dialog: 
+dialog: Seven year old dandy Jack Fairy is
+text: being bashed to smithereens by fellow classmates, as others circle the massacre,
+text: throwing in kicks for good measure. The school bell rings and the young ruffians
+text: scurry off, leaving the boy face down in the yard.
+dialog: 
+dialog: In
+text: CLOSE UP Jack lifts his head and looks around. He examines his skinned
+text: knuckles and notices something shiny between two flagstones. He digs between
+text: them and loosens the small object. Rubbing off the dirt, he reveals Oscar’s pin.
+dialog: 
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. COUNTRY ROAD – SUNSET – 1955
+dialog: 
+dialog: Crane over little Jack walking home
+text: over artificial cobblestones and a setting sun. Music swells as we hear:
+dialog: 
+speaker_heading: FEMALE
+dialog: (voice-over)
+dialog: Childhood,
+dialog: adults always say, is the happiest time in life. But as long as he could
+dialog: remember, Jack Fairy knew better.
+dialog: 
+scene_heading: INT. JACK’S PARENTS’ BEDROOM – DUSK –
+dialog: 1955
+dialog: 
+dialog: Very
+text: CLOSE ON young Jack as he walks through the dark of his parent’s room to his
+text: mother’s vanity. He clasps the emerald pin to his shirt, stops in front of the
+text: mirror and looks up.
+dialog: 
+dialog: CLOSE ON the mirror: Jack’s lip is
+text: still bleeding. He touches it. Gently, he rubs the blood over his lips like
+text: lipstick. There is music and faint sparkles in the air.
+dialog: 
+speaker_heading: FEMALE
+dialog: (voice-over)
+dialog: Until one
+dialog: mysterious day, when Jack would discover that somewhere there were others quite
+dialog: like him, singled out for a great gift. And one day...
+dialog: 
+dialog: His eyes flash back to his
+dialog: reflection.
+dialog: 
+dialog: ...the whole stinking world
+dialog: would be theirs.
+dialog: 
+dialog: Jubilant guitars (‘Needles in the
+text: Camel’s Eye’/Brian Eno) as we swish to the mirror where young Jack, is laughing victoriously: ZOOM-IN.
+dialog: 
+speaker_heading: MAD CUT TO:
+dialog: 
+scene_heading: EXT. STREETS OF LONDON – TWILIGHT – 1974
+dialog: 
+text: A cluster of feet, scrambling down
+text: the streets of London, teetering on mountainous footwear. The boys and girls of
+text: glitter rock are rushing excitedly over the Waterloo Bridge, across the Strand,
+dialog: down Wellington Street, all to see their favourite glam star perform at the
+dialog: Lyceum Theatre.
+dialog: 
+speaker_heading: OPENING CREDITS
+dialog: 
+dialog: A Cluster of painted faces cram for
+text: space in front of a chrome bank building doing last-minute make-up and hair;
+dialog: they hurry off as we PAN UP to where someone
+text: has scrawled in lipstick: LAST MIRROR BEFORE MAXWELL!
+dialog: 
+dialog: The five skinny specimens scurry on,
+text: passing other platformed-heeled skinnies as they go. Malcolm, Ray, Pearl and
+dialog: Billy of the London trash-band The Flaming Creatures struggle to run in their
+text: outfits and Arthur follows in the pack.
+dialog: 
+text: A lean face watches them as they
+text: pass. He turns away. It’s Jack Fairy, late twenties, gaunt, striking, with old
+text: rouge hollowing his face. Arthur turns momentarily, recognizing Jack, then
+dialog: continues.
+dialog: 
+dialog: Some other passing glitter
+text: kids spot him as the as they pass. Song continues as we:
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT.  LYCEUM THEATRE – TWILIGHT – 1974 –
+speaker_heading: ‘NEWSREEL FOOTAGE’
+dialog: 
+dialog: Outside the theatre we ZOOM PAST a
+dialog: long line of Glitter Boys and Girls; super-foxes and she-bitches, ziggies,
+dialog: iggies, shags, queens, straight kids dressed up as queers, all anxiously
+text: awaiting the first glimpse of flam-rock idol Brian Slade.
+dialog: 
+dialog: But, looking closer, there is
+text: something dark bruised beneath the flash. Some kids look into cameras we
+text: TRACK UP, past their faces, to the name on the marquee.
+dialog: 
+dialog: We hear:
+dialog: 
+speaker_heading: BBC VOICE:
+dialog: (off-screen)
+dialog: Tonight the
+text: streets of London are ablaze in sparkle make-up and glittering frocks as the
+dialog: boys and girls of the current glam-rock craze pay tribute to their patron saint,
+dialog: pop-star Brian Slade and his space-age rock persona, Maxwell Demon.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. DRESSING ROOM – LYCEUM THEATRE –
+speaker_heading: NIGHT – 1974
+dialog: 
+dialog: TV Monitor: BBC Reporter stands out
+dialog: side the Lyceum Theatre.
+dialog: 
+dialog: CLOSE ON Brian Slade (aged twenty
+text: five), dressed as ‘Maxwell Demon’: his hair bright blue, his face an eerily
+text: effeminate mask. He is looking up at the TV screen through the mirror (quiet
+text: music beginning), before returning his attentions tot  a chessboard in front of
+dialog: him.
+dialog: 
+speaker_heading: BBC VOICE
+dialog: (off-screen)
+dialog: A palpable
+text: whir of anticipation can be felt outside London’s Lyceum Theatre as fans await
+dialog: the final show of Slade’s smash world tour.
+dialog: 
+dialog: A young woman with a Maxwell Demon
+text: haircut, Shannon, is shaking a can of hairspray. Brian closes his eyes as she
+dialog: sprays.
+dialog: 
+dialog: CLOSE ON Brian’s hand moving a
+dialog: knight.
+dialog: 
+dialog: Security
+text: around the performer has tightened following a recent BBC interview in which he
+dialog: admitted to premonitions of being assassinated on-stage.
+dialog: 
+text: Shannon’s spraying stops. Brian
+text: glances up to her in the mirror.
+dialog: 
+speaker_heading: BRIAN
+dialog: Turn it off.
+dialog: 
+text: Shannon flips off the set. There’s a
+text: loud knock at the door.
+dialog: 
+text: A Man’s head pops around the door,
+text: the sound of the PA pours in.
+dialog: 
+speaker_heading: MAN
+dialog: Brian? Time.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. LYCEUM THEATRE – STAGE – NIGHT –
+dialog: 1974
+dialog: 
+text: A HANDHELD shot follows Brian as he
+text: is whisked to the stage, large ornamental feathers are attached to his outfit.
+text: Another Assistant with a Maxwell Demon haircut hands him a lit cigarette and a
+text: glass of red wine on the way. The PA bellows thunderously throughout the hall.
+dialog: 
+speaker_heading: ANNOUNCER
+dialog: Ladies and
+dialog: gentlemen...The Lyceum Theatre in cooperation with Bijou Music is proud to
+dialog: present...
+dialog: 
+text: On-stage large fans are turned on, as
+text: stage hands begin blowing white feathers into the air. The roar of the audience
+dialog: builds.
+dialog: 
+text: A crowd swarms in front of the stage.
+text: Arthur is carried away from his friends in the surge. He looks back anxiously,
+text: catching sight of someone in the aisle.
+dialog: 
+text: A dark figure is slipping through the
+dialog: darkness toward the stage.
+dialog: 
+dialog: ...straight
+dialog: back from their fantastically successful European Tour...Maxwell Demon and The
+dialog: Venus in Furs!
+dialog: 
+dialog: Thunderous applause as the band
+text: breaks into an intro to ‘The Ballad of Maxwell Demon’.
+dialog: 
+dialog: On-Stage: Brian walks theatrically on
+text: stages and faces the crowd, under blue lights and a storm of feathers.
+dialog: 
+dialog: Brief shots in slow motion:
+dialog: Auditorium: Arthur catches sight
+dialog: of...
+dialog: 
+dialog: ...a shiny object being pulled out of
+text: someone’s coat and aimed at the stage. It’s a gun.
+dialog: 
+text: Arthur’s eyes grow wide. It fires.
+dialog: 
+text: Brian is catapulted into the air, his
+text: chest exploding in blood. He slowly sails back to the stage.
+dialog: 
+dialog: TRACE INTO Arthur, looking back to
+dialog: the gunman.
+dialog: 
+text: A dark figure vanishes amid the
+text: sudden panic as a chorus of sights takes over all sounds.
+dialog: 
+dialog: Very
+text: CLOSE ON chessboard. A knight takes a queen.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+dialog: Newspaper headline:
+dialog: 
+scene_heading: SINGER BRIAN SLADE SHOT ON-STAGE
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: EXT. LONDON STREET – MORNING – 1974
+dialog: 
+text: Arthur stands at the door of his flat
+text: reading the headline. He looks up to the grey skies over head. The sad,
+text: plaintive introduction to ‘Hot One’ begins.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+speaker_heading: EXT. ROOFTOP – DAY – 1974
+dialog: 
+dialog: Very
+text: CLOSE ON a young Crew-cut Boy, gazing up to the clouds with tears in his
+dialog: eyes. We hear his internal whisper:
+dialog: 
+speaker_heading: CREW-CUT BOY
+dialog: (voice-over)
+dialog: Put out the
+dialog: torches!
+dialog: Hide the
+dialog: moon!
+dialog: Hide the
+dialog: stars!
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: EXT. MONTAGE OF FACES – DAY – 1974
+dialog: 
+dialog: TRACE past three young Punks, looking
+text: up to the skies with open mouths.
+dialog: 
+dialog: New Your City Drag Queens, squinting
+dialog: into the sun.
+dialog: 
+dialog: Two teenage Girls in London, eyes
+dialog: closed.
+dialog: 
+dialog: As we hear:
+dialog: 
+speaker_heading: FEMALE NARRATOR
+dialog: (voice-over)
+dialog: For once
+dialog: there was an unknown land, full of strange flowers and subtle perfumes, a land
+dialog: of which it is joy of all joys to dream, a land where all things are perfect and
+dialog: poisonous...
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. LONDON CONCERT HALL – STAGE – NIGHT
+dialog: – 1972
+dialog: 
+text: As the song’s intro comes to an end
+dialog: and we descend, landing on:
+dialog: 
+dialog: A glistening
+dialog: CLOSE-UP of Brian, electric skin-tight purple space suit and blonde/magenta
+text: hair, as he starts to sing: ‘Hot One’.
+dialog: 
+dialog: Promo film: Brian portrays Maxwell
+text: Demon, the tragic space hero, while Trevor, his sexy lead guitarist, ablaze in
+dialog: silver sequins, fronts the cosmic back-up band. The combination of camp
+text: theatricality, melodic melancholy and searing guitar creates a strange mix:
+text: erotic and violent but elegantly detached at the same time.
+dialog: 
+text: Song continues as the screen suddenly
+dialog: flares white.
+dialog: 
+speaker_heading: MONTAGE (ARCHIVAL FOOTAGE): GLITTER KIDS
+dialog: – 1972
+dialog: 
+text: The chorus resumes under a slightly
+text: hokey Narrator, as we return to the promo film with a crude but hip montage of
+dialog: seventies London: shots of young people sporting glitter clothes and hairstyles.
+dialog: 
+speaker_heading: NARRATOR
+dialog: ...It
+dialog: appears today’s youngsters have fashioned a whole new bent on the so-called
+dialog: sexual liberation of the flower power set. The long hair and love-beads have
+dialog: given way to glitter make-up and platform shoes and a whole new taste for
+dialog: glamour, nostalgia and just plain outrageousness!
+dialog: 
+speaker_heading: CROSS FADE with following ‘on the
+dialog: street interviews’.
+dialog: 
+scene_heading: EXT. LONDON STREETS – DAY- 1972
+dialog: 
+text: HANDHELD TRACK past the painted faces
+dialog: of young Glitter Kids along the Carnaby Street, Sloan Street, Kings Road etc.
+dialog: 
+scene_heading: EXT. LONDON STREETS – DAY – 1972
+dialog: 
+dialog: An Old Woman and Middle Aged Man
+text: stand in front of a church.
+dialog: 
+speaker_heading: REPORTER
+dialog: Is London
+dialog: not shocked?
+dialog: 
+speaker_heading: OLD WOMAN
+dialog: London’s...improving.
+dialog: 
+speaker_heading: MIDDLE AGED MAN
+dialog: Well, I
+text: think it’s a disgrace, parading around all ponced-up like a pack of bleeding
+dialog: woofters. Bloody hell, what’ll they think up next?
+dialog: 
+scene_heading: EXT. LONDON HUSTLER STREET – DAY – 1972
+dialog: 
+text: TRACK with Brian dressed like a space
+text: tart, sashaying down a street full of Hustlers and Drag Queens.
+dialog: 
+text: Brian walks directly into the arms of
+text: a Sailor in white and kisses him firmly on the mouth.
+dialog: 
+speaker_heading: NARRATOR
+dialog: (voice-over)
+dialog: And heading
+dialog: up this flash stampede is none other than pop giant Brian Slade, who’s stylish
+dialog: escapades have paved the way for a whole new breed of performing artists. From
+dialog: Curt Wild and The Flaming Creatures, to Jack Fairy and Polly Small. Thanks to
+dialog: Slade, today’s youngsters are singing a whole new tune.
+dialog: 
+scene_heading: EXT. LONDON STREETS – DAY – 1972
+dialog: 
+dialog: Now, a teenage glitter couple: the
+text: Young Guy talks as his Girlfriend nods in agreement.
+dialog: 
+speaker_heading: REPORTER
+dialog: So you’re
+dialog: saying you’re bisexual?
+dialog: 
+speaker_heading: YOUNG GUY
+dialog: Yeah, I like
+dialog: boys, I like girls. They’re all great. There’s no difference is there? ...Mr BBC.
+dialog: 
+scene_heading: EXT. CONCERT HALL – DAY – 1972 – PROMO
+speaker_heading: FILM
+dialog: 
+dialog: Trevor, Brian’s lead guitarist, is
+text: being interviewed in front of a small crowd of screaming fans.
+dialog: 
+speaker_heading: TREVOR
+text: (on screen, then voice over ‘Imaginary Theatre’, then on
+dialog: screen)
+dialog: Rock music
+dialog: has always been a reaction against accepted standards. And homosexuality has
+text: been going on for centuries. At the moment having a ‘gay’ image is the ‘in’
+dialog: thing, just like a few years ago it was trendy to wear a long grey coat with a
+dialog: Led Zeppelin record under your arm.
+dialog: 
+speaker_heading: INT. (IMAGINARY) THEATRE – 1974
+dialog: 
+text: CLOSE ON a hand sliding onto Arthur’s
+text: crotch. Swish up to Arthur, who sees a sleazy Old Man leaning over, smiling
+dialog: faintly.
+dialog: 
+dialog: Back to the promo film.
+dialog: 
+speaker_heading: EXT CONCERT HALL – DAY – 1972
+dialog: 
+dialog: Curt is interviewed.
+dialog: 
+speaker_heading: CURT
+dialog: Everyone’s
+dialog: into this scene because it’s supposedly the thing to do right now. But you just
+dialog: can’t fake being gay. You know, if you’re gonna claim that you’re gay you’re
+dialog: gonna have to make love in gay style, and most of these kids... just aren’t
+dialog: going to make it.
+dialog: That line,
+dialog: ‘Everybody’s bisexual’, that’s a very popular thing to say right now.
+dialog: Personally, I think it’s meaningless.
+dialog: 
+speaker_heading: CARD:
+dialog: 
+text: A decorative, bright pink card reads:
+dialog: ‘Meaning is not in things but
+dialog: in between them.’
+dialog: -Norman Brown
+dialog: 
+dialog: 
+scene_heading: INT. LONDON CONCERT HALL – STAGE – NIGHT
+dialog: – 1972
+dialog: 
+dialog: Brian completes the final chorus of
+text: the song, ending in a crescendo. But, just as the house explodes in cheers, the
+dialog: sound and image freeze.
+dialog: 
+dialog: A beat of silence, before:
+dialog: 
+speaker_heading: NEWSPAPER:
+dialog: 
+text: A newspaper flies into frame with a
+dialog: blast of music. The headline reads:
+speaker_heading: ‘SLADE SHOOTING A HOAX’
+dialog: 
+scene_heading: INT. LONDON CONCERT HALL – STAGE – NIGHT
+dialog: – 1972
+dialog: 
+text: CLOSE ON Brian confiding to camera.
+dialog: 
+speaker_heading: BRIAN
+dialog: (a thunderous whisper)
+dialog: I knew I
+dialog: should create a sensation gasped the Rocket, and he went out.
+dialog: 
+speaker_heading: FREEZE FRAME:
+dialog: 
+dialog: Image burns and is pulled from the
+dialog: screen. White screen.
+dialog: 
+scene_heading: INT. SCREENING ROOM. (NEW YORK HERALD) –
+speaker_heading: DAY – 1984
+dialog: 
+dialog: CLOSE ON Arthur’s eyes, as he
+text: listens to a conversation, still deep in thought, after watching the promo
+dialog: newsreel  footage.
+dialog: 
+speaker_heading: MALE VOICE
+dialog: Alright,
+dialog: Lionel. You can turn it off now.
+dialog: 
+dialog: We hear other voices in the room; one
+dialog: or two other figures stand.
+dialog: 
+speaker_heading: FEMALE VOICE
+dialog: I don’t get
+dialog: it.
+dialog: 
+speaker_heading: MALE’S VOICE 2
+dialog: What don’t
+dialog: you get? It was a stunt. The guy fakes his own murder.
+dialog: 
+speaker_heading: FEMALE VOICE
+dialog: Yeah, but
+dialog: why?
+dialog: 
+speaker_heading: MALE VOICE 2
+dialog: Publicity
+dialog: 
+speaker_heading: LOU
+dialog: Arthur?
+dialog: 
+speaker_heading: SWISH PAN to Adult Arthur, a
+text: journalist for the Herald. He looks up.
+dialog: 
+dialog: Any recollection?
+dialog: 
+speaker_heading: ARTHUR
+dialog: Of what?
+dialog: 
+speaker_heading: LOU
+dialog: This – Slade
+dialog: fellow?
+dialog: 
+speaker_heading: ARTHUR
+dialog: (non-committal)
+dialog: What? He’s
+dialog: a...early 70’s glam rock singer
+dialog: 
+speaker_heading: MURRAY
+dialog: Told you we
+dialog: could count on Mr Old-Time Rock and Roll!
+dialog: 
+dialog: He and Mary snicker.
+dialog: 
+speaker_heading: ARTHUR
+dialog: (tuning to Lou)
+dialog: Count on me
+dialog: for what?
+dialog: (to Lou)
+dialog: I thought I
+dialog: was on the Reynolds trip.
+dialog: 
+speaker_heading: LOU
+dialog: Well you are.
+dialog: But the President isn’t due till the eighth and we need a piece for the
+dialog: Weekender now.
+dialog: 
+speaker_heading: ARTHUR
+dialog: (quiet, facetious)
+dialog: Great.
+dialog: 
+speaker_heading: LOU
+dialog: Aw, now,
+dialog: look. Next week is the tenth year anniversary of the whole shooting stunt
+dialog: incident. I’d like you to find out what happened. Where he is today. ‘What Ever
+dialog: Happened To Brian Slade?’ Okay?
+dialog: 
+text: Arthur looks away, shaking his head.
+dialog: 
+speaker_heading: ARTHUR
+dialog: And naturally
+dialog: you want me for this because I’m the resident Brit, right?
+dialog: 
+speaker_heading: LOU
+dialog: No.
+dialog: 
+dialog: Arthur stops.
+dialog: 
+dialog: I want you
+dialog: because you remember.
+dialog: 
+dialog: A smooth
+dialog: ZOOM IN to Arthur’s face..
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. NEW YORK PANORAMA – DAY – 1984
+dialog: 
+dialog: The burnt-out remains of New Your
+dialog: City and the subtitle:
+speaker_heading: NEW YORK CITY, 1984
+dialog: 
+dialog: 1984 New York is a decadent,
+dialog: seventies vision of an apocalyptic future a bombed-out, expressionistic city
+dialog: from which most people, wealthy or white, have already fled.
+dialog: 
+dialog: Melancholy music.
+dialog: 
+scene_heading: EXT. NEW YORK STREETS – DAY – 1984
+dialog: 
+dialog: Arthur walks home through a blue-gel
+text: twilight. Pulling out we reveal a grey industrial landscape, emptied of colour
+text: and life. A small line of National Guards Patrol the Area.
+dialog: 
+speaker_heading: ARTHUR
+dialog: (voice-over)
+dialog: Some
+dialog: meaningless prank, a decade old. Why was it suddenly up to me to figure out when
+dialog: clearly there was something, something from the past spooking me back? I didn’t
+dialog: realize at the time that it was you.
+dialog: 
+dialog: Rising in the distance, we hear the
+text: rumble of a crowd and the echoey bass of stadium rocker Tommy Stone’s song
+text: ‘People Rockin’ People’ over a loud speaker.  A Man’s voice follows, massive
+dialog: with echo.
+dialog: 
+speaker_heading: MALE VOICE
+dialog: Thank you
+dialog: Transelectric and CRA. Micro Atlanta and Dupree for their generous support.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: EXT. COURTHOUSE – NEW YORK – DAY – 1984
+dialog: 
+text: TRACK OVER the heads of a crowd of
+text: mostly kids, gathered around an enormous screen. Tommy Stone, a bleach-blonde
+text: corporate superstar, is being simulcast from a distant stadium filled with
+dialog: bleach-blonde fans.
+dialog: 
+text: Music continues louder.
+dialog: 
+speaker_heading: TOMMY STONE
+dialog: (on large outdoor TV screen)
+dialog: Thanks to
+dialog: President Reynolds’ Committee for Cultural Renewal for making this broadcast
+dialog: possible and thanks to you, the three billion viewers tuning in right now on
+dialog: global satellite...YEAH!
+dialog: 
+dialog: CLOSE ON: Arthur as the booming
+text: telecast fades and he descends the subway stairs.
+dialog: 
+scene_heading: INT. SUBWAY STAIRS – NEW YORK – DAY –
+dialog: 1984
+dialog: 
+text: A dark figure whisks by.
+dialog: 
+dialog: The man passing, a sinewy character
+text: in his late thirties, flashes a cool glance at Arthur before rushing out of
+dialog: sight. (We don’t know it yet but this is Curt Wild.)
+dialog: 
+dialog: Very
+text: CLOSE ON Arthur, struck as the road of an oncoming train rises with the
+dialog: music.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. SUBWAY – NEW YORK – DAY – 1984
+dialog: 
+text: A packed subway car, gnarled with
+text: damage and black with graffiti, flickers in and out of the darkness.
+dialog: 
+dialog: We hear:
+dialog: 
+speaker_heading: CHILD’S VOICE
+dialog: ‘Yesterday
+dialog: upon the stair
+dialog: I saw a man
+dialog: that wasn’t there’
+dialog: 
+dialog: A small Black Child in a Tommy Stone
+dialog: mask, is reading to her mother from a book,
+dialog: 
+speaker_heading: BLACK CHILD
+dialog: ‘He wasn’t
+dialog: there again today
+dialog: How I wish
+dialog: he’d go away.’
+dialog: 
+dialog: CLOSE ON Arthur listening. He turns
+text: and looks out his window.
+dialog: 
+dialog: Arthur’s reflection through
+text: flickering glimpses into passing trains and faces looking out.
+dialog: 
+speaker_heading: ARTHUR
+dialog: (voice-over)
+dialog: Ten years.
+dialog: Ten years and the world had changed so completely that the life I led in England
+dialog: seemed like someone else’s life. Someone else’s story. Anyone’s but mine.
+dialog: 
+dialog: Out of the melancholy score, a song
+text: from the past begins to rise.
+dialog: (‘Avenging Annie’/Andy Pratt).
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: EXT. PASSING STREETS OF SUBURBAN
+speaker_heading: MANCHESTER – DAY – 1973
+dialog: 
+speaker_heading: MALE TEACHER
+dialog: (off-screen)
+dialog: ‘There were
+dialog: times when it appeared to Dorian Gray that the whole of history was merely a
+dialog: record of his own life,’
+dialog: 
+scene_heading: EXT. SCHOOLYARD – MANCHESTER SUBURBS –
+speaker_heading: DAY – 1973
+dialog: 
+dialog: Three Kids in glitter-rock gear are
+text: running late to class, laughing and tripping on their flashy footwear. One of
+dialog: them is the Glitter Boy.
+dialog: 
+speaker_heading: MALE TEACHER
+dialog: (off-screen)
+dialog: ‘not as he
+dialog: had lived it in act and circumstance, but as his imagination had created it for
+text: him, as it has been in his brain and in his passions.’
+dialog: 
+scene_heading: INT. CLASSROOM – MANCHESTER – DAY – 1973
+dialog: 
+dialog: Teenage Arthur watches the kids
+text: through his classroom window. He returns his attention to his meticulous
+dialog: rendering on an exercise book of Brian Slade as Maxwell Demon.
+dialog: 
+dialog: The off-screen voice of the Teacher
+dialog: continues with the music.
+dialog: 
+speaker_heading: TEACHER
+dialog: ‘He felt that
+dialog: he had know them all, those strange, terrible figures that had passed along the
+dialog: stage of life, and made sin so marvellous and evil so full of subtlety.’
+dialog: 
+text: Suddenly Arthur looks up. Music
+text: stops. His Teacher is looking right at him. ‘Coz I love You’/Slade begins.
+dialog: 
+dialog: ‘It seemed
+dialog: that in some mysterious way, their lives had been his own...’
+dialog: 
+dialog: Music rises in volume with:
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. RECORD STORE- MANCHESTER – DAY –
+dialog: 1973
+dialog: 
+dialog: We
+dialog: TRACK past the display of recent releases: Spinners, Gilbert O’Sullivan, The
+dialog: Carpenters, etc.
+dialog: 
+dialog: Teenage Arthur searches pensively for
+text: a certain release. Then he spots it.
+dialog: CLOSE ON the Brian Slade album, The Ballad of Maxwell Demon.
+text: He gingerly reaches for a copy.
+dialog: 
+text: Arthur turns solemnly and begins
+text: approaching his Brother, who is standing with two
+text: Friends by the cash register, arguing over boy bands.
+dialog: Arthur approaches his brother who
+text: stands with a friend chatting to another behind the counter.
+text: Arthur Stands opposite his brother.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Can you lend
+dialog: us two quid? I got money at home.
+dialog: 
+speaker_heading: BROTHER
+dialog: You must be
+dialog: mental.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Please. I
+dialog: swear I’ve got it.
+dialog: 
+speaker_heading: BROTHER
+dialog: Piss off!
+dialog: 
+speaker_heading: ARTHUR
+dialog: Thanks.
+dialog: 
+speaker_heading: BROTHER
+dialog: ...what’s it
+dialog: for?
+dialog: 
+speaker_heading: ARTHUR
+dialog: Nothing.
+dialog: 
+speaker_heading: BROTHER
+dialog: Give us it
+dialog: here. Let’s have a look.
+dialog: 
+dialog: Arthur’s brother grabs the album out
+dialog: of his hands.
+dialog: 
+dialog: Bloody Nora!
+dialog: 
+dialog: Music rises as Arthur’s brother shows
+dialog: the record to his friends.
+dialog: Our kid’s one of them pansy
+dialog: rockers!
+dialog: 
+speaker_heading: FRIEND 1
+dialog: Fuckin’ hell!
+dialog: 
+speaker_heading: FRIEND 2
+dialog: (pointing to the record)
+dialog: He’s a
+dialog: fucking poof, that one there.
+dialog: 
+dialog: Arthur is completely confused.
+dialog: 
+speaker_heading: ARTHUR
+dialog: No he’s not.
+dialog: 
+speaker_heading: FRIEND 1
+dialog: That’s naff!
+dialog: 
+speaker_heading: FRIEND 2
+dialog: That’s naff.
+dialog: 
+speaker_heading: BROTHER
+dialog: (to Arthur)
+dialog: You’re
+dialog: disgustin’ -  you know that?
+dialog: 
+text: CLOSE ON Arthur, cheeks flushed with
+dialog: instinctive shame. Music rises.
+dialog: 
+scene_heading: EXT. ARTHUR’S STREET – MANCHESTER –
+speaker_heading: AFTERNOON – 1973
+dialog: 
+dialog: CLOSE UP TRACK with Arthur as he
+text: lumbers home, deep in though, trying to figure it all out. Slow pan down reveals
+dialog: the record under his arm.
+dialog: 
+scene_heading: EXT. ARTHUR’S HOUSE – MANCHESTER –
+speaker_heading: AFTERNOON – 1973
+dialog: 
+dialog: Continuous crane up as Arthur
+text: approaches his house and hurries in, slamming the door behind him.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+dialog: A series of brief,
+speaker_heading: CLOSE SHOTS:
+dialog: 
+scene_heading: INT. ARTHUR’S BEDROOM – MANCHESTER – DAY
+dialog: 1973
+dialog: 
+text: Arthur jams the door with a chair.
+dialog: 
+dialog: Album cellophane is peeled and
+dialog: crumpled.
+dialog: 
+text: A shiny record is slid out of its
+text: sleeve and placed on to a turntable.
+dialog: 
+text: The needle drops and glides into its
+text: groove, filling the room with a glorious, anticipatory hiss.
+dialog: 
+dialog: ‘Hot One’ begins.
+dialog: 
+dialog: Arthur opens up his new copy of the
+dialog: Melody Maker.
+dialog: 
+dialog: CLOSE ON the newsprint pages. Arthur
+text: turns to a fold-our spread on Brian Slade’s stage persona Maxwell Demon.
+dialog: 
+text: TRACE along a wall covered in glam
+text: posters and clippings, sketches and keepsakes. Arthur, dressed in a plaid
+dialog: jacket, is just leaving.
+dialog: 
+scene_heading: INT. ARTHUR’S LIVING ROOM – MANCHESTER-
+speaker_heading: DAY – 1972
+dialog: 
+text: Arthur slips out of his room and down
+dialog: the stairs of his house.
+dialog: 
+dialog: His parents, Mr and Mrs Stuart, sit
+text: frozen in front of the TV. They turn in unison as Arthur slips out the door.
+dialog: 
+speaker_heading: ARTHUR
+dialog: I’m just
+dialog: going out for a minute.
+dialog: 
+scene_heading: EXT. ARTHUR’S HOUSE – MANCHESTER – DAY –
+dialog: 1972
+dialog: 
+dialog: Arthur stashes his jacket  in the
+text: bushes and takes off down the road.
+scene_heading: EXT. MANCHESTER STREETS – DAY – 1972
+dialog: 
+dialog: Arthur has a ‘cool day’ walking
+text: downtown Manchester in his skin-tight chest hugging blue small t-shirt, with
+text: cherry picture on front, and sparking buttons/badges attached.
+dialog: 
+dialog: A small group of brightly clad
+text: Glitter Kids stand around a bench smoking and ignoring everyone around them.
+dialog: 
+dialog: The one boy in the group, previously
+text: seen running late for class, glances over checking out Arthur.
+dialog: 
+speaker_heading: CLOSE ON Arthur:
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. SUBWAY CAR – NEW YORK – DUSK – 1984
+dialog: 
+dialog: Adult Arthur staring out of a subway
+text: car, stopped at a station. Arthur looks out on to the station platform. The
+text: doors begin to close. Suddenly Arthur realizes what stop it is and scrambles for
+dialog: the door.
+dialog: 
+dialog: Music rises (‘The Fat Lady of
+dialog: Limbourg’/Brian Eno) with the sound of a seventies news broadcast:
+dialog: 
+speaker_heading: NEWSCAST
+dialog: (voice-over)
+dialog: Today in
+dialog: London officials confirmed that the February 5th shooting of singer
+text: Brian Slade at London’s Lyceum Theatre was a publicity stunt, mounted by the
+dialog: singer’s company, Bijou Music Limited.
+dialog: 
+speaker_heading: NEWSPAPER ON MICROFILM
+dialog: 
+dialog: A 1974 headline reads:
+text: ‘BRIAN SLADE SHOOTING A DECLARED A HOAX’
+dialog: 
+dialog: TRACK IN to story below, subtitled:
+text: ‘BETRAYED FANS STRIKE OUT’
+dialog: 
+scene_heading: INT. NEWSROOM LIBRARY – NIGHT – 1984
+dialog: 
+dialog: Slow
+text: TRACK IN to Arthur reading the story, colourless in the negative light.
+dialog: 
+speaker_heading: NEWSCAST
+dialog: (voice-over)
+dialog: Manager Jerry
+dialog: Devine announced today that his company meant ‘no harm in their escapades’,
+dialog: that it was intended solely as ‘entertainment’....
+dialog: 
+dialog: The sound of the newscast cross-fades
+dialog: with that of Jerry Devin, Brian’s Manager.
+dialog: 
+scene_heading: EXT. BIJOU OFFICES – DAY – 1974 –
+speaker_heading: NEWSREEL FOOTAGE: HANDHELD
+dialog: 
+text: Devine speaks to a camera crew as he
+text: walks from his car up the steps of his Chelsea office building.
+dialog: 
+speaker_heading: DEVINE
+dialog: Very
+dialog: unfortunate and sad that, in this day and age, an artist’s quest for artistic
+dialog: freedom should cost him his career.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. WEST BERLIN CAFÉ – DAY – 1974
+speaker_heading: NEWSREEL FOOTAGE
+dialog: 
+dialog: Curt Wild is being interviewed by a
+text: German television crew in a modern Kaffee Haus. Beside him sits Jack Fairy.
+dialog: 
+speaker_heading: INTERVIEWER
+dialog: (off-screen)
+dialog: Warum, denken
+dialog: Sie? Warum –
+dialog: 
+speaker_heading: TRANSLATOR
+dialog: (off-screen)
+dialog: Why do you
+dialog: think?
+dialog: 
+dialog: Subtitles read:
+speaker_heading: CURT WILD – JACK FAIRY – WEST BERLIN
+dialog: 
+speaker_heading: CURT
+dialog: (irritably)
+dialog: I dunno..I
+dialog: dunno, it got too big I guess. It got too schizoid, you know? I mean...he
+dialog: thought he fucking was Maxwell Demon in the end – you know? And Maxwell
+dialog: Demon...he thought he was God.
+dialog: 
+speaker_heading: BACK TO:
+dialog: 
+scene_heading: INT. NEWSROOM LIBRARY – NIGHT – 1984
+dialog: 
+dialog: Music continues as Arthur scans through
+dialog: another roll of microfilm.
+dialog: 
+dialog: A montage of headlines:
+speaker_heading: ‘BRIAN SLADE SALES PLUMMET’
+dialog: 
+speaker_heading: ‘BRIAN SLADE UK TOUR CANCELLED’
+dialog: 
+text: ‘SINGER BRIAN SLADE SCHEDULED TO HOST TEEN POPSWOP AWARDS’
+dialog: 
+scene_heading: ‘SINGER BRIAN SLADE CHARGED WITH COCAINE POSSESSION’
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+dialog: Reference book:
+dialog: 
+dialog: We follow Arthur’s finger as he
+text: scrolls down a periodicals listing for Brian Slade. After 1974 references are
+text: scarce. Arthur’s finger stops at the last date: September 1977.
+dialog: 
+text: He looks up, pensive. Music is
+dialog: suspicious.
+dialog: 
+dialog: We hear:
+dialog: 
+speaker_heading: MALE VOICE
+dialog: (off-screen)
+dialog: Brian Slade?
+dialog: Oh yes.
+dialog: 
+dialog: Briefly:
+dialog: 
+speaker_heading: BEDROOM – DAY – 1969
+dialog: 
+dialog: Grainy
+text: image of two men having sex in morning light – one of them is Brian.
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. CITY HOSPITAL, NEW YORK – DAY –
+dialog: 1984
+dialog: 
+dialog: CLOSE ON the unshaven face of a
+dialog: fifty-three-year-old Cecil Drake, Brian’s first manager, remembering.
+dialog: 
+speaker_heading: CECIL
+dialog: Quite well.
+dialog: 
+text: Arthur stands opposite with a
+dialog: notepad.
+dialog: 
+dialog: ...Once upon a
+dialog: time.
+dialog: 
+dialog: With that Ceil pivots around in his
+text: wheelchair and takes off down the narrow corridor of the decrepit city hospital.
+dialog: 
+text: Arthur scurries after, calling out as
+dialog: he goes:
+dialog: 
+speaker_heading: ARTHUR
+dialog: So?
+dialog: 
+speaker_heading: CECIL
+dialog: Yes?
+dialog: 
+speaker_heading: ARTHUR
+dialog: What was he –
+dialog: what was he like?
+dialog: 
+speaker_heading: CECIL
+dialog: Who’s that –
+dialog: Brian?
+dialog: 
+speaker_heading: ARTHUR
+dialog: Yes –
+dialog: 
+text: Cecil makes a sudden turn off near
+text: the elevators. Arthur turns and follows.
+dialog: 
+text: CLOSE ON Cecil facing a dirt window,
+dialog: suddenly quite still.
+dialog: 
+speaker_heading: CECIL
+dialog: (quietly)
+dialog: Like nothing
+dialog: I’d ever seen before.
+dialog: 
+text: Arthur stands behind, watching him.
+dialog: 
+dialog: And in the
+dialog: end...like nothing appeared.
+dialog: 
+text: A quiet draw of music pulls Arthur on
+dialog: to a seat opposite.
+dialog: 
+dialog: SLOW TRACK into Cecil, recalling a
+dialog: quotation:
+dialog: 
+dialog: He was
+text: elegance, walking arm in arm with a lie.
+dialog: 
+dialog: Music grows.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. BRIAN’S BEDROOM – BIRMINGHAM – DAY
+dialog: – 1956
+dialog: 
+dialog: Slow
+text: TRACK past the face of an angelic seven-year-old boy, combing his hair in the
+text: mirror with steely concentration. Brian Slade, immaculately dressed, puts down
+text: the comb and stares at his perfect reflection.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: His real
+dialog: name, in fact was Thomas, and his father owned a small tiling business in
+dialog: suburban Birmingham. But Brian never cared much for the suburbs and, as a young
+dialog: boy, had the rare fortune of spending a summer in London with his aunt –
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. MUSIC HALL – LONDON – NIGHT – 1956
+dialog: 
+text: TRACK along the floorboards of a
+text: last-legs music-hall, where a smoky vaudeville act is glimpsed through fringed
+dialog: curtains and footlights.
+dialog: 
+text: Brian is creeping along the rim of
+text: the orchestra pit, observing show and backstage antics alike.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: - a figure
+dialog: of some ill repute in the Slade family, after she married a cockney in the
+dialog: ‘entertainment field’ and followed him off to Deptford.
+dialog: 
+text: Backstage, Brian spots his fat,
+text: moustached Uncle, the director, ordering people around in a sweaty huff.
+dialog: 
+text: Brian settles into a sliver of light
+text: and watches the rest of the performance with intensity.
+dialog: 
+dialog: The wiggly, over-painted Singer (a
+text: man dressed as a dame stuffed into a bustier), is belting out a saucy number.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. BACKSTAGE – MUSIC HALL – NIGHT –
+dialog: 1956
+dialog: 
+dialog: A comedian with zany-sound effects is
+text: heard in the distance as Brian tiptoes up a dark stairway.
+dialog: 
+text: At the top of the stairs he spots a
+text: dressing-room door, partly open. From inside, he hears the sound of a woman in
+dialog: distress.
+dialog: 
+text: Cautiously, he approaches. He peers
+dialog: in through the crack.
+dialog: 
+dialog: All we see is a woman’s red-nailed
+text: hand pushing against a large man.
+dialog: 
+dialog: Brian inches the door open for a
+dialog: better view.
+dialog: 
+scene_heading: INT. DRESSING ROOM – MUSIC HALL – NIGHT
+dialog: – 1956
+dialog: 
+dialog: His fat Uncle, in
+text: CLOSE UP, spots him and winks. Quick zoom out: revealing him seated on a
+text: dressing room table, pants open, with the head of the Transvestite Singer
+text: between his legs, in the throws of fellatio.
+dialog: 
+text: Brian stares in shock.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: Brian’s
+dialog: tender introduction to the theatrical underworld would leave a dramatic
+dialog: impression.
+dialog: 
+dialog: His Uncle blows the boy a little
+dialog: kiss.
+dialog: 
+dialog: Brian’s eyes bulge. We hear a
+text: high-pitched, Little Richard squeal.
+dialog: 
+speaker_heading: WILD SWISH PAN TO:
+dialog: 
+scene_heading: INT. SLADE LIVING ROOM – EVENING – 1956
+dialog: 
+dialog: With a musical bang, Brian (aged
+text: seven) slides into frame, dressed in a black pompadour wig and make-up – as
+text: Little Richard. He performs ‘Tutti Fruiti’ in his own piercing falsetto, singing
+text: the song with its ‘original’ lyrics, and playing up each sexual innuendo with
+dialog: broad, Little Richard gestures.
+dialog: 
+speaker_heading: BRIAN
+dialog: (sings)
+dialog: A wop bop a
+dialog: lu bop a wop bam boom (etc)
+dialog: 
+dialog: At the end of the song Little Brian
+text: finished with a saucy bang (pelvic thrust).
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. STONE LIVING ROOM – EVENING – 1956
+dialog: 
+dialog: Brian’s Parents, Gran and Brother sit
+dialog: watching , dumbstruck, as ‘Do You Want To Touch Me (Oh Yeah)’/Garry Glitter
+dialog: begins.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. BIRMINGHAM STREET – DAY – 1965
+dialog: 
+dialog: Brian Slade (aged sixteen), the
+text: perfect, mod, is in the midst of deep-mouth kissing his perfect Mod Girlfriend.
+text: He wears a tailored jacket, tight trousers, and has a puffed bouffant – dyed and
+dialog: lacquered.
+dialog: 
+dialog: As the finish, she asks:
+dialog: 
+speaker_heading: MOD GIRLFRIEND
+dialog: So what are
+dialog: you, a mod or a rocker?
+dialog: 
+speaker_heading: BRIAN
+dialog: Six of one,
+dialog: half a dozen of the other, really.
+dialog: 
+text: Brian winks, pecks her on the cheek
+text: and we pull out. The Mod Girlfriend gets on her bicycle and rides off. Brian
+dialog: waves goodbye and turns, joining two
+text: other Mod Boys, leaning against a wall, posing with cigarettes.
+dialog: 
+dialog: A pack of uniformed Schoolboys are
+dialog: passing.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: Taking their
+dialog: cue from Little Richard, the swank London mods – short for modernists – were the
+dialog: first to wear mascara and lacquer their hair, the first true dandies of pop –
+dialog: and known to just about any indiscretion where a good suit was involved.
+dialog: 
+dialog: One pretty Tow-haired Boy, busily
+text: winding a bright gold watch, lags behind the rest.
+dialog: 
+text: Brian notices him pass.
+dialog: 
+dialog: The Tow-haired Boy stops and looks
+text: over his shoulder at Brian.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. BRIAN’S BEDROOM – BIRMINGHAM – Day
+dialog: – 1965
+dialog: 
+dialog: CLOSE PAN UP Brian, slipping the gold
+text: watch into his pocked and removing his tie. His eyes are fixed on something
+dialog: below him.
+dialog: 
+dialog: Full shot: Brian stands opposite the
+text: Boy, spread out on his bed, face down and bare-bottomed.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: Style always
+text: wins out in the end.
+dialog: 
+text: Brian’s tie drops to the floor.
+dialog: 
+dialog: Freda Payne/‘Band of Gold’.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. SOMBRERO CLUB – LONDON – NIGHT –
+dialog: 1971
+dialog: 
+dialog: A Drag Singer lip-syncs with the
+text: song, on a small club stage draped in gold spangles.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: For Brian,
+dialog: the mods were a glamorous call to arms -  or at least, to London, where, three
+dialog: years later, at the Sombrero Club in Kensington,
+dialog: 
+dialog: Cecil sits with two middle-aged gay
+dialog: friends at a table.
+dialog: 
+dialog: I would hear
+dialog: him sing for the very first time.
+dialog: 
+dialog: The Singer finishes and the club
+text: cheers. Packed to the gills; the streaming club swarms with the finest of
+dialog: London trash and glamour.
+dialog: 
+dialog: Everything,
+dialog: it seemed, started at the Sombrero. No club in London had more notorious sway.
+dialog: And there, at the centre of it was Brian’s American wife, Mandy, who’s dramatic
+dialog: transformation to London party girl was a constant source of amusement to us
+dialog: all.
+dialog: 
+speaker_heading: MANDY
+dialog: You all know
+dialog: me – subtlety’s my middle name. It’s as subtle as the piece of skin between my
+dialog: vagina and my anus – ooh la! la!
+dialog: (laughter)
+dialog: Now what’s
+dialog: that called, I can never quite remember...No man’s land? Oh gosh – my
+dialog: geesh, dah-ling! Now, ladies and gentlemen, boys and girls – and whomever
+dialog: else may be in the house this evening...
+dialog: 
+text: The club starts to clap and cheer.
+dialog: 
+dialog: It is my
+dialog: supreme pleasure to introduce all you lovely little minxes here tonight to the
+dialog: Sombrero Club’s prettiest star – and my most shimmering hubby! –  I give you
+dialog: Brian Slade!
+dialog: 
+text: Brian walks out from the shimmer of
+text: spangle drapes, swathed in satin and pearl like a pantomime damsel. His hair at
+text: this point is long and reasonably straight.
+dialog: 
+dialog: He and Mandy kiss and raise their
+dialog: joint hands: the perfectly androgynous, bisexual couple of the seventies. Music
+text: begins as Mandy walks off and Brian steps to the mike, performing ‘2HB’/Roxy
+dialog: Music.
+dialog: 
+text: Cecil stares in quiet, amorous shock
+dialog: while his companions make the customary cracks.
+dialog: 
+speaker_heading: FRIEND 1
+dialog: Ooo, varda
+dialog: Mistress Bona!
+dialog: (Subtitle reads: ‘Say have a look at “Miss Beautiful”!’)
+dialog: 
+speaker_heading: FRIEND 2
+dialog: Varda the
+dialog: omie palome!
+dialog: (Subtitle: Have a look at the homosexual!’)
+dialog: 
+speaker_heading: FRIEND 1
+dialog: A tart, my
+dialog: dears, a tart in gildy clobber!
+dialog: (Subtitle: ‘A slut, mates, a slut in fancy clothes!’)
+dialog: 
+dialog: Cecil is captivated.
+dialog: 
+speaker_heading: CECIL
+dialog: Who is he?
+dialog: 
+text: Friend one is suddenly at one ear.
+dialog: 
+speaker_heading: FRIEND 1
+dialog: Some scrubber
+dialog: my dear, I do assure you.
+dialog: 
+dialog: With Friend 2 at the other.
+dialog: 
+speaker_heading: FRIEND 2
+dialog: But not that
+dialog: scruffy, as I last recall.
+dialog: 
+speaker_heading: FRIEND 1
+dialog: Ooh, you’re
+dialog: wicked.
+dialog: 
+text: Cecil tosses a smirk at both of them
+text: and stands. He straightens his blazer and heads off towards the stage for a
+dialog: better view.
+dialog: 
+dialog: Cecil’s friends watch him go,
+dialog: incredulous.
+dialog: 
+speaker_heading: FRIEND 1
+dialog: She won’t be
+dialog: home tonight.
+dialog: (Subtitle: ‘He won’t be home tonight.’)
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: So I
+dialog: introduced myself. Told him I was developing my own management company, and on
+dialog: the look-out for new talent. He introduced me to his wife, asked me what sign I
+dialog: was, and before the week was out – we were signing contracts.
+dialog: 
+dialog: Brian catches sight of Cecil and
+text: gives him a little smile.
+dialog: 
+dialog: You see,
+dialog: Brian believed in the future.
+dialog: 
+dialog: Music rises over:
+dialog: 
+speaker_heading: CUT TO:
+speaker_heading: MONTAGE (ARCHIVAL FOOTAGE): LONDON
+speaker_heading: HIPPIES
+dialog: 
+dialog: We see footage of late sixties hippie
+dialog: culture.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: He despised
+dialog: the hypocrisy of the peace and love generation and felt his music spoke far more
+dialog: to its orphans and its outcasts. His revolution, he used to say, will be a
+dialog: sexual one.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: EXT. OUTDOOR CONCERT – SOUTH-WEST
+speaker_heading: ENGLAND – DAY – 1971
+dialog: 
+dialog: We
+text: TRACK over a mass of grungy hippies, gathered for an all-day concert, staring
+text: at the stage with perplexed expressions.
+dialog: 
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: But in 1970,
+dialog: rock audiences bred on Credence Clearwater and the Beatles were not entirely
+dialog: sure what to make of this particular brand of revolt.
+dialog: 
+text: On-stage, under a large red canopy,
+text: Brian performs a song (‘Sebastian’/Cockney Rebel) on acoustic guitar, in a scarf
+text: and with a white face, still with long hair. Wearing a long purple velvet dress
+text: and matching sueded boots, he sings with far greater affectation than before.
+text: For a moment it appears as if he’s become Jack Fairy.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. HOSPITAL – NEW YORK – DAY – 1984
+dialog: 
+speaker_heading: CECIL
+dialog: Somehow he
+dialog: got it into his head that he had to perform in a frock – Don’t ask me why. I
+dialog: mean, I thought it was a bit naughty, a bit of a giggle, but...
+dialog: 
+speaker_heading: RETURN TO:
+dialog: 
+scene_heading: EXT. OUT DOOR CONCERT – DAY – 1971
+dialog: 
+dialog: Cecil and Mandy watch from the
+text: audience. In front of them a Hippie is joined by his Hippie Friend.
+dialog: 
+speaker_heading: HIPPIE FRIEND
+dialog: Who’s this
+dialog: geezer, then?
+dialog: 
+speaker_heading: HIPPIE
+dialog: Some
+dialog: shirt-lifter from Birmingh’m.
+dialog: 
+dialog: Hisses from the audience, followed by
+dialog: a few shouts.
+dialog: 
+speaker_heading: AUDIENCE
+dialog: Get the fuck
+dialog: off! Cut the shite! Bugger off, you woofter!
+dialog: 
+dialog: Brian struggles to finish, glancing
+dialog: over to Cecil in the audience.
+dialog: 
+scene_heading: BACKSTAGE – OUTDOOR CONCERT – LAST DAY –
+dialog: 1971
+dialog: 
+text: Mandy is a gush of enthusiasm as she
+text: and Cecil trail Brian, who quickly collects his belongings. Hard rock on the PA
+text: billows from the stage.
+dialog: 
+speaker_heading: MANDY
+dialog: Darling,
+dialog: darling you were faaabulous! Every bit! I was beaming- truly – like
+dialog: someone’s mum. And they adored you! The whole lot – transported!
+dialog: 
+speaker_heading: BRIAN
+dialog: (to Cecil)
+dialog: Transported!
+dialog: – We went down like a fuckin’ knackered lift!
+dialog: 
+speaker_heading: CECIL
+dialog: Brian, I tell
+dialog: you, I think it’s simply a matter of presentation, and with the proper back up-
+dialog: 
+speaker_heading: BRIAN
+dialog: Back-up! What
+dialog: happened to Judy Garland!? What happened to all your bloody torch song rubbish!?
+dialog: 
+speaker_heading: CECIL
+dialog: I know, I
+dialog: know, in a cabaret, but in the context of a rock show, I can see now it’s a bit
+dialog: more dodgy. But the act is there. The act was there, wasn’t it?
+dialog: All it needs –
+dialog: 
+dialog: Blaring from the stage, the
+dialog: Announcer’s voice on the PA:
+dialog: 
+speaker_heading: ANNOUNCER
+dialog: (off-screen)
+dialog: Next up, all
+dialog: the way from New York City-
+dialog: 
+speaker_heading: CECIL
+dialog: (as Brian storms from the backstage tent with his things)
+dialog: Brian!?
+dialog: 
+speaker_heading: ANNOUNCER
+dialog: (off-screen)
+dialog: 
+dialog: - lead singer and founder of the greatest garage band know to mankind...– CURT
+speaker_heading: WILD!
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. OUTDOOR CONCERT –  NIGHT – 1971
+dialog: 
+dialog: Brian, Mandy and Cecil are walking
+text: out as a deep, brooding guitar begins and a man's singing scream from on stage is heard.
+dialog: 
+dialog: Brian can’t help but look.
+dialog: 
+text: On-stage, a dark figure appears.
+dialog: Track in music rising
+dialog: 
+dialog: Briefly:
+dialog: 
+scene_heading: INT. HOSPITAL – NEW YORK – DAY – 1984
+dialog: 
+dialog: Arthur looks up at Cecil,
+speaker_heading: CLOSE.
+dialog: 
+speaker_heading: CECIL
+dialog: (to camera)
+dialog: Curt Wild.
+dialog: 
+speaker_heading: FAST RETURN:
+dialog: 
+scene_heading: EXT. OUTDOOR CONCERT – STAGE – NIGHT –
+dialog: 1971
+dialog: 
+dialog: Lights and a bold of guitars ignite
+text: the stage (‘TV Eye’/The Stooges.) Curt Wild, aged twenty-five, clad in no more
+text: than black leather pants, lifts a can of oil into the air and starts covering
+dialog: himself with it’s contents.
+dialog: 
+dialog: Brian has stopped, stricken by what
+text: he sees. Slow TRACK IN.
+dialog: 
+text: Curt throws the oil away and begins
+text: rubbing his glistening body and groin along to the words.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: Curt Wild,
+dialog: Founder of the influential garage band, The Rats –
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: EXT. WOODS – MICHIGAN – NIGHT – 1946
+dialog: 
+dialog: Dark hand-held glimpses of wolves
+text: moving in a pack, close to camera.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: - came from
+dialog: the aluminium trailer parks of Michigan -  though rock folklore claims far more
+dialog: primitive origins.
+dialog: 
+scene_heading: EXT. OUTDOOR CONCERT – STAGE – NIGHT –
+dialog: 1971
+dialog: 
+text: CLOSE ON Curt as he lifts a huge jar
+text: of gold glitter into the air and begins to slowly shower himself, top to bottom,
+dialog: with the sparkling substance.
+dialog: 
+dialog: Intercut between Curt’s glitter
+dialog: raining and the following shots.
+dialog: 
+dialog: Brian, his attention rapt. Rack to
+text: Cecil, behind him, noticing.
+dialog: 
+dialog: TRACKING over the audience,
+text: tightening in waves. They runt restless and noisy, fighting amongst themselves,
+dialog: throwing things.
+dialog: 
+dialog: Curt responds by giving them the
+dialog: finger.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: According to
+dialog: legend, when Curt was thirteen –
+dialog: 
+dialog: Briefly:
+dialog: 
+scene_heading: EXT. TRAILER HOME – MICHIGAN – DAY –
+dialog: 1960
+dialog: 
+dialog: Curt’s half naked Brother and Sister
+text: play in the backyard, spraying each other with water, causing their clothes to
+text: cling tightly – and all for the benefit of thirteen -year-old Curt, who sits
+dialog: watching.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: - he was
+text: discovered by his mother in the family loo, at the ‘service’ of his older
+dialog: brother -
+dialog: 
+speaker_heading: FAST RETURN TO:
+dialog: 
+scene_heading: EXT. OUTDOOR CONCERT – STAGE – NIGHT –
+dialog: 1971
+dialog: 
+dialog: - and
+dialog: promptly shipped off for eighteen months of electric shock treatment.
+dialog: 
+text: The audience roars through.
+dialog: 
+text: Curt unzips his tight leather pants
+text: thrusting his pelvis to the crowd, he jumps around to face the band, letting the
+text: pants fall to his ankles, revealing everything.
+text: He bends over and moons the crowd,
+text: then looks through the gap between his legs.
+text: Standing back up, he faces the crowd
+text: giving them a front on view of his glistening and glitter covered naked body.
+text: Grinning and laughing at their varied shouts, he gives them the finger with
+text: both hands, while proudly thrusting forward his pelvis, then beckons them with a
+text: ‘bring it on’ gesture of his hands.
+text: Finally he jumps to the ground, and
+text: then stands, deliciously sliding his leather pants over his rear, back to rest
+dialog: on his hips.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. WAYNE COUNTRY SANITARIUM – MICHIGAN
+speaker_heading: – DAY – 1960
+dialog: 
+text: Doors swing open to the psych ward
+dialog: and we whisk through.
+dialog: 
+dialog: Curt, strapped down to the travelling
+text: gurney, hooked up with electrodes, comes to a sudden halt. He looks up at:
+dialog: 
+dialog: His family (Ma, Pa, Brother and
+text: Sister), all looking down at him.
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: The doctors
+dialog: guaranteed the treatment would fry the fairy clean out of him.
+dialog: 
+text: Curt’s brother gives him a wink.
+dialog: 
+dialog: But all it
+dialog: did was make him bonkers –
+dialog: 
+scene_heading: EXT. OUTDOOR CONCERT – STAGE – NIGHT –
+dialog: 1971
+dialog: 
+speaker_heading: CECIL
+dialog: (voice-over)
+dialog: - every time
+dialog: he heard electric guitar.
+dialog: 
+text: A guitar amp is turned up full
+text: volume, making a sound mimicking that of a doctor turning on a electro shock
+dialog: device.
+text: The audience roars in delirium.
+text: Someone throws a paper torch on to the stage and all the oil goes up.
+dialog: 
+text: Surrounded in flames, Curt shrieks
+text: victoriously, glaring at the audience.
+dialog: Brian stands in complete awe of the
+dialog: spectacle before him.
+text: All at once he goes running off the
+text: edge of the stage, leaping into the swarm of spectators (and crowd surfs).
+dialog: 
+speaker_heading: SUDDEN CUT TO:
+dialog: 
+scene_heading: EXT. PARK HILLSIDE – SUNRISE – 1971
+dialog: 
+text: Quiet. Brian looks out at the dawn.
+dialog: 
+text: He sits with Mandy on a grassy hill,
+dialog: near the concert grounds.
+dialog: 
+speaker_heading: BRIAN
+dialog: (quietly)
+dialog: They despised
+dialog: him.
+dialog: 
+dialog: Cecil’s eyes open from half-sleep,
+text: leaning against a nearby tree.
+dialog: 
+speaker_heading: MANDY
+dialog: (also quietly)
+dialog: Yeah. But
+dialog: when you’re abused like that...you know you’ve touched the stars.
+dialog: 
+speaker_heading: CLOSE ON Brian against early morning
+dialog: skies.
+dialog: 
+speaker_heading: BRIAN
+dialog: I know. I
+dialog: just –
+dialog: 
+text: Mandy looks at him.
+dialog: (softly, as if to himself)
+dialog: - just wish
+dialog: it’d been me. Wish I’d thought of it.
+dialog: 
+dialog: Quiet waves of music: Mandy is
+dialog: touched by his confession.
+dialog: 
+speaker_heading: MANDY
+dialog: (tenderly)
+dialog: You will, luv. You will.
+dialog: 
+text: ZOOM IN as Brian turns. He looks at
+text: her as an upbeat glam song begins (‘The Ballad of Maxwell Demon’/Shudder to
+dialog: Think), the first to tell the story of a tragic space hero named Maxwell Demon.
+dialog: 
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+speaker_heading: LONDON ROOFTOPS – DUSK - PAINTING
+dialog: 
+dialog: In a Disney
+text: CLOSE-UP Curt Wild winks to camera, and turns. ZOOM
+text: OUT as he leaps into a chimney-stack against a painted backdrop.
+dialog: 
+dialog: The
+text: ZOOM continues, revealing the rooftop vista in a gilded frame and hanging in
+dialog: an empty white space.
+dialog: 
+speaker_heading: INT. WHITE SET
+dialog: 
+dialog: The
+text: ZOOM OUT is joined by a TRACK which reveals Brian, dressed as a pink
+text: and blue nineteenth-century dandy, viewing the painting behind a red velvet
+text: rope. When revealed, he turns to camera and starts to sing.
+dialog: 
+dialog: In
+text: CLOSE UP he plucks the pink rosebud from off screen and sings a verse of the
+text: song to it. It blooms in his hands.
+dialog: 
+text: He steps back from the painting and
+text: begins to ‘mime-walk’ on, staying in place while the view in the painting
+dialog: passes.
+dialog: 
+dialog: Swish to:
+dialog: 
+speaker_heading: EXTREME CLOSE-UP a tiny Victorian
+text: dollhouse on a white pedestal. Fast ZOOM OUT reveals Brian standing
+text: beside the pedestal, now full-size.
+dialog: 
+scene_heading: INT. DOLL HOUSE DRAWING ROOM
+dialog: 
+text: Through a veil of sequined gauze, a
+text: shimmering creature looks up. It’s Brian, dressed as the green alien. We follow
+text: as he creeps past the mist of gauze into the light of the room. Suddenly he
+dialog: jolts.
+dialog: 
+text: One enormous Brian glares through the
+dialog: window.
+dialog: 
+dialog: Brian the alien slithers across the
+text: black and white check floors of the elegant drawing room and disappears behind a
+dialog: door.
+dialog: 
+scene_heading: INT. DOLLHOUSE BEDROOM
+dialog: 
+dialog: Brian the alien surprises and
+text: inflatable doll husband and wife in bed whose arms fly up when they see him.
+dialog: 
+text: EXTREME CLOSE-UP: he gives a look to
+dialog: camera.
+dialog: 
+dialog: In a hi-speed master (á la Clockwork
+dialog: Orange) Brian rapes the wife doll and then the husband.
+dialog: 
+dialog: CLOSE ON: Brian’s eyes, blinking
+dialog: through the bedroom, window.
+dialog: 
+dialog: As the song describes Maxwell Demon’s
+text: rise to stardom we intercut Brian’s eye blinking through the window with the
+text: following vignettes in COLLAGE ANIMATION:
+dialog: 
+speaker_heading: INT. WHITE SET
+dialog: 
+speaker_heading: EXTREME CLOSE-UP of a long match
+text: being struck and lighting a cigarette. Fast ZOOM OUT reveals life-size
+text: Brian inhaling from an enormous cigarette holder as he tosses the matchstick on
+text: to the dollhouse. It goes up in smoke.
+dialog: 
+speaker_heading: INT. DOLLHOUSE
+dialog: 
+dialog: Through the flames, Brian the alien
+text: is grinning, jamming on his guitar.
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. RECORD STUDIO – CONFERENCE ARENA –
+speaker_heading: DAY – 1972
+dialog: 
+text: Music holds on a row of faceless
+text: Execs (seen previously in the ‘Imaginary Theatre’) facing camera in smoky
+dialog: darkness. (One of them we now recognize as Arthur’s boss, Lou.) We hear the
+text: sound of one person clapping. Everyone looks over. Swish pan to:
+dialog: 
+dialog: Jerry Divine (mid-thirties), seated
+text: alone with a cigar. He wears an Italian ‘fro’ with fat mutton chops.
+dialog: 
+speaker_heading: DEVINE
+dialog: (extending his hand)
+dialog: Nice stuff.
+dialog: 
+text: Brian’s gloved hand shakes it.
+text: Zoom-out reveals him in a three-piece business suit.
+dialog: 
+speaker_heading: BRIAN
+dialog: Thanks
+dialog: 
+speaker_heading: DEVINE
+dialog: Devine. Jerry Devine.
+dialog: Personal management. I’m interested.
+dialog: 
+speaker_heading: BRIAN
+dialog: Oh, well – thank you – but
+dialog: I’m afraid I already have management. He’s –
+dialog: 
+speaker_heading: DEVINE
+dialog: Not in my opinion.
+dialog: 
+text: Cecil smiles and waves from his seat.
+dialog: 
+dialog: The truth is
+dialog: you have talent. That’s plain. But it doesn’t really matter what a man does in
+dialog: his life. All that really matters in the end is the legend that grows up around
+dialog: him. Now today you’re a talented singer. That’s alright. But I could make you a
+dialog: star.
+dialog: 
+text: Cecil’s eyes bulge. A quiet swell of
+text: music begins beneath (the intro to ‘The Whole Shebang’/Grant Lee Philips).
+dialog: 
+speaker_heading: CECIL
+dialog: (standing, angrily)
+dialog: And just how do you propose
+dialog: to do that?
+dialog: 
+speaker_heading: DEVINE
+dialog: I will tell you, sir...
+dialog: 
+text: Devine pushes up a shirt sleeve and
+text: places his elbow on the railing before him, his other hand joustingly on his
+dialog: hips.
+dialog: 
+dialog: When you pin me.
+dialog: 
+dialog: Murmurs from the crowd as Cecil bolts
+dialog: up from his chair.
+dialog: 
+speaker_heading: CECIL
+dialog: Well I have never in all my
+dialog: life –
+dialog: 
+dialog: Cecil looks around helplessly for
+dialog: defence.
+dialog: 
+dialog: Everyone just stares at him, music
+text: rising softly. Zoom in to Brian, furthest away, who looks down.
+dialog: 
+dialog: CLOSE ON Cecil, his heart broken.
+text: Fast track to Devin, poised in the spotlight behind him.
+dialog: 
+speaker_heading: DEVINE
+dialog: May the best man win?
+dialog: 
+dialog: We punch into the chorus of ‘The
+dialog: Whole Shebang’.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TV STUDIO – NIGHT – 1972
+dialog: 
+dialog: Brian performs the song on Top of the
+text: Pops, his entire band dressed in sparkling outfits.
+dialog: 
+speaker_heading: BBC VOICE
+dialog: (off-screen)
+dialog: Earlier
+dialog: tonight on the popular chart show Top of the Pops, newcomer Brian Slade
+dialog: performed his hit single ‘The Whole Shebang’ –
+dialog: 
+speaker_heading: PULL OUT TO REVEAL:
+dialog: 
+scene_heading: INT. LONDON PUB – EVENING – 1972
+dialog: 
+text: TRACK along the line of blokes at the
+text: bar, staring up at the telly.
+dialog: 
+speaker_heading: BBC VOICE
+dialog: -dressed in
+text: platform boots and wearing glitter eye make-up. A spokesman for the show, known
+dialog: for showcasing pop’s brightest stars, says they’ve been deluged with calls all
+dialog: evening.
+dialog: 
+text: TRACK ends on Cecil, sitting over a
+text: cocktail in the corner. He watches the broadcast solemnly.
+dialog: 
+speaker_heading: CECIL
+dialog: (*pre-lap  *dialogue from the ensuing scene heard before
+dialog: the cut)
+dialog: The next day
+dialog: every schoolgirl in London was wearing glitter eye make-up. And I was out of a
+dialog: bleeding job.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. CITY HOSPITAL – NEW YORK – DAY –
+dialog: 1984
+dialog: 
+text: Cecil shakes his head with a distant
+dialog: smile.
+dialog: 
+speaker_heading: CECIL
+dialog: And that, as
+dialog: they say, was that. I would not hear another word from Brian – or any of them
+dialog: for that matter – ever again.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Have you got
+dialog: any idea what ultimately happened to him? Where is he today?
+dialog: 
+dialog: Cecil just shrugs.
+dialog: 
+speaker_heading: CECIL
+dialog: Last I heard
+dialog: he’d returned to Birmingham, but this was – three years ago? Four? No, I’m
+dialog: afraid I can’t help you there. Looks as if it may be unavoidable.
+dialog: 
+speaker_heading: ARTHUR
+dialog: What’s that?
+dialog: 
+speaker_heading: CECIL
+dialog: The ex. I’m
+dialog: afraid. But then ever story needs a contrary opinion, and with Mandy you’re
+dialog: guaranteed excess of both.
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. DIVE CLUB – NEW YORK – LATE DAY –
+dialog: 1984
+dialog: 
+text: A bolt of music strikes a dirty
+text: marquee: ‘APPEARING NITELY – THE DIVINE MISS MANDY SLADE’
+dialog: Arthur walks past the bartender,
+text: approaching a lone figure bent over a table, the only person in sight.
+speaker_heading: ARTHUR
+dialog: Miss Slade?
+dialog: 
+text: Mandy slowly lifts her head and
+text: squints at him.
+dialog: 
+speaker_heading: MANDY
+dialog: Yeah?
+dialog: 
+speaker_heading: ARTHUR
+dialog: I’m Arthur
+dialog: Stuart – from the Herald? We spoke on the phone?
+dialog: 
+text: She looks at him blankly.
+dialog: 
+dialog: I really just
+dialog: have a few questions I wanted to ask. It shouldn’t take long.
+dialog: 
+dialog: Nothing.
+dialog: 
+dialog: Do you mind
+dialog: if I – sit down?
+dialog: 
+speaker_heading: MANDY
+dialog: It’s a free country. Sort
+dialog: of.
+dialog: 
+dialog: Arthur sits.
+dialog: 
+text: The Bartender stands staring at
+text: Arthur as Mandy sits staring into her drink.
+dialog: 
+speaker_heading: ARTHUR
+dialog: What’re you
+dialog: having?
+dialog: 
+text: She looks up at him.
+dialog: 
+speaker_heading: MANDY
+dialog: Scotch.
+dialog: Rocks.
+dialog: 
+speaker_heading: ARTHUR
+dialog: (to Bartender)
+dialog: Make that
+dialog: two.
+dialog: 
+text: The bartender drags off, mumbling.
+dialog: 
+speaker_heading: MANDY
+dialog: Gee. You must
+dialog: be after some damn exclusive copy.
+dialog: 
+speaker_heading: ARTHUR
+dialog: It’s a piece
+dialog: on Brian Slade?
+dialog: 
+speaker_heading: MANDY
+dialog: (dryly-sarcastic)
+dialog: No kidding.
+dialog: What- sort of a memory jog kind of thing?
+dialog: 
+speaker_heading: ARTHUR
+dialog: Yeah...Well
+dialog: it’s been, um, ten years since the whole false shooting incident.
+dialog: 
+speaker_heading: MANDY
+dialog: Oh And what a
+dialog: fake it was! Tricking us all in the end with such an authentic demise.
+dialog: 
+speaker_heading: ARTHUR
+dialog: His career,
+dialog: you mean? I mean, do you have any idea what happened to him, where he is today?
+dialog: 
+speaker_heading: MANDY
+dialog: Can’t you
+dialog: just, you know, run him through the files? Punch in the name?
+dialog: 
+speaker_heading: ARTHUR
+dialog: Not exactly.
+dialog: 
+text: Mandy starts opening up a fresh pack
+dialog: of cigarettes.
+dialog: 
+speaker_heading: MANDY
+dialog: Because,
+dialog: honestly darling, I haven’t spoken with Mr Slade in – seven years, at least.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Seven years. Wow.
+dialog: 
+speaker_heading: MANDY
+dialog: Wow, yeah. At
+dialog: least – Smoke?
+dialog: 
+speaker_heading: ARTHUR
+dialog: No. Thanks.
+dialog: 
+speaker_heading: MANDY
+dialog: No, right
+dialog: after everything crashed we- we split...And Brian, he just –
+dialog: 
+dialog: Se lights a cigarette and takes a
+dialog: drag.
+dialog: 
+dialog: -became someone else.
+dialog: 
+text: She turns to Arthur and exhales.
+dialog: 
+dialog: (a distant smile)
+dialog: But then he always was.
+dialog: 
+dialog: The opulent strains of Mahler’s Sixth
+dialog: Symphony begin over
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: EXT. SOMBRERO CLUB – NEW YEAR’S EVE –
+speaker_heading: NIGHT – 1969
+dialog: 
+dialog: We follow an elegantly dressed couple
+text: through a boisterous wind as they approach the doors of the club. Leaves swirl
+text: through the air and the man’s cape billows as the doors of the club swing open.
+text: The teenage doorman, Cooper, greets the couple and they enter.
+dialog: 
+text: Then Cooper, the doorman, turns to
+dialog: camera:
+dialog: 
+speaker_heading: COOPER
+dialog: That’ll be
+dialog: ten bob to you, mate.
+dialog: 
+speaker_heading: REVERSE ANGLE reveals Brian, aged
+text: twenty-one, looking every inch the London hippie with a mass of blond curls and
+text: jewellery. He gives Cooper the money and a quick once-over before stepping into
+dialog: the club. We follow as ‘Get in the Groove’ by the Mighty Hannibal rises.
+dialog: 
+scene_heading: INT. SOMBRERO CLUB – NEW YEAR’S EVE –
+speaker_heading: NIGHT – 1969
+dialog: 
+dialog: Brian descends through pink and
+text: purple light, taking it all in. A swirl of colour as we pan across the room to
+text: Mandy, close, laughing and smoking with friends.
+dialog: 
+text: In the corner, glowing in coloured
+text: lights, a light-up dance floor is pumping with dance.
+dialog: 
+text: Mandy glows in a sparkling silver
+text: dress. Then all at once she spots him.
+dialog: 
+dialog: Brian, scanning the club catches
+dialog: sight of her.
+dialog: 
+text: Mandy quickly returns to her friends,
+dialog: laughing, smoking,.
+dialog: 
+dialog: Brian watches.
+dialog: 
+speaker_heading: MANDY
+dialog: (voice over)
+dialog: It was New
+dialog: Year’s Eve 1969: the start of a new decade, -
+dialog: 
+text: Brian watches Mandy amid a flood of
+text: hugs and kisses.
+dialog: 
+dialog: -and
+dialog: everywhere you went there was this sense of the future, the feeling in the air
+dialog: that anything was possible.
+dialog: 
+text: A sudden crash of symbols and dimming
+text: of lights directs everyone’s attention to the club’s entrance upstairs.
+dialog: 
+text: A spotlight is spun around, followed
+dialog: by a luxurious swish pan to:
+dialog: 
+text: The top of the curving staircase.
+text: There, aglow in shimmering silver, Jack Fairy, the Sombrero’s reigning star, is
+text: making his entrance. He nods regally and begins to descend, flanked by and
+text: equally studded entourage: Micki, a pretty boy with afro and fur trimmed jacket,
+text: Angel, playful dyed red head with silver angel wings, and Cooper previously seen
+text: at the door. A quiet swirl of music accompanies.
+dialog: 
+dialog: See, Jack Fairy had also
+dialog: come to London in the swinging sixties.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. POSH HOTEL LOBBY – EVENING – 1967
+dialog: 
+text: A black silk scarf falling to the
+dialog: floor (music continuing)
+dialog: 
+text: A delicate hand with nails of black
+text: enamel and a menagerie of rings reaches for the scarf. We follow it up past the
+text: lithe, velvety figure of Jack Fairy, who wraps the scarf elegantly around his
+text: neck and fastens it with the emerald pin.
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: And on
+dialog: winding roads, in crowded clubs or hotel bars -  this shipwreck of the streets,
+text: rehearsed his future glory. A cigarette tracing a ladder to the stars.
+dialog: 
+dialog: EXTREME CLOSE-UP of Jack opening a
+dialog: small compact.
+text: Zoom out from mirror, Jack looks up,
+dialog: closing his compact and standing.
+dialog: 
+dialog: Everyone in the lavishly decorated
+text: nineteenth-century hotel lobby stares as Jack walks proudly across the room.
+dialog: Three Waiters appear watching him
+dialog: from the distance.
+dialog: 
+speaker_heading: WAITERS
+dialog: Maricon,
+dialog: épicčne, sexe douteux...
+dialog: 
+text: Suddenly Jack glances up.
+dialog: 
+dialog: A Gentleman in the foreground turns
+dialog: to camera and confides:
+dialog: 
+speaker_heading: GENTLEMAN
+dialog: Le Vice
+dialog: Anglais...
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. SOMBRERO CLUB – NEW YEAR’S EVE –
+speaker_heading: NIGHT – 1969
+dialog: 
+text: CLOSE ON someone kissing Jack’s hand.
+speaker_heading: Fast ZOOM OUT to:
+dialog: 
+dialog: Jack, soft and slightly
+text: SLOW MOTION, engulfed at the foot of the stairs. A sexy hustler, dressed as a
+text: 1930s sailor, finishes kissing his hand and Cooper presents him with a
+text: long-stemmed rose. But there is an undertow: the eerie intro to ‘Ladytron’/Roxy
+text: Music begins to rise.
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: I needn’t
+dialog: mention how essential dreaming is to the character of the rock star.
+dialog: 
+dialog: Brian, very
+text: CLOSE. Suddenly someone shrieks, breaking the spell. Mandy bursts through
+dialog: bodies with open arms.
+dialog: 
+dialog: Jack,
+dialog: darling!
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. DIVE CLUB – NEW YORK – DAY – 1984
+dialog: 
+dialog: Mandy,
+speaker_heading: CLOSE.
+dialog: 
+speaker_heading: MANDY
+dialog: Jack was
+dialog: truly the first of his kind. A true original, everyone stole from Jack.
+dialog: 
+speaker_heading: FAST RETURN.
+dialog: 
+scene_heading: INT. SOMBRERO CLUB – NEW YEAR’S EVE –
+speaker_heading: NIGHT – 1969
+dialog: 
+dialog: Mandy has her arms around Jack and
+text: her tongue down his throat. He pulls away and she laughs, pulling him into the
+text: club. As she turns, she spots:
+dialog: 
+dialog: Brian –
+text: FAST ZOOM IN – still staring through the crowds. Closer on Mandy, as Jack
+text: looks over as well, also seeing him.
+dialog: 
+dialog: Brian,
+text: CLOSE, music building. He spots the emerald pin, dangling from Jack’s ear. We
+dialog: hear
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: But from the
+dialog: moment Brian Slade stepped into our lives, nothing would ever be the same.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. SOMBRERO CLUB – NEW YEAR’S EVE –
+speaker_heading: NIGHT – 1969
+dialog: 
+text: Brian’s face slowly approaching,
+dialog: through the crowds.
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: It was his
+dialog: nature.
+dialog: 
+text: Brian’s voice is heard singing with
+dialog: the music:
+dialog: 
+speaker_heading: BRIAN
+dialog: (singing; off screen)
+dialog: You’ve got me
+dialog: girl on the runaround,
+dialog: runaround/Got
+dialog: me all around town
+dialog: You’ve got me
+dialog: girl on the runaround
+dialog: And it’s
+dialog: getting me down, getting me down
+dialog: 
+dialog: We
+text: TRACK (slight SLOW MOTION) through bodies to where Mandy stands
+text: dancing/chatting with Jack and company. Suddenly she turns and sees:
+dialog: 
+text: Brian approaching. The lights and set
+text: begin to change: the dancing slows and everything but Mandy and Brian dim and
+dialog: recede.
+dialog: 
+dialog: Brian takes Mandy’s hand and
+text: instantly they are surrounded by a cool midnight snowfall. The club has vanished
+text: into the surrounding darkness, and as he begins to sing to her, we begin a slow
+speaker_heading: TRACK around them.
+dialog: 
+speaker_heading: BRIAN
+dialog: (singing)
+dialog: Lady/If you
+dialog: want to find a lover
+dialog: Then you look
+dialog: no further
+dialog: For I’m gonna
+dialog: be your only
+dialog: Searching/At
+dialog: the start of the season
+dialog: And my only
+dialog: reason/Is that I’ll get you
+dialog: 
+text: The song breaks into a driving bridge
+dialog: as we:
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. SOMBRERO CLUB – NEW YEAR’S EVER –
+speaker_heading: LATER – 1969
+dialog: 
+text: Mandy, in the midst of the teaming
+text: dance floor, turns to Brian, standing opposite (lights and action having
+dialog: returned to normal).
+dialog: 
+speaker_heading: BRIAN
+dialog: (shouting over the music)
+dialog: Do you jive?
+dialog: 
+text: Mandy nods, smiling, and they start
+dialog: to dance.
+dialog: 
+speaker_heading: FAST DISSOLVE TO:
+dialog: 
+scene_heading: EXT. FOREST – NIGHT – 1970
+dialog: 
+text: CLOSE ON a raven, blinking in the
+text: cool moonlight. We descend through a snarl of black branches to a moonlight
+text: forest where Brian resumes his tender serenade.
+dialog: 
+speaker_heading: BRIAN
+dialog: (singing)
+dialog: I’ll find
+dialog: some way of connection
+dialog: Hiding my
+dialog: intention
+dialog: Then I’ll
+dialog: move up close to you
+dialog: 
+text: TRACK continues into Brian’s face.
+dialog: 
+dialog: I’ll use you
+dialog: and I’ll confuse you
+dialog: And then I’ll
+dialog: lose you
+dialog: But still you
+dialog: won’t suspect me
+dialog: 
+text: He kisses her.
+text: Mandy closes her eyes.
+dialog: 
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: So I married
+dialog: him.
+dialog: 
+speaker_heading: FADE TO:
+dialog: 
+scene_heading: INT. MANDY’S BEDROOM – NIGHT – 1970
+dialog: 
+dialog: Music continues through a brief
+dialog: sixties style montage (much double exposure, focus racking, etc). Mandy and
+text: Brian make love like two androgynous creatures in Mandy’s candle-lit room.
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. SOMBRERO CLUB – MEN’S LAVATORY –
+speaker_heading: NEW YEAR’S EVE – 1969
+dialog: 
+dialog: The flutter of an eyelash (Jack’s)
+dialog: thick with mascara.
+dialog: 
+text: We hear a door open, sounds pouring
+text: in. Jack’s eyes flash over.
+dialog: 
+dialog: Fast rack to Brian, standing near the
+text: door, reflected in the mirror. Quiet music begins.
+dialog: 
+dialog: A series of
+speaker_heading: CLOSE, DISSOLVING SHOTS:
+dialog: 
+text: Jack resumes touching up his face in
+text: the mirror as Brian slowly approaches.
+dialog: 
+dialog: Jack’s eyes meet Brian’s in the
+dialog: mirror.
+dialog: 
+text: Brian stops as the mirror, turning
+text: from Jack’s reflection to Jack. He kisses him hotly on the mouth and withdraws.
+dialog: 
+text: Jack stares into Brian’s eyes. He
+text: returns the kiss. Brian presses into him.
+dialog: 
+text: Suddenly -  the door opens.
+dialog: 
+dialog: Jack turns.
+dialog: 
+dialog: Brian is gone.
+dialog: 
+speaker_heading: FADE TO BLACK
+dialog: 
+dialog: T-Rex’s ‘Cosmic Dancer’ begins in
+dialog: darkness
+dialog: 
+scene_heading: INT. MANDY’S BEDROOM – NIGHT – 1972
+dialog: 
+dialog: Slow circle around Mandy and Brian as
+text: she finishes painting his face: the lids of his eyes are blue, his cheeks pink
+text: with blush, his lips a frosty magenta, hair neatly cropped.
+dialog: 
+speaker_heading: MANDY
+dialog: Times,
+dialog: places, people. They’re all speeding up. So to cope with this evolutionary
+dialog: paranoia strange people are chosen who through their art can move progress more
+dialog: quickly.
+dialog: 
+dialog: Brian looks up.
+dialog: 
+text: Mandy holds his glance.
+dialog: 
+dialog: (voice-over)
+dialog: It was the
+dialog: most stimulating and reflective period of our marriage.
+dialog: 
+dialog: WIDE SHOT of Brian and Mandy kissing
+dialog: on the bed.
+dialog: 
+speaker_heading: RACK/DISSOLVE TO:
+dialog: 
+scene_heading: INT. SOMBRERO CLUB – MEN’S ROOM – NEW
+speaker_heading: YEAR’S EVE – 1969
+dialog: 
+dialog: Jack in the mirror feels for his
+text: earring and realizes the emerald pin is gone.
+dialog: 
+dialog: Through rising music (‘We Are the
+dialog: Boys’/Pulp) we hear:
+dialog: 
+dialog: BBC
+dialog: (pre-lap)
+dialog: Thank you and
+dialog: welcome, pop pickers, to Pick of the Pops. I’m Davy Rocket and we have a
+dialog: very special show for you today, dedicated to one of pop’s blazing new talents,
+dialog: and one who’s been holding a virtual reign over the British charts for a
+dialog: startling record breaking, eighteen-month-span. Ladies and gentlemen, I give you
+dialog: the incomparable Brian Slade – or should I say, Maxwell Demon?
+dialog: 
+dialog: Cheers spill over.
+dialog: 
+speaker_heading: FAST CUT TO:
+scene_heading: INT. GALA RECEPTION HALL – LONDON –
+speaker_heading: NIGHT – 1972
+dialog: 
+dialog: And explosion of flash bulbs over a
+dialog: sweep of music.
+dialog: 
+dialog: Brian Appears through the shimmer,
+text: ablaze in white light. He wears the emerald pin on a black velvet choker/scarf.
+text: Below, a small ocean of press (Reporters, Photographers) are shouting ‘Brian!
+dialog: Brian!’
+speaker_heading: JERRY
+dialog: Yeah, the,
+dialog: uh, bloke at the front.
+dialog: 
+speaker_heading: REPORTER 1
+dialog: Brian! Why
+dialog: the make-up?
+dialog: 
+speaker_heading: BRIAN
+dialog: Why? Because
+dialog: rock and roll’s a prostitute! It should be tarted up! Performed! The music is
+dialog: the mask, while I, in my chiffon and taff – well –
+dialog: (quite camp)
+dialog: - varda the
+dialog: message!
+dialog: 
+scene_heading: INT. STUART LIVING ROOM – SUBURBAN
+speaker_heading: MANCHESTER – EVENING – 1972
+dialog: 
+dialog: Teenage Arthur sits on the floor
+dialog: glued to the telly.
+dialog: 
+dialog: His Mother and Father sit behind him
+dialog: (exactly as we last saw them), watching without expression.
+dialog: 
+speaker_heading: REPORTER 2
+dialog: (on TV)
+dialog: What about
+dialog: your fans? Aren’t they likely to – get the wrong impression?
+dialog: 
+speaker_heading: BRIAN
+dialog: (on TV)
+dialog: And which
+dialog: wrong impression is that?
+dialog: 
+speaker_heading: REPORTER 2
+dialog: (on TV)
+dialog: Well, that
+dialog: you’re a blinking fruit!
+dialog: 
+dialog: On-screen there is uneasy laughter
+text: and a SHAKY PAN to the press gallery.
+dialog: 
+text: VERY CLOSE ON Arthur, breathing in
+dialog: the electronic waves.
+dialog: 
+speaker_heading: BRIAN
+dialog: (on TV)
+dialog: Well thank
+dialog: you, sir, and no, it doesn’t concern me in the least.
+dialog: 
+dialog: Arthur tries to peek at his parents
+text: without moving his head. Their faces are stony.
+dialog: 
+dialog: I should
+dialog: think that if people were to get that impression of me, the one to which you so
+dialog: eloquently refer...
+dialog: 
+text: SLOW TRACK into Brian on monitor.
+dialog: 
+dialog: ...it would
+dialog: not be a wrong impression in the slightest.
+dialog: 
+text: Suddenly Arthur leaps in front of the
+text: set, shrieking at the top of his lungs like a lunatic.
+dialog: 
+speaker_heading: ARTHUR
+dialog: That is me!
+dialog: That is me! That that that is me!
+dialog: 
+speaker_heading: CLOSE ON TV.
+dialog: 
+speaker_heading: BRIAN
+dialog: (on TV)
+dialog: I mean,
+dialog: everyone knows most people are bisexual.
+dialog: 
+dialog: Arthur’s Mother and Father are
+text: blank-faced, frozen solid.
+dialog: 
+text: Arthur looks back at them, back in
+text: front of the TV set (where he has actually remained the whole time).
+dialog: 
+speaker_heading: REPORTER
+dialog: (off-screen)
+dialog: I was –
+dialog: 
+speaker_heading: BACK TO:
+dialog: 
+scene_heading: INT. GALA RECEPTION HALL – LONDON –
+speaker_heading: EVENING – 1972
+dialog: 
+dialog: Shaky
+speaker_heading: PAN to another Reporter
+dialog: 
+speaker_heading: REPORTER
+dialog: (off-screen)
+dialog: - I was under
+dialog: the impression that you were married and living with your wife in North London –
+dialog: 
+text: Mandy looks around, anxiously.
+dialog: 
+dialog: Brian continues in the glare of the
+dialog: lights.
+dialog: 
+speaker_heading: BRIAN
+dialog: I am married,
+dialog: quite happily, in fact. I just happen to like boys as much as I like girls. And
+dialog: since my wife feels pretty much the same about such things...
+dialog: 
+dialog: Lights and TV cameras flash to Mandy,
+text: who wiggles her tongue at Brian.
+dialog: 
+dialog: ...I should
+dialog: think we’ve been able to make a fairly decent go of it so far.
+dialog: 
+dialog: Brian winks at Mandy before –
+dialog: complete pandemonium.
+dialog: The audience, frozen in utter
+text: perplexity. One reporter gets up and  leaves.
+dialog: 
+speaker_heading: JERRY
+dialog: Alright, any
+dialog: more questions? Okay, thank you very much.
+dialog: 
+text: Mandy looks up at Brian, as the
+text: distant piano opening to ‘Virginia Plain’/Roxy Music is heard.
+dialog: 
+dialog: [NOTE: the several scenes
+dialog: following which accompany ‘Virginia Plain’ should be played with tremendous
+dialog: speed and energy.]
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: For the first
+dialog: time in Brian’s life, he was simply telling it like it was. Did he realize what
+dialog: he’d actually done? How could he have? I mean today, there’d be fighting in the
+dialog: streets. But in 1972...it was more like dancing.
+dialog: 
+dialog: VERY CLOSE ON Brian as we:
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+dialog: Fame montage:
+dialog: 
+scene_heading: INT. NEWSPAPERS (IN BLACK AND WHITE) –
+speaker_heading: SET – 1972
+dialog: 
+dialog: Dropped into frame, their headlines
+dialog: read:
+dialog: 
+text: A STAR IS BORN – AND HE TWINKLES!
+dialog: GAY STUNT AT SLADE SHOW
+dialog: ALL THAT GLITTERS – IS GAY!
+dialog: 
+scene_heading: INT. RECORD STUDIO – CONFERENCE ARENA –
+speaker_heading: DAY – 1972
+dialog: 
+dialog: Camera speeds past a Busby
+text: Berkley-style row of proffered contracts and lands on the final one – the most
+dialog: elegantly drawn.
+dialog: 
+dialog: Swoop out from Jerry Divine and Cecil
+text: Drake arm-wrestling it ends as Devine wins and stands, the champion. His free
+text: arm in a fist, held in the air.
+dialog: 
+scene_heading: EXT. HIGHWAY – ENGLAND – DAY – 1972
+dialog: 
+dialog: Brian and his flashy entourage soar
+text: along the countryside in tow convertible limousines, scarves sailing in the
+dialog: wind.
+dialog: 
+scene_heading: EXT. AIRPORT RUNWAY – DAY – 1972
+dialog: 
+dialog: Brian and company scramble on to the
+dialog: stairway of a charted plane.
+dialog: 
+scene_heading: EXT. ENGLISH GARDEN – DAY – 1972
+dialog: 
+dialog: Brian and Mandy lounge in sunglasses.
+dialog: 
+dialog: We hear:
+dialog: 
+speaker_heading: DEVINE
+dialog: (off-screen)
+dialog: That man out
+dialog: there in the white suit is the biggest thing to come out of England since sliced
+dialog: Beatles. Outside this country – no one knows who the hell he is. You people,
+dialog: you’re going to change all that.
+dialog: 
+text: FAST ZOOM OUT reveals Devine in the
+text: foreground. He faces camera, addressing his newly formed staff.
+dialog: 
+dialog: TRACE past faces we’ve seen before –
+text: Jack Fairy’s old entourage: Angel, Micki, Freddi, and Sombrero doorboy Cooper.
+dialog: 
+dialog: You guys,
+dialog: you’re actors. It’s up to you to change Brian Slade pop singer, into Maxwell
+dialog: Demon, space-age fuckin’ superstar! Nothing fantastic about it. Why? Because the
+dialog: secret of becoming a star is knowing how to behave like one.
+dialog: 
+speaker_heading: COOPER
+dialog: (a distorted Mickey Rooney voice)
+dialog: Hey kids,
+dialog: let’s put on a show!
+dialog: 
+dialog: Disturbingly
+speaker_heading: CLOSE ON Devine:
+dialog: 
+speaker_heading: DEVINE
+dialog: Precisely.
+dialog: 
+scene_heading: EXT. ENGLISH GARDEN – DAY – 1972
+dialog: 
+speaker_heading: TRACK OUT from CLOSE-UP of
+text: Brian aggressively made up, sprayed and varnished by Freddi and company. Brian
+text: is dressed in a white satin three-piece, posing for photos with his band in the
+text: eighteenth-century statue garden. The sequence has the feel of a silent screen
+text: comedy, with Devine as directors in jodhpurs and boots, commanding the company
+dialog: of Photographers and crew. Equipment and dress is strictly twenties.
+dialog: 
+dialog: When Devine shouts ‘action’, the
+text: klatch of Photographers explode into shots, their cameras flashing like machine
+dialog: guns.
+dialog: 
+text: Brian is riddled with tiny wounds.
+dialog: 
+speaker_heading: DEVINE
+dialog: ( yells)
+dialog: ‘Cut!
+dialog: Cut! Cut! Sort him out’.
+dialog: 
+dialog: His crew inch closer now trying to
+text: conceal the pain and blood stains, with make up. Brian looks pained and scared
+dialog: as they approach.
+dialog: 
+dialog: Fast
+text: ZOOM OUT reveals the photo hanging on a wall in the brand-new Bijou Music
+text: offices. End on a final, classic shot.
+dialog: 
+scene_heading: INT. BIJOU OFFICES – DAY – 1972
+dialog: 
+dialog: Camera continues through the Bijou
+dialog: offices as the newly assembled staff perform their respective roles with musical
+dialog: comedy flair (song continuing throughout).
+dialog: 
+dialog: We sail past Micki, the glamorous
+text: receptionist, rehearsing various company greetings.
+dialog: 
+speaker_heading: MICKI
+dialog: Bijou Music
+dialog: and Associates, good afternoon...Bijou, may I help you?...Bijou, hello?...
+dialog: 
+dialog: We pass Angel, press attaché ,
+dialog: dressed in red. Her walls
+dialog: are covered with glamour magazines from the thirties and forties, and everything
+text: on her desk is cherry red: phone, typewriter, telexes, etc.
+dialog: 
+speaker_heading: ANGEL
+dialog: Slade...Brian
+dialog: Slade...Well, darling only the biggest thing to hit rock since the pilgrims!
+dialog: 
+dialog: Next, they pass Devine in his
+dialog: elevated office.
+dialog: 
+dialog: Manager Jerry Devine is perched
+text: behind his desk in wide lapels and clashing patterns, operatic on the phone.
+dialog: 
+speaker_heading: DEVINE
+dialog: I know
+dialog: it’s unprecedented, I know it’s unorthodox, but, sir, if you want Brian Slade,
+dialog: those are the terms, you may take them or leave them –
+dialog: 
+text: Freddi suddenly pops out, addressing
+dialog: the camera.
+dialog: 
+speaker_heading: FREDDI
+dialog: Yes?
+dialog: 
+dialog: SWISH 360-degrees to Shannon
+text: Hazelbourne, a dowdy teenager, who responds automatically.
+dialog: 
+speaker_heading: SHANNON
+dialog: I’m Shannon
+dialog: Hazelbourne.
+dialog: 
+speaker_heading: FREDDI
+dialog: Who?
+dialog: 
+speaker_heading: SHANNON
+dialog: I rang up
+dialog: about the position?
+dialog: 
+speaker_heading: FREDDI
+dialog: The what?
+dialog: 
+speaker_heading: SHANNON
+dialog: The
+dialog: position.
+dialog: (holding up a clipping)
+dialog: Assistant
+dialog: Clerical Aid?
+dialog: 
+speaker_heading: FREDDI
+dialog: Oh right!
+dialog: The position! Brilliant! Follow me.
+dialog: 
+dialog: Shannon tries to keep up with Freddi
+text: who whizzes into the wardrobe room.
+dialog: 
+scene_heading: INT. WARDROBE – DAY – 1972
+dialog: 
+dialog: Brian’s (all-hetero) band – Trevor,
+text: Reg and Harley – stand frozen in the mirror.
+dialog: 
+speaker_heading: MANDY
+dialog: Crash!
+dialog: Zounds.
+dialog: 
+dialog: FAST ZOOM OUT reveals them in their
+text: new, wildly effeminate stage costumes. Mandy beams as Freddi whizzes by.
+dialog: 
+dialog: We hear:
+dialog: 
+speaker_heading: FREDDI
+dialog: (off-screen)
+dialog: Now, Shannon
+dialog: – I realize, of course, your expertise is in the clerical arts, but I was
+dialog: wondering if by any chance you’ve ever worked in wardrobe?
+dialog: 
+speaker_heading: SWISH to Shannon, standing
+dialog: dumbstruck.
+dialog: 
+dialog: ...either
+dialog: professionally or –
+dialog: 
+speaker_heading: SHANNON
+dialog: Umm, no,
+dialog: never.
+dialog: 
+speaker_heading: FREDDI
+dialog: Fantastic. I
+dialog: think that’s everything.
+dialog: (extends his hand)
+dialog: 
+speaker_heading: SHANNON
+dialog: (shaking it, absently)
+dialog: But, no I – I
+dialog: said I didn’t –
+dialog: 
+text: Freddi walks into the main office.
+dialog: 
+scene_heading: INT. BIJOU OFFICES – DAY – 1972
+dialog: 
+speaker_heading: FREDDI
+dialog: (announcing to the room)
+dialog: Everybody?
+dialog: 
+dialog: Everyone looks over.
+dialog: 
+dialog: I’d like to
+dialog: introduce you to our lovely new Wardrobe Mistress – umm...
+dialog: 
+dialog: Song finishes with ‘What’s her name?
+dialog: Virginia Plain.’
+dialog: 
+speaker_heading: SHANNON
+dialog: Shannon.
+dialog: 
+speaker_heading: FREDDI
+dialog: Shannon.
+dialog: 
+dialog: Everyone smiles, claps or says:
+text: ‘Hello Shannon’. Mandy suddenly looks toward Devine’s office.
+dialog: 
+dialog: We hear:
+speaker_heading: DEVINE
+dialog: (off-screen)
+dialog: Excellent!
+dialog: Yes, Mr Weinberg! Thank you very much indeed. Cheers!
+dialog: 
+dialog: Mighty
+speaker_heading: SWISH to:
+dialog: 
+text: Devine slams down phone. Fast pan up
+text: to his face, standing victoriously.
+dialog: 
+dialog: Extraordinary!
+dialog: 
+dialog: Everyone turns.
+dialog: 
+speaker_heading: MANDY
+dialog: What, Jerry –
+dialog: what?
+dialog: 
+speaker_heading: DEVINE
+dialog: So! Tell me,
+dialog: Master Demon...
+dialog: 
+dialog: Brian walks in from another section
+dialog: of the office.
+dialog: 
+dialog: Who is it you
+dialog: most fancy meeting – in America?
+dialog: 
+text: Everyone bursts into cheers.
+text: TRACK OUT as Mandy and Cooper linger in the lounge area in front of Devine’s
+text: desk, revealing the Bijou office to be a network of adjoining offices, art deco
+text: style. Brian remains alone to the side.
+dialog: 
+speaker_heading: MICKI
+dialog: Yipes.
+dialog: 
+speaker_heading: COOPER
+dialog: (with a broad American accent)
+dialog: American?
+dialog: 
+speaker_heading: ANGEL
+dialog: Bravo, Jerry!
+dialog: 
+speaker_heading: MANDY
+dialog: Garbo, Brian
+dialog: – pleeeease!
+dialog: 
+speaker_heading: ANGEL
+dialog: Brando for
+dialog: me.
+dialog: 
+speaker_heading: MICKI
+dialog: Einstein.
+dialog: 
+speaker_heading: COOPER
+dialog: Sorry,
+dialog: chickee, he’s dead.
+dialog: 
+speaker_heading: MICKI
+dialog: Jerry said
+dialog: anyone!
+dialog: 
+text: Brian turns to the group. Mandy spots
+dialog: him.
+dialog: 
+speaker_heading: MANDY
+dialog: Brian...Brian
+dialog: – who?
+dialog: 
+dialog: Silence on Brian.
+dialog: 
+speaker_heading: BRIAN
+dialog: (awkward ,for the first time yet)
+dialog: Curt Wild.
+dialog: (now with confidence)
+dialog: Curt Wild. I
+dialog: want to meet Curt Wild.
+dialog: 
+text: CLOSE ON. Mandy, looking at him.
+dialog: 
+dialog: Slam into Guitar intro (‘Personality
+dialog: Crisis’/New York Dolls).
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: And meet Curt
+dialog: Wild we did.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. MAX’S KANSAS CITY – NEW YORK –
+speaker_heading: NIGHT – 1973
+dialog: 
+dialog: Brian and Mandy are walking into the
+text: dark, narrow club, followed by Devine, Angel, Freddi and Trevor.
+dialog: 
+dialog: On stage, Polly Small, a tough girl
+text: singer, belts out a gendy-bendy Beatles cover. She’s backed by a gloriously
+dialog: trashy, New York style glam band.
+dialog: 
+dialog: Rodney, a British rep for the label,
+text: leads them to a table in the back.
+dialog: 
+dialog: Brian looks around as well, expectant
+text: and anxious, taking it all in. Mandy leans over, pointing out someone.
+dialog: 
+text: Andy Warhol seated at the back of the
+text: room, accompanied by, James Dean, and Marilyn Monroe.
+dialog: 
+speaker_heading: RODNEY
+dialog: (off-screen)
+dialog: There he is.
+dialog: 
+dialog: Brian looks over to Rodney who
+dialog: points, music shimmering.
+dialog: 
+dialog: Dark figures clear frame as we track
+text: in to the darkest corner of the club. Reveal a shadowy figure slumped over a
+dialog: table.
+dialog: 
+dialog: CLOSE ON Brian, following Rodney,
+text: arriving. Somewhere behind the music we hear.
+dialog: 
+dialog: Mr Wild...Mr
+dialog: Wild?
+dialog: 
+text: Curt lifts up his head, squinting up
+text: at Rodney. He sits between a beautiful pair of boy and girl Teenage Twins.
+dialog: 
+speaker_heading: CURT
+dialog: Yeah?
+dialog: 
+speaker_heading: RODNEY
+dialog: I’m Rodney –
+dialog: from Electra? I have Brian Slade here from England who just wanted to pop over,
+dialog: say hello –
+dialog: 
+speaker_heading: BRIAN
+dialog: I just wanted
+dialog: to say...I think your music is tops – really, smashing – best of the lot.
+dialog: 
+text: Curt looks up at him in a junkie
+dialog: blur.
+dialog: 
+speaker_heading: CURT
+dialog: Smashing, top
+dialog: hole, jolly old –
+dialog: 
+text: Curt’s eyes roll up into his head and
+text: he passes out with his head against the wall behind him.
+dialog: 
+dialog: Brian in diffused
+text: CLOSE-UP. He has fallen in love.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. HOTEL MEZZANINE- AFTERNOON – 1973
+dialog: 
+dialog: Pan over guests seated for tea at
+dialog: posh New York hotel.
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: Now at that
+dialog: time, Curt Wild was between management and Brian knew this, of course, and urged
+dialog: Devine to pursue the situation.
+dialog: 
+text: We settle on a corner table where
+text: Brian and Devine sit with Curt, a black smudge against the crimson and gold
+dialog: interior.
+dialog: 
+speaker_heading: DEVINE
+dialog: And so if, in
+dialog: that probability, an interest arose in which Brian would serve in some projects
+dialog: – possibly, though not exclusively– as...we’re taking our lead from you here,
+dialog: Curt... possibly as producer on that project – how might that scenario – purely
+dialog: hypothetically– how might that scenario appeal to you at this juncture?
+dialog: 
+text: Silence as Curt looks back at them
+dialog: with the innocence of a drowned rat.
+dialog: 
+speaker_heading: BRIAN
+dialog: What Jerry’s
+dialog: trying to say is do you want to come to London and cut a record?
+dialog: 
+speaker_heading: CURT
+dialog: Oh yeah –
+dialog: cool.
+dialog: 
+speaker_heading: DEVINE
+dialog: Very good.
+dialog: 
+speaker_heading: BRIAN
+dialog: But how can
+dialog: we help you. You must tell us. What do you need?
+dialog: 
+dialog: Underneath the table Devine kicks
+text: Brian in the shin. Curt thinks for a moment, then smiles:
+dialog: 
+speaker_heading: CURT
+dialog: Everything.
+dialog: 
+dialog: Brian smiles.
+dialog: 
+dialog: See, heroin
+dialog: was my mainman. But now I’m on the methadone and I’m getting my act together.
+dialog: You come here and say you wanna help and I say, ‘hey, far out.’
+dialog: (to Brian, softly)
+dialog: You could be
+dialog: my mainman.
+dialog: 
+speaker_heading: CLOSE ON Brian through diffusion,
+text: watching Curt. There are tiny hearts in his eyes.
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: It was pretty
+dialog: clear what was happening. It happens every day. But for the world to think it
+dialog: was happening, well...
+dialog: 
+dialog: Pan to Devine, in foreground, tiny
+text: dollar signs in his eyes.
+dialog: 
+dialog: That was
+dialog: Jerry’s particular genius.
+dialog: 
+dialog: ‘Satellite of Love’/Lou Reed begins:
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+dialog: Montage of newsreel-style footage
+dialog: begins:
+dialog: 
+scene_heading: EXT. MOVIE PALACE – NIGHT – 1973
+dialog: 
+dialog: Limousine doors open and Brian and
+text: Curt, dressed to the nines, pile out. They are instantly obliterated by
+text: floodlights and camera flashes as they stumble up the red carpet, waving to fans
+text: like a pair of drunken screen stars.
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: Right away he
+text: started promoting the two of them like a pair of forties starlets on the swoon –
+dialog: a Tracy and Hepburn for the seventies.
+dialog: 
+dialog: Song continues.
+dialog: 
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. CARNIVAL – SET – DUSK – 1973
+dialog: 
+dialog: Curt and Brian ride in neighbouring
+text: rockets on the Space Spinner ride, reeling over the candy-coloured lights of a
+dialog: travelling carnival. TRACK-IN as Curt lip-syncs
+text: to the song and Brian sings the backing arpeggios, his rocket passing Curt’s.
+dialog: 
+dialog: Behind them, the lights of the
+text: carnival recede. They are flying away. Pan up to the starry sky.
+dialog: 
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. BRIAN’S GARDEN – DAY – 1973
+dialog: 
+text: HAND HELD TELEPHOTO shots into
+text: Brian’s back garden: Brian and Curt stroll with champagne, eventually catching
+text: sight of the camera. Upon doing so, both begin laughing as Curt jumps up and
+text: down wildly, and then throws his glass toward the photographer.
+dialog: 
+dialog: The music now becomes tender
+dialog: (‘Diamond Meadows/T-Rex)
+dialog: 
+speaker_heading: DREAMY DISSOLVE TO:
+dialog: 
+scene_heading: INT. LITTLE GIRL’S ROOM – NIGHT – 1973
+dialog: 
+dialog: PAN PAST a forty-five spinning on a
+text: plastic turntable, and come to rest on the soft, lamp-lit CLOSE-UP of a
+dialog: Brian Slade Doll.
+dialog: 
+text: Opposite, a Curt Wild Doll stands. A
+text: gentle love scene is being played out by the hands and off-screen voices of two
+text: young English Girls. The scene is shot romantically, with soft lighting and
+dialog: heavy diffusion.
+dialog: 
+speaker_heading: CURT DOLL
+dialog: My career was
+dialog: on the skids, mate. And you fished me out o’the muck. You got me back on my
+dialog: feet, you did.
+dialog: 
+speaker_heading: BRIAN DOLL
+dialog: It was
+dialog: nothing, chum. I wanted to help you make more of that far out sound. I love your
+dialog: music, my son, and I love –
+dialog: 
+text: The Brian doll turns away. The Curt
+text: doll walks up to him from behind.
+dialog: 
+speaker_heading: CURT DOLL
+dialog: (softly)
+dialog: You don’t
+dialog: have to say it, mate.
+dialog: 
+dialog: The dolls turn toward each other and
+text: embrace. They slowly, tenderly go down to the floor.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. ST FRANCIS HOTEL – NEW YORK – LATE
+speaker_heading: AFTERNOON – 1973
+dialog: 
+dialog: Thirties-style Singer crooning to
+dialog: camera, pink-cheeked with patent-leather style hair. (‘Bitters End’/Roxy Music):
+dialog: 
+dialog: Three pencil-moustached back-ups, the
+dialog: Champagne Chorus, lean in and sing.
+dialog: 
+dialog: TRACK OUT to reveal the singers amid
+text: Bijou’s deliriously posh press soirée. Dressed for a fancy ball, Brian and
+text: company lounge and pose for reporters, all elegantly assembled in a gilded
+dialog: banquet room.
+dialog: 
+dialog: The princely Brian holds court on a
+text: gold settee, supported by a den of beautiful Bisexuals. We see Curt Wild, Jerry
+text: Divine, Micki, Angel, Cooper, Freddi, Shannon, Trevor – and Mandy playing
+text: hostess. Everyone is dressed in cream and gold velvet, satin, and sparkling
+text: material. Some of the men are in breeches and white stockings. A touch of Louis
+text: XIV permeates the room. Reporters, on the other hand, are a dark cluster of
+dialog: black suits.
+dialog: 
+dialog: The song continues as each ‘actor’
+text: answers questions in quoted texts, punctuated by slightly bruising
+speaker_heading: CAMERA FLASHES.
+dialog: 
+speaker_heading: DEVINE
+dialog: Every great
+dialog: century that produces art is, so far, an artificial century, and the work that
+dialog: seems the most natural and simple of its time is always the result of the most
+dialog: self-conscious effort.
+dialog: 
+dialog: Micki,
+dialog: dressed like Marilyn Monroe as Marie Antoinette.
+dialog: 
+speaker_heading: MICKI
+dialog: (doing his best Marilyn)
+dialog: I am not
+dialog: really myself except in the midst of elegant crowds, at the heart of rich
+text: districts, or amid the sumptuous ornamentation of palace hotels, an army of
+dialog: servants and a plush carpet underfoot...
+dialog: 
+dialog: Mandy, luminous in platinum curls,
+text: puffs from a long cigarette holder.
+dialog: 
+speaker_heading: MANDY
+dialog: What is true
+dialog: about music is true about life: that beauty reveals everything because it
+dialog: expresses nothing.
+dialog: 
+speaker_heading: FREDDI
+dialog: The first
+dialog: duty in life is to assume a post. What the second duty is no one has yet found
+dialog: out.
+dialog: 
+dialog: A sudden fanfare and dimming of
+text: lights reveals the projected backdrop of a stylized big top. A spotlight flashes
+text: on Brian, who catches a whip and top hat thrown to him from the wings. Fast
+text: ZOOM OUT reveals Angel in the foreground, reading from a large placard
+dialog: on a stand.
+dialog: 
+speaker_heading: ANGEL
+dialog: (dressed quite like Columbia from Rocky Horror, she theatrically recites)
+dialog: The Aesthete
+dialog: Gives Characteristically
+dialog: Cynical
+dialog: Evidence, Replete with Pointed
+dialog: Epigram and
+dialog: Startling Paradox, while
+dialog: Explaining
+dialog: His Views on Morality in Art.
+dialog: 
+speaker_heading: SWISH PAN to the klatch of Reporters,
+text: now perched in the rafters, shouting out their questions to Brian. He answers in
+dialog: the style of a circus MC.
+dialog: 
+speaker_heading: REPORTER 1
+dialog: Brian!
+dialog: Maxwell Demon is the story of a space creature who becomes a rock and roll
+dialog: messiah, only to be destroyed by his own success. Are you saying this is your
+dialog: destiny? Are you Maxwell Demon?
+dialog: 
+speaker_heading: BRIAN
+dialog: Man is least
+dialog: himself when he talks in his own person! Give him a mask and he’ll tell you the
+dialog: truth!
+dialog: 
+dialog: We see Shannon holding up cue cards
+dialog: for Brian. SWISH PAN to Reporter 2, shouting out:
+dialog: 
+speaker_heading: REPORTER 2
+dialog: Is it your
+dialog: belief that all dandies are homosexuals?
+dialog: 
+text: TILT DOWN to Cooper, holding up cue
+dialog: cards for the press.
+dialog: 
+speaker_heading: BRIAN
+dialog: Ha! Nothing
+dialog: makes one so vain as being told on is a sinner!
+dialog: 
+text: The stadium roars with laughter and
+dialog: applause.
+dialog: 
+speaker_heading: CURT
+dialog: (off-screen)
+dialog: Coming
+dialog: through! Coming through!
+dialog: 
+text: A spotlight spins around,
+dialog: illuminating.
+dialog: 
+text: Curt, squeezing through a throng of
+text: fans/reporters, balancing two glasses of champagne on a tray.
+dialog: 
+speaker_heading: REPORTER 3
+dialog: Tell us,
+dialog: Brian! Are the rumours true that you and Curt Wild have some sort of plan up
+dialog: your sleeve?
+dialog: 
+speaker_heading: BRIAN
+dialog: Oh, yes.
+dialog: Quite soon actually we plan to take over the world.
+dialog: 
+dialog: Hilarious laughter from the crowds –
+speaker_heading: LOW ANGLE.
+dialog: 
+dialog: CLOSE ON Brian: he wasn’t joking. But
+dialog: to the rescue.
+dialog: 
+text: Curt arrives, miraculously unspilled.
+dialog: 
+speaker_heading: CURT
+dialog: Excuse me,
+dialog: fellas, while I raise my glass to the loveliest man in Europe!
+dialog: 
+dialog: The crowd ‘Ahhhs’ and Curt and Brian
+text: smiling broadly, link arms for a toast, cameras flashing.
+dialog: 
+speaker_heading: BRIAN
+dialog: And they tell
+dialog: you it’s not natural!
+dialog: 
+dialog: Violent laughter from the crowds
+text: quickly darkens and distorts. Lights dim as a shimmer of music rises.
+dialog: 
+speaker_heading: FAST DISSOLVE TO:
+dialog: 
+dialog: Curt and Brian, eyelash close.
+dialog: 
+speaker_heading: CURT
+dialog: (a whisper)
+dialog: The world is
+dialog: changed because you are made of ivory and gold. The curves of your lips rewrite
+dialog: history.
+dialog: 
+text: Curt kisses Brian hotly on the mouth.
+dialog: For several seconds all sound stops. Then:
+dialog: 
+dialog: Bang as camera flashes ignite the
+dialog: screen.
+dialog: 
+speaker_heading: FAST DISSOLVE TO:
+speaker_heading: BLACK AND WHITE PHOTO – 1973
+dialog: 
+dialog: Curt kissing Brian – under the first
+dialog: slams of ‘Baby’s on Fire’/Brian Eno ~ Sung by Jonathan Rhys Meyers.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. CONCERT HALL – LONDON – NIGHT –
+dialog: 1973
+dialog: 
+dialog: Brian sings on-stage, in Ziggy Stardust-esque
+dialog: space age outfit.
+dialog: 
+speaker_heading: CLOSE:
+dialog: Brian turns as Curt Wild bounds on to
+text: stage in a rush of energy. He is jumping up and down in true Iggy Pop style He
+text: is dressed in tight silver pants and a black top. He hooks up his guitar and
+text: gets ready to play. The song continues through the brief montage.
+dialog: 
+scene_heading: INT. MAGAZINE PRESS – DAY – 1973
+dialog: 
+dialog: We see editions of the ‘kiss photo’
+text: being printed, cut and bound on machines. We see magazines boxed and loaded into
+dialog: trucks.
+dialog: 
+scene_heading: EXT. NEWSSTAND – DAY – 1973
+dialog: 
+dialog: Boxes are opened by vendors and put
+text: on display. Money is handed to vendors and magazines are handed back in
+dialog: exchange.
+dialog: 
+speaker_heading: FAST DISSOLVE TO:
+dialog: 
+speaker_heading: ARTHUR’S BEDROOM – SUBURBAN MANCHESTER –
+speaker_heading: NIGHT - 1973
+dialog: 
+text: TRACK OUT from the ‘kiss photo’ in
+dialog: Teenage Arthur’s Melody Maker magazine.
+dialog: 
+dialog: CLOSE ON Arthur, lips moist,
+dialog: entranced.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. HOTEL SUITE – NEW YORK – 1973
+dialog: 
+text: A man’s hand takes that of a woman’s
+text: leading her past flowing curtains to a moonlit.
+text: TRACK OUT to reveal Shannon being led by Devine. She stops.
+dialog: 
+text: The dark, richly decorated suite is
+dialog: filled with bodies.
+dialog: 
+text: Devine smiles faintly, persuading her
+dialog: in.
+dialog: 
+speaker_heading: CUT BACK TO:
+dialog: 
+scene_heading: INT. ARTHUR’S BEDROOM – SUBURBAN
+speaker_heading: MANCHESTER – NIGHT – 1973
+dialog: 
+dialog: Arthur turns the page.
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. CONCERT HALL – LONDON – 1973
+dialog: 
+dialog: Curt pours over a particularly
+text: wrenching guitar solo. He half-smiles when he sees:
+dialog: 
+text: Brian, slinking down on his haunches,
+text: approaching. When he arrives, he drops to his knees and ‘goes down’ on Curt’s
+text: guitar, grabbing on to his ass as he plays the instrument with his teeth..
+dialog: 
+dialog: The audience goes wild, as do the
+dialog: photographers.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. ARTHUR’S BEDROOM –NIGHT – 1973
+dialog: 
+dialog: Arthur’s face, breath
+text: CLOSE, staring at the photo of the preceding stage stunt, softly grinding.
+dialog: 
+text: VERY CLOSE on his open hand, circling
+text: slowly over stretching underwear.
+dialog: 
+scene_heading: INT. STUART LIVING ROOM – SUBURBAN
+speaker_heading: MANCHESTER – NIGHT – 1973
+dialog: 
+text: Mr Stuart looks up angrily from the
+text: TV toward the pounding music from Arthur’s room. He glares at Mrs Stuart sitting
+dialog: beside him.
+dialog: 
+dialog: He throws down the newspaper and
+text: starts up the stairs.
+dialog: 
+scene_heading: INT. HOTEL SUITE – NEW YORK – NIGHT –
+dialog: 1973
+dialog: 
+dialog: Two Glam Girls are leading Curt to a
+text: corner couch, bringing us to Trevor and Harley, who stand opposite each other
+text: shirtless. Angel is going down on Trevor while a Girl Groupie caresses Harley. A
+text: Boy Groupie sits beside her watching as Trevor and Harley stare at one another’s
+dialog: bodies, stone drunk.
+dialog: 
+dialog: Mandy is lying in a through of Skinny
+text: Boys, her tongue down Cooper’s throat. A Nude Woman with large breasts pulls her
+dialog: away.
+dialog: 
+speaker_heading: MANDY
+dialog: Thank God – a
+dialog: woman!
+dialog: 
+text: Passing over a large red velvet sofa
+text: we discover a beautiful Asian Woman in bright-blue feathers undressing a man.
+text: She is accompanied by a nude Black Boy who kisses the man while pulling off his
+text: tie. The TRACK ENDS on a CLOSE UP of the
+dialog: man. It’s Brian.
+dialog: 
+text: All of a sudden he glances up.
+dialog: 
+text: Curt stands near a doorway, his eyes
+text: on Brian. He has broken away from his captors.
+dialog: 
+text: Brian stares back, frozen. The Asian
+text: woman tries to kiss him.
+dialog: 
+text: Curt just turns, disappearing down
+dialog: the hall.
+dialog: 
+dialog: Brian stares after.
+dialog: 
+dialog: Shannon observes the exchange,
+text: standing against a wall with Devine’s head in her breasts.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. STUART LIVING ROOM – MANCHESTER –
+speaker_heading: NIGHT – 1973
+dialog: 
+dialog: Mrs Stuart stands as Mr Stuart pounds
+text: on Arthur’s door – off-screen.
+dialog: 
+speaker_heading: MR STUART
+dialog: (off-screen)
+dialog: Could you
+dialog: conceivably turn down that blasted....Arthur! Arthur, open this door!
+dialog: 
+dialog: We hear him forcing it open and
+text: storming in, shouting.
+text: Suddenly there’s a crash, followed by
+text: the screech of a phonograph needle. Mrs Stuart jolts, hurries upstairs.
+dialog: 
+text: We follow as she rushes down the hall
+text: to Arthur’s door where she stops, looking in.
+dialog: 
+scene_heading: INT. ARTHUR’S BEDROOM – SUBURBAN
+speaker_heading: MANCHESTER – NIGHT – 1973
+dialog: 
+dialog: Slow
+text: ZOOM OUT from Mrs Stuart standing at the door as we hear Mr Stuart growl in
+dialog: low, threatening tones.
+dialog: 
+speaker_heading: MR STUART
+dialog: (off-screen)
+dialog: You bring
+dialog: shame to this house. You bring shame to your mother and me. It’s a shameful,
+dialog: filthy thing you’re doing –
+dialog: (suddenly at the top of his lungs)
+speaker_heading: DO YOU HEAR
+dialog: ME?!
+dialog: 
+dialog: Mrs Stuart jumps.
+dialog: 
+dialog: Stand up!
+dialog: 
+dialog: Mr Stuart is standing behind Arthur,
+text: who slowly stands into frame.
+text: ZOOM ends, revealing a reflection in the dresser
+text: mirror Arthur is standing before. His nose is bleeding.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. HOTEL SUITE – NEW YORK – NIGHT –
+dialog: 1973
+dialog: 
+text: VERY CLOSE on Brian disengaging from
+text: his partners, their eyes opening, their faces looking up. PAN UP with
+text: Brian, standing, his eyes fixed on the hallway.
+dialog: 
+dialog: CLOSE ON Mandy, her eyes
+text: opening, sensing something. She spots Brian.
+dialog: 
+dialog: Shannon continues staring as Devine’s
+text: head comes up and looks over as well.
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: It’s funny
+dialog: how beautiful people look –
+dialog: 
+dialog: Brian, slightly
+text: SLOW MOTION, approaching the hall. He glances back a beat before slipping
+dialog: into the shadows.
+dialog: 
+dialog: - when
+text: they’re walking out the door.
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+dialog: Brief silent shot:
+dialog: 
+scene_heading: EXT. BUS – MANCHESTER – DAY – 1973.
+dialog: 
+dialog: Arthur boards the bus to London with
+dialog: a single suitcase.
+dialog: 
+text: He sits in the back as the bus takes
+dialog: off.
+dialog: 
+text: Through the windows he sees his
+text: mother running out and stopping diminishing as we pass. Finally, she raises a
+dialog: hand goodbye.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. HOTEL SUITE – NEW YORK – DAY – 1973
+dialog: 
+dialog: In a corner of the room Mandy
+dialog: consoles Shannon who is weeping.
+dialog: 
+speaker_heading: MANDY
+dialog: Really
+dialog: Shannon, it’s no problem, honestly. I’m not fussed about it, I’m quite open
+dialog: about it. I was having a fabulous time last night myself. Really luv, you
+dialog: shouldn’t upset you so. Brian is a grown man and fully capable of shagging
+dialog: whatever he fancies and exceedingly partial to the practice.
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: Now: just
+dialog: because someone sees, you know –
+dialog: 
+speaker_heading: FAST RETURN TO:
+dialog: 
+scene_heading: INT. DIVE BAR – NEW YORK – DAY – 1984
+dialog: 
+text: Arthur, jolted back to the present.
+dialog: 
+speaker_heading: MANDY
+dialog: (facetious)
+dialog: - two
+dialog: naked people asleep in bed together...it doesn’t
+dialog: necessarily prove sex was involved.
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. BEDROOM SUITE – NEW YORK – DAY –
+dialog: 1973
+dialog: 
+text: Brian and Curt in bed, tangled and
+text: naked, dead asleep.
+dialog: 
+text: Shannon looks through a crack in the
+dialog: door.
+dialog: 
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. DIVE BAR – NEW YORK – DAY – 1984
+dialog: 
+speaker_heading: MANDY
+dialog: It does,
+dialog: however, make for a very strong case.
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. BEDROOM SUITE – NEW YORK – DAY –
+dialog: 1973
+dialog: 
+text: Shannon closes the door and Brian’s
+dialog: eyes open.
+dialog: 
+speaker_heading: MANDY
+dialog: But you’re a
+dialog: sweet, sensitive darling to be so broken up about it. Brian would be absolutely
+dialog: chuffed to know that you –
+dialog: 
+text: Shannon suddenly grabs Mandy’s arm,
+dialog: glaring.
+dialog: 
+speaker_heading: SHANNON
+dialog: Don’t you
+dialog: ever dare tell Brian – Swear to me you’ll never say a word– ever.
+dialog: 
+text: Mandy  yanks free. She gets up,
+dialog: rubbing her wrist.
+dialog: 
+speaker_heading: MANDY
+dialog: I swear.
+dialog: Jesus.
+dialog: 
+text: Mandy walks off, confused and a
+dialog: little spooked.
+dialog: 
+scene_heading: INT. HOTEL CORRIDOR – NEW YORK – DAY –
+dialog: 1973
+dialog: 
+text: Mandy stops outside Brian’s door. She
+text: takes a breath before quietly turning the knob.
+dialog: 
+scene_heading: INT. BEDROOM SUITE – NEW YORK –
+speaker_heading: AFTERNOON – 1973
+dialog: 
+text: CLOSE ON Mandy peeking in. FAST
+text: ZOOM OUT: the room is empty. Mandy sees  a note left on the table with her
+text: name on it. She opens it.
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over, of letter)
+dialog: ‘Sudden
+dialog: change in plans.
+dialog: Brief
+dialog: holiday, much needed.
+dialog: Back by
+dialog: Hammersmith.
+dialog: -B’
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. DIVE CLUB – NEW YORK – LATE DAY –
+dialog: 1984
+dialog: 
+speaker_heading: MANDY
+dialog: That was it.
+dialog: And I knew...my time with Brian, for all practical purposes, as up.
+dialog: Look I’m
+dialog: sorry. I just wish I could help you more. You seem like a nice guy. I just ahh –
+dialog: 
+text: The Bartender glances up.
+text: FAST ZOOM/BACK OUT to Mandy in foreground.
+dialog: 
+dialog: -don’t think
+dialog: I have what you’re looking for.
+dialog: 
+text: Arthur smiles, looking down.
+dialog: 
+speaker_heading: ARTHUR
+dialog: See...I think
+dialog: you do actually.
+dialog: 
+speaker_heading: MANDY
+dialog: (a sly smile)
+dialog: Oh yeah? And
+dialog: what makes you think so?
+dialog: 
+speaker_heading: ARTHUR
+dialog: Well that
+dialog: smile, for one thing.
+dialog: 
+speaker_heading: MANDY
+dialog: Well. Smiles
+dialog: lie.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Exactly.
+dialog: 
+dialog: Mandy sighs.
+dialog: 
+speaker_heading: MANDY
+dialog: Listen, once
+dialog: – of course – there was a gorgeous gorgeous time. And we were living our dreams.
+dialog: But you see all that went away – all of it –
+dialog: (quietly)
+dialog: - with Curt.
+dialog: 
+text: A faint melody rises. Music builds to
+dialog: ‘My Unclean’/Wylde Rattz as slow ZOOMS begin on each of them.
+dialog: 
+dialog: And not even
+dialog: the real Curt. It was the idea of Curt more than anything, this – image. Which,
+dialog: of course, no one could ever possibly live up to. I mean Maxwell Demon, Curt
+dialog: Wild – they were fictions! Somewhere along the way, Brian seemed to get
+dialog: lost in the lie.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. RECORDING STUDIO – LONDON – NIGHT –
+dialog: 1974
+dialog: 
+dialog: 
+speaker_heading: TRACK OUT from Curt at the mic in
+text: the soundproof booth. He starts to sing, eyes closed.
+dialog: 
+dialog: In the foreground, Brian is revealed
+text: watching through the glass, his back to the camera. When Curt doesn’t come in on
+text: the next verse, Brian twitches angrily.
+dialog: 
+speaker_heading: BRIAN
+dialog: Shit!
+dialog: 
+speaker_heading: DEVINE
+dialog: Cut it!
+dialog: 
+speaker_heading: MIXER
+dialog: Should I stop
+dialog: it?
+dialog: 
+text: Brian turns around, facing Devine and
+text: the Mixer who sits behind him at the board.
+dialog: 
+text: Curt continues singing.
+dialog: 
+text: Brian watches, biting his thumb.
+dialog: 
+dialog: He’s gonna
+dialog: hit the bridge a half-verse early.
+dialog: 
+speaker_heading: DEVINE
+dialog: Now you’re
+dialog: simply wasting tape.
+dialog: 
+speaker_heading: BRIAN
+dialog: Alright. Cut
+dialog: it.
+dialog: 
+dialog: The music stops.
+dialog: 
+text: Behind Brian, Curt looks up. He
+text: starts hollering through the glass but we can’t hear him. Brian is frozen, his
+text: back to the booth. The Mixer switches Curt on.
+dialog: 
+speaker_heading: CURT
+dialog: (on intercom)
+dialog: What?
+dialog: 
+text: Brian turns around to face him.
+dialog: 
+speaker_heading: CURT
+dialog: What? What,
+dialog: is there a problem?
+dialog: 
+speaker_heading: INSIDE BOOTH:
+dialog: From Curt’s
+dialog: POV we see Brian. Brian’s response is monitored for Curt but barely
+dialog: heard. Through the glass we can read his lips-
+dialog: 
+speaker_heading: BRIAN
+dialog: Because you
+dialog: missed your cue.
+dialog: (looks down, quiet, but now audible)
+dialog: Again.
+dialog: 
+speaker_heading: CURT
+dialog: What?
+dialog: What?
+dialog: 
+speaker_heading: CONTROL ROOM
+dialog: 
+text: Devine leans into the intercom and
+text: chimes in, tersely.
+dialog: 
+speaker_heading: DEVINE
+dialog: We’re sorry,
+dialog: Curt, but it appears as if you –
+dialog: 
+speaker_heading: CURT
+text: (Curt glares at him through the glass, points to Brian
+dialog: awaiting an answer from HIM.)
+dialog: What?!!
+dialog: 
+dialog: Brian leans in.
+dialog: 
+speaker_heading: BRIAN
+dialog: (smoothly)
+dialog: Curt, we only
+dialog: ask that when you decide to make a change you simply inform us in advance
+dialog: so Eton here is properly prepared, otherwise –
+dialog: 
+text: Curt turns violently, thrusting his
+text: arm as he curses.
+dialog: 
+speaker_heading: CURT
+dialog: (on intercom)
+dialog: What the fuck
+dialog: are you talking about man? – I didn’t make any fucking changes!
+dialog: 
+text: Brain walks up to the glass silently.
+dialog: 
+dialog: Brian?-
+text: (jerking away in frustration, throws his head set to the
+dialog: ground)
+dialog: Fucking mother fucker! Mother
+dialog: fucker, you’re a mother fucker! Fuck you! Fuck you, mother fucker! Fuck you!!
+dialog: 
+speaker_heading: DEVINE
+dialog: Eton
+dialog: ....Eton, please.
+dialog: 
+dialog: The Mixer switches Curt off. We watch
+text: him continue to rave in silence as Brian listens to Devine.
+dialog: 
+dialog: Brian, I’m
+dialog: sort to be the one to tell you this, but what started off as an interesting
+dialog: experiment has quite frankly descended into demeaning wast of your time and
+dialog: mine. I mean you’ve already spent– forty hours studio time –
+dialog: 
+speaker_heading: BRIAN
+dialog: Thirty-six.
+dialog: 
+speaker_heading: DEVINE
+dialog: Whatever!
+dialog: Thirty-six hours – on two, three bloody cuts! Brian, you seem to forget, but
+dialog: you’re a very big star now and your time is worth a great deal more than this –
+dialog: 
+text: Jerry  switches on the intercom and
+text: Curt’s shrieks come searing on.
+dialog: 
+speaker_heading: CURT
+dialog: -fucking
+dialog: space-queen on your fucking high horse! And all your fucking henchmen! –  fuck
+dialog: you, fuck you!
+dialog: 
+dialog: Brian switches it off and responds
+dialog: quickly and quietly.
+dialog: 
+speaker_heading: BRIAN
+dialog: Perhaps it’s
+dialog: time for another little break. Hey fellas? Give us a stretch.
+dialog: (a wan smile)
+dialog: Jerry?
+dialog: 
+text: Devine stands, coolly.
+dialog: 
+speaker_heading: DEVINE
+dialog: I can’t risk
+dialog: extending his contract, Brian. I think it’s quite clear why. I’ll talk to you
+dialog: tomorrow.
+dialog: 
+text: He turns and begins filing out with
+text: the others. RACK to Brian in the foreground,
+dialog: watching Curt.
+dialog: 
+dialog: He has begun throwing chairs around
+text: the booth. Brian turns away, black in shadows. Everyone has gone but Mandy, who
+text: watches Brian from a dark corner.
+dialog: 
+dialog: For a split second his sadness shows.
+text: Then his eyes flash up and he sees her.
+dialog: 
+text: She looks him in the eye. Then she
+text: turns and leaves the room. We follow. As the door shuts behind her, and the
+text: sound of Curt’s shouts resume in the distance, a tender instrumental of the
+dialog: previous song rises.
+dialog: 
+dialog: Mandy passes through the shadows,
+dialog: into moonlight.
+dialog: 
+scene_heading: EXT. RECORDING STUDIO – NIGHT – 1974
+dialog: 
+dialog: Mandy looks up.
+dialog: 
+text: The sky is full of stars. Then –
+text: suddenly – there’s a crash of doors.
+dialog: 
+dialog: In a massive
+text: LONG SHOT Mandy watches Curt come tearing out of a rear door. The third-story
+text: window bangs open and Brian’s head sticks out, shouting after him.
+dialog: 
+speaker_heading: BRIAN
+dialog: Piss off,
+dialog: then! Go on! Back to your wolves! Your junkie twerps! Your bloody shock
+dialog: treatment! And fuck you too!
+dialog: 
+dialog: Mandy watches
+dialog: Brian watching Curt vanish
+dialog: 
+speaker_heading: MANDY
+dialog: (voice-over)
+dialog: When it all
+dialog: came crashing down, I just stood on the sidelines and watched, just like
+dialog: everybody else.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. BRIAN’S OFFICE – DAY – 1974
+dialog: 
+dialog: Curtain parts, revealing Curt below
+dialog: on the street.
+dialog: 
+text: He looks up and sees Brian.
+dialog: 
+scene_heading: EXT. BIJOU OFFICE – DAY – 1974
+dialog: 
+text: Brian looks through the window then
+text: withdraws. Curt gets into the limo and takes off.
+dialog: 
+scene_heading: INT. BRIAN’S OFFICE – DAY – 1974
+dialog: 
+text: A phone receiver is lifted up.
+text: CLOSE ON Brian’s finger dialling a number.
+dialog: 
+scene_heading: INT. LIMO – MOMENTS LATER – DAY – 1974
+dialog: 
+dialog: The streets of London passing from a
+dialog: car.
+text: Signs for Heathrow Airport approach.
+dialog: 
+text: Curt looks out. He squints from the
+dialog: sun.
+dialog: Flashback to a time Brian and Curt
+dialog: shared together, on the beach. Perhaps when they went on the ‘much needed
+dialog: holiday’ and left Mandy.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. BRIAN’S OFFICE  - DAY – LATER –
+dialog: 1974
+dialog: 
+dialog: CLOSE ON Brian’s tight mouth against
+dialog: a phone receiver.
+dialog: 
+speaker_heading: BRIAN
+dialog: Out. O-U-T.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. BIJOU OFFICES – DEVINE’S OFFICE –
+speaker_heading: DAY – 1974
+dialog: 
+dialog: CLOSE ON Devine’s nose, the phone
+text: against his face. Speedy ZOOM OUT.
+dialog: 
+speaker_heading: DEVINE
+dialog: Well, Brian.
+dialog: I’m afraid that is completely out of the question. You are contractually bound
+dialog: to finish the Maxwell Demon tour as Maxwell Demon –
+dialog: 
+text: Mandy stands at the door of his
+text: office holding a stack of papers. CLOSE ON
+dialog: Devine.
+dialog: 
+speaker_heading: BRIAN
+dialog: (off-screen; faintly through receiver)
+dialog: Jerry, I’m
+dialog: telling you, is just getting far too out of hand – I really don’t think I’ll be
+dialog: able to –
+dialog: 
+speaker_heading: DEVINE
+dialog: (looking at Mandy)
+dialog: Brian –Brian
+dialog: – I realize you’re under tremendous strain, but you’ve jut gotta hang on in
+dialog: there and finish...
+dialog: 
+text: Mandy slowly turns to go.
+dialog: 
+dialog: - the bloody
+dialog: tour. You hang on in there. I’ll hang on here.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+speaker_heading: INT. BRIAN’S OFFICE – DAY
+dialog: 
+text: Brian is in total distress. He is not
+dialog: paying attention to what Devine is saying.
+dialog: 
+speaker_heading: DEVINE
+dialog: (off screen)
+dialog: And then you
+dialog: can do what you want, OK?
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. STREETS OF KREUZBERG – BERLIN –
+speaker_heading: NIGHT – 1974
+dialog: 
+dialog: Curt walks through an industrial
+text: neighbourhood in West Berlin. He lights a cigarette as an elevated train passes
+text: in the distance, blinking red and green. Suddenly he looks up, spotting
+dialog: something on the street.
+dialog: 
+dialog: An individual looking remarkably like
+text: Brian, dressed as Maxwell Demon, stands with two other flashly dressed
+dialog: individuals.
+dialog: 
+text: Curt squints at the spectre, taking a
+text: few vague steps in the direction.
+dialog: 
+text: The figure turns, revealing himself
+dialog: to be a teenage fan.
+dialog: 
+dialog: Curt,
+dialog: CLOSE, spooked by the misrecognition.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+dialog: Shots of the people: men in trench
+text: coats, teenagers sitting on the stairs of Piccadilly fountain, Japanese
+dialog: tourists.
+dialog: 
+dialog: Arthur sees a group of Glam Girls
+text: stumble into a dark club. He follows.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. LAST RESORT CLUB – NIGHT – 1973
+dialog: 
+dialog: In a cramped London club, Malcolm,
+dialog: Ray, Pearl and Billy of The Flaming Creatures (a cross between Roxy Music and
+dialog: The New York Dolls) perform the current section of ‘Bittersweet’ with raucous
+dialog: intensity.
+dialog: 
+dialog: Arthur watches. He likes what he
+dialog: hears.
+dialog: 
+text: Ray spots him and blows him a trampy
+dialog: kiss.
+dialog: 
+dialog: Arthur blushes.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. BRIAN SLADE PROTESTS – LONDON – DAY
+speaker_heading: – 1974 VIDEO NEWSREELS
+dialog: 
+dialog: CLOSE ON grainy shot of a Brian Slade
+text: poster in flames over the song’s tender finish.
+dialog: 
+dialog: We see albums being burned and thrown
+text: into a charred pile. Others burn songbooks, magazines, forty-fives.
+dialog: 
+scene_heading: INT. BIJOU OFFICES – DAY – 1974
+dialog: 
+dialog: Brian’s face, starring at the
+dialog: monitor, a ghost of his former self.
+dialog: 
+text: CLOSE ON his hand rewinding the tape.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: EXT. KREUZBERG – BERLIN – NIGHT – 1974
+dialog: 
+dialog: Curt has inadvertently joined a
+text: hustler/cruising strip, full of young specimens on the street corners and
+text: pulled-over cars. As Curt walks he notices one car beginning to follow.
+dialog: 
+text: He smiles to himself, thinking it’s a
+text: proposition, and turns the next corner.
+dialog: 
+dialog: The car does the same.
+dialog: 
+text: As Curt crosses the street, he slows,
+text: trying to get a look at the driver.
+dialog: 
+text: Tentatively he approaches it,
+dialog: spooked.
+dialog: 
+text: CLOSE ON a car window rolling down
+dialog: and revealing Jack Fairy.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. LAST RESORT CLUB – LATER – 1973
+dialog: 
+text: TRACK through the slowed-down remains
+text: of the club, most of the clientele subdued with drink. Off-screen, The Flaming
+dialog: Creatures’ late-night banter is heard:
+dialog: 
+speaker_heading: MALCOLM
+dialog: I don’t
+dialog: believe that there is much of a future to speak of –
+dialog: 
+speaker_heading: PEARL
+dialog: We’re in a
+dialog: bit of a decadent spiral, aren’t we?
+dialog: 
+dialog: We pass one half-undressed Weimar
+text: Woman, evoking thirties Berlin, spread across the tables.
+dialog: 
+speaker_heading: BILLY
+dialog: Sinking fast.
+dialog: 
+speaker_heading: RAY
+dialog: Big Brother,
+dialog: baby. All the way.
+dialog: 
+dialog: Reveal Arthur and the Creatures
+text: sprawled around a table teaming with empty pints.
+dialog: 
+dialog: Quick
+dialog: SINGLES on each of them:
+dialog: 
+speaker_heading: MALCOLM
+dialog: Which is why
+dialog: we prefer impressions to ideas –
+dialog: 
+speaker_heading: PEARL
+dialog: Brief flights
+dialog: to sustained ones –
+dialog: 
+speaker_heading: RAY
+dialog: Exceptions to
+dialog: types –
+dialog: 
+speaker_heading: BILLY
+dialog: Situations to
+dialog: subjects –
+speaker_heading: PEARL
+dialog: And yourself?
+dialog: 
+text: Arthur looks at them a moment.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Well I’m –
+dialog: I’m just looking for a room at the moment.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. RECORDING STUDIO – LATER THAT NIGHT
+dialog: – 1974
+dialog: 
+dialog: We see Brian’s singing
+dialog: ‘Bittesweet’/Roxy Music.
+dialog: Brian records his version of the song
+text: alone in the darkened studio. He returns to its tender refrain with eyes closed,
+dialog: heart clenched.
+dialog: 
+dialog: In the hallway Mandy moves through
+text: the shadows toward the studio, drawn by the music.
+dialog: 
+dialog: Inside a
+text: CLOSE TRACK curls around Brian, revealing a perfect tear
+text: glittering on his cheek.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. DIVE CLUB – NEW YORK – LATE DAY –
+dialog: 1984
+dialog: 
+speaker_heading: CLOSE ON Mandy.
+dialog: 
+speaker_heading: MANDY
+dialog: So for one
+dialog: entire day I actually think Brian’s been shot. That the whole thing is real, all
+dialog: his paranoias proven horribly true –
+dialog: 
+speaker_heading: ARTHUR
+dialog: You mean – no
+dialog: one told you –
+dialog: 
+speaker_heading: MANDY
+dialog: Nope.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Why?
+dialog: 
+speaker_heading: MANDY
+dialog: Forgot.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Jesus.
+dialog: 
+speaker_heading: MANDY
+dialog: I mean...I
+dialog: knew it was over. I just didn’t know it was up to me to make it stop.
+dialog: 
+speaker_heading: FADE TO:
+dialog: 
+scene_heading: INT. BIJOU TOWN HOUSE ENTRANCE – DAY –
+dialog: 1975
+dialog: 
+dialog: We follow Mandy along the hallway
+dialog: leading to the old offices.
+dialog: 
+dialog: At the end of the hall way, we reach
+text: the main door. Mandy pushes it open and enters.
+dialog: 
+scene_heading: INT. BIJOU OFFICES – DAY – 1975
+dialog: 
+dialog: Inside, the office’s musical comedy
+text: ambience has turned film noir: shadows engulf the cavernous space where desks
+text: are piled with boxes and chairs stacked, overturned or covered in sheets.
+dialog: 
+dialog: She walks through the deserted
+text: ‘cubicles’, passing shady remnants of the past.
+dialog: 
+text: Against a far wall, the TV monitor is
+text: playing more silent footage from the Slade protests.
+dialog: 
+dialog: Mandy looks down.
+dialog: 
+text: There, in the far corner of the room
+text: on a large mattress sits Brian. Shirtless, he is snorting cocaine off the ass of
+text: a nude black girl (Coco), who is dead asleep. On a lone coffee table – the only
+text: other uncovered furniture in sight – a mountain of cocaine has spilled over paraphernalia
+dialog: and hundred-dollar bills.
+dialog: 
+speaker_heading: BRIAN
+dialog: (weak)
+dialog: Mandy.
+dialog: 
+speaker_heading: MANDY
+dialog: Hello, Brian.
+dialog: 
+dialog: Brian just stares for a few
+text: dumbfounded seconds before offering her the straw.
+dialog: 
+speaker_heading: MANDY
+dialog: (barely maintaining)
+dialog: No, thanks.
+dialog: 
+text: Mandy stares at him, almost smiling.
+dialog: Slow
+text: TRACK IN begins as she shuffles through her belongings. She produces a folder
+text: and holds it out to him.
+dialog: 
+text: She remains frozen, arm outstretched.
+dialog: 
+dialog: These are the
+dialog: papers. I believe they’re in order. All you need to do is sign.
+dialog: 
+text: Brian watches as she turns and walks
+text: across the room to the coffee table.
+dialog: 
+dialog: Mandy sticks the folder into the pile
+dialog: of coke.
+dialog: 
+dialog: So you won’t
+dialog: forget.
+dialog: 
+text: Brian stares, his face suddenly open
+dialog: like a child’s.
+dialog: 
+speaker_heading: BRIAN
+dialog: I already
+dialog: have.
+dialog: 
+text: Coco squirms in her sleep, tightening
+dialog: her grip around Brian.
+dialog: 
+speaker_heading: MANDY
+dialog: Evidently!
+dialog: 
+dialog: With that, Mandy turns and starts out
+text: the door. Then all at once she stops and turns to face him.
+dialog: 
+dialog: Fuck
+dialog: you, Brian! Did you ever – for one bloody second in your life want
+dialog: anything more –
+dialog: (suddenly quiet)
+dialog: -than
+dialog: this?
+dialog: 
+dialog: Brief pause.
+dialog: 
+speaker_heading: BRIAN
+dialog: (suddenly lucid)
+dialog: No.
+dialog: 
+text: Mandy looks at him, her eyes filling,
+dialog: with a sad smile.
+dialog: 
+speaker_heading: MANDY
+dialog: (softly)
+dialog: Your problem
+dialog: is: ‘You get what you want and do what you will.’
+dialog: 
+speaker_heading: BRIAN
+dialog: (matching her in a sudden game of quotation)
+dialog: ‘Worlds,’
+text: Mandy, ‘are built out of suffering. There is suffering at the birth of a child
+dialog: as at the birth of a star.’
+dialog: 
+speaker_heading: MANDY
+dialog: ‘You live in
+dialog: terror of not being misunderstood.’
+dialog: 
+speaker_heading: BRIAN
+dialog: ‘Women defend
+text: themselves by attacking, just as they attack by sudden and strange surrenders.’
+dialog: 
+text: CLOSE ON Mandy, her eyes moist.
+dialog: 
+speaker_heading: MANDY
+dialog: (more to herself)
+dialog: ‘I lost my
+dialog: girlhood, true. But it was for you.’
+dialog: 
+text: Suddenly a rear door bangs open,
+dialog: startling Mandy and waking Coco.
+dialog: 
+text: Shannon stands at the doorway,
+text: staring at Mandy. Now Brian’s personal secretary, Shannon’s force has grown
+text: considerably. Coco opens her eyes and lifts her head.
+dialog: 
+speaker_heading: SHANNON
+dialog: (professionally irate)
+dialog: What in God’s
+dialog: name is going on up here? How the fuck did you get up here? Brian, I’m really
+dialog: sorry about that.
+dialog: 
+speaker_heading: BRIAN
+dialog: It’s alright,
+dialog: Shannon. Mandy was just leaving.
+dialog: 
+speaker_heading: SHANNON
+dialog: Mandy, if
+dialog: you’d be so kind as to follow me –
+dialog: 
+dialog: Shannon takes Mandy firmly in hand
+text: and Mandy recoils, furiously.
+dialog: 
+speaker_heading: MANDY
+dialog: Let go of me.
+dialog: I’m perfectly capable of making my own –
+dialog: 
+dialog: Mandy goes to leave through a locked
+dialog: door.
+dialog: 
+speaker_heading: SHANNON
+dialog: I really
+dialog: don’t want to have to call someone –
+dialog: 
+dialog: Brian giggles.
+dialog: 
+speaker_heading: MANDY
+dialog: Call
+dialog: someone? I’m his wife, for fuck’s sake!
+dialog: 
+dialog: Brian start’s laughing loudly and
+dialog: obnoxiously.
+dialog: 
+text: Mandy’s eyes fill with tears.
+text: Enraged, she turns and sweeps the pile of cocaine into the air.
+dialog: 
+dialog: Fuck the lot
+dialog: of you!
+dialog: 
+dialog: Briefly
+text: SLOW MOTION: Brian, laughing through the white cloud, divorce papers  and
+dialog: money that Mandy has just sent sailing through the air.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. CHELSEA STREET – LATE AFTERNOON –
+dialog: 1975
+dialog: 
+dialog: High aerial view of Mandy streaming
+text: from the building and across the street.
+dialog: 
+dialog: Quiet music holds under.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. DIVE CLUB – NEW YORK – LATE DAY –
+dialog: 1984
+dialog: 
+speaker_heading: ARTHUR
+dialog: (off-screen)
+dialog: Was that the
+dialog: last time you saw him?
+dialog: 
+text: A distant trace of music begins as
+text: Arthur looks up from his notes. A slow TRACK IN
+dialog: begins.
+dialog: 
+dialog: Mandy stands, passing Arthur on her
+dialog: way to the bar.
+dialog: 
+dialog: No, but it
+dialog: was the last time we actually ah...spoke.
+dialog: I saw him
+text: again – briefly – a few weeks later. At a concert.
+dialog: 
+speaker_heading: ARTHUR
+dialog: He was
+dialog: performing?
+dialog: 
+dialog: TRACE IN behind Mandy as the
+dialog: cigarette machine.
+dialog: 
+speaker_heading: MANDY
+dialog: No. Curt was
+dialog: actually performing. He and Jack Fairy had just finished their Berlin record and
+dialog: Curt was in London playing some gigs. And Brian was there – for a second. I
+dialog: don’t think anyone even saw him.
+dialog: 
+dialog: Music and
+text: TRACK coverage as Mandy pushes the button. Her cigarettes
+dialog: drop.
+speaker_heading: CLOSE ON Arthur.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Which
+dialog: concert?
+dialog: 
+dialog: Mandy turns to him
+dialog: 
+speaker_heading: SUDDEN CUT TO:
+dialog: 
+scene_heading: INT. RAINBOW THEATRE – LONDON – NIGHT –
+dialog: 1975
+dialog: 
+dialog: An ominous crash of Organ announces
+text: the majesty of the old hall; red velvet curtains curling up beneath its opulent
+text: proscenium, framing the stage like a golden crown.
+dialog: 
+scene_heading: INT. DIVE CLUB – NEW YORK – LATE DAY –
+dialog: 1984
+dialog: 
+speaker_heading: MANDY
+dialog: It was like a
+dialog: tribute- sort of a farewell concert to glam rock.
+dialog: 
+scene_heading: INT. RAINBOW THEATRE – NIGHT- 1975
+dialog: 
+dialog: On-stage, through the final
+text: projections of glam icons, the silhouette of a looming coffin is revealed
+text: against deep purple lights with its lid slowly opening. A beam of golden light
+text: rises from the coffin, illuminating a slow cascade of glitter.
+dialog: 
+text: The scrim is lifted just as a caped
+text: figure emerges, waling into opal light. It’s Jack Fairy, looking as tall and
+dialog: radiant as ever.
+dialog: 
+text: Jack resumes begins narration over a
+dialog: rousing applause.
+dialog: 
+speaker_heading: JACK
+dialog: To save your
+dialog: wild, wild lives
+dialog: To ne’er your
+dialog: fans embitter
+dialog: To cease your
+dialog: sad demise tonight
+dialog: We toast –
+dialog: 
+text: SWOOPING IN on Arthur, his face amid
+text: the sea of spectators. There’s a panic in his eyes.
+dialog: 
+speaker_heading: FAST RETURN:
+dialog: 
+scene_heading: INT. RAINBOW THEATRE – ON STAGE – NIGHT
+speaker_heading: – 9175
+dialog: 
+dialog: Music peaks as an enormous banner
+text: unfurls like a flame. Its gilded script reads: THE
+dialog: DEATH OF GLITTER SHOW!
+dialog: 
+dialog: A rockin’ Flaming Creature’s song
+dialog: (‘20th Century Boy’/T-Rex) begins.
+dialog: 
+scene_heading: INT. CREATURES’ FLAT – NIGHT- 1975
+dialog: 
+dialog: Teenage Arthur,
+text: CLOSE in the mirror, is making himself up as Maxwell Demon.
+dialog: 
+text: The table is strewn with a mess of
+dialog: make-up and magic mushrooms.
+text: The room is filled with pre concert
+text: excitement and banter as they all get ready.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Is this
+dialog: working? Cos I want it blue-er.
+dialog: I don’t think
+dialog: you should bother I think I should go on stage tonight, instead of you.
+dialog: 
+speaker_heading: FLAMING CREATURE
+dialog: (hand stuck in the end of his jacket, can’t get it out)
+dialog: Arthur, come
+dialog: give us a hand with this.
+dialog: 
+dialog: Another band member is trying to
+dialog: help, they fall on the bed.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Stop moving
+dialog: about...I’m doing me eyeliner.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. WINGS – RAINBOW THEATRE – LATER –
+dialog: 1975
+dialog: 
+dialog: Fast
+text: ZOOM OUT from Arthur, dancing wildly in the wings.
+dialog: 
+text: In the wings a Roadie puts his hand
+text: on Arthur’s shoulder to settle him down.
+dialog: 
+text: Arthur turns, embarrassed. He catches
+dialog: sight of:
+dialog: 
+dialog: Three people approaching from
+text: backstage: a Musician, a Hip Woman with a clipboard – and Curt Wild.
+speaker_heading: ZOOM IN.
+dialog: 
+text: Arthur stares in disbelief.
+dialog: 
+dialog: We hear:
+dialog: 
+speaker_heading: ADULT ARTHUR
+dialog: (voice-over)
+dialog: Yeah, I’m
+dialog: trying to reach Curt Wild. I’m a journalist from the Herald.
+dialog: 
+text: Swirling music over.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. NEW YORK ALLEY – TELEPHONE BOOTH –
+speaker_heading: DAY – 1984
+dialog: 
+text: TRACK around Arthur in a payphone.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Yeah – Hi,
+dialog: yeah, I’m...my name’s Arthur Stuart from the Herald. Umm, I was, I was
+dialog: given this number, I was told I could reach Curt Wild, ah, here.
+dialog: 
+scene_heading: INT. OFFICE – NEW YORK – LATE DAY – 1984
+dialog: 
+text: MATCH TRACK around the back of Curt’s
+text: head, on the phone to Arthur. He sits at the desk of a small, ratty office.
+dialog: 
+speaker_heading: CURT
+dialog: Listen... (muttering
+dialog: in background to someone else)
+dialog: 
+speaker_heading: ARTHUR
+dialog: Yeah?
+dialog: ...Hello? Hello!?
+dialog: 
+speaker_heading: CURT
+dialog: Listen, I
+dialog: don’t know who the hell gave you this number – but Curt Wild is not available
+dialog: and not interested in granting you or anyone else an interview on this subject –
+dialog: you got it?
+dialog: 
+speaker_heading: ARTHUR
+dialog: I’m sorry – I
+dialog: was told –
+dialog: 
+text: Curt slams down the phone. He looks
+text: over to two suits with Government insignias sitting opposite on a tattered
+dialog: couch.
+dialog: 
+dialog: ‘Dead Finks Don’t Talk’/Brian Eno
+dialog: begins.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. ARTHUR’S APARTMENT – NEW YORK –
+speaker_heading: LATE AFTERNOON – 1984
+dialog: 
+dialog: CLOSE UP Arthur, standing and looking
+text: in the mirror of his apartment. For a few beats he is still. Then, suddenly, we
+text: hear the clatter of electronics. Arthur turns.
+dialog: 
+dialog: ZOOM IN to his desk where he is
+dialog: receiving a telex (fax).
+dialog: 
+dialog: HIGH ANGLE: Arthur walks across the
+text: room to his desk. His apartment is a crooked, looming container, twice as tall
+text: as it is wide. Its few bunker-style windows are strangely high.
+dialog: 
+speaker_heading: EXTREME CLOSE-UP: telex
+dialog: 
+dialog: It reads:
+scene_heading: ‘NAME CHANGE SEARCH: BRIAN SLADE – REQUEST DENIED’
+dialog: 
+text: Arthur pulls out the chair to his
+dialog: desk.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+speaker_heading: LATER
+dialog: 
+dialog: Computer screen. Words flash by:
+scene_heading: ‘FILE REQUEST FOR NAME CHANGE SEARCH:
+speaker_heading: SLADE, BRIAN’
+dialog: 
+text: Arthur’s face as he searches, blue in
+text: the glow of his computer. The TV blares in the background.
+dialog: 
+dialog: On computer screen: Brian Slade’s
+dialog: real name and birthplace appear:
+dialog: 
+speaker_heading: BRIAN SLADE, born: Thomas Brian
+dialog: Stoningham Slade, 2 January 1948, in Birmingham, Great Britain.
+dialog: 
+dialog: Name change:  16 March 1971 [Brian
+dialog: Slade],
+speaker_heading: 23 January 1979 [ACCESS
+speaker_heading: DENIED].
+dialog: 
+text: Arthur glances up from his computer.
+dialog: 
+speaker_heading: TV SCREEN
+dialog: 
+dialog: Shannon, brittle for her age, speaks
+text: into a mike. Beside her sits Tommy Stone.
+dialog: 
+speaker_heading: SHANNON
+dialog: (on TV)
+dialog: ...Due to the
+dialog: overwhelming demand, additional shows are being added whenever and wherever
+dialog: possible.
+dialog: 
+dialog: TRACK IN to Arthur who is stuck,
+dialog: watching.
+text: Suddenly he races back to his
+dialog: computer.
+dialog: 
+dialog: On computer screen,
+dialog: CLOSE UP across Slade’s birth-name:
+scene_heading: THOMAS BRIAN PATRICE STONIGNHAM SLADE.
+dialog: 
+dialog: TRACK INTO the names ‘THOMAS ...
+speaker_heading: STONINGHAM’
+dialog: 
+text: Arthur stares at the screen.
+dialog: 
+text: He looks back at the TV set.
+text: FAST PAN/ZOOM INTO TV screen.
+dialog: 
+speaker_heading: SHANNON
+dialog: (on TV)
+dialog: Regrettably,
+dialog: Mr Stone only has time for a few brief questions this morning as he is scheduled
+dialog: to catch a plane to Zurich –
+dialog: 
+speaker_heading: REPORTERS
+dialog: (on TV)
+dialog: Tommy! Tommy!
+dialog: Tommy!
+dialog: 
+text: TRACK INTO screen, as music flares.
+text: Tommy Stone bears a marked resemblance to Brian Slade.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. NEW YORK STREETS – SUNSET – 1984
+dialog: 
+dialog: Music continues as Arthur runs
+dialog: through the rush hour crowds of New York.
+dialog: 
+scene_heading: INT. NEWS ROOM CORRIDOR – NIGHT – 1984
+dialog: 
+dialog: Arthur races down the shadow hallway
+text: to Lou’s office. He knocks.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Lou? Lou?
+dialog: 
+text: He opens the door. It’s dark inside.
+text: He hears a sound and looks back to the elevators.
+dialog: 
+dialog: The doors are opening and Lou is
+dialog: getting in.
+dialog: 
+dialog: Lou!
+dialog: 
+text: Arthur goes running down the hall.
+dialog: 
+dialog: Lou! LOU!
+dialog: 
+speaker_heading: LOU
+dialog: I’m sorry,
+dialog: Arthur. I’m late.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Lou ! I think
+dialog: I’m on to something.
+dialog: 
+text: Lou presses a button and the doors
+dialog: open.
+dialog: 
+speaker_heading: LOU
+dialog: What?
+dialog: 
+speaker_heading: ARTHUR
+dialog: Something
+dialog: quite big. I think I know who Brian Slade is.
+dialog: 
+speaker_heading: LOU
+dialog: That story’s
+dialog: been dropped.
+dialog: 
+speaker_heading: ARTHUR
+dialog: What? Why?
+dialog: 
+text: The elevator doors are closing.
+dialog: 
+speaker_heading: LOU
+dialog: I need you on
+dialog: the Stone show.
+dialog: 
+speaker_heading: ARTHUR
+dialog: But that’s
+dialog: it–
+dialog: 
+dialog: The doors close.
+dialog: 
+speaker_heading: ARTHUR
+dialog: What did they
+dialog: say to you? Lou!
+dialog: 
+text: A slow build of music begins.
+dialog: 
+speaker_heading: RETURN TO:
+dialog: 
+scene_heading: EXT. NEW YORK STREET – LATE DAY – 1984
+dialog: 
+text: Arthur stares at a poster of Tommy
+dialog: Stone on a bus stop.
+dialog: 
+text: CLOSE ON Arthur, staring sadly.
+text: Cheerless music begins rising ‘Gimme Danger’/Iggy and the Stooges.
+dialog: 
+dialog: Music builds as we follow Arthur in
+text: CLOSE UP, fighting back memories. Finally, he shuts his eyes.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. RAINBOW THEATRE – ON STAGE – NIGHT
+dialog: – 1975
+dialog: 
+text: Dark, golden glimpses of a sinewy
+text: body, moving to the music.  The music heard is Curt performing his last song to
+text: Brian, a mournful plea for submission. He is dressed only in tight fitting,
+dialog: silver pants and throughout the song he cowers and crawls:
+dialog: 
+text: CLOSE TRACK in to Arthur, watching
+text: from the wings, surrounded by The Creatures.
+dialog: 
+dialog: Curt sings with tender, ominous
+text: restraint, letting loose only at the end.
+dialog: 
+dialog: Mandy, also watches, by herself, from
+dialog: the wings.
+dialog: 
+dialog: On-stage Curt sings with seething
+dialog: intensity.
+dialog: 
+text: When the song finally erupts into a
+text: swarm of guitars, Curt breaks into desperate thrashes across the stage.
+dialog: 
+dialog: In the wings Arthur sneaks another
+dialog: glance at:
+dialog: 
+dialog: Mandy, watching Curt with a furrowed
+text: brow. Suddenly she turns and looks out to the rear of the auditorium.
+dialog: 
+text: Arthur follows her gaze.
+dialog: 
+dialog: From the back of the house a figure
+text: steps into view, silhouetted against the light of an exit door.
+dialog: 
+text: Arthur squints to make it out.
+dialog: 
+dialog: CLOSE, we see that it’s Brian.
+dialog: 
+text: On-stage Curt’s thrashing continues.
+text: Curt claws at himself and thrashes with desperate emotion, feeling and re-living
+text: his pain. The song reaches a peak as the deep blue lights slowly fade to black.
+text: Finally he huddles/collapses face down on stage. There is a split second of
+text: silence before the crowd explodes.
+dialog: 
+text: CLOSE ON Brian, who slips away.
+dialog: 
+speaker_heading: CUT:
+dialog: 
+scene_heading: INT. RAINBOW THEATRE – BACKSTAGE -
+speaker_heading: MOMENTS LATER – 1975
+dialog: 
+dialog: In relative darkness, the Roadie is
+text: clearing a path for the band to exit the stage, cornering Arthur. Dark, wet
+dialog: bodies crash past.
+dialog: 
+text: As Curt comes darting by, Mandy
+text: suddenly bolts past the Roadie and grabs him.
+dialog: 
+dialog: CLOSE ON Arthur, cornered by their
+dialog: hug. He hears:
+dialog: 
+speaker_heading: MANDY
+dialog: That was
+dialog: really beautiful
+dialog: 
+speaker_heading: CURT
+dialog: Yeah? Thanks.
+dialog: 
+dialog: Houselights come up and Mandy and
+text: Curt disengage, speaking quietly to one another.
+dialog: 
+text: Arthur looks down, trying to listen
+dialog: inconspicuously.
+dialog: 
+dialog: (quietly)
+dialog: Did you...?
+dialog: 
+speaker_heading: MANDY
+dialog: (also quietly)
+dialog: No I didn’t
+dialog: see him.
+dialog: 
+text: Then she turns, catching sight of
+dialog: Arthur.
+dialog: 
+dialog: Curt looks up as well.
+dialog: 
+text: Arthur stands caught, a doe-eyed
+dialog: Maxwell Demon.
+dialog: 
+text: For a moment, Curt is taken aback by
+dialog: Arthur’s youthful homage.
+dialog: 
+dialog: 
+speaker_heading: ARTHUR
+dialog: (voice-over)
+dialog: It’s only
+dialog: now, looking back, that I see –
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. RAINBOW THEATRE – LOBBY – NIGHT –
+dialog: 1975
+dialog: 
+dialog: SLOW MOTION TRACK in to Curt,
+text: surrounded by colourful figures and painted faces at a packed, post-show
+text: reception. Everyone is laughing, drinking and grabbing one another, but the
+text: colours have faded, the glitter worn, and a dark, Berlin-style decadence has set
+text: in. TRACK ends as Curt looks up, spotting someone from across the room.
+dialog: 
+dialog: MATCH TRACK in to Arthur, squeezed
+text: into the corner of the lobby, trapped by Curt’s glance.
+dialog: 
+speaker_heading: ARTHUR
+dialog: (voice-over)
+dialog: -how you
+dialog: patched through my walls and entered my life...in waves.
+dialog: 
+text: Arthur looks down shyly and back up
+dialog: again.
+dialog: 
+text: Curt’s eyes are fixed.
+dialog: 
+speaker_heading: FAST DISSOLVE TO:
+scene_heading: EXT. RAINBOW THEATRE ROOF – 4 A.M. – 1975
+dialog: 
+text: CLOSE BACK-TRACK with Arthur as he
+text: walks across the dark rooftop. Shadows pass over his face like a ghost.
+dialog: 
+dialog: The music yields to Curt’s deep,
+dialog: internal whisper.
+dialog: 
+speaker_heading: CURT
+dialog: (voice-over; slow, thoughtful)
+dialog: Come closer.
+dialog: Don’t be frightened. What’s your name? Your favourite colour? Song. Movie. Don’t
+dialog: be nervous. Are you high?
+dialog: 
+dialog: Arthur whispers his response aloud,
+dialog: half to himself:
+dialog: 
+speaker_heading: ARTHUR
+dialog: I’m on a
+dialog: button.
+dialog: 
+speaker_heading: FAST DISSOLVE TO EARLIER:
+dialog: 
+scene_heading: EXT. RAINBOW THEATRE – ROOF – EARLIER –
+dialog: 1975
+dialog: 
+dialog: Wide
+text: TRACK IN on Curt, who sits at the far end of the roof watching our
+dialog: approach (Arthur’s POV during his previous walk).
+dialog: 
+dialog: A voice returns but it’s Adult Arthur
+dialog: we hear:
+dialog: 
+speaker_heading: ADULT ARTHUR
+dialog: (voice-over)
+dialog: He was
+dialog: waiting for me. I’d followed his signals and slipped away and now –
+dialog: suddenly –
+dialog: 
+speaker_heading: FAST DISSOLVE TO:
+dialog: 
+scene_heading: EXT. RAINBOW THEATRE – ROOFTOP – LATER –
+dialog: 1975
+dialog: 
+text: Curt bursts up laughing, opening a
+text: can of beer that sprays all over himself. He sits with Arthur at the far corner
+text: of the roof, blushing with giggles.
+dialog: 
+text: CLOSE ON Arthur’s face, speckled with
+text: beer. Curt looks up.
+dialog: 
+speaker_heading: CURT
+dialog: Hey –
+dialog: 
+text: Arthur follows, just catching sight
+dialog: of:
+dialog: A falling star.
+dialog: 
+speaker_heading: ZOOM IN ON
+speaker_heading: CURT:
+dialog: 
+dialog: Make a wish.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. RAINBOW THEATRE – ROOF – LATER –
+dialog: 1975
+dialog: 
+dialog: Music continues as we follow Curt’s
+text: hand as it travels to Arthur and lands tenderly on his cheek.
+dialog: 
+text: Arthur is pulling off his shirt,
+text: standing over Curt who is also shirtless.
+dialog: 
+speaker_heading: FAST DISSOLVE:
+dialog: 
+scene_heading: EXT. RAINBOW THEATRE – ROOF – LATER –
+dialog: 1975
+dialog: 
+text: EXTREME CLOSE-UP of Curt’s hand on
+text: Arthur’s bare back, his cool white skin filling the screen. We follow it down.
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: EXT. RAINBOW THEATRE – ROOF – MORNING –
+dialog: 1975
+dialog: 
+dialog: Curt laughing as someone (Arthur)
+dialog: watches him pee.
+dialog: 
+speaker_heading: FAST RETURN TO:
+dialog: 
+scene_heading: EXT. RAINBOW THEATRE – ROOF – NIGHT –
+dialog: 1975
+dialog: 
+dialog: In sweaty
+text: CLOSE-UP, Curt sees something in the sky.
+dialog: 
+speaker_heading: CURT
+dialog: Hey –
+dialog: 
+text: Arthur’s eye darts up. He sees:
+dialog: 
+dialog: A luminous spacecraft, like the one
+text: that passed over Old Dublin. It swirls over London with a thunderous boom – and vanishes.
+dialog: 
+dialog: All that remains is a sky full of
+dialog: glitterdust.
+dialog: 
+dialog: CLOSE ON Curt’s lips, whispering
+dialog: through the cascade.
+dialog: 
+text: A WIDE SHOT of the roof, now awash in
+text: stardust, as the white bodies of Curt and Arthur are seen through the sparkles;
+text: Curt behind Arthur, gently fucking. A long, slow CRANE Out begins, as music and
+dialog: voices peak.
+dialog: 
+dialog: And see
+dialog: yourself, on-stage, inside-out. A tangle of garlands in your hair. Of course you
+dialog: were pleasantly surprised.
+dialog: 
+speaker_heading: TEEN ARTHUR
+dialog: (voice-over)
+dialog: Softly, he
+dialog: said...
+dialog: 
+speaker_heading: ALL THREE VOICES
+dialog: (whispering- Curt, Teen/Adult Arthur)
+dialog: I will mangle
+dialog: your mind.
+dialog: 
+dialog: We withdraw as the bodies of Curt and
+text: Arthur are engulfed and the artificiality of the set intensifies, warping
+dialog: perspective in the style of Caligari.
+dialog: 
+scene_heading: INT. STAGE – GRAND BALLROOM SET – NIGHT
+dialog: 
+dialog: The
+text: TRACK continues, revealing the bombed-out remains of a grand ballroom, and
+text: Brian, turning to the camera, dressed as a bejewelled Maxwell Demon. He begins
+dialog: to sing (‘Tumbling Down’/Steve Harley Cockney Rebel), slowly descending a
+dialog: gnarled staircase as we PULL OUT.
+dialog: 
+text: He stops at a half-blown landing just
+text: as a tattered chandelier is raised into frame. He mounts the shimmering beast,
+text: and finds a wreath of flowers around its cable. As he ascends, he throws flowers
+dialog: out to the ‘audience’ below.
+dialog: Maxwell Demon, is gone.
+dialog: 
+dialog: 
+speaker_heading: FAST CUT TO:
+dialog: 
+scene_heading: INT. STADIUM SHOW – NEW YORK – NIGHT –
+dialog: 1984
+dialog: 
+dialog: CLOSE ON Arthur’s closed eyes,
+dialog: imagining the previous Maxwell Demon show.
+dialog: Arthur is in the audience of a Tommy
+text: Stone concert, applauding, coming out of his reverie.
+dialog: 
+dialog: Briefly:
+dialog: 
+scene_heading: INT. STADIUM SHOW – ON-STAGE _ NIGHT –
+dialog: 1984
+dialog: 
+dialog: We see the actual Show: Tommy Stone
+text: in glitzy white garb, arms open, receiving applause and bouquets of flowers.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: EXT. MADISON SQUARE GARDEN – NIGHT –
+dialog: 1984
+dialog: 
+text: Arthur walks out of the theatre to
+text: ‘Dead Finks Don’t Talk’/Brian Eno. Fans are rushing past. Up ahead, a small
+text: crowd has gathered around the stage door.
+dialog: 
+dialog: There are cheers as Tommy Stone
+dialog: appears.
+dialog: 
+text: A huge spotlight is turned on to the
+dialog: door.
+dialog: 
+text: Arthur stops and watches.
+dialog: 
+speaker_heading: REPORTERS
+dialog: Tommy! Tommy!
+dialog: Where did you get the idea for such a spectacular stadium show?
+dialog: 
+speaker_heading: TOMMY
+dialog: Tell you the
+dialog: truth – it’s a bloody pain in the ass! The whole thing takes six full size rigs
+dialog: or three chartered planes to transport. What can I say? I think big!
+dialog: 
+text: Arthur approaches the crowd.
+dialog: 
+speaker_heading: REPORTERS
+dialog: Tommy! What’s
+dialog: your opinion on the work of President Reynolds has been doing-
+dialog: 
+speaker_heading: TOMMY
+dialog: Excellent.
+dialog: Excellent. I think he’s doing brilliant work. He’s a – tremendous leader, a
+dialog: tremendous spokesperson for the needs of the nation today –
+dialog: 
+text: Suddenly Arthur yells out over the
+dialog: others:
+dialog: 
+speaker_heading: ARTHUR
+dialog: Tommy! What
+dialog: is your response to the recent allegations connecting you to bisexual pop singer
+dialog: Brian Slade, who staged his own assassination ten years ago this week in London?
+dialog: 
+dialog: Tommy is white.
+dialog: 
+text: Reporters swarm as Arthur watches.
+dialog: 
+dialog: Tommy, devoured by Security Men,
+text: whisked away. Shannon is suddenly at the mike.
+dialog: 
+speaker_heading: SHANNON
+dialog: I’m sorry,
+dialog: ladies and gentlemen, that’s all the questions Mr Stone has time for this
+dialog: evening. Thank you very much –
+dialog: 
+dialog: Arthur, still behind the chaos of
+dialog: Reporters.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TOMMY’S DRESSING ROOM – NEW YORK –
+speaker_heading: NIGHT – 1984
+dialog: 
+dialog: Music as we follow Shannon and
+text: various Assistants escorting Tommy back to his dressing room.
+dialog: 
+text: In the background TV news is heard:
+dialog: 
+speaker_heading: TV
+dialog: Tonight, the
+dialog: Tri-State Area pulls out all the stops in welcoming pop superstar Tommy Stone to
+dialog: Madison Square Garden. Stone is promoting his Grammy-winning release, ‘People
+dialog: Rockin’ People’, to sold-out arenas worldwide...
+dialog: 
+text: Tommy is silent then in the midst of
+dialog: a cool panic.
+dialog: 
+speaker_heading: SHANNON
+dialog: (to everyone in the room, but Brian)
+dialog: Get Out! Now!
+dialog: Shut the door!
+dialog: 
+dialog: CLOSE ON Shannon, eyes shut, as
+text: people clear. When the door closes we hear a squeal like Little Richard’s coming
+dialog: from the TV.
+dialog: 
+dialog: Tommy looks over.
+dialog: 
+speaker_heading: TV SCREEN
+dialog: 
+dialog: The news broadcast of the Tommy Stone
+text: concert cuts to a clip. Suddenly Tommy Stone in white tuxedo turns to camera:
+text: the younger ‘Brian Slade’ dressed as stone turns back, glaring almost
+text: sinisterly, taunting him through the airwaves.
+dialog: 
+dialog: MATCH TRACK into Tommy, looking
+text: precisely as if he’s seen a ghost.
+dialog: 
+dialog: Rising music suddenly ends:
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. MIDTOWN BAR – NEW YORK – NIGHT –
+dialog: 1984
+dialog: 
+text: The door shuts behind Arthur in a
+dialog: dark mid-town bar.
+dialog: 
+text: Everyone looks up. There is a strange
+dialog: between-songs silence.
+dialog: 
+dialog: Arthur proceeds, self consciously.
+dialog: 
+dialog: A Tommy Stone song beings on the
+dialog: jukebox. (‘People Rockin’ People’/Shudder To Think) but people in the bar
+dialog: continue staring at Arthur.
+dialog: 
+text: He approaches the bar.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Beer, please.
+dialog: 
+dialog: Arthur notices a group of mostly
+text: black Teenagers, decked out in Tommy Stone gear. They whisper to each other. One
+dialog: Teenage Girl starts walking over.
+dialog: 
+dialog: The Bartender hands Arthur his beer,
+text: staring all the while at Arthur’s jacket.
+dialog: 
+text: Arthur realizes he’s still wearing
+text: his press pass and starts taking it off.
+dialog: 
+speaker_heading: TEENAGE GIRL
+dialog: Excuse me,
+dialog: sir. Are you with the Tommy Stone Tour?
+dialog: 
+speaker_heading: ARTHUR
+dialog: No. I’m just
+dialog: a journalist. Perhaps you’d like my press pass as a souvenir?
+dialog: 
+text: Her eyes widen. Arthur hands her the
+dialog: pass.
+dialog: 
+speaker_heading: TEENAGE GIRL
+dialog: Thanks,
+dialog: Mister.
+dialog: 
+text: She squeals and runs back to show her
+text: friends as Arthur turns and walks deeper into the long, narrow bar.
+dialog: 
+text: He passes the jukebox, and discovers
+text: a second bar in the back: smaller and moodier. A man in a leather jacket is
+dialog: drinking along.
+dialog: 
+dialog: Arthur stops. He can’t believe his
+dialog: eyes.
+dialog: 
+dialog: It’s Curt Wild, folding a Tommy Stone
+dialog: guest pass into origami.
+dialog: 
+dialog: Arthur smiles and starts advancing
+dialog: before even deciding to.
+dialog: 
+text: Curt looks up. He just glares.
+dialog: 
+speaker_heading: ARTHUR
+dialog: You’re Curt
+dialog: Wild.
+dialog: 
+speaker_heading: CURT
+dialog: (irritable)
+dialog: Yeah? Who the
+dialog: hell are you?
+dialog: 
+dialog: Brief silence.
+dialog: 
+speaker_heading: ARTHUR
+dialog: I’m a
+dialog: journalist. From the Herald. You were at the concert?
+dialog: 
+text: Curt just stares at him.
+dialog: 
+dialog: It’s just
+dialog: funny because...well, I was just trying to contact you actually. For a story I
+dialog: was doing –
+dialog: 
+dialog: Curt has now turned away.
+dialog: 
+dialog: -about an old
+dialog: friend of yours? Brian Slade?
+dialog: 
+text: Curt looks up for a moment, hiding
+dialog: his interest.
+dialog: 
+dialog: Was trying to
+dialog: find out...what actually happened to him.
+dialog: 
+speaker_heading: CURT
+dialog: Look –
+dialog: 
+speaker_heading: ARTHUR
+dialog: I mean,
+dialog: before he became –
+dialog: 
+dialog: Curt stops.
+dialog: 
+text: Tight on Arthur, peeking up at him.
+dialog: 
+dialog: -such a
+dialog: mystery.
+dialog: 
+text: Curt snorts out a sudden guffaw.
+dialog: 
+speaker_heading: CURT
+dialog: Look, man, I
+dialog: don’t know who you’ve been talking to or what you’re after here, but...
+dialog: (trails off)
+dialog: 
+speaker_heading: ARTHUR
+dialog: What?
+dialog: 
+text: Curt looks away again..
+dialog: 
+dialog: What?
+dialog: 
+speaker_heading: CURT
+dialog: Listen – a
+dialog: real artist creates beautiful things and...puts nothing of his won life into
+dialog: them. Okay?
+dialog: 
+speaker_heading: ARTHUR
+dialog: Is that what
+dialog: you did?
+dialog: 
+speaker_heading: CURT
+dialog: No.
+dialog: (brief silence)
+dialog: We set out to
+dialog: change the world and ended up...just changing ourselves.
+dialog: 
+speaker_heading: ARTHUR
+dialog: What’s wrong
+dialog: with that?
+dialog: 
+speaker_heading: CURT
+dialog: Nothing.
+dialog: (silence)
+dialog: If you don’t
+dialog: look at the world.
+dialog: 
+dialog: Quiet music under slow
+text: PAN past kids gathered at the jukebox, cliques of Tommy Stone fans,
+text: conservative, bored. One gay Latino Boy sits braiding a girls hair. End on a
+dialog: huge Tommy Stone poster.
+dialog: 
+dialog: (off-screen)
+dialog: Well, I guess
+dialog: in the end he got what he wanted.
+dialog: 
+dialog: Curt stands in though another beat
+text: before slipping on his jacket and downing his beer.
+dialog: 
+text: CLOSE ON Arthur looking up at him
+text: with a distant smile.
+dialog: 
+speaker_heading: ARTHUR
+dialog: That’s quite
+dialog: a – pin you got there.
+dialog: 
+dialog: CLOSE ON Curt’s jacket: the antique
+text: emerald pin sparkles green.
+dialog: 
+speaker_heading: CURT
+dialog: Oh yeah.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Is it old?
+dialog: 
+speaker_heading: CURT
+dialog: (examining it)
+dialog: Possibly. It
+dialog: belonged to Oscar Wilde. Or so I was told by the person who gave it to me.
+dialog: 
+text: Arthur’s eyes flash up. The shimmer
+dialog: swells.
+dialog: 
+dialog: This friend
+dialog: of mine who kinda...disappeared...some years back.
+dialog: 
+dialog: Extreme
+speaker_heading: CLOSE-UP of Curt.
+dialog: (very far-away)
+dialog: I forget
+dialog: where we were. On a trip. But he says to me, ‘Curt...
+dialog: 
+speaker_heading: FLASH TO:
+scene_heading: EXT. BEACH – DAY – 1973
+dialog: 
+text: A bleached-out image of Brian and
+dialog: Curt on some beach.
+dialog: 
+dialog: From a great distance, Brian is
+dialog: pinning something on Curt’s shirt.
+dialog: 
+speaker_heading: CURT
+dialog: (voice-over)
+dialog: ...A man’s
+dialog: life is his image.’
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+dialog: Brief silent shots:
+dialog: 
+scene_heading: EXT. RAINBOW THEATRE – ROOF – MORNING –
+dialog: 1975
+dialog: 
+text: Urine streaming in a puddle.
+dialog: 
+speaker_heading: CLOSE ON Teenage Arthur watching Curt
+text: from behind. The remains of his Maxwell Demon make-up sully his face.
+dialog: 
+text: Curt, standing peeing, turns.
+dialog: 
+speaker_heading: BACK TO:
+dialog: 
+scene_heading: INT. MID-TOWN BAR – NEW YORK – NIGHT –
+dialog: 1984
+dialog: 
+dialog: The emerald pin, rolling loose in the
+dialog: palm of Curt’s hand.
+dialog: 
+speaker_heading: CURT
+dialog: Here. Why
+dialog: don’t you hang on to it?
+dialog: 
+text: FLASH UP to Arthur’s face.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Me?
+dialog: 
+speaker_heading: CURT
+dialog: Why not? I’ve
+dialog: had it too long anyway. Go ahead.
+dialog: 
+text: Curt puts it in Arthur’s hand. Arthur
+text: looks down at it, speechless.
+dialog: 
+dialog: (tenderly)
+dialog: For your
+dialog: image.
+dialog: 
+text: Curt stands up, getting ready to go.
+dialog: 
+text: Arthur looks up at him, shaking his
+dialog: head.
+dialog: 
+dialog: Briefly: coins are pushed through
+text: slots, jukebox buttons pressed.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Really. I
+dialog: couldn’t. But thanks.
+dialog: 
+text: Arthur returns the pin with a polite
+dialog: smile.
+dialog: 
+dialog: Briefly: a jukebox forty-five drops
+dialog: into place.
+dialog: 
+text: Curt takes the pin, pockets it.
+dialog: 
+dialog: The introduction to ‘2HB’/Roxy Music
+text: begins on the jukebox.
+dialog: 
+speaker_heading: BACK TO Arthur, CLOSE, who
+text: turns toward the jukebox.
+dialog: The gay Latino Boy Teen recognizes
+dialog: the song.
+dialog: 
+speaker_heading: LATINO BOY
+dialog: Oh God, I
+dialog: love this song. Do you know this song?
+dialog: 
+speaker_heading: GIRL
+dialog: I don’t think
+dialog: so.
+dialog: 
+dialog: Arthur turns back to Curt.
+dialog: 
+speaker_heading: CURT
+dialog: Anyway.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Yeah.
+dialog: 
+speaker_heading: CURT
+dialog: See ya
+dialog: around.
+dialog: 
+speaker_heading: ARTHUR
+dialog: Cheers.
+dialog: 
+text: Curt nods with a strange smile and
+text: turns. Arthur watches him go. He reaches for his beer and finishes it off – and
+text: nearly gags. He spits something out in his hand.
+dialog: 
+dialog: CLOSE ON the palm of his hand: the
+text: emerald pin lies covered in beer spittle.
+dialog: 
+text: Arthur smiles, looking up in Curt’s
+dialog: direction.
+dialog: 
+speaker_heading: EXTREME CLOSE-UP of Arthur.
+dialog: 
+speaker_heading: ARTHUR
+dialog: (voice-over)
+dialog: He called it
+dialog: freedom.
+dialog: 
+dialog: Briefly: Silent shots.
+dialog: 
+scene_heading: EXT. RAINBOW THEATRE – ROOF – MORNING –
+dialog: 1975
+dialog: 
+dialog: Curt, turning to camera while taking
+text: a piss (as before) Arthur, stretched out on the mattress, laughs.
+dialog: 
+speaker_heading: RETURN TO:
+dialog: 
+scene_heading: INT. MID-TOWN BAR – NEW YORK – NIGHT –
+dialog: 1984
+dialog: 
+dialog: Slow
+text: EXTREME CLOSE UP around Arthur’s face, starring into the past.
+dialog: 
+speaker_heading: ARTHUR
+dialog: (voice-over)
+dialog: A freedom you
+dialog: can allow yourself.
+dialog: 
+text: Arthur glances into the main bar.
+dialog: 
+dialog: Or not.
+dialog: 
+dialog: The first
+text: verse begins (sung by Jack Fairy), as Arthur closes the pin in his hand.
+dialog: 
+speaker_heading: JACK
+dialog: (singing)
+dialog: Oh, I was
+dialog: moved by a screen dream...
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. RAINBOW THEATRE – NIGHT – 1975
+dialog: 
+dialog: Jack Fairy performs the glam-rock
+text: anthem with regal pathos, at the Death of Glitter Show.
+dialog: 
+text: Jack stands  at the edge of the stage
+dialog: under a single spot.
+dialog: 
+text: Arthur stands crushed in a corner,
+text: swaying to the music with Ray, Pearl and Billy.
+dialog: 
+dialog: Slow
+text: TRACK IN on Mandy, watching from the wings.
+dialog: 
+text: We ascend, rising up from the stage,
+text: as a mist of glitter begins to fall. We pass the faces of glitter legends,
+text: projected onstage: Maxwell, Brian, Curt, Jack, Polly. We continue, rising into
+dialog: the darkness.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: EXT. RAINBOW THEATRE – ROOF – DAWN –
+dialog: 1975
+dialog: 
+dialog: We pass through to the roof where it
+text: is dawn and snowing. Curt and Arthur are there, hanging out after sex. They turn
+dialog: in our direction but we continue our ascent.
+dialog: 
+speaker_heading: DISSOLVE THROUGH:
+dialog: A series of shots:
+dialog: 
+scene_heading: EXT. LONDON STREETS – DAY – 1974
+dialog: 
+dialog: Shots of busy Londoners on their way
+dialog: to work.
+dialog: 
+speaker_heading: MONTAGE OF FACES (FROM BEGINNING)
+dialog: 
+dialog: The three Young Punks, singing along
+dialog: to the chorus.
+dialog: 
+dialog: Two London Girls, arm in arm,
+dialog: singing.
+dialog: 
+dialog: The faces of New York Street Kids,
+text: looking up, some sadly, some angrily.
+dialog: 
+dialog: Boy with Crew Cut, eyes closed sings
+dialog: a held note to the skies
+dialog: 
+speaker_heading: LONDON PUB – NIGHT – 1974
+dialog: 
+text: The song’s chorus continues through a
+dialog: small transistor radio from which we TRACK,
+text: revealing a candle-lit pub during the 1974 miners’ strikes.
+dialog: 
+text: TRACK past the warm, flickering faces
+text: of Patrons, pints in hand, gazing solemnly toward the music.
+dialog: 
+speaker_heading: HARD CUT TO BLACK:
+dialog: ‘Make Me Smile’/Steve Harley Cockney
+dialog: Rebel over closing credits.
+dialog: 
+dialog: 
+dialog: 
+speaker_heading: BACK
+dialog: TO MOULIN GOLDMINE!
+dialog: *If you enjoyed reading this,
+dialog: please sign the guestbook and let us know!*
+dialog: 
+dialog: geovisit();
+dialog: 

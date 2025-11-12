@@ -1,0 +1,4269 @@
+scene_heading: LAST FLAG FLYING
+dialog: by
+dialog: Richard Linklater
+dialog: &
+dialog: Darryl Ponicsan
+dialog: Based on the novel by Darryl Ponicsan
+dialog: October 30, 2016 Detour Filmproduction
+scene_heading: EXT. SAL'S BAR & GRILL - NIGHT 1
+text: A seedy neighborhood. LARRY "DOC" SHEPHERD, wearing a heavy
+text: windbreaker, stands idly on the street. An AWOL bag is on the
+text: sidewalk at his feet. A garment bag is slung over his
+text: shoulder. He studies the little working-man's bar across the
+text: street as the title "DECEMBER 13, 2003" comes up.
+scene_heading: INT. SAL'S BAR & GRILL - NIGHT 2
+text: Small and dark. A pool table, a few booths, not much decor.
+text: SAL NEALON leans on his elbows on his side of the bar, doing
+text: a crossword. He's in his late 50s and wears a cropped
+text: mustache, going gray, like the sides of his short-cropped
+text: hair. He wears a black T-shirt, revealing a USMC tattoo on
+text: his arm. He smokes a cigar, chewing its end more than it
+dialog: needs. An edgy dude - you wouldn't want to fuck with him. At
+text: the other end of the bar, COPS is on a TV that hangs
+text: suspended from the ceiling. On the show, a nervous couple try
+text: to explain to a sarcastic cop what they are doing in the
+text: projects if not buying drugs. Sal's only customer, O'TOOLE,
+text: an old functioning alcoholic, is watching. At some point Doc
+text: enters, pausing near the door. O'Toole gives him a cursory
+text: glance. Doc hangs his garment bag on a hook on the stanchion
+text: and takes a stool. He puts his AWOL bag on another stool and
+text: settles down with a little uncertainty.
+speaker_heading: SAL
+dialog: I ask you, you ever see these cops
+dialog: catch a killer or a rapist on this
+dialog: show? Ever see them put the cuffs
+dialog: on some crooked CEO fuck?
+text: Wanders over to Doc.
+speaker_heading: SAL (CONT'D)
+dialog: What can I get you?
+speaker_heading: DOC
+dialog: Beer.
+speaker_heading: SAL
+dialog: What kind?
+speaker_heading: DOC
+dialog: Doesn't matter.
+speaker_heading: SAL
+dialog: Bottle or draft?
+speaker_heading: DOC
+dialog: Draft.
+speaker_heading: (CONTINUED)
+dialog: 2.
+text: Sal walks back over and starts filling up a glass while he
+text: continues his conversation with O'Toole.
+speaker_heading: SAL
+dialog: Nah, they're always just drug users
+dialog: and johns... just people hurtin',
+dialog: trying to find a little pleasure in
+dialog: life.
+speaker_heading: O'TOOLE
+dialog: What have you got against cops?
+speaker_heading: SAL
+dialog: Nuttin'. What I got something
+dialog: against is good ol' stupidity.
+text: Sal wanders back to Doc and serves him the beer. Doc looks
+text: into a manila envelope and withdraws a five dollar bill and
+text: lays it on the bar.
+speaker_heading: SAL (CONT'D)
+dialog: You comin' or goin'?
+speaker_heading: DOC
+text: Passing through, kind of.
+dialog: (about money)
+dialog: Keep it.
+text: Sal takes Doc's money, puts it in the register, and goes back
+text: to his crossword.
+speaker_heading: DOC (CONT'D)
+dialog: Good beer.
+speaker_heading: SAL
+dialog: Yeah, it's from Pennsylvania.
+speaker_heading: DOC
+dialog: How long have you had this place?
+speaker_heading: SAL
+dialog: Too long.
+speaker_heading: DOC
+dialog: It's real homey.
+speaker_heading: SAL
+dialog: You think so? Where the hell do you
+dialog: live?
+text: Doc doesn't get Sal's wit.
+speaker_heading: DOC
+dialog: New Hampshire. Portsmouth.
+speaker_heading: (CONTINUED)
+text: Sal is back on his puzzle.
+speaker_heading: DOC (CONT'D)
+text: Home of the Navy prison.
+speaker_heading: SAL
+dialog: I know the place.
+speaker_heading: DOC
+dialog: It's an okay town.
+dialog: (drinks)
+dialog: So you're Sal.
+speaker_heading: SAL
+dialog: That I am.
+speaker_heading: DOC
+dialog: So Sal, how do you suppose I knew
+dialog: that?
+speaker_heading: SAL
+text: Name's on the sign outside.
+text: Doc smiles, looks around, turns to O'Toole.
+speaker_heading: DOC
+dialog: Not exactly a hot spot, huh?
+speaker_heading: O'TOOLE
+dialog: Not anymore.
+speaker_heading: DOC
+dialog: I like it, though. It's homey.
+speaker_heading: SAL
+dialog: Yeah, you said that. That's why I
+dialog: was worried about where you lived.
+speaker_heading: DOC
+dialog: You don't remember me, do you?
+speaker_heading: SAL
+dialog: I don't remember half the women I
+dialog: fucked, and that's just the ones I
+dialog: didn't have to pay. How am I
+dialog: supposed to remember you?
+speaker_heading: DOC
+dialog: Well, I remember you.
+text: Sal looks at him more closely, squints. The cigar droops.
+speaker_heading: (CONTINUED)
+speaker_heading: SAL
+dialog: Can't be.
+speaker_heading: DOC
+dialog: Could be.
+speaker_heading: SAL
+dialog: No way.
+speaker_heading: DOC
+dialog: Way.
+speaker_heading: SAL
+dialog: Sweet Jesus... Doc?
+speaker_heading: DOC
+dialog: (bemused )
+dialog: Doc... Nobody's called me that ina
+text: long, long time.
+speaker_heading: SAL
+dialog: Fuck me. You made it, Doc.
+speaker_heading: DOC
+dialog: Yeah.
+speaker_heading: SAL
+dialog: O'Toole, look at this. Old buddy
+dialog: from 'Nam. I saved his life once.
+speaker_heading: O'TOOLE
+dialog: Then you must be some kind of
+dialog: fuckin' hero.
+speaker_heading: DOC
+dialog: He never saved my life.
+speaker_heading: O'TOOLE
+dialog: Didn't think so.
+speaker_heading: SAL
+dialog: And now he's come to kick my ass.
+speaker_heading: O'TOOLE
+text: Long overdue and well deserved.
+dialog: I'll hold his coat for him.
+speaker_heading: DOC
+dialog: No, I'm not here for that.
+speaker_heading: SAL
+dialog: You gotta excuse me, Doc. I'm shit
+dialog: for names.
+speaker_heading: (CONTINUED)
+speaker_heading: DOC
+dialog: Shepherd. Larry Shepherd.
+speaker_heading: SAL
+dialog: Right. Shepherd. Nineteen year-old
+dialog: kid. Navy corpsman.
+speaker_heading: DOC
+dialog: Once.
+speaker_heading: SAL
+dialog: Yeah, well, we were all something
+dialog: once. Now we're something else.
+speaker_heading: DOC
+dialog: So you do remember me?
+speaker_heading: SAL
+dialog: ‘Course I do, you saved my fuckin'
+dialog: life.
+speaker_heading: O'TOOLE
+dialog: I thought it was the other way
+dialog: around.
+speaker_heading: DOC
+dialog: You heard, I got busted down to E-
+dialog: One?
+speaker_heading: SAL
+dialog: Most unfair. The green weenie -
+dialog: they broke it off in you. What can
+dialog: I say, dear, after I say I'm sorry?
+speaker_heading: DOC
+dialog: How's Mueller?
+speaker_heading: SAL
+dialog: Ol' Mueller the Mauler. Maybe he's
+dialog: alive. How should I know? Have
+dialog: another beer. On the house. Fuck,
+dialog: I'll have one with you.
+speaker_heading: DOC
+dialog: You're not in touch with him?
+speaker_heading: SAL
+dialog: Saw him medevacked out, and that's
+dialog: all she wrote.
+speaker_heading: DOC
+dialog: Mueller got hit?
+speaker_heading: (CONTINUED)
+speaker_heading: SAL
+dialog: Oh, yeah, you weren't there by
+dialog: then... it was not pretty.
+text: Sal now comes over closer to Doc.
+speaker_heading: SAL (CONT'D)
+dialog: I still think I rate credit for a
+dialog: save.
+speaker_heading: DOC
+dialog: Who? What?
+speaker_heading: SAL
+dialog: You, you fuck. I saved your life.
+speaker_heading: DOC
+dialog: I don't remember anything like
+dialog: that.
+speaker_heading: SAL
+dialog: Captain said, Doc is coming
+dialog: unhinged. He's gonna blow. Take him
+dialog: for two days to Pleiku. Show him
+text: around Disneyland.
+speaker_heading: DOC
+dialog: I do remember Disneyland.
+speaker_heading: SAL
+dialog: Hell yeah you do.
+speaker_heading: DOC
+dialog: But all I remember is gettin' laid
+dialog: and drunk.
+speaker_heading: SAL
+dialog: Well, yeah... that's why it was
+dialog: there.
+speaker_heading: DOC
+dialog: Mueller was with us.
+speaker_heading: SAL
+dialog: I did that too. I said, Cap'n,
+dialog: Doc's too fucked up for one person
+dialog: to handle. Take Mueller, he said.
+speaker_heading: DOC
+dialog: (sarcastic)
+dialog: Oh, yeah, and things were much
+dialog: better after that.
+speaker_heading: (CONTINUED)
+speaker_heading: SAL
+dialog: C'mon, Doc, we had a good time,
+dialog: didn't we? We had some fun.
+speaker_heading: DOC
+dialog: Sure we did. Not sayin' we didn't.
+speaker_heading: SAL
+dialog: We did, the three of us.
+speaker_heading: DOC
+dialog: Yeah. I laugh sometimes when I
+dialog: think about it.
+speaker_heading: SAL
+dialog: Really? Do you?
+speaker_heading: DOC
+dialog: Yeah, kind of.
+speaker_heading: SAL
+dialog: Why not? You got to laugh at every-
+dialog: fuckin-thing. I laugh at my
+dialog: prostate gland, little son of a
+dialog: bitch, laugh every time the doctor
+dialog: gives me a fingerwave, two times a
+dialog: year.
+speaker_heading: DOC
+dialog: It's good you know how to do that.
+dialog: Wish I could do that.
+speaker_heading: SAL
+dialog: So what was it, three years?
+speaker_heading: DOC
+dialog: Ended up about two, with good
+dialog: behavior.
+speaker_heading: SAL
+dialog: That's not so bad.
+speaker_heading: DOC
+dialog: It was pretty bad, but it was a
+dialog: long time ago.
+speaker_heading: SAL
+dialog: BCD?
+speaker_heading: DOC
+dialog: Yeah, but at some point instead of
+dialog: calling it a Bad Conduct Discharge,
+dialog: I started calling it a better
+dialog: career decision.
+speaker_heading: (CONTINUED)
+speaker_heading: SAL
+dialog: Fuckin-A. You're alive and upright.
+dialog: So you got out, and then what? You
+dialog: stayed there?
+speaker_heading: DOC
+dialog: Didn't really have anywhere else to
+dialog: go.
+speaker_heading: SAL
+dialog: Fuck all. Listen here, how did you
+dialog: find my lonesome ass?
+speaker_heading: DOC
+dialog: Easy. On the internet. You can find
+dialog: anybody on the internet these days.
+speaker_heading: SAL
+dialog: That's fucked.
+text: Doc kind of laughs as O'Toole gives them fresh beers.
+speaker_heading: SAL (CONT'D)
+dialog: So whaddaya do in Portsmouth, for a
+dialog: living?
+speaker_heading: DOC
+text: Stocking clerk, at the Navy
+dialog: Exchange.
+speaker_heading: SAL
+dialog: You're shitting me.
+speaker_heading: DOC
+dialog: (old joke between them)
+dialog: I wouldn't shit you, you're my
+dialog: favorite turd.
+text: LATER - O'Toole is asleep on the pool table. Doc is crawlirig
+text: into a booth. Sal is also finding a spot to lay down.
+speaker_heading: DOC (CONT'D)
+dialog: (stretching out)
+dialog: Don't you go someplace when you
+dialog: close?
+speaker_heading: SAL
+dialog: Like where?
+speaker_heading: DOC
+dialog: I don't know, home?
+speaker_heading: SAL
+dialog: It'll be there tomorrow.
+scene_heading: INT. MEN'S ROOM - MORNING 4
+text: A dreadful little space full of generational stains and
+text: graffiti. Sal washes his face, pulls out some paper towels
+text: and dries. He looks at his reflection in the mirror. This is
+text: the face he has earned. This is the place he has landed.
+scene_heading: INT. SAL'S BAR & GRILL - MORNING 5
+text: Doc and O'Toole are still asleep. Sal draws a beer, starts
+text: eating a cold piece of pizza.
+speaker_heading: SAL
+dialog: Reveille, reveille, drop your cocks
+dialog: and grab your socks. Reveille!
+text: Sal has to stir Doc. Finally he wakes up and looks at Sal.
+speaker_heading: SAL (CONT'D)
+dialog: You want a beer? This is the last
+dialog: of the pizza.
+text: Doc shakes his head.
+speaker_heading: SAL (CONT'D)
+dialog: I'm still a little fucked up from
+dialog: last night. I'm getting too old for
+dialog: this shit, frankly.
+speaker_heading: DOC
+dialog: (sitting up)
+dialog: What's the deal with the grill part
+dialog: of Sal's Bar & Grill?
+speaker_heading: SAL
+text: Gone to rust is the deal.
+speaker_heading: DOC
+dialog: Too bad.
+speaker_heading: SAL
+dialog: Used to put out a righteous burger.
+dialog: Serious meat with a nice slice of
+dialog: raw onion and nothin' else, except
+dialog: for mustard and ketchup, of course.
+dialog: No lettuce or pickles or any of
+dialog: that crap. But people lost their
+dialog: taste for honest hamburgers, so I
+dialog: let the grill go. Why? You hungry?
+speaker_heading: DOC
+dialog: Just curious.
+speaker_heading: (CONTINUED)
+dialog: 10.
+speaker_heading: SAL
+dialog: There's Mexicans here now, so we
+dialog: can get some chorizo con huevos.
+dialog: Hell, we qualify for menudo. You
+dialog: got the balls for that?
+speaker_heading: DOC
+dialog: No, thanks. There's something I'd
+dialog: like to show you, though, if you're
+dialog: up for it.
+speaker_heading: SAL
+dialog: I'm always up for it. Shoot.
+speaker_heading: DOC
+dialog: You got a car?
+speaker_heading: SAL
+dialog: I'm a fuckin businessman, of course
+dialog: I got a car.
+dialog: (stirs O'Toole)
+dialog: Yo, O'Toole, open up for me today,
+dialog: okay?
+text: O'Toole nods his head, then goes back to sleep.
+scene_heading: INT. SAL'S TAURUS - MORNING - MOVING 6
+text: Not much of a car. A 20-year-old Taurus Wagon. Sal drives
+text: through a light drizzle, on a rural road.
+speaker_heading: SAL
+dialog: I just fuckin' love it, you know?
+dialog: It's like priceless.
+speaker_heading: DOC
+dialog: What is?
+speaker_heading: SAL
+dialog: The Navy. They put the cock to
+dialog: you, then they let you work at the
+dialog: Navy fuckin' Exchange.
+speaker_heading: DOC
+dialog: I got five people under me.
+speaker_heading: SAL
+dialog: You're a fuckin' inspiration.
+speaker_heading: DOC
+dialog: You know what amazes me about you?
+speaker_heading: (CONTINUED)
+dialog: 11.
+speaker_heading: SAL
+dialog: Could be anything. I'm a pretty
+dialog: amazing guy.
+speaker_heading: DOC
+dialog: You turn over your bar to a
+dialog: customer, you get in your car, and
+dialog: you drive me to hell and gone, and
+dialog: you don't even know where we're
+dialog: going.
+speaker_heading: SAL
+dialog: I didn't think it would take so
+dialog: fuckin' long.
+text: Doc refers to a folded up MapQuest sheet of paper.
+scene_heading: EXT. RURAL CHURCH - MORNING 7
+text: A humble building that might have been a barn once. It lacks
+text: a steeple and stained glass, but it makes up for it with the
+text: spirit we will encounter inside. We see the Taurus Wagon in
+text: the parking lot.
+speaker_heading: SAL (0.S.)
+dialog: You gotta be kiddin' me.
+scene_heading: INT. SAL'S TAURUS - MORNING 8
+text: Sal looks at the place, doubtfully.
+speaker_heading: DOC
+dialog: C'mon, you're gonna love this. I
+dialog: promise.
+speaker_heading: SAL
+dialog: I don't know, Doc, you seen one,
+dialog: you seen them all.
+text: Doc grins as they start to get out of the car.
+scene_heading: INT. CHURCH - MORNING 9
+text: A small black congregation, listening intently to a sermon.
+text: Sal and Doc enter, drawing some notice, but then space is
+text: made for them. A middle-aged preacher is at the pulpit with
+text: the aid of a cane. It is MUELLER.
+speaker_heading: MUELLER
+dialog: ..--Now remember, Jesus and Judas,
+dialog: they were friends...
+text: As the sermon continues, Sal leans toward Doc, whispers:
+speaker_heading: (CONTINUED)
+dialog: 12.
+speaker_heading: SAL
+dialog: Oh. My. Fucking. God. Is that who I
+dialog: think it is?
+speaker_heading: DOC
+dialog: I told you you'd like this.
+text: Sal is wildly amused. He turns and looks around at the
+text: others, wanting to share his excitement.
+speaker_heading: MUELLER
+dialog: But, oh, how a good man can be laid
+dialog: low by a false friend, how havoc
+dialog: can follow the lying smile...
+speaker_heading: CONGREGATION
+dialog: Amen!
+speaker_heading: SAL
+dialog: Amen, brother!
+dialog: (whispers to Doc)
+dialog: The dude was a world-class drinker,
+text: gambler and cocksman.
+speaker_heading: DOC
+dialog: Shhhh.
+speaker_heading: SAL
+dialog: And likely a speed freak. How the
+dialog: hell did you find this place?
+speaker_heading: DOC
+dialog: The internet.
+speaker_heading: MUELLER
+dialog: Oh, yes, in the spirit of
+dialog: friendship, have a drink... have a
+dialog: toke... have a snort... the devil
+text: has a friendly face and a winning
+text: way. But behind that smile, as
+text: behind the kiss of Judas...
+speaker_heading: SAL
+dialog: (whispers)
+dialog: I think he's makin' this shit up
+dialog: just for us.
+text: Reverend Mueller eventually finishes his sermon, looking
+text: closely at his two visitors... a long judgemental look. An
+text: echoing of Amens rolls wall to wall.
+speaker_heading: SAL (CONT'D)
+dialog: (shouting out)
+dialog: Oh, Amen, brother! Amen!
+speaker_heading: (CONTINUED)
+dialog: 10
+dialog: 13.
+speaker_heading: MUELLER
+dialog: Thank you, brothers and sisters,
+dialog: and praise the Lord for our
+dialog: fellowship here today.
+speaker_heading: SAL
+dialog: Praise the Lord!
+speaker_heading: MUELLER
+dialog: I see we have some visitors among
+dialog: us today. Welcome to our Sunday
+dialog: services. Would you like to stand
+dialog: and introduce yourselves?
+text: Sal needs no second invitation. He springs to his feet, snaps
+text: off a salute and sounds off:
+speaker_heading: SAL
+dialog: Salvatore Nealon, Sergeant, U.S.
+dialog: Marine Corps, retired.
+text: Heads in the congregation turn. Whispers become a buzz that
+text: fill the church. The Reverend totters a bit at the pulpit,
+text: holding on. RUTH, Mueller's concerned wife, studies how her
+text: husband is responding. Doc tugs at Sal's sleeve, but Sal
+text: pulls him to his feet.
+speaker_heading: SAL (CONT'D)
+dialog: And guess who this lad is.
+scene_heading: INT. PARSONAGE - AFTERNOON 10
+text: Mueller, Ruth and their two guests sit at a table laden with
+text: a ham and heaping bowls of vegetables and greens. Mueller
+text: sits rigidly, his eyes on Sal and Doc, wary.
+speaker_heading: SAL
+dialog: Man, oh, man, southern ham, thank
+dialog: you, ma'am. Listen here, Ruth, I
+dialog: hope this old man appreciates you.
+speaker_heading: RUTH
+dialog: Oh, I think he does.
+speaker_heading: SAL
+dialog: ‘Cause if ever he don't, just pack
+text: a bag and come live with Sal.
+speaker_heading: RUTH
+dialog: You don't have a wife?
+speaker_heading: (CONTINUED)
+dialog: 14.
+speaker_heading: SAL
+dialog: No, ma'am, neither chick nor child.
+dialog: I do have a lady friend, but she
+dialog: don't cook worth a damn. She has
+dialog: other talents, if you know what I
+dialog: mean.
+text: Embarrassed, she turns to Doc.
+speaker_heading: RUTH
+dialog: And you, Mr. Shepherd? Are you
+dialog: single or married?
+speaker_heading: DOC
+dialog: I married a wonderful woman, Mrs.
+dialog: Mueller.
+speaker_heading: SAL
+dialog: Bet she don't cook like this.
+speaker_heading: RUTH
+dialog: I get it, Mr. Nealon, you haven't
+dialog: been eating well.
+speaker_heading: SAL
+dialog: Am now.
+speaker_heading: DOC
+dialog: The light of my life, my Mary. A
+dialog: heart as big as... anything. A
+dialog: real pretty girl, with a great big
+dialog: smile...
+speaker_heading: SAL
+dialog: Nice...
+speaker_heading: DOC
+dialog: She had a little... slowness...
+dialog: because of a thing when she was
+dialog: born.
+speaker_heading: SAL
+dialog: What's that mean, she's retarded?
+speaker_heading: DOC
+dialog: No, she could do anything anybody
+dialog: else could, she was just kind of...
+dialog: delayed. A great mom, a great
+dialog: wife.
+speaker_heading: RUTH
+dialog: What does she do?
+speaker_heading: (CONTINUED)
+dialog: 15.
+speaker_heading: DOC
+dialog: Oh, no... I'm sorry. I lost her
+dialog: last January. Breast cancer.
+speaker_heading: RUTH
+dialog: I'm so sorry.
+text: Sal stops with fork in mid path.
+speaker_heading: SAL
+dialog: Sorry, Doc. You know me, I didn't
+dialog: mean nothin’.
+speaker_heading: MUELLER
+dialog: We pay for the things we say,
+dialog: Salvatore.
+speaker_heading: SAL
+dialog: Well, then you can add it to my
+dialog: tab.
+speaker_heading: DOC
+dialog: That's all right. You didn't know.
+speaker_heading: MUELLER
+dialog: Your tab is long overdue, I
+dialog: suspect.
+speaker_heading: RUTH
+dialog: Do you have any children, Doc?
+speaker_heading: DOC
+dialog: (hesitates)
+dialog: Just one, a son. Larry Junior.
+speaker_heading: RUTH
+dialog: Richard and I have a boy and a
+dialog: girl, and we have four
+dialog: grandchildren.
+speaker_heading: SAL
+dialog: Richard?
+speaker_heading: MUELLER
+dialog: (quickly)
+dialog: Honey, don't you have some coffee
+dialog: and pie for our visitors, before we
+dialog: send them on their way?
+speaker_heading: RUTH
+dialog: (rising)
+dialog: I have a peach cobbler for dessert.
+speaker_heading: (CONTINUED)
+dialog: 16.
+speaker_heading: SAL
+dialog: Oh, man, peach cobbler... this is
+dialog: livin'!
+text: Ruth goes to the kitchen, looks over her shoulder at her
+dialog: unusual guests.
+speaker_heading: MUELLER
+dialog: (to Doc)
+dialog: I'm glad to see you prevailing over
+dialog: your hardships.
+speaker_heading: DOC
+dialog: Doin' my best.
+speaker_heading: MUELLER
+dialog: You, at least, seem to have turned
+dialog: out to be a decent man.
+speaker_heading: DOC
+dialog: Try to be.
+speaker_heading: MUELLER
+dialog: I regret any role I played in all
+dialog: that foolishness that happened back
+dialog: in Vietnam.
+text: Sal shakes his head, as if trying to defog his brain.
+speaker_heading: SAL
+dialog: What the hell did you do with
+dialog: Mueller the Mauler, preacher? He
+dialog: in the witness protection program
+dialog: or something? Where're you keepin'
+dialog: him?
+speaker_heading: MUELLER
+dialog: I grew up, Sal, and I found a
+text: purpose along the way.
+speaker_heading: DOC
+dialog: You don't have to feel sorry.
+speaker_heading: MUELLER
+dialog: I always figured you for a lifer,
+dialog: Sal. Is that the way it worked out?
+speaker_heading: SAL
+dialog: I re-upped, sure. I was expectin'
+dialog: all the dominoes to start fallin',
+dialog: like they said they would. I was
+text: all ready to kill commies in San
+dialog: Diego, but they never showed up -
+dialog: they just all kind of disappeared.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 11
+dialog: 17.
+speaker_heading: SAL (CONT'D)
+dialog: Can you believe people are now
+dialog: going to Vietnam on fuckin'
+dialog: vacations? They get their pictures
+dialog: taken where fifty-two thousand
+dialog: young Americans took their last
+dialog: dump. Fuck me.
+speaker_heading: MUELLER
+dialog: So you mustered out on principle.
+speaker_heading: SAL
+text: I mustered out with a plate in my
+dialog: fuckin' head and one-hundred
+dialog: percent disability. That was the
+dialog: good news.
+speaker_heading: MUELLER
+dialog: How did that happen?
+speaker_heading: SAL
+dialog: Fuck if I remember. Somebody hit me
+dialog: on the head with something. I
+dialog: believe drink was involved.
+text: He laughs. The other two can't manage it.
+text: LATER - They sit in the living room having cobbler and 11
+text: coffee. Doc hasn't touched his, Sal digs into his, while
+text: practically flirting with Ruth.
+speaker_heading: SAL (CONT'D)
+dialog: ..+.I was on the shy side of
+dialog: insubordination most of the time,
+dialog: but I could get away with it
+dialog: because of my dashing good looks
+dialog: and my boyish charm.
+text: Mueller snorts.
+speaker_heading: MUELLER
+dialog: I guess we're all just lucky to be
+dialog: alive, praise God.
+speaker_heading: SAL
+dialog: I tell myself that.
+text: Doc sits with his arms on his knees, head down, sinking down
+text: into himself. One by one they notice him. Sensing their
+text: attention, he raises his head.
+speaker_heading: SAL (CONT'D)
+dialog: (nodding to the untouched
+dialog: cobbler)
+dialog: You gonna eat that?
+speaker_heading: (CONTINUED)
+speaker_heading: MUELLER
+dialog: You okay, Doc?
+dialog: (a beat)
+dialog: What's wrong?
+text: Doc shakes his head.
+speaker_heading: RUTH
+dialog: It's best to talk, whatever it is
+dialog: that's bothering you.
+speaker_heading: DOC
+dialog: My son... because of my son, I came
+dialog: here, found you guys... Maybe I
+dialog: shouldn't have...
+speaker_heading: RUTH
+dialog: Your son?
+speaker_heading: DOC
+dialog: Larry Junior. A year ago he joined
+dialog: the corps.
+speaker_heading: SAL
+dialog: Ooh-Rah.
+speaker_heading: DOC
+dialog: But two days ago they came and told
+dialog: me he had been killed.
+speaker_heading: SAL
+dialog: Aw, shit, Doc. Why didn't you say
+dialog: anything earlier?
+speaker_heading: DOC
+dialog: He died in Baghdad. His convoy got
+dialog: ambushed, and they said he had
+text: unloaded his weapon on them and
+text: died with his bayonet in his hand.
+dialog: (beat)
+dialog: He's coming home tonight. They're
+dialog: gonna bury him at Arlington. Full
+text: honors. A hero.
+dialog: (beat)
+dialog: Can you guys come with me?
+dialog: 18.
+text: 12 LATER - Sal smokes a cigar out on the porch. He listens to12
+text: what is being said inside, Mueller all over Doc with sympathy
+dialog: and God.
+speaker_heading: (CONTINUED)
+dialog: 19.
+speaker_heading: MUELLER
+dialog: .»+. and I can promise you this:
+dialog: someday you will meet your wife and
+dialog: your son again, in a better place,
+dialog: and all of this will seem like a
+text: momentary separation.
+text: That does it. Sal tosses his cigar and goes inside.
+speaker_heading: SAL
+dialog: Oh come on... what better place did
+dialog: they go to? Las Vegas? Miami Beach?
+speaker_heading: MUELLER
+dialog: Doc knows the place I speak of.
+speaker_heading: SAL
+dialog: Well, then show him. Doc's got a
+dialog: map. Maybe he can find it on the
+dialog: internet.
+speaker_heading: MUELLER
+dialog: Only when you see it will you know
+dialog: it, and in your case, Sergeant,
+dialog: it's odds-on you'll never get to
+dialog: see it.
+speaker_heading: SAL
+dialog: Then I guess I won't miss it.
+speaker_heading: MUELLER
+dialog: Oh, you will miss it dearly, every
+dialog: moment of eternity. Do you know
+dialog: how long eternity is?
+speaker_heading: SAL
+dialog: It ain't going to matter, but of
+dialog: all the billions of people floatin'
+dialog: around in your heaven, how come
+dialog: none of them ever got the word back
+dialog: to the rest of us?
+speaker_heading: MUELLER
+dialog: One of them did.
+speaker_heading: SAL
+dialog: Oh, that guy... weak on exact
+dialog: details, if you ask me.
+speaker_heading: MUELLER
+dialog: I'm not asking you.
+speaker_heading: (CONTINUED)
+dialog: 20.
+speaker_heading: SAL
+dialog: (to Doc)
+dialog: Listen here, Doc, I'm sorry for
+dialog: your loss, but I ain't gonna blow a
+dialog: bunch of smoke up your ass. The
+dialog: worst thing that can happen to
+dialog: anybody has landed on you, and now
+dialog: you got to deal with it.
+speaker_heading: MUELLER
+dialog: You were a hazard when you were
+dialog: young, and now you're just an old
+dialog: fool.
+speaker_heading: SAL
+dialog: I got your fool dangling, fool.
+speaker_heading: MUELLER
+dialog: Fuck you.
+speaker_heading: SAL
+dialog: There he is! That's the Mueller I
+dialog: know!
+speaker_heading: DOC
+dialog: Please, c'mon, I didn't mean to
+dialog: cause trouble.
+speaker_heading: SAL
+dialog: I'll help bury your boy. I might
+dialog: not be able to get you into heaven,
+dialog: but dammit, I can get you to
+dialog: Arlington.
+text: Ruth opens the door from the kitchen, pauses, listens.
+speaker_heading: DOC
+dialog: Mueller?
+speaker_heading: MUELLER
+dialog: (uncomfortable)
+dialog: I'd certainly like to help, but...
+speaker_heading: SAL
+dialog: Don't worry - he'll stay here and
+dialog: pray for you... very valuable.
+speaker_heading: RUTH
+dialog: Richard, could I see you for a
+dialog: moment?
+text: Mueller slowly gets up.
+speaker_heading: (CONTINUED)
+dialog: 21.
+speaker_heading: DOC
+dialog: Please.
+speaker_heading: MUELLER
+dialog: I don't get around so well, as you
+dialog: can see.
+speaker_heading: DOC
+text: It's just in the car.
+text: As Mueller leaves the room, Sal is all smiles.
+speaker_heading: SAL
+dialog: Oh, he's comin' with. That's
+dialog: affirmative.
+speaker_heading: DOC
+dialog: But he said...
+speaker_heading: SAL
+dialog: Don't matter what he said. I
+dialog: guarantee his old lady's gonna
+dialog: shame him. Right now she's in there
+dialog: saying, "You got to go with..."
+scene_heading: 13 INT. KITCHEN - CONTINUOUS 13
+speaker_heading: RUTH
+dialog: +. with that poor man, Richard. He
+dialog: needs you.
+speaker_heading: MUELLER
+dialog: He'll have qualified people there
+dialog: to counsel him.
+speaker_heading: RUTH
+dialog: Yes, but who will protect him from
+dialog: that... Sal person?
+speaker_heading: MUELLER
+dialog: (chuckles )
+dialog: Well, I do know that a lot of shit
+dialog: can go sideways when Sal is around.
+speaker_heading: RUTH
+dialog: What in the world has happened to
+dialog: your vocabulary?
+speaker_heading: MUELLER
+dialog: Sorry, dear.
+speaker_heading: RUTH
+dialog: You can't refuse friends in a time
+dialog: of need.
+speaker_heading: (CONTINUED)
+dialog: 14
+dialog: 22.
+speaker_heading: MUELLER
+dialog: Friends? I haven't seen these guys
+dialog: in decades.
+speaker_heading: RUTH
+dialog: You can't refuse anyone. You're a
+dialog: preacher.
+speaker_heading: MUELLER
+dialog: They were a bad time in my life,
+dialog: honey.
+speaker_heading: RUTH
+dialog: The man lost his son, Richard.
+text: They look at each other for a beat, the way long-married
+dialog: people can do.
+speaker_heading: RUTH (CONT'D)
+dialog: I'll pack you an overnight bag.
+scene_heading: INT. SAL'S TAURUS - NIGHT - MOVING 14
+text: Sal leans forward over the wheel. Doc is next to him, and
+text: Mueller is in the back. Sal looks over to Doc.
+speaker_heading: SAL
+text: That seat goes back a little.
+text: Doc starts to make the adjustment.
+speaker_heading: SAL (CONT'D)
+dialog: I've had this car 17 years. She's
+dialog: been good to me. Technically it's
+dialog: a Taurus, but I call it, a cli-
+dialog: taurus...
+text: Doc smiles, and Sal looks at Mueller in the rearview mirror,
+text: giving him nothing.
+speaker_heading: SAL (CONT'D)
+dialog: You have to wear that collar
+dialog: everywhere you go?
+dialog: (no answer)
+dialog: Take it off, why don't you, and
+dialog: relax, Richard.
+speaker_heading: MUELLER
+dialog: I am relaxed.
+speaker_heading: SAL
+dialog: Never knew that was your name. You
+dialog: ever go by Richie? Dick?
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 23.
+speaker_heading: SAL (CONT'D)
+dialog: (a beat)
+dialog: You like Dick?
+text: Mueller refuses to take the bait.
+speaker_heading: SAL (CONT'D)
+dialog: Never heard of any brothers named
+dialog: Richard. Didn't think they named
+dialog: them that.
+speaker_heading: MUELLER
+dialog: Richard Pryor. Dick Gregory.
+dialog: Little Richard...
+speaker_heading: SAL
+dialog: Now he likes dick.
+text: Even Doc laughs. The car suddenly fills with light. A semi
+text: is tailgating them.
+speaker_heading: SAL (CONT'D)
+dialog: The fuck..?
+speaker_heading: MUELLER
+dialog: Change lanes. Get over.
+text: Sal gets pissed.
+speaker_heading: SAL
+dialog: All right fuck face, you want to
+dialog: play, I'll play.
+text: The speedometer moves to 70, 80...
+speaker_heading: MUELLER
+dialog: Pull off the road! Get to the
+dialog: side!
+speaker_heading: SAL
+dialog: Hold tight. I'm gonna jackknife
+dialog: this fucker!
+speaker_heading: MUELLER
+dialog: You'll kill us all, you son of a
+dialog: bitch!
+text: Sal slows down and pulls over a bit, lowers the window, and
+text: flips the semi the bird as the truck passes them. Mueller
+text: slaps the back of Sal's head.
+speaker_heading: MUELLER (CONT'D)
+dialog: What the hell was all that?
+dialog: Sal's loving this.
+speaker_heading: (CONTINUED)
+dialog: 15
+dialog: 16
+dialog: 24.
+speaker_heading: SAL
+dialog: Seems like you're gonna hafta
+dialog: either tighten up your mouth or
+dialog: loosen up your collar.
+text: Mueller tries to calm himself down. He's too steamed. He
+text: takes off the collar.
+scene_heading: EXT. ARLINGTON NATIONAL CEMETERY - NIGHT 15
+text: The car is parked in front of the cemetery on a drizzling
+text: Sunday night.
+speaker_heading: SAL (0.S.)
+dialog: Where're we supposed to go, Doc?
+scene_heading: INT. SAL'S TAURUS - NIGHT 16
+text: Doc shuffles through a pile of internet maps and papers.
+speaker_heading: DOC
+dialog: Dover Air Force Base.
+speaker_heading: SAL
+dialog: That's in fuckin Delaware.
+speaker_heading: DOC
+dialog: Right. Dover, Delaware.
+speaker_heading: SAL
+dialog: So why're we here?
+speaker_heading: DOC
+dialog: I don't know.
+speaker_heading: SAL
+dialog: You said Arlington.
+speaker_heading: DOC
+dialog: That's what they said.
+speaker_heading: SAL
+dialog: But now you're saying Dover.
+speaker_heading: DOC
+dialog: Yeah, I guess first... Dover. They
+dialog: got to fly in somewhere, so they
+dialog: fly to Dover.
+text: Sal looks behind at Mueller, who looks away.
+speaker_heading: SAL
+dialog: All right, Doc. Dover it is. I'm
+dialog: guessing you got a map.
+speaker_heading: (CONTINUED)
+dialog: 17
+dialog: 18
+text: EXT.
+dialog: The
+text: INT.
+dialog: Doc
+dialog: the
+dialog: 25.
+speaker_heading: DOC
+dialog: Looks like an hour and a half. You
+dialog: want me to drive?
+scene_heading: INTERSTATE - NIGHT 17
+text: Taurus Wagon rolls down the highway.
+speaker_heading: SAL (0.S.)
+dialog: Mueller, my man, my mauling
+dialog: brother, can I axe you a personal
+dialog: question?
+scene_heading: SAL'S TAURUS - NIGHT - MOVING 18
+text: drives. Sal is in the passenger seat while Mueller has
+speaker_heading: MUELLER
+dialog: I suspect you're going to anyway,
+dialog: and since I'm stuck here in the
+dialog: backseat you might as well...
+speaker_heading: SAL
+dialog: On a Saturday night, are you still
+dialog: up to giving your wife a good fuck?
+speaker_heading: DOC
+dialog: C'mon Sal, that's... that's...
+speaker_heading: SAL
+dialog: What? I'm curious is all.
+text: Mueller gives him an icy look.
+speaker_heading: MUELLER
+dialog: I don't discuss my sex life. It's
+dialog: called respect for your wife, but
+dialog: you wouldn't know anything about
+dialog: that.
+speaker_heading: SAL
+dialog: Hold on, I respect your wife. Of
+dialog: course I do. I only wanted to know
+dialog: if you can still cut the mustard.
+dialog: Just makin' conversation on how the
+dialog: years have treated you.
+text: Not taking the bait, Mueller just stares off into the night.
+speaker_heading: SAL (CONT'D)
+dialog: Now, Doc here, you don't even have
+dialog: to ask. He don't need no Viagra to
+dialog: fly the flag, do you, Doc?
+speaker_heading: (CONTINUED)
+dialog: 26.
+speaker_heading: DOC
+dialog: I haven't had sex in two years.
+speaker_heading: SAL
+dialog: Holy shit - why the hell not?
+speaker_heading: DOC
+dialog: My wife was sick.
+speaker_heading: MUELLER
+dialog: (to Sal)
+dialog: Weren't you even listening?
+speaker_heading: SAL
+dialog: Yeah, but life goes on.
+dialog: (beat)
+dialog: Don't it?
+speaker_heading: MUELLER
+dialog: Apparently.
+speaker_heading: SAL
+dialog: Remember your first time?
+speaker_heading: DOC
+dialog: I told Mary all about that. I
+dialog: confessed to everything. I wanted
+dialog: no secrets from her.
+speaker_heading: SAL
+dialog: Now that's just plain stupid.
+dialog: Never do that.
+speaker_heading: MUELLER
+dialog: It was never about you getting
+dialog: laid, Doc. It was about Sal getting
+dialog: you laid.
+speaker_heading: SAL
+dialog: Duh.
+speaker_heading: MUELLER
+dialog: He had to show you a good time, and
+dialog: he only knew his way. Ignorant
+dialog: soul.
+speaker_heading: SAL
+dialog: As I recall, you was there too,
+dialog: partaking, how shall we say, fully.
+speaker_heading: MUELLER
+dialog: Yes, and I didn't know any more
+dialog: than you did what a good time was,
+dialog: back in those days.
+speaker_heading: (CONTINUED)
+dialog: 19
+dialog: 19
+dialog: 27.
+speaker_heading: SAL
+dialog: Those days? It hasn't changed
+dialog: much. A little whorin', a little
+dialog: drinkin', a little fightin', all
+dialog: things in moderation.
+speaker_heading: MUELLER
+dialog: Sounds like the recipe for a wasted
+dialog: life.
+speaker_heading: SAL
+dialog: At least it's bullshit-free.
+speaker_heading: MUELLER
+dialog: You positive about that?
+text: They fall silent, crossing the Severn River Bridge into
+dialog: Delaware.
+scene_heading: EXT. DOVER AIR FORCE BASE - NIGHT 19
+text: GATEHOUSE - the Taurus Wagon is parked off to the side as our
+text: three wait while the AIR PATROL GUARD finishes a phone call.
+scene_heading: INT. SAL'S TAURUS - NIGHT 19
+speaker_heading: DOC
+dialog: Wonder if anything is wrong?
+speaker_heading: SAL
+dialog: He's a guard at a gate - he don't
+dialog: know nothing.
+speaker_heading: DOC
+dialog: Wonder if there'll be an honor
+dialog: guard and all that?
+speaker_heading: SAL
+dialog: There'll be something - it'll be
+dialog: respectful. It's just not public -
+dialog: there's a blackout on all that
+dialog: stuff this time around.
+speaker_heading: MUELLER
+dialog: Yeah, no pictures of coffins, no
+text: reminders to the public.
+speaker_heading: DOC
+dialog: People should know. Don't they owe
+dialog: it to the guys who've sacrificed?
+speaker_heading: MUELLER
+dialog: People are so ready to believe in
+dialog: anything once it's called a war.
+speaker_heading: (CONTINUED)
+dialog: 20
+dialog: 21
+dialog: 28.
+speaker_heading: SAL
+dialog: Yep.
+speaker_heading: MUELLER
+dialog: Call it war, you got their support.
+dialog: War on drugs, war on crime... it's
+text: all fake. War itself is fake.
+text: Eventually the GUARD comes to the car, and makes the gesture
+text: of rolling down the window.
+speaker_heading: GUARD
+text: Gentlemen, the body is in transit.
+dialog: The plane's not due 'til 0800
+dialog: tomorrow. Come back then and you'll
+dialog: be able to wait in the hangar.
+speaker_heading: DOC
+dialog: Okay. Thank you.
+speaker_heading: SAL
+dialog: In transit. Somebody's always in
+dialog: transit, even...
+scene_heading: EXT. KING'S COURT MOTOR LODGE - NIGHT 20
+text: A cheerless refuge from the rain.
+scene_heading: INT. KING'S COURT MOTOR LODGE FRONT DESK - NIGHT 21
+text: The guys are in mid check-in.
+speaker_heading: MUELLER
+dialog: I thought I'd have my own room.
+speaker_heading: SAL
+dialog: Don't get cranky on us old man.
+text: Doc takes cash out of his envelope.
+speaker_heading: SAL (CONT'D)
+dialog: Whoa... what's with the wad?
+speaker_heading: DOC
+dialog: They took up a collection at the
+dialog: Exchange, when they heard.
+speaker_heading: SAL
+dialog: See? You got lots of friends.
+speaker_heading: DOC
+dialog: They felt bad. They wanted to do
+dialog: something.
+speaker_heading: (CONTINUED)
+dialog: 22
+dialog: 23
+dialog: 29.
+text: A HYPED-UP EMPLOYEE enters the front area and changes the
+text: channel on the TV that rumbles in the background.
+scene_heading: HYPED-UP EMPLOYEE
+dialog: You guys aren't watching this?
+speaker_heading: DOC
+dialog: What?
+scene_heading: HYPED-UP EMPLOYEE
+dialog: They got him!
+speaker_heading: SAL
+dialog: Who?
+scene_heading: HYPED-UP EMPLOYEE
+dialog: That sumbitch Saddam! They got him
+dialog: in a spider hole!
+text: He finds a news station that is showing some footage of the
+text: captured Saddam Hussein, submitting to an inspection of body,
+dialog: etc.
+scene_heading: INT. KING'S COURT MOTOR LODGE ROOM - NIGHT 22
+text: Two queen beds, a TV going with the Hussein footage, and an
+text: empty pizza box at the foot of the bed. Doc already looks
+text: asleep, while Mueller lays on his bed, almost asleep.
+speaker_heading: SAL
+dialog: How's the rack, Padre?
+speaker_heading: MUELLER
+dialog: It's fine.
+dialog: Here they are, but where are they? Nothing to do, nowhere to
+text: go. Sal just finishes the last piece of pizza and stares at
+dialog: more Saddam Hussein footage.
+scene_heading: EXT. KING'S COURT MOTOR LODGE PARKING LOT - MORNING 23
+text: They make their way to the car and throw their bags into the
+dialog: trunk.
+speaker_heading: DOC
+dialog: I was wondering...you never went
+dialog: home, so how did you get to pack a
+dialog: bag?
+speaker_heading: SAL
+dialog: I always keep one in the trunk.
+dialog: Sometimes a lady friend wants me to
+dialog: stay over. I hate to say no.
+speaker_heading: (CONTINUED)
+dialog: 24
+dialog: 30.
+speaker_heading: MUELLER
+dialog: Is there one particular lady friend
+dialog: or are there more?
+speaker_heading: SAL
+dialog: One at the moment, but I'm always
+dialog: holding auditions.
+dialog: (slams down the trunk)
+dialog: Let's do this.
+scene_heading: INT. HANGAR - MORNING 24
+text: Cold and hollow and cheerless. A folding table has been set
+text: up with coffee and doughnuts. Only Sal partakes. Across the
+text: hangar is a MOTHER, weeping. Her eyes are red from crying.
+text: She holds a hanky against her face. Her HUSBAND is a large
+text: man, a working man, and he is angry.
+speaker_heading: MOTHER
+dialog: (through tears)
+dialog: I want him to look nice...
+speaker_heading: FATHER
+dialog: Irene, that ain't gonna be the boy
+dialog: that walked out of our house, that
+dialog: waved good-bye.
+dialog: Another circle of four - mother, father, second wife, second
+text: husband - huddle together. One more circle of three waits - a
+text: mother, father and daughter.
+text: The hangar door slides open. An Army major and a Marine Lt.
+text: Colonel come in. Behind them are four coffins, each on a
+text: wagon, each covered with a flag and each with an enlisted man
+dialog: escort.
+text: They space out the coffins. The escorts stand at attention.
+text: Our three move toward the Marine. The COLONEL steps forward.
+text: He is ramrod straight, around 40, used to being feared. He
+text: addresses Sal in a lower voice suitable to the occasion.
+speaker_heading: COLONEL
+dialog: Mister Shepherd?
+text: Sal nods to Doc, who stands dumbly, his eyes on the flag-
+text: covered box that contains his son. The Colonel extends his
+text: hand. Doc shakes it.
+speaker_heading: COLONEL (CONT’D)
+dialog: Mr. Shepherd, I'm Colonel Willits.
+dialog: The President of the United States
+dialog: has asked me to express his deep
+dialog: regret that your son was killed in
+dialog: action.
+speaker_heading: (CONTINUED)
+text: Sal can't help himself and rolls his eyes.
+speaker_heading: DOC
+dialog: Thank you.
+scene_heading: COLONEL WILLITS
+dialog: He died a hero in the service of
+dialog: his country. He was an inspiration
+text: to his fellow Marines.
+dialog: 31.
+text: WASHINGTON, the escort, stands at stony attention. He is a
+text: young black man, also a lance corporal. Something is wrong
+text: with his ear lobe. It is covered with tiny bumps and looks
+text: like it is rotting away. He is 20 and though taught to kill
+text: he gives off a sense of basic goodness.
+speaker_heading: DOC
+dialog: Can I see him?
+scene_heading: COLONEL WILLITS
+dialog: Sir, that would be ill-advised.
+dialog: Trust me on this. You do not want
+dialog: to see him like that.
+speaker_heading: DOC
+dialog: I don't know... I think I have to.
+scene_heading: COLONEL WILLITS
+dialog: Sir, Lance Corporal Shepherd was
+dialog: hit in the back of head. I can
+dialog: assure you he felt no pain... but
+dialog: the exit wound in such a case is
+dialog: devastating... to the face.
+speaker_heading: DOC
+dialog: They were behind him? They shot him
+dialog: from behind?
+speaker_heading: MUELLER
+dialog: Take the Colonel's advice, Doc.
+dialog: Best to remember him as he was.
+text: Doc thinks about it, looks to Sal.
+speaker_heading: SAL
+dialog: I'd have to see him, but that's me.
+dialog: The thing is, you don't have to
+dialog: listen to no colonels no more.
+dialog: Those days are gone.
+text: The Colonel seems to recoil, his jaw tightens. Washington
+text: sees it and twitches.
+speaker_heading: (CONTINUED)
+dialog: 32.
+speaker_heading: DOC
+dialog: I'm gonna see my son.
+scene_heading: COLONEL WILLITS
+dialog: What you see you will not be able
+dialog: to un-see.
+speaker_heading: DOC
+dialog: I understand... but I have to.
+scene_heading: COLONEL WILLITS
+dialog: As you wish. Lance Corporal
+dialog: Washington, escort these two
+text: gentlemen to the coffee mess.
+text: Washington leads them away. At the table, they turn and watch
+text: Doc. Washington holds his attention stance.
+speaker_heading: SAL
+dialog: Listen up, why don't you stand at
+dialog: ease, you're givin' me a stiff
+dialog: neck.
+speaker_heading: WASHINGTON
+dialog: (relaxing)
+dialog: Man, never heard anyone talk to the
+dialog: Colonel like that.
+speaker_heading: SAL
+dialog: Colonels don't scare me, kid. Never
+dialog: have, never will.
+speaker_heading: WASHINGTON
+dialog: You a Marine?
+text: Sal slides up his sleeve and reveals his tattoo.
+speaker_heading: WASHINGTON (CONT’D)
+dialog: I thought so.
+speaker_heading: SAL
+dialog: I got more time in the chow line
+dialog: than you got in the corps.
+speaker_heading: WASHINGTON
+dialog: (to Mueller)
+dialog: You too?
+speaker_heading: MUELLER
+dialog: Semper Fi, do or die. How do you
+dialog: think I got this cane?
+speaker_heading: (CONTINUED)
+dialog: 33.
+speaker_heading: SAL
+dialog: Hey kid. The fuck's wrong your
+dialog: ear?
+speaker_heading: WASHINGTON
+text: Baghdad boil.
+speaker_heading: SAL
+dialog: Say what?
+speaker_heading: WASHINGTON
+dialog: Baghdad boil. Everybody's got one.
+dialog: You get bit by a teeny sand fly.
+dialog: They say it'll go away. In a year
+dialog: or two.
+speaker_heading: SAL
+dialog: That's one ugly ear.
+speaker_heading: MUELLER
+dialog: This is a big mistake.
+text: They look at Doc, who braces himself, then buckles at the
+text: knees when the coffin lid is lifted. Sal takes a step toward
+text: him, but Mueller gently stops him with the crook of his cane.
+speaker_heading: MUELLER (CONT'D)
+dialog: Nothing you can do now. Or do you
+dialog: just want to out-tough a colonel?
+speaker_heading: SAL
+dialog: I don't want nothin'. I'm just
+text: along for the ride.
+speaker_heading: MUELLER
+dialog: Yeah right.
+speaker_heading: WASHINGTON
+dialog: So you were in 'Nam with Larry's
+dialog: dad?
+speaker_heading: MUELLER
+dialog: We were.
+speaker_heading: WASHINGTON
+dialog: You know what happened back then?
+speaker_heading: SAL
+dialog: Naw, we were just pullin' triggers,
+dialog: killin' gooks.
+speaker_heading: WASHINGTON
+dialog: His dad wound up doing brig time
+text: behind it.
+speaker_heading: (CONTINUED)
+dialog: 34.
+speaker_heading: MUELLER
+dialog: That's all in the past.
+speaker_heading: SAL
+dialog: What do you know about that?
+speaker_heading: WASHINGTON
+dialog: Sounded like he fucked up some
+dialog: dudes... or some dudes fucked him
+dialog: up.
+dialog: (nobody says anything)
+dialog: You them dudes?
+speaker_heading: MUELLER
+dialog: What exactly did he tell you?
+speaker_heading: WASHINGTON
+dialog: Only some bad shit went down. I was
+dialog: Larry's best friend. No one else
+dialog: knew anything about it.
+speaker_heading: SAL
+dialog: You were with him in the ambush?
+speaker_heading: WASHINGTON
+dialog: Ambush?
+speaker_heading: SAL
+dialog: Yeah, an ambush and a fire fight,
+dialog: they said.
+speaker_heading: WASHINGTON
+dialog: Okay.
+speaker_heading: SAL
+dialog: Okay?
+speaker_heading: WASHINGTON
+dialog: If that's what they're saying it
+dialog: was, then that's what it was.
+speaker_heading: SAL
+dialog: You were there. What the hell
+dialog: happened?
+text: Washington hesitates.
+speaker_heading: SAL (CONT'D)
+dialog: Spit it out, kid. It's just us,
+dialog: Marine to Marine.
+speaker_heading: WASHINGTON
+dialog: (nervous )
+dialog: It was fucked.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+speaker_heading: WASHINGTON (CONT'D)
+dialog: Me and Shepherd and three other
+dialog: dudes were all day humping school
+text: supplies. Tablets, pencils, some
+dialog: new books. It was our last run,
+dialog: pissed-off mode, sand down our
+dialog: throats and up our asses. One guy
+dialog: said he wished he was in the
+dialog: fuckin' Navy. We started dissin'
+dialog: swabbies, calling them chickens of
+dialog: the sea, shit like that. Then Shep
+dialog: says, my old man was a swabby, a
+text: medical corpsman, wound up with the
+dialog: Marines in 'Nam. I asked him how
+dialog: long he put in, and Shepherd says
+dialog: about five years, but a couple of
+dialog: them in the brig. Anyway, we was
+dialog: always stoppin' at this little
+dialog: store we called Abdul's Haji Mart
+dialog: for Haji Cokes. It was my turn to
+dialog: make the run but Shep said he'd do
+dialog: it. So he gets out and we're
+dialog: bullshitting. Then this raghead
+text: comes up behind him, shouts out Ala
+dialog: Akbar or whatever, you know, God is
+text: great, and then he puts a cap in
+text: Shep's head.
+text: This sinks in.
+speaker_heading: SAL
+dialog: What happened next?
+speaker_heading: WASHINGTON
+dialog: Shit man, we went off. Lit ‘em all
+dialog: up - that raghead, Abdul, and damn
+dialog: near the whole fuckin' hood.
+text: Sal and Mueller just take this in.
+speaker_heading: WASHINGTON (CONT'D)
+dialog: We carried Larry back to the Hummer
+dialog: and went home. Fuck a whole bunch
+dialog: of school supplies.
+speaker_heading: SAL
+dialog: He's supposed to get a Bronze Star
+dialog: behind this.
+speaker_heading: WASHINGTON
+dialog: Oh, he'll get the Star. The more
+dialog: Stars the better, right?
+text: They look over at Doc as the Colonel lowers the coffin lid.
+text: Doc still braces himself against it.
+speaker_heading: (CONTINUED)
+dialog: 36.
+speaker_heading: MUELLER
+dialog: We can't tell him about this.
+speaker_heading: SAL
+dialog: We can't?
+speaker_heading: MUELLER
+dialog: Let him have his Bronze Star, his
+text: burial at Arlington with honors.
+dialog: Let him have his hero. Lord knows
+dialog: he's had little enough in his life.
+speaker_heading: SAL
+dialog: You mean, let him have the lie?
+speaker_heading: MUELLER
+dialog: Yes. What's more important?
+speaker_heading: SAL
+dialog: I don't know, but it's never the
+dialog: lie.
+text: Sal walks toward the coffin, toward Doc and the Colonel.
+text: Mueller trails behind, slowed by his cane. Washington takes
+text: Mueller's arm and they move a little faster that way. As they
+text: get closer, they can overhear the Colonel.
+scene_heading: COLONEL WILLITS
+dialog: I'm sorry sir, but there is always
+dialog: a sound reason for my
+dialog: recommendations.
+text: Doc is trembling, unable to speak. Sal puts a hand on his
+text: shoulder. Doc goes into his arms. Sal holds him awkwardly.
+text: These men are not used to hugs. He pats his back.
+speaker_heading: DOC
+dialog: Sal... he don't have a face
+dialog: anymore.
+dialog: All Sal can offer is the universal spine stiffener, God's
+dialog: blessing and curse combined:
+speaker_heading: SAL
+dialog: Gotta be a man.
+text: Doc nods into his shoulder and stands back, running a
+text: handkerchief over his face. Sal takes a moment to stare down
+dialog: the Colonel.
+speaker_heading: SAL (CONT'D)
+dialog: How'd this boy wind up dead,
+dialog: mister?
+speaker_heading: (CONTINUED)
+dialog: 37.
+speaker_heading: MUELLER
+dialog: Sal...
+scene_heading: COLONEL WILLITS
+dialog: I beg your pardon?
+speaker_heading: SAL
+dialog: Simple question. How'd it happen?
+scene_heading: COLONEL WILLITS
+dialog: The Lance Corporal acquitted
+dialog: himself with dignity and honor, and
+dialog: he died a hero.
+speaker_heading: SAL
+dialog: Yeah, well, they're all heroes,
+dialog: ain't they?
+scene_heading: COLONEL WILLITS
+dialog: That they are, sir.
+speaker_heading: SAL
+dialog: All heroes, for sure. But how did
+dialog: it happen that he was shot in the
+text: back of his head, like a fuckin'
+dialog: dog?
+text: Doc looks at the uneasy Colonel through teary eyes.
+scene_heading: COLONEL WILLITS
+dialog: He was a brave Marine, a credit to
+dialog: the corps, and he served his
+dialog: country well.
+speaker_heading: SAL
+dialog: So did we all - all of us here. And
+dialog: we still have to when we get the
+dialog: chance.
+speaker_heading: DOC
+dialog: What's going on, Sal?
+speaker_heading: SAL
+dialog: I don't know. That's why I'm
+dialog: askin'.
+speaker_heading: MUELLER
+dialog: Shouldn't we be making arrangements
+dialog: for the funeral. Isn't that why
+dialog: we're here?
+speaker_heading: SAL
+dialog: Were you there, when it happened?
+speaker_heading: (CONTINUED)
+dialog: 25
+dialog: 38.
+scene_heading: COLONEL WILLITS
+dialog: No, I wasn't.
+speaker_heading: SAL
+dialog: Where were you?
+scene_heading: COLONEL WILLITS
+dialog: With all due respect, that's none
+dialog: of your business.
+speaker_heading: SAL
+dialog: With all due respect, Doc here
+dialog: ought to get to talk to somebody
+dialog: who was. You weren't.
+dialog: (to Washington)
+dialog: Were you?
+text: Washington hesitates, glances at the Colonel staring at him,
+text: but then reluctantly answers.
+speaker_heading: WASHINGTON
+dialog: I was there, sir.
+text: The Colonel doesn't like how this is going at all, but it's
+dialog: too late.
+scene_heading: COLONEL WILLITS
+dialog: Very well. Lance Corporal
+dialog: Washington, tell him what happened.
+text: Washington takes a deep breath.
+text: LATER - Sal is at the coffee table. Mueller approaches fror?5
+text: the hangar door. Doc is leaning back against the coffin,
+text: considering what to do. The Colonel and Washington stand on
+text: either side of him.
+speaker_heading: MUELLER
+dialog: Where are we with this?
+speaker_heading: SAL
+dialog: Where we was, pretty much. He'd
+text: like his son's face back.
+speaker_heading: MUELLER
+dialog: I called my wife. I'm going home.
+dialog: I'll take the bus.
+speaker_heading: SAL
+dialog: You quittin'?
+speaker_heading: MUELLER
+dialog: Quitting what?
+speaker_heading: (CONTINUED)
+dialog: 39.
+speaker_heading: SAL
+dialog: We'll know in a minute or two.
+text: Sal sees the Colonel once again approaching Doc so he wanders
+text: over to him.
+speaker_heading: SAL (CONT'D)
+dialog: Yo, Doc.
+text: Doc looks up.
+speaker_heading: SAL (CONT'D)
+dialog: What's it gonna be here?
+text: Doc stands up straight, looks the Colonel in the eye.
+speaker_heading: DOC
+dialog: I can't bury him in Arlington. Not
+dialog: now.
+scene_heading: COLONEL WILLITS
+dialog: He qualifies and he deserves that
+dialog: honor.
+text: Doc digs out his wallet, rifles through it, and produces a
+text: photo of his son. He holds it out, in front of the Colonel's
+dialog: face.
+speaker_heading: DOC
+dialog: Here, this is what his face looked
+dialog: like. He was a good-looking boy.
+dialog: (shows the photo to the
+dialog: others)
+dialog: See? The high school girls were all
+text: over him. He was a good-looking
+dialog: boy. I'm taking Larry home.
+scene_heading: COLONEL WILLITS
+dialog: I assure you that is a bad decision
+dialog: and you will come to regret it.
+text: Doc tries to push the cart. Sal hands his cup to Mueller and
+text: joins him. They push together.
+speaker_heading: COLONEL WILLITS (CONT'D)
+dialog: Hold on. The Marines will transport
+dialog: the body, at no cost to you,
+dialog: anywhere you choose.
+text: They keep on pushing.
+speaker_heading: (CONTINUED)
+dialog: 26
+dialog: 40.
+speaker_heading: COLONEL WILLITS (CONT'D)
+dialog: Gentlemen. I cannot release the
+text: Lance Corporal's body, except to a
+dialog: licensed mortician...
+text: Mueller steps up.
+speaker_heading: MUELLER
+dialog: Or to a clergyman, isn't that the
+dialog: case?
+text: The Colonel hesitates, as Mueller hands him Sal's cup and
+text: begins to put on his clerical collar.
+scene_heading: COLONEL WILLITS
+dialog: Correct.
+speaker_heading: MUELLER
+dialog: So I guess that would be me.
+text: Using his cane, Mueller walks behind Doc and Sal as they push
+text: the coffin. Washington stands next to the Colonel, impressed.
+scene_heading: EXT. HANGAR PARKING LOT —- MORNING 26
+text: Sal and Doc push the cart, Mueller trailing behind. They come
+text: to a stop, not before dinging the car.
+speaker_heading: DOC
+dialog: Sorry about that.
+speaker_heading: SAL
+dialog: Forget about it.
+text: They stand silently, awkwardly for a moment. What now?
+speaker_heading: MUELLER
+dialog: Now how you gonna get him home?
+dialog: Strap that coffin to the roof of
+dialog: Sal's car?
+speaker_heading: SAL
+dialog: We could do that. We'd need help
+dialog: liftin' it up. Maybe we...
+speaker_heading: MUELLER
+dialog: Don't be ridiculous.
+speaker_heading: SAL
+dialog: Why not? Tell me a better way to
+dialog: be. You wish you could be
+text: ridiculous, but it's too late now.
+speaker_heading: (CONTINUED)
+dialog: 41.
+speaker_heading: MUELLER
+dialog: Doc, let the government take care
+dialog: of the transport - that's the kinda
+dialog: thing they're good at.
+speaker_heading: DOC
+dialog: I don't like the government right
+dialog: now.
+speaker_heading: MUELLER
+dialog: You don't have to.
+speaker_heading: DOC
+dialog: I don't trust it any more.
+speaker_heading: SAL
+dialog: Hell, we could rent a truck.
+speaker_heading: DOC
+dialog: Yeah, let's do that. We'll stay
+dialog: here, and you can take the car and
+dialog: go find a truck. Pay for it out of
+dialog: this.
+text: Doc gives him an envelope full of cash.
+speaker_heading: SAL
+dialog: Consider it done. One truck,
+dialog: comin' up.
+speaker_heading: MUELLER
+dialog: (to Doc)
+dialog: I'll be going with Sal. He can
+dialog: drop me at the bus station. I
+dialog: think I'll be going back home now.
+text: For a moment no one says anything.
+speaker_heading: DOC
+dialog: I understand, Mueller. I'm sorry
+dialog: for dragging you up here.
+speaker_heading: MUELLER
+dialog: I thought I could be of some help.
+dialog: I thought we were going to a
+dialog: funeral.
+speaker_heading: SAL
+dialog: We ARE going to a funeral, it just
+dialog: looks like it's going to take a
+dialog: little longer to get there.
+text: Doc doesn't want to make this any harder than it is.
+speaker_heading: (CONTINUED)
+dialog: 27
+dialog: 42.
+speaker_heading: DOC
+dialog: It's okay, Mueller. I'm just glad
+dialog: I got to see you again.
+speaker_heading: MUELLER
+dialog: I'm sorry, lad.
+text: A handshake and a hug, awkwardly trapping his cane against
+dialog: him.
+speaker_heading: MUELLER (CONT'D)
+dialog: Glad I got to see you too. God
+dialog: bless you, Doc.
+scene_heading: INT. SAL'S TAURUS - DAY - MOVING 27
+text: Sal drives, Mueller next to him. They maintain a silence,
+dialog: then -
+speaker_heading: MUELLER
+dialog: We should stop and ask somebody
+text: where the bus station is.
+speaker_heading: SAL
+dialog: It's a small town, we'll run into
+dialog: it. Give you a few more minutes to
+dialog: enjoy my company.
+speaker_heading: MUELLER
+dialog: Always a pleasure.
+speaker_heading: SAL
+dialog: Before you bail on us.
+text: Mueller stares straight ahead.
+speaker_heading: SAL (CONT'D)
+dialog: So, what's on your agenda? Read the
+text: bible all the way home, leftover
+dialog: ham for supper, say a little
+dialog: prayer...
+speaker_heading: MUELLER
+dialog: Oh, I'll say a little prayer long
+dialog: before that. The bigger question
+dialog: is, what's on your agenda?
+speaker_heading: SAL
+dialog: I feel I owe him one. Nothin' more,
+dialog: nothin' less.
+speaker_heading: MUELLER
+dialog: Even though he says you don't owe
+dialog: him a thing?
+speaker_heading: (CONTINUED)
+dialog: 28
+dialog: 43.
+speaker_heading: SAL
+dialog: All the more reason.
+speaker_heading: MUELLER
+dialog: What would have happened, way back
+dialog: then, if we hadn't... you know?
+speaker_heading: SAL
+dialog: Doc wouldn't have ended up doing
+dialog: two years in the brig, that's for
+dialog: sure. And we wouldn't have had to
+dialog: see what we did.
+speaker_heading: MUELLER
+dialog: What was that?
+speaker_heading: SAL
+dialog: You don't remember?
+speaker_heading: MUELLER
+dialog: I remember a lot of shit... what
+dialog: are you talking about?
+speaker_heading: SAL
+dialog: A certain platoon buddy, shot,
+text: writhing around on the ground
+text: dying, with nothing to help him
+dialog: cause we'd taken all the morphine
+dialog: for ourselves.
+speaker_heading: MUELLER
+dialog: He was going to die, anyway. He
+dialog: had no chance. Minutes.
+speaker_heading: SAL
+dialog: Maybe.
+speaker_heading: MUELLER
+dialog: There was nothing we could do at
+dialog: that point.
+speaker_heading: SAL
+dialog: Yeah, and we did nothin'. Sometimes
+dialog: you ought to do a little more.
+text: Sal sees a Ryder agency and pulls to the curb.
+scene_heading: INT. U-HAUL RENTAL AGENCY - DAY 28
+text: A nervous older WOMAN, smoking a cigarette, is behind the
+text: counter, dealing with Sal and Mueller.
+speaker_heading: (CONTINUED)
+dialog: 44,
+speaker_heading: WOMAN
+dialog: I have a van that would work for
+dialog: you, but you might be happier with
+text: a truck that's got a hydraulic tail
+dialog: lift.
+speaker_heading: SAL
+dialog: Ohhh, a hydraulic lift. I like it.
+speaker_heading: WOMAN
+dialog: What will you be hauling?
+speaker_heading: SAL
+dialog: (hesitates)
+dialog: Your truck with the lift'll handle
+dialog: it.
+speaker_heading: WOMAN
+dialog: Will you be dropping it off back
+dialog: here or at another location?
+text: It catches Sal short. He hadn't thought about that.
+speaker_heading: WOMAN (CONT’D)
+dialog: Don'tcha know?
+speaker_heading: SAL
+dialog: Guess I'm gonna return it here.
+speaker_heading: WOMAN
+dialog: And when will that be?
+text: Again, Sal has to think about it. The agent's suspicions
+text: start to grow. She grows more nervous. Terrorists?
+speaker_heading: WOMAN (CONT’D)
+dialog: You don't know how long you'll need
+dialog: it?
+speaker_heading: SAL
+dialog: Better give me a week.
+speaker_heading: MUELLER
+dialog: Oh my, a week, he says.
+text: Now she looks uneasily at Mueller as she taps her keyboard.
+speaker_heading: SAL
+dialog: Now Mueller, it's outta your hands
+dialog: now.
+text: At "Mueller," the agent's head jerks slightly, not sure what
+dialog: she heard.
+speaker_heading: (CONTINUED)
+dialog: 45.
+speaker_heading: SAL (CONT'D)
+dialog: ... Just have a seat and take a
+dialog: load off. I'll handle this.
+text: Mueller makes his way to a chair and sits. The woman is
+text: fretting inwardly.
+speaker_heading: WOMAN
+dialog: I need to see your driver's
+dialog: license.
+speaker_heading: SAL
+dialog: Yes, ma'am.
+text: He empties one pocket of change and keys and a cigar cutter.
+text: The woman looks at that with apprehension. Out of the other
+text: pocket: cash, cards and hard candy. He finds the license.
+speaker_heading: WOMAN
+dialog: Norfolk, Virginia?
+speaker_heading: SAL
+dialog: Gotta live somewhere.
+speaker_heading: WOMAN
+dialog: What brings you up here?
+speaker_heading: SAL
+dialog: With all due respect, that's none
+dialog: of your business.
+text: Now she's really worried.
+speaker_heading: WOMAN
+dialog: Just trying to be friendly.
+speaker_heading: SAL
+dialog: Really? Okay. Well, I'm here
+dialog: because of a death in the family.
+speaker_heading: WOMAN
+dialog: I'm sorry.
+speaker_heading: SAL
+dialog: (smiling)
+dialog: That's all right. It wasn't my
+dialog: family.
+speaker_heading: WOMAN
+dialog: Will you be the only driver?
+text: Again, he has to think about it.
+speaker_heading: (CONTINUED)
+speaker_heading: SAL
+dialog: I'll have some help.
+speaker_heading: WOMAN
+dialog: Then I'll need to see the other
+dialog: driver's license. Is it that
+dialog: gentleman there?
+speaker_heading: SAL
+dialog: His holiness? His holiness can't
+dialog: hardly walk, let alone handle a big
+text: rig with a hydraulic lift.
+speaker_heading: WOMAN
+dialog: Whoever, I'll need their license.
+speaker_heading: SAL
+dialog: I'll drive it myself.
+speaker_heading: WOMAN
+dialog: So you are the only driver?
+speaker_heading: SAL
+dialog: Yes, ma'am. I be the wheelman.
+text: Paranoia deepens.
+speaker_heading: WOMAN
+dialog: Insurance on the vehicle?
+speaker_heading: SAL
+dialog: What about it?
+speaker_heading: WOMAN
+dialog: Would you like to get some?
+speaker_heading: SAL
+dialog: Not necessary.
+speaker_heading: WOMAN
+dialog: How will you be paying?
+speaker_heading: SAL
+dialog: Cash.
+text: He pulls out Doc's brown envelope.
+speaker_heading: MUELLER
+dialog: And get directions.
+speaker_heading: SAL
+dialog: Oh, yeah, where's the bus station?
+text: She can't wait to call the police.
+dialog: 47.
+scene_heading: 29 EXT. STREET/INT. U-HAUL TRUCK - DAY - MOVING 29
+text: Sal and Mueller are driving along in the rented truck.
+speaker_heading: SAL
+dialog: Sixteen or sixty, put a dude behind
+dialog: the wheel of a big rig, got to feel
+dialog: like hot shit.
+speaker_heading: MUELLER
+text: It's a rented U-Haul with an
+text: automatic transmission.
+speaker_heading: SAL
+dialog: Bigger than anything you ever
+dialog: handled.
+speaker_heading: MUELLER
+dialog: Look Sal, Doc's boy is dead. Try
+dialog: not to forget that.
+speaker_heading: SAL
+dialog: I haven't forgotten that. But
+dialog: we're still alive, right? With
+dialog: time tickin' fast away. If a minute
+dialog: comes up that's not too terrible,
+dialog: I'm gonna try to enjoy it. You used
+dialog: to be up for some fun.
+speaker_heading: MUELLER
+dialog: Still am.
+speaker_heading: SAL
+dialog: Really?!
+speaker_heading: MUELLER
+dialog: As long it's right in God's eyes.
+speaker_heading: SAL
+dialog: ‘God's eyes?' God don't have no
+text: eyes.
+speaker_heading: MUELLER
+dialog: Oh, He's got eyes. And ears too. He
+dialog: hears every insult you send His
+dialog: way. There will be a reckoning,
+dialog: Sergeant.
+speaker_heading: SAL
+dialog: A reckoning?
+speaker_heading: MUELLER
+dialog: I assure you of that.
+speaker_heading: (CONTINUED)
+dialog: 48.
+speaker_heading: SAL
+dialog: Then great - then I reckon I'll
+dialog: take that opportunity to stand at
+dialog: attention and say to God, "Hey,
+dialog: where were You when they were
+dialog: rapin' children or with the
+dialog: genocide and all that? Where were
+dialog: You when they flew airplanes into
+dialog: buildings, killin' thousands of
+dialog: folks just goin' to work, and the
+dialog: murderers shouting Your name, or
+dialog: You by some other name. Same
+dialog: difference. Where were You when
+dialog: Doc's kid was buyin' Cokes and some
+dialog: raghead blew his face off?" You
+dialog: see, I ain't gonna explain myself
+dialog: to God, I'm gonna make Him explain
+dialog: Himself to me!
+speaker_heading: MUELLER
+dialog: I'm going to pray for your soul.
+speaker_heading: SAL
+dialog: And I'm bettin' at the end of it,
+dialog: if the fucker even exists he'll say
+dialog: "Get your ass in here, you're my
+dialog: kind of dude."
+dialog: (beat)
+dialog: At least that's what I'm hopin'. If
+dialog: He's a tight-ass God, I'm fucked.
+speaker_heading: MUELLER
+dialog: It might be time for a lube job on
+dialog: that plate you got in your head.
+speaker_heading: SAL
+dialog: Don't fuck with my plate, it's
+text: pickin' up WOR in New York.
+text: Mueller just stares at him. Sal notices the radio.
+speaker_heading: SAL (CONT'D)
+dialog: Looky here.
+text: He turns it on. Rap music. An Eminem song (something from
+dialog: "The Eminem Show").
+speaker_heading: MUELLER
+dialog: Turn that shit off.
+speaker_heading: SAL
+dialog: (he doesn't)
+dialog: You've heard this stuff, right?
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 49,
+speaker_heading: SAL (CONT'D)
+dialog: Now, I've been known to get ina
+dialog: face or two, but even I find some
+dialog: of this stuff offensive. And damn
+dialog: hard to dance to...
+speaker_heading: MUELLER
+dialog: For once you and I agree on
+dialog: something.
+speaker_heading: SAL
+dialog: Don't it make you a little ashamed
+dialog: to be an African American?
+speaker_heading: MUELLER
+dialog: No, not really.
+speaker_heading: SAL
+dialog: Well, it ought to, dignified old
+dialog: gentleman like you, who'd be the
+dialog: first to agree just how far this
+dialog: stuff is from Motown.
+speaker_heading: MUELLER
+dialog: Why should I feel ashamed? This
+dialog: dude is white.
+dialog: The fuck ...!?
+speaker_heading: MUELLER
+dialog: That's affirmative. White as rice.
+speaker_heading: SAL
+dialog: That's comin' out of a white mouth?
+speaker_heading: MUELLER
+text: Yep - a white sewer mouth.
+speaker_heading: SAL
+dialog: Then, by God, fuck me. I ought to
+dialog: feel ashamed myself. Only I never
+dialog: did much identify with the white
+dialog: race.
+speaker_heading: MUELLER
+dialog: Oh really? Now I'm curious. What
+dialog: race do you identify with?
+speaker_heading: SAL
+dialog: Green. The corps - that was the
+dialog: only culture ever made any sense to
+dialog: me.
+dialog: (beat)
+dialog: You ever miss it?
+speaker_heading: (CONTINUED)
+dialog: 50.
+speaker_heading: MUELLER
+dialog: Not for a minute.
+speaker_heading: SAL
+dialog: I don't believe you.
+scene_heading: 30 INT. BUS STATION - DAY 30
+text: Sal carries Mueller's bag and waits while Mueller hobbles
+text: back with his ticket in hand.
+speaker_heading: SAL
+dialog: No problem?
+speaker_heading: MUELLER
+dialog: Not unless being stuck on a bus for
+text: the next seven hours is a problem.
+speaker_heading: SAL
+dialog: Busses are real nice now.
+text: Recliners, a shitter in the back.
+dialog: Maybe you'll meet some poor redneck
+dialog: and save his soul. How many points
+dialog: you get for that? Is it a point
+dialog: system?
+speaker_heading: MUELLER
+dialog: I'm just hoping I can sleep. I
+dialog: didn't sleep too well last night.
+speaker_heading: SAL
+dialog: Me either. Remember when we could
+text: sleep in a hole in the ground, with
+text: bullets zinging just overhead?
+speaker_heading: MUELLER
+dialog: You can't go back, Sal.
+speaker_heading: SAL
+dialog: Who'd want to?
+speaker_heading: MUELLER
+dialog: We can't redo the choices we made
+dialog: back then. All we can do is learn
+dialog: from them and try to do better in
+dialog: the future.
+speaker_heading: SAL
+dialog: Yeah, I know that.
+speaker_heading: MUELLER
+dialog: But you're still gonna do it,
+dialog: aren't you?
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 51.
+speaker_heading: MUELLER (CONT'D)
+dialog: You're gonna take Doc and his dead
+dialog: son to Portsmouth and try to make
+dialog: it fun.
+speaker_heading: SAL
+dialog: You ought to come with.
+speaker_heading: MUELLER
+dialog: Can't do that.
+speaker_heading: SAL
+dialog: All right. Well, I'd better get
+dialog: started.
+text: He extends his hand and they share an affectionate shake.
+speaker_heading: SAL (CONT'D)
+dialog: I still can't believe it, you of
+dialog: all people, a preacher.
+speaker_heading: MUELLER
+dialog: Goddam right.
+speaker_heading: SAL
+dialog: Think we'll ever bump into each
+dialog: other again? We're not that far
+dialog: away.
+speaker_heading: MUELLER
+dialog: Never know. He moves in mysterious
+dialog: ways.
+scene_heading: EXT. HANGAR - DAY 31
+text: The back of the parked truck is open and Doc pushes the
+text: coffin up to it as Sal joins him.
+speaker_heading: DOC
+dialog: This is a lot of truck.
+speaker_heading: SAL
+dialog: Never go small, kid. Check this
+dialog: out.
+text: He pulls a small lever and raises the lift up to the level of
+text: the coffin. Together they half-slide, half-lift it off the
+text: wagon and onto the lift. Sal leans back against the lift and
+text: lights a cigar.
+speaker_heading: SAL (CONT'D)
+dialog: I was wondering, though. What would
+dialog: your kid have wanted?
+speaker_heading: (CONTINUED)
+dialog: 32
+dialog: 33
+dialog: 52.
+text: Doc thinks about it for a beat.
+speaker_heading: DOC
+text: To drink beer with his friends.
+dialog: Chase girls. He was twenty-one, he
+dialog: wasn't thinking about dying.
+speaker_heading: SAL
+dialog: You can make this a lot easier on
+dialog: yourself.
+speaker_heading: DOC
+dialog: I don't want to make it easier on
+dialog: myself.
+speaker_heading: SAL
+dialog: (chuckles )
+dialog: Yeah. Guys like you and me, we
+dialog: take all the shit ‘til it's
+dialog: disaster, and then we're cool, the
+dialog: worst has happened, like we always
+dialog: knew it would.
+speaker_heading: DOC
+dialog: They sent him to a God-forsaken
+dialog: desert because... who knows why?
+dialog: It wasn't to protect America.
+dialog: It's like that jungle they sent us
+dialog: to. It wasn't a threat to us. And
+dialog: then they sent him back to me in
+dialog: this, with more lies... a hero,
+dialog: honors, Arlington. I ain't going to
+dialog: bury no Marine. I gotta bury a son.
+scene_heading: EXT. HANGAR - DAY 32
+text: Washington stands outside the hangar, watching the U-Haul
+text: truck pull away, wistfully. Then he walks away.
+scene_heading: INT. U-HAUL TRUCK - DAY - MOVING 33
+text: Sal drives toward the gate.
+speaker_heading: SAL
+dialog: Some rig, huh?
+text: Doc doesn't answer but is looking out the window. Something's
+text: wrong. A DAFB Police Car pulls in front of them, slows,
+text: bringing them almost to a stop. Another Police Car blocks
+text: them from behind, trapping them. They come to a stop.
+speaker_heading: BULLHORN VOICE (0.S.)
+dialog: Get out of the truck. Walk away,
+dialog: hands above your head.
+dialog: 34
+dialog: 53.
+scene_heading: INT. BUS STATION - DAY 34
+text: Mueller sits in the waiting area, quietly reading his bible.
+text: A man in a cheap RAINCOAT is talking to the ticket agent,
+text: looking over at Mueller. Another man in a black ANORAK takes
+text: a seat next to him.
+speaker_heading: ANORAK
+dialog: Taking a bus today?
+speaker_heading: MUELLER
+dialog: Yes, to Richmond. And you?
+speaker_heading: ANORAK
+dialog: Richmond, huh. That home for you?
+speaker_heading: MUELLER
+dialog: No, but it's getting close. Why?
+text: Cheap Raincoat has walked over and is standing in front of
+dialog: Mueller.
+speaker_heading: RAINCOAT
+dialog: You're the one they call the
+dialog: Mullah?
+speaker_heading: MUELLER
+dialog: The what?
+speaker_heading: RAINCOAT
+dialog: Mullah.
+speaker_heading: MUELLER
+dialog: I'm waiting for a bus to Richmond,
+dialog: reading the scriptures.
+speaker_heading: ANORAK
+dialog: What, the Bible? Checking out the
+dialog: competition?
+speaker_heading: MUELLER
+dialog: Who are you two? What do you want
+dialog: from me?
+speaker_heading: ANORAK
+dialog: That depends.
+speaker_heading: RAINCOAT
+dialog: We're from Homeland Security.
+speaker_heading: MUELLER
+dialog: What?!
+dialog: 35
+dialog: 54.
+scene_heading: INT. KING'S COURT MOTOR LODGE ROOM - NIGHT 35
+text: Sal crushes an empty Bud can and tosses it the length of the
+text: room, missing the basket. As he grabs for a fresh one, Doc
+text: retrieves the empty and deposits it on top of the others in
+text: the plastic-lined wastebasket of the very same room they
+text: occupied the night before. Sal pops another can.
+speaker_heading: SAL
+dialog: It used to mean something. There
+dialog: used to be an esprit de corps, a
+dialog: unity, a well-earned pride, some
+dialog: goddamn common sense. I don't know
+dialog: what it means anymore.
+speaker_heading: DOC
+dialog: Fuck 'em. Fuck ‘em all.
+speaker_heading: SAL
+dialog: Fuck ‘em all! I spent the best
+dialog: years of my life defendin' this
+dialog: country.
+speaker_heading: DOC
+dialog: I think your best years are still
+dialog: ahead of you, Sal.
+speaker_heading: SAL
+dialog: Fuck you.
+speaker_heading: DOC
+dialog: It's true. It can be true.
+speaker_heading: SAL
+dialog: Will you sit the fuck down? Look at
+dialog: me - all my future is behind me. I
+text: got a scrambled brain held together
+text: with a steel plate. And they look
+dialog: at me and what do they see? A
+dialog: fuckin' terrorist!
+speaker_heading: DOC
+dialog: An apology would have been nice.
+speaker_heading: SAL
+dialog: Oh they're sorry. Sorry they didn't
+dialog: smoke our asses.
+text: A KNOCK on the door. They look at each other, like, what now?
+text: Sal eventually shrugs his shoulders and Doc cautiously opens
+text: the door. Mueller steps in and drops his bag. He stares down
+text: Sal. Sal gets off the bed he's been sitting on, Mueller's
+text: bed. He smooths it, and steps aside. Mueller lies down in his
+dialog: overcoat.
+speaker_heading: (CONTINUED)
+dialog: 55.
+speaker_heading: SAL (CONT'D)
+dialog: You forget your toothbrush?
+text: Mueller says nothing. He needs a moment. Then -
+speaker_heading: MUELLER
+dialog: I called my wife from the police
+dialog: station. The damn police station.
+dialog: Only after they decided I was not a
+dialog: Muslim radical. And not a mullah,
+text: but an old preacher named Mueller.
+text: Sal thinks this is hilarious.
+speaker_heading: SAL
+dialog: Mullah the Mauler! Its all over -
+dialog: this country's fucked.
+speaker_heading: DOC
+dialog: Was Ruth upset?
+speaker_heading: MUELLER
+dialog: Oh yeah, she wanted me to come
+dialog: right home. But I told her that
+dialog: when times demand it, even old men
+dialog: should become threats.
+speaker_heading: SAL
+dialog: (interrupting)
+dialog: Fuckin' A right it is! It's like
+dialog: during the pinko scare....
+speaker_heading: MUELLER
+dialog: (icily)
+dialog: I believe I was talking.
+text: Sal raises his hands - sorry and continue.
+speaker_heading: MUELLER (CONT'D)
+dialog: I told my wife I was not coming
+dialog: home until we were done. Where's
+dialog: your boy?
+speaker_heading: DOC
+dialog: They've got him again.
+speaker_heading: MUELLER
+dialog: Tomorrow we get him back and take
+dialog: him home.
+dialog: 56.
+scene_heading: 36 INT. KING'S COURT MOTOR LODGE DESK - MORNING 36
+text: Our three come into the lobby and are met by the Lt. Colonel
+dialog: and Washington.
+scene_heading: COLONEL WILLITS
+dialog: Good morning, gentlemen.
+speaker_heading: SAL
+dialog: What's the deal, colonel whatever
+dialog: your name is - where's Larry?
+scene_heading: COLONEL WILLITS
+dialog: Willits. Colonel Willits. I've been
+text: briefed on last night's snafu.
+dialog: Totally ridiculous, the rental
+dialog: agent apparently went off the deep
+dialog: end, but there it is and what's
+dialog: done is done.
+text: He addresses Doc.
+speaker_heading: COLONEL WILLITS (CONT'D)
+dialog: I hope, given further time for
+dialog: reflection, that you can see that
+dialog: Arlington is a resting place that
+dialog: should not be refused in anger.
+dialog: There lie heroes. The details of
+dialog: the Lance Corporal's death are what
+dialog: they are, but make no mistake: his
+dialog: death was heroic. He was in a
+dialog: foreign and hostile land doing the
+dialog: decent thing. He deserves to lie
+text: beneath the sacred soil of
+dialog: Arlington. He would want that. I
+dialog: urge you to choose that for him.
+speaker_heading: DOC
+dialog: Thank you. I'm gonna take my son
+text: home and bury him in New Hampshire.
+dialog: Not in his uniform. I'm going to
+text: bury him in his graduation suit.
+scene_heading: COLONEL WILLITS
+dialog: As you wish. Your government will
+dialog: fly the coffin, at no expense to
+dialog: you, to Portsmouth and a funeral
+dialog: director of your choice.
+speaker_heading: DOC
+dialog: No, we're taking him with us now.
+speaker_heading: (CONTINUED)
+dialog: 57.
+scene_heading: COLONEL WILLITS
+dialog: With all due respect, you're
+dialog: cutting off your nose to spite your
+dialog: face.
+speaker_heading: SAL
+dialog: Take a look at these faces. Think
+dialog: any of them care about your fuckin'
+dialog: opinions? With all due respect.
+speaker_heading: DOC
+dialog: We can go by train.
+text: They all kind of look at each other for a moment and arrive
+text: at a consensual "why not?"
+scene_heading: COLONEL WILLITS
+dialog: Okay, I'll make the arrangements.
+text: (punches out a number on
+dialog: his cell phone)
+dialog: Lance Corporal Washington here will
+dialog: be going with you.
+dialog: (in phone)
+dialog: Colonel Willits here. You are going
+dialog: to make a few things happen, ASAP.
+speaker_heading: SAL
+dialog: Hold on, Colonel, we don't need no
+text: babysitter.
+scene_heading: COLONEL WILLITS
+dialog: (in phone)
+dialog: Stand by.
+dialog: (to Sal)
+dialog: I wasn't implying you did.
+text: Washington's on TDY, escort duty.
+dialog: You don't want him, he goes right
+dialog: back to Baghdad.
+speaker_heading: DOC
+dialog: Guys?
+speaker_heading: MUELLER
+dialog: We could use the help.
+speaker_heading: SAL
+dialog: Does he pull per diem?
+scene_heading: COLONEL WILLITS
+dialog: Of course.
+text: Sal grins at Washington.
+speaker_heading: (CONTINUED)
+dialog: 37
+dialog: 58.
+speaker_heading: SAL
+dialog: Then fall in, Washington!
+dialog: (to Colonel)
+dialog: But he takes his orders from us.
+scene_heading: COLONEL WILLITS
+text: He takes his orders from ME. But,
+dialog: he will accommodate you in any
+dialog: reasonable way you ask, because I
+dialog: just ordered him to. Is that
+dialog: clear?
+speaker_heading: SAL
+dialog: Well, you're a fuckin' force of
+dialog: nature, ain't you? It would have
+dialog: been fun to run into you in the
+dialog: field in my younger days.
+scene_heading: COLONEL WILLITS
+dialog: You think so?
+speaker_heading: SAL
+dialog: One of us woulda got fragged.
+scene_heading: INT. HANGAR - MORNING 37
+text: Everybody is back at the hangar where the casket has been
+text: taken. They see six more flag-draped coffins being wheeled
+text: into the hangar. Their casket is loaded onto one carryall
+text: while the civilians pull away in another. Sal turns back to
+text: see Washington, in the distance, standing at attention with
+text: the Colonel in his face.
+scene_heading: COLONEL WILLITS
+dialog: I don't give a fuck what they say.
+dialog: The Lance Corporal is ours. He's a
+text: Marine until he goes into the
+dialog: ground, and he remains a Marine for
+text: the period he is under the ground,
+dialog: plus one hundred years. I will not
+dialog: have three over-the-hill veterans
+dialog: pissing on my corps. Is that
+dialog: understood?
+speaker_heading: WASHINGTON
+dialog: Yes, sir!
+scene_heading: COLONEL WILLITS
+dialog: You're a Marine, and your mission
+dialog: is to see your brother home. You're
+dialog: in charge, and when IN charge, TAKE
+dialog: charge. Understood?
+speaker_heading: (CONTINUED)
+dialog: 59.
+speaker_heading: WASHINGTON
+dialog: Yes, sir!
+scene_heading: COLONEL WILLITS
+dialog: There's going to be a mortuary
+dialog: affairs detail at every step of the
+dialog: trip. You will protect the dignity
+dialog: of that dead Marine, and see that
+text: he is buried with honors. In his
+text: uniform. Not in some pussy civilian
+dialog: graduation suit! Understood?
+speaker_heading: WASHINGTON
+dialog: Yes, sir!
+scene_heading: COLONEL WILLITS
+dialog: And don't let that Sal asshole
+dialog: outflank you. He's old but he's
+dialog: dangerous. Don't let that happen -
+dialog: kill him first.
+speaker_heading: WASHINGTON
+dialog: Sir?
+scene_heading: COLONEL WILLITS
+dialog: That is not an order.
+speaker_heading: WASHINGTON
+dialog: Yes, sir.
+scene_heading: COLONEL WILLITS
+dialog: And just because that crippled
+dialog: preacher reminds you of your
+dialog: father, don't trust him.
+speaker_heading: WASHINGTON
+dialog: I never knew my father, sir.
+scene_heading: COLONEL WILLITS
+dialog: Lance Corporal, do you have a
+dialog: personal problem?
+speaker_heading: WASHINGTON
+dialog: No, sir!
+scene_heading: COLONEL WILLITS
+dialog: Then get on it.
+speaker_heading: WASHINGTON
+dialog: Yes, sir!
+text: He jumps into the other carryall and it takes off.
+dialog: 38
+dialog: 39
+dialog: 60.
+scene_heading: EXT./INT. RAILROAD STATION - DAY 38
+text: Alongside the train at the Wilmington, Delaware station, the
+text: "mortuary detail" of six service members, including
+text: Washington, carry the box containing the coffin. They
+text: eventually load the container onto a cargo car. Washington
+text: stands next to it in the car and salutes, as do the other
+text: five, before walking away. Doc stands back a little as Sal
+text: chats with the attendant, JOHN REDMAN, who also saluted.
+speaker_heading: REDMAN
+dialog: I was there the first time. Gulf
+dialog: War, they called it then.
+speaker_heading: SAL
+dialog: You got back.
+speaker_heading: REDMAN
+dialog: Yeah, and I'm not pissin' blood and
+dialog: my babies are all okay. Filthy
+dialog: little war. But righteous.
+speaker_heading: SAL
+dialog: Oh yeah...
+speaker_heading: REDMAN
+dialog: Can't let the big ones swallow up
+dialog: the little ones.
+text: Redman turns to Doc and shakes his hand.
+speaker_heading: REDMAN (CONT'D)
+dialog: John Redman. Don't worry - I'll
+dialog: look after your boy.
+scene_heading: INT. TRAIN - DAY - MOVING 39
+text: Sal and Doc sit next to each other, facing Mueller, who's
+text: reading his bible. Sal watches him read.
+speaker_heading: SAL
+dialog: When did you become so old?
+speaker_heading: MUELLER
+dialog: I think it happened over the past
+dialog: thirty years. Same as you.
+speaker_heading: SAL
+dialog: I categorically deny it.
+speaker_heading: MUELLER
+dialog: You can deny it all you want to,
+dialog: but that ain't gonna stop the clock
+dialog: or turn it back.
+speaker_heading: (CONTINUED)
+dialog: 61.
+speaker_heading: SAL
+dialog: What do you make of that grunt,
+dialog: Washington?
+speaker_heading: MUELLER
+dialog: What about him?
+speaker_heading: SAL
+dialog: I don't know, he don't say much,
+dialog: him and his Baghdad boil... that's
+text: some gnarly shit.
+speaker_heading: MUELLER
+dialog: What do you want to know about him?
+speaker_heading: SAL
+dialog: I don't want to know nothin' about
+dialog: him.
+speaker_heading: MUELLER
+dialog: Sounds to me like he is an
+dialog: individual heavy on your mind.
+speaker_heading: SAL
+dialog: Nothin' heavy about it. Just
+dialog: wonderin’.
+speaker_heading: MUELLER
+dialog: Go back and talk to him, if he's
+dialog: such a mystery to you.
+speaker_heading: SAL
+dialog: Everything's a mystery to me...
+dialog: except you.
+speaker_heading: MUELLER
+dialog: Please.
+speaker_heading: SAL
+dialog: I think I'll go back and talk to
+dialog: him.
+speaker_heading: MUELLER
+dialog: I'm sure he'll enjoy that.
+speaker_heading: DOC
+dialog: Tell him he can come sit up here
+dialog: with us.
+speaker_heading: SAL
+dialog: I'll do an invite.
+dialog: 40
+dialog: 4l
+dialog: 62.
+scene_heading: INT. MEN'S ROOM - DAY - MOVING 40
+text: Alone in the restroom, Sal takes a toke on a joint, waving
+text: away the smoke.
+scene_heading: INT. CARGO CAR - DAY - MOVING 41
+text: Sal enters, slowly walking over to Washington, sitting next
+text: to the coffin.
+speaker_heading: SAL
+dialog: You're welcome.
+speaker_heading: WASHINGTON
+dialog: For what?
+speaker_heading: SAL
+dialog: Are you on a train in Baghdad? No,
+dialog: you're not.
+text: Washington just kind of nods as Sal finds a seat on some
+dialog: boxes.
+speaker_heading: SAL (CONT'D)
+dialog: TDY. Sometimes it's fun, sometimes
+dialog: it's a bitch.
+speaker_heading: WASHINGTON
+dialog: I don't mind. He was my best
+dialog: friend.
+speaker_heading: SAL
+dialog: You didn't hang with the brothers?
+text: Washington looks up at him.
+speaker_heading: WASHINGTON
+dialog: There's no rule. I just liked the
+dialog: dude. He had my back and I had his.
+dialog: He was honest, said what he
+dialog: thought. Simple, in a good way. He
+dialog: never had an attitude.
+speaker_heading: SAL
+dialog: Sounds a lot like his father.
+speaker_heading: WASHINGTON
+dialog: What about the honest part?
+speaker_heading: SAL
+text: Doc is not a dishonest man.
+speaker_heading: WASHINGTON
+dialog: What about that brig time?
+speaker_heading: (CONTINUED)
+dialog: 42
+scene_heading: EXT. /INT.
+dialog: The train
+dialog: 63.
+speaker_heading: SAL
+dialog: That could have been any of us. He
+dialog: got fucked. I know things you
+dialog: don't.
+speaker_heading: WASHINGTON
+dialog: Yes, sir.
+speaker_heading: SAL
+dialog: Doc was a lot younger than us, a
+dialog: kid, and technically he was in the
+dialog: Navy. He wanted to be our friend
+dialog: and we took advantage of it. We'd
+dialog: done him a favor and now he was
+dialog: doing one for us. But then it all
+dialog: went to shit and someone had to
+dialog: take the fall. C'mon up with us for
+dialog: a while. Redman here will look
+dialog: after your friend.
+speaker_heading: REDMAN
+dialog: No problem.
+speaker_heading: WASHINGTON
+dialog: That's all right.
+speaker_heading: SAL
+dialog: No, you have to get out of here for
+dialog: a while.
+speaker_heading: WASHINGTON
+dialog: Why?
+speaker_heading: SAL
+dialog: Come talk to Larry's father, say
+dialog: something nice.
+speaker_heading: WASHINGTON
+dialog: I don't know what I can say.
+speaker_heading: SAL
+dialog: You'll come up with something.
+scene_heading: PHILADELPHIA STATION - AFTERNOON 42
+text: pulls into the station.
+speaker_heading: CONDUCTOR (V.O.)
+dialog: Philadelphia... Arriving
+dialog: Philadelphia.
+dialog: 43
+dialog: 64.
+scene_heading: INT. TRAIN CAR - AFTERNOON 43
+text: Washington sits with the others, a bit uncomfortable. They
+text: look out the window at the people on the platform, waiting
+text: for the train, carrying shopping bags. Finally -
+speaker_heading: SAL
+dialog: Look at them.
+speaker_heading: DOC
+dialog: Who?
+speaker_heading: SAL
+dialog: Them. All the shit they bought.
+dialog: They don't have a clue.
+speaker_heading: MUELLER
+dialog: Ordinary people, out for a day of
+dialog: shopping.
+speaker_heading: SAL
+dialog: Fuckin' sheep is what they are.
+speaker_heading: WASHINGTON
+dialog: I wouldn't mind being one of them.
+speaker_heading: SAL
+dialog: Well, yeah, it's better than being
+dialog: shot at.
+speaker_heading: WASHINGTON
+dialog: Rather be fighting them over there
+dialog: than in our own backyard.
+speaker_heading: SAL
+dialog: Sound familiar?
+speaker_heading: MUELLER
+dialog: Oh yeah...
+speaker_heading: SAL
+dialog: (to Washington)
+dialog: See, we fought the commies in 'Nam
+dialog: so we wouldn't have to fight them
+text: on the beaches of Malibu.
+speaker_heading: WASHINGTON
+dialog: Guess it worked.
+dialog: (a beat)
+dialog: Marine's gotta be willing to die on
+dialog: order.
+speaker_heading: (CONTINUED)
+dialog: 65.
+speaker_heading: SAL
+dialog: Yep - that's always been the
+dialog: mission, and it's a bunch of crap.
+speaker_heading: MUELLER
+dialog: There needs to be a reason. This
+dialog: time we were told there was an
+text: imminent danger. Arsenals of
+dialog: horrible weapons... a possible
+text: mushroom cloud.
+speaker_heading: SAL
+dialog: Lies. It's always the same ol'
+dialog: shit: stay the course, if we pull
+dialog: out now, our heroes will have died
+dialog: in vain...
+speaker_heading: MUELLER
+dialog: But I want to believe in our
+dialog: leaders, I want to believe in our
+dialog: country. We're a good country.
+speaker_heading: SAL
+dialog: Yes we are, but when you catch your
+dialog: government lying to you, everything
+dialog: changes.
+text: Passengers hurry on board. The doors shut and the train pulls
+dialog: away.
+speaker_heading: SAL (CONT'D)
+dialog: So, how's the living over there?
+speaker_heading: WASHINGTON
+dialog: It's all right. They got a shopping
+text: mall out near the airport. There's
+text: a new Burger King and Pizza Hut.
+dialog: We're livin' pretty good for a
+dialog: combat zone, but they sure hate us.
+speaker_heading: SAL
+dialog: We gotta be the only occupying
+dialog: force in histroy that expects
+dialog: people to like us.
+speaker_heading: WASHINGTON
+dialog: When you go out, you never know
+dialog: what's gonna happen. But coming
+dialog: from Oakland, I'm used to people
+text: dying all of a sudden.
+speaker_heading: DOC
+dialog: Really?
+speaker_heading: (CONTINUED)
+dialog: 66.
+speaker_heading: WASHINGTON
+dialog: In high school, one of my best
+text: friends was killed by a stray
+dialog: bullet. My father was robbed on the
+text: street, and they put one in him.
+dialog: But I didn't even know who he was
+text: ‘til he turned up dead.
+speaker_heading: SAL
+dialog: Jesus, kid...
+speaker_heading: WASHINGTON
+dialog: I'm only sayin’...
+speaker_heading: SAL
+dialog: So you joined the Marines to get
+dialog: away from all that in Oakland?
+speaker_heading: WASHINGTON
+dialog: No, sir. I wanted to strengthen my
+dialog: character. It was that way with
+dialog: Larry too. We wanted to test
+dialog: ourselves, to forge ourselves into
+dialog: the men we wanted to become.
+speaker_heading: SAL
+dialog: That's what we used to think.
+dialog: Every generation has their war.
+dialog: Men make wars, and wars make men...
+dialog: Never gonna end.
+speaker_heading: MUELLER
+dialog: Maybe we need to try something
+dialog: else.
+speaker_heading: DOC
+dialog: When Larry was little, he played
+text: with toy soldiers. He dug trenches
+dialog: for them. He put them through basic
+dialog: training.
+speaker_heading: WASHINGTON
+dialog: Mr. Shepherd, Larry was where he
+dialog: wanted to be. He hated it. We all
+dialog: hate it. But it's where we were
+dialog: sent, and we'll do what we have to
+dialog: do. We signed up for it.
+speaker_heading: DOC
+dialog: He must have been embarrassed, me
+dialog: sitting out the last part of our
+dialog: war in the brig...
+speaker_heading: (CONTINUED)
+dialog: 67.
+speaker_heading: WASHINGTON
+dialog: No, sir, Larry wasn't embarrassed -
+dialog: he loved you. You know what made
+dialog: him different from most of us in
+dialog: the unit?
+speaker_heading: DOC
+dialog: What?
+speaker_heading: WASHINGTON
+dialog: He had a happy childhood.
+speaker_heading: DOC
+dialog: He said that?
+speaker_heading: WASHINGTON
+dialog: Yes, sir. He had a mother and
+dialog: father who loved him... and each
+dialog: other. Nice house to live in. Good
+dialog: food to eat. School... football...
+dialog: nice friends... on and on.
+dialog: (beat)
+dialog: Mr. Shepherd, it was my turn to get
+dialog: the Cokes. That was my bullet, not
+dialog: Larry's. I should have been the
+dialog: one...
+text: Mueller puts his hand on Washington's knee, letting him know
+dialog: it's okay and not to think like that.
+speaker_heading: DOC
+text: A gray car pulled up to the
+dialog: house... a Marine Lieutenant and a
+text: Navy chaplain. Shiny brass belt
+dialog: buckles. I kept looking at those
+text: shiny buckles. "The President has
+dialog: asked me to express his deep
+dialog: regret..." Killed in action. In
+dialog: action - nothing about shot in the
+text: back of the head buying Cokes for
+dialog: the guys. Nothing about killed
+dialog: trying to get the Baghdad school
+text: system up and running.
+text: (looks out the window,
+dialog: looks back)
+dialog: The school system in New Hampshire
+text: is in rough shape.
+dialog: (beat)
+dialog: Why wasn't Larry back in New
+dialog: Hampshire delivering stuff to our
+dialog: own schools?
+dialog: Nobody can say anything.
+speaker_heading: (CONTINUED)
+dialog: 44
+dialog: 68.
+speaker_heading: DOC (CONT'D)
+dialog: Is that a stupid question?
+scene_heading: INT. CAFE CAR - NIGHT - MOVING 44
+text: With two glasses of beer, Sal wanders from the bar over to
+text: the table where Doc and Mueller sit. Mueller has a cup of
+text: coffee, and Doc a beer. As soon as Sal sits he downs a glass
+text: in one gulp.
+speaker_heading: MUELLER
+dialog: Thirsty?
+speaker_heading: SAL
+dialog: Huh?
+speaker_heading: MUELLER
+dialog: That went down awfully fast.
+speaker_heading: SAL
+dialog: Well I'm drinking for two, now that
+dialog: you've got all old and boring.
+text: He starts to drink the other glass.
+speaker_heading: MUELLER
+dialog: Might be you're an alcoholic. I am.
+dialog: I recognized that and owned up to
+dialog: it. That's the first step.
+speaker_heading: SAL
+dialog: At least we're not drug addicts.
+speaker_heading: MUELLER
+dialog: Not anymore, praise Jesus.
+speaker_heading: SAL
+dialog: We never were.
+speaker_heading: MUELLER
+dialog: We took the shit, didn't we?
+speaker_heading: SAL
+dialog: We needed the shit.
+speaker_heading: MUELLER
+dialog: If we needed it the corps would
+dialog: have issued it to us.
+speaker_heading: SAL
+dialog: In a way they did.
+speaker_heading: (CONTINUED)
+dialog: 45
+dialog: 69.
+speaker_heading: DOC
+dialog: That shit was meant for pain. All
+dialog: drugs are.
+speaker_heading: SAL
+dialog: So what's wrong with takin 'em
+dialog: then?
+speaker_heading: MUELLER
+dialog: Morphine? It's kind of addictive.
+speaker_heading: SAL
+dialog: So's pain.
+speaker_heading: DOC
+dialog: We weren't the ones who were in
+dialog: pain, though.
+speaker_heading: SAL
+dialog: The fuck we weren't.
+speaker_heading: MUELLER
+dialog: That's a different kind of pain.
+speaker_heading: SAL
+dialog: Pain is pain.
+speaker_heading: SAL (CONT'D)
+dialog: Back from the war less than a day,
+text: his best buddy in a coffin, and all
+dialog: he's talking about is a Burger King
+text: and Pizza Hut at the shopping mall.
+speaker_heading: DOC
+dialog: He just doesn't want to talk about
+dialog: it. We never did.
+speaker_heading: MUELLER
+dialog: You asked him.
+dialog: (new thought)
+dialog: Next stop I need to call Ruth.
+speaker_heading: SAL
+dialog: You need one of those mobile
+dialog: phones. You could be talking to her
+dialog: right now. Ten year-old kids have
+dialog: ‘em. They've practically quit
+dialog: making pay phones.
+scene_heading: EXT. TRAIN - NIGHT 45
+text: As the train speeds to New York, we hear all the guys in mid-
+text: conversation. This time, however, it is revved up and
+text: boisterous.
+speaker_heading: (CONTINUED)
+dialog: 70.
+speaker_heading: MUELLER (0.S.)
+dialog: «+. So we ended up at Disneyland to
+dialog: resuscitate Doc, who was
+text: metaphorically drowning...
+scene_heading: 46 INT. CARGO CAR - NIGHT - MOVING 46
+text: The guys sit on improvised seats in the baggage car, bull-
+text: shitting.
+speaker_heading: SAL
+dialog: I got your metaphoricals -
+dialog: dangling! Stick to the story!
+speaker_heading: WASHINGTON
+dialog: Wait a minute. They got a
+dialog: Disneyland in Vietnam?
+text: Everybody laughs.
+speaker_heading: MUELLER
+dialog: That's what they called all the
+dialog: bars and houses of ill-repute that
+text: sprung up near the base.
+speaker_heading: SAL
+dialog: And it was the company fucking
+dialog: commander's doing! He's the one
+dialog: who told us to take a couple of
+dialog: days off and get Doc's ass over to
+dialog: Disneyland before he had a total
+dialog: meltdown.
+speaker_heading: DOC
+dialog: I was having some problems...
+speaker_heading: SAL
+dialog: He sure as shit was, and the
+dialog: biggest one was that it was time
+dialog: for him to get his cherry busted.
+dialog: How old were you, Washington, first
+dialog: time?
+speaker_heading: WASHINGTON
+dialog: Thirteen.
+speaker_heading: SAL
+dialog: I rest my fucking case! My point
+dialog: exactly. Doc was eighteen.
+speaker_heading: DOC
+dialog: I was nineteen.
+speaker_heading: (CONTINUED)
+dialog: 71.
+speaker_heading: SAL
+dialog: One year worse. It was time.
+speaker_heading: DOC
+dialog: No, it wasn't. The right time was
+dialog: when I met Mary, and we committed
+dialog: to each other.
+speaker_heading: MUELLER
+dialog: I think thirteen is way too early,
+dialog: too, by the way.
+speaker_heading: SAL
+dialog: Don't wreck my story. Believe me
+dialog: kid, he was ready. We killed some
+text: time in the bars then found the
+dialog: perfect little whorehouse.
+speaker_heading: WASHINGTON
+dialog: That's so uncool.
+speaker_heading: SAL
+dialog: What?
+speaker_heading: WASHINGTON
+dialog: Paying for sex. Whores and pimps...
+dialog: it's disgusting.
+speaker_heading: SAL
+dialog: Jesus, what the hell has happened
+dialog: to your basic GI?
+speaker_heading: WASHINGTON
+dialog: I just think some things shouldn't
+dialog: to be bought and sold.
+speaker_heading: DOC
+dialog: Actually, it wasn't all that bad.
+text: The others laugh. Mueller leans a little toward Washington.
+speaker_heading: MUELLER
+dialog: Jesus had not yet entered my life.
+dialog: I yielded to bad impulses.
+speaker_heading: SAL
+dialog: Yielded to 'em? You smoked ‘em,
+dialog: drank ‘em, and fucked every
+dialog: impulse! Old Mueller the Mauler
+dialog: here would get the five dollars/
+dialog: five minute special - he was like a
+dialog: jackrabbit.
+text: Sal makes a quick humping motion. Mueller fights a smile.
+speaker_heading: (CONTINUED)
+dialog: 47
+dialog: 48
+dialog: 72.
+speaker_heading: MUELLER
+dialog: Everything seems funny years later,
+dialog: but I don't care what anybody says,
+dialog: it was a dereliction of duty, pure
+dialog: and simple.
+speaker_heading: SAL
+dialog: I got your dir'liction swinging,
+dialog: you old coot!
+speaker_heading: WASHINGTON
+dialog: The whores I know, I don't want to
+dialog: be around.
+speaker_heading: DOC
+dialog: But this was like going to a
+dialog: friend's house... and then you end
+dialog: up having sex with the friend. And
+dialog: then you pay them.
+text: They laugh again. In spite of everything, they are having a
+dialog: good time... a good moment at least.
+speaker_heading: SAL
+dialog: Next day, I gotta admit, I was sick
+dialog: of hearing about that little Asian
+dialog: whore. Oh, Doc was quite proud of
+dialog: himself. Said he had a hard-on so
+dialog: big he couldn't bend his fingers or
+text: blink his eyes.
+text: Another round of big laughs.
+speaker_heading: SAL (CONT'D)
+dialog: Fuck me... God, I really miss that,
+dialog: having a boner you can hang a towel
+dialog: on. My johnson used to stand up and
+dialog: watch me shave, now it watches me
+dialog: pull up my socks.
+text: They all crack up.
+speaker_heading: MUELLER
+dialog: Don't encourage him.
+scene_heading: INT. PENN STATION - NIGHT 47
+text: The train is grinding to a stop in Penn Station.
+scene_heading: EXT. 8TH AVENUE - NIGHT 48
+text: Our three walk downtown, away from the station. Sal takes a
+text: deep breath.
+speaker_heading: (CONTINUED)
+dialog: 49
+dialog: 73.
+speaker_heading: SAL
+dialog: New York, New fucking York.
+speaker_heading: MUELLER
+dialog: Let's not wander too far.
+speaker_heading: SAL
+text: Just far enough to find the first
+dialog: Blarney Stone.
+text: Which is right across the street. Sal turns and goes inside.
+text: The others have no choice but to follow.
+scene_heading: INT. BLARNEY STONE - NIGHT 49
+text: They sit at the bar. Sal has escalated to a shot and a beer.
+text: Mueller has a ginger ale; Doc, a beer.
+speaker_heading: MUELLER
+dialog: How much time do we have?
+speaker_heading: SAL
+dialog: Enjoy, old man. It's the Big Apple.
+dialog: We got the time.
+speaker_heading: MUELLER
+dialog: I have to call my wife.
+speaker_heading: SAL
+dialog: See? Again, you need a fuckin'
+dialog: wireless telephone. You could sit
+dialog: right here and dial her up and you
+dialog: wouldn't have to get off the stool
+dialog: and hobble the full length of this
+dialog: place and have to stand on your
+text: feet next to the shitter just to
+dialog: say, "I miss you, dear, I hope you
+dialog: still love me, even though I used
+dialog: to fuck whores."
+text: Though on his way, Mueller swings his cane around toward
+text: Sal's head, just missing as Sal ducks.
+speaker_heading: SAL (CONT'D)
+dialog: I'm still too quick for you,
+dialog: floatin' like a butterfly.
+text: Mueller continues on as Sal waves to the bartender.
+speaker_heading: SAL (CONT'D)
+dialog: One more, please, before Grandpa
+text: Moses gets back.
+speaker_heading: (CONTINUED)
+dialog: 74.
+text: The bartender pours another shot. Doc takes some money out of
+text: his brown envelope.
+speaker_heading: SAL (CONT'D)
+dialog: Drink up. Here's to duty and honor.
+text: Sal knocks back the shot.
+speaker_heading: DOC
+dialog: I guess it woulda been an honor,
+dialog: the whole Arlington thing.
+speaker_heading: SAL
+dialog: Sometimes the real honor is turning
+dialog: down the honor.
+speaker_heading: DOC
+dialog: Wouldn't you be honored?
+speaker_heading: SAL
+dialog: Don't matter to me. Drop me
+dialog: anywhere. You know what I put down
+dialog: when I have to write who to notify
+dialog: in case of emergency?
+speaker_heading: DOC
+dialog: Your lady friend?
+speaker_heading: SAL
+dialog: County coroner.
+text: 50 LATER - Mueller has rejoined the group. 50
+speaker_heading: SAL (CONT'D)
+dialog: Request permission to have another,
+dialog: sir?
+speaker_heading: MUELLER
+dialog: Ain't nobody gonna tell you you
+dialog: can't have a drink. Someday you're
+dialog: gonna have to tell yourself.
+text: Sal signals the bartender to pour another.
+speaker_heading: SAL
+dialog: Barkeep, I'm gonna have just one
+dialog: more drink... and then I'm gonna
+dialog: have another.
+speaker_heading: MUELLER
+dialog: You have a drinking problem.
+speaker_heading: (CONTINUED)
+dialog: 75.
+speaker_heading: SAL
+dialog: No problem, really. I think I got
+dialog: it down.
+dialog: (offers toast)
+dialog: Born in pain, live in fear, die
+dialog: alone.
+text: He chugs it.
+speaker_heading: MUELLER
+dialog: Could you be any more Irish right
+dialog: now?
+speaker_heading: SAL
+dialog: Nope, though my mom was half
+dialog: Italian. I got the best of both -
+dialog: I'm an Irish drinker and an Italian
+dialog: lover.
+text: Doc has been watching the TV above the bar. It's the same
+text: footage of Saddam getting his physical exam, along with other
+text: shots, like the picture of his two sons displayed after they
+dialog: were killed.
+speaker_heading: DOC
+dialog: I lost one, he lost two.
+speaker_heading: SAL
+dialog: I guess he thought it was worth it.
+speaker_heading: DOC
+dialog: It wasn't worth it. Not to me.
+text: Now George Bush Jr. is on the TV, giving an interview.
+speaker_heading: DOC (CONT'D)
+dialog: Would it be worth his twin
+dialog: daughters? He's got twins, right?
+speaker_heading: SAL
+dialog: Who? The cheerleader?
+text: Sal gets up and goes over to the bartender.
+speaker_heading: DOC
+dialog: Who?
+speaker_heading: MUELLER
+dialog: He was a cheerleader in college.
+speaker_heading: DOC
+dialog: Would it be worth their lives?
+dialog: Even one of ‘em?
+speaker_heading: (CONTINUED)
+dialog: 76.
+speaker_heading: MUELLER
+dialog: Good luck gettin' that answered.
+scene_heading: 51 EXT. BLARNEY STONE - NIGHT 51
+text: The three of them come out, Sal and Doc none too steady. They
+dialog: go in one direction, stop to get their bearings, then go in
+text: another direction. Sal spots a phone shop across the street
+text: and attempts to cross in the middle. Mueller hooks him with
+text: his cane and pulls him back.
+scene_heading: 52 INT. PHONE SHOP - NIGHT 52
+text: An overwhelming display of hi-tech. A CLERK is helping them.
+speaker_heading: SAL
+dialog: How many minutes do I get again?
+speaker_heading: CLERK
+dialog: On this plan, five hundred.
+speaker_heading: SAL
+dialog: Every month?
+speaker_heading: CLERK
+dialog: Will that be enough?
+speaker_heading: SAL
+dialog: Enough? How can anybody talk for
+dialog: more than five hundred minutes a
+dialog: month on a fuckin' telephone?
+speaker_heading: MUELLER
+dialog: We're gonna miss our train, sure as
+dialog: God made little green apples.
+text: With a flourish, Sal slaps his MasterCard on the counter.
+speaker_heading: SAL
+dialog: This goes through, you got a sale
+dialog: young lady, and I go hi-tech.
+text: 53 LATER - as Sal signs the papers... 53
+speaker_heading: CLERK
+dialog: You can call other people who use
+dialog: this same plan and it won't count
+dialog: against your minutes.
+speaker_heading: SAL
+dialog: Get out. Now, that's a helluva
+dialog: deal.
+speaker_heading: (CONTINUED)
+dialog: 77.
+speaker_heading: MUELLER
+dialog: What do you care? Who do you know
+dialog: on this plan?
+speaker_heading: SAL
+dialog: You two fuckers! Get you some
+dialog: phones, right now.
+speaker_heading: MUELLER
+dialog: Don't need one, don't want one.
+speaker_heading: DOC
+dialog: I wouldn't mind having one, to tell
+dialog: you the truth. I've often thought
+dialog: about it.
+speaker_heading: SAL
+dialog: Done! Barkeep, a couple phones for
+dialog: my partners here.
+speaker_heading: DOC
+dialog: So he and I can talk anytime, even
+dialog: though he's in Norfolk and I'm in
+dialog: New Hampshire and it don't cost us
+dialog: nothing, right?
+speaker_heading: CLERK
+dialog: That's the deal.
+speaker_heading: DOC
+dialog: C'mon, Mueller. With three-way
+dialog: calling and all we can talk to each
+dialog: other at the same time.
+speaker_heading: MUELLER
+dialog: Well, we're doing that right now,
+dialog: aren't we?
+speaker_heading: DOC
+dialog: C'mon, Mueller.
+speaker_heading: MUELLER
+dialog: What if I don't like it? Now I've
+dialog: got a contract for two years?
+speaker_heading: SAL
+dialog: What if you fall down? A real
+dialog: possibility with your gimpy knee.
+dialog: And you're in a ditch, and you
+text: can't get up, and nobody can see
+dialog: you, and it starts to rain, and the
+dialog: ditch fills up with water? Looks
+dialog: like you're gonna drown. Farewell,
+dialog: old Reverend Mueller.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 54
+dialog: 78.
+speaker_heading: SAL (CONT'D)
+dialog: Ah, but with your wireless phone
+dialog: you can call for help.
+speaker_heading: CLERK
+dialog: And 9-1-1 calls do not count
+dialog: against your minutes.
+text: Mueller looks like he is weakening.
+speaker_heading: SAL
+dialog: Sold!
+scene_heading: EXT. 35TH STREET - NIGHT 54
+text: Sal hurries on ahead of the other two, dialing a number on
+text: his new phone. He ducks into an enclave off the street and is
+text: momentarily out of sight. Mueller's phone rings and he
+text: fumbles to answer.
+speaker_heading: MUELLER
+dialog: Hello?
+speaker_heading: SAL
+dialog: (disguised voice)
+dialog: Is this Reverend Mueller?
+speaker_heading: MUELLER
+dialog: What?
+speaker_heading: SAL
+dialog: This is God. It don't count
+dialog: against your minutes to talk with
+dialog: me.
+text: They've now caught up with Sal, who emerges with a big smile
+text: on his face.
+speaker_heading: MUELLER
+dialog: Don't be burning my minutes with
+dialog: foolishness.
+text: He hangs up.
+speaker_heading: DOC
+text: Call Redman back on the train.
+text: They once again fall into pace together as Sal dials.
+speaker_heading: SAL
+dialog: (in phone)
+dialog: Hey, Redman, guess who this is!
+dialog: Right!
+dialog: (holds phone against
+dialog: chest)
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+speaker_heading: SAL (CONT'D)
+dialog: 79.
+dialog: He knew it was me. Listen up, John,
+dialog: I'm calling you on my new
+dialog: wireless...
+dialog: (to Doc)
+dialog: What's my phone number?
+speaker_heading: DOC
+text: It's in the display.
+speaker_heading: SAL
+dialog: What display? There's no number
+speaker_heading: DOC
+dialog: It comes on when you turn on the
+dialog: phone.
+text: Sal turns it off and on. He takes a pen out of his pocket and
+text: writes the number on his palm.
+speaker_heading: SAL
+dialog: John? Shit, I lost him.
+speaker_heading: DOC
+dialog: Well, you hung up on him.
+speaker_heading: SAL
+dialog: Shit.
+speaker_heading: MUELLER
+dialog: You don't even know how to use
+dialog: thing.
+text: He dials again.
+speaker_heading: SAL
+dialog: John Redman, sorry about that.
+dialog: (beat)
+dialog: What? Oh.
+speaker_heading: DOC
+dialog: What's he saying?
+speaker_heading: SAL
+text: They're on their way to Boston.
+speaker_heading: DOC
+dialog: The train's left without us?
+speaker_heading: MUELLER
+dialog: Well, that's just outstanding.
+dialog: warned your ass.
+dialog: that
+dialog: I
+speaker_heading: (CONTINUED)
+dialog: 55
+dialog: 56
+dialog: 80.
+speaker_heading: SAL
+dialog: We'll catch the next one. Redman
+dialog: says they'll wait for us.
+scene_heading: INT. PENN STATION - NIGHT 55
+text: The three of them seem to be wandering in different
+text: directions, getting information. Finally they come together.
+speaker_heading: SAL
+dialog: Good news. We can catch the
+dialog: express, right to Boston.
+speaker_heading: MUELLER
+dialog: When?
+speaker_heading: SAL
+dialog: Seven a.m.
+speaker_heading: DOC
+dialog: Oh, jeez...
+text: Mueller gives Sal a withering look.
+scene_heading: INT. BAR - NIGHT 56
+text: They're having dinner at the bar. Sal has his phone on the
+text: bar. Mueller has put Doc between them. The bartender switches
+text: the TV to a basketball game.
+speaker_heading: SAL
+dialog: Oh look, a show on black history.
+dialog: Is it that month already?
+speaker_heading: MUELLER
+dialog: Very funny.
+text: Back on the game, a player steals the ball, breaks away and
+text: goes airborne. He stuffs it.
+speaker_heading: SAL
+dialog: Let me point out something to you.
+dialog: The butt-ugliest shot in basketball
+dialog: is the slam dunk. What does it
+dialog: mean, anyway? What does it say
+dialog: about the dude who stuffs it?
+speaker_heading: DOC
+dialog: That he's pretty darn tall.
+speaker_heading: (CONTINUED)
+dialog: 81.
+speaker_heading: SAL
+dialog: Dudes were tall before. They didn't
+dialog: go around hammerin' the ball
+dialog: through the hoop every time down
+text: the court. Ugly fuckin' shot and
+dialog: now they're stuck with it. Hangin'
+dialog: on the hoop, all that shit. Now,
+dialog: you take the fade-away jump shot;
+text: aman is covered, fenced away from
+text: the basket, he goes up, drops back,
+text: arcs that puppy over the defense.
+dialog: Beautiful. Elegant. Earl-the-Pearl
+dialog: skillful.
+speaker_heading: DOC
+dialog: Free throws are what win or lose
+dialog: the game.
+speaker_heading: SAL
+dialog: Well, but they interrupt the
+dialog: fucking action. They're boring and
+dialog: there are too many of them. You're
+dialog: not supposed to be bangin' into
+dialog: each other. Fouls should be
+dialog: shameful, but, fuck, there ain't no
+dialog: shame anywhere anymore.
+speaker_heading: MUELLER
+dialog: Look who's talking. Have you ever
+dialog: been ashamed about anything? Ever
+dialog: in your life?
+speaker_heading: SAL
+dialog: Only once.
+text: They fall silent, then resume their meal.
+speaker_heading: SAL (CONT'D)
+dialog: Boston was where he was from.
+text: He expects someone to say something but no one does.
+speaker_heading: SAL (CONT'D)
+dialog: I'm checking to see if he's got any
+text: family still there.
+speaker_heading: DOC
+dialog: Why?
+speaker_heading: MUELLER
+text: Because he's drunk.
+speaker_heading: SAL
+dialog: What does that have to do with it?
+speaker_heading: (CONTINUED)
+dialog: 82.
+speaker_heading: MUELLER
+dialog: This happen every time you drink?
+speaker_heading: SAL
+dialog: Pretty much.
+speaker_heading: MUELLER
+dialog: Then don't drink.
+speaker_heading: SAL
+dialog: It's what I got instead of God.
+speaker_heading: MUELLER
+dialog: Okay, I get it. I found God, Doc
+dialog: did his time, and you got drunk.
+speaker_heading: SAL
+dialog: And maybe he got the best of the
+dialog: deal.
+speaker_heading: MUELLER
+dialog: He was gonna die anyway, Sal.
+speaker_heading: SAL
+dialog: But he didn't have to suffer. Not
+dialog: that much anyway.
+speaker_heading: DOC
+dialog: Jimmy Hightower! We can't even say
+dialog: his name. We all feel guilty about
+dialog: how he suffered as he was dying,
+dialog: but did it ever occur to you that
+dialog: Maybe nobody would have been shot
+dialog: at all, and everyone would still be
+dialog: alive if we'd all been doing our
+dialog: jobs instead of fuckin' around?
+scene_heading: 57 EXT. PENN STATION - NIGHT 57
+text: They make their way back to Penn Station.
+speaker_heading: MUELLER
+dialog: Now we only got, what, three more
+dialog: hours to wait.
+speaker_heading: SAL
+text: On the town - two old jarheads and
+text: a chicken of the sea.
+speaker_heading: DOC
+dialog: Only we ain't dancing.
+speaker_heading: SAL
+dialog: Fuck, we're hardly hobbling.
+speaker_heading: (CONTINUED)
+dialog: 83.
+text: Even Mueller has to smile.
+text: Suddenly we hear the odd electronic tones of Raindrops Keep
+text: Falling on My Head. Sal jumps, spins around. The music is
+text: coming from his chest.
+speaker_heading: SAL (CONT'D)
+dialog: The fuck...!?
+speaker_heading: MUELLER
+dialog: It's your fancy new phone.
+speaker_heading: SAL
+dialog: It does that?
+speaker_heading: DOC
+dialog: Answer it, Sal. It must be John
+dialog: Redman.
+text: Sal digs the phone out of his pocket.
+speaker_heading: SAL
+dialog: (answering)
+dialog: Hello?
+speaker_heading: FEMALE PHONE VOICE (0.S.)
+dialog: (with Indian accent)
+dialog: Mr. Nealon...?
+speaker_heading: SAL
+dialog: Yeah.
+speaker_heading: FEMALE PHONE VOICE (0.S.)
+dialog: My name is Sharon. How are you this
+dialog: evening, Mr. Nealon?
+speaker_heading: SAL
+dialog: Not all that great, frankly.
+speaker_heading: FEMALE PHONE VOICE (0.S.)
+dialog: I'm sorry to hear that. I wanted to
+dialog: let you know that my manager will
+dialog: be in your area in the next few
+dialog: days and would love to show you how
+dialog: to make a twelve to twenty percent
+dialog: return by investing in
+dialog: international market funds.
+speaker_heading: SAL
+dialog: Wait a minute... I don't even know
+dialog: my own fuckin' number, how the hell
+dialog: did you get it?
+speaker_heading: (CONTINUED)
+dialog: 58
+dialog: 59
+dialog: 84.
+speaker_heading: FEMALE PHONE VOICE (0.S.)
+dialog: Have I called at an inconvenient
+dialog: time?
+speaker_heading: SAL
+dialog: What do you think, bitch?
+text: He makes like he is going to throw the phone across the
+text: street, then smiles and tucks it away.
+scene_heading: INT. PENN STATION - EARLY MORNING 58
+text: As the place comes to life, our three pull their aching bones
+text: off the benches and try to wake up.
+scene_heading: INT. TRAIN #2 - MORNING - MOVING 59
+text: On the way to Boston, the three of them are half-asleep. Doc
+text: stares out of the window.
+speaker_heading: DOC
+dialog: What were their names?
+speaker_heading: SAL
+dialog: Who?
+speaker_heading: DOC
+dialog: His sons. Saddam's. The ones they
+text: shot up and put on display like it
+dialog: was the old Wild West.
+speaker_heading: SAL
+dialog: Fuck, Doc, it's too early in the
+dialog: day.
+speaker_heading: DOC
+dialog: I was just thinking.
+speaker_heading: SAL
+dialog: I don't know. Weird-ass A-rab
+dialog: names. Hugo and Queasy, like that.
+speaker_heading: MUELLER
+dialog: They were named Uday and Qusay.
+dialog: Fairly simple names.
+speaker_heading: SAL
+dialog: Sure, if you're used to Leteesha
+dialog: and Kuamme.
+speaker_heading: MUELLER
+dialog: You're a racist as well as an
+dialog: alcoholic.
+speaker_heading: (CONTINUED)
+dialog: 85.
+speaker_heading: SAL
+dialog: You forgot sexist. Fair to
+dialog: everybody. What did you name your
+dialog: kids?
+speaker_heading: MUELLER
+text: Otis and Sally.
+speaker_heading: SAL
+dialog: Now that's nice. A kid should
+dialog: always be able to spell his own
+dialog: name. Named her after me, didn't
+dialog: you? Sally.
+speaker_heading: MUELLER
+dialog: Say what?
+speaker_heading: SAL
+dialog: After old Sal. I ever have a kid
+dialog: I'll name him after you, Dick.
+dialog: First he'll be little Dick, then
+dialog: he'll grow up to be big Dick.
+speaker_heading: DOC
+dialog: What if it was a girl?
+speaker_heading: MUELLER
+dialog: Look at him, Doc. Even if he had
+dialog: any left swimming in him, what
+dialog: woman of childbearing age is gonna
+dialog: spread her legs for him?
+speaker_heading: SAL
+dialog: Your Sally, if you'll make the
+dialog: introductions.
+text: Sal once again jumps out of range of Mueller's cane.
+speaker_heading: MUELLER
+dialog: I swear I'm gonna brain you, I
+dialog: don't care if there's already a
+dialog: plate in your head. I'll put
+dialog: another one ‘em there.
+speaker_heading: SAL
+dialog: Seriously though, padre, can I ask
+dialog: you a personal question?
+speaker_heading: MUELLER
+dialog: No.
+speaker_heading: SAL
+dialog: How come you married a black woman?
+speaker_heading: (CONTINUED)
+dialog: 86.
+speaker_heading: MUELLER
+dialog: What?!
+speaker_heading: SAL
+dialog: Don't you tell me you never had a
+dialog: white woman. It was the 70s.
+speaker_heading: MUELLER
+dialog: As I recall, white dudes finally
+dialog: admitted having an eye for black
+dialog: women .
+speaker_heading: SAL
+dialog: Oh, yeah, I'm gaga for the sisters
+dialog: myself. And they dig me too. Well,
+dialog: a couple of ‘em did... fora
+dialog: time... then I'd say somethin'
+dialog: stupid.
+speaker_heading: MUELLER
+dialog: No, you? Say something stupid to a
+dialog: black person?
+speaker_heading: SAL
+dialog: ‘Course I had a couple bouts of
+dialog: yellow fever too... and always did
+dialog: have a sweet tooth for the Latin
+dialog: babes. I got nothin' against white
+dialog: women, mind you. They're okay, some
+dialog: of ‘em. But we were talkin' about
+dialog: you marrying a black woman.
+speaker_heading: MUELLER
+dialog: First of all, who I married is none
+dialog: of your business.
+speaker_heading: SAL
+dialog: That's why I'm being so polite
+dialog: about it.
+speaker_heading: MUELLER
+dialog: I'll tell you why. God told me to.
+speaker_heading: SAL
+dialog: Whoa. To marry a black girl?
+speaker_heading: MUELLER
+dialog: No, to marry Ruth.
+speaker_heading: SAL
+dialog: He told you that?
+speaker_heading: MUELLER
+dialog: He did.
+speaker_heading: (CONTINUED)
+dialog: 87.
+speaker_heading: SAL
+dialog: Like He told the Reverend Pat
+dialog: Robertson who was gonna win the
+dialog: election?
+speaker_heading: MUELLER
+text: Pat Robertson is a complete phony.
+speaker_heading: SAL
+dialog: How come God never talks to me?
+speaker_heading: MUELLER
+dialog: Because you can't listen. And he
+dialog: doesn't talk to Pat Robertson
+dialog: either.
+speaker_heading: SAL
+dialog: But He does talk to you?
+speaker_heading: MUELLER
+dialog: I didn't say that. I said He told
+dialog: me to marry Ruth and be a decent
+dialog: man and to preach the word.
+speaker_heading: SAL
+dialog: So he does speak to you.
+speaker_heading: MUELLER
+dialog: He didn't talk to me in words. He
+dialog: touched my heart.
+speaker_heading: DOC
+dialog: Maybe it was Ruth who touched your
+dialog: heart.
+speaker_heading: MUELLER
+dialog: Oh, it was. It was God through
+dialog: Ruth. I was down and out, and I
+dialog: didn't care about nothing. A
+text: recovering alcoholic with shot up
+dialog: legs. Then one day I found Jesus...
+speaker_heading: SAL
+dialog: Where was that, bump into him on
+dialog: the street?
+speaker_heading: MUELLER
+dialog: In my heart, the only place you can
+dialog: find Him. I went down there like
+dialog: it was a scary cave, which in a way
+text: it was, a dark, unexplored place.
+speaker_heading: (MORE )
+speaker_heading: (CONTINUED)
+dialog: 60
+dialog: 88.
+speaker_heading: MUELLER (CONT'D)
+dialog: Went down afraid and alone, came
+text: back up fearless and with Jesus at
+dialog: my side. Next Sunday I took myself
+dialog: to church...
+speaker_heading: SAL
+dialog: Hallelujah! And there was Ruth.
+speaker_heading: MUELLER
+dialog: Right there, and everything came
+dialog: together for me.
+speaker_heading: DOC
+dialog: That's a beautiful story.
+speaker_heading: SAL
+dialog: Sorry the fuck I asked.
+dialog: (beat)
+dialog: If God wants to keep holdin' out on
+dialog: me, I get it. But would it kill
+dialog: Him to pat me on the shoulder or
+dialog: shake my hand like a man? And if
+dialog: he'd also like to deliver a nice
+dialog: black girl with a great ass, so
+dialog: much the better.
+scene_heading: EXT. BOSTON STATION - DAY 60
+text: Walking just outside the Boston train station, Sal is in
+text: front of the other two, talking on his cell phone.
+speaker_heading: DOC
+dialog: What's he up to?
+speaker_heading: MUELLER
+text: Look at him wheeling and dealing...
+text: Mr. Cellular Phone.
+text: Sal hears them talking about him and turns toward them, still
+text: on the phone.
+speaker_heading: SAL
+dialog: (to Doc and Mueller)
+dialog: We've got an errand to run.
+speaker_heading: DOC
+dialog: We got enough time?
+speaker_heading: SAL
+dialog: Sure.
+speaker_heading: (CONTINUED)
+speaker_heading: A60
+dialog: 61
+dialog: 89.
+speaker_heading: MUELLER
+dialog: (simultaneous)
+dialog: No.
+speaker_heading: SAL
+dialog: I'm on with Redman. He and
+dialog: Washington just got to New
+dialog: Hampshire. We'll see ‘em there.
+dialog: (to Redman)
+dialog: We'll see you there.
+text: He closes his phone.
+scene_heading: INT. DOVER, NH STATION - DAY A60
+text: Redman closes his phone and walks back over to the baggage
+text: car, where Washington and 5 other service members are
+text: starting to carry the box containing the coffin. Redman
+text: salutes as they walk away.
+dialog: We follow the mortuary affairs detail through the
+text: baggage/storage area of the train station and down an
+text: elevator to the loading dock where a hearse, and the funeral
+text: director LELAND await.
+scene_heading: INT. TAXI - DAY - MOVING 61
+text: The taxi is driven by a turbaned driver.
+speaker_heading: MUELLER
+dialog: She's been living with it all these
+dialog: years. What good's it gonna do her?
+speaker_heading: SAL
+dialog: We're long overdue, the way I
+dialog: figure. She ought to know the truth
+dialog: and we ought to be men enough to
+dialog: say it.
+speaker_heading: MUELLER
+dialog: How'd you find her?
+speaker_heading: SAL
+dialog: I got O'Toole to call his
+dialog: granddaughter and have her look it
+dialog: up for us on the world wide web.
+speaker_heading: DOC
+dialog: What can we possibly say to her?
+speaker_heading: SAL
+dialog: The truth. If it'd a been me, I'd
+dialog: want the other guys to go see my
+dialog: family.
+speaker_heading: (CONTINUED)
+dialog: 62
+dialog: 63
+dialog: 90.
+speaker_heading: MUELLER
+dialog: Where is your family?
+speaker_heading: SAL
+dialog: They're all dead. I think I have a
+text: cousin left, in Scranton.
+text: The cab pulls up to a small house. They look at the place but
+dialog: say nothing.
+scene_heading: EXT. HIGHTOWER HOUSE - DAY 62
+text: At the door: Mueller knocks with his cane. They wait. He
+text: knocks again.
+speaker_heading: DOC
+dialog: Maybe nobody lives here anymore,
+dialog: maybe.
+text: The door opens, revealing a woman in her 80s. She is wary.
+scene_heading: MRS. HIGHTOWER
+dialog: Yes?
+text: None of them seems able to speak.
+scene_heading: INT. LIVING ROOM - DAY 63
+text: Some time later, they're all sitting around in the living
+text: room. Mrs. Hightower directs them through a series of framed
+text: pictures and Christmas card photos that they pass around.
+scene_heading: MRS. HIGHTOWER
+dialog: This was the last picture we ever
+dialog: got from Jimmy. And this is Jimmy's
+text: little girl all grown up.
+speaker_heading: DOC
+dialog: So, how old was she when he died?
+scene_heading: MRS. HIGHTOWER
+text: Four months old. Her mom eventually
+dialog: remarried and they moved to San
+dialog: Diego. Here's my great-grandkids.
+speaker_heading: MUELLER
+dialog: Look at that. He'd be a
+dialog: grandfather.
+scene_heading: MRS. HIGHTOWER
+dialog: I've never met them in person, but
+dialog: they call every now and then. So
+dialog: you three were with my Jimmy?
+speaker_heading: (CONTINUED)
+dialog: 91.
+text: The old woman stares at him blankly.
+speaker_heading: SAL
+dialog: Yes ma'am. We'd already fought us
+dialog: a long year, and most of us were
+dialog: still breathing. But that
+dialog: extension... that four more months
+dialog: they added on... some of us
+dialog: couldn't handle it, and, I think we
+dialog: didn't all...
+scene_heading: MRS. HIGHTOWER
+dialog: What was it all for?
+speaker_heading: SAL
+dialog: They said they knew, and we
+dialog: believed them. But now... we just
+dialog: came here to tell you what
+dialog: happened.
+scene_heading: MRS. HIGHTOWER
+dialog: Are you some of the men he saved?
+text: Sal is just frozen. Doc and Mueller look at him wondering
+dialog: how he's going to respond.
+speaker_heading: MRS. HIGHTOWER (CONT'D)
+dialog: Thry told me he saved three or four
+dialog: of his buddies, before...
+speaker_heading: SAL
+dialog: Yes ma'am. We are.
+speaker_heading: MUELLER
+dialog: He was a great guy, Jimmy.
+speaker_heading: DOC
+dialog: Yeah, we've never forgotten him.
+speaker_heading: MUELLER
+dialog: That's why we're here, ma'am. We
+dialog: owe him.
+speaker_heading: SAL
+dialog: We just wanted to come by and pay
+dialog: our respects.
+speaker_heading: MUELLER
+dialog: Let you know he's still in our
+dialog: hearts.
+scene_heading: MRS. HIGHTOWER
+dialog: That is so sweet of you boys. I
+dialog: can't thank you enough.
+dialog: 64
+dialog: 65
+dialog: 66
+dialog: 67
+dialog: 92.
+scene_heading: EXT. HIGHTOWER HOUSE - DAY 64
+text: The door opens as they exit. Sal gets the last hug in.
+speaker_heading: SAL
+dialog: Take care of yourself.
+scene_heading: MRS. HIGHTOWER
+dialog: This makes my week. Please come
+dialog: back anytime.
+speaker_heading: DOC
+dialog: Thank you, ma'am.
+speaker_heading: MUELLER
+dialog: Bless you, Mrs. Hightower.
+scene_heading: MRS. HIGHTOWER
+dialog: You boys be careful out there.
+speaker_heading: SAL
+dialog: We will.
+scene_heading: INT. TRAIN #3 - LATE AFTERNOON - MOVING 65
+text: They sit in silence, not saying much. Even Sal stares out
+text: the window at the sunset.
+scene_heading: EXT. DOVER, NH STATION - NIGHT 66
+text: Washington waits for them, next to a hearse and Leland.
+scene_heading: INT. FUNERAL HOME LIMO - NIGHT - MOVING 67
+text: Washington sits next to Leland. In the back seat are Sal, Doc
+text: and Mueller. Outside the window are shells of abandoned
+text: plants and factories, lying idle. Sal just stares out the
+dialog: window.
+speaker_heading: SAL
+dialog: Looks like things used to get made
+dialog: here.
+speaker_heading: LELAND
+dialog: Used to.
+speaker_heading: SAL
+dialog: Even morticians better watch out -
+dialog: they might be outsourcing
+dialog: undertakin' next.
+speaker_heading: (CONTINUED)
+dialog: 68
+dialog: 69
+dialog: 93.
+speaker_heading: LELAND
+dialog: Never happen - American funeral
+dialog: directors are the best in the
+dialog: world.
+text: Sal mutters a monologue... not that anyone is much listening
+dialog: at this point.
+speaker_heading: SAL
+dialog: So were the American factories. We
+dialog: could make anything, quality stuff.
+dialog: That's how we won two world wars.
+dialog: Don't be surprised if somebody
+dialog: figures out that it's cheaper to
+dialog: ship a body to Mexico and back than
+dialog: to do it up here. They'll ship it
+dialog: to China or India once they figure
+dialog: out it'll save 'em a buck. Don't
+dialog: matter how good you are.
+dialog: (new mumbly thought)
+dialog: Just a matter of time till they
+text: start outsourcing soldiering.
+dialog: Hell, get a bunch of starving young
+dialog: people from all over the world, put
+dialog: ‘em in a uniform and tell ‘em to
+dialog: try to stay alive. When their tour
+dialog: is over we ship 'em back to where
+dialog: they came from... no VA hospitals,
+dialog: or pensions. You lost an arm? You
+dialog: got PTSD? Tough shit, we're
+dialog: flushing you down...
+scene_heading: EXT. DOC'S HOUSE - NIGHT 68
+text: The limo pulls into the driveway. As the others get out, Sal
+text: quickly goes to the nearest bush in the yard to pee.
+speaker_heading: MUELLER
+dialog: If you had any more manners, you'd
+dialog: be a dog.
+text: Sal continues peeing, emphasizing his relief.
+speaker_heading: SAL
+dialog: Now I'm seeing God.
+scene_heading: INT. DOC'S HOUSE - NIGHT 69
+text: In the small, dark den, embers glow in the fireplace.
+text: Washington lies awake on the sofa.
+dialog: 70
+dialog: 71
+dialog: 94,
+scene_heading: INT. DOC'S ROOM - NIGHT 70
+text: Mueller lies awake. He can't help but notice the pictures of
+text: Doc and his wife, Larry Jr, etc. Actually, it feels like
+text: Mary still lives there. It seems Doc's barely touched
+dialog: anything since last January.
+scene_heading: INT. LARRY'S BEDROOM - NIGHT 71
+text: Sal is laying on a trundle bed, pulled out from under Larry's
+text: bed, where Doc rests. The room is lit by moonlight. Now an
+text: as-he-left-it shrine to Larry, they're surrounded by the
+text: various photos of family and friends, sports mementoes, music
+dialog: posters, etc.
+speaker_heading: SAL
+dialog: You gonna want to stay on here,
+dialog: alone?
+speaker_heading: DOC
+dialog: I don't know - haven't thought much
+dialog: about it.
+speaker_heading: SAL
+dialog: Portsmouth? The brig right there.
+dialog: You might want to try another
+text: place. A fresh start.
+speaker_heading: DOC
+dialog: But Larry would be here. Mary, too.
+speaker_heading: SAL
+dialog: You could always come visit. You
+dialog: got close friends here?
+speaker_heading: DOC
+text: Not too many. Not too close.
+text: His voice trails, he's falling asleep. Sal jabs him in the
+dialog: ribs.
+speaker_heading: DOC (CONT'D)
+dialog: What?
+speaker_heading: SAL
+dialog: Move to Norfolk. You could work in
+dialog: my bar.
+speaker_heading: DOC
+dialog: I never worked in a bar before.
+speaker_heading: SAL
+dialog: Trust me - it ain't that hard.
+speaker_heading: (CONTINUED)
+dialog: 95.
+speaker_heading: DOC
+dialog: Your place don't seem all that
+dialog: busy.
+speaker_heading: SAL
+dialog: That's my fault. I let it go. It
+dialog: needs new blood. We could get the
+dialog: grill part going again. I need a
+dialog: partner.
+speaker_heading: DOC
+dialog: A partner?
+speaker_heading: SAL
+dialog: Yeah. The bar'd be half yours, and
+dialog: when I bite it, it'll be all yours.
+speaker_heading: DOC
+dialog: Sal... you don't owe me nothing.
+speaker_heading: SAL
+dialog: This ain't paying off no debt. I
+dialog: really do need a partner, and I got
+dialog: nobody to leave the place to. You
+dialog: could stay with me for a while, but
+dialog: then you'd have to find your own
+dialog: place, 'cause I like to pursue the
+dialog: ladies and, frankly, you'd cramp my
+dialog: style.
+speaker_heading: SAL (CONT'D)
+dialog: You thinkin' about it?
+speaker_heading: DOC
+dialog: I am. I'm picturing it. It's kinda
+dialog: funny.
+speaker_heading: SAL
+dialog: Might be time for another BCD in
+dialog: your life.
+text: Doc smiles.
+speaker_heading: DOC
+dialog: Better career decision...
+speaker_heading: SAL
+dialog: Yeah, and if nothin' else, it might
+dialog: be fun. What's wrong with that?
+dialog: 72
+scene_heading: INT. DOC'S HOUSE —- MORNING
+text: Sal, Mueller and Washington are in the kitchen having
+text: Sal punches some numbers in his cell phone, waits for
+dialog: answer.
+speaker_heading: MUELLER
+dialog: You purely love that thing, don't
+dialog: you?
+speaker_heading: SAL
+dialog: I can't get that fucker O'Toole to
+dialog: answer. The place could be burned
+dialog: down for all I know.
+text: He puts the phone away. Doc comes in with a suit ona
+dialog: hangar.
+speaker_heading: DOC
+text: Larry's graduation suit.
+speaker_heading: WASHINGTON
+text: Looks a little small.
+speaker_heading: DOC
+dialog: You think?
+speaker_heading: WASHINGTON
+dialog: Yes, sir. Larry bulked up. That's
+dialog: gonna be way too tight on him.
+speaker_heading: DOC
+dialog: I guess I could go down to Penny's
+dialog: and buy him something new.
+speaker_heading: WASHINGTON
+dialog: We still got his dress blues.
+speaker_heading: MUELLER
+dialog: Remember how we used to call the
+dialog: dress blues the tuxedo? By law you
+dialog: could go to any formal function
+dialog: wearing that uniform.
+speaker_heading: SAL
+dialog: Not that we ever got invited to
+dialog: one... or would have gone if we
+dialog: did.
+speaker_heading: MUELLER
+dialog: Still, it was good to know you were
+dialog: always dressed for any occasion.
+dialog: 96.
+dialog: 72
+dialog: coffee.
+dialog: an
+speaker_heading: (CONTINUED)
+dialog: 97.
+speaker_heading: SAL
+dialog: No one ever forgets the first time
+dialog: you put it on and looked at
+dialog: yourself in the mirror - I'm in the
+dialog: U.S. Marine Corps, and I look
+dialog: pretty fuckin' good.
+speaker_heading: MUELLER
+dialog: I do remember that feeling.
+speaker_heading: WASHINGTON
+dialog: Yes, sir. I'm glad to know you
+dialog: never forget it.
+speaker_heading: MUELLER
+text: Larry must have looked sharp.
+speaker_heading: DOC
+dialog: He did. He was proud as a peacock
+dialog: in that uniform.
+speaker_heading: WASHINGTON
+dialog: I know that for a fact.
+speaker_heading: SAL
+dialog: Pride is the thing.
+dialog: (to Mueller)
+dialog: It's no sin.
+speaker_heading: MUELLER
+dialog: No, of course not. Not that kind.
+speaker_heading: DOC
+dialog: I could bury him in his dress
+dialog: uniform, even if.
+speaker_heading: SAL
+dialog: Yeah. It means you did something.
+dialog: You served. Fuck what the
+dialog: politicians did, you served. You
+dialog: didn't weasel out of it. You didn't
+dialog: think it was somebody else's job.
+dialog: You took it on, man, and you looked
+dialog: sharp doing it.
+speaker_heading: DOC
+dialog: I'm gonna. I'm gonna bury him in
+text: his uniform.
+speaker_heading: MUELLER
+dialog: Good.
+speaker_heading: WASHINGTON
+dialog: Never regret it, sir.
+speaker_heading: (CONTINUED)
+dialog: 73
+dialog: 74
+dialog: 98.
+speaker_heading: SAL
+dialog: Fuckin' A.
+scene_heading: EXT. FUNERAL HOME - MORNING 73
+text: Establishing shot.
+scene_heading: INT. FUNERAL HOME - MORNING 74
+text: Doc is in the background, talking to Leland about various
+text: details. Washington, forever on duty, stands next to the
+text: coffin. In the foyer, Sal and Mueller sit on opposing
+text: benches, waiting for Doc. Sal is studying Mueller, looking at
+text: him over his folded arms.
+speaker_heading: MUELLER
+dialog: Why're you looking at me like that?
+speaker_heading: SAL
+dialog: I'm sizin' you up. I'm gonna buy
+dialog: you a new suit of clothes.
+speaker_heading: MUELLER
+dialog: Say what?
+speaker_heading: SAL
+dialog: I'm gonna dress you up for the
+dialog: occasion.
+speaker_heading: MUELLER
+dialog: Why, may I ask?
+speaker_heading: SAL
+dialog: Because I love you.
+speaker_heading: MUELLER
+dialog: I don't need a new suit of clothes.
+dialog: It's you needs some grooming.
+speaker_heading: SAL
+text: Neither of us is properly dressed.
+dialog: But we will be, you watch.
+speaker_heading: MUELLER
+dialog: The things that come into your
+dialog: head. And out of your mouth.
+speaker_heading: SAL
+dialog: The loving you thing rattled you,
+dialog: didn't it, old man?
+speaker_heading: MUELLER
+dialog: It's very disturbing.
+dialog: 75
+dialog: 76
+dialog: 77
+dialog: 99.
+scene_heading: INT. LARRY'S ROOM - DAY 75
+text: In close-ups: The ritual of a Marine putting on his uniform.
+text: Then we see it is Sal... and Mueller... putting on uniforms
+text: complete with the proper insignias.
+speaker_heading: SAL
+dialog: Did I deliver or did I deliver?
+speaker_heading: MUELLER
+dialog: The dude gave you these for
+dialog: nothing?
+speaker_heading: SAL
+dialog: On loan. Tailor-mades. Once I told
+dialog: him why, no charge.
+text: Now they each don the hats, positioning them just right.
+text: Looking good. Doc comes inside and is stopped cold. He looks
+text: at them, speechless. A flood of memories engulfs them all.
+scene_heading: EXT. GRAVESIDE - DAY 76
+text: Mueller's cane leans against an empty folding chair. Doc sits
+text: at the next chair. Friends and classmates of Larry have
+text: gathered behind him. Next to the graveside is the headstone
+text: of Doc's wife. Mueller stands at the head of the grave. Sal
+text: at the foot, in their dress uniforms. On the other side,
+text: Washington stands at attention as the minister backs away.
+text: They salute. Ceremonially, Sal and Mueller fold the flag into
+text: twelve tight triangular folds. Mueller takes Washington's arm
+text: and Sal carries the flag over to Doc. Sal then holds out the
+text: flag to Doc, whose eyes are red, his lower lip is quivering.
+speaker_heading: SAL
+dialog: Doc, I don't know how grateful the
+dialog: nation is... or how much the
+dialog: President might regret your loss
+dialog: and all that... but here it is,
+dialog: your country's flag.
+speaker_heading: MUELLER
+dialog: Put it somewhere and let it remind
+dialog: you of what your son must have felt
+text: in his heart.
+text: Doc nods.
+scene_heading: INT. DOC'S HOUSE - DAY 77
+text: The post-funeral meal. A buffet is set up. The crowd of
+text: mostly young people mills about and speaks in soft tones.
+text: Sal, still in uniform, has a young pretty YOUNG WOMAN
+text: cornered.
+speaker_heading: (CONTINUED)
+dialog: 100.
+speaker_heading: SAL
+dialog: Well... technically speaking I'm no
+dialog: longer on active duty... but if I
+dialog: was, well, look at me. Could you
+dialog: resist all this?
+speaker_heading: GIRL
+dialog: It'd be hard.
+scene_heading: 78 INT. LAUNDRY ROOM - DAY 78
+text: Washington pulls down a pair of skivvies drying on a line in
+text: the shower. He folds them and puts them into his AWOL bag.
+text: The corner of an envelope is visible in a zippered pocket of
+text: the bag. He takes it out. Guilt-stricken. He sits on the
+text: toilet, looking at the sealed envelope.
+scene_heading: 79 EXT. BACK PORCH - DAY 79
+text: Doc and Washington. Doc holds the envelope.
+speaker_heading: WASHINGTON
+dialog: Everybody wrote one, sir. I gave
+dialog: mine to Larry, he gave his to me.
+speaker_heading: DOC
+dialog: What does it say?
+speaker_heading: WASHINGTON
+dialog: I don't know, sir.
+speaker_heading: DOC
+dialog: What did yours say?
+speaker_heading: WASHINGTON
+dialog: (beat)
+dialog: I forget.
+text: They look at each other. Washington finally lowers his head.
+scene_heading: 80 INT. HOUSE - DAY 80
+text: Mueller approaches Sal and the girl.
+speaker_heading: MUELLER
+dialog: You have to come with me.
+speaker_heading: SAL
+dialog: I'm in the middle of something,
+dialog: padre.
+speaker_heading: GIRL
+dialog: Bye, Sarge, nice talking to you.
+speaker_heading: (CONTINUED)
+dialog: 81
+dialog: 101.
+text: She goes. He watches her longingly as she blends into the
+text: group. He sighs.
+speaker_heading: SAL
+dialog: Remember how it used to be?
+scene_heading: EXT. BACK PORCH - DAY 81
+text: Doc is sitting on his back porch. Mueller sits across from
+text: him while Sal is still standing.
+speaker_heading: SAL
+dialog: You gotta open it, Doc.
+speaker_heading: MUELLER
+dialog: He wanted you to have it, so...
+text: Doc looks from one to the other. He opens the envelope,
+text: unfolds the letter.
+text: As Doc reads silently, we soon see a series of images and we
+text: hear his son Larry's voice. On a shelf in the living room we
+text: pan through a series of photos on display: Larry Junior as a
+text: kid, and in his graduation suit. Mary, a smiling Larry and
+text: Larry Junior, a happy family portrait. The folded flag from
+dialog: the funeral.
+speaker_heading: LARRY{V.O.)
+dialog: Dear Dad. If you are reading this,
+dialog: then you've been notified. I was
+dialog: always prepared to sacrifice my
+dialog: life for my country. You have to be
+dialog: ready to die defending what you
+dialog: love. I need you to understand that
+dialog: I am honored to die in this way.
+dialog: Don't feel bad that my life was so
+dialog: short. It was a good life. I know
+dialog: you never wanted me to join the
+dialog: Marines, but you supported me even
+dialog: so. I had the greatest father and I
+dialog: love you. Now I am with mom. We
+dialog: will both watch over you. Dad, I
+dialog: want you to bury me in my uniform,
+dialog: next to Mom. Your loving son,
+dialog: Larry.
+text: Sal is now sitting next to Mueller. Doc looks up at them,
+dialog: saying nothing.
+speaker_heading: FADE OUT.
+dialog: 
