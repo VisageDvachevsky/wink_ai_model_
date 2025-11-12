@@ -1,0 +1,536 @@
+dialog: 
+dialog: Apt Pupil
+dialog: by
+dialog: Brandon Boyce
+dialog: Based on the novel by:
+dialog: Stephen King
+scene_heading: PRODUCTION DRAFT #4A
+dialog: 4/25/96 rev.
+speaker_heading: FADE IN:
+text: Through the window of a moving vehicle, we see a series of
+text: small, middle-class houses. This could be any suburban street
+dialog: in America.
+scene_heading: INT. CITY BUS - DAY
+text: A boy is seated near the back of a moving bus. This is TODD
+text: BOWDEN, 15, as All-American as they come. He stares out at the
+text: other passengers indifferently. Then something catches his eye.
+scene_heading: EXT. RESIDENTIAL STREET - SANTO DONATO - DAY
+scene_heading: TITLE: SANTO DONATO, CA FEBRUARY 1984
+text: Todd pedals his bike down a quiet street and pulls up to an
+text: unassuming bungalow set far back on its lot. This is the kind
+dialog: of house one would hardly notice driving through the peaceful
+text: suburban community of Santo Donato. Todd gets off his bike and
+text: heads up the front steps. On the way, he bends down to pick up
+dialog: the L.A. Times.
+text: Two signs, in laminated plastic, are secured neatly above the
+text: door bell. The first reads: "ARTHUR DENKER". The second reads:
+text: "NO SOLICITORS, NO PEDDLERS, NO SALESMEN".
+text: Todd RINGS the bell. Nothing. He looks at his watch. It is
+text: twelve past ten. He RINGS again, this time longer. Still
+text: nothing. Finally, Todd leans on the tiny button, staring at his
+text: watch as he does so. After more than a minute of SOLID RINGING,
+text: a voice is heard from within.
+speaker_heading: DUSSANDER (O.S.)
+dialog: All right. All right. I'm coming. Let it
+dialog: go!
+text: Todd lets go as a chain behind the heavy door starts to rattle.
+text: Then it opens. An old man stands behind the screen. He is KURT
+text: DUSSANDER, a.k.a. Arthur Denker. Mid-seventies. Standing there
+text: in his bathrobe and slippers, a cigarette smashed in his mouth,
+text: he looks like a cross between Boris Karloff and Albert Einstein.
+text: Dussander stares at Todd, who tries to speak, but suddenly
+dialog: cannot.
+speaker_heading: DUSSANDER
+dialog: (continuing)
+dialog: A boy. I don't need anything, boy. Can't
+dialog: you read? I thought all American boys could
+dialog: read. Don't be a nuisance, now. Good day.
+text: The door begins to close. Todd waits till the last moment
+text: before speaking.
+speaker_heading: TODD
+dialog: Don't forget your paper, Mr. Dussander.
+text: The door stops. Dussander opens it slowly. He unlatches the
+text: screen and slips his fingers around the paper. Todd does not
+dialog: let go.
+speaker_heading: DUSSANDER
+dialog: Give me my newspaper.
+speaker_heading: TODD
+dialog: Sure thing, Mr. Dussander.
+text: Dussander snatches the paper away and closes the screen door.
+text: Quickly, almost imperceptibly, the old man's eyes survey the
+text: area: across the street, up and down the sidewalk, the boy's
+dialog: bicycle.
+speaker_heading: DUSSANDER
+dialog: My name is Denker. See?
+dialog: (pointing)
+dialog: Denker. Perhaps you cannot read after all.
+dialog: What a pity. Good day.
+text: As the front door closes, Todd speaks rapidly into the narrowing gap.
+speaker_heading: TODD
+dialog: Bergen-Belsen, January '43 to June '43.
+dialog: Auschwitz, June '43 to June '44. Then you
+dialog: went to Patin.
+text: The door stops, still partly open.
+speaker_heading: TODD (CONT'D)
+dialog: After the war, you escaped to Buenos Aires.
+dialog: From 1950 to '52 you were in Cuba, and
+dialog: then... From 1952 to '58... I don't know. No
+dialog: one does. But in 1965, you popped up in West
+dialog: Berlin, where they almost got you.
+text: The door opens wider.
+speaker_heading: DUSSANDER
+dialog: Listen, boy. I don't know what is the matter
+dialog: with you. But I don't have time for this
+dialog: game. Now, get out of here before I call the
+dialog: police.
+speaker_heading: TODD
+dialog: Call them if you want.
+speaker_heading: DUSSANDER
+dialog: Fine.
+text: The heavy door slams shut.
+speaker_heading: TODD
+dialog: It's okay by me Herr Kommandant. I'm sure
+dialog: the police would love to meet the "Blood-
+dialog: fiend of Patin."
+text: In a flash the front door is open, so is the screen. Dussander
+text: is through the doorway and descending upon Todd with the rolled
+text: umbrella raised to strike him. Todd stumbles back against the
+text: porch rail.
+speaker_heading: DUSSANDER
+dialog: You get away from this house, God damn you!
+dialog: I'll beat you all the way home.
+text: But Todd regains his composure quickly. He brushes himself off
+text: and levels his eyes at the old man who now hardly seems the
+text: threat he was a few seconds ago.
+speaker_heading: TODD
+dialog: After 1965, no one saw you again... Until I
+dialog: did. Three weeks ago on the downtown bus. If
+dialog: you want to call the cops, go right ahead.
+dialog: I'II wait on the steps.
+speaker_heading: DUSSANDER
+dialog: You'll do no such thing.
+speaker_heading: TODD
+dialog: I won't? Listen, old man, if I want to start
+dialog: screaming right here, I will. If I want to
+dialog: ride down to the police station and bring the
+dialog: cops back myself, then I will. I will do
+dialog: what ever I want. Do you understand?
+dialog: (pause)
+dialog: But if you like, I could come in for a
+dialog: minute. We could talk.
+dialog: Pause.
+speaker_heading: DUSSANDER
+dialog: I'd be out of my mind to let an insane boy
+dialog: like you into my home.
+dialog: Pause.
+speaker_heading: DUSSANDER (CONT'D)
+dialog: Is that what you want, to come into my home?
+dialog: So be it. There is no arguing with crazy
+dialog: people.
+text: Dussander turns and steps back through the screen door. He
+text: stops at the threshold of the house and turns. He is holding
+text: the screen door open with one leg, the front door open with the
+text: other. He looks straight ahead. A moment later, Todd steps
+text: into the house.
+scene_heading: INT. DUSSANDER'S HOUSE - DAY
+text: Dussander's home is what you would expect of a single, poor, old
+text: man. Nothing fancy, nothing out of the ordinary. Todd looks
+text: around, perhaps half-expecting to find a Nazi flag or an oil
+text: painting of Der Fuehrer hanging above the mantle. But he
+text: doesn't, and moves into the living room where an old picture of
+text: a woman sits framed on an end table.
+speaker_heading: DUSSANDER
+dialog: My wife. She died in 1955 of lung disease.
+dialog: At that time I was working at the Menschler
+dialog: Motor Works in Essen. I was heartbroken.
+text: Todd's attention drifts away and his fingers slip over to a
+text: lampshade next to the photograph. He begins to feel it as
+text: though he were inspecting it for something.
+speaker_heading: DUSSANDER (CONT'D)
+dialog: Stop that!
+text: Todd jumps back a little but then recovers.
+speaker_heading: TODD
+dialog: Tell me, wasn't it Ilse Koch who made the
+dialog: lampshades out of human skin?
+speaker_heading: DUSSANDER
+dialog: Now I don't know what you're talking about.
+speaker_heading: TODD
+dialog: Sure you do, Mr. Dussander.
+speaker_heading: DUSSANDER
+dialog: Denker. Denker. Denker. You don't listen,
+dialog: boy. The television has fried your brain.
+dialog: Pause.
+speaker_heading: TODD
+dialog: Your hands are shaking.
+speaker_heading: DUSSANDER
+dialog: Yes, they're shaking. I'm old. We all
+dialog: shake. You are most tiresome, and rude. Now
+dialog: if you have a point I wish you'd come to it.
+speaker_heading: TODD
+dialog: We're in no rush. If I thought you had
+dialog: plans, I'd say cancel them, but since I know
+dialog: you don't...
+speaker_heading: DUSSANDER
+dialog: You know nothing of my business --
+speaker_heading: TODD
+dialog: What business? You sit in that ugly chair
+dialog: and watch soap operas all day. Except on
+dialog: Friday afternoons when you walk down to the
+dialog: movie theater. And twice a week you take the
+dialog: bus downtown to do your shopping. You always
+dialog: use the express lane because you never have
+dialog: more than ten items.
+speaker_heading: DUSSANDER
+dialog: You have been following me?
+speaker_heading: TODD
+dialog: Of course, I followed you. You think I
+dialog: normally go around to peoples' houses and
+dialog: accuse them of being Nazi fugitives?
+speaker_heading: DUSSANDER
+dialog: Perhaps for me you made an exception.
+speaker_heading: TODD
+dialog: No, for you I had to be sure. For Kurt
+dialog: Dussander I had to be absolutely certain.
+dialog: ...Now, I am, and that's why I'm here.
+text: Todd sits on the sofa.
+speaker_heading: DUSSANDER
+dialog: Oh, yes, I see now. As I am this ex-Nazi
+dialog: fellow, as you say, then this must be the
+dialog: part where I offer you my hidden stash of
+text: gold, taken from the mouths of old Jewish
+dialog: men, of course, which I keep buried in the
+dialog: basement. Isn't that right, boy? Well, I'm
+dialog: afraid you're wasting your time. I have no
+dialog: money. If I did I might even give you some
+dialog: just to be done with this nonsense.
+speaker_heading: TODD
+dialog: I don't need money. You don't have any
+dialog: anyway. At least, I don't think so. You
+dialog: probably had to spend it all to sneak in the
+dialog: country. A good American passport is
+dialog: expensive on the black market, that I know.
+speaker_heading: DUSSANDER
+dialog: Do you? Good for you.
+speaker_heading: TODD
+dialog: Yes, I do. I know it all, Dussander. You're
+dialog: my One Great Interest.
+speaker_heading: DUSSANDER
+dialog: Your what?
+speaker_heading: TODD
+dialog: My One Great Interest. Well, not you
+dialog: personally, but, ...well, it's something I
+dialog: learned back in eighth grade. Our teacher,
+dialog: Miss Harmon, she said we'd have to find our
+dialog: One Great Interest in life. You know, the
+dialog: thing that would really grab us. Once we did
+dialog: that, everything would fall into place. Like
+dialog: hers, she said, wasn't teaching, but
+dialog: collecting nineteenth-century postcards. I
+dialog: guess there's no money in that, so she has to
+dialog: be a teacher. Anyway, she told us to start
+dialog: thinking about it. So I did, but nothing
+dialog: happened. Until the following summer, in
+dialog: Ronny Pegler's garage. That's where I found
+dialog: it.
+scene_heading: INT. RONNY PEGLER'S GARAGE - DAY
+text: Todd and RONNY, both 13, rummage through several large boxes in
+text: the corner of the garage. We see that the boxes are filled with
+text: old war magazines. Ronny tosses several of them to the ground
+text: as he digs for his dad's old copies of Penthouse. Ronny selects
+text: one Penthouse and rifles through it. He discards it a moment
+dialog: later.
+speaker_heading: RONNY
+text: One of these has three girls doing it <i>at the
+dialog: same time</i>.
+text: But the old war magazines catch Todd's attention. He picks one
+text: up curiously and carefully flips through the tattered pages. We
+text: see a few of the photographs: Nazi storm troopers, prisoners
+text: behind barbed wire, the ovens.
+speaker_heading: RONNY (CONT'D)
+dialog: I got it! Check this out. ...Todd, look.
+speaker_heading: TODD
+dialog: Hang on a sec.
+text: As young Todd stares into this secret world, his voice comes
+dialog: in...
+speaker_heading: TODD (CONT'D)
+dialog: It was all there... pictures of stuff I'd
+dialog: never seen, stuff they <i>never</i> put in the books
+dialog: anymore, especially the ones they give us to
+dialog: read. And here were <i>stacks</i> of them.
+scene_heading: INT. DUSSANDER'S LIVING ROOM - DAY
+text: Todd speaks excitedly. Dussander, very bored, clearly indulges
+dialog: him.
+speaker_heading: TODD
+dialog: It... <i>grabbed</i> me. It was just like Miss
+dialog: Harmon said. I couldn't believe it. But
+dialog: there it was, the camps, the uniforms, the
+dialog: ...the way they saluted each other. But what
+dialog: am I telling you for? You know more about
+dialog: this stuff than anybody.
+speaker_heading: DUSSANDER
+dialog: Yes, what are you telling me for?
+speaker_heading: TODD
+dialog: (ignoring him)
+dialog: Then last year I wrote my big term paper on
+dialog: Dachau. I got an A+. It was the only A+ she
+dialog: gave. I mean I always do real well. A's on
+dialog: everything. That's why I'm accelerated.
+speaker_heading: DUSSANDER
+dialog: Accelerated?
+speaker_heading: TODD
+dialog: You know, accelerated. I skipped two grades,
+dialog: second and ninth. I didn't need them.
+dialog: That's why I'm already a junior.
+text: Dussander sits.
+speaker_heading: DUSSANDER
+dialog: I see...
+speaker_heading: TODD
+dialog: Some kids resent me for it. That's not
+dialog: important. Anyway, my paper really floored
+dialog: my history teacher. I guess because I got
+dialog: through all those books without throwing up.
+dialog: But I learned something. I learned that when
+dialog: you talk about the camps now, you have to
+dialog: remember to sound really disgusted. I mean,
+dialog: you can't just say what happened like the
+dialog: magazines did and leave it at that. If I
+dialog: tried that the teacher would have freaked and
+dialog: called my parents in.
+scene_heading: INT. RONNY PEGLER'S GARAGE - DUSK
+text: Todd sits on one of the boxes surrounded by dozens of the old
+text: magazines. The door to the house opens and Ronny, looking
+text: cross, pokes his head out.
+speaker_heading: RONNY
+dialog: Todd, your mom's on the phone. She says you
+dialog: have to come home for dinner. ...Todd?
+text: Todd, lost in the sea of old photographs, doesn't notice Ronny
+text: at first. Then he looks up at him. In his eyes is a glint of a
+dialog: darkness that we will come to know better.
+speaker_heading: TODD
+dialog: What?
+speaker_heading: RONNY
+dialog: (suddenly wary of Todd)
+dialog: Your mom's on the phone.
+text: ANGLE on Todd.
+scene_heading: INT. DUSSANDER'S LIVING ROOM - DAY
+speaker_heading: TODD
+dialog: Nowadays you have to... soften it.
+speaker_heading: DUSSANDER
+dialog: Why do I care about this?
+speaker_heading: TODD
+dialog: Because, I don't want it softened.
+text: Todd hops up and begins to pace the floor. Dussander stares at
+text: him blankly, unsure of where this is going.
+speaker_heading: DUSSANDER
+dialog: I am sure you trouble your parents to no end.
+speaker_heading: TODD
+dialog: Actually, I'm pretty low maintenance. That's
+dialog: what my dad says.
+speaker_heading: DUSSANDER
+dialog: You told your parents about me, then?
+speaker_heading: TODD
+dialog: You think I'm crazy?
+speaker_heading: DUSSANDER
+dialog: I think you're crackers, but go on. I'm
+text: riveted.
+text: Todd looks deep into Dussander's eyes. Dussander is
+text: uncomfortable. Slowly, Todd reaches out and brushes his finger
+text: against Dussander's hand. Dussander gets up.
+speaker_heading: DUSSANDER (CONT'D)
+dialog: What are you doing?
+dialog: Pause.
+speaker_heading: TODD
+dialog: And then it happened... I was on my way to
+dialog: the library. It was raining...
+scene_heading: FLASHBACK: INT. CITY BUS - DAY
+text: Todd's voice narrates what we are seeing. Todd, seated near the
+text: back of the bus, watches Dussander climb aboard. Todd thinks
+text: nothing of it at first, but soon finds that he is unable to take
+text: his eyes off him. Todd is trying to place the old man's face in
+dialog: his mind...
+speaker_heading: TODD (V.O.)
+dialog: You climbed on the bus and started this slow
+dialog: walk down the aisle. Just like you were
+dialog: examining a new batch of inmates. I don't
+dialog: think anybody gave you a second glance but
+dialog: me, but somehow ...people seemed to move out
+dialog: of your way. And under your arm you carried
+text: a rolled up umbrella. But what really did
+dialog: it, what really set me off was the coat. You
+dialog: were wearing this long black rain coat. My
+text: mind suddenly flipped back to a picture of
+dialog: you taken at Patin. You in your S.S.
+dialog: greatcoat with a riding crop under your arm.
+scene_heading: INT. DUSSANDER'S LIVING ROOM - DAY
+speaker_heading: TODD
+dialog: It was incredible.
+text: Dussander stares back at him flatly.
+speaker_heading: DUSSANDER
+dialog: All of this... because of a rain coat?
+speaker_heading: TODD
+text: Well, it wasn't <i>that</i> easy. I mean, I had to
+dialog: really check up on it. And every picture of
+dialog: you in those books is forty years old, at
+dialog: least. I went back to the library to find
+dialog: the picture. And then I matched it with the
+dialog: photos I took.
+speaker_heading: DUSSANDER
+dialog: You took photographs of me?
+speaker_heading: TODD
+dialog: Yeah, I got this little camera. Fits right
+text: in the palm of my hand.
+speaker_heading: DUSSANDER
+dialog: (crunches cigarette into ashtray)
+dialog: Clever boy.
+speaker_heading: TODD
+dialog: But even then I couldn't be sure. I needed
+dialog: real proof. So I went to the mall and bought
+text: a fingerprint kit from the hobby shop and a
+dialog: book that tells you what you're supposed to
+dialog: look for and then dusted your mailbox while
+dialog: you were at the movies. Pretty smart, huh?
+speaker_heading: DUSSANDER
+dialog: You... put dust on my mailbox? For
+dialog: fingerprints? You took photographs of me?
+dialog: What else did you do?... I don't believe any
+dialog: of this.
+speaker_heading: TODD
+dialog: I already had a copy of your fingerprints.
+dialog: They're on your want sheet from the Israeli
+text: government. It's on database at UC Irvine.
+dialog: Can you believe that?
+speaker_heading: DUSSANDER
+dialog: Bourbon.
+text: He storms toward the kitchen and stops.
+speaker_heading: DUSSANDER (CONT'D)
+dialog: Would you care for a drink, boy?
+speaker_heading: TODD
+dialog: Sure, you got a Coke?
+speaker_heading: DUSSANDER
+dialog: No <i>Kok</i>.
+speaker_heading: TODD
+dialog: Milk?
+speaker_heading: DUSSANDER
+dialog: Milk.
+text: Dussander disappears into the kitchen. Todd stands alone in the
+dialog: living room.
+text: He lets out a long, nervous breath, showing for the first time
+text: the presence of something other than the cold confidence he has
+text: been putting up for Dussander. He knows he has crossed into
+text: dangerous territory from which there is no going back. But
+text: after a moment he composes himself; he has come this far. The
+text: sternness returns to his eyes. Todd is all business. He takes
+text: a breath, and then speaks loudly enough for Dussander to hear
+text: him in the kitchen.
+speaker_heading: TODD
+dialog: It takes eight good matches, they're called
+dialog: compares, actually, for a fingerprint to get
+dialog: accepted in court.
+speaker_heading: DUSSANDER (O.S.)
+dialog: Is that right?
+scene_heading: FLASHBACK: EXT. DUSSANDER'S FRONT PORCH - DAY
+text: Todd steps up onto the porch and looks around calmly. He pulls
+text: the powder and brush from his pocket and begins to examine the
+dialog: mailbox for prints.
+speaker_heading: TODD (V.O.)
+dialog: Yeah, there were two sets of prints. The
+dialog: first I figured were the mailman's. Once I
+dialog: knew what I was looking for, yours were easy
+dialog: to spot.
+scene_heading: INT. DUSSANDER'S LIVING ROOM - DAY
+speaker_heading: DUSSANDER (O.S.)
+dialog: You should be a detective.
+text: The SOUNDS of a refrigerator opening and closing come from the
+text: kitchen. Drinks being poured. Todd begins to move slowly
+text: toward the kitchen.
+speaker_heading: TODD
+dialog: Maybe I will... Mom thinks I'd be good at it.
+scene_heading: INT. DUSSANDER'S KITCHEN - DAY
+text: He reaches the doorway just as Dussander turns around with the drinks.
+speaker_heading: TODD
+dialog: I found fourteen compares.
+text: Dussander approaches him carrying a tumbler of milk and a glass
+text: of bourbon. He hands the tumbler to Todd, who brings it up to
+text: his lips and hesitates.
+speaker_heading: TODD (CONT'D)
+dialog: You have some.
+speaker_heading: DUSSANDER
+dialog: Good <i>Gott</i>.
+text: He snatches the cup and swallows twice.
+speaker_heading: DUSSANDER (CONT'D)
+dialog: You see? It's milk, boy. From Dairylee
+text: Farms. On the carton is a picture of a
+text: smiling cow.
+text: Todd pauses and then begins to drink.
+speaker_heading: DUSSANDER (CONT'D)
+dialog: (more to himself than Todd)
+dialog: ...And two missing children.
+dialog: (pause)
+dialog: Boy what you have done, I have to explain
+dialog: this to you because clearly you don't
+dialog: understand, what you have done is a
+dialog: violation.
+speaker_heading: TODD
+dialog: A violation?
+speaker_heading: DUSSANDER
+dialog: Yes.
+speaker_heading: TODD
+dialog: Kind of like those experiments with the
+dialog: decompression chamber. Now, that was a
+dialog: violation, Dussander.
+speaker_heading: DUSSANDER
+dialog: That fucking name. Enough of that. I demand
+dialog: it.
+speaker_heading: TODD
+dialog: You what?
+speaker_heading: DUSSANDER
+dialog: I demand --
+speaker_heading: TODD
+dialog: You demand nothing from me. Ever. Get it?
+dialog: Pause.
+speaker_heading: DUSSANDER
+dialog: Boy, I will tell you this once more, and for
+dialog: the last time. My name is Arthur Denker. It
+dialog: has never been anything else. It has never
+dialog: even been Americanized. If you must know,
+dialog: and apparently you must, I was named by my
+dialog: father who greatly admired the stories of
+dialog: Arthur Conan Doyle. I did serve in the
+dialog: reserves, I admit, and in the late thirties,
+dialog: when I was first married, I supported Hitler.
+dialog: I supported him most, I suppose, because for
+dialog: the first time in years there was work and
+dialog: there was tobacco. ...Would you like a
+dialog: cigarette?
+speaker_heading: TODD
+dialog: No. My dad used to smoke. Mom made him
+dialog: quit. Now he's addicted to Nicorette...
+dialog: that's nicotine gum.
+text: Dussander turns toward the counter and pulls a kitchen match
+text: from a cabinet. He lights his cigarette with his back to Todd.
+speaker_heading: DUSSANDER
+dialog: Nicotine gum.
+text: Dussander's eyes drift to the collection of kitchen knives
+text: neatly stuffed in their block on the counter in front of him.
+text: He lingers a moment, pulls deeply on the cigarette, then turns
+text: and continues.
+speaker_heading: DUSSANDER (CONT'D)
+dialog: Anyway, Hitler lost his mind at the end,
+text: directing phantom armies at the whim of his
+dialog: astrologer. He even gave his dog, Blondi, a
+dialog: death capsule. On May 2nd, 1945, my regiment
+dialog: surrendered to the Americans. I remember
+dialog: that a private named Gonzales gave me a
+dialog: chocolate bar. I wept.
+text: Bored, Todd sinks into a chair at the table.
+speaker_heading: DUSSANDER (CONT'D)
+dialog: I was interned at Essen where I was treated
+dialog: very well. We listened to the Nuremberg
+dialog: trials on the radio and when Goering
+dialog: committed suicide, I bought half a bottle of
+dialog: schnaps and got drunk. When I was released,
+dialog: I put wheels on cars at the Essen Motor Works
+dialog: until I retired in 1963. In 1967 I emigrated
+dialog: here, to California, and became a U.S.
+dialog: Citizen. I am as American as you are. I
+dialog: vote. No Buenos Aires, no Berlin, no <i>koo-ba</i>

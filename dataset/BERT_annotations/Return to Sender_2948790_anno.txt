@@ -1,0 +1,3765 @@
+dialog: 
+speaker_heading: RETURN TO ME
+scene_heading: BODY { background-color: "#FFFFFF"; font-family: Courier New, Helvetica, sans-serif; font-size:10.0pt }
+dialog: DIV { position:absolute; left:5px; top:20px; width:734px; height:500px; }
+dialog: #loc { font-family:Courier New; font-size:10.0pt; font-weight: normal;margin-top:0in; margin-right:1.2in; margin-bottom:0in;
+dialog: margin-left:0.8in;text-transform:uppercase }
+dialog: #slug { font-size:10.0pt;
+dialog: font-family:Courier New;
+dialog: font-weight: normal;
+dialog: margin-top:0in;
+dialog: margin-right:1.2in;
+dialog: margin-bottom:0in;
+dialog: margin-left:0.8in;
+dialog: text-transform:uppercase;
+dialog: 
+dialog: }
+dialog: #act {font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.8in; margin-bottom:0in;
+dialog: margin-left:0.8in }
+dialog: #speaker {font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.in; margin-bottom:0in;
+dialog: margin-left:2.8in;text-transform:uppercase }
+dialog: #spkdir { font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.7in; margin-bottom:0in;
+dialog: margin-left:2.2in }
+dialog: #dia {font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.6in; margin-bottom:0in;
+dialog: margin-left:1.6in }
+dialog: #pg { font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.75in; margin-bottom:0in;
+dialog: margin-left:6.5in }
+dialog: #right { font-size:10.0pt; font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:0.75in; margin-bottom:0in;
+dialog: margin-left:5.0in }
+dialog: <!--
+dialog: /*
+dialog: Break-out-of-frames script
+scene_heading: By Website Abstraction (https://web-beta.archive.org/web/20160923141531/http://wsabstract.com)/
+dialog: Over 400+ free scripts here!
+dialog: Above notice MUST stay entact for use
+dialog: */
+dialog: if (window!= top)
+dialog: top.location.href=location.href
+dialog: // -->
+scene_heading: METRO-GOLDWYN-MAYER
+speaker_heading: RETURN TO ME
+dialog: a.k.a.
+speaker_heading: DISTANCE CALLS
+dialog: by
+dialog: Bonnie Hunt and Donald Lake
+dialog: Directed by
+dialog: Bonnie Hunt
+dialog: Starring :
+dialog: David Duchovny ............... Bob Rueland
+dialog: Minnie Driver................. Grace Briggs
+dialog: Caroll O' Connor.............. Marty O' Reilly
+dialog: Robert Loggia................. Angelo Pardipillo
+dialog: Bonnie Hunt................... Megan Dayton
+dialog: David Alan Grier.............. Dr. Charles Johnson
+dialog: James Belushi................. Joe Dayton
+scene_heading: ****************************
+speaker_heading: A WHITE SCREEN
+text: We sense this is someone's P.O.V. The WHITE slowly disperses as hints
+text: of BLUE SKY peek through. We are DESCENDING through the CLOUDS as the
+text: evening sunset weaves a blanket of orange and red hues over a LARGE CITY
+text: which slowly comes INTO FOCUS.
+text: Floating HIGH ABOVE the peaks and valleys of CHICAGO'S SKYLINE, as if
+text: being mysteriously moved to a letter on a Ouija Board, WE ARE DRAWN to
+text: an unfinished STEEL-FRAMED SKYSCRAPER. The hum of the construction work
+text: below fills our ears. Gradually, WE CLOSE IN on a small yellow dot that
+text: dances on one of the exposed beams... CLOSER STILL... Just as the
+text: detailed creases of a yellow hard hat become evident, it tilts OUT OF
+text: FRAME as the face of the MAN wearing it looks up into the sky.
+speaker_heading: BOB
+dialog: It's a shame we have to put roofs on 'em.
+text: This is Bob, BOB RUELAND; late thirties, a confident, handsome man, with
+text: a magnetic personality. He walks along the high beams with ease as he
+text: makes his way to the service elevator.
+speaker_heading: BOB (cont'd)
+dialog: (yells to guy on lower beam)
+dialog: It's looking good, Mike. I'm outta here...
+speaker_heading: MIKE
+dialog: (yells back)
+dialog: Okay Bob, have fun tonight.
+speaker_heading: BOB
+dialog: As always...
+speaker_heading: CUT TO:
+scene_heading: INT. PRIMATE HOUSE
+text: A young woman wearing a lab coat exits a side door of the glass enclosed
+dialog: structure. This is DR. KATHERINE RUELAND, early thirties, smart, regal,
+text: perfect-posture-pretty. Securing the lock on the door behind her, she
+text: stops and looks through the glass at the large GORILLA. Using sign
+text: language, Katherine encourages the Gorilla to eat the food.
+speaker_heading: CUT TO:
+scene_heading: EXT. LINCOLN PARK ZOO
+text: We see a MAN in a lab coat jog through the door of the zoo's Primate
+dialog: House.
+speaker_heading: CUT TO:
+scene_heading: INT. PRIMATE HOUSE - CONTINUOUS
+text: DR. CHARLIE JOHNSON, thirty-five-ish, a fun, personable good-looking
+text: ladies' man, enters wearing a lab coat and carrying a clip board.
+speaker_heading: CHARLIE
+dialog: Katherine... Katherine? I knew I'd find you here...
+dialog: (to Gorilla)
+dialog: Hey, Sidney...
+dialog: (back to Katherine)
+dialog: I need your signature to change the Polar's diet...
+dialog: (hands her a clip board)
+dialog: And it's already five, I'll check in on the calf. You go home and get
+dialog: ready.
+speaker_heading: KATHERINE
+dialog: Oh, thanks Chuck.
+dialog: (thinking out loud)
+dialog: Bob's picking up my dress... I have stockings... I have to take Mel to
+dialog: the park for a quick run, my hair, make-up...
+speaker_heading: CHARLIE
+dialog: See what this lady does for you, Sidney?
+text: Katherine laughs and presses her hand against the glass. Sydney returns
+text: the gesture, pressing his palm against hers.
+speaker_heading: KATHERINE
+dialog: Look at him Charlie, we'd go nuts in a place this small...
+speaker_heading: CHARLIE
+dialog: I know... But we're getting there.
+dialog: (friendly pat on the back)
+dialog: Pour on the guilt during your speech...
+text: Charlie opens the door for Katherine as they walk out of the building.
+speaker_heading: KATHERINE
+dialog: I intend to. Who're you bringing tonight?
+speaker_heading: CHARLIE
+dialog: Haven't decided yet. Still got two hours.
+text: The door closes behind them.
+speaker_heading: CUT TO:
+text: A door opens into...
+scene_heading: INT. BOB AND KATHERINE'S APARTMENT
+text: An upscale old fashioned brownstone, with large rooms and hardwood
+text: floors. Scattered antique rugs...classy but comfortable.
+text: Bob enters with their dog, "MEL", a yellow lab, unhooks the dog's leash
+text: and slips out of his wet trench coat. He's perfectly handsome in his
+text: tuxedo. Grabbing an old towel from the hat stand, he dries off Mel.
+speaker_heading: BOB
+dialog: (walking to the kitchen)
+dialog: I know you're hungry...
+text: Mel follows Bob half way down the hall then turns back and sits at the
+text: front door. Bob leans back into the hall, watching Mel...
+speaker_heading: BOB (cont'd)
+dialog: She'll be home any minute.
+text: We hear an ELECTRIC CAN OPENER... Mel looks towards the kitchen -- but
+text: he waits for Katherine. We hear a SET OF KEYS in the door. Mel's tail
+text: starts a-wagging. Katherine enters, Mel whimpers with delight.
+text: Katherine immediately bends down to greet him.
+speaker_heading: KATHERINE
+dialog: (dog talk)
+dialog: Hi, my baby, you're such a good boy.
+dialog: (Mel kisses her face)
+dialog: Oh, I know, I love you too.
+speaker_heading: BOB (O.C)
+dialog: Hey, Babe.
+speaker_heading: KATHERINE
+dialog: Hey, honey. It's pouring out. You get my dress?
+text: Bob comes down the hall out of the kitchen. Katherine is taking off her
+dialog: shoes.
+speaker_heading: BOB
+dialog: Yep, and I took Mel out.
+speaker_heading: KATHERINE
+dialog: (looks up)
+dialog: In your Tux?
+dialog: (noticing)
+dialog: Your pant legs are soaked.
+text: Bob disappears into the bathroom off the hall.
+speaker_heading: BOB
+dialog: Yeah.
+text: (he leans back with a blow dryer aimed at his ankles)
+dialog: Tell Mel to eat.
+speaker_heading: KATHERINE
+dialog: (dog's right next to her)
+dialog: Mel honey, eat.
+text: Mel immediately heads for the kitchen. Katherine walks up to Bob,
+text: watching him blow drying his pant legs. She grabs his face and kisses
+dialog: him.
+speaker_heading: KATHERINE (cont'd)
+dialog: You're cute.
+speaker_heading: BOB
+dialog: You spend all day with an Ape, what do you expect?
+text: Katherine smacks him on the butt.
+speaker_heading: CUT TO:
+speaker_heading: A BLACK SCREEN
+text: We hear the sound of a SLIDE PROJECTOR. CLICK-CLICK.
+speaker_heading: UP ON:
+text: A SLIDE of a large GORILLA, eating a dish of pasta with his hands, FILLS
+speaker_heading: THE SCREEN.
+text: We hear polite laughter, from a large group of people. KATHERINE'S
+text: VOICE, speaks softly into a microphone...
+speaker_heading: KATHERINE (V.O.)
+dialog: As you can see in this photo of Sydney, he is sometimes "too much" like
+dialog: man.
+text: More laughter. PULL OUT to reveal we are at...
+scene_heading: INT. AMBASSADOR HOTEL - BALLROOM - NIGHT
+text: A black tie affair in full swing. The annual "ARTS DINNER" (Animal's
+dialog: Right to Survive) has once again attracted Chicago's "upper crust" and
+text: young hopefuls.
+text: CLICK-CLICK. Another SLIDE, FILLS THE SCREEN. This time, it is of
+scene_heading: SYDNEY and BOB RUELAND.
+speaker_heading: KATHERINE (V.O.)
+dialog: Over the last ten years, Sydney has become part of the family. Here,
+dialog: he's showing his flash cards to my husband. My husband is the one on
+dialog: the left.
+dialog: Even more laughter.
+speaker_heading: CUT TO:
+speaker_heading: THE AUDIENCE
+text: BOB smiles at those around him. One GENTLEMAN teasingly pats him on
+text: the back. Bob looks up at the stage to his wife, with a playful "thanks
+dialog: a lot" look.
+speaker_heading: REVERSE ANGLE
+text: KATHERINE, minus the lab coat, in a lovely black evening dress, smiles
+text: affectionately at Bob. She CLICKS on the next SLIDE.
+text: On the large screen next to her, we now see a photograph showing the
+text: small area that Sydney is forced to live in.
+speaker_heading: KATHERINE
+dialog: Tonight, I was hoping I'd be able to announce that we've reached our
+dialog: financial goals for the expansion we so desperately need, but
+dialog: unfortunately, we were not awarded the grant.
+text: A murmur of disgust and disappointment from the crowd.
+speaker_heading: KATHERINE (cont'd)
+dialog: But with one more year of fund raising, along with the money we've
+dialog: raised here tonight, Lincoln Park Zoo will soon be able to expand the
+dialog: Primate House to triple its size.
+dialog: Applause.
+speaker_heading: KATHERINE (cont'd)
+dialog: And I assure you, my dear friend Sydney and his family are very excited
+dialog: for construction to begin.
+text: Katherine CLICKS another SLIDE up onto the screen; SYDNEY and a group of
+text: GORILLAS, all wearing hard hats.
+text: Laughter from the crowd mixed with a sympathetic "ahhh".
+speaker_heading: KATHERINE (cont'd)
+dialog: Thank you all for your tremendous support. Enjoy the evening.
+text: Katherine receives a generous round of applause as she leaves the stage.
+text: The last slide of Sydney still shines on the swaying screen.
+text: A CONDUCTOR/M.C. steps up to the microphone.
+speaker_heading: CONDUCTOR
+dialog: Thank you, Dr. Rueland. Now ladies and gentlemen, tonight's very
+dialog: special guest, Mr. Tony Bennett!!!
+text: APPLAUSE. TONY BENNETT steps out onto the stage...
+speaker_heading: TONY BENNETT
+dialog: Thank you very much. I'm thrilled to be here tonight. It's an honor to
+dialog: be a part of such a noble effort on behalf of the animals.
+dialog: (indicates the band)
+dialog: The boys and I have worked up a little something special for you...
+text: With a wave of Tony's arm...the BAND kicks into a jazzed up version of
+text: "IN THE JUNGLE".
+speaker_heading: TONY BENNETT (cont'd)
+speaker_heading: (SINGING)
+dialog: In the jungle, the migh-ty jungle, the lion sleeps tonight...Oh, in
+dialog: the...
+speaker_heading: CUT TO:
+scene_heading: INT. ST. MARY'S HOSPITAL ROOM - SAME EVENING
+text: A YOUNG WOMAN lies in bed. A well cared for plant blooms on the night
+text: stand, behind it, a small easel holds a half finished watercolor.
+dialog: Posters of famous European cities decorate the walls. We get the sense
+dialog: this room has been her home for a month or so.
+text: The patient is GRACE BRIGGS, late twenties. An attractive, shy and frail
+dialog: woman.
+text: Grace barely responds as her best friend, MEGAN DAYTON, seated in the
+text: chair next to the bed, reads a Cosmo quiz aloud from the magazine.
+speaker_heading: MEGAN
+dialog: Is it most important that a man is, A: Polite to your family and
+dialog: friends? B: Can handle finances well? Or C: Will take care of you when
+dialog: you are ill? Well, I guess your answer is definitely C.
+text: Megan checks a box. Grace smiles.
+speaker_heading: MEGAN (cont'd)
+dialog: What do you expect most from a relationship? A: Companionship? B: Sex?
+dialog: C: Respect? I'd have to go with B, sex. But let's mark "C" so we get a
+dialog: higher score. This is pathetic, I'm cheating on a magazine quiz.
+text: Grace stirs a little. Megan immediately gets up and leans over the bed
+dialog: to hear anything Grace may say.
+speaker_heading: MEGAN (cont'd)
+dialog: What? What is it? What d'ya need? Your back? Move the pillow? Your
+dialog: neck?
+speaker_heading: GRACE
+dialog: (whispers)
+dialog: Rosebud.
+speaker_heading: MEGAN
+dialog: Very funny.
+speaker_heading: GRACE
+dialog: I just want some water.
+text: Megan holds a paper cup of water and bends the straw to Grace's mouth.
+text: We see the great amount of effort it takes for Grace to drink the water.
+speaker_heading: GRACE (cont'd)
+dialog: Thanks.
+speaker_heading: MEGAN
+dialog: Would you like me to bring the check or will you be ordering dessert?
+speaker_heading: GRACE
+dialog: Megan, you can go home, y'a know.
+speaker_heading: MEGAN
+dialog: To what? I don't have cable, you do.
+speaker_heading: GRACE
+dialog: What about Joe and the kids?
+speaker_heading: MEGAN
+dialog: He likes me more when I'm not around. And the kids like me a lot more
+text: after they've been alone with Joe.
+dialog: (smoothing Grace's blankets)
+dialog: It's good for him to be with the kids when they're coming down from the
+dialog: sugar. He usually fuels 'em up and then they go through de-tox on my
+dialog: shift.
+text: DR. SENDERAK, enters and very business like, opens Grace's chart.
+speaker_heading: DR. SENDERAK
+dialog: Ladies...
+speaker_heading: GRACE
+dialog: Hey, Dr. Senderak.
+text: The Doctor goes to switch places with Megan, who moves out of the way,
+dialog: careful not to knock into any of the I.V. stands or monitors; they've
+dialog: done this dance a million times.
+speaker_heading: DR. SENDERAK
+dialog: (scanning Grace's chart)
+dialog: You're about the same, hematocrit 16, SMA 20... Some things are a bit
+dialog: low but that's to be expected. We're entering borrowed time. The most
+dialog: important thing now Grace is rest, you need to rest.
+dialog: (putting chart under his arm)
+dialog: I'll see you tomorrow.
+text: As the doctor exits...
+speaker_heading: MEGAN
+dialog: Doctor, why don't you give her your heart? You're not using it.
+speaker_heading: DR. SENDERAK
+dialog: Good evening, ladies.
+speaker_heading: GRACE
+dialog: (scolding)
+dialog: Megan.
+speaker_heading: MEGAN
+dialog: What? I wish he'd do...something.
+speaker_heading: GRACE
+dialog: He can't. Even if a heart's available, they won't give it to me. I
+dialog: just have my Grandpa pressuring them. I have no husband, no children.
+dialog: I may never get a heart.
+speaker_heading: MEGAN
+dialog: Listen, Tin Man. You've got me. I'm pressuring them.
+speaker_heading: GRACE
+dialog: Thanks, Meg.
+speaker_heading: MEGAN
+dialog: (fixing bed sheets)
+dialog: You'll get a new heart and before you know it, you'll be back in your
+dialog: garden, you'll be painting... You'll be getting asked out by the most
+dialog: fantastic men...
+speaker_heading: GRACE
+dialog: I'm getting a new heart, not a new ass.
+speaker_heading: MEGAN
+dialog: My point is, you'll be out doing things you were never able to do,
+dialog: riding a bike...
+dialog: (looks at the posters)
+dialog: Traveling, painting in Europe...
+speaker_heading: GRACE
+dialog: It's too late, Megan. I'm too old. I'm twenty-seven. My mother's
+dialog: heart gave up by twenty-five. I've been sick too long...
+dialog: (quietly)
+dialog: Promise me you'll take care of my grandpa...
+speaker_heading: MEGAN
+dialog: Twenty-seven is not old. I'm thirty-three...four...five -- whatever.
+dialog: Do you consider me old?
+speaker_heading: GRACE
+dialog: Yes.
+speaker_heading: CUT TO:
+scene_heading: INT. AMBASSADOR HOTEL - BALLROOM - NIGHT
+text: In the b.g., we hear Tony Bennett and the band still
+dialog: "singing-and-a-swinging".
+text: Bob leaves the bar with a drink in both hands, hoping to avoid
+text: conversation with the "stuffed shirts" in the crowd, especially the long
+text: winded MR. BENNINGTON, who he spots heading in his direction. Bob
+text: casually tries to get away...
+speaker_heading: BOB
+dialog: Excuse me... Excuse me... Pardon me...
+speaker_heading: MR. BENNINGTON (O.S.)
+dialog: Bob. Bob Rueland!
+text: Bob winces, he didn't make it. He turns to face Bennington, a large,
+text: red-faced "stuffed shirt".
+speaker_heading: BOB
+dialog: (fakes surprise)
+dialog: Oh, hi Mr. Bennington, I didn't see you or I would have stopped and said
+dialog: hello.
+speaker_heading: MR. BENNINGTON
+dialog: Katherine's speech was wonderful. I suppose she told you about the
+dialog: sizable donation Mrs. Bennington and I gave this year... Anonymously of
+dialog: course.
+speaker_heading: BOB
+dialog: Of course... Very generous, as always.
+dialog: (indicates the two drinks)
+dialog: I'll let Katherine know you're here...
+text: Bob turns to leave...
+speaker_heading: MR. BENNINGTON
+dialog: We also gave quite a chunk to some rain forest gimmick.
+speaker_heading: BOB
+dialog: (politely)
+dialog: Really?
+text: Bob spots Katherine. She is also entangled in a "polite conversation".
+text: Their eyes meet.
+text: Bob still melts when he looks at her. He smiles. Katherine smiles
+text: back, then gives a little pout.
+speaker_heading: MR. BENNINGTON
+dialog: Next thing I know, we're on Safari. Cute story... The Mrs. and I are
+dialog: out in the boonies...
+text: Charlie and a "BIG HARED, BIG BREASTED, BIG LIPPED DATE" walk by.
+speaker_heading: BOB
+dialog: Hey, Chuck!
+text: Charlie sees who Bob is stuck with, grins and keeps walking.
+speaker_heading: CHARLIE
+dialog: Bob... Mr. Bennington...
+dialog: (his date dances to "In The Jungle")
+dialog: She loves this song...
+dialog: (joining the refrain with her)
+dialog: Aweemaway-Aweemaway-Aweemaway-Aweemaway...
+dialog: (to Bob and Mr. B.)
+dialog: I'll catch you later...
+text: Charlie's date taps his shoulder.
+speaker_heading: BIG HAIR
+dialog: I'm going to run up and put on a little more lipstick...
+speaker_heading: BOB
+dialog: Is that possible?
+text: Big Hair giggles.
+speaker_heading: CHARLIE
+dialog: I'll go with you...
+speaker_heading: BIG HAIR
+dialog: To the ladies room? Silly.
+text: She giggles again and runs off, Charlie follows, Bob stops him.
+speaker_heading: BOB
+dialog: Wait, Charlie, you have some news for Mr. B. here, don't ya?
+speaker_heading: CHARLIE
+dialog: I don't have any...
+speaker_heading: BOB
+dialog: I'm sorry. I shouldn't have ruined the surprise.
+dialog: (to Mr. Bennington)
+dialog: It's because of your donation and all... Charlie's putting a picture of
+dialog: you up in the monkey house.
+text: Charlie almost does a spit take with his drink.
+speaker_heading: MR. BENNINGTON
+dialog: (very flattered)
+dialog: Really? Thank you, Charlie.
+speaker_heading: CHARLIE
+dialog: (miserably plays along)
+dialog: Well, it was just a thought, I'd have to run it by Katherine. She's the
+dialog: boss.
+speaker_heading: BOB
+dialog: (as he walks away)
+dialog: You two obviously have a lot to discuss...
+speaker_heading: CHARLIE
+dialog: (flatly)
+dialog: Uh-huh.
+text: We FOLLOW Bob across the ballroom floor to the Band. He stops for a
+text: moment, handing a note to the conductor.
+speaker_heading: CUT TO:
+scene_heading: INT. GRACE'S HOSPITAL ROOM
+text: Megan fluffs Grace's pillow.
+speaker_heading: MEGAN
+dialog: Close your eyes, rest. I'll read you to sleep or tell you about my day,
+dialog: either one'll knock you out.
+speaker_heading: GRACE
+dialog: (closes her eyes)
+dialog: I don't want to sleep.
+speaker_heading: MEGAN
+dialog: You heard what Dr. Congeniality said... You need to rest.
+speaker_heading: GRACE
+dialog: Fine, I'll rest but I don't want to sleep.
+speaker_heading: MEGAN
+dialog: Okay.
+speaker_heading: GRACE
+dialog: I want to stay awake.
+dialog: (pauses)
+dialog: I'm afraid to sleep.
+speaker_heading: MEGAN
+dialog: Then we'll stay up.
+text: Megan tucks the blanket around Grace, who fades off to sleep. Megan
+text: switches on the television, hits the "mute" button, reaches in her
+text: pocket and pulls out a rosary. She silently prays as we...
+speaker_heading: CUT TO:
+scene_heading: INT. AMBASSADOR HOTEL - BALLROOM
+text: Bob taps Katherine on the opposite shoulder so she looks the wrong way,
+text: then surprises her on the other side. She smiles. He kisses her on the
+dialog: cheek.
+speaker_heading: KATHERINE
+dialog: (to Bob)
+dialog: Hey, stranger.
+dialog: (back to the COUPLE)
+dialog: Celia, Mike, you know my husband, Bob.
+dialog: They exchange hello's.
+speaker_heading: MIKE
+dialog: (to Bob)
+dialog: You keep designing those high rises, we won't be able to see the lake.
+speaker_heading: BOB
+dialog: Well, that's my evil "master plan".
+speaker_heading: MIKE
+dialog: We were just telling Katherine about our place in Italy.
+speaker_heading: BOB
+dialog: Ah, Italy, I thought your "get-away" was in St. Barts?
+speaker_heading: CELIA
+dialog: It is. This is our vacation place.
+speaker_heading: BOB
+dialog: (oh brother)
+dialog: My mistake. Well, I'd take Italy any time of the year.
+speaker_heading: KATHERINE
+dialog: Don't start.
+speaker_heading: BOB
+dialog: We were supposed to go there for our honeymoon.
+dialog: (teasing Katherine)
+dialog: But we didn't think Sydney could tolerate the flight.
+speaker_heading: KATHERINE
+dialog: I promise we'll go to Italy.
+speaker_heading: BOB
+dialog: Well that's big. That's a promise. I'll take that.
+speaker_heading: MIKE
+dialog: Where are you vacationing this year?
+speaker_heading: BOB
+dialog: We're going to one of those water theme parks for the weekend.
+speaker_heading: CELIA
+dialog: ...that'll be nice.
+speaker_heading: KATHERINE
+dialog: He's kidding, Celia.
+speaker_heading: CELIA
+dialog: (deadpan)
+dialog: That's funny.
+speaker_heading: BOB
+dialog: Well, I promised Katherine we'd dance tonight, so if you'll excuse us.
+text: Bob and Katherine walk towards the dance floor. She rests her head on
+text: his shoulder as they walk.
+speaker_heading: KATHERINE
+dialog: I'm not dancing to "In The Jungle" so forget it.
+speaker_heading: BOB
+dialog: Fine, then the next dance. C'mon, you can stand on my feet.
+text: Charlie passes by with Mr. Bennington and "Big Hair".
+speaker_heading: MR. BENNINGTON
+text: So I grab the spear and she grabs her hot rollers...
+speaker_heading: BIG HAIR
+dialog: I have those...
+text: Charlie shoots Bob a look as they continue walking and Bennington
+text: continues talking.
+speaker_heading: KATHERINE
+dialog: (defeated)
+dialog: We really needed that grant.
+speaker_heading: BOB
+dialog: I know, honey. I'm sorry.
+dialog: (cupping her face in his hands)
+dialog: Smile.
+text: They reach the dance floor. Bob looks off toward Tony Bennett, swinging
+dialog: int a big finish for "In The Jungle".
+speaker_heading: KATHERINE
+dialog: Aren't you upset for me?
+text: Bob immediately returns his attention to Katherine.
+speaker_heading: BOB
+dialog: Of course I am. I just hate seeing you disappointed.
+dialog: (playfully)
+dialog: So stop it.
+text: Katherine laughs, in spite of herself.
+speaker_heading: KATHERINE
+dialog: Poor Sydney... Another year in that little space...
+speaker_heading: BOB
+dialog: You promise me Italy, I promise Sydney a new home.
+text: "IN THE JUNGLE" ends. The orchestra begins a new song, "RETURN TO ME".
+text: Katherine's mood immediately changes. This is their song.
+speaker_heading: KATHERINE
+dialog: (sweetly)
+dialog: Bob...
+text: They dance off onto the crowded ballroom floor.
+speaker_heading: FADE OUT.
+speaker_heading: UP ON:
+scene_heading: INT. NORTHWESTERN MEMORIAL HOSPITAL - EMERGENCY ENTRANCE - SAME EVENING.
+text: BAM! The EMERGENCY DOORS swing open.
+text: A TRAUMA TEAM, frantically works to save a YOUNG WOMAN'S life as they
+text: guide the gurney down the hall at top speed. Her husband runs along
+text: side, holding tightly on to her hand; his tuxedo is splattered with
+dialog: blood. We recognize him, it's BOB RUELAND.
+speaker_heading: NURSE
+text: Female, thirty-four. Car accident. No seat belt. Hit on right side;
+text: head trauma. EMS said she was unconscious at the scene. B/P 90 over
+text: 40. Pulse is erratic. Respirations, 10.
+speaker_heading: BOB
+dialog: You're going to be fine, honey. You're going to be fine... Kay, can
+dialog: you hear me? Honey? You're going to be fine.
+speaker_heading: DOCTOR #1
+dialog: Let's get another Ringers Lactate hung. Increase the drip. Call
+dialog: Whestfall to scrub. What's her pressure now?
+speaker_heading: NURSE
+text: 80-40 and dropping. She's taching.
+speaker_heading: BOB
+dialog: You're going to be fine, Kay...
+speaker_heading: DOCTOR #2
+dialog: We may have internal bleeding.
+speaker_heading: DOCTOR #1
+dialog: Let's get a type and cross match.
+speaker_heading: BOB
+dialog: (to doctors)
+dialog: What's happening?
+dialog: (desperately)
+dialog: I love you, Katherine.
+speaker_heading: DOCTOR #2
+text: Pupils still not reactive.
+speaker_heading: DOCTOR#1
+dialog: 5 mg of Epi, stat.
+speaker_heading: NURSE
+dialog: (to Bob)
+dialog: Does she have any allergies:
+speaker_heading: BOB
+dialog: No.
+text: Doors swing open to the OPERATING ROOM at the end of the hall. The
+text: gurney with Katherine and the Trauma Team disappear into the O.R. A
+text: NURSE stops Bob.
+speaker_heading: NURSE
+dialog: I'm sorry, you're not allowed in the operating room.
+text: The operating room doors swing shut. Bob stands in the
+dialog: hallway...completely alone.
+speaker_heading: CUT TO:
+scene_heading: CLOSE-UP - A DARK RED BUBBLING LIQUID
+text: A LATEX GLOVED HAND comes into frame, reaches into the red abyss and
+text: fishes out a large unpeeled tomato.
+dialog: We PULL BACK, revealing...
+text: The gloved hand belongs to MARTY O'RIELLY, a cherubic, jovial man, in
+dialog: his early seventies.
+dialog: We are...
+scene_heading: INT. O'RIELLY'S ITALIAN RESTAURANT - KITCHEN - SAME EVENING
+text: The CAMERA FOLLOWS the spoon as Marty artistically puts the perfect
+dialog: amount of pomodoro (tomato) sauce on to the waiting dishes of capellini
+dialog: pasta.
+speaker_heading: MARTY
+dialog: (with an Irish brogue)
+dialog: Adiamo! While it's hot... ANGELO!
+text: In the far corner of the kitchen, we find ANGELO PARDIPILLO, late
+text: sixties, chopping tomatoes while taking phone orders.
+speaker_heading: MARTY (cont'd)
+dialog: (pulling off his gloves)
+dialog: I'll do 'er me-self.
+text: Angelo cups the phone under his chin and reaches for the plates.
+speaker_heading: ANGELO
+dialog: I got it.
+speaker_heading: MARTY
+dialog: I already took me mittens off!
+text: Marty carries the plates towards the swinging kitchen doors that open to
+text: the restaurant. We catch a glimpse of the small dining room on the
+dialog: other side.
+speaker_heading: MARTY (cont'd)
+dialog: I do this and you get me three Chicken Vesuvio's.
+speaker_heading: ANGELO
+dialog: I already served 'em.
+text: A PHONE rings. It's tone is different. Both men FREEZE. They look at
+text: the one phone, none of the lines are lit.
+text: In unison, their heads immediately turn to this other PHONE. This phone
+text: has no dial on it. A piece of aluminum foil, cut out in the shape of a
+text: heart is taped above it. They stare at it, half expecting it to shake
+text: when it rings.
+text: Marty drops the plates of capellini; the pomodoro sauce splashes up on
+text: to his apron. He attempts to run to the phone, but the sauce has made
+text: the floor slippery. Angelo grabs Marty's arm and they both "skate" to
+dialog: the phone.
+speaker_heading: MARTY
+dialog: (into phone)
+dialog: Grace. Oh my soul! I'm on me way!
+speaker_heading: ANGELO
+dialog: (like a kid)
+dialog: Can I say hello?
+text: Marty tosses the phone to Angelo, then "skates" over to his hat...
+speaker_heading: MARTY
+dialog: Blessed be God. Saints be praised. Call everyone!
+text: ...and he's out the door.
+speaker_heading: ANGELO
+dialog: (into phone)
+dialog: Ciao, Grace... You gotta heart, huh? That's a-nice. I hope it's a big
+dialog: one!
+speaker_heading: CUT TO:
+scene_heading: INT. ST. JOSEPH'S HOSPITAL - SAME EVENING
+text: Marty, still in his apron, his fedora hat atop his head, runs through
+text: the lobby towards the elevators. Several NURSES notice him in his red
+text: splattered apron and run to his aid.
+speaker_heading: NURSE
+dialog: Okay, sir, calm down. We need to get you to the emergency room.
+text: He looks down at his apron.
+speaker_heading: MARTY
+dialog: It's pomodoro sauce.
+text: He reaches the elevator and steps in, just as its doors are closing. A
+text: beat. The doors open. Marty steps out, glances around. The nurses are
+text: still watching him. He smiles.
+speaker_heading: MARTY (cont'd)
+dialog: I forgot to press the button.
+text: He steps back in. The doors close. A beat. They open. Marty steps
+dialog: out onto...
+speaker_heading: GRACE'S FLOOR.
+text: He runs down the hall. TWO ORDERLIES are wheeling Grace out of her room
+text: on a gurney. Megan is at her side. Dr. Senderak is filling out paper
+text: work that a NURSE is handing him. Marty eagerly joins the procession,
+text: taking Grace's hand.
+speaker_heading: GRACE
+dialog: Grandpa, if I don't make it...
+speaker_heading: MARTY
+dialog: You'll make it. I prayed for the heart, you gotta it. Now we'll pray
+dialog: that it fits.
+speaker_heading: GRACE
+dialog: I love you. Thank you for always taking care of me.
+text: Megan is sobbing. Grace turns to her.
+speaker_heading: GRACE (cont'd)
+dialog: Don't you have a joke?
+speaker_heading: MEGAN
+dialog: No...
+speaker_heading: MARTY
+dialog: I'm not going to tell you I love you now, I'll tell you when you come
+dialog: out.
+speaker_heading: GRACE
+dialog: Okay, Grandpa.
+speaker_heading: MEGAN
+dialog: I love you.
+speaker_heading: GRACE
+dialog: (teasing)
+dialog: You don't think I"m going to make it?
+speaker_heading: MEGAN
+dialog: (wiping her eyes)
+dialog: No, of course not. I just...you're my best friend... I love you.
+dialog: There, I said it again, that'll cancel out the first one. And I love
+dialog: you Doctor and you Nurse lady...
+dialog: (to Grace)
+dialog: There, feel better?
+text: The medical staff wheels GRACE'S gurney into the elevator. Megan and
+dialog: Marty wait behind.
+speaker_heading: GRACE
+dialog: Pray, Grandpa.
+text: As the door is closing...
+speaker_heading: MARTY
+dialog: (softly)
+dialog: I love you.
+speaker_heading: FADE OUT.
+speaker_heading: UP ON:
+scene_heading: INT. BOB'S APARTMENT - LATER - SAME EVENING
+text: The door opens, Bob enters, his right arm in a cast and sling; several
+text: small bandages on his face, stitches on his forehead.
+text: Charlie walks in after Bob. They both stand in silence. Charlie pets
+text: Mel. Bob "goes through the motions" of taking off his crumpled tuxedo
+dialog: jacket.
+speaker_heading: CHARLIE
+dialog: You're sure you don't want me to stay?
+speaker_heading: BOB
+dialog: I have to take Mel out.
+speaker_heading: CHARLIE
+dialog: He's been out. I left the hospital a few hours ago and came by, took
+dialog: him to the park...
+speaker_heading: BOB
+dialog: (vaguely remembers)
+dialog: Oh, yeah...
+text: Bob, still on "auto-pilot" walks into the kitchen. He fills the dog
+text: dish, glances around the kitchen -- everything is Katherine. His eyes
+text: stop at a note on the fridge. It reads: "BOB, HONEY, PLEASE PICK UP MY
+text: BLACK DRESS AT THE CLEANERS. LOVE, LOVE, LOVE YOU, K."
+text: Bob takes the note in his hand, runs his fingers over her writing, then
+text: carefully places it back on the exact same spot. Charlie observes...
+dialog: Should he stay? Should he go?
+speaker_heading: CHARLIE
+dialog: I'm going to stay.
+speaker_heading: BOB
+dialog: No, please, go home. I really just need to be alone.
+text: A painful silence. Two grown men, being as stoic as humanly possible.
+speaker_heading: CHARLIE
+dialog: Bob, I don't know what to say.
+text: Bob just nods, appreciating Charlie's intent.
+speaker_heading: CHARLIE (cont'd)
+dialog: I'll pick your parents up at the airport in the morning.
+speaker_heading: BOB
+dialog: Thanks.
+speaker_heading: CHARLIE
+dialog: Okay...
+text: Bob struggles to hold it together. Charlie walks to the door, stops,
+text: then goes back and hugs Bob.
+speaker_heading: CHARLIE (cont'd)
+dialog: Call if you need me. I'm here in two minutes.
+text: Charlie leaves, closing the door behind him. Bob walks over and flips
+text: the lock. He wanders over to the sofa, sitting right in the middle,
+text: probably a spot he's never sat in before. Mel follows, then
+text: stops--turns, and goes back to the front door. He wags his tail slowly.
+speaker_heading: BOB (cont'd)
+dialog: She's not coming home, Mel.
+text: Mel lies flat against the door with a whimper. Bob walks over and hugs
+text: Mel, who nuzzles him... As Bob collapses on the floor in tears, we...
+speaker_heading: CUT TO:
+scene_heading: INT. ST. JOSEPH'S HOSPITAL - LATER - SAME EVENING
+scene_heading: O.R. WAITING ROOM
+text: In the b.g., we hear Italian music. The small room is crowded with
+dialog: Italians of all ages and sizes...
+text: Angelo is busy offering everyone lasagna off a tray. KIDS play tag
+text: amongst the sea of legs. TWO YOUNG GUYS lean up against the wall and
+text: light a smoke. An OLDER WOMAN bee-lines over and knocks the cigarettes
+text: out of their hands. Megan is gathering her kids. Let's see, she's got
+dialog: JOEY, nine, PATRICK, seven, KEVIN, eighteen months, BRIDGETTE, three...
+text: Who is missing? TOMMY, five. She finds him. He's drinking wine out of
+text: a Dixie cup.
+speaker_heading: MEGAN
+dialog: Thomas-Martin-Dayton give me that!
+dialog: (she takes it, drinks it)
+dialog: Okay, get your coat, Daddy's taking you home. JOE!
+text: We see JOE, Megan's husband; late thirties, a husky Chicago Fireman, he
+text: too has a Dixie cup and is talking with some folks.
+speaker_heading: JOE
+dialog: What? Geeze.
+speaker_heading: MEGAN
+dialog: Get the kids home! It's one in the morning.
+speaker_heading: JOE
+dialog: I'm going, I'm going. C'mon Tommy, get your brothers.
+speaker_heading: TOMMY
+dialog: I want to stay and see the new heart.
+speaker_heading: JOE
+dialog: We'll see it when she comes home.
+speaker_heading: ANGELO
+dialog: Megan, where's Marty:
+speaker_heading: MEGAN
+dialog: (looks up to find her Dad)
+dialog: Is he with my Dad?
+text: We see Megan's father, EMMETT McFADDEN, Marty's best friend, sitting
+text: alone in the corner spinning his fedora hat around and around by the
+text: brim. He looks up at Megan and nods his head in the direction of the
+text: hospital chapel at the end of the hall.
+speaker_heading: CUT TO:
+scene_heading: INT. HOSPITAL CHAPEL
+text: A small chapel, only six pews, three on each side. In the center above
+text: the alter, a colorful handmade mosaic. Light flickers from the rows of
+text: votive candles near the alter. A dim light spills in from the hallway
+text: through the crucifix-shaped windows on the chapel's wooden doors.
+text: We find Marty, kneeling in the last pew. Praying.
+speaker_heading: CUT TO:
+text: Mario Lanza's Sorriento Roma, an operatic ballad begins, taking us
+dialog: emotionally through the following...
+speaker_heading: MONTAGE:
+scene_heading: INT. OPERATING ROOM
+text: THE AUTOMATIC DOORS SLIDE OPEN. A TRANSPORT MEDIC carries a small Igloo
+text: cooler, labeled "HUMAN TISSUE" and sets it down on the waist-high
+text: stainless steel table to the left of the SURGEON.
+text: An OVERHEAD VIEW shows a number of MEDICAL PERSONNEL working perfectly
+text: as a team. GRACE is lying on the operating table, draped in surgical
+dialog: cloth.
+text: CLOSE-UP GRACE'S FACE, a peaceful expression; where is she?
+scene_heading: INT. HOSPITAL CHAPEL
+text: Marty, lighting a candle, his lips move in prayer.
+scene_heading: INT. OPERATING ROOM
+text: The TEAM OF SURGEONS position themselves around GRACE'S body, obstructing
+dialog: our view.
+scene_heading: INT. BOB'S APARTMENT
+text: Bob, in the same spot we left him, is now asleep at the door with Mel.
+scene_heading: INT. HOSPITAL HALLWAY
+text: A JANITOR polishes the floors of an empty hallway with a large electric
+dialog: buffer.
+scene_heading: INT. OPERATING ROOM
+text: CLOSE-UP OF THE RESPIRATOR, near Grace, as the white accordion bag goes
+text: up and down rhythmically.
+scene_heading: INT. HOSPITAL - WAITING ROOM
+text: The small room once filled with relatives and children is now just MEGAN
+text: and ANGELO, waiting. Joe enters with coffees.
+scene_heading: INT. OPERATING ROOM
+text: The enormous amount of SURGICAL INSTRUMENTS, those new, those used; all
+text: monitored by the surgical TEAM NURSES.
+text: DOCTORS, their faces intensely focused on their incredible task.
+scene_heading: EXT. HOSPITAL - DAWN
+text: The MORNING SUN reflects off the windows of the hospital.
+scene_heading: INT. HOSPITAL - WAITING ROOM
+text: Megan sleeps on a snoring Joe's shoulder. Angelo lies across several
+text: chairs, sleeping.
+scene_heading: INT. HOSPITAL CHAPEL
+text: Marty, still praying.
+scene_heading: INT. OPERATING ROOM
+text: A doctor looks to the HEART MONITOR.
+scene_heading: CLOSE-UP OF HEART MONITOR,
+dialog: Flat line...
+scene_heading: INT. HOSPITAL CHAPEL
+text: Marty kneels in front of the statue of the Blessed Virgin Mary, still
+dialog: praying.
+scene_heading: INT. OPERATING ROOM
+text: CLOSE-UP of the HEART MONITOR, flat line turns into the first PULSE.
+scene_heading: INT. BOB RUELAND'S APARTMENT
+text: Bob is still sound asleep on the floor near the door with Mel. With the
+text: first beat of the heart "something" stirs him a bit, almost waking
+dialog: him...
+text: Bob's eyes open...
+dialog: We HOLD ON BOB a second...
+text: Mario Lanza's last dramatic note is held, as we...
+speaker_heading: FADE OUT:
+text: BLACK SCREEN.
+scene_heading: INT. O'RIELLY'S ITALIAN RESTAURANT - (ONE YEAR LATER)
+text: Marty walks past the back window carrying a loaf of bread. He stops and
+text: glances into the back courtyard and smiles.
+scene_heading: OVER MARTY'S SHOULDER
+text: Through the back window we see Grace, in the garden gathering fresh cut
+text: flowers. She's wearing a summer dress, garden gloves and an apron which
+text: she cups upwards to carry the flowers in. The once fragile Grace is now
+text: healthy, vibrant and glowing.
+speaker_heading: MARTY
+dialog: He can't sing.
+text: Marty turns away and takes us to the bar in the dining room.
+speaker_heading: ANGELO
+dialog: Then how come he's got such a big band?
+speaker_heading: WALLY
+dialog: To drown him out.
+text: Seated at the far end of the dining room enjoying their pre-opening
+dialog: cappuccinos are Angelo; and retired pals, EMMETT, whom we met at the
+text: hospital and WALLY JAYCZASKI, seventy-ish, a former T.V. repair man.
+text: They are smoking cigarettes or puffing on cigars and involved in yet
+dialog: another heated discussion.
+speaker_heading: EMMETT
+dialog: Hey, Wally, stay outta this. How many famous Polish singers are there?
+speaker_heading: WALLY
+dialog: I have two words for you; Bobby Vinton
+text: The group lets out a groan.
+speaker_heading: WALLY (cont'd)
+dialog: (back to Emmett)
+dialog: Yeah, well, what have you got? The Irish Rovers?
+speaker_heading: EMMETT
+dialog: Three words; Mister-Bing-Crosby.
+speaker_heading: ANGELO
+dialog: He beat his kids.
+speaker_heading: EMMETT
+dialog: Doesn't mean he couldn't sing. Sinatra beat up everybody.
+speaker_heading: ANGELO
+dialog: Frank didn't. His people did.
+speaker_heading: MARTY
+dialog: Dean never hit anyone.
+speaker_heading: WALLY
+dialog: Only Jerry. But he was asking for it.
+dialog: They all agree.
+speaker_heading: ANGELO
+dialog: Point is, we got Frank, Dean, Tony Bennett, Perry Como, Pavarotti, Mario
+dialog: Lanza - how much time you got?
+text: Grace approaches their table. The men, in unison, extinguish their
+text: smokes, a familiar routine which Grace is completely unaware of. The men
+dialog: all respectfully stand for the lady - it's second nature for their
+text: generation. She places the remaining flowers in the vase on their
+dialog: table.
+speaker_heading: WALLY
+dialog: Grace, you want me to take you kids to the zoo in the Caddy?
+speaker_heading: GRACE
+dialog: Thanks Wally, we're riding our bikes.
+speaker_heading: EMMETT
+dialog: (to Grace)
+dialog: Settle something for us, best male singer?
+speaker_heading: GRACE
+dialog: Dean Martin.
+speaker_heading: ANGELO
+dialog: Frank.
+speaker_heading: MARTY
+dialog: Dean.
+speaker_heading: ANGELO
+dialog: Pavarotti.
+speaker_heading: EMMETT
+dialog: Bing.
+speaker_heading: WALLY
+dialog: Bobby.
+text: The group groans, again. Marty wraps plastic forks and knives in
+text: napkins and tucks them into a picnic basket.
+text: Grace walks behind the bar, slips her apron off over her head and looks
+text: beyond the whiskey bottles into the mirror. Taking a make-up cover
+text: stick out of her pocket, she conceals the top portion of the long scar
+text: exposed near the v-neck of her dress. Marty notices and shakes his
+dialog: head.
+speaker_heading: MARTY
+dialog: Grace it's been over a year. You can hardly see 'er anymore.
+speaker_heading: GRACE
+dialog: Nice try, Grandpa.
+speaker_heading: MARTY
+dialog: You're beautiful, lassie, no one'll notice y're chest.
+speaker_heading: GRACE
+dialog: (under her breath)
+dialog: Thanks a lot.
+text: Marty walks over to the guys table, spins a chair around and straddles
+dialog: it.
+speaker_heading: ANGELO
+dialog: Outta respect, we should mention Sammy. I mean, he only had one eye.
+speaker_heading: EMMETT
+dialog: He was Irish, ya know.
+speaker_heading: WALLY
+dialog: You mean Jewish.
+speaker_heading: EMMETT
+dialog: Whatever...something didn't fit.
+speaker_heading: ANGELO
+dialog: That was his gimmick. All the greats had 'em.
+text: As ally approaches the table the gentlemen all stand again. Grace takes
+text: the salt and pepper off the table and places them in the basket and
+text: exits through the back door.
+speaker_heading: CUT TO:
+scene_heading: EXT. COURTYARD - CONTINUOUS
+text: Grace pulls her rickety bike out from under the porch steps, securing the
+text: picnic basket to the front handle bars. She hops on the bike, peddles
+text: out the court yard and down the city street.
+speaker_heading: CUT TO:
+scene_heading: EXT. CONSTRUCTION SITE - LINCOLN PARK ZOO - SAME DAY
+text: ESTABLISHING SHOT of the new Gorilla Habitat under construction.
+text: Bob storms out from behind a plywood barricade decorated with posters
+text: advertising Sydney's new home. He is followed closely by two foremen;
+text: JEFF, the younger, and MIKE, an older, journey-man type. The once
+dialog: charming and laid back Bob is now...
+speaker_heading: BOB
+dialog: (snaps)
+dialog: We needed that cement poured yesterday!
+speaker_heading: JEFF
+dialog: I had to wait on the welders.
+speaker_heading: BOB
+dialog: Why?
+speaker_heading: JEFF
+dialog: I'm at their mercy, Bob. You know that.
+text: Bob's cell phone RINGS. He flips it open.
+speaker_heading: BOB
+dialog: (into phone)
+dialog: Yeah...I'll be there by three. Uh-huh...
+text: Without a missing a beat, he closes, the phone and is back in Jeff's
+dialog: face...
+speaker_heading: BOB (cont'd)
+dialog: Bullshit. You're not pushing your guys hard enough.
+speaker_heading: JEFF
+dialog: Bob, my guys worked eighteen hours yesterday!
+speaker_heading: BOB
+dialog: At time and a half, I'm crying for ya.
+text: They pass a truck where WORKMEN are unloading supplies. Jeff stops to
+text: help. Some of the men have overheard his conversation with Bob and roll
+dialog: their eyes.
+text: Bob and Mike continue walking...
+speaker_heading: MIKE
+dialog: For Christsakes, you have the best guys working here. You don't want
+dialog: them walking.
+speaker_heading: BOB
+dialog: I don't give a shit, Mike.
+text: They enter a temporary office trailer. A sign on the door, with big
+text: bold letters, reads: RUELAND DESIGNS.
+speaker_heading: CUT TO:
+scene_heading: INT. - CONSTRUCTION TRAILER - CONTINUOUS
+text: Bob sits behind his desk, cluttered with blueprints, stacks of invoices,
+text: fast food wrappers and the odd coffee cup. Mike takes a seat at the
+text: opposite end of the trailer and lights up a smoke.
+text: Silence, except for the 'humm' from the machines and jack hammers in the
+dialog: b.g.
+text: Bob runs his hands through his hair and shakes off a yawn. Mike,
+text: watching his young friend, takes a long drag on his smoke; this time
+dialog: he's going to say something.
+speaker_heading: MIKE
+dialog: Bob, you have to slow down. You're working too hard.
+speaker_heading: BOB
+dialog: (sick of hearing it)
+dialog: Yeah, well... Whatever. You should quit smoking.
+speaker_heading: MIKE
+dialog: (taking a puff)
+dialog: I have. Several times.
+text: Bob unrolls a set of blueprints on his desk. His cell phone RINGS. He
+text: flips it open and presses it against his ear with his shoulder, as he
+text: struggles to keep the blueprint from rolling closed. Mike doesn't make
+dialog: any effort to help.
+speaker_heading: BOB
+dialog: (into phone)
+dialog: Rueland... Hey, Charlie... It's just wasted space right now...
+dialog: (lets the blueprint roll closed)
+dialog: Tell them, it's only an extra fifty feet...towards the Lion House...
+dialog: Yeah well they told us we couldn't have the waterfall and the pipes are
+dialog: being laid for that... Then I'll tell 'em...
+text: The trailer door opens. Jeff sticks his head in.
+speaker_heading: JEFF
+dialog: (to Bob)
+dialog: You want more mortar thrown in there tomorrow?
+text: Bob shakes his head 'yes'.
+speaker_heading: BOB
+dialog: (snapping at Jeff)
+dialog: You don't know the answer to that?
+dialog: (back into phone)
+dialog: What? I'm walking over right now.
+text: He hangs up the phone.
+speaker_heading: MIKE
+dialog: (puts out his smoke)
+dialog: Don't forget, you're on Wabash at three o'clock. New beams going in.
+speaker_heading: BOB
+dialog: Yep.
+text: Bob's out the door.
+speaker_heading: CUT TO:
+scene_heading: EXT. LINCOLN PARK ZOO - CONTINUOUS
+text: Around a lamp post, secured by one chain, we see Grace's bike, and five
+text: others, two with training wheels.
+text: Bob's legs cross through frame and then stop. We pan up, Bob is staring
+text: up at the old Primate House.
+text: In the b.g. we see GRACE, MEGAN and the KIDS, walking towards the Primate
+text: House. Megan is doing her best to keep the group together. Grace is
+text: holding tightly on to Tommy's hand, while in her other, she holds his
+text: Batman wallet. The stroller is childless, yet full of discarded
+text: sweatshirts, a picnic basket and a stuffed dolphin.
+text: Bob makes a definite left, avoiding the Primate House... But then
+text: stops, and turns back -- after a deep breath, he decides to go in...
+speaker_heading: CUT TO:
+scene_heading: INT. PRIMATE HOUSE - CONTINUOUS
+text: A dark, cavernous building, painted to look like a jungle. The
+text: excitement of the SPECTATORS echoes off the tile walls.
+text: Bob lets the door close behind him, shutting the sunlight out, as he
+text: slowly enters this very familiar territory. He walks over to the
+dialog: enclosed,
+speaker_heading: GORILLA HABITAT.
+text: SYDNEY is sitting in the corner, facing the wall, ignoring everyone.
+text: Displayed at the front of the exhibit are small PHOTOGRAPHS and a brief
+text: history of each gorilla. Bob looks over the different photos, stopping
+dialog: at the one on Sydney.
+scene_heading: Sydney's bio reads: "SYDNEY, FIFTEEN YEARS OLD. TAUGHT SIGN LANGUAGE IN
+scene_heading: 1990 BY DR. KATHERINE RUELAND. YOU CAN SAY HELLO TO SYDNEY BY DOING THE
+text: FOLLOWING..." A DIAGRAM OF TWO HANDS illustrates the sign language
+dialog: symbols for "H" and "I".
+text: Bob looks up, observing the CHILDREN trying to say "hello" to Sydney.
+text: He brushes his fingers over Katherine's name on the display, turns and
+dialog: leaves.
+text: Just as Bob reaches for the door, it is pulled open by Megan, ushering
+text: the kids in. The sunlight temporarily blinds Bob, who quickly averts
+text: his eyes. As he reaches for his sunglasses...
+text: Grace and Tommy enter, passing Bob as he puts on his sunglasses. Bob and
+dialog: Grace are so close...
+text: Bob slightly brushes against Grace's arm as he passes her. Grace sighs,
+text: and lightly touches her heart. She squeezes a little tighter onto
+dialog: Tommy's hand...
+speaker_heading: TOMMY
+dialog: Aunt Grace, are you okay?
+text: The door closes behind them.
+speaker_heading: GRACE
+dialog: (with a confused look)
+dialog: Yes.
+dialog: (hand on heart)
+dialog: Whatever it was, it didn't hurt.
+text: Grace and Tommy catch up with Megan and kids... Little Kevin, yelling.
+speaker_heading: MEGAN
+dialog: (trying to calm him)
+dialog: It probably fell out of the stroller...
+dialog: (to Grace)
+dialog: His dolphin...
+speaker_heading: GRACE
+dialog: I'll go look for it.
+speaker_heading: MEGAN
+dialog: No, I'll do it.
+speaker_heading: CUT TO:
+scene_heading: EXT. PRIMATE HOUSE - CONTINUOUS
+text: Bob, with the door just closing behind him, steps forward and on to a
+text: small stuffed dolphin, which SQUEAKS. Bob jumps.
+text: The door opens and a WOMAN'S HAND comes out...
+speaker_heading: MEGAN
+dialog: (to Bob)
+dialog: Excuse me, I'm sorry...
+dialog: (pointing to dolphin)
+dialog: If that isn't yours, I think I know who it belongs to.
+text: Megan picks up the dolphin and walks back into the Primate House.
+text: Bob says nothing and walks away.
+speaker_heading: CUT TO:
+scene_heading: INT. PRIMATE HOUSE - CONTINUOUS
+text: Megan gives the dolphin to Kevin, whose tears dry instantly.
+text: Grace reads Sydney's plaque and shows the kids how to do the "sign" for
+dialog: "Hi". They are right next to the glass...
+text: Sydney, shifting his weight to get comfortable, notices the kids doing
+text: the signing. He frantically runs around the cage once, then swings from
+text: a DANGLING TIRE. Everyone howls with delight.
+speaker_heading: GRACE
+dialog: (re: the gorilla cage)
+dialog: They should have more space. Hi, Sydney.
+text: Grace joins the others, doing the sign language for "Hi". Sydney
+text: waddles over closer to the glass and Grace.
+speaker_heading: JOEY
+dialog: Look Mom, he likes us.
+speaker_heading: MEGAN
+dialog: Doesn't he remind you of Daddy?
+text: The kids all giggle and agree. Sydney stares at Grace, then puts the
+text: palm of his hand against the glass. He studies her face. Grace reaching
+text: out, presses her palm against his through the glass.
+speaker_heading: GRACE
+dialog: He's so sweet.
+speaker_heading: CUT TO:
+scene_heading: INT. ADMINISTRATION BLDG. LINCOLN PARK ZOO - MOMENTS LATER
+text: Bob paces as THREE MEN in suits sit at the other end of a conference
+text: table, behind them on the wall hang several artist renditions of the new
+text: Gorilla Habitat. Charlie leans against the wall behind Bob. One of the
+text: "Suits" is wearing glasses and going over some papers.
+speaker_heading: SUIT #1
+dialog: We approved one large artificial tree to be planted in the habitat,
+dialog: fifty more feet was not approved.
+speaker_heading: BOB
+dialog: First of all, artificial trees are not "planted"... And why build a
+dialog: tree when two real trees are already there?
+speaker_heading: SUIT #1
+dialog: Slow down, we're just asking you to stick with the original plan. We're
+dialog: giving them the tires, your whole elaborate
+text: jungle-gym-piping-thingamajig and a fake tree.
+speaker_heading: SUIT #2
+dialog: Bob, we've given you total freedom since the zoning was approved...
+speaker_heading: BOB
+dialog: So why stop now? C'mon guys, it's just fifty feet...and we can build
+text: around the Oak trees, real-full-grown-sturdy Oaks coming right out of the
+text: top of the structure. All that from just fifty extra feet.
+speaker_heading: SUIT #1
+dialog: We'd like to use that fifty feet for a souvenir shop...
+speaker_heading: BOB
+dialog: Ohmigod, Guys, you're a Zoo. Isn't it better for the gorillas to have a
+dialog: "real" tree? Charlie?
+speaker_heading: CHARLIE
+dialog: Yes, definitely...
+speaker_heading: BOB
+dialog: Because I seriously doubt the gorillas would even know how to sell the
+dialog: souvenirs, then there's the training involved...the computer registrar,
+dialog: time-cards...
+speaker_heading: SUIT #2
+dialog: Okay Bob, you've made your point. But we've given in on enough...
+speaker_heading: BOB
+dialog: (taking control)
+dialog: Guys here's the deal. My wife wanted this building up two years ago.
+dialog: So the way I look at it, we're already behind schedule. You give me
+dialog: that fifty feet so I can build around the real trees and I'll finish the
+dialog: job within the month so you can have it open at the beginning of summer.
+speaker_heading: SUIT #2
+dialog: (considering - looking at blueprints)
+dialog: One real tree enclosed would still leave us with...
+speaker_heading: BOB
+dialog: And I'll personally design and build a souvenir shop that'll fit in the
+dialog: space that's left...
+text: The men all close their folders...
+speaker_heading: SUIT #1
+dialog: It's a deal.
+text: The men get up and leave the room very pleased. Bob and Charlie stand
+text: there a beat, stunned.
+speaker_heading: CHARLIE
+dialog: Wow.
+dialog: Beat.
+speaker_heading: BOB
+dialog: Did they know that was going to happen?
+speaker_heading: CUT TO:
+scene_heading: EXT. CITY STREET - DAY -
+text: WE FOLLOW Grace, she stops at a mailbox and pulls a worn pale pink
+text: envelope from her basket. She opens the mail box and peers inside, then
+text: at her letter... She puts the letter back into a rip in her coat
+text: lining, she gives it a secure pat and peddles away...only to make a
+text: u-turn. She immediately returns to the mailbox, takes the letter out of
+text: her coat, closes her eyes, takes a deep breath and drops the letter into
+text: the mailbox. We see it is addressed to: DONOR LIAISON.
+speaker_heading: CUT TO:
+scene_heading: INT. HIGH SCHOOL GYMNASIUM - NIGHT
+text: Bob has aggressively taken control of a pick-up game of basketball. A
+text: few GUYS are hollering "Pass" but Bob doesn't hear them. He's taken it
+text: upon himself to bring the ball up the court for the final shot. Charlie
+dialog: stop running, why bother, Bob has forgotten he has teammates.
+text: Bob drives through the key and past a few members of the other team,
+text: dunking the last basket.
+speaker_heading: CHARLIE
+dialog: Game.
+text: Everyone heads for the bench. A couple of guys mention they're going to
+speaker_heading: the ALE HOUSE.
+speaker_heading: CHARLIE (cont'd)
+dialog: Come on, come out tonight...
+speaker_heading: BOB
+dialog: Nope...
+speaker_heading: CHARLIE
+dialog: Just have a beer with the guys once, don't worry, none of them will talk
+dialog: to you, they all think you're nuts...
+speaker_heading: BOB
+dialog: You're sure you won't have some women "accidentally" joining us.
+speaker_heading: CHARLIE
+dialog: I did that once...twice. But I won't tonight, because Friday night, I
+dialog: have someone very special...
+speaker_heading: BOB
+dialog: (waving his hand)
+dialog: Forget it, Chuck.
+speaker_heading: CHARLIE
+dialog: She has a great body. An attorney. Great body, very attractive, great
+dialog: body... I'd date her myself but I was with her sister once...
+speaker_heading: BOB
+dialog: Uh-huh...
+speaker_heading: CHARLIE (cont'd)
+dialog: You'll like her. She loves animals, her cat is a patient of mine.
+speaker_heading: BOB
+dialog: I'm a dog person...
+text: Bob walks away.
+speaker_heading: CHARLIE
+dialog: (watches Bob ignore him)
+dialog: Oh that's nice, just walk away, go ahead, run away...
+dialog: (yells)
+dialog: I'm your only friend--you know that? I'm trying to help you...
+text: Bob deliberately walks back to Charlie...
+speaker_heading: BOB
+dialog: (controlled, but angry)
+dialog: You want to help me, Charlie--stop trying to 'help' me... Let me at
+dialog: least enjoy my heartache...
+speaker_heading: CHARLIE
+dialog: What kind of twisted argument is that?
+speaker_heading: BOB
+dialog: And stop being such a jerk at the zoo.
+speaker_heading: CHARLIE
+dialog: (totally confused)
+dialog: What?
+speaker_heading: BOB
+dialog: Don't just stand around, speak up. Initiate something. Fight one of
+dialog: the battles. You want to help me, Charlie? Then help me get it
+dialog: done--for Katherine.
+speaker_heading: CHARLIE
+dialog: Then what?
+text: As Bob turns and walks back to the lockers...
+speaker_heading: CUT TO:
+scene_heading: EXT. BOB'S APARTMENT - LATER SAME EVENING
+text: A teenage boy, wearing roller blades, negotiates the steps. He's coming
+text: down very slowly backwards, hanging onto the cement stoop for balance.
+text: This is DANNY, the dog walker. Unbeknownst to Danny, Bob, carrying his
+text: gym bag and a small scale model of Sydney's new home, walks up behind
+dialog: him.
+speaker_heading: BOB
+dialog: (noticing the blades)
+dialog: Danny, you got 'em.
+speaker_heading: DANNY
+dialog: (turns to quickly)
+dialog: Oh, geeze...
+text: (turns back, clinging to the stoop)
+dialog: Yeah. I just took Mel out.
+speaker_heading: BOB
+dialog: Thanks Pal. How's your math coming?
+text: Danny lives right next door, he climbs over the front stoop to his
+dialog: place.
+speaker_heading: DANNY
+dialog: Great, got a "C" on my last test.
+speaker_heading: BOB
+dialog: Alright!
+dialog: (they do a high five over the stoop)
+dialog: I'll give you a raise if you can get it to a "B".
+speaker_heading: DANNY
+dialog: "C" plus?
+speaker_heading: BOB
+dialog: Deal.
+text: As Danny walks on the sides of his feet into his apartment...
+speaker_heading: CUT TO:
+scene_heading: INT. BOB'S APARTMENT - CONTINUOUS
+text: The apartment, now lacking the "woman's touch", is unkempt and
+text: disorganized. Mel is sleeping against the front door, barely budging
+text: when Bob pushes the door open. Mel just kind of slides with it.
+speaker_heading: BOB
+dialog: Hey, Mel, any calls?
+text: Bob picks up his scattered mail beneath the mail slot. He casually
+text: tosses the mail next to the phone, then sits at the coffee table turning
+text: the model from side to side viewing it from each angle...
+speaker_heading: BOB
+dialog: (to Mel)
+dialog: Ya hungry?
+text: Bob walks down the hall to the kitchen. Mel following half way then
+text: turns and goes back to his "waiting" spot at the front door. Bob
+text: watches him, sighs...
+scene_heading: DOORBELL RINGS.
+text: Bob answers the door. A young DELIVERY GIRL stands holding a white bag
+text: of Chinese food. Mel starts barking.
+speaker_heading: BOB
+dialog: (grabbing Mel's collar)
+dialog: Sorry.
+dialog: (handing her the cash)
+dialog: Here y'go...
+speaker_heading: DELIVERY GIRL
+dialog: Thanks, Mr. Rueland. See ya tomorrow night.
+dialog: (to Mel, still barking)
+dialog: Bye, bye, Mel.
+text: Bob closes the door and carries the food into the kitchen. He removes
+text: several cartons, opens the one of white rice and dumps it out on a
+dialog: plate.
+speaker_heading: HALLWAY
+text: Mel has gone to his usual "waiting for Katherine" spot at the door. WE
+text: STAY on Mel.
+speaker_heading: BOB (O.C.)
+dialog: C'mon Mel.
+text: Nothing. Mel doesn't move.
+speaker_heading: BOB (O.C.) (cont'd)
+dialog: Mel, let's go. I gotcha some rice.
+dialog: (sighs)
+dialog: Mel!
+text: Bob leans into the hall. Looks at Mel.
+speaker_heading: BOB
+dialog: God damn it.
+text: He starts walking towards Mel.
+speaker_heading: BOB
+dialog: C'mon Mel, stop it. She's gone.
+dialog: (kneels down)
+dialog: You can't sit here night after night. C'mon get up... Do you think
+dialog: that's what she would have wanted? C'mon, get up Mel... Look at you...
+text: (Bob sees his own reflection in the glass on the door)
+dialog: Look at you...
+text: (He slowly slumps down)
+text: Time seems to stand still as WE STAY on Bob sitting next to Mel. He
+text: sits, staring out, looking at nothing. We see a million memories flash
+text: by in his eyes...
+text: Suddenly, he gets up and walks directly to the phone. Dials.
+speaker_heading: BOB
+dialog: (into phone)
+dialog: Charlie. I'll go on Friday night. Yeah, you heard me. Where is it?
+text: He takes an envelope near the phone. He palms it, to write on the back.
+text: We see the front and the return address reads: DONOR LIAISON OF SAINT
+speaker_heading: MARY'S...
+speaker_heading: BOB
+dialog: O'Rielly's "Italian" Restaurant? Uh-huh. Yeah, me too.
+text: He hangs up the phone.
+speaker_heading: CUT TO:
+scene_heading: INT. O'RIELLY'S RESTAURANT - DINING ROOM
+text: BOBBY VINTON'S Polish rendition of "I LOVE YOU SO" plays throughout the
+text: Italian restaurant. Wally is enjoying the music at the bar.
+text: We FOLLOW GRACE through the crowded dining room, past the bar and into
+dialog: the
+speaker_heading: KITCHEN
+text: where Angelo is straining pasta. Grace begins refilling her empty tray,
+text: stopping only to put some garnish on a few plates.
+speaker_heading: ANGELO
+dialog: It's a busy, no? I love Fridays.
+text: Marty walks by, deliberately setting a plate down in front of Grace.
+text: Angelo looks on...
+speaker_heading: MARTY
+dialog: Here's some leftovers for y'lassy...
+text: Grace looks down at an airline envelope sitting on the plate... She
+text: opens it. We see AIR ITALIA printed on the side... Grace gasps.
+speaker_heading: GRACE
+dialog: No way...Grandpa!
+dialog: (hugs him)
+dialog: Rome!
+speaker_heading: MARTY
+dialog: (not great with affection)
+dialog: Ah, save that for the Italians... I know you love me.
+speaker_heading: GRACE
+dialog: Oh my, Grandpa, you do too much...
+speaker_heading: MARTY
+dialog: Angelo says a true artist must pain in the Pizza Navona...
+speaker_heading: ANGELO
+dialog: "Piazza" Navona...Marone.
+speaker_heading: GRACE
+dialog: Grandpa, you have to come with me...
+speaker_heading: MARTY
+dialog: You go for both of us. Instead of postcards, you send me paintings.
+text: Sophie enters, picks up a small slab of Parmesan cheese... She sees the
+text: ticket in Grace's hand.
+speaker_heading: SOPHIE
+dialog: You couldn't wait till I was in the kitchen?
+speaker_heading: MARTY
+text: Her face still has the same expression as when she opened it... See?
+text: Grace's still beaming, looking at the ticket...
+speaker_heading: SOPHIE
+dialog: I miss everything...
+speaker_heading: GRACE
+dialog: Grandpa, I'm so happy to be right here. I never imagined... I think
+dialog: I'll go in the fall...
+text: Marty, getting a little choked up, picks up two plates and walks back
+text: towards the dining room.
+speaker_heading: MARTY
+dialog: Okay, Sophie, back to work.
+text: Sophie ignores him and walks to Grace, Parmesan in hand...
+speaker_heading: SOPHIE
+dialog: Can I see it?
+text: Grace holds the ticket up in front of Sophie's eyes.
+speaker_heading: SOPHIE (cont'd)
+dialog: It's beautiful. You deserve it, sweetie.
+text: Sophie exits.
+speaker_heading: GRACE
+dialog: Angelo, thank you.
+dialog: (putting the ticket safely in her apron pocket)
+dialog: Wait till I tell Megan...
+speaker_heading: ANGELO
+dialog: One more surprise, "he" is here.
+speaker_heading: GRACE
+dialog: Who-He?
+speaker_heading: ANGELO
+dialog: The guy I tell you about. He's at the bar waiting to meet you.
+speaker_heading: GRACE
+dialog: (oh, no...)
+dialog: Angelo...
+speaker_heading: ANGELO
+dialog: It's okay, I tell him you had you chest worked on...
+speaker_heading: GRACE
+dialog: Angelo, please...my "chest worked on?" He's going to expect...
+speaker_heading: ANGELO
+dialog: What?
+speaker_heading: GRACE
+dialog: Whatever... You don't have to--
+speaker_heading: ANGELO
+dialog: This guy is different. He's just like you. He have a transplant.
+speaker_heading: CUT TO:
+speaker_heading: CLOSE-UP, GRACE'S FACE,
+speaker_heading: MAN (O.C.)
+dialog: So, I'm still in a little pain, but you know how that is...
+text: Grace politely shakes her head "yes".
+speaker_heading: CUT TO:
+speaker_heading: GRACE'S P.O.V.
+scene_heading: CLOSE-UP, MAN'S FOREHEAD,
+text: It's obvious he's had a transplant. A hair transplant.
+text: PULL OUT to a TWO SHOT of Grace and the Man at the bar...
+speaker_heading: MAN
+dialog: My doctors say it's a solid transplant.
+dialog: (points to head)
+dialog: Go ahead, pull it.
+speaker_heading: GRACE
+dialog: No, that's okay.
+speaker_heading: MAN
+dialog: C'mon, giver 'er a tug.
+text: In the b.g., we notice Charlie and TWO WOMEN enter the dining room.
+text: Marty politely takes their jackets and hangs them on the hooks in the
+text: entryway.
+speaker_heading: CUT TO:
+scene_heading: EXT. O'RIELLY'S - WELLS STREET
+text: Bob's white pick-up comes up the street, he slows down directly in front
+dialog: of O'Rielly's...
+speaker_heading: CUT TO:
+scene_heading: INT. BOB'S TRUCK.
+text: He checks the name of the restaurant he'd written on the envelope and
+text: notices the letter's return address...DONORS LIAISON OF ST. MARY'S. Bob
+text: slowly opens the envelope and takes out an enclosed form letter. He
+text: reads it, then reaches into the envelope and pulls out a WORN PALE PINK
+speaker_heading: LETTER.
+speaker_heading: VALET GUY
+dialog: You staying or leaving or what?
+speaker_heading: BOB
+dialog: Huh? Um, staying...
+text: Bob quickly tucks the pink envelope back into his jacket pocket and hops
+text: out of the truck.
+speaker_heading: CUT TO:
+scene_heading: INT. O'RIELLY'S - CONTINUOUS
+text: Bob hangs his coat on a hook. Charlie spots Bob and waves him over.
+text: Marty sees the table is full and walks over to Grace at the bar. She's
+text: still talking with the man, who is now tugging on his own hair.
+speaker_heading: MARTY
+dialog: (looking at this guy)
+dialog: Grace, we have a new four top.
+speaker_heading: GRACE
+dialog: I'm right on it.
+dialog: (to the man)
+dialog: Nice meeting you.
+speaker_heading: MAN
+dialog: Likewise, I'm sure.
+text: Grace asks the BARTENDER to prepare four waters, then leaves to pick up a
+text: tray in the kitchen...passing Bob and Charlie's table, we STAY with
+dialog: them...
+text: Everyone's getting settled. Charlie and his date, SHARI, can't seem to
+text: talk without touching. Bob, meanwhile, sites beside MARSHA, an
+text: attractive woman--great body. As she takes off her suit jacket, we see
+text: her shirt is one size too small for her breasts. She's smart, pretty,
+dialog: but ohmigod, shut-up...
+speaker_heading: MARSHA
+dialog: I said it's Squeaker, my kitty. Well, as you can imagine, everyone
+dialog: laughed... That's when I met Charlie, he was the only Vet open... Are
+dialog: they bringing menus? Anyway, Squeaker won't let another Vet touch him.
+speaker_heading: CHARLIE
+dialog: Yeah, well I don't want to hear about anyone else touching your
+dialog: Squeaker.
+text: Charlie winks. The ladies laugh. Bob's in hell.
+speaker_heading: CHARLIE (cont'd)
+dialog: Everything's good here.
+speaker_heading: BOB
+dialog: Nice place, Chuck.
+speaker_heading: MARSHA
+dialog: It's okay... Small.
+speaker_heading: CHARLIE
+dialog: It's family run. Great food.
+speaker_heading: MARSHA
+dialog: I went to a little place in Spain once that looked just like this except
+dialog: it was a glove store.
+speaker_heading: BOB
+dialog: Is that right?
+speaker_heading: MARSHA
+dialog: Hm-mmm. So Rob, Charlie tells me you're an engineer.
+speaker_heading: CHARLIE
+dialog: He's a structural engineer. You know that new building on State Street,
+dialog: that's Bob's.
+speaker_heading: SHARI
+dialog: You own it?
+speaker_heading: BOB
+dialog: No, I designed it.
+speaker_heading: SHARI
+dialog: (disappointed)
+dialog: Oh.
+text: Grace arrives at the table and begins setting the waters down in front of
+text: each person. Bob notices her, really notices her. When Grace gets to
+dialog: Marsha...
+speaker_heading: MARSHA
+dialog: (puts her hand out to stop the glass)
+dialog: No, no, no... Do you have bottled water?
+speaker_heading: GRACE
+dialog: Yes, of course. Anyone else?
+text: Bob stares at Grace, he speaks before he knows it...
+speaker_heading: BOB
+dialog: Excuse me, do I know you?
+text: They stare at each other. Everyone at the table gets a bit
+dialog: uncomfortable.
+speaker_heading: GRACE
+dialog: I think so... You've been here before.
+speaker_heading: BOB
+dialog: No. I'd remember an Irish Italian restaurant.
+text: Grace laughs. Marsha doesn't.
+speaker_heading: MARSHA
+dialog: Whatever... Water, I just don't want Swiss. I got sick on imported
+dialog: Swiss water once. As long as it's not Swiss or tap water, it'll be
+dialog: fine. Preferably, French.
+dialog: (using her fingers to emphasize)
+dialog: I'd like it cold, no ice, no glass, just the bottle and a straw.
+dialog: (leaning forward)
+dialog: You want to write it down?
+speaker_heading: GRACE
+dialog: I'm pretty sure I have it. Anyone else?
+speaker_heading: BOB
+dialog: (oh God)
+dialog: No, thank you.
+speaker_heading: CHARLIE
+dialog: A wine list please.
+speaker_heading: GRACE
+dialog: Sure.
+text: Just as Grace's about to walk away, Bob reaches out to stop her; gently
+text: touching her arm... There's a feeling between them. Neither one quite
+dialog: understands it... It's just a hint of warmth.
+speaker_heading: BOB
+dialog: Excuse me, could I have a coffee? No straw.
+speaker_heading: GRACE
+dialog: (smiles)
+dialog: Sure.
+text: Bob watches her go, his glance interrupted by his RINGING cell phone.
+text: Everyone at the table goes for their phone. The only one who doesn't is
+dialog: Bob, and it's his phone.
+text: Another RING. Marsha, Charlie and Shari stare at Bob.
+speaker_heading: BOB
+dialog: What?
+dialog: (realizing)
+dialog: Oh, I usually don't bring it...
+dialog: (flips open phone)
+dialog: Excuse me.
+dialog: (into phone)
+dialog: Rueland... Hey Mike... Uh-huh
+text: Bob stands, motioning to the table that he'll be right back. He talks
+text: and walks which takes him to the
+text: BACK OF THE RESTAURANT.
+speaker_heading: BOB
+dialog: (into phone)
+dialog: I'm glad... So let's call in a favor on Hank...the brick layer. We'll
+dialog: contract them for five days, they'll do four for me, then one day at the
+dialog: zoo. Either way, they get paid for five like under the original
+dialog: contract... Who else is on the clock?
+text: Bob leans against the back wall and listens to Mike rattling off names
+text: on the other end of the phone... We notice Bob's eyes are interested in
+dialog: someone.
+speaker_heading: BOB'S P.O.V.
+text: Grace is emptying a bottle of Evian water into a sink and refilling it
+text: from the tap. As she goes to replace the cap, her eyes meet Bob's...
+text: She's embarrassed, she's been caught. Bob winks his approval. They
+text: share a smile. This is the first time we see Bob truly smile again.
+speaker_heading: BOB (cont'd)
+dialog: (into phone)
+dialog: Yeah, yeah, I'm still here... That sounds great.
+text: Grace leaves for the dining room.
+speaker_heading: BOB (cont'd)
+dialog: (into phone)
+dialog: I'll talk to you in the morning then...Wait, Mike? Do me a favor, call
+dialog: me back in about five or ten minutes and just ignore what I say...
+dialog: Thanks.
+text: Bob closes the phone and returns to the
+speaker_heading: DINING ROOM
+text: as Grace arrives at the table with menus. Bob sits as Marsha takes a big
+dialog: sip of water...
+speaker_heading: BOB (cont'd)
+dialog: (to Marsh)
+dialog: I bet that's refreshing.
+speaker_heading: MARSHA
+dialog: Such a difference...
+text: He glances up at Grace, she's biting her lip...
+speaker_heading: GRACE
+dialog: We have some wonderful specials this evening; a lovely Chicken
+dialog: Vesuvio...
+speaker_heading: CHARLIE
+dialog: Please, I'm around them all day.
+text: Shari laughs, then kisses Charlie way too much. Bob doesn't take his
+text: eyes off Grace.
+speaker_heading: GRACE
+text: A corn beef and cabbage souffle and a spinach ravioli in an arrabiatta
+dialog: sauce, it's my favorite.
+speaker_heading: BOB
+dialog: I'll have that...
+speaker_heading: GRACE
+text: Okay, and a sword fish, served with white wine sauce and tomato and
+dialog: garlic checca...
+speaker_heading: MARSHA
+dialog: I'll have veal.
+speaker_heading: GRACE
+dialog: We don't serve veal.
+speaker_heading: MARSHA
+dialog: Oh, brother...
+speaker_heading: BOB
+dialog: Just get something else...
+speaker_heading: SHARI
+dialog: Charlie, you order for me.
+speaker_heading: CHARLIE
+dialog: (to Grace)
+dialog: We'll need another minute.
+speaker_heading: BOB
+dialog: (to Grace)
+dialog: Thank you.
+speaker_heading: GRACE
+dialog: Sure, take your time...
+text: Grace walks away... In the b.g. we see her pass Marty, whose stopping
+text: and checking on a few tables like a good host should. A few PATRONS
+text: offer their compliments as he walks towards the kitchen...
+speaker_heading: MARTY
+dialog: Grazi. Grazi.
+dialog: (yelling to the kitchen)
+dialog: Angelo! We need...
+text: Marty disappears behind the swinging doors...
+speaker_heading: MARTY (O.C.)
+dialog: Three more Shepard pies!
+speaker_heading: MARSHA
+dialog: An Italian restaurant that doesn't serve veal...
+text: Bob's cell phone RINGS. This time he pounces on it.
+speaker_heading: BOB
+dialog: (into phone)
+dialog: Rueland... Yeah, Mike? Uh-huh... Well, I'll leave right now. Be
+dialog: there in five minutes... No, it's not a problem, if I have to be there,
+dialog: I have to be there.
+text: Bob flips his phone closed.
+speaker_heading: CHARLIE
+dialog: (suspicious)
+dialog: Where?
+speaker_heading: BOB
+dialog: The Wabash building.
+speaker_heading: CHARLIE
+dialog: Tonight: They're working on a Friday night?
+speaker_heading: BOB
+dialog: Oh yeah... I'm so sorry Marsha, really very sorry. It was nice meeting
+dialog: you, and Shari... Please, enjoy your meal and...again, I apologize. If
+dialog: you'll excuse me.
+text: Bob stands, pushes in his chair and bee-lines for the exit...As he
+text: leaves he puts his cell phone down on the bar to grab his coat off the
+text: hook, he glances around one last time for Grace, she walks up behind
+dialog: him...
+speaker_heading: GRACE
+dialog: Everything okay?
+speaker_heading: BOB
+dialog: Oh, hi, yes, fine. I just got called to work...
+text: Bob puts on his coat and taps the letter in the breast pocket, still
+dialog: there...
+speaker_heading: GRACE
+dialog: What about your wife?...and her friends, will they be staying--
+speaker_heading: BOB
+dialog: She's not my wife...not a friend, not an acquaintance, and yes, they'll
+dialog: be staying...
+speaker_heading: GRACE
+dialog: (sweetly)
+dialog: Oh...
+text: Sophie walks up with a "to go" order all bagged and ready "to go". Grace
+dialog: stops her...
+speaker_heading: GRACE
+dialog: Soph? What is that?
+speaker_heading: SOPHIE
+dialog: Ravioli... Chicken Vesuvio and a side of cabbage...for pick up.
+text: Grace takes the bag from Sophie.
+speaker_heading: GRACE
+dialog: (to Bob)
+dialog: Here it is...
+dialog: (reads receipt)
+dialog: Mr. Ahtsuki. Sorry for the wait... Since it took so long, it's on the
+dialog: house. Come back again...
+text: Grace smiles warmly, then confidently turns and walks straight into a
+dialog: table. Oops.
+speaker_heading: CUT TO:
+scene_heading: EXT. O'RIELLY'S
+text: Bob exhales and hands his ticket to the valet, as Charlie steps up
+text: behind him...
+speaker_heading: CHARLIE
+dialog: Bob, what's the deal?
+speaker_heading: BOB
+dialog: I came out didn't I?
+speaker_heading: CHARLIE
+dialog: Yeah, congratulations... You lasted almost a half an hour... That's a
+dialog: record...
+dialog: (glances back to Marsha)
+dialog: I only met her a couple of times, I had no idea she was so..."not
+dialog: you"...
+speaker_heading: BOB
+dialog: It's fine, Chuck. It's not her, it's me... She's everything you said
+dialog: she was, an attorney with a great body.
+speaker_heading: CHARLIE
+dialog: C'mon, you're already out, it's Friday night, have some wine... Okay,
+dialog: have a lot of wine and enjoy the company...
+text: The valet pulls up with Bob's truck...
+speaker_heading: BOB
+dialog: (walks to his truck)
+dialog: I can't. If I could I would... But I've gotta go to work.
+speaker_heading: CHARLIE
+dialog: (yells)
+dialog: I know you're going home...
+text: The VERY SHORT VALET GUY jumps out of the driver's seat. Bob climbs in
+text: and sits--the steering wheel is pressed against his chest... Bob adjust
+text: his seat. As he drives off, in the b.g., we see a MAN arguing with the
+dialog: valet.
+speaker_heading: MR. AHTSUKI
+dialog: I no need to park. I just pick up order. One minute. Give me my keys,
+dialog: I be one minute...
+text: Charlie walks back into the restaurant.
+speaker_heading: CUT TO:
+scene_heading: EXT. LINCOLN PARK ZOO - BRIDGE - MOMENTS LATER
+text: The rain has stopped. Bob, lost in thought, leans on the stone railing
+text: that lines the gleaming wet path on the bridge, eating his ravioli out
+text: of the styrofoam container with a plastic fork. He taps his breast
+text: pocket for the letter, still there. He slowly takes it half way out,
+text: then puts it back. He finishes eating... Stops, breathes in the night
+text: air. Leaning on the rail, he looks out over the river and up at the
+dialog: Chicago sky line.
+text: He feels the letter in his chest pocket, reaches into the jacket and
+text: pulls out the worn pale pink envelope...
+text: He carefully opens it...
+speaker_heading: CLOSE-UP BOB.
+text: As he reads, his face reflects the emotional content of the letter...
+scene_heading: OVER BOB'S SHOULDER,
+text: we see the feminine hand writing...
+speaker_heading: DISSOLVE INTO:
+scene_heading: CLOSE-UP OF GRACE'S HAND,
+dialog: as she writes...
+dialog: "I hope this letter will bring some comfort..."
+text: PULL BACK, revealing Grace in her hospital bed, just weeks after the
+text: transplant. She is sitting up, thoughtfully composing the letter on her
+text: bedside table as little Bridgette lies beside her coloring. Megan is
+text: busy adding water to the flowers on the nightstand.
+text: The door opens and a NURSE enters the room. Grace immediately pulls the
+text: blanket over to hide Bridgette who continues to color beneath the blanket
+text: as the nurse takes Grace's blood pressure. The nurse finishes and exits,
+text: Bridgette pops out from under the blanket. Grace continues writing...
+scene_heading: CLOSE-UP OF GRACE'S HAND,
+dialog: as she writes the following...
+dialog: "...your thoughtfulness in a moment of such deep sorrow..."
+speaker_heading: BACK ON BOB,
+dialog: "...I awake each day feeling the gentle rhythm of the heart that beats
+dialog: inside me..."
+text: Bob flips the letter over to look on the back, no signature. Looking up
+text: at the stars, he slowly folds the letter, as we...
+speaker_heading: FADE OUT:
+speaker_heading: UP ON:
+scene_heading: EXT. LINCOLN PARK ZOO - NEXT DAY
+text: We notice that scaffolding has been set up around TWO OAK TREES. Bob
+text: stares up into the sun to the tops of the strong reaching branches.
+text: Jeff walks over studying some blueprints. As soon as he starts to talk,
+text: Bob walks briskly away, towards the trailer. Jeff does a small u-turn,
+text: walking and talking, trying to keep up...
+speaker_heading: JEFF
+dialog: (re: the blueprints)
+dialog: Bob, I know on this most recent set...
+dialog: (afraid of setting him off)
+dialog: We're only enclosing the one Oak tree?
+speaker_heading: BOB
+dialog: (picking up the pace)
+dialog: I have a different set of prints in the office.
+speaker_heading: JEFF
+dialog: (under his breath)
+dialog: That's what I thought Mike said.
+speaker_heading: BOB
+dialog: We'll keep working Saturdays and we'll work late...
+speaker_heading: CUT TO:
+scene_heading: INT. CONSTRUCTION TRAILER - CONTINUOUS
+text: MIKE's eating a donut as he hangs up the phone. Bob and Jeff enter.
+speaker_heading: BOB
+dialog: Mike, give the newest plans to Jeff, so we can run over 'em right away.
+speaker_heading: JEFF
+dialog: Is this going to be the last set?
+speaker_heading: MIKE
+dialog: (shakes his head "no" to Jeff)
+dialog: Yes.
+text: Bob, looking through messages on the desk.
+speaker_heading: BOB
+dialog: Anyone call about my phone?
+speaker_heading: MIKE
+dialog: Yep, restaurant called back, they have it...
+speaker_heading: BOB
+dialog: Who called...from the restaurant?
+speaker_heading: MIKE
+dialog: I don't know...some woman. I'll send one of the interns to pick it up.
+speaker_heading: BOB
+dialog: No.
+dialog: (throws it away)
+dialog: I can swing by there later...
+speaker_heading: JEFF
+dialog: (looking over the new blueprints)
+dialog: Are there going to be any trees in the souvenir shop?
+speaker_heading: CUT TO:
+scene_heading: INT. MEGAN AND JOE'S HOUSE - THAT NIGHT
+text: A spacious kitchen with an old linoleum floor spills into a family room
+text: with hardwood floors and a big bay window. It's cozy, lived in, and
+dialog: seldom quiet.
+text: Joey's playing a game of Nintendo, with all its annoying SOUND EFFECTS.
+text: Kevin's pounding on the piano. Bridgette's CRYING in her high chair and
+text: in the middle of all this, Patrick sleeps soundly on the kitchen floor.
+text: Megan and Grace are at the counter, preparing veggies. Joe sits at the
+text: head of the table, still in his fireman's uniform, with L'il Tommy on
+text: his knee...they're looking at photos.
+speaker_heading: TOMMY
+dialog: And here's the baby pigs and see, the mommy had ten baby bottles coming
+text: out of her tummy.
+speaker_heading: JOE
+dialog: (yelling into the family room)
+dialog: Stop with the piano!
+dialog: (frustrated)
+dialog: Megan...
+speaker_heading: MEGAN
+dialog: (dryly)
+dialog: I'm not playing it.
+speaker_heading: TOMMY
+dialog: And then we went to see the gorillas and Mommy said it was you.
+speaker_heading: MEGAN
+dialog: I did not.
+speaker_heading: JOE
+dialog: Oh, really? Did you go to see the elephants?
+speaker_heading: MEGAN
+dialog: Watch it, Joe.
+text: Megan picks up the crying Bridgette, out of her high chair.
+speaker_heading: MEGAN (cont'd)
+dialog: (to Joe)
+text: She's wet.
+speaker_heading: GRACE
+dialog: I'll change her.
+speaker_heading: JOE
+dialog: (not moving a muscle)
+dialog: It's okay, Grace. I got it.
+text: Grace takes Bridgette from Megan and exits down the hall. Megan smacks
+text: Joe on the shoulder.
+speaker_heading: JOE (cont'd)
+dialog: (looking to see if Grace is gone)
+dialog: Listen, Meg... Rudy's coming by tonight. I though he'd come meet Grace,
+dialog: y'know...
+speaker_heading: MEGAN
+dialog: Father Rudy?
+speaker_heading: JOE
+dialog: Stop it, Meg. He's not a priest anymore.
+speaker_heading: MEGAN
+dialog: To me, he is. She'll meet someone on her own, Joe.
+speaker_heading: JOE
+dialog: How? She's always here on her nights off. He has about as much
+dialog: experience as she does. Where you gonna find a guy like that?
+speaker_heading: MEGAN
+dialog: Who would want to?
+speaker_heading: JOE
+dialog: He's a nice guy.
+speaker_heading: MEGAN
+dialog: It's hard to dance, when there's nobody leading.
+text: Grace walks in with baby Bridgette on her lap and places her back in the
+text: high chair. The room is quiet, except for the "kid factor". Grace
+dialog: notices...
+speaker_heading: GRACE
+dialog: Is everything okay?
+speaker_heading: JOE
+dialog: Fine.
+speaker_heading: MEGAN
+dialog: No. Joe went'n invited someone over here, sort of as a blind date.
+speaker_heading: GRACE
+dialog: When? Tonight?
+speaker_heading: JOE
+text: It's not a "date". He's just coming over for dinner.
+speaker_heading: GRACE
+dialog: (looking at her chest)
+dialog: I need a scarf or some make-up.
+speaker_heading: JOE
+dialog: Don't worry. I told him you had some work done.
+speaker_heading: GRACE
+dialog: What?
+speaker_heading: MEGAN
+dialog: She's not a Buick, Joe.
+speaker_heading: JOE
+dialog: It's okay. He understands. He's fine with it. He's a priest for
+dialog: Godsake.
+speaker_heading: GRACE
+dialog: A priest?!
+speaker_heading: JOE
+dialog: An EX-priest. Jesus Christ, what's the big deal? He's never dated,
+dialog: you've never dated.
+speaker_heading: MEGAN
+dialog: Joe, Grace has dated.
+speaker_heading: GRACE
+dialog: It's okay Meg.
+speaker_heading: MEGAN
+dialog: No it's not.
+speaker_heading: TOMMY
+dialog: Do you hate priests, Aunt Grace?
+speaker_heading: GRACE
+dialog: No, honey.
+speaker_heading: TOMMY
+dialog: Cuz if you do you'll go straight to hell.
+speaker_heading: JOE
+dialog: No one is going to hell. God y'try and help someone...
+speaker_heading: MEGAN
+dialog: Go ahead, Grace, leave. Get out the back door.
+speaker_heading: GRACE
+dialog: My bike's in the front.
+scene_heading: DING-DONG...
+speaker_heading: TOMMY
+dialog: Oh, shit, Father Rudy's here.
+speaker_heading: MEGAN
+dialog: Tommy don't you dare talk like that.
+speaker_heading: TOMMY
+dialog: Don't worry Mom, Dad said no one's going to hell.
+text: Bridgette bursts out screaming at all the commotion. Grace is running
+text: around looking for a scarf. Joe gets up to go answer the door.
+speaker_heading: JOE
+dialog: (before opening the door)
+text: FOR THE LOVE OF GOD, EVERYONE CALM DOWN!
+text: He opens the door and there stands Rudy, complete with clerical collar.
+text: Joe stares at the collar a beat too long.
+speaker_heading: RUDY
+dialog: (quietly, re: collar)
+dialog: I'm not used to being without it yet.
+speaker_heading: CUT TO:
+scene_heading: INT. ZEBRA LOUNGE - CONTINUOUS
+text: Charlie is on his cell phone. Behind him at the bar sit two beautiful
+dialog: "big haired" WOMEN.
+speaker_heading: CHARLIE
+dialog: (into phone)
+dialog: Bobby, my man. Where the hell are you? You run away last night and
+dialog: tonight you don't show. I've been sitting at the bar for two hours...
+dialog: (waves to the girls)
+dialog: No, I'm all alone...
+speaker_heading: CUT TO:
+scene_heading: INT. BOB RUELAND'S APARTMENT - BEDROOM - CONTINUOUS
+text: Bob, just out of the shower, stands in front of the mirror buttoning his
+text: shirt, with the phone cradled under his chin.
+speaker_heading: BOB
+dialog: (into phone)
+dialog: I'm not up to it... Yeah, "again"... I'm uh...watching the game...the
+dialog: score?
+dialog: (TV's not on - panics - can't find remote)
+dialog: Uh...
+dialog: (safe lie)
+dialog: Cubs are losing.
+speaker_heading: CUT TO:
+scene_heading: INT. BOB'S APARTMENT - FRONT HALL - CONTINUOUS
+text: The front door opens, it's Danny with Mel. Danny takes Mel's leash off
+text: and hangs it on the coat rack. Bob emerges from the bedroom.
+speaker_heading: DANNY
+dialog: Hey, Mr. Rueland, Mel ate something. I couldn't get to him, I think it
+dialog: was a rib bone...
+speaker_heading: BOB
+dialog: Is that right Mel?
+speaker_heading: DANNY
+dialog: And he rolled in something...a dead something... I can give him a
+dialog: bath...
+speaker_heading: BOB
+dialog: How much?
+text: Bob picks up his keys and his wallet off the hall table.
+speaker_heading: DANNY
+dialog: Ten bucks.
+speaker_heading: BOB
+dialog: (takes a ten from his wallet)
+dialog: Ten?
+speaker_heading: DANNY
+dialog: I use soap now.
+dialog: (Danny stuffs the ten into his pocket)
+dialog: My mom made you another lemon cake. I put it in the trash for ya.
+speaker_heading: BOB
+dialog: Thanks, pal. I'd give you twenty to see you eat that.
+speaker_heading: DANNY
+dialog: (shakes head - "no way")
+dialog: There's easier ways to make money.
+speaker_heading: BOB
+text: (opens the door to leave, turns back)
+dialog: How do I look?
+dialog: Danny's surprised to be asked.
+speaker_heading: DANNY
+dialog: Tall.
+speaker_heading: BOB
+dialog: Tall?
+speaker_heading: DANNY
+dialog: Yep.
+speaker_heading: BOB
+dialog: Thanks...
+text: Bob closes the door behind him. Danny and Mel watch him through the
+dialog: window.
+speaker_heading: CUT TO:
+scene_heading: EXT. O'RIELLY'S ITALIAN RESTAURANT - SECOND FLOOR - SAME NIGHT
+text: Grace paces on a small terrace overlooking the sidewalk caf?. She's on
+dialog: the phone...
+speaker_heading: GRACE
+dialog: (into phone)
+dialog: Megan... It was fine. He was a nice guy. Certainly knows his wine...
+dialog: (laughs, then serious)
+dialog: But did you notice...
+text: As Grace talks, she watches a YOUNG COUPLE leaving after a romantic
+dialog: dinner.
+speaker_heading: GRACE (cont'd)
+dialog: ...how afraid he was to let me lift even a plate of mashed potatoes...
+dialog: I'm not being ridiculous. Once a guy finds out, they think I'm...broken
+dialog: or something.
+dialog: (sighs)
+dialog: But it doesn't matter... I'm so-so lucky.
+speaker_heading: CUT TO:
+scene_heading: INT. MEGAN AND JOE'S HOUSE - KITCHEN - CONTINUOUS
+text: Megan's got the phone tucked under her chin, as she reaches under the
+text: table and lightly pulls on the small blanket little Patrick is still
+text: sound asleep on. She slides him across the kitchen to the bottom of the
+dialog: steps.
+text: Joe walks down in his boxers, scoops up little Patrick in his arms and
+text: kisses Megan on the cheek.
+speaker_heading: JOE
+dialog: (mouthing the words)
+dialog: Tell her I'm "sorry" about tonight.
+text: Megan lovingly smiles and touches Joe's lips with two fingers. She
+text: picks up a toy from the bottom of the steps and crosses back into the
+dialog: kitchen.
+text: Joe carries little Patrick up to bed, but steps on a squeaky toy half
+text: way up the stairs. He FREEZES. Patrick's eyes open. Silence. Then...
+speaker_heading: PATRICK
+dialog: (crying)
+dialog: Whaaaaa! Mom!
+speaker_heading: JOE
+dialog: (loudly)
+dialog: God damn it!
+text: Out of the bathroom at the top of the stairs, we hear...
+speaker_heading: TOMMY
+dialog: (echoing his Dad)
+dialog: God damn it!
+text: Joey now leaves his bedroom and comes to the top of the stairs.
+speaker_heading: JOEY
+dialog: Daddy, can I have some water?
+speaker_heading: JOE
+dialog: (takes control)
+dialog: No. Everyone's going to bed. Forever! Megan!
+text: BACK IN THE KITCHEN
+text: Megan's wiping the counter top, the phone still cradled on her
+dialog: shoulder...
+speaker_heading: MEGAN
+dialog: (into phone)
+dialog: I have to go... And Grace, you're not lucky. It's fate.
+speaker_heading: CUT TO:
+scene_heading: EXT. O'RIELLY'S RESTAURANT - SECOND FLOOR TERRACE - CONTINUOUS
+text: Grace hangs up the phone and leans against the terrace railing,
+text: observing the last few customers leaving. Marty's stacking up the
+text: remaining outside chairs. He glances up and sees her...
+speaker_heading: MARTY
+dialog: Sweet dreams, my dear Lass.
+speaker_heading: GRACE
+dialog: (smiling)
+dialog: You want some help?
+speaker_heading: MARTY
+dialog: No, I'm blessed with work.
+text: Marty carries the stacked chairs inside. Grace looks up to the
+text: stars...it's just starting to drizzle. She turns and walks into the
+dialog: apartment, as we...
+speaker_heading: PAN DOWN:
+scene_heading: EXT. FRONT OF O'RIELLY'S - CONTINUOUS
+text: Bob's shiny white Ford pick-up truck pulls up.
+speaker_heading: CUT TO:
+scene_heading: INT. O'RIELLY'S DINING ROOM - CONTINUOUS
+text: Empty, except for the "usual suspects" -- WALLY, ANGELO, EMMETT, and
+text: MARTY, who sit around "their" table playing cards, smoking, having
+text: Espresso's, or a pint of beer -- involved in yet another animated
+dialog: discussion.
+speaker_heading: ANGELO
+dialog: Best female singer?
+speaker_heading: WALLY
+dialog: Ella Fitzgerald.
+speaker_heading: MARTY
+dialog: Agree.
+speaker_heading: EMMETT
+dialog: Agree.
+speaker_heading: ANGELO
+dialog: Of course.
+speaker_heading: EMMETT
+dialog: Okay. But Wally, I'd still take Ernie Banks over Ty Cobb.
+speaker_heading: WALLY
+dialog: Doesn't work. You can't pick your dream team from different eras.
+speaker_heading: EMMETT
+dialog: (to the others)
+dialog: Is this a new rule?
+speaker_heading: CUT TO:
+scene_heading: EXT. O'RIELLY'S - CONTINUOUS
+text: Bob looks through the restaurant window. No sign of Grace. He taps on
+text: the glass door but the men don't notice, perhaps "Ella's PAPER MOON" is
+text: playing a bit too loudly.
+text: Bob knocks again. Marty looks up, runs over to the stereo near the bar,
+text: turns it down a bit, then walks over and opens the door...
+speaker_heading: MARTY
+dialog: Either you're late or really early...
+speaker_heading: BOB
+text: (smiles, his eyes search the room for Grace)
+dialog: Sorry to bother you but I left my phone here...
+speaker_heading: MARTY
+dialog: No, no, no bother. Please come in.
+dialog: (the drizzle is now a rain)
+dialog: It's starting to come down out there. I'll check for you, a phone, huh?
+speaker_heading: BOB
+dialog: That's right...
+speaker_heading: MARTY
+text: (from behind the bar, he drags out a lost and found box)
+dialog: So many are left. Every week, one or two phones... I think it's no
+dialog: good, too many phones in our lives. Y'got no one really talkin'
+dialog: anymore, face to face. I don't see one in here...
+speaker_heading: BOB
+dialog: I believe a young lady called, said she found it...
+speaker_heading: MARTY
+dialog: I'll getcha a beer and I'll take a look around in back...
+speaker_heading: BOB
+dialog: Oh, no thanks...
+speaker_heading: MARTY
+dialog: Ah, y'gotta get home to y'er wife...
+speaker_heading: BOB
+dialog: No.
+speaker_heading: MARTY
+dialog: She walked out on ya, did she?
+speaker_heading: BOB
+dialog: No...
+dialog: (he'll say it)
+dialog: She passed away...
+speaker_heading: MARTY
+dialog: (hand on chest)
+dialog: Aw, I ought to be on my knees thanking God I'm on my feet... Let me
+dialog: getcha a pint.
+speaker_heading: BOB
+dialog: No, it's fine...
+speaker_heading: MARTY
+dialog: (yells over to the guys)
+dialog: Boys, this is my friend...
+speaker_heading: BOB
+dialog: Bob.
+speaker_heading: MARTY
+dialog: (pats Bob on the back)
+dialog: Robert! His wife is dead.
+text: The guys immediately accept him, with a chorus of "welcomes". Angelo
+text: pulls out a chair for Bob.
+speaker_heading: MARTY (cont'd)
+dialog: This is...
+dialog: (points to each)
+dialog: Wally, Emmett, Angelo and I'm Marty. Deal him in.
+dialog: (walks away)
+dialog: I'll find yer phone.
+dialog: (yells to the kitchen)
+dialog: Sophie, bring us a few pints...
+text: Bob hesitantly sits. The cards quickly float down in front of him as
+dialog: Emmett deals.
+speaker_heading: EMMETT
+dialog: Settle something for us here, pal. Who is the greatest center fielder
+dialog: of all time?
+speaker_heading: BOB
+dialog: Ken Griffey Jr.
+text: They approve. Sophie comes out of the kitchen in her coat, tying a
+text: small silk babushka upon her head...
+speaker_heading: SOPHIE
+dialog: I'm on my way home, who's walking me?
+speaker_heading: WALLY
+dialog: You're two doors down, if y'get killed we'll hear it...
+speaker_heading: SOPHIE
+dialog: I hope I get killed so you have to live with the guilt.
+speaker_heading: WALLY
+dialog: Yap, yap, yap...
+speaker_heading: MARTY
+dialog: I'll take ya.
+text: (walks over to Sophie and takes her bag)
+dialog: Be back...
+text: Marty and Sophie walk out the back door, Bob watches them go... What
+dialog: about my phone?...
+speaker_heading: WALLY
+dialog: (back to discussion)
+dialog: Doesn't matter, Ella Fitzgerald was the greatest singer of all time.
+speaker_heading: ANGELO
+dialog: We all agree on that Wally. Why do you keep bringing it up?
+dialog: (re: his cards)
+dialog: I'm in...
+speaker_heading: WALLY
+dialog: Because I'd like to hear more of her in here. You're always playing
+dialog: that opera stuff, we can't sing along.
+speaker_heading: EMMETT
+dialog: Go and find yourself a Shakey's pizza for that. You folding, Wal?
+speaker_heading: WALLY
+dialog: (sentimental)
+dialog: Remember Shakey's Pizza?
+speaker_heading: BOB
+dialog: Oh, yeah sure...
+dialog: (looks at his cards)
+dialog: I'm in...I guess...
+speaker_heading: EMMETT
+dialog: (To Bob)
+dialog: Ground Round was good...
+dialog: (re: cards)
+dialog: In...
+speaker_heading: BOB
+dialog: (reminiscing)
+dialog: Throw the peanuts on the floor...
+speaker_heading: WALLY
+dialog: Yeah... At Shakey's they'd put the words up on the screen... My kids
+dialog: loved that. Everyone singing.
+dialog: (looks at his cards)
+dialog: I - am - in.
+speaker_heading: CUT TO:
+scene_heading: INT. GRACE'S BEDROOM - CONTINUOUS
+text: Grace is sitting in front of an antique mahogany vanity mirror, wearing a
+text: nightgown and shower cap. She stops and studies her reflection. We see
+text: her night gown is open at the top, exposing the full ten inch surgical
+text: scar on her chest. She touches it lightly and sighs.
+speaker_heading: CUT TO:
+scene_heading: DINING ROOM - CONTINUOUS
+text: The men are laughing as Bob collects the pot...Marty puts a pitcher of
+text: beer on the table and an espresso in front of Angelo, a milk in front of
+dialog: Emmett.
+speaker_heading: BOB
+dialog: Unbelievable...
+speaker_heading: MARTY
+dialog: It's your lucky night...
+speaker_heading: CUT TO:
+speaker_heading: BACK OF RESTAURANT
+text: Grace, in her nightgown and robe, walks down the stairs, grabs a raincoat
+text: off a hook and walks into the
+speaker_heading: DINING ROOM,
+text: putting on the raincoat, she walks up to the table. The guys all stand
+text: and then sit, except Bob, who is a bit stunned...
+speaker_heading: GRACE
+dialog: Grandpa, the rain's let up a bit, so I'll be out back covering...
+text: Grace sees Bob and immediately touches her head -- yep, shower cap's
+text: still on. She closes her bathrobe, wrapping the raincoat snugly around
+dialog: her neck.
+speaker_heading: GRACE
+dialog: (to Bob, taken aback)
+dialog: Hello...
+speaker_heading: MARTY
+dialog: Robert, this is my granddaughter. Grace.
+speaker_heading: BOB
+dialog: (now stands)
+dialog: Hi, yes... We met last evening. I was here with...the water thing...
+speaker_heading: GRACE
+dialog: (very politely)
+dialog: Nice to see you again. Robert.
+speaker_heading: BOB
+dialog: Bob. Bob's fine.
+text: The guys all remain in their seats, looking up and enjoying the two of
+text: them as they talk.
+speaker_heading: BOB
+dialog: I left my phone here...
+speaker_heading: GRACE
+dialog: Oh, "that" Bob. You're Bob. I'm Grace, well, you know that... We just
+dialog: said it... Well, excuse me... I'm not dressed and my hair is...well,
+dialog: hiding... I have your pajamas...phone...behind the bar...
+speaker_heading: MARTY
+dialog: (pushed by Angelo)
+dialog: I'll get it Grace, you sit.
+text: Marty walks over to the bar.
+speaker_heading: GRACE (cont'd)
+dialog: No I can't sit.
+dialog: (she wants to run)
+dialog: I have to go and cover...
+speaker_heading: ANGELO
+dialog: Your bike? I'll do it.
+speaker_heading: GRACE
+dialog: No Angelo, my new plants.
+speaker_heading: BOB
+dialog: ...If I can be of any help?
+speaker_heading: GRACE
+dialog: (walking quickly away)
+dialog: No...thanks...
+speaker_heading: ANGELO
+dialog: Yes. You can help her, Roberto will help you.
+text: Grace turns and gives Angelo a wide eyed "so help me God" look as she
+text: exits out the back door. Bob follows Grace out to the back courtyard.
+text: Marty comes from behind the bar with Bob's phone and waits for the door
+text: to close, then sets the phone down on the bar.
+speaker_heading: CUT TO:
+scene_heading: EXT. O'RIELLY'S - BACK COURTYARD - GARDEN
+text: The quaint little back garden is now dark, lit only by the street lamp.
+text: The rain is soft, not enough to blink at...
+text: Bob is covering a medium sized plant with a piece of plastic. Grace
+text: helps straighten the plastic out on one end.
+speaker_heading: GRACE
+dialog: (he's sweet)
+dialog: Sorry about my grandfather. Some people take in stray dogs and cats,
+dialog: with Grandpa, it's people... Not that you're...
+speaker_heading: BOB
+dialog: Oh, yes I am...
+dialog: (stands behind a shrub)
+dialog: Should we do this one here?
+speaker_heading: GRACE
+dialog: It's okay, I can do it. There's just these two left.
+text: Grace moves around the shrub and so does Bob, causing them to be,
+dialog: physically, very close.
+speaker_heading: GRACE
+dialog: Excuse me...
+speaker_heading: BOB
+dialog: Sure, I'll just go around.
+dialog: (filled with her scent, quietly)
+dialog: You smell great.
+speaker_heading: GRACE
+dialog: (babbles, nervous)
+dialog: They get yellow if they get too much moisture this early on... I put
+dialog: them in the ground too soon... And of course I just watered them this
+dialog: morning...
+dialog: (sweetly, embarrassed)
+dialog: You can go if you want. I can do this.
+text: Grace is careful to keep her neckline covered. Bob notices the rusted
+text: bike, the easel and the painting pushed under an awning.
+speaker_heading: BOB
+dialog: No, no, I don't mind... You bought me dinner last night.
+dialog: (re: painting)
+dialog: Who's the artist.
+speaker_heading: GRACE
+dialog: Oh, that... I painted that.
+text: Bob goes to the easel to take a closer look.
+speaker_heading: BOB
+dialog: Wow...
+dialog: (teasing)
+text: Can't even see the numbers through the paint.
+text: Grace laughs. Bob looks at her, it's nice to hear a woman's laugh.
+speaker_heading: ALL
+dialog: What?
+dialog: (touching her head)
+dialog: I look ridiculous.
+speaker_heading: BOB
+dialog: No. It's a lovely...hat.
+speaker_heading: GRACE
+dialog: I'd take it off now, but then I'd have "shower cap head"... Of course
+dialog: you saw my hair last night... Not that you were looking at me. But we
+dialog: did speak, so maybe you noticed my head--hair... my hair--my head of
+dialog: hair... Okay...
+dialog: Bob, smiles... God she's cute, awkward, cute, sweet, innocent...
+speaker_heading: BOB
+dialog: Can I take you out sometime?
+text: Bob is surprised by his own words.
+speaker_heading: GRACE
+dialog: Yes?
+speaker_heading: BOB
+dialog: Is that a question?
+speaker_heading: GRACE?
+dialog: No. It's a yes-yes.
+speaker_heading: BOB
+dialog: Tomorrow night?
+speaker_heading: GRACE
+dialog: Yes.
+text: A heavy drizzle of rain starts, but they don't move...
+speaker_heading: BOB
+dialog: I'll pick you up at eight?
+speaker_heading: GRACE
+dialog: Yes.
+speaker_heading: BOB
+dialog: Sure?
+speaker_heading: GRACE
+dialog: Yes.
+speaker_heading: BOB
+dialog: You're a very difficult woman.
+text: Grace laughs at herself.
+speaker_heading: BOB
+dialog: (re: the rain)
+dialog: You go ahead in, I'll get these last two...
+speaker_heading: GRACE
+dialog: I'll find your phone.
+text: Grace smiles and enters the back door of the restaurant.
+speaker_heading: CUT TO:
+scene_heading: INT. O'RIELLY'S - CONTINUOUS
+text: Before Grace enters the dining room, Marty and the guys hear the sound of
+dialog: the door...
+speaker_heading: ANGELO
+dialog: Hurry up, get in the kitchen!
+speaker_heading: WALLY
+dialog: What?
+speaker_heading: MARTY
+dialog: (excited)
+dialog: They're coming back in.
+speaker_heading: WALLY
+dialog: (looking at his cards)
+dialog: But I have my best hand.
+speaker_heading: EMMETT
+dialog: (takes advantage)
+dialog: New shuffle if we re-locate.
+speaker_heading: ANGELO
+dialog: Fair enough.
+text: Marty ushers them quickly into the kitchen. Wally jogs off still
+text: holding on to his cards.
+text: They disappear just in time for Grace to enter the dining room. She is
+dialog: "really" happy, almost floating, drunk with romance...
+text: She sees Bob's phone on the bar, picks it up... Bob enters, wipes his
+text: feet. Grace hands him his phone.
+speaker_heading: BOB
+dialog: Thanks...
+speaker_heading: GRACE
+dialog: Sure...
+text: They walk to the front door.
+speaker_heading: BOB
+dialog: Eight then...
+speaker_heading: GRACE
+dialog: Eight...
+text: Grace stands silently, watching Bob get in his shiny white truck and
+text: drive off into the moonlight.
+text: She turns and notices the "guys table" is now empty. She listens and
+text: hears voices coming from the kitchen.
+speaker_heading: GRACE
+dialog: Grandpa? Angelo?
+text: The voices immediately quiet.
+speaker_heading: MARTY (O.C.)
+dialog: We're not here.
+text: She rolls her eyes...
+speaker_heading: CUT TO:
+scene_heading: INT. MEGAN'S AND JOE'S HOUSE - LATER - SAME EVENING
+text: Megan is in the kitchen, picking up toys. There's a knock at the door.
+text: She looks at the clock: one A.M. She goes to the door.
+speaker_heading: MEGAN
+dialog: (peeking out)
+dialog: Who is it?
+speaker_heading: GRACE (O.C.)
+dialog: Me.
+text: Megan opens the door, REVEALING a soaking wet Grace, standing in the
+dialog: rain.
+speaker_heading: GRACE
+dialog: (beaming)
+dialog: I met someone.
+speaker_heading: CUT TO:
+scene_heading: EXT. A CEMENT STOOP - SAME EVENING
+text: Bob sits on his jacket, as he leans against a fence eating a hotdog 'n
+text: fries off his lap and talking to someone. We can't see who it is. Bob
+dialog: offers them a fry...
+speaker_heading: BOB
+dialog: I guess this is the first woman I've noticed since... Well, not the
+dialog: first woman I've "noticed", you know as a guy, but as a man. You know
+dialog: what I mean...
+speaker_heading: CUT TO:
+speaker_heading: REVERSE ANGLE,
+text: We see Sydney, staring back at Bob, eating a french fry.
+speaker_heading: BEAT.
+speaker_heading: BOB
+dialog: I'm building you a great place.
+speaker_heading: CUT TO:
+scene_heading: INT. GRACE'S BEDROOM - EVENING
+text: Grace sits on the edge of the bathtub finishing up a call with Megan...
+speaker_heading: MEGAN
+dialog: (through the phone)
+dialog: I'm just saying for safety--don't shave your legs, because then you
+dialog: won't--definitely won't let it go to far.
+speaker_heading: GRACE
+dialog: Megan, it's a first date.
+speaker_heading: MEGAN
+dialog: I married a first date.
+text: Grace drops her robe and steps into the bubble bath.
+speaker_heading: MEGAN (cont'd)
+dialog: I'm sure you plan on being levelheaded, but once you're in the moment,
+dialog: the male brain seems, well I don't know... everything they say suddenly
+dialog: sounds brilliant. Hairy legs are your only link to reality.
+speaker_heading: GRACE
+dialog: You should needlepoint that on a pillow.
+speaker_heading: MEGAN
+dialog: All I know is, it kept me a virgin till I was eighteen.
+speaker_heading: GRACE
+dialog: Megan, I'm going to be thirty, I have a ten inch scar down my chest, and
+dialog: I'm a virgin...
+speaker_heading: MEGAN
+dialog: Shave your legs. Call me after.
+text: Grace hangs up the phone and relaxes in the tub, leaning her head back,
+text: she closes her eyes...
+speaker_heading: DISSOLVE INTO:
+scene_heading: EXT. O'RIELLY'S - COURTYARD
+text: Grace and Bob stroll up to the courtyard. Bob gallantly opens the gate,
+text: letting Grace pass in front of him. Her eyes never leave his. He pulls
+text: a daisy from the garden and places it gently in her hair. She smiles.
+text: He runs his hand down the side of her face... Grace gazes into his eyes,
+text: paralyzed with romance. Bob wraps his arm tightly around her waist,
+text: pulling her closer. He takes her face into his hands and kisses her
+text: passionately and then leans her against the fence. Grace, totally "under
+text: his spell", slides down the fence and onto the grass.
+text: Bob is now on top of her. She looks up trustingly into his eyes as he
+text: runs his hand along her "shaven" leg, up to her waist and her
+text: breast...her eyes never leaving his. Now at the height of passion, in
+text: one swift move, he rips open Grace's blouse, REVEALING her scar. Bob
+text: looks down and gasps in horror.
+speaker_heading: CUT TO:
+speaker_heading: CLOSE UP - GRACE
+text: Gasping, she grabs the sides of the tub and shakes off the dream.
+text: Putting her head back, she sighs, as we...
+speaker_heading: CUT TO:
+scene_heading: EXT. COURTYARD - NIGHT
+text: Marty, sweeping the cobblestone walkway, hears footsteps and Grace's
+text: laugh. He quickly discards the boom and scurries to a small table,
+text: lights a candle, pulls the two metal lawn chairs together, so they're
+text: side by side, then runs inside.
+speaker_heading: CUT TO:
+scene_heading: EXT. STREET - CONTINUOUS
+text: Grace and Bob stroll up to the courtyard. Bob's jacket is over Grace's
+text: shoulders...as they walk and talk...
+speaker_heading: BOB
+dialog: My Uncle Al always had a cigar going... And in his other hand he carried
+dialog: a bean bag ash tray, red plaid...he'd love to drive down alleys and pick
+dialog: up other people's junk. I was his spotter. My mother would get so mad.
+dialog: But without fail, come her birthday, Uncle Al would make some great lamp
+dialog: or table out of the lumber and stuff we collected. She loved everything
+dialog: he ever made... But every time he collected stuff, they'd have the same
+dialog: argument... "Don't bring that junk in my house!" "It's not junk!" Well,
+dialog: anyway, I've loved building things ever since...
+text: They walk a moment without words, then...
+speaker_heading: GRACE
+dialog: So you and Katherine never had children?
+speaker_heading: BOB
+dialog: No... Thought we had time. Sometimes it seems like yesterday and others
+dialog: when it seems like another life...
+speaker_heading: GRACE
+dialog: (sighs)
+dialog: ...I know what you mean...
+text: They reach the courtyard.
+speaker_heading: BOB
+dialog: I've done all the talking haven't I?
+text: Bob reaches to gallantly open the gate for Grace, identical to the way he
+text: did in Grace's dream. However, the gate is stuck. He tries again--still
+text: stuck. Bob finally gives it a strong tug, but it opens too quickly and
+text: he loses his balance. Bob inadvertently puts his hand around her waist
+text: and pulls her close to prevent him from falling over... They are close
+text: just like in Grace's daydream... We see the Deja vu expression on her
+dialog: face...
+speaker_heading: GRACE
+dialog: You okay?
+speaker_heading: BOB
+dialog: Fine...just fine.
+text: Bob's so close, he leans in to kiss her -- Grace SLAPS him. Bob stands
+dialog: there, totally stunned...
+speaker_heading: GRACE
+dialog: (holding her hand)
+dialog: Oh, my God--I'm so sorry.
+speaker_heading: BOB
+dialog: (rubbing his face)
+dialog: Geeze, I was just going to kiss you.
+speaker_heading: GRACE
+dialog: I know--I'm sorry. I mean--it's not you...
+speaker_heading: BOB
+dialog: (still stunned)
+dialog: I was just going to kiss you. A small peck on the cheek.
+speaker_heading: GRACE
+dialog: ...it's...I had this dream about you--and...
+speaker_heading: BOB
+dialog: (shakes his head)
+dialog: It must have been a nightmare.
+speaker_heading: GRACE
+dialog: No, you were very sexy...
+speaker_heading: BOB
+dialog: (thrilled)
+dialog: You had a sex dream about me?
+speaker_heading: GRACE
+dialog: No, of course not. Well, it might have been. I don't know--I stopped
+dialog: it...
+speaker_heading: BOB
+dialog: ...uh-huh.
+speaker_heading: GRACE
+dialog: I didn't want to--I mean--I just met you--I don't really even know
+dialog: you...
+speaker_heading: BOB
+dialog: Sometimes those dreams are better with strangers.
+dialog: (testing his jaw)
+dialog: Ah...
+speaker_heading: GRACE
+dialog: Are you okay?
+text: She raises her hand to touch his face, he flinches.
+speaker_heading: BOB
+dialog: Fine, fine...
+dialog: (laughs)
+dialog: Must have been some dream...
+speaker_heading: GRACE
+dialog: You ripped my blouse...
+speaker_heading: BOB
+dialog: I'm sorry.
+speaker_heading: GRACE
+dialog: It's okay...
+speaker_heading: BOB
+dialog: Nice blouse, was it?
+speaker_heading: GRACE
+dialog: Well, it was...
+dialog: (points to blouse she's wearing)
+dialog: This one.
+speaker_heading: BOB
+dialog: Very nice...
+speaker_heading: GRACE
+dialog: Thank you.
+speaker_heading: BOB
+dialog: I didn't mean to...be so forward... Not in the dream--but here just
+dialog: now...
+speaker_heading: GRACE
+dialog: No, please, it's me... I'm...
+text: Suddenly Grace takes Bob's face in her hands, kisses him on the lips and
+text: joyfully runs inside--her feet barely touching the ground.
+speaker_heading: GRACE
+dialog: Good night.
+speaker_heading: BOB
+dialog: (quietly)
+dialog: 'Night...
+text: Bob stands alone in the courtyard. Life is good. He blows out the
+text: candle--leaving him in total darkness...
+speaker_heading: BOB (cont'd)
+dialog: Great.
+speaker_heading: FADE OUT:
+scene_heading: EXT. CONSTRUCTION SITE - EARLY MORNING
+text: We see Jeff, pacing outside the trailer, as he waits for Bob to arrive
+text: and yell at him. Mike steps out of the trailer and checks his watch,
+text: just as Bob pulls up in his truck.
+text: Bob jumps out, carrying a tray of Starbuck's coffees. He walks over to
+text: the guys, who can't help but notice the spring in his step.
+speaker_heading: BOB
+dialog: (handing each guy a coffee)
+dialog: Morning, Jeff. Morning there, Big Mike.
+text: Mike and Jeff exchange a "what's gotten into him" look.
+speaker_heading: JEFF
+dialog: (disbelief)
+dialog: Mornin'...
+text: Mike and Jeff keep their eyes on Bob, who continues over to the...
+speaker_heading: SERVICE ELEVATOR,
+text: set up on the outside frame of the high rise. Bob stops, giving his
+text: third coffee to some WORKMAN busy hammering. The workman smiles. Bob
+text: smiles back and then takes the last coffee for himself. He "frisbee"
+text: tosses the cardboard tray into a trash can and jumps on to the elevator.
+text: We FOLLOW Bob on his ride to the top of the building.
+speaker_heading: CUT TO:
+dialog: MIKE AND JEFF ON THE GROUND,
+text: their heads turned upwards, watching Bob. Mike takes a sip of his
+text: coffee, looks to Jeff...
+speaker_heading: MIKE
+dialog: (with a shrug)
+dialog: Whatever.
+speaker_heading: CUT TO:
+scene_heading: INT. TURNER BOWLING ALLEY - LANE 13 - NIGHT
+text: We FOLLOW A BRIGHT RED BOWLING BALL as it rolls at top speed into a set
+text: of pins, creating the LOUD CRASH of a powerful strike. We SPIN AROUND
+text: to REVEAL Wally, performing his signature "strike dance" for his
+text: audience: Megan, Joe, Marty, Angelo, Emmett, Sophie, Grace. They
+dialog: applaud.
+speaker_heading: WALLY
+dialog: (big smile)
+dialog: It's the new hip.
+text: Joe finishes re-tying his shoes, he's next... He picks up his regular
+text: black ball just as Wally's BRIGHT RED BALL pops out of the shoot. We
+text: know it's Wally's ball because WALLY is inscribed in LARGE FANCY LETTERS
+text: across it... Joe stares at the ball as it rolls up the return...
+speaker_heading: JOE
+dialog: Wally, which one is yours?
+text: Wally's leaning over Sophie, checking his score.
+speaker_heading: WALLY
+dialog: Shut your trap...
+speaker_heading: SOPHIE
+dialog: I didn't say anything.
+speaker_heading: WALLY
+dialog: I'm talking to Joe...mark my strike.
+speaker_heading: SOPHIE
+dialog: I did, I'm using stars instead of x's now...
+speaker_heading: WALLY
+dialog: Ah, Crimeny!
+speaker_heading: ANGELO
+dialog: Doesn't matter how she marks it. I'm still beating ya.
+text: Bob walks up and sets down a tray of draft beers, plus one espresso for
+text: Angelo, and a milk for Emmett, who is busy collecting cash from Marty...
+speaker_heading: EMMETT
+dialog: Ten spot on the next shot says it's a strike...
+dialog: (looks up)
+dialog: After Joe...
+speaker_heading: BOB
+dialog: (handing Emmett a ten)
+dialog: I'm in...
+speaker_heading: MARTY
+dialog: (yells)
+dialog: C'mon Joe, send 'em running...
+text: Joe takes his shot. It looks good. He walks back with confidence... In
+text: the b.g. we see just the two outside pins are left standing...
+speaker_heading: WALLY
+dialog: Grandma's teeth. Nice.
+speaker_heading: JOE
+dialog: (winces)
+dialog: It's these damn shoes...
+speaker_heading: ANGELO
+dialog: Maybe you could knock 'em down with a fire hose?
+speaker_heading: MARTY
+dialog: Gracie, Honey, you're up next on the right.
+text: Grace watches Megan clean up a spare in the next lane. Megan
+text: victoriously smacks Grace five as they meet on either side of the ball
+dialog: return.
+speaker_heading: GRACE
+dialog: How do I look?
+speaker_heading: MEGAN
+dialog: (drying her hands over the blower)
+dialog: The best ever. I've never seen you so happy.
+speaker_heading: GRACE
+dialog: God I'm hot...
+speaker_heading: MEGAN
+dialog: It's eighty degrees out and you're wearing a turtle neck...
+speaker_heading: GRACE
+dialog: It's cotton...
+speaker_heading: MEGAN
+dialog: Too bad you didn't meet him in the fall, you would have been safe for
+dialog: months... Tell him.
+speaker_heading: GRACE
+dialog: I will.
+speaker_heading: MEGAN
+dialog: He's a great guy, it won't make a difference to him, besides, eventually
+dialog: he's gonna want to get, you know, intimate.
+speaker_heading: GRACE
+dialog: Megan please.
+speaker_heading: MEGAN
+dialog: Just tell him...or he'll think you're a lesbian or something.
+speaker_heading: GRACE
+dialog: What?
+speaker_heading: MEGAN
+dialog: It's very trendy right now.
+text: Emmett's loud voice interrupts them...
+speaker_heading: EMMETT
+dialog: You two's, do your yapping at the beauty parlor!
+speaker_heading: MEGAN
+dialog: Take it easy, Dad.
+text: Bob walks over to Grace with a drink.
+speaker_heading: BOB
+dialog: I got you a hot chocolate.
+speaker_heading: GRACE
+dialog: Oh?
+speaker_heading: BOB
+dialog: I thought maybe you were cold.
+speaker_heading: GRACE
+dialog: Thank you.
+text: Their eyes lock for a beat, then Bob kisses her...
+speaker_heading: MARTY
+dialog: C'mon now, let's bowl.
+text: Bob and Grace come back to reality.
+speaker_heading: BOB
+dialog: (re: the hot chocolate)
+dialog: I'll just hold on to this for ya...
+text: Grace is light as a feather, she lines up her shot, good form, releases
+text: the ball... It rolls with confidence right down the center and STRIKE!
+text: Everyone claps, Grace goes wild. She does a touchdown dance that goes
+text: on a bit too long. Everyone stops clapping and just stares... She
+text: realizes and recovers.
+speaker_heading: GRACE
+dialog: Alrighty, who's up next?
+text: Angelo smiles, looks at Marty:
+speaker_heading: MARTY
+dialog: Bob, you're up!
+speaker_heading: ANGELO
+dialog: You're taking turns away? I'm next.
+speaker_heading: SOPHIE
+dialog: Angelo's up.
+text: Bob quickly puts his beer down, just as Charlie cautiously walks up to
+dialog: the group.
+speaker_heading: CHARLIE
+dialog: Bob?
+speaker_heading: BOB
+dialog: Hey, hey, you made it...
+speaker_heading: CHARLIE
+dialog: I thought I was meeting you at a bar?
+speaker_heading: BOB
+dialog: There's a bar here. Grace!
+speaker_heading: CHARLIE
+dialog: (looks at the old guys)
+dialog: What is this?
+speaker_heading: BOB
+dialog: We're bowling. What?
+text: Grace comes over.
+speaker_heading: GRACE
+dialog: Hey Charlie, we're already in the ninth frame, or you could join the
+dialog: game.
+speaker_heading: CHARLIE
+dialog: Oh shoot. That's OK, maybe next time.
+speaker_heading: GRACE
+dialog: Everyone, this is Charlie.
+text: The whole gang looks up to greet him...
+speaker_heading: CHARLIE
+dialog: Hi...everyone...
+speaker_heading: EMMETT
+dialog: (holding cash)
+dialog: You want in?
+speaker_heading: BOB
+dialog: Sure he does...
+dialog: (to Charlie)
+dialog: Tenspot.
+text: Charlie doesn't ask questions and gives Emmett ten dollars.
+speaker_heading: EMMETT
+dialog: For or against?
+speaker_heading: CHARLIE
+dialog: Huh? For... I guess...
+text: Bob runs up to take his turn. Joe hands Charlie a beer. Marty,
+text: clapping his hands like an old baseball coach...
+speaker_heading: MARTY
+dialog: (yells)
+dialog: C'mon Bob...tenth frame and you're looking at beating your all time
+dialog: highest score...
+speaker_heading: CHARLIE
+dialog: (To Joe)
+dialog: I didn't know he bowled...
+speaker_heading: MARTY
+dialog: ...of sixty-seven.
+speaker_heading: JOE
+dialog: He doesn't.
+speaker_heading: WALLY
+dialog: (checks score sheet)
+dialog: You're sittin' on a sixty-six...
+dialog: (very seriously)
+dialog: You wanna use my ball, go ahead...
+speaker_heading: BOB
+dialog: That's okay, Wally. I"m not really dressed...
+text: The whole gang all laughs it up...even Charlie joins in...
+speaker_heading: BOB
+dialog: (continuing)
+dialog: I'd like to dedicate this next shot to Grace...
+dialog: (gestures towards Grace)
+dialog: who brought me back to the game after a twenty-five year absence.
+dialog: That's right, before I was your beer runner and...
+dialog: (to Emmett)
+dialog: milk man... I hadn't bowled since Andee Jankovsky's thirteenth birthday
+dialog: party... So baby, this one's for you.
+text: The guys all hoot and holler. Grace and Megan laugh. Sophie is choked
+dialog: up...
+speaker_heading: EMMETT
+dialog: (patting Bob on the back)
+dialog: You get a strike here, we go fifty-fifty...
+text: A hush falls over the group... Bob lines up his shot like a pro,
+dialog: arm back, perfect form, nice approach, smooth release...
+text: Everyone's eyes follow the ball down the lane straight into the gutter.
+speaker_heading: JOE
+dialog: Try your other arm!
+text: Megan smacks Joe.
+speaker_heading: WALLY
+dialog: C'mon Bobby, shake 'em up...
+text: All the guys join in, cheering him on. Bob stands by the ball return.
+text: Picks up his ball. Confidently, he approaches the lane... lines up his
+dialog: shot, arm back, perfect form, nice approach, POWERFUL release...
+text: We FOLLOW the ball as it speeds down the center of the lane, suddenly
+text: veering off to left and cleanly smacking TWO PINS off the end.
+dialog: The gang goes nuts...
+speaker_heading: CUT TO:
+scene_heading: INT. O'RIELLY'S - LATER - SAME NIGHT
+text: Restaurant is closed, except for the gang and some other bowlers, who
+text: are just leaving. Music is playing, plates of food are scattered on the
+text: tables, along with half-filled bottles of wine. Sophie and Marty clean
+text: up a bit. In the b.g., a table cloth with the number "68" is
+text: thumbtacked on a wall. Charlie stands at the bar with Emmett
+speaker_heading: EMMETT
+dialog: I've always found that Sammy Davis was the most talented and I've always
+dialog: liked Bill Cosby...
+speaker_heading: CHARLIE
+dialog: Oh, yeah, they're both great.
+text: Grace joins them and hands Charlie some leftovers wrapped in foil.
+speaker_heading: GRACE
+dialog: This will be good for about a week. I put some bread in there, too...
+speaker_heading: CHARLIE
+dialog: Thank you... Bob, I had a great time.
+dialog: (to the gang)
+dialog: See you Guys...
+text: The gang all responds with a friendly goodbye, "Bye Doc", "See y'Chuck",
+dialog: etc.
+text: Charlie takes a look around the cozy dining room, with its warm family
+dialog: type atmosphere... Just for an instant, one might suspect he's a bit
+text: jealous... Charlie leaves. Marty locks the door behind him.
+speaker_heading: GRACE
+dialog: He's very sweet.
+speaker_heading: BOB
+dialog: Charlie? Oh, yeah...
+text: From across the room...
+speaker_heading: EMMETT
+dialog: (shuffling cards)
+dialog: Hey, there, Bob-o, you in tonight?
+speaker_heading: BOB
+dialog: No, Emmett, Grace and I are gonna enjoy a glass of wine out back...maybe
+dialog: take a walk...
+speaker_heading: WALLY
+dialog: You two want my cadillac tonight?
+speaker_heading: GRACE
+dialog: On, no... That's okay...
+speaker_heading: WALLY
+dialog: Just had her waxed...
+speaker_heading: BOB
+dialog: (winks at Grace)
+dialog: Thanks Wally... You need a sweater?
+speaker_heading: GRACE
+dialog: Nope...
+text: Marty brings some poker chips over from the bar to the "regular" table.
+speaker_heading: MARTY
+dialog: I've got a new candle out there, keeps the bugs away...
+text: Bob grabs a bottle of wine and two glasses as he and Grace exit to the
+text: courtyard. Marty peeks through the window...
+speaker_heading: ANGELO
+dialog: Marty!
+speaker_heading: MARTY
+dialog: What?
+dialog: (still peeking)
+dialog: I think she'll tell him...
+speaker_heading: EMMETT
+dialog: (dividing poker chips)
+dialog: I don't see what the big deal is. I once dated a girl with a club foot.
+dialog: She had the big shoe and everything...
+speaker_heading: MARTY
+dialog: You're a saint...
+speaker_heading: SOPHIE
+text: (disappears into the kitchen with a pile of tablecloths)
+dialog: The longer she waits the harder it will be...
+text: Angelo is at the stereo looking through CD's.
+speaker_heading: ANGELO
+dialog: Let's put on some music for 'em...
+speaker_heading: MARTY
+dialog: (walks to the stereo)
+dialog: Let's see...
+dialog: (pulls out CD)
+dialog: Dean...
+speaker_heading: ANGELO
+dialog: Pavarotti.
+speaker_heading: EMMETT
+dialog: Bing...
+speaker_heading: WALLY
+dialog: (walks to stereo)
+dialog: Let me handle this.
+speaker_heading: MARTY
+dialog: No "Bobby"...
+speaker_heading: WALLY
+dialog: We should put on something modern... Where's your new albums?
+speaker_heading: EMMETT
+dialog: (joins them at stereo)
+dialog: CD's.
+speaker_heading: WALLY
+dialog: Yeah, yeah...
+speaker_heading: MARTY
+dialog: (holding up two CD's)
+dialog: Here's my hippest stuff...
+speaker_heading: WALL
+dialog: (immediately grabs one of them)
+dialog: Oh, this is my favorite...
+text: As the committee huddles around the stereo, we
+speaker_heading: CUT TO:
+scene_heading: EXT. COURTYARD - CONTINUOUS
+text: A calm breeze flows through the garden. Grace lights the candle and Bob
+text: pours the wine as... the first familiar bars of Diana Ross and Smokey
+text: Robinson's "I'M GONNA MAKE YOU LOVE ME" pour into the courtyard. Bob
+text: and Grace freeze, then give each other a look.
+text: The lyrics begin as only Smokey can sing them...
+speaker_heading: SMOKEY
+dialog: I'm gonna do all the things to you, a girl wants a man to do.. Oh,
+dialog: baby..
+speaker_heading: GRACE
+dialog: Oh, dear...
+text: Bob laughs.
+speaker_heading: CUT TO:
+scene_heading: INT. O'RIELLY'S - CONTINUOUS
+text: The guys stand at the stereo. Wally's peeking out the window...
+speaker_heading: MARTY
+dialog: What's happening?
+speaker_heading: WALLY
+dialog: Let it work its magic...
+speaker_heading: CUT TO:
+scene_heading: EXT. COURTYARD - CONTINUOUS
+dialog: Grace, embarrassed...
+speaker_heading: GRACE
+dialog: I'll tell them to turn it off...
+speaker_heading: BOB
+dialog: No, no, no.
+dialog: (puts his hand out)
+dialog: C'mon...
+text: Grace hesitates, then slowly walks back towards Bob...
+speaker_heading: SMOKEY
+dialog: 'Cuz every minute, every hour, I"m gonna shower you with love and
+dialog: affection, look out girl, it's coming in your direction...
+speaker_heading: CUT TO:
+scene_heading: INTO. O'RIELLY'S - CONTINUOUS
+text: The guys join Wally at the window...
+speaker_heading: WALLY
+dialog: It's working...
+text: They all start dancing and singing the refrain...
+speaker_heading: SMOKEY
+dialog: 'Cuz I'm gonna make you love me, ooh yes I will, yes I will...
+speaker_heading: CUT TO:
+scene_heading: EXT. COURTYARD - CONTINUOUS
+text: Bob is being funny, by playing up the lyrics and acting 70's cool...
+text: Grace is laughing... Bob dance/walks over to her...
+speaker_heading: DIANA ROSS
+dialog: Our love is strong, you'll see I know, you'll never get tired of me...
+dialog: Oh baby...
+text: Bob pulls Grace to him. They dance together, truly getting a kick out of
+dialog: the song...
+speaker_heading: DIANA ROSS
+dialog: I'm gonna use every trick in the book, I'll try my best to get you
+dialog: hooked... oh baby... 'Cuz every night, every day, I'm gonna say, I'm
+dialog: gonna get ya, I'm gonna get, look out boy, 'cuz I'm gonna get you...
+text: Bob twirls Grace around...
+speaker_heading: DIANA ROSS (cont'd)
+dialog: I'm gonna make you love me... oooh, yes I will...
+speaker_heading: MONTAGE:
+scene_heading: EXT. LAKEFRONT
+text: Bob jogs along the lake, getting back in shape
+scene_heading: EXT. O'RIELLY'S - COURTYARD
+text: Grace's cutting flowers in the garden.
+scene_heading: EXT. LINCOLN PARK ZOO
+text: Bob and Mike help guide a CRANE OPERATOR as he lowers a beam across the
+text: outer wall of the habitat, which is slowly taking shape.
+scene_heading: INT. BOB'S APARTMENT
+text: Bob runs around picking up clothes 'n stuff, tossing some behind the
+text: couch and others in the hall closet. Mel watches him from the door, of
+dialog: course.
+scene_heading: INT. O'RIELLY'S
+text: Wally's mouthing the words of the song to Sophie as she folds clean
+text: tablecloths.
+scene_heading: EXT. LINCOLN PARK ZOO
+text: Grace's drawing a sketch of habitat, as Bob and a small group of tourists
+text: look over her shoulder... Bob smiles with pride.
+scene_heading: INT. BOB'S APARTMENT
+text: Grace comes in the door with the flowers from her garden. Bob watches in
+text: amazement as Mel follows her right into the kitchen.
+text: As Grace puts the flowers in a vase on the kitchen table, she looks up at
+text: a collection of PHOTOS of Bob, Katherine and Mel that decorate the
+text: walls... She smiles.
+scene_heading: INT. TURNER BOWLING ALLEY
+text: The gang are all wearing RUELAND DESIGN BOWLING SHIRTS, even Charlie...
+scene_heading: INT. MEGAN AND JOE'S HOUSE
+text: Grace and Megan are at the kitchen table, each with a coffee. An open
+dialog: box of cookies between them...
+speaker_heading: GRACE
+dialog: I'm telling him tonight.
+speaker_heading: MEGAN
+dialog: I've heard that before... He's perfect, you know.
+speaker_heading: GRACE
+dialog: Yeah. For me he is.
+speaker_heading: MEGAN
+dialog: Don't get me wrong. He's no Joe.
+text: Joe enters, wearing a soiled t-shirt that's a bit snug over that belly
+dialog: of his...
+speaker_heading: JOE
+dialog: Honey, Bridgette got sick on me.
+text: (he takes off the t-shirt and hands it to Megan)
+dialog: I gave her some Tylenol and put her in pajamas. She's sleeping in our
+dialog: bed.
+dialog: (rubbing his tummy)
+dialog: Hey, Al.
+speaker_heading: GRACE
+dialog: Hey, Joe...
+text: Megan and Grace share a laugh.
+speaker_heading: JOE
+dialog: What?
+speaker_heading: MEGAN
+dialog: Put a shirt on, Joe... or Grace will never be satisfied by another man.
+text: For the girls' amusement, Joe begins performing some strong man poses as
+text: the final notes of "I'M GONNA MAKE YOU LOVE ME" fade out.
+dialog: We do the same...
+speaker_heading: FADE OUT:
+speaker_heading: UP ON:
+scene_heading: EXT. LINCOLN PARK ZOO - DAY
+text: A FULL SHOT of the new Gorilla Habitat, under the last stages of
+dialog: construction.
+text: A SIGN, along with GRACE'S PAINTING of the new structure, reads: SYDNEY
+text: AND HIS FAMILY BUILD THEIR DREAM HOUSE. COMPLIMENTS OF "THE A.R.T.S."
+dialog: (Animal's Right To Survive) AND RUELAND DESIGN. In Loving Memory of Dr.
+dialog: Katherine Rueland.
+text: The CAMERA passes the sign and rests on Bob in his hard hat, busy
+text: looking over blueprints.
+text: The zoo is busy with visitors; FAMILIES, SENIOR CITIZENS, TOURISTS, and
+text: lots of CAMP KIDS; several run past Bob with cotton candy.
+speaker_heading: BOB
+dialog: (yelling to a crew guy)
+dialog: Billy, could you put that dry wall over against the wired frame? Thanks.
+text: Charlie walks up, carrying a small LION CUB in his arms. They walk and
+text: talk, as Bob continues surveying the work.
+speaker_heading: BOB (cont'd)
+dialog: (to Charlie)
+dialog: Hey...
+speaker_heading: CHARLIE
+dialog: (lifts the lion cub)
+dialog: My pride and joy. King of Beasts.
+speaker_heading: BOB
+dialog: He looks just like you.
+speaker_heading: CHARLIE
+dialog: Bennington called, he wants to do your introduction. Katherine would
+dialog: love that, huh?
+speaker_heading: BOB
+dialog: (smiles, taking in the progress)
+dialog: She'd love this...
+speaker_heading: CHARLIE
+dialog: You did it...
+speaker_heading: BOB
+dialog: Took me long enough.
+text: They pass Jeff, the foreman from the high rise construction site who is
+text: overseeing a WELDING CREW spot welding joints.
+speaker_heading: BOB (cont'd)
+dialog: Hey, Jeff, order one more sheet of the double glass panel.
+speaker_heading: CHARLIE
+dialog: So, go for a beer?
+dialog: (teasing)
+dialog: Or is tonight Bingo?
+speaker_heading: BOB
+dialog: Charlie, I'm sorry. I can't, the dedication's next week...
+speaker_heading: CHARLIE
+dialog: Take a break, you've been working like a dog...
+speaker_heading: BOB
+dialog: Grace wants to talk, she's making dinner at my place.
+speaker_heading: CHARLIE
+dialog: She wants to "talk", she's making you "dinner", she won't "spend the
+dialog: night"... You see what's going on here, don't ya?
+speaker_heading: BOB
+dialog: No.
+speaker_heading: CHARLIE
+dialog: It's a trap. She's read that book, what's it called... "The Rules".
+speaker_heading: BOB
+dialog: What are you talking about?
+speaker_heading: CHARLIE
+dialog: It's a little game they play to reel a guy in...
+speaker_heading: BOB
+dialog: (laughs)
+dialog: Well, it's working.
+text: Bob notices in the b.g. a group of YOUNG KIDS from a summer camp are
+text: assembling.
+speaker_heading: BOB
+dialog: (yells to kids)
+dialog: Hey, look everybody!
+dialog: (points to Charlie)
+dialog: Baby lion!
+text: The kids flock to Charlie, who picks up the pace in hopes of escaping.
+text: Bob laughs and goes back to work.
+speaker_heading: CUT TO:
+scene_heading: INT. BOB'S APARTMENT - EVENING - AFTER DINNER
+text: Mel's spot at the door is empty, except for his tennis ball, abandoned
+text: on the floor.
+speaker_heading: CUT TO:
+speaker_heading: LIVING ROOM,
+text: Grace is sitting on the sofa in the living room, sipping from a glass of
+text: wine, petting Mel, who is curled up next to her. We hear way too many
+text: "beeps" coming from the kitchen...
+speaker_heading: GRACE
+dialog: You sure you don't need any help?
+speaker_heading: BOB (O.C.)
+dialog: No. Believe it or not, I can microwave popcorn.
+dialog: (more beeps)
+dialog: There was a write up about the habitat's dedication in the Trib...
+speaker_heading: GRACE
+dialog: Everyone's going next week, Grandpa wants to be there, and Emmett,
+dialog: Wally, the whole gang...
+speaker_heading: BOB (O.C.)
+dialog: As long as you promise to be there...
+speaker_heading: GRACE
+dialog: Promise...
+text: Bob comes from the kitchen...
+speaker_heading: BOB
+text: (he pours the wine, then sits next to Grace)
+dialog: Sydney's thrilled. We let him in for a bit this afternoon...he loves
+dialog: it...he can run...
+dialog: (sighs)
+dialog: Finally...
+speaker_heading: GRACE
+dialog: You've worked so hard...
+text: Grace sweetly touches Bob's hair, as he rests his head back on the sofa,
+text: staring up at the ceiling...
+speaker_heading: BOB
+dialog: It was worth it... Katherine's dream coming true... At least I was able
+dialog: to give her that... In a way I'm dreading the dedication because I can't
+dialog: imagine it without her... I've been angry for so long...
+text: Bob closes his eyes as Grace continues stroking his hair... A gentle
+dialog: moment passes...
+speaker_heading: BOB
+dialog: (turning to look in her eyes)
+dialog: Thank you, Grace...
+text: He kisses her softly, then passionately, pulling her closer...
+speaker_heading: BOB
+dialog: (kissing her)
+dialog: You're not going to slap me?
+speaker_heading: GRACE
+dialog: (quietly)
+dialog: Only if you stop...
+speaker_heading: BOB
+text: (lifting her hair, he kisses her neck)
+dialog: You wanted to tell me something...
+speaker_heading: GRACE
+dialog: (breathy)
+dialog: Yes...
+text: Grace closes her eyes as Bob kisses the nape of her neck and slowly
+text: unbuttons her blouse...dangerously close to revealing her scar.
+speaker_heading: GRACE
+dialog: ...Now's a good time...
+text: Bob slides his left hand up her "clean shaven" leg...
+speaker_heading: GRACE
+dialog: Oh dear...Bob...
+dialog: BEEEEP...
+speaker_heading: GRACE
+dialog: (quietly)
+dialog: Popcorn's done...
+text: Bob keeps kissing her... The BEEEEP continues...it's loud...too loud.
+speaker_heading: BOB
+dialog: Save my place...
+text: As Bob runs to the kitchen, Grace glances down at her partially
+text: unbuttoned blouse, then quickly downs her wine.
+speaker_heading: BOB
+dialog: (leaning his head out the kitchen)
+dialog: You can put on some music...
+speaker_heading: GRACE
+dialog: (gets up, buttons her blouse)
+dialog: Sure-yes-good...
+speaker_heading: BOB
+dialog: I got you a CD. It's in the pocket of my jacket, which is hanging on
+text: the door in the den.
+dialog: Grace goes into the
+speaker_heading: DEN.
+text: She closes the door, to retrieve the CD from Bob's jacket.
+speaker_heading: GRACE
+dialog: (smiling, yells back to Bob)
+dialog: Dean Martin. Thank you.
+text: Just as Grace turns to leave, she notices the newspaper on Bob's desk,
+text: folded open to the article about the zoo. She picks it up...
+speaker_heading: BOB (O.C.)
+dialog: What?
+speaker_heading: GRACE
+dialog: (reading article, yells back to Bob)
+dialog: I said, thanks for the...
+text: Beneath a PHOTO of SYDNEY and KATHERINE, Grace reads...
+scene_heading: "DR. KATHERINE RUELAND, DIED IN CAR ACCIDENT ON NOVEMBER 12,
+dialog: 1995."...November 12th...
+text: Then something else catches her eye...
+text: She slowly moves her hand towards a PALE PINK LETTER, tucked in the
+text: blotter on the desk. She picks it up, studies it a moment... a faint
+text: feeling rushes through her. She covers her hand with her mouth as she
+text: carefully sits down, unable to comprehend the reality...
+speaker_heading: HALLWAY
+text: Bob, carrying a bowl of popcorn, walks toward the den.
+speaker_heading: BOB
+dialog: Grace?
+speaker_heading: DEN,
+text: Bob opens the door. Grace quickly puts the letter in her pocket.
+speaker_heading: GRACE
+dialog: I'm sorry...
+speaker_heading: BOB
+dialog: What?
+text: Grace speaks slowly, carefully...
+speaker_heading: GRACE
+dialog: I have to go...
+speaker_heading: BOB
+dialog: Now?
+speaker_heading: GRACE
+dialog: Yes... I completely forgot. I... I promised Megan I'd... baby sit.
+text: Grace slowly-rushes past Bob out of the den.
+speaker_heading: HALLWAY,
+text: She walks quickly, trying to maintain her composure. Bob is right
+dialog: behind her...
+speaker_heading: BOB
+dialog: (somewhat confused)
+dialog: I'll go with you...
+speaker_heading: GRACE
+dialog: No, no...
+speaker_heading: BOB
+dialog: Are you okay?
+speaker_heading: GRACE
+dialog: (putting on her sweater)
+dialog: Yes... You stay here. I'll call you...
+text: She walks out to the front hall. Her bike is just inside the door --
+text: she keeps moving -- kicking the kickstand up, it breaks off.
+speaker_heading: GRACE
+dialog: This damn bike.
+text: She spins it around and briskly walks it out the door...
+speaker_heading: CUT TO:
+scene_heading: EXT. FRONT PORCH - CONTINUOUS
+text: Bob stands right next to her, grabbing her shoulders...
+speaker_heading: BOB
+dialog: Grace, slow down. I'll call her and say you're on your way...
+speaker_heading: GRACE
+dialog: No...the baby might be napping.
+dialog: (gets on the bike, desperate)
+dialog: I have to go. I'm late...
+speaker_heading: BOB
+dialog: (quietly)
+dialog: Okay, okay...
+dialog: (touching her arm)
+dialog: What did you want to tell me?
+text: Grace finally stops for a second and looks into Bob's eyes...
+speaker_heading: GRACE
+dialog: (sweetly, with a hidden sadness)
+dialog: I love you.
+text: Before Bob can say anything, she peddles away--Mel follows.
+speaker_heading: BOB
+dialog: Mel. Stay.
+text: Mel stops. Bob stands on the porch, watching Grace ride
+dialog: away...something's wrong.
+speaker_heading: CUT TO:
+scene_heading: EXT. MEGAN AND JOE'S HOUSE - LATER - SAME EVENING
+text: A WIDE SHOT... Grace's bike is on its side on the front porch, the back
+text: wheel still spinning. Through the screen door, we see Megan, hugging
+dialog: Grace tightly...
+speaker_heading: FADE OUT.
+speaker_heading: UP ON:
+scene_heading: INT. MEGAN AND JOE'S HOUSE - LATER - SAME EVENING
+text: Grace sits at the table, her face soaked and red from tears. Megan
+text: places a glass of water in front of her; the phone rings...
+speaker_heading: MEGAN
+dialog: I'm answering it this time.
+speaker_heading: GRACE
+dialog: No, let the machine get it.
+speaker_heading: MEGAN
+dialog: I'd be home by now...
+dialog: (answers phone)
+dialog: Hello... Hi Bib...
+dialog: Grace waves, "Please say I'm not here."
+speaker_heading: MEGAN (cont'd)
+dialog: You just missed her...
+text: (looking at Grace's red, sad face)
+dialog: No, she seemed fine...tired?
+dialog: (remembers babysitting lie)
+dialog: Oh yes, from the kids... Yeah, she'll probably go straight to bed... I
+dialog: had the ringer off cuz of the baby... Hm-mm, I'd wait till morning...
+dialog: Sure, no problem. Night.
+text: Megan hangs up the phone. Grace starts crying again.
+speaker_heading: MEGAN (cont'd)
+dialog: He's so in love with you...
+speaker_heading: GRACE
+dialog: Ohmigod, ohmigod... What was God thinking?
+text: Megan grabs her purse and keys off the counter.
+speaker_heading: MEGAN
+dialog: I'll take you back over, let's go...
+speaker_heading: GRACE
+dialog: Wait...no... What do I say?
+speaker_heading: MEGAN
+dialog: You just tell him...
+speaker_heading: GRACE
+dialog: I know...but what do I say?
+speaker_heading: MEGAN
+dialog: The truth...
+speaker_heading: GRACE
+dialog: How?
+speaker_heading: MEGAN
+dialog: Just tell him... Say, Bob...
+speaker_heading: GRACE
+dialog: (waits for Megan to go on)
+dialog: You can't even say it.
+text: Joe, carrying a sleeping Tommy, walks into the kitchen, followed by
+text: Patrick in his scouts uniform. Joe stops the minute he senses the mood
+text: and sees the expressions on Megan and especially Grace's face...
+speaker_heading: JOE
+dialog: Who died?
+speaker_heading: MEGAN
+dialog: No one...
+speaker_heading: GRACE
+dialog: Bob's wife...
+speaker_heading: JOE
+dialog: He's married? That Bastard...
+speaker_heading: TOMMY
+dialog: (still sleepy eyed)
+dialog: Bastard.
+speaker_heading: MEGAN
+dialog: Joe, shh...
+speaker_heading: JOE
+dialog: (to Grace)
+dialog: You want me to go over there and handle this?
+speaker_heading: GRACE
+dialog: No...no...
+speaker_heading: JOE
+dialog: (getting louder)
+dialog: I knew it...he was way too nice...
+speaker_heading: MEGAN
+dialog: Joe! Out!
+dialog: (She physically leans on him)
+dialog: Take the boys upstairs...
+speaker_heading: JOE
+dialog: What is going on? Don't push... Grace, tell me what's going on...
+speaker_heading: MEGAN
+dialog: (just blurts it out)
+dialog: Grace has Bob's dead wife's heart... now go...
+speaker_heading: JOE
+dialog: (nonplused)
+dialog: Why didn't you just tell me that?
+dialog: (exits with the kids)
+dialog: Geeze...
+text: Megan just shakes her head at Grace... boy he's simple.
+speaker_heading: CUT TO:
+scene_heading: EXT. O'RIELLY'S RESTAURANT - BACK COURTYARD - NEXT DAY
+text: Marty's sitting in the courtyard, smoking a cigar. Grace sweeps the same
+text: spot of cobblestone over and over... Neither speaks a word for some
+text: time... Finally, Marty gets up and goes to Grace...
+speaker_heading: MARTY
+dialog: Grace, it is a character of strength that God gives the most
+dialog: challenges...
+dialog: (puts his hand under her chin)
+dialog: Consider it a compliment.
+text: Bob walks up to the back gate. Marty sees him first...
+speaker_heading: BOB
+dialog: Excuse me, I was wondering if a beautiful artist lived here?
+text: Grace doesn't turn for a second. Marty spins her around...
+speaker_heading: MARTY
+dialog: Robert.
+text: (squeezes Grace's shoulders and turns to leave)
+dialog: I was just telling Grace you called and said you'd be stopping by.
+text: Marty exits. Grace is a bundle of nerves... Bob opens the gate,
+text: REVEALING a shiny new red and white bike with a big ribbon on it. He
+text: rings its BELL.
+speaker_heading: GRACE
+dialog: A bike...
+dialog: (deeply touched)
+dialog: You bought me a bike...
+speaker_heading: BOB
+dialog: (taking off the ribbon)
+dialog: You haven't even opened it yet.
+speaker_heading: GRACE
+dialog: With a basket...
+text: She hugs him and holds on tightly...overcome with emotion.
+speaker_heading: BOB
+dialog: I think she likes it.
+text: (he hugs her back, tightly)
+dialog: Grace...is everything okay?
+speaker_heading: GRACE
+dialog: (pulls away, but stays close)
+dialog: No...I waited too long...to tell you something...
+speaker_heading: BOB
+dialog: You're trembling...
+text: Grace takes Bob's hand and places it at the nape of her neck. Softly,
+text: she guides his fingers down inside her blouse... She looks deeply into
+text: his eyes, while gently touching her scar with his fingers...
+speaker_heading: GRACE
+dialog: A little over a year ago, I had a heart transplant...
+speaker_heading: BOB
+dialog: Oh my God...
+dialog: (sigh of relief)
+dialog: I thought you were going to tell me you were married or something...
+dialog: (hugs her, squeezes her)
+dialog: Are you okay?
+dialog: (lets up a bit on the hug)
+dialog: Am I hurting you.. Are you alright now?
+text: Grace's eyes well with tears...
+speaker_heading: GRACE
+dialog: No...yes...
+text: Now sobbing, she reaches into her pocket and takes out the pink
+dialog: envelope...
+speaker_heading: GRACE
+dialog: This is me...
+dialog: (hands the letter to Bob)
+text: Bob stares at the familiar pale pink envelope... Grace watching him...
+dialog: should she touch him, should she speak, should she leave?
+text: Bob's legs weaken as he looks in Grace's eyes. She grabs his arms and
+text: together they fall to their knees. Grace comforts him without
+text: words...cradling him in her arms...slowly she presses his cheek to her
+text: chest... Bob closes his tearful eyes and listens.
+speaker_heading: FADE OUT:
+speaker_heading: UP ON:
+speaker_heading: WHITE SCREEN
+text: The light slowly disperses as hints of blue sky peek through, we are
+text: DESCENDING, once again, through the CLOUDS as the morning sun breaks
+dialog: over the horizon...
+scene_heading: EXT. UNFINISHED STEEL FRAMED SKY SCRAPER
+text: We find Bob, in the same clothes from last night, sitting on a beam,
+text: holding the pale pink letter...
+scene_heading: EXT. O'RIELLY'S - BACK COURTYARD - MORNING - SAME DAY
+text: Grace, emotionally drained, carries her portfolio and a small suitcase.
+text: Two other suitcases lean against the back gate. She walks her bike
+dialog: out...
+speaker_heading: MARTY
+dialog: You're sure you can check this?
+text: Megan pulls up in her MINI-VAN, gets out, opens the back...
+speaker_heading: GRACE
+dialog: Yes, I want to take it.
+text: Megan throws the suitcases in the back of the mini-van.
+speaker_heading: ANGELO
+dialog: Fabrizio will pick you up at the airport in Rome.
+speaker_heading: MARTY
+dialog: He should know you're leaving...
+speaker_heading: MEGAN
+dialog: Grace, don't leave...
+speaker_heading: GRACE
+dialog: (shakes her head)
+dialog: He wants time to think...
+text: Marty hugs Grace, wiping her tears away...
+speaker_heading: MARTY
+dialog: You pray in Rome. God'll hear you better...
+text: Grace gets into the van. Megan pulls away. Marty and Angelo stand at
+text: the curb, watching the car drive away...
+speaker_heading: CUT TO:
+speaker_heading: UP ON:
+scene_heading: EXT. HIGH RISE CONSTRUCTION SITE - NEXT MORNING - DAWN
+text: Bob, with Mike and Jeff following closely behind, walks at a brisk pace
+text: while dialing his cell phone...
+speaker_heading: MIKE
+dialog: Electrical inspector, on the seventeenth floor. He approves it, and we
+dialog: can go ahead and lay the cable...
+text: Bob tries dialing a number again.
+speaker_heading: BOB
+dialog: Yeah, yeah, I'll go right up...
+text: Bob slaps the cell phone shut; the battery's dead.
+speaker_heading: BOB (cont'd)
+dialog: Jeff, you're sure I didn't get any calls this morning?
+speaker_heading: JEFF
+dialog: Phillip and Reagan about Wabash... That's it...
+text: They enter the trailer.
+speaker_heading: CUT TO:
+scene_heading: INT. CONSTRUCTION TRAILER - CONTINUOUS
+text: Bob throws his hard hat down and immediately starts dialing the phone.
+text: Mike's lighting up a smoke. Jeff's surrounded by blueprints. They
+dialog: exchange a "something's up" look...
+speaker_heading: BOB
+dialog: (into phone)
+dialog: Sophie? Hi, is Grace there?... You're sure? Marty there?
+dialog: Uh-huh...uh-huh... I don't have Meg's number on me...
+dialog: (quickly jots down Megan's number)
+dialog: Thanks...
+text: Bob hangs up and immediately dials Megan's number. Jeff hands him an
+text: invoice to sign, which he does, while impatiently waiting for someone to
+text: pick up the phone on the other end...
+speaker_heading: BOB (cont'd)
+dialog: (into phone)
+dialog: C'mon, Meg...
+speaker_heading: JEFF
+dialog: Bob, I'll ride with you to the zoo... The suits are meeting us at
+dialog: noon...
+speaker_heading: BOB
+dialog: (slamming the phone down)
+dialog: Damn it! Mike, do me a favor...
+dialog: (hands him Megan's number)
+dialog: Keep trying this.
+speaker_heading: MIKE
+dialog: And...
+speaker_heading: BOB
+dialog: Tell them to hold and come get me. C'mon, Jeff, let's take a look at
+dialog: seventeen.
+text: They exit. Mike starts dialing.
+speaker_heading: CUT TO:
+scene_heading: EXT. MEGAN AND JOE'S HOUSE - SAME DAY
+text: Bob is at the front door, talking to a teenage BABY-SITTER.
+speaker_heading: BOB
+dialog: Was Grace with her?
+speaker_heading: BABY-SITTER
+dialog: I don't know...
+dialog: (yawning)
+dialog: She left really early...before Regis and Kathie Lee...
+speaker_heading: BOB
+dialog: (taking a pen from his pocket)
+dialog: Here's my cell number.
+dialog: (checks pockets for paper)
+dialog: Do you have a piece of paper?
+speaker_heading: BABY-SITTER
+dialog: (grabs his pen)
+dialog: Go ahead.
+text: She's ready to write... on the palm of her hand.
+speaker_heading: BOB
+dialog: O-kay...461-0192... Ask Megan to call me...
+text: The Babysitter casually blows on her hand to dry the ink...
+speaker_heading: BABY-SITTER
+dialog: Yep...
+text: Bob glances at his watch, runs down the steps and hops into his truck.
+speaker_heading: CUT TO:
+scene_heading: EXT. LINCOLN PARK ZOO - GORILLA HABITAT - LATER - SAME DAY
+text: Mike and Jeff exit the trailer, shaking hands with the suits...final
+dialog: touches are underway in the b.g.
+speaker_heading: MIKE
+dialog: (looking around)
+dialog: Where is he? I thought he was coming over with you...
+speaker_heading: JEFF
+dialog: He left before I did...
+text: Charlie glances up and spots Bob, who's running towards them...they walk
+dialog: and talk...
+speaker_heading: MIKE
+dialog: Where were you?
+speaker_heading: BOB
+dialog: I'm here.
+speaker_heading: MIKE (cont'd)
+dialog: They just left. I told 'em your back went out, so if you see them, limp
+dialog: or something...
+speaker_heading: BOB
+dialog: Jeff, any calls?
+speaker_heading: JEFF
+dialog: Yeah...Charlie. He's moving Sydney in...
+dialog: (looks at his watch)
+dialog: ...about now...wants him comfortable by the dedication... P.R. thing...
+speaker_heading: BOB
+dialog: Fine. Talk to me about the pipes?
+speaker_heading: MIKE
+dialog: They're in, waterfall will be on time...
+text: Bob looks up and sees Marty walking through the zoo...
+speaker_heading: BOB
+dialog: You guys go ahead...
+dialog: (yells)
+dialog: Marty!
+text: Bob walks to join Marty... Marty sits on a bench, admiring the new
+text: habitat... A lush green, natural environment. There are large trees, a
+text: pond, small waterfall... It's a "Garden of Eden". A happy Sydney plays
+text: on one of the large Oak trees.
+speaker_heading: MARTY
+dialog: I'd live here...
+speaker_heading: BOB
+dialog: Yeah, it's nice, isn't it? You alone?
+speaker_heading: MARTY
+dialog: Yes...
+dialog: (gestures Bob to sit)
+dialog: Gotta minute?
+text: Bob glances back at Mike and Jeff, who are now busy with Charlie...
+speaker_heading: BOB
+dialog: (he sits)
+dialog: Yeah sure...
+speaker_heading: MARTY
+dialog: Now Robert, this is none of my business. I know what has happened is
+dialog: overwhelming and you need time to sort it all out... But in your
+dialog: sorting, just know, that when I prayed and prayed for Grace to get
+dialog: another chance at life... I knew that if God blessed us, the heart would
+dialog: have to be from someone very special, if it's to be at home in
+dialog: Grace...when she met you...her heart beat truly, for the first time...
+text: Marty in a fatherly way, puts his hand on Bob's shoulder...stands to
+dialog: leave...
+speaker_heading: MARTY (cont'd)
+dialog: Perhaps it was meant to be with you always...
+text: Marty slowly walks away, leaving Bob to his thoughts.
+text: As Bob looks up at the habitat, Sydney is sitting in the Oak tree
+text: staring at him... Bob does the "sign" for "Hi". Sydney signs something
+text: back... Bob's not sure what. Sydney repeats the sign... Bob gets up and
+text: goes to a DISPLAY illustrating the proper "sign" for each LETTER OF THE
+speaker_heading: ALPHABET.
+text: He looks up at Sydney, who impatiently "signs" the same message. Bob
+text: looks to the board and matches the first letter... "G". He looks to
+text: Sydney, who hits his chest and "signs" again. Bob glances down to the
+dialog: board... "O".
+speaker_heading: BOB
+dialog: (spinning around)
+dialog: Marty!
+text: Bob starts to run after Marty... Charlie comes around the corner to see
+text: Bob running... He turns to Sydney...who repeats the "G" - "O". Charlie
+dialog: laughs.
+speaker_heading: CHARLIE
+dialog: (to Sydney)
+dialog: You can go in there...
+speaker_heading: CUT TO:
+scene_heading: EXT. PIAZZA NOUVONA - ROME, ITALY - DAY
+text: The two historic fountains, on either end of the Piazza, are surrounded
+text: by ARTISTS painting on canvases.
+text: A group of THREE NUNS stops at Grace's easel... they "ooh" and
+text: "ahh"...Grace sits in front of a blank canvas. She turns to them...
+speaker_heading: NUN
+dialog: Bicicletta...
+speaker_heading: GRACE
+dialog: Oh...my bike...
+text: Grace moves the easel so they can see the whole bike...
+speaker_heading: NUN
+dialog: Que belisima...
+speaker_heading: GRACE
+dialog: Oh thank you...grazi.
+text: The nuns gather 'round it...admiring the basket...
+speaker_heading: GRACE
+dialog: Would you like to ride it?
+speaker_heading: NUN
+dialog: Oh...no-no-no...
+text: Grace walks the bike out a bit and kicks up the kick-stand...
+speaker_heading: GRACE
+dialog: Please...
+speaker_heading: NUN
+dialog: (getting on the bike)
+dialog: No-no-no...
+text: (she rings the bell, turns to the other nuns)
+dialog: Una momento...
+text: And she rides off ringing the bell...pigeons scatter...
+text: AT THE FAR SIDE OF THE SQUARE,
+text: Bob searches through the sea of Artists in the square, some at easels,
+text: others on the ground, some sitting on the ledges of the fountains... he
+text: hears a bell and turns...
+text: The nun goes riding past on the bike... Bob squints his eyes...unsure of
+text: what he just saw... He curiously follows...is that Grace's bike? He then
+text: picks up his pace...
+text: The nun negotiates the turn around a fountain. Bob starts to run after
+text: her... the two disappear into the crowd...
+text: GRACE BACK AT THE EASEL,
+text: She prepares her paints while the nuns look patiently throughout the
+text: crowd for a sign of their friend... One of them starts to giggle and
+text: points... Grace turns to look...
+text: We see the nun on the handle bars, her habit flapping in the wind...
+text: Grace and the two nuns watch as the bike slows and stops in front of
+text: them... The nun hops off the handle bars, revealing Bob, smiling, a
+text: little winded.. As he gets off the bike...
+speaker_heading: NUN
+dialog: (To Grace, indicating Bob)
+dialog: Tu Amour?
+speaker_heading: GRACE
+dialog: (eyes fill with tears)
+dialog: Si...
+text: The three nuns stand there watching as Grace runs to Bob... As they
+dialog: embrace...
+speaker_heading: GRACE
+dialog: (smiling through her tears)
+dialog: You came all the way to Italy...
+speaker_heading: BOB
+dialog: Yeah... I did. I came all the way to Italy...
+dialog: (not letting go)
+dialog: I love you, Grace.
+speaker_heading: FADE OUT:
+speaker_heading: UP ON:
+scene_heading: EXT. LINCOLN PARK ZOO - PRIMATE HOUSE - DAY
+text: The dedication ceremony, already in progress. Bob and Charlie sit on
+text: the stage as a respectable-sized CROWD, patiently listens to Mr.
+text: Bennington, who nears the end of his long-winded speech...
+speaker_heading: MR. BENNINGTON
+dialog: ...but my money is not what we are here to talk about...
+text: Bob sees Marty, Wally, Emmett and Angelo, all with their hats in their
+text: hands, dressed in their Sunday best... He winks at Grace... She smiles...
+speaker_heading: MR. BENNINGTON (cont'd)
+dialog: So it is with great pleasure, I introduce you to the man responsible for
+dialog: this beautifully designed Gorilla Habitat, Mr. Bob Rueland.
+text: A nice round of applause from the crowd, Bob goes to the...
+speaker_heading: PODIUM,
+text: Behind him, the large PHOTO of KATHERINE AND SYDNEY. (The same photo
+dialog: Katherine showed at "The A.R.T.S. Benefit Dinner".)
+text: All eyes are on Bob...
+speaker_heading: BOB
+dialog: Thank you, Mr. Bennington, for the introduction and your contribution...
+text: Bennington stands and takes a bow.
+speaker_heading: BOB (cont'd)
+dialog: I'd like to thank everyone who has contributed their time and energy, my
+dialog: incredibly dedicated crew, Lincoln Park's Board of Directors, and the
+dialog: Supervising Veterinarian, my dear friend, Dr. Charles Johnson.
+text: Courteous applause.
+speaker_heading: BOB (cont'd)
+dialog: The dedication of this new home for Sydney and his family has great
+dialog: meaning for me...personally. My wife... Katherine... Dr. Katherine
+dialog: Rueland, spent many years with Sydney... He was found wounded by
+text: poachers, it was Katherine who nursed him back to health.
+dialog: (looking at Grace)
+dialog: But most importantly, it was her uncompromising passion that brings us
+dialog: all here today.
+text: Grace smiles up at Bob, Marty takes her hand, squeezes it...
+speaker_heading: BOB
+dialog: So it is with great honor that I dedicate this habitat in loving memory
+dialog: of Dr. Katherine Rueland...
+speaker_heading: APPLAUSE.
+text: THE CAMERA, still holding on Bob, slowly RISES up and away, the CLOUDS
+scene_heading: FILL OUR FRAME...
+text: FADE TO WHITE.
+speaker_heading: THE END
+dialog: 

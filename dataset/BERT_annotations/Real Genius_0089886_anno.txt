@@ -1,0 +1,3079 @@
+dialog: 
+dialog: REAL GENIUS
+dialog: BODY { background-color: "#FFFFFF"; font-family: Courier New, Helvetica, sans-serif; font-size:10.0pt }
+dialog: DIV { position:absolute; left:5px; top:20px; width:734px; height:500px; }
+dialog: #loc { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.2in; margin-bottom:0in;
+dialog: margin-left:0.8in;text-transform:uppercase }
+dialog: #slug {
+dialog: font-family:Courier New;
+dialog: font-weight: normal;
+dialog: margin-top:0in;
+dialog: margin-right:1.2in;
+dialog: margin-bottom:0in;
+dialog: margin-left:0.8in;
+dialog: text-transform:uppercase;
+dialog: 
+dialog: }
+dialog: #act { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.8in; margin-bottom:0in;
+dialog: margin-left:0.8in }
+dialog: #speaker { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.in; margin-bottom:0in;
+dialog: margin-left:2.8in;text-transform:uppercase }
+dialog: #spkdir { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.7in; margin-bottom:0in;
+dialog: margin-left:2.2in }
+dialog: #dia { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.6in; margin-bottom:0in;
+dialog: margin-left:1.6in }
+dialog: #pg { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.75in; margin-bottom:0in;
+dialog: margin-left:6.5in }
+dialog: #right { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:0.75in; margin-bottom:0in;
+dialog: margin-left:5.0in }
+dialog: REAL GENIUS
+dialog: EXT. SKY-DAY
+dialog: A Black B-1 Bomber banks steeply exposing its underside to us.
+speaker_heading: MAN (V.O./FILTERED)
+dialog: Slingshot this is Watchdog. Rabbit's home.
+text: Rolling out of its bank, the bomber begins a steep climb revealing the fact that it is carrying a small delta winged shuttle on it back. The bomber's wings slide back.
+speaker_heading: BOMBER PILOT (V.O./FILTERED)
+dialog: Roger watchdog. Understand we are go for crossbow.
+text: Suddenly a rocket engine on the back of the modified bomber fires thrusting the plane into steep climb.
+dialog: INT. B-1 FLIGHT DECK-DAY
+text: THE PLANE VIBRATES. The pilot and co-pilot are busy in their seats. Behind them sits a third pilot wearing a space suit. He gives them a thumbs-up signal, rises and crawls to the rear.
+speaker_heading: BOMBER PILOT
+dialog: (into the mike/ over the roar)
+dialog: Watchdog, Slingshot. let us know when the rabbit's in the hole.
+dialog: EXT. A CROWD-DAY
+text: A blond haired, blue-eyed man with a small walkie-talkie is standing in the midst of a group of cheering Central American peasants and townsfolk. He is disguised as one of them.
+dialog: ANGLE ON VILLA BALCONY
+text: The uniformed President of this formerly sleepy, now strategically critical nation is waving to his people. He is flanked by military guards. He turns and walks into the villa.
+speaker_heading: EXT. B-1 BOMBER-DAY
+dialog: The bomber approaches the top of it's arc.
+speaker_heading: ATHERTON
+text: The shuttle pilot climbs into his seat, straps in and checks his instruments.
+dialog: SHUTTLE PILOT
+dialog: All systems check. Crossbow is armed.
+speaker_heading: BOMBER PILOT (V.O.)
+dialog: Roger, Ignition sequence, start, separation in five...
+dialog: EXT. TOP OF THE BOMBER
+dialog: The explosive bolts blow on the shuttle mount.
+dialog: INT. BOMBER FLIGHT DECK
+dialog: The pilot pushes his yolk forward.
+dialog: EXT. BOMBER
+text: As the bomber falls way, the shuttle's booster ignites with a roar, thrusting it toward space.
+dialog: EXT. SPACE-LOOKING BACK
+text: We see a tiny glowing speck coming towards us. very quickly it gains in altitude and we see that it is the shuttle. Suddenly it is upon us and blasts over our heads.
+speaker_heading: ANGLE FROM BEHIND
+text: We follow the shuttle. The engine stops. There is a small explosion, which pushes the booster rocket away. Small maneuvering rockets fire and the shuttle establishes itself in a nose down altitude.
+speaker_heading: SHUTTLE PILOT (V.O. FILTERED)
+dialog: Crossbow is established.
+speaker_heading: BOMBER PILOT (V.O./FILTERED)
+dialog: Roger, we have ground confirmation. Reference grid seven. Check pathfinder, on.
+speaker_heading: SHUTTLE PILOT (V.O. FILTERED)
+dialog: Roger, I'm going on the scope. Moving Target Indicator, engage.
+text: Behind and above the cockpit a large hatch opens and a large circular spinning mirror rises and locks into position.
+dialog: INT. SHUTTLE
+text: The pilot reaches above him and pulls down a viewfinder and begins looking through it.
+dialog: EXT. THE SHUTTLE.
+text: A target sighting lens moves from right to left, stops, and then moves back but this time with the mirror moving in unison.
+dialog: INT. THE SHUTTLE
+text: While still looking through the viewfinder, the pilot manipulates the targeting controls.
+dialog: INSERT
+dialog: PILOT'S POV OF THE SCREEN
+text: Crosshairs, a grid patter and digital, rangefinder readouts appear over various parts of the Earth's topography as the pilot searches for his target. Then it steadies on a polarized image of a group of people. One of the images seems to stand out brighter than the others.
+dialog: EXT. VILLA PATIO-DAY
+text: The president and his aide are chatting with a group of visiting dignitaries. There is a jovial atmosphere as they order drinks from a waiter. The president is proudly displaying one of his medals to his guests. it has a very unique jewel-like object in its middle.
+dialog: INT. THE SHUTTLE
+dialog: The pilot is watching through the viewfinder.
+dialog: PILOT
+dialog: (into mike)
+dialog: Scanner on. Target locked. Tracking locked.
+dialog: EXT. THE SHUTTLE
+dialog: The mirror and sighting lens adjust as they track the target.
+dialog: EXT. VILLA PATIO
+text: The President is served a cup of coffee. He asks the waiter for sugar. The waiter turns back to his cart.
+dialog: INT. THE SHUTTLE
+text: The pilot puts his hands on the joysticks and flips open the trigger covers.
+dialog: PILOT
+dialog: Nice and easy does it.
+dialog: EXT. THE SHUTTLE
+text: Dead silence, then the mirror erupts in brilliant light and sends an incredibly bright beam toward the Earth. Behind the shuttle we see exhaust gases venting in giant plumes into space.
+dialog: EXT. VILLA PATIO
+text: The beam strikes the president like the finger of god. He vaporizes. The waiter turns back with the asked-for sugar to find a smoking hole where the President once stood.
+dialog: EXT. SPACE
+text: The shuttle finishes its work and the beam shuts down. The mirror folds away and the shuttle arcs across the screen preparing for re-entry, firing small retro rockets.
+speaker_heading: PILOT (V.O)
+dialog: I'm coming home. Just like shooting ducks in a barrel.
+dialog: PULL BACK TO REVEAL
+scene_heading: INT. A HIGH-LEVEL GOVERNMENT CONFERENCE ROOM-NO WINDOWS
+text: A large screen at one end of the room continues to show the re-entry.
+speaker_heading: ANNOUNCER (V.O.)
+dialog: The Crossbow Project. There's no defense like a good offense.
+text: In the middle of the room is a giant donut of a round conference table. Another circle hangs above and casts light downward in such a way as to light the table-top but caser those sitting around it in shadow. We can see them but not well. There are SIX MEN in suits. The look is sinister as Hell; but the talk is for Rotary Club meeting.
+text: A MAN, sitting at three o'clock, wearing an Air force major's uniform, points at a remote control device at the screen and stops the film. The lighting does not change. he turns to the man sitting at twelve o'clock.
+speaker_heading: CARMICHAEL
+dialog: Nice little weapon isn't it, Dave?
+dialog: DECKER
+dialog: Well, I guess so, but gosh, Don, it's a movie. You want me to start buying weapons from George Lucas?
+dialog: Polite laughter all around.
+speaker_heading: CARMICHAEL
+dialog: Now that would be somethin', wouldn't it?
+dialog: DECKER
+dialog: Well, sometimes I think I might as well.
+dialog: (to one of the others)
+dialog: What do you think of what you saw, Roy?
+dialog: ROY
+dialog: I think there weren't enough girls.
+dialog: More polite laughter. Then Roy turns ice cold in a flash.
+dialog: ROY (cont'd)
+dialog: Is this thing for biological targets only?
+speaker_heading: CARMICHAEL
+dialog: No, Sir, this thing would take the skin right off, of Air Force One if you wanted. Not that I'm saying we'd ever want to kill our own President, but, you know, for example.
+dialog: ROY
+dialog: Our studies indicate that this type of weapon is totally useless for warfare.
+dialog: DECKER
+dialog: It's not intended for use in your kind of warfare, Roy. This is a perfect peace time weapon.
+dialog: ROY
+dialog: What's the kill potential?
+speaker_heading: CARMICHAEL
+dialog: As soon as the size-to power ratio is licked we'll have about seven bangs for the buck.
+dialog: ROY
+dialog: When that?
+dialog: Carmichael shrugs the sign for "who knows?"
+dialog: DECKER
+dialog: Seriously, Don, I have to report to the Secretary that everything's on schedule. We have plans for your little ray's gun this summer.
+speaker_heading: CARMICHAEL
+dialog: (Trying to cover)
+dialog: As I understand it, guys, there's some major practical difficulties. I'm pushing as hard as I can.
+dialog: DECKER
+dialog: Well, Don, you tell those geniuses you've got until the end of the next fiscal quarter to come up with a working model or I'm pulling the plug on the funding.
+speaker_heading: CARMICHAEL
+dialog: (very nervous)
+dialog: I'm assured they're on the verge of a major breakthrough.
+dialog: DECKER
+dialog: Good. Just as long as we get a working weapon out of it by June. Right, general?
+dialog: ROY
+dialog: I wouldn't know, Dave. I haven't had a working weapon since Korea.
+dialog: DECKER
+dialog: Right.
+dialog: (to assistant)
+dialog: Larry, let's see the film on blinding techniques, then we'll have some lunch, all right?
+speaker_heading: INT. EXHIBITION HALL -DAY
+text: WE OPEN on a sign: "Effects of marijuana on Rodents." A cage is divided in half. One side is marked "NO Marijuana." A chinchilla is running furiously on a treadmill. The other side is marked "Marijuana." A chinchilla is lying in a little hammock.
+text: DOLLY BACK TO WIDE SHOT. We see we are in a large hall. There are dozens of booths and exhibits. A banner strung across the hall lets us know that this is the "WESTERN REGIONAL HIGH SCHOOL WINTER SCIENCE FAIR."
+text: ANGLE ON a pretty female student at a booth standing in front of a clear glass cylinder that has vacuum hoses connected to it. There are two colored gases inside the cylinder. A sign behind her says: HOW TORNADOS ARE FORMED." A small group of boys stand watching her in as sexist a way as possible.
+dialog: GIRL
+dialog: It doesn't seem to be working; but if it was, these gases would be going around.
+dialog: A BOY
+dialog: We don't care.
+text: ANGLE ON another part of the hall. Two blond-haired, male twins stand proudly in their booth. "THE GRAVITATIONAL PULL OF HEAVENLY BODIES." A large, crudely painted diorama of the Milky Way is in the background. Several painted balls are suspended in front, labeled "Mercury," "Venus," etc. The sun is represented by a large electromagnet. All the "planets"
+text: ANGLE ON a booth near the entrance. A ROBOT attracts a crowd. It has a video screen for a face which reads: "Hi, my name is Harry. Let me guess your weight and age." With jerky motions he extends his mechanical arms and shakes hands with passersby. He is speaking to a small KID.
+dialog: HARRY
+dialog: Hi, my name is Harry. Let me guess your weight and age...midget mutant; weight...
+text: The kid shoots it in the neck with a toy space gun. The ROBOT SHORT CIRCUITS: sparks shoot out, its arms fly in circles until a FUSE BLOWS and it SIZZLES to a burning stop.
+text: WE PAN OVER TO the door just in time to see the entrance of DR. JERRY ATHERTON, professor of physics at Pacific Tech, and a popular host of a PBS television show about science. His manner and bearing mark him as a classic anal retentive. He is a perfect cross between Carl Sagan and Jerry Brown. Brilliant, intense, seemingly sincere but, in fact, incredibly manipulative. There is an intentional aura of superiority surrounding him.
+text: We FOLLOW him in and down an aisle where he draws the attention of the crowd in the manner of the celebrity he is. An OLD LADY stops him. He beams a smile at her.
+dialog: OLD LADY
+dialog: Are you Dr. Atherton?
+speaker_heading: ATHERTON
+dialog: Yes, dear.
+dialog: OLD LADY
+dialog: I just love your television show.
+speaker_heading: ATHERTON
+dialog: Well, thank you. We try.
+dialog: OLD LADY
+dialog: What's Albert Einstein really like?
+speaker_heading: ATHERTON
+dialog: Dead.
+dialog: OLD LADY
+dialog: Oh, I thought you had him on.
+speaker_heading: ATHERTON
+dialog: No, that was just an actor.
+dialog: OLD LADY
+dialog: Is everyone an actor, then?
+speaker_heading: ATHERTON
+dialog: (beginning to tire of this)
+dialog: No, I'm a physicist.
+dialog: OLD LADY
+dialog: But Einstein isn't?
+speaker_heading: ATHERTON
+dialog: (dismissing her)
+dialog: Nice talking to you.
+dialog: He walks away.
+text: ANGLE ON a booth where we meet MITCH SIMON, aged fifteen. Mitch is a genius. He's known that since he was old enough to understand the word, which was on his first birthday. He was doing college level work by the time he was in the fourth grade. Although he's intellectually precocious, he's still only 15 years old and has all the problems of any average adolescent. His shyness and intellect have always made him feel different and uncomfortable in social situations.
+text: He stands with his PARENTS near a demonstration table. Unlike some of the other exhibits we've seen, there is nothing amateurish about this one. In fact, it is an impressive display of a dye laser. We can see the beams of multi-colored rays bouncing between mirrors, moving through liquids, combining with gases.
+dialog: MITCH is trying to explain his work to MR. SIMON, who is a nice enough guy but who pretty much regards the fact that his son is gifted as a pain in the butt.
+dialog: MITCH
+dialog: See, Dad, it's coherent light.
+dialog: MR. SIMON
+dialog: It talks?
+dialog: MITCH
+dialog: No.
+text: ATHERTON APPROACHES. He is seen by MRS. SIMON, who greets him.
+dialog: MRS. SIMON
+dialog: Dr. ATHERTON, what a surprise.
+speaker_heading: ATHERTON
+dialog: Hello, Mrs. Simon. How are you?
+dialog: MR. SIMON
+dialog: No problem with Mitch's test scores or anything, is there?
+speaker_heading: ATHERTON
+dialog: No, no. I just thought I'd stop by, bring you the good news myself. I just got word from the admissions committee. We did it. Mitch is in.
+dialog: MRS. SIMON
+dialog: Isn't that wonderful.
+speaker_heading: ATHERTON
+dialog: (to Mitch)
+dialog: Hello, Mitch.
+dialog: MITCH
+dialog: (shyly)
+dialog: Hi.
+speaker_heading: ATHERTON
+dialog: Nice little display?
+dialog: MITCH
+dialog: Thanks
+speaker_heading: ATHERTON
+dialog: What's your medium?
+dialog: MITCH
+dialog: Just Argon. But I have it all structured for HF if I could get some.
+speaker_heading: ATHERTON
+dialog: That would be interesting.
+dialog: MITCH
+dialog: It's all theoretical at this stage, but I have the power supply completely worked out.
+speaker_heading: ATHERTON
+dialog: Very nice.
+dialog: MITCH
+dialog: (a kid again)
+dialog: Thanks.
+dialog: ATHERTON turns to Mitch's parents.
+speaker_heading: ATHERTON
+dialog: You must be very proud. he's the first student we've ever accepted for winter term entrance at Pacific Tech.
+dialog: MR. SIMON
+dialog: I image he's the youngest, too.
+speaker_heading: ATHERTON
+dialog: No, actually. The youngest we've had was a twelve, but he cracked under the pressure within six months so we don't really count him.
+dialog: MRS. SIMON
+dialog: (almost in tears)
+dialog: Fifteen year old and off to college. Image.
+dialog: MR. SIMON
+dialog: Listen Doc. This scholarship thing, does he get any kind of whatya call it, signing bonus sort of thing?
+speaker_heading: ATHERTON
+dialog: (hoping this is not going to be a problem)
+dialog: Well, no...but by allowing Mitch to progress at an accelerated rate we give him the opportunity to fulfill a far greater portion of his remarkable intellectual potential. Don't you agree?
+dialog: MR. SIMON
+dialog: Yeah, I guess. It's just that athletes get, you know, cars and stuff.
+speaker_heading: ATHERTON
+dialog: (polite for Mitch's sake)
+dialog: Well, I guess we scientists are a little different than athletes.
+dialog: MR. SIMON
+dialog: Cheaper.
+speaker_heading: ATHERTON
+dialog: Smarter
+dialog: MR. SIMON
+dialog: Not when it comes to getting cars.
+dialog: MRS. SIMON
+dialog: We just want the best for Mitchie.
+dialog: (changing gears)
+dialog: Dr. Atherton, I saw your show the other night, about radioactive isotopes, and I have a question for you.
+speaker_heading: ATHERTON
+dialog: Oh, yes?
+dialog: MRS. SIMON
+dialog: Is that your real hair?
+dialog: MR. SIMON
+dialog: Well, I wondered that, too.
+speaker_heading: ATHERTON
+dialog: (struggling for manners)
+dialog: Well, interesting question, when you consider the philosophical aspects of whether anything on television is "real" or actually just an "image" being broadcast.
+dialog: MR. SIMON
+dialog: Didn't look real. Anyway, listen, I got to get something to eat or I'm gonna die.
+dialog: MRS. SIMON
+dialog: Come on, let's look for something.
+dialog: They start away.
+speaker_heading: MRS. SIMON (cont'd)
+dialog: I saw over there one of the kids was doing an experiment with insect protein.
+dialog: MR. SIMON
+dialog: Did you see anyone doing anything with corned beef?
+dialog: They exit.
+speaker_heading: ATHERTON
+dialog: Your parents...
+dialog: MITCH
+dialog: Yes?
+speaker_heading: ATHERTON
+dialog: They're...nice
+dialog: MITCH
+dialog: They're Okay. They just sometimes don't have any idea of what I'm talking about.
+speaker_heading: ATHERTON
+dialog: I'm sure of that. Afraid you're going to miss your friends?
+dialog: MITCH
+dialog: No. I don't have any. I think I intimidate other kids.
+speaker_heading: ATHERTON
+dialog: Good boy.
+dialog: MITCH
+dialog: I don't want to.
+speaker_heading: ATHERTON
+dialog: Remember, compared to you, most people have the IQ of a carrot. We're different than most people, Mitch, but you should be proud of that. I mean, look around. From now on, you'll BE amongst peers, colleagues. I suppose I might as well tell you now, I've put you on my personal research team. Some of the finest minds on campus, not the least of which is, of course, my own.
+dialog: MITCH
+dialog: It sounds great.
+speaker_heading: ATHERTON
+dialog: Well, now, I'm expecting great things from you, my boy. This is only the second time I've given this honor to a freshman. The first was...
+dialog: MITCH
+dialog: Chris Kinsley.
+speaker_heading: ATHERTON
+dialog: You know Chris?
+dialog: MITCH
+dialog: No, but he's a legend in the Physics Club.
+speaker_heading: ATHERTON
+dialog: Well, you're going to become a legend yourself. You'll be working with Chris. He's a senior now but he's still on the team and still as brilliant as ever.
+dialog: MITCH
+dialog: Wow.
+scene_heading: INT. PACIFIC ELECTRONICS INSTRUMENTS-DAY
+text: We see CHRIS KINSLEY, Chris has on his head a pair of those jiggling antennae-like things. WE PULL BACK to revel that he is on a tour of the facilities.
+text: A huge hanger-like room filled with workers constructing and assembling scientific instruments. This place has the look and feel of the Big Time.
+text: Workers put the finishing touches on a communication SATELLITE. Passing through this Disneyland of Science is a well-dressed executive. ROBERT JENSEN, who is guiding Chris on the tour. Chris was heralded as one of the smartest people to ever enter Pacific Tech. He proved to be even smarter than many of his professors. He also proved to be one of the most outrageous people to ever enter Pacific Tech. his antics are legend. Unimpressed with authority, pomposity and bullshit in general., Chris dresses on the sloppy side of life. Currently he's wearing a sports jacket that's seen better days, over a faded sweatshirt that has the logo "I ? Toxic Waste."
+text: They approach a second executive/scientist, MIKE DODD, who is wearing a lab coat, and a beautiful public relations executive named SHERRY NUGIL, who is also wearing a lab coat but in a whole new way.
+dialog: JENSEN
+dialog: (as they approach the couple)
+dialog: Guys, I want you to meet Chris Kinsley. Chris, this is Sherry Nugil, my assistant, and Mike Dodd.
+dialog: CHRIS
+dialog: Dr. Dodd?
+dialog: JENSEN
+dialog: He's the man who just designed the new Telcom Satellite here.
+dialog: CHRIS
+dialog: I know. Nice to meet you Dr. Dodd. Isn't the Telcom raining debris all over Europe?
+dialog: DODD
+dialog: (smiling, but angry)
+dialog: That was a launch problem, not a design problem. Why are you wearing that toy on your head?
+dialog: Chris takes the thing from his head.
+dialog: CHRIS
+dialog: Oh, this. Sorry, I was worried that people would think I was stuffy, You know, no fun; all brain, no penis,
+dialog: JENSEN
+dialog: Pardon?
+dialog: CHRIS
+dialog: I'm sorry, it's just an infantile response to authority.
+dialog: JENSEN
+dialog: (confused)
+dialog: Yes. you are Chris Kinsley, aren't you?
+dialog: CHRIS
+dialog: No. Well, yes. I mean, I used to be. Now I'm Mhavishnue Kinsley.
+dialog: JENSEN
+dialog: (relieved)
+dialog: I see. You are being funny.
+dialog: CHRIS
+dialog: Well, I just can't help it. You're such a fun guy yourself.
+dialog: JENSEN
+dialog: Oh yes. I think you'll find we all are, right Mike?
+dialog: DODD
+dialog: No.
+dialog: JENSEN
+dialog: Now Chris, Sherry is going to show you around the place. She can answer any questions you might have about fringe benefits or dress codes or anything and I'll see you back upstairs when you're done, okay? Sherry, take good care of this young man. He's one of the ten finest minds kin the country.
+dialog: CHRIS
+dialog: Someday I hope to be two of them.
+dialog: JENSEN
+dialog: See you later.
+dialog: Jensen and Dodd exit.
+dialog: CHRIS
+dialog: You are very beautiful.
+dialog: SHERRY
+dialog: You don't act like one of the top ten minds in America.
+dialog: CHRIS
+dialog: Oh, really? How many of them have you met?
+dialog: SHERRY
+dialog: (with a really dirty look in her eye)
+dialog: Seven.
+dialog: CHRIS
+dialog: Really?
+dialog: SHERRY
+dialog: You'll be eight. Six was Professor Hostetler at M.I.T.
+dialog: CHRIS
+dialog: Old Professor Hostetler? Isn't he dead?
+dialog: SHERRY
+dialog: He is now.
+scene_heading: INT. ANOTHER PART OF THE PEI FACILITY- ALITTLE LATER
+dialog: Sherry and Chris stare intently into one another's eyes.
+dialog: SHERRY
+dialog: And so, coupled with full insurance coverage and bonus plans, you find it adding up to a fairly sizable perks package.
+dialog: CHRIS
+dialog: I have a pretty sizable perks package right now.
+dialog: SHERRY
+dialog: Also, we understand that you people don't care too much for rigid timetables, and that's pretty rare in private industry.
+dialog: CHRIS
+dialog: So are you.
+dialog: SHERRY
+dialog: Is it true that school of yours keeps getting smarter and smarter kids every year?
+dialog: CHRIS
+dialog: Yup! I mean no!
+scene_heading: INT. YET ANOTHER PART OF PEI- A LITTLE LATER.
+dialog: SHERRY
+dialog: You see the funding associations are the same. Our theoretical work is in the Blue Sky sector as well.
+dialog: CHRIS
+dialog: You have no idea how much I need that kind of continuity in my life right now.
+dialog: INT. CATWALK ABOVE A HUGH LAB- A LITTLE LATER STILL
+dialog: SHERRY
+dialog: You just belong here, Chris. We have several of Dr. Atherton's former students and they're all doing quite well with us.
+dialog: CHRIS
+dialog: What number was he?
+dialog: SHERRY
+dialog: Two. One of his other students was four.
+dialog: CHRIS
+dialog: You're wonderful.
+dialog: SHERRY
+dialog: I know.
+dialog: CHRIS
+dialog: Can we go somewhere?
+dialog: SHERRY
+dialog: Yes.
+dialog: EXT. ROOF OF HANGER-DUSK
+dialog: The giant dish of a huge radio telescope faces heavens.
+speaker_heading: SHERRY (O.C)
+dialog: (between kisses)
+dialog: Talk smart to me.
+speaker_heading: CHRIS (O.C.)
+dialog: What?
+dialog: ANGLE ON CHRIS AND SHERRY
+dialog: They are lying in the middle of the dish. Passion mounts, fingers cope with belts and buttons, clothing falls away; my god, these people are having sex.
+dialog: SHERRY
+dialog: Please I need it. What was your favorite course?
+dialog: CHRIS
+dialog: I guess right now I'd have to say Fluid Mechanics.
+dialog: SHERRY
+dialog: Oooooooooh...
+dialog: CHRIS
+dialog: (responding to something interesting Sherry just did with her hips)
+dialog: And Gym.
+dialog: SHERRY
+dialog: Please.
+dialog: CHRIS
+dialog: Sorry.
+dialog: SHERRY
+dialog: What's your research with Artherton?
+dialog: CHRIS
+dialog: Ultra-high power laser as an energy force for fusion. Tremendous boon to all mankind. And womankind, too.
+dialog: SHERRY
+dialog: Fusion, more fusion.
+dialog: CHRIS
+dialog: It's the process for obtaining enormous amounts of energy from forms of hydrogen, like Deuterium and Tritium.
+dialog: SHERRY
+dialog: Oh, my God, more.
+dialog: CHRIS
+dialog: Extracting the fuels is no problem.
+dialog: SHERRY
+dialog: Hmmmm.
+dialog: CHRIS
+dialog: Getting them to combine and release the energy is the problem.
+dialog: SHERRY
+dialog: Oohh, yes
+dialog: CHRIS
+dialog: It takes temperatures of 100 million degrees Celsius.
+dialog: SHERRY
+dialog: Oh, God.
+dialog: CHRIS
+dialog: So, I'm...
+dialog: SHERRY
+dialog: Yes.
+dialog: CHRIS
+dialog: ...building...
+dialog: SHERRY
+dialog: Yes.
+dialog: CHRIS
+dialog: ...a laser...
+dialog: SHERRY
+dialog: Oh, yes.
+dialog: CHRIS
+dialog: ...that pulses...
+dialog: SHERRY
+dialog: Hmmmmmmmm.
+dialog: CHRIS
+dialog: ...very hot...
+dialog: SHERRY
+dialog: Ohhh...
+dialog: CHRIS
+dialog: ...and causes...
+dialog: SHERRY
+dialog: Yes.
+dialog: CHRIS
+dialog: ...Fusion...
+dialog: SHERRY
+dialog: Ahhhhhhhhhhh.
+dialog: EXT. PACIFIC TECH CAMPUS-DAY
+text: It is an impressive campus of older California Spanish building mixed with modern architectural marvels. This is the Sunday before the beginning of the Winter Term.
+text: We pick up MITCH SIMON and FOLLOW him as he crosses campus. He is wearing a tie and jacket, which only adds to his general sense of being out of place. He is carrying a map which he stops to consult every now and again. He stops an upper classman and asks him a question while pointing at the map. The older asks him a question while pointing at the map. The older student takes great delight in turning the map right side up.
+dialog: EXT. PRESIDENT'S HOUSE-AFTERNOON
+text: The tasteful and elegant official residence of the university's President. DR. EUGENE MEREDITH. MITCH approaches the open front door, where he is greeted by MRS. MEREDITH.
+dialog: MITCH
+dialog: Good afternoon. I'm looking for
+dialog: (reading from the invitation in his hand)
+dialog: the President's Freshman Tea.
+dialog: MRS. MEREDITH.
+dialog: (leading him inside)
+dialog: Oh, good. I'm so glad we have one then. Who are you?
+dialog: INT. THE HOUSE-CONTINOUS
+dialog: They pass through on their way to the backyard.
+dialog: MITCH
+dialog: Mitch Simon.
+dialog: MRS. MEREDITH.
+dialog: Oh yes. You're the special case. I know Gene wants to meet you. You're just in time for his traditional talk. Would you like a glass of sherry?
+dialog: MITCH
+dialog: I'm a minor.
+dialog: MRS. MEREDITH.
+dialog: Aha, well of course you are. That would explain your height.
+dialog: They exit out onto the patio.
+dialog: EXT. THE PATIO AND GROUNDS OF THE HOUSE-CONTINUOUS
+text: The returning freshman class has gathered for a social. Mitch is the only one in a tie. He stands on the patio with Mrs. Meredith whose husband, the apparently ever-jovial professional academic administrator, is about to speak to the assembled.
+dialog: MEREDITH
+dialog: People, if I might get your attention.
+dialog: The din begins to quiet.
+speaker_heading: MEREDITH (CONT'D)
+dialog: Welcome back, freshmen! I take it you all put the Christmas break to good use?
+dialog: There is good-natured jeering.
+speaker_heading: MEREDITH (CONT'D)
+text: Now, if you'll indulge me, I'd like to speak seriously for a moment. You will recall that when I welcomed you to the Pacific institute of Technology a few short months ago I spoke of how we are one of the finest scientific institutions in the world. I think the finest. I mentioned our six Nobel Prize winners, our members of the national Academy of Sciences, and our members of the National Academy of Engineering. This is an intellectual oasis of technological achievement in the dessert of general academic mediocrity we see inmost colleges and universities today.
+dialog: There is some applause and good-natured banter. Mitch is truly moved. This environment is exactly what Mitch has hoped for all his life.
+speaker_heading: MEREDITH (CONT'D)
+dialog: I also spoke of the fact that you are the finest freshmen class we have ever had here.
+dialog: There are cheers and applause.
+speaker_heading: MEREDITH (CONT'D)
+dialog: I say this to every freshman class. Each year we raise our entrance requirements and each year there is a group of students like you who meet and surpass those requirements.
+dialog: Almost jubilant cheering and clapping.
+speaker_heading: MEREDITH (CONT'D)
+dialog: As you have no doubt already noticed by now, over a third of you are gone. By the end of the year another third of you will have followed them out of Eden and into mediocrity.
+dialog: The crowd goes deathly silent as Meredith continues in his cherry manner.
+speaker_heading: MEREDITH (CONT'D)
+dialog: We want only the best. Hard work and high standards are expected of everyone. And if you aren't up to it Cal tech or M.I.T. might take you, but you don't fit in here.
+speaker_heading: MEREDITH (CONT'D)
+dialog: Let me remind you that this place is an opportunity, not a right; a chance not a gift; a working lunch, not a picnic. Welcome back.
+text: Several waitresses begin serving tea but the despair of reality creeps over the students and they begin to disperse. Mitch stands waiting for the approaching Dr. Meredith.
+dialog: MRS. MEREDITH
+dialog: Gene, this is Mitch Simon.
+dialog: MEREDITH
+dialog: Oh, yes, Professor Artherton's bright star.
+dialog: MITCH
+dialog: Yes, sir.
+dialog: MEREDITH
+dialog: And I understand you're already on his project. I'm assured you're going to do great things.
+dialog: MITCH
+dialog: I hope so.
+dialog: MEREDITH
+dialog: Let me give you some advice.
+dialog: MITCH
+dialog: Thank you.
+dialog: MEREDITH
+dialog: Don't screw up.
+dialog: MITCH
+dialog: Okay. I guess I better go now.
+dialog: He walks away.
+dialog: MEREDITH
+dialog: (watching Mitch with satisfaction)
+dialog: I think the young people really appreciate my " getting down" verbally, don't you?
+dialog: MRS. MEREDITH
+dialog: Absolutely.
+dialog: EXT. CAMPUS-LATER
+text: Once again Mitch, map in hand, must ask another student for directions. This one also turns the map right-side up and then points to the building they are standing in front of. As he heads for it he passes a bronze bust of one of the founding fathers, DR. BRADFORD. The students have decorated him with a muffler, earmuffs and carrot nose to look like a snowman.
+scene_heading: INT. APPLIED PHYSICS BUILDING-MOMENTS LATER
+text: Mitch walks down a long corridor. He passes several open doors that reveal laboratories with all kinds of scientific equipment all over them.
+text: Mitch stops in front of a closed door. He checks the number, then looks down at a card in his hand. He turns the card right-side up. He OPENS the door to REVEAL a darkened lab. In the darkness there is a veritable light show of laser beams. A voice calls out from the darkness.
+speaker_heading: VOICE (O.C.)
+dialog: Hey!
+dialog: MITCH
+dialog: Yes?
+speaker_heading: VOICE (O.C.)
+dialog: Come in here.
+dialog: INT. LAB-CONTINUOUS
+text: Mitch ENTERS quickly and shuts the door behind himself. In the instrument glow we can make out the forms of three other students. They are: KENT, CARTER and BODIE, members of Dr. Atherton's research team.
+dialog: KENT
+dialog: Just leave the sandwiches and go.
+dialog: MITCH
+dialog: Me?
+dialog: KENT
+dialog: No, Yoda; yeah, you.
+dialog: MITCH
+dialog: I don't have any ah...
+dialog: CARTER
+dialog: Brains?
+dialog: MITCH
+dialog: No, sandwiches.
+dialog: KENT
+dialog: Well then, what good are you?
+dialog: CARTER
+dialog: What are we supposed to eat?
+dialog: MITCH
+dialog: (getting a little fed up)
+dialog: How about my shorts.
+dialog: KENT
+dialog: Hey! Who do you think you're talking to?
+text: The laser snaps off and the lights snap on. The glare is a little intense at first.
+speaker_heading: KENT (CONT'D)
+dialog: Are you from the restaurant or not?
+text: With the lights on we get a chance to have a better look at the team. Kent is an elitist, intellectual snob with very little imagination who likes to think of himself as Atherton's protégé. He wears braces on his teeth because he knows how important a proper smile can be in the marketplace.
+dialog: MITCH
+dialog: No. I'm Mitch Simon. I'm a student. Dr. Atherton told me to come up here.
+dialog: KENT
+dialog: Oh, you're the new stud, are you. Or is it dud?
+dialog: MITCH
+dialog: How do you mean?
+dialog: BODIE
+dialog: Stud. Hot shot. Brain. You're the twelve-year-old, right?
+dialog: MITCH
+dialog: I'm fifteen.
+dialog: CARTER
+dialog: Does your body know that?
+dialog: Mitch attempts a good-natured laugh. It's not a great attempt.
+dialog: MITCH
+dialog: Are you expecting him or...
+dialog: KENT
+dialog: Sure. Can I get you something? A balloon?
+dialog: MITCH
+dialog: Are any of you guys Chris Kinsley?
+dialog: They all freeze.
+dialog: KENT
+dialog: No, Thank God.
+dialog: CARTER
+dialog: Hey Kent, I hear Kinsley got that PEI job all locked up.
+dialog: KENT
+dialog: Damn! I wanted that job.
+dialog: MITCH
+dialog: Why?
+dialog: KENT
+dialog: Why? Because it starts at fifty thousand a year, that's why. Plus travel, car, stock options...
+dialog: MITCH
+dialog: Oh. Well, I'm supposed to have a look at your work up to date. Check it over.
+dialog: KENT
+dialog: Check it over.
+dialog: MITCH
+dialog: Yes.
+dialog: KENT
+dialog: For what?
+dialog: MITCH
+dialog: Mistakes, I guess. He said you guys are stuck.
+dialog: The room goes rigid. Evidently this little punk of an upstart needs to be told what Christ died for.
+dialog: KENT
+dialog: Let's get something very clear here. Everything you've heard about the supportive student body and the honor code might hold for the rest of the campus, but it doesn't count for squat in here. Which means when jerry's not here, you do what I say. From God to Jerry to me, get it?
+dialog: Atherton ENTERS.
+speaker_heading: KENT (CONT'D)
+dialog: Hi Jerry.
+speaker_heading: ATHERTON
+dialog: I've told you before, Kent, you don't get to use my first name.
+dialog: KENT
+dialog: Did I?
+speaker_heading: ATHERTON
+dialog: (to Mitch)
+dialog: Good to see you, Mitch.
+speaker_heading: ATHERTON (CONT'D)
+dialog: (to the group)
+dialog: I'm sure you're all going to become fast friends.
+dialog: KENT
+dialog: We're well on our way already.
+speaker_heading: ATHERTON
+dialog: Good, because after Mitch is brought up to date, I want the rest of you to take your cues from him. He'll be in charge of the group.
+dialog: KENT
+dialog: What? I mean, good choice, Jerry.
+speaker_heading: ATHERTON
+dialog: You're doing it again, Kent.
+dialog: KENT
+dialog: Am I?
+speaker_heading: ATHERTON
+dialog: Where's Chris?
+dialog: KENT
+dialog: He didn't bother to come in today.
+dialog: BODIE
+dialog: He said he didn't feel like it; and then I said 'you better'; and then he said ' or what?'; and then I said ' or he'd get the heck,' and then he said 'jam it, it's Sunday' and he looks for God on Sundays; so I said 'okay, but I'm telling.'
+speaker_heading: ATHERTON
+dialog: Thank you Bodie. I notice you've stopped stuttering.
+dialog: BODIE
+dialog: Yes, I've been giving myself some sock treatment and it's working.
+speaker_heading: ATHERTON
+dialog: Good.
+dialog: (to Mitch)
+dialog: I'm sorry he isn't here. I wanted you to meet your hero.
+dialog: CARTER
+dialog: Hero? That clown? Look at this.
+text: He points to a table full of laser equipment comprised of various angled mirrors and gas cambers and drib units. The others gather around it.
+dialog: CARTER (Cont'd)
+dialog: We heard he wasn't coming in. Kent and I figured we'd go ahead and run his section without him. And we started getting picosecond ratings that aren't even in the ballpark.
+dialog: KENT
+dialog: It looks like it'll take at least a week to re-do all this and start again.
+dialog: Mitch is carefully studying the equipment and checking some notes that were on the table.
+speaker_heading: KENT (CONT'D)
+dialog: Another costly mistake.
+speaker_heading: ATHERTON
+dialog: Are you sure?
+dialog: CARTER
+dialog: Positive.
+dialog: KENT
+dialog: Positive.
+dialog: MITCH
+dialog: (reading from notes)
+dialog: Negative.
+dialog: (innocently, to Carter and Kent)
+dialog: There's a mistake all right, but I think you guys made it. Look, you inverted the last two steps.
+dialog: CARTER
+dialog: (grabbing the notes)
+dialog: I don't make mistakes...
+dialog: (reading)
+dialog: ...Usually.
+speaker_heading: ATHERTON
+dialog: Damnit, don't touch other people's things.
+dialog: MITCH
+dialog: (adjusting the equipment)
+dialog: This shouldn't take too long to fix.
+speaker_heading: ATHERTON
+dialog: I'm glad that you were here, Mitch.
+dialog: KENT
+dialog: Yes, thanks for pointing out Carter's mistake, Mitch.
+speaker_heading: ATHERTON
+dialog: Don't bother with that now. I'm sure you want to go get settled.
+dialog: MITCH
+dialog: (relieved)
+dialog: Well, it has been kind of a long day.
+dialog: Atherton starts to leave.
+speaker_heading: ATHERTON
+dialog: Oh, I forgot Kent, I need your help.
+dialog: KENT
+dialog: Anything, Jerry.
+speaker_heading: ATHERTON
+dialog: Stop it.
+dialog: KENT
+dialog: What?
+speaker_heading: ATHERTON
+dialog: Get copies made of everything so young Mitch here can get started checking everything tomorrow.
+dialog: KENT
+dialog: My pleasure.
+speaker_heading: ATHERTON
+dialog: And then, on your way back, stop at my cleaners.
+dialog: KENT
+dialog: Don't give it a thought. I enjoy it.
+speaker_heading: ATHERTON
+dialog: (to Mitch)
+dialog: Shall we?
+dialog: MITCH
+dialog: Sure.
+dialog: Atherton exits, followed by Mitch.
+dialog: BODIE
+dialog: I guess it goes from God to Jerry to you to the cleaners, right Kent?
+dialog: EXT. DORM HALL- LATE AFTERNOON
+dialog: Mitch enters the arched column portico of this dormitory building.
+dialog: INT. ROOM
+text: The room is small, cramped, and more than a little disheveled. PEI, NASA and science fiction posters hang on the ceiling and wall, over and around one of the two beds. Junk food and soft drink containers are littered everywhere. In one corner is a fully-stocked Frito Lay Chip display.
+text: Mitch crosses to his bed and sits. He is exhausted and depressed. The door opens and Mitch see a strange, tall, bulkily- built, hermit-looking kind of a guy enter. He is carrying a McDonald's bag. He stops when he see Mitch and stares at him in a quirky way for a second, then crosses to the closet, opens the door and exits into it.
+dialog: MITCH
+dialog: Hello?
+dialog: Getting no response, Mitch rises, goes to the closet, opens it and looks in.
+dialog: MITCH
+dialog: Hello?
+dialog: There is no one there.
+dialog: MITCH
+dialog: What kind of place is this?
+text: Mitch crosses to his luggage. he opens a bag and, to his surprise, he finds it empty. he then looks in the other bag and find they've all been cleaned out. Puzzled, he shuts the bags.
+text: Suddenly, the door swings open and CHRIS KINSLEY , who we saw earlier at PEI, ENTERS. He's dragging a large piece of mechanical equipment. it is, in fact, a baseball pitching machine.
+dialog: CHRIS
+dialog: Hi.
+dialog: Mitch stares.
+speaker_heading: CHRIS (CONT'D)
+dialog: Hey, you just gonna sit there admiring the room or are you going to help me with this?
+dialog: MITCH
+dialog: What is this thing?
+dialog: CHRIS
+dialog: It's a penis stretcher. You want to try it out?
+dialog: MITCH
+dialog: No!
+dialog: CHRIS
+dialog: Oh really? Well, congratulations, then, No, It's an Iron Mike.
+dialog: MITCH
+dialog: What?
+dialog: CHRIS
+dialog: A baseball pitching machine.
+dialog: Chris is setting it up.
+dialog: MITCH
+dialog: I was here for a second this morning...
+dialog: CHRIS
+dialog: (frightened)
+dialog: You didn't straighten the place up, did you?
+dialog: MITCH
+dialog: (looks around at the mess)
+dialog: No.
+dialog: CHRIS
+dialog: Good. 'Cause all my filth's in alphabetical order.
+dialog: Chris puts on a baseball cap and grabs a bat.
+dialog: MITCH
+dialog: Anyway, I dropped off my luggage and now all my bags are empty.
+text: A ball is pitched. Chris connects and the ball smashes through the window.
+dialog: CHRIS
+dialog: I put your stuff away for you.
+dialog: Another pitch. He smashes a ball into a wall.
+speaker_heading: CHRIS (CONT'D)
+dialog: It's all in the bottom drawer. Shirts, pants, underwear, shoes. I had a little trouble with your sport jacket, so I threw it out. Nah, only kidding. This one's for you, little Johnny.
+text: He whacks another pitch. He does a crowd cheer and circles the bases.
+dialog: CHRIS
+dialog: What a game. I'm Chris Kinsley.
+dialog: MITCH
+dialog: Oh, no.
+dialog: INT. MOVING CAR- SAME TIME
+text: Dr. Atherton is riding in a rental car with DON CARMICHAEL, a government contract monitor. These two guys are part of an old boy network involved with research and development.
+speaker_heading: CARMICHAEL
+dialog: We're falling way behind, Jer.
+speaker_heading: ATHERTON
+dialog: Well, we're not making cheese sandwiches here, you know, Don.
+speaker_heading: CARMICHAEL
+dialog: That's a good one. I'll have to remember to use that, Jer.
+speaker_heading: ATHERTON
+dialog: The new boy is quick.
+speaker_heading: CARMICHAEL
+dialog: He better be because the company needs a practical working model within four months.
+speaker_heading: ATHERTON
+dialog: You can't dictate innovation.
+speaker_heading: CARMICHAEL
+dialog: Let me put this another way, Jer. You know all that money we've been spending for development?
+speaker_heading: ATHERTON
+dialog: Yes
+speaker_heading: CARMICHAEL
+dialog: Well, when a project gets cut off, the finance boys always run an audit.
+speaker_heading: ATHERTON
+dialog: I see.
+text: The car pulls up to Atherton's house, where there is a great deal of construction going on. Once the work is completed, this is going to be beautifully restored, rather large Victorian home.
+speaker_heading: CARMICHAEL
+dialog: (looking out)
+dialog: Having a little work done on the old place, are you? Looks nice.
+dialog: INT. MITCH'S ROOM-THAT NIGHT
+text: Mitch is gathering up some books. He looks at a chart on the wall.
+dialog: MITCH
+dialog: Library... library...205.
+text: The door to the room opens while Mitch is looking the other way. We catch a glimpse of the same tall, bulkily-built man opening Mitch's closet door and disappearing inside. Mitch turns just in time to see the door close. he goes into it, opens it and looks inside. Nothing. he goes to the door of his room. Mitch opens the door, steps into the hall and slips, landing on his ass. His books go flying.
+dialog: INT. HALLWAY
+text: The hall floor is covered with ice wall-to-wall. Skating MUSIC is playing on a cassette somewhere. A few students, dressed for winter, are skating. Chris skates over and helps Mitch to his feet.
+dialog: CHRIS
+dialog: Welcome to Pacific Tech's "Smart People On Ice."
+text: He whirls away, leaping from wall to wall, sliding quickly down the ice. He stops in front of a short, roly-poly kid of Japanese descent, MARK ICKAGAMI, better know as ICK. Ick is a bio-chemist who spends a great deal of time in his lab experimenting with various fun compounds that do things ranging from making artificial ice to increasing memory.
+dialog: CHRIS
+dialog: (with a proletariat accent)
+dialog: Ice turned out real good, Ick.
+dialog: ICK
+dialog: Yeah, it worked., didn't it?
+dialog: CHRIS
+dialog: What did you use?
+dialog: ICK
+dialog: (teasing)
+dialog: Oh, sure, I tell you then you tell somebody else, and the next thing you know we're in the middle of another ice age.
+dialog: CHRIS
+dialog: (yelling down the hall)
+dialog: Come on, people. Nobody's skating.
+speaker_heading: A STUDENT (O.C.)
+dialog: Just 'cause you're a slack, Kinsley.
+dialog: CHRIS
+dialog: Moles and trolls.
+dialog: MITCH
+dialog: What?
+dialog: CHRIS
+text: Moles and trolls. Work, work, work, work. I plan this for weeks. I go to a lot of trouble and all they want to do is study. I'm hurt. I know that's it's not like me but I'm sorry. I'm starting to get discouraged, people. We had nobody at the mutant hamster races, one entry in the Madame Curie look-alike contest, and he was disqualified later. Why do I even bother?
+dialog: Chris skates off.
+dialog: MITCH
+dialog: (to Ick)
+dialog: How does he do it?
+dialog: ICK
+dialog: Well, I'm not an expert, but I think he puts one foot in front of the other and pushes.
+dialog: MITCH
+dialog: Not skating. The horsing around. The never studying. I know he's smart. but nobody's that smart.
+dialog: ICK
+dialog: I don't know how smart he is. Before he even came here he invented a solar battery, which laid the groundwork for the system that provides the energy for Amarillo, at half the cost. He'd be a millionaire today if he been smart enough to make them pay for it. How he pulls the grades, I don't know.
+text: Just then, ROARING down the hall, face down on a sled, comes JORDANS COCHRAN. She is an advanced engineering student with great theoretical and mechanical skill who can never seem to pitched energy of a hyper-kinetic kindergarten class. She crashes at Mitch's feet. He reaches down to help her.
+dialog: MITCH
+dialog: You okay?
+dialog: JORDAN
+dialog: No, not emotionally, no I'm not. I'm disappointed... not terribly, but still, it should have gone much, further, much faster. It's okay, though, I know what the problem is, that's simple, it's obviously the drag coefficient, I'll just have to re-design the blades. I can do that, that's easy. I can do that here; but I have to cut then after they're designed, that takes tools, that takes time. How long is this stuff going to last, do you know?
+dialog: ICK
+dialog: Maybe another half an hour.
+dialog: JORDAN
+dialog: That's great, that's good. I can do that, no problem, lots of time.
+dialog: (to Mitch)
+dialog: What's your name?
+dialog: MITCH
+dialog: Mitch
+dialog: JORDAN
+dialog: Thanks for the help. See you.
+dialog: And in a flash she is gone.
+dialog: MITCH
+dialog: Your welcome.
+dialog: (to Ick)
+dialog: Who was that?
+dialog: ICK
+dialog: That? that was...
+dialog: Jordan rushes back.
+dialog: JORDAN
+dialog: (to Mitch)
+dialog: I'm Jordan, I realized I'd forgotten to tell you my name, it's Jordan. I heard there was going to be someone new this term, are you a freshman?
+dialog: MITCH
+dialog: Yes.
+dialog: JORDAN
+dialog: Do you have a bed?
+dialog: MITCH
+dialog: Yeah.
+dialog: JORDAN
+dialog: Oh, I was going to make you one if you needed it but you don't so that's okay. Well, I gotta go, I'll see you later, probably. See you Ick, see you Mitch.
+dialog: As she races off, KENT enters carrying several binders.
+dialog: KENT
+dialog: What's all this suppose to be?
+dialog: CHRIS
+dialog: This? This is new kind of shovel.
+dialog: Mitch finds this very funny and reacts accordingly by laughing.
+dialog: Kent can't stand to be laughed at.
+dialog: KENT
+dialog: (Dumping the binders into Mitch's hands)
+dialog: This should keep you busy for awhile. This, plus your regular class load should turn your brains to mush in a month.
+dialog: MITCH
+dialog: Aw! Kent, we were going to name you King of the Winter Carnival.
+dialog: KENT
+dialog: Ha ha.
+dialog: (to Ick)
+dialog: I suppose you're in on this, too. Did you make this stuff?
+dialog: ICK
+dialog: I'm not saying.
+dialog: KENT
+dialog: Who's going to clean it up?
+dialog: ICK
+dialog: Don't have to. It's going to go from solid form directly to gas.
+dialog: KENT
+dialog: (impressed by this fairly uncommon phenomenon)
+dialog: Really? What is it?
+dialog: ICK
+dialog: I'm not saying. But I can tell you that it's fairly rare, and very unstable.
+dialog: KENT
+dialog: You're all a bunch of degenerates.
+dialog: CHRIS
+dialog: We are? What about that time I caught you naked with a bowl of Jello?
+dialog: KENT
+dialog: (flustered)
+dialog: I...you... I was hot and I was hungry. And anyway...Look, Kinsley, you're not number one anymore.
+dialog: CHRIS
+dialog: Number one what?
+dialog: KENT
+dialog: (pointing to Mitch)
+dialog: Mighty mouse, here, beat your placement scores by over twenty points.
+dialog: CHRIS
+dialog: Really? I guess you think you're pretty hot stuff?
+dialog: MITCH
+dialog: (uncomfortable, unsure if this is real)
+dialog: Well...no, I mean
+dialog: CHRIS
+dialog: Hey! Maybe you are smarter than me, but, can you do this?
+text: Chris pushes himself off backwards and slides along the ice in an attempt at a fancy figure skating move. Just as he's about to finish he crashes to the floor at the precise moment that the floor turns into a cloud of rising gas. Chris disappears in the cloud.
+dialog: ICK
+dialog: (excited)
+dialog: It worked!
+dialog: MITCH
+dialog: That's neat.
+dialog: ICK
+dialog: (teasing)
+dialog: Now if we can just keep it from exploding.
+dialog: Kent runs away.
+dialog: CHRIS
+dialog: (from inside the growing cloud)
+dialog: Hey, Ick. Is it okay to breathe this stuff?
+dialog: (beat)
+dialog: Ick?
+dialog: (beat)
+dialog: Ick?
+dialog: The cloud fills the screen.
+dialog: INT. CHRIS AND MITCH'S ROOM-THE NEXT MORNING
+text: Perfect morning light streams through the window, making even this dump look beautiful. Chris is asleep in a strange position on his bed, proving that even asleep he is eccentric. We Pan across the room to Mitch. He has obviously fallen asleep while reading the binders that Kent had given him the night before. We HEAR the sound of the door opening, followed by some heavy footsteps. This causes Mitch to wake up. it takes him a second to realize where he is. He sits up.
+speaker_heading: MITCH'S POV
+text: Again we catch just a glimpse of that same mysterious figure opening the closet door. He is holding a "McDonald's" bag. He closes the door behind him.
+dialog: ANGLE ON MITCH
+dialog: To say the least, he's thrown by this strange intrusion.
+dialog: MITCH
+dialog: Hello?
+text: He waits a beat, listening. Nothing happens so he gets up and crosses to the closet, looks inside.
+dialog: OVER MITCH'S SHOULDER INTO CLOSET
+dialog: There's nothing in there but clothes. Mitch pushes the garments aside and finds just a wall.
+dialog: ANGLE ON MITCH
+text: He shakes his head. This is getting frustrating. He exits the room.
+dialog: INT. BATHROOM
+text: Mitch crosses to the urinal. Just as he is about to relieve himself, the door opens. Jordan enters. This is an experience Mitch has never before and as a result he is one uncomfortable fifteen-year-old.
+dialog: JORDAN
+dialog: Hi, good morning, I thought I saw you come in here, you must be an earlier riser, we met last night, I'm Jordan, remember? I had a sled with me, I made you a sweater.
+text: She holds out a sweater. He leans into the urinal, trying to hide himself the best he can.
+dialog: MITCH
+dialog: Last night?
+dialog: JORDAN
+dialog: yeah, it's just something I do with my hands while I'm reading. I hope I got the size right, I'm pretty sure I did, I have a brother so I use him as a sizing comparison, and I have a pretty good eye for that sort of thing, so I just went ahead and made you one because I was, you know, up. Peeing?
+dialog: MITCH
+dialog: Yeah.
+dialog: JORDAN
+text: I never sleep. I don't know why. It drove my roommate nuts. I mean really nuts, they had to take her away in an ambulance and everything, she's okay now thought but she had to be transfer to an easier school but I don't know if that part has anything to do with being my fault, but still, anyway, if you ever want any help studying at night or just let me know, okay, 'cause I'm just a couple of doors down from you guys and I'm usually up and I wouldn't mind, okay?
+dialog: MITCH
+dialog: Thanks, I will.
+dialog: JORDAN
+dialog: Are you finished yet?
+dialog: MITCH
+dialog: I can't start.
+dialog: JORDAN
+dialog: Because I'm here?
+dialog: MITCH
+dialog: I think so.
+dialog: JORDAN
+dialog: Isn't that weird? Well, I have to go.
+dialog: MITCH
+dialog: Me, too.
+dialog: JORDAN
+dialog: Right, well, don't forget what I said, I'll put the sweater in your room, see you later, tell Chris that if he wants one I'll be happy to make him one but nit today because after classes I'm going to rebuild the back part of my room, you should come down and see it later, I have to go, bye.
+dialog: She exits.
+dialog: MITCH
+dialog: (stunned)
+dialog: bye.
+scene_heading: INT. THE LOBBY AREA OF THE DORM- A LITTLE LATER
+text: Mitch is coming down a hallway into the area. He is dressed in his tie and jacket and has books under his arm. As he crosses past the self-serve vending machine he spots Chris entering the kitchen. Mitch follows him inside.
+dialog: MITCH
+dialog: Something strange happened to me this morning.
+dialog: CHRIS
+dialog: Was it a dream where you see yourself dressed up in kind of sun god robes standing on top of a pyramid with all theses nude women throwing little pickles at you?
+dialog: MITCH
+dialog: No
+dialog: CHRIS
+dialog: Why am I the only person who has that dream?
+text: Before Mitch can ask another question, Chris open the freezer compartment and takes out a large thermos-like container. He takes it over to the cutting board, then takes from his pocket a pair of calipers, a pair of tweezers, and a little box that looks like a dental floss kit. He opens the container which immediately starts pouring thick steam.
+dialog: MITCH
+dialog: Liquid nitrogen?
+text: Chris uses calipers to extract a length of tubing from inside the container. he puts it down on the board and, using the tweezers, pushing out a cylindrical mound of ice from inside the tube. Then, from the dental floss kit, he pulls out a length of very fine wire, which he uses to cut the ice into a number of thin "coins" and slides then into the lid of the container, which he picks up and takes out the door with him. Mitch follows.
+dialog: INT. VENDING MACHINE AREA
+dialog: CHRIS
+dialog: Coffee?
+text: Using the tweezers, Chris picks up an ice coin and puts it into one of the machines. There is a high-pitched squeak. To Mitch's astonishment, the machine accepts the bogus money and a cup drops down and fills with coffee.
+dialog: CHRIS
+dialog: So, what's happened?
+dialog: MITCH
+dialog: Oh. There's a guy living in our closet.
+dialog: CHRIS
+dialog: You've seen him too?
+dialog: Chris puts his coins in several of the machines and retrieves from them junk food junky's treasure trove of goodies.
+dialog: MITCH
+dialog: Who is it?
+dialog: CHRIS
+dialog: Hopsfield.
+dialog: MITCH
+dialog: Is he... safe?
+dialog: CHRIS
+dialog: So far.
+dialog: Chris exits. Mitch stares after him.
+speaker_heading: SCHOOL MONTAGE:
+dialog: A quick series of shots moves us through the next two months of time, accompanied by an original song.
+dialog: INT. LECTURE HALL-DAY
+text: An older professor is lecturing, pointing to a complicated algebraic problem on a blackboard, Mitch is in the last row of this student-filled, multi-tiered classroom. Everyone else listens intently and makes notes while Mitch thumbs quickly through a textbook, then closes it and makes a note in a loose-leaf binder.
+dialog: INT. ATOM SMASHER ROOM-DAY
+text: Mitch stands with a group of other students watching an instructor explain the intricacies of nuclear fission. Mitch opens a notebook and starts writing furiously.
+scene_heading: INT. ATHERTON'S PROJECT LAB-DAY
+text: Mitch is using his notes and some pieces of equipment to explain something to the rest of the team. Chris is impressed. Kent shakes his head in disagreement until Atherton nods his approval, at which point Kent also agrees.
+dialog: INT. CHRIS AND MITCH'S ROOM-NIGHT
+text: it is late but Mitch is still hard at the books. Hopsfield goes by and disappears in the closet. Mitch doesn't even notice anymore. There is a knock at the door and Jordan enters. She has brought Mitch a device that she just built which holds textbooks and turns the pages automatically.
+dialog: INT. LECTURE HALL-DAY
+text: Mitch, dressed more informally, is in the same room with the same professor as in scene 54. This time, however, there are several empty seats. The people have been replaced by cassette tape recorders. Mitch takes notes.
+scene_heading: INT. CHEMICAL ENGINEERING LAB-DAY
+dialog: Mitch enters with another student to find a teddy bear waiting for him at his place.
+dialog: INT. ATHERTON'S LAB-NIGHT
+text: Mitch and Chris work alone. it is obviously very late. Using a variety of exotic-looking devices, they put the laser through its paces and make notes.
+dialog: INT. LECTRURE HALL-DAY
+text: This time, Mitch is the only student. Tape recorders sit in front of every seat. The professor drones on, apparently oblivious to what he sees in front of him.
+dialog: INT. WAVE TANK ROOM-DAY
+text: A very attractive instructress is demonstrating a dye trace experiment in a huge wave tank. Mitch takes notes.
+dialog: INT. DINING HALL
+text: Mitch and Ick are carrying trays of food, looking for a place to sit. They pass a seated Kent, who points out a place for Mitch, who looks to see a highchair at the end of the table.
+dialog: EXT. LIBRARY-MORNING
+text: Mitch comes down the stairs with several books under his arms. He stumbles and drops one of the books. As he struggles to recover it, it is handed to him by none other than Hopsfield. By the time Mitch realizes who it is, the mysterious figure is once again gone.
+dialog: EXT. STREET-DAY
+text: Mitch is crossing the street carrying a huge load of books. Suddenly a yellow Citroen pulls up behind him and honks its horn causing Mitch to drop everything. He looks at the driver and sees that it is a laughing Kent.
+dialog: INT. ATHERTON'S CLASSROOM
+text: Chris, Kent, Bodie and Carter are present as Atherton wraps up a day's class. People take serious notes. Chris reads a magazine. People file out and Mitch enters approaches Chris to get him to work on the laser. Chris shakes his head.
+dialog: INT. ATHERTON'S LAB-LATE NIGHT
+text: Mitch is working alone. He adjusts the laser and turns it on. It burns through a very thick block of wood, but Mitch is still not pleased.
+dialog: INT. HALLWAY-NEXT MORNING
+text: A very tired Mitch heads for the lecture hall. He comes to the door, opens it and enters to see a tape recorder lecturing to a roomful of tape recorders.
+scene_heading: INT. CHRIS AND MITCH'S ROOM-ANOTHER NIGHT
+dialog: In need of a break from studying, Mitch goes to the closet in hopes of figuring out how to open the wall.
+text: He examines the walls and the floor and looks, for hidden switches or secret mechanisms, all to no avail. As he's about to give up, the closet door swings closed. When it closes, the wall opens to reveal a small elevator-like cage. Mitch steps in and the cage descends. It hits a lever and stops. But before Mitch steps in and the can get off, it begins to move sideways, triggering another pulley, and goes down again into the steam tunnels, then drags along the floor and stops. Mitch gets out. It's spooky. In the distance there is a glow of light.
+text: Mitch goes forward until he can see the home of Hopsfield. It's a very utilitarian example of life on the edge, with all the comforts. At the console of an amazing, hand-built computer sits amazing Hopsfield. Mitch watches in awe from the darkness.
+dialog: INT. ATHERTON'S LAB-DAY
+text: There is an experiment in progress. A large laser is building up an energy load. Atherton, Kent, Bodie, Carter, and Mitch monitor various pieces of equipment. Things hum and click and there is a sense that something big is going to happen. Atherton seems pleased, while Mitch seems troubled. Suddenly, a valve blows and a stream of liquid nitrogen hisses from a hose, spewing frost over everything. Everyone jumps for switches and they shut the experiment down.
+dialog: CARTER
+dialog: (checking the valve)
+dialog: It's nothing. It's just mechanical.
+speaker_heading: ATHERTON
+dialog: GOOD. Don't bother changing it. I want you and Bodie to rebuild the whole unit; same output in half the size. Should hold up, right Mitch?
+dialog: MITCH
+dialog: Sure, as long as we go with H.F.
+speaker_heading: ATHERTON
+dialog: Well, gentlemen, now what? Things are going okay so far, aren't they?
+dialog: KENT
+dialog: They certainly are in my area, Jerry.
+speaker_heading: ATHERTON
+dialog: (warning)
+dialog: KENT
+dialog: KENT
+dialog: (unaware)
+dialog: Yes?
+dialog: MITCH
+dialog: Boy, when I think of all the applications for this...!
+speaker_heading: ATHERTON
+dialog: (covering)
+dialog: We've got enough theory to deal with without talking applications. You just worry about giving me that power breakthrough. how close are you?
+dialog: KENT
+dialog: (gloating)
+dialog: Not very, from what I hear.
+speaker_heading: ATHERTON
+dialog: (to Mitch)
+dialog: Aren't you and Chris working together?
+dialog: MITCH
+dialog: Yes...but...
+speaker_heading: ATHERTON
+dialog: Where is Mr. Kinsley?
+dialog: KENT
+dialog: (anxious to get Chris in trouble)
+dialog: He's outside.
+dialog: Kent goes to the window and shouts down.
+speaker_heading: KENT (CONT'D)
+dialog: (shouting)
+dialog: Kinsley! Dr. Atherton wants you.
+scene_heading: EXT. LAB BUILDING-MEDIUM CLOSE ON CHRIS-WAIST UP
+text: He's sitting on a chaise lounge with a stack of encyclopedias, sipping a beer.
+dialog: CHRIS
+dialog: Coming.
+text: PULL OUT TO REVEAL that the chaise lounge has balloons tied to each corner. Chris dumps a volume from his lap and the chaise rises straight up in the air.
+dialog: ANGEL ON ATHERTON AND CHRIS-FRAMED BY THE WINDOW
+dialog: Chris hovers in mid-air.
+speaker_heading: ATHERTON
+dialog: What are you doing out there?
+dialog: CHRIS
+dialog: Floating, sir. And thinking.
+speaker_heading: ATHERTON
+dialog: (fuming)
+dialog: I want to see you at my house at six o'clock. Sharp.
+dialog: CHRIS
+dialog: Sounds fun. Should I bring anything?
+speaker_heading: ATHERTON
+dialog: How about a proper attitude for a change?
+dialog: CHRIS
+dialog: I'll try and borrow one. Now, if you'll excuse me, there are millions of boys and girls everywhere waiting for me to bring them presents. Ho ho ho.
+dialog: He hands Atherton a volume and floats from view.
+dialog: INT. LAB
+dialog: Atherton, Mitch and Kent stand at the window, watching Chris ascend.
+dialog: KENT
+dialog: He's really pushing it, isn't he, Jerry?
+dialog: ANGLE ON MITCH
+dialog: He smiles as he watches his roommate and friend float off.
+scene_heading: EXT. ATHERTON'S HOUSE-EARLY EVENING
+dialog: The restoration work is reaching completion and the house is looking pretty beautiful.
+text: A small crew of workmen paint and do other finishing work. Chris is sitting on the porch, watching. He is eating a very large puffs of popcorn from a bag. We SEE Atherton returning from his daily jog. He is decked out in an expensive designer jogging suit and has all the appropriate accessories. he also has all the silly habits of the trendy runner for cooling down and stretching.
+dialog: CHRIS
+dialog: You wanted to see me, your joggingness?
+speaker_heading: ATHERTON
+dialog: Mr. Kinsley. Right on time. What a surprise. Do you run?
+dialog: CHRIS
+dialog: Only when chased.
+speaker_heading: ATHERTON
+dialog: What are you eating?
+dialog: CHRIS
+dialog: It's one of mark's Ickagami's experiments. He's been irradiating corn with strontium. it's his hobby; big food.
+speaker_heading: ATHERTON
+dialog: That's popcorn?
+dialog: CHRIS
+dialog: It's big popcorn.
+speaker_heading: ATHERTON
+dialog: (over reacting)
+dialog: Get it away from me. I can't stand it. I hate popcorn. Leave it there.
+dialog: Chris puts the bag down on the porch.
+dialog: CHRIS
+dialog: Okay. Have you ever considered switching to de-caffeinated coffee?
+text: Atherton leads Chris to the front door, where he removes his shoes and then stands and waits until Chris does the same. They proceed into the house.
+scene_heading: INT. ATHERTON'S HOUSE- CONTINUOUS
+text: The interior is immaculate. A classic example of elegant good taste. Atherton is fastidiously protective of his things.
+speaker_heading: ATHERTON
+dialog: I want to start seeing a lot more of you in the lab.
+dialog: CHRIS
+dialog: You want me to work nude?
+speaker_heading: ATHERTON
+dialog: Very funny, you're a major disappointment to me, Chris.
+dialog: CHRIS
+dialog: And you to me, Jerry.
+speaker_heading: ATHERTON
+dialog: (angry)
+dialog: We had a deal!
+dialog: CHRIS
+dialog: And I advanced your project more than any three guys on campus.
+speaker_heading: ATHERTON
+dialog: That was yesterday. What have you done for me today?
+dialog: CHRIS
+dialog: Hey, aren't you getting a little obsessive about this? I took in the new kid. He's working his guts out for you.
+speaker_heading: ATHERTON
+dialog: Your arrogant, disrespectful behavior is distracting him. If you keep it up, you're going to pay for it.
+dialog: CHRIS
+dialog: Hey, I'm out of here. Delenda Est Cartheo. P.E.I. July one.
+speaker_heading: ATHERTON
+dialog: You still have to pass, dear boy, and considering the fact that my class is a requisite, it would seem that I would have some control over your destiny. From now on, you and Mr. Simon are going to spend every waking moment working on my power problem and you will solve it by my deadline.
+dialog: CHRIS
+dialog: Okay, Jerry, but I really think you should see an analyst.
+dialog: Chris exits. Atherton watches him go.
+dialog: INT. ATHERTON'S LAB-NIGHT
+text: Mitch is alone and trying to work on the new, smaller laser. He looks tired and upset. He tinkers around for a while, then goes back to his table and looks at his notes. Nothing seems to make sense anymore. Chris enters with a beaker in his hand.
+dialog: CHRIS
+dialog: Hi. Do me a favor, taste this.
+dialog: Mitch is confused.
+speaker_heading: CHRIS (CONT'D)
+dialog: Come on, you won't hurt my feelings.
+dialog: MITCH
+dialog: I...
+dialog: Chris rams the spoon in his mouth.
+dialog: CHRIS
+dialog: Well, too sweet?
+dialog: Mitch makes a face.
+dialog: MITCH
+dialog: What is it?
+dialog: CHRIS
+dialog: Beats me. I just found it in one of the labs.
+dialog: MITCH
+dialog: Aggghh!!
+dialog: CHRIS
+dialog: Come on. I'm just pulling your leg. How are you doing?
+dialog: MITCH
+dialog: I'm stuck. Dr. Atherton says we've got to miniaturize the power supply and you're not helping.
+dialog: CHRIS
+dialog: Lighten up. It's only a laser.
+dialog: Chris goes to the laser. Mitch is annoyed.
+speaker_heading: CHRIS (CONT'D)
+dialog: Instead of trying to take that roomful of capacitors over there and putting new perspective. Charge this baby up. Everything you've got.
+dialog: MITCH
+dialog: What for?
+dialog: CHRIS
+dialog: You'll see. Go
+text: Mitch goes next door. Chris, meanwhile, measures a certain distant from the floor and mounts a mirror on the wall above his head. He then moves to the laser and repositions it to shoot at the mirror. Mitch returns and makes some adjustments to a control panel.
+dialog: MITCH
+dialog: All set, I think.
+dialog: CHRIS
+dialog: Do it.
+text: Mitch throws a switch. Immediately, a loud electrical hum fills the air. Chris goes over and opens the door to the hall and glances left.
+speaker_heading: CHRIS'S POV
+dialog: A roomful of capacitors loading.
+dialog: EXT. THE CAMPUS-NIGHT
+dialog: The lights twinkle from various buildings. WE HEAR the hum
+dialog: EXT. THE CAMPUS-NIGHT
+dialog: The lights twinkle from various buildings. We hear the hum growing.
+dialog: MITCH (V.O.)
+dialog: What are you doing now?
+speaker_heading: CHRIS (V.O.)
+dialog: Making hamburgers.
+text: Suddenly, there are several loud snaps and all the lights on campus go off at once as the power overload blows the sub station fuses.
+dialog: MITCH (V.O.)
+dialog: Oh, no!
+dialog: INT. THE LAB IN DARKNESS
+dialog: CHRIS
+dialog: Relax, it's just the fuses at the sub station. They'll have it back on in a second. More importantly, did we get a charge?
+text: Suddenly there is a loud "crack" and the laser sends out a beam across the room, bouncing off the mirror on the wall., out the door, where it hits another mirror and disappears from sight.
+dialog: MITCH
+dialog: Wow!
+dialog: EXT. THE CAMPUS-CONTINUOUS
+text: The beam has formed a web of light across the darkened campus. The effect is quite spectacular. People look in awe. Chris and Mitch exit the physics building.
+dialog: CHRIS
+dialog: Follow the yellow brick road.
+dialog: MITCH
+dialog: Have you ever considered the fact that you are completely wasting your life?
+dialog: CHRIS
+dialog: Constantly.
+dialog: The lights on campus come back on as Chris and Mitch continue to follow the beam.
+dialog: INT. WAVE TANK BUILDING
+text: An open window above the door lets the beam of light enter. Chris and Mitch enter.
+dialog: INT. HALLWAY-CONTINUOUS
+dialog: Chris and Mitch walk down a stairway through an open door, following the beam.
+dialog: INT. WAVE TANK ROOM-CONTINUOUS
+text: The place has been turned into an indoor Waikiki. The beam has been directed into a hood-shaped device that has split it into enough rays to cook a bunch of hot dogs and hamburgers on an improvised barbeque, managed by ICK, who is dressed for the beach and wearing a welding mask.
+text: Past him we can see that there about twenty girls and some guys present. Several of them are water-skiing on the mechanically produced waves inside the tank, towed by an elaborated pulleys system. Others are frolicking on the "beach" and cut out palms stand around, achieving the desired effect. Blankets have been laid out and girls sit on them eating hot dogs and talking. There are sun lamps set up in one area and some kids are smoothing sun tan oil and shagging a few rays. Rock music fills the room.
+dialog: ICK
+dialog: (lifts his mask)
+dialog: Aloha.
+dialog: ANGLE ON THE DOORWAY
+dialog: A lot of the guys we've seen around the dorm have started to arrive. They enter hesitantly at Chris's urging.
+dialog: CHRIS
+dialog: Come on in, boys. Surf's up.
+dialog: Awestruck, shy but excited, they approach.
+dialog: CORNELL
+dialog: (a nerdy student)
+dialog: I have a geochemistry test tomorrow and I do not feel adequately prepared.
+dialog: CHRIS
+dialog: But the main thing is you look good.
+dialog: CORNELL
+dialog: Thanks.
+dialog: MILTON
+dialog: What if we end up having too much fun and end up failing?
+dialog: CHRIS
+dialog: And would that be the end of the world. Milton?
+dialog: MILTON
+dialog: Yes, it would.
+dialog: CHRIS
+dialog: Yeah, you're right. Maybe you should go back to the library.
+dialog: MILTON
+dialog: Well, maybe I could just look for a minute.
+dialog: CORNELL
+dialog: (noticing)
+dialog: Are those girls?
+dialog: CHRIS
+dialog: I haven't had them all tested yet, Cornell, but so far so good.
+dialog: MITCH
+dialog: Who are they?
+dialog: MILTON
+dialog: They're not from here. I'd know.
+dialog: CHRIS
+dialog: No, no they're not, they're from a nearby college though.
+dialog: MITCH
+dialog: Which one?
+dialog: CHRIS
+dialog: The Wanda Trossler School of beauty.
+dialog: MITCH
+dialog: They're beauticians?
+dialog: CHRIS
+dialog: Not yet.
+dialog: CORNELL
+dialog: Gee, I don't know...
+dialog: CHRIS
+dialog: They'll teach you. Let's get serious here, lads. There are 670 guys at pacific tech and 136 girls.
+dialog: MILTON
+dialog: A ratio of 4.93 to 1
+dialog: CHRIS
+dialog: Good, Milton. Of the 136 girls, most of them can find guys a lot better than you.
+dialog: CORNELL
+dialog: Oh, easily.
+dialog: CHRIS
+dialog: These girls are not used to geniuses. You might impress them.
+dialog: CORNELL
+dialog: I don't see how.
+dialog: CHRIS
+dialog: Let me put this another way. Given the type of people you are and the environment you're in, you guys have to admit the strong probability that this may be the only chance you'll ever get in your entire lives to have sex.
+dialog: There is a pause while everyone considers the hypothesis.
+speaker_heading: CHRIS (CONT'D)
+dialog: Think about it.
+text: He turns and heads into the party. After a beat, everyone except Mitch follows Chris's lead.
+dialog: ANGLES ON VARIOUS ACTIVITIES- A LITTLE LATER
+text: Water-skiing, dancing, a volleyball game. Most of the guys are making an effort to socialize. Mitch watches quietly.
+dialog: ANGLE ON MILTON TALKING TO A GIRL OVER BY THE SUN LAMPS.
+dialog: VIVIAN
+dialog: So, what do you guys do? Just be smart all the time?
+dialog: MILTON
+dialog: Well...
+dialog: VIVIAN
+dialog: What's your major?
+dialog: MILTON
+dialog: Astrophysics.
+dialog: VIVIAN
+dialog: Is that like sports medicine?
+dialog: MILTON
+dialog: Space.
+dialog: VIVIAN
+dialog: (impressed)
+dialog: Oh! Let me ask you something about that. If I was on the moon, Could I like tease hair much higher?
+dialog: MILTON
+dialog: Theoretically.
+dialog: VIVIAN
+dialog: This is fascinating.
+dialog: ANGLE ON another guy named Fenton and a girl. They're necking.
+dialog: CONNIE
+dialog: My friend Evelyn, tells me that brilliant men are the best lovers.
+dialog: FENTON
+dialog: I'd say that's true.
+dialog: CONNIE
+dialog: Up to now, what's been your ultimate sexual experience?
+dialog: FENTON
+dialog: I once fell off a ladder and landed on my sister, Bernice.
+text: ANGLE ON CONNELL, and a girl in the tank. they both bob up out of the water. Cornell still has his glasses on. He takes them off and can't see.
+dialog: LOUISA
+dialog: Why do you wear those glasses?
+dialog: CORNELL
+dialog: So I can see.
+dialog: LOUISA
+dialog: But you look very sexy without them.
+dialog: Reflexively he breaks his glasses in his hands.
+dialog: ANGLE ON MILTON AND VIVIAN. He rubbing suntan oil on her back
+dialog: MILTON
+dialog: I really should be studying.
+dialog: VIVIAN
+dialog: Me too. I have a bleaching final tomorrow.
+dialog: MILTON
+dialog: (sneezing)
+dialog: Achew.
+dialog: VIVIAN
+dialog: Bless you.
+dialog: MILTON
+dialog: I'm allergic to suntan oil.
+dialog: VIVIAN
+dialog: Maybe you should stop.
+dialog: MILTON
+dialog: (aroused)
+dialog: I don't think I can
+dialog: ANGLE ON CORNELL AND LOUISA. They are sitting on the "beach" toweling off.
+dialog: LOUISA
+dialog: (very sexy)
+dialog: You know, I read in the Enquirer that woman paid twenty thousand dollars for the sperm of a genius.
+dialog: CORNELL
+dialog: Really?
+dialog: LOUISA
+dialog: (putting her arms around him)
+dialog: I've GOT TWENTY BUCKS?
+dialog: CORNELL
+dialog: Do you have a cup?
+dialog: ANGLE ON MITCH
+text: The party is in full swing and most of the guys have become very comfortable. Some are making out. Mitch now seems like the only one left out. he sees a pretty GIRL just coming out of the water. She adjusts her top. Mitch wanders over to her.
+dialog: MITCH
+dialog: (with great effort)
+dialog: Hi.
+dialog: TAMMY
+dialog: Hi.
+dialog: MITCH
+dialog: I was watching you...swim.
+dialog: TAMMY
+dialog: Yes?
+dialog: MITCH
+dialog: I was thinking of maybe going for a swim myself.
+dialog: TAMMY
+dialog: Yeah? Is this the kiddy pool?
+text: She exits, leaving Mitch devastated. He goes and sits in a corner. Meanwhile, Chris is looking around proudly. It's obvious he didn't see what just happen to Mitch. He smiles at the fun everyone is having. A girl passes him eating a hamburger.
+dialog: CHRIS
+dialog: Don't eat that!
+dialog: KIMBERLY
+dialog: Huh?
+dialog: CHRIS
+dialog: Don't you know eating that stuff can give you very large breasts?
+dialog: (mock despair)
+dialog: Oh. My god! I see I'm too late.
+text: She laughs. He puts his arms around her and they walk off. As Chris and Kimberly EXIT, we catch a glimpse of a face in a window. We push in to see Kent, spying.
+scene_heading: INT. CLASSROOM-SAME TIME (BUT APPEARS TO BE DAY)
+text: OPEN TIGHT on Atherton's face. He looks odd, as there are Kleenex tissues sticking out from his shirt collar. A hand comes into frame, holding a pancake makeup puff, and starts applying it to his face.
+speaker_heading: ATHERTON
+dialog: Christ, Don. I'm doing the best I can. You act like I don't want my own invention to work. There are only so many hours in a day.
+speaker_heading: CAMERA PULLS BACK
+speaker_heading: CARMICHAEL
+dialog: I agree. And what's more important, massaging your ego on television explaining the digestive system of a rabbit to the great unwashed or "project crossbow"
+dialog: MAKEUPMAN
+dialog: Off-hand, I'd say television.
+speaker_heading: ATHERTON
+dialog: (angrily to make up man)
+dialog: Just get rid of the crows' feet!
+dialog: (to Carmichael carefully)
+dialog: There's nothing more important than " crossbow," but when went from blue sky to black you turned into Bigfoot.
+dialog: The STAGE MANAGER approaches.
+dialog: STAGE MANAGER
+dialog: Ready to go, Dr. Atherton.
+dialog: He exits.
+speaker_heading: ATHERTON
+dialog: Pushing me doesn't help. You tell them that.
+dialog: He walks away. There is definitely no love between them.
+speaker_heading: ATHERTON (CONT'D)
+dialog: (under his breath)
+dialog: Son of a bitch.
+speaker_heading: CARMICHAEL
+dialog: (under his breath)
+dialog: Asshole.
+text: ANGLE ON ATHERTON as he walks over to the cue card man and checks through the cards. KENT enters in a rush.
+dialog: KENT
+dialog: I have something to...
+speaker_heading: ATHERTON
+dialog: (cutting him off)
+dialog: Did you pick up my dry cleaning?
+dialog: KENT
+dialog: Yes I did... there's something you should know.
+speaker_heading: ATHERTON
+dialog: The gravy stain?
+dialog: KENT
+dialog: No, that came out.
+dialog: (very pleased)
+dialog: Chris and Mitch aren't working. They're at a party.
+dialog: Atherton begins to seethe.
+speaker_heading: ATHERTON
+dialog: I want to show me where, right after I'm finished here.
+dialog: KENT
+dialog: (all smiles)
+dialog: My pleasure.
+dialog: STAGE MANAGER
+dialog: In five...four...
+text: Kent forgets to move. Atherton shoves him off. We HEAR an off-stage CRASH.
+speaker_heading: STAGE MANAGER (CONT'D)
+dialog: ...three...two...and...
+text: We PUSH in on nearby monitor. the show's logo comes on, along with its theme MUSIC.
+speaker_heading: ANNOUNCER (V.O.)
+dialog: WELCOME TO "SCIENCE," WITH YOUR HOST, Dr. JEROME ATHERTON. FUNDED BY...
+dialog: A NEW CARD SHOWS ON THE MONITOR.
+speaker_heading: ANNOUNCER (V.O.)
+dialog: ... A grant from Pacific Electric Instruments. PEI. And now, Dr. Atherton.
+dialog: Atherton appears on the monitor.
+dialog: ANGLE ON ATHERTON IN THE STUDIO
+dialog: He smiles broadly and reads from the cue cards.
+speaker_heading: ATHERTON
+dialog: Good evening. Tonight we're going to look at something most of us take for granted... the colon. What's it look like?
+dialog: KENT WANDERS BY IN THE BACKGROUND.
+dialog: INT. WAVE TANK ROOM-LATER THAT NIGHT
+dialog: THE PARTY IS STILL GOING STRONG.
+dialog: ANGLE ON JORDAN
+text: She tosses a volleyball up into the air in a one-woman game of catch. Mitch approaches forlornly.
+dialog: JORDAN
+dialog: Wanna play?
+dialog: MITCH
+dialog: I'm not very...
+dialog: HE GETS SMACKED IN THE HEAD BY THE BALL.
+dialog: MITCH (CONT'D)
+dialog: Sure, all right.
+dialog: Through the following, Mitch and Jordan volley the ball between them.
+dialog: JORDAN
+dialog: Some party, huh?
+dialog: MITCH
+dialog: I guess.
+dialog: (hesitant)
+dialog: How come you're not...
+dialog: JORDAN
+dialog: Necking?
+dialog: MITCH
+dialog: well...
+dialog: JORDAN
+dialog: I'm not gay.
+dialog: MITCH
+dialog: (embarrassed)
+dialog: I didn't... I wouldn't even...
+dialog: JORDAN
+dialog: Look, I'm seventeen. I'm brilliant, and I'm hyper kinetic. Guy are a little afraid of me, you know. It'll pass...I hope.
+dialog: ANGLE ON MITCH
+dialog: MITCH
+dialog: (softly)
+dialog: I think you're very nice.
+dialog: Mitch gets smashed on the head with the ball, sending his glasses flying.
+dialog: Suddenly, Atherton burst into the room, followed closely by Kent.
+speaker_heading: ATHERTON
+dialog: (seeing Mitch)
+dialog: Simon!
+text: He passes the tape deck and snaps it OFF. Everything comes to a stop as Atherton heads for Mitch, all eyes trained on the pending drama.
+speaker_heading: ATHERTON
+dialog: You were supposed to be in the lab tonight.
+dialog: KENT
+dialog: (chiming in)
+dialog: Weren't you!
+dialog: MITCH
+dialog: I was and...
+speaker_heading: ATHERTON
+dialog: You are at Pacific Tech to work, not to behave like a philistine.
+dialog: KENT
+dialog: That's right!
+dialog: MITCH
+dialog: I was working, I...
+speaker_heading: ATHERTON
+dialog: Where's Kinsley. I imagine this was his idea.
+dialog: KENT
+dialog: No doubt!
+speaker_heading: ATHERTON
+dialog: (annoyed)
+dialog: Kent!
+dialog: KENT
+dialog: (stiffening)
+dialog: yes?
+speaker_heading: ATHERTON
+dialog: (to Mitch, very angry)
+dialog: I took a big chance recommending a fifteen-year-old. I guess I made a mistake. I hope you're proud of yourself.
+text: Kent is in seventh heaven as Atherton turns and heads for the door. As they exiting, they pass Cornell and his date.
+dialog: CORNELL
+dialog: Dr. Atherton?
+speaker_heading: ATHERTON
+dialog: What!
+dialog: CORNELL
+dialog: Are you wearing makeup?
+dialog: Atherton can only stare in his rage.
+dialog: LOUISA
+dialog: Is it too try and hide those crows' feet?
+dialog: He growls and exits.
+dialog: ANGLE ON MITCH
+text: He is truly at a loss in the face of this cruelty. Everyone is staring at him. He runs out the door.
+dialog: ANGLE ON JORDAN
+dialog: She watches Mitch go, feeling very badly for him
+dialog: INT. ATHERTON'S LAB-THE NEXT NIGHT
+text: Mitch, tired, looking like a kid who's been working for hours, is staring at a formula on the blackboard. Frustrated, he throws his screwdriver against it in anger and runs into the adjacent room and begins disconnecting the capacitor bank.
+dialog: INT. LAB HALLWAY-EARLY MORNING
+text: Kent, Bodie and Carter cross toward the lab. Just then, Mitch comes out. He looks exhausted and very upset. As he passes Kent, he turns away from his stare.
+dialog: KENT
+dialog: (mock concern)
+dialog: Gee, he looks depressed.
+text: The other guys yuk it up. They turn and watch Mitch go into Atherton's office down the hall. They follow in time to HEAR:
+speaker_heading: MITCH (O.S.)
+dialog: I'd like to make a collect call to Mrs. Bill Simon.
+dialog: Kent's eyes light up with an idea.
+dialog: INT. ATHERTON'S OFFICE
+dialog: Mitch is on the phone. He's very upset.
+dialog: MITCH
+dialog: I know, but I don't like it here anymore. I want to live at home with you...
+dialog: (reluctant)
+dialog: Yeah, and dad. I want to go back to high school. I-dad did what?
+dialog: Rented out my room? ...Well, why can't Mr. Echevarria and I share it?... Please, ma, I want to come home.
+scene_heading: INT. KENT'S LAB-TIGHT ON A MINI TAPE RECORDER
+text: Its reels are spinning. It's being held up to a telephone receiver.
+speaker_heading: MITCH (V.O./FILTER)
+dialog: (crying)
+dialog: Please let me come home. I don't want to stay here.
+text: WIDEN to reveal Kent holding the recorder as cater and Bodie watch. The workbench area in Kent's lab is covered with a drop cloth. Kent chuckles as MITCH pleads with his mother.
+scene_heading: INT. DORM HALL-DINING ROOM-NEXT MORNING
+text: The dorm population is eating their breakfast. Kent and his unholy two are smugly downing their "shredded wheat" Mitch is alone off in the corner. It's obvious he hasn't slept.
+text: Chris enters and crosses to Kent. A WAITRESS, middle-aged, is serving coffee.
+dialog: CHRIS
+dialog: Kent...let's never fight like that again.
+dialog: KENT
+dialog: What?
+dialog: CHRIS
+dialog: We've been lovers too long to have a silly argument come between us.
+dialog: The waitress stares disgustedly at Kent.
+dialog: KENT
+dialog: Chris...
+dialog: CHRIS
+dialog: Please. Don't speak. You were right. Tonight I'll wear the cowboy suit.
+speaker_heading: CHRIS EXITS
+dialog: KENT
+dialog: (sputtering)
+dialog: You...
+dialog: WAITRESS
+dialog: Do your parents know about this?
+dialog: KENT
+dialog: Of course not!
+dialog: She nods and exits. Kent calls after her.
+speaker_heading: KENT (CONT'D)
+dialog: Nobody knows. I mean, there's nothing to know.
+speaker_heading: ANOTHER ANGLE
+dialog: Chris walks over to Mitch.
+dialog: CHRIS
+dialog: Where were you all last night?
+dialog: MITCH
+dialog: The lab. Where you were supposed to be.
+dialog: CHRIS
+dialog: Jordan told me about Atherton coming down on you...what exactly did...
+text: Mitch abruptly turns his back to Chris and continues eating. Chris sees the conversation is over.
+speaker_heading: CHRIS (CONT'D)
+dialog: (referring to the sentence he never finished)
+dialog: ...Let me hold that thought and get back to ya.
+speaker_heading: ANOTHER ANGLE
+dialog: Ken, Bodie and Carter. The gentle strains of classical music fill the room.
+dialog: KENT
+dialog: Something soothing to eat by.
+text: The tape is abruptly interrupted by the RECORDING Kent made of Mitch on the phone to his mother.
+dialog: ANGLE ON MITCH
+dialog: He can't believe his ears. His expression runs from surprise to embarrassment.
+speaker_heading: ANOTHER ANGLE
+text: Everyone stops eating and listens to Mitch begging his mother to come home. They share his embarrassment and lower their heads. Even Kent's friends are uncomfortable. Kent, on the other hand, is laughing it up, having a great time.
+dialog: ANGLE ON MITCH
+dialog: He's in a state of shock.
+dialog: ANGLE ON KENT
+dialog: KENT
+dialog: (he can't wait )
+dialog: Here comes the crying!
+dialog: He loves it.
+dialog: ANGLE ON MITCH
+dialog: He runs out of the dinning room. Kent loves Mitch reaction. It makes him laugh harder.
+speaker_heading: ANGLE ON CHRIS
+dialog: CHRIS
+dialog: (to himself)
+dialog: Too low.
+scene_heading: INT. MITCH'S ROOM-A FEW MINUTES LATER
+text: Mitch is trying to pack, but it's difficult because the place is in such disarray. Chris enters. He watches and tries to think of what to say.
+dialog: CHRIS
+dialog: Okay, if you want to leave, go ahead. But you'll miss the fun.
+dialog: MITCH
+dialog: (sour)
+dialog: What fun?
+dialog: CHRIS
+dialog: Ick invented a new virus and we're gonna release it in Kent's room.
+dialog: Mitch turns on Chris with surprising hostility.
+dialog: MITCH
+dialog: That's sick! That's a sick thing to do!
+dialog: CHRIS
+dialog: Hey, I was just kidding, I...
+dialog: MITCH
+dialog: You're always just kidding. There's something wrong with you.
+dialog: CHRIS
+dialog: Just a second...
+dialog: MITCH
+dialog: The other night I needed your help and all you wanted to do was party.
+dialog: CHRIS
+dialog: I tried to help you. I tried to help you relax.
+dialog: MITCH
+dialog: Being snubbed by beauticians isn't my idea of relaxing.
+dialog: CHRIS
+dialog: Student beauticians.
+dialog: MITCH
+dialog: (Blows up)
+dialog: I thought this place was going to be different, but it's just the same. I'm either used or made fun of. In high school they pushed me in a mailbox, did I tell you that?
+dialog: CHRIS
+dialog: They called me Chris the whiss'...
+dialog: MITCH
+dialog: Really? What's a whiss?
+dialog: CHRIS
+text: I think they meant wuss, but it didn't rhyme...when I was three years old, I balanced my father's checkbook so they sent me to school and fired their accountant. My father was so intimidated, he stopped speaking to me. My teacher disliked me because I was smarter than they were, and my classmates hated me because I bell the bell curve. Sound familiar? And tell me why my...why did my mother dress me in white shirts, hush puppies and a briefcase, guaranteeing that a girl would never talk to me?
+dialog: Mitch looks down at his own white shirt and hush puppies.
+dialog: MITCH
+dialog: YOU?
+dialog: CHRIS
+dialog: (Dramatic)
+dialog: And then one night, in this room, I was sitting right where you are sitting now. I had a vision. I saw him.
+dialog: MITCH
+dialog: god
+dialog: CHRIS
+dialog: Hopsfield.
+dialog: MITCH
+dialog: Hopsfield? Oh! The guy in the closet.
+dialog: CHRIS
+dialog: Yeah. Laslo Hopsfield. I followed him. Through the closet; down into the steam tunnels. And down there I saw the most disgusting thing Ive ever seen.
+dialog: MITCH
+dialog: (Frighten)
+dialog: What?
+dialog: CHRIS
+dialog: Hopsfield in his pajamas.
+dialog: MITCH LAUGHS.
+dialog: CHRIS
+dialog: (Lighter, but sincere)
+dialog: And I talk to the guy . Turned out that in the Seventies he was the number one stud around here. Smarter than you and me put together. So brilliant, so sharp, so advanced, so long.
+dialog: MITCH
+dialog: What do you mean?
+dialog: CHRIS
+dialog: He graduated. Went to work for some chemical company. One day someone told him he was making stuff that was killing people. I think it was his mother. He freaked. You see, he was totally unprepared for the real world. He had no philosophy. He thought science was the answer for everything.
+dialog: Mitch
+dialog: Am I gonna wind up in a steam tunnel?
+dialog: CHRIS
+dialog: Yes, you are, Metaphorically speaking. Unless you see that the same thing that has made your life miserable can make it great; your brain. When you're smart, people need you, and you can learn how to work that for fun and profit.
+dialog: MITCH
+dialog: You had a arrangement going with Atherton, don't you? That's why you don't have to study.
+dialog: CHRIS
+dialog: Hey, I don't carry a briefcase.
+dialog: (pause)
+dialog: You're a nice kid. If you leave I'll miss you.
+dialog: MITCH
+dialog: (thinking about it)
+dialog: If I stay, what should I do, I mean...
+dialog: CHRIS
+dialog: Well, the first thing you have to do is get even with Kent. It's a moral imperative.
+dialog: MITCH
+dialog: (smiles)
+dialog: Yeah.
+dialog: EXT. CAMPUS-NIGHT
+text: Kent's Citroen pulls up. Kent and Carter get out and walk by Jordan, who is sitting nearby.
+dialog: KENT
+dialog: And at Northern Electronics you get the stock options, but not the free housing, It's what makes PEI so sweet. You get everything.
+dialog: CARTER
+dialog: Yeah, and Kinsley's got that locked.
+dialog: KENT
+dialog: (knowingly)
+dialog: Maybe he does, and maybe he doesn't.
+dialog: They walk away.
+text: After a beat, CHRIS, MITCH and ICK jump out from behind another car. Mitch carries a TOOL BOX.
+dialog: JORDAN
+dialog: Over here!
+text: The others rush over to her. Chris trains a light on the license plate. It reads, "KENT."
+dialog: CHRIS
+dialog: He puts his name on his car. He does the same thing with his underwear.
+dialog: Mitch flops down the tool box.
+dialog: 5R5DISSOLVE TO:
+dialog: MONTAGE
+text: Chris, Mitch, Jordan and Ick working on Kent's car. They are undoing bolts, talking out wires, removing fenders, etc. The last DISSOLVE and we see the car is gone. And no sign of our foursome.
+dialog: EXT. DORM HALL-NIGHT
+text: Chris quietly goes up the stairs inside the dorm carrying a steering wheel. Ick and Mitch have an engine on a flatbed cart. Jordan enters carrying heavy chains and a drill.
+dialog: EXT. KENT'S ROOM-EARLY MORNING
+text: Filthy with crankcase oil, Chris, Mitch, Ick and Jordan exit and scamper down the hall. All are very pleased with themselves.
+dialog: EXT. KENT'S ROOM-LATER THAT MORNING
+text: Kent is coming down the hall. he opens his door and walks inside.
+dialog: INT. KENT"S ROOM
+dialog: CLOSEUP ON KENT. His jaw drops open.
+speaker_heading: ANOTHER ANGLE
+dialog: Chris and Mitch enter.
+dialog: CHRIS
+dialog: Hey, Kent. That's your car.
+dialog: MITCH
+dialog: You're not supposed to park on campus.
+dialog: KENT
+dialog: This isn't funny. You went too far this time, Kinsley.
+dialog: CHRIS
+dialog: I had help.
+dialog: KENT
+dialog: (surprised, to Mitch)
+dialog: You?
+dialog: (a beat)
+dialog: I'm going to get you guys. Dr. Atherton's gonna hear about this.
+dialog: He storms out of his room.
+dialog: CHRIS
+dialog: (calls to Kent)
+dialog: Hey, Kent, you owe us ten dollars for the gas.
+dialog: (to Mitch)
+dialog: He'll never pay us.
+dialog: EXT. ATHERTON'S HOUSE-DUSK
+text: The restoration has been completed and the house looks beautiful. Chris comes up the walk, goes to the door and rings the bell. A very pretty girl named SUSAN answers the door.
+scene_heading: INT. ATHERTON'S HOUSE-CONTINUOUS
+dialog: Chris enters.
+dialog: CHRIS
+dialog: Wow! Hello.
+dialog: SUSAN
+dialog: Hi.
+dialog: CHRIS
+dialog: Jerry asked me to drop by. What did he ask you to do?
+dialog: SUSAN
+dialog: What?
+dialog: CHRIS
+dialog: Which word didn't you understand?
+dialog: SUSAN
+dialog: Are you here for the meeting?
+dialog: CHRIS
+dialog: What meeting?
+dialog: SUSAN
+dialog: I don't know.
+dialog: CHRIS
+dialog: Okay.
+dialog: SUSAN
+dialog: I'm just waiting.
+dialog: CHRIS
+dialog: Right.
+dialog: The study doors open and Atherton, Carmichael and Decker step out.
+dialog: DECKER
+dialog: (finishing their conversation)
+dialog: And finally, it comes down to, if you can't do it, we'll get somebody else. I have a timetable, doctor.
+speaker_heading: CARMICHAEL
+dialog: We're very close, Dave, don't worry, everything's going to be fine.
+dialog: DECKER
+dialog: (cold as ice)
+dialog: Don, try and remember you work for me.
+dialog: (to Atherton)
+dialog: I think I've made my point, haven't I?
+speaker_heading: ATHERTON
+dialog: (equally as cold)
+dialog: Crystal clear, Mr. Decker.
+dialog: DECKER
+dialog: Good.
+dialog: CHRIS
+dialog: Anything I should know about?
+speaker_heading: ATHERTON
+dialog: Shut up Kinsley. I'll be with you in a moment.
+dialog: DECKER
+dialog: Goodbye, Jerry, and good luck. Susan?
+dialog: They begin to exit. Chris takes Susan's hand.
+dialog: CHRIS
+dialog: I guess this is goodbye. I'm sorry I didn't get a chance to know you. At all.
+dialog: (to the boys in admiration)
+dialog: Have you ever seen breasts like theses before?
+dialog: DECKER
+dialog: She happens to be my daughter.
+dialog: CHRIS
+dialog: Oh, then I guess you have.
+speaker_heading: CARMICHAEL
+dialog: (to Atherton)
+dialog: I'll be reporting to him every day.
+dialog: DECKER
+dialog: Coming, Don?
+speaker_heading: CARMICHAEL
+dialog: Yes, Sir.
+dialog: They exit.
+speaker_heading: ATHERTON
+dialog: What do you think you're doing?
+dialog: CHRIS
+dialog: You said come over.
+speaker_heading: ATHERTON
+dialog: Take off those shoes.
+dialog: Chris removes his shoes to reveal even dirtier socks.
+speaker_heading: ATHERTON (CONT'D)
+dialog: Stay off the rugs.
+dialog: INT. STUDY-CONTINOUS
+dialog: CHRIS
+dialog: What's up, Doc.
+speaker_heading: ATHERTON
+dialog: I'm withdrawing your recommendation to PEI.
+dialog: CHRIS
+dialog: What?
+speaker_heading: ATHERTON
+dialog: I'm giving Kent the job.
+dialog: CHRIS
+dialog: Did you suddenly find humor?
+speaker_heading: ATHERTON
+dialog: You haven't solved my power problem.
+dialog: CHRIS
+dialog: I'm trying.
+speaker_heading: ATHERTON
+dialog: No, you're not. So, I'm going to fail you, so you won't graduate, so you can't take the job. Q.E.D.
+dialog: CHRIS
+dialog: I'll pass your exam.
+dialog: Atherton just smiles a "so what" smile.
+speaker_heading: CHRIS (CONT'D)
+dialog: We had a deal!
+speaker_heading: ATHERTON
+dialog: Did we? That doesn't sound very ethical.
+dialog: CHRIS
+dialog: You can't do this. I'll go to Dr. Meredith.
+speaker_heading: ATHERTON
+dialog: (enjoying this)
+dialog: Go ahead. What are you going to tell him. Don't forget, like most scientists, he is an honorable, moral man who thinks everyone else is too. I'll just deny anything you say.
+dialog: CHRIS
+dialog: You dick!
+speaker_heading: ATHERTON
+dialog: Count on it.
+speaker_heading: EXT. DORM ROOF-NIGHT
+text: Chris sits, lost in thought, outside the window of his room, Mitch appears at the window, sees Chris and climbs out to join him.
+dialog: MITCH
+dialog: What are you doing?
+dialog: CHRIS
+dialog: Self-realization. I was thinking of jumping, but it's only twelve feet.
+dialog: MITCH
+dialog: Something wrong?
+dialog: CHRIS
+dialog: No. Atherton is going to flunk me out of school.
+dialog: MITCH
+dialog: But you had a deal.
+dialog: CHRIS
+dialog: Yeah, and he says I didn't deliver. You sleep with pits, you wake up smelly. I think Aristotle said that. It was him or Eva Gabor. At least Hopsfield still has his integrity.
+dialog: MITCH
+dialog: Excuse me?
+dialog: CHRIS
+dialog: I thought I was so smart. I didn't want to be like the other dumb geniuses like Hopsfield. I though I could use Them., instead of Them using me. But, Guess what?
+dialog: MITCH
+dialog: I have to agree. It does appear that you've been the victim of your own erroneous logic.
+dialog: CHRIS
+dialog: Thank you.
+dialog: MITCH
+dialog: However, this doesn't mean that you can't get yourself out.
+dialog: CHRIS
+dialog: How?
+dialog: MITCH
+dialog: Hard work?
+dialog: CHRIS
+dialog: But that's the old way.
+speaker_heading: GRINDING MONTAGE
+dialog: A series of shots showing Chris hard at work, underscored by an original song.
+dialog: INT. LASER LAB
+dialog: Mitch and Chris dismantle part of the laser.
+dialog: INT. DINING HALL
+text: Mitch, Jordan and Ick are listening as Chris shows them diagrams and formulas for a laser supercharger while they try to eat.
+speaker_heading: INT. BIOCHEMISTRY LAB
+dialog: Chris and Ick search for a new gas combination for the laser supercharger.
+dialog: INT. ATHERTON'S LAB
+dialog: Mitch and Chris work hard on a second laser. Kent is both upset and suspicious of Chris' new interest in work.
+dialog: INT. ATHERTON'S CLASSROOM
+text: Chris enters carrying books and a note pad. Kent sees this and is shocked. Atherton gives Chris a "you haven't got a chance" grin.
+dialog: INT. CHRIS AND MITCH'S ROOM-NIGHT
+text: They both study for exams; on the wall is a chart of exam week showing Mitch's exam schedule, a big red square around Chris' exam with Atherton and, in every free hour is written " Laser".
+speaker_heading: INT. DORM LIBRARY
+text: Many students, including our gang, study for exams. Suddenly, Milton can't take the pressure any longer and momentarily goes out of his mind and runs from the room.
+dialog: INT. ATHERTON'S LAB
+text: A tired looking Chris and Mitch attach a second laser to the original but nothing improves. They check their notes and diagrams. Kent, Bodie and carter chuckle in the corner.
+dialog: INT. AN EXAM ROOM
+text: Mitch is taking an exam with a bunch of people he doesn't recognize from the Professor who everyone tape recorded. One of the students appears to be near panic as he deals with a pile of mangled tape.
+scene_heading: INT. JORDAN'S ROOM-VERY LATE NIGHT
+dialog: Chris and Jordan use a blackboard diagram to discuss the engineering difficulties of Chris' laser supercharger assembly.
+speaker_heading: INT. DORM HALL
+text: Chris runs down the hall and enters his room. Mitch is sprawled out asleep under a math text. Chris feels bad about it but wakes him up.
+dialog: INT. ATHERTON'S LAB
+dialog: A wasted Chris and Mitch build the new assembly that will allow a second laser to shoot at the gas jets of the principal laser.
+dialog: INT. DORM LIBRARY-NIGHT
+text: Chris is studying hard. Mitch is asleep, his head on the table.
+dialog: MITCH
+dialog: (in his sleep)
+dialog: Please, Vito, not in the mailbox again.
+dialog: CHRIS
+dialog: Mitch!
+dialog: Mitch wakes up.
+dialog: MITCH
+dialog: Oh... I was just reliving some high school highlights.
+dialog: CHRIS
+dialog: Look, you don't have to stay up with me. It's not like we're driving. Get some sleep. You're a growing boy. I hope.
+text: Hopsfield enters carrying two large boxes of what appear to be file cards. Mitch is stunned. They all stare for a beat.
+dialog: CHRIS
+dialog: Hi, Laslo.
+dialog: HOPSFIELD
+dialog: I thought you might want some help so I dug into the computer and got every question Artherton's ever asked on every final he ever given.
+dialog: CHRIS
+dialog: Gee, I didn't get you anything. Is that them?
+dialog: HOPSFIELD
+dialog: No, these are entries for McDonald's Sweepstakes. No purchase necessary. Enter as often as you want. So, I am.
+dialog: CHRIS
+dialog: Really?
+dialog: HOPSFIELD
+dialog: This box makes it one million, six hundred thousand. I should win thirty two point six percent of the prizes, including the car.
+dialog: CHRIS
+dialog: Kind of takes the fun out of it, doesn't it?
+dialog: HOPSFIELD
+dialog: I suppose so. But they set up the rules, and lately, I have come to realize that I have certain materialistic needs.
+dialog: CHRIS
+dialog: So where are the questions?
+dialog: HOPSFIELD
+dialog: (insulted)
+dialog: I memorized them.
+dialog: Chris and Mitch look at each other, impressed and a little frightened.
+dialog: MITCH
+dialog: I have to go to sleep now.
+dialog: HOPSFIELD
+dialog: Want my pajamas?
+dialog: MITCH
+dialog: Uhhh...thanks, no.
+dialog: HOPSFIELD
+dialog: Smart kid. He's going to grow five inches in the next year.
+dialog: CHRIS
+dialog: How do you...never mind.
+dialog: INT. MITCH'S ROOM
+dialog: He opens the door and enters. It's dark.
+speaker_heading: FEMALE VOICE
+dialog: Mitch?
+dialog: MITCH
+dialog: (surprised)
+dialog: Jordan?
+text: He turns on the light. Much to his surprise and ours, seated on his bed is Sherry Nugil, the girl Chris met at PEI - the genius groupie. She's dressed for the occasion.
+dialog: SHERRY
+dialog: Mitch Simon?
+dialog: MITCH
+dialog: Who?
+dialog: SHERRY
+dialog: I'm Sherry Nugil. And I've been waiting three years for this.
+dialog: MITCH
+dialog: For what?
+dialog: SHERRY
+dialog: For you to be old enough.
+dialog: MITCH
+dialog: For what?
+dialog: SHERRY
+dialog: For this.
+dialog: She kisses him.
+speaker_heading: SHERRY (CONT'D)
+dialog: Are you ready?
+dialog: MITCH
+dialog: For what?
+dialog: SHERRY
+dialog: Why do you keep saying, 'For what?'
+dialog: MITCH
+dialog: 'Cause so far it's working great.
+dialog: INT. JORDAN ROOM-NIGHT
+dialog: Jordan is using a big machine to sand her floors. There's a knock on the door.
+dialog: JORDAN
+dialog: (shouts)
+dialog: Come in.
+dialog: Mitch enters, He appears dazed and disheveled.
+dialog: JORDAN
+dialog: Oh, hi, Mitch. I'm just sanding the floor.
+dialog: MITCH
+dialog: Could you turn that off a second?
+dialog: She does. She starts moving the furniture back.
+dialog: JORDAN
+dialog: What's wrong? Why are you sweating?
+dialog: MITCH
+dialog: I...I just...I came back from helping Chris and there was this woman in my room.
+dialog: Jordan stops, It's the first time we've seen her doing nothing.
+dialog: JORDAN
+dialog: A woman?
+dialog: MITCH
+dialog: (with emphasis)
+dialog: A woman. I mean she was...blessed
+dialog: JORDAN
+dialog: Oh?
+dialog: MITCH
+dialog: And she wanted to...How can I say this so as not to offend you?
+dialog: JORDAN
+dialog: Jump you?
+dialog: MITCH
+dialog: Yeah. I hope you're not offended.
+dialog: JORDAN
+dialog: So what happened?
+dialog: MITCH
+dialog: (excited)
+dialog: She kissed me. Then she took off her clothes. Then I took off my clothes-she had to help me. I kept blacking out - then... it was unbelievable.
+dialog: JORDAN
+dialog: You made it with her?
+dialog: MITCH
+dialog: No. That's what was unbelievable.
+dialog: JORDAN
+dialog: Sure.
+dialog: MITCH
+dialog: It's true. I stopped her and told her I didn't want to.
+dialog: JORDAN
+dialog: Afraid?
+dialog: MITCH
+dialog: No...I mean I really did want to ... but not with her.
+dialog: He looks at her hopefully. She smiles.
+dialog: INT. ATHERTON'S LAB-DAY
+text: Chris puts the finishing touches on the second laser assembly. He seems pretty pleased with himself. Kent, Bodie and Carter watch conspiratorially. Carter looks at his watch and starts for the door.
+dialog: CARTER
+dialog: Let's go girls
+dialog: BODIE
+dialog: What's that supposed to mean?
+dialog: CARTER
+dialog: It's just a f..f..figure of speech, Bodie. You guys coming to the exam or not?
+dialog: CHRIS
+dialog: (finishing his work)
+dialog: I guess we should, seeing as he's gone to all the bother of having one and everything.
+dialog: They all begin to exit, but then Kent holds up.
+dialog: KENT
+dialog: You guys go ahead. I have to go to the bathroom.
+dialog: CHRIS
+dialog: (exiting)
+dialog: Okay, Kent, but I don't think that's going to help your confidence, do you?
+text: The others exit as Kent goes back to Chris' laser, opens it up and starts to fiddle with the works.
+dialog: KENT
+dialog: (to himself)
+dialog: So, Mr. Funny Man, let's see how funny you think this is.
+dialog: INT. ATHERTON'S CLASSROOM-DAY
+text: Students wait to begin taking their final exams. Chris, Bodie and Carter enter and take their seats. Atherton is passing out the booklets.
+speaker_heading: ATHERTON
+dialog: You will have exactly three hours. And remember, we believe in the honor system here, people.
+dialog: ANGLE ON KENT
+dialog: He enters and heads for his seat beside Chris.
+dialog: KENT
+dialog: Good luck, buddy boy.
+dialog: CHRIS
+dialog: Is it okay if I name my first child after you? Dipshit Kinsley has a nice ring to it.
+dialog: 5R5DISSOLVE TO:
+dialog: INT. ATHERTON'S CLASSROOM-LATER
+dialog: The students are busy taking the test.
+speaker_heading: ANGLE ON CHRIS
+dialog: He seems to be breezing through it.
+dialog: ANGLE ON KENT
+text: He's taking the test. He looks up and is distressed at Chris apparent lack of trouble. Chris looks over and throws Kent a big kiss. Kent turns away immediately.
+dialog: INT. ATHERTON'S OFFICE
+dialog: Atherton is going over some plans. Carmichael ENTERS. Atherton rises.
+speaker_heading: ATHERTON
+dialog: (reprimanding)
+dialog: This is my class hour!
+speaker_heading: CARMICHAEL
+dialog: (loud whisper)
+dialog: We're past the deadline. Don't you understand, Decker's dangerous. We need those plans.
+speaker_heading: ATHERTON
+dialog: (snaps back)
+dialog: It's not ready yet. But it will be. I've got Kinsley cooking now. He'll do it. Believe me, I know how to push that kid's buttons.
+dialog: (rolling up the plans)
+dialog: Here are my drawings for the optics in the sighting system.
+speaker_heading: CARMICHAEL
+dialog: (cutting him off)
+dialog: Decker wants the laser by the end of the week.
+speaker_heading: ATHERTON
+dialog: (close to losing it)
+dialog: I'm doing all I can, damnit!
+dialog: Atherton storms out.
+dialog: INT. CLASSROOM
+text: Atherton enters like a dark cloud. He sits at his desk.
+speaker_heading: ANGLE ON CHRIS
+dialog: He finishes his last question. He gets out of his seat.
+dialog: ANGLE ON ATHERTON
+text: Sitting at his desk. Chris places his test on the desk. Atherton looks up.
+dialog: ANGLE ON CHRIS AND ATHERTON
+text: Chris has a big grin on his face. He takes a piece of paper and writes on it and then slides it in front of Atherton.
+dialog: INSERT
+dialog: The piece of paper. It says, "I aced this."
+dialog: ANGLE ON ATHERTON
+dialog: He writes a message and slides it to Chris.
+dialog: INSERT
+dialog: A piece of paper which reads, "Ace the laser."
+speaker_heading: ANGLE ON CHRIS
+text: Chris places an apple on Atherton's desk. He exits. Atherton tosses the apple in the wastebasket. The APPLE EXPLODES.
+dialog: EXT. CAMPUS-DAY
+dialog: Chris is heading for the lab. The place has that look of exam period desertion.
+dialog: CHRIS
+dialog: (muttering to himself)
+dialog: Okie-dokie, doc, a house doesn't have to fall on ole Chris Kinsley.
+dialog: INT. ANTHERTON'S LAB-DAY
+text: Chris enters and prepares to test the new equipment. He aligns the secondary laser and let it charge up. He makes some final checks and then throws a switch. The laser fires for an instant but then seems to go crazy. The new laser overheats and the main chamber sparks and smokes. Chris tries to shut it down but to now avail. he tears the cover off in hopes of pulling the wiring, but he's too late. We see everything melting away as the machine eats itself. We also see a message left for Chris just before it too melts. It reads: "1 laser=1car." Chris is on the verge of a complete mental collapse as he watches his work go up in smoke.
+dialog: CHRIS
+dialog: (in anguish)
+dialog: No!!!!
+text: There is nothing but the echo of his voice in response. The main laser stands like a huge, frozen bird in the empty room. In anger and frustration he swears at the machine.
+speaker_heading: CHRIS (CONT'D)
+dialog: You bastard. This is your fault.
+text: He kicks the wastepaper basket in hopes of getting rid of some of this anger; but, instead, all he gets is the basket bouncing back and hitting him in the shin.
+speaker_heading: CHRIS (CONT'D)
+dialog: Shit! I deserve that. It all comes back on you in the end.
+dialog: He suddenly stands up straight as though he were having a stroke.
+speaker_heading: CHRIS (CONT'D)
+dialog: Holy shit!
+text: Inspiration takes hold and Chris begins running around like a madman, gathering up parts to the laser.
+speaker_heading: CHRIS (CONT'D)
+dialog: (almost singing, he's so happy)
+dialog: Of course, it's so simple. Echoes, bouncing back at me and you.
+dialog: EXT. DORM-A LITTLE LATER
+dialog: Chris runs up the stairs three at a time.
+dialog: INT. CHRIS AND MITCH'S ROOM
+dialog: He bursts in.
+dialog: CHRIS
+dialog: Mitch?!
+dialog: The room is empty.
+text: The closet door opens and Hopsfield steps out, carrying another box of cards.
+speaker_heading: CHRIS (CONT'D)
+dialog: Laslo! Buddy! Have you seen Mitch?
+dialog: HOPSFIELD
+dialog: No. How did you do?
+dialog: CHRIS
+dialog: (elated)
+dialog: I failed!
+dialog: HOPSFIELD
+dialog: You shouldn't have.
+dialog: CHRIS
+dialog: That's true. But never mind that now. It came to me. The power problem. I solved it. Echoes! It's so simple, four little mirrors. It bounces back and supercharges the gas itself. I've got to find Mitch to help me build it but it should increase the power ten-fold at least. If you see him, tell him to meet me at the lab. Bye.
+dialog: Chris exits, leaving Hopsfield lost in thought.
+dialog: EXT. STUDENT UNION-MOMENTS LATER
+text: A hand-painted sign hangs over the door that says: "Exam Week Decompression Here." Chris runs in the door.
+scene_heading: INT. DECOMPRESSION ROOM-CONTINUOUS
+text: The room is full of students who are blowing off steam from studying for and taking exams. They are engaged in all sorts of silly, mindless activities, ranging from tiddly-winks and video games to watching cartoons. There are supplies of "brain food" and health drinks around. Mitch, Ick and Jordan are in the corner. Chris runs up to them.
+dialog: JORDAN
+dialog: Oh, Chris. How did it go?
+dialog: CHRIS
+dialog: Great. It was a snap. But Atherton said he's failing me anyway.
+dialog: JORDAN
+dialog: That's terrible. You must be feeling awful. Are you all right?
+dialog: CHRIS
+dialog: Thank you, Jordan. I do feel terrible but I can't talk about it right now. I need Mitch. Gotta go. Bye.
+dialog: He grabs Mitch and pulls him out.
+dialog: ICK
+dialog: He seems to be handling it all right.
+dialog: 5R5FADE OUT
+scene_heading: EXT. ATHERTON'S HOUSE-LATER THAT NIGHT
+text: Chris knocks on the front door. Atherton answers the door. He is less than thrilled to see Chris.
+dialog: INT. ATHERTON'S HOUSE
+dialog: CHRIS
+dialog: (forcing his way in)
+dialog: Hiya, Jerry, how's it going?
+speaker_heading: ATHERTON
+dialog: What do you want Kinsley?
+dialog: CHRIS
+dialog: World peace, but I don't think this is the time to discuss it.
+speaker_heading: ATHERTON
+dialog: What are you doing here? I've already told you you've burned out and you've failed me and yourself miserably.
+dialog: CHRIS
+dialog: Yes, I know that. But I thought you might be interested.
+speaker_heading: ATHERTON
+dialog: I'm not interested in anything you have to say.
+text: Just then a pretty COED starts to come down the stairs. She is dressed only in one of Atherton's shirts.
+dialog: COED
+dialog: Jerry?
+dialog: CHRIS
+dialog: I solved the power problem, Jerry.
+dialog: Atherton pauses. He looks at Chris, then the girl.
+speaker_heading: ATHERTON
+dialog: Debbie, go home.
+scene_heading: INT. ATHERTON'S LAB-LATER THAT NIGHT
+text: Atherton, Kent, Bodie and Carter stand by the laser as Chris explains what he's done with formulas on the blackboard.
+dialog: CHRIS
+dialog: As you know, I was working on supercharging the DF by means of a fusion technique using a secondary laser. Well, when I tried it, I discovered Kent had sabotaged it so it collapsed on itself.
+dialog: Everyone looks at Kent in disgust.
+speaker_heading: CHRIS (CONT'D)
+dialog: And I want to thank him for the thought.
+dialog: KENT
+dialog: What????
+dialog: CHRIS
+dialog: The Deuterium and Fluorine take up enough space by themselves, right? Well, the mistake we've been making up to now is in trying to kick up the power by means of yet another outside source. Big and bulky, right? Well, the elegance of this is that by reflecting part of the lasing light back in the gas jets we supercharge the whole deal, increasing the power tenfold with no increase in size.
+dialog: KENT
+dialog: This is a complete waste of time.
+dialog: Mitch has been preparing the laser for demonstration. He is struggling to lift several thick metal plates.
+dialog: CHRIS
+dialog: Kent, make yourself useful for once and help put those plates against the wall.
+dialog: Kent does and everyone stands back.
+speaker_heading: CHRIS (CONT'D)
+dialog: Okay, Mitch do it. This should work.
+text: Mitch switches on the main laser. It comes to life. Gases flow and a beam appears, hitting the plate without effect.
+dialog: MITCH
+dialog: Now we open the vacuum chamber.
+dialog: He turns a valve and the beam begins to heat up the plate.
+dialog: CHRIS
+dialog: So far so good. And now, cross your fingers.
+text: He throws a switch. There's a beat. And then, suddenly, the beam glows intensely brighter, cuts through the plate, the cabinets behind it and through the wall out into the night. Chris and Mitch jump shut the whole thing off.
+dialog: CHRIS
+dialog: Sorry about the wall, sir.
+dialog: KENT
+dialog: (looking through the hole)
+dialog: And the tree across the quad.
+speaker_heading: ATHERTON
+dialog: (in awe)
+dialog: Screw the wall, you did it! You really did it.
+dialog: KENT
+dialog: (petulant)
+dialog: I've done my part, too.
+speaker_heading: ATHERTON
+dialog: (ignoring Kent)
+dialog: Okay, Kinsley. You did it. You pass.
+dialog: CHRIS
+dialog: Thank you, sir.
+speaker_heading: ATHERTON
+dialog: And I think we can get that job back for you at PEI.
+dialog: KENT
+dialog: (apoplectic)
+dialog: What! You can't. That's my job. I've done everything you've ever asked. I get your laundry, and I finished the mirror. Look.
+text: Kent runs out of the room as Mitch and Chris exchange a look and Atherton shakes his head. Kent returns, rolling a circular precision mirror one meter in diameter.
+dialog: KENT
+dialog: See! Do you have any idea how hard it is to make a film virtually 100 per cent reflective, one micron thick and apply it to a mirror this shape?
+speaker_heading: ATHERTON
+dialog: Good, Kent.
+dialog: (to Chris, in a hurry)
+dialog: I have to go. I have a pressing...
+dialog: He exits.
+dialog: MITCH
+dialog: (very happy for Chris)
+dialog: Let's celebrate.
+dialog: CHRIS
+dialog: Absolutely. Kent, you with us?
+dialog: KENT
+dialog: (totally frustrated)
+dialog: Oh...eat me.
+dialog: EXT. CAMPUS-NIGHT
+dialog: Chris, Mitch, Ick and Jordan are looking at the laser hole in the tree.
+dialog: EXT. LIBRARY-NIGHT
+dialog: They look at where the beam has cut a hole through the head of the statue of Dr. Bradford.
+dialog: EXT. STREET-NIGHT
+text: They look high up at a hole where the beam went through a telephone pole and then across the street, even higher, where it burned through a billboard on top of tavern. They cheer.
+dialog: INT. BAR-LATER
+text: Our group is celebrating. The jukebox blares. Chris and Ick are drinking beers; Mitch and Jordan are holding hands, sharing a milkshake and feeding each other French fries.
+dialog: MITCH
+dialog: I don't think I'm ready for that yet. Maybe we should wait a year; at least until I get my license.
+dialog: JORDAN
+dialog: I understand. There are a lot of things to be considered here. For example, I could drive.
+text: Hopsfield enters and sits down at the table. Everyone stares for a beat.
+dialog: HOPSFIELD
+dialog: (to Chris)
+dialog: I've been thinking about your laser solution.
+dialog: (a beat)
+dialog: I figure you've increased the output to six megawatts.
+dialog: CHRIS
+dialog: Yeah.
+dialog: HOPSFIELD
+dialog: What would you use that for?
+dialog: MITCH
+dialog: The applications are unlimited. Industrial for one.
+dialog: HOPSFIELD
+dialog: With the gas tanks you've designed the beam would only last for forty seconds. What good is that?
+dialog: CHRIS
+dialog: I don't care, Laslo. I graduated.
+dialog: MITCH
+dialog: Let the engineers figure out a use for it. That's not our concern.
+dialog: HOPSFIELD
+dialog: Maybe somebody already has a use for it, one for which it's perfectly designed.
+dialog: JORDAN
+dialog: You mean Atherton had something in mind all along?
+dialog: HOPSFIELD
+dialog: Looks at the facts: very high power, portable, limited firing time, unlimited range. All you'd need is a big spinning mirror and you could vaporize a human target from space.
+dialog: Hopsfield gets up and walks outside. Silence for a beat.
+dialog: CHRIS
+dialog: This is not good.
+dialog: ICK
+dialog: You want another beer?
+dialog: MITCH
+dialog: How big a mirror?
+dialog: INT. HALLWAY-EARLY MORNING
+dialog: Chris, Mitch, Ick, Jordan and Hopsfield run down the hall and enter the lab.
+dialog: ANGLE- THE LAB
+dialog: The laser is gone.
+dialog: INT. HALLWAY
+dialog: Chris runs next door and forces Kent's lab door open, looks in.
+dialog: INT. KENT'S LAB
+dialog: They all enter.
+dialog: CHRIS
+dialog: The mirror is gone, too. Atherton, you worm! You pig! You fuck! Kent, you too!
+text: Chris is venting his rage on every inanimate object in the room, kicking and punching.
+speaker_heading: CHRIS (CONT'D)
+dialog: I should have seen it! How could I have not seen it!
+dialog: MITCH
+dialog: He lied to us.
+dialog: CHRIS
+dialog: It's easy to lie to you. You trust people! I'm cynic! What an asshole I am!
+dialog: HOPSFIELD
+dialog: I understand how you feel, Chris, and you're right. But what we should be doing now is trying to find out what he's doing.
+dialog: INT. CHRIS AND MITCH'S ROOM-NIGHT
+dialog: Chris and Mitch sit waiting. Chris is very despondent. Very. Jordan enters.
+dialog: MITCH
+dialog: Did you do it?
+dialog: JORDAN
+dialog: I put a receiver in it too.
+dialog: (referring to Chris)
+dialog: Is he okay?
+dialog: MITCH
+dialog: I don't know he stopped talking about an hour ago. May I see it?
+text: She holds out her hand and we see an almost microscopic electronic device. Ick enters carrying several gas masks, a gas bottle, some tubing an atomizer.
+dialog: ICK
+dialog: Ready?
+scene_heading: INT. DORM HALLWAY -MOMENTS LATER
+text: Mitch, Jordan and Ick are gathered around the closed door to Kent's room wearing the gas masks. Ick feeds the end of the tube under the door and opens the valve on the bottle.
+dialog: ICK
+dialog: We'll have two minutes.
+dialog: A STUDENT walks by, not batting an eye.
+dialog: STUDENT
+dialog: Hi, guys.
+dialog: INT. KENT'S ROOM
+text: The gas has knocked Kent out. He sleeps peacefully in a chair. The door opens and our gang enters.
+dialog: JORDAN
+dialog: (to Mitch)
+dialog: Open his mouth.
+text: He does and she pulls out some dental tools and goes to work, placing the receiver in Kent's mouth.
+dialog: JORDAN (cont'd)
+dialog: It was his braces that gave me the idea. They're a perfect antenna. His whole..
+dialog: ICK
+dialog: It's about time someone put it to good use.
+scene_heading: INT. CHRIS AND MITCH'S ROOM-MOMENTS LATER
+dialog: They all huddle around a homemade radio transceiver.
+dialog: MITCH
+dialog: (disguising his voice, into a microphone)
+dialog: Kent. Kent. Wake up, Kent.
+dialog: INT. KENT'S ROOM-SAME TIME
+text: Kent begins to stir. We can HEAR Mitch's voice coming from Kent's head. At first he thinks he's dreaming.
+dialog: MITCH (V.O.)
+dialog: I'm talking to you, Kent.
+dialog: KENT
+dialog: What?
+dialog: MITCH (V.O.)
+dialog: I said I'm talking to you.
+dialog: KENT
+dialog: (shaking his head, violently)
+dialog: No!
+dialog: MITCH (V.O.)
+dialog: Yes.
+dialog: KENT
+dialog: (slapping himself)
+dialog: I'm not asleep. I must be overworked.
+dialog: MITCH (V.O.)
+dialog: You're not overworked, Kent.
+dialog: KENT
+dialog: Well, I'm not insane!
+dialog: Silence.
+speaker_heading: KENT (CONT'D)
+dialog: Am I?
+dialog: INT. CHRIS AND MITCH'S ROOM
+dialog: MITCH
+dialog: That remains to be seen, Kent. But we are having a conversation.
+dialog: INT. KENT'S ROOM
+dialog: KENT
+dialog: I have to metabolize this. Um... who is this?
+dialog: MITCH (V.O.)
+dialog: This is Jesus, Kent, and you've been a very naughty boy.
+dialog: KENT
+dialog: (cracking up, laughing)
+dialog: All right! Who is this?! Bodie? Carter?
+dialog: MITCH (V.O.)
+dialog: I am known by many names. I am the One. Turn to me and be saved.
+dialog: KENT
+dialog: Oh, Sure.
+dialog: MITCH (V.O.)
+dialog: Cut the crap, Kent, you've built a weapon.
+dialog: KENT
+dialog: How did you know that?
+dialog: MITCH (V.O.)
+dialog: I know everything.
+dialog: KENT
+dialog: Oh. God.
+dialog: INT. CHRIS AND MITCH'S ROOM
+dialog: MITCH
+dialog: That's right, Kent. Where is the laser now?
+dialog: INT. KENT'S ROOM
+dialog: KENT
+dialog: I can't tell you.
+dialog: MITCH (V.O.)
+dialog: How would you like to burn for the rest of time?
+dialog: KENT
+dialog: (panicking)
+dialog: No, they're testing it on the twenty-seventh but I don't know where. It's classified.
+dialog: MITCH (V.O.)
+dialog: Oh.
+dialog: KENT
+dialog: What?
+dialog: MITCH (V.O.)
+dialog: Nothing. I want you to think about what you've done and repent, and from now on, stop playing with yourself.
+dialog: KENT
+dialog: I don't...okay
+dialog: INT. CHRIS AND MITCH'S ROOM
+dialog: MITCH
+dialog: Now what?
+dialog: The closets door opens and Hopsfield appears.
+dialog: HOPSFIELD
+dialog: Phase two.
+dialog: INT. STEAM TUNNELS
+text: They are near Hopsfield's lair. Hopsfield has removed the cover from an enormous terminal. Chris seems remote and depressed.
+dialog: HOPSFIELD
+dialog: This is the phone terminal for the entire school.
+dialog: MITCH
+dialog: Okay, we tap Atherton's office phone. What about his home?
+dialog: ICK
+dialog: All the faculty's home phone are part of the University system.
+dialog: JORDAN
+dialog: (enthusiastically, looking at the maze of wiring)
+dialog: Great, all we have to do is find it!
+dialog: HOPSFIELD
+dialog: We'll find it.
+dialog: Jordan and Hopsfield set to work searching for Atherton's lines. Ick is concerned about Chris.
+dialog: ICK
+dialog: I'm depressed. Why did I listen to my parents? I should have become a ping-pong pro.
+dialog: HOPSFIELD
+dialog: It's not too late.
+dialog: MITCH
+dialog: You shouldn't be depressed. It's us he used.
+dialog: JORDAN
+dialog: Downtown Schmidlap.
+dialog: MITCH
+dialog: Excuse me?
+dialog: JORDAN
+dialog: (Still working)
+dialog: Ernie "Downtown" Schmidlap. From my high school. He was captain of everything. One day he told me he wanted to "date me up." so for a month he'd come over and I'd do his homework for him. He was going to take me to the prom. But once he passed his courses, he took Roberta Preen. I stayed home and re-wired our housekeeper's TV.
+dialog: ICK
+dialog: That's awful!
+dialog: MITCH
+dialog: You think that hurts? You should've met my Uncle Stan. He was a Weasel.
+dialog: ICK
+dialog: That bad, huh?
+dialog: MITCH
+dialog: No, that was his lodge. The Royal order of Friendly Weasels. Every Wednesday when I was eight, he'd take me down to his lodge meeting and he'd challenge people to call out two five-digit numbers. I had to multiply them in my head faster than a guy could do it on a calculator. They'd bet on me. Of course, after the meeting, he'd take me for ice cream.
+dialog: ICK
+dialog: That's nice.
+dialog: MITCH
+dialog: Well...he'd take me to the supermarket and I had to dip my hand in.
+dialog: HOPSFIELD
+dialog: I've got his office.
+dialog: JORDAN
+dialog: I've got his home.
+dialog: INT. STEAM TUNNEL- SOMETIME LATER
+dialog: They've all made themselves comfortable as they sit and wait for the phone tap to produce results. Hopsfield has wired a speaker so that they can hear,
+dialog: CHRIS
+dialog: Why doesn't your phone ring, you jogging, syphilitic microbe?
+dialog: ICK
+dialog: (sotto, to Mitch)
+dialog: I think he's coming around.
+dialog: Suddenly, from the speaker, we HEAR the sound of Atherton's phone being picked up.
+speaker_heading: ATHERTON (V.0./FILTER)
+dialog: Hello
+speaker_heading: VOICE (V.O.)
+dialog: Is this Jerome Atherton?
+speaker_heading: ATHERTON (V.O.)
+dialog: Yes, it is.
+speaker_heading: VOICE (V.O.)
+dialog: This is Bill Carlisle. I saw your television show the other night about the reproductive system.
+speaker_heading: ATHERTON (V.O.)
+dialog: Thank you, I hope you enjoyed it.
+speaker_heading: VOICE (V.O.)
+dialog: I love it. Everything you said was copied word for word from my book and I expect a lot of money for it.
+speaker_heading: ATHERTON (V.O.)
+dialog: Need I remind you, it's public television, an attempt to teach people something. And all you can think of is personal greed. It's people like you that make me feel bad about being American.
+speaker_heading: VOICE (V.O.)
+dialog: I'm Canadian
+speaker_heading: ATHERTON (V.O.)
+dialog: I'm not surprised. Good day.
+dialog: They hang up.
+dialog: ICK
+dialog: God, he's good at that. He almost gets away with it. That's the most manipulative guy I've ever seen... I mean heard.
+dialog: CHRIS
+dialog: He does get away with it.
+dialog: MITCH
+dialog: Not anymore.
+dialog: INT. STEAM TUNNEL-LATER STILL
+text: Everyone lies asleep in various places and positions, Mitch awakens. He is amazed to find Jordan asleep on his shoulder, so amazed he has to wake her.
+dialog: MITCH
+dialog: Jordan?
+dialog: JORDAN
+dialog: Hmmmmmmmm.
+dialog: MITCH
+dialog: You were sleeping.
+dialog: JORDAN
+dialog: I was? Gee
+dialog: (snuggling)
+dialog: I guess you relax me.
+dialog: MITCH
+dialog: (proudly)
+dialog: Wow!
+dialog: CHRIS
+dialog: (awakening)
+dialog: What's going on?
+dialog: MITCH
+dialog: I put Jordan to sleep.
+dialog: CHRIS
+dialog: And you're proud of that?
+dialog: MITCH
+dialog: Yeah.
+text: The speaker comes to life with the sound of the receiver being groped for and then Atherton's groggy voice.
+speaker_heading: ATHERTON (V.O.)
+dialog: (mumbling)
+dialog: Yes...hello
+speaker_heading: DECKER (V.O.)
+dialog: Jer? Dave Decker How are you?
+speaker_heading: ATHERTON (V.O.)
+dialog: Christ, Dave what time is it?
+speaker_heading: DECKER (V.O.)
+dialog: Nine thirty here in Washington. I thought you Californians all get up early and exercise. Ha, ha
+dialog: CHRIS
+dialog: This is it. That's the guy I saw at his house with the daughter.
+speaker_heading: ATHERTON (V.O.)
+dialog: Very funny, Dave. What do you want? I'm busy.
+speaker_heading: DECKER (V.O.)
+dialog: It sounds like it. Listen, I'll be out there tomorrow for the test but I want you to go to the Marsh this afternoon and check optics systems one more time.
+speaker_heading: ATHERTON (V.O.)
+dialog: Why?
+speaker_heading: DECKER (V.O.)
+dialog: Because I'm in charge, Doctor. Goodbye. He hangs up. All look to Chris.
+dialog: ICK
+dialog: Well?
+dialog: CHRIS
+dialog: (comes to life)
+dialog: It's happening.
+dialog: MITCH
+dialog: It's only weapon if it works, right?
+dialog: CHRIS
+dialog: (determined)
+dialog: You're absolutely right! The time has come, people. No more being used. No more Downtown Schmidlaps or Uncle Stans or Jerry Athertons. We're going to take responsibility for our own brains. Remember, without ethics there can be no morality. Without morality there is no society and without society there can be no fast food restaurants. So the whole country, nay, in the world, is counting on us to get even in a big way. Thank you.
+dialog: ICK
+dialog: Nice logic.
+dialog: CHRIS
+dialog: Thanks. Synchronize watches.
+dialog: MITCH
+dialog: Why?
+dialog: CHRIS
+dialog: It's just something you say at a time like this.
+dialog: HOPSFIELD
+dialog: I don't need a watch.
+dialog: CHRIS
+dialog: Okay, forget it. Let's go.
+dialog: EXT. ATHERTON'S HOUSE-DAY
+text: Atherton comes out and heads for his car carrying an over-night bag. As he drives away we SEE that Ick has been spying on him.
+dialog: EXT. A FILED-DAY
+text: Ick is hiding behind some bushes on a knoll. he is looking through binoculars.
+speaker_heading: ICK POV
+dialog: Atherton's car is passing through a high security gate into Marsh field.
+dialog: EXT. SHIPPING DOCK-DAY
+dialog: Chris, Mitch and Hopsfield are loading the last of several large boxes into a beat-up van.
+dialog: EXT. ATHERTON'S HOUSE-EVENING
+text: The van pulls up in front. Painted on the side is a plumber's logo. Mitch, Jordan and Ick start unloading boxes. Chris goes to the front door.
+dialog: ANGLE ON THE DOOR.
+dialog: Chris picks the lock.
+scene_heading: INT. HOPSFIELD'S LAIR-LATER THAT NIGHT
+text: Chris and Mitch enter to see Hopsfield as he works at the computer, attempting to interface with another computer. Each time he hits the keys the READOUT replies "Negative."
+dialog: HOPSFIELD
+dialog: Boy, these secret fields are so untrusting.
+dialog: CHRIS
+dialog: So we can't get on-base clearance.
+dialog: HOPSFIELD
+dialog: I guess not.
+dialog: CHRIS
+dialog: Forget it. We'll balls it.
+dialog: Jordan enters carrying two I. D. cards.
+dialog: JORDAN
+dialog: How do these look?
+dialog: INSERT
+dialog: Two fake I. D.'s with Mitch's and Chris's picture on them.
+dialog: Perfect. I hope.
+dialog: ANGLE BACK ON THE ROOM
+dialog: MITCH
+dialog: What if they don't fool anybody?
+dialog: CHRIS
+dialog: They shoot us.
+dialog: EXT. MARSH AIR FORCE BASE- MIDDLE OF THE NIGHT
+text: Technicians check monitors and prepare for the coming test. Nearby stands a firing command module very reminiscent of the pilot's compartment in the opening sequence. Atherton goes over last minute details with various people. He seems distracted as an engineer discusses a problem with him.
+dialog: ENGINEER
+dialog: Are you all right?
+speaker_heading: ATHERTON
+dialog: What? Oh, yes, fine. Have you ever had a feeling that there's something terribly wrong?
+dialog: ENGINEER
+dialog: No.
+dialog: EXT. MAIN GATE OF THE BASE-NIGHT
+text: There are two Air force Police GUARDS in the shack. Chris and Mitch pulls up in Kent's Citroen, behind a government sedan awaiting clearance at the gate. They are dressed as technicians and Mitch sports a moustache.
+dialog: INT. THE CITROEN
+dialog: Mitch is a wreck and Chris doesn't help. He begins humming the theme from "Mission Impossible."
+speaker_heading: GUARD (V.O.)
+dialog: All clear, Mr. Decker. Just follow the yellow line.
+text: Chris accidentally hits the horn. Through the windshield we SEE Decker and the guard look back. Chris recognizes Decker.
+dialog: CHRIS
+dialog: (covering)
+dialog: How long does it take?
+text: Mitch whimpers. Decker's car pulls away. The guard uses one finger to motion Chris forward. Chris pulls the car up. The guard leans in the window.
+dialog: GUARD
+dialog: I.D.
+dialog: Mitch, obviously shaking, hands his to Chris who hands them to both guard.
+dialog: CHRIS
+dialog: Snap it up, will ya? We just flew in. We're tired. We're hungry. We have this stupid car.
+dialog: The guard turns away and walks into the shack.
+dialog: MITCH
+dialog: Are you out of your mind?
+dialog: CHRIS
+dialog: You have to intimidate these guys.
+dialog: The guard returns.
+dialog: GUARD
+dialog: You're not on the list.
+dialog: CHRIS
+dialog: Of course not. We're classified.
+dialog: We HEAR the phone RING. The second guard answers it.
+dialog: INT. COMMAND CENTER
+text: An Air Force Officer is on the phone. An impatient Atherton stands beside him.
+speaker_heading: ATHERTON
+dialog: I don't know what he should look for, just tell him if he sees anything out of the...let me tell him.
+dialog: He grabs the phone.
+dialog: INT. THE CITROEN
+dialog: GUARD
+dialog: Aren't you guys a little young to be technicians?
+dialog: CHRIS
+dialog: Lasers are a young science. There, fine, now you've made me say it. Now we're all in trouble.
+dialog: Mitch looks like he's going to die.
+dialog: GUARD
+dialog: Look, I'll call the duty officer.
+text: He starts towards the phone shack. The other guard is still on the phone.
+dialog: CHRIS
+dialog: (his demeanor changing)
+dialog: Excuse me.
+dialog: The guard turns back.
+speaker_heading: CHRIS (CONT'D)
+dialog: Look, pal, don't call anybody. We're four hours late. It's our jobs. Give us a break, will ya? Someday you might be in the private sector, right?
+dialog: A beat. Mitch dies. Chris gives the guard a goofy grin.
+dialog: EXT. THE GATE
+text: The guard waves them through. The car pulls away. The guard returns to the booth.
+dialog: SECOND GUARD
+dialog: We're supposed to look for anything out of the ordinary.
+speaker_heading: FIRST GUARD
+dialog: Okay.
+dialog: EXT. THE RAMP - NIGHT
+text: A B-1 Bomber, painted black, sits in the glow of the work lights. Technicians, who are wearing jumpsuits similar to the ones Mitch and Chris have on, are busy working around the plane.
+text: Chris and Mitch ENTER FRAME and walk up to the plane. A couple of the technicians watch them curiously as they go up the stairs into the bomb bay.
+speaker_heading: INT. BOMB BAY
+text: Chris and Mitch enter. Three technicians are inside the plane running last minute checks on the laser, which sits in the middle of the cabin. Chris crosses to the technician who is in the middle of the cabin. He watches him making mental notes as he checks the program. The technician turns, sensing his presence.
+dialog: CHRIS
+dialog: Nice work. Keep it up.
+text: Mitch, meanwhile, checks out the laser optics. After a beat, one of the technicians signals for the others to complete their jobs and exit. They start to file out. One of them turns and looks at Chris, who is just standing there.
+dialog: CHRIS
+dialog: What?!
+text: The technician shakes his head uncertainly and exits with the others. Finally, Mitch and Chris are alone. Chris opens the BRIEFCASE. It contains a cellular phone, a modem and an EEPROM Processor.
+dialog: INT. HOPSFIELD'S LAIR - SAME TIME
+dialog: The computer receives a signal. Hopsfield turns to Jordan and Ick.
+dialog: HOPSFIELD
+dialog: We've got a connection. They're in.
+speaker_heading: INT. BOMB BAY
+dialog: CHRIS
+dialog: Get the EEPROMs.
+text: Mitch opens up the computer and clips a couple of power lines and pulls out four computer chips and hands them to Chris, who plugs them into the processor. Chris picks up the phone.
+dialog: CHRIS
+dialog: (into phone)
+dialog: Abbott to Costello.
+dialog: INT. HOPSFIELD'S LAIR
+dialog: Jordan picks up the phone.
+dialog: JORDAN
+dialog: (into phone)
+dialog: This is Costello. Go ahead, Abbott.
+speaker_heading: INT. BOMB BAY
+dialog: CHRIS
+dialog: (into phone)
+dialog: Costello, who's on first?
+dialog: Mitch hits him impatiently.
+speaker_heading: CHRIS (CONT'D)
+dialog: We've got the goodies.
+speaker_heading: JORDAN (V.O.)
+dialog: We have the target coordinates computed for trajectory adjustment.
+dialog: CHRIS
+dialog: Great. Shoot.
+dialog: INT. HOPSFIELD'S LAIR
+text: Hopsfield's computer screen fills with machine code of ones and zeros. He begins searching through many screens of code.
+dialog: HOPSFIELD
+dialog: Oh, oh.
+dialog: ICK
+dialog: What?
+dialog: HOPSFIELD
+dialog: Oh, nothing.
+speaker_heading: INT. BOMB BAY
+dialog: Chris and Mitch freeze as a mechanic walks by the open bomb bay door.
+dialog: INT. COMMAND CENTER - EARLY MORNING
+text: Technicians are checking monitors and a radar scope at a control panel. Atherton is in the rear of the room briefing a group of civilians and military brass. Amongst them is Decker. Atherton points to a drawing on a large chart.
+speaker_heading: ATHERTON
+dialog: The plane will reach an altitude of sixty-five thousand feet. When it is over, the target will fire the laser from here ....
+dialog: (points to the firing module)
+dialog: ... for five point two seconds.
+dialog: Carmichael enters.
+speaker_heading: CARMICHAEL
+dialog: They're all set for the final onboard check.
+speaker_heading: ATHERTON
+dialog: Fine. Right this way, gentlemen.
+dialog: They all follow Atherton and Decker to the exit at the rear of the room.
+speaker_heading: INT. BOMB BAY
+dialog: Chris and Mitch sweat it out.
+dialog: INT. HOPSFIELD'S LAIR
+dialog: Hopsfield is scanning the screens.
+dialog: HOPSFIELD
+dialog: I think I've found it. May I have the coordinates, please.
+dialog: ICK
+dialog: (reading from paper)
+dialog: Thirty-four degrees, ten minutes, fifteen seconds North; one hundred eighteen degrees, nine minutes, three seconds West.
+dialog: Hopsfield enters the data into his computer.
+dialog: JORDAN
+dialog: (into phone)
+dialog: We're sending.
+speaker_heading: INT. BOMB BAY
+dialog: CHRIS
+dialog: (into phone)
+dialog: We're taking.
+dialog: Mitch suddenly panics as he looks out.
+speaker_heading: MITCH'S POV
+dialog: Atherton and his group come around the corner of a building and head for the plane.
+dialog: ANGLE ON MITCH AND CHRIS
+dialog: MITCH
+dialog: They're coming this way.
+dialog: CHRIS
+dialog: (into phone, overly calm)
+dialog: You may be interested in knowing that Mitch reports that Herr Professor is approaching and I'm not even sweating. Isn't that remarkable?
+dialog: INT. HOPSFIELD'S LAIR
+dialog: JORDAN
+dialog: Please hurry. Atherton's coming.
+dialog: HOPSFIELD
+dialog: (typing furiously)
+dialog: Please, I don't work well under pressure.
+dialog: He finishes.
+speaker_heading: HOPSFIELD (cont'd)
+dialog: There. I hope that does it.
+dialog: JORDAN
+dialog: (into phone)
+dialog: Okay, Chris ... I mean Abbott. Hello ... hello ... hello ...
+dialog: EXT. BOMBER
+dialog: Atherton and his group approach and enter the bomb bay.
+speaker_heading: INT. BOMB BAY
+text: As they enter, there is no sign of Chris and Mitch. Atherton checks out the laser and the computer. The others examine various gauges and switches and the flight deck.
+speaker_heading: CARMICHAEL
+dialog: Everything all right?
+speaker_heading: ATHERTON
+dialog: Of course.
+dialog: EXT. BOMBER
+text: As the group exits the plane, Chris and Mitch drop out of the forward landing gear well in the background.
+speaker_heading: ATHERTON
+dialog: (turning back)
+dialog: Oh, I forgot ...
+speaker_heading: ATHERTON'S POV
+dialog: A glimpse of Chris and Mitch as they disappear around the corner of the building.
+dialog: CLOSE ON ATHERTON
+dialog: Uncertain of what he has just seen.
+speaker_heading: CARMICHAEL (O.S.)
+dialog: What is it?
+speaker_heading: ATHERTON
+dialog: Nothing.
+speaker_heading: INT. DORM LIBRARY - PRE-DAWN
+dialog: Kent looks the worse for wear as he sits surrounded by psychology books dealing with schizophrenia.
+dialog: MITCH (V.O.)
+dialog: Hi, Kent.
+dialog: KENT
+dialog: (surprised)
+dialog: Oh, I thought you were gone.
+dialog: MITCH (V.O.)
+dialog: Not yet. Have you been touching yourself?
+dialog: KENT
+dialog: Yes. I mean, no.
+dialog: INT. CHRIS AND MITCH'S ROOM - SAME TIME
+dialog: MITCH
+dialog: (into mike)
+dialog: Good, Kent. Dad, my father, you know, God, wants to show you something.
+speaker_heading: KENT (V.O./FILTER)
+dialog: Why? I mean, what?
+dialog: MITCH
+dialog: I've learned not to ask.
+speaker_heading: INT. DORM LIBRARY
+dialog: MITCH (V.O.)
+dialog: He wants you to wait on the sidewalk at six thirty nine Ivy Crest Drive at precisely six-oh-eight this morning.
+dialog: KENT
+dialog: Ivy Crest?
+dialog: MITCH (V.O.)
+dialog: Just wait there and you shall receive a sign. Do not despair and do not go inside.
+dialog: KENT
+dialog: Why not? Hello? Hello, Jesus?
+dialog: A student walks in and looks at him strangely.
+dialog: INT. COMMAND CENTER - DAWN
+dialog: Atherton and company watch the bank of monitors as the flight controller clears the bomber for take off.
+dialog: EXT. CAMPUS - DAWN
+dialog: Chris and Mitch jump into the van and drive off.
+dialog: INT. COMMAND CENTER
+text: Some monitors show the bomber climbing while others show the desert target area. It is a mock up of a Presidential motorcade. The open cars are filled with test dummies, and are linked together and are being towed slowly across the desert by a tractor.
+dialog: CONTROLLER
+dialog: (into mike)
+dialog: Crossbow One, radar contact. Climb and maintain flight level six five oh.
+dialog: EXT. ATHERTON'S HOUSE
+text: The van pulls up and parks across the street. Chris and Mitch get out. Just then, a Volvo pulls up and Jordan, Ick and Dr. Meredith get out. Dr. Meredith is wearing a bathrobe, pajamas and slippers.
+dialog: MEREDITH
+dialog: Ah, Mr. Kinsley. Why am I not surprised to see you here? Perhaps you have the explanation for this so-called event I'm suppose to witness.
+dialog: CHRIS
+dialog: Yes, sir, I do, but first may I take this opportunity to compliment you on your fashion sense.
+dialog: INT. CONTROL CENTER
+dialog: CONTROLLER
+dialog: (into mike)
+dialog: Crossbow One, turn left to two eight zero.
+speaker_heading: PILOT (V.O./FILTER)
+dialog: Two eight zero, roger.
+text: A technician hits a switch and a monitor pops on. Crosshairs dominate the center of the screen. The desert floor rushes by. Atherton turns to a specialist standing by.
+speaker_heading: ATHERTON
+dialog: Norman, if you'd be so kind. This cockpit mock-up duplicates the shuttle flight deck and we've placed it here to demonstrate the firing technique.
+dialog: The specialist takes his place inside the command module.
+speaker_heading: PILOT (V.O./FILTER)
+dialog: We are thirty one DME from the target.
+dialog: CONTROLLER
+dialog: (mike)
+dialog: Roger, Crossbow. Open the doors.
+speaker_heading: INT. BOMB BAY
+dialog: The doors open to reveal clouds rushing past and the ground far below.
+dialog: EXT. ATHERTON'S HOUSE
+dialog: MEREDITH
+dialog: These are rather strong accusations, Chris.
+dialog: CHRIS
+dialog: Yes, sir, I know.
+dialog: MEREDITH
+dialog: If they're true, I'm going to need some proof.
+dialog: CHRIS
+dialog: I think we're going to be able to accommodate you in just a minute, sir.
+dialog: Looking past Meredith, Chris sees Kent approaching.
+text: ANGLE ON KENT as he arrives at the house and stars up at it. He glances at his watch and waits impatiently.
+dialog: INT. COMMAND CENTER
+text: Inside the firing module, the specialist pulls down the target sighting device and puts his hands on the joysticks.
+speaker_heading: SPECIALIST
+dialog: Power on.
+dialog: CONTROLLER
+dialog: T minus fifty and counting.
+speaker_heading: INT. BOMB BAY
+dialog: The large mirror lowers into its firing position and the laser powers up.
+dialog: EXT. ATHERTON'S HOUSE - MORNING
+dialog: The group watch Kent, who is nervously pacing back and forth, talking to himself.
+dialog: CHRIS
+dialog: (to Mitch)
+dialog: Boy, if this works, he's going to start a new religion.
+dialog: MITCH
+dialog: If it doesn't work ...?
+dialog: Chris shoots him a censoring look.
+dialog: INT. COMMAND CENTER
+text: This countdown continues. Monitors display the target sight, the pilot's sighting screen of the ground and a camera's view of the bomber.
+speaker_heading: TECHNICIAN
+dialog: Trajectory command relay, locked.
+speaker_heading: ATHERTON
+dialog: Now, Norm here has firing control.
+dialog: ANGLE ON TARGETING MONITOR
+dialog: The target motorcade is sighted.
+speaker_heading: INT. BOMB BAY
+dialog: The laser mirror and sighting lens move in unison as they line up on target.
+dialog: INT. COMMAND CENTER
+dialog: The crosshairs line up on the sighting monitor.
+dialog: EXT. ATHERTON'S HOUSE
+dialog: JORDAN
+dialog: What's he doing?
+speaker_heading: THEIR POV
+dialog: Kent has now started toward the front door.
+dialog: MITCH
+dialog: I told him not to go in!
+dialog: CLOSER ANGLE ON KENT
+dialog: KENT
+dialog: (muttering to Jesus)
+dialog: Look, this is Jerry's house, we're very close, so if you're not going to answer me, then I'm going in ...
+dialog: He reaches for the front door.
+speaker_heading: KENT (CONT'D)
+dialog: ... here I come.
+dialog: ANGLE ON CHRIS AND MITCH
+dialog: CHRIS
+dialog: (shouting)
+dialog: Kent! Stop!
+dialog: ANGLE ON KENT
+dialog: who turns and sees them.
+dialog: INT. COMMAND CENTER
+dialog: Everyone is riveted to the sighting monitor.
+speaker_heading: SPECIALIST
+dialog: Target locked. In ten, nine, eight ...
+dialog: As the countdown continues.
+speaker_heading: INT. BOMB BAY
+text: The computer comes to life and electronically unlocks the laser optics from the sighting camera. The mirror turns to the left.
+dialog: INT. COMMAND CENTER
+dialog: The aerial view of the motorcade remains centered on the sighting monitor.
+dialog: INT. ATHERTON'S HOUSE
+dialog: Kent opens the front door and enters.
+dialog: KENT
+dialog: (to himself)
+dialog: That looked like Dr. Meredith in a bathrobe. First I'm hearing things, now I'm seeing things.
+dialog: He closes the door.
+speaker_heading: KENT (CONT'D)
+dialog: Okay, God. Let me have it.
+text: The room is dark, lit only by morning light coming through a large stained glass window at the top of the stairs. In the middle of the room is what looks like a large above-ground swimming pool, covered in aluminum foil. Kent is amazed.
+dialog: INT. COMMAND CENTER
+speaker_heading: SPECIALIST
+dialog: ... three, two, one, bingo.
+dialog: He hits the trigger.
+speaker_heading: INT. BOMB BAY
+dialog: The laser fires.
+dialog: EXT. SKY
+dialog: The laser beam traces through the atmosphere.
+dialog: INT. COMMAND CENTER
+dialog: The group waits expectantly. Nothing happens to the target.
+dialog: EXT. ATHERTON'S HOUSE
+text: Chris and Mitch, who are running toward the house, are stopped in their tracks by the incredible sight of the red laser beam shooting down out of the heavens, striking the grass, tracking across the lawn then up the wall of Atherton's house.
+dialog: INT. ATHERTON'S HOUSE
+dialog: The beam strikes the window and for one tiny moment causes the most incredible light show anyone has ever seen.
+dialog: KENT
+dialog: (in awe)
+dialog: Oh!
+text: The window is obliterated by the laser light, which crashes down directly onto the aluminum foil-covered pool.
+speaker_heading: KENT (CONT'D)
+dialog: Oh, my!
+text: The foil is heated instantly in the laser light and there is the SOUND of tiny explosions, building to a roar. In a second, the foil rises violently and tears open. Kent picks up a piece of debris and examines it.
+dialog: KENT
+dialog: Popcorn?
+dialog: In the next instant, he is engulfed in popcorn.
+dialog: EXT. ATHERTON'S HOUSE
+text: The beam disappears as suddenly as it came. Everyone stands in awe. A few kernels fly out of the broken window, then a storm.
+dialog: INT. ATHERTON'S HOUSE
+text: Kent and furniture are being forced up the stairs by a rising tide of popping popcorn. He struggles against it, loses, and sinks into the mound like a dinosaur in quicksand.
+dialog: EXT. ATHERTON'S HOUSE
+text: The windows are filling up with popcorn. Finally, they crack and break as popcorn forces its way out of the house wherever it can.
+dialog: MITCH
+dialog: Kent!
+text: Chris and Mitch head for the front door. Suddenly, it bursts open and Kent is carried out by a moving wall of popcorn.
+dialog: INT. COMMAND CENTER
+dialog: People furiously check systems.
+speaker_heading: CARMICHAEL
+dialog: I don't understand. Did it fire?
+speaker_heading: TECHNICIAN
+dialog: Yes, we indicate a shot. We've got another problem, though. It's not shutting down.
+speaker_heading: INT. BOMB BAY
+text: The computer is still working. The laser optics and equipment begin to melt. It's been wired to self-destruct.
+dialog: INT. COMMAND CENTER
+dialog: The devastated group watches the laser self destruct on the monitor.
+dialog: DECKER
+dialog: Nice going, Jer.
+speaker_heading: ATHERTON
+dialog: Something's wrong here. Unlock the bird's eye.
+dialog: He takes over the command module sighting system
+speaker_heading: ATHERTON
+dialog: I'm tracing where the shot went.
+text: We watch as the monitor's view swings away and across a residential neighborhood, coming to rest on a bird's eye view of his own house.
+speaker_heading: ATHERTON (CONT'D)
+dialog: Oh, no.
+dialog: The monitor view moves in to reveal what looks like a growing mushroom.
+dialog: DECKER
+dialog: What have you done?
+speaker_heading: ATHERTON
+dialog: Retired.
+dialog: EXT. ATHERTON'S HOUSE
+text: The group looks on as the mountain of popcorn continues to engulf the house. Meredith goes to see if Kent is all right.
+dialog: CHRIS
+dialog: (to Mitch)
+dialog: Do you think we used too much?
+dialog: MITCH
+dialog: Maybe a little.
+dialog: CHRIS
+dialog: Well, I guess we all learned something here today.
+dialog: JORDAN
+dialog: What?
+dialog: CHRIS
+dialog: I don't know, but it seemed like the right thing to say, didn't it?
+dialog: ICK
+dialog: It did to me.
+text: As they continue to watch the destruction of the house, and various neighbors come out to see what's what, a Winnebago pulls up and stops. Hopsfield gets out.
+dialog: HOPSFIELD
+dialog: I think you used too much.
+dialog: CHRIS
+dialog: Really? I'm sorry you missed it.
+dialog: HOPSFIELD
+dialog: Yeah, well, I had to pack.
+dialog: CHRIS
+dialog: Why?
+dialog: HOPSFIELD
+dialog: I'm getting married.
+dialog: CHRIS
+dialog: What? To whom?
+dialog: MITCH
+dialog: (looking at the U-Haul)
+dialog: What is all this?
+dialog: HOPSFIELD
+dialog: Oh, I won. Only thirty-one point eight percent though. I have to figure that out. But not this summer.
+dialog: Mitch suddenly sees Sherry standing at the Winnebago door.
+dialog: MITCH
+dialog: Sherry?
+dialog: SHERRY
+dialog: (kissing Hopsfield)
+dialog: Hi. Isn't it wonderful. I finally found him. Number One. I've been looking for him for ten years.
+dialog: HOPSFIELD
+dialog: What can I do? She loves me.
+dialog: CHRIS
+dialog: Right. Congratulations.
+dialog: HOPSFIELD
+dialog: Thanks. Anyway, we probably won't ever get to see you again, so, bye.
+dialog: CHRIS
+dialog: What do you mean? Where are you going?
+dialog: SHERRY
+dialog: I've got a little survival place in Wyoming. We're going to live there.
+dialog: HOPSFIELD
+dialog: Yeah, it's getting too weird around here. See ya.
+dialog: They climb into the Winnebago and it pulls away. The others watch it go.
+dialog: ICK
+dialog: You think it's getting too weird around here.
+dialog: CHRIS
+dialog: Absolutely.
+dialog: JORDAN
+dialog: I didn't notice.
+dialog: MITCH
+dialog: I like it.
+text: In the background, the popcorn has split the walls of the house and finally lifts the roof off like the top of a pot. The whole house tilts to its side and the popping stops.
+text: As we PULL BACK, Atherton's car pulls up and he gets out, dumbstruck. Dr. Meredith walks over to him and confronts him. Kent joins Chris and the others who watch.
+dialog: THE END.
+dialog: 

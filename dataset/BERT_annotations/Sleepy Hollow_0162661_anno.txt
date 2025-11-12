@@ -1,0 +1,4353 @@
+dialog: 
+dialog: Sleepy Hollow
+dialog: Being the true storie of one Ichabod Crane
+dialog: and the Headless Horseman
+dialog: Kevin Yagher and Andrew Kevin Walker
+dialog: Based on "The Legend of Sleepy Hollow" by Washington Irving
+dialog: Screenplay by Andrew Kevin Walker
+dialog: Third Draft
+speaker_heading: 4/10/95
+dialog: A pleasing land of drowsy head it was,
+text: of dreams that wave before the half shut eye...
+scene_heading: EXT. GNARLED FOREST -- NIGHT
+text: An UGLY MAN charges through on a horse, holding a lantern
+text: forward on a long pole. He looks back, terrified.
+scene_heading: INSERT TITLE: 1799 Sleepy Hollow, New York
+text: THUNDEROUS HOOFBEATS are HEARD behind.
+text: The ugly man glances back again. His lantern swings wild...
+text: SHATTERS against a tree. The jammed-up pole SLAMS the ugly
+dialog: man off his horse...
+text: He hits the ground. He runs, trips, falls and scrambles up.
+text: DEEP IN THE FOREST, we glimpse the source of the HOOFBEATS: a
+text: HUGE FORM on a HUGE BLACK HORSE, already gone.
+text: The ugly man pushes through thorny bushes. Jagged branches
+text: slit his hands and cheeks.
+text: He bursts from the briar patch and tumbles to a trail. He
+text: lifts his bloodied face. He runs.
+text: IN THE FOREST BEHIND: the hooves of the black horse rip
+text: underbrush. HOOFBEATS DEAFENING. A spur digs into the
+text: snorting steed's already bleeding flank.
+text: The pursuer's gloved hand draws a SWORD, blade RINGING.
+text: ON THE TRAIL, the ugly man runs on. The shrill WHISTLE of a
+text: SWORD SWING is HEARD as the pursuer blurs past.
+text: The ugly man is still running when his head lolls back, at an
+text: impossible angle... tumbles off his shoulders... His headless
+text: body hits the dirt.
+scene_heading: EXT. CITY STREETS -- NIGHT
+text: Empty cobblestone streets. Crooked buildings. A RAPIDLY
+text: CLANGING BELL breaks the silence from afar.
+scene_heading: INSERT TITLE: New York City
+text: TWO CONSTABLES clamor round a corner, lanterns held high,
+text: listening. They rush into an alleyway.
+text: ELSEWHERE, piers border the Hudson River. The BELL is
+text: LOUDER. The two constables arrive, searching. No one around.
+text: Constable One hefts his pistol, scared.
+speaker_heading: CONSTABLE ONE
+dialog: Where are you?!
+speaker_heading: MAN'S VOICE (o.s.)
+dialog: Here! Over here!
+text: They hurry to the river's edge. Down a hill, the MAN,
+text: another constable, stands with his back to us. He's waist
+text: deep in water, tossing away his ALARM BELL.
+speaker_heading: MAN
+dialog: I need your help with this.
+text: Constable Two crosses on the peir above. Constable One moves
+text: forward, wary. The MAN grunts, lifting something.
+speaker_heading: CONSTABLE ONE
+dialog: Constable Crane? Ichabod Crane...
+dialog: is that you?
+text: The MAN turns. Meet ICHABOD CRANE, handsome, eyes piercing.
+speaker_heading: ICHABOD
+dialog: Yes, it is me. But, not only me...
+dialog: (lifting, struggling)
+dialog: I found someone here...
+text: He drags a bloated MALE CORPSE up from the murky water.
+speaker_heading: ICHABOD
+dialog: Someone quite dead.
+scene_heading: EXT. WATCHHOUSE/JAIL -- NIGHT
+text: The elderly HIGH CONSTABLE lifts a blanket off the corpse on
+text: a wheelbarrow manned by Constable Two. A snobby MAGISTRATE
+text: looks, disgusted. Constable One and Ichabod wait.
+speaker_heading: HIGH CONSTABLE
+dialog: Burn it.
+speaker_heading: CONSTABLE ONE
+dialog: Yes, sir.
+text: Constable Two wheels the corpse inside. Ichabod's dismayed.
+speaker_heading: ICHABOD
+dialog: Just a moment... if I may. It is
+dialog: possible this man was murdered.
+speaker_heading: HIGH CONSTABLE
+text: He drowned. Anyone could see.
+speaker_heading: ICHABOD
+dialog: There are surgical ways of telling
+dialog: how he died... by the water in his
+dialog: lungs...
+text: Ichabod follows the High Constable and Magistrate in.
+scene_heading: INT. WATCHHOUSE, NIGHT WATCH QUARTERS -- NIGHT
+text: Constable Two wheels the body ahead past many "booking"
+text: tables. A JAILER moves to unlock a massive door.
+speaker_heading: HIGH CONSTABLE
+dialog: He will be burned pursuant to
+dialog: statutes of health.
+speaker_heading: ICHABOD
+dialog: I could determine if he were dead
+dialog: before he went into the Hudson.
+speaker_heading: HIGH CONSTABLE
+dialog: Must we again hear these heretical
+dialog: rantings?
+speaker_heading: MAGISTRATE
+dialog: Yes, must we?
+speaker_heading: ICHABOD
+dialog: There is nothing heretical about
+dialog: science, sir. The Chinese have
+dialog: written on it for hundreds of
+dialog: years... procedural study used to
+text: solve seemingly unsolvable crimes.
+text: The door is opened. The corpse again leads the way.
+scene_heading: INT. WATCHHOUSE, JAIL -- NIGHT
+text: A two-tiered prison, alive with MOANS of AGONY and CRIES of
+text: INSANITY. Cells are full of wretched men in chains and iron
+text: gags. Many are against the bars, watching.
+speaker_heading: ICHABOD
+dialog: Our first night watch is adequate
+dialog: against fire and some violence,
+dialog: but if we were more often able to
+dialog: ensure justice, after the fact,
+dialog: then criminals would truly have
+dialog: something to fear from law
+dialog: enforcement.
+speaker_heading: HIGH CONSTABLE
+dialog: Have they nothing to fear presently?
+speaker_heading: ICHABOD
+dialog: Without disrespect, look around you.
+dialog: (motioning to cells)
+dialog: We overflow. As do our courts.
+speaker_heading: HIGH CONSTABLE
+dialog: And, with disrespect, Constable,
+dialog: if jails and courts overflow, it is
+dialog: testimony to success, not failure.
+speaker_heading: ICHABOD
+dialog: But, how many innocents rot here?
+dialog: And, how many victims are buried
+text: without reprisal while guilty men
+dialog: roam our streets?
+text: The High Constable reaches a desk, taking a seat. Guards
+text: wait to process beaten, bloody prisoners.
+speaker_heading: HIGH CONSTABLE
+dialog: Very few, if any.
+speaker_heading: ICHABOD
+dialog: Even though I have seen confessions
+text: pried from the lips of the accused,
+dialog: often quite literally?
+speaker_heading: HIGH CONSTABLE
+dialog: For one who calls himself a
+dialog: Federalist, your mouth reeks of
+dialog: Republican liberalism.
+speaker_heading: ICHABOD
+dialog: Not Liberalism. Equanimity.
+speaker_heading: MAGISTRATE
+dialog: (to High Constable)
+dialog: Um, sir... might I suggest...
+text: The Magistrate WHISPERS in the High Constable's ear. Ichabod
+text: notices with worry that Constables One and Two wheel the
+text: corpse onwards into another room.
+text: The Magistrate finishes. The High Constable smiles faintly.
+speaker_heading: HIGH CONSTABLE
+dialog: (to Ichabod)
+dialog: There is a farming community
+dialog: upstate, Constable... ten days
+dialog: journey north in the Hudson
+dialog: Highlands. It is named Sleepy
+text: Hollow. Within a fortnight, three
+dialog: persons have been murdered there.
+text: Each with their head lopped cleanly
+dialog: off.
+dialog: (holds up papers)
+dialog: The elders of the Hollow have sent
+dialog: dispatches to me, requesting
+dialog: assistance, and now, just this very
+dialog: moment, I have chosen you.
+speaker_heading: ICHABOD
+dialog: Chosen me?
+speaker_heading: HIGH CONSTABLE
+dialog: These "methods" of yours... there
+dialog: has been no practical application.
+speaker_heading: ICHABOD
+dialog: Not for lack of trying.
+speaker_heading: HIGH CONSTABLE
+dialog: Just so. Granted. And so you take
+dialog: your experimentations to Sleepy
+dialog: Hollow and catch the murderer who
+dialog: has tainted the place. Bring him
+dialog: here to face our good justice.
+dialog: Will you do this for me?
+speaker_heading: ICHABOD
+dialog: (swallowing doubt)
+dialog: I shall, gladly.
+speaker_heading: HIGH CONSTABLE
+dialog: Excellent. Then, you are excused
+dialog: till morning.
+text: Ichabod moves away, heading to where the corpse was taken.
+speaker_heading: HIGH CONSTABLE
+dialog: Oh, and, Constable...
+dialog: (off Ichabod's look)
+dialog: Do make certain that you meet with
+dialog: success. Otherwise... perhaps you
+dialog: should not come back at all.
+text: The High Constable smiles a sardonic smile.
+scene_heading: INT. WATCHHOUSE, INCINERATION ROOM -- NIGHT
+text: The corpse burns in a raging furnace. Flesh sizzles.
+text: Constable One pumps bellows which fan the flames. Ichabod
+text: steps from darkness nearby. He watches with bitter regret as
+text: the corpse is consumed.
+scene_heading: EXT. CITY -- DAY
+text: Market town streets bustle. Filthy. Pigs roam free.
+scene_heading: INT. ICHABOD'S HOME, SECOND FLOOR -- DAY
+dialog: Decorated in Early-American Mad Scientist: books, papers and
+text: jars of chemicals. Charts of anatomy above a small bed.
+speaker_heading: ICHABOD (o.s.)
+dialog: Such a day for such a sad farewell.
+dialog: But, this is goodbye, my sweet.
+text: At the window, Ichabod holds a bird cage with a red CARDINAL
+text: inside. He opens the cage. The bird flies free.
+text: Ichabod watches it go, then looks down. A COACH halts in the
+text: street below. The forlorn DRIVER looks up.
+scene_heading: INT. ICHABOD'S COACH -- DAY
+text: In motion. Ichabod absently studies his hands, touching the
+text: strange SCARS on both palms: evenly dispersed, tiny dots of
+text: tissue. Many scars.
+text: Ichabod lifts a LEATHER SATCHEL, checking its contents.
+scene_heading: EXT. UPSTATE FORESTS -- DAY
+text: TWO FAMILIES of MIGRANT WORKERS travel a path, leading over-
+text: burdened horses. Ichabod's coach approaches from the other
+text: direction. Ichabod looks out, unnerved.
+text: One GAUNT MAN watches Ichabod pass. There is a dead, worried
+text: look in the man's eyes. Others stare at Ichabod.
+scene_heading: EXT. SLEEPY HOLLOW, THE LONG STRAIGHT ROAD -- DAY
+text: Ichabod faces two massive, vine-covered PILLARS, unsure. He
+text: turns to watch the driver lead the coach away.
+text: Ichabod walks between the pillars to a long straight road.
+text: He does not notice, above: THREE DEAD RAVENS hang from a tree
+text: limb, twine wrapped round their necks.
+scene_heading: EXT. SLEEPY HOLLOW, TOWN SQUARE -- DAY
+text: Ichabod walks on with baggage. The square is empty, a CHURCH
+text: and GRAVEYARD at one end. The road ahead is bordered by
+dialog: businesses and homes.
+text: CONVERSATION DRIFTS from a tavern. A criminal sits in
+text: stocks. A quiet CRYING is HEARD. Ichabod hears...
+text: He looks for its source. It's from a window above, LOUDER.
+text: SOUNDS like the SOBBING of an OLD WOMAN.
+scene_heading: EXT. VAN TASSEL ESTATE -- DAY
+text: ICHABOD'S P.O.V.: a BELLTOWER stands tall, like a mast pole
+text: with a crow's nest basket atop. There's a man in the basket
+text: and a huge BELL.
+text: Ichabod ponders this as he continues. Ahead on a hill: the
+dialog: grand Van Tassel Manor House.
+scene_heading: INT. VAN TASSEL MANOR HOUSE, SITTING ROOM -- DAY
+text: MANY CHILDREN, in a circle, taunt a BLINDFOLDED YOUNG WOMAN
+text: spun round by the handsome, barrel-chested man, BROM VAN
+text: BRUNT. A few YOUNG MEN and LADIES watch. Brom releases the
+text: woman. Everyone quiets and avoids her searching hands.
+speaker_heading: BLINDFOLDED WOMAN
+dialog: This is such a silly game.
+speaker_heading: BROM
+dialog: Be a sport and stop complaining.
+text: The woman moves to Brom's voice. He backs away, flanked by
+text: peers GLENN and THEODORE. Children laugh.
+text: Ichabod enters, clearing his throat. No one notices. The
+text: blindfolded woman keeps grasping. One LITTLE GIRL sees
+text: Ichabod and goes to him, finger to her lips.
+speaker_heading: LITTLE GIRL
+dialog: Play along. You must.
+text: She tugs him. Before Ichabod can protest, he is placed in
+text: the blindfolded woman's grip.
+speaker_heading: BLINDFOLDED WOMAN
+dialog: There, I have someone. Am I
+dialog: finished?
+speaker_heading: LITTLE GIRL
+dialog: You have to tell who it is.
+text: The woman touches Ichabod's face. He is uncomfortable,
+text: affected by this caress. Brom watches jealously.
+speaker_heading: LITTLE GIRL
+dialog: At least make a guess.
+speaker_heading: BLINDFOLDED WOMAN
+dialog: I don't know. Is it Brom Bones?
+speaker_heading: BROM
+dialog: Certainly not.
+speaker_heading: ICHABOD
+dialog: Excuse me, Miss...
+dialog: (takes her hands)
+dialog: They have a laugh at your expense.
+text: She takes the kerchief off to reveal a stunning beauty:
+text: KATRINA VAN TASSEL. Ichabod tries to compose himself.
+speaker_heading: KATRINA
+dialog: Forgive me, I didn't know.
+speaker_heading: ICHABOD
+dialog: I... I am looking for Baltus Van
+dialog: Tassel.
+speaker_heading: BROM
+dialog: We haven't heard your name yet,
+dialog: friend.
+speaker_heading: ICHABOD
+dialog: Well, unless your name is Baltus,
+dialog: you should not worry over mine.
+text: Brom grabs Ichabod's collar, pissed. Ichabod's baffled.
+speaker_heading: BROM
+dialog: You need some manners.
+speaker_heading: KATRINA
+dialog: Brom!
+text: Brom looks at her, then reluctantly releases Ichabod.
+speaker_heading: MAN'S VOICE (o.s.)
+dialog: What is this, then... ?
+text: BALTUS VAN TASSEL, 45, has entered, a working-class
+text: aristocrat. LADY VAN TASSEL, 40, stands behind, a mix of
+text: home-spun wife and well-kept lady.
+speaker_heading: BALTUS
+dialog: Can I help you, sir?
+dialog: Ichabod's relieved to have a proper focal point. Children
+text: gather around Katrina and hide behind her.
+speaker_heading: ICHABOD
+dialog: I have been sent from the city
+text: with a letter of introduction.
+dialog: I am told you offer me room and
+dialog: board.
+text: Ichabod hands over papers. Baltus reads, furrows his brow.
+speaker_heading: ICHABOD
+dialog: If we could speak alone.
+speaker_heading: BALTUS
+dialog: (nods, looks to Katrina)
+dialog: This is not a time for frivolity,
+dialog: Katrina, is it? Am I mistaken?
+speaker_heading: KATRINA
+dialog: They're only children, father.
+text: Baltus snorts, then exits with Ichabod. The others huddle to
+text: gossip, except Katrina, who moves beside Lady Van Tassel to
+text: watch Ichabod and Baltus walk down the hall.
+scene_heading: INT. VAN TASSEL HOUSE, PARLOR -- DAY
+text: DOCTOR LANCASTER, 50, dour and always sweaty, takes a seat by
+text: the fire, joining Baltus and three other elders. A pretty
+text: servant, SARAH, brings a pipe cradle while Lady Van Tassel
+text: sets down food. Ichabod is standing.
+speaker_heading: BALTUS
+dialog: That will be all, ladies.
+dialog: (waits as they exit)
+dialog: We are joined by Doctor Thomas
+dialog: Lancaster, Constable. And to his
+text: left are, Clergyman Steenwyck and
+dialog: our able magistrate, Samuel Philipse,
+text: both keeping order in their own ways.
+text: PHILIPSE is youngest, eyes bloodshot, mug in hand and pipe in
+text: mouth. CLERGYMAN STEENWYCK is formidably built, wearing a
+text: constant look of disapproval.
+speaker_heading: BALTUS
+dialog: I myself am in charge of financial
+dialog: matters and the regulation of
+dialog: currency in our commonwealth. And,
+dialog: lastly, this fine fellow is James
+dialog: Hardenbrook, our Notary.
+text: HARDENBROOK is oldest, ancient, with one eye pale and blind.
+speaker_heading: ICHABOD
+dialog: An honor, gentlemen. In time I
+dialog: will need every detail of the
+dialog: three murderings you've had, but,
+dialog: for now, I ask only if you have
+dialog: any theory at all as to who the
+dialog: killer might be?
+speaker_heading: DOCTOR LANCASTER
+dialog: Excuse me?
+speaker_heading: ICHABOD
+dialog: I say, is there any one person
+dialog: suspect in these acts?
+speaker_heading: DOCTOR LANCASTER
+dialog: I was afraid of this.
+text: Philipse shoots a look to Baltus. Angst amongst the elders.
+speaker_heading: PHILIPSE
+dialog: Well, Constable... are you aware...
+dialog: to be honest, you are not what we
+dialog: expected. We sent for the militia.
+speaker_heading: ICHABOD
+dialog: The militia?
+scene_heading: FATHER STEENWYCK
+dialog: Why not tell us what you have heard?
+dialog: Hmm? How much have your superiors
+dialog: bothered to tell you?
+speaker_heading: ICHABOD
+dialog: All I know is three are slain, their
+dialog: heads found severed from their
+dialog: bodies...
+scene_heading: FATHER STEENWYCK
+text: The heads were not found severed.
+text: The heads were not found at all.
+text: Withered Hardenbrook leans forward, his voice cragged.
+speaker_heading: HARDENBROOK
+text: Taken. Taken by the Headless
+text: Horseman. Taken back to hell.
+speaker_heading: ICHABOD
+dialog: Pardon me?
+speaker_heading: BALTUS
+dialog: You have not been well informed of
+dialog: our troubles, sir. If you would...
+text: Baltus gestures for Ichabod to sit. Baltus lights his pipe.
+speaker_heading: BALTUS
+dialog: The Horseman... he was a Hessian
+dialog: mercenary, sent to our shores by
+dialog: German princes to help keep
+dialog: Americans under the thumb of
+dialog: England. However, unlike his
+dialog: compatriots who came as muscle in
+dialog: trade for currency, he came
+dialog: willingly. For love of carnage.
+scene_heading: FLASHBACK -- AMERICAN BATTLEFIELD -- DAY
+text: The HESSIAN HORSEMAN rides his black steed into a gory,
+text: close-quarters clash, his cloaked uniform adorned with edged
+text: weapons. He cuts down Americans left and right.
+speaker_heading: BALTUS (v.o.)
+dialog: He was infamous for taking his
+text: horse, Daredevil, hard into
+text: battle... chopping off heads at
+text: full gallop.
+text: He dismounts, hoisting a battle axe. With sword and axe, he
+text: annihilates. Blood gushes. Bones crack.
+speaker_heading: BALTUS (v.o.)
+dialog: Just to look on him made your
+dialog: blood run cold, for he had filed
+dialog: down his teeth to rapiers... to
+dialog: add to the ferocity of his
+dialog: appearance.
+text: The Horseman lets out a war cry. Jagged teeth. Grotesque.
+scene_heading: FOREST BATTLEFIELD -- DAY
+text: Winter. CANNONS can be HEARD BOOMING from afar. Daredevil
+text: lies dead in red snow. FOLLOW FOOTPRINTS away...
+speaker_heading: BALTUS (v.o.)
+dialog: He would not finally meet his end
+dialog: till the winter of seventy-nine,
+dialog: when New York City was held by
+dialog: Henry Clinton and Washington
+dialog: occupied West Point. It was
+dialog: between those two places, not far
+dialog: from here...
+text: The Horseman flees, cloak flowing, chased by FIVE rag-tag
+text: REVOLUTIONARY SOLDIERS. Ahead, a steep, rocky area prevents
+text: escape. Soldier one aims a rifle and FIRES...
+text: Blood explodes from the Horseman's arm as he runs. His sword
+text: falls from his now functionless hand.
+text: Soldier Two grabs the sword.
+text: At the rocks, the Horseman faces the men. Another Rifleman
+text: raises his rifle. The Horseman reaches over his shoulder to
+text: grasp a sheathed knife, THROWS --
+text: THOCK! The Rifleman jerks back, knife in his eye socket.
+text: The Horseman readies an axe. The Revolutionaries move in
+text: with swords. They battle, STEEL AGAINST STEEL. The Horseman
+text: fends off blows from all sides.
+text: Soldier Three lunges, stabs his blade deep into the
+text: Horseman's side. The Horseman roars, brings his axe DOWN...
+text: BREAKS the sword at the hilt...
+text: An UPWARDS stroke sends Soldier Three head over heels in a
+text: fountain of blood.
+text: The Horseman staggers, howling, trying to pull the blade from
+text: his ribs. The remaining soldiers close in.
+scene_heading: INT. VAN TASSEL HOUSE, SITTING ROOM -- NIGHT
+text: Pipe smoke wafts from Philipse's mouth.
+speaker_heading: PHILIPSE
+text: Cut off his head with his own sword.
+dialog: It's a legend told for twenty years.
+speaker_heading: BALTUS
+dialog: But, only recently has the Headless
+text: Hessian been seen prowling the
+text: Hollow, in search of a head to suit
+text: his shoulders.
+speaker_heading: ICHABOD
+dialog: Just a moment...
+dialog: (sits back, incredulous)
+dialog: Are you saying it is he?
+speaker_heading: HARDENBROOK
+dialog: (aggravated, loud)
+text: When a goblin leaps from the nether
+text: world, others follow. Poltergeists
+dialog: of the air, water and earth follow
+dialog: and cheer his desecrations!
+text: Hardenbrook BANGS his cane on a table. Baltus puts a calming
+text: hand on senile Hardenbrook's shoulder.
+speaker_heading: DOCTOR LANCASTER
+dialog: No one knows why he chose to now to
+text: climb out from his grave.
+scene_heading: FATHER STEENWYCK
+dialog: It is very clear why. Citizens
+dialog: here have long tried to hide sins
+text: behind closed doors. Their failed
+dialog: faith has saturated the soil and
+dialog: called forth one of Satan's own.
+speaker_heading: ICHABOD
+dialog: Excuse me, gentlemen, but... who
+dialog: has seen this Horseman?
+speaker_heading: BALTUS
+dialog: Many have.
+speaker_heading: ICHABOD
+dialog: Then, name one person who has seen
+text: him with their own eyes.
+text: A long wait. No reply from the elders. Ichabod rises.
+speaker_heading: ICHABOD
+dialog: While I will do everything I can
+dialog: to find your assassin, I will look
+dialog: for a man of flesh and blood. Not
+dialog: some goblin-demon from hell.
+scene_heading: EXT. BELLTOWER FIELD -- EARLY EVENING
+text: The Belltower is covered in defensive spikes. A man climbs
+text: down a rope ladder. Below, many ARMED MEN gather. Everyone
+text: grim. Philipse moves to the center, on horseback.
+speaker_heading: PHILIPSE
+dialog: Gather round! Gather and quiet!
+dialog: The hour has come to choose for
+dialog: this night. Each man's name is
+dialog: in this box and has been checked.
+text: A box is handed up. Ichabod and Baltus arrive on foot at the
+text: back of the mob. Ichabod looks...
+text: At a nearby forest, men light TORCH POSTS in a line bordering
+text: the forest edge for at least a half mile.
+text: Philipse draws a folded paper from the box, holds it up.
+speaker_heading: PHILIPSE
+dialog: May the Lord watch over him...
+dialog: (unfolds paper)
+dialog: "Jonathan Masbath." Are you here?
+speaker_heading: JONATHAN (o.s.)
+dialog: I am. I take my responsibility.
+text: The crowd parts as JONATHAN MASBATH, a dirt-poor farmer with
+text: a bow and quiver of arrows, moves forward. His son, YOUNG
+text: MASBATH, 14, grips his arm.
+speaker_heading: YOUNG MASBATH
+dialog: No, father. Wait...
+dialog: (up to Philipse)
+dialog: He's already been up once. Why
+dialog: does he go again?
+speaker_heading: JONATHAN
+dialog: It is a lottery, son. It just as
+dialog: easily might have been one of them.
+speaker_heading: YOUNG MASBATH
+dialog: Then... I go with you.
+speaker_heading: JONATHAN
+dialog: No. You obey my wishes.
+dialog: (looks to crowd)
+dialog: Brom. Look after him, will you?
+text: Brom steps up, nodding. Jonathan kisses his son's cheek,
+text: then heads to the rope ladder. Men pat him on the back.
+speaker_heading: PHILIPSE
+text: Someone leave him a horse.
+text: Young Masbath watches his father go. Brom coaxes him away.
+text: At the back of the crowd, Ichabod watches skeptically, looks
+text: to Young Masbath as he and Brom pass.
+speaker_heading: ICHABOD
+dialog: You worry for naught, little man.
+dialog: Nothing will harm him there.
+dialog: (looks up, sotto)
+dialog: It is problems here on the ground
+dialog: you people need begin to worry
+dialog: about.
+text: Ichabod watches Jonathan climb, very high above.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: Ichabod makes notations in a LEDGER BOOK.
+speaker_heading: KATRINA (v.o.)
+dialog: You will dream.
+text: Katrina strolls in, sits on the bed. Ichabod is nervous.
+speaker_heading: KATRINA
+dialog: Did they tell? It is something in
+dialog: the air so that dreams come to
+dialog: everyone. According to the elders,
+text: an Indian prophet held powwows here
+dialog: before the land was taken, and
+text: spells cast then still linger to
+dialog: this day.
+speaker_heading: ICHABOD
+dialog: Do you often make a habit of
+dialog: sitting on strange men's beds?
+speaker_heading: KATRINA
+dialog: You are horribly old-fashioned,
+dialog: aren't you?
+speaker_heading: ICHABOD
+dialog: Feel free to form your own opinion.
+dialog: (facing his ledger)
+dialog: Though it appears you already have.
+speaker_heading: KATRINA
+dialog: Well, I intended to apologize for
+dialog: the behavior of my friend Brom Van
+dialog: Brunt, but it seems I've made
+dialog: matters worse.
+dialog: (getting up to go)
+dialog: I'll leave you to your business.
+speaker_heading: ICHABOD
+dialog: Excuse me... I should apologize. I,
+dialog: um... I... have no great love of...
+speaker_heading: KATRINA
+dialog: Other people?
+speaker_heading: ICHABOD
+dialog: Small talk.
+speaker_heading: KATRINA
+dialog: It might have been more. Might have
+dialog: been positively grand talk.
+text: Ichabod offers his chair, backing away. Seeing it is the
+text: only one, he remains standing. Katrina sits.
+speaker_heading: KATRINA
+dialog: Is it me, or are you this nervous
+dialog: around all women?
+speaker_heading: ICHABOD
+dialog: Perhaps it is because your suitor's
+dialog: hands were recently very nearly
+text: wrapped around my throat.
+speaker_heading: KATRINA
+dialog: My suitor?
+speaker_heading: ICHABOD
+dialog: The massive fellow... Brom. For
+dialog: someone you call "friend," he
+text: misplaces a good portion of jealousy.
+speaker_heading: KATRINA
+dialog: He has proposed to me twice.
+speaker_heading: ICHABOD
+dialog: Which may explain his temperament.
+dialog: To have asked twice means the answer
+dialog: was "no" at least once.
+text: Katrina looks down, discards this with a smile.
+speaker_heading: KATRINA
+dialog: I've read a great deal about your
+dialog: New York City. Do be a dear and tell
+dialog: me all about it. Sounds like an
+dialog: extraordinary place to live a life.
+speaker_heading: ICHABOD
+dialog: Extra ordinary, yes. But first, you
+dialog: tell me about the Headless Horseman.
+scene_heading: EXT. BELLTOWER FIELD -- NIGHT
+text: The torches burn bright. ABOVE, in the Belltower, Jonathan
+text: Masbath loads a rifle. THUNDER BOOMS.
+text: Jonathan stands, looking to a sky that is all stars and moon.
+text: A HORSE is HEARD SHRIEKING. Below, the horse tied at the
+text: base of the tower is spooked.
+text: A COMMOTION is HEARD, ground rumbling. Jonathan grips a
+text: rifle, cocks it and moves to look...
+text: At the forest edge, a herd of deer stampedes out. They
+text: sprint past the tower and across the field.
+text: Jonathan crosses to watch the herd scatter. He crosses back
+text: to peer at the forest. Bad news...
+text: A thick FOG creeps from the woods.
+text: As the fog overtakes the base of each torch, a tentacle of
+text: mist snakes up to the flame, killing it. All along the
+text: forest, arms of vapor snuff torches... one by one by one...
+text: Above, Jonathan sights the rifle along the trees.
+speaker_heading: JONATHAN
+dialog: Come out, devil... come....
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: Ichabod leans on a dresser. Katrina's still seated.
+speaker_heading: KATRINA
+dialog: Not all think it is the Horseman.
+dialog: Many say witches come from the
+dialog: Western Woods to steal skulls for
+dialog: their cauldrons. Some believe a
+dialog: person in this very town kneels
+dialog: before Lucifer, offering death as
+dialog: tribute. And, still others believe
+dialog: none of it.
+speaker_heading: ICHABOD
+dialog: Are you so superstitious?
+speaker_heading: KATRINA
+dialog: To call a person superstitious is to
+dialog: imply they fear magic, but not all
+dialog: magic is black.
+speaker_heading: ICHABOD
+dialog: There is no such thing as magic.
+speaker_heading: KATRINA
+dialog: Really? Then... what is your
+dialog: rebuttal to those romantic poets
+dialog: claiming proof of magic in a rose at
+text: full bloom, or even in a teardrop?
+speaker_heading: ICHABOD
+dialog: Poets have silly notions about
+text: plants and bodily secretions.
+speaker_heading: KATRINA
+dialog: (laughs)
+dialog: You are funny.
+dialog: Ichabod doesn't get what's so funny about that. The DISTANT
+text: TOLL of a BELL is HEARD. Katrina looks fearful.
+text: She goes to open a window. The BELL TOLLS...
+scene_heading: EXT. SLEEPY HOLLOW, OVERVIEW -- NIGHT
+text: ... TOLLS mournfully over farms and forests...
+scene_heading: EXT. FARM -- NIGHT
+text: ... TOLLS as a MAN comes from his barn, listening, then
+text: sprinting towards his home.
+scene_heading: EXT. TOWN SQUARE -- NIGHT
+text: ... TOLLS across the deserted square. Windows go dark.
+text: Shutters are slammed shut.
+scene_heading: EXT. VAN TASSEL HOUSE -- NIGHT
+text: ... TOLLS. Ichabod bounds out to the lawn, halting to
+text: listen. Katrina and Baltus come out on the porch.
+speaker_heading: BALTUS
+dialog: Constable, where are you going!?
+text: ... TOLLS... TOLLS... then, SILENCE. Ichabod chases away.
+speaker_heading: BALTUS
+dialog: Come back, sir...
+dialog: (watches him go)
+dialog: Madness.
+text: Baltus ushers Katrina back in. The door slams.
+scene_heading: EXT. BELLTOWER FIELD -- NIGHT
+text: Ichabod charges across the rocky field. He slows, awed...
+text: The Belltower is down, its mast is splintered. The horse is
+text: gone. Ichabod moves to where the crow's nest lies smashed.
+dialog: No sign of Jonathan.
+scene_heading: EXT. SLEEPY HOLLOW FOREST -- NIGHT
+text: Jonathan runs past, gripping his bow. It's QUIET... till
+text: HOOFBEATS are HEARD in pursuit.
+text: Trees are silhouetted against the sky. As HOOFBEATS get
+text: LOUDER, branches bend like arms and fingers yearning to
+text: touch. As HOOFBEATS ROAR PAST, the trees relax.
+text: FURTHER ON, Jonathan runs. WIND begins to BLOW.
+text: BEHIND, in motion, WE SEE Daredevil's snorting visage; eyes
+text: lizard-like, with vertical slits literally aglow.
+text: The Horseman's hand yanks a wooden WAR HAMMER from a saddle
+text: mount. (No clear view of the Horseman.)
+text: HORSEMAN'S P.O.V.: closing in on Jonathan.
+text: Jonathan is overtaken. The Horseman swings the hammer WHOOMP
+text: -- sends Jonathan sprawling.
+text: HOOFBEATS FADE. Jonathan tries to get up, but pain shoots
+text: through him. He crawls to retrieve his bow.
+text: Against a tree, he takes an arrow from his shoulder quiver
+text: and readies it. Waiting. A metal TAPPING is HEARD O.S.
+scene_heading: CLINK... CLINK... CLINK. A HORSE SNORTS.
+text: Jonathan pulls the bow taut, pained, lips bloody.
+text: Elsewhere, Daredevil approaches slow. The Horseman taps his
+text: sword on his spur, CLINK... CLINK... CLINK...
+text: Foliage moves as the Horseman's form pushes through.
+text: Jonathan releases -- the arrow WHISTLES...
+text: THWACK! -- imbeds in the Horseman's chest.
+text: CLINK... CLINK... CLINK... continues -- Jonathan readies a
+text: second arrow. Pulls and releases -- O.S. THWACK!
+text: CLINK... CLINK... CLINK... Jonathan cries out, crawling away
+text: desperately. Crawling through underbrush, over roots and
+text: rocks. CLINK... CLINK... CLINK... Jonathan gives up, spent,
+text: face to the dirt. He closes his eyes.
+text: CLINKING STOPS. Daredevil halts astride Jonathan; two legs
+text: on each side of Jonathan's body.
+scene_heading: EXT. SLEEPY HOLLOW FARMLAND -- MORNING
+text: Baltus and a large, DULLARDLY MAN ride. Behind, Ichabod
+text: rides with Magistrate Philipse.
+text: Ichabod is not adept at riding his old nag, Gunpowder.
+speaker_heading: ICHABOD
+dialog: The Van Garretts died first; a man
+dialog: and his son, survived by a wife and
+dialog: two infants. And the Widow Windsor
+dialog: was next...
+speaker_heading: PHILIPSE
+dialog: And now Jonathan Masbath.
+speaker_heading: ICHABOD
+dialog: (looks back, ponders)
+dialog: Why would he flee this direction,
+dialog: with so much open ground to cross
+dialog: before he reached cover?
+speaker_heading: PHILIPSE
+dialog: He would not have gone into the
+dialog: Western Woods. No sane man would.
+text: Philipse drinks from a whiskey flask, sees Ichabod watching
+text: and offers some. Ichabod declines.
+speaker_heading: PHILIPSE
+dialog: Van Ripper there...
+text: Ahead, the dullard, VAN RIPPER, sloppily spits tobacco.
+speaker_heading: PHILIPSE
+dialog: ... found the body this morning.
+dialog: (pause)
+dialog: You do believe now, don't you?
+speaker_heading: ICHABOD
+dialog: Believe?
+speaker_heading: LADY VAN TASSEL
+dialog: You said yourself. What mere man
+dialog: could have downed the Belltower?
+speaker_heading: ICHABOD
+dialog: It is a prime tenet of science,
+dialog: Philipse, that because one thing
+dialog: appears improbable does not mean
+dialog: you embrace the utterly fantastical.
+speaker_heading: PHILIPSE
+dialog: You need less big words, and more
+dialog: common sense.
+text: Philipse fingers an IRON KEY talisman he wears on a cord.
+speaker_heading: ICHABOD
+dialog: What is that you wear?
+speaker_heading: PHILIPSE
+dialog: My talisman. It will, protect
+dialog: against the Horseman if I show a
+dialog: brave face. But, I cannot run. If
+dialog: I run in fear, it is worthless.
+speaker_heading: ICHABOD
+dialog: Well... so much for common sense.
+scene_heading: EXT. SLEEPY HOLLOW FORESTS, FURTHER ON -- MORNING
+text: Brom and Baltus stand at a HORSE'S CORPSE amongst jagged
+text: boulders. The flesh has been stripped, guts exposed.
+text: Philipse and Ichabod arrive and dismount.
+speaker_heading: BALTUS
+dialog: Was this Jonathan's?
+speaker_heading: BROM
+dialog: Yes. Seems he panicked across here
+dialog: and broke two legs.
+speaker_heading: ICHABOD
+dialog: Who took the meat?
+speaker_heading: BALTUS
+dialog: Must have been the Redman. A Lenape
+text: Indian lives in the Western Woods.
+speaker_heading: ICHABOD
+dialog: These woods of yours sound a bit
+dialog: crowded, what with all the witches,
+text: ghouls and Indians living there.
+text: Brom climbs up onto his own horse, a black beauty.
+speaker_heading: BROM
+dialog: There's only one Lenape. He eats
+dialog: small animals and lost children...
+dialog: and the occasional constable when he
+dialog: can get it.
+text: Brom rides. Ichabod goes to the dead horse, digs in his
+text: satchel for a thin iron tool, which he uses it to pry off one
+scene_heading: HORSESHOE. A WHISTLE is HEARD O.S.
+text: Everyone looks far ahead to where Van Ripper has ridden. The
+text: doctor and others are there. Van Ripper waves.
+scene_heading: INT. FOREST, MASBATH MURDER SITE -- MORNING
+text: Doctor Lancaster stands with SEVERAL ARMED MEN. A coffin on
+text: a cart is covered by a blanket. Ichabod is crouched nearby.
+speaker_heading: ICHABOD
+dialog: Why did you move the body, Doctor?
+speaker_heading: DOCTOR LANCASTER
+dialog: To place it inside its coffin.
+text: Ichabod, nods, vaguely annoyed. He puts the horseshoe into a
+text: hoofprint in the dirt. It fits.
+text: Ichabod rises, walks, studying the ground, kicking up leaves.
+text: Brom, Van Ripper, Baltus and Philipse watch.
+text: Ichabod finds a deep hoofprint. Huge. He compares the
+text: horseshoe. The hoofprint is much larger.
+text: Ichabod pulls his satchel off his shoulder, takes out a bowl,
+text: bottle of water and bag of brown powder; begins mixing water
+text: and powder with a fork to make plaster.
+text: The others watch, finding this bizarre, whispering. Brom
+text: comes up to stand over Ichabod, irritated.
+speaker_heading: BROM
+dialog: What the hell are you doing?
+speaker_heading: ICHABOD
+dialog: (ignoring pause)
+dialog: You are the blacksmith. Ever shod
+dialog: a horse with a hoof this large?
+speaker_heading: BROM
+dialog: Never. A shoe that size I would
+dialog: have remembered.
+text: Ichabod starts to fill the print with plaster.
+speaker_heading: ICHABOD
+dialog: Van Ripper. Can you show where the
+dialog: body lay?
+speaker_heading: VAN RIPPER
+dialog: I can show exactly.
+text: Van Ripper dismounts, wiping tobacco drool. Ichabod rises to
+text: follow with his satchel.
+speaker_heading: VAN RIPPER
+dialog: Here... in front of this oak, facing
+dialog: north. Horrible...
+speaker_heading: ICHABOD
+dialog: To the best of your recollection,
+dialog: where did the open wound fall?
+text: Van Ripper points. Ichabod takes a BOTTLE of WHITE POWDER
+text: from his pocket.
+text: He uncorks the bottle, cautiously pouring powder in an x on
+text: the dirt there, then waiting.
+text: A chemical reaction causes the powder to bubble a bit.
+speaker_heading: ICHABOD
+dialog: There was not much blood, was there?
+speaker_heading: VAN RIPPER
+dialog: I didn't see none.
+text: Ichabod stands, puzzled. He walks to the coffin cart,
+text: rolling up his sleeves. Others come to watch, but keep
+text: distance. Ichabod removes the blanket...
+text: Reveals Jonathan's headless corpse.
+text: Philipse can't look. Ichabod takes strange spectacles from
+text: his satchel; wire-framed with many lenses. MAGNIFICATION
+text: SPECTACLES. He examines the gross neck wound, sniffs it.
+text: He pokes the flesh and severed spinal cord.
+speaker_heading: ICHABOD
+dialog: No bleeding.
+speaker_heading: DOCTOR LANCASTER
+dialog: What is that?
+speaker_heading: ICHABOD
+dialog: This should have bled by the pint.
+text: Yet, no blistering or scorched flesh.
+dialog: How... ? Whatever weapon was used...
+dialog: it cauterized somehow....
+text: Ichabod straightens, eyes weirdly big in the spectacles.
+speaker_heading: ICHABOD
+text: It instantly burnt the wound shut.
+scene_heading: EXT. CHURCHYARD AND CEMETERY -- DAY
+text: A coffin in a grave. Headstone reads "MASBATH, 1799." A
+text: CROWD gathered. Young Masbath broods. Clergyman Steenwyck
+text: steps forward to take a handful of newly dug dirt.
+text: Men with guns stand at the outskirts, like on guard.
+text: Steenwyck sprinkles dirt into the grave with prayerful words.
+text: In the crowd people whisper. They steal glances at Ichabod,
+text: who stands with the Van Tassels.
+scene_heading: INT. VAN TASSEL HOUSE, DINING/VARIOUS ROOMS -- DAY
+text: Dining room. Sarah and two other servants collect plates. A
+text: few people still sup, including Van Ripper, his warty WIFE
+text: and two kids. Van Ripper guzzles ale, laughs at something
+text: his also-drunk wife says.
+text: IN the HALL and FOYER, funeral goers socialize quietly.
+text: FURTHER ON, in the SITTING ROOM, men smoke. Young Masbath
+text: is confronting Ichabod, who is leaving...
+speaker_heading: ICHABOD
+dialog: I am not here for revenge. I am
+dialog: here to bring justice.
+speaker_heading: YOUNG MASBATH
+dialog: Whatever. You still need a second
+dialog: to tend to your things.
+speaker_heading: ICHABOD
+dialog: I manage fine alone.
+speaker_heading: YOUNG MASBATH
+dialog: I deserve to help you. Don't you see
+dialog: how much this means? My father...
+dialog: he... he was a good man...
+speaker_heading: ICHABOD
+dialog: (faces Masbath)
+dialog: Young Masbath, I am sorry for your
+text: loss. It is a great and sad tragedy.
+dialog: However... I cannot be the one to
+dialog: look after you now.
+speaker_heading: YOUNG MASBATH
+dialog: (angry)
+dialog: I did not ask you to, did I?
+text: Young Masbath exits. Ichabod remains impassive.
+scene_heading: EXT. VAN TASSEL HOUSE, FRONT PORCH -- DAY
+text: Ichabod comes out. KILLIAN, a dashingly rustic man, carries
+text: his son, THOMAS, 5, and chats with Baltus. Doctor Lancaster
+text: peers off at something through a SPYGLASS.
+speaker_heading: BALTUS
+dialog: Hail, Constable. How are you?
+speaker_heading: ICHABOD
+dialog: Well enough. Your gathering does
+dialog: honor to the deceased.
+speaker_heading: DOCTOR LANCASTER
+dialog: (still using spyglass)
+dialog: We must be a curious sight to him.
+speaker_heading: ICHABOD
+dialog: What are you spying on?
+speaker_heading: DOCTOR LANCASTER
+dialog: (offers the spyglass)
+text: The Lenape. He comes to gawk at
+dialog: civilization from time to time.
+scene_heading: ICHABOD'S POINT OF VIEW -- THROUGH SPYGLASS
+text: Searching a line of trees and foliage far away...
+speaker_heading: DOCTOR LANCASTER (o.s.)
+dialog: Do you see the Redskinned bastard?
+text: There he is -- the LENAPE. A towering savage with misshapen
+text: features covered in tumors. He ducks away.
+text: BACK TO SCENE ON PORCH
+text: Ichabod lowers the spyglass, a little awed.
+speaker_heading: ICHABOD
+text: He is a behemoth.
+speaker_heading: DOCTOR LANCASTER
+text: A diseased monster.
+speaker_heading: BALTUS
+dialog: If you gentlemen will excuse the
+dialog: doctor and I... we have financial
+dialog: matters to discuss.
+text: Ichabod and Killian nod as Baltus and Lancaster head in.
+speaker_heading: KILLIAN
+dialog: Master Crane, sir. I'm glad we have
+dialog: time alone. You've been told plenty
+dialog: about the Horseman, I'm certain.
+speaker_heading: ICHABOD
+dialog: More than enough, actually.
+dialog: (tired laugh)
+dialog: I beg you, no more, please.
+speaker_heading: KILLIAN
+dialog: No, sir, no. If you ask me, I say
+dialog: you just laid eyes on our murderer
+dialog: through that glass.
+text: Ichabod ponders, folding the spyglass.
+speaker_heading: ICHABOD
+dialog: Tell me something.
+dialog: (pause)
+dialog: What becomes of Young Masbath?
+speaker_heading: KILLIAN
+dialog: Van Ripper and his wife agreed to take
+dialog: him. They have children and a good
+dialog: home and good land.
+text: Ichabod nods. He turns to look THROUGH THE WINDOW. In the
+text: DINING ROOM, Van Ripper rises, ill. His wife questions his
+text: health, but he holds her off and vomits.
+text: Ichabod notes this with a deep sigh.
+scene_heading: EXT. VAN TASSEL ORCHARD -- EARLY EVENING
+text: Ocher dusk. Ichabod rides to Young Masbath, seated on the
+text: ground, miserable. Young Masbath does not look up.
+speaker_heading: ICHABOD
+dialog: Find yourself a place in the servants'
+dialog: residence and wake me before dawn.
+dialog: Our first task will be an unsavory one.
+text: Ichabod rides. Young Masbath runs to his horse and follows.
+scene_heading: EXT. CHURCHYARD AND CEMETERY -- DAWN
+text: Steenwyck is on horseback, looking down at Ichabod, furious.
+scene_heading: FATHER STEENWYCK
+dialog: It is sacrilege!
+speaker_heading: ICHABOD
+dialog: I cannot proceed without examining
+dialog: the previous victims.
+text: Steenwyck looks to men with shovels. Killian's there.
+text: Philipse, hung-over, stands beside Young Masbath.
+scene_heading: FATHER STEENWYCK
+dialog: Magistrate Philipse, surely you can
+dialog: stop this.
+text: Philipse just looks up with a helpless expression.
+scene_heading: FATHER STEENWYCK
+dialog: I will not allow it. I will not!
+speaker_heading: ICHABOD
+dialog: Protest to my superiors if you like.
+scene_heading: FATHER STEENWYCK
+dialog: Your superiors are two days away!
+speaker_heading: ICHABOD
+dialog: Then, you should have left two days
+dialog: ago, because I have men willing to
+dialog: help me today.
+text: Ichabod motions. Killian leads the men to the graveyard.
+text: Steenwyck watches, enraged. He kicks his horse and rides.
+text: Philipse looks worried.
+scene_heading: EXT. CHURCHYARD AND CEMETERY -- LATER MORNING (TIME CUT)
+text: A PSALM is HEARD READ by STEENWYCK O.S. while a coffin is
+text: exhumed. Ichabod guides the lifting. The coffin is put near
+text: the headstone "WINDSOR." Ichabod looks...
+text: At the church, Steenwyck faces about fifty people who now
+text: take up the PRAYER.
+text: Across the cemetery, two coffins, one small, one large, are
+text: pried open. "VAN GARRETT, 1799." Killian leads the effort
+dialog: with Young Masbath's aid...
+text: The lids come off, revealing the HEADLESS BODIES of a MAN and
+text: a little BOY. Young Masbath backs away.
+text: At the "WINDSOR" coffin, nails creak as Ichabod opens the
+text: lid. WE DO NOT SEE inside, but when Ichabod does, he is
+text: aghast. He looks to the men, angry.
+speaker_heading: ICHABOD
+dialog: Why was I not told of this?
+text: No answer. Killian arrives, nods solemnly.
+speaker_heading: KILLIAN
+dialog: The Widow Windsor.
+speaker_heading: ICHABOD
+dialog: Is that all you say? Look at her.
+speaker_heading: KILLIAN
+dialog: It's not something people speak of
+text: openly. She did not remarry.
+text: Ichabod kneels, studying. Now, WE SEE: the belly of the
+text: headless corpse is bulbous, because the Widow Windsor was
+text: very far along in a pregnancy.
+text: Ichabod notices: a tear in the cloth of widow's blouse. He
+text: reaches through the tear, feeling the stomach.
+text: He straightens, greatly troubled.
+scene_heading: INT. DOCTOR'S RESIDENCE, MEDICAL ROOM -- MORNING
+text: Scissors cut open the widow's blouse. There's an inch-long
+text: WOUND on the moldering belly; a sword puncture.
+text: Ichabod examines the corpse on a table. Lancaster watches,
+text: anxiously mopping his face. Young Masbath's in a corner.
+text: Ichabod goes to write in his ledger full of notes.
+speaker_heading: ICHABOD
+dialog: What is the common thread between
+dialog: these victims?
+speaker_heading: YOUNG MASBATH
+dialog: I'm sure I don't know.
+speaker_heading: ICHABOD
+dialog: We must discover it. The reason the
+dialog: murderer chose these persons.
+text: Ichabod goes to look at the widow's corpse, pondering.
+speaker_heading: ICHABOD
+text: The wounds are the same. Cauterized.
+dialog: No chopping or half-measures either.
+dialog: One stroke took the head. Have you
+dialog: seen, doctor... ?
+dialog: (pointing to it)
+dialog: Even the spinal bone... sliced as
+dialog: smooth as butter.
+speaker_heading: DOCTOR LANCASTER
+dialog: I do not care. You are welcome to
+dialog: use my work area, but I beg you...
+text: return her to her resting place.
+speaker_heading: ICHABOD
+dialog: In time, doctor. Soon as I finish.
+text: Ichabod picks up an iron knife. He looks to Young Masbath.
+speaker_heading: ICHABOD
+dialog: You should step outside.
+scene_heading: EXT. CHURCHYARD CEMETERY -- EARLY EVENING
+text: Ichabod and others restore graves. Ichabod looks to the
+text: church, where Clergyman Steenwyck stands in the door.
+scene_heading: FATHER STEENWYCK
+dialog: The devil sent you, Ichabod Crane.
+dialog: The Lord will not forgive your sins.
+text: Steenwyck shuts the creaky doors.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: Ichabod sleeps, dreaming...
+scene_heading: ICHABOD'S DREAM -- FARMLAND -- DAY
+text: A young BOY, 10, stands in a wheat field with his back to us.
+text: A FEMALE VOICE is HEARD FAINTLY, getting LOUDER.
+speaker_heading: FEMALE VOICE (O.S.)
+dialog: Ichabod! Ichabod... come along.
+text: The boy, YOUNG ICHABOD, turns, smiling. He runs. We FOLLOW
+text: to a clearing behind a frontier home. MOTHER waits. Lovely
+text: woman. She kisses him.
+scene_heading: ICHABOD'S DREAM -- YOUNG ICHABOD'S BEDROOM -- NIGHT
+text: Dark. Young Ichabod, in bed, has one eye open. Across the
+text: room, Mother has her back to him. She's WHISPERING something
+text: to no one. She turns...
+text: Young Ichabod pretends he is asleep.
+text: A DRAWER is HEARD SHUTTING. Mother exits. Ichabod gets up,
+text: curious, opens a drawer... finds something behind clothing.
+text: It's a piece of reed grass, woven into an elaborate pattern
+text: with shafts of wheat twisted into the center. Young Ichabod
+text: replaces it, closes the drawer.
+scene_heading: ICHABOD'S DREAM -- MARKET SQUARE -- DAY
+text: A busy, muddy street lined by wares and produce. Young
+text: Ichabod walks with FATHER, an emotionless man. Father stops
+text: to examine tools. Young Ichabod stays by him, but something
+text: captures his attention...
+text: Across the way, Mother is involved in a argument with a
+text: FREAKISH-LOOKING WOMAN. They shout. People stop to watch.
+text: Can't make out words, but Freakish Woman is furious.
+scene_heading: ICHABOD'S DREAM -- STORM SKY -- NIGHT
+text: LIGHTNING flashes over tree tops. THUNDER BOOMS.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: Ichabod jerks awake in his bed.
+scene_heading: INT. VAN TASSEL HOUSE, KITCHEN -- NIGHT
+text: Ichabod enters with a lantern and his ledger. He sits,
+text: studies notes, then notices there's a light down the hall.
+scene_heading: INT. VAN TASSEL HOUSE, SEWING ROOM -- NIGHT
+text: Opposite an elaborate loom, Katrina reads by candlelight.
+text: She looks up, seeing Ichabod enter.
+speaker_heading: ICHABOD
+dialog: Sorry for disturbing you. I thought
+text: a forgotten candle was burning.
+text: Katrina self-consciously closes her shabby book, puts it with
+text: another on her lap and covers them.
+speaker_heading: KATRINA
+dialog: You do not disturb me. Please stay.
+dialog: Having trouble sleeping?
+speaker_heading: ICHABOD
+dialog: May I ask... why do you cover your
+dialog: book that way?
+speaker_heading: KATRINA
+dialog: You pay great attention to small
+dialog: things. I hide these as I hide all
+dialog: my books. Father would not approve,
+dialog: lest it were the Bible.
+speaker_heading: ICHABOD
+dialog: I, um... I have something to show you,
+dialog: if you have a moment.
+text: Ichabod sits, looking through his ledger.
+speaker_heading: KATRINA
+dialog: These are strange... may I?
+text: She takes his hand, spreads the fingers to the palm. She
+text: touches the many evenly spaced scars.
+speaker_heading: KATRINA
+dialog: These scars. How did you get them?
+speaker_heading: ICHABOD
+dialog: I have had them since childhood. I
+dialog: cannot remember what from.
+speaker_heading: KATRINA
+dialog: It would be interesting to find out.
+text: Their eyes meet. Ichabod gets back to the ledger. Katrina
+text: seems to relish the effect she has. Ichabod finds a paper
+text: disk on string, illustrated thusly:
+speaker_heading: ICHABOD
+text: Here it is. A bird on one side.
+text: His cage on the other. Now,
+text: stare at it.
+dialog: (spinning it)
+text: The bird seems to be in his cage.
+speaker_heading: KATRINA
+dialog: Yes, he does. May I try?
+text: Ichabod gives it. She spins it, smiling.
+speaker_heading: ICHABOD
+text: He only appears to be inside the
+dialog: cage. The point being...
+speaker_heading: KATRINA
+dialog: You made this, and the drawings?
+speaker_heading: ICHABOD
+dialog: Yes, but listen. The illusion is
+text: easily explained. The eye retains
+dialog: each image, till they combine. And
+dialog: yet, some would call this toy magic.
+speaker_heading: KATRINA
+dialog: Don't you see why? Look closely a
+dialog: moment. Put your intellect aside.
+dialog: (spinning it)
+dialog: Can't you see what is inexplicable?
+text: Ichabod watches it spin. He shakes his head, unimpressed.
+speaker_heading: KATRINA
+dialog: Oh, you are hopeless. May I keep
+dialog: it at least?
+speaker_heading: ICHABOD
+dialog: If you want. But...
+speaker_heading: KATRINA
+dialog: Then, I also have a gift for you.
+dialog: True magic which even you will not
+dialog: be able to deny.
+text: She hands him a book. "ROMEO AND JULIET." Ichabod stands,
+text: offering it back, but she will not take it.
+speaker_heading: ICHABOD
+dialog: Thank you. No. Here...
+speaker_heading: KATRINA
+dialog: I insist that you have it.
+speaker_heading: ICHABOD
+dialog: (resigned, leaving)
+dialog: Very well. But, it will only sit
+text: gathering dust.
+speaker_heading: KATRINA
+dialog: That would be a pity. Those words
+dialog: might show you something you've never
+dialog: seen before.
+text: Ichabod stops at the door, looks back. He exits.
+scene_heading: EXT. VAN TASSEL HOUSE -- NIGHT
+text: A light glows in Ichabod's window. LOOKING IN: Ichabod's in
+text: bed, fully dressed. He sits up. Pause. He crosses to pick
+text: up "Romeo and Juliet." He begins to read.
+scene_heading: EXT. PHILIPSE'S FARM -- DUSK
+text: Ichabod walks with Philipse. Young Masbath follows with the
+text: horses. CICADAS CHATTER from a vast corn field.
+speaker_heading: PHILIPSE
+dialog: Not more than a year ago, a mob hung
+dialog: a man for stealing a horse. For
+dialog: stealing a horse! And, you dig up
+dialog: our dead.
+speaker_heading: ICHABOD
+dialog: Are you saying I should be frightened?
+dialog: Is this a message passed on from
+dialog: Clergyman Steenwyck?
+text: The CICADAS SUDDENLY go SILENT. Young Masbath notices.
+speaker_heading: PHILIPSE
+dialog: We are farmers here, not lawyers or
+text: bankers, or even constables. Every
+dialog: penny we earn comes from what we
+dialog: send down the Hudson.
+speaker_heading: ICHABOD
+dialog: I know it.
+speaker_heading: YOUNG MASBATH
+dialog: Um.... excuse me, sirs...
+speaker_heading: PHILIPSE
+dialog: (still to Ichabod)
+dialog: Because of the Horseman, our migrant
+text: workers flee for their lives. There
+dialog: is a danger that our crops will rot.
+dialog: So, if you are going to help us, you
+dialog: stop the Horseman. That is your
+dialog: task... to kill an undead thing.
+text: Young Masbath looks to a fenced grazing area, worried. The
+text: sheep there are agitated, all running one direction away.
+speaker_heading: ICHABOD
+dialog: Listen to what you say....
+speaker_heading: PHILIPSE
+dialog: No, you listen! You may think we are
+dialog: a pack of superstitious dullards...
+speaker_heading: ICHABOD
+dialog: At times I do.
+speaker_heading: YOUNG MASBATH
+dialog: Sirs... please!
+speaker_heading: PHILIPSE
+dialog: What will it take for you to realize
+dialog: this is no laughing matter?
+text: The horses go crazy, braying and rearing. The reins yank
+text: Young Masbath off his feet as the horses flee.
+text: Ichabod and Philipse look to Masbath. A SOUND is HEARD,
+text: distant: THUNDERING HOOFBEATS. Wind kicks up. HOOFBEATS
+text: seem to come FROM ALL DIRECTIONS.
+text: Philipse looks to the corn field. A flock of birds alights;
+text: a great sheet of black against the sky.
+speaker_heading: PHILIPSE
+dialog: Oh my... oh my oh my oh my...
+text: Philipse runs towards his house, past Masbath. HOOFBEATS are
+text: LOUDER, CLOSER. Ichabod faces the corn field.
+text: The field explodes open, stalks bending to make way as the
+text: Headless Horseman gallops into view atop Daredevil.
+text: Young Masbath runs, following Philipse.
+text: Ichabod's stunned. He looks down to draw his flintlock
+text: pistol, but the Horseman blows by before he can raise it. A
+text: blast of air knocks Ichabod off his feet.
+text: The Horseman chases Masbath and Philipse.
+text: Ichabod follows.
+text: The Horseman draws his sword.
+text: Young Masbath falls in the grass...
+text: Daredevil's pounding hooves will certainly crush him.
+text: Daredevil leaps over Young Masbath, continuing the charge.
+text: Philipse has a long way to go before home. He looks over his
+dialog: shoulder. No way he'll make it.
+text: Ichabod, running, watches Philipse slow.
+text: Philipse gathers all his courage and stops, turning. The
+text: Horseman is closing, sword held high.
+text: Philipse raises his talisman.
+speaker_heading: ICHABOD
+dialog: Philipse!
+text: Philipse holds the talisman up, trying to be fearless. The
+text: Horseman swings -- WE HEAR the CLANK of sword on talisman...
+text: Philipse's severed head spins. His body falls and folds.
+text: Ichabod runs past Young Masbath.
+text: The Horseman halts just as Ichabod reaches a point in front
+text: of dead Philipse, aiming his pistol. Daredevil lets out a
+text: SCREECHY CRY. The Horseman rides toward Ichabod.
+text: Ichabod gets on one knee, trying to steady his pistol. The
+text: Horseman closes. Ichabod sweats bullets. FIRES...
+text: The slug SLAMS the Horseman dead center -- bursts through and
+text: rends his uniform without slowing him.
+text: The Horseman is almost on Ichabod. Ichabod cringes, arms
+text: up... as the Horseman passes.
+text: The Horseman leans to skewer Philipse's head with his sword.
+text: With the head as his prize, the Horseman races away.
+text: Ichabod gets up, watches the Horseman head to the forest.
+text: Ichabod looks to Young Masbath, finds his legs will not
+text: support him, falls, trembling. THUNDER BELLOWS.
+scene_heading: INT. VAN TASSEL HOUSE, SECOND FLOOR HALL -- NIGHT
+text: Lady Van Tassel comes to a door, knocks. Sarah stands behind
+text: with a tray of food. Young Masbath is seated near.
+speaker_heading: LADY VAN TASSEL
+dialog: (to Young Masbath)
+dialog: Has he not come out at all?
+text: Young Masbath shakes his head.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: KNOCKING is HEARD. Ichabod sleeps restlessly.
+scene_heading: ICHABOD'S DREAM -- YOUNG ICHABOD'S BEDROOM -- NIGHT
+text: THUNDER BOOMS. WIND and POUNDING RAIN blast open a window.
+text: Mother comes to it, then moves to comfort fearful Young
+text: Ichabod in bed.
+speaker_heading: MOTHER'S VOICE (v.o.)
+dialog: Don't be afraid... don't be afraid.
+scene_heading: ICHABOD'S DREAM -- YOUNG ICHABOD'S HOME -- DAY
+text: A keyhole. Young Ichabod's eye peers in...
+scene_heading: ICHABOD'S DREAM -- P.O.V. THROUGH KEYHOLE
+text: Mother is kneeled before flour on the floor. She draws
+text: patterns in it, whispering. She blows the flour away.
+scene_heading: ICHABOD'S DREAM -- YOUNG ICHABOD'S HOME -- DAY
+text: The Freakish Woman (who argued with Mother) walks towards the
+text: home, supported by a SAD MAN. She weeps, carrying something
+text: in a blanket.
+text: Young Ichabod comes a window, watching, scared.
+text: The Freakish Woman is so weak that she falls. The blanket
+text: opens... the corpse of an infant tumbles to the dirt. The
+text: Freakish Woman's WAILING GROWS LOUDER.
+scene_heading: ICHABOD'S DREAM -- FRONT OF YOUNG ICHABOD'S HOME -- NIGHT
+text: TWO MEN in black drag Mother to a coach. She looks back,
+text: fearful, pulled along. A THIRD MAN in black follows.
+text: Young Ichabod struggles as Father restrains him.
+speaker_heading: YOUNG ICHABOD
+dialog: No... mother... no... !
+text: The Third Man peers back, a gray-haired, Cotton Mather-ish
+text: man with a villainous face.
+speaker_heading: FREAKISH WOMAN (v.o.)
+dialog: The night of the great storm, I saw
+dialog: her cross my windows.
+scene_heading: ICHABOD'S DREAM -- COURTROOM -- DAY
+text: Many people in the gallery. The Third Man stands in front of
+text: the tearful Freakish Woman in the witness box.
+speaker_heading: THIRD MAN
+dialog: You are certain it was she?
+speaker_heading: FREAKISH WOMAN
+text: In the lighting, I did see her.
+dialog: (points)
+dialog: Her. Lady Crane...
+text: Mother sits in shackles.
+speaker_heading: FREAKISH WOMAN
+dialog: I will never forget. The next moment,
+dialog: I found my infant dead... with the
+text: blood welt on his breast.
+text: Those in attendance cry out at this. Ichabod is seated
+text: beside Father, eyes filled with tears.
+scene_heading: ICHABOD'S DREAM -- YOUNG ICHABOD'S ROOM -- NIGHT
+text: As before, a STORM RAGES. Ichabod is in Mother's arms.
+speaker_heading: FREAKISH WOMAN (v.o.)
+dialog: The night of the great storm, I saw
+dialog: her cross my windows.
+speaker_heading: MOTHER
+dialog: Don't be afraid...
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S BEDROOM -- DAY
+text: KNOCKING is HEARD. Ichabod gasps awake.
+speaker_heading: KATRINA (o.s.)
+dialog: Constable Crane?
+text: Ichabod looks at his hands balled into fists. He opens them
+text: -- has ONE HALF of PHILIPSE'S TALISMAN in each palm.
+scene_heading: INT. VAN TASSEL HOUSE, SECOND FLOOR HALLWAY -- NIGHT
+text: Katrina holds a tray of food. The DOOR is HEARD UNLOCKING.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: Katrina enters. Ichabod sits at his work table.
+speaker_heading: KATRINA
+dialog: Are you hungry?
+text: Ichabod shakes his head, won't look up. Katrina crosses.
+text: She begins picking up pieces of the PLASTER HOOFPRINT CAST
+text: which lies shattered on the floor.
+speaker_heading: KATRINA
+dialog: You promised justice.
+speaker_heading: ICHABOD
+dialog: If these are the random stalkings of
+dialog: a monster, what good am I?
+speaker_heading: KATRINA
+dialog: People have put their trust in you.
+speaker_heading: ICHABOD
+dialog: They have done nothing of the sort.
+speaker_heading: KATRINA
+dialog: Won't they still have that justice?
+dialog: (patience waning)
+dialog: Or, was it a vain promise?
+text: Ichabod stews, head in his hands. Someone is HEARD
+text: RUNNING... Young Masbath enters, frightened.
+speaker_heading: YOUNG MASBATH
+dialog: Constable Crane... something has
+dialog: happened.
+scene_heading: EXT. WESTERN WOODS -- DAY
+text: The Lenape Indian hangs dead in a tree, lynched. TOWNSFOLK
+text: are gathered. Ichabod makes his way through, followed by
+text: Young Masbath, looking up.
+speaker_heading: BROM (o.s.)
+dialog: We do not need you, Constable...
+text: Brom strides towards Ichabod from a group of men spreading a
+text: sheet under the tree. Van Ripper's there.
+speaker_heading: BROM
+dialog: The men who did this have been taken.
+dialog: We do not need you here.
+text: Brom points to where TWO FILTHY MEN in chains sit in a
+text: horse-drawn cart. An armed man guards them.
+speaker_heading: ONE FILTHY MAN
+dialog: You should thank us. The killings
+dialog: will end. We saved you all!
+text: The armed man shoves the filthy man to shut him up.
+speaker_heading: BROM
+text: They spend two days in chains.
+speaker_heading: ICHABOD
+dialog: Two days... ? For murder?
+scene_heading: FATHER STEENWYCK
+dialog: For poaching. Or, would you remake
+dialog: our laws now that Magistrate Philipse
+dialog: has given up the ghost?
+speaker_heading: ICHABOD
+dialog: Does that look like an animal hanging?
+speaker_heading: BROM
+text: Looks like an Indian.
+text: Van Ripper cuts the noose rope at the trunk. The Lenape
+text: corpse free falls, landing hard.
+text: The Lenape lies in a heap on the sheet. Van Ripper and
+text: others come to lift the sheet with the Lenape in the middle.
+text: Ichabod watches, noticing...
+text: The Lenape wears a WOVEN PIECE of REED GRASS a cord on his
+text: loin cloth, twisted in a pattern.
+speaker_heading: ICHABOD
+dialog: Wait. Give me a moment...
+text: Ichabod kneels. He removes the woven piece, looking across
+text: the diseased Lenape's body. Something else...
+text: The Lenape's mouth is agape; teeth rotting. Ichabod looks
+text: around, finds a twig. He uses it to pull the Lenape's mouth
+text: open... gets close to peer inside the Lenape's mouth.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- DAY
+text: A DRAWING of the Lenape's WOVEN PIECE in Ichabod's ledger.
+text: The piece lies near.
+text: Ichabod sits staring at it, trance-like. Masbath waits.
+dialog: Long silence.
+speaker_heading: ICHABOD
+dialog: The Lenape Indian had much to tell
+dialog: once I opened his mouth.
+speaker_heading: YOUNG MASBATH
+dialog: How could he?
+speaker_heading: ICHABOD
+text: His teeth. Someone had cut them and
+text: chipped off rotten pieces far back
+dialog: in his mouth. The Lenape could not
+dialog: have done that for himself.
+dialog: (closes his journal)
+dialog: Someone out there cared for him.
+text: Ichabod rises, deciding. He picks up his satchel and exits.
+text: Young Masbath is surprised. He follows.
+scene_heading: EXT. WINDMILL -- DAY
+text: A massive, wooden WINDMILL, raised off the ground on a 7'
+text: center post. Ichabod and Masbath walk to it.
+scene_heading: INT. WINDMILL -- DAY
+text: Ichabod and Young Masbath enter via a ladder from the
+text: underbelly. Gears and counter wheels turn millstones. A few
+text: men work in the grain powder filled air.
+text: Ichabod leads the way to a staircase, up twists and turns.
+speaker_heading: YOUNG MASBATH
+dialog: Where are we going?
+speaker_heading: ICHABOD
+dialog: Up.
+scene_heading: EXT. WINDMILL ROOF -- DAY
+text: Ichabod and Young Masbath climb out a door to the roof. The
+text: rotors spin nearby. Ichabod searches the countryside.
+text: Below, MANY MEN are ride up the long straight road.
+speaker_heading: ICHABOD
+dialog: What is it?
+speaker_heading: YOUNG MASBATH
+dialog: It's payment day. Loan monies are
+dialog: given to Baltus the last day each
+dialog: month. Almost everyone borrows...
+dialog: for tools or to hire workers.
+text: Ichabod sits, takes a bowl from his bag and gives it to
+text: Masbath, then produces a bottle of water... fills the bowl.
+speaker_heading: ICHABOD
+dialog: (points)
+dialog: Out there. What do you see?
+speaker_heading: YOUNG MASBATH
+dialog: The Western Woods.
+speaker_heading: ICHABOD
+dialog: Look again.
+text: A plume of smoke rises from woods, far.
+speaker_heading: YOUNG MASBATH
+text: Smoke. Chimney smoke.
+text: Ichabod holds a piece of straw in his mouth, rubs the point
+text: of a sewing needle against a small BLACK ROCK.
+speaker_heading: ICHABOD
+dialog: Are you familiar with magnets?
+speaker_heading: YOUNG MASBATH
+dialog: What kind of nuts?
+speaker_heading: ICHABOD
+dialog: Not for eating, I assure you. Watch
+dialog: here.
+text: Ichabod shows the magnet grab the needle. Young Masbath is
+text: amazed, reaching for it. Ichabod watches him play with it.
+speaker_heading: YOUNG MASBATH
+dialog: It's spectacular.
+speaker_heading: ICHABOD
+dialog: (smiles, pause)
+dialog: Yes... I suppose it is. Keep it.
+speaker_heading: YOUNG MASBATH
+dialog: No, I couldn't...
+speaker_heading: ICHABOD
+dialog: I have others. All I need is this.
+text: Ichabod takes the needle, poking its butt end into the tip of
+text: the straw. Young Masbath studies the rock, pockets it.
+speaker_heading: YOUNG MASBATH
+dialog: Thank you.
+speaker_heading: ICHABOD
+dialog: (nods, almost shy)
+dialog: Now, hold the bowl steady. Back to
+dialog: business.
+text: Young Masbath lifts the bowl. Ichabod drops in the
+text: needle/straw which floats and turns compass-like.
+speaker_heading: ICHABOD
+dialog: If the Western Woods are truly the
+dialog: Devil's Glen, we will see for
+dialog: ourselves.
+speaker_heading: YOUNG MASBATH
+dialog: (uneasy)
+dialog: Father said witches live there.
+speaker_heading: ICHABOD
+dialog: Witches do not exist. However...
+text: Ichabod uses a knife to notch the bowl lip where the needle
+text: points, then surveys the smoke, making a second notch.
+speaker_heading: ICHABOD
+dialog: Not long ago, I would have said the
+dialog: same for Headless Horseman.
+speaker_heading: KATRINA (o.s.)
+dialog: Constable... !
+text: Katrina's on horseback below, unhappy.
+speaker_heading: KATRINA
+dialog: I need to speak with you. Alone.
+scene_heading: EXT. VAN TASSEL GREAT LAWN -- DAY
+text: Ichabod and Katrina lead their horses. A heated argument.
+speaker_heading: KATRINA
+dialog: Why would you do such a thing?
+speaker_heading: ICHABOD
+text: No stone may be left unturned. It
+dialog: may appear harsh...
+speaker_heading: KATRINA
+dialog: I have misjudged you I think. I did
+dialog: not imagine you were so cruel.
+speaker_heading: ICHABOD
+dialog: You are not regarding it in full.
+dialog: The Widow Windsor had been run
+dialog: through by a sword. I followed the
+text: bloodless wound, a wound whose path
+dialog: I could not comprehend till I had
+dialog: seen the Horseman with my own eyes.
+speaker_heading: KATRINA
+dialog: What are you on about?
+speaker_heading: ICHABOD
+dialog: The child she carried was eight
+dialog: months grown at least... near to
+text: birthing. The sword had pierced its
+dialog: tiny heart exactly.
+speaker_heading: KATRINA
+dialog: Must I hear this?
+speaker_heading: ICHABOD
+dialog: There was no blind stabbing. This
+dialog: singular thrust found its target
+text: omnipotently, as if the Horseman made
+dialog: certain the unborn child died with
+dialog: its mother.
+speaker_heading: KATRINA
+dialog: And this gives worth to butchery?
+speaker_heading: ICHABOD
+dialog: It was not butchery.
+speaker_heading: KATRINA
+dialog: What is it then? Scientific method?
+dialog: How can any of this matter in the
+dialog: slightest?
+speaker_heading: ICHABOD
+dialog: I have no solution for its meaning
+dialog: yet, but I could not just ignore it.
+speaker_heading: KATRINA
+dialog: Take a lesson from Young Masbath's
+text: desires, Ichabod Crane. He follows
+dialog: with you to avenge his father's death.
+dialog: That I understand. But, what do you
+dialog: want?
+speaker_heading: ICHABOD
+text: To avenge his father, and the others.
+speaker_heading: KATRINA
+dialog: But, why? Tell me why.
+text: Ichabod struggles for a reply.
+speaker_heading: KATRINA
+dialog: You falter with your answer because
+dialog: you strive without putting the whole
+dialog: of your heart into it. Can't you see?
+dialog: You'll bring dignity to the dead even
+dialog: if you have to chop them into little
+dialog: pieces to do it.
+speaker_heading: ICHABOD
+dialog: (fed up, growing anger)
+dialog: If it had been surgery on a living
+dialog: person, done to save that person's
+dialog: life, you would not question it. Not
+dialog: for a moment. So, let me be the first
+dialog: to tell you, dear girl... on the other
+dialog: side of these sheltering mountains, a
+dialog: whole world has advanced beyond such
+dialog: plebeian thinking as yours. And
+dialog: someday, no matter how much you fear
+dialog: it, that world will come to roust
+text: Sleepy Hollow out of its slumber.
+text: Katrina storms away. Ichabod's already regretting.
+scene_heading: EXT. BELLTOWER FIELD -- DAY
+text: Ichabod and Young Masbath ride to the Western Woods, horses
+text: loaded for expedition. At the Belltower remnants, Ichabod
+text: slows, looking to the wreckage.
+text: At forest's edge, Young Masbath waits.
+text: Ichabod circles the tower. With a sigh, he rides to join
+text: Young Masbath. They head into the woods.
+scene_heading: EXT. WESTERN WOODS -- DAY
+text: Dark, dense and creepy. Ichabod and Young Masbath move
+text: through. Young Masbath halts his horse and looks around.
+speaker_heading: ICHABOD
+dialog: What is it?
+speaker_heading: YOUNG MASBATH
+dialog: Listen.
+speaker_heading: ICHABOD
+dialog: (listens, looks)
+dialog: I hear nothing.
+speaker_heading: YOUNG MASBATH
+dialog: No crickets or cicadas calling. No
+dialog: bird songs.
+text: Stark quiet. Ichabod notes this unhappily.
+scene_heading: EXT. WESTERN WOODS -- LATER DAY
+text: Ichabod's hand drops the needle/straw in the water bowl. The
+text: needle spins. The bowl is turned to match notches.
+text: Ichabod points the way to Young Masbath.
+text: ELSEWHERE, SOMEONE WATCHES: A MOVING P.O.V. WATCHES them as
+text: they ride, FOLLOWS.
+scene_heading: EXT. WESTERN WOODS, FURTHER ON -- LATER DAY
+text: Ichabod and Masbath reach a hill crest. They stop, uneasy.
+text: Below: a CAVE with a rock archway. An ill-fitting door
+text: covers the mouth. The chimney spews smoke.
+speaker_heading: ICHABOD
+dialog: We have apparently arrived.
+scene_heading: EXT. CAVE HOME -- DAY
+text: The horses are tied to a tree. Ichabod walks to the cave
+text: door. Unsure, he hesitantly knocks.
+scene_heading: INT. CAVE HOME -- DAY
+text: Ichabod and Young Masbath step in.
+text: Walls are hung with skins and skeletons, dry flowers and reed
+text: grass in patterns. An OLD CRONE sits facing away.
+text: The old Crone, a mountain woman with matted hair and grey
+text: features, sits disinterested. Ichabod edges closer.
+speaker_heading: ICHABOD
+dialog: Pardon. You did not answer when I
+dialog: knocked. Are we intruding?
+speaker_heading: OLD CRONE
+dialog: You are from the Hollow?
+speaker_heading: ICHABOD
+dialog: In a way, yes.
+text: Ichabod looks at tables of gourd bowls of dead insects and
+text: acorns. Knifes, scissors, yellow bones. He takes the
+text: Lenape's piece of reed grass from his pocket.
+speaker_heading: ICHABOD
+dialog: The Lenape who lived in these woods...
+dialog: do you know him? The Redman?
+dialog: (uncomfortable wait)
+dialog: I should tell you... he has been
+dialog: murdered.
+speaker_heading: OLD CRONE
+dialog: Leave me. You are not welcome here.
+text: The old Crone places something on a table beside her -- a
+text: dead cardinal, bright red.
+text: Ichabod is afraid, backing away, but Young Masbath takes the
+text: woven piece and steps to the Crone.
+speaker_heading: YOUNG MASBATH
+dialog: Were you a friend to the Indian?
+dialog: (waits)
+dialog: You should have this... if you were
+dialog: his friend.
+text: Young Masbath puts the woven piece beside the cardinal. He
+text: walks to join Ichabod in leaving.
+speaker_heading: OLD CRONE
+dialog: You seek remedy against the Horseman?
+text: The Old Crone reaches to pick up the weaving. She stands,
+text: faces them. Tall. Ichabod nods.
+speaker_heading: OLD CRONE
+dialog: (to Young Masbath)
+dialog: Go out and keep away, child.
+dialog: (to Ichabod)
+dialog: You stay. Follow with me.
+text: The Old Crone takes a candle and walks, deep into the cave.
+scene_heading: INT. CAVE HOME, LOWER CAVE -- DAY
+text: The Old Crone comes through a passage in the wet walls.
+text: Ichabod enters, scared, bent under low ceiling.
+speaker_heading: OLD CRONE
+text: I hear him. He rides to the Hollow
+dialog: and back.
+speaker_heading: ICHABOD
+dialog: The Horseman. Yes.
+speaker_heading: OLD CRONE
+dialog: Sit.
+text: Ichabod sits on crooked stool. The old Crone kneels with her
+text: back to him, gathers straw in a pile on the floor.
+speaker_heading: ICHABOD
+dialog: Can you help?
+speaker_heading: OLD CRONE
+dialog: You want to see into the nether world...
+dialog: I can show you. Whatever you see, do
+dialog: not move or speak. I will hold him.
+text: She gathers bowls, putting grass and powder on the pile.
+speaker_heading: ICHABOD
+dialog: What... what are you doing?
+speaker_heading: OLD CRONE
+dialog: (turns, furious)
+dialog: Close your mouth! Keep silent.
+text: She takes two jars from a table, pours ashes on the pile from
+text: one. She shakes the other roughly, takes the lid off and
+text: upends it. A baby bat squirms on the floor, dazed.
+text: The Old Crone holds the bat, using a knife to cut off its
+text: head. She soaks the straw with blood, SPEAKING IN TONGUES,
+text: guttural. Using a wick, she lights the straw.
+text: She grasps two METAL CUFFS with chains attached, slides these
+text: onto her bony wrists, then bends to inhale smoke.
+speaker_heading: OLD CRONE
+text: He comes now.
+dialog: Ichabod would like to leave now.
+scene_heading: EXT. CAVE HOME -- DAY
+text: Young Masbath, waiting by the horses, looks up. Through the
+text: trees, black clouds billow and block the sun.
+scene_heading: INT. CAVE HOME, LOWER CAVE -- DAY
+text: The old Crone slumps, still with her back to Ichabod. She
+text: does not move. Wind howls through a hole/window. Rain.
+text: Candles blow out. Ichabod stands, worried.
+speaker_heading: ICHABOD
+dialog: Excuse me... um...
+text: She remains motionless. The STORM outside intensifies.
+text: WE SEE the skin of the Crone's wrists transform; swelling in
+text: the cuffs, hardening, cracking and bleeding.
+text: Some thing Ichabod cannot see. He inches closer.
+speaker_heading: ICHABOD
+dialog: Are you alright... ?
+text: The Crone turns, hideous, leaping erect -- a half-human,
+text: half-demon CREATURE. Its black clawed hands reaching.
+text: Ichabod recoils, crying out.
+text: Chains on restraining cuffs yank the creature back.
+text: Ichabod hits the floor, knocking over a table of bones. The
+text: creature is chained, but still wants Ichabod. It SCREECHES.
+text: The Old Crone's face seethes from transformation, eyes blood
+text: red, nostrils dripping, teeth now jagged.
+speaker_heading: CREATURE/OLD CRONE
+dialog: You seek the warrior bathed in
+dialog: blood... the Headless Horseman.
+text: Ichabod slides back as far as possible while the creature
+text: claws the rock floor, yearning.
+speaker_heading: CREATURE/OLD CRONE
+dialog: Follow the Indian trail to where the
+text: sun dies. Follow to the tree of the
+dialog: dead.
+text: The creature pulls, testing the chains. Behind, the BOLT
+text: holding the chains to the wall slips. The wall cracks.
+speaker_heading: CREATURE/OLD CRONE
+text: Climb down to the Horseman's soulless
+text: place and let loose his silent
+text: shrieking. Do you hear? Do you hear?!
+text: Ichabod nods, quaking, aghast. He glances to the exit.
+text: The chain bolt gives more... coming loose...
+speaker_heading: CREATURE/OLD CRONE
+text: He who holds fast the Horseman's
+dialog: desire will guide his reaping hand.
+text: Catch hold of his desire.
+text: Ichabod bolts for the door. The creature HOWLS, leaping...
+text: The chain bolt breaks...
+text: Ichabod cries out, tackled to the floor...
+text: It is the Old Crone who landed on him. She has returned to
+text: human form, semi-conscious. Ichabod shoves her off.
+scene_heading: EXT. CAVE HOME -- DAY
+text: Ichabod runs out into the howling storm, past Masbath.
+speaker_heading: ICHABOD
+dialog: We are leaving.
+speaker_heading: YOUNG MASBATH
+dialog: What happened?
+text: Ichabod scrambles onto Gunpowder, heading further into the
+text: woods, glancing back. Young Masbath follows.
+scene_heading: EXT. WESTERN WOODS, FURTHER ON -- EARLY EVENING
+text: No rain. Dark. A lantern's glow creates shifting shadows as
+text: Ichabod and Young Masbath ride.
+speaker_heading: YOUNG MASBATH
+dialog: Follow the Indian trail to where the
+text: sun dies. To the tree of the dead.
+dialog: (looking back)
+dialog: Maybe we passed it by.
+speaker_heading: ICHABOD
+dialog: How could something named "the tree
+dialog: of the dead" fail to draw attention?
+text: A BIRD CRIES OUT. Ichabod's startled, looking up. The BIRD
+text: is HEARD ALIGHTING. Leaves float downwards.
+speaker_heading: ICHABOD
+dialog: We should not go much further in
+dialog: this murk.
+speaker_heading: YOUNG MASBATH
+dialog: Should we go back?
+speaker_heading: ICHABOD
+dialog: We are far from the Hollow.
+dialog: (dismounts, troubled)
+dialog: Loath to say it... better to get our
+text: backs against a tree and stay till
+dialog: morning.
+scene_heading: EXT. WESTERN WOODS (TIME CUT) -- NIGHT
+text: Horses are tied. Ichabod is seated against a tree. A
+text: campfire burns. Young Masbath lies on a blanket, rifle cross
+text: his chest, staring to treetops.
+text: Leaves and branches shift in the wind. Bats fly wildly.
+speaker_heading: YOUNG MASBATH
+dialog: What does it mean... climb down to
+dialog: the Horseman's soulless place?
+speaker_heading: ICHABOD
+text: "Let loose his silent shrieking."
+dialog: Who knows, till we work at it? I
+dialog: admit not being anxious to find out.
+dialog: (pause)
+dialog: "He who holds the Horseman's desire
+dialog: will guide his reaping hand."
+dialog: Whatever the Horseman's desire is,
+dialog: other than extinguishing lives.
+text: A SNAPPING BRANCH. Ichabod raises his pistol.
+speaker_heading: ICHABOD
+dialog: (to Young Masbath)
+dialog: Do not move.
+text: Ichabod rises. He creeps forward, pistol and lantern
+text: forward. Foliage is thick. CRUNCHING LEAVES are HEARD.
+text: Ichabod crouches, puts down the lantern and picks up a
+text: branch. He tosses the branch to the foliage...
+text: SOME ANIMAL darts away, a running blur.
+text: Ichabod rises, following with his pistol.
+scene_heading: ANOTHER ANGLE, MOVING P.O.V.: low to the ground,
+text: moving swiftly at Ichabod...
+text: Ichabod spins, blindsided.
+text: Young Masbath fires his rifle -- CRACK!!
+text: The ANIMAL is KNOCKED DOWN mid-leap, yelping...
+text: The beast lands, a mass of grey fur.
+text: Ichabod comes to stare down. Young Masbath arrives. They
+text: both look to the beast, horrified.
+text: The creature lies helplessly spastic; a TWO-HEADED WOLF, with
+text: one head blown open to brain and gore. Its living head
+text: lifts, MEWING sadly, eyes pleading.
+text: Ichabod step up with pistol. FIRES. MEWING STOPS.
+speaker_heading: ICHABOD
+dialog: What God-forsaken hell is this?
+text: Ichabod swallows back sickness, looking away. Something
+text: catches his eye.
+speaker_heading: ICHABOD
+dialog: Christ...
+text: Through the forest: the SKY'S LIT UP. Distant fire.
+scene_heading: EXT. WESTERN WOODS, CAVE HOME -- EARLY EVENING
+text: Ichabod and Masbath ride up, confronted by the Crone's cave
+text: vomiting flame out all orifices.
+text: Ichabod approaches. Embers swirl everywhere. The Old
+text: Crone's body lies amongst bloodied leaves. Headless.
+scene_heading: EXT. TOWN SQUARE, DOCTOR'S RESIDENCE -- NIGHT
+text: Much commotion. A MOB in front of the home marked
+text: "LANCASTER, PHYSICIAN." Steenwyck addresses the rabble.
+scene_heading: FATHER STEENWYCK
+dialog: You all stand idle, while this man
+text: goes about with a book of secrets and
+dialog: a bag filled with magic. You all
+text: stand idle, while the shadow of the
+dialog: Devil falls over our town.
+text: Baltus, Lady Van Tassel and Katrina watch at safe distance.
+scene_heading: FATHER STEENWYCK
+dialog: I say, if you do nothing, you share
+dialog: in the blasphemy of Ichabod Crane!
+text: Killian, on horseback beside his wife, BETH, and son, Thomas,
+text: rides to one side of the shouting crowd.
+speaker_heading: KILLIAN
+dialog: Listen to me! Do you want to save
+dialog: your crops? Or would you rather see
+dialog: your farms go to ruin?
+scene_heading: FATHER STEENWYCK
+dialog: How is he saving our farms? How?
+dialog: Ichabod Crane has brought into our
+text: midst the soulless, moldering corpse
+dialog: of a heretic!
+scene_heading: INT. DOCTOR'S RESIDENCE, MEDICAL ROOM -- NIGHT
+text: Ichabod examines the Crone's neck wound with magnification
+text: spectacles. Young Masbath is seated, ledger in his lap.
+speaker_heading: ICHABOD
+dialog: The wound is neither smooth nor
+text: cauterized, but jagged. She bleeds
+text: like a fountain.
+text: Ichabod lifts her dead hand to show bruises and cuts.
+speaker_heading: ICHABOD
+dialog: She did not go quietly.
+scene_heading: INT. DOCTOR'S RESIDENCE, PARLOR -- NIGHT
+text: Doctor Lancaster wrings his hands. His WIFE rocks nervously
+text: in a rocking chair. The CROWD outside ROARS as a bonfire
+text: lights up the curtained windows.
+text: The front door is POUNDED open. ANGRY MEN enter. Lancaster
+text: stands, lips quivering. He points insistently to a door.
+scene_heading: INT. DOCTOR'S RESIDENCE, MEDICAL ROOM -- NIGHT
+text: Angry men break in. Ichabod looks up.
+speaker_heading: ANGRY MAN
+dialog: Step aside, Constable. Step aside...
+text: Ichabod is shoved aside, spectacles knocked off.
+text: The group grasps the Crone. Masbath stands on his chair,
+text: clutching the ledger. Ichabod grabs one man.
+speaker_heading: ICHABOD
+dialog: What are you doing?
+text: The man slams Ichabod back.
+text: Magnification spectacles are crushed under foot.
+scene_heading: EXT. TOWN SQUARE -- NIGHT
+text: Angry men carry the corpse to a raging bonfire. The mob
+text: makes way. Steenwyck cheers them.
+scene_heading: FATHER STEENWYCK
+dialog: Let her burn! Let her burn!
+text: Ichabod comes out, followed by Young Masbath. The Crone's
+text: corpse is thrown in the fire. Cheers all around.
+text: At Ichabod's side, a man tries to grab the ledger Young
+text: Masbath holds. Young Masbath cries out, hanging on to the
+text: book. Ichabod joins the struggle.
+text: Katrina watches, emotions conflicting.
+text: Other men grab Ichabod. One punches Ichabod in the face.
+text: Katrina rides forward as Baltus calls for her to stop.
+text: Katrina leaps down, into the crowd, pulls men off Ichabod.
+speaker_heading: KATRINA
+dialog: Stop this! Leave them alone!
+text: A SHOT RINGS OUT. Chaos halts. Everyone turns, quieting.
+text: The men around Masbath and Ichabod turn to face Brom Bones.
+text: Brom holds a smoking pistol, flanked by Theodore and Glenn.
+speaker_heading: BROM
+dialog: Let them go
+dialog: (pointing)
+dialog: Are you going to beat an orphaned
+dialog: child, imbecile?
+text: Masbath is released, along with the ledger. Steenwyck moves
+text: forward, pushing people aside.
+scene_heading: FATHER STEENWYCK
+dialog: Are you Ichabod Crane's protector,
+dialog: Brom Bones?
+speaker_heading: BROM
+dialog: Only for the moment.
+scene_heading: FATHER STEENWYCK
+dialog: You side with him in this?
+speaker_heading: BROM
+dialog: No. I agree he has only made matters
+dialog: worse. But, that will change, if you
+dialog: listen.
+text: He trades with Theodore, pistol for a long rifle. Brom hefts
+text: the rifle, taking a round slug from his pocket.
+speaker_heading: BROM
+dialog: Theodore, Glenn and I offer to ride
+dialog: each day and night to watch over the
+dialog: Hollow. We will stalk the border of
+dialog: the Western Woods and haunt the
+text: Horseman for a change, with rifles
+dialog: like this... and slugs like this...
+text: Brom brings the slug to his lips, blows. It WHISTLES.
+speaker_heading: BROM
+text: Hollowed out and filled with powder.
+text: Brom smiles at Katrina, who watches unimpressed.
+speaker_heading: BROM
+dialog: Constable Crane is not the only one
+text: who fights with science on his side.
+speaker_heading: ICHABOD
+dialog: I fired upon the Horseman and the
+dialog: bullet did nothing.
+speaker_heading: BROM
+dialog: You must have missed your mark.
+speaker_heading: ICHABOD
+dialog: I hit him square.
+speaker_heading: BROM
+dialog: (to the crowd)
+dialog: I say... if the Horseman is solid
+dialog: enough to take the lives of our
+dialog: people, he's solid enough to feel
+dialog: this...
+text: Brom aims the rifle at a BARREL down the road. FIRES.
+text: PLUNK -- the barrel is hit -- EXPLODES. Smoke wafts.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: In bed, Ichabod is having unpleasant dreams once more.
+speaker_heading: FREAKISH WOMAN (v.o.)
+dialog: The night of the great storm, I saw
+dialog: her cross my windows.
+scene_heading: ICHABOD'S DREAM -- COURTROOM -- DAY
+text: Young Ichabod is seated beside Father, eyes tearful. We are
+text: back in the court where Mother stands trial.
+speaker_heading: FREAKISH WOMAN
+dialog: In the lightning, I did see her.
+dialog: (points to Mother)
+dialog: Her. Lady Crane... I will never
+dialog: forget it. The next moment, I found
+dialog: my infant son was dead, with the
+text: blood welt on his breast.
+text: The evil Third Man turns to a jury of TWELVE MEN.
+speaker_heading: THIRD MAN
+dialog: You have heard it. The blood welt
+dialog: is the mark of Satan's touch.
+text: As the crowd murmurs in fear, Young Ichabod looks to Father,
+text: who sits with hands clenched, emotionless.
+scene_heading: ICHABOD'S DREAM -- YOUNG ICHABOD'S HOME -- NIGHT
+text: In the quiet kitchen, Young Ichabod looks across the table.
+text: Father stares into his food.
+speaker_heading: YOUNG ICHABOD
+dialog: She was with me, father.
+speaker_heading: FATHER
+dialog: Nothing can be done against them.
+speaker_heading: YOUNG ICHABOD
+dialog: She was with me that night.
+text: Father doesn't even look up.
+scene_heading: ICHABOD'S DREAM -- CHURCH -- NIGHT
+text: Empty church. Young Ichabod carries a lantern past pews. A
+text: soldier is seated near the altar with a rifle.
+speaker_heading: YOUNG ICHABOD
+dialog: May I see her?
+text: The soldier exits through a white door. Young Ichabod waits,
+text: looking up at the vast church. The white door opens and the
+text: Third Man steps out.
+speaker_heading: THIRD MAN
+dialog: Go home.
+speaker_heading: YOUNG ICHABOD
+dialog: May I see my mother?
+speaker_heading: THIRD MAN
+dialog: You do not want to be here. Go home
+dialog: to your father.
+speaker_heading: YOUNG ICHABOD
+dialog: She did not do it... please listen...
+speaker_heading: THIRD MAN
+text: She is guilty.
+speaker_heading: YOUNG ICHABOD
+dialog: No, sir, please... she is innocent...
+speaker_heading: THIRD MAN
+dialog: She has confessed.
+speaker_heading: YOUNG ICHABOD
+dialog: No.
+speaker_heading: THIRD MAN
+dialog: She has admitted to her evil and
+dialog: signed a written confession. Do
+dialog: you know what confession is?
+dialog: (off Ichabod's nod)
+dialog: All that is left for you now is to
+dialog: pray for her soul.
+text: The Third Man leaves through the white door.
+scene_heading: ICHABOD'S DREAM -- YOUNG ICHABOD'S BEDROOM -- MORNING
+text: Young Ichabod buttons his shirt.
+scene_heading: ICHABOD'S DREAM -- YOUNG ICHABOD'S YARD -- MORNING
+text: Young Ichabod comes out, looks to the lawn, not
+text: understanding. Father loads a wagon full of belongings.
+speaker_heading: FATHER
+dialog: We are leaving.
+dialog: (long pause)
+text: She has gone away.
+text: Realization comes to Young Ichabod. He runs, away across the
+text: lawn as Father calls after him.
+scene_heading: ICHABOD'S DREAM -- FOREST TRAIL -- MORNING
+text: Young Ichabod runs, weeping.
+speaker_heading: THIRD MAN (v.o.)
+dialog: She has confessed.
+scene_heading: ICHABOD'S DREAM -- CHURCH -- MORNING
+text: Empty. Doors are thrown open and Young Ichabod enters. He
+text: goes down the aisle, towards the white door.
+speaker_heading: THIRD MAN (v.o.)
+dialog: She has admitted to her evil and
+dialog: signed a written confession.
+speaker_heading: YOUNG ICHABOD
+dialog: Mother.
+scene_heading: ICHABOD'S DREAM -- CHURCH, BEYOND WHITE DOOR -- MORNING
+text: Young Ichabod enters, halting. The room contains TORTURE
+text: DEVICES: iron cuffs, thumb screws, knifes and needles.
+speaker_heading: THIRD MAN (v.o.)
+dialog: Do you know what confession is?
+text: He walks, numb, eyes locked forward...
+text: In the corner is a SPIKED CHAIR, adorned with sharp iron
+text: spikes. Hundreds of spikes. It is fitted with straps for
+dialog: holding down the "accused."
+text: Tears stream down Young Ichabod's face. He kneels, hands on
+text: the spikes of the chair, pressing hard.
+text: As he sobs, blood runs down from his hands.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: In bed, Ichabod opens tear filled eyes. He sits up, bringing
+text: his trembling hands to wipe his cheeks. His hands trail
+text: blood. He looks to them...
+text: The old scars are bleeding.
+scene_heading: INT. VAN TASSEL HOUSE, SITTING ROOM -- NIGHT
+text: Katrina comes to the door. Ichabod is seated by the fire,
+text: eyes bleary, palms wrapped with bloodied cloth.
+speaker_heading: KATRINA
+dialog: Constable Crane?
+text: Katrina comes beside Ichabod's chair.
+speaker_heading: ICHABOD
+dialog: Allow me some time. I have spent
+text: every hour in the company of others.
+dialog: I need to be alone.
+speaker_heading: KATRINA
+dialog: What troubles you?
+text: She moves in front. Ichabod gets up and crosses to sit
+text: facing away. Katrina takes the chair he deserted.
+speaker_heading: KATRINA
+dialog: The things I said to you before...
+dialog: I was wrong to say them.
+speaker_heading: ICHABOD
+dialog: No, actually, you were not. Every
+dialog: word you spoke had truth in it.
+speaker_heading: KATRINA
+dialog: What has happened?
+text: Ichabod sits silent, puts his head back, eyes closed.
+speaker_heading: ICHABOD
+dialog: Lady Van Tassel... she is your
+dialog: stepmother, isn't she? She bears so
+dialog: little resemblance.
+speaker_heading: KATRINA
+dialog: What?
+speaker_heading: ICHABOD
+dialog: She is not your birth mother, is she?
+speaker_heading: KATRINA
+dialog: No, but... why do you ask that?
+speaker_heading: ICHABOD
+dialog: What happened to your mother? Is she
+dialog: still alive?
+speaker_heading: KATRINA
+dialog: She died. Her lungs were diseased...
+dialog: two years ago. What is this about?
+speaker_heading: ICHABOD
+dialog: Memories have come back. I had them
+dialog: forgotten, and wish I could forget
+dialog: them again... but they are here now.
+dialog: (pause)
+dialog: Lord, how I hate this place.
+speaker_heading: KATRINA
+dialog: If you want me to go, I will. Do you
+dialog: want me to leave?
+speaker_heading: ICHABOD
+dialog: I... I do not know. I no longer know
+dialog: what I think or what I feel.
+text: Katrina walks to him. She touches his back.
+speaker_heading: KATRINA
+dialog: Why are you so afraid of that? Is
+dialog: there truly such harm in uncertainty?
+text: She kneels, smiles a little for him. She reaches to touch
+text: his face, holds his head in her hands. Leans to kiss him.
+text: He rests his head against hers, weary, putting his arms
+text: around her. They kiss passionately.
+scene_heading: EXT. THE HOLLOW -- EARLY MORNING
+text: Dawn light, is visible over forests pounded by rain.
+scene_heading: INT. VAN TASSEL HOUSE, SECOND FLOOR HALL -- MORNING
+text: Ichabod exits his room, satchel in hand. He looks down the
+text: hall, then steps back in to take a white rose from a vase.
+text: AROUND A CORNER, Ichabod comes to the last door. He bends,
+text: slipping the white rose under the crack of the door.
+scene_heading: EXT. VAN TASSEL HOUSE, FRONT PORCH -- MORNING
+text: Rain. Ichabod comes out. Across the lawn, Young Masbath is
+text: bringing the horses.
+speaker_heading: LADY VAN TASSEL (o.s.)
+dialog: Good morrow, Constable.
+text: Ichabod turns to see Lady Van Tassel in a chair, sewing.
+speaker_heading: LADY VAN TASSEL
+dialog: Returning to the Western Woods?
+speaker_heading: ICHABOD
+dialog: Yes, actually.
+speaker_heading: LADY VAN TASSEL
+dialog: Use caution.
+speaker_heading: ICHABOD
+dialog: (nods, studies her)
+dialog: Do you know... I think those are the
+dialog: first words I have heard from you my
+dialog: entire time here.
+speaker_heading: LADY VAN TASSEL
+dialog: As my husband says, a wife should be
+text: always like an echo, and at the same
+text: time, quite unlike an echo.
+dialog: (off Ichabod's confusion)
+text: Like an echo, she should speak only
+dialog: when spoken to, and unlike an echo,
+dialog: should never try to have the last
+dialog: word, or, at least that is what he
+dialog: believes.
+text: Baltus comes out the door, irritable, skillet in hand.
+speaker_heading: BALTUS
+dialog: Constable... did you notice anything
+dialog: out of the ordinary during the night?
+text: Ichabod eyes the skillet, ill at ease, trying not to be.
+speaker_heading: ICHABOD
+dialog: Um... I... I did not... no. Why?
+speaker_heading: BALTUS
+dialog: Sarah has gone missing... my servant
+dialog: girl. Her things are gone. Damn it.
+dialog: She has joined the migration out of
+dialog: town.
+dialog: (to Lady Van Tassel)
+dialog: What about breakfast, woman? Or, am
+dialog: I to starve to death?
+text: Lady Van Tassel gets up and goes in, taking the skillet.
+speaker_heading: ICHABOD
+dialog: I should be going... good day to you.
+text: Ichabod heads towards Young Masbath. Baltus watches from the
+text: porch, disgruntled. He goes in.
+scene_heading: EXT. WESTERN WOODS -- DAY
+text: Heavy rain. Ichabod and Young Masbath ride side by side.
+speaker_heading: YOUNG MASBATH
+dialog: If the Crone's wound bled hard, that
+dialog: means she was not killed by the
+dialog: Hessian. Someone only tried to make
+dialog: it look that way.
+speaker_heading: ICHABOD
+dialog: You grow sharper by the minute, little
+dialog: man. It boggles my mind, but I begin
+dialog: to prefer your company over all others.
+speaker_heading: YOUNG MASBATH
+dialog: Well... I'm one of the few people who
+dialog: likes you.
+speaker_heading: ICHABOD
+dialog: (laughs)
+dialog: True enough.
+speaker_heading: YOUNG MASBATH
+dialog: Then, who murdered the Old Crone? And
+dialog: why?
+speaker_heading: ICHABOD
+dialog: Good questions, deserving answers, of
+dialog: which we are in short supply.
+text: A SOUND is HEARD. Ichabod looks back, then to Masbath.
+speaker_heading: ICHABOD
+text: Quicken pace.
+text: Ichabod rides faster. Young Masbath keeps up.
+text: FURTHER ON, they charge over a hill. Ichabod halts Gunpowder
+text: and climbs clumsily off.
+speaker_heading: ICHABOD
+dialog: Ride on.
+text: Young Masbath obeys. Ichabod takes out his pistol and wades
+text: into forest growth, backtracking.
+text: INSIDE THE FOREST, Ichabod bounds through underbrush, low. A
+text: HORSE is HEARD SNORTING. He pushes through branches...
+text: Moving behind a FIGURE IN A GREY CLOAK on horseback.
+speaker_heading: ICHABOD
+dialog: Halt and turn. I have a pistol aimed
+dialog: at your head.
+text: The figure stops, pushes off the cloak hood. Katrina.
+speaker_heading: KATRINA
+dialog: It is only me.
+speaker_heading: ICHABOD
+dialog: Katrina. Why do you follow?
+speaker_heading: KATRINA
+dialog: I apologize if I worried you.
+speaker_heading: ICHABOD
+dialog: A woman should not be out alone in
+dialog: these woods.
+speaker_heading: KATRINA
+dialog: But, I am not alone, am I? I only
+dialog: wished to see what you were up to,
+dialog: and...
+dialog: (takes out WHITE ROSE)
+dialog: To thank you.
+text: Ichabod softens, but doesn't want to.
+speaker_heading: ICHABOD
+dialog: Come along.
+scene_heading: EXT. WESTERN WOODS, TREE OF THE DEAD -- DAY
+text: Raining still. Ichabod, Masbath and Katrina come into a
+text: clearing, mouths falling open at the sight of...
+text: A monstrously huge TREE OF THE DEAD, at the clearing's
+text: center, with branches reaching far and wide, knotted and
+text: gross, like agony captured in wood sculpture.
+text: Ichabod dismounts, crossing a line beyond which grass and
+text: weeds will not grow. Young Masbath and Katrina dismount.
+speaker_heading: YOUNG MASBATH
+dialog: You were right... it does draw
+text: attention to itself.
+text: Ichabod stares up into the endless, dead canopy of branches.
+text: He circles the incredibly wide trunk.
+text: There's a VERTICAL WOUND in the bark, as if the tree once had
+text: a terrible vertical in it, now partially healed and
+text: disgustingly scarred. Ichabod approaches.
+text: He feels the mushy scar, picking at its scabs till much sap
+text: begins to trickle. It is red and Ichabod fingers it.
+speaker_heading: ICHABOD
+dialog: Blood.
+speaker_heading: KATRINA
+dialog: What did you say?
+text: Ichabod goes to where Katrina and Masbath wait with the
+text: horses, digs in a saddle bag for a hand axe.
+speaker_heading: YOUNG MASBATH
+dialog: What is it?
+speaker_heading: ICHABOD
+dialog: Stay back.
+text: At the trunk, Ichabod thumps the flat end of the axe against
+text: the suture. It sounds hollow. Ichabod begins to chop.
+text: He pulls away loose bark. The tree drips more blood and a
+text: clear goo. Ichabod uses both hands on the axe to hack at the
+text: festering suture.
+speaker_heading: KATRINA
+dialog: What are you doing?
+speaker_heading: ICHABOD
+dialog: Just... keep where you are.
+text: Ignoring, Young Masbath moves closer. Ichabod keeps
+text: chopping, then grips a large, loose flap of wood, trying to
+text: bend it. It's not easy. Ichabod struggles.
+text: Katrina follows Masbath's slow advance.
+text: Ichabod's pulling... the flap suddenly gives, revealing a
+text: blood-soaked, wide-eyed, gap-mouthed HUMAN HEAD.
+text: Ichabod recoils. Behind him, Katrina stifles a scream,
+text: taking Young Masbath in her arms to keep him from looking.
+text: It is Philipse's head, hanging off the trunk flap, held by
+text: roots grown around and into the flesh.
+text: Ichabod reapproaches, back of his hand to his mouth.
+text: FOUR other SEVERED, DECAYING HEADS are held by ingrown roots
+text: within the dewy innards.
+speaker_heading: KATRINA
+dialog: My God... what has happened?
+speaker_heading: ICHABOD
+dialog: He... he tries to take the heads...
+dialog: they will not pass.
+text: He looks to the branches towering above.
+speaker_heading: ICHABOD
+dialog: Must be some sort of gateway. But,
+dialog: why this place... ?
+speaker_heading: YOUNG MASBATH
+dialog: We should go.
+speaker_heading: ICHABOD
+dialog: Why this tree?
+text: Ichabod begins looking at the ground, moving around the tree.
+text: He gets to his knees, pushing mud away.
+text: Uncovering a flush HEADSTONE carved with "666."
+speaker_heading: ICHABOD
+dialog: (to himself)
+dialog: "Climb down to the Horseman's
+dialog: soulless place."
+dialog: (to Masbath)
+dialog: Bring the shovel.
+scene_heading: EXT. WESTERN WOODS, TREE OF THE DEAD -- LATER DAY
+text: Rain. Young Masbath's crouched, muddy, rifle across his
+text: knees. He's watching the tree.
+text: Behind him, Katrina climbs out of the shallow grave near a
+text: pile of mud. Ichabod hands up the shovel.
+speaker_heading: KATRINA
+dialog: Masbath, we've found it.
+text: Young Masbath goes to the grave. Ichabod pulls at thick
+text: burlap cloth, straining as it comes away.
+text: Ichabod looks down, disbelieving.
+speaker_heading: ICHABOD
+dialog: It cannot be true.
+text: WE SEE: roots have gripped the Horseman's bones and tattered
+text: uniform. The skeleton is all there -- except the skull.
+speaker_heading: ICHABOD
+dialog: Why is it every grave I open holds
+dialog: a new mystery inside?
+speaker_heading: KATRINA
+text: The skull is gone.
+speaker_heading: ICHABOD
+dialog: Yes. I did notice that, thank you.
+text: Ichabod climbs out, weary in body and spirit. LIGHTNING.
+text: THUNDER. He stares at the bones.
+speaker_heading: ICHABOD
+text: This is his silent shrieking... and
+text: his desire, to reclaim his head.
+text: Ichabod turns, looking to the bordering forest.
+speaker_heading: ICHABOD
+dialog: "He who holds fast the Horseman's
+dialog: desire will guide his reaping hand."
+dialog: (pause)
+text: Someone controls the Horseman.
+speaker_heading: KATRINA (o.s.)
+dialog: Ichabod!
+text: Ichabod turns, looks...
+text: Katrina and Young Masbath back away, because the ROOTS in the
+text: grave are ALIVE, further entwining around remains.
+text: Ichabod spins to the twisted tree...
+text: The vertical SUTURE SEETHES, pulling inwards... sucking
+text: Philipse's head back in and closing, bubbling.
+text: Ichabod bounds over grave dirt pile, hastening Katrina and
+text: Young Masbath along as he flees.
+text: At the tree, the suture swells.
+text: Ichabod, Katrina and Young Masbath pass where their freaking
+text: horses are tied to a fallen trunk, heading for cover.
+text: A RUMBLING is HEARD from the twisted tree, which suddenly
+text: BURSTS wide, spitting smoldering cinders.
+text: At the tree line, Ichabod, Katrina and Young Masbath cower,
+text: looking back.
+text: From the tree wound, a glow brightens, till the Headless
+text: Horseman and Daredevil EXPLODE into existence...
+text: They hit the ground running.
+text: Ichabod watches the Horseman ride away with bolts of
+text: LIGHTNING STRIKING the GROUND BEHIND.
+text: The Horseman disappears in the forest.
+speaker_heading: ICHABOD
+dialog: His next victim is chosen!
+dialog: (to Masbath)
+dialog: Give me distance, then guide her
+text: back to the Hollow.
+text: Ichabod runs towards the horses.
+speaker_heading: YOUNG MASBATH
+dialog: Constable!
+scene_heading: EXT. WESTERN WOODS -- DAY
+text: The Horseman rips past on Daredevil.
+scene_heading: EXT. BEHIND IN WESTERN WOODS -- DAY
+text: Ichabod rides as fast as Gunpowder is able.
+scene_heading: INT. KILLIAN'S HOME, KITCHEN -- DAY
+text: Small home. Killian, Thomas and Beth have finished supper.
+text: Beth clears plates as Killian picks his teeth with a knife.
+speaker_heading: THOMAS
+dialog: May I be excused, father?
+speaker_heading: KILLIAN
+dialog: Do you deserve to be?
+speaker_heading: THIRD MAN
+dialog: (shyly)
+dialog: I think so.
+speaker_heading: KILLIAN
+dialog: (smiles)
+dialog: Then, go.
+text: Thomas gets down from his chair. He goes to the fireplace to
+text: light a tallow wick, which he takes to the next room.
+scene_heading: INT. KILLIAN'S HOME, WHITE ROOM -- DAY
+text: Thomas plops on the floor and lights his MAGIC LANTERN: a
+text: lantern with an outer sleeve of glass painted with
+text: silhouettes of lions and monsters.
+text: Thomas turns the lantern and looks to the walls where the
+text: creatures, shadows are thrown. He roars for them, imagining
+dialog: them real and having a grand time.
+scene_heading: INT. KILLIAN'S HOME, KITCHEN -- DAY
+text: Beth comes for more dishes.
+speaker_heading: BETH
+dialog: Don't pick teeth. You teach Thomas
+dialog: bad habits.
+text: Killian pulls her to him, playful.
+speaker_heading: KILLIAN
+dialog: I am a bad habit. There's nothing
+dialog: for it.
+speaker_heading: BETH
+dialog: (kisses him)
+dialog: No one knows better than I.
+scene_heading: INT. KILLIAN'S HOME, WHITE ROOM -- DAY
+text: Thomas continues his fun, shadow animals circling him.
+text: In the shifting light, a baby spider comes from a crack in
+text: the wall. Then, another spider skitters out. More follow.
+scene_heading: EXT. FORESTS -- DAY
+text: A black horse runs, hooves pounding the ground. THUNDER is
+text: HEARD. The horse slows and stops... it is Brom's horse, with
+text: Brom aboard. Brom looks skyward.
+text: The storm harshens, roaring through the trees. Distant
+text: HOOFBEATS can be HEARD. POUNDING.
+text: Brom takes his rifle off his shoulder. The HOOFBEATS grow
+text: LOUDER and PASS, far away. Brom turns in the saddle and
+text: WHISTLES. He kicks his horse and rides.
+scene_heading: INT. KILLIAN'S HOME, WHITE ROOM -- DAY
+text: Thomas still watches shadow beasts, but sees something else.
+text: He goes to the crack where hundreds of spiders flee all
+text: directions. Thomas is amused.
+scene_heading: INT. KILLIAN'S HOME, KITCHEN -- DAY
+text: Behind Killian, mantelpiece stones pulse, breathing almost
+text: imperceptibly. Demonic faces form, then disappear and reform
+text: again, shifting. WIND HOWLS.
+scene_heading: INT. KILLIAN'S HOME, WHITE ROOM -- DAY
+text: Beth enters, looking at Thomas.
+speaker_heading: BETH
+dialog: What are you doing there?
+text: The magic lantern stops spinning. Shadow creatures freeze.
+scene_heading: INT. KILLIAN'S HOME, KITCHEN -- DAY
+text: The ENTIRE HOUSE CREAKS. Killian looks up. CREAKING STOPS.
+text: The HOWLING WIND is LOUD.
+scene_heading: INT. KILLIAN'S HOME, THE WHITE ROOM -- DAY
+text: Beth comes to Thomas' side as he points.
+speaker_heading: THOMAS
+dialog: Spiders.
+text: Beth bends to see the swarming spiders. She looks up,
+text: noticing the FEROCITY of the WIND.
+scene_heading: INT. KILLIAN'S HOME, KITCHEN -- DAY
+text: Killian stands, looking up. The HOUSE CREAKS again, then
+text: suddenly the WIND CEASES. Silence.
+speaker_heading: KILLIAN
+dialog: Beth...
+scene_heading: INT. KILLIAN'S HOME, THE WHITE ROOM -- DAY
+text: Beth picks up Thomas. The magic lantern creatures begin
+text: spinning anew, all around.
+scene_heading: INT. KILLIAN'S HOME, KITCHEN -- DAY
+text: With a ROAR, the fire flares. Killian looks.
+text: WHHOOOSH the fire shoots up the fireplace. Gone.
+text: Behind Killian, the DOOR SPLINTERS INWARDS. The Horseman
+text: steps in, a battle axe in each hand. WIND BLASTS...
+text: The DOOR to the other room SLAMS.
+text: Killian grabs a kitchen chair and hurls it at the Horseman.
+text: The Horseman swings, smashing it aside.
+speaker_heading: KILLIAN
+dialog: Beth... run!
+scene_heading: INT. KILLIAN'S HOME, WHITE ROOM -- DAY
+text: Beth hugs Thomas to her as she backs away.
+speaker_heading: KILLIAN (o.s.)
+dialog: (from kitchen)
+dialog: Get out!
+scene_heading: INT. KILLIAN'S HOME, KITCHEN -- DAY
+text: Killian grabs an iron skewer from the fireplace, swings it to
+text: fend off a blow from the Horseman.
+text: The Horseman swings the other axe. Killian ducks. The axe
+text: cracks fireplace stone, throwing sparks.
+text: Killian lunges, jamming the skewer into the Horseman.
+text: The skewer comes through the Horseman's back. The Horseman
+text: swipes with the flat of one axe -- pounding Killian aside.
+text: Killian hits the wall, bashing his head. Hits the floor.
+scene_heading: INT. KILLIAN'S HOME, WHITE ROOM -- DAY
+text: Beth kicks a carpet to reveal a trap door.
+scene_heading: INT. KILLIAN'S HOME, KITCHEN -- DAY
+text: The Horseman pulls the skewer out of his body, throws it. He
+text: goes to lift Killian by the hair with one hand, brings back
+dialog: the axe in the other...
+scene_heading: INT. KILLIAN'S HOME, WHITE ROOM -- DAY
+text: At the trap door, Beth lowers Thomas to stairs leading to the
+text: cellar. Thomas is crying.
+speaker_heading: BETH
+dialog: Don't let him get you.
+speaker_heading: THOMAS
+dialog: Mommy...
+speaker_heading: BETH
+dialog: You hide now... go...
+text: Beth closes the trap door, frantically replacing the carpet.
+text: The room's door flies open and the Horseman strides in,
+text: carrying Killian's severed head. Beth shrieks.
+text: The Horseman steps forward, knocks over the magic lantern.
+scene_heading: INT. KILLIAN'S HOME, CELLAR -- DAY
+text: Beth's SCREAMS are abruptly CUT OFF. Her BODY is HEARD
+text: HITTING the floor above. Thomas crosses the cellar,
+text: stumbles. He scurries into the shelter of a wheelbarrow
+text: propped against the wall. FOOTSTEPS are HEARD.
+scene_heading: INT. KILLIAN'S HOME, THE WHITE ROOM -- DAY
+text: The Horseman's hands place Killian's and Beth's heads in a
+text: sack, cinching the sack shut.
+scene_heading: INT. KILLIAN'S HOME, KITCHEN -- DAY
+text: The Headless Horseman enters, bends to retrieve the battle
+text: axe he left. He stands. Pause.
+scene_heading: INT. KILLIAN'S HOME, CELLAR -- DAY
+text: Thomas' trembling hands pull the wheelbarrow closer. QUIET.
+text: He tries to control his sobbing.
+scene_heading: INT. KILLIAN'S HOME, KITCHEN -- DAY
+text: The Horseman turns, falls to his knees. He starts to chop at
+text: the floor with both axes. CHOPping, CHOPping, CHOPping...
+dialog: making quick work of it...
+scene_heading: INT. KILLIAN'S HOME, CELLAR -- DAY
+text: A hole appears in the ceiling as debris falls.
+text: Thomas looks up, terrified. He gets up to run away...
+text: The Horseman's arm shoves through above, grasping Thomas and
+text: yanking him up.
+scene_heading: EXT. KILLIAN'S FARM -- DAY
+text: Brom rides from the forest, charging across Killian's field.
+text: At Killian's house, Daredevil rides up as the Headless
+text: Horseman walks out with his sack of heads. The Horseman ties
+text: the sack to the saddle and leaps up.
+text: Brom puts his reins in his mouth, raising his rifle.
+text: The Horseman heads away, past the barn, as Brom gains.
+dialog: Brom aims... FIRES!
+text: BOOM -- the slug EXPLODES, blowing the Horseman off
+text: Daredevil. Daredevil keeps going. The Horseman's smoldering
+text: body is left "face down."
+text: Brom halts his horse. He climbs down, pleased.
+text: The Horseman moves.
+text: Brom backs away, satisfaction diminishing.
+text: The Horseman gets on his knees.
+text: Brom falls to one knee, begins reloading. He fills the gun
+text: from his powder horn.
+text: The Horseman stands, unsheathes his sword and turns. The
+text: blast has blown apart his uniform at the chest and shoulder,
+text: exposing rotten flesh and maggot-infested muscle.
+text: Brom readies his ramrod, jamming powder in the barrel.
+text: The Horseman charges.
+text: Brom stands, pulling out the ramrod. The Horseman is on him.
+text: Brom swings the rifle, blocking. Sparks fly.
+text: The battle is on, with Brom fending off the Horseman's sword
+text: with the gun -- CLANK -- CLANK -- CLANK.
+text: ACROSS THE FIELD, Ichabod and Gunpowder break into the open.
+text: UP THE FIELD, the Horseman makes a backhanded swing. Brom
+text: goes down, his rifle sent flying.
+text: Brom rolls to avoid as the Horseman slashes.
+text: Brom flees. The Horseman pulls and throws a knife...
+text: THWAP -- the knife imbeds in Brom's thigh.
+text: The Horseman runs towards Brom.
+text: Ichabod closes in, pulling an unlit lantern off his saddle.
+text: Brom tries to get up, bends to extract the knife.
+text: The Horseman, mid-run, changes his sword grip, blade down.
+text: He plants one foot on Brom's back, raising his sword, about
+dialog: to skewer...
+text: Ichabod arrives full gallop, SMASHES the lantern into the
+text: Horseman -- knocking the Horseman off Brom.
+text: AT THE EDGE OF THE FOREST, Theodore and Glen arrive on
+text: horseback. They hold a moment, watching.
+text: Brom runs, limping, to the barn, goal in sight: farm
+text: implements propped there. Brom grabs SCYTHES with long
+text: curved blades, one in per hand.
+text: The Horseman rises.
+text: Ichabod turns Gunpowder and leaps off, runs to Brom.
+text: The Horseman moves towards them, hefting a battle axe in his
+text: free hand. Ichabod steps up, pistol aimed, furious.
+speaker_heading: ICHABOD
+dialog: For what it's worth...
+text: FIRES -- the bullet rips through the Horseman's stomach to
+text: reveal putrid innards as he keeps advancing.
+text: At the forest, Theodore looks to Glenn, turns and flees.
+text: Brom steps up, scythes ready. He and the Horseman go at it.
+text: Brom blocks axe and sword, catching and deflecting blows.
+text: At the forest, Glenn follows Theodore away.
+text: Ichabod grabs a long handled SICKLE.
+text: Brom swings the scythes. The Horseman avoids.
+text: Ichabod moves to the side, looking for an opening. He swings
+text: the sickle. The Horseman blocks.
+text: The Horseman battles both at once, catching blows...
+text: countering every strike, METAL RINGING.
+text: Brom catches the Horseman's sword in one scythe, holding it
+text: off. Catches the axe handle in the other scythe.
+text: The Horseman flatfoot KICKS Brom's chest, sending him down.
+text: Ichabod swings the sickle blade...
+text: Hits the Horseman, the blade embedding to the hilt.
+text: The Horseman drops his axe and grasps the sickle, jerking...
+text: The sickle handle SLAMS Ichabod's, knocking him away.
+text: Ichabod crawls, tries to shake off the blow.
+text: He looks up. The Horseman staggers, spastically trying to
+text: pull the blade from his body.
+text: Brom limps to Ichabod, yanks him to his feet.
+speaker_heading: BROM
+dialog: We cannot win this.
+text: They head towards the forest.
+text: Behind, the Horseman extracts the sickle, throws it. He
+text: strides after them, picks up his axe on the way.
+scene_heading: EXT. RIVERBANK -- DAY
+text: Ichabod and Brom stumble down a hillside. Brom points.
+speaker_heading: BROM
+dialog: There...
+text: They run to a DOCK at the edge of a wide, rapid river. They
+text: jump into a FLAT BOAT barge.
+speaker_heading: BROM
+dialog: Go to the front and guide it.
+text: Ichabod goes. Brom uses a scythe to slash the ropes.
+text: Ichabod picks up a GUIDE POLE. The barge lurches, set free.
+text: Ichabod struggles to push the boat out. it moves swiftly,
+text: caught in rain swollen current.
+text: Brom looks back. No Horseman. He leaves the scythe and
+text: moves to the front, hefting another pole to help guide.
+speaker_heading: BROM
+dialog: Let's see him catch us now.
+text: Ichabod looks to the shore. Horror.
+speaker_heading: ICHABOD
+dialog: Look.
+text: LIGHTNING ILLUMINATES -- ahead, the Horseman stands on the
+text: bank with Axe and sword. Daredevil near.
+speaker_heading: BROM
+dialog: We'll pass right by the son of a bitch.
+text: Ichabod and Brom push with the poles, trying for speed.
+text: At the bank, the Horseman walks directly to the water...
+text: Just as he takes a step onto the water, the rain churned
+text: surface TRANSFORMS -- instantly BECOMING a SHEET of ICE...
+text: SPREADING and supporting the Horseman as he advances.
+text: ICE SHOOTS OUT ahead of him, towards a point in the river
+text: where it will intercept the barge.
+speaker_heading: BROM
+dialog: My Christ...
+text: The Horseman's ICE BRIDGE engulfs the barge, HALTING IT.
+text: Ichabod and Brom are thrown. The barge is trapped.
+text: The Horseman nears.
+text: Brom runs to the rear to retrieve his scythe. Ichabod holds
+text: up the only weapon he has, his guide pole.
+text: The Horseman steps on board. Ichabod swings. The Horseman's
+text: axe cracks the pole in half...
+text: The Horseman thrusts with sword -- into Ichabod's chest --
+text: clean through. It SIZZLES as Ichabod screams.
+text: The Horseman lifts Ichabod up, flips him, pulling the sword
+text: out as Ichabod goes...
+text: SMASHING through the ice and under.
+text: UNDERWATER: water carries Ichabod, slams him against ice
+text: above. He's pulled down by undertow.
+text: ABOVE WATER, beyond the edge of the ice bridge: Ichabod comes
+text: up, gasping, choking on rain.
+text: He treads water, looking to the barge.
+scene_heading: ICHABOD'S P.O.V. -- FROM THE WATER
+text: Aboard the barge, the Horseman cuts Brom down... stands over
+text: him, chopping with sword. Our VIEW grows BLURRY, and...
+speaker_heading: FADES OUT/IN
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: Candlelight. Ichabod, shirtless, feverish, opens his eyes.
+text: The wound at the top of his chest is raw. Katrina inserts a
+text: needle in the skin around it.
+speaker_heading: KATRINA
+dialog: Lay still, Ichabod. Do not move.
+speaker_heading: LADY VAN TASSEL
+text: Doctor, he is awake.
+text: Ichabod tries to sit. Pain stops him. Lady Van Tassel helps
+text: bleed the wound with the needle and a tube leading to a
+text: SUCTION JAR of blood.
+speaker_heading: ICHABOD
+dialog: (barely a voice)
+dialog: What... what are you doing... ?
+speaker_heading: KATRINA
+dialog: I'm drawing bad blood from the wound.
+text: Doctor Lancaster comes to the bed.
+speaker_heading: DOCTOR LANCASTER
+dialog: Keep still, Constable. You were
+dialog: half-drowned when they found you.
+speaker_heading: ICHABOD
+dialog: ... Brom Bones...
+speaker_heading: DOCTOR LANCASTER
+dialog: He is dead. You would be also, if
+dialog: your wound had not somehow shut.
+speaker_heading: ICHABOD
+dialog: Bring Young Masbath here.
+speaker_heading: DOCTOR LANCASTER
+dialog: You need to sleep.
+speaker_heading: ICHABOD
+dialog: Bring him.
+speaker_heading: DOCTOR LANCASTER
+dialog: You need rest.
+text: Ichabod gives up, closes his eyes. Katrina, needle in one
+text: hand, brings her other hand to hold Ichabod's.
+text: Blood drips into the suction jar.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- LATER NIGHT
+text: Ichabod is soundly asleep. Across the room, Katrina is at
+text: his work table. Ichabod stirs. Katrina looks to him.
+text: Once she is satisfied he will not wake, she returns to what
+text: she was doing, turning a page. She is reading his ledger.
+scene_heading: EXT. SERVANT'S QUARTER'S, MASBATH'S ROOM -- NIGHT
+text: Young Masbath lies awake. A glint of light crosses the
+text: window. Masbath looks to it, gets up, peers out.
+text: THROUGH THE WINDOW, he can see the Van Tassel Manor House in
+text: the distance. Lantern LIGHT crosses the lawn.
+scene_heading: EXT. VAN TASSEL ESTATE, ORCHARD -- NIGHT
+text: The lantern light moves through the orchard, away from the
+dialog: house. We cannot make out the person.
+text: Elsewhere, Young Masbath runs in pursuit. He hides against
+text: one tree, leans to look...
+text: The light enters forest. Young Masbath follows.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- MORNING
+text: Ichabod's hurting. Masbath helps with a shirt.
+speaker_heading: YOUNG MASBATH
+dialog: Someone left last night. Looked
+text: like they headed to the square, but
+dialog: I lost them in the forest.
+speaker_heading: ICHABOD
+dialog: Man or woman?
+speaker_heading: YOUNG MASBATH
+dialog: All I saw was their lantern.
+speaker_heading: ICHABOD
+dialog: Business, best hidden is hidden best
+dialog: at night.
+text: Ichabod goes to his work table, organizing his satchel.
+speaker_heading: YOUNG MASBATH
+dialog: If someone has the Horseman's skull...
+dialog: if they control the Horseman, then why
+dialog: haven't they sent him for your head
+dialog: yet?
+speaker_heading: ICHABOD
+dialog: Because, I serve a fine purpose alive.
+dialog: It is perfection for our murderer if I
+dialog: return to New York City with nothing
+text: more than tales of a galloping ghoul.
+dialog: (pause)
+dialog: We must uncover the reason these
+dialog: victims were targeted. What was taken
+dialog: from them... other than their lives?
+dialog: Who benefits by their deaths?
+text: Ichabod fumbles the bottle of white powder.
+text: It bounces, cork popping out... rolls under the bed.
+speaker_heading: ICHABOD
+dialog: Damn it.
+text: Ichabod kneels, pained. A trail of the blood-detecting
+text: powder has spilled. The bottle is out of reach.
+speaker_heading: YOUNG MASBATH
+dialog: I'll get it.
+text: Young Masbath gets down, ready to crawl for it, but Ichabod
+text: stops him, peering under.
+speaker_heading: ICHABOD
+dialog: Wait...
+text: Far under, near the bottle, some powder is bubbling.
+text: Ichabod moves to the end of the bed and lifts, in pain.
+text: Young Masbath helps. They drag the bed to one side.
+text: Under the bed: a Satanic PENTAGRAM has been DRAWN IN BLOOD.
+text: Ichabod stares, trying to grasp the implication. Masbath is
+text: about to speak, but Ichabod puts a finger to his lips.
+text: Ichabod moves to lock the door.
+speaker_heading: YOUNG MASBATH
+dialog: (whispers)
+dialog: Who did this?
+text: Ichabod does not answer. He picks up a wash basin and dumps
+text: the water to wash the Pentagram away.
+scene_heading: EXT. TOWN SQUARE/CHURCH -- DAY
+text: WAGONS, HORSES and TOWNSPEOPLE swarm. A CROWD loots the
+text: town's general store. Provisions are passed along man to man
+text: and loaded on wheelbarrows.
+text: All up and down the long straight road, home owners board up
+text: windows with lumber.
+text: Ichabod and Young Masbath ride, passing many angry faces.
+speaker_heading: ICHABOD
+text: Panic has set in.
+text: They stop, tying their horses and climbing stairs to the door
+text: of the "NOTARY." Ichabod looks off...
+text: DOWN THE ROAD, at the far end, people head to the church.
+dialog: Much activity there as well.
+speaker_heading: ICHABOD
+dialog: Sanctuary. Or, so they hope.
+text: Families put up tents all around the church within the
+text: bordering wrought-iron fence. Supplies abound.
+text: People work to build and erect massive wooden crosses.
+scene_heading: INT. NOTARY PUBLIC, HARDENBROOK'S OFFICES -- DAY
+text: Tidy room. Young Masbath watches Ichabod hand a slip of
+text: paper to the elderly Notary, Hardenbrook.
+speaker_heading: ICHABOD
+dialog: Do you have these persons' wills?
+speaker_heading: HARDENBROOK
+dialog: I have everything... last testaments...
+dialog: birth certificates, death certificates...
+dialog: deeds.
+speaker_heading: ICHABOD
+dialog: Yes, sir... but, do you have these?
+text: Hardenbrook studies the paper with his one good eye.
+speaker_heading: HARDENBROOK
+dialog: Certainly... certainly.
+text: Hardenbrook nods, handing the list back, grinning. Ichabod
+text: stands waiting. Hardenbrook is still nodding.
+speaker_heading: ICHABOD
+dialog: May I see them, Master Hardenbrook?
+speaker_heading: HARDENBROOK
+dialog: Hmm? See them?
+speaker_heading: ICHABOD
+dialog: May we look at them now?
+speaker_heading: HARDENBROOK
+dialog: Of course. You want them... it shall
+dialog: not take long. Wait here.
+text: Hardenbrook heads across the room. Ichabod offers the list.
+speaker_heading: ICHABOD
+dialog: Maybe you should take this.
+speaker_heading: HARDENBROOK
+dialog: A fine idea.
+text: Hardenbrook takes it and exits. Young Masbath sits.
+speaker_heading: YOUNG MASBATH
+dialog: What good is this?
+speaker_heading: ICHABOD
+dialog: To discover what might have been taken
+dialog: from those who died, it will help to
+dialog: know what was there that could be
+text: taken in the first place.
+text: Ichabod waits. After a moment, he looks uncertain. He
+text: crosses to the half-open door...
+scene_heading: INT. NOTARY PUBLIC, RECORDS ROOM -- DAY
+text: Ichabod sticks his head in, not liking what he sees.
+text: Hardenbrook's amidst unbelievable disarray. Tables, shelves,
+text: and baskets of unevenly piled documents.
+text: Hardenbrook looks on a shelf, confused, then goes to a table,
+text: lifting papers, mumbling.
+speaker_heading: HARDENBROOK
+dialog: Damn... damn... damn...
+speaker_heading: ICHABOD
+dialog: Master Hardenbrook...
+text: Hardenbrook turns, a bit startled.
+speaker_heading: ICHABOD
+dialog: Perhaps, I could assist in finding them?
+speaker_heading: HARDENBROOK
+dialog: Well... that might be... helpful.
+scene_heading: INT. NOTARY PUBLIC, RECORDS ROOM (TIME CUT) -- DAY
+text: Hardenbrook is asleep in a chair, snoring, blind eye open.
+text: Ichabod and Young Masbath face official-looking documents,
+text: with Ichabod focused on one will in hand.
+speaker_heading: YOUNG MASBATH
+dialog: My father had farm land. It was the
+dialog: only thing we owned of any value.
+speaker_heading: ICHABOD
+dialog: (still reading)
+dialog: And it now belongs to you, according
+dialog: to Baltus. I heard him say it.
+speaker_heading: YOUNG MASBATH
+dialog: Yes.
+text: Ichabod turns the will in his hand to Masbath.
+speaker_heading: ICHABOD
+dialog: Then look here at your father's will,
+dialog: and tell me why you are not listed.
+text: Young Masbath takes it, boggled. Ichabod grabs another.
+speaker_heading: ICHABOD
+dialog: Van Garrett had denoted his elder son
+dialog: in his last wishes; the same son
+text: murdered along with him. But Van
+dialog: Garrett's wife and two infant children
+dialog: are not written... and they were spared.
+dialog: (picks up another will)
+dialog: Do you see? Philipse had no family to
+dialog: bestow his farm to. But, here...
+dialog: (picks up another)
+dialog: The Widow Windsor was listed on her
+dialog: late husband's will. After her
+dialog: inheritance, she amended the document
+dialog: to include her bastard child. This is
+dialog: why the Horseman made absolutely
+text: certain to impale the unborn descendant.
+text: Ichabod sits back.
+speaker_heading: ICHABOD
+dialog: Only the heirs were killed. Proof that
+text: the Horseman slaughters by assignment.
+speaker_heading: YOUNG MASBATH
+dialog: But, if the farm is not mine, who stole
+dialog: it away?
+speaker_heading: ICHABOD
+dialog: No one yet, far as I can tell. It has
+dialog: gone intestate.
+speaker_heading: YOUNG MASBATH
+dialog: In test... what?
+speaker_heading: ICHABOD
+dialog: Intestate. Your farm... all the
+dialog: farms... they belong to no one.
+speaker_heading: YOUNG MASBATH
+dialog: What does it mean?
+text: Ichabod stares off.
+speaker_heading: ICHABOD
+dialog: Often in such cases, property which
+dialog: has gone intestate legally passes to
+dialog: whomever the deceased was indebted to.
+dialog: And, who in this town is owed a great
+dialog: many debts?
+speaker_heading: YOUNG MASBATH
+dialog: (realization)
+dialog: Baltus Van Tassel.
+speaker_heading: ICHABOD
+dialog: Did your father take a loan?
+speaker_heading: YOUNG MASBATH
+dialog: Yes. I rode with him on payment days.
+text: Ichabod stands, grim, gathering wills and his ledger.
+speaker_heading: ICHABOD
+dialog: Tonight, we answer questions. And, to
+dialog: discover who moves about the Van Tassel
+dialog: house after dark... all we need is a
+dialog: candle.
+text: A LOUD NOISE is HEARD from the other room. Ichabod looks.
+scene_heading: INT. HARDENBROOK'S OFFICES -- DAY
+text: Ichabod bursts in. No one there. A chair has been knocked
+text: over and the front door is ajar. Ichabod moves...
+scene_heading: EXT. NOTARY -- DAY
+text: Ichabod exits. All around is the commotion in the square as
+text: before. No telling who it was who just fled.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- DAY
+text: Young Masbath is seated, bored. Ichabod writes in his
+text: ledger. A KNOCK on the door. They both look up.
+speaker_heading: KATRINA (o.s.)
+dialog: (from outside door)
+dialog: Constable... are you there?
+dialog: (long pause)
+dialog: Ichabod?
+text: The knob is tried and found locked. Pause. At the bottom of
+text: the door, a red rose is passed under.
+text: This saddens Ichabod.
+scene_heading: EXT. CHURCH -- NIGHT
+text: Quiet night. The church is a sight, with a yard resembling
+text: an empty squatter's tent city, surrounded by crosses.
+text: Boarded over windows leak shafts of light.
+text: MOVING PAST THE WINDOWS: many eyes peer out from the slats.
+text: UP IN THE BELFRY, TWO RIFLEMEN are on watch.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: Ichabod and Masbath are in darkness, still waiting. Ichabod
+text: takes the cover off a lantern, looks at a clock. Midnight,
+text: straight up. Ichabod stands, picks up an unlit candle.
+speaker_heading: ICHABOD
+dialog: Midnight seems an appropriate time.
+scene_heading: INT. VAN TASSEL HOUSE, HALLWAY -- NIGHT
+text: Ichabod and Young Masbath look out, cautious. They move to
+text: the nearest door.
+text: Ichabod crouches, using the candle to mark the seam of the
+text: door and door frame. He's making a low, wax seal. If the
+text: door opens, the seal will break.
+text: They move to a second door, quietly. Ichabod makes another
+text: low wax mark.
+scene_heading: INT. VAN TASSEL HOUSE, MAIN ENTRANCE -- NIGHT
+text: Ichabod and Masbath come downstairs to a hall. Ichabod
+text: continues his wax marking at each door.
+scene_heading: INT. VAN TASSEL HOUSE, BALTUS' OFFICE -- NIGHT
+text: Ichabod and Young Masbath enter, shutting the door. Ichabod
+text: walks to shelves at Baltus' desk, looks through ribbon bound
+text: DOCUMENTS and hands some to Masbath.
+text: Young Masbath pulls off the ribbon, pages through these "LOAN
+text: AGREEMENT" parchments. Ichabod brings another pile.
+speaker_heading: ICHABOD
+dialog: (whispering)
+dialog: They are alphabetical.
+text: Young Masbath has the M's. "MARYIE," "MEGAPOLENISIS," AND
+text: "MELYN..." Not finding what he wants.
+speaker_heading: YOUNG MASBATH
+dialog: There is no Masbath here. My father's
+dialog: loan papers are missing.
+speaker_heading: ICHABOD
+dialog: (regarding his documents)
+dialog: There are none for Magistrate Philipse
+dialog: either. "Paasch, James" "Pieter,
+dialog: Thomas" "Pos, William."
+text: A FLOORBOARD CREAKS. Ichabod looks, blows out the lantern.
+text: He and Young Masbath stand frozen.
+text: Across the room, light comes under the door, stops, then
+text: continues. A DOOR is HEARD OPENING and SHUTTING. Ichabod
+text: crosses to follow, pointing back.
+speaker_heading: ICHABOD
+dialog: Keep looking. Then, hide in my room
+text: and bolt the door till I return.
+scene_heading: EXT. FOREST -- NIGHT
+text: Lantern light moves, far ahead. Ichabod follows.
+scene_heading: EXT. FOREST, FURTHER ON -- NIGHT
+text: Ichabod stops, hidden. He can see the light ahead, but it is
+text: no longer in motion. He advances.
+scene_heading: EXT. FOREST CLEARING -- NIGHT
+text: A lantern sits on a rock. On a blanket, a semi-naked MAN and
+text: semi-naked WOMAN are in the midst of rough SEX.
+text: Ichabod crawls to peer from underbrush.
+text: The couple keeps coupling, with the man on top. His grunts
+text: and gasps are particularly desperate. He's all over the
+text: woman, who lays back... it is Lady van Tassel.
+text: Ichabod swallows, inches closer.
+text: Lady van Tassel pulls the man's shirt, exposes his flesh.
+text: She raises a small, sharp KNIFE behind his back.
+text: Ichabod's eyes widen.
+text: Lady Van Tassel brings the blade to her own hand, slicing
+text: deep in her palm. Blood flows. She rubs her cut hand over
+text: her partner's arching back, smearing blood.
+text: Lady van Tassel caresses the man's chest, neck, face...
+text: trailing blood. The man lifts his head, in ecstasy, sucks
+text: the woman's bloody fingers... it's Clergyman Steenwyck.
+text: Ichabod backs away, having seen more than plenty.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: Young Masbath unlocks the door. Ichabod enters.
+speaker_heading: YOUNG MASBATH
+dialog: I was getting worried. Who was it?
+speaker_heading: ICHABOD
+dialog: Lady Van Tassel.
+speaker_heading: YOUNG MASBATH
+dialog: What was she doing?
+speaker_heading: ICHABOD
+dialog: Something I really wish I had not seen.
+dialog: Never mind it. Did you find the
+dialog: victims' loan agreements?
+speaker_heading: YOUNG MASBATH
+dialog: No. They are all missing.
+dialog: This troubles Ichabod.
+speaker_heading: YOUNG MASBATH
+dialog: There is more, though. While you were
+dialog: gone, I could hear someone else
+text: walking through the house.
+scene_heading: INT. VAN TASSEL HOUSE, UPSTAIRS HALLWAY -- NIGHT
+text: Ichabod and Young Masbath creep round a corner. Going to the
+text: LAST DOOR, Ichabod crouches, eyes narrowing...
+speaker_heading: ICHABOD
+dialog: (whispers, to himself)
+dialog: Katrina.
+text: The wax seal is broken, flecks of wax on the floor.
+scene_heading: INT. VAN TASSEL HOUSE, FOYER AND HALL -- NIGHT
+text: Ichabod and Masbath come downstairs, checking all the wax
+text: marks. Young Masbath finds one broken.
+speaker_heading: YOUNG MASBATH
+dialog: Here.
+text: Ichabod comes over, pushes the door...
+scene_heading: INT. VAN TASSEL HOUSE, KITCHEN -- NIGHT
+text: They enter. The kitchen is empty. Ichabod crosses to
+text: another door, crouches. Another broken wax mark.
+scene_heading: INT. VAN TASSEL HOUSE, SEWING ROOM -- NIGHT
+text: They enter... the room with the elaborate loom. Ichabod
+text: moves his lantern to make a quick search, goes to table.
+text: He touches the top of a candle. His finger comes away with a
+text: bit of still wet wax.
+speaker_heading: YOUNG MASBATH
+dialog: There are no other doors. This is as
+dialog: far as she could have gone.
+speaker_heading: ICHABOD
+dialog: It is nothing. She comes to read books,
+dialog: so her father will not find her.
+dialog: (to convince himself)
+dialog: It is absolutely nothing.
+speaker_heading: YOUNG MASBATH
+dialog: What books?
+speaker_heading: ICHABOD
+dialog: Fiction plays and novels. Baltus does
+dialog: not approve. Now, come. It may not be
+text: long before Lady Van Tassel returns.
+speaker_heading: YOUNG MASBATH
+dialog: But, sir... what books? Where are they?
+text: Ichabod stops, looking around. No books anywhere.
+speaker_heading: YOUNG MASBATH
+dialog: If there is a secret place for books...
+dialog: it could be just as good for the
+dialog: missing loan agreements.
+text: Ichabod ponders this without saying anything.
+scene_heading: INT. VAN TASSEL HOUSE, SEWING ROOM -- LATER NIGHT
+speaker_heading: SEARCH MONTAGE:
+text: - Drawers are opened and searched, quietly.
+text: - Young Masbath uses a candle to look up the fireplace.
+text: - Ichabod opens a linen cabinet, unfolding blankets.
+text: - Young Masbath looks in a closet filled with big spools of
+text: sewing thread, on his knees, pulls a wooden box forward.
+text: Inside it, he finds only old cups and silverware.
+text: Ichabod pulls up a rug, feeling along the floorboards.
+text: Young Masbath crawls, doing the same. He climbs under the
+text: loom, tapping on the floor. TAP... TAP... TAP...
+text: He crawls further under the loom. TAP... TAP... PLONK. A
+text: hollow sound. He taps again... PLONK... PLONK.
+speaker_heading: YOUNG MASBATH
+dialog: Constable.
+text: Ichabod comes over as Young Masbath lifts a loose board.
+text: Under the floor, there are piles of books. Masbath brings
+text: them up, handing them to Ichabod, who studies the spines.
+text: Young Masbath reaches in up to his shoulder. He comes up
+text: with "LOAN AGREEMENTS."
+speaker_heading: YOUNG MASBATH
+dialog: Fie! Here they are.
+text: Ichabod takes them. Names are near the top: "Masbath," "Van
+dialog: Garret," "Philipse," and "Killian."
+text: Ichabod sits back, numb, his heart bitterly broken.
+scene_heading: INT. VAN TASSEL HOUSE, KITCHEN -- MORNING
+text: Lady Van Tassel prepares food with two servants at the open
+text: fireplace/oven. Ichabod enters, rushed.
+speaker_heading: ICHABOD
+dialog: Excuse me, Lady Van Tassel... Katrina
+text: is not in her room.
+speaker_heading: LADY VAN TASSEL
+dialog: No. She has gone out.
+speaker_heading: ICHABOD
+dialog: Where?
+speaker_heading: LADY VAN TASSEL
+dialog: She has taken the last of our grain
+dialog: to be milled.
+dialog: (crossing to him)
+dialog: You do have a background in the
+dialog: medical arts, don't you, Constable?
+speaker_heading: ICHABOD
+dialog: Very little. I must be going...
+text: Lady Van Tassel holds out her cut palm, the gash sewn shut.
+speaker_heading: LADY VAN TASSEL
+dialog: Will you look at this? I cut my hand
+dialog: this morning: I sewed it myself, but
+dialog: I am afraid it will go bad.
+text: Ichabod takes her hand, distracted and nervous.
+speaker_heading: ICHABOD
+text: It appears well. It has already
+text: clotted.
+speaker_heading: LADY VAN TASSEL
+dialog: Look closer. Do you have anything to
+dialog: clean it with?
+speaker_heading: ICHABOD
+dialog: It is fine. Now, I must...
+text: Lady Van Tassel grabs Ichabod by the wrist, tight.
+speaker_heading: LADY VAN TASSEL
+dialog: (whispering, close)
+dialog: I know you saw me.
+speaker_heading: ICHABOD
+dialog: What... ?
+text: Lady Van Tassel glances to servants, keeps her voice low.
+speaker_heading: LADY VAN TASSEL
+dialog: I know you followed last night. You
+dialog: must promise not to tell Baltus...
+text: Ichabod tries to pull away, but she grips tighter. The FRONT
+text: DOOR is HEARD SLAMMING. Ichabod is panicky.
+speaker_heading: LADY VAN TASSEL
+dialog: Have mercy on me. Please... have mercy.
+text: Ichabod pulls away just as Baltus enters. Lady Van Tassel
+text: goes back to work as if nothing happened.
+speaker_heading: BALTUS
+dialog: Constable, it is urgent that we speak.
+scene_heading: EXT. VAN TASSEL HOUSE FRONT PORCH -- MORNING
+text: Baltus leads Ichabod to the porch.
+speaker_heading: BALTUS
+dialog: Clergyman Steenwyck is calling a
+text: meeting. This time he is determined
+dialog: to have you forced out, or worse.
+speaker_heading: ICHABOD
+dialog: How did you hear this?
+speaker_heading: BALTUS
+dialog: He came to me. He promised great
+dialog: violence. Said I should cast you out
+dialog: for my own protection.
+dialog: (troubled pause)
+dialog: I must speak honestly. There is no
+dialog: reason to think he will not meet with
+dialog: success.
+text: Ichabod looks to barn, sees Masbath bringing the horses. The
+text: CHURCH BELL is HEARD TOLLING far away.
+speaker_heading: BALTUS
+dialog: That is the meeting bell already
+dialog: calling. With the murder of Killian
+dialog: and Brom, no one sees any good from
+dialog: you. If... if you were to leave...
+dialog: you might be saving your own life.
+text: Ichabod studies Baltus, then offers his hand. They shake.
+speaker_heading: ICHABOD
+dialog: I appreciate your concern. I thank
+dialog: you, sir.
+text: Ichabod hurries off, across the lawn, exasperated. He runs.
+text: Masbath runs to him. Ichabod takes Gunpowder and climbs up.
+speaker_heading: YOUNG MASBATH
+dialog: (mounting his horse)
+dialog: What now? Where is she?
+speaker_heading: ICHABOD
+dialog: Things have become complicated.
+text: Katrina is at the mill. Ride ahead,
+dialog: find her and bring her to meet me
+dialog: outside the church. Find her at all
+dialog: costs. Quickly.
+text: They ride, fast.
+scene_heading: EXT. FOREST -- DAY
+text: A conjuring pile of straw burns. Gloved hands unfold a paper
+text: filled with clippings of human hair. The hair is sprinkled
+text: on the fire.
+text: A cloaked FIGURE is kneeled at the pile. The figure turns to
+text: remove A human SKULL from a cloth bag.
+text: The skull is placed at center in the flames. It's teeth are
+text: sharp, cut to points. The HORSEMAN'S SKULL.
+scene_heading: EXT. CHURCH -- DAY
+text: In the church yard refugee camp, food is prepared over fire.
+text: People inhabit the tents.
+scene_heading: INT. CHURCH, STEENWYCK'S QUARTERS -- MORNING
+text: IN THE CHURCH: it's crowded with families. Pews filled with
+text: bedding and belongings. Steenwyck comes to CLOSE the DOUBLE
+text: DOORS of his quarters, turning, angry.
+scene_heading: FATHER STEENWYCK
+dialog: You are astonishing, Constable. Do
+dialog: you truly think your ridiculous
+dialog: accusations frighten me?
+text: Ichabod is doing nothing to hide his disdain.
+speaker_heading: ICHABOD
+dialog: Only if I repeat them outside this
+dialog: room. And, I will if I must...
+dialog: (points to doors)
+dialog: Out there, for all to hear. Or...
+dialog: you may speak, as planned. But, you
+dialog: tell them you feel compelled to move
+text: on to greener pastures.
+scene_heading: FATHER STEENWYCK
+dialog: No. You will not run me out. No one
+dialog: will believe a word of what you say.
+speaker_heading: ICHABOD
+dialog: Oh? Far as I can tell, a rumor does
+dialog: not travel alone for long here.
+scene_heading: FATHER STEENWYCK
+dialog: Are you a deist? Is that it? A free
+dialog: thinker who does not believe in
+dialog: divinity.
+speaker_heading: ICHABOD
+dialog: It is only important what you are.
+dialog: An adulterer...
+scene_heading: FATHER STEENWYCK
+dialog: I am the Lord's voice in this town.
+speaker_heading: ICHABOD
+dialog: Wallowing in sin and lust...
+scene_heading: FATHER STEENWYCK
+dialog: They need guidance.
+speaker_heading: ICHABOD
+text: Wallowing quite literally in blood.
+scene_heading: FATHER STEENWYCK
+dialog: (snapping, quaking)
+dialog: Damn you, sir! God damn you to hell!
+speaker_heading: ICHABOD
+dialog: He may. But, not soon enough for
+dialog: you, and not on your behalf.
+text: Ichabod walks. Steenwyck is humiliated.
+speaker_heading: ICHABOD
+dialog: You are so upset now... and yet, you
+dialog: seemed in such good spirits last night.
+scene_heading: FATHER STEENWYCK
+dialog: You cannot do this. I am a man of God!
+speaker_heading: ICHABOD
+text: Climb to the top of the tallest ladder
+dialog: you can find, Father. That is the
+dialog: closest you ever come to God.
+scene_heading: INT. CHURCH -- DAY
+text: Pews are packed. Steenwyck enters, walks to the altar.
+text: EVERYONE QUIETS. Steenwyck has composed himself, barely.
+scene_heading: FATHER STEENWYCK
+dialog: My friends... dear friends. Those of
+dialog: you still on your farms, I thank you
+dialog: for coming.
+text: He sees Ichabod near the back. THUNDER is HEARD OUTSIDE.
+scene_heading: FATHER STEENWYCK
+dialog: I... I address unfortunate business.
+dialog: (pause)
+dialog: I am forced to take my leave from
+dialog: Sleepy Hollow. I will be moving on to
+dialog: do the Lord's work elsewhere.
+text: The GATHERERS MURMUR shock. Ichabod walks out.
+scene_heading: EXT. THE LONG STRAIGHT ROAD -- DAY
+text: Raining hard. Baltus and Lady Van Tassel ride.
+speaker_heading: BALTUS
+dialog: Hurry along. The meeting has most
+dialog: certainly already begun. We do not
+dialog: want Steenwyck as our enemy.
+text: Lady Van Tassel trails. WOOD is HEARD SPLINTERING...
+text: Just off the road, a tree falls...
+text: The trunk catches Lady Van Tassel's horse on its rear flank.
+text: The horse falls. Lady Van Tassel hits the dirt.
+text: Baltus looks back, halting.
+text: Lady Van Tassel looks up to Baltus in fear, then turns.
+text: Behind her, the Headless Horseman trots from, the forest on
+text: Daredevil, stops. Calm. He takes his axe in hand.
+scene_heading: EXT. CHURCH -- DAY
+text: Storming. The meeting is letting out. Near the churchyard
+text: gate, Young Masbath rides with Katrina following on a horse
+text: cart. Ichabod walks up as Katrina dismounts.
+speaker_heading: KATRINA
+dialog: What is so urgent?
+speaker_heading: ICHABOD
+dialog: Come with me.
+text: Ichabod leads her to where they can talk away from others.
+speaker_heading: KATRINA
+dialog: Why have I not seen your face for so
+dialog: long? You look much better.
+text: She touches his face, but he takes her hand, places the loan
+dialog: agreements there.
+speaker_heading: ICHABOD
+dialog: Explain these. I found them secreted
+text: away in the sewing room.
+text: Katrina's expression changes just so slightly to guilt.
+speaker_heading: ICHABOD
+dialog: Why... why have I scrambled and run
+dialog: and clawed in all directions, only to
+dialog: find you against me?
+text: He stares at her. Katrina stares back, in a small way
+text: defeated. She looks for an out, but there is none.
+speaker_heading: KATRINA
+dialog: I have been reading your journal.
+dialog: I'm sorry. I found it too fascinating
+dialog: to resist.
+dialog: (pause, ashamed)
+dialog: I rode to catch up with you at the
+dialog: Notary, out of curiosity. Before I
+dialog: found you though, I overheard what you
+dialog: were said.
+speaker_heading: ICHABOD
+dialog: It was you there?
+speaker_heading: KATRINA
+dialog: When... when you spoke father's name
+dialog: along with accusations, I could not
+dialog: believe it. I had to hide these... at
+dialog: least till I could confront him myself.
+speaker_heading: ICHABOD
+dialog: And, what did he say?
+speaker_heading: KATRINA
+dialog: He did not do these things. If you
+dialog: knew him, you would realize...
+speaker_heading: ICHABOD
+dialog: What did he say, Katrina?
+speaker_heading: KATRINA
+dialog: I have not been able to face him yet.
+speaker_heading: ICHABOD
+dialog: The loans give the land to your father.
+dialog: It does not matter survivors are still
+dialog: on their farms. They could be thrown
+dialog: off... tomorrow... a year from now.
+speaker_heading: KATRINA
+dialog: Yes, I have seen that, and I told you
+dialog: why I hid them.
+speaker_heading: ICHABOD
+dialog: What would you have me believe?
+speaker_heading: KATRINA
+dialog: (tiring, angry)
+dialog: If you think I am behind this, say it.
+speaker_heading: ICHABOD
+dialog: The name Van Tassel is blackened. You
+dialog: share that name.
+speaker_heading: KATRINA
+dialog: Call me a liar, then, and a murderess.
+dialog: Say it, out and out.
+text: Many people are starting to notice the confrontation.
+speaker_heading: ICHABOD
+dialog: Katrina...
+speaker_heading: KATRINA
+dialog: Speak the words, Constable. What is
+dialog: stopping you? What has happened to your
+dialog: ability to transcend sentimentality?
+text: Emotions tear at him. Rain seems to pound down harder.
+speaker_heading: KATRINA
+dialog: Oh, no. No. Please... don't dare stand
+dialog: looking as if you still care for me,
+dialog: after all that you have said. If I were
+dialog: to confess, would that ease your
+dialog: suffering? Would that make it easier
+dialog: for you to hate me?!
+scene_heading: A TORTURED CRY is HEARD O.S.
+text: Baltus comes charging through the square on his horse.
+speaker_heading: BALTUS
+dialog: The Horseman is coming!
+text: He's barely hanging on. He stops, practically falling off,
+text: running towards Katrina and Ichabod.
+speaker_heading: BALTUS
+dialog: Save me...
+speaker_heading: KATRINA
+dialog: Father?
+speaker_heading: BALTUS
+dialog: He killed her...
+text: Baltus grasps Katrina, fearful. HOOFBEATS are HEARD.
+speaker_heading: BALTUS
+text: The Horseman has killed her.
+text: Far behind, the Horseman rides to follow, axe held up.
+text: Instant mayhem -- people scatter all directions, screaming.
+text: Baltus runs headlong to the church.
+speaker_heading: KATRINA
+dialog: Father!
+text: Katrina runs after Baltus. Ichabod backs away, watching the
+text: Horseman come, then heads to the church with Masbath.
+text: Baltus pushes through the iron gate, into tent city, joining
+text: the swarm of townsfolk pouring into the church.
+text: The Horseman rides behind, closing the gap. Men, women and
+text: children run for cover all along the square.
+text: Amidst the churchyard panic, Ichabod looks back...
+text: The Horseman reaches the open gate and Daredevil suddenly
+text: rears up, snorting, unwilling to enter.
+text: The Horseman grabs Daredevil's reins, tries to move forward
+text: again. Same result. Daredevil freaks out.
+scene_heading: INT. CHURCH -- DAY
+text: Baltus makes his way in, shoving. People are still clamoring
+text: in through the doors.
+text: Men pass rifles from stockpiles and climb onto pews at
+text: boarded windows. Women herd children into a cellar.
+text: Baltus searches for a hiding place. He looks across the
+text: church to see Steenwyck closing the doors of his living
+text: quarters. Baltus moves...
+speaker_heading: BALTUS
+dialog: Steenwyck!
+text: At the front doors, Katrina squeezes in with Ichabod and
+text: Young Masbath just as people are forcing the doors closed.
+text: It's madness. People outside begin pounding.
+dialog: Katrina searches.
+speaker_heading: KATRINA
+dialog: Father!
+text: Ichabod goes to a window, looking out between boards.
+scene_heading: EXT. CHURCH -- DAY
+text: Across the yard, the Horseman gives his axe an underhand toss
+text: to the ground inside the gate.
+text: The AXE instantly BEGINS TO DEGRADE TO DUST in the rain.
+text: The Horseman rides, keeping outside the fence.
+scene_heading: INT. CHURCH -- DAY
+text: Ichabod comes away from the window, looking to panicked
+text: citizens. He sees Katrina moving up the aisle...
+text: She's heading towards Baltus, who slams against the door to
+text: Steenwyck's room.
+speaker_heading: BALTUS
+dialog: Damn you, Steenwyck! Help me!
+dialog: Let me in!
+text: RIFLES BOOM LOUDLY as men at the windows begin firing.
+scene_heading: EXT. CHURCH -- DAY
+text: The Horseman circles, under fire.
+text: Great clouds of gun smoke shoot from the church.
+text: Men fire down from the belfry.
+text: Parts of the Horseman and Daredevil splatter red into the
+text: rain as slugs hit without effect.
+text: AT THE OTHER SIDE OF THE CHURCH, the Horseman comes around,
+text: heading to the town square.
+scene_heading: INT. CHURCH -- DAY
+text: Rifleman shout to each other, running to the opposite windows
+dialog: to follow the Horseman.
+text: Young Masbath grabs a rifle and leaps to join the brigade.
+text: Baltus is still beating Steenwyck's door when a HUGE FARMER
+text: grips Baltus angrily and throws him...
+speaker_heading: HUGE FARMER
+dialog: You'll kill us all!
+text: Baltus falls, knocking over pews. Katrina's nearby.
+speaker_heading: HUGE FARMER
+dialog: You're the one the Horseman wants.
+dialog: Why should we die for you!?
+speaker_heading: KATRINA
+dialog: NO!
+text: The huge farmer picks Baltus up, dragging him and shoving
+text: Katrina aside as she approaches.
+text: Ichabod's pushing past people, trying to reach them.
+scene_heading: EXT. CHURCH/TOWN SQUARE -- DAY
+text: The Horseman brings Daredevil to a halt, yanking a large coil
+text: of ROPE off a hitching post.
+scene_heading: INT. CHURCH -- DAY
+text: The huge farmer shoves Baltus to the floor again.
+speaker_heading: HUGE FARMER
+dialog: Get out!
+text: Others join the rage, pulling Baltus towards the front of the
+text: church, shouting. Ichabod struggles to push them off.
+speaker_heading: ICHABOD
+dialog: Stop this!
+text: Ichabod gets to Baltus' side, trying to protect.
+speaker_heading: ICHABOD
+dialog: The Horseman cannot enter! It does
+dialog: not matter who he wants, he cannot
+dialog: cross the gate!
+text: At the windows, ONE RIFLEMAN turns, crying out.
+speaker_heading: ONE RIFLEMAN
+dialog: He's coming back!
+text: More panic. The huge farmer moves towards Baltus.
+speaker_heading: HUGE FARMER
+dialog: We have to save ourselves!
+text: Baltus pulls the pistol from Ichabod's holster, brandishing.
+speaker_heading: BALTUS
+dialog: No! Get away from me!
+scene_heading: EXT. CHURCH -- DAY
+text: The Horseman rides past the front, fired upon.
+text: He halts at the wrought iron gate, reaching to yank off one
+text: POST which is pointed on top, like an arrow head.
+scene_heading: INT. CHURCH -- DAY
+text: Baltus holds everyone's back with the pistol.
+speaker_heading: BALTUS
+dialog: The next person to lay hands on me
+dialog: will have a bullet. Stand off!
+speaker_heading: KATRINA
+dialog: Father...
+speaker_heading: BALTUS
+dialog: No! We're safe here.
+dialog: (points at Ichabod)
+dialog: You said it. The Horseman will not
+dialog: have me.
+text: CRASH, the harpoon-like post SPEARS through a window,
+text: trailing rope tied to it...
+text: CRACK -- SKEWERS Baltus from behind, the bloodied point
+text: bursting out his breast bone.
+text: Baltus looks down, drops the gun... clutching the post with
+text: both hands. Blood streams out his mouth. Katrina screams.
+text: The rope yanks Baltus back. He SLAMS into the WINDOW...
+scene_heading: EXT. CHURCH -- DAY
+text: Baltus CRASHES out, hits the ground, dragged...
+text: Outside the fence, Daredevil runs with the rope tied around
+text: his saddle pommel. The Horseman strides forward, sword out.
+text: Baltus SLAMS the fence and the rope snaps. He is held there
+text: awkwardly, gurgling blood.
+text: The Horseman reaches Baltus... chops off his head.
+scene_heading: INT. SLEEPY HOLLOW FORESTS -- DAY
+text: The storm has passed. Empty forest. Long, peaceful pause,
+text: till Ichabod makes his way through, searching the ground.
+text: Ichabod comes to look down a small hill. The corpse of Lady
+text: Van Tassel lies headless, in a dirty, torn dress.
+text: Ichabod walks to the body. Lady Van Tassel's arm is twisted
+text: behind. The sewn cut on the palm of her hand faces up.
+speaker_heading: ICHABOD
+dialog: (shouting back)
+dialog: Here! I have found her...
+dialog: (looking at corpse,
+dialog: quiet and miserable)
+dialog: Here she is.
+scene_heading: INT. VAN TASSEL HOUSE, UPSTAIRS HALL -- EARLY EVENING
+text: Doctor Lancaster comes out from where Katrina is asleep. He
+text: closes the door, wipes his sweaty face. Ichabod waits.
+speaker_heading: DOCTOR LANCASTER
+dialog: It has been a terrible jolt to her
+dialog: nerves.
+speaker_heading: ICHABOD
+dialog: You will stay at her side?
+text: Doctor Lancaster nods. Ichabod walks.
+scene_heading: EXT. VAN TASSEL HOUSE -- EARLY EVENING
+text: It's getting dark. Ichabod comes out and crosses the porch.
+text: A few of the Hollow's residents are here. Young Masbath gets
+text: up and follows Ichabod onto the lawn.
+text: Ichabod walks without waiting.
+speaker_heading: YOUNG MASBATH
+dialog: She's the one who controlled the
+dialog: Horseman, isn't she, sir? Sir?
+dialog: (no answer)
+speaker_heading: ICHABOD
+dialog: I need time for thinking. Without you
+dialog: hanging on my coattails for a change.
+text: Ichabod keeps walking. Young Masbath stops, wounded.
+scene_heading: EXT. WESTERN WOODS, TREE OF THE DEAD -- NIGHT
+text: Ichabod stands holding a torch, looking up. The whole area
+text: is bright from the light off a giant fire.
+text: There are broken lanterns and barrels around the agonized,
+text: twisted tree. The tree is aflame, fire dancing up the trunk,
+text: and through every branch to lick the sky.
+scene_heading: EXT. FOREST -- DAY
+text: Dawn. Ichabod is seated overlooking the Hudson. He stares
+text: at the beauty around him, brooding through bleary eyes.
+text: Gunpowder is tied to a tree. BIRDS SING.
+text: The ledger is open in Ichabod's lap. He thumbs pages
+text: absently, just keeps staring off.
+scene_heading: EXT. FOREST -- DAY (TIME CUT)
+text: A fire burns in a circle of rocks. Ichabod's ledger is
+text: thrown in. The pages catch quickly.
+text: Ichabod watches, then walks away. He's about to climb onto
+text: Gunpowder, but on second thought he opens his satchel and
+text: digs out a BOOK. He walks back to the fire, throws it on...
+text: "Romeo and Juliet." Flames devour it.
+scene_heading: EXT. WESTERN WOODS, TREE OF THE DEAD -- DAY
+text: The clearing is silent. The twisted tree still stands,
+text: smoldering, impressive as ever, or perhaps even more so with
+text: the alien appearance its blackened skin now affords it.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: Ichabod packs up baggage. Young Masbath is miserable.
+speaker_heading: YOUNG MASBATH
+dialog: Won't you change your mind, sir?
+dialog: What can I say to convince you?
+speaker_heading: ICHABOD
+dialog: Nothing. To hell with this place
+dialog: and all the people here.
+text: Ichabod closes a bag, throws it with others.
+speaker_heading: YOUNG MASBATH
+dialog: Why... why are you like this?
+speaker_heading: ICHABOD
+dialog: (pause, softening)
+dialog: You do not know all that has happened.
+dialog: (pause)
+dialog: You cannot understand.
+scene_heading: EXT. VAN TASSEL ESTATE -- NIGHT
+text: A coach, with Gunpowder as one of its team, waits in the
+text: orchard. Van Ripper comes to meet Ichabod and Masbath.
+speaker_heading: ICHABOD
+dialog: Half now. Half when we reach the
+dialog: city.
+text: Ichabod hands Van Ripper money. Van Ripper takes the
+text: baggage. Ichabod looks to the Manor House. Only one light
+text: shines, in a second floor window.
+text: Katrina can be seen there a moment as she closes curtains.
+text: Ichabod turns to Young Masbath, who is beginning to cry.
+speaker_heading: ICHABOD
+dialog: This is farewell.
+speaker_heading: YOUNG MASBATH
+dialog: Take me with you. There's nothing
+dialog: left for me here.
+speaker_heading: ICHABOD
+dialog: I cannot.
+dialog: (bends to Masbath)
+dialog: You should not worry.
+dialog: (pause, sorrow)
+dialog: Van Ripper and his wife will look
+dialog: after you. They will. You will be
+dialog: well cared for.
+text: Young Masbath hugs. Ichabod hugs back, swallowing.
+speaker_heading: ICHABOD
+dialog: I am sorry.
+dialog: (quietly)
+dialog: Forgive me. I failed you.
+text: Ichabod releases and goes quickly away, finding this misery
+text: unbearable. He climbs in the coach.
+speaker_heading: YOUNG MASBATH
+dialog: Do not go, Constable. How can you
+dialog: leave?
+text: INSIDE THE COACH, Ichabod slumps back in darkness and closes
+text: his eyes. He pounds twice on the coach wall.
+text: OUTSIDE, Van Ripper whips the reins. The coach starts.
+text: Young Masbath follows. The coach picks up speed on the long
+dialog: straight road.
+text: Young Masbath stops, wiping tears.
+scene_heading: EXT. TOWN SQUARE/CHURCH -- NIGHT
+text: Ichabod's coach moves through the town square. A few people
+text: in the churchyard's tent city come out to watch it pass.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: The door is pushed open. Young Masbath enters, looks around
+text: the empty room. He goes to sit in a chair at the work table,
+text: crossing his arms and resting his head.
+scene_heading: INT. VAN TASSEL HOUSE, SITTING ROOM -- NIGHT
+text: A plate of food sits untouched. Katrina is slumped down in a
+text: chair, heartbroken, staring into the fireplace.
+text: Behind her, a shadow moves across the room.
+scene_heading: EXT. THE LONG STRAIGHT ROAD -- NIGHT
+text: Van Ripper leads the coach through the stone pillars marking
+text: the entrance of Sleepy Hollow.
+scene_heading: INT. ICHABOD'S COACH -- NIGHT
+text: Ichabod takes off his hat, sets it on the seat. The window
+text: between him and the driver slides open.
+speaker_heading: VAN RIPPER
+dialog: Sir... this is yours.
+dialog: (offering something)
+dialog: The Van Tassel girl said to give it
+dialog: to you after you were gone.
+text: Ichabod takes it. It is the bird/cage spinning toy. He
+dialog: studies it. What melancholy.
+scene_heading: INT. VAN TASSEL HOUSE, DINING ROOM -- NIGHT
+text: Katrina sits with her eyes closed. A BOARD is HEARD
+text: CREAKING. She sits up. Suddenly, a FIGURE in black is behind
+text: her as she turns. WHACK! -- a gloved fist strikes.
+scene_heading: INT. VAN TASSEL HOUSE, ICHABOD'S ROOM -- NIGHT
+text: A dull THUD is HEARD downstairs, like a body falling. Young
+text: Masbath takes notice. He moves to the door...
+scene_heading: INT. ICHABOD'S COACH -- NIGHT
+text: Ichabod turns the strings on the bird/cage toy, ponders it.
+text: The paper disk spins, images flickering until the bird
+text: appears to be inside the cage.
+text: Ichabod keeps spinning it, looks out the window.
+text: A tear rolls down his cheek.
+text: The bird cage toy's rotation slows... stops.
+text: Ichabod looks at it a long moment, then pockets it and leans
+text: forward to the window at front.
+scene_heading: OUTSIDE THE COACH
+text: Ichabod's face appears behind Van Ripper.
+speaker_heading: ICHABOD
+dialog: Van Ripper, turn the coach about!
+speaker_heading: VAN RIPPER
+dialog: What did you say?
+speaker_heading: ICHABOD
+dialog: Turn around. Now!
+scene_heading: INT. VAN TASSEL HOUSE, FOYER -- NIGHT
+text: Young	Masbath comes down the stairs, looking around meekly.
+speaker_heading: YOUNG MASBATH
+dialog: Hello? Katrina?
+text: Masbath starts down a hall. He does not see, in another
+text: room, Katrina's body is dragged across the floor.
+scene_heading: EXT. TOWN SQUARE, DOCTOR'S RESIDENCE -- NIGHT
+text: The coach comes to Lancaster's. Ichabod climbs out before it
+text: even stops fully, satchel in hand. He hurries...
+scene_heading: INT. DOCTOR'S RESIDENCE, PARLOR -- NIGHT
+text: Doctor Lancaster, half asleep, comes to answer BANGING on his
+text: door. Ichabod pushes past, taking Lancaster's lantern.
+speaker_heading: ICHABOD
+dialog: Pardon the intrusion...
+scene_heading: INT. DOCTOR'S RESIDENCE, MEDICAL ROOM -- NIGHT
+text: Ichabod enters. There are two coffins on the floor.
+speaker_heading: ICHABOD
+dialog: I never examined these bodies.
+text: Ichabod removes the lid from one coffin. Lancaster is about
+text: to say something indignant, but then just looks disgusted.
+speaker_heading: DOCTOR LANCASTER
+dialog: ... help yourself, you pompous ass.
+dialog: I will be in bed.
+speaker_heading: ICHABOD
+dialog: Would you stay, doctor? I may need
+dialog: assistance.
+text: Lancaster reluctantly remains. Ichabod stares at the dead
+text: Lady Van Tassel. The neck wound is covered by a stained
+text: brown cloth, which Ichabod unwraps.
+speaker_heading: ICHABOD
+text: Stains of blood.
+speaker_heading: DOCTOR LANCASTER
+dialog: What of it?
+text: Ichabod takes out one of the lenses that survived the
+text: magnification spectacles, bends to examine the neck.
+speaker_heading: ICHABOD
+text: Jagged flesh.
+dialog: (pause)
+dialog: The Horseman did not do this.
+text: Ichabod moves to the side of the coffin, lifting the hand
+text: with the stitched gash on its palm.
+speaker_heading: ICHABOD
+dialog: Here, Doctor. Hold this just so...
+text: Lancaster holds the lens so that Ichabod can study the cut
+text: through it. Ichabod takes a scalpel-like knife from his
+text: satchel, lifts the hand and cuts stitches.
+text: THROUGH THE LENS: the gash spreads easily, soft, bloodless.
+speaker_heading: ICHABOD
+dialog: No clotting or gathering of pus. No
+dialog: healing at all.
+speaker_heading: DOCTOR LANCASTER
+dialog: What?
+speaker_heading: ICHABOD
+dialog: When this cut was made, this person
+dialog: was already dead.
+dialog: (stands straight)
+dialog: This is not Lady Van Tassel.
+scene_heading: INT. VAN TASSEL HOUSE, KITCHEN -- NIGHT
+text: Young Masbath enters. The door swings shut.
+speaker_heading: YOUNG MASBATH
+dialog: Katrina.
+dialog: (steps forward)
+dialog: Is anyone here?
+text: Behind him, the door SLAMS open -- Lady Van Tassel reaches to
+text: grab Young Masbath by the throat.
+scene_heading: EXT. CHURCH/TOWN SQUARE -- NIGHT
+text: Ichabod charges up to the church doors, pounding.
+speaker_heading: ICHABOD
+dialog: Open the door. Open up, damn it!
+dialog: (pounds, shouting)
+text: Lady van Tassel is alive. The Horseman
+dialog: is her puppet. Please...
+text: The door opens and Huge Farmer points a rifle at Ichabod.
+text: Frightened people peer out from behind.
+speaker_heading: HUGE FARMER
+dialog: Aren't we rid of you?
+speaker_heading: ICHABOD
+dialog: Listen to me. Lady Van Tassel has
+dialog: faked her death. I need able men...
+speaker_heading: HUGE FARMER
+dialog: She's dead, and you have gone mad.
+speaker_heading: ICHABOD
+dialog: No...
+speaker_heading: HUGE FARMER
+dialog: (steps forward)
+dialog: Get out! Isn't it enough that you have
+dialog: ruined this town? Go!
+text: Ichabod backs away from the gun, frustrated, runs...
+text: At the DOCTOR'S RESIDENCE, Van Ripper is still on the coach.
+text: Ichabod sprints over, breathless, taking out his pistol.
+speaker_heading: ICHABOD
+dialog: Van Ripper... do you have a gun?
+speaker_heading: VAN RIPPER
+dialog: Yes. Here...
+text: Van Ripper hold up a rifle. Ichabod holds out his hand.
+speaker_heading: ICHABOD
+dialog: May I see it?
+text: Van Ripper's confused, but hands the rifle over. Ichabod
+text: immediately points his pistol at Van Ripper.
+speaker_heading: ICHABOD
+dialog: Get down. Hurry!
+text: Van Ripper climbs off. Ichabod climbs up, whips the horses.
+speaker_heading: ICHABOD
+dialog: Sorry.
+text: Van Ripper watches the coach leave, still with his hands up.
+scene_heading: EXT. FOREST -- NIGHT
+text: In a wooded area, Katrina lies unconscious. Gloved hands
+text: reach to her hair and cut off a clump with SCISSORS.
+text: A conjuring pile has been made, containing a small animal's
+text: heart with an iron nail through it. Katrina's hair is added
+text: and the pile is lit to burn.
+text: Nearby, Young Masbath watches, on his belly with his hands
+text: tied behind his back.
+text: Lady Van Tassel whispers over the fire, her white horse tied
+text: nearby. She looks to Katrina, who stirs.
+text: Lady Van Tassel takes the Horseman's skull from a bag over
+text: her shoulder, places the skull in the flames. THUNDER is
+text: HEARD. Lady Van Tassel looks up, smiles.
+scene_heading: EXT. WESTERN WOODS, TREE OF THE DEAD -- NIGHT
+text: The wind tosses leaves in swirls. The twisted tree opens
+text: wide, with a RUMBLE -- shafts of light shooting out.
+scene_heading: EXT. THE LONG STRAIGHT ROAD -- NIGHT
+text: Ichabod drives the coach hard ahead.
+scene_heading: EXT. FOREST -- NIGHT
+text: Katrina sits up, groggy. Lady Van Tassel looks down at her.
+speaker_heading: KATRINA
+dialog: You... you are alive.
+speaker_heading: LADY VAN TASSEL
+dialog: Am I? Or, are you and Young Masbath
+dialog: dead along with me?
+text: Katrina sees Young Masbath, and beyond him, the dying fire.
+speaker_heading: YOUNG MASBATH
+text: She commands the Horseman.
+speaker_heading: LADY VAN TASSEL
+dialog: And, quite beautifully done, wouldn't
+dialog: you say? It is almost over.
+text: THUNDER again. Wind starts to pick up.
+speaker_heading: LADY VAN TASSEL
+dialog: (of the wind)
+dialog: He rides tonight.
+speaker_heading: KATRINA
+dialog: Father saw you die.
+speaker_heading: LADY VAN TASSEL
+dialog: He saw me thrown... saw the Horseman
+text: looming over me as I fled. Things I
+dialog: wanted him to see. But, as long as
+dialog: I govern the Horseman, he cannot harm
+dialog: me. Baltus did not stay enough to
+dialog: see that. He ran as a coward,
+dialog: unfettered by my fate.
+speaker_heading: YOUNG MASBATH
+dialog: Then, whose body was it... ?
+speaker_heading: LADY VAN TASSEL
+dialog: The precious servant girl Sarah. I
+dialog: killed her and kept her body hidden,
+dialog: till I needed it. And, when I
+dialog: return to the Hollow tomorrow, my
+dialog: version of the truth will come to
+dialog: pass.
+dialog: (faking meekness)
+dialog: I mean, there I was that fateful day,
+dialog: following Baltus into the woods. I
+dialog: did not know what he was up to...
+dialog: where he was going. I worried for
+dialog: his safety.
+text: Katrina cautiously moves the hand she's supporting herself
+text: with, feels a rock and clutches it.
+speaker_heading: LADY VAN TASSEL
+dialog: Imagine my surprise, finding him on a
+text: liason with a common servant. A girl
+dialog: who had apparently become his secret
+dialog: love.
+speaker_heading: KATRINA
+dialog: No one will believe your lies, whore.
+speaker_heading: LADY VAN TASSEL
+dialog: This whore will see your mouth shut
+dialog: forever very soon. But... I am not
+dialog: going to kill you. Not me...
+text: She picks up the Horseman's skull in her gloved hand.
+speaker_heading: LADY VAN TASSEL
+dialog: He will have that honor.
+scene_heading: EXT. WESTERN WOODS -- NIGHT
+text: The Horseman rides Daredevil, a freight train of moldering
+text: flesh, heading towards a chasm with no bridge.
+text: They reach it, galloping in mid-air to the other side.
+scene_heading: EXT. LONG STRAIGHT ROAD/VAN TASSEL ESTATE -- NIGHT
+text: Ichabod guides the coach into the Van Tassel orchard.
+scene_heading: EXT. FOREST -- NIGHT
+text: Lady Van Tassel admires the skull.
+speaker_heading: LADY VAN TASSEL
+dialog: (mock sorrow)
+dialog: Woe is me... that spying on my husband
+dialog: in his filthy indiscretion, I saw he
+text: and Sarah attacked by the Horseman.
+dialog: Oh pity me... so overcome was I that
+dialog: I wandered in the Western Woods...
+text: dazed... nearly blind from terror.
+text: Lady Van Tassel crouches, rubbing dirt on her face.
+speaker_heading: LADY VAN TASSEL
+dialog: And, tomorrow is my grand performance,
+dialog: having barely survived the elements...
+dialog: (more emoting)
+dialog: By sheer luck I found my way back to
+dialog: the Hollow. But... what do I find
+dialog: here... ? My dear, sweet step-daughter
+dialog: Katrina is dead. Why has God forsaken
+dialog: her?
+dialog: Seeing that Lady Van Tassel lavish attention on Katrina,
+text: Masbath takes this opportunity to ease onto his knees.
+speaker_heading: LADY VAN TASSEL
+dialog: (of herself, pleased)
+dialog: No one will suspect this sad woman who
+dialog: has been through such an ordeal. With
+text: only the empty solace of her money and
+dialog: land to comfort her.
+scene_heading: EXT. VAN TASSEL HOUSE -- NIGHT
+text: Ichabod leaps from the coach, bounds up the porch.
+speaker_heading: ICHABOD
+dialog: Katrina!
+scene_heading: EXT. FOREST -- NIGHT
+text: ICHABOD is HEARD. Lady Van Tassel turns, astonished.
+speaker_heading: KATRINA
+dialog: Murderer!
+text: Katrina slings the rock -- strikes Lady Van Tassel in the
+text: head, a glancing blow that knocks her down. Katrina runs.
+text: Katrina grips Young Masbath, helping him up...
+text: But, Lady Van Tassel scrambles up, grabs Katrina and throws
+text: her back to the ground.
+text: Lady Van Tassel steps hard on Katrina's ankle, touches her
+text: forehead, bleeding, pissed.
+speaker_heading: LADY VAN TASSEL
+dialog: You've been a naughty girl.
+text: Young Masbath leaps to action, charging head first -- slams
+text: into Lady Van Tassel, sends her backwards.
+text: Katrina runs and pulls Masbath up. They flee.
+speaker_heading: KATRINA
+dialog: Ichabod!
+text: Lady Van Tassel rolls, recovering, not very concerned.
+speaker_heading: LADY VAN TASSEL
+dialog: Little bitch.
+scene_heading: EXT. VAN TASSEL HOUSE -- NIGHT
+text: Ichabod comes out the open front doors... hearing...
+speaker_heading: KATRINA (o.s.)
+dialog: (far away)
+dialog: Ichabod!
+text: Ichabod climbs back on the coach, taking off.
+scene_heading: EXT. FOREST -- NIGHT
+text: Katrina and Young Masbath run out from a line of trees.
+speaker_heading: KATRINA
+dialog: Ichabod!
+speaker_heading: YOUNG MASBATH
+dialog: Here we are!
+text: BEHIND IN THE FOREST, Lady Van Tassel rides her white horse,
+text: in no hurry. Wind kicks hard. HOOFBEATS are HEARD.
+speaker_heading: LADY VAN TASSEL
+dialog: Run, Katrina! Fast as your pretty
+dialog: legs will carry you. It makes no
+dialog: difference.
+text: ON THE LAWN, Ichabod drives towards Katrina and Masbath.
+text: Behind, at the tree line, Lady Van Tassel holds up the
+text: Horseman's skull, wind tossing her dress and hair.
+speaker_heading: LADY VAN TASSEL
+dialog: Nothing will stop him now!
+text: At mid-field, Ichabod reaches Katrina and Masbath.
+speaker_heading: ICHABOD
+dialog: Climb up!
+speaker_heading: YOUNG MASBATH
+dialog: Lady Van Tassel...
+speaker_heading: ICHABOD
+dialog: I know. Hold on.
+text: With Katrina and Masbath on board, Ichabod turns the coach.
+text: Katrina unties Masbath's hands. HOOFBEATS GET LOUDER.
+speaker_heading: LADY VAN TASSEL
+dialog: Olly-olly oxen-free!
+text: Ichabod looks back towards Lady Van Tassel.
+text: At the treeline, the Horseman breaks into the open, hell on
+text: horseback. Full speed ahead.
+speaker_heading: ICHABOD
+dialog: Christ.
+scene_heading: EXT. THE LONG STRAIGHT ROAD -- NIGHT
+text: The coach hits the long straight road, away from the house.
+text: Katrina and Masbath hold on as the coach shakes violently.
+speaker_heading: KATRINA
+dialog: Where are we going?
+speaker_heading: ICHABOD
+dialog: I do not know. Away.
+speaker_heading: YOUNG MASBATH
+dialog: Here he comes!
+text: Behind, the Horseman can be seen on the forest bordered road.
+text: Closing fast. Breakneck pace.
+speaker_heading: ICHABOD
+dialog: We might make it to the church.
+text: Masbath takes a lantern, crawls back to the roof.
+speaker_heading: KATRINA
+dialog: Masbath... !
+text: He ignores, reaching the rear of the coach and throwing the
+text: lantern at the Horseman. It smashes on the trail.
+speaker_heading: ICHABOD
+dialog: Damn it, boy, get back here!
+text: Young Masbath slides back. Katrina helps him.
+speaker_heading: YOUNG MASBATH
+dialog: What can we do?
+speaker_heading: ICHABOD
+dialog: Take the reins.
+text: Young Masbath takes them. Ichabod slings Van Ripper's rifle
+text: over his shoulder and starts back. Katrina grips him.
+speaker_heading: ICHABOD
+dialog: Masbath is right. We must do something.
+text: She releases. Ichabod gets to the luggage area at the rear,
+text: struggling to open a storage box.
+text: Behind, the Horseman draws his sword, closer.
+text: Ichabod opens the box, hefting out a long, jagged SAW.
+speaker_heading: KATRINA
+dialog: Ichabod!
+text: Ichabod looks. The Horseman rides up, swinging...
+text: Ichabod recoils -- THWACK -- just missed by sword.
+text: The Horseman lets the coach get ahead, shifting to the
+text: other side of the trail... coming along side.
+text: Ichabod backpedals, looking to Masbath.
+speaker_heading: ICHABOD
+dialog: Keep him off! Block him!
+text: Masbath guides the horses over. The Horseman must fall
+text: behind to avoid the wheels.
+text: The coach hits a large, fallen tree trunk.
+text: Ichabod bounces, falling...
+text: He hangs off the side of the coach.
+text: Katrina climbs to offer her hand. Ichabod offers the saw.
+speaker_heading: ICHABOD
+dialog: Take it!
+text: Katrina takes the saw. Now with both hands, Ichabod tries
+text: for better purchase. He grips the coach door. It opens...
+text: Ichabod clings to the open door as branches slam him.
+text: He's reaching to the coach threshold, reaching...
+text: Ichabod pulls himself inside.
+text: BOOM -- the door hits a tree trunk, bashed to pieces.
+text: Ichabod looks out from the coach, dazed. He climbs.
+text: Katrina looks back as Young Masbath guides the coach to block
+text: the Horseman again.
+text: The Horseman sheaths his sword, riding... reaching to grip
+text: the back corner of the coach.
+text: The Horseman dismounts, clinging, climbing...
+text: Ichabod takes the rifle off his shoulder, aiming...
+text: BANG! -- splattering the Horseman's hand point blank. The
+text: Horseman hangs on with his other hand.
+text: The Horseman re-grips with the blasted hand, amazing since
+text: it's now all mush and bone.
+text: Ichabod throws the rifle on his way to the driver's perch,
+dialog: taking the saw from Katrina.
+speaker_heading: ICHABOD
+dialog: Move forward!
+text: Katrina looks to the horses, then at Ichabod.
+speaker_heading: ICHABOD
+dialog: Go!
+text: Ichabod takes the reins from Young Masbath.
+speaker_heading: ICHABOD
+dialog: Help her.
+text: Reins in one hand and saw in the other, Ichabod waits. The
+text: Horseman rises up and moves in, taking out his sword.
+text: Young Masbath climbs down to the wooden pole connecting the
+text: coach to the bridles, puts out his hand. Katrina takes it.
+text: Behind, the Horseman swings. Ichabod blocks with the saw.
+text: Young Masbath guides Katrina as she leaps onto one horse.
+text: Bareback. Young Masbath straddles the horse beside her.
+text: The Horseman swings, backhanded knocks the sword from
+text: Ichabod's hand as Ichabod falls back...
+text: Ichabod hits the bridle post, hanging onto straps for dear
+text: life. His feet drag on the trail.
+text: Above, the Horseman comes to the driver's perch, close enough
+text: to kill Katrina. He raises his sword...
+text: Katrina screams, ducking, helpless...
+text: Below, Ichabod pulls a bolt from the coach's hitching-rod.
+text: He shoves off with his feet.
+text: The Horseman swings.... missing.
+text: The horses detach from the coach, dragging Ichabod along.
+text: The coach careens out of control.
+text: It flies off the trail, hits an incline and sails off,
+text: throwing the Horseman.
+text: The coach hits a tree trunk and SMASHES.
+text: FURTHER DOWN THE TRAIL, the coach horses stop. Young Masbath
+text: and Katrina climb off as Ichabod gets to his feet, hurting,
+text: clutching his previously wounded shoulder.
+speaker_heading: YOUNG MASBATH
+dialog: What now?
+speaker_heading: ICHABOD
+dialog: I doubt that's the end.
+speaker_heading: KATRINA
+dialog: The church.
+speaker_heading: ICHABOD
+text: He moves too fast.
+text: Ichabod unhooks a lantern off the bridle rail. The trail
+text: behind is silent, till a bone chilling SCREECH is HEARD.
+speaker_heading: KATRINA
+dialog: What was that?
+speaker_heading: ICHABOD
+text: His horse.
+text: They start moving. Ichabod looks around. He sees...
+speaker_heading: ICHABOD
+dialog: There...
+text: Through the tree line, the Hollow's massive windmill can be
+text: seen against the sky. Katrina and Young Masbath run.
+scene_heading: EXT. WINDMILL FIELD -- NIGHT
+text: Ichabod, Katrina and Young Masbath book into this open area,
+text: heading to the windmill. Another HORRIBLE SQUEAL echoes.
+text: Ichabod looks over his shoulder.
+text: Heavy, low hanging BRANCHES and VINES at the forest edge
+text: creep to life, parting... forming a sort of black tunnel.
+speaker_heading: ICHABOD
+dialog: He's coming!
+text: The Horseman gallops out, throwing leaves in his wake.
+speaker_heading: ICHABOD
+dialog: Hurry!
+text: The Horseman readies a battle axe.
+text: Ichabod gets under the windmill, helping Young Masbath up the
+text: ladder and in. Katrina next.
+text: The Horseman is almost there.
+text: Ichabod follows Katrina. He gets in, feet dangling. The
+text: Horseman dismounts...
+scene_heading: INT. WINDMILL -- NIGHT
+text: Ichabod leaps up and struggles with the heavy trap door...
+text: slams it. He closes the latch just as the Horseman hits.
+text: The door buckles.
+speaker_heading: YOUNG MASBATH
+dialog: It won't hold.
+text: Ichabod goes to a large GRINDSTONE against a wall. He
+text: struggles to roll it.
+text: Young Masbath helps him roll it to the trap door. It falls
+text: on top with a thud. The Horseman's sword jabs up through the
+text: grindstone's center hole.
+text: The sword withdraws. A POUNDING begins.
+scene_heading: EXT. WINDMILL -- NIGHT
+text: The Horseman chops at the door with his axe.
+scene_heading: INT. WINDMILL -- NIGHT
+text: POUNDING CONTINUES. The grindstone shifts. Katrina and
+text: Young Masbath back away. Ichabod holds his lantern up,
+text: desperate for ideas, searching.
+text: Above, to the right, is the milling platform, where grain is
+text: ground and bagged. To the left is the crooked staircase.
+text: Ichabod picks up a bailing hook, a plan forming. He gives
+text: his lantern to Katrina and points.
+speaker_heading: ICHABOD
+dialog: Get up those stairs. Open the door to
+text: the roof and wait.
+text: Katrina and Young Masbath obey. Ichabod crosses and climbs
+text: the ladder to the milling platform. He grasps a wooden
+text: lever, pulling it. Gears above begin to turn.
+scene_heading: EXT. WINDMILL -- NIGHT
+text: The windmill's rotors CREAK to life, spinning.
+text: UNDER THE WINDMILL, the Horseman keeps chopping. His axe
+text: exposes grindstone, throwing sparks.
+scene_heading: INT. WINDMILL -- NIGHT
+text: Katrina looks down from the stairs.
+text: The Horseman's axe pries at the seam of the trap door.
+speaker_heading: KATRINA
+dialog: Ichabod...
+speaker_heading: ICHABOD
+dialog: Keep climbing. I will follow...
+text: Ichabod pulls bags of grain, lining them up at the edge of
+text: the milling platform.
+speaker_heading: ICHABOD
+dialog: (under his breath)
+dialog: Hopefully.
+text: ABOVE, Young Masbath reaches the ceiling, throws open the
+text: door to the roof.
+text: BELOW, Ichabod cuts holes into the grain bags, so milled
+text: grain spills out and falls to the floor, creating dust.
+text: He grabs one open bag and dumps it. More grain dust.
+scene_heading: EXT. WINDMILL ROOF -- NIGHT
+text: Masbath and Katrina come out. Rotors spin behind them.
+scene_heading: INT. WINDMILL -- NIGHT
+text: Ichabod sees below... the Horseman sticks a hand through,
+text: trying to push the grindstone aside, then withdrawing. The
+text: RACKING axe continues. Won't be long.
+text: Ichabod grabs one half-full bag of grain, swings it with
+dialog: effort, throws...
+text: The bag smashes on the grindstone, busting the door...
+scene_heading: EXT. WINDMILL -- NIGHT
+text: The grindstone falls through, SLAMMING the Horseman down...
+scene_heading: INT. WINDMILL -- NIGHT
+text: Ichabod slices into a sack hanging from a pulley system.
+text: More and more dust rises.
+text: Below, the Horseman enters. Katrina shouts from above.
+speaker_heading: YOUNG MASBATH
+dialog: Look out!
+text: The Horseman moves toward the ladder milling platform ladder,
+text: but Ichabod grabs it, pulling it up...
+text: The Horseman just misses the final rung.
+text: Ichabod throws the ladder aside as the Horseman backs off.
+text: Ichabod looks to the staircase. No way to climb down from
+dialog: the milling platform and get there.
+text: The Horseman runs and leaps, grabbing a hanging chain...
+text: The Horseman climbs the chain, swinging...
+text: Ichabod runs across the platform, jumps...
+text: Ichabod grasps the frail rail of the staircase, barely.
+text: The rail creaks, about to break. Behind, the Horseman lands
+text: on the milling platform.
+text: Ichabod is losing grip. Young Masbath races down the stairs,
+text: grabs his hand. He pulls Ichabod up.
+text: Ichabod's pistol slips from its holster and falls.
+text: Ichabod and Young Masbath look...
+text: The Horseman, following Ichabod's lead, runs across the
+text: milling platform and leaps...
+text: Grabs the staircase rail, only a few feet from Ichabod and
+text: Masbath. Ichabod kicks the rail, breaking it...
+text: The Horseman falls in billowing dust, crashing below.
+text: Ichabod pushes Masbath up the stairs.
+scene_heading: EXT. WINDMILL ROOF -- NIGHT
+text: Katrina helps them onto the roof.
+speaker_heading: KATRINA
+dialog: Quickly, close it.
+speaker_heading: ICHABOD
+dialog: No.
+dialog: (takes lantern, points)
+dialog: Get to the crest of the roof and be
+text: ready to jump.
+speaker_heading: YOUNG MASBATH
+dialog: Jump? Jump where?
+scene_heading: INT. WINDMILL -- NIGHT
+text: The Horseman runs, agile, up stairs.
+scene_heading: EXT. WINDMILL ROOF -- NIGHT
+text: Ichabod shepherds Katrina and Young Masbath to the edge where
+text: the rotors spin close.
+speaker_heading: ICHABOD
+dialog: The blades will carry us to the ground.
+dialog: Face front and wait for me.
+speaker_heading: KATRINA
+dialog: I... I can't do this.
+speaker_heading: ICHABOD
+dialog: We have no choice.
+text: Ichabod moves back to the trap door.
+text: Katrina and Young Masbath look at the rotors, and down at the
+text: long distance between them and the ground.
+speaker_heading: ICHABOD
+dialog: Be ready...
+text: Ichabod throws the lantern into the windmill and runs.
+speaker_heading: ICHABOD
+dialog: Now!
+scene_heading: INT. WINDMILL -- NIGHT
+text: The Horseman continues up. The lantern falls past.
+scene_heading: EXT. WINDMILL, ROOF -- NIGHT
+text: Young Masbath jumps. Ichabod grips Katrina and jumps...
+text: They hit one rotor and cling to the frame and cloth. The
+text: rotor begins its downwards swing.
+scene_heading: INT. WINDMILL -- NIGHT
+text: The lantern hits the ground and shatters. FLAMES EXPLODE!
+text: Grain dust is consumed instantaneously -- FLAMES ROAR
+text: upwards, filling the windmill...
+text: Engulfing the Horseman.
+scene_heading: EXT. WINDMILL -- NIGHT
+text: The rotor is halfway to its lowest point. Masbath, Katrina
+text: and Ichabod hang on as the entire structure trembles.
+text: BOOM -- flames shoot out the windows, doors and seams,
+text: lighting up the night.
+text: On the rattling rotor, Ichabod struggles to hold the frame
+text: with one hand and keep a grip on Katrina.
+text: Masbath drops. Ichabod releases Katrina, then drops.
+text: They hit the ground. Ichabod rolls, gasping, holding his
+text: shoulder. They all look at each other in disbelief a moment.
+text: Ichabod lets out a sort of rasping laugh, standing.
+speaker_heading: ICHABOD
+dialog: Okay... come on...
+text: Ichabod ushers them across the field, uphill. Running.
+text: Lightning flashes across the sky. THUNDER RUMBLES.
+text: A bolt strikes the windmill, and it EXPLODES...
+text: SHOCKWAVE DEAFENING. The rotors bust apart. Splinters of
+text: burning wood spin all directions.
+text: ACROSS THE FIELD, Ichabod, Katrina and Young Masbath keep
+text: running. There is a WOODEN CART parked ahead.
+text: IN THE WINDMILL RUBBLE, the Horseman rises, shoving off
+text: burning debris. His flame-ravaged uniform smolders.
+text: ACROSS THE FIELD, Ichabod stumbles onwards, but notices
+dialog: something horrible...
+text: In the distance, Lady Van Tassel's white horse roams free.
+speaker_heading: ICHABOD
+dialog: (as this registers)
+dialog: Oh, no...
+text: Young Masbath and Katrina are just past the cart when Lady
+text: Van Tassel rises from behind it, swings a plank...
+text: SLAMS Ichabod in the chest and sends him down.
+text: Lady Van Tassel grabs Katrina's hair, drags her.
+speaker_heading: LADY VAN TASSEL
+dialog: Should have stayed away, Constable.
+text: Ichabod gets up slow, furious, reaches to his holster, only
+text: to find it empty. He moves forward.
+speaker_heading: LADY VAN TASSEL
+dialog: Keep back, or I kill her.
+text: She takes out scissors, holds them to Katrina's neck.
+text: Katrina ceases struggling.
+text: Ichabod keeps Masbath behind him, keeps his distance. Lady
+text: Van Tassel shoots a glance...
+speaker_heading: LADY VAN TASSEL
+dialog: See him...
+text: Par off, the Horseman strides from the wreckage.
+speaker_heading: LADY VAN TASSEL
+dialog: You cannot kill what is already dead.
+speaker_heading: ICHABOD
+dialog: Let her go!
+speaker_heading: LADY VAN TASSEL
+dialog: Yes... yes. I think I will...
+text: Lady Van Tassel spins and throws Katrina in the cart, shoving
+dialog: against it.
+speaker_heading: ICHABOD
+dialog: No!
+text: The cart rolls downhill. Ichabod moves forward.
+text: Lady Van Tassel turns, brandishing the scissors, slashing and
+text: missing. Ichabod backs off.
+text: DOWNHILL, the cart picks up speed, headed for the Horseman.
+text: The Horseman starts running to meet it.
+text: UPHILL, Lady Van Tassel grins.
+speaker_heading: LADY VAN TASSEL
+dialog: Say goodbye to her.
+text: Lady Van Tassel lunges, stabbing. Ichabod avoids, puts all
+text: his fury behind his fist -- punches her in the face.
+text: Lady Van Tassel hits the ground and her bag falls open,
+text: sending the Horseman's skull rolling out...
+text: The skull rolls... rolls... landing far away.
+text: DOWNHILL, Katrina leaps out from the cart...
+dialog: She lands hard...
+text: The Horseman shoves the empty cart aside, still on the move.
+text: UPHILL, Ichabod sees the skull. He runs towards it.
+text: Lady van Tassel grabs Ichabod by the ankle. He falls.
+text: DOWNHILL, Katrina runs back. The Horseman is catching up.
+text: UPHILL, Ichabod tries to pull f ree from Lady Van Tassel.
+text: Young Masbath comes behind her - BAM - hits her in the head
+text: with the wooden plank. She's out.
+text: Ichabod scrambles to his feet.
+text: DOWNHILL, the Horseman catches Katrina, taking her by the
+text: hair as she falls to her knees and screams.
+text: UPHILL, Ichabod runs... grasps the Horseman's skull.
+text: He runs towards the Horseman and Katrina.
+text: DOWNHILL, Katrina struggles, but the Horseman holds her ready
+text: by her hair... raises his sword...
+text: UPHILL, Ichabod throws the skull...
+speaker_heading: ICHABOD
+dialog: Horseman!
+text: The skull spins through the air...
+text: The Horseman drops Katrina, reaches up...
+text: Catches the skull.
+dialog: Katrina runs.
+text: Ichabod runs to meet her, grabs her as she falls, exhausted.
+text: Together, they back away from the Horseman.
+text: The Horseman holds the skull out, then brings it to his
+text: shoulders, to its rightful place. THUNDER POUNDS.
+text: TRANSFORMATION begins -- blood and flesh rise up from the
+text: Horseman's throat and grip the skull.
+text: Young Masbath drops the plank, watching in awe.
+text: The Horseman's reformation continues. Muscle forms. Liquids
+text: become solids. He is made whole once more, the same evil,
+dialog: human face we saw in Baltus' stories.
+text: He looks to Ichabod and Katrina, touches his restored face.
+text: Daredevil rides up, SCREECHING. The Horseman replaces his
+text: sward and climbs into the saddle.
+text: He rides towards Katrina and Ichabod, but passes them by.
+text: They are so exhausted they fall down.
+text: Young Masbath backs up as the Horseman comes, but the
+dialog: Horseman does not want him either.
+text: The Horseman leans to grab Lady Van Tassel's unconscious
+text: form, pulls her up across Daredevil's back.
+text: He rides away with her.
+text: Ichabod and Katrina watch him go. They look at each other,
+text: then kiss gratefully.
+text: Ichabod looks to Young Masbath.
+speaker_heading: ICHABOD
+dialog: How are you?
+speaker_heading: YOUNG MASBATH
+dialog: Tired.
+text: Ichabod smiles and holds out his arm. Masbath comes over.
+text: Group hug. Lightning brightens the farmland around them.
+scene_heading: EXT. WESTERN WOODS, BURIAL GROUND -- NIGHT
+text: HOOFBEATS. The Horseman enters the clearing, keeping a hand
+text: on Lady Van Tassel. Ahead, the twisted tree awaits.
+text: Lady Van Tassel is awakening, face bloody. She turns her
+text: head and looks forward. She screams.
+text: The twisted tree's wound opens, wide and glowing.
+text: Daredevil picks up speed...
+text: Daredevil leaps just as a lightning bolt blasts down,
+text: striking the Horseman.
+text: For an instant, Horseman and horse are transformed, SKELETONS
+text: OF LIGHT, entering the tree.
+text: Silence and smoke. At the tree, Lady Van Tassel's hand
+text: sticks out from the tight-shut suture.
+text: The sewn wound on her palm seeps blood.
+scene_heading: EXT. NEW YORK CITY STREET, ICHABOD'S HOME -- DAY
+text: A bright, busy day in New York. A coach pulls up to
+text: Ichabod's home. Ichabod is the driver. He gets off, goes
+text: and opens the coach door. He helps Katrina down. Next,
+text: Young Masbath sticks his head out.
+text: Ichabod goes about unloading bags. Katrina holds Young
+text: Masbath's hand, and they look down the street in wonder.
+speaker_heading: THE END
+dialog: 

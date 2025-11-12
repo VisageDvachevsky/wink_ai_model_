@@ -1,0 +1,5969 @@
+dialog: 
+text: TEN THINGS I HATE ABOUT YOU
+dialog: 
+dialog: written by Karen McCullah Lutz &amp; Kirsten Smith
+dialog: 
+dialog: based on 'Taming of the Shrew" by William Shakespeare
+dialog: 
+dialog: Revision November 12, 1997
+dialog: 
+dialog: 
+scene_heading: PADUA HIGH SCHOOL - DAY
+dialog: 
+dialog: Welcome to Padua High School,, your typical urban-suburban
+dialog: high school in Portland, Oregon. Smarties, Skids, Preppies,
+text: Granolas. Loners, Lovers, the In and the Out Crowd rub sleep
+text: out of their eyes and head for the main building.
+dialog: 
+scene_heading: PADUA HIGH PARKING LOT - DAY
+dialog: 
+text: KAT STRATFORD, eighteen, pretty -- but trying hard not to be
+text: -- in a baggy granny dress and glasses, balances a cup of
+text: coffee and a backpack as she climbs out of her battered,
+text: baby blue '75 Dodge Dart.
+dialog: 
+text: A stray SKATEBOARD clips her, causing her to stumble and
+text: spill her coffee, as well as the contents of her backpack.
+dialog: 
+text: The young RIDER dashes over to help, trembling when he sees
+text: who his board has hit.
+dialog: 
+speaker_heading: RIDER
+dialog: Hey -- sorry.
+dialog: 
+text: Cowering in fear, he attempts to scoop up her scattered
+dialog: belongings.
+dialog: 
+speaker_heading: KAT
+dialog: Leave it
+dialog: 
+text: He persists.
+dialog: 
+speaker_heading: KAT (continuing)
+dialog: I said, leave it!
+dialog: 
+text: She grabs his skateboard and uses it to SHOVE him against a
+text: car, skateboard tip to his throat. He whimpers pitifully
+text: and she lets him go. A path clears for her as she marches
+text: through a pack of fearful students and SLAMS open the door,
+dialog: entering school.
+dialog: 
+scene_heading: INT. GIRLS' ROOM - DAY
+dialog: 
+text: BIANCA STRATFORD, a beautiful sophomore, stands facing the
+text: mirror, applying lipstick. Her less extraordinary, but
+text: still cute friend, CHASTITY stands next to her.
+dialog: 
+speaker_heading: BIANCA
+dialog: Did you change your hair?
+dialog: 
+speaker_heading: CHASTITY
+dialog: No.
+dialog: 
+speaker_heading: BIANCA
+dialog: You might wanna think about it
+dialog: 
+text: Leave the girls' room and enter the hallway.
+dialog: 
+scene_heading: HALLWAY - DAY- CONTINUOUS
+dialog: 
+text: Bianca is immediately greeted by an admiring crowd, both
+dialog: boys
+dialog: and girls alike.
+dialog: 
+speaker_heading: BOY
+dialog: (adoring)
+dialog: Hey, Bianca.
+dialog: 
+speaker_heading: GIRL
+dialog: Awesome shoes.
+dialog: 
+text: The greetings continue as Chastity remains wordless and
+text: unaddressed by her side. Bianca smiles proudly,
+text: acknowledging her fans.
+dialog: 
+scene_heading: GUIDANCE COUNSELOR'S OFFICE - DAY
+dialog: 
+text: CAMERON JAMES, a clean-cut, easy-going senior with an open,
+text: farm-boy face, sits facing Miss Perky, an impossibly cheery
+dialog: guidance counselor.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: I'm sure you won't find Padua any
+dialog: different than your old school. Same
+dialog: little asswipe mother-fuckers
+dialog: everywhere.
+dialog: 
+text: Her plastic smile never leaves her face. Cameron fidgets in
+text: his chair uncomfortably.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: (continuing)
+dialog: Any questions?
+dialog: 
+speaker_heading: CAMERON
+dialog: I don't think so, ma'am
+dialog: 
+speaker_heading: MISS PERKY
+dialog: Then go forth. Scoot I've got
+dialog: deviants to see.
+dialog: 
+text: Cameron rises to leave and makes eye contact with PATRICK
+text: VERONA, a sullen-looking bad ass senior who waits outside Ms
+text: Perky's door. His slouch and smirk let us know how cool he
+dialog: is.
+dialog: 
+text: Miss Perky looks down at her file and up at Patrick
+dialog: 
+speaker_heading: MISS PERKY
+dialog: (continuing)
+dialog: Patrick Verona. I see we're making our
+text: visits a weekly ritual.
+dialog: 
+text: She gives him a withering glance. He answers with a charming
+dialog: smile.
+dialog: 
+speaker_heading: PATRICK
+dialog: I missed you.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: It says here you exposed yourself to a
+text: group of freshmen girls.
+dialog: 
+speaker_heading: PATRICK
+dialog: It was a bratwurst. I was eating
+dialog: lunch.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: With the teeth of your zipper?
+dialog: 
+text: She motions for Patrick to enter her office and Cameron
+text: shuffles out the door, bumping into MICHAEL ECKMAN, a lanky,
+text: brainy senior who will either end up a politician or game
+dialog: show host.
+dialog: 
+speaker_heading: MICHAEL
+dialog: You the new guy?
+dialog: 
+speaker_heading: CAMERON
+dialog: So they tell me...
+dialog: 
+speaker_heading: MICHAEL
+dialog: C'mon. I'm supposed to give you the
+dialog: tour.
+dialog: 
+text: They head out of the office
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing)
+dialog: So -- which Dakota you from?
+dialog: 
+speaker_heading: CAMERON
+dialog: North, actually. How'd you ?
+dialog: 
+speaker_heading: MICHAEL
+dialog: I was kidding. People actually live
+dialog: there?
+dialog: 
+speaker_heading: CAMERON
+dialog: Yeah. A couple. We're outnumbered by
+dialog: the cows, though.
+dialog: 
+speaker_heading: MICHAEL
+dialog: How many people were in your old
+dialog: school?
+dialog: 
+speaker_heading: CAMERON
+dialog: Thirty-two.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Get out!
+dialog: 
+speaker_heading: CAMERON
+dialog: How many people go here?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Couple thousand. Most of them evil
+dialog: 
+scene_heading: INT. HALLWAY - DAY- CONTINUOUS
+dialog: 
+text: Prom posters adorn the wall. Michael steers Cameron through
+text: the crowd as he points to various cliques.
+dialog: 
+speaker_heading: MICHAEL
+dialog: We've got your basic beautiful people.
+dialog: Unless they talk to you first, don't
+dialog: bother.
+dialog: 
+text: The beautiful people pass, in full jock/cheerleader
+text: splendor.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing)
+dialog: Those 're your cowboys.
+dialog: 
+text: Several Stetson-wearing, big belt buckle. Wrangler guys
+dialog: walk by.
+dialog: 
+speaker_heading: CAMERON
+dialog: That I'm used to.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Yeah, but these guys have never seen a
+text: horse. They just jack off to Clint
+dialog: Eastwood.
+dialog: 
+text: They pass an espresso cart with a group of teens huddled
+text: around it.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing)
+dialog: To the right, we have the Coffee Kids.
+dialog: Very edgy. Don't make any sudden
+text: movements around them.
+dialog: 
+scene_heading: EXT. SCHOOL COURTYARD - DAY
+dialog: 
+text: Michael continues the tour
+dialog: 
+speaker_heading: MICHAEL
+dialog: And these delusionals are the White
+dialog: Rastae.
+dialog: 
+text: Several white boys in dreadlocks and Jamaican knit berets
+text: lounge on the grass. A cloud of pot smoke hovers above them
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing)
+dialog: Big Marley fans. Think they're black.
+text: Semi-political, but mostly, they watch a
+dialog: lot of Wild Kingdom, if you know what I
+dialog: mean.
+dialog: 
+text: Michael waves to DEREK, the one with the longest dreads.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing)
+dialog: Derek - save some for after lunch, bub?
+dialog: 
+speaker_heading: DEREK
+dialog: (very stoned)
+dialog: Michael, my brother, peace
+dialog: 
+text: Cameron turns to follow Michael as they walk into the
+dialog: cafeteria.
+dialog: 
+speaker_heading: CAMERON
+dialog: So where do you fit in all this?
+dialog: 
+scene_heading: INT. CAFETERIA - DAY - CONTINUOUS
+dialog: 
+text: Loud music and loud students. Michael sits with a group of
+text: studious-looking teens.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Future MBAs- We're all Ivy League,
+dialog: already accepted. Someday I'll be
+dialog: sipping Merlot while those guys --
+dialog: 
+text: He points to the table of jocks, as they torture various
+text: passers-by.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing)
+dialog: are fixing my Saab. Yuppie greed is
+dialog: back, my friend.
+dialog: 
+text: He points proudly to the ALLIGATOR on his shirt.
+dialog: 
+text: Cameron stops listening as BIANCA walks by, and we go SLO
+text: MO. Pure and perfect, she passes Cameron and Michael
+text: without a look.
+dialog: 
+text: Cameron is smitten
+dialog: 
+speaker_heading: CAMERON
+dialog: That girl -- I --
+dialog: 
+speaker_heading: MICHAEL
+dialog: You burn, you pine, you perish?
+dialog: 
+speaker_heading: CAMERON
+dialog: Who is she?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Bianca Stratford. Sophomore. Don't
+dialog: even think about it
+dialog: 
+speaker_heading: CAMERON
+dialog: Why not?
+dialog: 
+speaker_heading: MICHAEL
+dialog: I could start with your haircut, but it
+dialog: doesn't matter. She's not allowed to
+dialog: date until her older sister does. And
+dialog: that's an impossibility.
+dialog: 
+scene_heading: ENGLISH CLASS - DAY
+dialog: 
+text: A room full of bored seniors doodle and scare off into space
+text: MS. BLAISE, the one-step-away-from-medication English
+text: Teacher, tries to remember what she's talking about.
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: Well, then. Oh, yes. I guess that
+dialog: does it for our analysis of The Old Man
+dialog: and the Sea. Any other comments?
+dialog: (with dread)
+dialog: Kat?
+dialog: 
+text: Kat, the girl we saw as we entered the school, slowly cakes
+text: off her glasses and speaks up.
+dialog: 
+speaker_heading: KAT
+dialog: Why didn't we just read the Hardy Boys?
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: I'm sorry?
+dialog: 
+speaker_heading: KAT
+dialog: This book is about a guy and his
+dialog: fishing habit. Not exactly a crucial
+dialog: topic.
+dialog: 
+text: The other students roll their eyes.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: Frankly, I'm baffled as to why we still
+dialog: revere Hemingway. He was an abusive,
+dialog: alcoholic misogynist who had a lot of
+dialog: cats.
+dialog: 
+text: JOEY DORSEY, a well-muscled jock with great cheekbones,
+text: makes fun of her from his row.
+dialog: 
+speaker_heading: JOEY
+dialog: As opposed to a bitter self-righteous
+dialog: hag who has no friends?
+dialog: 
+text: A few giggles. Kat ignores him. A practiced gesture
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: That's enough, Mr. Dorsey.
+dialog: 
+dialog: Really gets fired up now
+dialog: 
+speaker_heading: KAT
+dialog: I guess the school board thinks because
+dialog: Hemingway's male and an asshole, he's
+dialog: worthy of our time
+dialog: 
+text: She looks up at Ms. Blaise, who is now fighting with her
+dialog: pill box.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: What about Colette? Charlotte Bronte?
+dialog: Simone de Beauvoir?
+dialog: 
+text: Patrick, lounging in his seat in the back row, elbows a
+text: crusty-looking crony, identified by the name SCURVY,
+text: embroidered on his workshirt.
+dialog: 
+speaker_heading: PATRICK
+dialog: Mother Goose?
+dialog: 
+text: The class titters. Kat wears an expression of intolerance
+dialog: 
+scene_heading: INT. GUIDANCE COUNSELOR'S OFFICE - DAY
+dialog: 
+text: Kat now sits before Miss Perky.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: Katarina Stratford. My, my. You've
+text: been terrorizing Ms. Blaise again.
+dialog: 
+speaker_heading: KAT
+dialog: Expressing my opinion is not a
+dialog: terrorist action.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: Well, yes, compared to your other
+dialog: choices of expression this year, today's
+dialog: events are quite mild. By the way,
+text: Bobby Rictor's gonad retrieval operation
+dialog: went quite well, in case you're
+dialog: interested.
+dialog: 
+speaker_heading: KAT
+dialog: I still maintain that he kicked himself
+dialog: in the balls. I was merely a spectator.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: The point is Kat -- people perceive you
+dialog: as somewhat ...
+dialog: 
+text: Kat smiles at her, daring her to say it.
+dialog: 
+speaker_heading: KAT
+dialog: Tempestuous?
+dialog: 
+speaker_heading: MISS PERKY
+dialog: No ... I believe "heinous bitch" is the
+dialog: term used most often.
+dialog: 
+text: She grimaces, as if she's referring to a medical condition.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: (continuing)
+dialog: You might want to work on that
+dialog: 
+text: Kat rises from her chair with a plastic smile matching the
+dialog: counselor's.
+dialog: 
+speaker_heading: KAT
+dialog: As always, thank you for your excellent
+dialog: guidance.
+dialog: 
+scene_heading: INT. SOPHOMORE ENGLISH CLASS - DAY
+dialog: 
+text: Bianca ignores the droning teacher as she writes a note in
+text: big flowing handwriting.
+dialog: 
+speaker_heading: TEACHER (0.S.)
+dialog: I realize the language of Mr.
+text: Shakespeare makes him a bit daunting,
+dialog: but I'm sure you're all doing your best.
+dialog: 
+text: Bianca folds the note and passes it behind her with a flip
+text: of her hair to CHASTITY. Chastity opens the note and reads:
+dialog: 
+scene_heading: INSERT - "JOEY DORSEY SAID HI TO ME IN THE HALL! OH! MY
+dialog: GOD!"
+dialog: 
+text: Chastity frowns to herself.
+dialog: 
+speaker_heading: TEACHER (0.S.)
+dialog: (continuing)
+dialog: Ms. Stratford, do you care to comment
+dialog: on what you've read so far?
+dialog: 
+text: Bianca looks up and smiles the smile of Daddy's little girl.
+dialog: 
+speaker_heading: BIANCA
+dialog: Not really.
+dialog: 
+text: The teacher shakes her head, but lets it go.
+dialog: 
+text: MANDELLA. a waif-like senior girl who sits off to the side
+text: trying to slit her wrist with the plastic spiral on her
+text: notebook, looks up and raises her hand.
+dialog: 
+speaker_heading: TEACHER
+dialog: Mandella -- since you're assisting us,
+dialog: you might as well comment. I'm assuming
+dialog: you read the assignment.
+dialog: 
+speaker_heading: MANDELLA
+dialog: Uh, yeah, I read it all
+dialog: 
+speaker_heading: TEACHER
+dialog: The whole play^
+dialog: 
+speaker_heading: MANDELIA
+dialog: The whole folio. All the plays.
+dialog: 
+speaker_heading: TEACHER
+dialog: (disbelieving)
+dialog: You've read every play by William
+dialog: Shakespeare?
+dialog: 
+speaker_heading: MANDELLA
+dialog: Haven't you?
+dialog: 
+text: She raises a challenging eyebrow. The stunned teacher
+text: doesn't answer and goes to call on the next student.
+dialog: 
+scene_heading: EXT. SCHOOL COURTYARD - DAY
+dialog: 
+text: Mandella and Kat sit down in the quiet corner. They are
+text: eating a carton of yogurt with gusto.
+dialog: 
+speaker_heading: MANDELLA
+dialog: 
+dialog: Your sister is so amazingly without. She'll never read him.
+text: She has no idea.
+dialog: 
+dialog: Kat attacks
+dialog: 
+speaker_heading: KAT
+dialog: The fact that you're cutting gym so you
+dialog: can T.A. Sophomore English just to hear
+dialog: his name, is a little without in itself
+dialog: if you ask me.
+dialog: 
+text: Kat's attention is caught by Patrick as he walks by with his
+text: friends, lighting up a cigarette. Mandella notices her
+text: staring.
+dialog: 
+speaker_heading: MANDELLA
+dialog: Who's that?
+dialog: 
+speaker_heading: KAT
+dialog: Patrick Verona Random skid.
+dialog: 
+speaker_heading: MANDELLA
+dialog: That's Pat Verona? The one who was gone
+dialog: for a year? I heard he was doing porn
+dialog: movies.
+dialog: 
+speaker_heading: KAT
+dialog: I'm sure he's completely incapable of
+dialog: doing anything that interesting.
+dialog: 
+speaker_heading: MANDELLA
+dialog: He always look so
+dialog: 
+speaker_heading: KAT
+dialog: Block E?
+dialog: 
+text: Kat turns back to face Mandella and forces her yogurt into
+text: Mandella's hand.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: Mandella, eat. Starving yourself is a
+dialog: very slow way to die.
+dialog: 
+speaker_heading: MANDELLA
+dialog: Just a little.
+dialog: 
+text: She eats. Kat sees her wrist
+dialog: 
+speaker_heading: KAT
+dialog: What's this?
+dialog: 
+speaker_heading: MANDELLA
+text: An attempted slit.
+dialog: 
+text: Kat stares at her, expressionless.
+dialog: 
+speaker_heading: KAT
+dialog: I realize that the men of this fine
+dialog: institution are severely lacking, but
+dialog: killing yourself so you can be with
+dialog: William Shakespeare is beyond the scope
+dialog: of normal teenage obsessions. You're
+text: venturing far past daytime talk show
+dialog: fodder and entering the world of those
+dialog: who need very expensive therapy.
+dialog: 
+speaker_heading: MANDELLA
+dialog: But imagine the things he'd say during
+dialog: sex.
+dialog: 
+dialog: Thinks a minute
+dialog: 
+speaker_heading: KAT
+dialog: Okay, say you do it. You kill
+dialog: yourself, you end up in wherever you end
+dialog: up and he's there. Do you really think
+dialog: he's gonna wanna dace a ninety pound
+dialog: compulsive who failed volleyball?
+dialog: 
+text: Mandella's attention is struck by Bianca
+dialog: 
+scene_heading: ACROSS THE COURTYARD
+dialog: 
+text: As she and Chastity parade by Joey and his COHORTS One of
+text: the cohorts elbows Joey.
+dialog: 
+speaker_heading: COHORT
+dialog: Virgin alert.
+dialog: 
+text: Joey looks up and smiles at Bianca.
+dialog: 
+speaker_heading: JOEY
+dialog: Lookin' good, ladies.
+dialog: 
+text: Bianca smiles her coyest of smiles.
+dialog: 
+text: BACK TO KAT AND MANDELLA Still watching.
+dialog: 
+speaker_heading: MANDELLA
+dialog: Tragic.
+dialog: 
+dialog: Doesn't respond
+dialog: 
+speaker_heading: ANOTHER ANGLE
+dialog: 
+text: Michael and Cameron observe Joey's leers at Bianca from
+text: their bench in another corner. Cowboys eating cue of a can
+text: of beans linger on the grass behind them.
+dialog: 
+speaker_heading: CAMERON
+dialog: Why do girls like that always like guys
+dialog: like that?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Because they're bred to. Their mothers
+dialog: liked guys like that, and their
+dialog: grandmothers before them. Their gene
+dialog: pool is rarely diluted.
+dialog: 
+speaker_heading: CAMERON
+dialog: He always have that shit-eating grin?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Joey Dorsey? Perma-shit-grin. I wish
+dialog: I could say he's a moron, but he's
+dialog: number twelve in the class. And a
+dialog: model. Mostly regional stuff, but he's
+dialog: rumored to have a big tube sock ad
+text: coming out.
+dialog: 
+text: The BELL rings, and the cowboys stand and spit into their
+text: empty bean cans. Cameron and Michael rise as Cameron tries
+text: to catch a glimpse of Bianca as she walks back inside.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing)
+dialog: You know French?
+dialog: 
+speaker_heading: CAMERON
+dialog: Sure do ... my Mom's from Canada
+dialog: 
+speaker_heading: MICHAEL
+dialog: Guess who just signed up for a tutor?
+dialog: 
+speaker_heading: CAMERON
+dialog: You mean I'd get a chance to talk to
+dialog: her?
+dialog: 
+speaker_heading: MICHAEL
+dialog: You could consecrate with her, my
+dialog: friend.
+dialog: 
+text: Cameron watches as Bianca flounces back into the building.
+dialog: 
+scene_heading: EXT. SCHOOL PARKING LOT - DAY
+dialog: 
+text: Kat and Mandella walk toward Kat's car. Joey pulls up
+text: beside her in his Viper.
+dialog: 
+speaker_heading: JOEY
+dialog: (re her dress)
+dialog: The vintage look is over, Kat. Haven't
+dialog: you been reading your Sassy?
+dialog: 
+speaker_heading: KAT
+dialog: Yeah, and I noticed the only part of
+dialog: you featured in your big Kmart spread
+dialog: was your elbow. Tough break.
+dialog: 
+speaker_heading: JOEY
+dialog: (practically
+dialog: spitting)
+dialog: They're running the rest of me next
+dialog: month.
+dialog: 
+text: He zooms away as Kat yanks open the door of her Dart.
+text: Mandella ties a silk scarf around her head, as if they're in
+text: a convertible.
+dialog: 
+speaker_heading: KAT
+dialog: The people at this school are so
+dialog: incredibly foul.
+dialog: 
+speaker_heading: MANDELLA
+dialog: You could always go with me. I'm sure
+dialog: William has some friends.
+dialog: 
+text: They watch Joey's car as he slows next to Bianca and
+text: Chastity as they walk toward the school bus.
+dialog: 
+scene_heading: ON BIANCA AND CHASTITY
+dialog: 
+speaker_heading: JOEY
+dialog: Need a ride, ladies?
+dialog: 
+text: Bianca and Chastity can't get in Joey's car fast enough. He
+text: pulls away with a smile.
+dialog: 
+text: BACK TO KAT AND MANDELLA
+dialog: 
+text: Mandella lowers her sunglasses to watch.
+dialog: 
+speaker_heading: MANDELLA
+dialog: That's a charming new development
+dialog: 
+text: Kat doesn't answer, but reaches over and puts a tape in the
+text: tape deck. The sounds of JOYFUL PUNK ROCK fill the car.
+dialog: 
+text: As they pull out, Michael crosses in front of them on his
+text: moped. Kat has to SLAM the brakes to keep from hitting him
+dialog: 
+speaker_heading: KAT
+dialog: (yelling)
+dialog: Remove head from sphincter! Then
+dialog: pedal!
+dialog: 
+text: Michael begins fearfully, pedaling as Kat PEELS out, angry
+text: at the delay.
+dialog: 
+text: Cameron rushes over
+dialog: 
+speaker_heading: CAMERON
+dialog: You all right?
+dialog: 
+text: He slows to a stop
+dialog: 
+speaker_heading: MICHAEL
+dialog: Yeah, just a minor encounter with the
+dialog: shrew.
+dialog: 
+speaker_heading: CAMERON
+dialog: That's her? Bianca's sister?
+dialog: 
+speaker_heading: MICHAEL
+text: The mewling, rampalian wretch herself.
+dialog: 
+text: Michael putters off, leaving Cameron dodging Patrick's
+text: grimy, grey Jeep -- a vehicle several years and many paint
+text: jobs away from its former glory as a REGULATION MAIL TRUCK -
+text: - as he sideswipes several cars on his way out of the lot.
+dialog: 
+scene_heading: INT. STRATFORD HOUSE - DAY
+dialog: 
+text: SHARON STRATFORD, attractive and focused, sits in front of
+text: her computer, typing quickly. A shelf next to her holds
+text: several bodice-ripper romance novels, bearing her name.
+dialog: 
+text: Kat stands behind her, reading over her shoulder as she
+dialog: types.
+dialog: 
+speaker_heading: KAT
+dialog: "Undulating with desire, Adrienne
+text: removes her crimson cape, revealing her
+dialog: creamy --"
+dialog: 
+text: WALTER STRATFORD, a blustery, mad scientist-type
+text: obstetrician, enters through the front door, wearing a
+text: doctor's white jacket and carrying his black bag.
+dialog: 
+speaker_heading: WALTER
+dialog: 
+dialog: I hope dinner's ready because I only have ten minutes before
+text: Mrs. Johnson squirts out a screamer.
+dialog: 
+text: He grabs the mail and rifles through it, as he bends down to
+text: kiss Sharon on the cheek.
+dialog: 
+speaker_heading: SHARON
+text: In the microwave.
+dialog: 
+speaker_heading: WALTER
+dialog: (to Kat)
+dialog: Make anyone cry today?
+dialog: 
+speaker_heading: KAT
+text: Sadly, no. But it's only four-thirty.
+dialog: 
+text: Bianca walks in.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: Where've you been?
+dialog: 
+speaker_heading: BIANCA
+dialog: (eyeing Walter)
+dialog: Nowhere... Hi, Daddy.
+dialog: 
+text: She kisses him on the cheek
+dialog: 
+speaker_heading: WALTER
+dialog: Hello, precious.
+dialog: 
+text: Walter kisses Bianca back as Kat heads up the stairs
+dialog: 
+speaker_heading: KAT
+dialog: How touching.
+dialog: 
+text: Walter holds up a letter to Kat
+dialog: 
+speaker_heading: WALTER
+dialog: What's this? It says Sarah Lawrence?
+dialog: 
+text: Snatches it away from him.
+dialog: 
+speaker_heading: KAT
+dialog: I guess I got in
+dialog: 
+text: Sharon looks up from her computer.
+dialog: 
+speaker_heading: SHARON
+dialog: What's a synonym for throbbing?
+dialog: 
+speaker_heading: WALTER
+text: Sarah Lawrence is on the other side of
+dialog: the country.
+dialog: 
+speaker_heading: KAT
+dialog: I know.
+dialog: 
+speaker_heading: WALTER
+dialog: I thought we decided you were going to
+dialog: school here. At U of 0.
+dialog: 
+speaker_heading: KAT
+dialog: You decided.
+dialog: 
+speaker_heading: BIANCA
+dialog: Is there even a question that we want
+dialog: her to stay?
+dialog: 
+text: Kat gives Bianca an evil look then smiles sweetly at
+dialog: 
+speaker_heading: KAT
+dialog: Ask Bianca who drove her home
+dialog: 
+speaker_heading: SHARON
+text: Swollen...turgid.
+dialog: 
+speaker_heading: WALTER
+dialog: (to Bianca; upset)
+dialog: Who drove you home?
+dialog: 
+text: Bianca glares at Kat then turns to Walter
+dialog: 
+speaker_heading: BIANCA
+dialog: Now don't get upset. Daddy, but there's
+dialog: this boy... and I think he might ask...
+dialog: 
+speaker_heading: WALTER
+dialog: No! You're not dating until your sister
+text: starts dating. End of discussion.
+dialog: 
+speaker_heading: BIANCA
+dialog: What if she never starts dating?
+dialog: 
+speaker_heading: WALTER
+dialog: Then neither will you. And I'll get to
+dialog: sleep at night.
+dialog: 
+speaker_heading: BIANCA
+dialog: But it's not fair -- she's a mutant,
+dialog: Daddy!
+dialog: 
+speaker_heading: KAT
+dialog: This from someone whose diary is
+dialog: devoted to favorite grooming tips?
+dialog: 
+speaker_heading: WALTER
+dialog: Enough!
+dialog: 
+text: He pulls out a small tape recorder from his black bag.
+dialog: 
+speaker_heading: WALTER
+dialog: (continuing)
+dialog: Do you know what this is?
+dialog: 
+text: He hits the "play' button and SHRIEKS OF PAIN emanate from
+text: the tape recorder.
+dialog: 
+scene_heading: BIANCA AND WALTER
+dialog: (in unison, by
+dialog: rote)
+text: The sound of a fifteen-year-old in
+dialog: labor.
+dialog: 
+speaker_heading: WALTER
+dialog: This is why you're not dating until
+dialog: your sister does.
+dialog: 
+speaker_heading: BIANCA
+dialog: But she doesn't want to date.
+dialog: 
+speaker_heading: WALTER
+dialog: Exactly my point
+dialog: 
+text: His BEEPER goes off and he grabs his bag again
+dialog: 
+speaker_heading: WALTER
+dialog: (continuing)
+dialog: Jesus! Can a man even grab a sandwich
+dialog: before you women start dilating?
+dialog: 
+speaker_heading: SHARON
+dialog: Tumescent!
+dialog: 
+speaker_heading: WALTER
+dialog: (to Sharon; as he
+dialog: leaves)
+dialog: You're not helping.
+dialog: 
+scene_heading: INT. TUTORING ROOM - DAY
+dialog: 
+text: Cameron sits with an empty chair beside him. Bianca arrives
+text: in a flurry of blonde hair.
+dialog: 
+speaker_heading: BIANCA
+dialog: Can we make this quick? Roxanne
+text: Korrine and Andrew Barrett are having an
+text: incredibly horrendous public break- up
+text: on the quad. Again.
+dialog: 
+speaker_heading: CAMERON
+dialog: Well, I thought we'd start with
+dialog: pronunciation, if that's okay with you.
+dialog: 
+speaker_heading: BIANCA
+dialog: Not the hacking and gagging and spitting part. Please.
+dialog: 
+speaker_heading: CAMERON
+dialog: (looking down)
+dialog: Okay... then how 'bout we try out some
+dialog: French cuisine. Saturday? Night?
+dialog: 
+text: Bianca smiles slowly
+dialog: 
+speaker_heading: BIANCA
+dialog: You're asking me out. That's so cute.
+dialog: What's your name again?
+dialog: 
+speaker_heading: CAMERON
+dialog: (embarrassed)
+dialog: Forget it.
+dialog: 
+text: Bianca seizes an opportunity.
+dialog: 
+speaker_heading: BIANCA
+dialog: No, no, it's my fault -- we didn't have
+dialog: a proper introduction ---
+dialog: 
+speaker_heading: CAMERON
+dialog: Cameron.
+dialog: 
+speaker_heading: BIANCA
+dialog: The thing is, Cameron -- I'm at the
+dialog: mercy of a particularly hideous breed of
+dialog: loser. My sister. I can't date until
+text: she does.
+dialog: 
+speaker_heading: CAMERON
+dialog: Seems like she could get a date easy
+dialog: enough...
+dialog: 
+text: She fingers a lock of her hair. He looks on, dazzled.
+dialog: 
+speaker_heading: BIANCA
+dialog: 
+dialog: The problem is, she's completely anti-social.
+dialog: 
+speaker_heading: CAMERON
+dialog: Why?
+dialog: 
+speaker_heading: BIANCA
+text: Unsolved mystery. She used to be
+dialog: really popular when she started high
+dialog: school, then it was just like she got
+dialog: sick of it or something.
+dialog: 
+speaker_heading: CAMERON
+dialog: That's a shame.
+dialog: 
+text: She reaches out and touches his arm
+dialog: 
+speaker_heading: BIANCA
+dialog: Gosh, if only we could find Kat a
+dialog: boyfriend...
+dialog: 
+speaker_heading: CAMERON
+dialog: Let me see what I can do.
+dialog: 
+text: Cameron smiles, having no idea how stupid he is
+dialog: 
+scene_heading: INT. BIOLOGY CLASS
+dialog: 
+text: A frog is being torn asunder by several prongs and picks.
+text: Michael and Cameron go for the spleen.
+dialog: 
+speaker_heading: MICHAEL
+dialog: You're in school for one day and you
+dialog: ask out the most beautiful girl? Do you
+dialog: have no concept of the high school
+dialog: social code?
+dialog: 
+text: Cameron grins away
+dialog: 
+speaker_heading: CAMERON
+dialog: I teach her French, get to know her,
+text: dazzle her with charm and she falls in
+dialog: love with me.
+dialog: 
+speaker_heading: MICHAEL
+text: Unlikely, but even so, she still can't
+dialog: go out with you. So what's the
+dialog: point?
+dialog: 
+text: Cameron motions with his head toward Patrick, a few lab
+text: tables away. He's wearing biker glasses instead of goggles
+text: as he tries to revive his frog.
+dialog: 
+speaker_heading: CAMERON
+dialog: What about him?
+dialog: 
+speaker_heading: MICHAEL
+dialog: (confused)
+dialog: You wanna go out with him?
+dialog: 
+text: The others at the lab table raise their eyebrows
+dialog: 
+speaker_heading: CAMERON
+dialog: (impatient)
+dialog: No - he could wrangle with the sister.
+dialog: 
+text: Michael smiles. Liking the intrigue.
+dialog: 
+speaker_heading: MICHAEL
+dialog: What makes you think he'll do it?
+dialog: 
+speaker_heading: CAMERON
+text: He seems like he thrives on danger
+dialog: 
+speaker_heading: MICHAEL
+dialog: No kidding. He's a criminal. I heard
+text: he lit a state trooper on fire. He just
+dialog: got out of Alcatraz...
+dialog: 
+speaker_heading: CAMERON
+dialog: They always let felons sit in on Honors
+dialog: Biology?
+dialog: 
+speaker_heading: MICHAEL
+dialog: I'm serious, man, he's whacked. He
+dialog: sold his own liver on the black market
+dialog: so he could buy new speakers.
+dialog: 
+speaker_heading: CAMERON
+dialog: Forget his reputation. Do you think
+dialog: we've got a plan or not?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Did she actually say she'd go out with
+dialog: you?
+dialog: 
+speaker_heading: CAMERON
+dialog: That's what I just said
+dialog: 
+text: Michael processes this.
+dialog: 
+speaker_heading: MICHAEL
+dialog: You know, if you do go out with Bianca,
+dialog: you'd be set. You'd outrank everyone.
+dialog: Strictly A-list. With me by your side.
+dialog: 
+speaker_heading: CAMERON
+dialog: I thought you hated those people.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Hey -- I've gotta have a few clients
+dialog: when I get to Wall Street.
+dialog: 
+text: A cowboy flicks the frog's heart into one of the Coffee
+text: Kid's latte. Cameron presses on, over the melee.
+dialog: 
+speaker_heading: CAMERON
+dialog: So now all we gotta do is talk to him.
+dialog: 
+text: He points to Patrick, who now makes his frog hump another
+text: frog, with full-on sound effects.
+dialog: 
+speaker_heading: MICHAEL
+dialog: I'll let you handle that.
+dialog: 
+scene_heading: INT. WOODSHOP - DAY
+dialog: 
+text: Boys and a few stray girls nail their pieces of wood
+dialog: 
+text: Michael sits next to PEPE, a Coffee Kid, who holds out his
+text: jacket like the men who sell watches in the subway. Inside
+text: several bags of coffee hang from hooks.
+dialog: 
+speaker_heading: PEPE
+dialog: Some people like the Colombian, but it
+dialog: all depends on your acidity preference.
+dialog: Me? I prefer East African and
+dialog: Indonesian. You start the day with a
+dialog: Sumatra Boengie or maybe and Ethiopian
+dialog: Sidamo in your cup, you're that much
+dialog: farther ahead than someone drinkin'
+dialog: Cosia Rican or Kona -- you know what I
+dialog: mean?
+dialog: 
+text: Michael nods solemnly.
+dialog: 
+scene_heading: ACROSS THE ROOM
+dialog: 
+text: Patrick sits at a table with Scurvy, making something that
+text: looks like a machete out of a two-by-four.
+dialog: 
+text: Cameron approaches, full of good-natured farm boy cheer
+dialog: 
+speaker_heading: CAMERON
+dialog: Hey, there
+dialog: 
+text: In response, Patrick brandishes a loud POWER TOOL in his
+dialog: direction.
+dialog: 
+text: Cameron slinks away.
+dialog: 
+speaker_heading: CAMERON
+dialog: (continuing)
+dialog: Later, then.
+dialog: 
+text: Michael watches, shaking his head.
+dialog: 
+scene_heading: INT. CAFETERIA - DAY
+dialog: 
+text: Joey and his pals take turns drawing boobs onto a cafeteria
+text: tray with a magic marker.
+dialog: 
+text: Michael walks up and sits between them, casual as can be
+dialog: 
+speaker_heading: MICHAEL
+dialog: Hey.
+dialog: 
+speaker_heading: JOEY
+dialog: Are you lost?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Nope - just came by to chat
+dialog: 
+speaker_heading: JOEY
+dialog: We don't chat.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Well, actually, I thought I'd run an
+dialog: idea by you. You know, just to see if
+dialog: you're interested.
+dialog: 
+speaker_heading: JOEY
+dialog: We're not.
+dialog: 
+text: He grabs Michael by the side of the head, and proceeds to
+text: draw a penis on his cheek with the magic marker. Michael
+text: suffers the indignity and speaks undaunted.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (grimacing)
+dialog: Hear me out. You want Bianca don't
+dialog: you?
+dialog: 
+text: Joey sits back and cackles at his drawing.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing)
+dialog: But she can't go out with you because
+dialog: her sister is this insane head case and
+dialog: no one will go out with her. right?
+dialog: 
+speaker_heading: JOEY
+dialog: Does this conversation have a purpose?
+dialog: 
+speaker_heading: MICHAEL
+dialog: So what you need to do is recruit a guy
+dialog: who'll go out with her. Someone who's
+dialog: up for the job.
+dialog: 
+text: Michael points to Patrick, who makes a disgusted face at his
+text: turkey pot pie before he rises and throws it at the garbage
+text: can, rather than in it.
+dialog: 
+speaker_heading: JOEY
+dialog: 
+dialog: That guy? I heard he ate a live duck once. Everything but
+text: the beak and the feet.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Exactly
+dialog: 
+text: Joey turns to look at Michael.
+dialog: 
+speaker_heading: JOEY
+dialog: 
+dialog: What's in it for you?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Oh, hey, nothin' man Purely good will
+dialog: on my part.
+dialog: 
+text: He rises to leave and turns to the others.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing)
+dialog: I have a dick on my face, don't I?
+dialog: 
+scene_heading: INT. BOY'S ROOM - DAY
+dialog: 
+text: Michael stands at the sink, trying to scrub Joey's artwork
+text: off his face as Cameron watches.
+dialog: 
+speaker_heading: CAMERON
+dialog: You got him involved?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Like we had a choice? Besides -- when
+dialog: you let the enemy think he's
+dialog: orchestrating the battle, you're in a
+dialog: position of power. We let him pretend
+text: he's calling the shots, and while he's
+dialog: busy setting up the plan, you have time
+dialog: to woo Bianca.
+dialog: 
+text: Cameron grins and puts an arm around him
+dialog: 
+speaker_heading: CAMERON
+dialog: You're one brilliant guy
+dialog: 
+text: Michael pulls back, noticing other guys filing in.
+dialog: 
+speaker_heading: MICHAEL
+dialog: 
+dialog: Hey - I appreciate gratitude as much as the next guy, but
+dialog: it's not gonna do you any good to be known as New Kid Who
+text: Embraces Guys In The Bathroom.
+dialog: 
+text: Cameron pulls back and attempts to posture himself in a
+text: manly way for the others, now watching.
+dialog: 
+scene_heading: INT. KENNY'S THAI FOOD DINER - DAY
+dialog: 
+text: Kat and Mandella pick apart their pad thai. Mandella is
+dialog: smoking.
+dialog: 
+speaker_heading: KAT
+dialog: So he has this huge raging fit about
+dialog: Sarah Lawrence and insists that I go to
+text: his male-dominated, puking frat boy,
+dialog: number one golf team school. I have no
+dialog: say at all.
+dialog: 
+speaker_heading: MANDELLA
+dialog: William would never have gone to a
+dialog: state school.
+dialog: 
+speaker_heading: KAT
+dialog: William didn't even go to high school
+dialog: 
+speaker_heading: MANDELLA
+dialog: That's never been proven
+dialog: 
+speaker_heading: KAT
+text: Neither has his heterosexuality.
+dialog: 
+text: Mandella replies with a look of ice. Kat uses the moment to
+text: stub out Mandella's cigarette.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: I appreciate your efforts toward a
+dialog: speedy death, but I'm consuming.
+dialog: (pointing at her
+dialog: food)
+dialog: Do you mind?
+dialog: 
+speaker_heading: MANDELLA
+dialog: Does it matter?
+dialog: 
+speaker_heading: KAT
+dialog: If I was Bianca, it would be, "Any
+dialog: school you want, precious. Don't forget
+dialog: your tiara."
+dialog: 
+text: They both look up as Patrick enters. He walks up to the
+text: counter to place his order.
+dialog: 
+text: Mandella leans toward Kat with the glow of fresh gossip
+dialog: 
+speaker_heading: MANDELLA
+dialog: Janice Parker told me he was a roadie
+dialog: for Marilyn Manson.
+dialog: 
+text: Patrick nods at them as he takes his food outside.
+dialog: 
+speaker_heading: KAT
+dialog: Janice Parker is an idiot
+dialog: 
+scene_heading: INT. MISS PERKY'S OFFICE - DAY
+dialog: 
+text: Patrick sits before Miss Perky, eating his Thai food
+dialog: 
+speaker_heading: MISS PERKY
+dialog: (looking at chart)
+dialog: I don't understand, Patrick. You
+dialog: haven't done anything asinine this week.
+dialog: Are you not feeling well?
+dialog: 
+speaker_heading: PATRICK
+dialog: Touch of the flu.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: I'm at a loss, then. What should we
+dialog: talk about? Your year of absence?
+dialog: 
+text: He smiles his charming smile
+dialog: 
+speaker_heading: PATRICK
+dialog: How 'bout your sex life?
+dialog: 
+text: She tolerates his comment with her withering glance.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: Why don't we discuss your driving need
+dialog: to be a hemorrhoid?
+dialog: 
+speaker_heading: PATRICK
+dialog: What's to discuss?
+dialog: 
+speaker_heading: MISS PERKY
+dialog: You weren't abused, you aren't stupid,
+dialog: and as far as I can tell, you're only
+dialog: slightly psychotic -- so why is it that
+dialog: you're such a fuck-up?
+dialog: 
+speaker_heading: PATRICK
+dialog: Well, you know -- there's the prestige
+dialog: of the job title... and the benefits
+dialog: package is pretty good...
+dialog: 
+text: The bell RINGS.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: Fine. Go do something repugnant and
+dialog: give us something to talk about next
+dialog: week.
+dialog: 
+scene_heading: INT. TUTORING ROOM - DAY
+dialog: 
+text: Several pairs of tutors and students sit at the various
+text: desks.
+dialog: 
+text: Mandella sits with TREVOR, a White Rasta. She attempts to
+text: get him to do geometry, but he stares at her, as if smitten
+dialog: 
+speaker_heading: MANDELLA
+dialog: Look, it's really easy.
+dialog: 
+speaker_heading: TREVOR
+dialog: You're a freedom fighter. Be proud,
+dialog: sister.
+dialog: 
+text: Mandella sets down her pencil and closes the book.
+dialog: 
+speaker_heading: MANDELLA
+dialog: (rotely)
+dialog: It's Mandella with two L's. I am not
+dialog: related to Nelson Mandela. I am not a
+dialog: political figure. I do not live in
+dialog: South Africa. My parents just spent a
+dialog: few too many acid trips thinking they
+dialog: were revolutionaries.
+dialog: 
+speaker_heading: TREVOR
+dialog: But you freed our people
+dialog: 
+speaker_heading: MANDELLA
+dialog: Your "people" are white, suburban high
+dialog: school boys who smoke too much hemp. I
+dialog: have not freed you, Trevor.
+text: (grabbing his arm
+dialog: dramatically)
+dialog: Only you can free yourself.
+dialog: 
+text: ACROSS THE ROOM Bianca and Cameron sit side by side, cozy as
+dialog: can be
+dialog: 
+speaker_heading: BIANCA
+dialog: C'esc ma tete. This is my head
+dialog: 
+speaker_heading: CAMERON
+dialog: Right. See? You're ready for the
+dialog: quiz.
+dialog: 
+speaker_heading: BIANCA
+dialog: I don't want to know how to say that
+dialog: though. I want to know useful things.
+dialog: Like where the good stores are. How
+dialog: much does champagne cost? Stuff like
+dialog: Chat. I have never in my life had to
+text: point out my head to someone.
+dialog: 
+speaker_heading: CAMERON
+dialog: That's because it's such a nice one.
+dialog: 
+speaker_heading: BIANCA
+dialog: Forget French.
+dialog: 
+text: She shuts her book and puts on a seductive smile
+dialog: 
+speaker_heading: BIANCA
+dialog: (continuing)
+dialog: How is our little Find the Wench A Date
+dialog: plan progressing?
+dialog: 
+speaker_heading: CAMERON
+dialog: Well, there's someone I think might be
+dialog: --
+dialog: 
+text: Bianca's eyes light up
+dialog: 
+speaker_heading: BIANCA
+dialog: Show me
+dialog: 
+scene_heading: INT. HALLWAY - DAY
+dialog: 
+text: Cameron and Bianca lean against the wall -inconspicuously.
+dialog: Bianca plays it cool.
+dialog: 
+speaker_heading: BIANCA
+dialog: Give me a sign when he walks by. And
+dialog: don't point.
+dialog: 
+text: The bell RINGS. Kids flood past. Then Patrick saunters by
+text: with Scurvy. Cameron nudges Bianca.
+dialog: 
+speaker_heading: CAMERON
+dialog: There.
+dialog: 
+speaker_heading: BIANCA
+dialog: Where?
+dialog: 
+text: Out of desperation, Cameron awkwardly lunges across
+text: Patrick's path. Patrick shoves him back against the wall
+text: without a thought. Cameron lands in a THUD at Bianca's
+dialog: feet.
+dialog: 
+speaker_heading: CAMERON
+dialog: I guess he didn't see me
+dialog: (calling after
+dialog: Patrick)
+dialog: Some other time --
+dialog: 
+text: Bianca watches Patrick, a wicked gleam in her eye.
+dialog: 
+speaker_heading: BIANCA
+dialog: My God, he's repulsive. He's so
+dialog: perfect!
+dialog: 
+scene_heading: INT. GYM CLASS - DAY
+dialog: 
+text: Several volleyball games are being played.
+dialog: 
+text: Joey and a member of his hulking entourage, approach
+text: Patrick, who still manages to look cool, even in gym
+text: clothes. They pull him aside roughly.
+dialog: 
+speaker_heading: PATRICK
+dialog: (shrugging them
+dialog: off)
+dialog: What?
+dialog: 
+dialog: Joey points
+dialog: 
+dialog: JOEY See that girl?
+dialog: 
+text: Patrick follows his line of vision to Kat as she spikes the
+text: ball into some poor cowboy's face.
+dialog: 
+speaker_heading: PATRICK
+dialog: Yeah
+dialog: 
+speaker_heading: JOEY
+dialog: What do you think?
+dialog: 
+text: Kat wins the game and high fives the others, who are scared
+dialog: of her.
+dialog: 
+speaker_heading: PATRICK
+dialog: Two legs, nice rack...
+dialog: 
+speaker_heading: JOEY
+dialog: Yeah, whatever. I want you to go out
+text: with her.
+dialog: 
+speaker_heading: PATRICK
+dialog: Sure, Sparky. I'll get right on it.
+dialog: 
+speaker_heading: JOEY
+dialog: You just said
+dialog: 
+speaker_heading: PATRICK
+dialog: You need money to take a girl out
+dialog: 
+speaker_heading: JOEY
+dialog: But you'd go out with her if you had
+dialog: the cake?
+dialog: 
+text: Patrick stares at Joey deadpan. His dislike for the guy
+text: obvious.
+dialog: 
+speaker_heading: PATRICK
+dialog: (sarcastic)
+dialog: Yeah, I'd take her to Europe if I had
+dialog: the plane.
+dialog: 
+text: Joey smiles.
+dialog: 
+speaker_heading: JOEY
+dialog: You got it, Verona. I pick up the tab,
+dialog: you do the honors.
+dialog: 
+speaker_heading: PATRICK
+dialog: You're gonna pay me to take out some
+dialog: girl?
+dialog: 
+speaker_heading: JOEY
+dialog: I can't date her sister until that one
+dialog: gets a boyfriend. And that's the catch.
+dialog: She doesn't want a boyfriend.
+dialog: 
+speaker_heading: PATRICK
+dialog: How much?
+dialog: 
+speaker_heading: JOEY
+dialog: 
+dialog: Twenty bucks each time you take her out.
+dialog: 
+speaker_heading: PATRICK
+dialog: I can't take a girl like that out on
+dialog: twenty bucks.
+dialog: 
+speaker_heading: JOEY
+dialog: Fine, thirty.
+dialog: 
+text: Patrick raises an eyebrow, urging him up
+dialog: 
+speaker_heading: JOEY
+dialog: (continuing)
+dialog: Take it or leave it. This isn't a
+dialog: negotiation.
+dialog: 
+speaker_heading: PATRICK
+dialog: Fifty, and you've got your man.
+dialog: 
+text: Patrick walks away with a smile
+dialog: 
+scene_heading: EXT. FIELD HOCKEY FIELD - DAY
+dialog: 
+text: Kat and the rest of the team go through a grueling practice
+text: session. Kat spares no one as she whips the ball all over
+dialog: the field.
+dialog: 
+text: Patrick sits on the bleachers nearby, watching. A cigarette
+text: dangles from his mouth. His pal, SCURVY is next to him.
+dialog: 
+text: MR. CHAPIN, the coach, blows the WHISTLE.
+dialog: 
+speaker_heading: MR. CHAPIN
+dialog: (proudly)
+dialog: Good run, Stratford.
+dialog: 
+text: Kat nods in response, and the girls leave the field. Patrick
+text: hops down to follow.
+dialog: 
+speaker_heading: PATRICK
+dialog: Hey. Girlie.
+dialog: 
+text: Kat stops and turns slowly to look at him.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: I mean Wo-man. How ya doin'?
+dialog: 
+speaker_heading: KAT
+dialog: (smiles brightly)
+text: Sweating like a pig, actually. And
+dialog: yourself?
+dialog: 
+speaker_heading: PATRICK
+dialog: There's a way to get a guy's attention.
+dialog: 
+speaker_heading: KAT
+dialog: My mission in life.
+dialog: 
+text: She stands there undaunted, hand on hip.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: Obviously, I've struck your fancy. So,
+dialog: you see, it worked. The world makes
+dialog: sense again.
+dialog: 
+text: Patrick's eyes narrow. He steps closer.
+dialog: 
+speaker_heading: PATRICK
+dialog: Pick you up Friday, then
+dialog: 
+speaker_heading: KAT
+dialog: Oh, right. Friday.
+dialog: 
+text: PATRICK backs up a little. He uses his most seductive tone
+dialog: 
+speaker_heading: PATRICK
+dialog: The night I take you to places you've
+dialog: never been before. And back.
+dialog: 
+speaker_heading: KAT
+dialog: Like where? The 7-Eleven on Burnside?
+dialog: Do you even know my name, screwboy?
+dialog: 
+speaker_heading: PATRICK
+dialog: I know a lot more than that
+dialog: 
+text: Kat stares at him.
+dialog: 
+speaker_heading: KAT
+text: Doubtful. Very doubtful.
+dialog: 
+text: She walks away quickly, leaving him standing alone.
+dialog: 
+speaker_heading: PATRICK
+dialog: (calling after her)
+dialog: You're no bargain either, sweetheart.
+dialog: 
+text: Scurvy appears at his side
+dialog: 
+speaker_heading: SCURVY
+dialog: So I guess the Jeep won't be getting a
+dialog: new Blaupunkt.
+dialog: 
+text: ACROSS THE FIELD Cameron and Michael watch.
+dialog: 
+speaker_heading: MICHAEL
+text: He took the bait.
+dialog: 
+scene_heading: STRATFORD HOUSE/BATHROOM - NIGHT
+dialog: 
+text: Kat washes her face at the sink. Bianca appears behind her,
+text: and attempts to twist Kat's hair into a chignon.
+dialog: 
+text: She wacks Bianca away.
+dialog: 
+speaker_heading: BIANCA
+dialog: Have you ever considered a new look? I
+dialog: mean, seriously, you could have some
+dialog: potential buried under all this
+dialog: hostility.
+dialog: 
+text: Kat pushes past her into the hallway.
+dialog: 
+speaker_heading: KAT
+dialog: I have the potential to smack the crap
+dialog: out of you if you don't get out of my
+dialog: way.
+dialog: 
+speaker_heading: BIANCA
+dialog: Can you at least start wearing a bra?
+dialog: 
+text: Kat SLAMS her door in response.
+dialog: 
+scene_heading: INT. HALLWAY - DAY
+dialog: 
+text: Patrick, Scurvy and some other randoms head for the exit
+dialog: 
+dialog: SCURVY You up for a burger?
+dialog: 
+text: Patrick looks in his wallet. It's empty.
+dialog: 
+scene_heading: INT. HALLWAY - DAY
+dialog: 
+text: Kat stands at her locker, gathering her books. Patrick
+text: appears at her side, smiling.
+dialog: 
+speaker_heading: PATRICK
+dialog: Hey
+dialog: 
+text: Kat doesn't answer
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: You hate me don't you?
+dialog: 
+speaker_heading: KAT
+dialog: I don't really think you warrant that
+text: strong an emotion.
+dialog: 
+speaker_heading: PATRICK
+dialog: Then say you'll spend Dollar Night at
+dialog: the track with me.
+dialog: 
+speaker_heading: KAT
+dialog: And why would I do that?
+dialog: 
+speaker_heading: PATRICK
+dialog: Come on -- the ponies, the flat beer,
+dialog: you with money in your eyes, me with my
+dialog: hand on your ass...
+dialog: 
+speaker_heading: KAT
+dialog: You -- covered in my vomit.
+dialog: 
+speaker_heading: PATRICK
+dialog: Seven-thirty?
+dialog: 
+text: She slams her locker shut and walks away
+dialog: 
+scene_heading: EXT. DOWNTOWN STREET - NIGHT
+dialog: 
+text: Kat emerges from a music store carrying a bag of CDs in her
+text: teeth, and fumbling through her purse with both hands. She
+text: finds her keys and pulls them out with a triumphant tug.
+dialog: 
+text: She looks up and finds Patrick sitting on the hood of her
+dialog: car
+dialog: 
+speaker_heading: PATRICK
+text: Nice ride. Vintage fenders.
+dialog: 
+text: Kat takes the bag out of her mouth.
+dialog: 
+speaker_heading: KAT
+dialog: Are you following me?
+dialog: 
+speaker_heading: PATRICK
+dialog: I was in the laundromat. I saw your
+dialog: car. Thought I'd say hi.
+dialog: 
+speaker_heading: KAT
+dialog: Hi
+dialog: 
+text: She gets in and starts the car.
+dialog: 
+speaker_heading: PATRICK
+dialog: You're not a big talker, are you?
+dialog: 
+speaker_heading: KAT
+dialog: Depends on the topic. My fenders don't
+text: really whip me into a verbal frenzy.
+dialog: 
+text: She starts to pull out, and is blocked by Joey's Viper,
+text: which pulls up perpendicular to her rear and parks.
+dialog: 
+text: Joey and his groupies emerge and head for the liquor store
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: Hey -- do you mind?
+dialog: 
+speaker_heading: JOEY
+dialog: Not at all
+dialog: 
+text: They continue on into the store. Kat stares at them in
+dialog: disbelief...
+dialog: 
+text: Then BACKS UP
+dialog: 
+text: Her vintage fenders CRASH into the door of Joey's precious
+dialog: Viper.
+dialog: 
+text: Patrick watches with a delighted grin Joey races out of the
+dialog: liquor store.
+dialog: 
+speaker_heading: JOEY
+dialog: (continuing)
+dialog: You fucking bitch!
+dialog: 
+text: Kat pulls forward and backs into his car again. Smiling
+dialog: sweetly.
+dialog: 
+scene_heading: INT. STRATFORD HOUSE - NIGHT
+dialog: 
+text: Walter paces as Kat sits calmly on the couch.
+dialog: 
+speaker_heading: WALTER
+dialog: My insurance does not cover PMS
+dialog: 
+speaker_heading: KAT
+dialog: Then tell them I had a seizure.
+dialog: 
+speaker_heading: WALTER
+dialog: Is this about Sarah Lawrence? You
+dialog: punishing me?
+dialog: 
+speaker_heading: KAT
+dialog: I thought you were punishing me.
+dialog: 
+speaker_heading: WALTER
+dialog: Why can't we agree on this?
+dialog: 
+speaker_heading: KAT
+dialog: Because you're making decisions for me.
+dialog: 
+speaker_heading: WALTER
+dialog: As a parent, that's my right
+dialog: 
+speaker_heading: KAT
+dialog: So what I want doesn't matter?
+dialog: 
+speaker_heading: WALTER
+dialog: You're eighteen. You don't know what
+dialog: you want. You won't know until you're
+dialog: forty-five and you don't have it.
+dialog: 
+speaker_heading: KAT
+dialog: (emphatic)
+dialog: I want to go to an East Coast school! I
+dialog: want you to trust me to make my own
+dialog: choices. I want --
+dialog: 
+text: Walter's BEEPER goes off
+dialog: 
+speaker_heading: WALTER
+dialog: Christ! I want a night to go by that
+dialog: I'm not staring a contraction in the
+dialog: face.
+dialog: 
+text: He walks out, leaving Kat stewing on the couch.
+dialog: 
+scene_heading: INT. HALLWAY - DAY
+dialog: 
+text: Patrick shuts his graffiti-encrusted locker, revealing
+text: Joey's angry visage, glowering next to him.
+dialog: 
+speaker_heading: JOEY
+dialog: When I shell out fifty, I expect
+dialog: results.
+dialog: 
+speaker_heading: PATRICK
+dialog: I'm on it
+dialog: 
+speaker_heading: JOEY
+dialog: Watching the bitch trash my car doesn't
+dialog: count as a date.
+dialog: 
+speaker_heading: PATRICK
+dialog: I got her under control. She just acts
+text: crazed in public to keep up the image.
+dialog: 
+text: Joey sees through the bluff
+dialog: 
+speaker_heading: JOEY
+dialog: Let me put it to you this way, if you
+dialog: don't get any action, I don't get any
+dialog: action. So get your ass on hers by the
+dialog: end of the week.
+dialog: 
+text: Joey starts to walk off
+dialog: 
+speaker_heading: PATRICK
+dialog: I just upped my price
+dialog: 
+speaker_heading: JOEY
+dialog: (turning)
+dialog: What?
+dialog: 
+speaker_heading: PATRICK
+dialog: A hundred bucks a date.
+dialog: 
+speaker_heading: JOEY
+dialog: Forget it.
+dialog: 
+speaker_heading: PATRICK
+dialog: Forget her sister, then.
+dialog: 
+text: Joey thinks for a frustrated moment, PUNCHES the locker,
+text: then peels another fifty out of his wallet with a menacing
+dialog: scowl.
+dialog: 
+speaker_heading: JOEY
+dialog: You better hope you're as smooth as you
+dialog: think you are, Verona.
+dialog: 
+text: Patrick takes the money with a smile.
+dialog: 
+scene_heading: INT. TUTORING ROOM - DAY
+text: Cameron runs a sentence past Bianca.
+dialog: 
+speaker_heading: CAMERON
+dialog: La copine et I 'ami? La diferance?
+dialog: 
+text: Bianca glares at him.
+dialog: 
+speaker_heading: BIANCA
+dialog: A "copine" is someone you can count on.
+dialog: An "ami" is someone who makes promises
+dialog: he can't keep.
+dialog: 
+dialog: Cameron closes the French book
+dialog: 
+speaker_heading: CAMERON
+dialog: You got something on your mind?
+dialog: 
+speaker_heading: BIANCA
+dialog: I counted on you to help my cause. You
+text: and that thug are obviously failing.
+dialog: Aren't we ever going on our date?
+dialog: 
+text: He melts
+dialog: 
+speaker_heading: CAMERON
+dialog: You have my word. As a gentleman
+dialog: 
+speaker_heading: BIANCA
+dialog: You're sweet.
+dialog: 
+text: She touches his hand. He blushes at her praise and watches
+text: her toss her hair back
+dialog: 
+speaker_heading: CAMERON
+dialog: (appreciative)
+dialog: How do you get your hair to look like
+dialog: that?
+dialog: 
+speaker_heading: BIANCA
+text: Eber's Deep Conditioner every two days.
+dialog: And I never, ever use a blowdryer
+text: without the diffuser attachment.
+dialog: 
+text: Cameron nods with interest.
+dialog: 
+speaker_heading: CAMERON
+dialog: You know, I read an article about that.
+dialog: 
+text: Bianca looks surprised.
+dialog: 
+speaker_heading: BIANCA
+dialog: You did?
+dialog: 
+scene_heading: INT. BOY'S ROOM - DAY
+dialog: 
+text: Patrick stands at the sink, washing his hands Michael and
+text: Cameron cower in the corner, watching him.
+dialog: 
+speaker_heading: PATRICK
+dialog: (without turning
+dialog: around)
+dialog: Say it
+dialog: 
+speaker_heading: MICHAEL
+dialog: (clearing his
+dialog: throat)
+dialog: What?
+dialog: 
+speaker_heading: PATRICK
+dialog: Whatever the hell it is you're standin'
+dialog: there waitin' to say.
+dialog: 
+text: Cameron bravely steps forward
+dialog: 
+speaker_heading: CAMERON
+dialog: We wanted to talk to you about the
+dialog: plan.
+dialog: 
+text: Patrick turns toward them.
+dialog: 
+speaker_heading: PATRICK
+dialog: What plan?
+dialog: 
+speaker_heading: MICHAEL
+dialog: The situation is, my man Cameron here
+text: has a major jones for Bianca Stratford.
+dialog: 
+speaker_heading: PATRICK
+dialog: What is it with this chick? She have
+dialog: three tits?
+dialog: 
+text: Cameron starts to object, but Michael holds up a hand.
+dialog: 
+speaker_heading: MICHAEL
+dialog: I think I speak correctly when I say
+text: that Cameron's love is pure. Purer than
+dialog: say -- Joey Dorsey's.
+dialog: 
+speaker_heading: PATRICK
+dialog: Dorsey can plow whoever he wants. I'm
+dialog: just in this for the cash.
+dialog: 
+text: Cameron starts choking at the thought of Joey plowing his
+dialog: beloved Bianca.
+dialog: 
+speaker_heading: MICHAEL
+dialog: That's where we can help you. With
+dialog: Kat.
+dialog: 
+speaker_heading: PATRICK
+dialog: So Dorsey can get the girl?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Patrick, Pat, you're not looking at the
+dialog: big picture. Joey's just a pawn. We set
+dialog: this whole thing up so Cameron can get
+dialog: the girl.
+dialog: 
+text: Patrick smiles. He likes the idea of Joey being a pawn in
+dialog: this game.
+dialog: 
+speaker_heading: PATRICK
+dialog: You two are gonna help me tame the wild
+dialog: beast?
+dialog: 
+speaker_heading: MICHAEL
+dialog: (grinning)
+dialog: We're your guys.
+dialog: 
+speaker_heading: CAMERON
+dialog: And he means that strictly in a non-
+dialog: prison-movie type of way.
+dialog: 
+speaker_heading: PATRICK
+dialog: Yeah -- we'll see.
+dialog: 
+text: He swings the door open and exits, leaving Michael and
+text: Cameron grinning at each other.
+dialog: 
+speaker_heading: MICHAEL
+dialog: We're in.
+dialog: 
+scene_heading: INT. CLASSROOM - DAY
+dialog: 
+text: CU on a party invitation as it gets handed out. "Future
+text: Princeton Grad Bogey Lowenstein proudly presents a Saturday
+text: night bash at his abode. Casual attire".
+dialog: 
+text: Michael holds the invitation up to Cameron.
+dialog: 
+speaker_heading: CAMERON
+dialog: This is it. A golden opportunity.
+text: Patrick can ask Katarina to the party.
+dialog: 
+speaker_heading: MICHAEL
+dialog: In that case, we'll need to make it a
+text: school-wide blow out.
+dialog: 
+speaker_heading: CAMERON
+dialog: Will Bogey get bent?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Are you kidding? He'll piss himself
+dialog: with joy. He's the ultimate kiss ass.
+dialog: 
+scene_heading: CAFETERIA - DAY
+dialog: 
+text: Michael hands a jock the party invite as they pass each
+text: other at the trash cans.
+dialog: 
+scene_heading: INT. GYM CLASS - DAY
+dialog: 
+text: The jock calls a fellow jock
+dialog: 
+scene_heading: INT. MATH CLASS - DAY
+dialog: 
+text: Jock whispers to a cheerleader
+dialog: 
+scene_heading: COURTYARD - DAY
+dialog: 
+text: The cheerleader calls a White Rasta that she's making out
+text: with, showing him the invite.
+dialog: 
+speaker_heading: TRACK - DAY
+dialog: 
+text: The White Rasta tells a cowboy as they run laps during track
+dialog: practice.
+dialog: 
+scene_heading: INT. SHOWERS - DAY
+dialog: 
+text: The cowboy Cells a Coffee Kid, as he shields his java from
+text: the spray of the shower.
+dialog: 
+scene_heading: INT. HALLWAY - DAY
+dialog: 
+text: Joey stands ac his open locker with Bianca. The locker is
+text: an homage to Joey's "modeling" career. Cheesy PRINT ADS of
+text: him -- running in a field of daisies, petting a kitten, etc.
+text: -- adorn the locker door.
+dialog: 
+speaker_heading: JOEY
+dialog: Which do you like better?
+dialog: 
+text: INSERT - HEADSHOTS of Joey. In one, he's pouting in a white
+text: shirt. In the other, he's pouting in a black shirt.
+dialog: 
+speaker_heading: BIANCA
+dialog: I think I like the white shirt
+dialog: 
+text: Joey nods thoughtfully.
+dialog: 
+speaker_heading: JOEY
+dialog: It's more
+dialog: 
+speaker_heading: BIANCA
+dialog: Expensive?
+dialog: 
+dialog: 
+speaker_heading: JOEY
+dialog: Exactly
+dialog: (beat)
+dialog: So, you going to Bogey Lowenbrau's
+dialog: thing on Saturday?
+dialog: 
+speaker_heading: BIANCA
+dialog: Hopefully.
+dialog: 
+text: He gives her his best flirtatious smile
+dialog: 
+speaker_heading: JOEY
+dialog: Good, 'cause I'm not gonna bother if
+dialog: you won't be there.
+dialog: 
+text: He taps her on the nose and she giggles
+dialog: 
+scene_heading: INT. TUTORING ROOM
+text: Bianca sits across from Cameron, who's transfixed, as always
+dialog: 
+speaker_heading: BIANCA
+dialog: Have you heard about Bogey Lowenstein's
+dialog: party?
+dialog: 
+speaker_heading: CAMERON
+dialog: Sure have.
+dialog: 
+speaker_heading: BIANCA
+dialog: (pouting)
+dialog: I really, really, really wanna go, but
+dialog: I can't. Not unless my sister goes.
+dialog: 
+speaker_heading: CAMERON
+dialog: I'm workin' on it. But she doesn't seem
+dialog: to be goin' for him.
+dialog: 
+dialog: He fishes.
+dialog: 
+speaker_heading: CAMERON
+dialog: (continuing)
+dialog: She's not a...
+dialog: 
+speaker_heading: BIANCA
+dialog: Lesbian? No. I found a picture of
+dialog: Jared Leto in one of her drawers, so I'm
+dialog: pretty sure she's not harboring same-sex
+dialog: tendencies.
+dialog: 
+speaker_heading: CAMERON
+dialog: So that's the kind of guy she likes?
+dialog: Pretty ones?
+dialog: 
+speaker_heading: BIANCA
+dialog: Who knows? All I've ever heard her say
+dialog: is that she'd dip before dating a guy
+dialog: that smokes.
+dialog: 
+text: Cameron furiously takes notes
+dialog: 
+speaker_heading: CAMERON
+dialog: All right. What else is she partial
+dialog: to?
+dialog: 
+scene_heading: INT. DIVE BAR - NIGHT
+text: Patrick plays pool with some random deviant cronies.
+dialog: 
+text: He looks up when he hears a COMMOTION at the door. LOU the
+text: bouncer is in the midst of throwing Michael and Cameron out.
+dialog: 
+speaker_heading: PATRICK
+dialog: Lou, it's okay. They're with me.
+dialog: 
+text: Lou looks at Patrick, surprised, then reluctantly lets our
+text: two non-deviants pass through.
+dialog: 
+text: Patrick guides them to a table and sips from a beer.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: What've you got for me?
+dialog: 
+speaker_heading: CAMERON
+dialog: I've retrieved certain pieces of
+dialog: information on Miss Katarina Stratford I
+dialog: think you'll find helpful.
+dialog: 
+text: Cameron pulls out a piece of paper.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (to Patrick)
+dialog: 
+dialog: One question before we start -- should you be drinking
+dialog: alcohol when you don't have a liver?
+dialog: 
+speaker_heading: PATRICK
+dialog: What?!
+dialog: 
+speaker_heading: MICHAEL
+dialog: Good enough.
+dialog: 
+text: Cameron looks up at Patrick.
+dialog: 
+speaker_heading: CAMERON
+dialog: Number one. She hates smokers
+dialog: 
+speaker_heading: MICHAEL
+dialog: It's a lung cancer issue
+dialog: 
+speaker_heading: CAMERON
+dialog: Her favorite uncle
+dialog: 
+speaker_heading: MICHAEL
+text: Dead at forty-one.
+dialog: 
+text: Patrick sits up
+dialog: 
+speaker_heading: PATRICK
+dialog: Are you telling me I'm a -
+dialog: (spits the word
+dialog: out)
+dialog: "non-smoker"?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Just for now.
+dialog: 
+speaker_heading: CAMERON
+dialog: Another thing. Bianca said that Kat
+dialog: likes -- pretty guys.
+dialog: 
+text: This is met with silence. Then:
+dialog: 
+speaker_heading: PATRICK
+dialog: What? You don't think I'm pretty?
+dialog: 
+text: Michael smacks Cameron
+dialog: 
+speaker_heading: MICHAEL
+dialog: He's pretty!
+dialog: 
+speaker_heading: CAMERON
+dialog: Okay! I wasn't sure
+dialog: 
+text: Cameron goes back to the list.
+dialog: 
+speaker_heading: CAMERON
+dialog: (continuing)
+dialog: Okay -- Likes: Thai food, feminist
+text: prose, and "angry, stinky girl music of
+dialog: the indie-rock persuasion".
+dialog: 
+speaker_heading: PATRICK
+dialog: So what does that give me? I'm
+dialog: supposed to buy her some noodles and a
+text: book and sit around listening to chicks
+dialog: who can't play their instruments?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Ever been to Club Skunk?
+dialog: 
+speaker_heading: PATRICK
+dialog: Yeah.
+dialog: 
+speaker_heading: CAMERON
+text: Gigglepuss is playing there tomorrow
+dialog: night.
+dialog: 
+speaker_heading: PATRICK
+dialog: Don't make me do it, man
+dialog: 
+speaker_heading: MICHAEL
+dialog: Assail your ears for one night.
+dialog: 
+speaker_heading: CAMERON
+dialog: It's her favorite band.
+dialog: 
+text: Patrick groans
+dialog: 
+speaker_heading: MICHAEL
+dialog: I also retrieved a list of her most
+dialog: recent CD purchases, courtesy of
+dialog: American Express.
+dialog: 
+text: He hands it over.
+dialog: 
+speaker_heading: PATRICK
+dialog: (smiling)
+dialog: Michael -- did you get this information
+dialog: "illegally"?
+dialog: 
+text: Michael puts a finger to his lips.
+dialog: 
+speaker_heading: MICHAEL
+dialog: I prefer to think of it simply as an
+dialog: alternative to what the law allows.
+dialog: 
+speaker_heading: PATRICK
+dialog: I'm likin' you guys better
+dialog: 
+text: He looks down at the list of CDs.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: This is really music?
+dialog: 
+scene_heading: INT. KAT'S ROOM - NIGHT
+dialog: 
+text: MUSIC BLARES in a room with minimalist decor splashed with
+text: indie rock band posters and flyers.
+dialog: 
+text: Kat and Mandella dance as they dress and apply make-up
+text: Bianca enters, interrupting their fun.
+dialog: 
+speaker_heading: BIANCA
+dialog: Can you turn down the Screaming
+dialog: Menstrual Bitches? I'm trying to study.
+dialog: 
+text: Kat doesn't move, so Bianca crosses to the stereo, turning
+dialog: down the volume.
+dialog: 
+speaker_heading: BIANCA
+dialog: (continuing)
+dialog: Don't tell me you're actually going
+dialog: out? On a school night, no less.
+dialog: 
+text: Kat shoots her a glare
+dialog: 
+speaker_heading: BIANCA
+dialog: (continuing;
+dialog: excited)
+dialog: Oh my God, does this mean you're
+dialog: becoming normal?
+dialog: 
+speaker_heading: KAT
+text: It means that Gigglepuss is playing at
+dialog: Club Skunk and we're going.
+dialog: 
+speaker_heading: BIANCA
+dialog: (disappointed)
+dialog: Oh, I thought you might have a date
+dialog: (beat)
+dialog: I don't know why I'm bothering to ask,
+dialog: but are you going to Bogey Lowenstein's
+dialog: party Saturday night?
+dialog: 
+speaker_heading: KAT
+dialog: What do you think?
+dialog: 
+speaker_heading: BIANCA
+dialog: I think you're a freak. I think you do
+dialog: this to torture me. And I think you
+dialog: suck.
+dialog: 
+text: She smiles sweetly and shuts the door behind her. Kat
+text: doesn't bat an eye. She grabs her purse and opens the door
+dialog: 
+speaker_heading: KAT
+dialog: Let's hit it.
+dialog: 
+scene_heading: EXT. CLUB SKUNK - NIGHT
+dialog: 
+text: A happy black and white neon skunk sprays fine mist on the
+text: line of kids below.
+dialog: 
+scene_heading: INT. CLUB FOYER - NIGHT
+dialog: 
+text: Kat and Mandella walk in, Mandella nervously pulling out her
+text: fake ID. The giant, afroed bouncer, BRUCE, looks typically
+dialog: mono-syllabic.
+dialog: 
+speaker_heading: MANDELLA
+dialog: (whispering to Kat)
+dialog: You think this'll work?
+dialog: 
+speaker_heading: KAT
+dialog: No fear.
+dialog: 
+text: They approach Bruce. Kat puts on her happy, shiny face
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: Hello! We'd like two for Gigglepuss!
+dialog: 
+text: Bruce looks the girls up and down.
+dialog: 
+speaker_heading: BRUCE
+dialog: I can count.
+dialog: 
+text: He looks at their IDs. Mandella gently moves Kat aside,
+text: wearing a face that could only be described as "I AM a
+dialog: Victoria's Secret model."
+dialog: 
+speaker_heading: MANDELLA
+dialog: I'll bet you can..
+dialog: 
+text: She sticks out her chest and licks her lips. Bruce stares
+text: at her deadpan and hands her back the IDs.
+dialog: 
+speaker_heading: BRUCE
+dialog: Go ahead.
+dialog: (to Mandella)
+dialog: And you
+dialog: 
+speaker_heading: MANDELLA
+dialog: (all come hither)
+dialog: Yes?
+dialog: 
+speaker_heading: BRUCE
+dialog: Take it easy on the guys in there.
+dialog: 
+text: Mandella winks at him and sashays inside Kat: follows
+text: behind, shaking her head.
+dialog: 
+scene_heading: EXT. CLUB SKUNK - NIGHT
+dialog: 
+text: Patrick's mail truck clatters to a stop out front.
+dialog: 
+scene_heading: INT. CLUB FOYER - NIGHT
+dialog: 
+text: Patrick walks up to Bruce, who's frisking a badly mowhawked
+text: PIERCED EYEBROW BOY. Bruce pulls a SWITCHBLADE out of the
+text: boy's inside pocket.
+dialog: 
+speaker_heading: BRUCE
+dialog: Next time, leave the Bic at home,
+dialog: Skippy.
+dialog: 
+speaker_heading: SKIPPY
+text: It's a bottle opener.
+dialog: 
+text: Bruce pushes him inside the club, then sees Patrick.
+dialog: 
+speaker_heading: BRUCE
+dialog: Verona, my man.
+dialog: 
+text: They shake.
+dialog: 
+speaker_heading: PATRICK
+dialog: Always a pleasure, Brucie.
+dialog: 
+speaker_heading: BRUCE
+dialog: Didn't have you pegged for a Gigglepuss
+dialog: fan. Aren't they a little too pre-teen
+dialog: belly-button ring for you?
+dialog: 
+speaker_heading: PATRICK
+dialog: Fan of a fan. You see a couple of
+dialog: minors come in?
+dialog: 
+speaker_heading: BRUCE
+dialog: Never
+dialog: 
+speaker_heading: PATRICK
+text: Padua girls. One tall, decent body.
+dialog: The other one kinda short and
+dialog: undersexed?
+dialog: 
+speaker_heading: BRUCE
+dialog: Just sent 'em through.
+dialog: 
+text: Patrick starts to go in
+dialog: 
+speaker_heading: BRUCE
+dialog: (continuing)
+dialog: Hey -- what happened to that chick you
+dialog: brought last time? The one with the
+dialog: snake?
+dialog: 
+text: Patrick laughs and goes into the club
+dialog: 
+scene_heading: INT. CLUB - NIGHT
+dialog: 
+text: Onstage, the all-female band GIGGLEPUSS is parlaying their
+text: bad girl sass into a ripping punk number.
+dialog: 
+text: Near the stage is a joyful mass of pogo-ing teens AT THE BAR
+dialog: 
+text: Patrick bellies up and looks around the club. Gigglepuss
+text: finishes a song.
+dialog: 
+speaker_heading: LEAD SINGER
+dialog: Hello, out there. We're Gigglepuss and
+dialog: we're from Olympia.
+dialog: 
+text: A teenage boy in the audience takes the opportunity to
+dialog: scream.
+dialog: 
+speaker_heading: BOY (0.S.)
+dialog: Pet my kitty!
+dialog: 
+speaker_heading: LEAD SINGER
+dialog: Meow
+dialog: 
+text: They rev into their next song.
+dialog: 
+scene_heading: NEAR THE STAGE
+dialog: 
+text: Mandella and Kat glow with sweat. When they hear the
+text: opening chords of the song, they look at each other and
+text: scream with glee as they begin to dance. They couldn't be
+dialog: having a better time.
+dialog: 
+speaker_heading: AT THE BAR
+dialog: 
+text: Patrick signals to get the bartender's attention and looks
+text: across the bouncing surge of the crowd. He spots Kat and
+text: Mandella singing along.
+dialog: 
+speaker_heading: HIS POV
+dialog: 
+text: The gleeful Kat -- dancing and looking completely at ease.
+text: None of her usual "attitude". Patrick is transfixed. And
+dialog: most definitely attracted.
+dialog: 
+text: NEAR THE STAGE Kat looks at Mandella.
+dialog: 
+speaker_heading: KAT
+dialog: (shouting)
+dialog: I need agua!
+dialog: 
+text: She makes her way through the crowd to the bar. AT THE BAR
+dialog: 
+text: She made it. She signals for the bartender and as she's
+text: waiting, looks around. She spots Patrick a few feet away
+dialog: 
+speaker_heading: KAT
+dialog: (continuing to
+dialog: herself)
+dialog: Shit
+dialog: 
+text: She sneaks a glance. He's staring, but this time he looks
+text: away before she can. Despite herself, she's miffed.
+dialog: 
+text: The bartender arrives
+dialog: 
+speaker_heading: BARTENDER
+dialog: (shouting)
+dialog: What can I get you?
+dialog: 
+speaker_heading: KAT
+dialog: Two waters.
+dialog: 
+text: She looks at Patrick again. He's completely absorbed in the
+text: band. She scowls. The bottled water arrives and she
+text: marches off, forgetting to pay.
+dialog: 
+text: She walks up to Patrick.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: You're not fooling anyone.
+dialog: 
+text: Patrick looks at her, surprised
+dialog: 
+speaker_heading: PATRICK
+dialog: (yelling)
+dialog: hey. Great show, huh?
+dialog: 
+speaker_heading: KAT
+dialog: (yelling)
+dialog: 
+dialog: If you're planning on asking me out you might as well get it
+text: over with.
+dialog: 
+speaker_heading: PATRICK
+dialog: (yelling)
+dialog: Excuse me?
+dialog: 
+speaker_heading: KAT
+dialog: (yelling)
+dialog: That's what you want, isn't it?
+dialog: 
+speaker_heading: PATRICK
+dialog: (yelling; gesturing
+dialog: toward the band)
+dialog: Do you mind? You're sort of ruining it
+dialog: for me.
+dialog: 
+text: Kat steams. And watches him watch the band
+dialog: 
+speaker_heading: KAT
+dialog: (yelling)
+dialog: You're not surrounded by your usual
+text: cloud of smoke.
+dialog: 
+text: The band takes a break, so they can stop yelling now
+dialog: 
+speaker_heading: PATRICK
+dialog: I know. I quit.
+dialog: 
+text: He leans back, making no attempt to hit on her. She moves
+dialog: closer.
+dialog: 
+speaker_heading: KAT
+dialog: Oh, really?
+dialog: 
+text: He motions toward the stage
+dialog: 
+speaker_heading: PATRICK
+dialog: You know, these guys are no Bikini Kill
+dialog: or The Raincoats, but they're right up
+dialog: there.
+dialog: 
+speaker_heading: KAT
+dialog: You know who The Raincoats are?
+dialog: 
+speaker_heading: PATRICK
+dialog: Why, don't you?
+dialog: 
+text: She's completely taken aback. He uses the moment to his
+text: advantage and brushes her hair back as he speaks right into
+text: her ear.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: I watched you out there I've never
+dialog: seen you look like that
+dialog: 
+text: Kat steps away, brushing the hair back that he just touched
+text: Her cheeks pinken.
+dialog: 
+text: His cocky side is back in a flash
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: Come to that party with me.
+dialog: 
+text: At that moment, the band starts another SONG
+dialog: 
+speaker_heading: KAT
+dialog: (yelling)
+dialog: What?
+dialog: 
+text: The bartender approaches.
+dialog: 
+speaker_heading: BARTENDER
+dialog: (to Kat, yelling)
+dialog: You forgot to pay!
+dialog: 
+speaker_heading: PATRICK
+dialog: (yelling)
+dialog: I got it, Rick.
+dialog: 
+text: He tosses some bills on the bar
+dialog: 
+text: Rather than thank him, Kat simply watches him, trying to
+dialog: figure out his motive.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing;
+dialog: yelling)
+text: Nine-thirty then.
+dialog: 
+text: A few people have gotten between them at the bar and she
+text: can't hear a word he's saying. She gives him one last look
+text: and heads back into the crowd.
+dialog: 
+text: Patrick smiles. She didn't say no this time.
+dialog: 
+scene_heading: EXT. CLUB SKUNK - NIGHT
+dialog: 
+text: The crowd files out of the club, Kat and Mandella amongst
+text: them. A^ they're walking toward the parking lot, Patrick
+text: coasts by in his truck. The gears GRIND. He yells out the
+dialog: window.
+dialog: 
+speaker_heading: MANDELLA
+dialog: What'd he say?
+dialog: 
+speaker_heading: KAT
+dialog: Who cares?
+dialog: 
+text: Mandella watches Kat as she stares after Patrick
+dialog: 
+speaker_heading: MANDELLA
+dialog: Has he importun'd you with love in
+dialog: honourable fashion?
+dialog: 
+text: Kat glances sharply at her.
+dialog: 
+speaker_heading: MANDELLA
+dialog: (continuing; off
+dialog: her look)
+dialog: Don't be Cruella with me. I'm in favor
+dialog: of romance. You're the one that wants
+dialog: to march on Washington every five
+dialog: minutes.
+dialog: 
+text: Kat pokes her, then looks back at the club dreamily.
+dialog: 
+speaker_heading: KAT
+dialog: Gigglepuss was so beyond.
+dialog: 
+text: Mandella nods.
+dialog: 
+speaker_heading: MANDELLA
+dialog: They were. I only wish William could
+dialog: have been here to witness the rebirth of
+dialog: punk rock with us.
+dialog: 
+text: Kat links her arm through Mandella's and they head for the
+dialog: car.
+dialog: 
+speaker_heading: KAT
+dialog: So true.
+dialog: 
+scene_heading: INT. HALLWAY - DAY
+text: Cameron and Michael are at Michael's locker.
+dialog: 
+speaker_heading: CAMERON
+dialog: So, then she says that she almost
+dialog: didn't wear the Kenneth Coles with that
+dialog: dress because she thought she was
+dialog: mixing, you know, genres. And the fact
+dialog: that I noticed -- and I'm quoting here -
+dialog: "really meant something."
+dialog: 
+text: Cameron looks At Michael expectantly
+dialog: 
+speaker_heading: MICHAEL
+dialog: You told me that part already.
+dialog: 
+speaker_heading: CAMERON
+dialog: Hell, I've just been going over the
+dialog: whole thing in my head and -
+dialog: 
+text: Joey appears over Cameron's shoulder.
+dialog: 
+speaker_heading: JOEY
+dialog: Hey. Dingo Boingo
+dialog: 
+text: Cameron and Michael look at each other And turn around
+dialog: slowly
+dialog: 
+speaker_heading: JOEY
+dialog: (continuing; to
+dialog: Michael)
+dialog: I hear you're helpin' Verona.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Uh, yeah. We're old friend*
+dialog: 
+speaker_heading: JOEY
+dialog: You and Verona?
+dialog: 
+speaker_heading: MICHAEL
+dialog: What? We took bathes together when we
+dialog: were kids.
+dialog: 
+text: It's incredibly obvious that he's lying. Joey eyes him then
+text: turns to Cameron.
+dialog: 
+speaker_heading: JOEY
+dialog: What's your gig in all this?
+dialog: 
+speaker_heading: CAMERON
+dialog: I'm just the new guy.
+dialog: 
+text: Joey turns back to Michael, grabbing the alligator on his
+text: shirt and twisting it.
+dialog: 
+speaker_heading: JOEY
+dialog: You better not fuck this up. I'm
+dialog: heavily invested.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Hey -- it's all for the higher good
+dialog: right?
+dialog: 
+text: Joey lets go of Michael and SHOVES Cameron against a locker
+text: for good measure, as he walks away-
+dialog: 
+speaker_heading: CAMERON
+dialog: Is it about me?
+dialog: 
+scene_heading: EXT. MISS PERKY'S OFFICE - DAY
+dialog: 
+text: Kat sits outside waiting for her appointment, bored and
+dialog: annoyed.
+dialog: 
+text: The door opens and Miss Perky escorts Patrick out
+dialog: 
+speaker_heading: MISS PERKY
+dialog: You're completely demented.
+dialog: 
+speaker_heading: PATRICK
+dialog: (cheery)
+dialog: See you next week!
+dialog: 
+text: Kat stands and Patrick sees her.
+dialog: 
+text: Miss Perky watches in horror
+dialog: 
+speaker_heading: MISS PERKY
+dialog: You two know each other?
+dialog: 
+speaker_heading: PATRICK/KAT
+dialog: Yeah/No.
+dialog: 
+text: Miss Perky grabs Kat and shoves her into her office.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: (to Patrick)
+dialog: Dear God, stay away from her. If you
+dialog: two ever decided to breed, evil would
+dialog: truly walk the earth.
+dialog: 
+text: Patrick gives Kat one last look before the door shuts, then
+dialog: smiles-
+dialog: 
+scene_heading: EXT. STRATFORD HOUSE - NIGHT
+dialog: 
+text: The lights are on, illuminating the yard
+dialog: 
+scene_heading: INT. STRATFORD HOUSE/UPSTAIRS HALLWAY - NIGHT
+dialog: 
+text: Bianca and Chastity stand outside Kat's room. MUSIC is
+text: blaring and the door is shut. Bianca looks at her watch
+dialog: 
+speaker_heading: BIANCA
+text: She's obviously not going.
+dialog: 
+scene_heading: INT. LIVING ROOM - NIGHT
+dialog: 
+text: Across the carpet, two pairs of teenage girl feet sneak
+text: past. Bianca and Chastity, teddy bear purses in hand.
+dialog: 
+text: FROM THE KITCHEN A RUSTLING is heard. The girls freeze.
+dialog: 
+text: Walter emerges from the kitchen with a mile-high sandwich
+text: The girls are like statues. Walter jumps.
+dialog: 
+speaker_heading: BIANCA
+dialog: Daddy, I --
+dialog: 
+speaker_heading: WALTER
+dialog: And where're you going?
+dialog: 
+speaker_heading: BIANCA
+dialog: If you must know, we were attempting to
+text: go to a small study group of friends.
+dialog: 
+speaker_heading: WALTER
+dialog: Otherwise known as an orgy?
+dialog: 
+speaker_heading: BIANCA
+dialog: It's just a party. Daddy, but I knew
+dialog: you'd forbid me to go since "Gloria
+dialog: Steinem" over there isn't going --
+dialog: 
+text: She points to Kat -- Walkman blaring -- who comes
+text: downstairs, wearing a baby tee and battered Levis. Her
+text: relaxing-at-home look is about 400 times sexier than her at-
+text: school look. She wanders toward the kitchen.
+dialog: 
+text: Walter directs his attention toward Kat.
+dialog: 
+speaker_heading: WALTER
+dialog: Do you know about any party? Katarina?
+dialog: 
+text: Kat shrugs as she comes back out of the kitchen with an
+dialog: apple
+dialog: 
+speaker_heading: BIANCA
+dialog: Daddy, people expect me to be there!
+dialog: 
+speaker_heading: WALTER
+dialog: If Kat's not going, you're not going.
+dialog: 
+text: Bianca turns to Kat, eyes ablaze
+dialog: 
+speaker_heading: BIANCA
+dialog: You're ruining my life' Because you
+dialog: won't be normal, I can't be normal.
+dialog: 
+speaker_heading: KAT
+dialog: What's normal?
+dialog: 
+speaker_heading: BIANCA
+text: Bogey Lowenstein's party is normal, but
+dialog: you're too busy listening to Bitches Who
+dialog: Need Prozac to know that.
+dialog: 
+speaker_heading: WALTER
+dialog: What's a Bogey Lowenstein?
+dialog: 
+text: Kat takes off her earphones, ready to do battle
+dialog: 
+speaker_heading: BIANCA
+dialog: Can't you forget for just one night
+dialog: that you're completely wretched?
+dialog: 
+speaker_heading: KAT
+dialog: At least I'm not a clouted fen- sucked
+dialog: hedge-pig.
+dialog: 
+text: Bianca tosses her hair.
+dialog: 
+speaker_heading: BIANCA
+dialog: Like I'm supposed to know what that
+dialog: even means.
+dialog: 
+speaker_heading: KAT
+dialog: It's Shakespeare. Maybe you've heard
+dialog: of him?
+dialog: 
+speaker_heading: BIANCA
+dialog: Yeah, he's your freak friend Mandella's
+dialog: boyfriend. I guess since I'm not
+dialog: allowed to go out, I should obsess over
+text: a dead guy, too.
+dialog: 
+speaker_heading: WALTER
+dialog: Girls
+dialog: 
+text: Kat stares Bianca down
+dialog: 
+speaker_heading: KAT
+dialog: I know about the goddamn party. I'm
+dialog: going.
+dialog: 
+text: Bianca and Chastity look at each other, thrilled, and burst
+text: into gleeful screams.
+dialog: 
+text: A startled Walter clutches Bianca in a protective hug.
+dialog: 
+speaker_heading: WALTER
+text: Oh, God. It's starting.
+dialog: 
+speaker_heading: BIANCA
+dialog: It's just a party. Daddy.
+dialog: 
+text: Walter looks dazed.
+dialog: 
+speaker_heading: WALTER
+dialog: Wear the belly before you go.
+dialog: 
+speaker_heading: BIANCA
+dialog: Daddy, no!
+dialog: 
+speaker_heading: WALTER
+dialog: Just for a minute
+dialog: 
+text: He rushes to a cupboard and pulls out a padded faux-
+dialog: pregnancy belly.
+dialog: 
+speaker_heading: WALTER
+dialog: (continuing)
+dialog: I want you to realize the weight of
+dialog: your decisions.
+dialog: 
+text: He hangs the belly on her as she stands mortified.
+dialog: 
+speaker_heading: BIANCA
+dialog: You are so completely unbalanced.
+dialog: 
+speaker_heading: KAT
+dialog: Can we go now?
+dialog: Scanned by http://freemoviescripts.com
+dialog: Formatting by http://simplyscripts.home.att.net
+dialog: 
+speaker_heading: WALTER
+dialog: (to Bianca)
+dialog: Promise me you won't talk to any boys
+dialog: unless your sister is present.
+dialog: 
+speaker_heading: BIANCA
+dialog: Why?
+dialog: 
+speaker_heading: WALTER
+dialog: Because she'll scare them away.
+dialog: 
+text: Kat stomps to the door, grabbing her car keys off the hall
+text: table and a sweater from the coat rack. She flings open the
+dialog: door and...
+dialog: 
+dialog: There stands Patrick.
+dialog: 
+speaker_heading: PATRICK
+dialog: Nine-thirty right?
+dialog: 
+text: Kat's in shock
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: I'm early.
+dialog: 
+text: She holds up her keys
+dialog: 
+speaker_heading: KAT
+dialog: I'm driving.
+dialog: 
+text: He peeks in behind her.
+dialog: 
+speaker_heading: PATRICK
+dialog: Who knocked up your sister?
+dialog: 
+scene_heading: INT. BOGEY LOWENSTEIN'S HOUSE - NIGHT
+dialog: 
+text: BOGEY, a short Future MBA in a tux, greets his guests like a
+text: pro, handing out cigars and martinis.
+dialog: 
+speaker_heading: BOGEY
+dialog: Nice to see you. Martini bar to the
+text: right, shots in the kitchen.
+dialog: 
+text: The house is filled to capacity with Padua High's finest Kat
+text: pushes through the crowd. Patrick saunters in behind her
+dialog: 
+scene_heading: INT. BOGEY'S KITCHEN - NIGHT
+dialog: 
+text: Joey lines up a row of shots amid much whooping and
+text: hollering within the jock crowd.
+dialog: 
+text: Kat enters, then quickly tries to make an about face. Joey
+text: sees her and rushes over to block her, standing in the
+dialog: doorway.
+dialog: 
+speaker_heading: JOEY
+dialog: Lookin' fresh tonight, Pussy-Kat
+dialog: 
+text: Kat gives him a death look and then stops and points at his
+dialog: forehead.
+dialog: 
+speaker_heading: KAT
+dialog: Wait -- was that?-- Did your hairline
+dialog: just recede?
+dialog: 
+text: He panics, whipping out a handy pocket mirror She's
+text: already walking away.
+dialog: 
+speaker_heading: JOEY
+dialog: Where ya goin?
+dialog: 
+speaker_heading: KAT
+dialog: Away.
+dialog: 
+speaker_heading: JOEY
+dialog: Your sister here?
+dialog: 
+text: Kat's face shows utter hatred
+dialog: 
+speaker_heading: KAT
+dialog: Leave my sister alone.
+dialog: 
+speaker_heading: JOEY
+dialog: (smirking)
+dialog: And why would I do that?
+dialog: 
+text: A RUCKUS sounds from the next room
+dialog: 
+speaker_heading: JOCK
+dialog: A fight!
+dialog: 
+text: The other jocks rush to watch as two Coffee Kids splash
+text: their cupfuls on each other.
+dialog: 
+speaker_heading: COFFEE KID #1
+dialog: That was a New Guinea Peaberry, you
+text: Folger's-crystals-slurping-buttwipe.
+dialog: 
+text: Caffeinated fists fly. Joey slithers away from the door to
+text: watch, giving Kat one last smirk, just as Bianca walks into
+text: the kitchen.
+dialog: 
+speaker_heading: JOEY
+dialog: Just who I was looking for.
+dialog: 
+text: He puts his arm around Bianca and escorts her out
+dialog: 
+speaker_heading: KAT
+speaker_heading: BIANCA
+dialog: 
+text: Bianca keeps walking, ignoring Kat
+dialog: 
+text: A GUY pouring shots hands Kat one She downs it and accepts
+dialog: another.
+dialog: 
+speaker_heading: GUY
+dialog: Drink up, sister.
+dialog: 
+text: Patrick walks up
+dialog: 
+speaker_heading: PATRICK
+dialog: What's this?
+dialog: 
+speaker_heading: KAT
+dialog: (mocking)
+dialog: "I'm getting trashed, man." Isn't that
+dialog: what you're supposed to do at a party?
+dialog: 
+speaker_heading: PATRICK
+dialog: I say, do what you wanna do.
+dialog: 
+speaker_heading: KAT
+dialog: Funny, you're the only one
+dialog: 
+text: She downs another.
+dialog: 
+scene_heading: INT. BOGEY'S LIVING ROOM - NIGHT
+dialog: 
+text: Cameron and Michael enter. Cameron looks, around for his
+text: beloved, while Michael schmoozee with all in attendance and
+text: dishes dirt simultaneously.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (high-fiving a
+dialog: jock)
+dialog: Moose, my man!
+dialog: (to Cameron)
+dialog: Ranked fifth in the state. Recruiters
+dialog: have already started calling.
+dialog: 
+text: Cameron nods intently
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing;
+dialog: grabbing his belt)
+dialog: Yo, Clem.
+dialog: (to Cameron)
+text: A Patsy Cline fan, but hates the new
+dialog: Leanne Rimes.
+dialog: (with a Jamaican
+dialog: swagger)
+dialog: Ziggy, peace, bra.
+dialog: (to Cameron)
+text: Prefers a water pipe, but has been
+dialog: known to use a bong.
+dialog: 
+text: Michael spots Bianca and Chastity, watching the skirmish,
+text: and points Cameron's body in her direction.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing)
+dialog: Follow the love, man
+dialog: 
+text: ON BIANCA AND CHASTITY Bianca cranes her neck
+dialog: 
+speaker_heading: BIANCA
+dialog: Where did he go? He was just here.
+dialog: 
+speaker_heading: CHASTITY
+dialog: Who?
+dialog: 
+speaker_heading: BIANCA
+dialog: Joey.
+dialog: 
+text: Cameron walks over.
+dialog: 
+speaker_heading: CAMERON
+dialog: Evening, ladies.
+dialog: 
+text: Bianca turns and graces him with a pained smile.
+dialog: 
+speaker_heading: BIANCA
+dialog: Hi.
+dialog: 
+speaker_heading: CAMERON
+dialog: Looks like things worked out tonight,
+dialog: huh?
+dialog: 
+text: Bianca ignores the question and tries to pawn him off
+dialog: 
+speaker_heading: BIANCA
+dialog: You know Chastity?
+dialog: 
+speaker_heading: CAMERON
+dialog: I believe we share an art instructor
+dialog: 
+speaker_heading: CHASTITY
+dialog: Great
+dialog: 
+speaker_heading: BIANCA
+dialog: Would you mind getting me a drink,
+dialog: Cameron?
+dialog: 
+speaker_heading: CAMERON
+dialog: Certainly
+dialog: Pabst? Old Milwaukee? RaiJieer?
+dialog: 
+text: Bianca gives him a tense smile.
+dialog: 
+speaker_heading: BIANCA
+dialog: Surprise me.
+dialog: 
+text: He heads for the kitchen. Joey walks up and grabs her
+text: around the waist.
+dialog: 
+text: She giggles as he picks her up and carries her off -- just
+text: as Cameron returns, a beer -- complete with a napkin and
+text: straw -- in his hand.
+dialog: 
+text: Chastity glares with a jealous fury after Bianca and Joey,
+text: then gives Cameron the once-over and walks away.
+dialog: 
+text: Michael appears.
+dialog: 
+speaker_heading: MICHAEL
+text: Extremely unfortunate maneuver.
+dialog: 
+speaker_heading: CAMERON
+dialog: The hell is that? What kind of 'guy
+text: just picks up a girl and carries her
+dialog: away while you're talking to her?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Buttholus extremus. But hey, you're
+text: making progress.
+dialog: 
+speaker_heading: CAMERON
+dialog: No, I ' m not.
+dialog: 
+text: He smacks himself in the head
+dialog: 
+speaker_heading: CAMERON
+dialog: (continuing)
+dialog: She used me! She wants to go out with
+dialog: Dorsey. Not me. I'm an idiot!
+dialog: 
+text: Michael pats him on the shoulder.
+dialog: 
+speaker_heading: MICHAEL
+dialog: At least you're self-aware
+dialog: 
+scene_heading: BOGEY'S KITCHEN - NIGHT
+dialog: 
+text: Kat and a crowd of White Rastas and Cowboys stand in a
+text: drunken group hug singing "I Shot the Sheriff". Kat has
+text: another shot glass in hand.
+dialog: 
+text: Patrick is showing a scar to an inebriated, enraptured
+text: cheerleader. He looks up at Kat and smiles meets his eyes
+text: then looks away.
+dialog: 
+scene_heading: INT. BOGEY'S LIVING ROOM - NIGHT
+dialog: 
+text: Bianca stands next to Joey, sipping from her beer
+dialog: 
+speaker_heading: JOEY
+dialog: So yeah, I've got the Sears catalog
+dialog: thing going -- and the tube sock gig "
+dialog: that's gonna be huge. And then I'm up
+dialog: for an ad for Queen Harry next week.
+dialog: 
+speaker_heading: BIANCA
+dialog: Queen Harry?
+dialog: 
+speaker_heading: JOEY
+dialog: It's a gay cruise line, but I'll be,
+dialog: like, wearing a uniform and stuff.
+dialog: 
+text: Bianca tries to appear impressed, but it's getting
+dialog: difficult.
+dialog: 
+speaker_heading: BIANCA
+dialog: Neat...
+dialog: 
+speaker_heading: JOEY
+dialog: My agent says I've got a good shot at
+dialog: being the Prada guy next year.
+dialog: 
+text: He looks over her shoulder and waves at someone. Bianca
+text: takes the opportunity to escape.
+dialog: 
+speaker_heading: BIANCA
+dialog: I'll be right back.
+dialog: 
+scene_heading: INT. BOGEY'S BATHROOM - NIGHT
+dialog: 
+text: Bianca shuts the door and leans on it with a sigh. Chastity
+text: applies lip-gloss in the mirror.
+dialog: 
+speaker_heading: BIANCA
+dialog: He practically proposed when he found
+dialog: out we had the same dermatologist. I
+dialog: mean. Dr. Bonchowski is great an all,
+dialog: but he's not exactly relevant party
+dialog: conversation.
+dialog: 
+speaker_heading: CHASTITY
+dialog: Is he oily or dry?
+dialog: 
+speaker_heading: BIANCA
+dialog: Combination. I don't know -- I thought
+dialog: he'd be different. More of a
+dialog: gentleman...
+dialog: 
+text: Chastity rolls her eyes
+dialog: 
+speaker_heading: CHASTITY
+dialog: Bianca, I don't think the highlights of
+dialog: dating Joey Dorsey are going to include
+text: door-opening and coat-holding.
+dialog: 
+speaker_heading: BIANCA
+dialog: Sometimes I wonder if the guys we're
+dialog: supposed to want to go out with are the
+dialog: ones we actually want to go out with,
+dialog: you know?
+dialog: 
+speaker_heading: CHASTITY
+dialog: All I know is -- I'd give up my private
+dialog: line to go out with a guy like Joey.
+dialog: 
+text: There's a KNOCK at the door. Bianca opens it to find a very
+text: drunken Kat.
+dialog: 
+speaker_heading: KAT
+dialog: Bianca, I need to talk to you -- I need
+dialog: to tell you --
+dialog: 
+speaker_heading: BIANCA
+dialog: (cutting her off)
+dialog: I really don't think I need any social
+dialog: advice from you right now.
+dialog: 
+text: Bianca grabs Chastity's arm and they exit
+dialog: 
+scene_heading: INT. BOGEY'S KITCHEN - NIGHT - LATER
+dialog: 
+text: Patrick tries to remove a shot glass from Kat's hand.
+dialog: 
+speaker_heading: PATRICK
+dialog: 
+dialog: Maybe you should let me have it.
+dialog: 
+text: Kat is fierce in her refusal to let go
+dialog: 
+speaker_heading: KAT
+dialog: I want another one
+dialog: 
+text: Joey enters, grabbing Patrick by the shoulder, distracting
+text: him from his task.
+dialog: 
+speaker_heading: JOEY
+dialog: My man
+dialog: 
+text: As Patrick turns, Kat breaks free and dives into the sea of
+text: dancing people in the dining room.
+dialog: 
+speaker_heading: PATRICK
+dialog: (annoyed)
+dialog: It's about time.
+dialog: 
+speaker_heading: JOEY
+dialog: A deal's a deal.
+dialog: 
+text: He peels off some bills
+dialog: 
+speaker_heading: JOEY
+dialog: (continuing)
+dialog: How'd you do it?
+dialog: 
+speaker_heading: PATRICK
+dialog: Do what?
+dialog: 
+speaker_heading: JOEY
+dialog: Get her to act like a human
+dialog: 
+text: A very drunken Kat jumps up onto the kitchen island and
+text: starts dancing by herself. She lets loose, hair flying.
+text: She's almost burlesque.
+dialog: 
+text: Others form a crowd, clapping and cheering her on
+dialog: 
+text: She swings her head around BANGING it on a copper pot
+text: hanging from the rack above the center island. She starts
+text: to sway, then goes down as Patrick rushes over to catch her.
+dialog: 
+text: The others CLAP, thinking this is a wonderful finale.
+text: Patrick sets her down on her feet, holding her up
+dialog: 
+speaker_heading: PATRICK
+dialog: Okay?
+dialog: 
+speaker_heading: KAT
+dialog: I'm fine. I'm
+dialog: 
+text: She tries to push him away, but staggers when she does grabs
+text: her again, bracing her.
+dialog: 
+speaker_heading: PATRICK
+dialog: You're not okay.
+dialog: 
+speaker_heading: KAT
+dialog: I just need to lie down for awhile
+dialog: 
+speaker_heading: PATRICK
+dialog: Uh, uh. You lie down and you'll go to
+dialog: sleep
+dialog: 
+speaker_heading: KAT
+dialog: I know, just let me sleep
+dialog: 
+speaker_heading: PATRICK
+dialog: What if you have a concussion? My dog
+text: went to sleep with a concussion and woke
+dialog: up a vegetable. Not that I could tell
+dialog: the difference...
+dialog: 
+text: She tries to sit on the floor
+dialog: 
+speaker_heading: KAT
+dialog: Okay, I'll just sleep but stay awake,
+dialog: okay?
+dialog: 
+text: He pulls her back to her
+dialog: 
+speaker_heading: PATRICK
+dialog: C'mon, let's walk
+dialog: 
+scene_heading: INT. BOGEY'S DINING ROOM - NIGHT
+dialog: 
+text: As Patrick walks Kat through the dining room, Cameron grabs
+text: his arm.
+dialog: 
+dialog: CAMERON We need to talk.
+dialog: 
+speaker_heading: PATRICK
+dialog: Cameron, I'm a little busy
+dialog: 
+speaker_heading: CAMERON
+dialog: It's off. The whole thing.
+dialog: 
+text: Kat slides down to the floor and Patrick struggles to get h
+text: back on her feet.
+dialog: 
+speaker_heading: PATRICK
+dialog: What 're you talking about?
+dialog: 
+speaker_heading: CAMERON
+dialog: She's partial to Joey, not me
+dialog: 
+text: Patrick doesn't have time for this.
+dialog: 
+speaker_heading: PATRICK
+dialog: Cameron -- do you like the girl?
+dialog: 
+speaker_heading: CAMERON
+dialog: Sure
+dialog: 
+speaker_heading: PATRICK
+dialog: (impatient)
+dialog: Then, go get her
+dialog: 
+text: Patrick continues walking an oblivious Kat outside. Cameron
+text: stands there, unsure how to make use of this advice
+dialog: 
+scene_heading: EXT. BOGEY LOWENSTEIN'S HOUSE - NIGHT
+dialog: 
+text: Patrick marches Kat around the yard, holding her up
+dialog: 
+speaker_heading: KAT
+dialog: This is so patronizing.
+dialog: 
+speaker_heading: PATRICK
+dialog: Leave it to you to use big words when
+dialog: you're shitfaced.
+dialog: 
+speaker_heading: KAT
+dialog: Why 're you doing this?
+dialog: 
+speaker_heading: PATRICK
+dialog: I told you
+dialog: 
+speaker_heading: KAT
+dialog: You don't care if I die
+dialog: 
+speaker_heading: PATRICK
+dialog: Sure, I do
+dialog: 
+speaker_heading: KAT
+dialog: Why?
+dialog: 
+speaker_heading: PATRICK
+dialog: Because then I'd have to start taking
+dialog: out girls who like me.
+dialog: 
+speaker_heading: KAT
+dialog: Like you could find one
+dialog: 
+speaker_heading: PATRICK
+dialog: See that? Who needs affection when
+dialog: I've got blind hatred?
+dialog: 
+speaker_heading: KAT
+dialog: Just let me sit down.
+dialog: 
+text: He walks her over to the swingset and plops her down in a
+text: swing, moving her hands to hang onto the chains.
+dialog: 
+speaker_heading: PATRICK
+dialog: How's that?
+dialog: 
+text: She sits and looks at him for a moment with a smile. Then
+text: FALLS over backward.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: Jesus. You're like a weeble
+dialog: 
+text: Patrick rushes to right her, then starts pushing her on the
+text: swing to keep her entertained.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: Why'd you let him get to you?
+dialog: 
+speaker_heading: KAT
+dialog: Who?
+dialog: 
+speaker_heading: PATRICK
+dialog: Dorsey.
+dialog: 
+speaker_heading: KAT
+dialog: I hate him.
+dialog: 
+speaker_heading: PATRICK
+dialog: I know. It'd have to be a pretty big
+dialog: deal to get you to mainline tequila. You
+dialog: don't seem like the type.
+dialog: 
+speaker_heading: KAT
+dialog: (holding up a
+dialog: drunken head)
+dialog: Hey man. . . You don ' t think I can
+dialog: be "cool"? You don't think I can be
+dialog: "laid back" like everyone else?
+dialog: 
+speaker_heading: PATRICK
+dialog: (slightly
+dialog: sarcastic)
+dialog: I thought you were above all that
+dialog: 
+speaker_heading: KAT
+dialog: You know what they say
+dialog: 
+text: He stops the swing
+dialog: 
+speaker_heading: PATRICK
+dialog: No. What do they say?
+dialog: 
+text: Kat is asleep, her head resting against the swing's chains.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: Shit!
+dialog: 
+text: He drags her to her feet and starts singing loudly.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: Jingle Bells! Jingle Belles! Wake up
+dialog: damn it!
+dialog: 
+text: He sits her down on the slide and shakes her like a rag
+dialog: doll.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: Kat! Wake up!
+dialog: 
+speaker_heading: KAT
+dialog: (waking)
+dialog: What?
+dialog: 
+text: He sighs with relief.
+dialog: 
+speaker_heading: PATRICK
+dialog: I thought you were...
+dialog: 
+text: They share some meaningful eye contact. And then she PUKES
+text: on his shoes.
+dialog: 
+scene_heading: INT. BOGEY'S BATHROOM - NIGHT
+dialog: 
+text: Kat washes her face and grabs a bottle of Scope, taking a
+text: big swig.
+dialog: 
+text: A KNOCK sounds at the door
+dialog: 
+speaker_heading: KAT
+dialog: Go away
+dialog: 
+text: Bianca opens the door and looks at her sister with the
+text: smuggest of all possible grins.
+dialog: 
+speaker_heading: BIANCA
+dialog: Dinner taste better on the way out?
+dialog: 
+text: Gives her a "don't even start" look.
+dialog: 
+speaker_heading: BIANCA
+dialog: (continuing)
+dialog: I don't get you. You act like you're
+dialog: too good for any of this, and then you
+dialog: go totally apeshit when you get here.
+dialog: 
+speaker_heading: KAT
+dialog: You're welcome.
+dialog: 
+text: She pushes past her and leaves the bathroom.
+dialog: 
+scene_heading: KAT'S CAR - NIGHT
+dialog: 
+text: Kat's in the driver's seat. Patrick leans in and takes the
+text: keys out of the ignition.
+dialog: 
+speaker_heading: PATRICK
+dialog: Cute
+dialog: 
+scene_heading: BOGEY LOWENSTEIN'S HOUSE - NIGHT
+dialog: 
+text: Kids loiter on the lawn. Bianca and Chastity walk outside
+text: Joey catches up to them.
+dialog: 
+speaker_heading: JOEY
+dialog: A bunch of us are going to Jaret's
+dialog: house. Wanna come?
+dialog: 
+text: Chastity looks at Bianca, who wears a pained expression.
+text: She looks at her watch.
+dialog: 
+speaker_heading: BIANCA
+dialog: I have to be home in twenty minutes.
+dialog: 
+speaker_heading: CHASTITY
+dialog: (eagerly, to Joey)
+dialog: I don't have to be home 'til two.
+dialog: 
+speaker_heading: JOEY
+dialog: Then, c'mon.
+dialog: (to Bianca)
+dialog: Maybe next time --
+dialog: 
+text: They head back into the party, leaving an astonished Bianca
+dialog: 
+text: Cameron exits the party and stops when he sees Bianca
+text: standing alone.
+dialog: 
+speaker_heading: CAMERON
+dialog: (slightly
+dialog: accusatory)
+dialog: Have fun tonight?
+dialog: 
+speaker_heading: BIANCA
+dialog: Tons
+dialog: 
+text: He starts to walk on
+dialog: 
+speaker_heading: BIANCA
+dialog: (continuing)
+dialog: Cameron?
+dialog: 
+text: He stops. She gives him a helpless smile.
+dialog: 
+speaker_heading: BIANCA
+dialog: (continuing)
+dialog: Do you think you could give me a ride
+dialog: home?
+dialog: 
+scene_heading: INT. KAT'S CAR - NIGHT
+dialog: 
+text: Patrick drives as Kat sits in the passenger seat, fiddling
+text: with the radio dial. She finds a SONG she's happy with and
+text: Patrick quickly changes it.
+dialog: 
+speaker_heading: PATRICK
+dialog: I'm driving, so I get to pick the
+dialog: tunes.
+dialog: 
+text: She changes it back to her song.
+dialog: 
+speaker_heading: KAT
+dialog: It's my car.
+dialog: 
+text: He changes it back.
+dialog: 
+speaker_heading: PATRICK
+dialog: And I'm in control of it.
+dialog: 
+speaker_heading: KAT
+dialog: But it's Gigglepuss - I know you like
+dialog: them. I saw you there.
+dialog: 
+text: Patrick doesn't have an answer for this, so he let's her
+dialog: listen to her song.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: When you were gone last year -- where
+dialog: were you?
+dialog: 
+speaker_heading: PATRICK
+dialog: Busy
+dialog: 
+speaker_heading: KAT
+dialog: Were you in jail?
+dialog: 
+speaker_heading: PATRICK
+dialog: Maybe.
+dialog: 
+speaker_heading: KAT
+dialog: No, you weren't
+dialog: 
+speaker_heading: PATRICK
+dialog: Then why'd you ask?
+dialog: 
+speaker_heading: KAT
+dialog: Why'd you lie?
+dialog: 
+text: He doesn't answer, but instead, frowns and turns up the
+text: music. She bobs her head drunkenly.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: I should do this.
+dialog: 
+speaker_heading: PATRICK
+dialog: Do what?
+dialog: 
+speaker_heading: KAT
+dialog: This.
+dialog: 
+text: She points to the radio
+dialog: 
+speaker_heading: PATRICK
+dialog: Start a band?
+dialog: 
+speaker_heading: KAT
+dialog: (sarcastically)
+dialog: My father wouldn't approve of that that
+dialog: 
+speaker_heading: PATRICK
+dialog: You don't strike me as the type that
+dialog: would ask permission.
+dialog: 
+text: She turns to look at him.
+dialog: 
+speaker_heading: KAT
+dialog: Oh, so now you think you know me?
+dialog: 
+speaker_heading: PATRICK
+dialog: I'm gettin' there
+dialog: 
+text: Her voice loses it's venom
+dialog: 
+speaker_heading: KAT
+dialog: The only thing people know about me is
+dialog: that I'm "scary".
+dialog: 
+text: He turns to look at her -- she looks anything but scary
+text: right now. He tries to hide his smile.
+dialog: 
+speaker_heading: PATRICK
+dialog: 
+dialog: Yeah -- well, I'm no picnic myself.
+dialog: 
+text: They eye each other, sharing a moment of connection,
+text: realizing they're both created the same exterior for
+dialog: themselves.
+dialog: 
+text: Patrick pulls into her driveway and shuts off the motor. He
+text: looks up at her house.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: So what ' s up with your dad? He a
+dialog: pain in the ass?
+dialog: 
+speaker_heading: KAT
+dialog: He just wants me to be someone I'm not.
+dialog: 
+speaker_heading: PATRICK
+dialog: Who?
+dialog: 
+speaker_heading: KAT
+speaker_heading: BIANCA
+dialog: 
+speaker_heading: PATRICK
+dialog: No offense, but you're sister is
+dialog: without. I know everyone likes her and
+dialog: all, but ...
+dialog: 
+text: Kat stares at him with new admiration.
+dialog: 
+speaker_heading: KAT
+dialog: You know -- you're not as vile as I
+dialog: thought you were.
+dialog: 
+text: She leans drunkenly toward him.
+dialog: 
+text: Their faces grow closer as if they're about to kiss And then
+text: Patrick turns away
+dialog: 
+speaker_heading: PATRICK
+dialog: So, I'll see you in school
+dialog: 
+text: Kat stares at him, pissed. Then gets out of the car,
+text: SLAMMING the door shut behind her.
+dialog: 
+scene_heading: CAMERON'S CAR - NIGHT
+dialog: 
+text: Bianca and Cameron ride in silence.
+text: He finally breaks it.
+dialog: 
+speaker_heading: CAMERON
+dialog: I looked for you back at the party, but
+dialog: you always seemed to be "occupied".
+dialog: 
+speaker_heading: BIANCA
+dialog: (faux-innocence )
+dialog: I was?
+dialog: 
+speaker_heading: CAMERON
+dialog: You never wanted to go out with 'me,
+dialog: did you?
+dialog: 
+text: Bianca bites her lip.
+dialog: 
+speaker_heading: BIANCA
+dialog: (reluctant)
+dialog: Well, no...
+dialog: 
+speaker_heading: CAMERON
+dialog: Then that's all you had to say.
+dialog: 
+speaker_heading: BIANCA
+dialog: But
+dialog: 
+speaker_heading: CAMERON
+dialog: You always been this selfish?
+dialog: 
+dialog: BIANCA thinks a minute
+dialog: 
+text: He pulls up in front of the house
+dialog: 
+speaker_heading: CAMERON
+dialog: Just because you're beautiful, doesn't
+dialog: mean you can treat people like they
+dialog: don't matter.
+dialog: 
+text: She looks at him for a moment -- then grabs his face and
+text: gives him a kiss on the lips. He draws back in surprise,
+text: then kisses her back. She smiles, then gets out of the car
+text: without another word.
+dialog: 
+text: Cameron grins and drives away
+dialog: 
+speaker_heading: CAMERON
+dialog: (continuing)
+text: And I'm back in the saddle.
+dialog: 
+scene_heading: INT. ENGLISH CLASS - DAY
+dialog: 
+text: Kat sits at her desk, burying her face in a book as the
+text: others enter. The White Rastas are first.
+dialog: 
+speaker_heading: DEREK
+dialog: Kat, my lady, you sway to the rhythm of
+dialog: my heart.
+dialog: 
+text: He grabs her hand and kisses it as she pulls it away.
+dialog: 
+text: CLEM, a cowboy, enters, high-fiving Derek with new-found
+dialog: friendliness.
+dialog: 
+speaker_heading: CLEM
+dialog: Yippe kai-aye, bra.
+dialog: (to Kat)
+dialog: Dance for me, cowgirl.
+dialog: 
+text: He sits next to Derek
+dialog: 
+speaker_heading: CLEM
+dialog: (continuing)
+dialog: Okay, now tell me again why he didn't
+dialog: shoot the deputy?
+dialog: 
+speaker_heading: DEREK
+dialog: Because the deputy meant him no harm,
+dialog: my friend. It was only the sheriff that
+dialog: was the oppressor.
+dialog: 
+text: Joey saunters in and takes his seat.
+dialog: 
+speaker_heading: JOEY
+dialog: Kat, babe, you were on fire.
+dialog: 
+text: Mrs. Blaise enters and sits at her desk
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: Well now, did everyone have a good
+dialog: weekend?
+dialog: 
+speaker_heading: JOEY
+dialog: Maybe we should ask Verona
+dialog: 
+text: Patrick enters, late, and slinks to his desk. Kat looks up,
+text: down and around, everywhere but at Patrick.
+dialog: 
+text: Mrs. Blaise tries to remember what she's supposed to talk
+dialog: about.
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: Okay then. Well.
+dialog: (beat)
+dialog: Oh, yes
+dialog: 
+text: She clears her throat.
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: (continuing)
+dialog: I'd like you all to write your own
+text: version of Shakespeare's Sonnet #141.
+dialog: 
+text: Groans.
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: (continuing)
+dialog: Any form you'd like. Rhyme, no rhyme,
+dialog: whatever. I'd like to see you elaborate
+dialog: on his theme, however. Let's read it
+dialog: aloud, shall we? Anyone?
+dialog: 
+text: The class is frozen in apathy.
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: (continuing)
+dialog: Derek?
+dialog: 
+text: Ms. Blaise hands him the sonnet. He shifts uncomfortably in
+text: his seat. Then grins.
+dialog: 
+speaker_heading: DEREK
+dialog: (reading; in his
+dialog: Rasta stoner drawl)
+dialog: In faith, I do not love thee with mine
+dialog: eyes/ For they in thee a thousand errors
+dialog: note/ But 'tis my heart that loves what
+dialog: they despise/ Who in despite of view is
+dialog: pleas 'd to dote.
+dialog: 
+text: In the back of the room Clem raises his hand
+dialog: 
+speaker_heading: CLEM
+dialog: Ms. Blaise, can I get the bathroom
+dialog: pass? Damn if Shakespeare don't act as
+dialog: a laxative on my person.
+dialog: 
+scene_heading: INT. KENNY'S THAI FOOD DINER - DAY
+text: Kat and Mandella scrape the peanuts out of their sauce.
+dialog: 
+speaker_heading: MANDELLA
+dialog: You went to the party? I thought we
+dialog: were officially opposed to suburban
+dialog: social activity.
+dialog: 
+speaker_heading: KAT
+dialog: I didn't have a choice.
+dialog: 
+speaker_heading: MANDELLA
+dialog: You didn't have a choice? Where's Kat
+dialog: and what have you done with her?
+dialog: 
+speaker_heading: KAT
+dialog: I did Bianca a favor and it backfired.
+dialog: 
+speaker_heading: MANDELLA
+dialog: You didn't
+dialog: 
+speaker_heading: KAT
+dialog: I got drunk. I puked. I got rejected.
+dialog: It was big fun.
+dialog: 
+text: Patrick enters, walking to the counter to order. He sees Kat
+text: and smiles.
+dialog: 
+speaker_heading: PATRICK
+dialog: Hey
+dialog: 
+text: She gathers her things and bolts out the door. Patrick
+text: looks at Mandella, who shrugs and follows Kat.
+dialog: 
+scene_heading: INT. BIOLOGY CLASS - DAY Cameron and Michael flank Patrick
+text: at his lab table
+dialog: 
+speaker_heading: MICHAEL
+dialog: So you got cozy with she who stings?
+dialog: 
+speaker_heading: PATRICK
+dialog: No - I've got a sweet-payin' job that
+dialog: I'm about to lose.
+dialog: 
+speaker_heading: CAMERON
+dialog: What'd you do to her?
+dialog: 
+speaker_heading: PATRICK
+dialog: I don ' t know.
+dialog: (beat)
+dialog: I decided not to nail her when she was
+text: too drunk to remember it.
+dialog: 
+text: Michael and Cameron look at each other in realization, then
+text: turn back to Patrick.
+dialog: 
+speaker_heading: CAMERON
+dialog: 
+dialog: You realize this puts the whole operation in peril.
+dialog: 
+speaker_heading: PATRICK
+dialog: 
+dialog: No shit. She won't even look at me
+dialog: 
+speaker_heading: CAMERON
+dialog: 
+dialog: Why can't you just tell her you're sorry?
+dialog: 
+text: Patrick's expression says that this is not a possibility.
+text: Michael makes a time out sign with his hands.
+dialog: 
+speaker_heading: MICHAEL
+dialog: I'm on it
+dialog: 
+scene_heading: INT. HALLWAY - DAY
+dialog: 
+text: Mandella is at her locker. Drawings of William Shakespeare
+text: adorn the door. She looks at them with a sigh, then ties
+text: her silk scarf tightly around her neck, in an attempt to cut
+text: off her air supply.
+dialog: 
+text: Michael walks up.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Hey there. Tired of breathing?
+dialog: 
+speaker_heading: MANDELLA
+text: (shyly, as she
+dialog: loosens the scarf)
+dialog: Hi.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Cool pictures. You a fan?
+dialog: 
+speaker_heading: MANDELLA
+dialog: Yeah. I guess.
+dialog: 
+text: MICHAEL rocks. Very hip.
+dialog: 
+speaker_heading: MANDELLA
+dialog: You think?
+dialog: 
+speaker_heading: MICHAEL
+dialog: Oh yeah.
+dialog: 
+text: She looks at him suspiciously
+dialog: 
+speaker_heading: MANDELLA
+dialog: Who could refrain that had a heart to
+dialog: love and in that heart, courage to make
+dialog: ' B love known?
+dialog: 
+text: Michael thinks for a minute.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Macbeth, right?
+dialog: 
+speaker_heading: MANDELLA
+dialog: (happily stunned)
+dialog: Right.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Kat a fan, too?
+dialog: 
+speaker_heading: MANDELLA
+dialog: (puzzled)
+dialog: Yeah...
+dialog: 
+text: He leans in close to her, conspiratorially
+dialog: 
+speaker_heading: MICHAEL
+dialog: So, listen... I have this friend
+dialog: 
+scene_heading: EXT. FIELD HOCKEY FIELD - DAY
+dialog: 
+text: Cameron sits next to Patrick on the bleachers as they watch
+dialog: Kat's practice.
+dialog: 
+speaker_heading: CAMERON
+dialog: She hates you with the fire of a
+dialog: thousand suns . That's a direct quote
+dialog: 
+speaker_heading: PATRICK
+dialog: She just needs time to cool off I'll
+dialog: give it a day.
+dialog: 
+text: A PUCK flies at them from the field, narrowly missing their
+dialog: heads.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: Maybe two.
+dialog: 
+text: He looks at Cameron.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: You makin' any headway?
+dialog: 
+speaker_heading: CAMERON
+dialog: She kissed me.
+dialog: 
+speaker_heading: PATRICK
+dialog: (eyebrow raised)
+dialog: Where?
+dialog: 
+scene_heading: INT. HALLWAY - DAY
+dialog: 
+text: Chastity rounds the corner and bends down to get a drink
+text: from the water fountain.
+dialog: 
+speaker_heading: NEARBY
+dialog: 
+text: Joey stands talking to two JOCK COHORTS. The guys don't see
+dialog: her.
+dialog: 
+speaker_heading: JOEY
+dialog: Don't talk to me about the sweetest
+dialog: date. That little halo Bianca is gonna
+dialog: be prone and proven on prom night. Six
+text: virgins in a row.
+dialog: 
+text: The cohorts chortle Chastity keeps drinking from the
+dialog: fountain
+dialog: 
+scene_heading: EXT. PARKING LOT - DAY
+dialog: 
+text: Joey leans against Patrick's Jeep. Patrick is inside.
+dialog: 
+speaker_heading: PATRICK
+dialog: I don't know, Dorsey. ..the limo.-the
+dialog: flowers. Another hundred for the tux --
+dialog: 
+speaker_heading: JOEY
+dialog: Enough with the Barbie n' Ken shit. I
+dialog: know.
+dialog: 
+text: He pulls out his wallet and hands Patrick a wad of money
+dialog: 
+speaker_heading: JOEY
+dialog: (continuing)
+dialog: Take it
+dialog: 
+text: Patrick does, with a smile, as he ROARS out of the parking
+dialog: lot.
+dialog: 
+scene_heading: INT. SCHOOL COURTYARD - DAY
+dialog: 
+text: Kat and Mandella deface a prom flyer.
+dialog: 
+speaker_heading: KAT
+dialog: Can you even imagine? Who the hell
+dialog: would go to this a bastion of commercial
+dialog: excess?
+dialog: 
+speaker_heading: MANDELLA
+dialog: Well, I guess we're not, since we don't
+dialog: have dates .
+dialog: 
+speaker_heading: KAT
+dialog: Listen to you! You sound like Betty,
+text: all pissed off because Archie is taking
+dialog: Veronica.
+dialog: 
+speaker_heading: MANDELLA
+dialog: Okay, okay, we won't go. It's not like
+dialog: I have a dress anyway
+dialog: 
+speaker_heading: KAT
+dialog: You ' re looking at this from the wrong
+dialog: perspective. We're making a statement.
+dialog: 
+speaker_heading: MANDELLA
+dialog: (unconvinced)
+dialog: Oh, good. Something new and different
+dialog: for us.
+dialog: 
+scene_heading: EXT. ARCHERY FIELD - DAY
+dialog: 
+text: Mr. Chapin patrols as boys and girls shoot arrows at targets
+dialog: 
+text: Joey swaggers up to Bianca, who is taking careful aim.
+text: Chastity watches from across the row.
+dialog: 
+speaker_heading: JOEY
+dialog: Hey, sweet cheeks.
+dialog: 
+speaker_heading: BIANCA
+dialog: (not looking at
+dialog: him)
+dialog: Hi, Joey.
+dialog: 
+speaker_heading: JOEY
+dialog: You're concentrating awfully hard
+dialog: considering it's gym class.
+dialog: 
+text: She lets the arrow go and turns to look at him.
+dialog: 
+speaker_heading: JOEY
+dialog: (continuing)
+dialog: Listen, I want to talk to you about the
+dialog: prom.
+dialog: 
+speaker_heading: BIANCA
+dialog: You know the deal. I can ' t go if Kat
+dialog: doesn't go --
+dialog: 
+text: In the background, a RASTA crumples to the ground. Hit
+text: A casualty of Gym. Mr. Chapin scurries over.
+dialog: 
+speaker_heading: JOEY
+dialog: Your sister is going.
+dialog: 
+text: Bianca looks at him, surprised
+dialog: 
+speaker_heading: BIANCA
+dialog: Since when?
+dialog: 
+text: Joey takes the bow and arrow from Bianca's hand. He draws
+text: back and takes aim.
+dialog: 
+speaker_heading: JOEY
+dialog: I'm taking care of it.
+dialog: 
+text: Chastity looks over from her spot on the field, but keeps
+text: lips firmly shut.
+dialog: 
+scene_heading: INT. BOOK STORE - DAY
+dialog: 
+text: Kat browses through the feminist lit section
+text: Patrick appears, through a hole in the books.
+dialog: 
+speaker_heading: PATRICK
+dialog: Excuse me, have you seen The Feminine
+dialog: Mystique? I lost my copy.
+dialog: 
+speaker_heading: KAT
+dialog: (frowning)
+dialog: What are you doing here?
+dialog: 
+speaker_heading: PATRICK
+dialog: I heard there was a poetry reading.
+dialog: 
+speaker_heading: KAT
+dialog: You 're so --
+dialog: 
+speaker_heading: PATRICK
+dialog: Pleasant?
+dialog: 
+text: Kat stares at him, deadpan.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: Wholesome.
+dialog: 
+speaker_heading: KAT
+dialog: Unwelcome.
+dialog: 
+speaker_heading: PATRICK
+dialog: Unwelcome? I guess someone still has
+text: her panties in a twist.
+dialog: 
+speaker_heading: KAT
+dialog: Don't for one minute think that you had
+dialog: any effect whatsoever on my panties.
+dialog: 
+speaker_heading: PATRICK
+dialog: So what did I have an effect on ?
+dialog: 
+speaker_heading: KAT
+dialog: Other than my upchuck reflex? Nothing.
+dialog: 
+text: She pushes past him and heads out the' door
+text: Pat looks down at the book he's been holding in his hand:
+text: Taming of the Shrew.
+dialog: 
+scene_heading: INT. CAFETERIA - DAY
+dialog: 
+text: Cameron and Michael flank Patrick as he shovels food into
+dialog: mouth.
+dialog: 
+speaker_heading: PATRICK
+dialog: You were right. She's still pissed.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Sweet love, renew thy force!
+dialog: 
+speaker_heading: PATRICK
+dialog: Man -- don't say shit like that to me.
+dialog: People can hear you.
+dialog: 
+speaker_heading: CAMERON
+dialog: (exasperated)
+dialog: You humiliated the woman! Sacrifice
+dialog: yourself on the altar of dignity and
+dialog: even the score.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Best case scenario, you're back on the
+dialog: payroll for awhile.
+dialog: 
+speaker_heading: PATRICK
+dialog: What's the worst?
+dialog: 
+speaker_heading: CAMERON
+dialog: You get the girl.
+dialog: 
+text: Patrick thinks for a minute
+dialog: 
+speaker_heading: PATRICK
+dialog: If I go down. I'm takin' her with me
+dialog: 
+scene_heading: INT. ENGLISH CLASS - DAY
+dialog: 
+text: Kat and the other students sit at their desks, taking a quiz
+text: Patrick's seat is conspicuously empty.
+dialog: 
+text: From outside, we hear the soft, unsure beginnings of a SONG.
+text: Kat looks up, then out the window, HORRIFIED.
+dialog: 
+text: The song grows louder until we realize it's The Partridge
+text: Family's "I Think I Love You". Being sung by Patrick.
+dialog: 
+speaker_heading: PATRICK
+dialog: (0. S.)
+dialog: "This morning, I woke up with this
+dialog: feeling, I didn't know how to deal with,
+dialog: and so I just decided to myself--"
+dialog: 
+text: The STUDENTS rush to the window. OUTSIDE Patrick stands
+text: beneath the window, crooning.
+dialog: 
+text: Scurvy is next to him, keeping the beat on the bongos and
+dialog: doing backup vocal s.
+dialog: 
+speaker_heading: PATRICK
+dialog: "I'd hide it to myself. And never talk
+dialog: about it. And didn't I go and shout it
+dialog: when you walked into the room --"
+dialog: 
+text: He makes quite a sarcastic show of it.
+dialog: 
+text: IN THE CLASSROOM
+dialog: 
+text: Mrs. Blaise touches her heart, as if the song is for her.
+text: Kat slowly walks to the window, peeking below.
+dialog: 
+speaker_heading: OUTSIDE
+dialog: 
+text: Patrick smiles at her as he finishes the verse with a big
+dialog: finale.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: " I think I love you I "
+dialog: 
+speaker_heading: INSIDE
+dialog: 
+text: The other students laugh, clap, cheer, etc. Kat sinks down,
+text: mortified, but with a slight smile
+dialog: 
+scene_heading: INT. DETENTION HALL - DAY
+dialog: 
+text: Patrick and several other miscreants sit quietly, mulling
+dialog: over their misfortune.
+dialog: 
+speaker_heading: MISCREANT
+dialog: Nice song, Verona.
+dialog: 
+speaker_heading: PATRICK
+dialog: Flog me.
+dialog: 
+text: He makes the appropriate hand gesture
+dialog: 
+text: Mr. Chapin, the gym teacher, sits at the desk in front,
+text: ignoring them while he reads a girly weightlifting magazine
+dialog: 
+speaker_heading: KAT (0. S.)
+dialog: Excuse me, Mr. Chapin?
+dialog: 
+text: Patrick looks up at the sound of her voice and sees Kat
+text: standing in the doorway. She gives him a smile and he perks
+text: up a little.
+dialog: 
+text: Kat walks into the room and addresses Mr. Chapin again. He
+text: turns fully to face her.
+dialog: 
+speaker_heading: KAT
+dialog: Sir, I'd like to state for the record
+dialog: that Mr. Verona ' s current
+dialog: incarceration is unnecessary. I never
+dialog: filed a complaint.
+dialog: 
+speaker_heading: MR. CHAPIN
+dialog: You didn't have to. He disrupted a
+dialog: classroom.
+dialog: 
+text: Kat glances over at Patrick and motions her head toward the
+dialog: window.
+dialog: 
+text: Patrick shrugs, not knowing what she ' s talking about.
+dialog: 
+text: She motions again, and looks toward the window with an
+text: expression that says, "Make a break for it, moron."
+dialog: 
+text: Kat brings her attention back to Mr. Chapin while Patrick
+text: inches out of his seat toward the window.
+dialog: 
+text: The other miscreants watch with glee.
+dialog: 
+speaker_heading: KAT
+dialog: But, Mr. Chapin, I hardly think a
+dialog: simple serenade warrants a week of
+dialog: detention. There are far more hideous
+text: acts than off-key singing being
+text: performed by the student body on a
+dialog: regular basis.
+dialog: 
+text: Patrick is halfway out the window now. And none too happy
+text: about it, considering they're on the second floor.
+dialog: 
+text: He eyes a large TREE a few feet away from MR. CHAPIN. He
+text: starts to turn away from Kat
+dialog: 
+speaker_heading: MR. CHAPIN
+dialog: You're not gonna change my mind, Kat.
+dialog: Rules stick.
+dialog: 
+text: Kat starts to panic, as Patrick has yet to make the jump for
+dialog: the tree.
+dialog: 
+speaker_heading: KAT
+dialog: Wait, Mr. Chapin. There's something
+dialog: I've always wanted to show you.
+dialog: 
+text: He turns back toward her again, the very second before he
+dialog: would have spotted Patrick.
+dialog: 
+text: Kat glances toward the window. Patrick's just about to make
+dialog: the jump.
+dialog: 
+speaker_heading: MR. CHAPIN
+dialog: What?
+dialog: 
+speaker_heading: KAT
+dialog: These.
+dialog: 
+text: From behind, we see her lift up her shirt and flash her bra
+text: at Mr. Chapin, just as Patrick makes the Jump.
+dialog: 
+text: The miscreants cheer, for both the daring' escape and the
+text: flash of skin.
+dialog: 
+text: Mr. Chapin reddens and tries to be stern.
+dialog: 
+speaker_heading: MR. CHAPIN
+dialog: I'm going to let that slide, Katarina.
+dialog: But if I catch you doing that again,
+dialog: you'll be in here with the rest of these
+dialog: guys.
+dialog: 
+text: He motions to the remaining detention prisoners, without
+text: noticing Patrick's absence.
+dialog: 
+text: Kat smiles at him.
+dialog: 
+speaker_heading: KAT
+dialog: Thank you, Mr. Chapin.
+dialog: 
+text: Kat bolts out the door. Mr. Chapin goes back to his muscle
+text: mag, wiping the sweat from his brow.
+dialog: 
+scene_heading: EXT. SCHOOL CAMPUS LAWN
+dialog: 
+text: Kat arrives at the tree. looking around breathlessly, seeing
+dialog: no one.
+dialog: 
+speaker_heading: KAT
+dialog: He left! I sprung the dickhead and he
+dialog: cruised on me.
+dialog: 
+speaker_heading: PATRICK
+dialog: (0. S.)
+dialog: Look up, sunshine
+dialog: 
+text: She does. He's still in the tree
+dialog: 
+speaker_heading: PATRICK
+dialog: I guess I never told you I'm afraid of
+dialog: heights.
+dialog: 
+speaker_heading: KAT
+dialog: (smiling)
+dialog: C'mon. It's not that bad
+dialog: 
+speaker_heading: PATRICK
+dialog: Try lookin' at it from this angle
+dialog: 
+text: She assesses the branch structure
+dialog: 
+speaker_heading: KAT
+dialog: Put your right foot there --
+dialog: 
+speaker_heading: PATRICK
+dialog: Forget it. I'm stayin'.
+dialog: 
+speaker_heading: KAT
+dialog: You want me to climb up and show you
+dialog: how to get down?
+dialog: 
+speaker_heading: PATRICK
+dialog: (voice trembling)
+dialog: Maybe.
+dialog: 
+text: She sighs and dose so. When she gets to his level, she
+text: perches on the branch next to him. He grins at her.
+dialog: 
+text: Then swings himself down with the grace and ease of a
+text: monkey, leaving her sitting there, realizing she's been
+dialog: duped.
+dialog: 
+speaker_heading: KAT
+dialog: You shit!
+dialog: 
+text: She climbs down after him
+dialog: 
+scene_heading: EXT. OUTDOOR ARCADE - DAY
+dialog: 
+text: Patrick and Kat walk amongst the games
+dialog: 
+speaker_heading: KAT
+dialog: The Partridge Family?
+dialog: 
+speaker_heading: PATRICK
+dialog: I figured it had to be something
+dialog: ridiculous to win your respect. And
+dialog: piss you off.
+dialog: 
+speaker_heading: KAT
+dialog: Good call.
+dialog: 
+speaker_heading: PATRICK
+dialog: So how'd you get Chapin to look the
+dialog: other way?
+dialog: 
+speaker_heading: KAT
+dialog: I dazzled him with my wit
+dialog: 
+text: She stops and picks up a toy gun that SHOOTS water at
+text: giggling hyenas and wails on it. The barker hands her a
+text: stuffed animal as her prize. She hands it to the small KID
+text: next to her and they continue walking.
+dialog: 
+speaker_heading: PATRICK
+dialog: (sarcastic)
+dialog: A soft side? Who knew?
+dialog: 
+speaker_heading: KAT
+dialog: Yeah, well, don't let it get out
+dialog: 
+speaker_heading: PATRICK
+dialog: So what's your excuse?
+dialog: 
+speaker_heading: KAT
+dialog: Acting the way we do.
+dialog: 
+speaker_heading: PATRICK
+dialog: Yes
+dialog: 
+speaker_heading: KAT
+dialog: I don't like to do what people expect.
+dialog: Then they expect it all the time and
+dialog: they get disappointed when you change.
+dialog: 
+speaker_heading: PATRICK
+dialog: So if you disappoint them from the
+dialog: start, you're covered?
+dialog: 
+speaker_heading: KAT
+dialog: Something like that
+dialog: 
+speaker_heading: PATRICK
+dialog: Then you screwed up
+dialog: 
+speaker_heading: KAT
+dialog: How?
+dialog: 
+speaker_heading: PATRICK
+dialog: You never disappointed me.
+dialog: 
+text: She blushes under his gaze
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: You up for it?
+dialog: 
+speaker_heading: KAT
+dialog: For. . . ?
+dialog: 
+text: He motions to the SIGN for a paint-ball game. She grins
+scene_heading: SERIES OF SHOTS:
+dialog: 
+text: The two of them creep through the paint-ball course,
+text: stealthy and full of the desire to best the other.
+dialog: 
+text: Patrick nails Kat in the back with a big glob of red paint
+text: Kat gets him in the chest with a glob of blue.
+dialog: 
+text: Patrick returns fire with a big yellow splat to the side of
+text: her face.
+dialog: 
+text: Kat squirts a green shot to his forehead After a few more
+text: shots, they're both covered in paint
+dialog: 
+text: She tries to shoot him again, only to find that her gun is
+text: empty.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: Damn it!
+dialog: 
+text: Patrick grabs her in a victorious tackle. They land,
+text: laughing.
+dialog: 
+text: It's hard to even recognize them, as their hair and faces
+text: are so smeared with paint globs, but they still manage to
+text: find each other's eyes.
+dialog: 
+text: He wipes a smear of blue paint away from her lips, as he
+text: goes to kiss her.
+dialog: 
+text: NEARBY The kid with the stuffed animal, points
+dialog: 
+speaker_heading: KID
+dialog: Look, Mom
+dialog: 
+text: His mother hurries him away. What's started as a tackle has
+text: turned into a passionate kiss
+dialog: 
+scene_heading: EXT. STRATFORD HOUSE - NIGHT
+dialog: 
+text: Patrick pulls up in Kat's driveway. Their paint wardrobe
+text: has dried by now and they look like refugees from some
+text: strange, yet colorful, war.
+dialog: 
+speaker_heading: KAT
+dialog: State trooper?
+dialog: 
+speaker_heading: PATRICK
+dialog: Fallacy.
+dialog: 
+speaker_heading: KAT
+dialog: The duck?
+dialog: 
+speaker_heading: PATRICK
+dialog: Hearsay.
+dialog: 
+speaker_heading: KAT
+dialog: I know the porn career's a lie.
+dialog: 
+text: He shuts off the car and turns to her.
+dialog: 
+speaker_heading: PATRICK
+dialog: Do you?
+dialog: 
+text: He kisses her neck. It tickles. She laughs.
+dialog: 
+speaker_heading: KAT
+dialog: Tell me something true.
+dialog: 
+speaker_heading: PATRICK
+dialog: I hate peas.
+dialog: 
+speaker_heading: KAT
+dialog: No -- something real. Something no one
+dialog: else knows.
+dialog: 
+speaker_heading: PATRICK
+dialog: (in-between kisses)
+dialog: You're sweet. And sexy. And
+dialog: completely hot for me.
+dialog: 
+speaker_heading: KAT
+dialog: What?
+dialog: 
+speaker_heading: PATRICK
+dialog: No one else knows
+dialog: 
+speaker_heading: KAT
+dialog: You're amazingly self-assured. Has
+dialog: anyone ever told you that?
+dialog: 
+speaker_heading: PATRICK
+dialog: Go to the prom with me
+dialog: 
+text: Kat's smile disappears.
+dialog: 
+speaker_heading: KAT
+dialog: Is that a request or a command?
+dialog: 
+speaker_heading: PATRICK
+dialog: You know what I mean
+dialog: 
+speaker_heading: KAT
+dialog: No.
+dialog: 
+speaker_heading: PATRICK
+dialog: No what?
+dialog: 
+speaker_heading: KAT
+dialog: No, I won't go with you
+dialog: 
+speaker_heading: PATRICK
+dialog: Why not?
+dialog: 
+speaker_heading: KAT
+dialog: Because I don't want to. It's a stupid
+dialog: tradition.
+dialog: 
+text: Patrick sits quietly, torn. He can't very well tell her he
+text: being paid to take her.
+dialog: 
+speaker_heading: PATRICK
+dialog: People won't expect you to go...
+dialog: 
+text: Kat turns to him, getting angry.
+dialog: 
+speaker_heading: KAT
+dialog: Why are you doing this?
+dialog: 
+speaker_heading: KAT
+dialog: All of it -- what's in it for you?
+dialog: 
+text: He sits silently, not looking at her, confirming her
+dialog: suspicions.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: Create a little drama? Start a new
+dialog: rumor? What?
+dialog: 
+speaker_heading: PATRICK
+dialog: So I have to have a motive to be with
+dialog: you?
+dialog: 
+speaker_heading: KAT
+dialog: You tell me.
+dialog: 
+speaker_heading: PATRICK
+dialog: You need therapy. Has anyone ever told
+dialog: you that?
+dialog: 
+speaker_heading: KAT
+dialog: (quietly)
+dialog: Answer the question, Patrick
+dialog: 
+speaker_heading: PATRICK
+dialog: (angry)
+dialog: Nothing! There's nothing in it for me.
+dialog: Just the pleasure of your company.
+dialog: 
+text: He takes out a cigarette. She breaks it in half before she
+text: SLAMS the car door and walks into the house.
+dialog: 
+text: Patrick PEELS out of the driveway. Kat turns at the front
+text: door and watches him go
+dialog: 
+scene_heading: EXT. STREET - NIGHT
+dialog: 
+text: Patrick pulls up to a stop light and waits for .the green
+dialog: 
+text: He glances over at A DRUNKEN HOMELESS GUY in the median, who
+text: has decided that he doesn't need to wear pants.
+dialog: 
+text: Patrick pulls out his wallet, takes the wad of money Joey
+text: gave him and hands it to the homeless guy.
+dialog: 
+speaker_heading: PATRICK
+dialog: cover that up
+dialog: 
+text: The light turns green and Patrick pulls away
+dialog: 
+scene_heading: INT. STRATFORD HOUSE/BATHROOM - NIGHT
+dialog: 
+text: Kat stands at the sink, scrubbing paint off of her face
+text: Bianca TAPS on the open door.
+dialog: 
+speaker_heading: BIANCA
+dialog: Quick question -- are you going to the
+dialog: prom?
+dialog: 
+text: Kat pushes the door shut with a SLAM
+dialog: 
+scene_heading: INT. STUDY HALL - DAY
+dialog: 
+text: Cameron and Bianca sit together at their study cubby. She
+text: fingers a strand of her hair.
+dialog: 
+speaker_heading: BIANCA
+dialog: Then Guillermo says, "If you go any
+dialog: lighter, you're gonna look like an extra
+dialog: on 90210."
+dialog: 
+speaker_heading: CAMERON
+dialog: No...
+dialog: 
+text: Bianca stares at him for a moment.
+dialog: 
+speaker_heading: BIANCA
+dialog: do you listen to this crap?
+dialog: 
+speaker_heading: CAMERON
+dialog: What crap?
+dialog: 
+speaker_heading: BIANCA
+dialog: Me. This endless ...blonde babble. I'm
+dialog: like, boring myself.
+dialog: 
+speaker_heading: CAMERON
+dialog: Thank God! If I had to hear one more
+dialog: story about your coiffure...
+dialog: 
+text: He mock stabs himself with a pencil as she giggles and
+text: smacks his hand away.
+dialog: 
+speaker_heading: CAMERON
+dialog: (continuing)
+dialog: I figured you'd get to the good stuff
+dialog: eventually.
+dialog: 
+speaker_heading: BIANCA
+dialog: What good stuff?
+dialog: 
+speaker_heading: CAMERON
+dialog: The "real you".
+dialog: 
+speaker_heading: BIANCA
+dialog: Like my fear of wearing pastels?
+dialog: 
+text: He looks stricken.
+dialog: 
+speaker_heading: BIANCA
+dialog: (continuing)
+dialog: I'm kidding.
+dialog: (beat)
+dialog: You know how sometimes you just become
+dialog: this "persona"? And you don't know how
+dialog: to quit?
+dialog: 
+speaker_heading: CAMERON
+dialog: (matter of fact)
+dialog: No
+dialog: 
+speaker_heading: BIANCA
+dialog: Okay -- you're gonna need to learn how
+dialog: to lie.
+dialog: 
+scene_heading: INT. HALLWAY - DAY
+dialog: 
+text: Mandella struggles with the lock on her locker. Finally, it
+text: opens.
+dialog: 
+text: Hanging inside is a beautiful DRESS, inspired by the 16th
+text: Century. Mandella slowly unpins a NOTE from the dress.
+dialog: 
+scene_heading: INSERT - "0 FAIR ONE. JOIN ME AT THE PROM. I WILL BE
+scene_heading: WAITING. LOVE, WILLIAM S."
+dialog: 
+text: Mandella's agog. Trevor walks by and sees her holding the
+dialog: dress.
+dialog: 
+speaker_heading: TREVOR
+dialog: You're gonna look splendiferous in
+dialog: that, Mandella.
+dialog: 
+text: Mandella looks up sharply, shaken from her reverie.
+dialog: 
+speaker_heading: TREVOR
+dialog: (continuing)
+dialog: that's cool to say.
+dialog: 
+dialog: Mandella grins It is
+dialog: 
+speaker_heading: MANDELLA
+dialog: 
+scene_heading: INT. STRATFORD HOUSE/DEN - DAY
+dialog: 
+text: Sharon is at her computer, Walter at his exercise bike
+dialog: 
+speaker_heading: SHARON
+dialog: Would you rather be ravished by a
+dialog: pirate or a British rear admiral?
+dialog: 
+speaker_heading: WALTER
+dialog: Pirate -- no question.
+dialog: 
+text: Bianca enters and walks over to Walter
+dialog: 
+speaker_heading: BIANCA
+dialog: Daddy, I want to discuss the prom with
+dialog: you. It's tomorrow night --
+dialog: 
+speaker_heading: WALTER
+dialog: The prom? Kat has a date?
+dialog: 
+speaker_heading: BIANCA
+dialog: No, but
+dialog: 
+speaker_heading: WALTER
+dialog: It's that hot rod Joey, right? That ' s
+dialog: who you want me to bend my rules for?
+dialog: 
+speaker_heading: BIANCA
+dialog: He's not a "hot rod". Whatever that
+dialog: is.
+dialog: 
+speaker_heading: WALTER
+dialog: You're not going unless your sister
+dialog: goes. End of story.
+dialog: 
+speaker_heading: BIANCA
+dialog: Fine. I see that I'm a prisoner in my
+dialog: own house. I'm not a daughter. I'm a
+dialog: possession!
+dialog: 
+text: Bianca storms out.
+dialog: 
+speaker_heading: WALTER
+dialog: (calling out)
+dialog: You know what happens at proms?
+dialog: 
+text: Sharon stops her typing and looks up at Walter
+dialog: 
+speaker_heading: SHARON
+dialog: They'll dance, they'll kiss, they'll
+dialog: come home. Let her go.
+dialog: 
+speaker_heading: WALTER
+dialog: Kissing? Is that what you think
+dialog: happens? Kissing isn't what keeps me up
+dialog: to my elbows in placenta all day.
+dialog: 
+scene_heading: INT. BIANCA'S ROOM - NIGHT
+dialog: 
+text: Bianca lies on her bed. MTV blares. A KNOCK sounds.
+dialog: 
+speaker_heading: BIANCA
+dialog: Come in.
+dialog: 
+text: Kat enters and sits down on the bed, muting the TV.
+dialog: 
+speaker_heading: KAT
+dialog: (kindly)
+dialog: Listen, I know you hate having to sit
+dialog: home because I'm not Susie High School.
+dialog: 
+speaker_heading: BIANCA
+dialog: Like you care.
+dialog: 
+speaker_heading: KAT
+dialog: I do care. But I'm a firm believer in
+dialog: doing something for your own reasons,
+dialog: not someone else ' s .
+dialog: 
+speaker_heading: BIANCA
+dialog: I wish I had that luxury. I'm the only
+dialog: sophomore that got asked to the prom and
+dialog: I can't go, because you won ' t.
+dialog: 
+text: Kat clears her throat
+dialog: 
+speaker_heading: KAT
+dialog: Joey never told you we went out, did
+dialog: he?
+dialog: 
+speaker_heading: BIANCA
+dialog: What?
+dialog: 
+speaker_heading: KAT
+dialog: In 9th. For a month
+dialog: 
+speaker_heading: BIANCA
+dialog: (confused)
+dialog: Why?
+dialog: 
+speaker_heading: KAT
+dialog: (self-mocking)
+dialog: He was, like, a total babe
+dialog: 
+speaker_heading: BIANCA
+dialog: But you hate Joey
+dialog: 
+speaker_heading: KAT
+dialog: Now I do. Back then, was a different
+dialog: story.
+dialog: 
+speaker_heading: BIANCA
+dialog: As in...
+dialog: 
+text: Kat takes a deep breath.
+dialog: 
+speaker_heading: KAT
+dialog: He said everyone was doing it. So I
+dialog: did it.
+dialog: 
+speaker_heading: BIANCA
+dialog: You did what?
+dialog: 
+speaker_heading: KAT
+dialog: (continuing on)
+dialog: Just once. Afterwards, I told him I
+dialog: didn't want to anymore. I wasn't ready.
+dialog: He got pissed. Then he broke up with
+dialog: me.
+dialog: 
+text: Bianca stares at her, dumbfounded
+dialog: 
+speaker_heading: BIANCA
+dialog: But
+dialog: 
+speaker_heading: KAT
+dialog: After that, I swore I'd never do
+dialog: anything just because "everyone else"
+dialog: was doing it. And I haven't since.
+dialog: Except for Bogey's party, and my
+text: stunning gastro-intestinal display --
+dialog: 
+speaker_heading: BIANCA
+dialog: (stunned)
+dialog: Why didn't you tell me?
+dialog: 
+speaker_heading: KAT
+dialog: I wanted to let you make up your own
+dialog: mind about him.
+dialog: 
+speaker_heading: BIANCA
+dialog: No. you didn't! If you really thought
+dialog: I could make my own decisions, you
+dialog: would've let me go out with him instead
+dialog: of helping Daddy hold me hostage.
+dialog: 
+text: Kat stands up slowly
+dialog: 
+speaker_heading: KAT
+dialog: That's not
+dialog: 
+speaker_heading: BIANCA
+dialog: I'm not stupid enough to repeat your
+dialog: mistakes.
+dialog: 
+speaker_heading: KAT
+dialog: I guess I thought I was protecting you.
+dialog: 
+speaker_heading: BIANCA
+dialog: God, you're just like him! Just keep me
+dialog: locked away in the dark, so I can't
+dialog: experience anything for myself
+dialog: 
+speaker_heading: KAT
+dialog: Not all experiences are good, Bianca.
+dialog: You can't always trust the people you
+dialog: want to.
+dialog: 
+speaker_heading: BIANCA
+dialog: I guess I'll never know, will I?
+dialog: 
+text: She rises and holds the door open for Kat, then slams it
+text: behind her.
+dialog: 
+scene_heading: EXT. STRATFORD HOUSE - DAY
+dialog: 
+text: A sprinkler cruises the lawn.
+dialog: 
+scene_heading: INT. KAT'S ROOM - DAY
+dialog: 
+text: Kat lies in bed, staring at the ceiling. She rolls over and
+text: picks up the phone.
+dialog: 
+scene_heading: BIANCA'S ROOM - DAY
+dialog: 
+text: Bianca, still in her pajamas, eats a bowl of cereal while
+text: watching "I Love Lucy" reruns.
+dialog: 
+text: A KNOCK sounds
+dialog: 
+speaker_heading: BIANCA
+dialog: Come in.
+dialog: 
+text: Kat opens the door and peers in with a grin
+dialog: 
+speaker_heading: KAT
+dialog: Feel like shopping?
+dialog: 
+text: Bianca looks up, hopefully.
+dialog: 
+scene_heading: LIVING ROOM - NIGHT
+dialog: 
+text: Walter and Sharon are in front of the television. Walter
+text: has the TV Guide in hand, glasses on.
+dialog: 
+speaker_heading: WALTER
+dialog: What do you wanna watch? We've got
+dialog: crap, crap, crap or crap
+dialog: 
+speaker_heading: SHARON
+dialog: Dr. Ruth?
+dialog: 
+text: Bianca walks into the living room. She's wearing a prom
+dialog: dress.
+dialog: 
+speaker_heading: BIANCA
+dialog: Hi, Mommy.
+dialog: (looking away)
+speaker_heading: WALTER
+dialog: 
+text: Walter scurries takes off his glasses and looks from Bianca
+dialog: to Sharon.
+dialog: 
+speaker_heading: SHARON
+dialog: Honey, you look beautiful!
+dialog: 
+speaker_heading: BIANCA
+dialog: You like? My date should be here in
+dialog: five.
+dialog: 
+speaker_heading: WALTER
+dialog: I'm missing something.
+dialog: 
+speaker_heading: BIANCA
+dialog: I have a date, Daddy. And he ' s not a
+dialog: captain of oppression like some men we
+dialog: know.
+dialog: 
+text: The DOORBELL RINGS. Bianca runs to open it. There stands
+text: CAMERON. He takes in Bianca's outfit.
+dialog: 
+speaker_heading: CAMERON
+dialog: Wow
+dialog: 
+speaker_heading: BIANCA
+dialog: Let's go.
+dialog: 
+text: Walter rises. Sharon pulls him back down on the couch
+dialog: 
+speaker_heading: SHARON
+dialog: (to Bianca)
+dialog: Have a great time, honey!
+dialog: 
+speaker_heading: WALTER
+dialog: But -- who -- what --?
+dialog: 
+text: The door SLAMS. As Sharon looks at Walter with a grin, a
+text: blur rushes down the stairs and out the door. The blur has
+text: Kat ' s voice.
+dialog: 
+speaker_heading: KAT
+dialog: Hey, guys. I'm going to the prom. See
+dialog: you in a few.
+dialog: 
+text: The door SLAMS again. Walter and Sharon 'are alone
+dialog: 
+speaker_heading: WALTER
+dialog: What just happened?
+dialog: 
+speaker_heading: SHARON
+dialog: Your daughters went to the prom.
+dialog: 
+speaker_heading: WALTER
+dialog: Did I have anything to say about it?
+dialog: 
+speaker_heading: SHARON
+dialog: Absolutely not.
+dialog: 
+speaker_heading: WALTER
+dialog: That ' s what I thought
+dialog: 
+text: The DOORBELL RINGS again. Walter opens it to find Joey on
+text: the porch, wearing a tux.
+dialog: 
+speaker_heading: JOEY
+dialog: I'm here to pick up Bianca.
+dialog: 
+speaker_heading: WALTER
+dialog: late
+dialog: 
+text: He SLAMS the door shut
+dialog: 
+scene_heading: EXT HOTEL PARKING LOT - NIGHT
+dialog: 
+text: Kat pulls up in her car, emerging resplendent in an ice
+dialog: gown.
+dialog: 
+text: Patrick sits on the steps, waiting. In a tux.
+dialog: 
+speaker_heading: KAT
+dialog: How'd you get a tux at the last minute?
+dialog: 
+speaker_heading: PATRICK
+text: It's Scurvy's. His date got convicted.
+dialog: Where'd you get the dress?
+dialog: 
+speaker_heading: KAT
+dialog: It's just something I had. You know
+dialog: 
+speaker_heading: PATRICK
+dialog: (smiling)
+dialog: Oh huh
+dialog: 
+speaker_heading: KAT
+dialog: Look, I'm -- sorry -- that I
+dialog: questioned your motives. I was wrong.
+dialog: 
+text: Patrick winces slightly, but covers it with a smile
+dialog: 
+speaker_heading: PATRICK
+dialog: No prob.
+dialog: 
+text: He remains seated. Kat fidgets nervously.
+dialog: 
+speaker_heading: KAT
+dialog: are you ready?
+dialog: 
+text: He rises and stares at her, taking in her image
+text: appreciatively. She blushes and turns away.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: C'mon. Let's get this over with.
+dialog: 
+scene_heading: INT. PROM - NIGHT
+dialog: 
+text: A hotel ballroom transformed into a fantasy world. Patrick
+text: and Kat enter, Kat attempting to deny the romance of it.
+dialog: 
+speaker_heading: KAT
+dialog: Quite the ostentatious display
+dialog: 
+text: A cowboy two-steps by them, dragging some poor girl around
+dialog: 
+speaker_heading: PATRICK
+dialog: Look, Clem even wore his good boots
+dialog: 
+text: Kat steps forward, looking around and spots Cameron and
+text: Bianca dancing cheek to cheek. She smiles.
+dialog: 
+scene_heading: ACROSS THE ROOM
+dialog: 
+text: Mandella enters nervously, in the long Elizabethan gown,
+text: hair piled on top of her head. She spots Kat and hurries
+dialog: over.
+dialog: 
+speaker_heading: MANDELLA
+dialog: Have you seen him?
+dialog: 
+speaker_heading: KAT
+dialog: Who?
+dialog: 
+speaker_heading: MANDELLA
+dialog: William - he asked me to meet him here.
+dialog: 
+speaker_heading: KAT
+dialog: Oh, honey -- tell me we haven't'
+text: progressed to full-on hallucinations.
+dialog: 
+text: Patrick looks toward the door and taps Kat. She turns and
+text: points Mandella the same way.
+dialog: 
+text: Michael - in full Shakespearean dress with a new goatee on
+text: his chin - bows in their direction. Mandella's grin couldn't
+dialog: be bigger.
+dialog: 
+text: Michael swashbuckles over to them, taking Mandella's hand
+text: and leading her onto the dance floor.
+dialog: 
+speaker_heading: MICHAEL
+dialog: Mi' lady.
+dialog: 
+dialog: (to Patrick)
+dialog: Good sir.
+dialog: 
+text: Patrick rolls his eyes.
+dialog: 
+scene_heading: INT. PROM - NIGHT - LATER
+dialog: 
+text: Kat and Patrick dance to a slow SONG. Whatever he's
+text: whispering into her ear is making her laugh.
+dialog: 
+text: Cam and Bianca dance nearby, glowing with happiness. She
+text: whispers something in his ear and heads for the ladies' room
+dialog: 
+scene_heading: INT. LADIES ROOM - NIGHT
+dialog: 
+text: Bianca walks in, positively radiant. Chastity emerges from a
+dialog: stall.
+dialog: 
+speaker_heading: BIANCA
+dialog: (surprised)
+dialog: What are you doing here?
+dialog: 
+text: Chastity checks her hair in the mirror, aloof.
+dialog: 
+speaker_heading: CHASTITY
+dialog: You think you ' re the only sophomore
+dialog: at the prom?
+dialog: 
+speaker_heading: BIANCA
+dialog: I did.
+dialog: 
+text: Chastity maintains her snooty tone.
+dialog: 
+speaker_heading: CHASTITY
+dialog: And just so you know, my date isn't
+dialog: planning on spending most of the night
+text: in his backseat.
+dialog: 
+dialog: BIANCA What're you talking about?
+dialog: 
+speaker_heading: CHASTITY
+dialog: Joey Dorsey is only after one thing - -
+dialog: your cherry. He practically made a
+dialog: public announcement.
+dialog: 
+text: Appalled, Bianca storms out. Chastity tries to backpedal.
+dialog: 
+speaker_heading: CHASTITY
+dialog: (continuing)
+dialog: I wanted to tell you
+dialog: 
+scene_heading: INT. PROM - NIGHT
+dialog: 
+text: Joey, drunk, disorderly and pissed off, walks in with a few
+text: stray jocks - also dateless. He zeroes in on Cameron, now
+text: consoling a pissed-off Bianca.
+dialog: 
+text: Patrick and Kat continue to slow dance, oblivious to the
+text: evil about to erupt.
+dialog: 
+speaker_heading: PATRICK
+dialog: My grandmother's .
+dialog: 
+speaker_heading: KAT
+dialog: What?
+dialog: 
+speaker_heading: PATRICK
+dialog: That's where I was last year. She'd
+dialog: never lived alone -- my grandfather died
+dialog: -- I stayed with her. I wasn't in jail,
+dialog: I don't know Marilyn Manson, and I've
+dialog: never slept with a Spice Girl. I spent
+dialog: a year sitting next to my grandma on the
+text: couch watching Wheel of Fortune. End of
+dialog: story.
+dialog: 
+text: He takes a breath and looks away, not meeting her eyes. Kat
+text: stares at him for a moment and laughs a delighted laugh
+dialog: 
+speaker_heading: KAT
+dialog: That ' s completely adorable!
+dialog: 
+speaker_heading: PATRICK
+dialog: It gets worse -- you still have your
+dialog: freshman yearbook?
+dialog: 
+text: He's interrupted by Joey's hand on his shoulder.
+dialog: 
+speaker_heading: JOEY
+dialog: What's Bianca doing here with that
+dialog: cheese dick? I didn't pay you to let
+dialog: some little punk ass snake me.
+dialog: 
+scene_heading: ACROSS THE ROOM
+dialog: 
+text: Michael spots the altercation and dances Mandella over to
+text: Cameron and Bianca.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (to Cameron)
+dialog: Feces hitting fan. C'mon
+dialog: 
+text: Michael takes Cameron aside, leaving Mandella and Bianca
+text: staring after them.
+dialog: 
+scene_heading: ACROSS THE ROOM
+dialog: 
+text: Michael and Cameron approach Joey as he continues to taunt
+text: Patrick who keeps quiet, realizing the weight of this
+dialog: situation.
+dialog: 
+speaker_heading: MICHAEL
+dialog: (continuing)
+dialog: Joey, pal, compadre. Let's take it
+dialog: easy.
+dialog: 
+text: Joey turns toward Michael and Cameron.
+dialog: 
+dialog: JOEY You two are in big trouble
+dialog: 
+text: Cameron faces Joey.
+dialog: 
+speaker_heading: CAMERON
+dialog: Admit it. You lost. Be a man.
+dialog: 
+text: Joey PUNCHES Cameron in the face, taking him by surprise
+text: Cameron holds his nose as it bleeds onto his tux
+dialog: 
+text: The various cliques descend angrily and Joey is soon
+text: surrounded by seething Cowboys, Coffee Kids and White
+dialog: Rastas.
+dialog: 
+speaker_heading: DEREK
+dialog: Very uncool, my brother
+dialog: 
+speaker_heading: JOEY
+dialog: I'm not your brother, white boy.
+dialog: 
+text: The other Rastas GASP, as if stung by the realization that
+dialog: they're white.
+dialog: 
+text: Joey turns back to Patrick and Kat.
+dialog: 
+speaker_heading: JOEY
+dialog: (continuing)
+dialog: Just so you know -- she'll only spread
+text: her legs once.
+dialog: 
+text: Kat looks from Joey to Patrick, not sure what she's hearing.
+text: Joey pushes through the crowd but a HAND drags him back.
+text: It's Bianca. And she BELTS the hell out of him
+dialog: 
+speaker_heading: BIANCA
+dialog: That's for making my date bleed
+dialog: 
+text: She BELTS him again
+dialog: 
+speaker_heading: BIANCA
+dialog: (continuing)
+dialog: That's for my sister.
+dialog: 
+speaker_heading: And AGAIN
+dialog: 
+speaker_heading: BIANCA
+dialog: (continuing)
+dialog: And that's for me.
+dialog: 
+text: Cliques now descend on Joey, punching him wildly.
+dialog: 
+speaker_heading: COWBOY
+dialog: And that's for the fourth grade,
+dialog: asshole.
+dialog: 
+scene_heading: HOTEL - NIGHT
+dialog: 
+text: KAT runs down the stairs, Patrick chasing her
+dialog: 
+speaker_heading: PATRICK
+dialog: Wait I...
+dialog: 
+speaker_heading: KAT
+dialog: You were paid to take me out! By --
+dialog: the one person I truly hate. I knew it
+dialog: was a set-up!
+dialog: 
+speaker_heading: PATRICK
+dialog: It wasn't like that.
+dialog: 
+speaker_heading: KAT
+dialog: Really? What was it like? A down
+dialog: payment now, then a bonus for sleeping
+dialog: with me?
+dialog: 
+speaker_heading: PATRICK
+dialog: I didn't care about the money.
+dialog: 
+text: He catches up to her now
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: I cared about --
+dialog: 
+text: She turns to face him with a countenance more in sorrow than
+text: in anger.
+dialog: 
+speaker_heading: KAT
+dialog: You are so not what I thought you were.
+dialog: 
+text: He grabs her and kisses her to shut her up. After a second,
+text: she jerks away and flees down the stairs and out of sight.
+dialog: 
+text: Bianca stands at the top of the stairs, watching. She's
+dialog: never looked more guilty.
+dialog: 
+scene_heading: INT. STRATFORD HOUSE - DAY
+dialog: 
+text: Kat is sprawled on the couch in sweats, wrapped in a
+text: blanket, watching "Sixteen Candles". When Molly Ringwald
+text: leans across the birthday cake to get a kiss from her dream
+text: date, Kat changes the channel disgustedly, settling for an
+dialog: infomercial
+dialog: 
+text: The phone sits next to her. Not ringing. Bianca breezes
+text: in, bearing a cup of tea.
+dialog: 
+speaker_heading: BIANCA
+dialog: Are you sure you don't want to come
+dialog: with us? It'll be fun.
+dialog: 
+text: Kat takes the tea and gives a weak smile.
+dialog: 
+speaker_heading: KAT
+dialog: I ' m sure .
+dialog: 
+text: Bianca sits down next to her
+dialog: 
+speaker_heading: BIANCA
+dialog: You looked beautiful last night, you
+dialog: know.
+dialog: 
+speaker_heading: KAT
+dialog: So did you
+dialog: 
+text: Bianca gives her a squeeze, then jumps up when the DOORBELL
+text: rings, opening the door to a waiting Cameron. He peeks his
+text: head inside.
+dialog: 
+speaker_heading: CAMERON
+dialog: She okay?
+dialog: 
+speaker_heading: BIANCA
+dialog: I hope so.
+dialog: 
+text: The door shuts behind her as Walter enters.
+dialog: 
+speaker_heading: WALTER
+dialog: Was that your sister?
+dialog: 
+speaker_heading: KAT
+dialog: Yeah. She left with some bikers Big
+text: ones. Full of sperm.
+dialog: 
+speaker_heading: WALTER
+dialog: Funny.
+dialog: 
+text: Walter sits down on the arm of the chair and watches the
+text: infomercial with Kat.
+dialog: 
+speaker_heading: WALTER
+dialog: (continuing)
+dialog: I don't understand the allure of
+dialog: dehydrated food. Is this something I
+dialog: should be hip to?
+dialog: 
+speaker_heading: KAT
+dialog: No, Daddy.
+dialog: 
+speaker_heading: WALTER
+dialog: (dreading the
+dialog: answer)
+dialog: So tell me about this dance. Was it
+dialog: fun?
+dialog: 
+speaker_heading: KAT
+text: Parts of it.
+dialog: 
+speaker_heading: WALTER
+dialog: Which parts?
+dialog: 
+speaker_heading: KAT
+dialog: The part where Bianca beat the hell out
+dialog: of some guy.
+dialog: 
+speaker_heading: WALTER
+dialog: Bianca did what?
+dialog: 
+speaker_heading: KAT
+dialog: What's the matter? Upset that I rubbed
+dialog: off on her?
+dialog: 
+speaker_heading: WALTER
+dialog: No -- impressed.
+dialog: 
+text: Kat looks up in surprise.
+dialog: 
+speaker_heading: WALTER
+dialog: (continuing)
+dialog: You know, fathers don't like to admit
+dialog: that their daughters are capable of
+dialog: running their own lives. It means we've
+text: become spectators. Bianca still lets me
+dialog: play a few innings. You've had me on
+dialog: the bleachers for years. When you go to
+dialog: Sarah Lawrence, I won't even be able to
+dialog: watch the game.
+dialog: 
+speaker_heading: KAT
+dialog: (hopeful)
+dialog: When I go?
+dialog: 
+speaker_heading: WALTER
+dialog: Oh, Christ. Don't tell me you've
+dialog: changed your mind. I already sent 'em a
+dialog: check.
+dialog: 
+text: Kat reaches over and gives him a hug
+dialog: 
+text: INT. CAFETERIA - DAY Kat stands grabs a box of cornflakes
+text: from the food line.
+dialog: 
+speaker_heading: CAMERON (0. S.)
+dialog: Katarina?
+dialog: 
+text: She turns and looks at him
+dialog: 
+speaker_heading: CAMERON
+dialog: I'd like to express my apologies.
+dialog: 
+speaker_heading: KAT
+dialog: For what?
+dialog: 
+speaker_heading: CAMERON
+dialog: (looking down)
+dialog: I didn't mean for you to get -- When
+dialog: Bianca asked me to find you a boyfriend,
+dialog: I had no idea it would turn out so --
+dialog: ugly. I would never have done anything
+dialog: to compromise your - - -
+dialog: 
+text: He trails off when he realizes she's thrown her food tray
+text: against the wall and marched off -- the old "kill, kill"
+text: look back in her eyes.
+dialog: 
+scene_heading: INT. HALLWAY - DAY
+dialog: 
+text: Kat stomps up the hallway, full of menace
+dialog: 
+scene_heading: CLASSROOM - DAY
+dialog: 
+text: Bianca's English teacher perches on the edge of a desk, open
+text: book in hand.
+dialog: 
+speaker_heading: TEACHER
+dialog: Who can tell me at what point Lucentio
+dialog: admits his deception?
+dialog: 
+text: The door of the classroom FLIES open and an angry Kat stalks
+text: in, yanking Bianca from her chair and dragging her toward
+text: the hallway.
+dialog: 
+speaker_heading: KAT
+dialog: (to the teacher)
+dialog: Family emergency.
+dialog: 
+scene_heading: HALLWAY - DAY
+dialog: 
+text: Bianca tries to pull away as Kat drags her by the hair
+text: between two rows of lockers.
+dialog: 
+speaker_heading: BIANCA
+dialog: Let go!
+dialog: 
+speaker_heading: KAT
+dialog: You set me up.
+dialog: 
+speaker_heading: BIANCA
+dialog: I just wanted --
+dialog: 
+speaker_heading: KAT
+dialog: What? To completely damage me? To send
+dialog: me to therapy forever? What?
+dialog: 
+speaker_heading: BIANCA
+dialog: No! I just wanted
+dialog: 
+text: Miss Perky walks up
+dialog: 
+speaker_heading: MISS PERKY
+dialog: Ladies? Shall we take a trip to my
+dialog: office?
+dialog: 
+scene_heading: INT. MISS PERKY'S OFFICE - DAY
+dialog: 
+text: Miss Perky stares at both sisters as they sit before her,
+text: then focuses on Bianca.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: So you're the real bitch
+dialog: 
+speaker_heading: BIANCA
+dialog: Yes! Okay? Yes -- I'm the real bitch.
+dialog: I wanted her to get a boyfriend so I
+dialog: could. Apparently, this makes me a
+dialog: horrible person. I'm sorry.
+dialog: 
+text: She turns to Kat.
+dialog: 
+speaker_heading: BIANCA
+dialog: (continuing)
+dialog: I swear -- I didn't know about the
+dialog: money. I didn't even know Joey was
+dialog: involved. I would never intentionally
+dialog: hurt you, Kat.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: (to Kat)
+dialog: Do you care to respond?
+dialog: 
+speaker_heading: KAT
+dialog: Am I supposed to feel better? Like,
+dialog: right now? Or do I have some time to
+dialog: think about it?
+dialog: 
+speaker_heading: MISS PERKY
+dialog: Just smack her now.
+dialog: 
+text: Bianca rises, taking Kat by the arm.
+dialog: 
+speaker_heading: BIANCA
+dialog: (to Miss Perky)
+dialog: We'll be getting back to you.
+dialog: 
+speaker_heading: MISS PERKY
+dialog: What, no hug?
+dialog: 
+scene_heading: HALLWAY - DAY
+dialog: 
+dialog: And Bianca leave Miss Perky's office
+dialog: 
+speaker_heading: BIANCA
+dialog: Is that woman a complete fruit-loop or
+dialog: is it just me?
+dialog: 
+speaker_heading: KAT
+dialog: It's just you.
+dialog: 
+scene_heading: ENGLISH CLASS - DAY
+dialog: 
+text: Mrs. Blaise faces the class
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: All right. I'm assuming everyone found
+dialog: time to compose, their poems. Except for
+text: Mr. Dorsey, who's still in ICU.
+dialog: 
+text: Nerds in the back high-five each other.
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: (continuing)
+dialog: Would anyone care to read theirs aloud?
+dialog: 
+text: No one moves. Then Kat slowly stands up.
+dialog: 
+speaker_heading: KAT
+dialog: I'11 go
+dialog: 
+text: Patrick looks up.
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: Oh, Lord.
+dialog: 
+text: She downs a couple Prozac
+dialog: 
+speaker_heading: MRS. BLAISE
+dialog: (continuing)
+dialog: Please proceed.
+dialog: 
+text: Kat stands, puts on her glasses, and takes a deep breath
+text: before reading from her notebook.
+dialog: 
+speaker_heading: KAT
+dialog: I hate the way you talk to me/ and the
+dialog: way you cut your hair/ I hate the way
+dialog: you drive my car/ I hate it when you
+dialog: stare.
+dialog: 
+text: She pauses, then continues
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: I hate your big dumb combat boots/ and
+dialog: the way you read my mind/ I hate you so
+dialog: much it makes me sick/ it even makes me
+dialog: rhyme.
+dialog: 
+text: She takes a deep breath, and looks quickly at Patrick, who
+text: stares at the floor.
+dialog: 
+speaker_heading: KAT
+dialog: (continuing)
+dialog: I hate the way you're always right/ I
+dialog: hate it when you lie/ I hate it when you
+dialog: make me laugh/ even worse when you make
+dialog: me cry/ I hate it that you're not
+dialog: around/ and the fact that you didn't
+dialog: call/ But mostly I hate the way I don '
+dialog: t hate you/ not even close, not even a
+text: little bit, not even any at all.
+dialog: 
+text: She looks directly at Patrick. He looks back this time.
+text: The look they exchange says everything.
+dialog: 
+text: Then she walks out of the room The rest of the class remains
+text: in stunned silence.
+dialog: 
+scene_heading: EXT. PARKING LOT - MOMENTS LATER
+dialog: 
+text: Kat walks to her car alone. When she opens the door, she's
+text: greeted with a Fender Stratocaster guitar, reclining in the
+text: front seat.
+dialog: 
+text: She picks it up slowly, inspecting every detail, then spins
+dialog: around.
+dialog: 
+text: Patrick stands there, smiling.
+dialog: 
+speaker_heading: KAT
+dialog: A Fender Strat. You bought this?
+dialog: 
+speaker_heading: PATRICK
+dialog: I thought you could use it. When you
+dialog: start your band.
+dialog: 
+text: She doesn't answer, but hides a smile, so he walks closer.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: Besides, I had some extra cash. Some
+dialog: asshole paid me to take out a really
+dialog: great girl.
+dialog: 
+speaker_heading: KAT
+dialog: Is that right?
+dialog: 
+speaker_heading: PATRICK
+dialog: Yeah, but then I fucked up. I fell for
+dialog: her.
+dialog: 
+text: Blushes and looks down.
+dialog: 
+speaker_heading: PATRICK
+dialog: (continuing)
+dialog: You know -- it's not every day you find
+dialog: a girl who'll flash her tits to get you
+dialog: out of detention.
+dialog: 
+text: Looks up. surprised and embarrassed that he found out
+dialog: 
+text: He takes her upturned face as a sign to kiss her and he does
+text: She lets him this time.
+dialog: 
+text: Then breaks it off
+dialog: 
+speaker_heading: KAT
+dialog: You can't just buy me a guitar every
+dialog: time you screw up, you know.
+dialog: 
+text: He grimaces.
+dialog: 
+speaker_heading: PATRICK
+dialog: I know
+dialog: 
+text: He quiets her with another kiss Which she breaks off again.
+dialog: 
+speaker_heading: KAT
+dialog: And don't just think you can
+dialog: 
+text: He kisses her again, not letting her end it this time.
+dialog: 
+scene_heading: STRATFORD HOUSE - SUNSET
+dialog: 
+text: We hear the sounds of MUSIC and LAUGHTER.
+dialog: 
+scene_heading: STRATFORD HOUSE/BACKYARD - SUNSET
+dialog: 
+text: Patrick is at the barbecue grill, flipping burgers. Kat
+dialog: watches.
+dialog: 
+speaker_heading: KAT
+dialog: Why is my veggie burger the only burnt
+dialog: object on this grill?
+dialog: 
+speaker_heading: PATRICK
+dialog: Because I like to torture you.
+dialog: 
+speaker_heading: KAT
+dialog: Oh, Bianca? Can you get me my freshman
+dialog: yearbook?
+dialog: 
+speaker_heading: PATRICK
+dialog: Don ' t you even dare. . .
+dialog: 
+text: ON BIANCA AND CAMERON As they argue on the patio.
+dialog: 
+speaker_heading: CAMERON
+dialog: They do to!
+dialog: 
+speaker_heading: BIANCA
+dialog: They do not!
+dialog: 
+text: Rises to get the yearbook.
+dialog: 
+speaker_heading: CAMERON
+dialog: Can someone please tell her that
+dialog: sunflower seeds come from sunflowers?
+dialog: 
+scene_heading: ON MICHAEL AND MANDELLA
+dialog: 
+text: Severely making-out in a lawn chair. She comes up for a
+dialog: breath.
+dialog: 
+speaker_heading: MANDELLA
+dialog: I can't remember a word of Shakespeare
+dialog: right now. Isn't that weird?
+dialog: 
+text: Michael pulls her back down for another round ON KAT AND
+speaker_heading: PATRICK
+dialog: 
+text: She tries to keep him from grabbing the yearbook that Bianca
+text: now hands her.
+dialog: 
+speaker_heading: KAT
+dialog: You're freaked over this, aren't you?
+dialog: 
+text: Bianca hands her the yearbook
+dialog: 
+speaker_heading: BIANCA
+text: He's more than freaked. He's froke
+dialog: 
+text: Flips to a page.
+dialog: 
+speaker_heading: KAT
+dialog: I'd like to call your attention to
+text: Patrick Verona's stunning bad-ass look
+dialog: of 1995 ---
+dialog: 
+text: INSERT - A horrifically nerdy freshman year picture Glasses,
+text: bad hair, headgear -- the works.
+dialog: 
+text: She holds up the picture for all to view. Patrick cringes
+text: and throws a handful of pretzels at her.
+dialog: 
+speaker_heading: BIANCA
+dialog: Patrick -- is that- a.
+dialog: 
+speaker_heading: KAT
+dialog: Perm?
+dialog: 
+speaker_heading: PATRICK
+dialog: Ask my attorney.
+dialog: 
+text: Kat and Bianca huddle over the picture, giggling -- as we
+text: CRANE UP and hear a GIRLY PUNK version of The Partridge
+dialog: Family's "I Think I Love You".
+dialog: 
+speaker_heading: FADE OUT:
+dialog: 
+speaker_heading: END
+dialog: 

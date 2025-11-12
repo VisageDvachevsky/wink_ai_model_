@@ -1,0 +1,4863 @@
+dialog: 
+scene_heading: ALL THE KING'S MEN
+dialog: Written by
+dialog: Robert Rossen
+dialog: Based on the novel by
+dialog: Robert Penn Warren
+speaker_heading: SHOOTING DRAFT
+dialog: 1949
+dialog: 
+dialog: Interior: Jack Burden's Desk, The Chronicle, Day
+text: Jack Burden is looking over the morning edition of "The
+text: Chronicle." He reads the society page. A man enters and leans
+text: across his desk.
+speaker_heading: MAN
+dialog: Burden! Jack Burden! The boss wants
+dialog: to see you.
+text: He folds his paper, rises, and walks by the presses into
+dialog: Madison's office.
+dialog: Interior: Madison's Office, Day
+text: Madison, the city editor, is correcting copy at his desk.
+speaker_heading: MADISON
+dialog: Hey, Jack, ever hear of a fellow
+dialog: called Willie Stark?
+speaker_heading: JACK
+dialog: No. Who'd he shoot?
+speaker_heading: MADISON
+dialog: Oh, county... uh... treasurer, or
+dialog: something like that.
+speaker_heading: JACK
+dialog: What's so special about him?
+speaker_heading: MADISON
+dialog: They say he's an honest man. What I
+dialog: want you to do is to hop into your
+dialog: car...
+speaker_heading: JACK
+dialog: Why, you promised me a vacation.
+speaker_heading: MADISON
+dialog: Well, that can wait.
+speaker_heading: JACK
+dialog: Yeah... but there's a... a girl I
+dialog: know.
+text: He opens his newspaper to the society page and shows Madison
+text: a photograph of Anne Stanton.
+speaker_heading: MADISON
+dialog: Oh... Well, she can wait too.
+text: Jack takes the paper back and looks at it.
+speaker_heading: JACK
+dialog: The question is... can I?
+speaker_heading: MADISON
+dialog: The answer is... get up there.
+speaker_heading: JACK
+dialog: Right.
+dialog: (starts to go)
+dialog: Oh... uh... what did you say his
+dialog: name was?
+speaker_heading: MADISON
+dialog: Who?
+speaker_heading: JACK
+dialog: The fellow's name.
+speaker_heading: MADISON
+dialog: Oh, the... uh... Stark... Willie
+dialog: Stark.
+text: Madison goes on with his work.
+speaker_heading: JACK
+dialog: (as he leaves)
+dialog: Willie Stark...
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Kanoma City, Day
+text: As Jack Burden's jalopy pulls up before the Kanoma County
+text: Courthouse of this back-country, one-street small town.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: I found him in Kanoma City. A typical,
+text: hot, dusty, backwoods county seat.
+text: He gets out of the car, and notices a crowd of people gathered
+text: around a platform in the town square. As he walks over the
+text: begins to hear the words that Willie Stark is speaking.
+speaker_heading: WILLIE
+dialog: ...to lie to them in order to line
+dialog: their own dirty pockets with the
+dialog: taxpayers' money. When have the
+dialog: citizens of Kanoma County ever
+dialog: witnessed a campaign like this? Why
+dialog: is the opposition so anxious to defeat
+dialog: me? Why have they used every dirty
+dialog: method known to make sure I'm not
+dialog: elected county treasurer? Well, I'll
+dialog: tell you why...
+text: A man in shirt sleeves and suspenders, Tiny Duffy, comes out
+text: of the local poolroom, listens for a moment to Willie's
+text: speech, and signals to two uniformed men to go over and break
+text: up the gathering.
+text: Jack Burden stands close to the platform, next to Willie's
+text: son, Tom, who waits patiently to distribute handbills.
+speaker_heading: WILLIE
+dialog: ...Because they're afraid of the
+dialog: truth... and the truth is this.
+dialog: They're trying to steal your money.
+dialog: Yeah, I said steal. The county
+dialog: commissioners rejected the bid on
+dialog: the schoolhouse. Why? Well, they'll
+dialog: tell you their reason is the job
+dialog: will be done better. The county
+dialog: commissioners would have you believe
+dialog: that they're interested in public
+dialog: welfare. They're interested in
+dialog: welfare, sure. But it's their own.
+dialog: Let's look at the reason in the light
+dialog: of the facts and the figures. That
+dialog: brick factory is owned by one of the
+dialog: commissioners. That same brick factory
+dialog: uses convict labor.
+text: The sheriff and his deputy push through the crowd.
+speaker_heading: SHERIFF
+dialog: Sorry, Willie, you'll have to move
+dialog: on.
+speaker_heading: WILLIE
+dialog: Why?
+speaker_heading: SHERIFF
+dialog: City Ordinance Number One-Oh-Five:
+text: more than five people congregating
+dialog: is disturbing the peace.
+speaker_heading: WILLIE
+dialog: (ignores him)
+dialog: If you folks'll be so kind as to
+dialog: read these handbills, my boy will
+dialog: pass them out among you.
+speaker_heading: SHERIFF
+dialog: There's an ordinance against that
+dialog: too.
+speaker_heading: WILLIE
+dialog: (his face grim)
+dialog: Pass 'em out, Tom.
+text: The sheriff pushes Tom back, grabbing the handbills out of
+text: his hand. Willie jumps down off the platform.
+speaker_heading: WILLIE
+dialog: Let him alone!
+text: The sheriff collars Willie, then notices Jack on the platform
+text: snapping a picture.
+speaker_heading: SHERIFF
+dialog: (to deputy)
+dialog: Get that camera! Willie, you're under
+dialog: arrest.
+text: He takes Willie by the arm and leads him away. The crowd
+text: follows them to the courthouse. Tiny Duffy wipes the sweat
+text: off his neck and goes back into the poolroom.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Kanoma City Poolroom, Day
+text: Two of Duffy's men, Pillsbury and a local commissioner, are
+text: playing pool as Jack enters.
+speaker_heading: JACK
+dialog: Where can I find Tiny Duffy?
+speaker_heading: PILLSBURY
+dialog: Right over there, mister.
+text: He walks over to Duffy. Some townspeople, who followed him
+text: there, gather around him to listen.
+speaker_heading: JACK
+dialog: Uh, they told me I could get my camera
+dialog: back here.
+speaker_heading: DUFFY
+dialog: Who told you that?
+speaker_heading: JACK
+dialog: People. Can I?
+speaker_heading: DUFFY
+dialog: You the reporter that's been snoopin'
+dialog: around town?
+speaker_heading: JACK
+dialog: Are you Tiny Duffy?
+speaker_heading: DUFFY
+dialog: What paper?
+speaker_heading: JACK
+dialog: Chronicle.
+speaker_heading: DUFFY
+dialog: You sure come a long way to stick
+dialog: your nose into other people's
+dialog: business.
+speaker_heading: JACK
+dialog: That's true... Only my boss on the
+dialog: paper can't see it that way.
+speaker_heading: DUFFY
+dialog: It ain't any of his business either.
+speaker_heading: JACK
+dialog: Whose business is it?
+speaker_heading: PILLSBURY
+dialog: Them as is tendin' to it. County
+dialog: commissioners that the voters of
+dialog: Kanoma County elected to tend to
+dialog: their business and not take no buttin'
+dialog: in from nobody.
+speaker_heading: JACK
+dialog: You a commissioner?
+speaker_heading: PILLSBURY
+dialog: Yeah. Name's Pillsbury. Dolph
+dialog: Pillsbury.
+speaker_heading: 2ND COMMISSIONER
+dialog: Me too. I'm a commissioner too.
+speaker_heading: JACK
+dialog: Who isn't a commissioner?
+speaker_heading: DUFFY
+dialog: He's the head man.
+speaker_heading: JACK
+dialog: (to Pillsbury)
+dialog: Then you're in a position to know
+dialog: where --
+speaker_heading: DUFFY
+dialog: He's in a position to know nothin'.
+dialog: And to say nothin'.
+speaker_heading: JACK
+dialog: I thought you said he was head man?
+speaker_heading: DUFFY
+dialog: (smiling)
+dialog: He uses my head.
+speaker_heading: PILLSBURY
+dialog: (laughing loudly)
+dialog: Oh, Tiny, you're a card... Ain't he
+dialog: a card? Yeah, he's a card... Now,
+dialog: who thought up those city ordinances
+dialog: about arresting someone for making a
+dialog: speech?
+speaker_heading: DUFFY
+dialog: Who's arrested? Nobody's been
+dialog: arrested.
+dialog: (looks toward the
+dialog: door)
+dialog: Hi, Willie.
+text: Willie enters, accompanied by the sheriff and his deputy.
+text: The others in the room, including Sugar Boy in his bartender's
+text: apron, step aside to let him pass through.
+speaker_heading: PILLSBURY
+dialog: Hi, Willie.
+speaker_heading: DUFFY
+dialog: (to Sheriff)
+dialog: Did you apologize to Willie?
+speaker_heading: SHERIFF
+dialog: (mumbles)
+dialog: Yeah, I apologized to Willie.
+speaker_heading: DUFFY
+dialog: Did you give him his handbills back?
+speaker_heading: SHERIFF
+dialog: Yeah, I gave 'em back.
+speaker_heading: DUFFY
+dialog: Give him back his flag and his bag
+dialog: and...
+dialog: (points to Jack)
+dialog: give this man his camera.
+speaker_heading: WILLIE
+dialog: I'm going to be on that same street
+dialog: corner tomorrow, Mr. Duffy.
+speaker_heading: DUFFY
+dialog: You go right ahead, Willie. We all
+dialog: believe in free speech. We got to...
+dialog: it's in the Constitution.
+speaker_heading: WILLIE
+dialog: My boy is out distributing those
+text: handbills now.
+speaker_heading: DUFFY
+dialog: It's a free country, Willie. If you
+dialog: can convince the people to vote for
+dialog: you... you go right ahead.
+speaker_heading: WILLIE
+dialog: What did you want to see me about,
+dialog: Mr. Duffy?
+speaker_heading: DUFFY
+dialog: I wanted you to meet a fella came
+dialog: all the way up from the state capital
+dialog: to meet you. A reporter. Wants to
+dialog: write you up... maybe put your picture
+dialog: in the paper.
+speaker_heading: WILLIE
+dialog: (turns to Jack)
+dialog: I'm happy to know you, sir.
+speaker_heading: JACK
+dialog: Burden's my name... Jack Burden. Can
+dialog: we go somewhere where we can talk?
+speaker_heading: DUFFY
+dialog: Now that ain't polite. Don't you
+dialog: want to hear both sides of the story?
+text: Jack examines the camera that has just been returned to him.
+speaker_heading: JACK
+dialog: I know your side.
+dialog: (finds the plate
+dialog: missing)
+dialog: What happened to the plate your men
+dialog: took from my camera?
+speaker_heading: DUFFY
+dialog: Must have dropped out. Oh, come on,
+dialog: fellas, let's relax. It's a hot day...
+dialog: Hey, Sugar Boy...
+speaker_heading: SUGAR BOY
+dialog: Yeah?
+speaker_heading: DUFFY
+dialog: Bring some cold beer for the boys.
+speaker_heading: WILLIE
+dialog: None for me, thank you kindly.
+speaker_heading: PILLSBURY
+dialog: Now you know Willie don't drink,
+dialog: Tiny. His wife don't favor drinking.
+dialog: And Willie's the teacher's pet, ain't
+dialog: you, Willie?
+speaker_heading: WILLIE
+dialog: I'll have some orange pop if you
+dialog: don't mind.
+text: Duffy roars with laughter.
+speaker_heading: DUFFY
+dialog: Orange pop! All right, Sugar Boy.
+dialog: Bring him some orange pop.
+speaker_heading: SUGAR BOY
+dialog: (stutters)
+dialog: Th-th-the p-p-pop's s-s-sold out.
+speaker_heading: DUFFY
+dialog: Did you hear that, boys? The p-p-
+dialog: pop's s-s-sold out.
+text: They all laugh.
+speaker_heading: PILLSBURY
+dialog: Now ain't he a card?
+speaker_heading: WILLIE
+dialog: (his face hard)
+dialog: He stutters, Mr. Duffy, but you...
+dialog: you don't say anything.
+dialog: (to Jack)
+dialog: Let's go, mister.
+text: They turn and go out.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Dirt Road, Day
+text: Jack is driving Willie home to his farmhouse. They pass a
+text: farmer and his family walking by the side of the road. Willie
+text: smiles and waves to them.
+dialog: Exterior: Stark Farmhouse, Day
+text: As the car pulls into the drive we see Pa Stark in his rocking
+text: chair on the porch, and Lucy, who stands at the top of the
+text: steps, waiting to welcome Willie.
+speaker_heading: WILLIE
+dialog: (as they go up the
+dialog: steps)
+dialog: This is my wife, Lucy, Mr. Burden.
+speaker_heading: JACK AND LUCY
+dialog: How do you do?
+speaker_heading: WILLIE
+dialog: That's my pa.
+text: Jack reaches out to shake his hand.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stark Farmhouse, Night
+text: Willie finishes chewing his food, pats his mouth with a
+text: napkin, and pushes his plate back.
+speaker_heading: WILLIE
+dialog: Now we'll talk.
+text: Camera pulls back to include Jack, Lucy, and Pa, all seated
+text: around the dinner table.
+speaker_heading: JACK
+dialog: You've been talking for a long time,
+dialog: Mr. Stark.
+speaker_heading: PAPPY
+dialog: Willie's got a lot to say.
+speaker_heading: LUCY
+dialog: You sleepy, Pappy? You want to have
+dialog: a nap?
+speaker_heading: PAPPY
+dialog: No, I want to hear it.
+text: Lucy gets up and turns on a light in the kitchen.
+speaker_heading: LUCY
+dialog: I'm worried about Tom. It's getting
+text: dark. He should have been home.
+speaker_heading: WILLIE
+dialog: He's a strong boy. Don't worry about
+dialog: him. He can take care of himself.
+speaker_heading: JACK
+dialog: How old is the boy?
+speaker_heading: WILLIE
+dialog: Fifteen.
+speaker_heading: JACK
+dialog: How long have you been married?
+speaker_heading: WILLIE
+dialog: Nine years.
+text: Willie grins at Jack's look of surprise. Lucy comes back
+text: into the room.
+speaker_heading: LUCY
+dialog: (laughs)
+dialog: He was a neighbor's boy. They were
+dialog: poor folks. Both died. I couldn't
+dialog: have any children, so... He's a good
+dialog: boy.
+speaker_heading: WILLIE
+dialog: Oh, he's the best. I couldn't love
+dialog: him any more if he was my own flesh
+dialog: and blood.
+speaker_heading: JACK
+dialog: (to Lucy)
+dialog: And now you, Mrs. Stark?
+speaker_heading: LUCY
+dialog: Oh, there isn't very much to tell
+dialog: about me.
+speaker_heading: JACK
+dialog: How did you meet?
+speaker_heading: LUCY
+dialog: I was teaching school and one day a
+dialog: pupil walked in. It was Willie. I
+dialog: couldn't have a grown man in the
+dialog: class and Willie wanted to learn so
+dialog: badly... so I married him.
+speaker_heading: JACK
+dialog: Is that the only reason?
+speaker_heading: LUCY
+dialog: (pressing Willie's
+dialog: arm)
+dialog: Except that I loved him.
+speaker_heading: WILLIE
+dialog: Get the coffee, Lucy.
+text: She goes back into the kitchen.
+speaker_heading: JACK
+dialog: When did they fire you, Mrs. Stark?
+speaker_heading: LUCY
+dialog: (as she serves the
+dialog: coffee)
+dialog: A couple of weeks ago. I'd been
+dialog: teaching for a long time and nobody
+dialog: ever said I wasn't all right. But I
+dialog: don't care. I don't want to teach in
+dialog: a schoolhouse that they built just
+dialog: so somebody can steal some money.
+dialog: And Willie doesn't want to be
+dialog: Treasurer, either, if he has to
+dialog: associate with those dishonest people.
+speaker_heading: WILLIE
+dialog: (glumly)
+dialog: I'm going to run. They can't keep me
+dialog: from running.
+speaker_heading: JACK
+dialog: If you don't mind the truth, Mr.
+dialog: Stark, you haven't much of a chance.
+speaker_heading: WILLIE
+dialog: I'm going to run. They're not going
+dialog: to kick me around like I was dirt.
+speaker_heading: LUCY
+dialog: I don't care if Willie loses... just
+dialog: so he gets the truth to the people.
+dialog: Isn't that true, Willie?
+text: Willie is silent. Jack looks at him.
+speaker_heading: LUCY
+dialog: Isn't it, Willie?
+speaker_heading: WILLIE
+dialog: Hmmm?... Yeah, yeah, sure, that's
+dialog: right.
+speaker_heading: LUCY
+dialog: Well, if you lose you can give a
+dialog: little more time to studying your
+dialog: law books.
+speaker_heading: JACK
+dialog: Oh, you studying law too?
+speaker_heading: WILLIE
+dialog: By myself, at night.
+speaker_heading: PAPPY
+dialog: Willie's a smart boy.
+speaker_heading: WILLIE
+dialog: If I ever find the time I'm going to
+dialog: take a course at the university.
+text: The door opens slowly and Tom comes in from the porch. His
+text: clothes are torn and his face is dirty and bloody. He still
+text: carries some of the handbills. They rise to their feet and
+text: cluster around him.
+speaker_heading: LUCY
+dialog: What happened, Tommy boy? What's the
+dialog: matter?
+speaker_heading: TOM
+dialog: (head down, muttering)
+dialog: I gave out the handbills, Pa.
+speaker_heading: WILLIE
+dialog: Speak up. Speak up.
+speaker_heading: LUCY
+dialog: Let him tell it his own way. Go on,
+dialog: Tommy.
+speaker_heading: TOM
+dialog: This time they were waiting for me.
+dialog: They took them away from me. Threw
+dialog: them in the dirt and beat me up. I
+dialog: brought some of them back.
+speaker_heading: WILLIE
+dialog: (pats him on the back)
+dialog: Good boy. Have you eaten yet, Tom?
+speaker_heading: LUCY
+dialog: Let him wash up first.
+text: As Tom and Pappy go into the other room, a rock comes crashing
+text: through the front window, shattering the glass. Willie, his
+text: face filled with anger, throws open the door and stalks out
+text: onto the porch. Jack stands at the door, watching Willie
+text: shout into the darkness around him.
+speaker_heading: WILLIE
+dialog: I'm going to run... and you're not
+dialog: going to stop me. I'm gonna run even
+dialog: if I don't get a single vote.
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+dialog: Interior: Jack Burden's Desk, Day
+text: Jack's fingers type out a story, the last line of which reads
+text: "an honest man with courage." He pulls the sheet out and
+text: hands it to Madison.
+speaker_heading: JACK
+dialog: Here you are... the last of the Willie
+dialog: Stark articles. Now can I go?
+speaker_heading: MADISON
+dialog: Yes. You've earned your vacation.
+dialog: You've been writing these like you
+dialog: really mean them.
+text: Jack rises and walks toward the door.
+speaker_heading: JACK
+dialog: I do.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Ferry To Burden's Landing, Day
+text: Jack's car is ferried across the bay to the slip of Burden's
+dialog: Landing.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: I hadn't been home in a long time.
+dialog: Only a hundred and thirty miles from
+dialog: Kanoma City. It was separated from
+text: the mainland by a body of water. For
+dialog: the first time I wondered if it wasn't
+text: separated by more than that.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Mrs. Burden's Home, Day
+text: As Jack arrives, Mrs. Burden and her husband, McEvoy, are
+text: seated at a lawn table near the boat landing.
+speaker_heading: JACK
+dialog: Hello, Mother.
+text: She runs forward to meet him.
+speaker_heading: MRS. BURDEN
+dialog: Floyd, Jack's home. Oh, he looks
+dialog: fine... doesn't he look fine?
+dialog: (to Jack, coquettishly)
+dialog: How do I look, Jackie boy?
+speaker_heading: JACK
+dialog: You look beautiful, Mother.
+speaker_heading: MRS. BURDEN
+dialog: I've got so many things planned for
+dialog: you... parties and... it'll be just
+dialog: like old times. But first, let's
+dialog: have a drink.
+speaker_heading: MCEVOY
+dialog: Can't that wait until this evening?
+text: She goes ahead and pours the drinks.
+speaker_heading: MRS. BURDEN
+dialog: Floyd... honey... my son's home.
+speaker_heading: MCEVOY
+dialog: How long do you plan on staying?
+speaker_heading: JACK
+dialog: (coldly)
+dialog: Two or three weeks. If that's all
+dialog: right with you.
+speaker_heading: MRS. BURDEN
+dialog: I'm sure your father would be --
+speaker_heading: JACK
+dialog: Stepfather, Mother.
+speaker_heading: MRS. BURDEN
+dialog: (reproachfully)
+dialog: Now, Jackie... here we all are. Floyd,
+dialog: Jackie, myself.
+text: (raises her glass for
+dialog: a toast)
+dialog: To the best time we've ever had
+dialog: together.
+speaker_heading: JACK
+dialog: Yes, Mother.
+text: They drink. Mrs. Burden gulps hers down avidly. Jack looks
+text: at her and then at McEvoy.
+speaker_heading: JACK
+dialog: Excuse me... I...
+text: He turns and walks back toward the shore. He boards a small
+text: motorboat and heads toward a house that can be seen across
+dialog: the water.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Stanton Home (Burden's Landing), Day
+text: As the boat approaches the shore. Adam Stanton reaches down
+text: and pulls the boat up on land. He throws his arm around Jack,
+text: and the two climb the hill toward Judge Stanton, who stands
+text: waiting to greet him.
+speaker_heading: JACK
+dialog: Dr. Stanton, I presume.
+speaker_heading: STANTON
+dialog: (laughing)
+dialog: Is my shingle showing?
+speaker_heading: JUDGE
+dialog: Good to see you, boy. Very good.
+speaker_heading: JACK
+dialog: Good to see you, Judge. How have you
+dialog: been? What have you been doing?
+text: They walk back together to the patio tables.
+speaker_heading: JUDGE
+dialog: Oh, just sitting here... waiting for
+dialog: all of you to come home. You know,
+text: when a man starts to get old his
+text: eyes stray and play funny tricks on
+dialog: him. As I watched you in that boat I
+dialog: thought sure I saw a boy of twelve
+text: with a fishing rod in his hands. And
+dialog: I was sure the first thing he'd say
+dialog: would be...
+text: Jack catches sight of Anne Stanton walking down the path. He
+text: runs to meet her. As they embrace, he looks back at the Judge.
+speaker_heading: JACK
+dialog: Do you mind if I kiss your niece,
+dialog: sir?
+text: He kisses her, and they turn and walk away.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Tennis Court (Burden's Landing), Day
+text: Anne gracefully returns a ball to Jack, then runs to embrace
+text: him at the net. Adam, seated near the court, smiles
+text: approvingly.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Gulf (Burden's Landing), Morning
+text: Jack and Judge Stanton in a rowboat, on their way to do some
+dialog: duck hunting.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Gulf (Burden's Landing), Day
+text: Adam is at the wheel of his sailboat, with Jack and Anne
+text: behind him.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stanton Living Room (Burden's Landing), Night
+text: A party in the Stanton living room. Adam plays the piano. He
+text: plays a waltz. Jack and Anne hold each other tightly as they
+text: move among the other couples.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Burden Dining Room, Night
+text: A formal dinner, attended by Jack and Anne, Mrs. Burden and
+text: McEvoy, Judge Stanton and Adam. Mrs. Burden is proposing a
+dialog: toast.
+speaker_heading: MRS. BURDEN
+dialog: To all the good times we've had
+dialog: together at Burden's Landing. And
+dialog: especially to this one. Because my
+dialog: son's home.
+speaker_heading: JACK
+dialog: Thank you, Mother. Thank you very
+dialog: much.
+speaker_heading: MRS. BURDEN
+dialog: Monty, Anne and I have been discussing
+dialog: Jack's career. What do you think he
+dialog: ought to go in for? Shall he be a
+dialog: lawyer, doctor...
+text: Jack looks at Anne.
+speaker_heading: ANNE
+dialog: We were just discussing whether you
+dialog: should...
+speaker_heading: JACK
+dialog: (to his mother)
+dialog: I like what I'm doing, Mother.
+speaker_heading: MCEVOY
+dialog: You do very well at it. I read your
+dialog: articles about this fellow... Willie
+dialog: Stark. Very convincing... Too
+dialog: convincing for my tastes.
+speaker_heading: JACK
+dialog: A lot of people like them.
+speaker_heading: MCEVOY
+dialog: A lot of people are fools. Articles
+dialog: like that shouldn't be permitted.
+dialog: They only tend to incite people.
+speaker_heading: JACK
+dialog: What are you afraid of?
+speaker_heading: STANTON
+dialog: I thought they were very good. I was
+dialog: proud of you, Jack. I was particularly
+dialog: interested in Stark's ideas on health
+dialog: and medicine. You know the conditions
+dialog: at the hospital I work in. They're
+dialog: intolerable. I'd like to meet this
+dialog: Willie Stark. He sounds like an honest
+dialog: man.
+speaker_heading: MCEVOY
+dialog: Honest man? This state is full of
+dialog: these log-cabin Abe Lincolns with
+text: price tags on them. The louder he
+dialog: yells the higher his price.
+speaker_heading: JACK
+dialog: You think you can buy anything, don't
+dialog: you?
+speaker_heading: MCEVOY
+dialog: Yes, don't you?
+text: There is a silence. Then McEvoy turns to the Judge.
+speaker_heading: MCEVOY
+dialog: What do you think, Judge?
+speaker_heading: JUDGE
+dialog: I think this state could stand a few
+dialog: changes.
+speaker_heading: MCEVOY
+dialog: (his face white)
+dialog: Well, I'll tell you what I think --
+speaker_heading: ANNE
+dialog: (quickly)
+dialog: Oh, please... let's not talk politics.
+speaker_heading: MRS. BURDEN
+dialog: Anne is right. I absolutely forbid
+dialog: any more of it. I know what we need,
+dialog: we need another toast.
+dialog: (to the Judge)
+dialog: You propose it, Monty... you're so
+dialog: good at it.
+text: The Judge picks up his glass and stands up.
+speaker_heading: JUDGE
+dialog: To the young people... to Anne, to
+dialog: Jack, to Adam... To what lies before
+dialog: them. To the world they'll make...
+dialog: in spite of the mistakes we've made.
+speaker_heading: MCEVOY
+dialog: (rising)
+dialog: The mistakes you've made, not me.
+dialog: You're all still pretty high and
+dialog: mighty, aren't you? You all think
+dialog: this state needs a change. You don't
+dialog: like the way it's run. Well, who's
+dialog: going to run it? Willie Stark? The
+dialog: Judge?
+dialog: (to Jack)
+dialog: You? You can be bought too. As a
+dialog: matter of fact you have been. And
+dialog: with my money.
+text: Jack's answer is to throw his liquor in his stepfather's
+text: face. There is a pause. McEvoy wipes the liquor off with his
+dialog: handkerchief.
+speaker_heading: MCEVOY
+dialog: (slowly)
+dialog: That's a waste of good liquor.
+dialog: (looks at Mrs. Burden)
+dialog: Your mother wouldn't approve.
+text: Jack turns and leaves the room.
+speaker_heading: MRS. BURDEN
+dialog: Jack...
+text: She hurries after him.
+dialog: Exterior: Veranda, Night
+text: As Mrs. Burden comes out after Jack. Anne stands in the
+dialog: doorway.
+speaker_heading: MRS. BURDEN
+dialog: Jack... you go back in and apologize.
+speaker_heading: JACK
+dialog: Apologize? I'd rather die.
+speaker_heading: MRS. BURDEN
+dialog: I've got to live with him.
+speaker_heading: JACK
+dialog: Well, I don't. Neither do you. You
+dialog: don't love him, Mother. You never
+dialog: did.
+speaker_heading: MRS. BURDEN
+dialog: Son, don't spoil anything now... He
+dialog: can help you.
+speaker_heading: JACK
+dialog: I can get along without him. You
+dialog: need this house. And the parties.
+dialog: And the cars and the clothes and the
+dialog: lies. I don't. It's the truth, Mother,
+dialog: face it. For once in your life, face
+dialog: it.
+text: Mrs. Burden appeals to Anne.
+speaker_heading: MRS. BURDEN
+dialog: Anne, please... please make him
+dialog: understand.
+text: Anne says nothing. Mrs. Burden goes back into the house.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stanton Living Room, Night
+text: Anne and Jack sit alone in the room, beneath the portrait of
+dialog: the old Governor Stanton.
+speaker_heading: JACK
+text: Anne, Burden's Landing is a place on
+dialog: the moon. It isn't real. It doesn't
+dialog: exist. It's me pretending I live on
+dialog: what I earn. It's my mother trying
+dialog: to keep herself young, and drinking
+dialog: herself old doing it. It's you and
+dialog: Adam living in this house as though
+dialog: your father were still alive. It's
+text: an old man like the Judge dreaming
+dialog: of the past... Anne, come away with
+dialog: me.
+speaker_heading: ANNE
+dialog: And do what?
+speaker_heading: JACK
+dialog: (rises impatiently)
+dialog: And live in a shack and eat red beans.
+dialog: Anne, what do you want me to do?
+speaker_heading: ANNE
+dialog: Oh, Jack, Jack, you haven't been
+dialog: sure. You've gone from one thing to
+dialog: the other... a year at law school,
+dialog: and now this job as a reporter...
+speaker_heading: JACK
+dialog: Are you afraid I can't make a living?
+speaker_heading: ANNE
+dialog: Oh, no, Jack, it isn't that. I don't
+dialog: care about the money. It... it's
+dialog: just that I... I want you to be
+dialog: something.
+speaker_heading: JACK
+dialog: What is it you want me to be?
+speaker_heading: ANNE
+dialog: I don't know. It's just that I want
+dialog: you to be... to do... something
+dialog: important.
+text: Jack looks up at the portrait of Governor Stanton.
+speaker_heading: JACK
+dialog: Like your father. All right. I'll
+dialog: run for governor.
+dialog: (pause)
+dialog: Anne, I'm sorry. I'm sorry I said
+dialog: that.
+speaker_heading: ANNE
+dialog: All right, Jack. I'll go away with
+dialog: you. I'll do anything you want me to
+dialog: do.
+text: They kiss.
+speaker_heading: JACK
+dialog: Anne, I've wanted you to say that
+dialog: more than anything in the world, and
+dialog: now that you've said it... Anne, I
+dialog: guess you were right. I'm not sure
+dialog: of anything, including myself. I'm
+dialog: not sure I could live up to the...
+dialog: (looks again at the
+dialog: portrait)
+dialog: Anne, wait for me. Please wait for
+dialog: me.
+speaker_heading: ANNE
+dialog: I'll wait for you.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Madison's Office, Day
+text: Madison is at his desk as Jack enters.
+speaker_heading: MADISON
+dialog: Hello, Jack. Cut your vacation short,
+dialog: didn't you?
+speaker_heading: JACK
+dialog: Yeah.
+speaker_heading: MADISON
+dialog: By the way, Jack, the fellow you
+dialog: wrote the articles about... uh...
+dialog: Stark.
+speaker_heading: JACK
+dialog: Yeah?
+speaker_heading: MADISON
+dialog: He lost.
+speaker_heading: JACK
+dialog: Well, I guess that's the end of Willie
+dialog: Stark.
+text: He turns around and walks off toward his desk.
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+dialog: Interior: Stark Farmhouse, Night
+text: Lucy and Willie are seated together at the table. Willie has
+text: his law books open before him.
+speaker_heading: WILLIE
+dialog: ...Measure of the damages is caused
+dialog: by...
+speaker_heading: LUCY
+dialog: (prompting)
+dialog: A breach...
+speaker_heading: WILLIE
+dialog: A breach...
+speaker_heading: LUCY
+dialog: Of an agreement...
+speaker_heading: WILLIE
+dialog: Of an agreement...
+speaker_heading: LUCY
+dialog: To sell personal property...
+speaker_heading: WILLIE
+dialog: To sell...
+dialog: (slams the book shut)
+dialog: Oh, two years of this.
+speaker_heading: LUCY
+dialog: (leaning over to him)
+dialog: Oh, go on, Willie, go on.
+text: He opens the book again.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Willie's Law Office (Kanoma City), Day
+text: Willie positions the framed diploma on the wall. The camera
+text: pulls back to show Tom and Lucy, looking on.
+speaker_heading: WILLIE
+dialog: Willie Stark... Bachelor of Law...
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Kanoma City Farm, Day
+text: Close shot of Willie, talking to a farmer.
+speaker_heading: WILLIE
+dialog: If you'll just let me take your
+dialog: case...
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Farm, Day
+text: Willie walks beside a farmer who is plowing his field.
+speaker_heading: WILLIE
+dialog: Really, I'll wait for my fee. Just
+dialog: as long as you want me to.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Willie's Law Office, Night
+text: Through the window, on which is printed "Willie Stark:
+text: Attorney at Law," we see Willie, alone, pacing back and forth
+text: in his office.
+speaker_heading: LUCY'S VOICE
+dialog: Go on, Willie, go on.
+speaker_heading: WILLIE'S VOICE
+dialog: They're not going to kick me around
+dialog: like I was dirt.
+speaker_heading: LUCY'S VOICE
+dialog: If you lose you can give a little
+dialog: more time studying your law books.
+speaker_heading: WILLIE'S VOICE
+dialog: I'm going to be on that same street
+dialog: corner tomorrow, Mr. Duffy!
+speaker_heading: DUFFY'S VOICE
+dialog: By all means. Free speech, free
+dialog: country, Willie.
+speaker_heading: WILLIE'S VOICE
+dialog: That brick factory is owned by a
+dialog: brother-in-law of one of the
+dialog: commissioners. The county
+dialog: commissioners rejected the low bid
+text: on the schoolhouse.
+text: Willie crumples a piece of paper in his hand and tosses it
+text: against the window.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Schoolhouse (Kanoma City), Day
+text: A plaque on the school wall reads KANOMA CITY GRAMMAR SCHOOL
+dialog: Interior: Schoolroom, Day
+text: Teacher faces her class. The clanging of a fire bell is heard.
+speaker_heading: TEACHER
+dialog: All right, children, this is a fire
+dialog: drill.
+text: The children rise and start to march out of the room in double
+dialog: file.
+speaker_heading: TEACHER
+dialog: Remember now, walk quietly.
+dialog: Exterior: Schoolhouse, Day
+text: The children's feet, as they climb down the fire escape.
+text: Camera pans past children to an iron rod supporting the fire
+text: escape. The brick around the rod starts to crumble and it
+text: rips loose. The children scream out in fear and agony.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Cemetery, Day
+text: The whole town is there. Willie Stark, Lucy, Tom stand
+text: modestly in the background. Quiet sobbing is heard as the
+text: minister reads from the Bible. When he finishes the prayer,
+text: he walks past the line of mourners, shaking their hands. The
+text: ceremony is over. As they start to go, a man spots Willie,
+text: goes over to him, and lifts Willie's arm in the air.
+speaker_heading: MAN
+dialog: Oh, Lord, I'm punished for voting
+dialog: against an honest man.
+text: This sudden action brings response; women begin to cry and
+text: people push their way forward to grab Willie by the hand.
+scene_heading: VOICES OF THE MOURNERS
+dialog: God bless you, Willie. If we had
+dialog: only listened to you, Willie. You
+dialog: were right, Willie. Let me shake
+dialog: your hand, Willie. We should have
+dialog: listened, Willie. You were right all
+dialog: the time.
+text: On Willie's face is the realization that something important
+dialog: has happened to him.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stark Farmhouse, Night
+text: An article is pasted in a scrapbook. It reads: "VOICE IN THE
+text: WILDERNESS. Recent school tragedy is a potent reminder that
+text: a man named Willie Stark..." A hand draws a pencil underneath
+dialog: the name.
+speaker_heading: WILLIE'S VOICE
+text: A voice in the wilderness. A man
+dialog: named Willie Stark...
+text: Camera pulls back to show Willie at the table busy with his
+text: scrapbook. He looks up at Lucy.
+speaker_heading: WILLIE
+dialog: How about that, Lucy, that's me.
+text: She looks at him, unsmiling, and sits down to help him clip
+dialog: various articles from other papers.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stark Farmhouse, Night
+text: A series of clippings are being pasted in the scrapbook.
+dialog: They read:
+scene_heading: A. SCHOOL VICTIMS SUE COUNTY: STARK FILES DAMAGE SUIT
+text: "Will prove graft cause of tragedy," says Attorney Stark.
+scene_heading: B. CITIZENS COMMITTEE FORMED
+dialog: Draft Stark to lead fight to rid state of graft.
+scene_heading: C. CITIZENS COMMITTEE DEMANDS STATE-WIDE INVESTIGATION
+text: D. Large photograph of Willie. Under it, the caption: RURAL
+scene_heading: AREAS IN REVOLT
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Madison's Office, The Chronicle, Day
+text: The clippings are spread out on Madison's desk. He looks up
+dialog: at Jack.
+speaker_heading: MADISON
+dialog: Get up there. Get up there fast.
+dialog: Your friend, Willie, is hotter than
+text: a firecracker.
+text: Jack starts toward the door.
+speaker_heading: MADISON
+dialog: Stay there with him.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Harrison's Political Headquarters (State Capital),
+dialog: Day
+text: A politician points to a map on the wall.
+speaker_heading: POLITICIAN
+dialog: Look, before this Kanoma City business
+dialog: we had this whole area tied up. Now
+dialog: we're losing to Hickville.
+text: Camera pulls back, revealing the candidate, Harrison, Tiny
+text: Duffy, and a woman, Sadie Burke.
+speaker_heading: POLITICIAN
+dialog: We must find a way to split that
+dialog: vote.
+speaker_heading: HARRISON
+dialog: Well, all I know is, the way it is
+dialog: now it looks like I'm not going to
+dialog: win.
+speaker_heading: POLITICIAN
+dialog: I know a way... find a dummy.
+speaker_heading: SADIE
+dialog: Find a dummy.
+dialog: (looks at Harrison)
+dialog: That's what we've got.
+speaker_heading: POLITICIAN
+dialog: A guy from the sticks... strong enough
+dialog: to grab some votes and dumb enough
+dialog: not to ask questions.
+speaker_heading: DUFFY
+dialog: If you want to listen to a boy from
+dialog: the sticks, I know just the guy.
+text: They crowd around to listen.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stark Farmhouse, Day
+text: Jack sits at the dinner table, with Willie and Lucy. Tom
+text: stands next to Willie. Pappy dozes in his chair.
+speaker_heading: JACK
+dialog: No more politics, eh, Willie?
+speaker_heading: WILLIE
+dialog: No, I worked too hard in my time to
+dialog: get there. I think I'll just go on
+dialog: practicing law and make a little
+dialog: more money.
+speaker_heading: JACK
+dialog: The question I'd like to know is,
+dialog: why all the speeches you're making
+dialog: around the countryside?
+text: Willie is about to answer when he hears the sound of
+text: approaching cars.
+speaker_heading: WILLIE
+dialog: Wonder who that is?
+text: He goes to the window, and we see a big black limousine
+text: turning into his drive. He opens the door and waits as Sadie,
+text: Duffy, Dolph Pillsbury, and other politicians climb the steps
+dialog: to meet him.
+speaker_heading: DUFFY
+dialog: Brought some people all the way up
+dialog: from the state capital just to meet
+dialog: you.
+dialog: (turns to others)
+dialog: Folks, I want you to meet Willie
+dialog: Stark, the next governor of our state.
+text: Willie, Lucy, and Tom beam happily. Jack looks skeptically
+text: at Sadie, whose only reaction is to smile, politely.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Country Road, Day
+text: Close shot of three posters on a billboard. They read ELECT
+scene_heading: JOE HARRISON (HAPPY JOE) GOVERNOR FOR GOVERNOR ELECT McMURPHY
+text: WILLIE STARK FOR GOVERNOR.
+text: The camera pans to the road, where an old Model T comes
+text: bouncing along. As it passes we see a poster stuck on its
+scene_heading: back: WILLIE STARK -- GOVERNOR.
+dialog: Exterior: Railroad Station, Day
+text: Willie Stark walks out on the platform at the rear of the
+text: train and talks to some of the townspeople who have gathered
+text: at the station.
+speaker_heading: WILLIE
+dialog: Folks, if you'll just bear patiently
+dialog: with me for a couple of minutes, I'd
+dialog: like to tell you what this state
+dialog: needs. It needs a balanced tax
+dialog: program. Now I'd like to give you
+dialog: the facts and the figures.
+text: Some of the townspeople start to move away.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Train, Day
+text: As the train pulls away from the station, Willie turns around
+dialog: to Jack.
+speaker_heading: WILLIE
+dialog: How did it sound, Jack?
+speaker_heading: JACK
+dialog: Fine, Willie, fine.
+speaker_heading: WILLIE
+dialog: (alarmed)
+dialog: Say... I forgot to send a telegram
+dialog: to Lucy... Conductor!
+text: Jack and Sadie exchange looks.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Train Club Car, Day
+text: Willie, jacket off, works over a speech with Duffy as
+text: Pillsbury and Sadie look on.
+speaker_heading: WILLIE
+dialog: Now right here... right here I'd
+dialog: like to add something about last
+dialog: year's taxes... eh?
+speaker_heading: DUFFY
+dialog: I wouldn't add a thing. Just give
+dialog: them the facts.
+speaker_heading: PILLSBURY
+dialog: Yeah... and the figures.
+speaker_heading: DUFFY
+dialog: Great speech.
+text: Sadie sips her drink.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Street Corner (Upton), Day
+text: Willie stands on a platform, next to an American flag, reading
+text: from his prepared speech.
+speaker_heading: WILLIE
+dialog: What this state needs is a balanced
+dialog: tax program. Last year, last year
+dialog: the state claimed to have spent on
+dialog: roads...
+text: Sadie turns and walks away, no longer able to listen. Jack
+text: follows her toward the hotel.
+dialog: Interior: Hotel Lobby (Upton), Day
+text: As Jack and Sadie cross the street, enter the lobby, and sit
+text: down next to the front window. We can still see Willie and
+text: his small street-corner audience in the background.
+speaker_heading: JACK
+dialog: Do you mind if I sit with you, Sadie?
+speaker_heading: SADIE
+dialog: (shrugs)
+dialog: Stand... sit...
+speaker_heading: JACK
+dialog: Thanks... Tell me, what are you on
+dialog: this merry-go-round for?
+speaker_heading: SADIE
+dialog: I take notes.
+speaker_heading: JACK
+dialog: For whom?
+speaker_heading: SADIE
+dialog: For those who pay me.
+speaker_heading: JACK
+dialog: Which is.
+speaker_heading: SADIE
+dialog: People.
+speaker_heading: JACK
+dialog: Smart people.
+speaker_heading: SADIE
+dialog: Oh, yeah. Anybody that pays me is
+dialog: smart.
+speaker_heading: JACK
+dialog: You don't have to be smart to frame
+dialog: a guy like Willie Stark.
+speaker_heading: SADIE
+dialog: No. No, brother, you don't.
+speaker_heading: JACK
+dialog: (lights a cigarette)
+dialog: It is a frame, isn't it?
+speaker_heading: SADIE
+dialog: Why don't you give me a cigarette?
+speaker_heading: JACK
+dialog: (gives her the pack)
+dialog: To split the vote and win the election
+dialog: for Harrison, huh?
+speaker_heading: SADIE
+dialog: If you know, why do you ask?
+speaker_heading: JACK
+dialog: I just want to make sure.
+speaker_heading: SADIE
+dialog: Yeah.
+speaker_heading: JACK
+dialog: Look, why don't you tell the boys
+dialog: back home to save their money. Willie
+dialog: couldn't steal a vote from... from
+text: Abe Lincoln in the Cradle of the
+dialog: Confederacy.
+speaker_heading: SADIE
+dialog: I wish the poor... had enough sense
+dialog: to have somebody give him a good
+text: greasing for the beating he's going
+dialog: to get. 'Cause this way all he gets
+text: out of it is the ride.
+dialog: (looks at Willie
+dialog: through the window)
+dialog: Hey, those speeches! Ain't they awful?
+dialog: Ain't they just plain awful? Question
+dialog: to you: if somebody told him he was
+dialog: a sucker, do you think he'd quit?
+text: Willie has just finished his speech and is on his way over
+dialog: to the hotel.
+speaker_heading: JACK
+dialog: I don't know, Sadie. I really don't
+dialog: know.
+speaker_heading: WILLIE
+text: (as he comes into the
+dialog: lobby)
+dialog: Did it sound all right, Mr. Burden?
+speaker_heading: JACK
+dialog: Fine, Willie, fine.
+speaker_heading: WILLIE
+dialog: Thanks.
+text: He and Jack go upstairs together. Sadie watches them.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Sadie's Hotel Room (Upton), Night
+text: Sadie lies on her bed, listening to Willie in the next room,
+text: rehearsing one of his speeches.
+speaker_heading: WILLIE'S VOICE
+dialog: Now, friends, if you will bear
+dialog: patiently with me for a few minutes,
+dialog: I'll give you the figures. What we
+dialog: need is a balanced tax program...
+speaker_heading: JACK'S VOICE
+dialog: No, Willie, no.
+text: Sadie pulls off a shoe and hurls it at the wall.
+speaker_heading: SADIE
+dialog: What I need is some sleep. Shut up!
+dialog: Interior: Jack's Hotel Room (Upton), Same Time
+text: Willie lies on his bed. Jack finishes shaving in the bathroom
+text: as he continues to rehearse him.
+speaker_heading: JACK
+dialog: (shouting back at
+dialog: Sadie)
+dialog: Shut up yourself!
+dialog: (goes to bed, shakes
+dialog: Willie)
+dialog: Listen, Willie, try it on your feet
+dialog: this time.
+speaker_heading: WILLIE
+dialog: Oh, no. Wait a minute. My feet are
+dialog: killing me. Let me stay here, huh?
+speaker_heading: JACK
+dialog: All right... Look, Willie, you tell
+dialog: 'em too much. Just tell 'em you're
+dialog: going to soak the fat boys and forget
+dialog: the rest of the tax stuff.
+speaker_heading: WILLIE
+dialog: (pathetically)
+dialog: That's what I say.
+speaker_heading: JACK
+dialog: But it's the way you say it. Willie,
+dialog: make 'em cry. Make 'em laugh, make
+dialog: 'em mad, even mad at you. Stir 'em
+dialog: up and they'll love it and come back
+dialog: for more. But for heaven's sake don't
+dialog: try and improve their minds.
+speaker_heading: WILLIE
+dialog: (suddenly)
+dialog: A man don't have to be governor.
+speaker_heading: JACK
+dialog: (surprised)
+dialog: What?
+speaker_heading: WILLIE
+dialog: A man don't have to be governor.
+dialog: Pause.
+speaker_heading: JACK
+dialog: Well, they haven't counted up the
+dialog: votes yet.
+speaker_heading: WILLIE
+dialog: (quietly)
+dialog: Oh, I'm going to lose, Mr. Burden. I
+dialog: know that. Don't try and fool me.
+dialog: I'm not going to lie to you. I wanted
+dialog: it. I wanted it so badly I stayed up
+dialog: nights thinking about it. A man wants
+text: something so badly he gets mixed up
+dialog: in knowing what he wants. It's
+dialog: something inside of you. I would
+dialog: have made a good governor. Better
+dialog: than those other fellows.
+text: There is a knock on the door.
+speaker_heading: JACK
+dialog: Come in.
+speaker_heading: WILLIE
+dialog: (almost to himself)
+dialog: A great governor.
+text: Sadie enters. She immediately spots the liquor, and pours
+dialog: herself a drink.
+speaker_heading: SADIE
+dialog: Since you won't let me sleep you
+dialog: might at least give me a drink.
+speaker_heading: WILLIE
+dialog: (muttering)
+dialog: Build them highways... greatest system
+dialog: of highways in the country.
+speaker_heading: JACK
+dialog: (to Sadie)
+dialog: Help yourself.
+speaker_heading: WILLIE
+dialog: I'll build schools.
+speaker_heading: SADIE
+dialog: (to Jack)
+dialog: What's up?
+speaker_heading: JACK
+dialog: Nothing... except Willie here has
+dialog: been saying as how he's not going to
+dialog: be governor.
+speaker_heading: SADIE
+dialog: (directly, to Jack)
+dialog: So you told him.
+speaker_heading: JACK
+dialog: I don't tell anyone anything... I
+dialog: just listen.
+speaker_heading: SADIE
+dialog: (goes to Willie)
+dialog: Who told you?
+speaker_heading: WILLIE
+dialog: Told me what? Told me what?
+speaker_heading: SADIE
+dialog: That you're not going to be governor.
+speaker_heading: WILLIE
+dialog: (getting up)
+dialog: Jack! Told me what?... Told me what?
+text: Jack says nothing. Sadie gulps down her drink, bangs the
+text: empty glass on the bureau top, and turns to face Willie.
+speaker_heading: SADIE
+dialog: (loudly)
+dialog: All right! That you've been framed,
+dialog: you poor sap.
+text: Willie looks at her steadily for a moment.
+speaker_heading: WILLIE
+dialog: (quietly)
+dialog: Framed?
+speaker_heading: SADIE
+dialog: And how! Oh, you decoy, you woodenhead
+dialog: decoy! And you let 'em. You let 'em
+dialog: because you thought you were the
+dialog: little lamb of God. But you know
+dialog: what you are?
+dialog: (she waits for his
+dialog: answer; he has none)
+dialog: Well, you're the goat! You are the
+dialog: sacrificial goat! You are a sap...
+dialog: because you let 'em.
+speaker_heading: JACK
+dialog: Sadie! That's enough.
+speaker_heading: SADIE
+dialog: Enough? He didn't even get anything
+dialog: out of it. Oh, they'd have paid you
+dialog: to take a rap like that, but they
+dialog: didn't have to pay a sap like you.
+dialog: Oh, no, you were so full of yourself
+dialog: and hot air, all you wanted was a
+dialog: chance to stand up on your hind legs
+dialog: and make a speech: my friends, what
+dialog: this state needs is a good five-cent
+dialog: cigar. What this state needs is a --
+speaker_heading: WILLIE
+dialog: (to Jack)
+dialog: Is it true?
+speaker_heading: SADIE
+dialog: (prayerfully, to the
+dialog: ceiling)
+dialog: He wants to know if it's true.
+speaker_heading: WILLIE
+dialog: Is it true?
+speaker_heading: JACK
+dialog: That's what they tell me.
+text: There is a long pause. Willie looks almost as if he is going
+text: to cry. Sadie pours out another drink, a stiff one.
+speaker_heading: SADIE
+dialog: (handing it to him)
+dialog: Here.
+text: Willie drinks it all.
+speaker_heading: JACK
+dialog: Hey, lay off that. You're not used
+dialog: to it.
+speaker_heading: SADIE
+dialog: (jeeringly)
+dialog: He's not used to a lot of things.
+dialog: Are you, Willie?
+speaker_heading: JACK
+dialog: (angrily)
+dialog: Why don't you lay off of him, Sadie?
+speaker_heading: SADIE
+dialog: (ignores Jack)
+dialog: Are you, Willie? Are you? Are you...
+dialog: are you, are you, are you?
+text: She shoves the bottle at him. He takes it and pours himself
+text: a drink.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Sadie's Hotel Room (Upton), Morning
+text: Willie is snoring on the bed. Sadie's coat is thrown over
+text: him. She is in the bathroom, applying lipstick. Jack enters.
+speaker_heading: SADIE
+dialog: Hi.
+speaker_heading: JACK
+dialog: Well, things seem to have quieted
+dialog: down.
+speaker_heading: SADIE
+dialog: (laughs)
+dialog: Yeah, I quieted him down.
+speaker_heading: JACK
+dialog: Yeah. How was he? Noisy?
+speaker_heading: SADIE
+dialog: Oh, he reared some. He's been telling
+dialog: me all the things he's going to do.
+dialog: He's going to do big things, this
+dialog: fella. He's going to be President.
+dialog: He's going to kill people with his
+dialog: bare hands. I quieted him down...
+dialog: Hey! Who's Lucy?
+speaker_heading: JACK
+dialog: His wife.
+speaker_heading: SADIE
+text: He talks like she's his mammy...
+dialog: she's going to blow his nose for
+dialog: him.
+text: Jack sits on the bed next to Willie.
+speaker_heading: JACK
+dialog: Well, I'll take him from here on in.
+text: They're waiting for him at the
+text: barbecue.
+text: Sadie pulls her coat off Willie and goes to the door.
+speaker_heading: SADIE
+dialog: Yeah, well give me a receipt for the
+dialog: body and I'll be on my way.
+text: She leaves. Jack bends over Willie, who continues to snore.
+speaker_heading: JACK
+dialog: Hey, Willie, Willie... come on, wake
+dialog: up, Willie. Come on, Willie.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Fairgrounds (Upton), Day
+text: A crowd mills about underneath a banner that reads HEAR WILLIE
+scene_heading: STARK MAMMOTH BARBECUE -- UPTON FAIRGROUNDS
+dialog: Exterior: Fairgrounds, Day
+text: Willie, staggering a bit, hung over, reacts painfully to the
+text: staggering height of the Ferris wheel. He leans on Jack for
+text: support, and they walk on.
+dialog: Exterior: Fairgrounds, Day
+text: Willie takes a seat on the children's swing as Jack goes off
+text: to get some coffee. Two little girls stare curiously at him.
+text: Willie waves them off. Jack returns with the coffee and pours
+text: some whisky in it. Willie tips his hand, forcing him to pour
+text: more, then gulps his drink down.
+dialog: Exterior: Bandstand (Upton), Day
+text: Duffy, Pillsbury, and the other politicians stand on the
+text: platform, waiting for Willie. A band plays march music. Duffy
+text: goes over to Sadie, who is standing on the steps of the
+dialog: platform.
+speaker_heading: DUFFY
+dialog: Where is he?
+speaker_heading: SADIE
+dialog: (pointing)
+text: There he is.
+text: Escorted by Jack, Willie approaches the platform and stumbles
+text: up the steps past Sadie.
+speaker_heading: SADIE
+dialog: Whoops!
+speaker_heading: DUFFY
+dialog: (to Jack)
+dialog: Is he drunk?
+speaker_heading: JACK
+dialog: Never touches the stuff. Lucy doesn't
+dialog: favor drinkin'.
+text: Duffy follows Willie up on the platform.
+speaker_heading: SADIE
+dialog: (to Jack)
+dialog: How'd you get him here? He was out
+dialog: stiff.
+speaker_heading: JACK
+text: Hair of the dog that bit him.
+speaker_heading: SADIE
+dialog: Hair? He must have swallowed the
+dialog: dog.
+text: On the platform, Duffy looks uneasily at the bleary-eyed
+text: Willie. The band suddenly plays a fanfare, and the chairman
+text: steps up to the microphone.
+speaker_heading: CHAIRMAN
+dialog: Ladies and gentlemen, it gives me a
+dialog: great deal of pleasure to introduce
+dialog: to you that true man of the people,
+dialog: the next governor of the state...
+dialog: Willie Stark.
+text: There is scattered applause as Willie steps forward to speak.
+speaker_heading: WILLIE
+dialog: My friends...
+text: He turns his face from side to side, and fumbles in the right
+text: side of his coat pocket to fish out his speech.
+speaker_heading: WILLIE
+dialog: My friends... I...
+text: He tries to focus on the speech, which he clutches before
+text: his eyes with both hands. Then he lifts his head, and looks
+text: directly at the people who have come to hear him. As he
+text: speaks, the camera focuses on the faces of these people: the
+text: farmers, workers, hicks, red-necks who are Willie's audience,
+dialog: Willie's people.
+speaker_heading: WILLIE
+dialog: I have a speech here. It's a speech
+dialog: about what this state needs. There's
+dialog: no need in my telling you what this
+dialog: state needs. You are the state and
+dialog: you know what you need... You over
+dialog: there... look at your pants. Have
+dialog: they got holes in the knees? Listen
+dialog: to your stomach. Did you ever hear
+dialog: it rumble from hunger?... And you,
+dialog: what about your crops? Did they ever
+dialog: rot in the field because the road
+dialog: was so bad you couldn't get them to
+dialog: market?... And you. What about your
+dialog: kids? Are they growing up ignorant
+dialog: as dirt, ignorant as you, 'cause
+dialog: there's no school for them?... No,
+dialog: I'm not going to read you any speech.
+text: He throws his speech away. Duffy looks alarmed.
+speaker_heading: WILLIE
+dialog: But I am going to tell you a story.
+dialog: It's a funny story...
+speaker_heading: SADIE
+dialog: (from the steps)
+dialog: Hey!
+speaker_heading: WILLIE'S VOICE
+dialog: ...So get ready to laugh.
+speaker_heading: SADIE
+dialog: What's he up to?
+speaker_heading: JACK
+dialog: Shut up!
+speaker_heading: WILLIE
+dialog: Get ready to bust your sides laughing,
+dialog: 'cause it's sure a funny story. It's
+dialog: about a hick... a hick like you, if
+dialog: you please. Yeah, like you. He grew
+text: up on the dirt roads and gully washes
+dialog: of a farm. He knew what it was to
+dialog: get up before dawn and get feed and
+dialog: slop and milk before breakfast...
+dialog: and then set out before sunup and
+text: walk six miles to a one-room, slab-
+dialog: sided schoolhouse. Oh, this hick
+dialog: knew what it was to be a hick, all
+dialog: right. He figured if he was going to
+dialog: get anything done, he had to do it
+dialog: himself. So he sat up nights and
+dialog: studied books. He studied law because
+dialog: he thought he might be able to change
+dialog: things some... for himself, and for
+dialog: folks like him.
+text: Sugar Boy listens intently, sharing in the anger in Willie's
+dialog: speech.
+speaker_heading: WILLIE
+dialog: No, I'm not going to lie to you. He
+dialog: didn't start off thinking about the
+dialog: hicks and all the wonderful things
+dialog: he was going to do for them. No. No,
+dialog: he started off thinking of number
+text: one. But something came to him on
+dialog: the way. How he could do nothing for
+dialog: himself without the help of the
+dialog: people. That's what came to him. And
+dialog: it also came to him, with the powerful
+dialog: force of God's own lightning, back
+dialog: in his home country, when a
+dialog: schoolhouse collapsed because it was
+text: built of politics... rotten brick.
+text: It killed and mangled a dozen kids.
+dialog: But you know that story. The people
+dialog: were his friends because he fought
+dialog: that rotten brick. And some of the
+dialog: politicians down in the city, they
+dialog: knew that... So they rode up to his
+text: house in a big, fine, shiny car and
+dialog: said as how they wanted him to run
+dialog: for governor...
+text: Jack, electrified, grips Sadie's arm.
+speaker_heading: JACK
+dialog: Sadie, he's wonderful... wonderful...
+text: Duffy fidgets as Willie continues to pace and speak, his
+text: face filled with conviction, and with fury.
+speaker_heading: WILLIE
+dialog: ...So they told the hick... and he
+text: swallowed it. He looked in his heart
+dialog: and he thought in all humility how
+dialog: he'd like to try and change things.
+dialog: He was just a country boy who thought
+dialog: that even the plainest, poorest man
+dialog: can be governor if his fellow citizens
+dialog: find he's got the stuff for the job.
+dialog: Well, those fellows in the striped
+dialog: pants... they saw the hick and they
+dialog: took him in.
+text: He points his finger at Duffy, who is coming over to speak
+dialog: to him.
+speaker_heading: DUFFY
+dialog: (low voice)
+dialog: Willie, what are you trying to do?
+text: Willie turns on him, roaring.
+speaker_heading: WILLIE
+dialog: There he is! There's your Judas
+dialog: Iscariot.
+dialog: (he pushes Duffy across
+dialog: the platform)
+dialog: Look at him... lickspittle... nose-
+dialog: wiper.
+text: Duffy gestures frantically to the band.
+speaker_heading: DUFFY
+dialog: Play! Play!
+speaker_heading: WILLIE
+dialog: (pushing him again)
+dialog: Look at him!
+speaker_heading: DUFFY
+dialog: Play anything.
+text: The band starts to play, adding to the pandemonium. Willie
+text: shouts above it.
+speaker_heading: WILLIE
+dialog: Look at him! Joe Harrison's dummy!
+dialog: Look at him!
+speaker_heading: DUFFY
+dialog: That's a lie!
+speaker_heading: WILLIE
+dialog: Look at him!
+text: Duffy signals to some of his goons standing near the platform.
+speaker_heading: DUFFY
+dialog: Go get him, boys... go get him.
+text: Sugar Boy leaps up on the platform, his pistol drawn and
+text: pointed at Duffy's men. Willie throws up his arms to silence
+dialog: the crowd.
+speaker_heading: WILLIE
+dialog: Now, shut up! Shut up, all of you.
+dialog: Now, listen to me, you hicks. Yeah,
+dialog: you're hicks too, and they fooled
+dialog: you a thousand times, just like they
+dialog: fooled me. But this time I'm going
+dialog: to fool somebody. I'm going to stay
+dialog: in this race. I'm on my own and I'm
+dialog: out for blood.
+text: The camera moves in close on Willie's face.
+speaker_heading: WILLIE
+dialog: Listen to me, you hicks...
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Willie's Speeches, Day and Night
+text: A series of close-ups of Willie's face as he shouts and jeers
+text: his message, always accompanied by the loud and frenzied
+text: cheers of the crowd. Superimposed over his face is the figure
+text: of Jack Burden, at his desk, typing out his stories.
+speaker_heading: WILLIE
+dialog: Listen to me and lift up your eyes
+dialog: and look at God's blessed and
+dialog: unflyblown truth... And this is the
+dialog: truth. You're a hick. And nobody
+dialog: ever helped a hick but a hick himself.
+text: Loud cheers and yells.
+speaker_heading: WILLIE
+dialog: All right, listen to me... listen to
+dialog: me. I was the hick they were going
+dialog: to use to split the hick vote. But
+dialog: I'm standing right here now on my
+dialog: hind legs... even a dog can learn to
+dialog: do that. Are you standing on your
+dialog: hind legs? Have you learned to do
+dialog: that much yet? Here it is, here it
+dialog: is, you hicks. Nail up anybody who
+dialog: stands in your way! Nail up Joe
+dialog: Harrison! Nail up McMurphy! And if
+dialog: they don't deliver, give me a hammer
+dialog: and I'll do it myself.
+speaker_heading: DISSOLVE TO:
+speaker_heading: NEWSPAPER HEADLINE
+text: There is a photograph of Willie and a headline that reads
+text: STARK CHANCES BOOMING
+text: Superimposed over the newspaper is a shot of a crowd
+text: applauding and yelling for Willie.
+dialog: Interior: Joe Harrison's Campaign Headquarters, Night
+text: Duffy, Pillsbury, and other aides stand looking at a poster
+dialog: of Willie.
+speaker_heading: POLITICIAN
+dialog: I want his throat cut, from ear to
+dialog: ear.
+dialog: Exterior: Willie's Campaign Montage
+text: Rock crashes through a window, knocking down a poster of
+dialog: Willie.
+text: Poster being torn off the side of a building.
+text: A man is attacked as he tries to distribute leaflets.
+speaker_heading: DISSOLVE TO:
+text: Exterior: Jack Burden's Desk, The Chronicle, Night
+text: Jack is working on a story when Madison comes to his desk.
+speaker_heading: MADISON
+dialog: No use going any further, Jack. We
+dialog: aren't printing them any more.
+speaker_heading: JACK
+dialog: I thought the Chronicle line was --
+speaker_heading: MADISON
+dialog: Divide and conquer? Stark is getting
+dialog: too big for his britches and the
+dialog: hicks are getting too smart. We're
+text: now supporting Harrison.
+speaker_heading: JACK
+dialog: (stands up)
+dialog: How do you square that?
+speaker_heading: MADISON
+dialog: I work here.
+speaker_heading: JACK
+dialog: (putting on his coat)
+dialog: Well, I don't... not any more.
+speaker_heading: MADISON
+dialog: Jack, you fool.
+speaker_heading: JACK
+dialog: If you had any guts you'd print
+dialog: this...
+speaker_heading: MADISON
+dialog: I work here. I take orders.
+speaker_heading: JACK
+dialog: I know. You've got a wife and three
+dialog: kids and your boy goes to Princeton.
+speaker_heading: MADISON
+dialog: You won't find it easy to get another
+dialog: job.
+speaker_heading: JACK
+dialog: I'm too rich to work.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Street Outside State Capitol, Day
+scene_heading: NEWSPAPER HEADLINE READS
+scene_heading: HARRISON WINS CLOSE RACE
+scene_heading: STARK SWEEPS RURAL AREAS
+scene_heading: CITY VOTE DECIDES ELECTION
+text: Superimposed over newspaper is a crowd cheering at Harrison's
+text: victory parade. Willie, raincoat thrown over his shoulders,
+text: looking grim, and Sadie and Sugar Boy are part of that crowd.
+text: They turn away and walk toward a bar.
+dialog: Interior: Bar, Day
+text: Jack is already at the bar. Willie, Sadie, and Sugar Boy
+text: join him there.
+speaker_heading: JACK
+dialog: We didn't do so good.
+speaker_heading: WILLIE
+dialog: Double bourbon.
+speaker_heading: SADIE
+dialog: (sitting next to Jack)
+dialog: Same for me.
+speaker_heading: WILLIE
+dialog: And a beer.
+dialog: (to Jack)
+dialog: I hear you got fired from the paper.
+speaker_heading: JACK
+dialog: You heard wrong, Willie. I quit.
+speaker_heading: WILLIE
+dialog: (passing the beer
+dialog: back to Sugar Boy)
+dialog: You're smart. 'Cause before I'm
+dialog: through with that mob they're not
+dialog: going to have enough money left to
+text: pay the boy that cleans the spittoons.
+speaker_heading: JACK
+dialog: How do you feel, Willie?
+speaker_heading: WILLIE
+dialog: I feel fine, fine. You see, Jack, I
+dialog: learned something.
+text: Willie and Sadie exchange looks.
+speaker_heading: JACK
+dialog: Yeah... what?
+text: Close shot of Willie.
+speaker_heading: WILLIE
+dialog: How to win.
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+dialog: Exterior: Road, Day
+text: Jack stands on the side of the road, thumbing a ride.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: I didn't see Willie again until his
+dialog: second campaign... four years later.
+dialog: Interior: Office, Night
+text: Jack turns in some copy to a man at a desk.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: I drifted from job to job...
+dialog: Exterior: Street, Day
+text: Jack and others in front of an employment agency.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: ...That is, whenever I could find
+dialog: one.
+dialog: Interior: Bar, Night
+text: Jack, at the bar, looking haggard and disheveled, picks up a
+text: newspaper and turns to find a photograph of Anne. The caption
+text: reads STANTONS ARRIVE HOME.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: But always further and further away
+dialog: from Anne, and the life at Burden's
+dialog: Landing.
+dialog: Exterior: Street, Day
+text: Camera pans with Jack as he trudges along the street.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: But Willie wasn't drifting. He knew
+dialog: where he was going.
+text: We see an insert of a newspaper. It has a caricature of
+text: Willie, swinging a sledge hammer. The caption reads
+scene_heading: STARK ATTACKS ADMINISTRATION
+scene_heading: CHARGES OLD MACHINE STILL CORRUPT
+speaker_heading: JACK
+dialog: (voice over)
+text: He had his foot in the door and he
+dialog: kept right on pushing to get in. He
+dialog: had lost the election but he had won
+dialog: the state... and he knew it... and
+dialog: the people knew it.
+scene_heading: MONTAGE: WILLIE'S LIFE
+text: Writing on a fence: THE PEOPLE'S WILL SHOULD BE THE LAW OF
+text: THE STATE... WILLIE STARK Painted on a rock: KNOWLEDGE BELONGS
+text: TO THE PEOPLE... WILLIE STARK
+text: Lettering on a barn: FREE MEDICINE FOR ALL PEOPLE -- NOT AS
+text: A CHARITY BUT AS A RIGHT... WILLIE STARK
+text: Poster on a building: MY STUDY IS THE HEART OF THE PEOPLE...
+speaker_heading: WILLIE STARK
+speaker_heading: JACK
+dialog: (voice over)
+text: They were all hopping on his
+dialog: bandwagon... even Tiny Duffy.
+text: Newspaper caricature: it shows Willie on a bandwagon headed
+text: for the state capitol. Everyone is trying to climb aboard.
+text: Caption is THEY'RE ALL FOR WILLIE NOW. Huge poster on the
+text: side of a building: MY STUDY IS THE HEART OF THE PEOPLE.
+text: Camera pans up to photograph of Willie on the poster.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: Yep, Willie came back like he said
+dialog: he would.
+dialog: Interior: Willie's Office, Day
+text: Willie is being interviewed by a group of reporters. Sugar
+text: Boy lounges nearby, leaning against the wall.
+speaker_heading: WILLIE
+dialog: Do you want to know what my platform
+dialog: is? Here it is: I'm going to soak
+dialog: the fat boys and I'm going to spread
+dialog: it thin.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Circus Grounds, Day
+text: We see balloons with inscriptions reading "I'm for Willie,"
+text: and a large banner stretching overhead, saying FREE CIRCUS
+text: TODAY -- COMPLIMENTS OF WILLIE STARK. The crowd moves about,
+text: gazing at the clowns, animals, the trapeze act.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: Willie was right -- he'd learned how
+dialog: to win...
+dialog: Exterior: Park, Day
+text: A truck loaded with beer kegs pulls into the park. On the
+text: back of the truck is a sign: BIG STARK RALLY TODAY -- FREE
+scene_heading: BEER -- FREE FOOD -- EVERYBODY INVITED. Superimposed over
+text: this is the image of dollar bills floating through the air.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: He spent a lot of money doing it...
+dialog: an awful lot of money... I was
+dialog: beginning to wonder where he got it
+dialog: from.
+dialog: Montage: Willie's Second Campaign
+dialog: Hand holding check made payable to Willie Stark Campaign
+text: Fund... $7000. Willie's hand reaches out and takes it.
+text: Hand holding check payable to cash for $5000. Superimposed
+text: is Willie, looking on, and his hand endorsing the back of
+dialog: the check.
+dialog: Another check to the Stark Campaign Fund for $3500. Poster
+text: of Willie is superimposed.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: There were rumors throughout the
+dialog: state that Willie was making deals
+dialog: with all kinds of people... strange
+dialog: deals... for Willie Stark.
+text: Crowd milling about circus grounds, with Willie's poster
+text: superimposed.
+text: Fireworks exploding. Crowd cheers.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: The second time out, it wasn't a
+dialog: campaign... it was a slaughter. It
+dialog: was Saturday night in a mining town.
+text: Huge poster is affixed to the side of a building. It bears
+text: Willie's face, and his slogans.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Hotel (State Capital), Day
+text: Crowd stands about as Willie and Jack make their way into
+dialog: the hotel.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: He came back and he took me with
+dialog: him.
+dialog: Interior: Hotel Lobby, Day
+text: The lobby is packed as Willie, Jack, Sugar Boy, and Pillsbury
+text: enter. Willie makes signals to Duffy to tag along with the
+text: entourage. Willie leans over to speak to the room clerk.
+speaker_heading: WILLIE
+text: This is Jack Burden, a friend of
+dialog: mine. From now on he's going to live
+dialog: here. Give him anything he wants.
+text: The group starts up the stairs, past the officers who are
+text: standing guard. Duffy stops to speak to one, pointing his
+text: finger at some of his men standing below.
+speaker_heading: DUFFY
+dialog: Let these boys through, officer.
+speaker_heading: WILLIE
+dialog: (to Jack)
+dialog: Duffy works for me now.
+speaker_heading: JACK
+dialog: It looks like everybody works for
+dialog: you.
+text: They start up the second flight of stairs.
+speaker_heading: WILLIE
+dialog: No. No, not yet. But I want to keep
+dialog: him around. He reminds me of something
+dialog: I never want to forget.
+text: Willie stops and looks around at Duffy's men hurrying up the
+dialog: steps.
+speaker_heading: WILLIE
+dialog: (to Duffy)
+dialog: Come on, come on, come on, come on.
+dialog: Are these the boys?
+speaker_heading: DUFFY
+dialog: These are the boys that can get the
+dialog: boys.
+speaker_heading: WILLIE
+dialog: How many do you think we can get?
+speaker_heading: DUFFY
+dialog: Fifty.
+speaker_heading: WILLIE
+dialog: How much?
+speaker_heading: DUFFY
+dialog: Five dollars a head.
+speaker_heading: WILLIE
+dialog: (to Sugar Boy)
+dialog: What do you think, Sugar? Do they
+dialog: look like good boys?
+speaker_heading: SUGAR BOY
+dialog: T-t-they b-b-better be.
+speaker_heading: WILLIE
+dialog: Get a hundred... All right, go on,
+dialog: all of you. Blow. Blow, blow. You
+dialog: too, Duffy. Go on.
+text: Duffy and his men turn and go downstairs.
+speaker_heading: WILLIE
+dialog: (to Jack)
+dialog: Handbill distributors.
+speaker_heading: JACK
+dialog: If they all look like them I'd hate
+dialog: not to take one.
+speaker_heading: WILLIE
+dialog: That's the object. Not like when
+dialog: they beat up my boy Tom.
+speaker_heading: JACK
+dialog: How is Tom?
+speaker_heading: WILLIE
+dialog: Oh, he's fine. He starts college in
+dialog: the fall.
+speaker_heading: JACK
+dialog: Oh. And Lucy?
+text: Willie's expression changes. He starts up the stairs.
+speaker_heading: WILLIE
+dialog: Fine... fine.
+dialog: Interior: Willie's Campaign Office In Hotel, Day
+text: The place is a beehive of activity, with typists and
+text: messengers scurrying about, all supervised by Sadie.
+speaker_heading: SADIE
+dialog: Hey, I need a boy... Where's a boy?
+dialog: (boy runs up)
+dialog: Take that downstairs; they're waiting
+text: for it. Right away, on the double.
+dialog: (to typist)
+dialog: Listen, baby, you've got to double-
+dialog: space all of this... he can't read,
+dialog: see.
+text: The door opens and Willie, Jack, and Sugar Boy come in.
+speaker_heading: JACK
+dialog: Sadie!
+speaker_heading: SADIE
+dialog: (to typist)
+dialog: And they need four copies.
+dialog: (looks up)
+dialog: Hi, Jack. How are you?
+speaker_heading: WILLIE
+dialog: Sadie is my secretary now.
+dialog: (to messenger, trying
+dialog: to squeeze by)
+dialog: Oh, pardon me.
+text: As Willie and Jack walk toward adjoining room, Sadie calls
+dialog: out:
+speaker_heading: SADIE
+dialog: Fix your tie, Willie.
+dialog: Interior: Bedroom Hotel Suite, Day
+text: Willie and Jack enter from the office.
+speaker_heading: WILLIE
+dialog: Hey, Sugar.
+text: Sugar Boy appears in the doorway. Sadie slips by into the
+dialog: room.
+speaker_heading: WILLIE
+dialog: Keep everybody out of here. I want
+text: to talk to Jack and Sadie alone.
+text: He walks over to Jack, who leans back on the bed.
+speaker_heading: WILLIE
+dialog: From now on you're working for me.
+speaker_heading: JACK
+dialog: Doing what?
+speaker_heading: WILLIE
+dialog: I don't know. Something will turn
+dialog: up, won't it, Sadie?
+speaker_heading: SADIE
+dialog: Yeah. We need a college man around...
+dialog: for research.
+speaker_heading: WILLIE
+dialog: How much did they pay you on that
+dialog: newspaper?
+speaker_heading: JACK
+dialog: Three hundred dollars a month.
+speaker_heading: WILLIE
+dialog: (laughs)
+dialog: I could buy you cheap, couldn't I?
+speaker_heading: JACK
+dialog: For a bag of salt.
+speaker_heading: WILLIE
+dialog: No. No, I don't play that way. I
+dialog: like you, boy. I always have. I'll
+dialog: tell you what I'll do. I'll give you
+dialog: four hundred dollars a month and
+dialog: traveling expenses.
+speaker_heading: JACK
+dialog: You throw money around like it was
+dialog: money.
+text: Willie gets up and walks to the window.
+speaker_heading: WILLIE
+dialog: Money?... I don't need money. People
+dialog: give me things.
+speaker_heading: JACK
+dialog: Why?
+speaker_heading: WILLIE
+dialog: Because they believe in me.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Burden's Landing, Day
+text: Willie's car is on the ferry crossing the bay to Burden's
+text: Landing. Sugar Boy drives the car off the ferry and up the
+text: road toward the house.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: I was going home again. But this
+dialog: time it was different. Now I had a
+dialog: feeling that maybe the waiting was
+dialog: over... for me, and for Anne.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stanton Living Room (Burden's Landing), Night
+text: Close shot of Willie standing in front of the fireplace,
+text: beneath the portrait of Governor Stanton.
+speaker_heading: WILLIE
+dialog: It's a far cry from where I come
+dialog: from... to this house.
+text: Camera pulls back. The room is crowded with people, all of
+text: them friends of the Stantons. Anne, Adam, Judge Stanton,
+text: Mrs. Burden, and McEvoy are part of the audience sitting
+text: around the fireplace. Jack stands next to Willie.
+speaker_heading: WILLIE
+dialog: And standing here under the portrait
+dialog: of one of the greatest governors of
+dialog: this state, talking to you people...
+dialog: well, it's an honor I never thought
+dialog: I'd have.
+speaker_heading: JACK
+dialog: Are there any questions?
+dialog: (looks around)
+dialog: Mr. McEvoy.
+speaker_heading: MCEVOY
+dialog: (smiles)
+dialog: No, I have no questions.
+speaker_heading: JACK
+dialog: Judge?
+speaker_heading: JUDGE
+dialog: A few... but it will hold.
+speaker_heading: STANTON
+dialog: I have a question.
+speaker_heading: WILLIE
+dialog: Shoot.
+speaker_heading: STANTON
+dialog: A lot of people in this state have
+dialog: been saying that you've been making
+dialog: deals... some of them with the very
+dialog: groups that you claim you're against.
+dialog: Is that true?
+speaker_heading: JACK
+dialog: Adam, you know how rumors start...
+speaker_heading: WILLIE
+dialog: Yes. Yes, that's true. I have nothing
+dialog: to hide. I'll make a deal with the
+dialog: devil if it'll help me carry out my
+dialog: program. But believe me, there are
+dialog: no strings attached to those deals.
+speaker_heading: STANTON
+dialog: You're sure about that?
+speaker_heading: WILLIE
+dialog: Doc, Jack here has been telling me
+dialog: how you feel about things... how
+dialog: you'd like to see a new hospital
+dialog: built, a hospital that's the biggest
+dialog: and best that money can buy. You
+dialog: want those things, Doc, because,
+dialog: well, because you're a man who wants
+dialog: to do good. Now, I'd like to ask you
+dialog: a question.
+speaker_heading: STANTON
+dialog: Shoot.
+text: The guests laugh good-naturedly.
+speaker_heading: WILLIE
+dialog: Do you know what good comes out of?
+speaker_heading: STANTON
+dialog: You tell me, Mr. Stark.
+speaker_heading: WILLIE
+dialog: Out of bad... that's what good comes
+dialog: out of. Because you can't make it
+dialog: out of anything else. You didn't
+dialog: know that, did you?
+speaker_heading: STANTON
+dialog: No, I didn't... There's another
+dialog: question I'd like to ask you. You
+dialog: say there's only bad to start with
+dialog: and the good must come with the bad.
+dialog: Who's to determine what's good and
+dialog: what's bad?... You?
+speaker_heading: WILLIE
+dialog: Why not?
+speaker_heading: STANTON
+dialog: How?
+speaker_heading: WILLIE
+dialog: Why, that's easy. Just... just make
+dialog: it up as you go along.
+text: More laughter. Willie smiles and goes on.
+speaker_heading: WILLIE
+dialog: Folks, there's a time to talk and
+dialog: there's a time to act. I think the
+dialog: time to act is right now. And with
+dialog: your support, I not only will win
+dialog: but I will do all of the things I
+dialog: promised. I need your help. Oh, I
+dialog: need it badly. But I'm not going to
+dialog: beg for it. In the name of this state
+dialog: which we love... in the name of the
+dialog: governor in whose house we meet... I
+dialog: demand it.
+text: There is immediate applause. Anne is the first to rush over
+text: and shake Willie's hand.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Stanton Home, Night
+text: The last of the guests are leaving. Jack and Willie remain
+text: with the Judge, Anne, and Adam.
+speaker_heading: WILLIE
+dialog: (to Judge)
+dialog: Well, what do you say, sir?
+speaker_heading: JACK
+dialog: You've got to say yes. With you in
+dialog: the race...
+speaker_heading: JUDGE
+dialog: I'm an old bird... I...
+speaker_heading: WILLIE
+dialog: But a game one.
+text: They laugh.
+speaker_heading: WILLIE
+dialog: Look, I'll give you complete power
+dialog: as attorney general. You can do
+dialog: anything you see fit. I'll swing the
+dialog: ax to clear the way for you. Is that
+dialog: a deal?
+text: The Judge smiles, then puts out his hand.
+speaker_heading: JUDGE
+dialog: It's a deal.
+text: They shake hands.
+speaker_heading: WILLIE
+dialog: Jack, we have to get back to town...
+dialog: a lot to do.
+dialog: (shakes hands with
+dialog: Adam)
+dialog: Dr. Stanton.
+text: Jack kisses Anne on the cheek. Anne comes over and shakes
+text: Willie's hand.
+speaker_heading: ANNE
+dialog: I'm very glad to have met you.
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+dialog: Interior: Hotel Lobby (State Capital), Day
+text: People stand before the election return board in the hotel
+text: lobby. Camera pulls back, revealing a newspaper picture of
+dialog: Willie, and the headline
+scene_heading: STARK ELECTED GOVERNOR
+speaker_heading: WILLIE WINS
+speaker_heading: DISSOLVE TO:
+text: Exterior: Street Outside Willie's Hotel Balcony, Night
+text: A crowd stands below Willie's hotel window, chanting together:
+speaker_heading: CROWD
+dialog: We want Willie! We want Willie!
+text: A high angle from the balcony shows Anne, Jack, and Adam in
+text: the center of the excited crowd, looking expectantly upward.
+text: Some of the people around them are carrying torches. Arc
+text: lights play over the dome of the state capitol in the
+text: background. In response to the chants, Willie appears on the
+text: balcony. With him, standing on the balcony, are Tom and Lucy.
+text: The crowd erupts into cheers as he steps outside.
+speaker_heading: WILLIE
+text: (raises his hands for
+dialog: silence)
+dialog: This is not a time for speechmaking.
+dialog: I should get on my knees and ask God
+dialog: to give me strength to carry out
+dialog: your will.
+text: Loud cheers. Adam watches Anne. She applauds. Willie looks
+text: down at the crowd and continues his speech.
+speaker_heading: WILLIE
+dialog: This much I swear to you. These things
+dialog: you shall have. I'm going to build a
+dialog: hospital. The biggest that money can
+dialog: buy... and it will belong to you.
+dialog: That any man, woman, or child who is
+dialog: sick or in pain can go through those
+dialog: doors and know that everything will
+dialog: be done for them that man can do. To
+dialog: heal sickness. To ease pain. Free.
+dialog: Not as a charity, but as a right.
+dialog: And it is your right that every child
+dialog: shall have a complete education.
+dialog: That any man who produces anything
+dialog: can take it to market without paying
+dialog: toll. And no poor man's land or farm
+dialog: can be taxed or taken away from him.
+dialog: And it is the right of the people
+dialog: that they will not be deprived of
+dialog: hope...
+text: The crowd applauds, and Willie waves. We see Anne, face aglow,
+dialog: turn to Jack.
+speaker_heading: ANNE
+dialog: Does he mean it, Jack? Does he?
+speaker_heading: STANTON
+dialog: (as he walks away)
+dialog: That's his bribe.
+text: Anne and Jack watch Adam as he leaves.
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+dialog: Montage: Willie Becomes Governor
+text: Willie, Sadie, and Jack leaving their old campaign
+dialog: headquarters.
+text: Willie, Sadie, Jack, and others going upstairs in the
+text: governor's mansion. The ousted politicians are just packing
+text: up and leaving.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: What if it was his bribe! He swept
+dialog: the old gang out of office. What if
+dialog: they hollered like stuck pigs? He
+dialog: jammed through bill after bill and
+dialog: the people got what they wanted.
+text: Willie yelling at the legislators during a session.
+speaker_heading: WILLIE
+dialog: I demand that this bill be passed.
+dialog: Nobody's going to tell me how to run
+dialog: this state.
+text: Road excavation -- a bulldozer clears away dirt.
+text: A huge crane maneuvers over a dam site. Men are seen working
+text: on the girders of a large power plant.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: He started to build the roads, the
+dialog: schools, the power dams, to change
+dialog: the face of the state from one end
+dialog: to the other... His methods?
+text: Shots of uniformed policemen roughing up citizens. Willie
+text: and Sugar Boy move in on a man being held by cops.
+text: Willie looks on as Jack thumbs through his little black book.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: Politics is a dirty game... and he
+dialog: played it rough and dirty. Willie's
+dialog: little black book was a record of
+dialog: sin and corruption. And me, Jack
+dialog: Burden? I kept the book and added up
+dialog: the accounts.
+text: Willie in a nightclub, surrounded by some show girls. A
+text: photographer takes a picture of Willie with a girl balanced
+text: on his knee.
+text: Willie leads a marching band out onto a football field.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: Clown, show-off, playboy, they yelled
+text: at him. Building football stadiums.
+dialog: Fiercely proud of his son who played
+dialog: in them.
+text: Shot of Tom in football uniform running across the field
+text: with the ball. Willie, in the stands, hugs Lucy.
+speaker_heading: WILLIE
+dialog: Oh, look at him go. He's going to be
+dialog: All-American.
+text: Willie makes an inspection of the police. He stops to adjust
+text: an officer's tie.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: They said he was building up a private
+dialog: army. But he was building, always
+dialog: building...
+text: Sign at building excavation reads HERE ON THIS SITE WILL BE
+scene_heading: ERECTED THE GOVERNOR STARK HOSPITAL -- "TO HEAL SICKNESS. TO
+scene_heading: EASE PAIN. FREE. NOT AS A CHARITY -- BUT AS A RIGHT"... WILLIE
+speaker_heading: STARK.
+speaker_heading: JACK
+dialog: (voice over)
+text: Always playing up to the crowd.
+text: Letting them trample on tradition.
+dialog: Well, tradition needed trampling on.
+text: A square dance at the governor's mansion. Willie dances with
+dialog: Anne.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: The crowd loved it... Willie loved
+dialog: it... and so did I.
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+dialog: Interior: Executive Office Corridor, Day
+text: Jack walks down the corridor on the way to Willie's offices.
+dialog: Interior: Willie's Executive Offices, Day
+text: As Jack enters from the corridor, Sadie is coming out of
+text: Willie's private office.
+speaker_heading: SADIE
+dialog: (through open door)
+dialog: You low-down, no-good redneck...
+text: She slams the door hard. We hear Willie laugh.
+speaker_heading: JACK
+dialog: (to secretary)
+dialog: What goes on here?
+speaker_heading: SECRETARY
+dialog: That's what Sadie wants to know.
+dialog: (she shows Jack
+dialog: newspaper containing
+dialog: photograph of Willie
+dialog: at the nightclub)
+text: The boss poses for too many pictures.
+text: Jack grins, then walks into Sadie's office.
+speaker_heading: SADIE
+dialog: I'll kill him.
+speaker_heading: JACK
+dialog: Why, Sadie, I'm surprised at you.
+speaker_heading: SADIE
+dialog: I'll kill him.
+text: She goes to the door to yell to the secretary.
+speaker_heading: SADIE
+dialog: I hate all women.
+text: She slams the door again, and returns to her desk.
+speaker_heading: SADIE
+dialog: Was she pretty?
+text: Jack shoves the paper at her. She ignores it.
+speaker_heading: SADIE
+dialog: Was she pretty?
+speaker_heading: JACK
+dialog: If I met her on the street I'd never
+dialog: recognize her.
+speaker_heading: SADIE
+dialog: Was she pretty?
+speaker_heading: JACK
+dialog: How should I know? I wasn't looking
+dialog: at her face... Look, if it's going
+dialog: to cause all this grief, why don't
+dialog: you let him go?
+speaker_heading: SADIE
+dialog: Let him go? I'll kill him. I'll drive
+dialog: him out of this state.
+speaker_heading: JACK
+text: Just because a guy's sitting with a
+text: couple of girls on his knees in
+dialog: public...
+speaker_heading: SADIE
+dialog: Public or private... I know him. How
+dialog: about what happened in Chicago? That
+dialog: girl on skates... and the time you
+dialog: both went to St. Louis... There's a
+dialog: new invention, you know, Photography
+text: and newsreels. Willie Stark in a
+text: nightclub... Willie Stark with a
+dialog: blonde.
+speaker_heading: JACK
+dialog: You could always bleach your hair.
+speaker_heading: SADIE
+dialog: I could also break every bone in his
+dialog: neck. After all I've done for him...
+dialog: Now he goes two-timing me.
+speaker_heading: JACK
+dialog: He's been two-timing Lucy. So there's
+dialog: another kind of arithmetic for what
+dialog: he's doing to you.
+speaker_heading: SADIE
+dialog: Lucy?
+dialog: (laughs)
+dialog: If she had her way he'd be back in
+dialog: Kanoma City slopping the hogs right
+dialog: now. And he knows it. He knows what
+dialog: she'd do for him. She had her chance.
+speaker_heading: JACK
+dialog: You seem to think Lucy's on her way
+dialog: out, don't you?
+speaker_heading: SADIE
+dialog: He'll ditch her... Give him time.
+speaker_heading: JACK
+dialog: You ought to know.
+text: She slaps his face.
+speaker_heading: JACK
+dialog: Hey, you got the wrong guy. I'm not
+dialog: the hero of this piece.
+text: The door to Willie's office bursts open and Willie dashes
+dialog: out.
+speaker_heading: WILLIE
+dialog: All right, come on, both of you.
+dialog: Let's go, hurry it up.
+text: They go out through the reception room, pick up Sugar Boy,
+text: and head down the corridor.
+speaker_heading: WILLIE
+text: Come on. Pillsbury put his hand in
+dialog: the pork barrel and got caught. You
+dialog: know, I never did trust that guy.
+text: Some newsmen are waiting on the top landing.
+speaker_heading: NEWSMEN
+dialog: Have you heard about Pillsbury? What
+dialog: do you intend to do about Pillsbury?
+dialog: How about it, Governor?
+text: Willie pushes by them.
+speaker_heading: WILLIE
+dialog: Later, boys, later.
+dialog: (to Jack)
+dialog: Say, Jack, go back and get the Judge.
+dialog: Let's get him over to my hotel just
+dialog: as soon as you can.
+text: They all hurry after Willie as he rushes down the stairs.
+dialog: Interior: Lobby State Capitol, Day
+text: Anne is about to go up the stairs when she meets Willie and
+text: the others on the way down.
+speaker_heading: ANNE
+dialog: (to Willie)
+dialog: I waited for you.
+dialog: (she sees Sadie)
+dialog: Hello.
+dialog: (back to Willie)
+dialog: You promised we could... uh... discuss
+dialog: my charity project... Children's
+dialog: home?
+speaker_heading: WILLIE
+dialog: Well, I'm very sorry. Something very
+dialog: important came up. You'll call me
+dialog: later, won't you?
+speaker_heading: ANNE
+dialog: Yes, certainly.
+speaker_heading: SADIE
+dialog: We're late.
+text: Anne watches as they cross the lobby and exit.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stark's Hotel Suite, Night
+text: Close shot of Willie, seated, with his feet propped up on a
+text: table. Pillsbury stands before him. Jack, Sadie, Duffy, and
+text: Sugar Boy are also in the room.
+speaker_heading: WILLIE
+dialog: Look at you, Pillsbury. Fifty years
+text: old, gut-sprung, teeth gone, never
+dialog: had a dime. If the Almighty had
+dialog: intended for you to be rich he'd
+dialog: have taken care of that a long time
+dialog: ago. The idea of you being rich...
+dialog: that's plain blasphemy. Ain't that a
+dialog: fact?
+text: Pillsbury doesn't answer.
+speaker_heading: WILLIE
+dialog: Answer me!
+speaker_heading: PILLSBURY
+dialog: Yes.
+speaker_heading: WILLIE
+dialog: Louder, man. Don't mumble. Speak up.
+dialog: Say it's a fact, a blasphemous fact.
+speaker_heading: PILLSBURY
+dialog: It's a fact, a blasphemous fact.
+text: Sugar Boy laughs loudly. The phone rings and Sadie picks it
+dialog: up.
+speaker_heading: SADIE
+dialog: Yeah?... Oh, I see.
+dialog: (hangs up)
+dialog: Dumond can't come. He says his wife
+dialog: is sick.
+speaker_heading: WILLIE
+dialog: I don't care if she's dying. Sugar,
+dialog: get the car. Get him and bring him
+dialog: over here.
+text: Sugar Boy exists. Willie turns back to Pillsbury.
+speaker_heading: WILLIE
+dialog: Now, you know what you're supposed
+dialog: to do, don't you, Pillsbury? You're
+dialog: supposed to stay poor and take orders.
+dialog: Oh, there'll be some sweetening for
+dialog: you from time to time... but Duffy'll
+dialog: take care of that. Don't you go
+dialog: setting yourself up on your own again,
+dialog: do you understand that?
+speaker_heading: PILLSBURY
+dialog: Yes.
+speaker_heading: WILLIE
+dialog: Louder, man. And say, I understand
+dialog: that.
+speaker_heading: PILLSBURY
+dialog: I understand that.
+speaker_heading: WILLIE
+dialog: Give him a pen and some paper, Sadie.
+text: There is a knock on the door.
+speaker_heading: WILLIE
+dialog: See who that is, Duffy.
+text: Judge Stanton enters.
+speaker_heading: WILLIE
+dialog: Oh, hello, Judge. Sit down. I'll be
+dialog: with you in just a couple of seconds.
+dialog: (back to Pillsbury)
+dialog: Now write what I tell you to write...
+dialog: Dear Governor Stark. I wish to resign
+dialog: as auditor due to ill health, to
+dialog: take effect as soon as you can relieve
+dialog: me. Respectfully yours.
+dialog: (after a pause)
+dialog: Did you sign it?
+speaker_heading: PILLSBURY
+dialog: No.
+speaker_heading: WILLIE
+dialog: (roaring)
+dialog: Well, sign it! Don't put any date on
+dialog: it. I can fill that in when I need
+dialog: it.
+text: Pillsbury signs the paper.
+speaker_heading: WILLIE
+dialog: Now bring it to me.
+text: Pillsbury moves slowly, so Sadie yanks the paper out of his
+text: hand and passes it to Willie.
+speaker_heading: WILLIE
+dialog: Now get out.
+text: Pillsbury slinks out of the room.
+speaker_heading: JUDGE
+dialog: The papers have the story.
+speaker_heading: WILLIE
+dialog: Yeah, I know.
+speaker_heading: JUDGE
+dialog: They're talking about impeachment
+dialog: proceedings.
+speaker_heading: WILLIE
+dialog: (rising)
+dialog: Against who?
+speaker_heading: JUDGE
+dialog: This time, Pillsbury.
+speaker_heading: WILLIE
+dialog: I got that "this time," Judge.
+speaker_heading: JUDGE
+dialog: How true is it?
+speaker_heading: WILLIE
+dialog: It's too true.
+text: The phone rings.
+speaker_heading: SADIE
+dialog: Yes?
+dialog: (hands phone to Willie)
+dialog: This is it, Willie. Jeff Hopkins on
+dialog: the wire.
+text: Willie takes the phone, but puts his hand over the mouthpiece
+text: so that he can speak to Jack.
+speaker_heading: WILLIE
+dialog: What have we got on Hopkins, Jack?
+dialog: (as Jack riffles
+dialog: through the black
+dialog: book)
+dialog: Hello, Jeff. About that Pillsbury
+dialog: business...
+dialog: (reads from black
+dialog: book Jack holds out
+dialog: for him)
+dialog: Here's what I want you to do when it
+text: comes up in the legislature. Now,
+dialog: wait a minute, wait a minute. You
+dialog: listen to me.
+dialog: (still reading from
+dialog: book)
+dialog: You got a mortgage coming due on
+dialog: that place of yours in about five
+dialog: weeks, haven't you? You'd like to
+dialog: get it renewed, wouldn't you?
+dialog: (pause)
+dialog: All right, Tiny'll talk to you in
+dialog: the morning.
+text: He grins and hangs up the phone.
+speaker_heading: WILLIE
+dialog: Get going, Tiny.
+text: Duffy leaves.
+speaker_heading: JUDGE
+dialog: You haven't answered my question.
+dialog: Why are you saving Pillsbury's hide?
+speaker_heading: WILLIE
+dialog: I'm not a bit interested in
+dialog: Pillsbury's hide. It's something
+dialog: much more important than that. If
+dialog: the McMurphy boys get the notion
+dialog: they can get away with this, there's
+dialog: no telling where they'll stop.
+speaker_heading: JUDGE
+dialog: (quietly)
+dialog: Or where you will... Pillsbury is
+dialog: guilty. As attorney general of this
+dialog: state, it's my job to prosecute.
+speaker_heading: WILLIE
+dialog: Judge, you talk like Pillsbury was...
+dialog: was human. He isn't. He's a thing.
+dialog: You don't prosecute an adding machine
+dialog: if the spring goes busted and makes
+dialog: a mistake. You fix it. Well, I fixed
+dialog: him. I'm not a bit interested in
+dialog: Pillsbury. It's something much bigger
+dialog: than that.
+speaker_heading: JUDGE
+dialog: (getting up)
+dialog: Yes, it is.
+speaker_heading: JACK
+dialog: He's right, Judge. Can't you see
+dialog: that he's right?
+speaker_heading: JUDGE
+dialog: He's right because you want him to
+dialog: be right. Because you're afraid to
+dialog: admit you've made a mistake. Do it
+dialog: now before it's too late.
+dialog: (to Willie)
+dialog: I'm offering my resignation as
+dialog: attorney general. You'll have it in
+dialog: writing by messenger in the morning...
+dialog: dated.
+speaker_heading: WILLIE
+dialog: (softly)
+dialog: It took you a long time to make up
+dialog: your mind, Judge. A long time. What
+dialog: made you take such a long time?
+speaker_heading: JUDGE
+dialog: I wasn't sure.
+speaker_heading: WILLIE
+dialog: And now you are?
+text: The Judge nods.
+speaker_heading: WILLIE
+dialog: I'll tell you what you are. You're
+dialog: scared. You sat in that big easy
+dialog: chair of yours for thirty years and
+dialog: played at being a judge. Then all of
+dialog: a sudden I came along and put a bat
+dialog: in your hand, and I said, go ahead,
+dialog: Judge, start swinging. And you did.
+dialog: And you had a wonderful time. But
+dialog: now you're scared. You don't want to
+dialog: get your hands dirty. You want to
+dialog: pick up the marbles... but you don't
+dialog: want to get your hands dirty. Look
+dialog: at my whole program, Judge. How do
+dialog: you think I put that across?
+speaker_heading: JUDGE
+dialog: I knew how, but I never knew why.
+text: He starts to leave.
+speaker_heading: WILLIE
+dialog: You're not by any chance thinking of
+text: going over to McMurphy's boys, are
+dialog: you?
+speaker_heading: JUDGE
+dialog: I'm through with politics.
+speaker_heading: WILLIE
+dialog: I'm happy to hear that.
+dialog: (extends his hand)
+dialog: No hard feelings.
+speaker_heading: JUDGE
+dialog: (ignores the hand)
+dialog: Goodbye, Governor.
+dialog: (to Jack)
+dialog: Are you coming with me, Jack?
+text: Jack turns away.
+speaker_heading: JUDGE
+dialog: You're making a mistake.
+text: He goes. Willie closes the door behind him.
+speaker_heading: WILLIE
+dialog: Do you think he means it when he
+dialog: says he's through with politics,
+dialog: Sadie?
+speaker_heading: SADIE
+dialog: No. No, I don't.
+speaker_heading: WILLIE
+dialog: What about you, Jack?
+speaker_heading: JACK
+dialog: I've known the Judge all my life.
+dialog: He's always meant everything he's
+dialog: said.
+speaker_heading: WILLIE
+dialog: All right. All right. Take it easy.
+dialog: I'll take your word for it.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Willie's Hotel, Night
+text: Willie's car draws up to the curb. Sugar Boy hops out to
+text: open the door for Willie.
+text: Sadie is watching him from a window upstairs in the hotel.
+text: Anne is in the back seat; Willie leans down to talk to her.
+speaker_heading: WILLIE
+dialog: Sugar, take Miss Stanton home.
+dialog: (to Anne)
+dialog: When am I going to see you again?
+text: She doesn't answer.
+speaker_heading: WILLIE
+dialog: What's the matter, Anne?
+speaker_heading: ANNE
+dialog: Please take me home now, Sugar Boy.
+speaker_heading: WILLIE
+dialog: You've got to understand me.
+speaker_heading: ANNE
+dialog: (turns away)
+dialog: I understand you. It's myself I don't
+dialog: understand.
+speaker_heading: WILLIE
+dialog: Do you think I like sneaking around
+dialog: corners any more than you do? But
+dialog: right now, with the Pillsbury business
+dialog: and with your uncle quitting... If I
+dialog: got a divorce...
+speaker_heading: ANNE
+dialog: Maybe we'd better stop seeing each
+dialog: other.
+speaker_heading: WILLIE
+dialog: No. No, we won't stop seeing each
+dialog: other, will we?
+speaker_heading: ANNE
+dialog: (slowly)
+dialog: No.
+speaker_heading: WILLIE
+dialog: Because you believe in what I tell
+dialog: you.
+speaker_heading: ANNE
+dialog: (puts her hand on his)
+dialog: Because I believe what you tell me.
+text: Sadie approaches.
+speaker_heading: SADIE
+dialog: Good evening, Governor Stark.
+text: (looks at Anne, but
+dialog: talks to Willie)
+dialog: I thought you might like to know
+dialog: that Judge Stanton kept his promise.
+dialog: (directly to Willie)
+dialog: He gave the story to every paper in
+dialog: town.
+speaker_heading: WILLIE
+dialog: Sugar, meet me at the hotel as soon
+dialog: as you can.
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+speaker_heading: NEWSPAPER HEADLINE
+scene_heading: ATTORNEY GENERAL RESIGNS:
+scene_heading: STANTON ACCUSES STARK OF
+scene_heading: QUASHING PILLSBURY GRAFT
+dialog: Interior: State Legislature Assembly Room, Day
+text: Duffy stands in the forground, looking in on the uproar and
+dialog: confusion of the assembly.
+speaker_heading: SENATOR
+dialog: These are serious charges that Judge
+dialog: Stanton has given to the press. This
+dialog: legislature is entitled to a complete
+dialog: and full report on the Pillsbury
+dialog: affair. Let the truth be known.
+speaker_heading: 2ND SENATOR
+dialog: Let it come out.
+speaker_heading: 3RD SENATOR
+dialog: I move that we adjourn.
+speaker_heading: 4TH SENATOR
+dialog: I second the motion.
+speaker_heading: CHAIRMAN
+dialog: All those in favor, say aye... Motion
+text: carried. The house is adjourned.
+text: As Duffy turns and walks away, other senators rise up in
+text: their seats in protest.
+speaker_heading: DISSOLVE TO:
+scene_heading: MONTAGE: PILLSBURY SCANDAL
+text: Sign on building reads: CITIZENS COMMITTEE MEETING, Subject:
+scene_heading: PILLSBURY SCANDAL, 8 P.M. Tonight -- Town Hall.
+text: A man pastes a strip across the sign: CANCELED.
+text: A man is making a speech to a small group of people.
+speaker_heading: MAN
+dialog: If you let Willie Stark get away
+dialog: with the Pillsbury graft, there's no
+dialog: telling...
+text: Thugs break up the meeting. The speaker is beaten up. Jack
+text: Burden turns through the pages of the little black book.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stark's Hotel Suite, Day
+text: Willie is lying on the bed. Jack is seated. Sadie and Sugar
+dialog: Boy stand nearby.
+speaker_heading: JACK
+dialog: But we beat the Pillsbury rap...
+text: It's over.
+speaker_heading: WILLIE
+dialog: These things are never over. I'll
+dialog: tell you what I want you to do, Jack.
+dialog: I want you to start a new page in
+dialog: that black book of yours... under
+dialog: then name of Judge Stanton.
+speaker_heading: JACK
+dialog: You're crazy. There's nothing on the
+dialog: Judge.
+speaker_heading: SADIE
+dialog: Why? Because his name is Stanton?
+speaker_heading: WILLIE
+dialog: Ssshhh, easy.
+speaker_heading: JACK
+dialog: What if I won't do it?
+speaker_heading: WILLIE
+dialog: You know, some of this has rubbed
+dialog: off on you.
+speaker_heading: JACK
+dialog: What are you going to do? Have me
+dialog: shot?
+speaker_heading: WILLIE
+dialog: No... no... but I'll have to get
+dialog: myself a new boy.
+speaker_heading: JACK
+dialog: I tell you there's nothing on the
+dialog: Judge.
+speaker_heading: WILLIE
+dialog: Jack, there's something on everybody.
+dialog: Man is conceived in sin and born in
+dialog: corruption.
+speaker_heading: JACK
+dialog: It's a waste of time.
+speaker_heading: WILLIE
+dialog: What's the matter, Jack? Are you
+dialog: afraid you might find something out?
+text: Jack stares at him.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Burden's Landing Ferry, Night
+text: Jack's car is seen coming across on the ferry.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: I kept saying to myself that Willie
+dialog: was wrong about the Judge. If there
+dialog: was anything left at Burden's Landing,
+dialog: it was honor. I had to believe that.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stanton Living Room, Night
+text: Jack and Anne stand together in the living room.
+speaker_heading: JACK
+dialog: Anne, I want to ask you a question.
+dialog: Was the Judge ever broke? Really
+dialog: broke?
+speaker_heading: ANNE
+dialog: Why do you want to know?
+speaker_heading: JACK
+dialog: I don't want to know, but I've got
+dialog: to.
+speaker_heading: ANNE
+dialog: Did he tell you --
+speaker_heading: JACK
+dialog: Did who tell me?
+speaker_heading: ANNE
+dialog: I don't know. I... how should I know
+dialog: if the Judge was ever broke?
+text: She walks away from him. Adam enters, carrying bundles of
+text: food and two wine bottles.
+speaker_heading: STANTON
+dialog: Hello... Come on, Anne, take this
+dialog: food and start cooking. I'm hungry.
+text: Anne takes the grocery bundles. Jack grabs the wine.
+speaker_heading: JACK
+dialog: Me, I'm on the thirsty side. Bring
+dialog: some glasses, Anne, quick.
+text: He joins Adam, who has opened the piano.
+speaker_heading: STANTON
+dialog: (laughing)
+dialog: It's been a long time since I played
+dialog: this thing. What do you say we wake
+dialog: up the ghosts, huh?
+speaker_heading: JACK
+dialog: (calling to Anne)
+text: Another glass, Anne, for a ghost.
+speaker_heading: STANTON
+dialog: (starting to play)
+dialog: Remember the last time I played this?
+dialog: You and Anne were dancing?
+text: Anne returns with three glasses. Jack grabs her around the
+text: waist and whirls her around.
+speaker_heading: JACK
+dialog: Shall we dance?
+speaker_heading: ANNE
+dialog: Let's... let's have a drink first.
+text: Adam starts to pour the wine.
+speaker_heading: JACK
+dialog: No, no... keep playing. Anne and I
+dialog: want to hear this, don't we, Anne?
+dialog: (Jack pours the wine)
+dialog: Adam... ghost... and me.
+speaker_heading: STANTON
+dialog: What shall we drink to?
+speaker_heading: JACK
+dialog: To the ghost?... To Adam, to the
+dialog: director of the new medical center.
+speaker_heading: STANTON
+dialog: (bangs the piano keys)
+dialog: Don't you ever stop working for him?
+speaker_heading: ANNE
+dialog: Adam!
+speaker_heading: STANTON
+dialog: I came up here to get away...
+speaker_heading: JACK
+dialog: I'm sorry, Adam.
+speaker_heading: ANNE
+dialog: Well, I'm not. What's wrong with
+dialog: being the director of the new medical
+dialog: center?
+speaker_heading: STANTON
+dialog: Nothing, except that I'm not going
+dialog: to take it.
+speaker_heading: JACK
+dialog: Why? Because your uncle resigned?
+speaker_heading: STANTON
+dialog: That's partly it. There are other
+dialog: things.
+speaker_heading: ANNE
+dialog: What other things?
+speaker_heading: STANTON
+dialog: (looks at her)
+dialog: You too?
+speaker_heading: ANNE
+dialog: Yes, me too.
+speaker_heading: JACK
+dialog: Anne, if Adam doesn't want to discuss
+dialog: it, let's not.
+speaker_heading: STANTON
+dialog: All right, let's discuss it.
+speaker_heading: ANNE
+text: But calmly.
+speaker_heading: STANTON
+dialog: Calmly. Go ahead, Jack. Why do you
+dialog: think he wants me?
+speaker_heading: JACK
+dialog: Because you're the best man for the
+dialog: job.
+speaker_heading: STANTON
+dialog: It could have nothing to do with my
+dialog: name being Stanton?
+speaker_heading: JACK
+dialog: It could have. Let's grant that.
+speaker_heading: STANTON
+dialog: That's your answer.
+speaker_heading: JACK
+dialog: No, it's not. If that were the only
+dialog: answer I wouldn't be with him any
+text: more. There's another side of it.
+dialog: I've learned something from him. You
+dialog: can't make an omelet without cracking
+dialog: eggs.
+speaker_heading: STANTON
+dialog: Or heads.
+speaker_heading: ANNE
+dialog: But at least a hospital will be built,
+dialog: and the sick will be cared for.
+speaker_heading: STANTON
+dialog: At what price?
+speaker_heading: JACK
+dialog: At any price.
+speaker_heading: STANTON
+dialog: Do you really believe that, Jack?
+speaker_heading: JACK
+dialog: I really believe that Stark wants to
+dialog: do good. You do too. It's a matter
+dialog: of method. Many times out of evil
+dialog: comes good. Well, pain is an evil.
+dialog: As a doctor you should know that.
+speaker_heading: STANTON
+dialog: Pain is an evil; it is not evil. It
+dialog: is not evil in itself. Stark is evil.
+speaker_heading: JACK
+dialog: The people of the state don't think
+dialog: so.
+speaker_heading: STANTON
+dialog: How would they know? The first thing
+dialog: he did was to take over the newspapers
+dialog: and the radio stations. Why be so
+dialog: afraid of criticism? If Stark is
+dialog: interested in doing good, he should
+dialog: also be interested in the truth. I
+dialog: don't see how you can separate the
+dialog: two. No, Stark is not for me.
+speaker_heading: ANNE
+dialog: (upset)
+dialog: No, Stark is not for you. Well, what
+dialog: is for you? Pride. Pride, that's all
+dialog: it is... foolish, stupid pride. All
+dialog: you've ever talked about is what you
+dialog: could do if... if somebody would
+dialog: tear down and build. All right, all
+dialog: right, somebody has, and he's given
+dialog: it to you. But he's not for you. No,
+dialog: he's not for you.
+text: She throws down her glass and runs crying from the room.
+text: Adam goes after her.
+speaker_heading: STANTON
+dialog: Anne... Anne...
+text: Interior: Stanton Hallway and Stairs, Night
+text: Anne runs upstairs and Adam follows. The Judge comes out of
+text: his room to see what has happened, sees Jack standing at the
+text: foot of the stairs, hesitates a moment, and then goes back
+text: to his room without speaking.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: County Recorder Room, Day
+text: Jack enters and speaks to a clerk, who then directs him to
+text: one of the files. He starts to look through the files marked
+scene_heading: MORTGAGES DEFAULTED.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: Will I find anything, Judge? Will I?
+dialog: I didn't find it all at once. It
+dialog: takes a long time to go through old
+dialog: courthouse records and musty deeds...
+dialog: a very long time. But it wasn't too
+dialog: hard for me. I was well trained in
+dialog: research, especially this kind.
+text: He pulls out a file.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: I found what I didn't want to find.
+text: He takes the file back to the clerk.
+speaker_heading: JACK
+dialog: Have some photostat copies made of
+dialog: these. I'll be back tomorrow for
+dialog: them.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Jack's Hotel Bedroom, Day
+text: Jack is lying on his bed, looking over the documents that
+text: relate to the Judge. He looks haggard and worried. There is
+text: a knock on the door. Jack doesn't answer; the knock is
+dialog: repeated.
+speaker_heading: JACK
+dialog: Who is it?
+speaker_heading: SADIE'S VOICE
+dialog: It's me, Sadie Burke.
+speaker_heading: JACK
+dialog: Wait a minute.
+text: He hides the documents under his pillow.
+speaker_heading: JACK
+dialog: All right, come in.
+text: She comes in, sniffs the air.
+speaker_heading: SADIE
+dialog: Phew! Awful lot of smoke. Awful lot
+dialog: of whisky. You sober?
+speaker_heading: JACK
+dialog: Stone.
+speaker_heading: SADIE
+dialog: I'll have one with you.
+dialog: (starts tidying up
+dialog: the room)
+dialog: What are you hiding out for?
+speaker_heading: JACK
+dialog: I'm not. I've been sleeping.
+speaker_heading: SADIE
+dialog: For four days? You've been back in
+dialog: town for four days.
+speaker_heading: JACK
+dialog: Willie knows everything.
+speaker_heading: SADIE
+text: Willie's worried about his boy.
+speaker_heading: JACK
+text: Willie's boy is worried about Willie's
+dialog: boy.
+speaker_heading: SADIE
+dialog: Well, why don't you put something on
+text: the phonograph -- a low-down, mean
+dialog: blues. Play it over and over again
+dialog: until you're sick of it. Then crack
+dialog: it and go back to work.
+dialog: (sits down)
+dialog: I do it all the time.
+speaker_heading: JACK
+dialog: That's not my problem.
+speaker_heading: SADIE
+dialog: No, it isn't your problem.
+dialog: (gets up again)
+dialog: I'll wait for you if you want to
+dialog: powder your nose.
+text: Jack goes into the bathroom.
+speaker_heading: JACK
+dialog: I'll be with you in a minute.
+text: Sadie wanders around. She goes to the dresser, upon which is
+text: a photograph of Anne Stanton. She picks up the picture and
+text: places it so she can see it in the mirror and compare it
+text: with her own reflection.
+speaker_heading: SADIE
+dialog: Hmmm. Yeah, I can see it. I've got
+dialog: to look in the mirror to be able to
+dialog: see it. Soft, white skin... not like
+dialog: mine.
+text: (runs her hand across
+dialog: her cheeks)
+dialog: I had smallpox when I was a kid.
+dialog: Where I lived it seemed nearly all
+dialog: the kids had smallpox...
+text: Jack watches her through the open bathroom door.
+speaker_heading: SADIE
+dialog: It leaves your face hard. Then she's
+dialog: got poise. Look at the way she holds
+text: her head... at just the right angle.
+dialog: That takes training. That takes years
+dialog: of training...
+text: Jack, towel in hand, comes out and stands behind her. He
+text: looks at her in the mirror, puzzled.
+speaker_heading: SADIE
+dialog: I see what Willie sees. Willie's got
+dialog: big ideas, Jack.
+speaker_heading: JACK
+dialog: What do you mean?
+speaker_heading: SADIE
+dialog: A girl like that could be a governor's
+dialog: wife. Or even a President's.
+speaker_heading: JACK
+dialog: What are you talking about?
+speaker_heading: SADIE
+dialog: He ditched Lucy, he ditched me, and
+dialog: he'll ditch you.
+speaker_heading: JACK
+dialog: (shaking her)
+dialog: Answer me!
+speaker_heading: SADIE
+dialog: He'll ditch everybody in the whole
+dialog: world because that's what Willie
+dialog: wants. Nobody in the world but him.
+speaker_heading: JACK
+dialog: What are you talking about?
+speaker_heading: SADIE
+dialog: You and your high-tone friends. What
+dialog: do they know? What do they know about
+dialog: anything? Why did you have to mix
+dialog: her in?
+speaker_heading: JACK
+dialog: You're crazy, Sadie. You're out of
+dialog: your mind.
+speaker_heading: SADIE
+dialog: Am I? Well, why don't you go down
+dialog: and ask her. Or ask him. Ask Willie.
+speaker_heading: JACK
+dialog: Shut up!
+speaker_heading: SADIE
+dialog: Go ahead, ask him.
+speaker_heading: JACK
+dialog: Shut up!
+speaker_heading: SADIE
+dialog: Ask him!
+text: He slaps her hard.
+speaker_heading: SADIE
+dialog: Ow-oo... oh... oh.
+text: She starts to laugh.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Football Field, Day
+text: A football team is practicing on the field. Willie watches
+text: from the bench. A player kicks the ball and Tom misses it.
+text: Jack walks over to Willie.
+speaker_heading: JACK
+dialog: He's off today.
+speaker_heading: WILLIE
+dialog: It's only practice. He'll be all
+dialog: right tomorrow... You been gone a
+dialog: long time, Jack.
+speaker_heading: JACK
+dialog: Yeah. I figured if you needed me
+dialog: you'd yell.
+speaker_heading: WILLIE
+dialog: Why'd you lay around the hotel?
+speaker_heading: JACK
+dialog: Thinking.
+speaker_heading: WILLIE
+dialog: About what?
+speaker_heading: JACK
+dialog: Things.
+speaker_heading: WILLIE
+dialog: What did you find on the Judge?
+speaker_heading: JACK
+dialog: Nothing.
+speaker_heading: WILLIE
+dialog: You sure you didn't find anything on
+dialog: the Judge?
+speaker_heading: JACK
+dialog: Yeah, I'm sure.
+speaker_heading: WILLIE
+dialog: You're going to keep trying, aren't
+dialog: you?
+speaker_heading: JACK
+dialog: If you want me to.
+speaker_heading: WILLIE
+dialog: I want you to. There's something
+dialog: else I want you to do too.
+speaker_heading: JACK
+dialog: What? Bucket boy? Towel slinger?
+dialog: What?
+speaker_heading: WILLIE
+dialog: (looks at him closely)
+dialog: What's eating you, Jack?
+speaker_heading: JACK
+dialog: (avoiding it)
+dialog: What else do you want me to do?
+speaker_heading: WILLIE
+dialog: If you've got something on your mind,
+dialog: boy, spit it out. We've been together
+dialog: too long to play games.
+speaker_heading: JACK
+dialog: What do you want me to do?
+speaker_heading: WILLIE
+dialog: I hear your pal Adam Stanton turned
+dialog: down the job as director of the
+dialog: hospital. That's bad. Especially at
+dialog: a time like this.
+speaker_heading: JACK
+dialog: Oh? How did you hear it?
+speaker_heading: WILLIE
+dialog: Why? What difference does it make?
+speaker_heading: JACK
+dialog: I just wanted to know.
+speaker_heading: WILLIE
+dialog: I heard it around.
+speaker_heading: JACK
+dialog: (insistent)
+dialog: How did you hear he turned it down,
+dialog: Willie?
+text: Out on the field the boys have stopped playing and are huddled
+text: around the coach.
+speaker_heading: WILLIE
+dialog: I'll be right back, Jack. I want to
+dialog: see what's happening here.
+text: He goes over to the group on the field. The coach is talking
+dialog: to Tom.
+speaker_heading: COACH
+dialog: You going to practice the way I tell
+dialog: you.
+speaker_heading: TOM
+dialog: I'm going to do it the way I want to
+dialog: do it.
+text: Willie comes up to them.
+speaker_heading: WILLIE
+dialog: Tom, come here. What's going on here?
+speaker_heading: COACH
+dialog: I don't care if he is your son,
+dialog: Governor... No special rules for
+dialog: him.
+speaker_heading: TOM
+dialog: It doesn't make any difference to me
+dialog: either way... whether I play or not.
+speaker_heading: WILLIE
+dialog: Well, it does to me.
+dialog: (to coach)
+dialog: What do you want him to do?
+speaker_heading: COACH
+dialog: To behave himself. Like the rest of
+dialog: the boys. Four times this season
+text: he's broken training. He comes on
+text: the practice field half potted.
+speaker_heading: WILLIE
+dialog: Tom, you're going to have to obey
+dialog: the rules. Do you hear me? You're
+dialog: going to obey the rules.
+speaker_heading: TOM
+dialog: I put 'em across, don't I? Every
+dialog: Saturday I put 'em across and I can
+dialog: still do it, drunk or sober. That's
+dialog: all you want, isn't it... for me to
+dialog: put 'em across so you can big-shot
+dialog: it around? Isn't that all you want?
+text: He walks away.
+speaker_heading: WILLIE
+dialog: Tom!
+dialog: (to coach)
+text: He's a little high-strung.
+dialog: (goes after Tom)
+dialog: Tom, come here. Tom!
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Highway, Foggy Day
+text: Sign in foreground reads: WILLIE STARK HIGHWAY U.S. 56. A
+text: car swerves around a bend and careens down the highway.
+text: Tom and his girl friend Helene are in the car. Tom is
+dialog: drinking.
+speaker_heading: HELENE
+dialog: (laughing)
+dialog: Come on, Tommy... let's go faster.
+dialog: Come on...
+text: The car goes across a bridge, weaving. Two motorcycle cops
+text: parked there start to give chase.
+text: Tom's car swerves out of control and crashes through a fence.
+text: The two motorcycle cops ride out to the field to the wrecked
+text: car. They find Tom and Helene, unconscious. One of the cops
+text: picks up the empty bottle and hands it to the other.
+speaker_heading: 2ND COP
+dialog: (looking at Tom)
+dialog: It's the governor's son.
+text: He throws the bottle away.
+speaker_heading: DISSOLVE TO:
+speaker_heading: NEWSPAPER HEADLINES
+scene_heading: GOVERNOR'S SON HURT:
+scene_heading: GIRL NEAR DEATH IN CRASH
+text: Below the headline is a picture of Helene Hale's father.
+text: Another picture of Mr. Hale on the front page. Caption reads:
+text: GIRL'S FATHER CLAIMS DRUNK DRIVING CAUSE OF WRECK
+scene_heading: ADMITTANCE TO HOSPITAL DENIED PRESS
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Governor's Mansion, Night
+text: Lucy and Mr. Hale walk across the large reception room toward
+text: Willie. Jack, Sugar Boy, and Duffy stand around in the
+dialog: background.
+speaker_heading: LUCY
+dialog: Willie, Mr. Hale's here to see you.
+text: Willie comes to meet them, a drink in his hand. He is
+text: obviously drunk.
+speaker_heading: WILLIE
+dialog: Go on upstairs, Lucy. I have some
+dialog: business I want to talk over with
+dialog: Mr. Hale.
+speaker_heading: HALE
+dialog: What I've got to say anybody can
+dialog: listen to... Where's your boy?
+speaker_heading: WILLIE
+dialog: Now... now, don't get excited.
+dialog: (to Sugar Boy)
+dialog: Get me another drink, Sugar.
+speaker_heading: HALE
+dialog: My daughter may die.
+speaker_heading: WILLIE
+dialog: She's not going to die. She'll get
+dialog: the best medical attention there is.
+dialog: No expense will be spared.
+speaker_heading: HALE
+dialog: Where's your boy?
+speaker_heading: LUCY
+dialog: I'll get him.
+speaker_heading: WILLIE
+dialog: Wait a minute, Lucy. He's asleep.
+dialog: And the doctor said after a good
+dialog: night's sleep he'll be all right.
+speaker_heading: LUCY
+dialog: No, he won't be all right unless you
+dialog: make him all right. I'll get him.
+dialog: She goes.
+speaker_heading: WILLIE
+dialog: Lucy!
+dialog: (to Hale)
+dialog: You care for a drink?
+speaker_heading: HALE
+dialog: No thanks.
+speaker_heading: WILLIE
+dialog: Accidents will happen, you know.
+speaker_heading: HALE
+dialog: Accidents? Your boy was drunk.
+speaker_heading: WILLIE
+dialog: I saw the police report. There...
+dialog: there was nothing about drunkenness
+text: on the police report.
+speaker_heading: HALE
+dialog: Whose police and whose report? I say
+dialog: the boy was drunk. And I know it.
+text: Tom comes down the stairs, with Lucy.
+speaker_heading: HALE
+dialog: (to Tom)
+dialog: Right here before your father... I
+dialog: want you --
+speaker_heading: TOM
+dialog: Mr. Hale --
+speaker_heading: WILLIE
+dialog: Tom, the doctor says you need rest,
+dialog: boy.
+speaker_heading: TOM
+dialog: (turns on him)
+dialog: I don't want you to try to cover up
+dialog: for me. I was wrong... that's all
+dialog: there is to it.
+speaker_heading: WILLIE
+dialog: You don't know what you're talking
+dialog: about. I saw the police report --
+speaker_heading: TOM
+dialog: I don't care what the police report
+dialog: says. I was driving and I was drunk.
+dialog: It's all my fault.
+dialog: (to Hale)
+dialog: Anything you want to do to me, you
+dialog: can do. Whatever you want me to do,
+dialog: I'll do.
+speaker_heading: WILLIE
+dialog: Nobody has to do anything. Stop
+dialog: worrying. I'll take care of
+dialog: everything.
+speaker_heading: TOM
+dialog: I don't want you to take care of
+dialog: anything.
+text: Tom looks ill; he presses his hand to his forehead.
+speaker_heading: WILLIE
+dialog: Tom, go on upstairs and get some
+dialog: rest, boy. Go on... go on... go on.
+text: Tom walks slowly toward the stairs.
+speaker_heading: WILLIE
+dialog: Sugar, help him... Mr. Hale, come on
+dialog: over and sit down. You sure you
+dialog: wouldn't care for a drink, Mr. Hale?
+text: Hale sits down, shakes his head.
+speaker_heading: WILLIE
+dialog: Hey, Tiny, go home. Go on, out of
+dialog: here... out of here. Go on.
+text: Duffy leaves, disgruntled. Willie sits on a coffee table. He
+text: pours himself another drink.
+speaker_heading: WILLIE
+dialog: What business did you say you were
+dialog: in?
+speaker_heading: HALE
+dialog: I didn't say.
+speaker_heading: WILLIE
+dialog: What business are you in?
+speaker_heading: HALE
+dialog: Trucking business.
+speaker_heading: WILLIE
+text: Trucking business. Trucks run on
+text: state roads. If a man in the trucking
+dialog: business had a contract with the
+dialog: state, a big one, that would be pretty
+dialog: good, wouldn't it?
+dialog: (to Jack)
+dialog: Go on, Jack. Tell him what would
+dialog: happen.
+text: Jack is silent.
+speaker_heading: WILLIE
+dialog: Go on, tell him.
+speaker_heading: HALE
+dialog: You're trying to bribe me, aren't
+dialog: you?
+speaker_heading: WILLIE
+dialog: No, no. No, I'm not trying to bribe
+dialog: you. I'm... I'm only talking things
+dialog: over with you, that's all.
+speaker_heading: HALE
+dialog: You're pretty good at talking. I
+dialog: remember when you first started
+dialog: talking. A place called Upton. You
+dialog: did a lot of talking then and the
+dialog: things you said made sense, to me
+dialog: and a lot of other people. I believed
+dialog: in you... I followed you... and I
+dialog: fought for you. Well, the words are
+dialog: still good. But you're not.
+dialog: (rises)
+dialog: And I don't believe you ever were.
+text: He walks out of the room.
+speaker_heading: WILLIE
+dialog: (after a pause)
+dialog: Sugar, follow him. Keep calling in.
+text: Sugar goes, leaving just Jack and Willie. Willie, very drunk,
+text: tries to get up but falls against the piano.
+speaker_heading: WILLIE
+dialog: (yells)
+dialog: Lucy!... Lucy!
+text: He staggers up the long stairway. Halfway up he tumbles,
+text: groaning. Jack helps him to his feet.
+speaker_heading: JACK
+dialog: I'd like Anne to see you now. I'd
+dialog: like Anne to see you now, you drunken
+dialog: sot!
+text: (drags him up the
+dialog: stairs)
+dialog: Come on.
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+speaker_heading: NEWSPAPER
+text: Photograph of Helene Hale on front page. Headline reads:
+scene_heading: GIRL CRASH VICTIM DIES
+text: Under the photograph there is a caption:
+scene_heading: FATHER MYSTERIOUSLY DISAPPEARS AFTER BARING BRIBE OFFER BY
+scene_heading: GOVERNOR STARK
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Governor's Mansion, Day
+text: Willie, Jack, and Sugar Boy are accosted by a group of newsmen
+text: as they come down the stairs.
+speaker_heading: NEWSMEN
+dialog: What about the girl's father,
+dialog: Governor? Have you a statement to
+dialog: make?
+speaker_heading: WILLIE
+dialog: All right, all right, gentlemen.
+dialog: I'll give you a statement. This whole
+text: thing is a mess of lies. It's a frame.
+dialog: The man that made that statement...
+dialog: have him repeat it to my face. He
+dialog: can't. He vanished. Let me ask you
+dialog: some questions. Where has he gone?
+dialog: Where is he?
+speaker_heading: REPORTER
+dialog: Maybe you could answer those questions
+dialog: too, Governor.
+text: Sugar Boy makes a move for the reporter but Willie holds him
+dialog: back.
+speaker_heading: WILLIE
+dialog: I won't dignify that question with
+dialog: an answer.
+speaker_heading: ANOTHER REPORTER
+dialog: One more question, Governor... Where's
+dialog: your son?
+speaker_heading: WILLIE
+text: At the football stadium, where he's
+dialog: supposed to be. He's going to play
+dialog: for State University, which this
+dialog: administration is responsible for.
+dialog: He's not hiding from anybody,
+dialog: gentlemen. He'll be out there in
+text: full view of seventy thousand cheering
+dialog: fans.
+dialog: (starts down the stairs)
+dialog: One of which will be me. See you,
+dialog: men.
+text: He leaves, followed by Jack and Sugar Boy.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Football Field, Day
+text: The game is in progress and the stands are packed. But there
+text: is no cheering. Instead we hear boos, and shouts for Tom.
+speaker_heading: CROWD VOICES
+dialog: Where's Stark? How about Tommy Stark?
+dialog: Hey, Willie, send your boy in.
+dialog: Exterior: Willie's Box
+text: Willie, Jack, Sugar Boy, and Lucy are in one box. Sadie and
+text: Duffy sit in the adjoining one. Willie is standing up. The
+text: crowd continues to heckle him.
+speaker_heading: WILLIE
+dialog: Why don't they put him in!
+speaker_heading: MAN
+dialog: Come on, Willie... send your boy in.
+text: A drunk comes over to his box.
+speaker_heading: DRUNK
+dialog: What's the matter, Willie... is your
+dialog: little boy ashamed to show his face?
+speaker_heading: DUFFY
+dialog: Shut up!
+text: Willie signals angrily to the police.
+speaker_heading: WILLIE
+dialog: Get that man out of here! Come on,
+dialog: get him out of here.
+text: The man is dragged away. The crowd boos, and Willie gets up
+text: and leaves the box, followed by Jack.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stadium Dressing Room, Day
+text: Tom is sitting on one of the massage tables with a towel
+text: around his shoulders as Willie and Jack come in. The sound
+text: of the boos can still be heard.
+speaker_heading: WILLIE
+dialog: They're booing you.
+speaker_heading: TOM
+dialog: (holds his head)
+dialog: Ever since the accident, my head...
+speaker_heading: WILLIE
+dialog: The doctor said it was nothing.
+speaker_heading: TOM
+dialog: Get dizzy... can't see... dizzy...
+speaker_heading: WILLIE
+dialog: You're scared... plain scared.
+speaker_heading: TOM
+dialog: (looks up angrily)
+dialog: Get out of here!
+speaker_heading: WILLIE
+dialog: Atta boy... get mad. Show some spirit.
+dialog: Jack, tell him what his playing means.
+dialog: Go on, tell him.
+speaker_heading: JACK
+dialog: You can never tell about a head
+text: injury. Maybe the boy's hurt.
+speaker_heading: WILLIE
+dialog: He's hurt? I'm hurt. It wasn't me
+dialog: that wrapped that car around the
+dialog: tree. It wasn't me that got drunk.
+dialog: But me, I'm takin' the rap.
+dialog: (softer, to Tom)
+dialog: Go on, kid. Get out there and play.
+dialog: Show 'em the kind of stuff a Stark
+dialog: is made of.
+speaker_heading: TOM
+dialog: (coldly)
+dialog: I wouldn't know.
+text: Enraged, Willie slaps him. Tom fights back, and Jack has to
+text: pull them apart.
+speaker_heading: JACK
+dialog: Tom... cut it out!
+speaker_heading: TOM
+dialog: (breathing heavily)
+dialog: All right, I'll play. Now get out of
+dialog: here.
+text: Camera holds on Tom as Jack and Willie leave. He picks up
+text: his uniform, stops, then rubs his head.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Football Stadium, Day
+text: Tom is on the field. He runs up to the coach.
+scene_heading: P.A. ANNOUNCER
+dialog: Stark's going in!
+text: The boos turn to cheers. The crowd applauds.
+text: Willie signals from his box to the coach. He wants Tom sent
+text: in. Tom runs out on the field and joins the team. The players
+text: are lined up, in position to play. Tom shakes his head, as
+dialog: if trying to clear it.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Football Stadium, Time Lapse
+text: The crowd yells excitedly. Tom, looking weary, gets the ball
+text: and runs with it downfield. Three players tackle him hard
+text: and fall on him. A silence falls over the stadium as he fails
+text: to get up with the others.
+text: In Willie's box, everyone is standing.
+speaker_heading: LUCY
+dialog: Tommy... Tommy... Tommy!
+text: Willie rushes out onto the field and kneels beside Tom as
+text: the doctor and stretcher bearers arrive.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Hospital Waiting Room, Night
+text: Lucy and Willie are waiting for news about Tom. Sugar Boy
+text: comes in with a paper bag and sets it on a table.
+speaker_heading: SUGAR BOY
+dialog: B-b-boss, you gotta eat. You g-g-
+dialog: gotta.
+text: Willie motions him away.
+speaker_heading: WILLIE
+dialog: I'm the one that made him play. I
+dialog: sent him in.
+speaker_heading: LUCY
+dialog: Sit down, Willie. Please sit down.
+speaker_heading: WILLIE
+dialog: I sent him in.
+speaker_heading: LUCY
+dialog: What difference does that make now?
+text: Jack comes in.
+speaker_heading: WILLIE
+dialog: What goes on?
+speaker_heading: JACK
+text: There isn't a plane flying.
+speaker_heading: WILLIE
+dialog: They gotta fly. This is my son. He's
+dialog: got to live.
+text: Adam Stanton enters.
+speaker_heading: STANTON
+dialog: I just got a call from Dr. Birnham.
+dialog: The earliest he can possibly get
+dialog: here will be tomorrow morning.
+speaker_heading: WILLIE
+dialog: Isn't there anybody else we can get?
+speaker_heading: JACK
+dialog: I still think Dr. Stanton should
+dialog: operate.
+speaker_heading: STANTON
+dialog: That's up to Governor Stark. He wanted
+dialog: another doctor... a specialist. I
+dialog: sent for one.
+speaker_heading: WILLIE
+dialog: How bad is it really, doctor?
+speaker_heading: STANTON
+text: He's unconscious... and paralyzed.
+text: Lucy slumps in her chair.
+speaker_heading: WILLIE
+dialog: Has he got a chance?
+speaker_heading: STANTON
+dialog: To live? Yes.
+speaker_heading: WILLIE
+dialog: What do you mean?
+speaker_heading: STANTON
+dialog: Even if the operation's successful --
+dialog: that is, if he lives -- I think he'll
+dialog: be paralyzed for life.
+speaker_heading: WILLIE
+dialog: You'll do everything you can, won't
+dialog: you? Anything between you and me..
+dialog: that won't count, will it? It doesn't
+dialog: have to. Look, doc, anything you
+dialog: want in the world you just ask for
+dialog: it and you got it. Go on, doc... ask
+dialog: for it.
+speaker_heading: STANTON
+dialog: (coldly)
+dialog: There are some things, Governor Stark,
+dialog: that even you can't buy. Do you want
+dialog: me to operate, or don't you?
+speaker_heading: LUCY
+dialog: Yes... I want you to operate.
+dialog: (stands up)
+dialog: Please, may I see Tom now?
+speaker_heading: STANTON
+dialog: Yes.
+text: They leave together.
+speaker_heading: WILLIE
+dialog: (to Jack)
+dialog: How much does the doc know?
+speaker_heading: JACK
+dialog: About what?
+speaker_heading: WILLIE
+dialog: Oh, you know what I'm talking about.
+speaker_heading: JACK
+dialog: About what?
+speaker_heading: WILLIE
+dialog: About Anne and me.
+speaker_heading: JACK
+dialog: (after a pause)
+dialog: He doesn't know a thing... not a
+dialog: thing.
+text: Jack turns and walks away.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Hospital, Night
+text: Anne has been waiting outside the hospital. She turns to
+text: Jack as he comes out the door.
+speaker_heading: ANNE
+dialog: Jack, how is he?
+speaker_heading: JACK
+dialog: The boy?
+speaker_heading: ANNE
+dialog: Yes.
+speaker_heading: JACK
+dialog: He'll live.
+speaker_heading: ANNE
+dialog: Oh, thank God. How is --
+speaker_heading: JACK
+dialog: Willie?
+speaker_heading: ANNE
+dialog: He blames himself, doesn't he?
+speaker_heading: JACK
+text: (as he walks down the
+dialog: street)
+dialog: He'll find someone else to blame in
+dialog: a few days.
+speaker_heading: ANNE
+dialog: (following him)
+dialog: Oh, I tried to call here at the
+dialog: hospital, but I just...
+text: They walk together, along the waterfront.
+speaker_heading: JACK
+dialog: Anne... Anne, why did you do it?
+speaker_heading: ANNE
+dialog: He wasn't like anybody I ever knew
+dialog: before.
+speaker_heading: JACK
+dialog: You mean he wasn't like me.
+speaker_heading: ANNE
+dialog: He wasn't like anybody I ever knew
+dialog: before. I love him, I guess. I guess
+dialog: that's the reason.
+speaker_heading: JACK
+dialog: Everybody loves him.
+speaker_heading: ANNE
+dialog: He wants to marry me.
+speaker_heading: JACK
+dialog: Are you going to?
+speaker_heading: ANNE
+dialog: Not now. It would hurt him. A divorce
+dialog: would hurt his career.
+speaker_heading: JACK
+dialog: His career!
+speaker_heading: ANNE
+dialog: Jack... Jack, what are you going to
+dialog: do? You can't leave him now. He needs
+dialog: you now more than he ever did before.
+speaker_heading: JACK
+dialog: What Willie needs, Willie's got.
+speaker_heading: ANNE
+dialog: You don't know him. You've known him
+dialog: all these years and you don't really
+dialog: know him at all.
+speaker_heading: JACK
+dialog: What about Adam?
+speaker_heading: ANNE
+dialog: Adam?
+speaker_heading: JACK
+dialog: Well, you don't have to worry about
+dialog: him. If Adam finds out it'll be easy
+dialog: to prove a Stanton is no different
+dialog: than anybody else.
+dialog: (gives her the papers
+dialog: on the Judge)
+dialog: Just show him these. Willie was
+dialog: right... a man is conceived in sin
+dialog: and born in corruption. Even Judge
+dialog: Stanton. Show them to him, Anne.
+dialog: Change the picture of the world that
+dialog: Adam has in his head, just like our
+text: picture of it has been changed.
+text: He grips her by the shoulders.
+speaker_heading: JACK
+dialog: Wipe out everything he's ever believed
+dialog: in. It'll be good for him. There's
+dialog: no God but Willie Stark. I'm his
+dialog: prophet and you're his...
+dialog: (pushes her aside,
+dialog: then feels sorry and
+dialog: walks after her)
+dialog: Oh, Anne... Anne, I'm sorry. I didn't
+dialog: mean... Anne!
+text: A policeman comes over.
+speaker_heading: POLICEMAN
+dialog: What's going on here?
+text: Jack catches up to Anne. He takes her arm and they start to
+text: walk back together.
+speaker_heading: JACK
+dialog: It's all right, officer... we both
+dialog: work for Willie Stark.
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+dialog: Exterior: Hospital Site, Day
+text: Willie, Anne, Adam, and Jack inspect a construction site.
+text: There are newsmen and photographers present.
+speaker_heading: WILLIE
+dialog: (to Adam)
+dialog: Right over there, that's going to be
+dialog: the main building... fifteen stories
+text: high, like on the model. Over there,
+dialog: that's the laboratory. Finest
+dialog: technical equipment in the world.
+speaker_heading: STANTON
+dialog: What are you trying to convince me
+dialog: of? I've taken the job.
+speaker_heading: WILLIE
+dialog: Why?
+speaker_heading: STANTON
+dialog: My reasons are my own. Why are you
+dialog: building a hospital?
+speaker_heading: WILLIE
+dialog: To do some good for the people of
+dialog: the state.
+speaker_heading: STANTON
+dialog: And get some votes.
+speaker_heading: WILLIE
+dialog: Oh, there are lots of ways to get
+dialog: votes.
+speaker_heading: STANTON
+dialog: Yes, I know... I won't stand for any
+dialog: interference.
+speaker_heading: WILLIE
+dialog: I won't interfere. I may fire you,
+dialog: but I won't interfere.
+speaker_heading: STANTON
+dialog: If that's a threat, you're wasting
+dialog: your time. You know what I think of
+dialog: your administration.
+speaker_heading: WILLIE
+dialog: Yes, I know. I'll tell you what...
+dialog: You stay on your side of the fence;
+dialog: I'll stay on mine. Is that a deal?
+text: They climb up onto the platform, where the newsmen gather
+text: around to take pictures. Willie and Adam shake hands.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: Now he had us all... me, Anne, and
+dialog: Adam. Now we all worked for him.
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+dialog: Interior: Projection Room, Day
+text: Willie, Jack, and Sugar Boy are watching a newsreel, similar
+text: in style to the March of Time newsreels. A producer, his
+text: assistant, and two policemen are also in the room.
+speaker_heading: NARRATOR'S VOICE
+dialog: And so the eyes of the entire nation
+dialog: are now focused upon Governor Willie
+dialog: Stark, an amazing phenomenon on the
+dialog: American political scene. The whole
+dialog: state is filled with his
+dialog: accomplishments -- each of them, of
+dialog: course, bearing his personal
+dialog: signature, to make sure that no one
+dialog: will ever forget who gave them to
+dialog: the state.
+scene_heading: MONTAGE: THE NEWSREEL
+text: Large plaque on side of the highway: THIS BRIDGE WAS BUILT
+scene_heading: DURING THE FIRST ADMINISTRATION OF GOVERNOR STARK. A TOLL
+text: BRIDGE STOOD HERE FOR FIFTY YEARS... NOW THE PEOPLE TRAVEL
+speaker_heading: FREE
+text: Camera pans to shot of the bridge.
+text: Plaque over college entrance: STARK COLLEGE... THAT EVERY
+text: MAN, WOMAN, OR CHILD, RICH OR POOR, SHALL HAVE AN EDUCATION...
+speaker_heading: WILLIE STARK
+text: Shot of library -- lettering reads WILLIE STARK LIBRARY.
+text: KNOWLEDGE BELONGS TO THE PEOPLE Shot of bad road running
+text: through dry, barren land.
+speaker_heading: NARRATOR'S VOICE
+dialog: This is the way the roads used to
+dialog: be. But there are those who claim
+dialog: that they were adequate for the
+dialog: people's needs, that you don't need
+dialog: a four- or six-lane highway for a
+text: horse and buggy.
+text: Shot of horse pulling a plow.
+text: The empty, untraversed STARK HIGHWAY.
+speaker_heading: NARRATOR'S VOICE
+dialog: When Stark boasts of his great school
+dialog: system, his critics say: you can't
+dialog: go to school and work in the fields
+dialog: at the same time. And they question
+dialog: the benefit of these projects,
+dialog: charging that the need and the poverty
+dialog: of the people is as great as before.
+text: Shot of large school. Camera cuts to men working in the field,
+text: then to ramshackle barn, and to a farmer walking across his
+text: rotted cornfield.
+speaker_heading: NARRATOR'S VOICE
+dialog: Willie Stark has never forgotten the
+dialog: source of his power: the people who
+dialog: supported him.
+text: Willie talking to the farmers.
+speaker_heading: NARRATOR'S VOICE
+dialog: He still keeps in touch with these
+dialog: people of the backwoods, making
+dialog: periodic trips to such places as
+dialog: Kanoma City, now famous as his
+dialog: birthplace...
+text: Willie's official car and escort speeding through a street.
+text: Sign reads: KANOMA CITY, BIRTHPLACE OF WILLIE STARK
+text: Shot of Willie having his picture taken with Lucy and Pappy
+text: on the porch of the old farm.
+text: Willie mending the fence on the farm. Willie feeding the
+dialog: pigs.
+speaker_heading: NARRATOR'S VOICE
+dialog: For those who say that Willie Stark
+dialog: is a man of destiny, there are others
+text: who claim that he is a man of evil,
+dialog: a man who cares neither for the people
+dialog: nor the state, but only for his own
+dialog: personal power and ambition.
+text: Willie making a speech to a huge crowd of cheering people.
+text: Willie inspecting his police force.
+text: Willie pounding the desk in the state legislature.
+speaker_heading: NARRATOR'S VOICE
+dialog: Obviously, these ambitions go far
+text: beyond the boundaries of the state.
+dialog: Just how far, only time will tell.
+dialog: Meanwhile, he is here...
+text: Big close-up of Willie as he delivers a speech.
+speaker_heading: NARRATOR'S VOICE
+dialog: ...and from the looks of things, he
+dialog: is here to stay. Willie Stark: messiah
+dialog: or dictator?
+text: The picture goes off and the lights in the room come on.
+speaker_heading: PRODUCER
+dialog: How do you like it, Governor?
+text: Willie stands and faces the producer.
+speaker_heading: WILLIE
+dialog: How many theaters will this play in?
+speaker_heading: PRODUCER
+dialog: All over the country.
+speaker_heading: WILLIE
+dialog: Hear that, Jack. All over the country.
+text: They start to leave. Willie stops for a moment.
+speaker_heading: WILLIE
+dialog: Oh, there's one thing in there I
+dialog: didn't like too well. That messiah
+dialog: or dictator.
+speaker_heading: PRODUCER
+dialog: That's our point of view, Governor.
+dialog: And that's the way it stands.
+text: There is a silence. Willie's face is hard. Then he grins.
+speaker_heading: WILLIE
+dialog: All right, all right, that's the way
+dialog: it stands... as of now.
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+speaker_heading: NEWSPAPER HEADLINE
+scene_heading: STARK BEGINS RE-ELECTION CAMPAIGN
+text: STATEWIDE TOUR STARTS WITH VISIT TO KANOMA CITY
+speaker_heading: DISSOLVE TO:
+scene_heading: EXTERIOR: STARK FARMHOUSE, DAY
+text: Tom and Pappy Stark are seated on the porch. Tom is in a
+text: wheelchair. Lucy comes onto the porch as the sound of sirens
+text: is heard, and Willie's two cars, motorcycle escort, and the
+text: car of reporters turn onto the drive. Tom, upset, flips his
+text: cigarette away as the cars stop in front of the porch. Lucy
+text: puts her hand on his shoulder to calm him. Then Willie climbs
+text: up the steps to greet Lucy.
+speaker_heading: WILLIE
+dialog: Hello, Lucy... How are you making
+dialog: it, Pa?... How are you, Tom?
+text: Tom doesn't answer. Lucy offers her cheek to Willie. Sadie,
+text: Jack, and Sugar Boy wait at the bottom of the steps, along
+dialog: with the reporters.
+speaker_heading: LUCY
+dialog: I made some refreshments for your
+dialog: friends. I'll get them.
+speaker_heading: SADIE
+dialog: I'll help.
+speaker_heading: LUCY
+dialog: (firmly)
+dialog: No, thank you. Thank you kindly.
+speaker_heading: JACK
+dialog: If you don't mind, Mrs. Stark... the
+dialog: boys have to get back to make the
+dialog: morning editions.
+dialog: (to photographers)
+dialog: Set 'em up on the porch, fellows.
+dialog: We'll take some pictures out here,
+dialog: first.
+text: He starts arranging the family for the picture.
+speaker_heading: JACK
+dialog: Mrs. Stark, please... All right,
+dialog: fellows, take one down there, will
+dialog: you please... Shoot it up this way.
+text: The cameras click.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Stark Farmhouse, Night
+text: Willie is finishing his meal, seated at the table with his
+text: family and Jack. Sugar Boy stands behind Willie. Sadie has
+text: left the table and is examining the room.
+speaker_heading: WILLIE
+dialog: (on the last bite)
+dialog: You're still a great cook, Lucy.
+dialog: Great cook.
+dialog: (gets up)
+dialog: Well, I guess I better be getting
+dialog: back to town. Nice to have spent the
+dialog: day with the family.
+dialog: (kisses Lucy on the
+dialog: forehead)
+dialog: Goodbye, Lucy.
+text: (extends his hand to
+dialog: Tom)
+dialog: Tom.
+speaker_heading: TOM
+dialog: (ignores the gesture)
+dialog: Goodbye.
+speaker_heading: WILLIE
+dialog: Take care of yourself, Pappy. Oh,
+dialog: uh... how do you like the new radio
+dialog: I got you?
+dialog: (walks over to it)
+dialog: You know how it works? You can get
+dialog: police calls on it. Come here, come
+dialog: here... I'll show you.
+text: Pappy leans over as Willie demonstrates how it works.
+speaker_heading: WILLIE
+dialog: This one for police calls up here.
+text: He turns the dial.
+speaker_heading: POLICE BROADCAST
+dialog: Car sixty-two, proceed to five-
+text: eighteen Oak Street. Tom Jones beating
+dialog: his wife again.
+text: Pappy laughs delightedly. He reaches out to turn the dial.
+speaker_heading: WILLIE
+dialog: All right, go ahead, go ahead.
+speaker_heading: ANNOUNCER'S VOICE
+dialog: We interrupt this program to bring
+dialog: you a special announcement. This
+text: afternoon, the body of Richard Hale,
+dialog: father of the girl who died in the
+dialog: automobile accident involving the
+text: governor's son, was found. A medical
+dialog: examination revealed he was beaten
+dialog: to death.
+text: Tom starts to wheel toward Willie, but Lucy restrains him.
+speaker_heading: ANNOUNCER'S VOICE
+dialog: The ugly charge of "official murder"
+dialog: has been hurled at the administration
+text: by a coalition of Stark's opponents,
+dialog: led by Judge Stanton, lately an
+dialog: outspoken critic of the
+dialog: administration.
+speaker_heading: WILLIE
+dialog: (to Jack)
+dialog: Your friend, the Judge.
+speaker_heading: ANNOUNCER'S VOICE
+dialog: Thus an almost forgotten incident
+dialog: provided the spark that might set
+dialog: off the explosion needed to rock
+text: Willie Stark out of power. The latest
+dialog: report is that impeachment proceedings
+dialog: may be instituted...
+text: Willie turns off the radio. There is a silence. Then Willie
+text: turns to Lucy.
+speaker_heading: WILLIE
+dialog: How long will it take you to pack? I
+dialog: want you to go back to Capital City
+dialog: with me tonight.
+speaker_heading: LUCY
+dialog: Why?
+speaker_heading: WILLIE
+dialog: Because I need you.
+speaker_heading: TOM
+dialog: What for?
+speaker_heading: WILLIE
+dialog: (still speaking to
+dialog: Lucy)
+dialog: I'll explain all of that later. Now,
+dialog: Lucy, do like I say.
+speaker_heading: JACK
+dialog: I'll wait outside.
+speaker_heading: WILLIE
+dialog: You stay right here, Jack. I want
+dialog: you bear witness to what I've got to
+dialog: say.
+speaker_heading: LUCY
+dialog: (indicating Sadie)
+dialog: She can be a witness too.
+speaker_heading: SADIE
+dialog: (starting toward the
+dialog: door)
+dialog: I'm going back to the capital and
+dialog: get hold of Duffy.
+speaker_heading: WILLIE
+dialog: You stay right here, Sadie.
+speaker_heading: SADIE
+dialog: Somebody's got to go back to the
+dialog: capital. I'll go in the other car.
+speaker_heading: WILLIE
+dialog: All right, then tell Duffy not to do
+dialog: anything or say anything until I get
+dialog: there.
+speaker_heading: SADIE
+dialog: Yes, Governor.
+text: She leaves.
+speaker_heading: TOM
+dialog: Now he needs us. Now that he's in
+dialog: trouble he needs us, so he can lead
+text: us around like monkeys with rings in
+dialog: our noses. So he can say to people,
+dialog: look at me, feel sorry for me...
+text: just a family man with a wife and a
+dialog: crippled son...
+speaker_heading: WILLIE
+dialog: (shouts)
+dialog: Shut up!
+speaker_heading: LUCY
+dialog: Willie!
+speaker_heading: TOM
+dialog: Why don't you leave us alone?
+text: Tom wheels himself into his own room. Lucy starts to follow.
+speaker_heading: WILLIE
+dialog: Leave him alone. How many scrapes
+dialog: have I gotten him out of? How many
+dialog: girls?
+speaker_heading: LUCY
+dialog: Willie, stop.
+speaker_heading: WILLIE
+dialog: It's not him they're after. It's me.
+dialog: How many halfwitted apes do you think
+dialog: I'm going to have to pay to square
+dialog: this one? What do you think this is
+dialog: going to cost me?
+speaker_heading: LUCY
+dialog: What do you think it cost him?
+text: Suddenly Willie turns his face away.
+speaker_heading: WILLIE
+dialog: (in a broken voice)
+dialog: A man builds for his son. That's all
+dialog: he builds for.
+speaker_heading: LUCY
+dialog: Willie!
+dialog: (turns and goes into
+dialog: Tom's room)
+dialog: Tom... Tom.
+text: Willie looks up at Jack and Pappy.
+speaker_heading: WILLIE
+dialog: Give me a drink, Jack.
+text: Jack hands him a bottle and he takes a slug.
+speaker_heading: WILLIE
+dialog: She'll go.
+text: Pappy shakes his head.
+speaker_heading: PAPPY
+dialog: No good, Willie. No good.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Stark Farmhouse, Night
+text: Pappy stays behind on the porch as Tom is carried in his
+text: wheelchair down the steps and into Willie's car. Lucy follows.
+text: The motorcycle escort leads them away from the farm.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Highway, Night
+text: As the cars speed to Capital City.
+dialog: Interior: State Legislature, Night
+text: There is great excitement in the assembly room. One senator
+text: steps forward and addresses the speaker of the house.
+speaker_heading: SENATOR
+dialog: Mr. Speaker, I offer a house
+dialog: resolution. Whereas Willie Stark,
+dialog: governor of this state, has been
+dialog: guilty of incompetence, corruption,
+dialog: and favoritism in office -- yes, and
+dialog: other high crimes -- that he is hereby
+dialog: impeached, and ordered to be tried
+dialog: by the senate.
+text: His resolution is met with a mixture of cheers and boos.
+dialog: Exterior: State Capitol, Night
+text: A huge crowd is gathered outside. Pillsbury, Sadie, and Duffy,
+text: waiting with the crowd, step forward as they see Willie's
+text: car approach. Newsmen take pictures as Willie gets out of
+dialog: the car.
+speaker_heading: WILLIE
+dialog: (as he meets Duffy)
+dialog: What's the score?
+speaker_heading: DUFFY
+dialog: They're lined up against you solid.
+dialog: They had a meeting.
+speaker_heading: WILLIE
+dialog: How do you know? Were you there?
+speaker_heading: DUFFY
+dialog: Me? What would I be doing there?
+speaker_heading: WILLIE
+dialog: Selling me out.
+text: He starts up the steps of the building.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Willie's Executive Offices, Night
+speaker_heading: WILLIE
+dialog: How many votes have we got?
+speaker_heading: SADIE
+dialog: (going through some
+dialog: files)
+dialog: Eleven.
+speaker_heading: WILLIE
+dialog: We need twenty.
+speaker_heading: DUFFY
+dialog: We might be able to dig up a few
+dialog: more.
+speaker_heading: WILLIE
+dialog: Yeah. Do you know how?
+speaker_heading: DUFFY
+dialog: No.
+text: Willie turns to Jack.
+speaker_heading: WILLIE
+dialog: Oh, Jack. Come here. What have you
+dialog: got in your black book about that
+dialog: old friend of yours?
+speaker_heading: JACK
+dialog: Who do you mean?
+speaker_heading: WILLIE
+dialog: You know who I'm talking about...
+dialog: your old friend, the Judge.
+speaker_heading: JACK
+dialog: If and when you need it.
+speaker_heading: WILLIE
+dialog: If and when? I need it right now.
+dialog: He's got four senators wrapped up in
+dialog: his hip pocket. Come on, come on,
+dialog: boy... what have you got?
+speaker_heading: JACK
+dialog: I'm going to give him a break. If he
+dialog: can prove it isn't true, I won't
+dialog: spill it.
+speaker_heading: WILLIE
+dialog: I ought to bust you, Jack.
+speaker_heading: JACK
+dialog: I promised two people I'd do it this
+dialog: way.
+speaker_heading: WILLIE
+dialog: Who are they?
+speaker_heading: JACK
+dialog: Myself... and someone else. It doesn't
+dialog: matter who. I'm going to give him a
+dialog: break.
+speaker_heading: WILLIE
+dialog: All right, give him a break. But if
+dialog: you got the facts, you got the facts.
+dialog: The truth is sufficient... just like
+text: it says in the Bible.
+speaker_heading: JACK
+dialog: That's the way it's going to be.
+speaker_heading: WILLIE
+dialog: All right, boy... I'll trust you.
+dialog: Where are you going?
+speaker_heading: JACK
+dialog: (on his way out)
+dialog: I'll be around.
+text: Willie turns to go into his private office.
+speaker_heading: SADIE
+dialog: Who else do you think he promised,
+dialog: Willie?
+text: Willie shrugs.
+speaker_heading: SADIE
+dialog: You'd be smart... play square with
+dialog: him. You're going to need people
+dialog: like us around.
+speaker_heading: WILLIE
+text: (as he shuts his door)
+dialog: Are you sure?
+speaker_heading: DISSOLVE TO:
+scene_heading: MONTAGE: THE IMPEACHMENT
+text: Willie's car speeding down a road.
+text: Willie, with Lucy and Tom seated behind him, addressing crowd.
+text: Willie speaking from the back of a train to a railroad station
+dialog: audience.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: The chips were down, and Willie knew
+dialog: it. He was fighting for his life. He
+dialog: roared across the state making one
+dialog: speech after another. And all of
+dialog: them added up to the same thing...
+dialog: "It's not me they're after, it's
+dialog: you!"
+text: Close-ups of Willie, speaking to the people.
+speaker_heading: JACK
+dialog: (voice over)
+text: Willie hollered foul. Willie knew if
+dialog: you hollered long enough, hard enough,
+text: and loud enough, people begin to
+dialog: believe you. Just in case they didn't,
+dialog: he organized spontaneous
+dialog: demonstrations.
+text: Sign on back of a car: FIGHT WITH WILLIE
+text: Crowds carrying signs: WIN WITH WILLIE
+text: Willie talking on the telephone. Sadie listens.
+speaker_heading: WILLIE
+dialog: Tell the boys to get the hicks out.
+dialog: Bring 'em in from the sticks, empty
+dialog: the pool halls. Turn 'em out. Turn
+text: the yokels out.
+text: More men with WIN WITH WILLIE signs. Man directing crowd
+text: from top of bus. Other bus loads of people are seen, all of
+text: them bearing signs.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: In case anyone hollered back, he
+text: organized spontaneous slugging. Willie
+dialog: pulled every trick he ever knew --
+dialog: and added a few more.
+text: Crowd looks on as two uniformed police drag a man away.
+text: Willie's car waiting. Two thugs talk things over with a man
+text: on his doorstep.
+text: Willie discussing matters with a man in his office. Two cops
+text: stand with him.
+text: Willie and Jack in the car. Sugar Boy drives. It is night.
+text: Sugar Boy drives fast, and has to swerve to avoid colliding
+text: with a truck.
+speaker_heading: JACK
+dialog: Hey, Sugar!
+dialog: (To Willie)
+dialog: You'll never live to be impeached!
+speaker_heading: WILLIE
+dialog: Boy, I'll live to be President...
+text: Jack and Sugar wait in the car as Willie leans out the car
+text: window to talk to a senator. He offers the man a piece of
+dialog: paper.
+speaker_heading: WILLIE
+dialog: I've got fourteen senators to vote
+dialog: against impeachment. If I win, you're
+dialog: out of politics.
+speaker_heading: SENATOR
+dialog: (refuses to sign)
+dialog: I'll do whatever the Judge says.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Highway, Night
+text: Willie's car, as it races down the highway.
+speaker_heading: JACK
+dialog: (voice over)
+dialog: And always the trail led to one
+dialog: place... Burden's Landing... and the
+dialog: Judge.
+dialog: Exterior: Ferry to Burden's Landing, Night
+text: Willie's car coming across on the ferry.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Stanton Home, Night
+text: As Willie's car stops and they all get out.
+speaker_heading: WILLIE
+dialog: You sure you don't want me to go in
+dialog: with you?
+speaker_heading: JACK
+dialog: I'm sure.
+speaker_heading: WILLIE
+dialog: Well, hurry it up, boy. We've got
+dialog: places to go.
+text: Jack goes into the house alone.
+speaker_heading: DISSOLVE TO:
+dialog: Interior: Judge Stanton's Study, Night
+text: Jack and the Judge are seated opposite each other.
+speaker_heading: JACK
+dialog: Judge, I beg you, as a favor to
+dialog: yourself, to me... call up, release
+dialog: your votes.
+speaker_heading: JUDGE
+dialog: I made a mistake once, Jack... when
+dialog: I resigned. It was too easy then,
+dialog: just resigning, pulling out. No,
+dialog: Jack, I've made my choice. I have
+dialog: nothing more to lose.
+speaker_heading: JACK
+dialog: Judge, you know what Stark is capable
+dialog: of. Think it over. I'll leave now.
+dialog: I'll come back tomorrow and we'll
+dialog: talk about it again. You can give me
+dialog: your answer then.
+text: The door opens and Willie and Sugar Boy enter.
+speaker_heading: WILLIE
+dialog: I can't wait until tomorrow. I'm a
+dialog: very impatient man.
+speaker_heading: JACK
+dialog: (rising)
+dialog: I told you not to come in here.
+speaker_heading: WILLIE
+dialog: (ignoring him)
+dialog: Is it true, Judge, that you're behind
+dialog: the impeachment proceedings?
+speaker_heading: JUDGE
+dialog: Yes, it's true.
+text: Willie takes a seat in an easy chair.
+speaker_heading: WILLIE
+dialog: I wanted to hear you say it with
+dialog: your own silver tongue.
+speaker_heading: JUDGE
+dialog: Well, you've heard it. If that's all
+dialog: you came to hear you could have saved
+dialog: yourself a trip.
+text: Willie picks up a decanter off the table.
+speaker_heading: WILLIE
+dialog: Mind if I pour myself a drink? How
+dialog: about you, Judge, will you have one?
+dialog: You better... You're going to need
+dialog: it.
+text: Jack and Judge Stanton remain standing, silently watching
+dialog: Willie.
+speaker_heading: WILLIE
+dialog: What'd he say, Jack?
+speaker_heading: JACK
+dialog: You'll get your answer tomorrow.
+speaker_heading: WILLIE
+dialog: Are you kidding? Did you show it to
+dialog: him, or didn't you?
+speaker_heading: JUDGE
+dialog: Show me what?
+speaker_heading: WILLIE
+dialog: That's what I figured. Let's get
+dialog: down to cases, Judge. Do you remember
+dialog: a man with the name of Littlepaugh?
+text: The Judge shakes his head. He doesn't.
+speaker_heading: WILLIE
+dialog: Remember the Fortune Electric Company?
+speaker_heading: JUDGE
+dialog: Of course. I was their counsel for
+dialog: over ten years.
+speaker_heading: WILLIE
+dialog: Remember how you got the job?
+speaker_heading: JACK
+dialog: How did you find out?
+speaker_heading: WILLIE
+dialog: (hands the Judge some
+dialog: papers)
+dialog: Do you remember how you got the job?
+text: The Judge examines the papers.
+speaker_heading: WILLIE
+dialog: You know, Judge, dirt's a funny thing.
+dialog: Some of it rubs off on everybody.
+dialog: How did you get the job, Judge?
+dialog: Blackmail?
+speaker_heading: JUDGE
+dialog: (to Jack)
+dialog: I swear I never even remembered his
+dialog: name. Isn't that remarkable, Jack? I
+dialog: never even remembered his name. It's
+dialog: all so long ago it's hard for me to
+dialog: realize it ever happened.
+speaker_heading: WILLIE
+dialog: Yeah. But it did.
+speaker_heading: JUDGE
+dialog: Yes, it did. But it's difficult for
+dialog: me to realize it.
+speaker_heading: JACK
+dialog: For me too, Judge.
+speaker_heading: JUDGE
+dialog: Thanks for that much.
+speaker_heading: WILLIE
+dialog: Well, I guess you know what the next
+dialog: move is, don't you?
+speaker_heading: JUDGE
+dialog: Yes, I do. Jack Burden. Willie Stark's
+dialog: hatchet man.
+speaker_heading: JACK
+dialog: (to Willie)
+dialog: I asked you... how did you find out?
+speaker_heading: JUDGE
+dialog: This would never stand at law, not
+dialog: for a minute. It happened over twenty-
+dialog: five years ago, and you could never
+dialog: get any testimony. Everybody is dead.
+speaker_heading: WILLIE
+dialog: Everybody except you, Judge. You're
+dialog: alive. And people think you're a
+dialog: certain kind of man. And you just
+dialog: couldn't bear for people to think
+dialog: otherwise.
+speaker_heading: JUDGE
+dialog: Ever since then I... I've done my
+dialog: duty. I... I'm responsible for many
+dialog: good things.
+dialog: (looks at the papers
+dialog: again)
+dialog: But I also did this.
+speaker_heading: WILLIE
+dialog: Yes, yes, you did.
+speaker_heading: JACK
+dialog: Judge, I beg of you, call and release
+dialog: your votes, for your sake.
+speaker_heading: JUDGE
+dialog: You have tender sensibilities for a
+dialog: hatchet man.
+dialog: (goes to the door)
+dialog: Good night, gentlemen.
+speaker_heading: WILLIE
+dialog: How about my answer?
+speaker_heading: JUDGE
+dialog: You'll have it in the morning.
+speaker_heading: WILLIE
+dialog: I want it tonight.
+speaker_heading: JUDGE
+dialog: In the morning. Good night, gentlemen.
+text: There is silence. Then the three men get up to go. The Judge
+text: closes the door behind them.
+dialog: Interior: Stanton Hallway, Night
+text: As the three men walk to the front door.
+speaker_heading: JACK
+dialog: How did you find out?
+speaker_heading: WILLIE
+dialog: We've got a lot to do. It's getting
+dialog: late, Jack. Let's get back to town.
+speaker_heading: JACK
+dialog: You know we're through, don't you?
+speaker_heading: WILLIE
+dialog: Aw, you don't mean that, boy.
+text: The front door opens, and Adam and Anne come in.
+speaker_heading: STANTON
+dialog: What are you doing here?
+speaker_heading: WILLIE
+dialog: It's all right, doc. Just here to
+text: discuss some politics with the Judge.
+speaker_heading: STANTON
+dialog: Oh, I see.
+dialog: (starts upstairs)
+dialog: Well, good night.
+speaker_heading: WILLIE
+dialog: Good night.
+speaker_heading: JACK
+dialog: (to Anne)
+dialog: Did you give him --
+speaker_heading: WILLIE
+dialog: Wait a minute, Jack --
+speaker_heading: JACK
+dialog: Answer me. Did you give --
+text: A shot is fired. They turn and rush into the Judge's study.
+text: They find the Judge face downward in his leather chair. Adam
+text: and Jack kneel beside him. Willie, holding on tightly to
+text: Anne's arm, stands in the doorway. Jack picks up the Judge's
+text: pistol and looks at Adam.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: Stanton Home, Night
+text: Jack comes out of the house, followed by Anne and Adam.
+speaker_heading: STANTON
+dialog: Aren't you going back with him?
+speaker_heading: JACK
+dialog: No.
+speaker_heading: STANTON
+dialog: Why not? You belong with him. Jack,
+dialog: how could you have done it? When
+dialog: Anne brought me those papers she
+dialog: told me you promised not to tell
+dialog: Stark until...
+speaker_heading: JACK
+dialog: Yeah. I know.
+dialog: (walks away)
+dialog: Well, I kept my promise.
+text: Adam looks unbelievingly at Anne. She looks away.
+speaker_heading: STANTON
+dialog: Anne? Anne?
+speaker_heading: FADE OUT
+speaker_heading: FADE IN:
+dialog: Interior: Jack's Hotel Room (State Capital), Day
+text: Jack looks out the window. A portable radio is blaring out
+dialog: the news.
+speaker_heading: ANNOUNCER'S VOICE
+dialog: From all over the state they're
+text: streaming in. From the hill country
+dialog: and farms, the lumber camps... by
+text: boat, by train, by horse, and on
+text: foot. Willie Stark's army.
+text: Through Jack's window we see the street blocked with cars
+text: and people, all headed for the State Capitol Building. Anne
+text: is in the crowd, trying to get across the street. Seeing
+text: Jack in the window, she pushes her way across and enters the
+text: hotel. He slams the window shut and comes back into the room.
+speaker_heading: ANNOUNCER'S VOICE
+text: The state capital is filled with
+dialog: rumors, one of which is that Stark
+text: is planning to seize power by force.
+dialog: As commander of the state militia,
+dialog: he has --
+text: Jack turns it off. He goes over to his bed and starts putting
+text: clothes into a valise. There is a knock on the door. He
+text: ignores it. Another knock.
+speaker_heading: JACK
+dialog: Come in. The door's open.
+text: Anne enters.
+speaker_heading: ANNE
+dialog: Jack...
+speaker_heading: JACK
+dialog: What do you want?
+text: She starts to cry. He grabs her, pulling her face close to
+dialog: his.
+speaker_heading: JACK
+dialog: (bitterly)
+dialog: No, I want to see you cry.
+text: He lets her go and she falls to the bed, sobbing.
+speaker_heading: JACK
+dialog: Stop it!
+speaker_heading: ANNE
+dialog: I called you. All afternoon I've
+dialog: been calling you.
+speaker_heading: JACK
+dialog: I know. I was here.
+speaker_heading: ANNE
+dialog: You've got to tell Adam. You've got
+dialog: to see him.
+speaker_heading: JACK
+dialog: Tell him what?
+speaker_heading: ANNE
+dialog: He knows about me and...
+speaker_heading: JACK
+dialog: About you and Willie?
+speaker_heading: ANNE
+dialog: (nods)
+dialog: I tried to explain to him. I... I
+dialog: tried to explain to him that it wasn't
+dialog: the way he thought it was.
+speaker_heading: JACK
+dialog: How was it, Anne? You tell me.
+speaker_heading: ANNE
+dialog: He hit me, Jack. My own brother...
+dialog: he hit me.
+speaker_heading: JACK
+dialog: Your brother is an old-fashioned
+dialog: man. He believes in his sister's
+dialog: honor. Me, I'm a modern man.
+text: (slams clothes into
+dialog: the valise)
+dialog: The twentieth-century type. I run.
+speaker_heading: ANNE
+dialog: (rises)
+dialog: I'm frightened, Jack.
+speaker_heading: JACK
+dialog: For who? Your brother, or Willie?
+speaker_heading: ANNE
+dialog: (quietly)
+dialog: We're through.
+speaker_heading: JACK
+dialog: Who's through with who?
+speaker_heading: ANNE
+dialog: He called me this afternoon. He's
+dialog: going back to Lucy. He said it was
+dialog: better that way.
+speaker_heading: JACK
+dialog: Better for who? Him.
+speaker_heading: ANNE
+dialog: Both of us.
+speaker_heading: JACK
+dialog: Did he tell you that too when he
+dialog: asked you to betray the Judge? At
+dialog: least I walked out on him.
+speaker_heading: ANNE
+dialog: Oh Jack... help me, please, please.
+dialog: Adam's all I've got left now. Oh,
+dialog: Jack, if you ever loved me...
+speaker_heading: JACK
+dialog: If I ever loved you.
+dialog: (pause)
+dialog: I'll go find Adam.
+text: He takes up his coat.
+speaker_heading: DISSOLVE TO:
+scene_heading: EXTERIOR: HOSPITAL SITE, DAY
+text: A large billboard. It reads HERE ON THIS SITE WILL BE ERECTED
+scene_heading: THE GOVERNOR STARK HOSPITAL -- TO HEAL SICKNESS -- TO EASE
+scene_heading: PAIN -- FREE. NOT AS A CHARITY BUT AS A RIGHT. WILLIE STARK
+text: Adam enters, looks at the sign, and walks on.
+dialog: Exterior: Street Near Capitol Building, Day
+text: Crowds of people headed toward the building, some with WIN
+text: WITH WILLIE signs. A marching band plays music for them.
+dialog: Exterior: Capitol Building, Day
+text: Crowd waiting outside the building. Mounted policemen keep
+text: them in line. From a large platform, loaded with people,
+text: comes the chant "We want Willie, we want Willie." Jack pushes
+text: his way through the people and speaks to a policeman standing
+text: guard on the Capitol steps.
+speaker_heading: COP
+dialog: Where do you think you're going?
+dialog: (recognizes Jack)
+dialog: Oh, I'm sorry. I didn't recognize
+dialog: you.
+speaker_heading: JACK
+dialog: Do you know who Dr. Stanton is?
+speaker_heading: COP
+dialog: Yes sir.
+speaker_heading: JACK
+dialog: Did he try to come through here today?
+speaker_heading: COP
+dialog: Haven't seen him, sir.
+speaker_heading: JACK
+dialog: Well, can you check the other
+dialog: entrances?
+speaker_heading: 2ND COP
+text: There's no other entrances today.
+text: The other entrances are blocked off.
+dialog: Orders are to take no chances.
+speaker_heading: COP
+dialog: If you care to come inside and wait,
+dialog: Mr. Burden, we can find you a seat.
+speaker_heading: JACK
+dialog: No, thanks. I'll wait out here. If
+dialog: Dr. Stanton shows up, let me know.
+dialog: Pass the word along to the boys,
+dialog: will you?
+speaker_heading: COP
+dialog: Yes sir.
+text: Jack turns and looks at the large crowd. A voice from a public
+text: address loudspeaker begins to yell out commands to the crowd.
+speaker_heading: LOUDSPEAKER
+dialog: All right now. Everybody... that
+dialog: means everybody... let's let Willie
+dialog: know we're here! All together: WE
+text: WANT WILLIE. WE WANT WILLIE.
+text: The chant is picked up enthusiastically by the crowd.
+dialog: Interior: State Legislature, Day
+text: The speaker is trying to speak over the clamor of the
+text: chanting.
+speaker_heading: SPEAKER
+dialog: We will first proceed to take the
+dialog: judgment of the senate on the question
+dialog: of the impeachment of the governor.
+speaker_heading: SENATOR
+dialog: (rising)
+dialog: Mr. Speaker, this is a farce to ask
+dialog: us to vote in the face of the kind
+dialog: of intimidation and pressure that
+dialog: has been exerted here in the past
+dialog: few weeks. Even that crowd outside,
+dialog: yelling on cue, is part of that
+dialog: pressure.
+speaker_heading: CROWD NOISE
+dialog: We want Willie. We want Willie.
+text: Willie gets up, and goes to the window.
+dialog: Exterior: State Capitol, Day
+text: The crowd, with Jack in the foreground. The crowd suddenly
+text: goes wild as they see Willie appear at the window. In the
+text: growing darkness he seems only a shadowy figure as he raises
+text: his hands to wave to the crowd.
+text: We see various shots of people straining to get a little
+text: closer to the steps in order to see him better. Willie then
+text: turns and goes back into the room.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: State Capitol, Day
+text: The crowd again, still waiting. The camera pans upward to a
+text: loudspeaker.
+speaker_heading: ANNOUNCER
+dialog: Attention, please. Attention, please.
+dialog: This is a special announcement from
+dialog: Willie Stark to you people out there.
+dialog: He doesn't want any one of you to
+dialog: leave...
+text: The camera moves over the faces of the people listening.
+speaker_heading: ANNOUNCER
+dialog: He wants you to stay in front of
+dialog: this state Capitol until the fight
+dialog: is over. If you want Willie Stark to
+dialog: win, stay where you are.
+text: They cheer. Camera picks up Jack watching the crowd's
+text: reaction, then up to a plaque over the entrance to the Capitol
+text: Building. It reads THE PEOPLE'S WILL IS THE LAW OF THIS STATE --
+scene_heading: GOVERNOR STARK.
+speaker_heading: ANNOUNCER
+dialog: Do you hear me... stay where you
+dialog: are. Don't go away. Stay where you
+dialog: are. Don't go away.
+speaker_heading: DISSOLVE TO:
+dialog: Exterior: State Capitol, Night
+text: Newsmen, photographers stand about, bored. The crowd, every
+text: bit as large, is quiet but expectant. Everyone holds still
+text: as the announcer's voice is heard again.
+speaker_heading: ANNOUNCER
+dialog: Attention, please. Attention, please.
+dialog: The balloting on the impeachment
+dialog: proceedings against Governor Stark
+dialog: has just ended. This is the result:
+dialog: Willie Stark has won.
+text: The crowd explodes. People break through the police barriers.
+text: Mounted policemen ride in quickly to prevent a riot. Camera
+text: picks up Anne in the crowd, trying to push through.
+text: Jack stands on the steps of the Capitol, watching it all.
+text: Suddenly Willie appears at the top of the steps, followed by
+text: Sugar Boy. Sadie, Duffy, Pillsbury follow close behind. Willie
+text: grabs hold of the mike and addresses the suddenly hushed
+dialog: crowd.
+speaker_heading: WILLIE
+dialog: They tried to ruin me. But they are
+dialog: ruined. They tried to ruin me because
+dialog: they did not like what I have done.
+dialog: Do you like what I have done?
+text: Loud applause, and cries of "yes."
+speaker_heading: WILLIE
+dialog: Remember, it's not I who have won,
+dialog: but you. Your will is my strength,
+dialog: and your need is my justice, and I
+dialog: shall live in your right and your
+dialog: will. And if any man tries to stop
+dialog: me from fulfilling that right and
+dialog: that will, I'll break him. I'll break
+dialog: him with my bare hands. For I have
+dialog: the strength of many.
+text: Having finished, he waves at them all. Then he notices Jack
+text: and comes down the steps to greet him.
+speaker_heading: WILLIE
+dialog: Hello, Jack boy, I'm glad you're
+dialog: here. I knew you'd come back.
+text: He walks back up the steps, his arm around Jack's shoulders.
+text: They start to go into the building that way when Willie sees
+text: someone. He smiles and puts out his hand.
+speaker_heading: WILLIE
+dialog: Oh, doctor, I'm very glad to see
+dialog: you.
+text: Adam is seen, waiting at the entrance of the building. Before
+text: Willie has taken a step Adam fires several shots into him.
+text: Willie falls to the ground and Sugar Boy whips out his pistol
+text: and fires at Adam. Three policemen with tommy guns open fire,
+text: shooting into Adam's already fallen body. Then they turn and
+text: point their guns at the mob of people rushing toward Willie,
+dialog: forcing them back.
+speaker_heading: COP
+dialog: Stand back, everybody. Stand back.
+text: Sugar Boy kneels beside Willie. Sadie stands against a pillar,
+text: looking down on him.
+speaker_heading: SUGAR BOY
+dialog: (nearly crying)
+dialog: D-does it hurt m-much, boss? D-d-
+dialog: does it hurt much?
+text: Jack looks up to see Anne struggling through the screaming
+text: mob to get to Adam. She looks at Adam for a moment, then
+text: turns away.
+speaker_heading: JACK
+dialog: Anne, Anne... Where are you going?
+text: She doesn't answer, only walks away. He runs after her and
+text: catches hold of her arm.
+speaker_heading: ANNE
+dialog: I don't know. Leave me alone.
+speaker_heading: JACK
+dialog: To do what?
+speaker_heading: ANNE
+dialog: I don't care.
+speaker_heading: JACK
+dialog: No, that's too easy.
+speaker_heading: ANNE
+dialog: I don't know, I don't know, I don't
+dialog: know.
+speaker_heading: JACK
+dialog: I do.
+speaker_heading: ANNE
+dialog: Leave me alone, please.
+speaker_heading: JACK
+dialog: No, no more.
+speaker_heading: ANNE
+text: He's dead.
+speaker_heading: JACK
+dialog: We're alive.
+speaker_heading: ANNE
+dialog: My brother's dead.
+speaker_heading: JACK
+dialog: We've got to go on living.
+speaker_heading: ANNE
+dialog: How?
+speaker_heading: JACK
+dialog: So that Adam's death has meaning, so
+dialog: that it wasn't wasted. Anne, our
+dialog: life has to give his death meaning.
+dialog: Don't you see that? Look at those
+dialog: people...
+text: He turns her around so that she can see the crowds still
+text: struggling to get a look at Willie.
+speaker_heading: JACK
+dialog: Look at them! They still believe in
+dialog: him. And we've got to make them see
+dialog: Willie the way Adam saw him, or
+dialog: there's no meaning in anything...
+dialog: anything.
+text: A policeman approaches.
+speaker_heading: POLICEMAN
+dialog: Mr. Burden... the governor's asking
+dialog: for you. You better hurry. He's going
+dialog: fast.
+speaker_heading: JACK
+dialog: (to Anne)
+dialog: Will you wait here?
+dialog: No reply.
+speaker_heading: JACK
+dialog: Will you wait here?
+text: She nods her head slowly. Jack walks through the building to
+text: the pillar against which Willie has been propped. Sugar Boy
+text: is still beside him. He stands behind Sadie and Duffy, looking
+text: down at Willie.
+speaker_heading: WILLIE
+dialog: It could have been the whole world,
+dialog: Willie Stark. The whole world...
+dialog: Willie Stark. Why did he do it to
+dialog: me... Willie Stark? Why?
+text: His head droops to the side and he dies.
+speaker_heading: FADE OUT
+speaker_heading: THE END
+dialog: 

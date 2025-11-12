@@ -1,0 +1,4019 @@
+dialog: 
+scene_heading: INT. WELTON ACADEMY HALLWAY - DAY
+text: A young boy, dressed in a school uniform and cap, fidgets as his mother
+text: adjusts his tie.
+speaker_heading: MOTHER
+dialog: Now remember, keep your shoulders back.
+text: A student opens up a case and removes a set of bagpipes. The young
+text: boy and his brother line up for a photograph
+speaker_heading: PHOTOGRAPHER
+dialog: Okay, put your arm around your brother.
+dialog: That's it. And breathe in.
+text: The young boy blinks as the flash goes off.
+speaker_heading: PHOTOGRAPHR
+dialog: Okay, one more.
+text: An old man lights a single candle. A teacher goes over the old
+dialog: man's duties.
+speaker_heading: TEACHER
+dialog: Now just to review, you're going to
+dialog: follow along the procession until you
+text: get to the headmaster. At that point
+dialog: he will indicate to you to light the
+text: candles of the boys.
+speaker_heading: MAN
+dialog: All right boys, let's settle down.
+text: The various boys, including NEIL, KNOX, and CAMERON, line up holding
+text: banners. Ahead of them is the old man, followed by the boy with the
+text: bagpipes with the two youngest boys at the front.
+speaker_heading: MAN
+text: Banners up.
+text: The boys hoist the banners and the bagpipes begin to play loudly. The
+text: small group marches out of the room and down a set of stairs into a
+text: church. The pews are filled with students and parents while the
+text: teachers, all dressed in robes, are seated at the front of the church
+text: behind the headmaster.
+text: The boys break off to either side at the front of the church. The
+text: bagpipes cease and the headmaster, MR. NOLAN, walks over to the old
+text: man carrying the candle.
+speaker_heading: MR NOLAN
+dialog: Ladies and gentlemen, boys, the light
+dialog: of knowledge.
+text: An organ begins to play as the old man goes forward with shaking hands
+text: to the young boys in the front pew. Each boy is holding a candle and
+text: he bends over to light the first one. Each boy in turn lights the
+text: candle of the boy next to him.
+speaker_heading: MR NOLAN
+dialog: One hundred years ago, in 1859, 41 boys sat in this
+text: room and were asked the same question that greets
+dialog: you at the start of each semester. Gentlemen, what
+dialog: are the four pillars?
+text: All throughout the pews, uniformed boys rise to their feet. TODD, who
+text: is not wearing a uniform, is urged by his father to stand with them.
+speaker_heading: BOYS
+dialog: Tradition, honor, discipline, excellence.
+text: The boys quickly return to their seats.
+speaker_heading: MR NOLAN
+dialog: In her first year, Welton Academy graduated five
+dialog: students. Last year we graduated fifty-one. And
+dialog: more than seventy-five percent of those went on to
+dialog: the Ivy League. This, this kind of accomplishment is
+text: the result of fervent dedication to the principles taught
+dialog: here. This is why you parents have been sending us
+dialog: your sons. This is why we are the best preparatory
+dialog: school in the United States.
+text: Mr. Nolan soaks up the applause from the audience.
+speaker_heading: MR NOLAN
+dialog: As you know, our beloved Mr. Portius of the English
+dialog: department retired last term. You will have the
+dialog: opportunity later to meet his replacement, Mr. John
+dialog: Keating, himself a graduate of this school. And who,
+dialog: for the past several years, has been teaching at the
+dialog: highly regarded Chester School in London.
+text: The crowd applauds once again.
+scene_heading: EXT. SCHOOL GROUNDS - DAY
+text: The school lawn is a filled with luggage, students, and parents mulling
+text: about in every direction.
+scene_heading: INT CHURCH ENTRANCE - DAY
+text: Mr Nolan stands by the entrance, speaking with each family as they leave.
+speaker_heading: MR NOLAN
+dialog: Glad you could come by.
+speaker_heading: MR ANDERSON
+text: Thrilling ceremony as usual Dr. Nolan.
+speaker_heading: MR NOLAN
+dialog: You've been away too long.
+speaker_heading: MRS ANDERSON
+dialog: Hello Dr. Nolan.
+speaker_heading: MR NOLAN
+dialog: Good to have you back.
+speaker_heading: MRS ANDERSON
+dialog: This is our youngest, Todd.
+speaker_heading: MR NOLAN
+dialog: Mr. Anderson.You have some big shoes to fill,
+dialog: young man. Your brother was one of our finest.
+speaker_heading: TODD
+dialog: Thank you.
+text: Todd and his parents leave while others file past Mr. Nolan.
+speaker_heading: WOMAN
+dialog: Lovely ceremony.
+speaker_heading: MR NOLAN
+dialog: Thank you. So glad you liked it.
+text: MR PERRY approaches with his son Neil. He shakes Mr. Nolan's hand.
+speaker_heading: MR PERRY
+dialog: Gale
+speaker_heading: MR NOLAN
+dialog: Tom
+speaker_heading: MR PERRY
+dialog: Good to see you again.
+speaker_heading: NEIL
+dialog: Hello Mr. Nolan.
+speaker_heading: MR NOLAN
+dialog: Neil. We expect great things from you this year.
+speaker_heading: NEIL
+dialog: Thank you, sir.
+speaker_heading: MR PERRY
+dialog: Well he won't disappoint us. Right Neil?
+speaker_heading: NEIL
+dialog: I'll do my best sir.
+scene_heading: EXT SCHOOL GROUNDS - DAY
+text: A bell tolls. Parents begin wishing their boys farewell.
+speaker_heading: FATHER
+dialog: Hey, come on son.
+speaker_heading: MOTHER
+dialog: Chin up.
+speaker_heading: FATHER
+dialog: No tears now.
+speaker_heading: BOY
+dialog: Okay.
+speaker_heading: MOTHER
+dialog: Chin up.
+text: Another boy hugs his mother.
+speaker_heading: BOY
+dialog: I don't want to go here.
+speaker_heading: MOTHER
+dialog: You be a good boy and do your lessons.
+scene_heading: EXT SCHOOL GROUNDS - DAY
+text: Neil emerges from a building and sees Todd.
+speaker_heading: NEIL
+dialog: Hey, I hear we're gonna be roommates.
+text: He shakes Todd's hand.
+speaker_heading: NEIL
+dialog: I'm Neil Perry.
+speaker_heading: TODD
+dialog: Todd Anderson.
+speaker_heading: NEIL
+dialog: Why'd you leave Balincrest?
+speaker_heading: TODD
+dialog: My brother went here.
+speaker_heading: NEIL
+dialog: Oh, so you're that Anderson.
+scene_heading: INT DORMATORY - DAY
+text: DR. HAGER is standing in his room doorway while SPAZ and his father are
+text: going over some last minute precautions over the boy's allergies. Spaz's
+text: father hands Hager various bottles.
+speaker_heading: FATHER
+dialog: This is for sinuses. Oh, and if he can't swallow you
+dialog: give him one of these. And if he had trouble breathing
+dialog: you can give him some of those.
+speaker_heading: HAGER
+dialog: All right fine.
+text: Dr. Hager takes the bottles and quickly backs into his room, shutting
+text: the door.
+speaker_heading: FATHER
+dialog: (to son)
+dialog: Did you remember your vaporizer?
+speaker_heading: SPAZ
+dialog: Yes, I put it in my room.
+text: Spaz's father tries to say something else to Dr. Hager but realizes he
+text: has already gone.
+scene_heading: INT HALLWAY - DAY
+text: Neil pushes his way through a crowd of boys, carrying two suitcases. As
+text: he enters his room, Knox quickly passes by.
+speaker_heading: KNOX
+dialog: Hey, how's it going Neil?
+speaker_heading: NEIL
+dialog: Hey Knox.
+text: Cameron comes by and leans against the doorway.
+speaker_heading: CAMERON
+dialog: Neil, study group tonight?
+speaker_heading: NEIL
+dialog: Yeah, sure.
+speaker_heading: CAMERON
+dialog: Business as usual, huh? Hey, I hear you got the new
+dialog: kid. Looks like a stiff!
+text: He begins laughing when he notices Todd coming into the room.
+speaker_heading: CAMERON
+dialog: Oops!
+text: Cameron quickly leaves. Neil tries to keep from laughing as Todd enters
+text: the room and sets his luggage down on his bed.
+speaker_heading: NEIL
+dialog: Listen, don't mind Cameron. He was born with his
+dialog: foot in his mouth. You know what I mean?
+text: He pulls some papers from his blazer pocket and playfully whacks Todd
+text: across the back with it.
+text: CHARLIE comes to the door with a smug expression on his face. Knox and
+text: MEEKS are close behind him. He points at Neil
+speaker_heading: CHARLIE
+dialog: Rumor has it, you did summer school.
+speaker_heading: NEIL
+dialog: Yep. Chemistry. My father thought I should get ahead.
+dialog: How was your summer Slick?
+speaker_heading: CHARLIE
+dialog: Keen.
+text: The boys enter the room. Charlie turns around and looks at Meeks who is
+text: just entering.
+speaker_heading: CHARLIE
+text: Meeks. Door. Closed.
+speaker_heading: MEEKS
+dialog: Yes sir.
+speaker_heading: NEIL
+dialog: Gentlemen, what are the four pillars?
+speaker_heading: BOYS
+text: Travesty. Horror. Decadence. Excrement.
+text: Charlie makes himself comfortable on Neil's bed and lights up a cigarette.
+text: Meanwhile, Todd is by his bed unpacking his luggage.
+speaker_heading: CHARLIE
+dialog: Okay, study group. Meeks aced Latin. I didn't quite
+dialog: flunk English. So, if you want, we've got our study
+dialog: group.
+speaker_heading: NEIL
+dialog: Sure. Cameron asked me too. Anyone mind
+dialog: including him?
+speaker_heading: CHARLIE
+dialog: Hmm, what's his specialty, boot-licking?
+speaker_heading: NEIL
+dialog: Come on, he's your roommate.
+speaker_heading: CHARLIE
+dialog: That's not my fault.
+text: Meeks seems to notice Todd for the first time.
+speaker_heading: MEEKS
+dialog: Oh, I'm sorry, my name is Steven Meeks.
+text: Neil quickly gets up from his spot by the window.
+speaker_heading: NEIL
+dialog: Oh, this is Todd Anderson.
+text: Todd turns around and shakes hands with Meeks.
+speaker_heading: MEEKS
+dialog: Nice to meet you.
+speaker_heading: TODD
+dialog: Nice to meet you.
+speaker_heading: CHARLIE
+dialog: Charlie Dalton.
+text: Charlie continues to lay on the bed, looking smug. Knox extends a hand.
+speaker_heading: KNOX
+dialog: Knox Overstreet.
+speaker_heading: NEIL
+dialog: Todd's brother was Jeffrey Anderson.
+speaker_heading: CHARLIE
+dialog: Oh yeah, sure. Valedictorian. National merit scholar.
+speaker_heading: MEEKS
+dialog: Oh well, welcome to Hell-ton.
+speaker_heading: CHARLIE
+dialog: It's every bit as tough as they say, unless you're a
+dialog: genius like Meeks.
+speaker_heading: MEEKS
+text: He flatters me. That's why I help him with Latin.
+speaker_heading: CHARLIE
+dialog: And English, and Trig.
+text: Charlie begins coughing. There is a knock at the door. Charlie quickly
+text: stamps out his cigarette on the floor and Neil tries to wave the smoke
+text: from the air.
+speaker_heading: NEIL
+text: It's open.
+text: The door opens and Mr. Perry walks into the room. Neil quickly rises from
+text: the window.
+speaker_heading: NEIL
+dialog: Father, I thought you'd gone.
+text: The other boys stand up when he enters.
+speaker_heading: BOYS
+dialog: Mr. Perry.
+speaker_heading: MR PERRY
+dialog: Keep your seats fellows, keep your seats. Neil, I've
+dialog: just spoken to Mr. Nolan. I think that you're taking
+dialog: too many extra curricular activities this semester, and
+dialog: I've decided that you should drop the school annual.
+speaker_heading: NEIL
+dialog: But I'm the assistant editor this year.
+speaker_heading: MR PERRY
+dialog: Well I'm sorry Neil.
+speaker_heading: NEIL
+dialog: But Father, I can't. It wouldn't be fair.
+speaker_heading: MR PERRY
+dialog: Fellas, would you excuse us for a moment?
+text: Mr. Perry walks towards the door and Neil hesitantly follows. Mr. Perry
+text: pauses by the door and smiles to the other boys.
+scene_heading: INT. HALLWAY - DAY
+text: The smile has gone from Mr. Perry's face. He grabs a hold of Neil's arm.
+speaker_heading: MR PERRY
+dialog: Don't you ever dispute me in public. Do you
+dialog: understand?
+speaker_heading: NEIL
+dialog: Father, I wasn't disputing-
+speaker_heading: MR PERRY
+dialog: After you've finished medical school and you're on your own, then you
+dialog: can do as you damn well please. But until then, you do as I tell you.
+dialog: Is that clear?
+speaker_heading: NEIL
+dialog: Yes sir. I'm sorry.
+speaker_heading: MR PERRY
+dialog: You know how much this means to your mother,
+dialog: don't you?
+speaker_heading: NEIL
+dialog: Yes sir. You know me, always taking on too much.
+speaker_heading: MR PERRY
+dialog: Well, that's my boy. Now listen, you need anything,
+dialog: you let us know, huh?
+speaker_heading: NEIL
+dialog: Yes sir.
+text: Mr. Perry slaps his son on the shoulder and leaves. Neil leans his head
+text: back against the wall as the other boys emerge from the room.
+speaker_heading: CHARLIE
+dialog: Why doesn't he let you do what you want?
+speaker_heading: KNOX
+dialog: Yeah Neil, tell him off. It couldn't get any worse.
+speaker_heading: NEIL
+dialog: Oh, that's rich. Like you guys tell your parents off, Mr.
+dialog: Future Lawyer and Mr. Future Banker.
+speaker_heading: CHARLIE
+dialog: Okay, so I don't like it any more than you do.
+speaker_heading: NEIL
+dialog: Well just don't tell me how to talk to my father. You
+dialog: guys are the same way.
+speaker_heading: KNOX
+dialog: All right, all right, Jesus. So what are you going to do?
+speaker_heading: NEIL
+dialog: What I have to do. Drop the annual.
+speaker_heading: CHARLIE
+dialog: Well I wouldn't lose much sleep over it. It's just a
+text: bunch of jerks trying to impress Nolan.
+speaker_heading: NEIL
+text: I don't care. I don't give a damn about any of it.
+speaker_heading: MEEKS
+dialog: Well, uh, Latin, eight o' clock in my room?
+speaker_heading: NEIL
+dialog: Yes.
+speaker_heading: MEEKS
+dialog: Todd, you're welcome to join us.
+speaker_heading: KNOX
+dialog: Yeah, come along pal.
+text: Todd looks up from his desk where he is setting his alarm clock.
+speaker_heading: TODD
+dialog: Thanks.
+scene_heading: EXT. FIELDS - DAY
+text: A clock bell chimes five o'clock. Enormous flocks of birds, apparently
+text: disturbed by the noise, take to the sky.
+scene_heading: INT. STAIRCASE - DAY
+text: The sound of squawking birds merges into the sound of noisy boys as they
+text: descend the stairs in a long spiralling line.
+text: MR. MCALLISTER tries to make it upstairs against the steady stream.
+speaker_heading: MCALLISTER
+dialog: Slow down boys, slow down you horrible
+text: phalanx of pubescense.
+scene_heading: INT CHEMISTRY LAB - DAY
+text: A teacher walks up and down the aisles, handing out books.
+speaker_heading: TEACHER
+dialog: Pick three laboratory experiments from
+dialog: the project list and report on them every
+dialog: five weeks. The first twenty questions at
+dialog: the end of chapter one are due tomorrow.
+text: The students let out a collective groan.
+scene_heading: INT. LATIN CLASSROOM - DAY
+text: Mr. McAllister paces back and forth in front of the blackboard and gets
+text: the students to repeat everything he says.
+speaker_heading: MCALLISTER
+dialog: (students repeat after each word.)
+dialog: Agricolam. Agricola. Agricolae.
+dialog: Agricolarum. Agricolis. Agricolas.
+dialog: Agrilcolis.
+dialog: Again, please.
+dialog: Agricola.
+scene_heading: INT. MATH CLASSROOM - DAY
+text: Dr. Hager walks up the classroom aisles with his arms behind his back.
+speaker_heading: HAGER
+dialog: Your study of trigonometry requires absolute precision.
+dialog: Anyone failing to turn in any homework assignment will
+dialog: be penalized one point off their final grade. Let me urge
+dialog: you now not to test me on this point.
+scene_heading: INT. KEATING'S CLASSROOM - DAY
+text: Students enter Keating's classroom, talking and acting up. Keating
+text: glances out from his room off to one side.
+speaker_heading: KNOX
+dialog: Hey Spaz, Spaz.
+text: Spaz turns around in time to be hit by a ball of crumpled up paper
+text: while Cameron smacks him on the shoulder.
+speaker_heading: CAMERON
+dialog: Brain damage.
+text: The students quickly quiet down as Keating emerges from the other room,
+text: whistling the 1812 Overture. He walks up the length of the classroom and
+text: out the door without a word. The students look around at one another,
+text: uncertain of what to do. Keating pokes his head back in the doorway.
+speaker_heading: KEATING
+dialog: Well come on.
+text: He gestures them to follow and the students, after some hesitation, grab
+text: their books and follow Keating out into the main entranceway.
+scene_heading: INT. ENTRANCEWAY - DAY
+text: Keating stands before the school's trophy cabinets and waits until all
+text: the boys arrive.
+speaker_heading: KEATING
+dialog: "Oh Captain, My Captain" who knows where
+dialog: that comes from?
+text: Todd looks up as if he knows the answer, but says nothing. Spaz blows his
+text: nose a little too close to Meeks for his liking.
+speaker_heading: KEATING
+text: Not a clue? It's from a poem by Walt
+dialog: Whitman about Mr. Abraham Lincoln. Now in
+dialog: this class you can call me Mr. Keating. Or,
+dialog: if you're slightly more daring, Oh Captain,
+dialog: My Captain.
+text: The students laugh slightly.
+speaker_heading: KEATING
+dialog: Now let me dispel a few rumors so they
+dialog: don't fester into facts. Yes, I too
+dialog: attended Hell-ton and survived. And no,
+dialog: at that time I was not the mental giant
+dialog: you see before you. I was the intellectual
+dialog: equivalent of a ninety-eight pound
+dialog: weakling. I would go to the beach and
+dialog: people would kick copies of Byron in my
+text: face.
+text: The boys laugh once again, while Cameron, obviously trying to write all
+text: this down, looks around confusedly. Keating looks down at papers in his
+dialog: hand.
+speaker_heading: KEATING
+dialog: Now, Mr Pitts. That's a rather
+dialog: unfortunate name. Mr. Pitts, where are
+dialog: you?
+text: Pitts raises his hand while everyone around him snickers.
+speaker_heading: KEATING
+dialog: Mr. Pitts, would you open your hymnal to page 542 and read the first
+dialog: stanza of the poem you find there?
+speaker_heading: PITTS
+dialog: "To the virgins, to make much of time"?
+speaker_heading: KEATING
+dialog: Yes, that's the one. Somewhat appropriate,
+dialog: isn't it.
+speaker_heading: PITTS
+dialog: "Gather ye rosebuds while ye may, old
+text: time is still a flying, and this same
+dialog: flower that smiles today, tomorrow will
+dialog: be dying."
+speaker_heading: KEATING
+dialog: Thank you Mr. Pitts. "Gather ye rosebuds
+dialog: while ye may." The Latin term for that
+dialog: sentiment is Carpe Diem. Now who knows
+dialog: what that means?
+text: Meeks immediately puts his hand up.
+speaker_heading: MEEKS
+dialog: Carpe Diem. That's "seize the day."
+speaker_heading: KEATING
+dialog: Very good, Mr.-
+speaker_heading: MEEKS
+dialog: Meeks.
+speaker_heading: KEATING
+dialog: Meeks. Another unusual name. Seize the
+dialog: day. Gather ye rosebuds while ye may.
+dialog: Why does the writer use these lines?
+speaker_heading: CHARLIE
+text: Because he's in a hurry.
+speaker_heading: KEATING
+dialog: No, ding!
+text: Keating slams his hand down on an imaginary buzzer.
+speaker_heading: KEATING
+dialog: Thank you for playing anyway. Because we
+dialog: are food for worms lads. Because, believe
+dialog: it or not, each and every one of us in
+dialog: this room is one day going to stop
+text: breathing, turn cold, and die.
+text: Keating turns towards the trophy cases, filled with trophies, footballs,
+dialog: and team pictures.
+speaker_heading: KEATING
+dialog: Now I would like you to step forward over
+text: here and peruse some of the faces from
+dialog: the past. You've walked past them many
+dialog: times. I don't think you've really looked
+text: at them.
+text: The students slowly gather round the cases and Keating moves behind them.
+speaker_heading: KEATING
+dialog: They're not that different from you, are
+dialog: they? Same haircuts. Full of hormones,
+dialog: just like you. Invincible, just like you
+dialog: feel. The world is their oyster. They
+dialog: believe they're destined for great things,
+dialog: just like many of you. Their eyes are full
+dialog: of hope, just like you. Did they wait until
+dialog: it was too late to make from their lives
+dialog: even one iota of what they were capable?
+dialog: Because you see gentlmen, these boys are
+text: now fertilizing daffodils. But if you listen
+dialog: real close, you can hear them whisper their
+dialog: legacy to you. Go on, lean in.
+text: The boys lean in and Keating hovers over Cameron's shoulder.
+speaker_heading: KEATING
+text: (whispering in a gruff voice)
+dialog: Carpe.
+text: Cameron looks over his shoulder with an aggravated expression on his face.
+speaker_heading: KEATING
+dialog: Hear it?
+dialog: (whispering again)
+dialog: Carpe. Carpe Diem. Seize the day boys,
+dialog: make your lives extraordinary.
+text: The boys stare at the faces in the cabinet in silence.
+scene_heading: EXT. SCHOOL STEPS - DAY
+text: The boys emerge from the school, loaded down with numerous books.
+speaker_heading: PITTS
+dialog: That was weird.
+speaker_heading: NEIL
+dialog: But different.
+speaker_heading: KNOX
+dialog: Spooky if you ask me.
+speaker_heading: CAMERON
+dialog: Think he'll test us on that stuff?
+speaker_heading: CHARLIE
+dialog: Come on Cameron, don't you get anything?
+speaker_heading: CAMERON
+dialog: What? What?
+scene_heading: INT. LOCKER ROOM - EVENING
+text: A coach sticks his head around the corner into the room.
+speaker_heading: COACH
+dialog: Let's go boys, hustle up in here. That
+dialog: means you Dalton.
+text: Meeks emerges from the showers, drying himself off.
+speaker_heading: MEEKS
+dialog: Okay, who's up for a trig study group
+dialog: tonight guys?
+speaker_heading: PITTS
+dialog: Me.
+speaker_heading: NEIL
+dialog: Me.
+speaker_heading: CHARLIE
+dialog: (still annoyed by what the coach said)
+dialog: What?
+speaker_heading: KNOX
+dialog: I can't make it guys. I have to have
+text: dinner at the Danburry's house.
+speaker_heading: PITTS
+dialog: The Danburry's? Who are the Danburry's?
+speaker_heading: CAMERON
+dialog: Big alumns. How'd you swing that?
+speaker_heading: KNOX
+dialog: Friends of my Dad's. They're probably in
+dialog: their nineties or something.
+speaker_heading: CHARLIE
+dialog: Ooh!
+speaker_heading: NEIL
+dialog: Anything's better than Hell-ton hash.
+speaker_heading: CHARLIE
+dialog: I'll second that.
+speaker_heading: KNOX
+dialog: Yeah we'll see.
+text: Neil approaches Todd, who's been sitting by the window staring down at the
+text: floor. Neil snaps his fingers to get Todd's attention.
+speaker_heading: NEIL
+dialog: Hey, you coming to the study group tonight?
+speaker_heading: TODD
+dialog: Uh, no, no I, uh, I've got some history I
+dialog: wanna do.
+speaker_heading: NEIL
+dialog: Suit yourself.
+scene_heading: INT. TODD'S ROOM - EVENING
+text: Todd is seated at his desk. He scrawls "CARPE DIEM" across a blank page
+text: of his notebook. He looks at it for a few moments before crumpling it up
+text: and opening up his Chemistry book.
+scene_heading: INT. ENTRANCEWAY - NIGHT
+text: Hager comes down the stairs. Knox is looking at one of the old class photos
+text: on the walls.
+speaker_heading: HAGER
+dialog: Ready Overstreet?
+text: Knox reluctantly follows after Dr. Hager.
+speaker_heading: KNOX
+dialog: Ready to go sir.
+scene_heading: EXT. ROAD - NIGHT
+text: The car leaves Welton and drives towards the Danburry's house.
+scene_heading: INT / EXT DANBURRY'S HOUSE - NIGHT
+text: The doorbell rings.
+speaker_heading: MRS DANBURRY (O.S.)
+dialog: Chet, can you get that?
+speaker_heading: CHET (O.S.)
+dialog: I can't, Mom.
+speaker_heading: CHRIS (O.S.)
+dialog: I'll get it.
+text: The door opens and Knox is awe-struck by the beautiful girl (CHRIS) who
+text: has answered the door.
+speaker_heading: CHRIS
+dialog: Can I help you?
+text: Knox manages to break out of his daze.
+speaker_heading: KNOX
+dialog: Hi. Knox Overstreet. Uh, Dr. Hager.
+speaker_heading: CHRIS
+dialog: Hi.
+speaker_heading: KNOX
+dialog: This is the Danburry's, right?
+speaker_heading: CHRIS
+dialog: Are you here to see Chet?
+speaker_heading: KNOX
+dialog: Mrs. Danburry?
+text: Chris begins to laugh as Mrs. Danburry arrives behind her.
+speaker_heading: CHRIS
+dialog: No.
+speaker_heading: MRS DANBURRY
+dialog: Sorry. Thank you Chris. I'm Mrs. Danburry.
+dialog: You must be Knox.
+speaker_heading: KNOX
+dialog: Yes.
+speaker_heading: MRS DANBURRY
+dialog: (to Dr. Hager)
+text: Back by nine.
+dialog: (to Knox)
+dialog: Please come in.
+speaker_heading: CHET (O.S.)
+dialog: Chris, come on, what are you doing?
+speaker_heading: CHRIS
+dialog: Chet, I'm coming.
+text: Knox enters the house, his mind still hung up on Chris as MR DANBURRY
+text: comes out of the living room to meet him.
+speaker_heading: MR DANBURRY
+dialog: Knox. How are you? Joe Danburry.
+speaker_heading: KNOX
+dialog: Nice to meet you sir.
+speaker_heading: MR DANBURRY
+text: Well he's the spitting image of his father,
+dialog: isn't he. How is he? Come on in.
+speaker_heading: CHET (O.S.)
+dialog: Chris!
+speaker_heading: KNOX
+dialog: He's great. He just did a big case for GM.
+speaker_heading: CHRIS (O.S.)
+dialog: I'm coming.
+speaker_heading: MR DANBURRY
+dialog: I know where you're headed, like father
+dialog: like son, huh?
+scene_heading: INT. STUDENT LOUNGE - NIGHT
+text: Several students are throwing darts at a small rubber skeleton hanging
+text: from the bulletin board. Various students are studying and playing games.
+text: Meeks and Pitts are sitting at one table working on their "hi-fi system".
+text: Meeks is waving an antenna around with no luck. Pitts points out to him
+text: that he forgot to plug it in. Neil, Cameron, and Charlie are working on
+dialog: their trig homework.
+speaker_heading: CAMERON
+dialog: Just replace these numbers here with "x",
+dialog: for "x" and "y".
+speaker_heading: NEIL
+dialog: Of course.
+speaker_heading: CAMERON
+dialog: Of course, so what's the problem?
+text: Charlie enters the room and closes the door behind him, leaning up
+text: against it heavily.
+speaker_heading: CHARLIE
+dialog: How was dinner?
+speaker_heading: KNOX
+dialog: Huh?
+speaker_heading: CHARLIE
+dialog: How was dinner?
+speaker_heading: KNOX
+dialog: Terrible. Awful.
+text: He leaves the door and sits down with the other boys.
+speaker_heading: CHARLIE
+dialog: Why? What happened?
+speaker_heading: KNOX
+dialog: Tonight, I met the most beautiful girl
+dialog: in my entire life.
+speaker_heading: NEIL
+dialog: Are you crazy? What's wrong with that?
+speaker_heading: KNOX
+text: She's practically engaged. To Chet Danburry.
+speaker_heading: CHARLIE
+dialog: That guy could eat a football.
+speaker_heading: PITTS
+dialog: That's too bad.
+speaker_heading: KNOX
+dialog: Too bad? It's worse than too bad Pitsie,
+dialog: it's a tragedy. A girl this beautiful in
+dialog: love with such a jerk.
+speaker_heading: PITTS
+dialog: All the good ones go for jerks, you
+dialog: know that.
+speaker_heading: CAMERON
+dialog: Ahh, forget her. Open your trig book and
+dialog: try and figure out problem five.
+speaker_heading: KNOX
+dialog: I can't just forget her Cameron. And I
+dialog: can't think about trig.
+text: The radio Meeks and Pitts were working on begins letting out a high
+text: pitched hum.
+speaker_heading: PITTS
+dialog: We got it.
+speaker_heading: MEEKS
+dialog: Holy cow.
+text: Mr. Hager walks into the room.
+speaker_heading: HAGER
+dialog: All right gentlemen, five minutes. Let's
+dialog: go.
+text: The students quickly pack up their gear and prepare to leave. Pitts tries
+text: to hide the radio in his lap. Charlie leans in close to Knox.
+speaker_heading: CHARLIE
+dialog: Did you see her naked?
+speaker_heading: KNOX
+dialog: Very funny Dalton.
+speaker_heading: HAGER
+dialog: That wouldn't be a radio in your lap,
+dialog: would it Mr. Pitts?
+speaker_heading: PITTS
+dialog: No sir. Science experiment, radar.
+text: Meeks holds up the antenna as if demonstrating it.
+scene_heading: INT. KEATING'S CLASSROOM - DAY
+text: Keating sits at his desk at the front of the classroom and opens up one
+dialog: of his books.
+speaker_heading: KEATING
+dialog: Gentlemen, open your text to page
+dialog: twenty-one of the introduction. Mr.
+dialog: Perry, will you read the opening
+dialog: paragraph of the preface, entitled
+dialog: "Understanding Poetry"?
+speaker_heading: NEIL
+dialog: Understanding Poetry, by Dr. J. Evans
+dialog: Pritchard, Ph.D. To fully understand
+dialog: poetry, we must first be fluent with
+text: its meter, rhyme, and figures of speech.
+dialog: Then ask two questions: One, how artfully
+dialog: has the objective of the poem been
+dialog: rendered, and two, how important is that
+text: objective. Question one rates the poem's
+dialog: perfection, question two rates its
+dialog: importance. And once these questions have
+dialog: been answered, determining a poem's
+dialog: greatest becomes a relatively simple
+dialog: matter.
+text: Keating gets up from his desk and prepares to draw on the chalk board.
+speaker_heading: NEIL
+dialog: If the poem's score for perfection is
+text: plotted along the horizontal of a graph,
+dialog: and its importance is plotted on the
+text: vertical, then calculating the total
+text: area of the poem yields the measure of
+dialog: its greatness.
+text: Keating draws a corresponding graph on the board and the students
+text: dutifully copy it down.
+speaker_heading: NEIL
+text: A sonnet by Byron may score high on the
+dialog: vertical, but only average on the
+text: horizontal. A Shakespearean sonnet, on
+dialog: the other hand, would score high both
+text: horizontally and vertically, yielding a
+text: massive total area, thereby revealing the
+dialog: poem to be truly great. As you proceed
+dialog: through the poetry in this book, practice
+dialog: this rating method. As your ability to
+dialog: evaluate poems in this matter grows, so
+dialog: will - so will your enjoyment and
+dialog: understanding of poetry.
+text: Neil sets the book down and takes off his glasses. The student sitting
+text: across from him is discretely trying to eat. Keating turns away from
+text: the chalkboard with a smile.
+speaker_heading: KEATING
+dialog: Excrement. That's what I think of Mr. J.
+dialog: Evans Pritchard. We're not laying pipe,
+dialog: we're talking about poetry.
+text: Cameron looks down at the graph he copied into his notes and quickly
+text: scribbles it out.
+speaker_heading: KEATING
+dialog: I mean, how can you describe poetry like
+dialog: American Bandstand? I like Byron, I give
+dialog: him a 42, but I can't dance to it.
+text: Charlie suddenly appear to become interested in the class.
+speaker_heading: KEATING
+dialog: Now I want you to rip out that page.
+text: The students look at Keating as if he has just gone mad.
+speaker_heading: KEATING
+dialog: Go on, rip out the entire page. You heard
+dialog: me, rip it out. Rip it out!
+text: Charlie looks around at the others. He then looks down at his own notes,
+text: which consists of drawing breasts.
+speaker_heading: KEATING
+dialog: Go on, rip it out.
+text: Charlie rips the page out and holds it up.
+speaker_heading: KEATING
+dialog: Thank you Mr. Dalton. Gentlemen, tell you
+dialog: what, don't just tear out that page, tear
+dialog: out the entire introduction. I want it
+dialog: gone, history. Leave nothing of it. Rip
+text: it out. Rip! Begone J. Evans Pritchard,
+text: Ph.D. Rip, shred, tear. Rip it out. I
+dialog: want to hear nothing but ripping of Mr.
+dialog: Pritchard.
+text: Meeks looks around reluctantly and then finally begins tearing out pages.
+speaker_heading: KEATING
+dialog: We'll perforate it, put it on a roll.
+text: Keating sees Cameron still hesitating.
+speaker_heading: KEATING
+dialog: It's not the bible, you're not going to
+dialog: go to hell for this. Go on, make a clean
+dialog: tear, I want nothing left of it.
+text: Keating goes over to his room. Cameron turns around to Neil.
+speaker_heading: CAMERON
+dialog: We shouldn't be doing this.
+speaker_heading: NEIL
+dialog: Rip, rip, rip!
+text: Neil makes Cameron turn back around.
+speaker_heading: KEATING (O.S.)
+dialog: Rip it out, rip!
+text: From outside the classroom, Mr. McAllister hears all the noise and sees
+text: all the students ripping out the pages. He bursts into the room.
+speaker_heading: MCALLISTER
+dialog: What the hell is going on here?
+text: The boys all turn around in shock. Charlie stuffs a crumpled page into his
+text: mouth. Keating emerges from his room with a waste paper basket.
+speaker_heading: KEATING
+text: I don't hear enough rips.
+speaker_heading: MCALLISTER
+dialog: Mr. Keating.
+speaker_heading: KEATING
+text: Mr. McAllister.
+speaker_heading: MCALLISTER
+dialog: I'm sorry, I- I didn't know you were
+dialog: here.
+speaker_heading: KEATING
+dialog: I am.
+speaker_heading: MCALLISTER
+dialog: Ahh, so you are. Excuse me.
+text: Mr. McAllister slowly backs out of the classroom.
+speaker_heading: KEATING
+dialog: Keep ripping gentlemen. This is a battle,
+dialog: a war. And the casualties could be your
+dialog: hearts and souls.
+text: Keating holds out the basket to Charlie who spits out a wad of paper.
+speaker_heading: KEATING
+dialog: Thank you Mr. Dalton. Armies of academics
+dialog: going forward, measuring poetry. No, we
+dialog: will not have that here. No more of Mr.
+dialog: J. Evans Pritchard. Now in my class you
+dialog: will learn to think for yourselves again.
+dialog: You will learn to savor words and language.
+dialog: No matter what anybody tells you, words and
+dialog: ideas can change the world. I see that look
+text: in Mr. Pitt's eye, like nineteenth century
+dialog: literature has nothing to do with going to
+dialog: business school or medical school. Right?
+dialog: Maybe. Mr. Hopkins, you may agree with him,
+dialog: thinking "Yes, we should simply study our
+dialog: Mr. Pritchard and learn our rhyme and meter
+dialog: and go quietly about the business of
+dialog: achieving other ambitions." I have a little
+dialog: secret for ya. Huddle up. Huddle up!
+text: The boys get up from their seats and gather around Keating in the center
+dialog: of the class.
+speaker_heading: KEATING
+dialog: We don't read and write poetry because
+dialog: it's cute. We read and write poetry
+dialog: because we are members of the human race.
+text: And the human race is filled with passion.
+dialog: Medicine, law, business, engineering,
+dialog: these are all noble pursuits, and necessary
+dialog: to sustain life. But poetry, beauty,
+dialog: romance, love, these are what we stay alive
+dialog: for. To quote from Whitman: "O me, o life
+dialog: of the questions of these recurring, of the
+text: endless trains of the faithless, of cities
+dialog: filled with the foolish. What good amid
+dialog: these, o me, o life? Answer: that you are
+dialog: here. That life exists, and identity.
+dialog: That the powerful play goes on, and you
+dialog: may contribute a verse. That the powerful
+dialog: play goes on and you may contribute a verse.
+text: Keating looks up at Todd.
+dialog: Keating
+dialog: What will your verse be?
+scene_heading: INT. HEAD OF CAFETERIA - DAY
+text: The cafeteria is filled with students and teachers standing before the tables saying grace.
+speaker_heading: ALL
+dialog: For what we are about to receive, may the
+dialog: Lord make us truly grateful. Amen.
+text: Mr. Keating and Mr. McAllister are seated next to one another at the table.
+speaker_heading: MCALLISTER
+dialog: Quite an interesting class you gave today,
+dialog: Mr. Keating.
+speaker_heading: KEATING
+dialog: I'm sorry if I shocked you, Mr. McAllister.
+speaker_heading: MCALLISTER
+dialog: Oh, there's no need to apologize. It was
+text: very fascinating, misguided though it was.
+speaker_heading: KEATING
+dialog: You think so?
+speaker_heading: MCALLISTER
+dialog: You take a big risk by encouraging them to
+text: be artists John. When they realize they're
+dialog: not Rembrandts, Shakespeares or Mozarts,
+dialog: they'll hate you for it.
+speaker_heading: KEATING
+dialog: We're not talking artists George, we're
+text: talking free thinkers.
+speaker_heading: MCALLISTER
+dialog: Free thinkers at seventeen?
+speaker_heading: KEATING
+dialog: Funny, I never pegged you as a cynic.
+speaker_heading: MCALLISTER
+dialog: (taken aback by the comment)
+dialog: Not a cynic, a realist. Show me the heart
+dialog: unfettered by foolish dreams, and I'll
+dialog: show you a happy man.
+speaker_heading: KEATING
+dialog: But only in their dreams can man be truly
+dialog: free. 'Twas always thus, and always thus
+dialog: will be.
+speaker_heading: MCALLISTER
+dialog: Tennyson?
+speaker_heading: KEATING
+dialog: No, Keating.
+text: Keating winks and Mr. McAllister can't help but laugh.
+scene_heading: INT. CAFETERIA TABLE - DAY
+text: Neil joins the others at the table. He pulls out a yearbook.
+speaker_heading: NEIL
+dialog: Hey, I found his senior annual in the
+dialog: library.
+text: He hands the annual over to Cameron who laughs at the younger picture of Keating.
+speaker_heading: NEIL
+dialog: Listen to this, captain of the soccer team,
+dialog: editor of the school annual, Cambridge
+text: bound, Thigh man, and the Dead Poets Society.
+speaker_heading: CAMERON
+dialog: (reading from the annual)
+dialog: Man most likely to do anything.
+speaker_heading: CHARLIE
+text: Thigh man. Mr. K was a hell-raiser.
+speaker_heading: KNOX
+dialog: What's the Dead Poets Society?
+speaker_heading: NEIL
+dialog: I don't know.
+speaker_heading: MEEKS
+dialog: Is there a picture in the annual?
+speaker_heading: NEIL
+text: Nothing. No other mention of it.
+speaker_heading: MR. NOLAN (O.S.)
+dialog: That boy there, see me after lunch.
+text: Cameron quickly puts the annual away and the others all return to their meal.
+scene_heading: EXT. WELTON GROUNDS - DAY
+text: Keating is walking down towards the lake, whistling the same tune as before.
+text: The boys emerge from the building and chase after him.
+speaker_heading: NEIL
+dialog: Mr. Keating? Mr. Keating? Sir? Oh Captain,
+dialog: My Captain?
+text: Keating immediately turns around.
+speaker_heading: KEATING
+dialog: Gentlemen.
+speaker_heading: NEIL
+dialog: We were just looking in your old annual.
+text: He hands Keating the annual and Keating looks at his old photograph.
+speaker_heading: KEATING
+dialog: Oh my God. No, that's not me. Stanley
+dialog: "The Tool" Wilson-
+text: Keating crouches down and continues looking through the book.
+speaker_heading: KEATING
+dialog: God.
+text: Neil crouches down next to Keating.
+speaker_heading: NEIL
+dialog: What was the Dead Poets Society?
+speaker_heading: KEATING
+dialog: I doubt the present administration would
+dialog: look too favorably upon that.
+speaker_heading: NEIL
+dialog: Why? What was it?
+speaker_heading: KEATING
+dialog: Gentlemen, can you keep a secret?
+speaker_heading: NEIL
+dialog: Sure.
+text: The other boys crouch down around Keating.
+speaker_heading: KEATING
+dialog: The Dead Poets were dedicated to sucking
+dialog: the marrow out of life. That's a phrase
+dialog: from Thoreau that we'd invoke at the
+dialog: beginning of each meeting. You see we'd
+text: gather at the old Indian cave and take
+text: turns reading from Thoreau, Whitman,
+dialog: Shelley; the biggies. Even some of our
+text: own verse. And in the enchantment of the
+dialog: moment we'd let poetry work its magic.
+speaker_heading: KNOX
+dialog: You mean it was a bunch of guys sitting
+dialog: around reading poetry?
+speaker_heading: KEATING
+dialog: No Mr. Overstreet, it wasn't just "guys",
+dialog: we weren't a Greek organization, we were
+dialog: romantics. We didn't just read poetry,
+text: we let it drip from our tongues like honey.
+dialog: Spirits soared, women swooned, and gods
+dialog: were created, gentlemen, not a bad way to
+dialog: spend an evening eh? Thank you Mr. Perry
+dialog: for this trip down amnesia lane. Burn that,
+dialog: especially my picture.
+text: Keating hands the annual back and walks away, whistling once again. Neil
+text: remains crouched.
+speaker_heading: NEIL
+dialog: Dead Poets Society.
+speaker_heading: CAMERON
+dialog: What?
+text: The school bells begin ringing and everyone heads back towards the school.
+text: Neil stands up.
+speaker_heading: NEIL
+dialog: I say we go tonight.
+speaker_heading: CHARLIE
+dialog: Tonight?
+speaker_heading: CAMERON
+dialog: Wait a minute.
+speaker_heading: PITTS
+dialog: Where's this cave he's talking about?
+speaker_heading: NEIL
+text: It's beyond the stream. I know where it
+dialog: is.
+speaker_heading: PITTS
+dialog: That's miles.
+speaker_heading: CAMERON
+dialog: Sounds boring to me.
+speaker_heading: CHARLIE
+dialog: Don't go.
+speaker_heading: CAMERON
+dialog: You know how many de-merits we're talking
+dialog: Dalton
+speaker_heading: CHARLIE
+dialog: So don't come, please.
+speaker_heading: CAMERON
+dialog: Look, all I'm saying is that we have to
+dialog: be careful, we can't get caught.
+speaker_heading: CHARLIE
+dialog: No shit, Sherlock.
+speaker_heading: HAGER
+dialog: (yelling)
+dialog: You boys there, hurry up.
+text: Neil turns around and faces the other boys.
+speaker_heading: NEIL
+dialog: All right, who's in?
+speaker_heading: CAMERON
+dialog: Come on Neil, Hager's right-
+speaker_heading: NEIL
+dialog: Forget Hager, no. Who's in?
+speaker_heading: CHARLIE
+dialog: I'm in.
+speaker_heading: HAGER (O.S.)
+dialog: I'm warning you, move.
+speaker_heading: CAMERON
+dialog: Me too.
+speaker_heading: PITTS
+dialog: I don't know Neil
+speaker_heading: NEIL
+dialog: What? Pitts-
+speaker_heading: CHARLIE
+dialog: Pitsie, come on.
+speaker_heading: MEEKS
+text: His grades are hurting Charlie.
+speaker_heading: NEIL
+dialog: You can help him Meeks.
+speaker_heading: PITTS
+dialog: What is this, a midnight study group?
+speaker_heading: NEIL
+dialog: Forget it Pitts, you're coming. Meeks,
+dialog: are your grades hurting too?
+speaker_heading: MEEKS
+dialog: I'll try anything once.
+speaker_heading: CHARLIE
+dialog: Except sex.
+speaker_heading: MEEKS
+dialog: Ha ha ha.
+speaker_heading: CAMERON
+dialog: I mean as long as we're careful.
+text: The boys run into the building.
+speaker_heading: CHARLIE
+dialog: What about you Knox?
+speaker_heading: KNOX
+dialog: I don't know Charlie.
+speaker_heading: CHARLIE
+dialog: Come on Knox, it'll help you get Chris.
+speaker_heading: KNOX
+dialog: Yeah? How?
+speaker_heading: CHARLIE
+text: Women swoon.
+text: Charlie laughs and runs inside. Knox chases after him.
+speaker_heading: KNOX
+dialog: But why do they swoon? Charlie, tell me
+dialog: why they swoon. Charlie!
+scene_heading: INT LIBRARY - DAY
+text: The boys are all gathered around one of the tables with a map laid out
+text: on it.
+speaker_heading: NEIL
+dialog: (whispering)
+dialog: Okay, follow the stream to the waterfall.
+text: It's right there. It's got to be on the
+dialog: banks.
+speaker_heading: CAMERON
+dialog: I don't know, it's starting to sound
+dialog: dangerous.
+speaker_heading: CHARLIE
+dialog: Well, why don't you stay home?
+speaker_heading: MCALLISTER
+dialog: For God's sake stop chattering and
+dialog: sit down.
+text: The boys take their seats once again and Neil goes over and sits next to
+text: Todd, who is sitting by himself.
+speaker_heading: NEIL
+dialog: Todd, are you coming tonight?
+speaker_heading: TODD
+dialog: No.
+speaker_heading: NEIL
+dialog: Why not? God, you were there. You heard
+dialog: Keating. Don't you want to do something
+dialog: about it?
+speaker_heading: TODD
+dialog: Yes, but-
+speaker_heading: NEIL
+dialog: But? But what?
+speaker_heading: TODD
+dialog: Keating said that everybody took turns
+dialog: reading and I don't want to do that.
+speaker_heading: NEIL
+dialog: Gosh, you really have a problem with
+dialog: that, don't you?
+speaker_heading: TODD
+dialog: N- no, I don't have a problem. Neil,
+dialog: I just- I just don't want to do it,
+dialog: okay?
+speaker_heading: NEIL
+dialog: All right. What if you didn't have to
+dialog: read? What if you just came and
+dialog: listened?
+speaker_heading: TODD
+dialog: That's not how it works.
+speaker_heading: NEIL
+dialog: Forget how it works. What if - what if
+dialog: they said it was okay?
+speaker_heading: TODD
+dialog: What? What are you gonna do, go up and
+dialog: ask them?
+text: Neil shrugs.
+speaker_heading: TODD
+dialog: No. No, Neil.
+speaker_heading: NEIL
+dialog: I'll be right back.
+speaker_heading: TODD
+dialog: Neil, Neil!
+text: Neil gets up and rejoins the others. McAllister hears the boys whispering
+dialog: again.
+speaker_heading: MCALLISTER
+dialog: Oh shut up, will you.
+scene_heading: INT BATHROOM - NIGHT
+text: Various boys are crowded around the sinks getting ready for bed. Someone
+text: is playing snake charmer music on a kazoo while someone else is bothering
+text: Spaz with a red sock puppet acting like a snake.
+speaker_heading: SPAZ
+dialog: That's my- that's for my asthma, okay.
+dialog: Could you give that back please? Could
+dialog: you give that back?
+speaker_heading: BOY
+dialog: What's the matter? Don't you like snakes?
+text: Neil enters and taps Todd on the shoulder.
+speaker_heading: NEIL
+dialog: You're in.
+speaker_heading: SPAZ
+dialog: Get away from me, okay?
+speaker_heading: BOY
+dialog: Spaz, why don't you check your pocket,
+dialog: huh? Come on Spaz I have to brush my
+dialog: teeth
+speaker_heading: SPAZ
+dialog: Get a- get off,
+text: Hager walks past the bathroom and into his room.
+speaker_heading: HAGER
+dialog: Cut out that racket in there.
+text: The kazoo player lets out a rude squeek before finally stopping. Hager
+text: glares at them for a moment.
+scene_heading: INT NEIL'S BEDROOM - NIGHT
+text: Neil stands in his doorway. He looks across the hall to the other room
+text: where Cameron and Charlie are standing. Cameron gives a thumbs up. Neil
+text: closes his room door and takes out his cloak and a flashlight. Setting
+text: the flashlight down on the desk, he notices a worn book, "Five
+text: Centuries of Verse", sitting there. Opening it up, he sees John Keating's
+text: name at the top followed by "Dead Poets". Below the title of the book,
+text: is written: "To Be Read At The Opening of D.P.S. Meetings." Along with
+text: several lines from Thoreau, beginning with "I went to the woods because
+dialog: I wanted to live deliberately"
+scene_heading: INT STAIRWAY - NIGHT
+text: The shadows of hooded figures can be seen moving throughout the darkened
+dialog: halls.
+scene_heading: INT HAGER'S ROOM - NIGHT
+text: Hager hears a dog barking.
+scene_heading: INT HALLWAY - NIGHT
+text: Someone drops a number of dog biscuits by the dog's feet. He stops
+text: barking and immediately begins gobbling them down. Hager looks out
+text: into the hallway with his flashlight but sees nothing.
+scene_heading: EXT SCHOOL GROUNDS - NIGHT
+text: The boys quietly leave the building and set off running across the
+text: fields towards the woods.
+scene_heading: EXT WOODS - NIGHT
+text: The boys search about the trees trying to find the cave. Meeks is
+text: searching around when Charlie leaps up behind Meeks in the dark
+text: shining the flashlight up at his own face and grabs Meeks by the
+dialog: shoulder.
+speaker_heading: CHARLIE
+dialog: Arrr, I'm a dead poet.
+speaker_heading: MEEKS
+dialog: Aww, Charlie.
+speaker_heading: CHARLIE
+dialog: (laughing)
+dialog: Guys, over here.
+speaker_heading: MEEKS
+dialog: You're funny. You're real funny.
+scene_heading: INT CAVE - NIGHT
+text: The boys are trying to start a fire. The cave is quickly filling up with
+dialog: smoke.
+speaker_heading: MEEKS
+text: It's too wet.
+speaker_heading: CHARLIE
+dialog: God, are you trying to smoke us out of
+dialog: here?
+speaker_heading: MEEKS
+dialog: No, no, the smoke's going right up this
+dialog: opening.
+text: Pitts tries to stand up and slams his head into the low rock ceiling. He
+text: lets out a yell while the others laugh.
+speaker_heading: NEIL
+dialog: You okay?
+speaker_heading: PITTS
+dialog: Oh God. Clowns.
+speaker_heading: NEIL
+dialog: All right, all right, forget the fire.
+dialog: Let's go gentlemen.
+text: Neil stands before the others with the book in hand, and takes a drag
+text: on a cigarette.
+speaker_heading: NEIL
+dialog: I hereby reconvene the Dead Poets
+dialog: Society.
+text: The boys cheer.
+speaker_heading: NEIL
+dialog: Welton chapter. The meetings will be
+dialog: conducted by myself and the other new
+text: initiates now present. Todd Anderson,
+dialog: because he prefers not to read, will
+dialog: keep minutes of the meetings. I'll now
+text: read the traditional opening message by
+dialog: society member Henry David Thoreau. "I
+dialog: went to the woods because I wanted to
+dialog: live deliberately. I wanted to live deep
+dialog: and suck out all the marrow of life."
+speaker_heading: CHARLIE
+dialog: I'll second that.
+speaker_heading: NEIL
+dialog: "To put to rout all that was not life,
+dialog: and not, when I had come to die,
+dialog: discover that I had not lived.
+text: Several boys whistle softly in reaction to the poem.
+speaker_heading: NEIL
+dialog: And Keating's marked a bunch of other
+dialog: pages.
+text: Neil begins flipping through the book.
+speaker_heading: CHARLIE
+dialog: All right, intermission. Dig deep right
+dialog: here. Right here, lay it down
+speaker_heading: CAMERON
+dialog: On the mud? We're gonna put our food on
+dialog: the mud?
+speaker_heading: CHARLIE
+dialog: Meeks, put your coat down. Picnic blanket.
+speaker_heading: MEEKS
+dialog: Yes sir, use Meeks' coat.
+speaker_heading: CHARLIE
+dialog: Don't keep anything back either. You
+dialog: guys are always bumming my smokes.
+text: Meeks lays his coat down and everyone dumps their food on it. Amongst
+text: the pile are chocolate chip cookies, a box of raisins, a few apples, an
+text: orange, and half a roll.
+speaker_heading: NEIL
+dialog: Raisins?
+speaker_heading: KNOX
+dialog: Yuck.
+speaker_heading: CHARLIE
+dialog: Wait a minute, who gave us half a roll?
+speaker_heading: PITTS
+dialog: (talking with his mouth full)
+dialog: I'm eating the other half.
+speaker_heading: CHARLIE
+dialog: Come on.
+speaker_heading: PITTS
+dialog: You want me to put it back?
+scene_heading: INT CAVE - NIGHT
+text: Neil, lit up by a flashlight, begins to tell everyone a story.
+speaker_heading: NEIL
+dialog: It was a dark and rainy night, and this
+dialog: old lady, who had a passion for jigsaw
+text: puzzles, sat by herself in her house at
+text: her table to complete a new jigsaw puzzle.
+text: But as she pieced the puzzle together, she
+dialog: realized, to her astonishment, that the
+dialog: image that was formed was her very own
+text: room. And the figure in the center of the
+text: puzzle, as she completed it, was herself.
+text: And with trembling hands, she placed the
+text: last four pieces and stared in horror at
+text: the face of a demented madman at the
+dialog: window. The last thing that this old lady
+text: ever heard was the sound of breaking glass.
+speaker_heading: BOYS
+dialog: Ohhh no
+speaker_heading: NEIL
+dialog: This is true, this is true.
+speaker_heading: CAMERON
+dialog: I've got one that's even better than
+dialog: that.
+speaker_heading: CHARLIE
+dialog: Ha!
+speaker_heading: CAMERON
+dialog: I do. There's a young, married couple,
+text: and they're driving through the forest
+text: at night on a long trip. And they run
+text: out of gas, and there's a madman on the-
+speaker_heading: CHARLIE
+dialog: The thing with the hand-
+text: All the boys react, recalling the story and miming the scraping on the
+text: roof of the car.
+speaker_heading: CAMERON
+dialog: I love that story.
+speaker_heading: CHARLIE
+dialog: I told you that one.
+speaker_heading: CAMERON
+dialog: You did not. I got that in camp in
+dialog: sixth grade.
+speaker_heading: CHARLIE
+dialog: When were you in six, last year?
+text: As everyone's voices begin to calm down, Pitts begins reading from the
+dialog: book.
+speaker_heading: PITTS
+text: "In a mean abode in the shanking road,
+dialog: lived a man named William Bloat. Now,
+dialog: he had a wife, the plague of his life,
+dialog: who continually got his goat. And one
+text: day at dawn, with her nightshift on,
+dialog: he slit her bloody throat."
+text: The boys laugh.
+speaker_heading: PITTS
+dialog: Oh, and it gets worse.
+speaker_heading: CHARLIE
+dialog: You want to hear a real poem?
+text: Meeks hands Charlie the book but he shoves it away.
+speaker_heading: CHARLIE
+dialog: All right? No, I don't need it. You take
+dialog: it.
+speaker_heading: MEEKS
+dialog: What, did you bring one?
+speaker_heading: NEIL
+dialog: You memorized a poem?
+speaker_heading: CHARLIE
+dialog: I didn't memorize a poem. Move up.
+text: Neil moves to the side as Charlie stands and takes his spot.
+speaker_heading: MEEKS
+text: An original piece by Charlie Dalton.
+speaker_heading: KNOX
+dialog: An original piece.
+speaker_heading: PITTS
+text: Take center stage.
+speaker_heading: NEIL
+dialog: You know this is history. Right? This is
+dialog: history.
+text: Charlie clears his throat and pulls out a page from a magazine and
+text: slowly unfolds it, revealing a Playboy centerfold (Elaine Reynolds,
+dialog: Miss October, 1959)
+speaker_heading: MEEKS
+dialog: Oh, wow.
+speaker_heading: CAMERON
+dialog: Where did you get that?
+speaker_heading: CHARLIE
+dialog: Teach me to love? Go teach thyself more
+dialog: wit.
+dialog: I, chief professor, am of it.
+text: Neil gets up and looks over Charlie's shoulder to see what he is
+dialog: reading.
+speaker_heading: CHARLIE
+dialog: The god of love, if such a thing there
+dialog: be, may learn to love from me.
+text: Charlie winks at the guys and they clap and cheer.
+speaker_heading: NEIL
+dialog: Wow! Did you write that?
+text: Charlie turns over the centerfold to show where he had written down
+dialog: the poem.
+speaker_heading: CHARLIE
+dialog: Abraham Cowley. Okay, who's next?
+text: Neil sits reading from the book by flashlight.
+speaker_heading: NEIL
+dialog: Alfred Lord Tennyson.
+dialog: Come my friends,
+dialog: 'Tis not too late to seek a newer world
+dialog: for my purpose holds to sail beyond the
+dialog: sunset.
+dialog: And though we are not now that strength
+dialog: which in old days
+dialog: Moved earth and heaven; that which we
+dialog: are, we are;--
+dialog: One equal temper of heroic hearts,
+text: Made weak by time and fate, but strong
+dialog: in will.
+dialog: To strive, to seek, to find, and not to
+dialog: yield.
+text: Meeks takes center stage and begins reading a poem like he is
+text: performing a chant.
+speaker_heading: MEEKS
+dialog: Then I had religion, then I had a
+dialog: vision.
+dialog: I could not turn from their revel in
+dialog: derision.
+dialog: Then I saw the Congo creeping through
+dialog: the black,
+text: cutting through the forest with a golden
+dialog: track.
+dialog: Then I saw the Congo creeping through
+dialog: the black-
+speaker_heading: CHARLIE
+dialog: Meeks, Meeks.
+speaker_heading: MEEKS
+text: ...cutting through the forest with a
+dialog: golden track.
+dialog: Then I saw the Congo creeping through
+dialog: the black,
+text: cutting through the forest with a golden
+dialog: track.
+text: Knox picks up a metal container and begins using it as a drum. The
+text: other boys stand and begin going in a circle, making music with
+text: sticks of wood, combs, etc.
+dialog: Then I saw the Congo creeping through
+dialog: the black,
+text: cutting through the forest with a golden
+dialog: track.
+dialog: Then I saw the Congo creeping through
+dialog: the black,
+text: cutting through the forest with a golden
+dialog: track.
+speaker_heading: BOYS
+dialog: Then I saw the Congo creeping through
+dialog: the black,
+text: cutting through the forest with...
+text: The boys continue to chant the chorus as they emerge from the
+dialog: cave.
+scene_heading: EXT. CAMPUS - NIGHT
+text: The clock tolls two as the boys silently run back to their dorm.
+scene_heading: INT. KEATING'S CLASSROOM - DAY
+text: Keating is walking to the front of the classroom filled with students.
+speaker_heading: KEATING
+text: A man is not very tire, he is exhausted.
+dialog: And don't use very sad, use-
+text: He points to the back of the classroom.
+speaker_heading: KEATING
+dialog: Come on, Mr. Overstreet, you twerp,
+speaker_heading: KNOX
+dialog: Morose?
+speaker_heading: KEATING
+dialog: Exactly! Morose. Now, language was
+dialog: developed for one endeavor, and that is?
+dialog: Mr. Anderson? Come on! Are you a man or
+dialog: an amoeba?
+text: Keating stands before Todd's desk. Todd looks up nervously but
+text: says nothing. Keating paused for a moment before looking away.
+speaker_heading: KEATING
+dialog: Mr. Perry?
+speaker_heading: NEIL
+dialog: Uh, to communicate.
+speaker_heading: KEATING
+dialog: No! To woo women. Today we're going to
+dialog: be talking about William Shakespeare.
+text: The class lets out a collective sigh.
+speaker_heading: BOY
+dialog: Oh, God!
+speaker_heading: KEATING
+dialog: I know. A lot of you looked forward to
+dialog: this about as much as you look forward
+dialog: to root canal work. We're gonna talk
+dialog: about Shakespeare as someone who writes
+dialog: something very interesting. Now, many of
+dialog: you have seen Shakespeare done very much
+dialog: like this:
+text: Keating holds out his right arm dramtically and begins to
+text: speak in an exaggerated British accent.
+dialog: "O Titus, bring your friend hither." But
+dialog: if any of you have seen Mr. Marlon Brando,
+dialog: you know, Shakespeare can be different.
+dialog: "Friend, Romans, countrymen, lend me your
+dialog: ears." You can also imagine, maybe, John
+dialog: Wayne as Macbeth going, "Well, is this a
+dialog: dagger I see before me?"
+scene_heading: INT. KEATING'S CLASSROOM - DAY
+text: The students are all seated together near the front of the room as
+text: Keating reads from a book.
+speaker_heading: KEATING
+dialog: "Dogs, sir? Oh, not just now. I do enjoy
+dialog: a good dog once in a while, sir. You can
+dialog: have yourself a three-course meal from
+dialog: one dog. Start with your canine
+dialog: crudites, go to your Fido flambe for
+text: main course and for dessert, a Pekingese
+dialog: parfait. And you can pick your teeth
+dialog: with a little paw."
+scene_heading: INT. KEATING'S CLASSROOM - DAY
+text: The students are all back in their normal seats and Keating leaps
+text: up onto his desk.
+speaker_heading: KEATING
+dialog: Why do I stand up here? Anybody?
+speaker_heading: CHARLIE
+dialog: To feel taller.
+speaker_heading: KEATING
+dialog: No!
+text: Keating rings the bell on his desk with his foot
+speaker_heading: KEATING
+dialog: Thank you for playing, Mr. Dalton. I
+dialog: stand upon my desk to remind yourself
+dialog: that we must constantly look at things
+text: in a different way.
+text: Keating glances around the classroom from atop the desk.
+speaker_heading: KEATING
+dialog: You see, the world looks very different
+dialog: from up here. You don't believe me? Come
+dialog: see for yourself. Come on. Come on!
+text: Charlie and Neil quickly rise from their seats to go to the front
+text: of the classroom. The rest of the class follows them. While Keating
+text: continues speaking, Neil and Charlie join him on the desk and then
+text: Keating jumps down.
+speaker_heading: KEATING
+dialog: Just when you think you know something,
+dialog: you have to look at it in another way.
+dialog: Even though it may seem silly or wrong,
+dialog: you must try! Now, when you read, don't
+dialog: just consider what the author thinks.
+dialog: Consider what you think.
+speaker_heading: KEATING
+dialog: Boys, you must strive to find your own
+dialog: voice. Because the longer you wait to
+dialog: begin, the less likely you are to find
+dialog: it at all. Thoreau said, "Most men lead
+dialog: lives of quiet desperation." Don't be
+dialog: resigned to that. Break out!
+text: Keating notices Spaz and another boy leaving the desk immediately.
+speaker_heading: KEATING
+dialog: Don't just walk off the edge like lemmings.
+dialog: Look around you.
+text: The school bell rings as the boys continue to climb onto the desk.
+text: Keating begins to gather up his stuff. The clock begins to toll as
+text: Keating walks to the back of the class.
+speaker_heading: KEATING
+dialog: There! There you go, Mr. Priske. Thank
+dialog: you! Yes! Dare to strike out and find
+dialog: new ground. Now, in addition to your
+dialog: essays, I would like you to compose a
+dialog: poem of your own, an original work.
+text: The students begin to groan. Keating begins flickering the lights
+text: off and on while chanting ominously.
+speaker_heading: KEATING
+dialog: That's right! You have to deliver it
+text: aloud in front of the class on Monday.
+dialog: Bonne chance, gentlemen.
+text: Keating steps out into the hall before quickly peeking back in once again.
+text: Todd is the last one to stand on the desk and is about to jump off.
+speaker_heading: KEATING
+dialog: Mr. Anderson? Don't think that I don't
+dialog: know that this assignment scares the
+dialog: hell out of you, you mole.
+text: Keating flicks the light off, leaving Todd to jump down in the darkness
+text: as the students laugh.
+scene_heading: EXT. RIVER - DAY
+text: Cameron, Charlie, and several other boys are rowing while Mr. Nolan
+text: shouts orders from a bullhorn.
+speaker_heading: MR. NOLAN
+dialog: Take a power train in two! Three! Keep
+dialog: your eyes in the boat!
+scene_heading: EXT. CAMPUS ROOFTOP - DAY
+text: Noisy static is replaced by music as Pitts climbs down form the peak to
+text: join Meeks at their makeshift radio.
+speaker_heading: MEEKS
+dialog: We got it, Pittsie. We got it! Radio
+dialog: Free America!
+scene_heading: EXT CAMPUS - DAY
+text: Several students are fencing on a grassy slope.
+scene_heading: EXT. CAMPUS ROOFTOP - DAY
+text: Meeks and Pitts perform a goofy dance together to the music.
+scene_heading: INT. TODD'S ROOM - DAY
+text: Todd is on his bed trying to write a poem. The door opens and Todd
+text: turns his writing pad over. Neil enters the room laughing. He crouches
+text: down next to Todd's bed and plunks a sheet of paper in Todd's lap.
+speaker_heading: NEIL
+dialog: I found it.
+speaker_heading: TODD
+dialog: You found what?
+speaker_heading: NEIL
+dialog: What I wanna do right now. What's
+dialog: really, really inside me.
+speaker_heading: TODD
+dialog: "A Midsummer Night's Dream"?
+speaker_heading: NEIL
+dialog: This is it.
+speaker_heading: TODD
+dialog: What is this?
+speaker_heading: NEIL
+dialog: It's a play, dummy.
+speaker_heading: TODD
+dialog: I know that. I-- Wh-Wh-What does it have
+dialog: to do with you?
+speaker_heading: NEIL
+dialog: Right. They're putting it on at Henley
+dialog: Hall. Open tryouts. Open tryouts!
+speaker_heading: TODD
+dialog: Yes, so?
+text: Neil pounds on the bed and then pulls a blanket off his bed,
+text: wearing it like a cloak.
+speaker_heading: NEIL
+dialog: So, I'm gonna act. Yes, yes! I'm gonna
+dialog: be an actor! Ever since I can remember,
+dialog: I've wanted to try this. I even tried to
+dialog: go to summer stock auditions last year,
+dialog: but, of course, my father wouldn't let
+dialog: me. For the first time in my whole life
+dialog: I know what I wanna do.
+text: Neil grabs a handful of papers off Todd's bed and tosses them into
+dialog: the air.
+speaker_heading: NEIL
+dialog: and for the first time I'm gonna do it
+dialog: whether my father wants me to or not!
+dialog: Carpe diem!
+speaker_heading: TODD
+dialog: Neil, Neil, hold on a minute. How are
+dialog: you gonna be in a play if your father
+dialog: won't let you?
+speaker_heading: NEIL
+dialog: First I gotta get the part, then I can
+dialog: worry about that.
+speaker_heading: TODD
+dialog: Yeah, but won't he kill you if he finds
+dialog: out you went to an audition and didn't
+dialog: even tell him?
+speaker_heading: NEIL
+dialog: No, no, no, no. As far as I'm concerned,
+dialog: he won't have to know about any of this.
+speaker_heading: TODD
+dialog: Well, that's impossible.
+speaker_heading: NEIL
+dialog: Bullshit! Nothing's impossible.
+speaker_heading: TODD
+dialog: Well, why don't you just call him and
+dialog: ask him? And m-maybe he'll say yes.
+speaker_heading: NEIL
+dialog: That's a laugh!
+text: Neil tosses the blanket back onto his bed.
+speaker_heading: NEIL
+dialog: If I don't ask him, at least I won't
+text: be disobeying him.
+speaker_heading: TODD
+dialog: Yeah, but if he said--
+speaker_heading: NEIL
+dialog: (shouting angrily)
+dialog: Jesus, Todd! Whose side are you on?
+text: Todd says nothing. Neil looks at him for a moment and then takes
+text: the flyer back from Todd. He walks over to the window, his
+text: excitement gone.
+speaker_heading: NEIL
+dialog: I mean, I haven't even gotten the part
+dialog: yet. Can't I even enjoy the idea for a
+dialog: little while?
+text: Once again, Todd says nothing. After a moment, Neil sits on the
+text: heater and Todd returns to his poem.
+speaker_heading: NEIL
+dialog: You're coming to the meeting this
+dialog: afternoon?
+speaker_heading: TODD
+dialog: I don't know. Maybe.
+speaker_heading: NEIL
+dialog: Nothing Mr. Keating has to say means
+dialog: shit to you, does it, Todd?
+speaker_heading: TODD
+dialog: W-What is that supposed to mean?
+speaker_heading: NEIL
+dialog: You're in the club! Being in the club
+dialog: means being stirred up by things. You
+text: look about as stirred up as a cesspool.
+text: Neil gets up from the window and stands over Todd.
+speaker_heading: TODD
+dialog: So- You want me out?
+speaker_heading: NEIL
+dialog: No! I want you in, but being in means
+dialog: you gotta do something. Not just say
+dialog: you're in.
+speaker_heading: TODD
+dialog: Well, listen, Neil. I-I appreciate this
+dialog: concern, but I-I'm not like you. All
+dialog: right? You, you, you say thing and
+dialog: people listen. I'm, I'm not like that.
+speaker_heading: NEIL
+dialog: Don't you think you could be?
+speaker_heading: TODD
+dialog: No! I--I, I don't know, but that's not
+dialog: the point. The, the, the point is that
+dialog: there's nothing you can do about it, so
+dialog: you can just butt out. I can take care
+dialog: of myself just fine. All right?
+speaker_heading: NEIL
+dialog: No.
+speaker_heading: TODD
+dialog: What do you mean, "no"?
+text: A smile comes to Neil's face.
+speaker_heading: NEIL
+dialog: No.
+text: Neil grabs Todd's notebook of poetry and runs across the room with
+text: it. Todd leaps up after him.
+speaker_heading: TODD
+dialog: Give me-- Neil. Neil, give that back.
+text: The two begin racing in circles around the room, jumping from
+text: bed to bed as Todd tries to grab his poem back.
+speaker_heading: NEIL
+dialog: "We are dreaming of a--" Poetry! I'm
+dialog: being chased by Walt Whitman! Okay,
+dialog: okay.
+text: Neil drops the notebook. Cameron walks into the room.
+speaker_heading: CAMERON
+dialog: What are you guys doing? I'm sure-- You
+dialog: see this chemistry-
+text: Cameron tries to hold up his book and Neil snatches it from his hands and
+text: suddenly all three of them are racing around the room.
+speaker_heading: CAMERON
+dialog: Hey, give me-- Neil, give me-- Don't be
+dialog: immature. Come on. I need my-
+text: Charlie enters the room and begins waving his hands.
+speaker_heading: CHARLIE
+dialog: Give it to me! Give it to me!
+speaker_heading: NEIL
+dialog: Charlie!
+text: Neil tosses Cameron's book to Charlie.
+speaker_heading: CAMERON
+dialog: Let me have my book, I need my-
+text: The four boys continue racing around the cramped quarters, tossing
+text: Cameron's book back and forth. Neil picks up a recorder and begins
+text: blowing erratic notes on it while Charlie starts pounding on a set of
+text: bongo drums. Outside the room a crowd of boys watch.
+scene_heading: EXT. CAMPUS ENTRANCE - DAY
+text: Knox is riding his bike around in circles near the entrance. Seeing no
+text: one nearby, he races through the open gates and down the road. He comes
+text: to the top of a hill and then goes downhill across the grass, shouting
+text: as he sends an immense flock of geese flying into the air.
+scene_heading: EXT. PARKING LOT - DAY
+text: A number of vehicles drive up, filled with students dressed in bright red
+text: cosyumes, playing trumpets and various other instruments as they pass.
+text: Knox watches the growing crowd of students. They are all converging on
+text: a bus. A football player, wearing a horned helmet, dances on the roof of
+text: the bus. A band is playing while a group of cheerleaders are practising.
+text: Knox spots Chris amongst the cheerleaders. He watches her until Chet
+text: comes along and she grabs hold of his hand. Knox looks away in disgust.
+speaker_heading: COACH
+dialog: Okay, everybody on the bus. Let's go,
+dialog: boys. Come on, let's go. On the bus,
+dialog: boys. Now!
+text: Chris jumps into Chet's arms as everyone begins to board the buses. Knox
+text: turns his bike around and leaves.
+scene_heading: EXT. SOCCER FIELD - DAY
+text: Keating walks across the field, followed by his students. He kicks a ball
+text: ahead of him while he carries a number of other balls in a net slung over
+text: his shoulder.
+speaker_heading: KEATING
+dialog: Now, devotees may argue that one sport
+dialog: or game is inherently better than
+dialog: another. For me, sport is actually a
+dialog: chance for us to have other human beings
+dialog: push us to excel. I want you all to come
+dialog: over here and take a slip of paper and
+text: line up single file.
+text: Keating reaches the stands. He tosses the balls aside and pulls sets
+text: his briefcase down. As the boys line up he begins ripping off slips
+text: of paper from a notepad and handing them out.
+speaker_heading: KEATING
+text: Mr. Meeks, time to inherit the earth.
+dialog: Mr. Pitts, rise above your name.
+text: He hands the notepad to another student.
+speaker_heading: KEATING
+dialog: I want you to hand these out to the boys,
+dialog: one apiece.
+scene_heading: EXT. SOCCER FIELD - DAY
+text: The students are all lined up in single file, each holding a slip
+text: of paper. Keating blows his whistle.
+speaker_heading: KEATING
+dialog: You know what to do, Pitts.
+speaker_heading: PITTS
+dialog: "Oh to struggle against great odds. To
+dialog: meet enemies undaunted."
+speaker_heading: KEATING
+dialog: Sounds to me like you're daunted. Say it
+dialog: again like you're undaunted.
+speaker_heading: PITTS
+dialog: "Oh to struggle against great odds. To
+dialog: meet enemies undaunted."
+speaker_heading: KEATING
+dialog: Now go on.
+text: Pitts gives one of the soccer balls a good kick.
+speaker_heading: KEATING
+dialog: Yes! Next.
+text: One of the students sets up the next ball as the line advances.
+speaker_heading: BOY 1
+dialog: "To be a sailor of the world, bound for
+dialog: all ports."
+speaker_heading: KEATING
+dialog: Next. Louder!
+speaker_heading: BOY 2
+dialog: "Oh, I live to be the ruler of life, not
+dialog: a slave."
+text: Keating walks away and starts up a record player.
+speaker_heading: BOY 3
+dialog: "To mount the scaffolds. To advance to
+text: the muzzle of guns with perfect
+dialog: nonchalance."
+text: Classical music begins playing on the phonograph. Meeks goes to
+text: read next but is confused by the music.
+speaker_heading: KEATING
+dialog: Come on, Meeks! Listen to the music.
+speaker_heading: MEEKS
+dialog: "To dance, clap hands, exalt, shout,
+dialog: skip, roll on, float on."
+speaker_heading: KEATING
+dialog: Yes!
+speaker_heading: HOPKINS
+dialog: (without energy)
+dialog: "Oh, to have life henceforth the poem of
+dialog: new joys."
+text: Hopkins crumples up his paper and then barely taps the soccer
+text: ball with his foot.
+text: Keating puts a look of disgust on his face.
+speaker_heading: KEATING
+dialog: Oh! Boo! Come on, Charlie, let it fill
+dialog: your soul!
+text: Charlie raises his hands over his head.
+speaker_heading: CHARLIE
+dialog: "To indeed be a god!"
+scene_heading: INT. DORM HALLWAY - DAY
+text: Neil is racing down the hallway, all excited.
+speaker_heading: NEIL
+dialog: Charlie, I got the part! I'm gonna play
+dialog: Puck! I'm gonna play Puck!
+text: He pounds on Charlie's door.
+speaker_heading: MEEKS
+dialog: What did he say?
+speaker_heading: PITTS
+dialog: Puck?
+speaker_heading: NEIL
+dialog: That's the main part.
+speaker_heading: KNOX
+dialog: Great, Neil.
+speaker_heading: NEIL
+dialog: Charlie, I got it!
+speaker_heading: CHARLIE
+dialog: Congratulations. Good for you, Neil.
+dialog: Good for you.
+text: Neil enters his room with Todd and sits down at his typewriter.
+speaker_heading: NEIL
+dialog: Okay, okay, okay, okay.
+speaker_heading: TODD
+dialog: Neil, how are you gonna do this?
+speaker_heading: NEIL
+dialog: They need a letter of permission from my
+dialog: father and Mr. Nolan.
+speaker_heading: TODD
+dialog: You're not gonna write it.
+speaker_heading: NEIL
+dialog: Oh yes, I am.
+speaker_heading: TODD
+dialog: Oh, Neil. Neil, you're crazy.
+text: Neil begins typing.
+speaker_heading: NEIL
+dialog: Okay. "I am writing to you on behalf of
+dialog: my son Neil Perry."
+text: Neil begins laughing and stomping his feet up and down.
+speaker_heading: NEIL
+dialog: This is great.
+scene_heading: EXT. CAMPUS - NIGHT
+text: A lone bagpiper plays out on the dock.
+scene_heading: INT. TODD'S ROOM - NIGHT
+text: Todd is pacing circles about his room as he reads his poem. His
+text: pacing slows and then he tears the poem up.
+scene_heading: INT. KEATING'S CLASSROOM - DAY
+text: Knox stands at the front of the room with his poem in hand.
+speaker_heading: KNOX
+dialog: (quietly)
+dialog: "To Chris."
+text: Charlie looks up from his desk with a grin.
+speaker_heading: BOY 1
+dialog: Who's Chris?
+speaker_heading: BOY 2
+dialog: Mmm, Chris.
+speaker_heading: KNOX
+text: I see a sweetness in her smile.
+text: Blight light shines from her eyes.
+dialog: But life is complete; contentment is
+dialog: mine,
+dialog: Just knowing that...
+text: Several students begin to snicker.
+speaker_heading: KNOX
+text: just knowing that she's alive.
+text: Knox crumples his poem and walks back to his desk.
+speaker_heading: KNOX
+dialog: Sorry, Captain. It's stupid.
+speaker_heading: KEATING
+dialog: No, no. It's not stupid. It's a good
+text: effort. It touched on one of the major
+text: themes, love. A major theme not only in
+dialog: poetry, but life. Mr. Hopkins, you were
+dialog: laughing. You're up.
+text: Hopkins slowly walks to the front of the class and unfolds
+text: his piece of paper.
+speaker_heading: HOPKINS
+text: "The cat sat on the mat."
+speaker_heading: KEATING
+dialog: Congratulations, Mr. Hopkins. Yours is
+dialog: the first poem to ever have a negative
+dialog: score on the Pritchard scale. We're not
+dialog: laughing at you, we're laughing near
+dialog: you. I don't mind that your poem had a
+dialog: simple theme. Sometimes the most
+dialog: beautiful poetry can be about simple
+text: things, like a cat, or a flower or rain.
+dialog: You see, poetry can come from anything
+dialog: with the stuff of revelation in it. Just
+dialog: don't let your poems be ordinary. Now,
+dialog: who's next?
+text: Keating approaches Todd's desk.
+speaker_heading: KEATING
+dialog: Mr. Anderson, I see you sitting there in
+dialog: agony. Come on, Todd, step up. Let's put
+dialog: you out of your misery.
+speaker_heading: TODD
+dialog: I, I didn't do it. I didn't write a
+dialog: poem.
+speaker_heading: KEATING
+dialog: Mr. Anderson thinks that everything
+text: inside of him is worthless and
+dialog: embarrassing. Isn't that right, Todd?
+dialog: Isn't that your worst fear? Well, I
+dialog: think you're wrong. I think you have
+dialog: something inside of you that is worth a
+dialog: great deal.
+text: Keating walks up to the blackboard and begins to write.
+speaker_heading: KEATING
+text: "I sound my barbaric yawp over the
+dialog: rooftops of the world." W. W. Uncle Walt
+dialog: again. Now, for those of you who don't
+text: know, a yawp is a loud cry or yell. Now,
+dialog: Todd, I would like you to give us a
+text: demonstration of a barbaric "yawp." Come
+dialog: on. You can't yawp sitting down. Let's
+dialog: go. Come on. Up.
+text: Todd reluctantly stands and follows Keating to the front.
+speaker_heading: KEATING
+dialog: You gotta get in "yawping" stance.
+speaker_heading: TODD
+dialog: A yawp?
+speaker_heading: KEATING
+text: No, not just a yawp. A barbaric yawp.
+speaker_heading: TODD
+dialog: (quietly)
+dialog: Yawp.
+speaker_heading: KEATING
+dialog: Come on, louder.
+speaker_heading: TODD
+dialog: (quietly)
+dialog: Yawp.
+speaker_heading: KEATING
+dialog: No, that's a mouse. Come on. Louder.
+speaker_heading: TODD
+dialog: Yawp.
+speaker_heading: KEATING
+dialog: Oh, good God, boy. Yell like a man!
+speaker_heading: TODD
+dialog: (shouting)
+dialog: Yawp!
+speaker_heading: KEATING
+dialog: There it is. You see, you have a
+dialog: barbarian in you, after all.
+text: Todd goes to return to his seat but Keating stops him.
+speaker_heading: KEATING
+dialog: Now, you don't get away that easy.
+text: Keating turns Todd around and points out a picture on the wall.
+speaker_heading: KEATING
+dialog: The picture of Uncle Walt up there. What
+dialog: does he remind you of? Don't think.
+dialog: Answer. Go on.
+text: Keating begins to circle around Todd.
+speaker_heading: TODD
+dialog: A m-m-madman.
+speaker_heading: KEATING
+dialog: What kind of madman? Don't think about
+dialog: it. Just answer again.
+speaker_heading: TODD
+dialog: A c-crazy madman.
+speaker_heading: KEATING
+dialog: No, you can do better than that. Free up
+dialog: your mind. Use your imagination. Say the
+dialog: first thing that pops into your head,
+dialog: even if it's total gibberish. Go on, go
+dialog: on.
+speaker_heading: TODD
+dialog: Uh, uh, a sweaty-toothed madman.
+speaker_heading: KEATING
+dialog: Good God, boy, there's a poet in you,
+dialog: after all. There, close your eyes. Close
+dialog: your eyes. Close 'em. Now, describe what
+dialog: you see.
+text: Keating puts his hands over Todd's eyes and they begin to slowly
+text: spin around.
+speaker_heading: TODD
+dialog: Uh, I-I close my eyes.
+speaker_heading: KEATING
+dialog: Yes?
+speaker_heading: TODD
+text: Uh, and this image floats beside me.
+speaker_heading: KEATING
+dialog: A sweaty-toothed madman?
+speaker_heading: TODD
+text: A sweaty-toothed madman with a stare
+text: that pounds my brain.
+speaker_heading: KEATING
+dialog: Oh, that's excellent. Now, give him
+dialog: action. Make him do something.
+speaker_heading: TODD
+text: H-His hands reach out and choke me.
+speaker_heading: KEATING
+dialog: That's it. Wonderful. Wonderful.
+text: Keating removes his hands from Todd but Todd keeps his eyes
+dialog: closed.
+speaker_heading: TODD
+text: And, and all the time he's mumbling.
+speaker_heading: KEATING
+dialog: What's he mumbling?
+speaker_heading: TODD
+dialog: M-Mumbling, "Truth. Truth is like, like
+dialog: a blanket that always leaves your feet
+dialog: cold."
+text: The students begin to laugh and Todd opens his eyes. Keating
+text: quickly gestures for him to close them again.
+speaker_heading: KEATING
+dialog: Forget them, forget them. Stay with the
+dialog: blanket. Tell me about that blanket.
+speaker_heading: TODD
+dialog: Y-Y-Y-You push it, stretch it, it'll
+dialog: never be enough. You kick at it, beat
+dialog: it, it'll never cover any of us. From
+dialog: the moment we enter crying to the moment
+dialog: we leave dying, it will just cover your
+text: face as you wail and cry and scream.
+text: Todd opens his eyes. The class is silent. Then they begin to clap
+dialog: and cheer.
+speaker_heading: KEATING
+dialog: (whispering to Todd)
+dialog: Don't you forget this.
+scene_heading: EXT. SOCCER FIELD - DAY
+text: Keating's students are playing a soccer game. After they score the
+text: winning goal they hoist Keating onto their shoulders and carry him
+dialog: away.
+scene_heading: INT. CAVE - DAY
+text: The boys are all sitting around the cave lighting their pipes.
+speaker_heading: CHARLIE
+text: Attaboy, Pittsie, inhale deeply.
+speaker_heading: MEEKS
+dialog: My dad collects a lot of pipes.
+speaker_heading: CHARLIE
+dialog: Really? Mine's got thirty.
+speaker_heading: PITTS
+dialog: Your parents collect pipes? Oh, that's
+dialog: really interesting.
+speaker_heading: CHARLIE
+dialog: Come on, Knox. Join in.
+speaker_heading: MEEKS
+dialog: Yeah, Knox, we're from the government.
+dialog: We're here to help, man.
+speaker_heading: CHARLIE
+dialog: What's wrong?
+speaker_heading: PITTS
+dialog: It's Chris. Here's a picture of Chris
+dialog: for you.
+text: Pitts holds up a centerfold.
+speaker_heading: MEEKS
+dialog: Smoke that. Put that in your pipe and
+dialog: smoke it.
+speaker_heading: KNOX
+dialog: That's not funny.
+speaker_heading: CHARLIE
+dialog: Knock it off. Smoke your pipes.
+speaker_heading: MEEKS
+dialog: Neil!
+text: Neil enters the cave carrying a beat up light stand.
+speaker_heading: NEIL
+dialog: Friend, scholar, Welton men.
+speaker_heading: MEEKS
+dialog: What is that, Neil?
+speaker_heading: PITTS
+dialog: Duh. It's a lamp, Meeks.
+text: Neil removes the shade from the lamp, revealing the shape of a man
+text: as the base of the lamp.
+speaker_heading: NEIL
+dialog: No. This is the god of the cave.
+speaker_heading: MEEKS
+text: The god of the cave.
+text: Charlie begins making loud noises with his saxophone.
+speaker_heading: PITTS
+dialog: Charlie, what are you doing?
+speaker_heading: CHARLIE
+dialog: What do you say we start this meeting?
+speaker_heading: BOY 1
+dialog: Y-Yeah, just-- I need a light. I just
+dialog: gotta-
+speaker_heading: BOY 2
+dialog: Got my earplugs?
+text: Charlie stands up and clears his throat.
+speaker_heading: CHARLIE
+dialog: Gentlemen, "Poetrusic" by Charles
+dialog: Dalton.
+text: Charlie begins playing erratic notes on the sexophone.
+speaker_heading: MEEKS
+dialog: Oh, no.
+speaker_heading: CHARLIE
+text: Laughing, crying, tumbling, mumbling.
+dialog: Gotta do more. Gotta be more.
+text: Charlie plays more erratic sounds.
+speaker_heading: CHARLIE
+text: Chaos screaming, chaos dreaming. Gotta
+dialog: do more! Gotta be more!
+text: Charlie starts to play a real tune on the saxophone.
+speaker_heading: MEEKS
+dialog: Wow!
+speaker_heading: PITTS
+dialog: That was nice. That was great. Where did
+dialog: you learn to play like that?
+speaker_heading: CHARLIE
+dialog: My parents made me take the clarinet for
+dialog: years.
+speaker_heading: CAMERON
+dialog: I love the clarinet.
+speaker_heading: CHARLIE
+dialog: I hated it. The saxophone. The saxophone
+text: is more sonorous.
+speaker_heading: CAMERON
+dialog: Ooh.
+speaker_heading: MEEKS
+dialog: Vocabulary.
+text: Knox jumps up.
+speaker_heading: KNOX
+dialog: I can't take it anymore. If I don't have
+dialog: Chris, I'm gonna kill myself.
+speaker_heading: CHARLIE
+dialog: Knoxious, you've gotta calm down.
+speaker_heading: KNOX
+dialog: No, Charlie. That's just my problem.
+dialog: I've been calm all my life. I'll do
+dialog: something about that.
+speaker_heading: NEIL
+dialog: Where are you going?
+speaker_heading: CHARLIE
+dialog: What are you gonna do?
+speaker_heading: KNOX
+dialog: I'm gonna call her.
+text: Knox begins to chuckle as he leaves the cave. The others
+text: quickly grab their coats to follow him. Charlie goes back to
+text: playing noise on his saxophone again.
+scene_heading: INT. HALLWAY - DAY
+text: Knox is making a call from the payphone.
+speaker_heading: CHRIS (O.S.)
+dialog: Hello?
+text: Knox immediately hangs up and looks at the other boys who are
+text: all gathered around him.
+speaker_heading: KNOX
+dialog: She's gonna hate me. The Danburrys will
+dialog: hate me. My parents will kill me.
+dialog: All right, goddamn it. You're right.
+text: "Carpe diem." Even if it kills me.
+text: Knox puts in another coin and calls again.
+speaker_heading: CHRIS (O.S.)
+dialog: Hello?
+speaker_heading: KNOX
+dialog: Hello, Chris?
+speaker_heading: CHRIS (O.S.)
+dialog: Yes.
+speaker_heading: KNOX
+dialog: Hi. This is Knox Overstreet.
+speaker_heading: CHRIS (O.S.)
+dialog: Oh, yes. Knox. Glad you called.
+speaker_heading: KNOX
+dialog: She's glad I called.
+speaker_heading: CHRIS (O.S.)
+dialog: Listen, Chet's parents are going out of
+dialog: town this weekend, so he's having a
+dialog: party. Would you like to come?
+speaker_heading: KNOX
+dialog: Would I like to come to a party?
+speaker_heading: CHARLIE
+dialog: Yes. Say, yes.
+speaker_heading: CHRIS (O.S.)
+dialog: Friday? Um-
+speaker_heading: KNOX
+dialog: Well, sure.
+speaker_heading: CHRIS (O.S.)
+dialog: About seven?
+speaker_heading: KNOX
+dialog: Okay, great. I-I'll be there, Chris.
+speaker_heading: CHRIS (O.S.)
+dialog: Okay.
+speaker_heading: KNOX
+dialog: Friday night at the Danburrys'. O-Okay.
+dialog: Thank you.
+speaker_heading: CHRIS (O.S.)
+dialog: Okay. Bye.
+speaker_heading: KNOX
+dialog: Thank you. I'll see you. Bye.
+speaker_heading: KNOX
+dialog: Yawp! Can you believe it? She was gonna
+dialog: call me. She invited me to a party with
+dialog: her.
+speaker_heading: CHARLIE
+text: At Chet Danburry's house.
+speaker_heading: KNOX
+dialog: Yeah.
+speaker_heading: CHARLIE
+dialog: Well?
+speaker_heading: KNOX
+dialog: So?
+speaker_heading: CHARLIE
+dialog: So, you don't really think she means
+dialog: you're going with her?
+speaker_heading: KNOX
+dialog: Well, of course not, Charlie. But that's
+dialog: not the point. That's not the point at
+dialog: all.
+speaker_heading: CHARLIE
+dialog: What is the point?
+speaker_heading: KNOX
+dialog: The point, Charlie, is, uh--
+speaker_heading: CHARLIE
+dialog: Yeah?
+speaker_heading: KNOX
+dialog: that she was thinking about me. I've
+dialog: only met her once, and already she's
+dialog: thinking about me. Damn it. It's gonna
+dialog: happen, guys. I feel it. She is going to
+dialog: be mine. Carpe. Carpe!
+text: Knox flips his scarf dramatically around his neck as he walks away
+text: and climbs the stairs.
+scene_heading: EXT. COURTYARD - DAY
+text: The students are standing in a line while Cameron, Pitts, and Knox
+text: are walking in a circle. Keating watches as they go around.
+speaker_heading: KEATING
+dialog: No grades at stake, gentlemen. Just take
+text: a stroll.
+text: After a few moments, the three boys begin to march to the same beat.
+speaker_heading: KEATING
+dialog: There it is.
+text: The other boys start clapping to the rhythm of their steps.
+speaker_heading: KEATING
+dialog: I don't know, but I've been told--
+speaker_heading: BOYS
+dialog: I don't know, but I've been told--
+speaker_heading: KEATING
+dialog: Doing poetry is old--
+speaker_heading: BOYS
+dialog: Doing poetry is old--
+text: Mr. Nolan looks out at them from his office as Keating joins the
+text: boys and begins marching with them.
+speaker_heading: KEATING
+dialog: Left, left, left-right-left. Left, left,
+dialog: left-right-left. Left, halt!
+text: The boys come to a halt.
+speaker_heading: KEATING
+dialog: Thank you, gentlemen. If you noticed,
+dialog: everyone started off with their own
+text: stride, their own pace.
+text: Keating begins walking very slowly.
+speaker_heading: KEATING
+text: Mr. Pitts, taking his time. He knew he'll
+dialog: get there one day. Mr. Cameron, you could
+dialog: see him thinking, "Is this right? It might
+dialog: be right. It might be right. I know that.
+dialog: Maybe not. I don't know."
+text: Keating begins walking with his groin pushed forward.
+speaker_heading: KEATING
+text: Mr. Overstreet, driven by deeper force.
+dialog: Yes. We know that. All right. Now, I
+dialog: didn't bring them up here to ridicule
+dialog: them. I brought them up here to illustrate
+dialog: the point of conformity: the difficulty in
+dialog: maintaining your own beliefs in the face
+dialog: of others. Now, those of you -- I see
+dialog: the look in your eyes like, "I would've
+dialog: walked differently." Well, ask
+dialog: yourselves why you were clapping. Now,
+dialog: we all have a great need for acceptance.
+dialog: But you must trust that your beliefs are
+dialog: unique, your own, even though others may
+dialog: think them odd or unpopular, even though
+dialog: the herd may go, "That's baaaaad." Robert
+dialog: Frost said, "Two roads diverged in a
+dialog: wood and I, I took the one less traveled
+dialog: by, and that has made all the
+dialog: difference." Now, I want you to find
+dialog: your own walk right now. Your own way of
+text: striding, pacing. Any direction.
+dialog: Anything you want. Whether it's proud,
+dialog: whether it's silly, anything. Gentlemen,
+dialog: the courtyard is yours.
+text: The students begin walking about, some walking casually, others
+text: making up silly walks. Keating notices that Charlie is still
+text: leaning up against one of the pillars.
+speaker_heading: KEATING
+dialog: You don't have to perform. Just make it
+dialog: for yourself. Mr. Dalton? You be joining
+dialog: us?
+speaker_heading: CHARLIE
+dialog: Exercising the right not to walk.
+speaker_heading: KEATING
+dialog: Thank you, Mr. Dalton. You just
+dialog: illustrated the point. Swim against the
+dialog: stream.
+text: Nolan moves away from the window where he had been watching them.
+scene_heading: EXT. CAMPUS - NIGHT
+text: Neil is walking by with the notes for the play when he notices Todd
+text: sitting off by himself on one of the walkways.
+speaker_heading: NEIL
+dialog: Todd? Hey.
+speaker_heading: TODD
+dialog: Hey.
+speaker_heading: NEIL
+dialog: What's going on?
+speaker_heading: TODD
+dialog: Nothing. Today's my birthday.
+speaker_heading: NEIL
+dialog: Is today your birthday? Happy birthday.
+speaker_heading: TODD
+dialog: Thanks.
+speaker_heading: NEIL
+dialog: What's you get?
+speaker_heading: TODD
+dialog: My parents gave me this.
+text: Neil looks down at a deskset sitting next to Todd, still in
+text: its wrappings.
+speaker_heading: NEIL
+dialog: Isn't this the same desk set-
+speaker_heading: TODD
+dialog: Yeah, yeah. They gave me the same thing
+dialog: as last year.
+speaker_heading: NEIL
+dialog: Oh.
+speaker_heading: TODD
+dialog: Oh.
+speaker_heading: NEIL
+dialog: (laughing)
+dialog: Maybe they thought you needed another
+dialog: one.
+speaker_heading: TODD
+dialog: Maybe they weren't thinking about
+dialog: anything at all. Uh, the funny thing is
+dialog: about this is I, I didn't even like it
+dialog: the first time.
+speaker_heading: NEIL
+dialog: Todd, I think you're underestimating the
+dialog: value of this desk set.
+text: Neil picks up the desk set and begins examining it more closely.
+speaker_heading: NEIL
+dialog: I mean, who would want a football or
+dialog: a baseball, or-
+speaker_heading: TODD
+dialog: Or a car.
+speaker_heading: NEIL
+dialog: Or a car if they could have a desk set
+dialog: as wonderful as this one? I mean, if, if
+dialog: I were ever going to buy a, a desk set
+dialog: twice, I would probably buy this one
+dialog: both times. In fact, its, its shape is,
+dialog: it's rather aerodynamic, isn't it? I can
+dialog: feel it. This desk set wants to fly.
+text: Neil tosses the desk set lightly in the air. Todd stands up
+text: and Neil hands him the desk set.
+speaker_heading: NEIL
+dialog: Todd? The world's first unmanned flying
+text: desk set.
+text: Todd flings the desk set over the side of the walkway and it
+text: falls to pieces down below.
+speaker_heading: TODD
+dialog: Oh, my!
+speaker_heading: NEIL
+dialog: Well, I wouldn't worry. You'll get
+dialog: another one next year.
+scene_heading: INT. CAVE - NIGHT
+text: All the boys but Knox and Charlie are gathered in the cave.
+speaker_heading: BOYS
+dialog: "To live deep and suck out all the
+dialog: marrow of life. To put to rout all that
+dialog: was not life"
+text: The boys stop as they hear the sound of female laughter outside.
+speaker_heading: CAMERON
+dialog: Oh, my God!
+speaker_heading: GLORIA
+dialog: Is this it?
+speaker_heading: CHARLIE
+dialog: Yeah, this is it. Go ahead, go on in.
+dialog: It's my cave. Watch your step.
+speaker_heading: TINA
+dialog: We're not gonna slip, are we?
+speaker_heading: GLORIA
+dialog: Uh-oh.
+text: Gloria hops into the cave wearing a bright red shirt. The lights from
+text: the boys' flashlights play conspicously over Gloria's chest. Tina
+text: enters right behind her.
+speaker_heading: GLORIA
+dialog: Hi.
+text: Meeks stands up and slams his head into the low ceiling.
+speaker_heading: MEEKS
+dialog: Hello.
+speaker_heading: GLORIA
+dialog: Hello.
+speaker_heading: CHARLIE
+dialog: Hi, you guys. Meet, uh, Gloria and--
+speaker_heading: TINA
+dialog: Tina.
+speaker_heading: CHARLIE
+dialog: Tina. This is the pledge class of the
+dialog: Dead Poets Society.
+dialog: 
+speaker_heading: BOYS
+dialog: Hello. How do you do?
+speaker_heading: NEIL
+dialog: Hello.
+speaker_heading: GLORIA
+dialog: Hi. Hi.
+speaker_heading: CHARLIE
+dialog: Guys, move. Move. Come on, folks. It's
+dialog: Friday night. Let's get on with the
+dialog: meeting.
+text: The boys move aside to let the girls in.
+speaker_heading: BOYS
+dialog: Sorry. Excuse- Excuse me.
+speaker_heading: CHARLIE
+dialog: Guys, I have an announcement to make. In
+dialog: keeping with the spirit of passionate
+dialog: experimentation of the Dead Poets, I'm
+dialog: giving up the name Charlie Dalton. From
+dialog: now on, call me Nuwanda.
+speaker_heading: PITTS
+dialog: (laughing)
+dialog: Nuwanda?
+speaker_heading: NEIL
+dialog: Nuwanda?
+text: Tina takes out a tube of red lipstick. Charlie takes it from her
+text: and puts red marks on each of his cheeks.
+scene_heading: INT. CHET'S HOUSE - NIGHT
+text: Knox enters the house and looks anxiously about.
+speaker_heading: KNOX
+dialog: Hello? Hello, Chris?
+text: Knox stops and combs his hair in the hallway mirror. Chris comes
+text: running out from one of the rooms.
+speaker_heading: CHRIS
+dialog: Knox!
+speaker_heading: KNOX
+dialog: Hi.
+speaker_heading: CHRIS
+dialog: You made it. Great! Bring anybody?
+speaker_heading: KNOX
+dialog: No.
+text: Chris grabs Knox by his jackets and pulls him forward as she walks
+text: toward the stairs.
+speaker_heading: CHRIS
+text: No. Ginny Danburry's here. Wait. I have
+dialog: to go find Chet. Why don't you go
+dialog: downstairs where everybody is?
+text: Chris runs up the stairs as Knox stares after her.
+speaker_heading: CHRIS
+dialog: Make yourself at home.
+speaker_heading: KNOX
+dialog: But I--
+scene_heading: INT. CHET'S BASEMENT - NIGHT
+text: Knox stares at a couple kissing passionately. Across the room he sees
+text: Chet and Chris dancing. He walks away.
+scene_heading: INT. CHET'S KITCHEN - NIGHT
+text: Knox enters the kitchen, walking between several football players
+text: to fill up a mug of beer from a keg.
+speaker_heading: STEVE
+dialog: Hey, you Mutt Sanders' brother? Bubba,
+dialog: this guy look like Mutt Sanders to you
+dialog: or what?
+text: Bubba spits ice cubes into the sink.
+speaker_heading: BUBBA
+dialog: You're his brother?
+speaker_heading: KNOX
+dialog: No relation. Never heard of him. Sorry,
+dialog: guys.
+speaker_heading: BUBBA
+dialog: (obviously drunk)
+dialog: Where's your manners Steve? Mutt Sanders'
+dialog: brother, we don't even offer him a
+dialog: drink. Here. Go have some whiskey, pal.
+text: Bubba hands Knox a glass and fills it up.
+speaker_heading: STEVE
+dialog: Yeah.
+speaker_heading: KNOX
+dialog: Whoa, I, uh, I don't really drink--
+speaker_heading: BUBBA
+dialog: To Mutt.
+speaker_heading: STEVE
+dialog: To Mutt.
+text: The two guys raise their glasses in a toast and Knox reluctantly
+text: joins them.
+speaker_heading: KNOX
+dialog: To Mutt.
+text: They each take a big drink. Knox rolls his eyes and gasps,
+text: loosening his tie to try and breathe.
+speaker_heading: BUBBA
+dialog: Now, how the hell is old Mutt, anyway?
+speaker_heading: STEVE
+dialog: Yeah. What's ol' Mutter been up to, huh?
+speaker_heading: KNOX
+dialog: I don't really know Mutt.
+speaker_heading: BUBBA
+dialog: To Mighty Mutt.
+speaker_heading: GUY 1
+dialog: To Mighty Mutt.
+speaker_heading: KNOX
+dialog: To Mighty Mutt.
+text: They raise their glasses again for a toast and down the rest
+text: of their glasses.
+speaker_heading: BUBBA
+dialog: Well, listen, I gotta go find Patsy. Say
+dialog: hello to Mutt for me, okay?
+speaker_heading: KNOX
+dialog: Will do.
+text: Bubba puts on a horned football helmet and walks away.
+speaker_heading: STEVE
+dialog: Yeah. Hell of a guy, your brother Mutt.
+scene_heading: INT. CAVE - NIGHT
+speaker_heading: CHARLIE
+dialog: We gonna have a meeting or what?
+speaker_heading: GLORIA
+dialog: Yeah. If you guys don't have a meeting,
+dialog: how do we know if we wanna join?
+speaker_heading: NEIL
+dialog: Join?
+text: Charlie leans over to Tina.
+speaker_heading: CHARLIE
+dialog: "Shall I compare thee to a summer's day?
+dialog: Thou art more lovely and more
+dialog: temperate."
+speaker_heading: TINA
+dialog: That's so sweet.
+speaker_heading: CHARLIE
+dialog: I made that up just for you.
+speaker_heading: TINA
+dialog: You did?
+text: The boys laugh and Cameron shakes his head. Charlie moves over
+text: to sit next to Gloria.
+speaker_heading: CHARLIE
+dialog: I'll write one for you too, Gloria.
+text: She walks in beauty like the night.
+text: She walks in beauty like the night.
+text: Of cloudless climes and starry skies.
+dialog: All that's best, dark and bright,
+text: Meet in her aspect and her eyes.
+speaker_heading: GLORIA
+dialog: That's beautiful.
+speaker_heading: CHARLIE
+dialog: There's plenty more where that came
+dialog: from.
+scene_heading: INT. CHET'S BASEMENT - NIGHT
+text: The room is whirling as Knox belches and staggers across the room. He
+text: passes Chet and several of his friends. He steps over several couples
+text: kissing on the floor and slump down on the couch, only to be crowded
+text: in by another couple who seem oblivious to him. He is about to get up
+text: again when he notices Chris sleeping next to him on the couch.
+speaker_heading: KNOX
+dialog: God help me.
+text: Knox looks about and then looks back down at Chris.
+speaker_heading: KNOX
+dialog: Carpe diem.
+text: Knox takes a last swig of his drink and then begins to softly run his
+text: fingers over Chris' hair. He then leans over and kisses her forehead.
+text: Across the room, Bubba looks over and sees what's going on.
+speaker_heading: BUBBA
+dialog: Chet! Chet! Look!
+speaker_heading: CHET
+dialog: What?
+speaker_heading: BUBBA
+dialog: It's Mutt Sanders' brother.
+speaker_heading: CHET
+dialog: Huh?
+text: Chris rises up from the couch and looks at Knox in surprise.
+speaker_heading: CHRIS
+dialog: Knox, what--
+speaker_heading: BUBBA
+dialog: And he's feeling up your girl!
+speaker_heading: CHRIS
+dialog: What are you doing?
+text: Chet gets up from his chair.
+speaker_heading: CHET
+dialog: What the hell are you doing?
+speaker_heading: CHRIS
+dialog: Chet! Chet, don't.
+speaker_heading: KNOX
+dialog: Now, Chet, I know this looks bad, but
+dialog: you've gotta-
+text: Chet throws himself at Knox, hurling them both to the floor. He
+text: then straddles Knox and begins to punch at him as Knox simply
+text: tries to protect himself.
+speaker_heading: CHRIS
+dialog: Chet, no! You'll hurt him! No! No! Stop
+dialog: it! Leave him alone!
+speaker_heading: CHET
+dialog: Goddamn!
+speaker_heading: CHRIS
+dialog: Chet, stop it!
+text: Chris manages to haul Chet away from Knox.
+speaker_heading: CHET
+dialog: Bastard!
+text: Knox takes his hands away from his face and feels at his bloody
+text: nose. Chris tries to help him up.
+speaker_heading: CHRIS
+dialog: Knox, are you all right?
+speaker_heading: CHET
+dialog: Chris, get the hell away from him!
+speaker_heading: CHRIS
+dialog: Chet, you hurt him!
+speaker_heading: CHET
+dialog: Good!
+speaker_heading: KNOX
+dialog: I'm sorry. I'm so sorry.
+speaker_heading: CHRIS
+dialog: It's okay. It-It's okay.
+text: Chet hauls Chris away from Knox and then points at him.
+speaker_heading: CHET
+dialog: Next time I see you, you die.
+scene_heading: INT. CAVE - NIGHT
+text: Tina passes a bottle of alcohol to Neil.
+speaker_heading: TINA
+dialog: Go ahead, pass it around.
+text: Cameron motions for Neil not to take it but Neil takes a swig anyway.
+text: There is a moment of awkward silence.
+speaker_heading: MEEKS
+dialog: Me and Pitts are working on a hi-fi
+dialog: system. It shouldn't be that hard to,
+dialog: uh, to put together.
+speaker_heading: PITTS
+dialog: Yeah. Uh, I might be going to Yale. Uh,
+dialog: uh, but, I, I might not.
+speaker_heading: GLORIA
+dialog: Don't you guys miss having girls around
+dialog: here?
+scene_heading: MEEKS AND PITTS
+dialog: (smiling)
+dialog: Yeah.
+speaker_heading: CHARLIE
+dialog: That's part of what this club is about.
+dialog: In fact, I'd like to announce I
+dialog: published an article in the school
+text: paper, in the name of the Dead Poets.
+speaker_heading: CAMERON
+dialog: What?
+speaker_heading: CHARLIE
+text: Demanding girls be admitted to Welton.
+speaker_heading: PITTS
+dialog: You didn't.
+speaker_heading: CHARLIE
+dialog: (whispering to Meeks)
+dialog: So we can all stop beating off.
+speaker_heading: NEIL
+dialog: How did you do that?
+speaker_heading: CHARLIE
+dialog: I'm one of the proofers. I slipped the
+dialog: article in.
+speaker_heading: MEEKS
+dialog: Look, uh, it's, it's over now.
+speaker_heading: CHARLIE
+dialog: Why? Nobody knows who we are.
+speaker_heading: CAMERON
+dialog: Well, don't you think they're gonna
+dialog: figure out who wrote it? They're gonna
+dialog: come to you and ask to know what the
+dialog: Dead Poets Society is. Charlie, you had
+dialog: no right to do something like that.
+speaker_heading: CHARLIE
+dialog: It's Nuwanda, Cameron.
+speaker_heading: GLORIA
+dialog: That's right. It's Nuwanda.
+speaker_heading: CHARLIE
+dialog: Are we just playing around out here, or
+dialog: do we mean what we say? For all we do is
+text: come together and reach a bunch of poems
+dialog: to each other. What the hell are we
+dialog: doing?
+speaker_heading: NEIL
+dialog: All right, but you still shouldn't have
+dialog: done it, Charlie. This could mean
+dialog: trouble. You don't speak for the club.
+speaker_heading: CHARLIE
+dialog: Hey, would you not worry about your
+dialog: precious little neck? If they catch me,
+dialog: I'll tell them I made it up.
+scene_heading: INT. ASSEMBLY HALL - DAY
+text: The professors hurry down the steps, lead by an obviously agitated
+text: Mr. Nolan. Several are carrying newspapers in their hands. The
+text: students all rise as they enter. After all the professors have
+text: taken their places, Mr. Nolan addresses the students.
+speaker_heading: MR. NOLAN
+dialog: Sit.
+text: The students all sit.
+speaker_heading: MR. NOLAN
+dialog: In this week of Welton's Honor there
+text: appeared a profane and unauthorized
+dialog: article. Rather than spend my valuable
+dialog: time ferreting out the guilty persons --
+dialog: and let me assure you I will find them -
+dialog: - I'm asking any and all students who
+dialog: knows anything about this article to
+dialog: make themselves known here and now.
+dialog: Whoever the guilty persons are, this is
+dialog: your only chance to avoid expulsion from
+dialog: this school.
+text: The sound of a phone ringing can be heard. The professors look
+text: about for its source. Charlie picks up a telephone receiver.
+speaker_heading: CHARLIE
+dialog: Welton Academy. Hello. Yes, he is. Just
+text: a moment.
+text: Charlie stands up, holding a phone and bell in his hands.
+speaker_heading: CHARLIE
+dialog: Mr. Nolan, it's for you. It's
+dialog: God. He says we should have girls at
+dialog: Welton.
+text: Most of the students laugh while the boys from the cave all shake
+text: their heads in disbelief.
+scene_heading: INT. NOLAN'S OFFICE - DAY
+text: Charlie stands with his back to the door as Mr. Nolan shuts it. Mr.
+text: Nolan then walks around to face Charlie.
+speaker_heading: MR. NOLAN
+dialog: Wipe that smirk off your face. If you
+dialog: think, Mr. Dalton, that you're the first
+dialog: to try to get thrown out of this school,
+dialog: think again. Others have had similar
+dialog: notions and have failed just as surely
+dialog: as you will fail. Assume the position.
+text: Charlie sighs and bends over, resting his hands on the desk. Mr.
+text: Nolan hefts a flat wooden paddle in his hands.
+speaker_heading: MR. NOLAN
+dialog: Count aloud, Mr. Dalton.
+text: Mr. Nolan begins to strike Charlie with the paddle.
+speaker_heading: CHARLIE
+dialog: One. Two. Three. Four. Five.
+speaker_heading: MR. NOLAN
+dialog: What is this Dead Poets Society? I want
+dialog: names.
+scene_heading: INT. HALLWAY - DAY
+text: A crowd of students is gathered about as Charlie stiffly walks back to his room.
+speaker_heading: NEIL
+dialog: You kicked out?
+speaker_heading: CHARLIE
+dialog: No.
+speaker_heading: NEIL
+dialog: So what happened?
+speaker_heading: CHARLIE
+dialog: I'm to turn everybody in, apologize to
+dialog: the school and all will be forgiven.
+speaker_heading: NEIL
+dialog: So, what are you gonna do? Charlie!
+speaker_heading: CHARLIE
+dialog: Damn it, Neil. The name is Nuwanda.
+text: Charlie smiles and then shuts his door.
+scene_heading: INT. KEATING'S CLASSROOM - DAY
+text: Keating and McAllister are enjoying tea in the small room off the
+text: classroom. Mr. Nolan knocks on the door and enters.
+speaker_heading: MR. NOLAN
+dialog: Excuse me. May we have a word, Mr.
+dialog: Keating?
+speaker_heading: KEATING
+dialog: Certainly.
+text: Keating fixes his tie and follows Mr. Nolan into the classroom.
+speaker_heading: MR. NOLAN
+dialog: This was my first classroom, John. Did
+dialog: you know that? My first desk.
+speaker_heading: KEATING
+dialog: Didn't know you taught, Mr. Nolan.
+speaker_heading: MR. NOLAN
+dialog: English. Oh, long before your time. It
+dialog: was hard giving it up, I can tell you.
+dialog: I'm hearing rumors, John, about some
+dialog: unorthodox teaching methods in your
+dialog: classroom. I'm not saying they've
+dialog: anything to do with the Dalton boy's
+dialog: outburst. But I don't think I have to
+dialog: warn you boys his age are very
+dialog: impressionable.
+speaker_heading: KEATING
+dialog: Well, your reprimand made quite an
+dialog: impression, I'm sure.
+speaker_heading: MR. NOLAN
+dialog: What was going on in the courtyard the
+dialog: other day?
+speaker_heading: KEATING
+dialog: Courtyard?
+speaker_heading: MR. NOLAN
+text: Yeah. Boys marching, clapping in unison.
+speaker_heading: KEATING
+dialog: Oh, that. That was an exercise to prove
+dialog: a point. Dangers of conformity.
+speaker_heading: MR. NOLAN
+dialog: Well, John, the curriculum here is set.
+dialog: It's proven it works. If you question,
+dialog: what's to prevent them from doing the
+dialog: same?
+speaker_heading: KEATING
+dialog: I always thought the idea of educating
+dialog: was to learn to think for yourself.
+speaker_heading: MR. NOLAN
+dialog: At these boys' ages? Not on your life!
+dialog: Tradition, John. Discipline. Prepare
+dialog: them for college, and the rest will take
+dialog: care of itself.
+scene_heading: INT. STUDY ROOM - DAY
+text: Charlie sits with his bongos as the other boys are all crowded
+text: around him. He hits the bongoes as he mimes Nolan's footsteps.
+speaker_heading: CHARLIE
+text: Creak. He started walking around towards
+text: my left. Creak. Creak. "Assume the
+dialog: position, Mr. Dalton."
+text: The door opens and Keating walks in. Many of the boys get up from
+dialog: their seats.
+speaker_heading: KEATING
+dialog: It's all right, gentlemen.
+speaker_heading: CHARLIE
+dialog: Mr. Keating.
+speaker_heading: KEATING
+dialog: Mr. Dalton. That was a pretty lame stunt
+dialog: you pulled today.
+speaker_heading: CHARLIE
+dialog: You're siding with Mr. Nolan? What about
+text: Carpe diem and sucking all the marrow
+dialog: out of life and all that?
+speaker_heading: KEATING
+dialog: Sucking the marrow out of life doesn't
+dialog: mean choking on the bone. Sure there's a
+dialog: time for daring and there's a time for
+dialog: caution, and a wise man understands
+dialog: which is called for.
+speaker_heading: CHARLIE
+dialog: But I thought you'd like that.
+speaker_heading: KEATING
+dialog: No. You being expelled from school is
+dialog: not daring to me. It's stupid, 'cause
+dialog: you'll miss some golden opportunities.
+speaker_heading: CHARLIE
+dialog: Yeah. Like what?
+speaker_heading: KEATING
+dialog: Like, if nothing else, the opportunity
+dialog: to attend my classes. Got it, Ace?
+speaker_heading: CHARLIE
+dialog: Aye, aye, Captain.
+speaker_heading: KEATING
+dialog: Keep your head about you. That goes for
+dialog: the lot of you.
+speaker_heading: BOYS
+dialog: Yes, Captain.
+speaker_heading: KEATING
+dialog: Phone call from God. If it had been
+dialog: collect, it wouldn't been daring.
+text: Keating leaves and the boys gather around Charlie once again.
+speaker_heading: CHARLIE
+dialog: All right. Go on.
+scene_heading: EXT. CAMPUS - DAY
+text: Neil bikes away as the clock bell tolls.
+scene_heading: INT. THEATER - DAY
+text: Neil walks into the back of the theater and watches various
+text: actors rehearsing on stage. A smile fills his face.
+speaker_heading: DIRECTOR
+dialog: We're trying to rehearse, okay? Start.
+speaker_heading: LYSANDER
+dialog: A good persuasion, therefore hear me,
+dialog: Hermia.
+speaker_heading: DIRECTOR
+dialog: Wait, please. Excitement. I don't hear
+dialog: any excitement about this play. And take
+text: her hand. Bring her down the stage and
+dialog: stop. And "There, gentle Hermia." Okay?
+dialog: Try again.
+scene_heading: INT. HALLWAY - DAY
+text: The bell rings and students rush down the hall.
+speaker_heading: BOY
+dialog: What's for dinner?
+speaker_heading: PITTS
+dialog: Spaghetti and meatballs!
+text: Neil comes up the stairs as everyone else swarms down to the cafeteria.
+speaker_heading: NEIL
+dialog: Save some for me. "But, room, Fairy!
+dialog: Here comes Oberon."
+text: Neil opens the door to his room and sees his father sitting at his desk.
+speaker_heading: NEIL
+dialog: Father.
+scene_heading: MR. PERRY
+dialog: Neil.
+speaker_heading: NEIL
+dialog: Wait a minute. Before you say anything,
+dialog: please let me ex-
+text: Mr. Perry rises from the desk.
+scene_heading: MR. PERRY
+dialog: Don't you dare talk back to me! It's bad
+dialog: enough that you've wasted your time with
+dialog: this, this absurd acting business. But
+dialog: you deliberately deceived me! How, how,
+dialog: how did you expect to get away with
+dialog: this? Answer me. Who put you up to it?
+dialog: Was it this new man? This, uh, Mr.
+dialog: Keating?
+speaker_heading: NEIL
+dialog: No. Nobody-- I thought I'd surprise you.
+dialog: I've gotten all A's in every class.
+scene_heading: MR. PERRY
+dialog: Did you think I wasn't going to find
+dialog: out? "Oh, my niece is in a play with
+dialog: your son," says Mrs. Marks. "No, no,
+dialog: no," I say, "you must be mistaken. My
+dialog: son's not in a play." You made me a liar
+dialog: of me, Neil! Now, tomorrow you go to
+dialog: them and you tell them that you're
+dialog: quitting.
+speaker_heading: NEIL
+dialog: No, I can't. I have the main part. The
+text: performance is tomorrow night.
+scene_heading: MR. PERRY
+dialog: I don't care if the world comes to an
+dialog: end tomorrow night. You are through with
+dialog: that play. Is that clear? Is that clear?
+speaker_heading: NEIL
+dialog: Yes, sir.
+text: Mr. Perry goes to leave and then turns around.
+scene_heading: MR. PERRY
+dialog: I made a great many sacrifices to get
+dialog: you here, Neil, and you will not let me
+dialog: down.
+speaker_heading: NEIL
+dialog: No, sir.
+scene_heading: INT. KEATING'S OFFICE - NIGHT
+text: Keating is seated at his desk. He is writing a letter and occasionally
+text: looks up at the framed photo on his desk of a woman playing the cello.
+text: There is a knock at the door.
+speaker_heading: KEATING
+text: It's open.
+text: Neil enters and closes the door behind him. He appears to be nervous.
+speaker_heading: KEATING
+dialog: Neil, what's up?
+speaker_heading: NEIL
+dialog: Can I speak to you a minute?
+speaker_heading: KEATING
+dialog: Certainly. Sit down.
+text: Neil goes to take a seat but notices the chair is piled up with books.
+text: Neil picks them up and Keating gets up from his seat to help him.
+speaker_heading: NEIL
+dialog: I'm sorry. Here.
+speaker_heading: KEATING
+dialog: Excuse me. Get you some tea?
+speaker_heading: NEIL
+dialog: Tea. Sure.
+text: Keating goes to a table in the corner and begins pouring several cups.
+speaker_heading: KEATING
+dialog: Like some milk or sugar in that?
+speaker_heading: NEIL
+dialog: No, thanks.
+speaker_heading: NEIL
+dialog: Gosh, they don't give you much room
+dialog: around here.
+speaker_heading: KEATING
+dialog: No, it's part of the monastic oath. They
+dialog: don't want worldly things distracting me
+dialog: from my teaching.
+text: Keating gives Neil a cup of tea and they return to their seats. Neil
+text: looks at the photo on the desk.
+speaker_heading: NEIL
+dialog: She's pretty.
+speaker_heading: KEATING
+dialog: She's also in London. Makes it a little
+dialog: difficult.
+speaker_heading: NEIL
+dialog: How can you stand it?
+speaker_heading: KEATING
+dialog: Stand what?
+speaker_heading: NEIL
+dialog: You can go anywhere. You can do
+dialog: anything. How can you stand being here?
+speaker_heading: KEATING
+dialog: 'Cause I love teaching. I don't wanna be
+dialog: anywhere else.
+speaker_heading: KEATING
+dialog: What's up?
+speaker_heading: NEIL
+dialog: I just talked to my father. He's making
+dialog: me quit the play at Henley Hall.
+dialog: Acting's everything to me. I-- But he
+dialog: doesn't know. He-- I can see his point.
+dialog: We're not a rich family like Charlie's,
+dialog: and we-- But he's planning the rest of
+dialog: my life for me, and I-- H-He's never
+dialog: asked me what I want.
+speaker_heading: KEATING
+dialog: Have you ever told your father what you
+dialog: just told me? About your passion for
+dialog: acting. You ever show him that?
+speaker_heading: NEIL
+dialog: I can't.
+speaker_heading: KEATING
+dialog: Why not?
+speaker_heading: NEIL
+dialog: I can't talk to him this way.
+speaker_heading: KEATING
+dialog: Then you're acting for him, too. You're
+dialog: playing the part of the dutiful son. I
+dialog: know this sounds impossible, but you
+dialog: have to talk to him. You have to show
+dialog: him who you are, what your heart is.
+speaker_heading: NEIL
+dialog: I know what he'll say. He'll tell me
+dialog: that acting's a whim, and I should
+dialog: forget it. That how they're counting on
+dialog: me. He'll just tell me to put it out of
+dialog: my mind, "for my own good."
+speaker_heading: KEATING
+dialog: You are not an indentured servant. If
+dialog: it's not a whim for you, you prove it to
+dialog: him by your conviction and your passion.
+dialog: You show him that And if he still
+dialog: doesn't believe you, well, by then
+dialog: you'll be out of school and you can do
+dialog: anything you want.
+text: A tear falls down Neil's cheek and he wipes it away.
+speaker_heading: NEIL
+dialog: No. What about the play? The show's
+dialog: tomorrow night.
+speaker_heading: KEATING
+dialog: Well, you have to talk to him before
+dialog: tomorrow night.
+speaker_heading: NEIL
+dialog: Isn't there an easier way?
+speaker_heading: KEATING
+dialog: No.
+speaker_heading: NEIL
+dialog: I'm trapped.
+speaker_heading: KEATING
+dialog: No, you're not.
+scene_heading: EXT. CAMPUS - DAY
+text: Knox exits one of the doors. The ground is covered with a thick
+text: layer of snow. He looks around to see if anyone is about and then
+text: hurries over to the bike rack. grabbing one of the bikes, he hurries
+dialog: off.
+scene_heading: INT. SCHOOL HALLWAY - DAY
+text: A crowd of students come in from the cold. Knox pushes his way through
+text: them, carrying a handful of wildflowers. He begins searching for Chris.
+speaker_heading: KNOX
+dialog: Chris!
+text: He approaches a girl with hair similar to Chris' and turns her around,
+text: only to realize that it's not her.
+speaker_heading: KNOX
+dialog: Chris Noel. Do you know where she is?
+speaker_heading: GIRL
+dialog: Um, I think she's in room 111.
+text: The girl points down the hallway and Knox sets off in that direction.
+speaker_heading: KNOX
+dialog: Thanks.
+text: Chris is at her locker talking to a friend. She just closes her locker
+text: as she notices Knox coming towards her. She turns away.
+speaker_heading: KNOX
+dialog: Excuse me. Chris.
+speaker_heading: CHRIS
+dialog: Knox, what are you doing here?
+speaker_heading: KNOX
+dialog: I came to apologize for the other night.
+dialog: I brought you these and a poem I wrote
+dialog: for you.
+text: Chris pulls him aside, out of the main hallway.
+speaker_heading: CHRIS
+dialog: Knox, don't you know that, if Chet finds
+dialog: you here he'll kill you?
+speaker_heading: KNOX
+dialog: I can't care. I love you, Chris.
+speaker_heading: CHRIS
+dialog: Knox, you're crazy.
+speaker_heading: KNOX
+dialog: Look, I acted like a jerk and I know it.
+dialog: Please, accept these. Please.
+speaker_heading: CHRIS
+dialog: No. No-- I, I can't. Forget it.
+text: Chris walks away. The school bell rings and she enters her
+text: classroom, closing the door behind her. Undaunted, Knox follows,
+text: opening the door and standing before her desk.
+speaker_heading: CHRIS
+dialog: Knox, I don't believe this.
+speaker_heading: KNOX
+dialog: All I'm asking you to do is listen.
+text: As Knox begins to read his poem, the classroom grows quiet as
+text: everyone stops to listen.
+speaker_heading: KNOX
+dialog: The heavens made a girl named Chris
+text: With hair and skin of gold.
+dialog: To touch her would be paradise.
+text: Chris holds her head in her hands in embarrassment.
+scene_heading: INT. CAMPUS KITCHEN - DAY
+text: Knox sneaks in through a side door. He snatches a slice of toast
+text: from the counter and motions to one of the staff to keep secret.
+text: He then begins to eat the toast as he hurries away.
+scene_heading: INT. STAIRWAY - DAY
+text: The school bell rings and Knox pushes his way up the stairs past
+text: the slower students. At the top he joins the other boys where they
+text: are grabbing their books.
+speaker_heading: CHARLIE
+dialog: Get out of here. Cameron, you fool.
+text: Charlie notices Knox and grabs his jacket.
+speaker_heading: CHARLIE
+dialog: Hey, how'd it go? Did you read it to
+dialog: her?
+speaker_heading: KNOX
+dialog: Yeah.
+text: The boys begin to get all excited but Charlie shushes them.
+speaker_heading: PITTS
+dialog: What'd she say?
+speaker_heading: KNOX
+dialog: Nothing.
+speaker_heading: CHARLIE
+dialog: Nothing. What do you mean, nothing?
+speaker_heading: KNOX
+dialog: Nothing. But I did it.
+text: Knox walks away down the hall and the others chase after him.
+speaker_heading: CHARLIE
+dialog: What did she say? I know she had to say
+dialog: something.
+speaker_heading: PITTS
+dialog: Come here, Knox.
+speaker_heading: KNOX
+dialog: Seize the day!
+scene_heading: INT. KEATING'S CLASSROOM - DAY
+text: Keating walks from the front of the classroom to Neil's desk. Neil
+text: is the only student remaining in the class.
+speaker_heading: KEATING
+dialog: Did you talk to your father?
+speaker_heading: NEIL
+dialog: Uh, he didn't like it one bit, but at
+dialog: least he's letting me stay in the play.
+dialog: He won't be able to make, make it. He's
+dialog: in Chicago. But, uh, I think he's gonna
+dialog: let me stay with acting.
+speaker_heading: KEATING
+dialog: Really? You told him what you told me?
+speaker_heading: NEIL
+dialog: Yeah. He wasn't happy. But he'll be gone
+dialog: at least four days. I don't think he'll
+dialog: make the show, but I think he'll let me
+dialog: stay with it. "Keep up the school work."
+dialog: Thanks.
+text: Neil picks up his books and leaves.
+scene_heading: INT. BATHROOM - NIGHT
+text: The boys are grooming themselves in front of the mirrors.
+speaker_heading: PITTS
+dialog: Beautiful baby.
+speaker_heading: MEEKS
+dialog: Beautiful baby. Henley Hall, here I
+dialog: come.
+speaker_heading: CAMERON
+dialog: Excuse me, just a moment. Yes. You're so
+dialog: cute.
+text: Cameron runs a comb through his hair and Todd tries to mess it up.
+speaker_heading: CAMERON
+dialog: Come on, Todd. I'm trying to fix
+dialog: this.
+speaker_heading: TODD
+dialog: Come on, Nuwanda. You're gonna miss
+text: Neil's entrance.
+speaker_heading: PITTS
+dialog: He said something about getting red
+dialog: before we left.
+speaker_heading: CAMERON
+dialog: Getting red? What does that mean?
+speaker_heading: PITTS
+dialog: I, uh-- Well, you know Charlie.
+text: One of the stalls opens and Charlie's hand emerges, holding a small
+text: brush and a bottle of red paint.
+speaker_heading: CAMERON
+dialog: So, Charlie, what's this "getting red"
+dialog: bit?
+text: Charlie opens his unbuttoned shirt to show a large red lightning bolt
+text: painted down his chest.
+speaker_heading: TODD
+dialog: W-What is that?
+speaker_heading: CHARLIE
+dialog: It's an Indian warrior symbol for
+text: virility. Makes me feel potent, like it
+dialog: can drive girls crazy.
+text: Charlie buttons up his shirt as everyone prepares to leave.
+speaker_heading: TODD
+dialog: Oh, come on, Charlie. The girls are
+dialog: waiting.
+scene_heading: INT. HALLWAY - NIGHT
+text: The boys are walking down the hall to leave. Cameron stops and stares.
+text: The other boys notice and stop as well. Charlie softly whistles at Chris
+text: standing by the door. Knox stares at her in surprise
+speaker_heading: KNOX
+dialog: Chris.
+text: Knox leaves the other boys to join her.
+speaker_heading: KNOX
+dialog: What are you doing here?
+speaker_heading: KEATING (O.S.)
+dialog: Gentlemen, let's go.
+speaker_heading: KNOX
+dialog: Go ahead, guys. I'll catch up.
+speaker_heading: CHARLIE
+dialog: Yeah, come on, guys.
+text: Charlie hustles the boys away. Meeks remains staring at her. Charlie
+text: returns to drag him away.
+speaker_heading: KNOX
+dialog: Chris, you can't be in here. I-If they
+dialog: catch you, we're both gonna be in big
+dialog: trouble.
+speaker_heading: CHRIS
+dialog: Oh, but it's fine--
+text: Knox shushes her and leads her out the door.
+scene_heading: EXT. CAMPUS - NIGHT
+text: Snow is lightly falling as Chris and Knox walk outside.
+speaker_heading: CHRIS
+dialog: It's fine for you to come barging into
+dialog: my school and make a complete fool out
+dialog: of me?
+speaker_heading: KNOX
+dialog: I didn't mean to make a fool out of you.
+speaker_heading: CHRIS
+dialog: Well, you did. Chet found out. And it
+dialog: took everything I could do to keep him
+dialog: from coming here and killing you. Knox,
+dialog: you have got to stop this stuff.
+speaker_heading: KNOX
+dialog: I can't, Chris. I love you.
+speaker_heading: CHRIS
+dialog: Knox, you say that over and over. You
+dialog: don't, you don't even know me.
+text: Keating calls out from a nearby car.
+speaker_heading: KEATING
+dialog: Will you be joining us, Mr. Overstreet?
+speaker_heading: KNOX
+dialog: Go ahead, Captain. I'll walk.
+speaker_heading: CHRIS
+dialog: Knox, Knox, it just so happens that I
+dialog: could care less about you?
+speaker_heading: KNOX
+dialog: Then you wouldn't be here warning me
+dialog: about Chet.
+speaker_heading: CHRIS
+dialog: I have to go. I'm gonna be late for the
+dialog: play.
+speaker_heading: KNOX
+dialog: Are you going with him?
+speaker_heading: CHRIS
+dialog: (laughs)
+dialog: Chet? To a play? Are you kidding?
+speaker_heading: KNOX
+dialog: Then come with me.
+speaker_heading: CHRIS
+dialog: Knox, you are so infuriating.
+speaker_heading: KNOX
+dialog: Come on, Chris. Just give me one chance.
+dialog: If you don't like me after tonight, I'll
+dialog: stay away forever.
+speaker_heading: CHRIS
+dialog: Uh-huh.
+speaker_heading: KNOX
+dialog: I promise. Dead Poets Honor. You come
+dialog: with me tonight. And then, if you don't
+dialog: want to see me again, I swear I'll bow
+dialog: out.
+dialog: 
+speaker_heading: CHRIS
+dialog: You know what would happen if Chet found
+dialog: out?
+speaker_heading: KNOX
+dialog: He won't know anything. We'll sit in the
+text: back and sneak away as soon as it's
+dialog: over.
+speaker_heading: CHRIS
+dialog: And I suppose you would promise that
+dialog: this would be the end of it.
+speaker_heading: KNOX
+dialog: Dead Poets Honor.
+speaker_heading: CHRIS
+dialog: What is that?
+speaker_heading: KNOX
+dialog: My word.
+text: Chris walks away from him and then turns to face him.
+speaker_heading: CHRIS
+dialog: You are so infuriating.
+text: Chris gestures for Knox to follow her. Charlie does a little
+text: twirl as he joins her and puts his arm around her. They walk away.
+scene_heading: INT. THEATER - NIGHT
+text: The audience is packed. The stage is set up to resemble a forest and
+text: lights dance about it. From behind a bush, Neil emerges, wearing a
+text: crown of twigs and berries and twigs on his hands. In the audience,
+text: Charlie emerges from his seat, all excited.
+speaker_heading: CHARLIE
+dialog: Hey, there he is! Hey, hey.
+text: Cameron shoves him back into his seat.
+speaker_heading: KEATING
+dialog: Shh, boys.
+text: On stage, Neil hides behind a tree as a girl emerges, similarly clad,
+text: but with flowers in her hair. Neil sneaks over to the girl.
+speaker_heading: FAIRY
+dialog: Either I mistake your shape and making
+dialog: quite,
+dialog: Or else you are that shrewd and knavish
+dialog: sprite
+dialog: Call'd Robin Goodfellow:
+speaker_heading: PUCK
+dialog: Thou speak'st aright;
+text: In the audience, Chris and Knox enter and are shown to seats.
+speaker_heading: PUCK
+dialog: I am that merry wanderer of the night.
+text: I jest to Oberon and make him smile
+text: When I a fat and bean-fed horse beguile,
+text: Puck makes horse sounds and the audience laughs.
+speaker_heading: PUCK
+text: Neighing in likeness of a filly foal:
+dialog: And sometime lurk I in a gossip's bowl,
+text: In very likeness of a roasted crab,
+text: And when she drinks, against her lips I
+dialog: bob
+text: And on her wither'd dewlap pour the ale.
+text: The wisest aunt, telling the saddest
+dialog: tale,
+text: In the audience, Charlie leans over towards Keating.
+speaker_heading: CHARLIE
+dialog: (whispering)
+dialog: He's good. He's really good.
+text: Keating gives a thumbs up.
+speaker_heading: PUCK
+dialog: Sometime for three-foot stool mistaketh
+dialog: me;
+text: Then slip I from her bum, down topples
+dialog: she,
+text: And "tailor" cries, and falls into a
+dialog: cough;
+text: And then the whole quire hold their hips
+dialog: and laugh,
+text: And waxen in their mirth and neeze and
+dialog: swear
+dialog: A merrier hour was never wasted there.
+dialog: But, room, Fairy! here comes Oberon.
+speaker_heading: FAIRY
+dialog: And here my mistress. Would that he were
+dialog: gone!
+text: The two actors hide behind the trees, lifting their twig covered
+text: hands to hide themselves.
+scene_heading: INT. THEATER - NIGHT
+text: Two other actors are onstage.
+speaker_heading: LYSANDER
+dialog: Then by your side no bed-room me deny;
+dialog: For lying so, Hermia, I do not lie
+speaker_heading: HERMIA
+text: Lysander riddles very prettily:
+dialog: Now much beshrew my manners and my
+dialog: pride,
+dialog: If Hermia meant to say Lysander lied.
+dialog: But, gentle friend, for love and
+dialog: courtesy
+dialog: Lie further off; in human modesty,
+dialog: Such separation as may well be said
+text: Becomes a virtuous bachelor and a maid,
+dialog: and, good night, sweet friend:
+dialog: Thy love ne'er alter till thy sweet life
+dialog: end!
+text: Neil is watching the actors from the wing. He glances out at the audience
+text: and sees his father enter the back of the theater. Neil backs away into
+text: the shadows.
+speaker_heading: LYSANDER
+dialog: Amen, amen, to that fair prayer, say I;
+text: The director breaks Neil out of his thoughts.
+speaker_heading: DIRECTOR
+dialog: Neil. That's your cue, Neil. Come on,
+dialog: Neil. Here's your crown. Let's go.
+text: Neil reluctantly replaces his crown and follows her.
+scene_heading: INT. THEATER - NIGHT
+text: On stage, Neil collects dew in a leaf and holds it over his head while
+text: fairies dance about. In the audience, Knox takes Chris' hand in his.
+scene_heading: INT. THEATER - NIGHT
+text: The stage is dark. A spotlight comes on to reveal Neil with his back to
+text: the audience. He slowly turns around to face the audience and his father.
+speaker_heading: PUCK
+dialog: If we shadows have offended,
+text: Neil directs his eyes at his father, who stills stands at the back
+text: of the theater.
+speaker_heading: PUCK
+dialog: Think but this, and all is mended,
+dialog: That you have but slumber'd here
+dialog: While these visions did appear.
+dialog: And this weak and idle theme,
+text: No more yielding but a dream,
+dialog: Gentles, do not reprehend:
+dialog: If you pardon, we will mend:
+dialog: And, as I am an honest Puck,
+dialog: If we have unearned luck
+dialog: Now to 'scape the serpent's tongue,
+dialog: We will make amends ere long;
+dialog: Else the Puck a liar call;
+dialog: So, good night unto you all.
+dialog: Give me your hands, if we be friends,
+dialog: And Robin shall restore amends.
+text: Neil backs away and the curtains close as the audience begins to
+text: applaud enthusiastically. Behind the curtain numerous people
+text: congratulate Neil as they line up for the curtain call. The curtains
+text: open. Charlie and the other boys rise to their feet, followed quickly
+text: by the rest of the audience. The actors bow to continued applause. The
+text: actors push Neil forward and he takes a second bow.
+speaker_heading: BOYS
+dialog: Yawp!
+speaker_heading: KNOX
+dialog: Yeah, Neil!
+text: The curtain closes again and Neil turns around, letting out an
+text: excited sigh. Various actors continue to congratulate him. Neil
+text: lets out a yell as he walks offstage. In the audience, while others
+text: are leaving, Mr. Perry approaches a woman.
+scene_heading: MR. PERRY
+dialog: Excuse me, I'm Neil's father. I need to
+dialog: see him.
+text: Backstage, the woman approaches Neil.
+speaker_heading: WOMAN
+dialog: Neil, Your father. He's-
+text: Neil nods in agreement.
+speaker_heading: ACTOR
+dialog: What did you think?
+speaker_heading: WOMAN
+dialog: Really I thought you were all just
+dialog: wonderful!
+text: Neil emerges from the curtains, carrying his costume. The theater is
+text: nearly empty now, except for Mr. Perry standing at the back. Neil
+text: smiles at him but the smile quickly disappears.
+scene_heading: EXT. THEATER - NIGHT
+text: Mr. Perry pushes his way through the crowd of people, with Neil close
+text: behind.
+scene_heading: MR. PERRY
+dialog: Excuse me. Excuse me. Excuse me.
+text: The boys notice Neil and try to dtop him to talk.
+speaker_heading: CHARLIE
+dialog: Neil, Neil, you were great.
+speaker_heading: NEIL
+dialog: I can't, guys.
+speaker_heading: TODD
+dialog: Neil! Neil!
+text: Outside of the crowd, Keating manages to catch up to Neil. He takes
+text: hold of Neil's coat.
+speaker_heading: KEATING
+dialog: Neil. Neil. You have the gift. What a
+dialog: performance You left even me speechless.
+dialog: You have to stay with-
+text: Mr. Perry returns from his car and shoves Neil aside.
+scene_heading: MR. PERRY
+dialog: Get in the car. Keating, you stay away
+dialog: from my son.
+speaker_heading: CHARLIE
+dialog: Neil! Neil! Mr. Perry, come on.
+speaker_heading: KEATING
+dialog: Don't make it any worse than it is.
+text: Neil and Mr. Perry get into their car and drive away. Keating
+text: stares after them.
+speaker_heading: CHARLIE
+dialog: Is it okay if we walk back? Captain?
+text: Charlie motions Todd to follow.
+speaker_heading: CHARLIE
+dialog: Knox.
+text: The boys leave and Keating continues to stare after the car, wiping
+text: the falling snow from his face.
+scene_heading: INT. MR. PERRY'S STUDY - NIGHT
+text: A photo of Neil standing stiffly with his parents sits on a table
+text: between a glass of alcohol and a half filled ashtray. Mrs. Perry
+text: watches through the window as her husband and son arrive and then
+text: takes a nervous puff on her cigarette before sitting down. Mr.
+text: Perry walks in with Neil close behind him. Neil sits down beside the
+text: desk while Mr. Perry remains standing.
+scene_heading: MR. PERRY
+dialog: We're trying very hard to understand why
+dialog: it is that you insist on defying us.
+dialog: Whatever the reason, we're not gonna let
+dialog: you ruin your life. Tomorrow I'm
+dialog: withdrawing you from Welton and
+dialog: enrolling you in Braden Military School.
+dialog: You're going to Harvard and you're gonna
+dialog: be a doctor.
+speaker_heading: NEIL
+dialog: But that's ten more years. Father,
+dialog: that's a lifetime!
+scene_heading: MR. PERRY
+dialog: Oh, stop it. Don't be so dramatic. You
+dialog: make it sound like a prison term. You
+dialog: don't understand, Neil. You have
+dialog: opportunities that I never even dreamt
+dialog: of and I am not going to let you waste
+dialog: them.
+text: Neil rises to his feet.
+speaker_heading: NEIL
+dialog: I've got to tell you what I feel.
+text: Mrs. Perry stands up.
+scene_heading: MRS. PERRY
+dialog: We've been so worried about--
+scene_heading: MR. PERRY
+dialog: What? What? Tell me what you feel. What
+dialog: is it?
+text: Neil looks to his mother and then back to his father but says
+dialog: nothing.
+scene_heading: MR. PERRY
+dialog: Is it more of this, this acting
+dialog: business? Because you can forget that.
+dialog: What?
+speaker_heading: NEIL
+dialog: Nothing.
+text: Neil sits back down dejectedly.
+scene_heading: MR. PERRY
+dialog: Nothing? Well, then, let's go to bed.
+text: Mr. Perry leaves. Mrs. Perry pauses on her way out and kneels
+text: behind Neil.
+speaker_heading: NEIL
+dialog: I was good. I was really good.
+text: Mrs. Perry nods slightly.
+scene_heading: MRS. PERRY
+dialog: Go on, get some sleep.
+scene_heading: INT. MR. PERRY'S BEDROOM - NIGHT
+text: Mrs. Perry sits on the side of the bed with her back to her
+text: husband. Mr. Perry removes his robe and slippers before
+text: getting in to bed. Mrs. Perry begins to cry as he turns out
+text: the light.
+scene_heading: MR. PERRY
+dialog: It's all right. It's going to be all
+dialog: right.
+scene_heading: INT. NEIL'S BEDROOM - NIGHT
+text: Neil's pyjamas, bathrobe, towel, and shaving kit are all neatly
+text: laid out on his bed. Neil touches his pyjamas lightly and then
+text: removes his coat and shirt. He walks over to the windows and
+text: opens them, taking several deep breaths. He places the crown of
+text: twigs on his head and then closes his eyes, slowly letting his head
+text: fall to his chest.
+scene_heading: INT. HALLWAY - NIGHT
+text: A door opens and Neil emerges, slowly walking down the stairs as if
+text: in a trance.
+scene_heading: INT. MR. PERRY'S STUDY - NIGHT
+text: Neil holds a key in his hands. He unlocks a drawer in his father's
+text: desk and pulls out a pistol, wrapped in cloth.
+scene_heading: INT. MR. PERRY'S BEDROOM - NIGHT
+text: Mr. Perry jerks up out of bed, startled and breathing fast.
+scene_heading: MR. PERRY
+dialog: What was that?
+scene_heading: MRS. PERRY
+dialog: What?
+scene_heading: MR. PERRY
+dialog: That sound.
+scene_heading: MRS. PERRY
+dialog: What sound? Tom?
+text: Mr. Perry turns on the light and gets up out of bed, putting on his
+text: robe and slippers.
+scene_heading: MRS. PERRY
+dialog: What is it? What's wrong?
+text: Mr. Perry turns on the hallway light and knocks on Neil's door. He opens
+text: the door and goes inside.
+scene_heading: MR. PERRY
+dialog: Neil.
+text: Mr. Perry notices the open window.
+scene_heading: MRS. PERRY
+dialog: Tom, what is it? What's wrong? Neil?
+text: Mr. Perry continues to look through the house, continuing downstairs.
+scene_heading: MR. PERRY
+dialog: Neil?
+text: Mr. Perry notices the door to his study is ajar.
+scene_heading: MRS. PERRY
+dialog: I'll look outside. Neil?
+text: Mr. Perry flicks the light on but sees nothing. Then he smells
+text: something. Looking closer, he sees a thin cloud of smoke rising from
+text: behind his desk. As he moves around the desk he sees his gun on the
+text: floor and Neil's outstretched hand.
+scene_heading: MR. PERRY
+dialog: No!
+text: Mr. Perry crouches down by his son.
+scene_heading: MR. PERRY
+dialog: Oh, Neil! Oh, my God!
+text: Mrs. Perry enters the room and sees her son.
+scene_heading: MRS. PERRY
+dialog: Oh! No!
+scene_heading: MR. PERRY
+dialog: Oh, my son!
+scene_heading: MRS. PERRY
+dialog: He's all right.
+scene_heading: MR. PERRY
+dialog: My son! My poor son!
+scene_heading: MRS. PERRY
+dialog: (crying hysterically)
+dialog: He's all right! He's all right! He's all
+dialog: right! He's all right! He's all right!
+dialog: He's all right!
+scene_heading: MR. PERRY
+dialog: Stop it! Stop it! Stop it.
+text: Mr. Perry holds his wife and tries to comfort her.
+scene_heading: INT. TODD'S ROOM - NIGHT
+text: Todd is sleeping. Charlie reaches across to wake him. Tears are
+text: running down his face.
+speaker_heading: CHARLIE
+dialog: Todd? Todd.
+text: Todd, still half asleep, tries to shrug him off.
+speaker_heading: TODD
+dialog: Oh, Charlie.
+text: Todd opens his eyes and sees Charlie's face
+speaker_heading: TODD
+dialog: What is it?
+text: Todd looks over to see Pitts, Meeks, and Knox by the door.
+speaker_heading: CHARLIE
+text: Neil's dead.
+scene_heading: EXT. CAMPUS - DAY
+text: It is a snowy, overcast morning. Todd walks through the snow. He
+text: has his coat on over his pyjamas. The other boys follow closely
+text: behind him as he walks down towards the water. He stops and stares
+text: out at the snow-covered surroundings.
+speaker_heading: TODD
+dialog: It's so beautiful.
+text: Todd begins to gag and then goes down on his knees, vomiting into
+text: the snow. The other boys huddle around him, hugging him.
+speaker_heading: CHARLIE
+dialog: Todd. It's okay, Todd.
+speaker_heading: PITTS
+dialog: Calm down.
+speaker_heading: CHARLIE
+dialog: It's all right, Todd.
+speaker_heading: PITTS
+dialog: Todd, it's okay. It's okay, Todd.
+speaker_heading: CHARLIE
+dialog: It's all right. It's alright.
+text: Charlie grabs a handful of snow and wipes Todd's mouth with it.
+speaker_heading: TODD
+dialog: He wouldn't-- He wouldn't have done it.
+speaker_heading: MEEKS
+dialog: You can't explain it, Todd.
+speaker_heading: TODD
+dialog: It was his father!
+speaker_heading: CHARLIE
+dialog: No!
+speaker_heading: TODD
+dialog: He wouldn't have left us. It's because he-
+dialog: He wouldn't have. His dad was-- his, his
+dialog: father did it.
+speaker_heading: CHARLIE
+dialog: Todd.
+speaker_heading: TODD
+dialog: His father killed him. He made him do it.
+speaker_heading: MEEKS
+dialog: You can't explain it, Todd.
+text: Todd pushes himself away from the boys and stumbles down the hill,
+text: slipping and falling in the snow.
+speaker_heading: MEEKS
+dialog: Todd!
+speaker_heading: CHARLIE
+dialog: Leave him be.
+text: The boys watch as Todd runs down towards the dock by the river,
+text: yelling and crying. He finally seems to regain control of himself
+text: and walks in silence out onto the dock.
+scene_heading: INT. KEATING'S CLASSROOM - DAY
+text: Keating sits by himself at his desk. After a moment he gets up
+text: and walks over to Neil's desk. Opening it, he finds his copy
+text: of "Five Centuries of Verse" and flips through the first few pages.
+text: Sitting down at the desk, he returns to the opening page, reading
+text: the opening verse written there. Keating begins to sob, then closes
+dialog: the book.
+scene_heading: INT. ASSEMBLY HALL - DAY
+text: A church service is going on. The boys have joined in the other
+text: students in a hymn. Charlie is the only one not singing. He stares
+text: off into nothingness.
+speaker_heading: BOYS
+dialog: (singing)
+dialog: All my life
+dialog: Thy light shall surely follow me
+dialog: And in God's house forevermore
+dialog: My dwelling place shall be
+dialog: Amen.
+text: Mr. Nolan stands at the pulpit, with the rest of the professors
+text: seated behind him.
+speaker_heading: MR. NOLAN
+text: The death of Neil Perry is a tragedy. He
+dialog: was a fine student. One of Welton's
+dialog: best. And he will be missed. We've
+dialog: contacted each of your parents to
+dialog: explain the situation. Naturally,
+dialog: they're all quite concerned. At the
+dialog: request of Neil's family, I intend to
+dialog: conduct a thorough inquiry into this
+dialog: matter. Your complete cooperation is
+dialog: expected.
+scene_heading: INT. CLOAKROOM - DAY
+text: The boys (except Cameron) are sitting about the cluttered room
+text: waiting. Charlie lights a cigarette.
+speaker_heading: CHARLIE
+dialog: You told him about this meeting?
+speaker_heading: PITTS
+dialog: Twice.
+speaker_heading: CHARLIE
+dialog: That's it, guys. We're all fried.
+speaker_heading: PITTS
+dialog: How do you mean?
+speaker_heading: CHARLIE
+text: Cameron's a fink. He's in Nolan's office
+text: right now, finking.
+speaker_heading: PITTS
+dialog: About what?
+speaker_heading: CHARLIE
+dialog: The club, Pittsie. Think about it. The
+dialog: board of directors, the trustees and Mr.
+dialog: Nolan. Do you think for one moment
+dialog: they're gonna let this thing just blow
+dialog: over? Schools go down because of things
+text: like this. They need a scapegoat.
+text: The door opens. All the boys except Charlie hurry to put
+text: their cigarettes out and wave the smoke away. A light comes on
+text: and Cameron enters.
+speaker_heading: CAMERON
+dialog: What's going on, guys?
+speaker_heading: CHARLIE
+dialog: You finked, didn't you, Cameron?
+text: Charlie gets up and approaches Cameron, tossing his cigarette away.
+speaker_heading: CAMERON
+dialog: Finked? I didn't know what the hell
+dialog: you're talking about.
+speaker_heading: CHARLIE
+dialog: You told Nolan everything about the club
+dialog: is what I'm talking about.
+speaker_heading: CAMERON
+dialog: Look, in case you hadn't heard, Dalton,
+dialog: there's something called an honor code
+dialog: at this school, all right? If a teacher
+dialog: asks you a question, you tell the truth
+dialog: or you're expelled.
+speaker_heading: CHARLIE
+dialog: You little-
+text: Charlie lunges at Cameron but Knox and Meeks hold him back.
+speaker_heading: MEEKS
+dialog: Charlie!
+speaker_heading: CHARLIE
+text: He's a rat! He's in it up to his eyes,
+text: so he rattled to save himself.
+speaker_heading: KNOX
+dialog: Don't touch him, Charlie. You do and
+dialog: you're out.
+speaker_heading: CHARLIE
+dialog: I'm out anyway!
+speaker_heading: KNOX
+dialog: You don't know that, not yet.
+speaker_heading: CAMERON
+dialog: He's right there, Charlie. And if you
+dialog: guys are smart, you will do exactly what
+dialog: I did and cooperate. They're not after
+dialog: us. We're the victims. Us and Neil.
+speaker_heading: CHARLIE
+dialog: What's that mean? Who are they after?
+speaker_heading: CAMERON
+dialog: Why, Mr. Keating, of course. The
+dialog: "Captain" himself. I mean, you guys
+dialog: didn't really think he could avoid
+dialog: responsibility, did you?
+speaker_heading: CHARLIE
+dialog: Mr. Keating responsible for Neil? Is
+dialog: that what they're saying?
+speaker_heading: CAMERON
+dialog: Well, who else do you think, dumb ass?
+dialog: The administration? Mr. Perry? Mr.
+dialog: Keating put us up to all this crap,
+dialog: didn't he? If he wasn't for Mr. Keating,
+text: Neil would be cozied up in his room
+text: right now, studying his chemistry and
+text: dreaming of being called doctor.
+speaker_heading: TODD
+dialog: That is not true, Cameron. You know
+dialog: that. He didn't put us to anything. Neil
+dialog: loved acting.
+speaker_heading: CAMERON
+dialog: Believe what you want, but I say let
+dialog: Keating fry. I mean, why ruin our lives?
+text: Charlie lunges at Cameron again and punches him in the face.
+text: Cameron falls to the floor as the boys pull Charlie away. Cameron
+text: lifts a hand to his bloody nose.
+speaker_heading: CAMERON
+dialog: You just signed your expulsion papers,
+dialog: Nuwanda.
+text: Cameron rises to his feet.
+speaker_heading: CAMERON
+dialog: And if the rest of you are smart, you'll
+dialog: do exactly what I did. They know
+dialog: everything anyway. You can't save
+dialog: Keating, but you can save yourselves.
+text: Cameron walks away, closing the door behind him.
+scene_heading: INT. TODD'S ROOM - DAY
+text: Todd looks out the window and watches as Hager escorts Meeks back
+text: to the dorm. Inside the room, Neil's bed has been stripped of all
+text: its bedding.
+scene_heading: INT. HALLWAY - DAY
+text: Meeks walks slowly to his room. Hager remains standing at the end of
+text: the hallway.
+speaker_heading: HAGER
+dialog: Knox Overstreet.
+text: Knox emerges from his room and goes to joing Hager. He gives a thumbs
+text: up to Todd as he passes his door. Once he leaves with Hager, Todd goes
+text: over to Meeks' door.
+speaker_heading: TODD
+dialog: Meeks?
+speaker_heading: MEEKS
+dialog: Go away. I have to study.
+speaker_heading: TODD
+dialog: What happened to Nuwanda?
+speaker_heading: MEEKS
+dialog: Expelled.
+speaker_heading: TODD
+dialog: What'd you tell 'em?
+speaker_heading: MEEKS
+dialog: Nothing they didn't already know.
+speaker_heading: HAGER (O.S.)
+dialog: Todd Anderson.
+scene_heading: INT. HALLWAY - DAY
+text: Todd is lead up the steps to Mr. Nolan's office by Hager.
+scene_heading: INT. NOLAN'S OFFICE - DAY
+text: Todd enters the room to see his mother and father seated opposite
+text: Mr. Nolan's desk.
+scene_heading: MR. ANDERSON
+dialog: Hello, son.
+scene_heading: MRS. ANDERSON
+dialog: Hello, darling.
+speaker_heading: TODD
+dialog: Mom.
+text: THe door closes behind Todd. He remains standing, not knowing
+dialog: what to do.
+speaker_heading: MR. NOLAN
+dialog: Have a seat, Mr. Anderson.
+text: Todd sits down next to his parents.
+speaker_heading: MR. NOLAN
+dialog: Mr. Anderson, I think we've pretty well
+dialog: put together what's happened here. You
+dialog: do admit to being a part of this Dead
+dialog: Poets Society?
+text: Todd says nothing.
+scene_heading: MR. ANDERSON
+dialog: Answer him, Todd.
+speaker_heading: TODD
+dialog: Yes, sir.
+text: Mr. Nolan puts his glasses on and glances at a paper before him
+text: before removing his glasses once more.
+speaker_heading: MR. NOLAN
+dialog: I have here a detailed description of
+dialog: what occurred at your meetings. It
+dialog: describes how your teacher, Mr. Keating,
+dialog: encouraged you boys to organize this
+dialog: club and to use it as a source of
+dialog: inspiration for reckless and self-
+text: indulgent behavior. It describes how Mr.
+text: Keating, both in and out of the
+dialog: classroom, encouraged Neil Perry to
+dialog: follow his obsession with acting when he
+dialog: knew all along it was against the
+text: explicit order of Neil's parents. It was
+text: Mr. Keating's blatant abuse of his
+dialog: position as teacher that led directly to
+dialog: Neil Perry's death.
+text: Mr. Nolan motions to Todd's father, who passes along a sheet of
+dialog: paper to Todd.
+speaker_heading: MR. NOLAN
+dialog: Read that document carefully, Todd. Very
+dialog: carefully.
+text: Todd looks at the paper, which already contains the signatures of
+text: the other four boys.
+speaker_heading: MR. NOLAN
+dialog: If you've nothing to add or amend, sign
+dialog: it.
+speaker_heading: TODD
+dialog: What's gonna happen to Mr. Keating?
+scene_heading: MR. ANDERSON
+dialog: I've had enough. Sign the paper, Todd.
+text: Mr. Nolan holds out a pen for Todd to take.
+scene_heading: EXT. CAMPUS - DAY
+text: Mr. McAllister leads his students, textbooks in hand, through the
+text: snow outside the classrooms.
+speaker_heading: McALLISTER
+dialog: Grass is gramen or herba. Lapis is
+text: stone. The entire building is
+dialog: aedificium.
+text: Keating looks out from his office window. McAllister pauses and looks
+text: up at Keating, giving him a brief wave. Keating waves back.
+scene_heading: INT. KEATING'S OFFICE - DAY
+text: Keating laughs slightly as he watches McAllister from the window.
+text: Inside, all his belongings have been packed up.
+scene_heading: INT. KEATING'S CLASSROOM - DAY
+text: The students are all seated at their desks in silence. Everyone looks
+text: as the door opens. They quickly stand as Mr. Nolan enters the room.
+speaker_heading: MR. NOLAN
+dialog: Sit.
+text: The students sit once again as Mr. Nolan walks to the front of the room.
+speaker_heading: MR. NOLAN
+dialog: I'll be teaching this class through
+dialog: exams. We'll find a permanent English
+dialog: teacher during the break. Who will tell
+dialog: me where you are in the Pritchard
+dialog: textbook?
+speaker_heading: MR. NOLAN
+dialog: Mr. Anderson?
+speaker_heading: TODD
+dialog: Uh, in the, in the Pr-
+speaker_heading: MR. NOLAN
+dialog: I can't hear you, Mr. Anderson.
+speaker_heading: TODD
+dialog: In the, in the, in the Pritchard?
+speaker_heading: MR. NOLAN
+dialog: Kindly inform me, Mr. Cameron.
+speaker_heading: CAMERON
+dialog: We skipped around a lot, sir. We covered
+dialog: the Romantics and some of the chapters
+dialog: on Post Civil War literature.
+speaker_heading: MR. NOLAN
+dialog: What about the Realists?
+speaker_heading: CAMERON
+dialog: I believe we skipped most of that, sir.
+speaker_heading: MR. NOLAN
+dialog: All right, then, we'll start over. What
+dialog: is poetry?
+text: There is a knock at the classroom door.
+speaker_heading: MR. NOLAN
+dialog: Come.
+text: The students look back as the door opens. They quickly turn
+dialog: away when hey see it is Keating.
+speaker_heading: KEATING
+dialog: Excuse me. I came for my personals.
+dialog: Should I come back after class?
+speaker_heading: MR. NOLAN
+dialog: Get them now, Mr. Keating.
+speaker_heading: MR. NOLAN
+dialog: Gentlemen, turn to page 21 of the
+dialog: introduction. Mr. Cameron, read aloud
+text: the excellent essay by Dr. Pritchard on
+dialog: "Understanding Poetry."
+text: Todd slowly closes his book. Keating opens the door to the tiny
+text: room off the classroom.
+speaker_heading: CAMERON
+dialog: That page has been ripped out, sir.
+speaker_heading: MR. NOLAN
+dialog: Well, borrow somebody else's book.
+speaker_heading: CAMERON
+dialog: They're all ripped out, sir.
+speaker_heading: MR. NOLAN
+dialog: What do you mean, they're all ripped
+dialog: out?
+speaker_heading: CAMERON
+dialog: Sir, we, uh-
+speaker_heading: MR. NOLAN
+dialog: Never mind.
+text: Mr. Nolan takes his own book over to Cameron's desk and then
+text: slaps the open page.
+speaker_heading: MR. NOLAN
+dialog: Read!
+text: As Cameron begins to read, Keating looks out at Todd as he puts
+text: his scarf on. Todd looks at him for a moment and then glances away.
+speaker_heading: CAMERON
+dialog: "Understanding Poetry by Dr. J Evans
+dialog: Pritchard, Ph.D. To fully understand
+dialog: poetry, we must first be fluent with its
+text: meter, rhyme and figures of speech, then
+dialog: ask two questions: 1) How artfully has
+dialog: the objective of the poem been rendered
+dialog: and 2)..."
+text: The door squeaks as Keating shuts it behind him. Cameron pauses.
+speaker_heading: CAMERON
+dialog: "... How important is that objective?
+dialog: Question 1 rates the poem's perfection;
+dialog: question 2 rates its importance. And
+dialog: once these questions have been answered,
+text: determining the poem's greatness becomes
+dialog: a relatively simple matter. If the
+text: poem's score for perfection is plotted
+text: on the horizontal of a graph--"
+text: Keating passes by Todd and the others and gets to the back of the
+text: classroom before Todd leaps up from his seat and turns to face him.
+speaker_heading: TODD
+dialog: Mr. Keating! They made everybody sign
+dialog: it.
+text: Mr. Nolan gets up from his desk and approaches Todd.
+speaker_heading: MR. NOLAN
+dialog: Quiet, Mr. Anderson.
+speaker_heading: TODD
+dialog: You gotta believe me. It's true.
+speaker_heading: KEATING
+dialog: I do believe you, Todd.
+speaker_heading: MR. NOLAN
+dialog: Leave, Mr. Keating.
+speaker_heading: TODD
+dialog: But it wasn't his fault!
+speaker_heading: MR. NOLAN
+dialog: Sit down, Mr. Anderson!
+text: Todd reluctantly returns to his seat.
+speaker_heading: MR. NOLAN
+dialog: One more outburst from you or anyone
+dialog: else, and you're out of this school!
+dialog: Leave, Mr. Keating.
+text: Keating hesitates at the back of the classroom.
+speaker_heading: MR. NOLAN
+dialog: I said leave, Mr. Keating.
+text: Keating slowly turns and heads to the door. As he opens
+text: it, Todd, stands upon his desk and turns to Keating.
+speaker_heading: TODD
+dialog: O Captain! My Captain!
+speaker_heading: MR. NOLAN
+dialog: Sit down, Mr. Anderson!
+text: Keating pauses at the door and looks back at Todd on his desk.
+speaker_heading: MR. NOLAN
+dialog: Do you hear me? Sit down! Sit down! This
+dialog: is your final warning, Anderson. How
+dialog: dare you? Do you hear me?
+text: After a moment of indecision, Knox climbs up onto his desk.
+speaker_heading: KNOX
+dialog: O Captain! My Captain!
+speaker_heading: MR. NOLAN
+dialog: Mr. Overstreet, I warn you! Sit down!
+text: Pitts climbs up onto his desk, followed by several others,
+dialog: including Meeks.
+speaker_heading: MR. NOLAN
+dialog: Sit down! Sit down. All of you. I want
+dialog: you seated. Sit down. Leave, Mr.
+dialog: Keating.
+text: More students stand on their desks until half the class is standing.
+speaker_heading: MR. NOLAN
+dialog: All of you, down. I want you seated. Do
+dialog: you hear me?
+speaker_heading: MR. NOLAN
+dialog: Sit down!
+text: Keating stands in the doorway, staring up at the boys in wonder. A
+text: smile comes to his face.
+speaker_heading: KEATING
+dialog: Thank you, boys. Thank you.
+dialog: 

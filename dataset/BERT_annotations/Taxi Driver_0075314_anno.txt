@@ -1,0 +1,4642 @@
+dialog: 
+speaker_heading: TAXI DRIVER
+dialog: by
+dialog: Paul Schrader
+speaker_heading: PROPERTY OF:
+dialog: 
+dialog: 
+dialog: "The whole conviction of my life now rests upon the belief
+dialog: that loneliness, far from being a rare and curious
+dialog: phenomenon, is the central and inevitable fact of human
+dialog: existence."
+dialog: --Thomas Wolfe,
+dialog: "God's Lonely Man"
+text: TRAVIS BICKLE, age 26, lean, hard, the consummate loner. On
+text: the surface he appears good-looking, even handsome; he has a
+text: quiet steady look and a disarming smile which flashes from
+text: nowhere, lighting up his whole face. But behind that smile,
+text: around his dark eyes, in his gaunt cheeks, one can see the
+text: ominous stains caused by a life of private fear, emptiness
+text: and loneliness. He seems to have wandered in from a land
+dialog: where it is always cold, a country where the inhabitants
+text: seldom speak. The head moves, the expression changes, but
+text: the eyes remain ever-fixed, unblinking, piercing empty space.
+text: Travis is now drifting in and out of the New York City night
+text: life, a dark shadow among darker shadows. Not noticed, no
+text: reason to be noticed, Travis is one with his surroundings.
+text: He wears rider jeans, cowboy boots, a plaid western shirt
+text: and a worn beige Army jacket with a patch reading, "King
+dialog: Kong Company 1968-70".
+text: He has the smell of sex about him: Sick sex, repressed sex,
+text: lonely sex, but sex nonetheless. He is a raw male force,
+text: driving forward; toward what, one cannot tell. Then one
+text: looks closer and sees the evitable. The clock sprig cannot
+text: be wound continually tighter. As the earth moves toward the
+text: sun, Travis Bickle moves toward violence.
+text: FILM OPENS on EXT. of MANHATTAN CAB GARAGE. Weather-beaten
+text: sign above driveway reads, "Taxi Enter Here". Yellow cabs
+text: scuttle in and out. It is WINTER, snow is piled on the
+text: curbs, the wind is howling.
+text: INSIDE GARAGE are parked row upon row of multi-colored taxis.
+text: Echoing SOUNDS of cabs idling, cabbies talking. Steamy
+text: breath and exhaust fill the air.
+text: INT. CORRIDOR of cab company offices. Lettering on ajar door
+dialog: reads:
+scene_heading: PERSONAL OFFICE
+dialog: Marvis Cab Company
+dialog: Blue and White Cab Co.
+speaker_heading: Acme Taxi
+dialog: Dependable Taxi Services
+speaker_heading: JRB Cab Company
+dialog: Speedo Taxi Service
+dialog: 
+dialog: 2.
+text: SOUND of office busywork: shuffling, typing, arguing.
+text: PERSONAL OFFICE is a cluttered disarray. Sheets with heading
+text: "Marvis, B&amp;W, Acme" and so forth are tacked to crumbling
+text: plaster wall: It is March. Desk is cluttered with forms,
+text: reports and an old upright Royal typewriter.
+text: Dishelved middle-aged New Yorker looks up from the desk. We
+text: CUT IN to ongoing conversation between the middle-aged
+text: PERSONNEL OFFICER and a YOUNG MAN standing in front on his
+dialog: desk.
+text: The young man is TRAVIS BICKLE. He wears his jeans, boots
+text: and Army jacket. He takes a drag off his unfiltered cigarette.
+text: The PERSONNEL OFFICER is beat and exhausted: he arrives at
+text: work exhausted. TRAVIS is something else again. His intense
+text: steely gaze is enough to jar even the PERSONNEL OFFICER out
+text: of his workaday boredom.
+speaker_heading: PERSONNEL OFFICER (O.S.)
+dialog: No trouble with the Hack Bureau?
+speaker_heading: TRAVIS (O.S.)
+dialog: No Sir.
+speaker_heading: PERSONNEL OFFICER (O.S.)
+dialog: Got your license?
+speaker_heading: TRAVIS (O.S.)
+dialog: Yes.
+speaker_heading: PERSONNEL OFFICER
+dialog: So why do you want to be a taxi
+dialog: driver?
+speaker_heading: TRAVIS
+dialog: I can't sleep nights.
+speaker_heading: PERSONNEL OFFICER
+dialog: There's porno theatres for that.
+speaker_heading: TRAVIS
+dialog: I know. I tried that.
+text: The PERSONNEL OFFICER, though officious, is mildly probing
+text: and curious. TRAVIS is a cipher, cold and distant. He
+text: speaks as if his mind doesn't know what his mouth is saying.
+speaker_heading: PERSONNEL OFFICER
+dialog: So whatja do now?
+dialog: 
+dialog: 3.
+speaker_heading: TRAVIS
+dialog: I ride around nights mostly.
+dialog: Subways, buses. See things. Figur'd
+dialog: I might as well get paid for it.
+speaker_heading: PERSONNEL OFFICER
+dialog: We don't need any misfits around
+dialog: here, son.
+text: A thin smile cracks almost indiscernibly across TRAVIS' lips.
+speaker_heading: TRAVIS
+dialog: You kiddin? Who else would hack
+dialog: through South Bronx or Harlem at
+dialog: night?
+speaker_heading: PERSONNEL OFFICER
+dialog: You want to work uptown nights?
+speaker_heading: TRAVIS
+dialog: I'll work anywhere, anytime. I know
+dialog: I can't be choosy.
+speaker_heading: PERSONNEL OFFICER
+dialog: (thinks a moment)
+dialog: How's your driving record?
+speaker_heading: TRAVIS
+dialog: Clean. Real clean.
+dialog: (pause, thin smile)
+dialog: As clean as my conscience.
+speaker_heading: PERSONNEL OFFICER
+dialog: Listen, son, you gonna get smart,
+dialog: you can leave right now.
+speaker_heading: TRAVIS
+dialog: (apologetic)
+dialog: Sorry, sir. I didn't mean that.
+speaker_heading: PERSONNEL OFFICER
+dialog: Physical? Criminal?
+speaker_heading: TRAVIS
+dialog: Also clean.
+speaker_heading: PERSONNEL OFFICER
+dialog: Age?
+speaker_heading: PERSONNEL OFFICER
+text: Twenty-six.
+speaker_heading: PERSONNEL OFFICER
+dialog: Education?
+dialog: 
+dialog: 4.
+speaker_heading: TRAVIS
+dialog: Some. Here and there.
+speaker_heading: PERSONNEL OFFICER
+dialog: Military record?
+speaker_heading: TRAVIS
+dialog: Honorable discharge. May 1971.
+speaker_heading: PERSONNEL OFFICER
+dialog: You moonlightin?
+speaker_heading: TRAVIS
+dialog: No, I want long shifts.
+speaker_heading: PERSONNEL OFFICER
+dialog: (casually, almost to himself)
+dialog: We hire a lot of moonlighters here.
+speaker_heading: TRAVIS
+dialog: So I hear.
+speaker_heading: PERSONNEL OFFICER
+dialog: (looks up at Travis)
+dialog: Hell, we ain't that much fussy
+dialog: anyway. There's always opening on
+dialog: one fleet or another.
+text: (rummages through his
+dialog: drawer, collecting
+dialog: various pink, yellow
+dialog: and white forms)
+dialog: Fill out these forms and give them
+text: to the girl at the desk, and leave
+dialog: your phone number. You gotta phone?
+speaker_heading: TRAVIS
+dialog: No.
+speaker_heading: PERSONNEL OFFICER
+dialog: Well then check back tomorrow.
+speaker_heading: TRAVIS
+dialog: Yes, Sir.
+speaker_heading: CUT TO:
+speaker_heading: CREDITS
+text: CREDITS appear over scenes from MANHATTAN NIGHTLIFE. The
+text: snow has melted, it is spring.
+text: A rainy, slick, wet miserable night in Manhattan's theatre
+dialog: district.
+dialog: 
+dialog: 5.
+text: Cabs and umbrellas are congested everywhere; well-dressed
+text: pedestrians are pushing, running, waving down taxis. The
+text: high-class theatre patrons crowding out of the midtown shows
+text: are shocked to find that the same rain that falls on the
+text: poor and common is also falling on them.
+text: The unremitting SOUNDS of HONKING and SHOUTING play against
+text: the dull pitter-patter of rain. The glare of yellow, red and
+text: green lights reflects off the pavements and autos.
+dialog: "When it rains, the boss of the city is the taxi driver" -
+text: so goes the cabbie's maxim, proven true by this particular
+text: night's activity. Only the taxis seem to rise above the
+text: situation: They glide effortlessly through the rain and
+text: traffic, picking up whom they choose, going where they please.
+text: Further uptown, the crowds are neither so frantic nor so
+text: glittering. The rain also falls on the street bums and aged
+text: poor. Junkies still stand around on rainy street corners,
+text: hookers still prowl rainy sidewalks. And the taxis service
+dialog: them too.
+text: All through the CREDITS the exterior sounds are muted, as if
+text: coming from a distant room or storefront around the corner.
+text: The listener is at a safe but privileged distance.
+text: After examining various strata of Manhattan nightlife,
+text: CAMERA begins to CLOSE IN on one particular taxi, and it is
+text: assumed that this taxi is being driven by TRAVIS BICKLE.
+speaker_heading: END CREDITS
+speaker_heading: CUT TO:
+text: Travis's yellow taxi pulls in foreground. On left rear door
+text: are lettered the words "Dependable Taxi Service".
+text: We are somewhere on the upper fifties on Fifth Ave. The rain
+text: has not let up.
+text: An ELDERLY WOMAN climbs in the right rear door, crushing her
+text: umbrella. Travis waits a moment, then pulls away from the
+text: curb with a start.
+text: Later, we see Travis' taxi speeding down the rain-slicked
+text: avenue. The action is periodically accompanied by Travis'
+text: narration. He is reading from a haphazard personal diary.
+speaker_heading: TRAVIS (V.O.)
+dialog: (monotone)
+dialog: April 10, 1972. Thank God for the
+dialog: rain which has helped wash the
+text: garbage and trash off the sidewalks.
+dialog: 
+dialog: 6.
+text: TRAVIS' POV of sleazy midtown side street: Bums, hookers,
+dialog: junkies.
+speaker_heading: TRAVIS (V.O.)
+dialog: I'm working a single now, which
+dialog: means stretch-shifts, six to six,
+dialog: sometimes six to eight in the a.m.,
+dialog: six days a week.
+text: A MAN IN BUSINESS SUIT hails Travis to the curb.
+speaker_heading: TRAVIS (V.O.)
+text: It's a hustle, but it keeps me busy.
+dialog: I can take in three to three-fifty
+text: a week, more with skims.
+text: MAN IN BUSINESS SUIT, now seated in back seat, speaks up:
+scene_heading: MAN IN BUSINESS SUIT
+dialog: (urgent)
+dialog: Is Kennedy operating, cabbie? Is it
+dialog: grounded?
+text: On seat next to TRAVIS is half-eaten cheeseburger and order
+text: of french fries. He puts his cigarette down and gulps as he
+dialog: answers:
+speaker_heading: TRAVIS
+dialog: Why should it be grounded?
+scene_heading: MAN IN BUSINESS SUIT
+dialog: Listen - I mean I just saw the
+text: needle of the Empire State Building.
+dialog: You can't see it for the fog!
+speaker_heading: TRAVIS
+dialog: Then it's a good guess it's grounded.
+scene_heading: MAN IN BUSINESS SUIT
+dialog: The Empire State in fog means
+dialog: something, don't it? Do you know,
+dialog: or don't you? What is your number,
+dialog: cabbie?
+speaker_heading: TRAVIS
+dialog: Have you tried the telephone?
+scene_heading: MAN IN BUSINESS SUIT
+dialog: (hostile, impatient)
+dialog: There isn't time for that. In other
+dialog: words, you don't know.
+speaker_heading: TRAVIS
+dialog: No.
+dialog: 
+dialog: 7.
+scene_heading: MAN IN BUSINESS SUIT
+dialog: Well, you should know, damn it, or
+dialog: who else would know? Pull over
+dialog: right here.
+dialog: (points out window)
+dialog: Why don't you stick your goddamn
+dialog: head out of the goddamn window once
+dialog: in a while and find out about the
+dialog: goddamn fog!
+text: TRAVIS pulls to the curb. The BUSINESS MAN stuffs a dollar
+text: bill into the pay drawer and jumps out of the cab. He turns
+text: to hail another taxi.
+scene_heading: MAN IN BUSINESS SUIT
+dialog: Taxi! Taxi!
+text: Travis writes up his trip card and drives away.
+text: It is LATER THAT NIGHT. The rain has turned to drizzle.
+text: Travis drives trough another section of Manhattan.
+speaker_heading: TRAVIS (V.O.)
+dialog: I work the whole city, up, down,
+dialog: don't make no difference to me -
+dialog: does to some.
+scene_heading: STREETSIDE: TRAVIS' P.O.V. Black PROSTITUTE wearing white
+text: vinyl boots, leopard-skin mini-skirt and blond wig hails
+text: taxi. On her arm hangs half-drunk seedy EXECUTIVE TYPE.
+text: TRAVIS pulls over.
+text: PROSTITUTE and JOHN climb into back seat. TRAVIS checks out
+text: the action in rear view mirror.
+speaker_heading: TRAVIS (V.O.)(CONTD)
+dialog: Some won't take spooks - Hell,
+dialog: don't make no difference tom me.
+text: TRAVIS' taxi drives through Central Park.
+text: GRUNTS, GROANS coming from back seat. HOOKER and JOHN going
+text: at it in back seat. He's having a hard time and she's
+text: probably trying to get him to come off manually.
+speaker_heading: JOHN (O.S.)
+dialog: Oh baby, baby.
+speaker_heading: PROSTITUTE (O.S.)
+dialog: (forceful)
+dialog: Come on.
+dialog: 
+dialog: 8.
+text: TRAVIS stares blankly ahead.
+speaker_heading: CUT TO:
+scene_heading: TRAVIS' APARTMENT. CAMERA PANS SILENTLY across INT. room,
+text: indicating this is not a new scene.
+text: TRAVIS is sitting at plain table writing. He wears shirt,
+text: jeans, boots. An unfiltered cigarette rests in a bent
+text: coffee can ash tray.
+text: CLOSE UP of notebook. It is a plain lined dimestore notebook
+text: and the words TRAVIS is writing with a stubby pencil are
+text: those he is saying. The columns are straight, disciplined.
+text: Some of the writing is in pencil, some in ink. The
+text: handwriting is jagged.
+text: CAMERA continues to PAN, examining TRAVIS' apartment. It is
+dialog: unusual, to say the least:
+text: A ratty old mattress is thrown against one wall. The floor
+text: is littered with old newspapers, worn and unfolded streets
+dialog: maps and pornography. The pornography is of the sort that
+text: looks cheap but costs $10 a threw - black and white photos
+text: of naked women tied and gagged with black leather straps and
+text: clothesline. There is no furniture other than the rickety
+text: chair and table. A beat-up portable TV rests on an upright
+text: melon crate. The red silk mass in another corner looks like
+text: a Vietnamese flag. Indecipherable words, figures, numbers
+text: are scribbled on the plain plaster walls. Ragged black wires
+text: dangle from the wall where the telephone once hung.
+speaker_heading: TRAVIS (V.O.)
+dialog: They're all animals anyway. All the
+dialog: animals come out at night: Whores,
+dialog: skunk pussies, buggers, queens,
+dialog: fairies, dopers, junkies, sick,
+dialog: venal.
+dialog: (a beat)
+dialog: Someday a real rain will come and
+dialog: wash all this scum off the streets.
+text: It's EARLY MORNING: 6 a.m. The air is clean and fresh and
+text: the streets nearly deserted.
+text: EXT. of TAXI GARAGE. TRAVIS' taxi pulls into the driveway.
+speaker_heading: TRAVIS (V.O.)(CONTD)
+dialog: Each night when I return the cab to
+dialog: the garage I have to clean the come
+dialog: off the back seat. Some nights I
+dialog: clean off the blood.
+dialog: 
+dialog: 9.
+text: INT. of TAXI GARAGE. TRAVIS pulls his taxi into garage
+text: stall. TRAVIS reaches across the cab and extracts a small
+text: vial of bennies from the glove compartment.
+text: TRAVIS stands next to the cab, straightens his back, and
+text: tucks the bottle of pills into his jacket pocket. He lowers
+text: his head, looks into back seat, opens rear door and bends
+dialog: inside.
+text: He shakes a cigarette out of his pack of camels and lights it.
+text: SLIGHT TIMECUT: TRAVIS books it at garage office. Old,
+text: rotting slabs of wood are screwed to a grey crumbling
+text: concrete wall. Each available space is covered with hand-
+text: lettered signs, time schedules, check-out sheets, memos. The
+dialog: signs read:
+dialog: BE ALERT!!
+speaker_heading: THE SAFE DRIVER
+text: IS ALWAYS READY
+scene_heading: FOR THE UNEXPECTED
+speaker_heading: SLOW DOWN
+text: AND GAUGE SPEED TO
+scene_heading: ROAD CONDITIONS
+dialog: YOU CAN'T STOP
+dialog: ON A DIME!
+scene_heading: ALL NIGHT DRIVERS
+scene_heading: HAVING PERSONAL INJURY
+speaker_heading: ACCIDENTS
+text: MUST PHONE IN AT ONCE TO
+speaker_heading: JUDSON 2-3410
+dialog: AND MUST FILE A REPORT Promptly
+text: AT 9 AM THE FOLLOWING MORNING AT
+dialog: 43 W. 61st.
+text: A half dozen haggard cabbies hang around the office. Their
+text: shirts are wrinkle, their heads dropping, the mouths
+text: incessantly chattering. We pick up snatches of cabbie small
+dialog: talk:
+speaker_heading: 1ST CABBIE
+dialog: ... hadda piss like a bull steer,
+text: so I pull over on 10th Ave, yank up
+text: the hood and do the engine job.
+dialog: (gestures as if
+dialog: taking a piss into
+dialog: the hood)
+text: There I am with my dong in my hand
+dialog: when a guy come up and asks if I
+dialog: need any help. Just checking the
+dialog: battery, I says, and, meanwhile...
+speaker_heading: (MORE)
+dialog: 
+dialog: 10.
+speaker_heading: 1ST CABBIE (CONT'D)
+dialog: (takes imaginary piss)
+speaker_heading: 2ND CABBIE
+dialog: If he thinks I'm going up into The
+dialog: Jungle this time of night, he can
+dialog: shove it.
+speaker_heading: 3RD CABBIE
+dialog: (talking into pay phone)
+dialog: Fuck that Violets First. Fucking
+dialog: saddle horse. No, no, the OTB. Fuck
+dialog: them. No, it was TKR. TCR and I'da
+dialog: made seven fucking grand. Fuck them
+dialog: too. Alright, what about the second
+dialog: race?
+speaker_heading: 4TH CABBIE
+dialog: Over at Love, this hooker took on
+dialog: the whole garage. Blew the whole
+dialog: fucking joint and they wouldn't
+dialog: even let her use the drinking
+dialog: fountain.
+text: Travis hands his trip sheet to a CAB OFFICIAL, nods slightly,
+text: turns and walks toward the door.
+text: OUTSIDE, TRAVIS walks pleasantly down Broadway, his hands in
+text: his jacket pockets. The sidewalks are deserted, except for
+text: diligent fruit and vegetable VENDORS setting up their stalls.
+text: He takes a deep breath of fresh air, pulls a white pill from
+text: his pocket, pops it into his mouth.
+text: Travis turns a corner, keeps walking. Ahead of him is a 24-
+text: hour PORNO THEATRE. The theatre, a blaze of cheap day-glow
+text: reds and yellows, is an offense to the clear, crisp morning
+text: air. The permanent lettering reads, "Adam Theatre, 16mm
+text: Sound Features". Underneath, today's feature are hand-
+text: lettered: "Six-Day Cruise" and "Beaver Dam".
+text: Travis stops at the box office, purchases a ticket, and
+text: walks in.
+scene_heading: INT. PORNO THEATRE
+text: Travis stands in the aisle for a moment. He turns around,
+text: walking back toward the concession stand.
+speaker_heading: CONCESSION STAND
+text: A plain dumpy-looking GIRL sits listlessly on a stool behind
+text: the shabby concession stand. A plaster-of-Paris Venus de
+text: Milo sits atop a piece of purple velvet cloth on the counter.
+dialog: 
+dialog: 11.
+text: The SOUND of the feature drones in the background.
+speaker_heading: CONCESSION GIRL
+dialog: Kin I help ya?
+text: Travis rests his elbow on the counter, looking at the Girl.
+text: He is obviously trying to be friendly - no easy task for him.
+dialog: God knows he needs a friend.
+speaker_heading: TRAVIS
+dialog: What is your name? My name is Travis.
+speaker_heading: CONCESSION GIRL
+dialog: Awh, come off it, Pal.
+speaker_heading: TRAVIS
+dialog: No, I'm serious, really...
+speaker_heading: CONCESSION GIRL
+dialog: Ya want me to call da boss? Huh?
+dialog: That what you want?
+speaker_heading: CONCESSION GIRL
+dialog: No, no, it's alright. I'll have a
+dialog: big Coca-Cola - without ice - and a
+text: large buttered popcorn, and...
+dialog: (pointing)
+dialog: ... some of them chocolate covered
+dialog: malted milk balls... and ju-jukes,
+text: a box. They last.
+speaker_heading: CONCESSION GIRL
+dialog: We don't have ju-jukes. We don't
+dialog: have Coca-Cola. We only got Royal
+dialog: Crown Cola.
+speaker_heading: TRAVIS
+dialog: That's fine.
+speaker_heading: CONCESSION GIRL
+dialog: That's a dollar forty-seven.
+text: Travis lays two dollar bills on the counter.
+scene_heading: INT. THEATRE AUDITORIUM
+text: Slight TIMECUT to Travis sitting in theatre, drinking his
+text: Royal Crown Cola, eating his popcorn and milk balls. His
+text: eyes are fixed on the screen. A MALE VOICE emanates from the
+dialog: screen:
+speaker_heading: MALE MOVIE VOICE (O.S.)
+dialog: Come here, bitch. I'm gonna split
+dialog: you in half.
+dialog: 
+dialog: 12.
+text: Male Voice yields to Travis' monotone narration.
+speaker_heading: TRAVIS (V.O.)
+dialog: Twelve hours of work and I still
+text: cannot sleep. The days dwindle on
+dialog: forever and do not end.
+speaker_heading: FADE TO:
+scene_heading: EXT. CHARLES PALANTINE CAMPAIGN HEADQUARTERS
+dialog: The Headquarters of the "New Yorkers for Charles Palantine
+dialog: for President Committee", located at the corner of 50th
+text: Street and Broadway, are festooned in traditional red, white
+text: and blue banners, ribbons and signs.
+text: One large sign proclaims "Palantine". Another sign reads
+text: "Register for New York Primary, July 20.". The smiling
+text: middle-aged face of Charles Palantine keeps watch over the
+text: bustling pedestrians.
+text: It is LATE AFTERNOON.
+scene_heading: INSIDE HEADQUARTERS
+text: A variety of YOUNG WORKERS joke and chatter as they labor
+text: through stacks of papers. The room is pierced with the sound
+text: of ringing phones.
+text: Seen from a distance - the only way Travis can see them -
+dialog: those are America's chosen youth: Healthy, energetic, well-
+text: groomed, attractive, all recruited from the bucolic fields
+dialog: of Massachusetts and Connecticut.
+text: CAMERA FAVORS BETSY, about 25, an extremely attractive woman
+text: sitting at the reception desk between two phones and several
+text: stacks of papers. Her attractions, however, are more than
+text: skin deep. Beneath that Cover Girl facial there is a keen,
+text: though highly specialized sensibility: Her eyes scan every
+text: man who passes her desk as her mind computes his
+dialog: desirability: Political, intellectual, sexual, emotional,
+dialog: material. Simple pose and status do not impress her; she
+dialog: seeks out the extraordinary qualities in men. She is, in
+dialog: other words, star-fucker of the highest order.
+text: Betsy, putting down the phone, calls TOM, a lanky, amiable
+text: and modishly long-haired campaign workder over to her desk:
+speaker_heading: BETSY
+dialog: Tom.
+text: Tom is pleasant and good-looking, but lacks those special
+text: qualities which interest Betsy. He gets nowhere with Betsy -
+text: yet he keeps trying.
+dialog: 
+dialog: 13.
+dialog: Just another of those routine office flirtations which pass
+dialog: the hours and free the fantasies.
+speaker_heading: BETSY
+dialog: Tom, come here a moment.
+dialog: (he walks over)
+dialog: I think this canvas report is about
+dialog: ready to go out. Check it out with
+dialog: Andy, and if he okays if, have a
+dialog: copy made for the campaign
+dialog: headquarters in every county.
+dialog: (a beat)
+dialog: And don't forget to add the new
+dialog: photo releases.
+speaker_heading: TOM
+text: The senator's white paper is almost
+dialog: ready, Bets. Should we wait for that?
+speaker_heading: BETSY
+dialog: Andy usually just sends those to
+dialog: the national media. The local press
+dialog: doesn't know what to do with a
+dialog: position paper until UPI and AP
+dialog: tell them anyway.
+speaker_heading: TOM
+dialog: I think we should try to get
+dialog: maximum coverage for this new
+dialog: mandatory welfare program. Push the
+dialog: issues.
+speaker_heading: BETSY
+dialog: (as if instructing a child)
+dialog: First push the man, then the issue.
+dialog: Senator Palantine is first of all a
+dialog: dynamic man, an intelligent,
+dialog: interesting, fascinating man.
+speaker_heading: TOM
+dialog: You forgot "sexy".
+speaker_heading: BETSY
+dialog: No, I didn't forget "sexy".
+speaker_heading: TOM
+dialog: Just didn't get around to it, huh?
+speaker_heading: BETSY
+dialog: Oh, Tom, please.
+dialog: 
+dialog: 14.
+speaker_heading: TOM
+dialog: Well, for Christsakes, you sound
+dialog: like you're selling... I don't know
+dialog: what... cars... not issues.
+speaker_heading: BETSY
+dialog: Have you ever wondered why CBS News
+dialog: has the highest ratings?
+speaker_heading: TOM
+text: More people watch it.
+speaker_heading: BETSY
+dialog: Alright, forget it if you're not
+dialog: going to be serious,
+speaker_heading: TOM
+dialog: No, c'mon, I'm listening. I was
+dialog: just...
+speaker_heading: BETSY
+dialog: Just what?
+speaker_heading: TOM
+dialog: Kidding around... you know, fun.
+text: Betsy looks toward the street, then back at Tom.
+speaker_heading: BETSY
+dialog: Maybe if you'd try thinking once in
+dialog: a while, you'd get somewhere.
+speaker_heading: TOM
+dialog: With who?
+speaker_heading: BETSY
+dialog: Alright, now. You want to know why
+dialog: CBS has the highest ratings? You
+dialog: their news is any different from
+dialog: NBC, ABC? It's all the same news.
+dialog: Same stories. Same order usually.
+dialog: What, you thought they had good
+dialog: news for people, right? You thought
+dialog: that's why people watched CBS? I'll
+dialog: tell you why people watch CBS.
+dialog: Cronkite. The man. You got it? Not
+dialog: the news, not the issues, the man.
+dialog: If Walter Cronkite told people to
+dialog: eat soap, they'd do it. We are
+dialog: selling cars, goddamn it.
+text: Betsy's attention is being distracted by something she sees
+text: across the street. She puts on her glasses and looks out
+text: across the street again.
+dialog: 
+dialog: 15.
+speaker_heading: TOM
+dialog: Well, if Cronkite's so great, why
+dialog: don't we run him instead?
+speaker_heading: BETSY
+dialog: That's the last. The finish. Period.
+dialog: Some pople can learn. Some people
+dialog: can't. And you wonder why we never
+dialog: get serious----
+speaker_heading: TOM
+dialog: Sure we could run him. You realize
+dialog: he's already of his block
+dialog: association.
+speaker_heading: BETSY
+dialog: (looks across street again)
+dialog: Have you been noticing anything
+dialog: strange?
+speaker_heading: TOM
+dialog: No, why?
+speaker_heading: BETSY
+dialog: Why's that taxi driver across the
+dialog: street been staring at us?
+speaker_heading: TOM
+dialog: What taxi driver?
+speaker_heading: BETSY
+dialog: That taxi driver. The one that's
+dialog: been sitting here.
+speaker_heading: TOM
+dialog: How long has he been there?
+speaker_heading: BETSY
+dialog: I don't know - but it feels like a
+dialog: long time.
+text: Travis' cold piercingly eyes Stare out from his cab parked
+text: across the street from Palantine Headquarters. He is like a
+text: lone wolf watching the warm campfires of civilization from a
+text: distance. A thin red dot glows from his cigarette.
+text: Tom exchanges Travis' gaze.
+speaker_heading: TOM
+dialog: (determined)
+dialog: Well, I'll go out and ask him.
+text: As Tom walks toward front door Betsy's eyes alternate
+text: between him and the position where Travis sits.
+dialog: 
+dialog: 16.
+scene_heading: EXT. PALANTINE HEADQUARTERS
+text: Tom strides out the front door and walks briskly across the
+text: street toward Travis' taxi.
+text: Travis spots Tom walking toward him and quickly stares up
+text: his cab, then squeals off in a burst of billowing exhaust.
+text: Tom watches the speeding taxi quizzically.
+text: Travis' taxi continues down Broadway.
+speaker_heading: CUT TO:
+scene_heading: INT. TRAVIS' APARTMENT
+text: He lies on his mattress at the ceiling. He is fully clothed
+text: and appears deep in thought.
+text: Near his mattress rest several medications: A large bottle
+text: of vitamin pills, two smaller bottles of pills, a bottle of
+text: peach-flavored brandy.
+speaker_heading: TRAVIS (V.O.)
+dialog: All my life needed was a sense of
+dialog: direction, a sense of someplace to
+dialog: go. I do not believe one should
+dialog: devote his life to morbid self-
+dialog: attention, but should become a
+dialog: person like other people.
+scene_heading: ANOTHER DAY - LATE AFTERNOON
+text: Travis' taxi is driving down Broadway with the "Off Duty"
+text: sign on.
+text: POV TRACKING SHOT down Broadway. CAMERA stops at Palantine
+text: Campaign Headquarters. A few WORKERS remain in the office.
+text: Betsy's desk is vacant.
+scene_heading: FIFTH AVENUE - THE SAME AFTERNOON
+text: CAMERA TRACKS with crowded mass of MANHATTANITES as they
+text: ooze through the sidewalks toward their various destination.
+text: Individuals are indiscernible: It is simply a congested mass.
+speaker_heading: TRAVIS (V.O.)
+dialog: I first saw her at Palantine
+dialog: Campaign Headquarters at 58th and
+text: Broadway. She was wearing a yellow
+text: dress, answering the phone at her
+dialog: desk.
+dialog: 
+dialog: 17.
+text: Suddenly: Cut of the congested human mass, IN SLOWING
+text: MOTION, appears the slender figure of BETSY in a stylish
+text: yellow dress. The crowd parts like the Red Sea, and there
+text: she is: Walking all alone, untouched by the crowd, suspended
+dialog: in space and time.
+speaker_heading: TRAVIS (V.O.)(CONTD)
+text: She appeared like an angel out of
+dialog: this open sewer. Out of this filthy
+dialog: mass. She is alone: They cannot
+text: touch her.
+scene_heading: INT. TRAVIS' APARTMENT
+text: He is at the table, writing in his diary.
+text: CLOSEUP - His stubby pencil rests on the word "her".
+speaker_heading: CUT TO:
+text: It is 3:30 IN THE MORNING in a bacon-shaped all night WEST
+text: SIDE REATAURANT. The thick smell hangs in the air - fried
+text: grease, smoke, sweat, regurgitated wine.
+text: Whatever doesn't flush away in New York at night turns up in
+text: places like this. A burly grease-stained COOK stands over
+text: the grill. A JUNKIE shuffles from one side of the door to
+text: another. Slouched over the small four-person formica tables
+text: are several WELL-DRESSED BLACKS (too well-dressed for this
+text: time and place), a cluster of STREET PEOPLE and a lost OLD
+text: COOT who hangs onto his cup of coffee as if it were his last
+dialog: possession.
+text: The restaurant, brightly lit, perfectly conveys the image
+text: urban plasticity - without the slightest hint of an
+dialog: accompanying cleanliness.
+text: Toward the rear of the restaurant sit three cabbies: WIZARD,
+text: a worn man about fifty, DOUGH-BOY, younger family man,
+text: CHARLIE T., fourtyish Black.
+text: Wizard is telling Dough-Boy a story. Charlie T., his elbows
+text: popped against table top, is not listening. He stares
+text: silently down at a plate of cold scrambled eggs and a Racing
+text: Forum. His eyes may not be open.
+speaker_heading: WIZARD
+dialog: First she did her make-up. You
+dialog: know, I hate it when they do that.
+dialog: I mean she does the whole works,
+dialog: the mascara, the eye-shadow, the
+dialog: lipstick, the rouge...
+dialog: 
+dialog: 18.
+speaker_heading: DOUGH-BOY
+dialog: Not rouge. Blush-On, they call it.
+speaker_heading: WIZARD
+text: The kind with a brush.
+text: Travis appears at the door. He has to push aside the JUNKIES
+dialog: to enter without making physical contact - something Travis
+dialog: would not relish. He may be repulsed with these people and
+dialog: this place, but he is too much a part of this to let his
+text: feelings rise to the surface.
+text: Wizard gives Travis a perfunctory wave.
+speaker_heading: WIZARD
+dialog: Travis.
+speaker_heading: TRAVIS
+dialog: Hey Wizard.
+text: Travis straddles a seat at the table. Dough-Boy gives Travis
+text: something between a wink and an eye-twitch saying:
+speaker_heading: DOUGH-BOY
+dialog: Yeah, that's Blush-On. My wife uses
+dialog: it,
+speaker_heading: WIZARD
+dialog: (ironic)
+dialog: Ask Travis. He's the ladies man.
+text: Travis shrugs and motions for a cup of coffee.
+speaker_heading: WIZARD
+dialog: (continuing)
+dialog: Well, whatever the fuck it is, she
+dialog: used it. And then the spray perfume.
+dialog: You know, the real sweat kind -
+dialog: and, on top of that, get this,
+dialog: right when we're crossing the Tri-
+dialog: boro bridge - she changes her
+dialog: pantyhose!
+speaker_heading: DOUGH-BOY
+dialog: No.
+text: Travis turns his head. He appears not to be interested, but
+dialog: is.
+speaker_heading: WIZARD
+dialog: Yeah.
+speaker_heading: DOUGH-BOY
+dialog: Could you see anything?
+dialog: 
+dialog: 19.
+speaker_heading: WIZARD
+dialog: Well, she was trying to keep her
+dialog: skirt down, sort of, you know. But
+dialog: it was pretty obvious what she was
+dialog: doing. I mean, Christ, it was rush
+dialog: hour and the traffic's practically
+text: standing still.
+speaker_heading: DOUGH-BOY
+dialog: What did you do?
+speaker_heading: WIZARD
+dialog: Threw on the emergency, jumped the
+dialog: seat and fucked her brains out -
+dialog: What do you think!
+dialog: (they laugh)
+dialog: What do I have to do? Draw you a
+dialog: picture?
+speaker_heading: DOUGH-BOY
+dialog: Yeah.
+speaker_heading: WIZARD
+dialog: What was I supposed to do? I was
+dialog: watching in the rear view. You
+dialog: know, just checkin' traffic.
+dialog: (to Travis)
+dialog: So howsit?
+speaker_heading: TRAVIS
+dialog: (w/o inflection)
+dialog: Some fleet driver for Bell just cut
+text: up. Just heard it on the radio.
+speaker_heading: DOUGH-BOY
+dialog: Stick up?
+text: A WAITRESS brings Travis' coffee and a glass of water. He
+text: asks for a cheeseburger.
+speaker_heading: WIZARD
+dialog: Sure. What do you think? She wanted
+dialog: to get out of the cab. I said
+dialog: "Look, you're in the middle of the
+dialog: fucking bridge..."
+speaker_heading: DOUGH-BOY
+dialog: You said that?
+speaker_heading: WIZARD
+dialog: Well, I said, "Lady, please, we're
+dialog: on a bridge..."
+dialog: 
+dialog: 20.
+speaker_heading: DOUGH-BOY
+dialog: And what happened?
+text: Travis awaits Wizard's answer.
+speaker_heading: WIZARD
+dialog: She stayed in the cab, what's she
+dialog: gonna do? but she stiffed me. A
+dialog: real skunk.
+speaker_heading: DOUGH-BOY
+text: A real skunk.
+text: Wizard realizes Travis and Dough-Boy may not have met.
+speaker_heading: WIZARD
+dialog: (paternal)
+dialog: Travis, you know Dough-Boy, Charlie
+dialog: T.?
+text: Charlie T. nods sleepily. Travis indicates he knows Dough-Boy.
+speaker_heading: DOUGH-BOY
+dialog: Yeah. We went to Harvard together.
+dialog: (laughs)
+speaker_heading: WIZARD
+dialog: We call him Dough-Boy cause he
+dialog: likes the dollars. He'll chase a
+text: buck straight into Jersey.
+speaker_heading: DOUGH-BOY
+dialog: Look who's talking?
+dialog: (gestures around table)
+dialog: Who else would stay up all night to
+dialog: catch the morning rush hour?
+text: Travis sips his coffee. Charlie T.'s eyelids slip shut.
+speaker_heading: WIZARD
+dialog: (to Travis)
+dialog: So howsit?
+speaker_heading: TRAVIS
+dialog: (w/o inflection)
+dialog: Some fleet driver for Bell just got
+text: cut up. Just heard it on the radio.
+speaker_heading: DOUGH-BOY
+dialog: Stick up?
+dialog: 
+dialog: 21.
+speaker_heading: TRAVIS
+dialog: No, just some crazy fucker. Cut
+dialog: have his ear off.
+speaker_heading: DOUGH-BOY
+dialog: Where.
+speaker_heading: TRAVIS
+text: In the jungle. 122nd.
+text: Travis' eyes turn toward the restaurant's other patrons.
+text: POV: THREE STREET PEOPLE sitting at a table. One GUY,
+text: stoned, stares straight ahead. A raggedly attractive GIRL
+text: rest her head on the shoulder of the other, a heavily
+text: bearded YOUNG MAN with a headband. They kiss and tease each
+text: other, momentarily lost in their separate world.
+text: Travis watches the hippie couple closely, his feeling
+text: sharply divided between cultural contempt and morose jealousy.
+dialog: Why should these people enjoy the love and intimacy that has
+dialog: always eluded him? He must enjoy these schizoid emotions,
+text: because his eyes dwell on the couple.
+speaker_heading: DOUGH-BOY
+dialog: (changing the subject)
+dialog: You run all over town, don't you,
+dialog: Travis?
+speaker_heading: WIZARD
+dialog: (referring to 122nd St.)
+dialog: Fuckin' Mau Mau land, that's what
+dialog: it is.
+text: Travis turns back to his companions.
+speaker_heading: TRAVIS
+dialog: Huh?
+speaker_heading: DOUGH-BOY
+dialog: I mean, you handle some pretty
+dialog: rough traffic, huh?
+speaker_heading: TRAVIS
+dialog: (catching on)
+dialog: I have.
+speaker_heading: DOUGH-BOY
+dialog: You carry a piece? You need one?
+speaker_heading: TRAVIS
+dialog: Nah.
+dialog: (a beat)
+dialog: I suppose not.
+dialog: 
+dialog: 22.
+text: Waitress slaps down smudge-marked glass of water, and a
+text: cheeseburger plate that looks more like a shrunken head on a
+text: serving platter.
+speaker_heading: DOUGH-BOY
+dialog: Well, you ever need one, I know a
+dialog: feller that kin getcha a real nice
+dialog: deal. Lotsa shit around.
+speaker_heading: WIZARD
+dialog: The cops and company raise hell
+text: they find out.
+text: Travis drops two Alka-Seltzer into his glass of water.
+speaker_heading: DOUGH-BOY
+dialog: Truck drivers bring up Harlem
+dialog: Specials that blow up in your hand.
+dialog: But this guy don't deal no shit.
+dialog: Just quality. If you ever need
+dialog: anything, I can put you in touch.
+speaker_heading: WIZARD
+dialog: For a fee.
+speaker_heading: DOUGH-BOY
+dialog: For a fee.
+speaker_heading: WIZARD
+dialog: I never use mine. But it's a good
+dialog: thing to have. Just as a threat.
+speaker_heading: DOUGH-BOY
+dialog: (getting up)
+dialog: well, if there's this many hackies
+dialog: inside, there must be lots of hares
+dialog: outside. And I'm gonna hustle 'em.
+speaker_heading: WIZARD
+dialog: What ya gonna do with all that
+dialog: money, Dough-Boy?
+speaker_heading: DOUGH-BOY
+dialog: Support my kids. Can you dig it?
+dialog: (pause)
+dialog: nice to meet ya, Travis. So long,
+dialog: Wizard. Say hello to Malcolm X for
+dialog: me.
+dialog: (nods to Charlie T.)
+text: Charlie T. remains unmoved: He is sleeping.
+dialog: 
+dialog: 23.
+text: Dough-Boy exits. Travis smiles perfunctorily, then looks
+dialog: back at Wizard. They really don't have much to talk about,
+dialog: and the Wizard doesn't care to manufacture any more
+dialog: conversations.
+text: Travis scans the greasy spoon: The scene is unchanged.
+speaker_heading: CUT TO:
+scene_heading: EXT. PALANTINE HEADQUARTERS - ANOTHER DAY
+text: Traffic passes.
+scene_heading: INT. PALANTINE HEADQUARTERS
+text: Tom and Betsy are talking. She takes out a cigarette. He
+text: takes out matches to light it.
+speaker_heading: BETSY
+dialog: Try holding the match like this.
+speaker_heading: TOM
+dialog: This is gotta be a game, right?
+speaker_heading: BETSY
+dialog: (putting on glasses)
+dialog: This I gotta see.
+speaker_heading: TOM
+dialog: (burning fingers)
+dialog: Ouch!
+speaker_heading: BETSY
+dialog: (giggling)
+dialog: Oh, are you all right?
+speaker_heading: TOM
+dialog: I'm great. Always set my fingers on
+dialog: fire. If you want to see another
+dialog: trick. I do this thing with my nose.
+speaker_heading: BETSY
+dialog: No. I just wanted to see if you
+dialog: could light it that way. The guy at
+text: the newsstand can.
+speaker_heading: TOM
+dialog: Ah, yes, the guy at the newsstand,
+dialog: Mr. Asbestos...
+speaker_heading: BETSY
+dialog: He happens to be missing fingers. I
+dialog: first noticed when -
+dialog: 
+dialog: 24.
+speaker_heading: TOM
+dialog: Is he Italian?
+speaker_heading: BETSY
+dialog: No, why?
+speaker_heading: TOM
+dialog: You sure he's not Italian?
+speaker_heading: BETSY
+dialog: He's Black, OK?
+speaker_heading: TOM
+dialog: Well, If he had been Italian, they
+dialog: could have been shot off. Sometimes
+dialog: the mob does that to teach guys a
+dialog: lesson, If they blow a job or
+dialog: something.
+speaker_heading: BETSY
+dialog: As I said, he isn't Italian.
+dialog: Besides, I thought they just killed
+dialog: them.
+speaker_heading: TOM
+dialog: Don't be naive. They can't kill
+dialog: everybody. They have different
+dialog: punishments for different things.
+dialog: Like, if they kill a stool pidgeon,
+text: they leave a canary on the body.
+dialog: It's symbolic.
+speaker_heading: BETSY
+dialog: Why don't they leave a pidgeon
+dialog: instead of a canary?
+speaker_heading: TOM
+dialog: I don't know. Maybe they don't
+dialog: leave a canary. Don't be technical.
+dialog: What I'm saying is if this newsstand
+text: guy's Italian and his fingers are
+dialog: gone, maybe he's a thief.
+speaker_heading: BETSY
+dialog: First, he's not Italian. Second
+dialog: he's not a thief. I noticed the
+dialog: fingers when he was getting my
+dialog: change - the right change. Two of
+text: his fingers are missing. Just stubs.
+dialog: Like they were blown away. I was
+dialog: putting my change in my purse when
+dialog: I saw him get out a cigarette. I
+dialog: couldn't help watching. I was dying
+dialog: to see how he'd light it.
+dialog: 
+dialog: 25.
+speaker_heading: TOM
+dialog: With the other hand, right?
+speaker_heading: BETSY
+dialog: No, stupid. With the stubs. That's
+dialog: the whole point.
+speaker_heading: TOM
+dialog: I know that guy. His hand looks
+text: like a paw. An old Black guy, the
+dialog: newsstand at -
+speaker_heading: BETSY
+dialog: No, this is young - well, I'm never
+dialog: sure how old Black people are -
+dialog: but, anyway, he isn't old. That's
+dialog: for sure.
+speaker_heading: TOM
+dialog: Show me how he did that again.
+scene_heading: EXT. ACROSS THE STREET FROM HEADQUARTERS
+text: Travis is striding briskly across Broadway toward the
+dialog: Palantine Headquarters.
+dialog: He s dressed the best we have seen him; his pants (not
+text: jeans) are pressed, his boots shined, his hair combed. Under
+text: his Army jacket he wears a freshly laundered shirt and ivy
+text: league tie. He drops his cigarette, steps on it and walks in.
+text: Watching Travis enter Palantine's Headquarters, we are
+text: surprised to realize that Travis is really quite attractive.
+text: His deformities are psychological, not physical. He believes
+dialog: he is cursed, and therefore he is.
+text: Travis walks briskly into the office, and heads toward
+text: Betsy's desk. Tom walks over to greet him, but Travis
+text: ignores him.
+speaker_heading: TRAVIS
+dialog: (at Betsy's desk)
+dialog: I want to volunteer.
+text: As the CAMERA examines Travis' face more closely, one can
+text: see the hollowness wrought by lack of sleep and sufficient
+dialog: diet.
+speaker_heading: TOM
+dialog: (at Betsy's desk)
+dialog: If you'll come this way.
+text: Travis elbows Tom off.
+dialog: 
+dialog: 26.
+speaker_heading: TRAVIS
+dialog: (to Betsy)
+dialog: No. I want to volunteer to you.
+speaker_heading: TOM
+dialog: (under his voice)
+dialog: Bets.
+text: BETSY waves TOM off with a short gesture, indicating
+text: everything is OK. He walks away.
+speaker_heading: BETSY
+dialog: (curious)
+dialog: And why is that?
+text: TRAVIS is on his best behavior. He smiles slightly:
+speaker_heading: TRAVIS
+dialog: Because you are the most beautiful
+dialog: woman I have ever seen.
+text: BETSY is momentarily taken back, but pleased. TRAVIS'
+dialog: presence has a definite sexual charge. He has those star
+dialog: qualities BETSY looks for: She senses there is something
+text: special about the young man who stands before her. And then,
+text: too, there is that disarming smile. He is, as Betsy would
+dialog: say, "fascinating".
+speaker_heading: BETSY
+dialog: (smiling)
+dialog: Is that so?
+dialog: (pause)
+dialog: But what do you think of Charles
+dialog: Palantine?
+speaker_heading: TRAVIS
+dialog: (his mind elsewhere)
+dialog: Who mam?
+speaker_heading: BETSY
+dialog: Charles Palantine. The man you want
+dialog: to volunteer to help elect president.
+speaker_heading: TRAVIS
+dialog: Oh, I think he's a wonderful man.
+dialog: Make a great, great President.
+speaker_heading: BETSY
+dialog: You want to canvass?
+speaker_heading: TRAVIS
+dialog: Yes, mam.
+dialog: 
+dialog: 27.
+text: Betsy is interviewing Travis, but she is also teasing him a
+text: little, leading him on in a gentle feminine way:
+speaker_heading: BETSY
+dialog: How do you feel about Senator
+dialog: Palantine's stand on welfare?
+text: This takes TRAVIS back a bit. He obviously doesn't have the
+dialog: slightest idea what Palantine's stand on welfare is, in
+dialog: fact, he doesn't have any idea about politics whatsoever.
+text: TRAVIS thinks a moment, then improvises an answer:
+speaker_heading: TRAVIS
+dialog: Welfare, mam? I think the Senator's
+dialog: right. People should work for a
+dialog: living. I do. I like to work. Every
+dialog: day. Get those old coots off
+dialog: welfare and make 'em work for a
+dialog: change.
+text: Betsy does a subtle double-take: This isn't exactly
+text: Palantine's position on welfare. She remain intrigued by
+dialog: Travis.
+speaker_heading: BETSY
+dialog: Well, that's not exactly what the
+dialog: Senator has proposed. You might not
+dialog: want to canvass, but there is
+dialog: plenty more other work we need
+dialog: done: Office work, filing, poster
+dialog: hanging.
+speaker_heading: TRAVIS
+dialog: I'm a good worker, Betsy mam, a
+dialog: real good worker.
+speaker_heading: BETSY
+dialog: (gesturing)
+dialog: if you talk to Tom, he'll assign
+dialog: you to something.
+speaker_heading: TRAVIS
+dialog: If you don't mind, mam, I'd rather
+dialog: work for you.
+speaker_heading: BETSY
+dialog: Well, we're all working tonight.
+speaker_heading: TRAVIS
+dialog: Well, Betsy mam, I drive a taxi at
+dialog: night.
+dialog: 
+dialog: 28.
+speaker_heading: BETSY
+dialog: Well, then, what is it you exactly
+dialog: want to do?
+speaker_heading: TRAVIS
+dialog: (bolstering courage)
+dialog: If you don't mind, mam, I'd be
+dialog: mighty pleased if you'd go out and
+dialog: have some coffee and pie with me.
+text: Betsy doesn't quite know what to make of Travis. She is
+text: curious, intrigued, tantalized. Like a moth, she draws
+text: closer to the flame.
+speaker_heading: BETSY
+dialog: Why?
+speaker_heading: TRAVIS
+dialog: Well, Betsy mam, I drive by this
+dialog: place here in my taxi many times a
+dialog: day. And I watch you sitting here
+dialog: at this big long desk with these
+dialog: telephones, and I say to myself,
+dialog: that's a lonely girl. She needs a
+dialog: friend. And I'm gonna be her friend.
+dialog: (smiles)
+text: Travis rarely smiles, but when he does his whole face glows.
+text: It is as if he is able to tap an inner reserve of charm
+text: unknown even to himself. Betsy is completely disarmed.
+speaker_heading: BETSY
+dialog: I don't know...
+speaker_heading: TRAVIS
+dialog: It's just to the corner, mam. In
+dialog: broad daytime. Nothing can happen.
+dialog: I'll be there to protect you.
+speaker_heading: BETSY
+dialog: (smiles)
+dialog: All right.
+dialog: (relents)
+dialog: All right. I'm taking a break at
+dialog: four o'clock. If you're here then
+dialog: we'll go to the corner and have
+text: some coffee and pie.
+speaker_heading: TRAVIS
+dialog: Oh, I appreciate that, Betsy mam.
+dialog: I'll be here at four o'clock
+dialog: exactly.
+dialog: (pause)
+dialog: And... ah... Betsy...
+dialog: 
+dialog: 29.
+speaker_heading: BETSY
+dialog: Yes?
+speaker_heading: TRAVIS
+dialog: My name is Travis.
+speaker_heading: BETSY
+dialog: Thank you, Travis.
+text: Travis nods, turns and exits.
+text: Tom, who has been watching this interchange with a pseudo-
+text: standoffish (actually jealous) air, steps over to Betsy. His
+dialog: manner demands some sort of explanation of what Betsy was
+dialog: doing.
+text: Betsy simply shrugs (it's really none of his business) and
+dialog: says:
+speaker_heading: BETSY
+dialog: I'm just going to find out what the
+text: cabbies are thinking.
+speaker_heading: CUT TO:
+text: Travis is pacing back and forth on Broadway just beyond the
+text: Palantine Headquarters. He checks his watch.
+speaker_heading: TRAVIS (V.O.)
+dialog: April 26, 1972. Four o'clock p.m. I
+dialog: took Betsy to the Mayfair Coffee
+dialog: Shop on Broadway...
+scene_heading: INT. COFFEE SHOP
+text: Travis and Betsy are sitting in a booth of a small New York
+text: Coffee Shop. They both have been served coffee; Travis is
+text: nervously turning his cup around in his hands.
+text: As Travis speaks V.O., WAITRESS brings their orders: Apple
+text: pie for TRAVIS, fruit compote for BETSY.
+speaker_heading: TRAVIS (V.O.)
+dialog: I had black coffee and apple pie
+text: with a slice of melted yellow
+dialog: cheese. I think that was a good
+dialog: selection. Betsy had coffee and a
+dialog: fruit salad dish. She could have
+dialog: had anything she wanted.
+text: Betsy's conversation interrupts Travis' V.O.:
+dialog: 
+dialog: 30.
+speaker_heading: BETSY
+dialog: We've signed up 15.000 Palantine
+dialog: volunteers in New York so far. The
+dialog: organizational problems are becoming
+text: just staggering.
+speaker_heading: TRAVIS
+dialog: I know what you mean. I've got the
+dialog: same problems. I just can't get
+dialog: things organized. Little things, I
+dialog: mean. Like my room, my possessions.
+dialog: I should get one of those signs
+dialog: that says, "One of these days I'm
+dialog: Gonna Organezizied".
+text: Travis contorts his mouth to match his mispronunciation,
+text: than breaks into a big, friendly, infectious grin. The very
+dialog: sight of it makes one's heart proud.
+text: Betsy cannot help but be caught up in Travis' gin. Travis'
+text: contagious, quicksilver moods cause:
+speaker_heading: BETSY
+dialog: (laughing)
+dialog: Travis, I never ever met anybody
+dialog: like you before.
+speaker_heading: TRAVIS
+dialog: I can believe that.
+speaker_heading: BETSY
+dialog: Where do you live?
+speaker_heading: TRAVIS
+dialog: (evasive)
+dialog: Oh, uptown. You know. Some joint.
+dialog: It ain't much.
+speaker_heading: BETSY
+dialog: So why did you decide to drive a
+dialog: taxi at night?
+speaker_heading: TRAVIS
+dialog: I had a regular job for a while,
+dialog: days. You know, doin' this, doin'
+dialog: that. But I didn't have anything to
+dialog: do at night. I got kinda lonely,
+dialog: you know, just wandering around. So
+dialog: I decided to works nights. It ain't
+dialog: good to be alone, you know.
+speaker_heading: BETSY
+dialog: After this job, I'm looking forward
+text: to being alone for a while.
+dialog: 
+dialog: 31.
+speaker_heading: TRAVIS
+dialog: Yeah, well...
+dialog: (a beat)
+dialog: In a cab you get to meet people.
+dialog: You meet lotsa people. It's good
+dialog: for you.
+speaker_heading: BETSY
+dialog: What kind of people?
+speaker_heading: TRAVIS
+dialog: Just people people, you know. Just
+dialog: people.
+dialog: (a beat)
+dialog: Had a dead man once.
+speaker_heading: BETSY
+dialog: Really?
+speaker_heading: TRAVIS
+dialog: He'd been shot. I didn't know that.
+text: He just crawled into the back seat,
+dialog: said "West 45th Street" and conked
+dialog: out.
+speaker_heading: BETSY
+dialog: What did you do?
+speaker_heading: TRAVIS
+dialog: I shot the meter off, for one thing.
+dialog: I knew I wasn't goimg to get paid.
+dialog: Then I dropped him off at the cop
+dialog: shop. They took him.
+speaker_heading: BETSY
+dialog: That's really something.
+speaker_heading: TRAVIS
+dialog: Oh, you see lots of freaky stuff in
+text: a cab. Especially when the moon's
+dialog: out.
+speaker_heading: BETSY
+dialog: The moon?
+speaker_heading: TRAVIS
+dialog: The full moon. One night I had
+text: three or four weirdoes in a row and
+dialog: I looked up and, sure enough, there
+dialog: it was - the full moon.
+text: Betsy laughs. Travis continues:
+dialog: 
+dialog: 32.
+speaker_heading: TRAVIS
+dialog: Oh, yeah. People will do anything
+dialog: in front of a taxi driver. I mean
+dialog: anything. People too cheap to rent
+text: a hotel room, people scoring dope,
+dialog: people shooting up, people who want
+dialog: to embarrass you.
+dialog: (a bitterness emerges)
+dialog: It's like you're not even there,
+dialog: not even a person. Nobody knows you.
+dialog: Betsy cuts Travis' bitterness short:
+speaker_heading: BETSY
+dialog: Com'on, Travis. It's not that bad.
+dialog: I take lots of taxis.
+speaker_heading: TRAVIS
+dialog: I know. I could have picked you up.
+speaker_heading: BETSY
+dialog: Huh?
+speaker_heading: TRAVIS
+text: Late one night. About three. At the
+dialog: plaza.
+speaker_heading: BETSY
+dialog: Three in the morning? I don't think
+dialog: so. I have to go to bed early. I
+dialog: work days. It must have been
+dialog: somebody else.
+speaker_heading: TRAVIS
+dialog: No. It was you. You had some manila
+text: folders and a pink bag from Saks.
+text: Betsy, realizing Travis remembers her precisely, scrambles
+dialog: for a polite rationale for her behavior:
+speaker_heading: BETSY
+dialog: You're right! Now I remember! It
+dialog: was after the Western regional
+dialog: planners were in town and the
+dialog: meeting went late. The next day I
+text: was completely bushed. It was
+dialog: unbelievable.
+speaker_heading: TRAVIS
+dialog: If it wasn't for a drunk I would
+dialog: have picked you up. He wanted to go
+dialog: to the DMZ.
+dialog: 
+dialog: 33.
+speaker_heading: BETSY
+speaker_heading: The DMZ?
+speaker_heading: TRAVIS
+dialog: South Bronx. The worst. I tried to
+dialog: ditch him, but he was already in
+dialog: the cab, so I had to take him.
+dialog: That's the law. Otherwise I would
+dialog: have picked you up.
+speaker_heading: BETSY
+dialog: That would have been quite a
+dialog: coincidence.
+speaker_heading: TRAVIS
+dialog: You'd be surprised how often you
+dialog: see the same people, get the same
+dialog: fare. People have patterns. They do
+dialog: more or less the same things every
+dialog: day. I can tell.
+speaker_heading: BETSY
+dialog: Well, I don't go to the Plaza every
+dialog: night.
+speaker_heading: TRAVIS
+dialog: I didn't mean you. But just ordinary
+dialog: people. A guy I know - Dough-Boy -
+dialog: met his wife that way. They got to
+dialog: talking. She said she usually
+dialog: caught the bus so he started
+text: picking her up at the bus stop,
+text: taking her home with the flag up.
+speaker_heading: BETSY
+dialog: That's very romantic. Some of your
+dialog: fares must be interesting. See any
+dialog: stars, politicians, deliver any
+dialog: babies yet?
+speaker_heading: TRAVIS
+dialog: Well, no... not really... had some
+text: famous people in the cab.
+dialog: (remembering)
+dialog: I got this guy who makes lasers.
+dialog: Not regular lasers, not the big
+text: kind. Little lasers, pocket sized,
+dialog: small enough to clip your belt like
+dialog: a transistor radio, like a gun, you
+dialog: know. Like a ray gun. Zap.
+speaker_heading: BETSY
+dialog: (laughs)
+dialog: What hours do you work?
+dialog: 
+dialog: 34.
+speaker_heading: TRAVIS
+dialog: I work a single, which means
+dialog: there's no replacement - no second
+text: man on the cab. Six to six,
+dialog: sometimes eight. Seventy-two hours
+dialog: a week.
+speaker_heading: BETSY
+dialog: (amazed)
+dialog: You mean you work seventy-two hours
+dialog: a week.
+speaker_heading: TRAVIS
+dialog: Sometimes 76 or 80. Sometimes I
+dialog: squeeze a few more hours in the
+dialog: morning. Eighty miles a day, a
+dialog: hundred miles a night.
+speaker_heading: BETSY
+dialog: You must be rich.
+speaker_heading: TRAVIS
+dialog: (big affectionate smile)
+dialog: it keeps ya busy.
+speaker_heading: BETSY
+dialog: You know what you remind me of?
+speaker_heading: TRAVIS
+dialog: What?
+speaker_heading: BETSY
+dialog: That song by Kris Kristofferson,
+dialog: where it's said "Like a pusher,
+dialog: party truth, partly ficition, a
+dialog: walking contradiction".
+dialog: (smiles)
+speaker_heading: TRAVIS
+dialog: I'm no pusher, Betsy. Honest. I
+dialog: never have pushed.
+speaker_heading: TRAVIS
+dialog: I didn't mean that, Travis. Just
+dialog: the part about the contradiction.
+speaker_heading: TRAVIS
+dialog: (more at ease)
+dialog: Oh. Who was that again?
+speaker_heading: BETSY
+dialog: The singer?
+dialog: 
+dialog: 35.
+speaker_heading: TRAVIS
+dialog: Yeah. Yes. I don't follow music too
+dialog: much.
+speaker_heading: BETSY
+dialog: (slowly)
+dialog: Kris Kristofferson.
+text: Travis looks at Betsy intently and they exchange smiles.
+speaker_heading: CUT TO:
+text: Travis is walking confusedly around SAM GOODY'S at MIDDAY,
+text: obviously unable to locate what he desires.
+text: Travis is lost among the hip, young intellectual type that
+text: populate the store. He watches the stylish, attractive
+text: female help, unable to come right out and requests what he
+dialog: desires.
+text: A young SALESGIRL sees his plight, walks over and asks if he
+text: needs any help. Travis INAUDIBLY says a name to her, although
+text: the name is obviously Kris Kristofferson.
+text: The Salesgirl digs out Kristofferson's "Silver-Tongued
+dialog: Devil" album for him.
+text: Travis says something additional to the Salesgirl and she
+text: goes off to gift-wrap the album.
+text: Travis emerges from the RECORD STORE, the brightly gift-
+text: wrapped album proudly tucked under his arm.
+speaker_heading: CUT TO:
+text: A lengthy POV SHOT from Travis' vantage point behind the
+dialog: wheel.
+text: We see the city as Travis sees it. The front windshield is a
+text: little dirty, the lighted meter just up at the low right
+text: screen. The intercom crackles with STATIC and MESSAGES.
+text: The light turns green; we take off with a start. A short
+text: first gear - quick shift - a long second gear. The cab eases
+text: to the right of the street, checking out prospective fares.
+text: Our eyes scan the long lines of PEDESTRIANS. The regular -
+dialog: bums, junkies, tourists, hookers, homosexuals, hippies -
+text: they mean nothing now. They only blend into the sidewalks
+text: and lighted storefronts.
+text: Our eyes now concentrate on those that step away from the
+text: curb - is that man hailing a cab or scratching his head?
+dialog: 
+dialog: 36.
+text: In the next block there are perhaps three, four fares -
+text: quick gas-up through this yellow light - brake sharply -
+dialog: check the action. The first: Tourist, nickel tipper - let
+dialog: the next guy pick them up. Let the second go also, the
+text: third - there's a live fare. Middle-aged LOCAL WOMAN: Short
+dialog: fare to the East Side, good tip.
+text: We pull to the curb, waiting for her to get in. It is a long
+text: wait - a Black STREET WALKER crosses in front of the cab. We
+text: focus on (as Travis would) a YOUNG COUPLE embracing in the
+dialog: distance.
+text: As we travel, we hear Travis' random thoughts about selecting
+dialog: fares and tips:
+speaker_heading: TRAVIS (V.O.)
+dialog: You work at night, you get an
+dialog: instinct. You can smell them. The
+dialog: big tippers, the stiffs, the
+dialog: trouble makers. Quarter is good tip
+dialog: for Manhattan. Queens is better,
+dialog: Brooklyn is best. go for the guys
+dialog: with suitcases. The rich are the
+dialog: worst tippers, hooks are lousy.
+dialog: Spooks are okay, but they don't
+dialog: live at Park Ave after all.
+text: The meter is activated: $.60 registers. Tick, tick, tick. A
+text: quick glance shows the woman is now seated. She says softly,
+text: "192 East 89". We take off with another jolt. Cross back up
+text: 9th Ave, then cut through the park.
+dialog: We're zooming up 9th Ave - how many green lights can we
+text: string together? Somebody steps out to hail the cab, but
+text: quickly steps back again. The meter is up $.90. It'll be a
+dialog: $1.40 fare.
+dialog: Now through the park and we're almost there. Check the
+dialog: numbers - 134 - 140. End of the block. Fare=$1.40.
+text: Check back mirror - she's getting out two bills. Two quarters
+dialog: and a dime change. Tip'll be either.25 or .35.
+dialog: The tip comes back: 35 cents - good tip. Good lady. We take
+text: off again with a jolt.
+text: This is Travis' world: Dark side streets, garish glaring
+text: main streets, quick glances, quicker evaluations - a dozen
+dialog: instantaneous decisions a minute. Are these people, are
+dialog: these objects?
+text: EXT. TRAVIS' TAXI speed down darkened street.
+text: Travis lets off a fare and pulls into line at the Plaza.
+dialog: 
+dialog: 37.
+speaker_heading: TRAVIS (V.O.)
+dialog: I called Betsy again at her office,
+dialog: and she said maybe we could go to a
+text: movie together after she gets off
+dialog: work tomorrow. That's my day off.
+dialog: At first she hesitated, but I
+dialog: called her again and she agreed.
+dialog: (pause)
+dialog: Betsy. Betsy what? I forgot to ask
+dialog: her last name again. Damn. I've
+dialog: got to remember stuff like that.
+text: Travis' thoughts are with Betsy, as THREE MEN enter Travis'
+text: cab. He activates the meter and pulls off.
+speaker_heading: MAN'S VOICE
+dialog: St. Regis Hotel.
+text: Travis checks the mirror. Scanning across the back seat, he
+text: recognizes the middle passenger. It is CHARLES PALANTINE,
+text: candidate for President. He must have left the Hotel
+text: shortly after BETSY.
+text: Tom, seated on the jump seat, checks his watch and speaks
+text: deferentially to Palantine:
+speaker_heading: TOM
+dialog: It's 12:30 now. You'll have fifteen
+dialog: minutes before the actual luncheon
+text: begins.
+text: Palantine nods as his assistant picks up the thread of an
+dialog: earlier conversation.
+speaker_heading: ASSISTANT
+dialog: I don't think we have to worry
+dialog: about anybody here committing
+dialog: themselves until things start
+text: coming in from California.
+text: Travis recognizes his passenger. He puts out his cigarette.
+speaker_heading: TRAVIS
+dialog: (interrupting)
+dialog: Say, aren't you Charles Palantine,
+dialog: the candidate?
+speaker_heading: PALANTINE
+dialog: (only mildly irritated)
+dialog: Yes I am.
+dialog: 
+dialog: 38.
+speaker_heading: TRAVIS
+dialog: Well, I'm one of your biggest
+dialog: supporters. I tell everybody that
+dialog: comes in this cab that they should
+dialog: vote for you.
+speaker_heading: PALANTINE
+dialog: (pleased; glances to
+dialog: check Travis' license)
+dialog: Why, thank you Travis.
+speaker_heading: TRAVIS
+dialog: I'm sure you'll win, sir. Everybody
+dialog: I know is going to vote for you.
+dialog: (a beat)
+dialog: I was going to put one of your
+dialog: stickers on my taxi but the company
+dialog: said it was against their policy.
+speaker_heading: PALANTINE
+dialog: (pleasant)
+dialog: I'll tell you, Travis, I've learned
+dialog: more about this country sitting in
+text: taxi cabs than in the board room of
+dialog: General Motors.
+speaker_heading: TOM
+dialog: (joking)
+dialog: And in some other places too...
+text: Palantine, his Assistant and Tom all laugh. Palantine,
+text: quickly reassuming candiorial mien, speaks to Travis:
+speaker_heading: PALANTINE
+dialog: Travis, what single thing would you
+dialog: want the next President of this
+dialog: country to do most?
+speaker_heading: TRAVIS
+dialog: I don't know, sir. I don't follow
+dialog: political issues much.
+speaker_heading: PALANTINE
+dialog: There must be something...
+speaker_heading: TRAVIS
+dialog: (thinks)
+dialog: Well, he should clean up this city
+text: here. It's full of filth and scum.
+text: Scum and filth. It's like an open
+dialog: sewer. I can hardly take it.
+speaker_heading: (MORE)
+dialog: 
+dialog: 39.
+speaker_heading: TRAVIS (CONT'D)
+dialog: Some days I go out and smell it
+dialog: then I get headaches that just stay
+dialog: and never go away. We need a
+dialog: President that would clean up this
+dialog: whole mess. Flush it out.
+dialog: Palantine is not a Hubert Humphrey-type professional
+text: bullshitter, and Travis' intense reply stops him dead in his
+text: tracks. He is forced to fall back on a stock answer but
+text: tries to give it some meaning.
+speaker_heading: PALANTINE
+dialog: (after a pause)
+dialog: I know what you mean, Travis, and
+dialog: it's not going to be easy. We're
+dialog: going to have to make some radical
+dialog: changes.
+speaker_heading: TRAVIS
+dialog: (turning the wheel)
+dialog: Damn straight.
+scene_heading: EXT. BARCLAY HOTEL
+text: TRAVIS' taxi pulls up in front of the Barclay Hotel.
+text: PALANTINE and AIDE get out of the cab. SECOND AIDE stays in
+text: back seat a moment to pay TRAVIS.
+text: PALANTINE looks in front window of cab momentarily and nods
+text: goodbye to TRAVIS.
+speaker_heading: PALANTINE
+dialog: Nice talking to you, Travis.
+speaker_heading: TRAVIS
+dialog: (calling back)
+dialog: Thank you, sir. You're a good man,
+dialog: sir.
+text: Travis' taxi departs.
+text: PALANTINE and AIDES walk up carpet to the St. Regis.
+text: CAMERA CLOSES IN on PALANTINE as he stops, turns back and
+text: watches Travis' departing taxi.
+text: PALANTINE turns back and ascends the hotel steps with his
+speaker_heading: AIDES.
+dialog: 
+dialog: 40.
+scene_heading: EXT. MANHATTAN STREET - EARLY MORNING
+text: TRAVIS, dressed to the teeth, walks brightly down the
+text: sidewalk. His face is frehsly shaved, his hair combed, his
+dialog: tie straightened.
+text: He pauses in a store window to check his appearance.
+text: Under his arm he carries the gift-wrapped Kristofferson
+dialog: record album.
+scene_heading: OUTSIDE PALANTINE HEADQUARTERS
+text: BETSY, smartly dressed, waves goodbye to another CAMPAIGN
+text: WORKER and walks out the door to greet him.
+text: A SHORT WHILE LATER, TRAVIS and BETSY are walking down
+text: Broadway toward Times Square. BETSY does not let their
+text: bodies touch as they walk although TRAVIS contemplates
+text: edging closer to her.
+text: Betsy has opened the package and is admiring the record -
+dialog: or, rather, Travis' sentiment behind giving it.
+text: Travis looks around himself with pride: This is a moment in
+dialog: his life - one of the few.
+speaker_heading: BETSY
+dialog: You didn't have to spend your
+dialog: money - ?
+speaker_heading: TRAVIS
+dialog: (interrupting)
+dialog: He'll, what else can I do with it
+dialog: all?
+text: Betsy notices that the seal on the record has not been broken.
+speaker_heading: BETSY
+dialog: Travis, you haven't even played the
+dialog: record?
+speaker_heading: TRAVIS
+dialog: (evasive)
+dialog: Yeah, well my stereo player is
+dialog: broke. But I'm sure the record is OK.
+speaker_heading: BETSY
+dialog: Your stereo broke? God, I could
+dialog: hardly stand that. I live on music.
+dialog: 
+dialog: 41.
+speaker_heading: TRAVIS
+dialog: I don't follow music much. I'd like
+dialog: to though.
+dialog: (second thought)
+dialog: Honest.
+speaker_heading: BETSY
+dialog: (pointing to album)
+dialog: So you haven't heard this record yet?
+speaker_heading: TRAVIS
+dialog: No.
+dialog: (sly smile)
+dialog: I thought maybe you could play it
+dialog: for me on your player.
+text: Betsy's face backtracks a bit. Maybe she was wrong to go out
+dialog: with this fellow she doesn't know.
+text: She makes a polite laugh.
+text: LATER. Travis and Betsy are in TIMES SQUARE, turning the
+text: corner from Broadway to 42nd Street. Travis carries the
+text: album under his arm.
+text: They approach the garish marquee of a large midtown porno
+text: theatre advertising "The Swedish Marriage Manual". The box
+text: office is flanked on both sides by glass cages filled with
+text: explicit publicity stills. Offending portions have been
+text: blocked out with black tape.
+text: Travis steps over to the window and buys two $5 tickets.
+text: Betsy, befuddled, watches him. She doesn't know what to say.
+text: Travis returns with the tickets.
+text: Betsy still has not fully comprehended what is happening:
+speaker_heading: BETSY
+dialog: What are you doing?
+speaker_heading: TRAVIS
+dialog: (innocent)
+dialog: I bought a couple of tickets.
+speaker_heading: BETSY
+dialog: But this is a porno movie.
+speaker_heading: TRAVIS
+dialog: No, these are the kind that couples
+dialog: go to. They're not like the other
+dialog: movies. All kinds of couples go.
+dialog: Honest. I've seen them.
+dialog: 
+dialog: 42.
+text: Travis seems confused. He is so much part of his own world,
+text: he fails to comprehend another's world. Compared to the
+dialog: movies he sees, this is respectable. But then there's also
+dialog: something that Travis could not even acknowledge, much less
+dialog: admit: That he really wants to get this pure white girl into
+dialog: that dark porno theatre.
+text: Travis makes an awkward gesture to escort Betsy into the
+text: theatre. Betsy looks at the tickets, at the theatre, at
+text: Travis. She mentally shakes her head and walks toward the
+text: turnstile. She thinks to herself: "What the Hell. What can
+dialog: happen?" She's always been curious about these pictures
+dialog: anyway, and - like all women, no matter how intelligent -
+text: she's been raised not to offend her date. A perverse logic
+dialog: which applies even more in offsetting circumstances like
+dialog: these.
+scene_heading: INSIDE THE THEATER
+text: Travis escorts Betsy to an empty center row. Travis was
+dialog: right. Couples do go to films like this. There are at least
+text: six or seven other MEN with their bewigged "DATES".
+text: Travis settles into his familiar porno theatre slouch. Betsy
+text: looks curiously from side to side.
+text: ON SCREEN, a conservatively-dressed middle-aged woman is
+dialog: speaking in Swedish about importance of healthy sex life in
+text: a happy marriage. Subtitles translate her words. Then,
+text: without warning, there is a direct CUT to a couple copulating
+text: on a sterile table-like bed.
+text: Travis watches intently. The color, however, is slowly
+text: draining from Betsy's cheeks. One thought fills her mind:
+dialog: "What am I doing here?"
+speaker_heading: TRAVIS
+dialog: (to himself)
+dialog: Damn.
+speaker_heading: BETSY
+dialog: What's wrong?
+speaker_heading: TRAVIS
+dialog: I forgot to get the Coca-Cola.
+text: That does it. Betsy just looks at him for a moment, then
+text: gets up and starts to leave. Travis, confused, hustles after
+dialog: her.
+text: He follows her out of the theatre.
+dialog: 
+dialog: 43.
+text: ON THE SIDEWALK
+text: Travis catches up with her.
+speaker_heading: TRAVIS
+dialog: Where are you going?
+speaker_heading: BETSY
+dialog: I'm leaving.
+speaker_heading: TRAVIS
+dialog: What do you mean?
+text: Betsy looks at Travis, trying to understand him:
+speaker_heading: BETSY
+dialog: These are not the kind of movies I
+dialog: go to.
+speaker_heading: TRAVIS
+dialog: Well, I don't follow movies too
+dialog: much...
+speaker_heading: BETSY
+dialog: You mean these are the only kind of
+dialog: movies you go to?
+text: The TICKET GIRL watches expressionlessly from the booth.
+speaker_heading: TRAVIS
+dialog: This is sort of high class...
+speaker_heading: BETSY
+dialog: I mean porno movies.
+speaker_heading: TRAVIS
+dialog: (hesitant)
+dialog: Well... mostly...
+speaker_heading: BETSY
+dialog: My God!
+speaker_heading: TRAVIS
+dialog: We can go to another movie if you
+dialog: like, I don't care. I got money.
+dialog: There's plenty...
+text: Travis gestures toward the long row of 42nd Street marquees,
+text: but is interrupted by Betsy:
+speaker_heading: BETSY
+dialog: If you just wanted to fuck, why
+dialog: didn't you just come right out and
+dialog: say it?
+dialog: 
+dialog: 44.
+text: Travis is flabbergasted by Betsy's blunt language. His arm
+text: still gestures toward the marquees, his lips continue to
+text: move, but words do not come out.
+text: Unable to respond to Betsy's question, Travis picks up where
+dialog: he left off:
+speaker_heading: TRAVIS
+dialog: ... there's plenty of movies around
+dialog: here. I haven't seen any of them,
+dialog: but I'm sure they're good.
+speaker_heading: BETSY
+dialog: No, Travis. You're a sweet guy and
+dialog: all that, but I think this is it.
+dialog: I'm going home.
+speaker_heading: TRAVIS
+dialog: (interrupting)
+dialog: You mean you don't want to go to a
+dialog: movie?
+dialog: (a beat)
+dialog: There's plenty of movies around here.
+speaker_heading: BETSY
+dialog: No, I don't feel so good. We're
+dialog: just two very different kinds of
+dialog: people, that's all.
+speaker_heading: TRAVIS
+dialog: (puzzled)
+dialog: Huh?
+speaker_heading: BETSY
+dialog: It's very simple. You go your way,
+dialog: I'll go mine. Thanks anyway, Travis.
+speaker_heading: TRAVIS
+dialog: But... Betsy...
+speaker_heading: BETSY
+dialog: I'm getting a taxi.
+text: She walks to the curb.
+speaker_heading: TRAVIS
+dialog: (following her)
+dialog: What about the record?
+speaker_heading: BETSY
+dialog: Keep it.
+speaker_heading: TRAVIS
+dialog: Can I call you?
+dialog: 
+dialog: 45.
+text: Betsy looks for a cab.
+speaker_heading: TRAVIS
+dialog: (tender)
+dialog: Please, Betsy, I bought it for you.
+text: Betsy looks at his sad, sweet face and relents a bit.
+speaker_heading: BETSY
+dialog: All right, I'll accept the record.
+text: Betsy accepts the record, but quickly turns and hails a taxi.
+speaker_heading: BETSY
+dialog: Taxi!
+text: A taxi quickly pulls up.
+text: Travis feebly protests to no one in particular:
+speaker_heading: TRAVIS
+dialog: But I got a taxi.
+text: Betsy gives instructions to CAB DRIVER, looks briefly back
+text: at Travis, then straight ahead. Taxi speeds off.
+text: Travis looks around helplessly: A cluster of PEDESTRIANS on
+text: the crowded street has stopped to watch the argument. Travis
+text: looks back at the woman in the porno theatre box office who
+text: has also been following the argument.
+speaker_heading: CUT TO:
+scene_heading: INSIDE TRAVIS' APARTMENT
+text: Travis is sitting at the table. There are some new items on
+text: the table: His giant econo-sized bottle of vitamins, a giant
+text: econo-sized bottle of aspirins, a pint of apricot brandy, a
+text: partial loaf of cheap white bread.
+text: On the wall behind the table hang two more items: A gag sign
+dialog: reading "One of These Days I'm Gonna Get Organezizied" and
+text: an orange-and-black bumper sticker for Charles Palantine.
+speaker_heading: TRAVIS (V.O.)
+dialog: May 8, 1972. My life has taken
+text: another turn again. The days move
+dialog: along with regularity...
+text: C.U. of notebook: Travis is no longer sitting at the desk.
+text: The pencil rests on the open notebook.
+dialog: 
+dialog: 46.
+text: LATER THAT DAY: TRAVIS has pulled his straight-backed chair
+text: around and is watching his small portable TV, which rests on
+text: the upright melon crate.
+text: A cereal bowl partially filled with milk rests in his lap.
+text: Travis pours a couple shots of the apricot brandy into the
+text: bowl, dips folded chunks of white bread into the mixture,
+text: and eats them.
+text: Travis is watching early evening NEWS PROGRAM. TV background
+text: SOUND. Charles Palantine is being interviewed somewhere on
+dialog: the campaign trail.
+speaker_heading: TRAVIS (V.O.)(CONTD)
+text: ... one day indistinguishable from
+text: the next, a long continuous chain,
+text: then suddenly - there is a change.
+text: Betsy is walking down a midtown street when Travis suddenly
+text: appears before her. He has been waiting.
+text: Travis tries to make conversation but she doesn't listen.
+text: She motions for him to go away and keeps on walking.
+text: Travis, protesting, follows.
+speaker_heading: CUT TO:
+scene_heading: INT. BUILDING - DAY
+text: Travis speaks intensely into a wall pay phone.
+speaker_heading: TRAVIS (V.O.)
+dialog: I tried to call her several times.
+text: We hear Travis' Voice on the phone.
+speaker_heading: TRAVIS
+dialog: (smoking a cigarette)
+dialog: you feeling better? You said you
+dialog: didn't feel so good...
+speaker_heading: TRAVIS (V.O.)
+dialog: But after the first call, she would
+text: no longer come to the phone.
+text: Travis holds the receiver in his hand. The other party has
+dialog: hung up.
+text: TRACKING SHOT across interior lower wall of TRAVIS' APARTMENT.
+text: Against the stark wall there is a row of wilted and dying
+text: floral arrangements. Each one of the four or five bouquets
+text: is progressively more wilted than the one closer to the door.
+dialog: They have been returned.
+dialog: 
+dialog: 47.
+speaker_heading: TRAVIS (V.O.)
+dialog: I also sent flowers with no luck. I
+dialog: should not dwell on such things,
+text: but set them behind me. The smell
+dialog: of the flowers only made me sicker.
+dialog: The headaches got worse I think
+dialog: I've got stomach cancer. I should
+dialog: not complain so. "You're only as
+dialog: healthy as you feel."
+text: A drama is acted out at PALANTINE HEADQUARTERS: Travis,
+text: groggy and red-eyed from lack of sleep, walks into the
+text: campaign headquarters about NOONTIME.
+text: Betsy is standing near the rear of the office; she ducks
+text: from sight when she sees Travis enter. Travis' path is cut
+text: short by Tom's large-framed body. There is no live sound.
+speaker_heading: TRAVIS (V.O.)
+dialog: I realize now how much she is like
+text: the others, so cold and distant.
+dialog: Many people are like that. They're
+dialog: like a union.
+text: Travis tries to push his way past Tom but Tom grabs him.
+text: Travis says something sharply to Tom and the two scuffle.
+text: Tom, by far the taller and stronger, quickly overcomes
+text: Travis, wrenching his arm behind his back.
+text: Travis kicks and protests as Tom leads him to the front door.
+text: ON THE SIDEWALK
+text: Travis' efforts quickly subside when Tom motions to a nearby
+text: POLICEMAN. Travis quiets down and walks off.
+speaker_heading: CUT TO:
+text: EXT.
+text: Travis is again making his way through the garish urban
+text: night. He stops for a PASSENGER on PARK AVE. A middle-aging
+dialog: professorial executive.
+text: C.U. TRAVIS: His face is expressionless. The MAN makes
+text: himself comfortable in the back seat.
+scene_heading: PROFESSIONAL PASSENGER
+dialog: Jackson Heights.
+dialog: Travis has no intention of driving out to Jackson Heights
+text: and coming back with a fare.
+dialog: 
+dialog: 48.
+speaker_heading: TRAVIS
+dialog: I'm off duty.
+scene_heading: PROFESSIONAL PASSENGER
+dialog: You mean you don't want to go out
+dialog: to Jackson Heights?
+speaker_heading: TRAVIS
+dialog: No, I'm off duty.
+scene_heading: PROFESSIONAL PASSENGER
+dialog: Then how come your "Off Duty" light
+dialog: wasn't on.
+text: TRAVIS switches on the "Off Duty" light.
+speaker_heading: TRAVIS
+dialog: It was on.
+dialog: (gesturing toward top
+dialog: of taxi)
+text: it just takes a while to warm up.
+text: Like a TV.
+text: TRAVIS doesn't budge. PROFESSIONAL PASSENGER curses to
+text: himself and exits cab. Travis takes off.
+text: POV as Travis' eyes dwell on the young HIP COUPLES coming
+text: out of a East Side movie house.
+text: LATER THAT NIGHT, TRAVIS pulls over for a young (mid-
+text: twenties) MAN wearing a leather sports jacket.
+text: TRAVIS eyes his passenger in rear-view mirror.
+speaker_heading: YOUNG PASSENGER
+text: 471 Central Park West.
+text: EXT.
+text: TRAVIS' taxi speeds off.
+text: LATER, TRAVIS' taxi slows down as it approaches 400 block of
+dialog: Central Park West.
+text: Travis checks apartment numbers.
+speaker_heading: YOUNG PASSENGER
+text: Just pull over to the curb a moment.
+text: TRAVIS turns the wheel.
+speaker_heading: YOUNG PASSENGER
+dialog: Yeah, that's fine. Just sit here.
+dialog: 
+dialog: 49.
+text: TRAVIS waits impassively. The motor ticks away.
+text: After a long pause, the PASSENGER speaks:
+speaker_heading: YOUNG PASSENGER
+dialog: Cabbie, ya see that light up there
+text: on the seventh floor, three windows
+dialog: from this side of the building?
+text: CAMERA CLOSES IN on 417 Central Park West: TRACKING UP to
+text: the seventh floor, it moves three windows to the right.
+speaker_heading: TRAVIS (V.O.)
+dialog: Yeah.
+text: A young WOMAN wearing a slip crosses in front of the light.
+speaker_heading: YOUNG PASSENGER (O.S.)
+dialog: Ya see that woman there?
+speaker_heading: TRAVIS (O.S.)
+dialog: Yeah.
+speaker_heading: YOUNG PASSENGER (O.S.)
+dialog: That's my wife.
+dialog: (a beat)
+dialog: But it ain't my apartment.
+dialog: (a beat)
+text: A nigger lives there.
+dialog: (a beat)
+dialog: She left me two weeks ago. It took
+dialog: me this long to find out where she
+dialog: went.
+dialog: (a beat)
+dialog: I'm gonna kill her.
+text: C.U. TRAVIS' face: it is devoid of expression.
+speaker_heading: YOUNG PASSENGER
+dialog: What do you think of that, cabbie?
+text: C.U. YOUNG PASSENGER's face: it is gaunt, drained of blood,
+text: full of fear and anger.
+text: Travis does not respond.
+speaker_heading: YOUNG PASSENGER
+dialog: Huh?
+dialog: (a beat)
+dialog: What do you think of that, huh?
+text: Travis shrugs, gesturing toward meter.
+dialog: 
+dialog: 50.
+speaker_heading: YOUNG PASSENGER
+dialog: I'm gonna kill her with a .44
+dialog: Magnum pistol.
+text: CAMERA returns to SEVENTH FLOOR WINDOW. Woman is standing in
+dialog: the light.
+speaker_heading: YOUNG PASSENGER (O.S.)
+dialog: Did you ever see what a .44 can do
+dialog: to a woman's face, cabbie?
+dialog: (pause)
+dialog: Did you ever see what it can do to
+dialog: a woman's pussy, cabbie?
+text: Travis says nothing.
+speaker_heading: YOUNG PASSENGER (O.S.)
+dialog: I'm going to put it right up to
+text: her, cabbie. Right in her, cabbie.
+dialog: You must think I'm real sick, huh?
+dialog: A real pervert. Sitting here and
+text: talking about a woman's pussy and a
+dialog: .44, huh?
+text: CAMERA CLOSES IN on Travis' face: He is watching the woman
+text: in the seventh floor window with complete and total
+text: absorption. It's the same glazed-over stare we saw in his
+text: eyes as he watched the porno movie.
+speaker_heading: FADE TO:
+scene_heading: BROOKLYN STREET CORNER - DAY
+text: Travis stands near the corner wearing his boots, jeans,
+text: western shirt and army jacket.
+text: He pulls his aspiring bottle out of his pocket, shakes three
+text: or four into his palm, pops them into his mouth and chews.
+text: An "Off Duty" taxi pulls up to the curb. Travis gets in.
+speaker_heading: INSIDE TAXI
+text: Dough-Boy leans back from the wheel and greets Travis as he
+text: enters.
+speaker_heading: DOUGH-BOY
+dialog: Hey Travis. This here's Easy Andy.
+dialog: He's a travelling salesman.
+text: In the back seat, beside Travis, sits ANDY, an attractive
+text: young man about 29. He wears a pin-striped suit, white shirt
+text: and floral tie. His hair is modishly long.
+dialog: 
+dialog: 51.
+speaker_heading: ANDY
+dialog: Hello Travis.
+text: Travis nods as the taxi speeds off.
+text: Dough-Boy slows down near an economy hotel. Not a flop
+dialog: house, but not do fancy they care what the guests do in the
+dialog: privacy of their rooms.
+speaker_heading: ANDY
+dialog: This is fine, Dough-Boy
+dialog: (to Travis)
+dialog: Pay Dough-Boy here.
+text: Travis pulls a twenty out of his pocket and gives it to
+dialog: Dough-Boy.
+speaker_heading: TRAVIS
+dialog: 20 bucks?
+speaker_heading: DOUGH-BOY
+dialog: (takes bill)
+dialog: Yeah. Hey thanks. That's real nice,
+dialog: Travis.
+text: Travis and Andy get out of the cab and walk toward the hotel.
+text: Dough-Boy pulls away.
+text: As they enter the hotel, they pass a JUNKIE, stoned out and
+text: spread-eagled across the hood of a derelict old blue dodge.
+scene_heading: INT. HOTEL
+text: Travis follows Andy up the worn carpeted stairs and down the
+text: hallway. Andy unlocks the door to one of the rooms.
+text: The HOTEL ROOM is barren and clean; there's no sign anyone
+text: is staying in it. The fire escape is appropriately near.
+text: Andy locks the door behind them, steps over to the closet,
+text: unlocks it and pulls out two grey Samsonite suitcases - the
+dialog: kind you can drive a truck over.
+speaker_heading: ANDY
+dialog: Dough-Boy probably told you I don't
+dialog: carry any Saturday Night Specials
+dialog: or crap like that. It's all out of
+dialog: State, clean, brand new, top-of-
+dialog: the-line stuff.
+text: Andy places the suitcases on the white bedspread. The
+text: suitcases are equipped with special locks, which he quickly
+text: opens.
+dialog: 
+dialog: 52.
+text: Andy opens the suitcases: Stacked in grey packing foam are
+text: rows and rows of brand new hand guns.
+speaker_heading: TRAVIS
+dialog: You got a .44 Magnum?
+speaker_heading: ANDY
+dialog: That's an expensive gun.
+speaker_heading: TRAVIS
+dialog: I got money.
+text: Andy unzips a cowhide leather pouch to reveal a .44 Magnum
+text: pistol. He holds it gingerly, as if it were a precious
+text: treasure. Andy opens the chambers and cradles the long
+text: eight-inch barrel in his palm. The .44 is a huge, oversize
+text: inhuman gun.
+speaker_heading: ANDY
+dialog: (admiringly)
+dialog: It's a monster. Can stop a car --
+text: put a bullet right into the block.
+dialog: A premium high resale gun. $350 --
+dialog: that's only a hundred over list.
+text: Easy Andy is a later version of the fast-talking, good-
+dialog: looking kid in college who was always making money on one
+dialog: scheme or another. In high school he sold lottery tickets,
+text: in college he scored dope, and now he's hustling hand guns.
+text: Andy holds the Magnum out for Travis' inspection. There's a
+text: worshipful CLOSEUP of the .44 Magnum. It is a monster.
+text: Travis hefts the huge gun. It seems out of place in his hand.
+text: It is built on Michelangelo's scale. The Magnum belongs in
+text: the hand of a marble god, not a slight taxi driver. Travis
+text: hands the gun back to Andy.
+speaker_heading: ANDY
+dialog: I could sell this gun in Harlem for
+dialog: $500 today - but I just deal high
+dialog: quality goods to high quality
+dialog: people.
+dialog: (pause)
+dialog: Now this may be a little big for
+dialog: practical use, in which case I'd
+dialog: recommend the .38 Smith and Wesson
+dialog: Special. Fine solid gun - nickel
+text: plated. Snub-nosed, otherwise the
+dialog: same as the service revolver. Now
+dialog: that'll stop anything that moves
+dialog: and it's handy, flexible.
+speaker_heading: (MORE)
+dialog: 
+dialog: 53.
+speaker_heading: ANDY (CONT'D)
+dialog: The Magnum, you know, that's only
+dialog: if you want to splatter it against
+text: the wall. The movies have driven up
+dialog: the price of the Magnum anyway.
+dialog: Everybody wants them now. But the
+dialog: Wesson .38 - only $250 - and worth
+dialog: every dime of it.
+dialog: (he hefts the .38)
+text: Throw in a holster for $10.
+text: Travis hefts the nickel-plated .38, points it out the window.
+speaker_heading: ANDY (CONT'D)
+dialog: Some of these guns are like toys,
+dialog: but a Smith and Wesson, man, you
+dialog: can hit somebody over the head with
+dialog: it and it will still come back dead
+dialog: on. Nothing beats quality.
+dialog: (pause)
+dialog: You interested in an automatic?
+speaker_heading: TRAVIS
+dialog: I want a .32. Revolver. And a
+text: palm gun. That .22 there.
+speaker_heading: ANDY
+dialog: That's the Colt .25 - a fine little
+dialog: gun. Don't do a lot of damage, but
+text: it's as fast as the Devil. Handy
+dialog: little gun, you can carry it almost
+dialog: anywhere. I'll throw it in for
+dialog: another $125.
+text: Travis holds the .32 Revolver, hefts it, slips it under his
+text: belt and pulls his shirt over it. He turns from side to
+text: side, to see how it rides in his waist.
+speaker_heading: TRAVIS
+dialog: How much for everything.
+speaker_heading: ANDY
+dialog: The .32's $150 - and you're really
+dialog: getting a good deal now - and all
+dialog: together it comes to, ah, seven
+dialog: eighty-five for four pieces and a
+dialog: holster. He'll, I'll give you the
+dialog: holster, we'll make it seventy-five
+dialog: and you've got a deal - a good one.
+speaker_heading: TRAVIS
+dialog: How much to get a permit to carry?
+dialog: 
+dialog: 54.
+speaker_heading: ANDY
+dialog: Well, you're talking big money now.
+dialog: I'd say at least five grand, maybe
+dialog: more, and it would take a while to
+dialog: check it out. The way things are
+text: going now $5.000 is probably low.
+dialog: You see, I try not to fool with the
+dialog: small-time crap. Too risky, too
+dialog: little bread. Say 6 G's, but if I
+dialog: get the permit it'll be as solid as
+text: the Empire State Building.
+speaker_heading: TRAVIS
+dialog: Nah, this'll be fine.
+speaker_heading: ANDY
+dialog: You can't carry in a cab even with
+dialog: a permit - so why bother?
+speaker_heading: TRAVIS
+dialog: Is there a firing range around?
+speaker_heading: ANDY
+dialog: Sure, here, take this card, go to
+dialog: this place and give 'em the card.
+dialog: They'll charge you, but there won't
+dialog: be any hassle.
+text: Travis pulls out a roll of crisp one hundred dollar bills
+text: and counts off eight.
+speaker_heading: ANDY
+dialog: You in Nam? Can't help but notice
+dialog: your jacket?
+speaker_heading: TRAVIS
+dialog: (looking up)
+dialog: Huh?
+speaker_heading: ANDY
+dialog: Vietnam? I saw it on your jacket.
+dialog: Where were you? Bet you got to
+dialog: handle a lot of weapons out there.
+text: Travis hands Andy the bills. Andy counts them and gives
+dialog: Travis a twenty and five.
+speaker_heading: TRAVIS
+dialog: Yeah. I was all around. One
+dialog: hospital, then the next.
+dialog: 
+dialog: 55.
+speaker_heading: ANDY
+dialog: (through counting)
+dialog: It's he'll out there all right. A
+dialog: real shit-eatin' war. I'll say
+dialog: this, though: It's bringing a lot
+dialog: of fantastic guns. The market's
+text: flooded. Colt automatics are all
+dialog: over.
+dialog: (pockets the money)
+speaker_heading: TRAVIS
+dialog: (intensely)
+dialog: They'd never get me to go back.
+dialog: They'd have to shoot me first.
+dialog: (pause)
+dialog: You got anything to carry these in?
+dialog: (gestures to pistols)
+text: Travis is like a light switch: For long periods he goes
+text: along dark and silent, saying nothing; then suddenly, the
+text: current is turned on and the air is filled with the
+text: electricity of his personality. Travis' inner intensity sets
+text: Andy back a bit, but he quickly recovers.
+speaker_heading: ANDY
+dialog: Sure.
+text: Andy pulls a gym bag from under his bed. He wraps the gun in
+text: the sheet in the bag and zips it up. An identical gym bag
+text: can be partially seen under the bed. He hands Travis the bag.
+speaker_heading: ANDY
+dialog: You like ball games?
+speaker_heading: TRAVIS
+dialog: Huh?
+speaker_heading: ANDY
+dialog: I can get you front and center.
+dialog: What do you like? I can get you
+dialog: Mets, Knicks, Rangers? Hell, I can
+dialog: get you the Mayor's box.
+speaker_heading: TRAVIS
+dialog: Nah. I ain't interested.
+text: Andy closes and locks the suitcases.
+speaker_heading: ANDY
+dialog: Okay, okay.
+text: Travis turns to leave.
+dialog: 
+dialog: 56.
+speaker_heading: ANDY
+dialog: Wait a second, Travis. I'll walk
+dialog: you out.
+speaker_heading: CUT TO:
+text: SEVERAL WEEKS LATER. The face of TRAVIS' apartment has
+text: changed. The long, blank wall behind the table is now
+text: covered with tacked-up charts, pictures, newspaper-clippings,
+text: maps. CAMERA does not come close enough to discern the exact
+text: contents of these clippings.
+text: Travis is in C.U. in the middle of the floor doing push-ups.
+text: He is bareback, wearing only his jeans. There is a long scar
+text: across his left side.
+speaker_heading: TRAVIS (V.O.)
+dialog: May 29, 1972. I must get in shape.
+dialog: Too much sitting has ruined my body.
+dialog: Twenty-five push-ups each morning,
+dialog: one hundred sit-ups, one hundred
+dialog: knee-bends. I have quit smoking.
+text: Travis, still bareback, passes his stiff arm through the
+text: flame of a gas burner without flinching a muscle.
+speaker_heading: TRAVIS (V.O.)
+dialog: Total organization is necessary.
+dialog: Every muscle must be tight.
+scene_heading: INT. FIRING RANGE
+text: The CRACKING SOUND of rapid-fire pistol shots fills the
+text: musty air of the firing range. The walls are heavily
+text: soundproofed, and sawdust is spread over the floor.
+text: Travis stands rock solid, firing the .44 Magnum at an arm's
+text: length. With each blasting discharge from the Magnum,
+text: Travis' body shudders and shakes, his arm as if each recoil
+text: from the giant gun was a direct attack on his masculinity.
+text: Travis fires the Magnum as quickly as he can re-set, re-aim
+text: and re-fire. The Magnum is empty, he sets it down, picks up
+text: the .38 Special and begins firing as soon as he can aim.
+text: After the .38, comes the .25: It is as if he were in a
+text: contest to see how quickly he can fire the pistols. After
+text: all the guns are discharged, he begins reloading them
+text: without a moment's hesitation.
+text: Downrange, the red and white targets have the black outline
+text: of a human figure drawn over them. The contour-man convulses
+text: under the steady barrage of Travis' rapid-fire shots.
+dialog: 
+dialog: 57.
+scene_heading: INT. APARTMENT
+text: TRAVIS, now wearing an unfastened green plaid western shirt,
+text: sits at the table writing in his diary. The vial of bennies
+text: is on the table.
+speaker_heading: TRAVIS (V.O.)
+dialog: My body fights me always. It won't
+dialog: work, it won't sleep, it won't
+dialog: shit, it won't eat.
+text: LATER. TRAVIS, his shirt still revealing his bare chest,
+text: sits on his straight-backed chair watching the TV. The .44
+text: Magnum rests on his lap.
+text: The TV is Broadcasting ROCK TIME, a late afternoon local
+text: teenage dance and rock show. On screen YOUNG TEENYBOPPERS
+text: are dancing, and the TV CAMERAMAN, as any devotee of the
+text: genre knows, is relentlessly ZOOMING-IN on their firm young
+text: breasts, fannies and crotches -- a sensibility which reflects
+text: TRAVIS' own. These supper-hour rock dance shows are the most
+text: unabashedly voyeuristic form of broadcasting the medium has
+dialog: yet developed.
+text: The HARD ROCK NUMBER ends, and the TV CAMERA CUTS TO the
+text: local DISC JOCKEY, a hirsute plastic-looking man about 35.
+text: FIVE scrumptious TEENYBOPPERS are literally hanging on his
+text: shoulders and arms, their faces turned up to him in droolish
+text: awe. Out of his mouth comes an incessant stream of disc
+dialog: jockey blather. He is the complete asshole; I don't know who
+dialog: is currently performing this function in New York, but in
+dialog: Los Angeles his name is Real Don Steele.
+speaker_heading: TV DISC JOCKEY
+text: Freshingly, fantastic, freaked-out
+dialog: dance time. Can you dig it? Dig on
+dialog: it. You got it, flaunt it.
+text: TRAVIS watches the show, his face hard and unmoving. He is,
+dialog: as the Scriptures would say, pondering all these things in
+dialog: his heart. Why is it the assholes get all the beautiful
+text: young chicks? He takes a swig of peach brandy.
+speaker_heading: CUT TO:
+text: EARLY EVENING, about 6:30 p.m. TRAVIS' taxi, with 'Off
+text: Duty' light on, sits near the curb somewhere in midtown
+dialog: Manhattan.
+text: TRAVIS runs his hand down the left side of his jacket,
+text: attempting to smooth out the bulge underneath.
+text: TRAVIS opens his jacket partially, checking underneath.
+text: There rests the nickel-plated .38 Special in its holster.
+dialog: 
+dialog: 58.
+text: P.O.V. down the street where TRAVIS' taxi is parked: Several
+text: blocks ahead the red, white and blue campaign headquarters
+text: of CHARLES PALANTINE are visible.
+text: TRAVIS' eyes resume their watch.
+text: TRAVIS starts the car and drives toward the PALANTINE
+scene_heading: HEADQUARTERS.
+text: TRACKING P.O.V. shot of row of storefronts leading up to
+text: Palantine Headquarters. P.O.V. passes headquarters: it is
+text: half-empty. A few stalwart SUPPORTERS continue to work
+text: toward the rear of the office. BETSY'S desk ----
+text: Sign in window reads: "Only 4 More Days Until Arrival of
+scene_heading: CHARLES PALANTINE."
+text: TRAVIS' "Off Duty" light goes off as he speeds up and heads
+text: toward a prospective fare.
+scene_heading: LATER THAT NIGHT, about 9:30. UPTOWN -- 128th and Amsterdam.
+text: The Jungle. TRAVIS' taxi pulls up to an address, lets off
+text: YOUNG BLACK MAN.
+text: TRAVIS receives fare and tip, takes off.
+text: P.O.V. as TRAVIS works his way through Harlem back down
+text: Seventh Ave. Cluster of YOUNG BLACK STREET PUNKS pretend to
+text: hail cab -- we ignore them. One throws wine bottle which
+text: crashes in our path -- taxi swerves to avoid it.
+text: CAMERA TRACKS through sidewalk CROWDS with the roving,
+text: suspicious, antagonistic eye of a taxi-driver.
+text: LATER THAT NIGHT, about 12:30. TRAVIS is on the LOWER EAST
+text: SIDE, somewhere on B Street, east of Tompkins Square.
+text: The sidewalks are populated with the remains of what once
+text: was the hippie movement: TEENAGE STREET-WALKERS, JUNKIES,
+text: THUGS, emaciated LONERS on the prowl.
+text: TRAVIS' taxi pulls over, letting out a fare.
+text: TRAVIS pockets his fare, but the rear right door doesn't
+text: slam -- instead there is the SOUND of another person jumping
+text: into the cab.
+text: TRAVIS checks the back seat in the rear-view mirror: there
+text: sits a pale HIPPIE PROSTITUTE.
+text: The GIRL is, at best, 14 or 15, although she has been made
+text: up to look older. She wears floppy, Janis Joplin clothes.
+text: Her face is pallid. She wears large blue-tinted sunglasses
+text: and multi-colored leg stockings.
+dialog: 
+dialog: 59.
+dialog: Her name, as we shall learn later, is IRIS.
+text: TRAVIS hesitates, looking at her in the mirror.
+speaker_heading: IRIS
+dialog: Come on, mister, let's get outta
+dialog: here -- quick.
+text: TRAVIS moves to activate the meter, when the rear door opens.
+text: IRIS is helped out of the cab by a MAN TRAVIS cannot see.
+speaker_heading: SPORT
+speaker_heading: (to IRIS)
+dialog: Come on, baby, let's go. This is
+dialog: all a real drag.
+text: IRIS lets herself be taken out of the cab. The rear door
+text: closes.
+text: Sport leans partially in the front window, throwing something
+text: on the front seat. TRAVIS looks: it is a crumpled $20 bill.
+speaker_heading: SPORT
+dialog: Just forget all about this, cabbie.
+dialog: It's nothing.
+text: TRAVIS cannot see the Sport's face lime green completely,
+text: but notices he is wearing a jacket. The voice is that of a
+text: man in his early twenties.
+text: TRAVIS turns to catch a glimpse of Sport as he walks off
+dialog: with Iris.
+text: TRAVIS shrugs and turns around.
+text: TRAVIS' taxi pulls away.
+speaker_heading: CUT TO:
+text: EARLY MORNING, 6:00 a.m. Quitting time -- TRAVIS pulls into
+speaker_heading: TAXI GARAGE.
+scene_heading: INT. GARAGE
+text: TRAVIS pulls into his stall.
+text: TRAVIS sits in driver's seat, thinking a moment. He looks
+text: to his right: the crumpled $20 bill still lies there,
+text: untouched since it was thrown there six hours previously.
+text: TRAVIS reluctantly picks up the $20 bill and stuffs it into
+text: his jacket pocket as he gets out of the cab. He gathers up
+text: his time report and heads toward book-in table.
+dialog: 
+dialog: 60.
+text: A SHORT WHILE LATER, TRAVIS is walking down the sidewalk
+text: near the taxi garage. His hands are in his jacket pockets,
+text: obscuring the slight bulge on his left side.
+text: TRAVIS turns into the box offfice of PORNO THEATER. He
+text: reaches into jacket pocket for money to purchase ticket and
+text: pulls out crumpled $20 bill. Seeing the $20 bill, he
+text: decides not to use it, and pays for ticket out of his wallet
+dialog: instead.
+text: TRAVIS walks past concession stand en route to the darkened
+text: theater auditorium. A YOUNG MAN is now sitting listlessly
+text: behind the concessions counter.
+scene_heading: INT. PORNO THEATER AUDITORIUM
+text: TRAVIS slouches down into his seat, his face glowing in the
+text: reflected light from the screen.
+speaker_heading: FEMALE MOVIE VOICE (O.S.)
+dialog: Oh, come on, now, down, lick it,
+dialog: come on...
+dialog: (a beat)
+dialog: Mmm, that's good. Ahh, ahh, more ...
+text: TRAVIS averts his eyes as the action on screen becomes too
+text: graphic. Placing his stiffened right hand beside his eyes,
+text: TRAVIS can, by turning it inward, shut off or open up his
+text: field of vision by small degrees.
+text: MOVIE VOICE DIMINISHES, replaced by SOUND of TRAVIS' voice
+dialog: over.
+speaker_heading: TRAVIS (V.O.)
+dialog: The idea had been growing in my
+dialog: brain ...
+speaker_heading: CUT TO:
+text: TRACKING SHOT to wall of TRAVIS' APARTMENT. CAMERA MOVES
+text: slowly across wall covered with clippings, notes, maps,
+text: pictures. We now see their contents clearly:
+text: The wall is covered with CHARLES PALANTINE political
+text: paraphernalia; there are pictures of him, newspaper articles,
+text: leaflets, bumper stickers. As the CAMERA MOVES along it
+text: discovers a sketch of Plaza Hotel, Kennedy Airport and cut-
+text: up sections of city maps with notations written in. There
+text: is lengthy N.Y. Times clipping detailing the increased
+text: Secret Security Protection during the primaries. A section
+text: pertaining to PALANTINE is underlined. Further along there
+text: is a sheet reading "traveling schedule" and a calendar for
+text: June with finely written notations written over the dates.
+dialog: 
+dialog: 61.
+speaker_heading: TRAVIS (V.O.)(CONTD)
+dialog: ... for some time. True Force.
+dialog: All the king's men cannot put it
+text: back together again.
+text: As the CAMERA reaches the end of its track, it finds TRAVIS,
+text: standing, his shirt open, but the mattress. He is wearing
+text: the empty holster, and the .44 is in his hand.
+text: In the SHOTS that follow TRAVIS gives the audience a lesson
+dialog: in gunmanship:
+text: TRAVIS practices fast-drawing the .38 Special from his
+text: holster and firing it.
+text: He hooks the .44 into his pants behind his back and practices
+text: withdrawing it. He holds the .44 firmly at an arm's length,
+text: tightening his forearm muscles.
+text: He has worked out a system of metal gliders taped to his
+text: inner forearm, whereby the Colt .25 can rest hidden behind
+text: the upper forearm until a spring near the elbow is activated,
+text: sending the .25 flying down the gliders into his palm. He
+text: has cut open his shirt to accomodate the gun mechanism and
+text: now checks in the mirror to see how well the gun is hidden.
+text: He straps an Army combat knife to his calf and cuts a slit
+text: in his jeans where the knife can be pulled out quickly.
+text: He now tries on various combinations of shirts, sweater and
+text: jacket in front of the mirror to see how well he can hide
+text: all the handguns he wishes to carry. Finally, wearing two
+text: western shirts, a sweater and jacket, he manages to obscure
+text: the location of all three guns, although he resembles a
+text: hunter bundled up against the Arctic winter.
+text: He sits at the table dum-dumming the .44 bullets -- cutting
+text: "x's" across the bullet heads.
+text: P.O.V.: he scans the objects of his room through the scope
+dialog: of the .38.
+text: TRAVIS stands in the middle of his apartment, staring at his
+text: PALANTINE wall. His eyes are glazed with introspection; he
+text: sees nothing but himself.
+speaker_heading: TRAVIS (V.O.)(CONTD)
+dialog: Listen you screwheads: Here is a
+dialog: man ...
+text: TRAVIS lies on his mattress, all bundled up in his shirts,
+text: sweater, jacket and guns. His face is turned toward the
+text: ceiling, but his eyes are closed. Although the room is
+text: flooded with light, he is finally catching some sleep.
+dialog: 
+dialog: 62.
+text: The big furry animal drifts into his own world.
+speaker_heading: TRAVIS (V.O.)(CONTD)
+dialog: ... who wouldn't take it any more,
+text: a man who stood up against the
+dialog: scum, the cunts, the dogs, the
+dialog: filth. Here is ...
+dialog: (voice trails off)
+text: C.U. of diary: entry ends with words "Here is" followed by
+text: erratic series of dots.
+speaker_heading: CUT TO:
+text: NIGHT: the taxis are roaming the slick streets.
+text: Sometimes after 2:00 a.m., TRAVIS pulls his cab to the curb
+text: near an all-night delicatessen in Spanish Harlem. The
+text: streets are relatively deserted.
+text: TRAVIS waves to STOREKEEPER as he walks past counter:
+speaker_heading: TRAVIS
+dialog: Hey 'Melio.
+text: Spanish rhythm and blues blares from a cheap radio.
+text: TRAVIS walks over to dairy counter in rear of store, picks
+text: out a pint of chocolate milk, goes over to the open cooler
+text: and picks through various chilled prepackaged sandwiches.
+text: He overhears a VOICE as he looks at the sandwiches.
+text: When TRAVIS returns to the counter with the chocolate milk
+text: and a sandwich in one hand, he sees a YOUNG BLACK MAN
+text: holding a gun on 'Melio. The STICK-UP MAN is nervous,
+text: hopped-up, or both; he bounces on the balls of his cheap
+text: worn black tennis shoes -- a strung-out junkie on a
+text: desperation ride. The STICK-UP MAN, a thorough
+text: unprofessional, doesn't notice TRAVIS.
+text: 'MELIO watches the STICK-UP MAN closely, deciding what to do
+dialog: himself.
+speaker_heading: STICK-UP MAN
+dialog: (shaking gun)
+dialog: Come on, man. Quick, quick, quick.
+dialog: Hand over that bread.
+text: It doesn't take TRAVIS long to decide what to do: without
+text: hesitation he pulls his .32 from his jacket pocket.
+speaker_heading: TRAVIS
+dialog: Hey dude!
+dialog: 
+dialog: 63.
+text: The STICK-UP MAN, surprised, turns toward TRAVIS, finding
+text: only an exploding .32. The MAN's lower jaw bursts open with
+text: blood as he reels and crashes to the floor. There is no
+text: emotion on TRAVIS' face.
+text: As the STICK-UP MAN falls, 'MELIO leans over the counter,
+text: wielding his battered .38. He is about to fire when he
+text: realizes the MAN is already dead.
+text: 'MELIO, charged up, turns his gun toward TRAVIS, then,
+text: realizing the danger is over, lowers it again.
+speaker_heading: 'MELIO
+dialog: Thanks, man. Figured I'd get him
+text: on the way out.
+text: TRAVIS sets his .32 on the counter.
+speaker_heading: TRAVIS
+dialog: You're gonna have to cover me on
+dialog: this one, 'Melio. I can't stay for
+dialog: the cop show.
+speaker_heading: 'MELIO
+dialog: You can't do that, Travis. You're
+dialog: my witness.
+speaker_heading: TRAVIS
+dialog: The hell I can't. It's no sweat
+dialog: for you. What is this for you,
+dialog: number five?
+text: 'MELIO smiles and holds up four fingers:
+speaker_heading: 'MELIO
+dialog: No, only four.
+dialog: (shrug)
+dialog: Alright, Travis, I'll do what I can.
+speaker_heading: TRAVIS
+dialog: Thanks a lot.
+text: TRAVIS exits. 'MELIO picks up the phone and starts dialing.
+text: The bloody BODY lies on the floor unmoving.
+text: TRAVIS, still carrying his pint of chocolate milk and
+text: sandwich, walks down the empty sidewalk and enters his cab.
+text: The street is deserted.
+speaker_heading: CUT TO:
+text: DIRECT CUT TO PORNOGRAPHIC MOVIE: this is the first time we
+dialog: have actually seen the porno movie itself.
+dialog: 
+dialog: 64.
+text: SEVERAL ACTORS and ACTRESSES are dallying on screen in
+dialog: whatever manner the ratings board deems permissible.
+text: Whatever the action, the movie's decor is strictly Zody's --
+text: ersatz landscape paintings, tufted bedspreads. As in most
+text: porno films, the ACTORS look up occasionally toward the
+text: CAMERA to receive instructions. Studio grunts, groans and
+text: moans of pleasure have been dubbed in.
+text: Action on screen begins to go into SLOW MOTION, the ACTORS
+text: and ACTRESSES gradually transforming obscenity into poetry.
+speaker_heading: CUT TO:
+text: TRAVIS, sitting in his chair in his APARTMENT, watching
+text: afternoon soap opera. He is cleaning his .38 and eating
+text: from a jar of applesauce. Soap opera audio continues.
+text: He watches the soap opera without expression.
+text: SOUND TRACK of film also SLOWS DOWN, gradually mixing with
+text: and then becoming the sound track of a midafternoon TV soap
+dialog: opera.
+text: A YOUNG GIRL and BOY are talking in those familiar soap
+text: opera voices and a third party, the GIRL's mother, who had
+dialog: tried to terminate their "relationship."
+speaker_heading: CUT TO:
+text: TELEVISION: The BOY is visiting the GIRL in her hospital
+text: room. Both look as if they've stepped out of the Blue Chip
+dialog: stamp catalogue.
+speaker_heading: SOAP OPERA BOY
+dialog: Is it that she just doesn't -- like
+dialog: me?
+speaker_heading: SOAP OPERA GIRL
+dialog: (hesitantly)
+dialog: Well, Jim, it's just that -- I
+dialog: don't know how to say this -- it's
+dialog: that she thinks your parents
+dialog: aren't... good enough, I guess.
+text: TRAVIS, through cleaning his gun, begins to play a game with
+text: the television set.
+text: He places the heel of his boot at the top of the melon crate
+text: which supports the TV. Then, slowly rocking his heel back
+text: and forth, he sees how far he can tip the melon crate
+text: without knocking it over.
+dialog: 
+dialog: 65.
+text: The TV, still broadcasting the hospital room melodrama,
+text: rocks back and forth.
+text: TRAVIS pushes the TV farther and farther until finally the
+text: inevitable happens -- the crate tips backward, sending the
+text: portable TV crashing to the floor.
+text: There is a short flash and the TV screen turns white.
+text: TRAVIS, realizing what he has done, bends over, turns the TV
+text: upright on the floor, fiddles with the knobs, slaps it, and
+text: tries to reactivate the vanished image. TRAVIS' efforts are
+text: futile; a tube has broken, and the TV will not come back to
+dialog: life.
+speaker_heading: TRAVIS
+dialog: (to himself)
+dialog: Damn, damn.
+text: TRAVIS bends over in the chair and places his head in his
+text: hands, despairing of himself.
+speaker_heading: FADE TO:
+text: About 1 a.m. TRAVIS pulls his cab behind a line of empty
+text: taxis parked outside the Bellmore Cafeteria, a cabbie
+text: hangout on Park Avenue South.
+text: He locks his cab and walks past the line of taxis. He
+text: sidesteps TWO DRUNKEN FIGHTING BUMS and enters the Bellmore.
+text: A LOUD BUZZER RINGS as TRAVIS steps INTO THE BELLMORE. He
+text: pulls a ticket from the dispenser (silencing the buzzer) and
+text: walks toward the wall-length counter.
+text: An assortment of CABBIES are seated around a formica-topped
+text: table near the rear of the cafeteria. Some are barely
+text: awake, some are eating, the rest are swapping stories and
+dialog: smalltalk.
+text: Wizard, Dough-Boy, Charlie T and a FOURTH CABBIE are seated
+text: at a long table.
+speaker_heading: WIZARD
+dialog: You know Eddie, he's the new hippie
+dialog: kid in our group, long hair...
+text: Wizard demonstrates length of hair and others nod.
+speaker_heading: WIZARD
+dialog: ...he called up the Dispatcher last
+dialog: night. Charlie McCall, our
+dialog: dispatcher...
+dialog: 
+dialog: 66.
+speaker_heading: DOUGH-BOY
+dialog: One-Ball McCall?
+speaker_heading: WIZARD
+dialog: That's the guy. Eddie calls him up
+dialog: and says, "Hey, what do you want me
+dialog: to do. I'm over here at Poly Prep.
+dialog: I got a girl in the back and she
+dialog: doesn't have the fare. She wants
+dialog: me to come in back and collect.
+dialog: What should I do?
+text: The cabbies laugh. Across the cafeteria Travis selects a
+text: cup of coffee and some pastries.
+speaker_heading: CHARLIE T
+text: This is on the two-way with about a
+text: hundred and fifty cars listenin in.
+speaker_heading: WIZARD
+dialog: McCall says. "How much on the
+text: meter?" Eddie comes back and says
+text: "Two-fifty." McCall says, "Is she
+dialog: worth it".
+text: More laughter.
+speaker_heading: DOUGH-BOY
+dialog: Fuckin One-Ball.
+speaker_heading: WIZARD
+dialog: And the kid says, "Yeah. She's
+dialog: about 19, good-lookin." McCall
+dialog: says, "What can I tell you?"
+speaker_heading: FOURTH CABBIE
+dialog: She should have told him to get an
+text: OK from the front office.
+dialog: (laughter)
+speaker_heading: WIZARD
+dialog: McCall says, "Well, if you want
+dialog: some help I'll see if I can send
+dialog: some units out."
+speaker_heading: CHARLIE T
+dialog: Yeah. About a hundred and fifty.
+speaker_heading: DOUGH-BOY
+dialog: I hope he had a checker.
+dialog: 
+dialog: 67.
+speaker_heading: WIZARD
+dialog: She was just a kid. Stoned, you
+dialog: know.
+text: Travis, carrying his coffee and pastries, walks over to
+text: their table. Charlie T spots him.
+speaker_heading: CHARLIE T
+dialog: Hiya Killer.
+text: Charlie forms his hand into a pistol, cocks and fires,
+text: making the SOUND, "Pgghew." TRAVIS nods.
+speaker_heading: WIZARD
+dialog: You're getting a rep, Travis.
+text: TRAVIS sits down and the other CABBIES resume their
+dialog: conversation.
+speaker_heading: CHARLIE T
+dialog: Got the five you owe me, Killer?
+text: TRAVIS reaches into his pocket and pulls out a roll of small
+text: denomination bills. The crumpled $20 bill falls onto the
+text: table. TRAVIS stares at it a moment. He unfolds a five,
+text: gives it to CHARLIE T, then picks up the crumpled $20 and
+text: puts it back into his jacket pocket.
+speaker_heading: WIZARD (O.S.)
+dialog: (to Travis)
+dialog: What's the action around?
+speaker_heading: TRAVIS
+dialog: Slow.
+speaker_heading: CHARLIE T
+dialog: Shit yes. Night woulda been dead
+dialog: if I hadn't grabbed an outatowner
+text: at Kennedy. Took him roun the horn
+dialog: and got a five dollar tip to boot.
+speaker_heading: WIZARD
+dialog: (joking)
+dialog: One of these days we're gonna turn
+dialog: you in, Charlie T. Fleecin the
+dialog: hicks like that.
+speaker_heading: DOUGH-BOY
+dialog: Remember the time this cat picks up
+text: four dudes from the other side,
+dialog: Pakastanis I think they were, holds
+dialog: up their passports, to the toll
+text: booth collector on the bridge and
+dialog: charges em ten bucks each for
+dialog: 'crossing the border?
+dialog: 
+dialog: 68.
+text: They all laugh.
+speaker_heading: CHARLIE T
+dialog: Hell, I know'd you to do worse.
+speaker_heading: DOUGH-BOY
+dialog: Least I'm no airport rat. I work
+dialog: the whole town.
+speaker_heading: CHARLIE T
+dialog: (chuckling)
+dialog: It's a living.
+text: WIZARD gets up to leave.
+speaker_heading: WIZARD
+dialog: Well, I'm shovin' on.
+text: WIZARD gets up, nods and walks toward the CASHIER. After a
+text: second's thought, TRAVIS calls to him:
+speaker_heading: TRAVIS
+dialog: Hey Wiz, just a second. I wanna
+dialog: talk to you.
+text: WIZARD waits for TRAVIS as he takes a final gulp of coffee
+text: and catches up with him. CHARLIE T calls to TRAVIS as they
+dialog: go:
+speaker_heading: CHARLIE T
+dialog: See ya, Killer. Don't forget your
+dialog: pea shooter.
+text: CHARLIE T cocks his imaginary gun again, fires and chuckles.
+text: WIZARD and TRAVIS nod goodbye, pay the CASHIER and exit.
+text: EXT.
+text: TRAVIS follows WIZARD out onto the sidewalk. TRAVIS follows
+text: WIZARD as he walks toward his cab. He has something on his
+text: mind, something he wants to talk to WIZARD about.
+speaker_heading: TRAVIS
+dialog: (walking)
+dialog: Hey Wiz.
+text: WIZARD leans back against the cab. TRAVIS is about to speak
+text: when he spots a GROUP of BLACK and PUERTO RICAN STREET
+text: PUNKS, ages 12-15, jiving down the sidewalk toward him. ONE
+text: tosses a spray paint can around his back, basketball style.
+text: ANOTHER mocks as if he's going to scratch a key along one of
+text: the cabs.
+dialog: 
+dialog: 69.
+text: WIZARD has no visible reaction. A flash of controlled anger
+text: crosses TRAVIS' face. He stares at the BOY with the poised
+text: key. It is the same look that crossed his face in the
+text: Harlem Deli. We are reminded with a jolt that the killer
+text: lies just beneath TRAVIS' surface.
+text: The BLACK PUNK must instinctively realize this too, because
+text: he makes a cocky show of putting the key back into his
+text: pocket and be-bopping around TRAVIS and WIZARD.
+text: The YOUNG MEAN-STREETERS continue down the street and TRAVIS
+text: turns back to WIZARD.
+text: Across the street, in the background, a JUNKIE nestles in a
+dialog: doorway.
+speaker_heading: TRAVIS
+dialog: (hesitant)
+dialog: Wiz?
+speaker_heading: WIZARD
+dialog: Yeah?
+speaker_heading: TRAVIS
+dialog: Look, ah, we never talked much, you
+dialog: and me...
+speaker_heading: WIZARD
+dialog: Yeah?
+speaker_heading: TRAVIS
+dialog: I wanted to ask you something, on
+dialog: account you've been around so long.
+speaker_heading: WIZARD
+dialog: Shoot. They don't call me the
+dialog: Wizard for nothing.
+speaker_heading: TRAVIS
+dialog: Well, I just, you know...
+speaker_heading: WIZARD
+dialog: Things got ya down?
+speaker_heading: TRAVIS
+dialog: Real down.
+speaker_heading: WIZARD
+dialog: It happens.
+dialog: 
+dialog: 70.
+speaker_heading: TRAVIS
+dialog: Sometimes it gets so I just don't
+dialog: know what I'm gonna do. I get some
+dialog: real crazy ideas, you know? Just
+dialog: go out and do somethin.
+speaker_heading: WIZARD
+dialog: The taxi life, you mean.
+speaker_heading: TRAVIS
+dialog: Yeah.
+speaker_heading: WIZARD
+dialog: (nods)
+dialog: I know.
+speaker_heading: TRAVIS
+dialog: Like do anything, you know.
+speaker_heading: WIZARD
+dialog: Travis, look, I dig it. Let me
+dialog: explain. You choose a certain way
+dialog: of life. You live it. It becomes
+dialog: what you are. I've been a hack 27
+dialog: years, the last ten at night.
+dialog: Still don't own my own cab. I
+dialog: guess that's the way I want it.
+dialog: You see, that must be what I am.
+text: A police car stops across the street. TWO PATROLMEN get out
+text: and roust the JUNKIE from his doorway.
+speaker_heading: WIZARD
+dialog: (continuing)
+dialog: Look, a person does a certain thing
+dialog: and that's all there is to it. It
+dialog: becomes what he is. Why fight it?
+dialog: What do you know? How long you
+dialog: been a hack, a couple months?
+dialog: You're like a peg and you get
+dialog: dropped into a slot and you got to
+text: squirm and wiggle around a while
+dialog: until you fit in.
+speaker_heading: TRAVIS
+dialog: (pause)
+dialog: That's just about the dumbest thing
+dialog: I ever heard, Wizard.
+speaker_heading: WIZARD
+dialog: What do you expect, Bertrand
+dialog: Russell? I've been a cabbie all my
+dialog: life, what do I know?
+dialog: (a beat)
+dialog: I don't even know what you're
+dialog: talking about.
+dialog: 
+dialog: 71.
+speaker_heading: TRAVIS
+dialog: Neither do I, I guess.
+speaker_heading: WIZARD
+dialog: You fit in. It's lonely, it's
+dialog: rough at first. But you fit in.
+dialog: You got no choice.
+speaker_heading: WIZARD
+dialog: Yeah. Sorry, Wizard.
+speaker_heading: WIZARD
+dialog: Don't worry, Killer. You'll be all
+dialog: right.
+dialog: (a beat)
+dialog: I seen enough to know.
+speaker_heading: TRAVIS
+dialog: Thanks.
+text: WIZARD gives TRAVIS a short wave implying, "Chin up, old
+text: boy," and walks around to the driver's side of his cab.
+text: WIZARD drives off, leaving the street to its natural
+dialog: inhabitants.
+speaker_heading: CUT TO:
+speaker_heading: FADE IN:
+scene_heading: EXT. CHARLES PALANTINE RALLY - DAY
+text: A rally platform in a supermarket parking lot somewhere in
+text: QUEENS is draped in red, white and blue bunting.
+text: A CROWD of about 500 persons mills about, waiting for the
+text: rally to begin. Piped pop-country MUSIC plays over the
+text: loudspeaker system.
+text: The CADRE OF SECRET SERVICE MEN, with their distinctive
+text: metallic grey suits, sun glasses and football physiques,
+text: stands out in the CROWD.
+text: On the PLATFORM are seated an assortment of LOCAL POLITICOS
+text: as well as some PALANTINE WORKERS and ADVISERS.
+text: TOM is silently reading something on the podium, and BETSY
+text: stands on the platform steps talking with ANOTHER WORKER.
+text: TOM looks up and to his left for a moment, then returns to
+text: what he was reading. Then he returns his gaze to the upper
+text: left, watching something very closely.
+dialog: 
+dialog: 72.
+text: After a moment he walks over to the steps where BETSY is
+dialog: standing.
+speaker_heading: TOM
+dialog: Betsy, come over here a moment.
+speaker_heading: BETSY
+dialog: What is it? I'm busy.
+speaker_heading: TOM
+dialog: (insistent)
+dialog: Just follow me.
+text: BETSY excuses herself and walks across the platform with TOM.
+text: As they stand to the rear of the platform, TOM secretively
+text: makes a gesture with his eyes and says out of the side of
+dialog: his mouth:
+speaker_heading: TOM
+dialog: Look there.
+dialog: (her eyes follow his)
+dialog: No, over further - get your
+dialog: glasses - yes, over there. Isn't
+dialog: that little guy the same guy that
+dialog: was bugging you around the office
+dialog: about a month ago?
+text: BETSY, putting on her glasses, looks closely. She tries not
+text: to make her stare too obvious.
+speaker_heading: BETSY
+dialog: No, I don't think so.
+dialog: (a beat)
+dialog: That's someone else.
+speaker_heading: TOM
+dialog: Now look more closely. Look around
+dialog: the eyes and chin. See? See there?
+text: CAMERA CLOSES IN on TRAVIS BICKLE standing in the CROWD: he
+text: has shaved his head to a short stubble. There he is: brush-
+text: cut, wearing a giant grin, and a large "Palantine '72" button.
+text: Although it is a pleasant sunny day, TRAVIS wears a bulky
+text: bulged-out Army jacket.
+text: TRAVIS looks warily from side to side and vanishes in the
+speaker_heading: CROWD.
+text: A SHORT WHILE LATER, TRAVIS walks up to a SECRET SERVICE MAN
+text: standing near the fringes of the CROWD. The SECRET SERVICE
+text: MAN -- in sun glasses, grey suit, ever-roving eyes -- is
+text: immediately identifiable.
+dialog: 
+dialog: 73.
+text: Whenever TRAVIS confronts a symbol of authority, he becomes
+text: like a young boy. This time is no exception, although one
+text: suspects there is a plan hatching beneath that boyish
+text: exterior. The SECRET SERVICE MAN, for his part, is about as
+text: talkative as the Sphinx.
+speaker_heading: TRAVIS
+dialog: Are you a Secret Service Man?
+scene_heading: SECRET SERVICE MAN
+dialog: (indifferently)
+dialog: Why do you ask?
+speaker_heading: TRAVIS
+dialog: I've seen a lot of suspicious-
+dialog: looking people around here today.
+text: SECRET SERVICE MAN glances at TRAVIS momentarily.
+scene_heading: SECRET SERVICE MAN
+dialog: Who?
+speaker_heading: TRAVIS
+dialog: Oh, lots. I don't know where they
+dialog: all are now. There used to be one
+text: standing over there.
+dialog: (points)
+text: SECRET SERVICE MAN's gaze follows TRAVIS' finger for a
+text: second, then return to TRAVIS.
+speaker_heading: TRAVIS (CONTD)
+dialog: Is it hard to get to be a Secret
+dialog: Service Man?
+scene_heading: SECRET SERVICE MAN
+dialog: Why?
+speaker_heading: TRAVIS
+dialog: I kinda thought I might make a good
+dialog: one. I'm very observant.
+scene_heading: SECRET SERVICE MAN
+dialog: Oh?
+speaker_heading: TRAVIS
+dialog: I was in the Army too.
+dialog: (beat)
+dialog: And I'm good with crowds.
+text: The SECRET SERVICE MAN is starting to get interested in
+text: TRAVIS: he definitely ranks as a suspicious character.
+dialog: 
+dialog: 74.
+scene_heading: SECRET SERVICE MAN
+dialog: Is that so?
+speaker_heading: TRAVIS
+dialog: What kind of guns do you guys use?
+dialog: .38's?
+text: The SECRET SERVICE MAN decides it's time to get some more
+speaker_heading: information on TRAVIS:
+scene_heading: SECRET SERVICE MAN
+dialog: Look, um, if you give me your name
+dialog: and address, we'll send you the
+dialog: information on how to apply.
+speaker_heading: TRAVIS
+dialog: You would, huh?
+scene_heading: SECRET SERVICE MAN
+dialog: (taking out notepad)
+dialog: Sure.
+speaker_heading: TRAVIS
+dialog: My name is Henry Krinkle -- that's
+scene_heading: with a "K." K-R-I-N-K-L-E. I live
+dialog: at 13 1/2 Hopper Avenue, Fair Lawn,
+text: New Jersey. Zip code 07410.
+dialog: (a beat)
+dialog: Got that?
+scene_heading: SECRET SERVICE MAN
+dialog: Sure, Henry. I got it all. We'll
+dialog: send you all the stuff all right.
+speaker_heading: TRAVIS
+dialog: Great, hey. Thanks a lot.
+text: The SECRET SERVICE MAN motions to a SECRET SERVICE
+text: PHOTOGRAPHER to catch a picture of TRAVIS. TRAVIS notices
+text: this, and quickly slips away into the CROWD.
+speaker_heading: CUT TO:
+text: TRAVIS sits at his desk in his APARTMENT, writing. He wears
+text: jeans, western shirt and empty holster.
+speaker_heading: TRAVIS (V.O.)
+text: June 11. Eight rallies in six more
+text: days. The time is coming.
+speaker_heading: CUT TO:
+text: NIGHT. TRAVIS' taxi picks up a FARE in the midtown area and
+text: heads downtown.
+dialog: 
+dialog: 75.
+text: LOWER EAST SIDE. TRAVIS lets off FARE on B Street and cuts
+text: across toward Tompkins Square.
+text: TRAVIS turns the corner when SKREETCH! he suddenly hits the
+text: brakes, causing the cab to rock back and forth.
+text: He has almost hit a YOUNG GIRL recklessly crossing the
+text: street. She thumps her hand on the taxi hood to regain her
+text: balance and stares in shock through the front window. C.U.
+text: GIRL's face.
+text: TRAVIS recognizes her face: it's IRIS, the GIRL in his taxi
+text: a week or so before. IRIS looks at TRAVIS sharply then
+text: turns and continues walking.
+text: TRAVIS' eyes follow her and she rejoins a GIRLFRIEND. They
+text: are both dressed as hippie hookers: sloppy clothes, boots,
+text: jeans, floppy hats. And the old come-hither walk is
+text: unmistakable.
+text: TRAVIS follows IRIS and her GIRLFRIEND slowly as they walk
+text: down the sidewalk.
+text: TRAVIS' P.O.V. He examines them from bottom to top --
+text: boots, legs, thighs, breasts, faces, hats.
+text: As TRAVIS rolls astride the GIRLS, he notices the familiar
+text: FRINGE OF A SUEDE JACKET standing in the shadows. The GIRLS
+text: look toward the SHADOWED FIGURE, smile, acknowledge some
+text: unheard comment, and continue on.
+text: IRIS looks back uneasily at TRAVIS' taxi and continues on.
+text: On the corner stand TWO well-to-do COLLEGE STUDENTS, somewhat
+text: out of place in this environment, but making every attempt
+text: to groove on it. They are high on something or another.
+text: The GIRLS spot the COLLEGE STUDENTS and walk over to them.
+text: They exchange some small talk and walk off together. There
+text: is little subtlety involved: it is obviously a pick-up.
+text: TRAVIS must negotiate a turn around the corner if he is to
+text: continue following the GIRLS and their COLLEGIATE JOHNS.
+text: This is not so easy, since the traffic is heavy.
+text: As TRAVIS slows down to make the turn, he notices ANOTHER
+text: HIPPIE HOOKER who had been watching him watching IRIS and
+text: her GIRLFRIEND. She walks over to the taxi, loans in the
+text: open left front window and gives TRAVIS the come-on disguised
+dialog: as an innocent question:
+scene_heading: C.U. HIPPIE HOOKER.
+dialog: 
+dialog: 76.
+speaker_heading: HIPPIE HOOKER
+dialog: Hey cabbie! You comin' or goin'?
+text: TRAVIS quickly turns his face away from her in a combination
+text: of shock, embarrassment and revulsion. He is the child
+text: caught with his hand in the cookie jar. The very presence
+text: of this crassly, openly sexual human being frightens and
+text: sickens him.
+text: TRAVIS takes off with a skreetch. His taxi shoots down the
+dialog: block.
+speaker_heading: CUT TO:
+text: A HOT JUNE DAY. TRAVIS' taxi, the "Off Duty" sign on, is
+text: parked against the curb somewhere in HARLEM. WHITE COPS,
+text: SECRET SERVICE MEN and REPORTERS, punctuate the otherwise
+text: BLACK CROWDS which walk to and fro in the b.g.
+text: CHARLES PALANTINE's voice can be heard coming from a distant
+text: loudspeaker system. It is a political rally.
+text: TRAVIS sits behind the wheel, coldly staring at something in
+text: the distance. His hair, of course, is still clipped short
+text: and he wears mirror-reflecting sunglasses. Even though a
+text: drop of sweat is working its way down his cheek, TRAVIS
+text: wears his Army jacket with the bulge on the left side -- the
+text: .38 Smith and Wesson bulge.
+text: A BLOCK AWAY, PALANTINE stands on a platform outside his
+text: uptown campaign headquarters. On the platform sit an array
+text: of BLACK DIGNITARIES. Nearby we recognize the SECRET
+text: SERVICE MAN TRAVIS spoke to at the earlier rally: he scans
+text: the CROWD anxiously.
+text: PALANTINE is speaking animatedly. He is an excellent
+text: speaker and captures our attention. He drives hard toward
+text: his arguments, crashes down on his points. His strained
+text: voice rings with sincerity and anger.
+text: C.U. of PALANTINE as he speaks. He is dressed in rolled-up
+text: shirtsleeves and sweat pours down his face.
+speaker_heading: PALANTINE
+text: The time has come to put an end to
+dialog: the things that divide us: racism,
+dialog: poverty, way -- and to those
+dialog: persons who seek to divide us.
+dialog: Never have I seen such a group of
+dialog: high officials from the President
+dialog: to Senate leaders to Cabinet
+dialog: members...
+dialog: 
+dialog: 77.
+text: CUT TO TRAVIS: no expression. PALANTINE's words are barely
+text: distinguishable from a block away:
+speaker_heading: PALANTINE
+dialog: (in distance)
+text: ... pit black against white, young
+dialog: against old, sow anger, disunity
+dialog: and suspicion -- and all in the
+dialog: name of the "good of the country."
+dialog: Well, their game is over.
+dialog: (applause)
+dialog: All their games are over. Now is
+dialog: the time to stand up against such
+dialog: foolishness, propaganda and
+dialog: demagoguery. Now is the time for
+text: one man to stand up and accept his
+dialog: neighbor, for one man to give in
+dialog: order that all might receive. Is
+dialog: unity and love of common good such
+dialog: a lost thing?
+text: ALL LIVE SOUND CEASES as TRAVIS' narration begins. He is
+text: reading from a letter or card he has just written.
+text: As he speaks we see SHOTS of PALANTINE speaking, a seated
+text: row of YOUNG BLACK PALANTINE red, white and blue bedecked
+text: CHEERLEADERS, SECRET SERVICE AGENTS examining the CROWD and
+dialog: so forth. These SHOTS have no direct relationship to the
+dialog: narration.
+speaker_heading: TRAVIS (V.O.)
+dialog: (reading)
+dialog: Dear Father and Mother,
+dialog: June is the month, I remember,
+dialog: which brings not only your wedding
+dialog: anniversary, but also Father's Day
+dialog: and Mother's birthday. I'm sorry I
+dialog: can't remember the exact dates, but
+dialog: I hope this card will take care of
+dialog: all of them.
+dialog: I'm sorry I again can not send you
+dialog: my address like I promised to last
+dialog: year, but the sensitive nature of
+dialog: my work for the Army demands utmost
+dialog: secrecy. I know you will
+dialog: understand.
+dialog: I am healthy and well and making
+dialog: lots of money. I have been going
+dialog: with a girl for several months and
+dialog: I know you would be proud if you
+text: could see her.
+speaker_heading: (MORE)
+dialog: 
+dialog: 78.
+speaker_heading: TRAVIS (V.O.; CONT'D)
+dialog: Her name is Betsy, but I can tell
+dialog: you no more than that.
+dialog: (interrupted)
+text: As TRAVIS reads third paragraph, a POLICEMAN is seen walking
+text: from behind TRAVIS' taxi to his window.
+text: The POLICEMAN's voice come during a pause in the narration.
+scene_heading: LIVE SOUND RESUMES.
+speaker_heading: POLICEMAN
+dialog: (standing near window)
+dialog: Hey, cabbie, you can't park here.
+speaker_heading: TRAVIS
+dialog: (penitent)
+dialog: Sorry, officer.
+speaker_heading: POLICEMAN
+dialog: You waiting for a fare?
+text: POLICEMAN leans his head in window, inspecting the cab. As
+text: he does, TRAVIS slides his right hand into the left side of
+text: his jacket, ready to draw his revolver.
+speaker_heading: TRAVIS
+dialog: No, officer.
+speaker_heading: POLICEMAN
+dialog: All right, move it.
+text: TRAVIS starts up his taxi and drives off.
+text: LIVE SOUND again CEASES as TRAVIS resumes reading letter as
+text: taxi drives away.
+text: As TRAVIS reads final paragraph, scene CUTS TO INT. APARTMENT
+text: where TRAVIS sits at his table.
+speaker_heading: TRAVIS (V.O.)
+dialog: (resuming reading)
+dialog: I hope this card finds you all
+dialog: well, as it does me. I hope no one
+dialog: has died. Don't worry about me.
+dialog: One day there will be a knock on
+dialog: the door and it will be me.
+dialog: Love, Travis.
+text: TRAVIS, at his desk, examines the card upon which he has
+dialog: just written this letter.
+dialog: 
+dialog: 79.
+text: C.U. cover of card. It is a 25¢ Wedding Anniversary card
+text: with a four-color embossed cover. The design could only be
+text: described as ur-kitsch. A cartoon Mr. and Mrs. All-America
+text: stand before an outdoor barbecuing grill, clicking salt and
+text: pepper shakers in a toast. Sentiment reads:
+scene_heading: HAPPY ANNIVERSARY
+dialog: To a Couple
+dialog: Who Have Found
+dialog: the Perfect Combination
+dialog: For Marriage...
+text: The card opens to read:
+speaker_heading: LOVE!
+text: Underneath the word "Love!" begins TRAVIS' short message to
+text: his parents, a message which extends to the back cover of
+dialog: the card.
+speaker_heading: CUT TO:
+text: NIGHT on the LOWER EAST SIDE. TRAVIS sits parked in the
+text: dark shadows of a side street. The lone wolf waits.
+text: TRAVIS watches the SLUM GODDESSES as they work the section
+text: of the street reserved for hippie hookers.
+text: TRAVIS' P.O.V.: some of the YOUNG STREET GIRLS are arrogant,
+text: almost aggressive, others are more insecure and inexperienced.
+text: A BLACK MAN charges down the sidewalk across the street from
+text: TRAVIS. He walks at a fast, maniacal clip, looking only at
+text: the sidewalk in front of him. Out of his mouth comes a
+text: continuous stream of invective: "That-cock-sucking-crazy-no-
+dialog: good-asshole-bitch-when-I-get-my-fucking-fingers-on-her-
+text: nigger-tits-I'm-gonna-ring-em-and-shit-up-her-ass..." and so
+text: on. He is Out of Control. Nobody seems to notice or care.
+text: TRAVIS takes a swig of peach brandy and continues his stake-
+dialog: out.
+text: Finally, TRAVIS spies the object of his search: IRIS walks
+text: down the sidewalk with her GIRLFRIEND. Iris wears her large
+text: blue sunglasses.
+text: TRAVIS checks to see if his .38 is in place (it is), opens
+text: the door and exits from the cab.
+text: Flipping up the collar of his Army jacket, TRAVIS slouches
+text: over and walks toward IRIS. He sort of sidles up next to
+text: her and walks beside her: TRAVIS always looks most suspicious
+text: when he's trying to appear innocent.
+dialog: 
+dialog: 80.
+speaker_heading: TRAVIS
+dialog: (shy)
+dialog: Hello.
+speaker_heading: IRIS
+dialog: You looking for some action?
+speaker_heading: TRAVIS
+dialog: Well...I guess so.
+speaker_heading: IRIS
+dialog: (eyeing him)
+dialog: All right.
+dialog: (a beat)
+dialog: You see that guy over there?
+dialog: (nods)
+dialog: His name is Sport. Go talk to him.
+dialog: I'll wait here.
+text: Travis' eyes follow Iris' nod until they reach Sport,
+text: standing in a doorway in his lime green jacket. Travis
+text: walks toward him.
+text: Sport, a thirtiesh white greaser, has the affections of a
+text: black pimp. His hips are jiving, his fingers softly snapping.
+text: He sings to him self, "Going to the chapel, gonna get
+text: married..." His complexion is sallow; his eyes cold and
+text: venal. He could only seem romantic to a confused underaged
+text: runaway.
+speaker_heading: TRAVIS
+dialog: You name Sport?
+text: Sport immediately takes Travis for an undercover cop. He
+text: extends his crosses wrists as if to be handcuffed.
+speaker_heading: SPORT
+dialog: Here, officer, take me in. I'm
+dialog: clean. I didn't do it. Got a
+dialog: ticket once in Jersey. That's all.
+dialog: Honest, officer.
+speaker_heading: TRAVIS
+dialog: Your name Sport?
+speaker_heading: SPORT
+dialog: Anything you say, officer.
+speaker_heading: TRAVIS
+dialog: I'm no cop.
+dialog: (looks back at Iris)
+dialog: I want some action.
+dialog: 
+dialog: 81.
+speaker_heading: SPORT
+dialog: I saw. $20 fifteen minutes. $30
+dialog: half hour.
+speaker_heading: TRAVIS
+dialog: Shit.
+speaker_heading: SPORT
+dialog: Take it or leave it.
+text: TRAVIS digs in his pocket for money.
+speaker_heading: SPORT
+dialog: No, not me. There'll be an elderly
+dialog: gent to take the bread.
+text: TRAVIS turns to walk away.
+speaker_heading: SPORT
+dialog: Catch you later, Copper.
+text: TRAVIS freezes, not saying anything. He turns back toward
+text: SPORT.
+speaker_heading: TRAVIS
+dialog: I'm no cop.
+speaker_heading: SPORT
+dialog: Well, if you are, it's entrapment
+dialog: already.
+speaker_heading: TRAVIS
+dialog: I'm hip.
+speaker_heading: SPORT
+dialog: Funny, you don't look hip.
+dialog: (laughs)
+text: TRAVIS walks back to IRIS.
+text: IRIS motions for TRAVIS to follow her and he does.
+text: IRIS and TRAVIS turn the corner and walk about a block,
+text: saying nothing. IRIS turns into a darkened doorway and
+text: TRAVIS follows her.
+text: At the top of the dark stairs IRIS and TRAVIS enter a dimly
+text: lit hallway. On either side are doors with apartment
+text: numbers. IRIS turns toward the first door, No. 2.
+speaker_heading: IRIS
+dialog: This is my room.
+dialog: 
+dialog: 82.
+text: At the far end of the darkened corridor sits a huge OLD MAN.
+text: His face is obscured by shadow. TRAVIS is about to enter
+text: the room when the OLD MAN speaks up:
+speaker_heading: OLD MAN
+dialog: Hey cowboy!
+text: TRAVIS turns his head toward the OLD MAN who has stood up
+text: and is advancing toward him.
+speaker_heading: OLD MAN
+dialog: (motioning to TRAVIS' jacket)
+dialog: The rod.
+dialog: (a beat)
+dialog: Gimme the rod, cowboy.
+text: TRAVIS hesitates a moment, uncertain what to do. The OLD
+text: MAN reaches in TRAVIS' jacket and pulls out the .38 Special.
+speaker_heading: OLD MAN
+dialog: This ain't Dodge City, cowboy. You
+dialog: don't need no piece.
+dialog: (glances at watch)
+dialog: I'm keepin' time.
+text: TRAVIS enters No. 2 with IRIS.
+text: TRAVIS looks around IRIS' room: although dimly lit, the room
+text: is brightly decorated. There is an orange shag carpet, deep
+text: brown walls and an old red velvet sofa. On the walls are
+text: posters of Mick Jagger, Bob Dylan and Peter Fonda. A Neil
+text: Young album is playing on a small phonograph.
+text: This is where IRIS lives: it bears the individual touch of a
+text: young girl.
+text: IRIS lights a cigarette, takes a single puff and places it
+text: in an ashtray on the bedstand.
+speaker_heading: TRAVIS
+dialog: Why you hang around with them
+dialog: greasers?
+speaker_heading: IRIS
+text: A girl needs protection.
+speaker_heading: TRAVIS
+dialog: Yeah. From the likes of them.
+speaker_heading: IRIS
+dialog: (shrugs)
+dialog: It's your time mister. Fifteen
+dialog: minutes ain't long.
+dialog: (gestures to cigarette)
+dialog: That cigarette burns out, your time
+text: is up.
+dialog: 
+dialog: 83.
+text: IRIS sits on the edge of the bed and removes her hat and
+text: coat. She takes off her blue-tinted sunglasses--her last
+text: defense. Without the paraphernalia of adulthood, Iris looks
+text: like a little girl she is. About 14, 15.
+speaker_heading: TRAVIS
+dialog: What's your name?
+speaker_heading: IRIS
+dialog: Easy.
+speaker_heading: TRAVIS
+dialog: That ain't much of a name.
+speaker_heading: IRIS
+dialog: It's easy to remember. Easy Lay.
+speaker_heading: TRAVIS
+dialog: What's your real name?
+speaker_heading: IRIS
+dialog: I don't like my real name.
+speaker_heading: TRAVIS
+dialog: (insistent)
+dialog: What's your real name?
+speaker_heading: IRIS
+dialog: Iris.
+speaker_heading: TRAVIS
+dialog: That's a nice name.
+speaker_heading: IRIS
+dialog: That's what you think.
+text: IRIS unbuttons her shirt, revealing her small pathetic
+text: breasts -- two young doves hiding from a winter wind.
+text: TRAVIS is unnerved by her partial nudity.
+speaker_heading: TRAVIS
+dialog: Don't you remember me? Button your
+dialog: shirt.
+text: IRIS buttons only the bottom button of her shirt.
+speaker_heading: IRIS
+dialog: (examining him)
+dialog: Why? Who are you?
+speaker_heading: TRAVIS
+dialog: I drive a taxi. You tried to get
+dialog: away one night. Remember?
+dialog: 
+dialog: 84.
+speaker_heading: IRIS
+dialog: No.
+speaker_heading: TRAVIS
+dialog: You tried to run away in my taxi
+dialog: but your friend -- Sport -- wouldn't
+dialog: let you.
+speaker_heading: IRIS
+dialog: I don't remember.
+speaker_heading: TRAVIS
+dialog: It don't matter. I'm gonna get you
+dialog: outta here.
+dialog: (looks toward door)
+speaker_heading: IRIS
+dialog: We better make it, or Sport'll get
+dialog: mad. How do you want to make it?
+speaker_heading: TRAVIS
+dialog: (pressured)
+dialog: I don't want to make it. I came
+dialog: here to get you out.
+speaker_heading: IRIS
+dialog: You want to make it like this?
+dialog: (goes for his fly)
+text: TRAVIS pushes her hand away. He sits beside her on the edge
+text: of the bed.
+speaker_heading: TRAVIS
+dialog: (taking her by the shoulders)
+dialog: Can't you listen to me? Don't you
+dialog: want to get out of here?
+speaker_heading: IRIS
+dialog: Why should I want to get out of
+dialog: here? This is where I live.
+speaker_heading: TRAVIS
+dialog: (exasperated)
+dialog: But you're the one that wanted to
+dialog: get away. You're the one that came
+dialog: into my cab.
+speaker_heading: IRIS
+dialog: I musta been stoned.
+speaker_heading: TRAVIS
+dialog: Do they drug you?
+dialog: 
+dialog: 85.
+speaker_heading: IRIS
+dialog: (reproving)
+dialog: Oh, come off it, man.
+text: IRIS tries to unzip TRAVIS' fly. This only unnerves TRAVIS
+dialog: more: sexual contact is something he's never really
+dialog: confronted.
+speaker_heading: TRAVIS
+dialog: Listen...
+speaker_heading: IRIS
+dialog: Don't you want to make it?
+dialog: (a beat)
+dialog: Can't you make it?
+text: IRIS works on TRAVIS' crotch OFF CAMERA. He bats her hand
+dialog: away.
+speaker_heading: TRAVIS
+dialog: (distraught)
+dialog: I want to help you.
+text: TRAVIS is getting increasingly panicked, but IRIS only
+dialog: thinks this is part of his particular thing and tries to
+dialog: overcome it.
+speaker_heading: IRIS
+dialog: (catching on)
+dialog: You can't make it, can you?
+dialog: (a beat)
+dialog: I can help you.
+text: IRIS lowers her head to go down on TRAVIS. TRAVIS, seeing
+text: this, jumps up in panic.
+text: TRAVIS stands several feet from IRIS. His fly is still
+text: open, and the white of his underwear shows through his jeans.
+text: He is starting to come apart.
+speaker_heading: TRAVIS
+dialog: Fuck it! Fuck it! Fuck it! Fuck
+dialog: it! Fuck it! Fuck it! Fuck it!
+speaker_heading: IRIS
+dialog: (confused)
+dialog: You can do it in my mouth.
+speaker_heading: TRAVIS
+dialog: Don't you understand anything?
+text: IRIS says nothing. After a moment, TRAVIS again sits on the
+text: bed beside IRIS. She no longer tries to make him.
+dialog: 
+dialog: 86.
+text: There is a moment of silence. IRIS puts her arm around his
+dialog: shoulder.
+speaker_heading: IRIS
+dialog: You don't have to make it, mister.
+text: TRAVIS rests a moment, collecting himself. Finally, he says:
+speaker_heading: TRAVIS
+dialog: (slowly)
+dialog: Do you understand why I came here?
+speaker_heading: IRIS
+dialog: I think so. I tried to get into
+dialog: your cab one night, and now you
+dialog: want to come and take me away.
+speaker_heading: TRAVIS
+dialog: Don't you want to go?
+speaker_heading: IRIS
+dialog: I can leave anytime I want.
+speaker_heading: TRAVIS
+dialog: But that one night?
+speaker_heading: IRIS
+dialog: I was stoned. That's why they
+dialog: stopped me. When I'm not stoned, I
+dialog: got no place else to go. They just
+dialog: protect me from myself.
+text: There is a pause. TRAVIS smiles and shrugs apologetically.
+text: TRAVIS looks at Iris' cigarette. It's burning down to the
+dialog: butt.
+speaker_heading: TRAVIS
+dialog: Well, I tried.
+speaker_heading: IRIS
+dialog: (compassionate)
+dialog: I understand, mister. It means
+dialog: something, really.
+speaker_heading: TRAVIS
+dialog: (getting up)
+dialog: Can I see you again?
+speaker_heading: IRIS
+dialog: That's not hard to do.
+speaker_heading: TRAVIS
+dialog: No, I mean really. This is nothing
+dialog: for a person to do.
+dialog: 
+dialog: 87.
+speaker_heading: IRIS
+dialog: Sure. All right. We'll have
+dialog: breakfast. I get up about one
+text: o'clock. Tomorrow.
+speaker_heading: TRAVIS
+dialog: (thinking)
+dialog: Well tomorrow noon there's a... I
+dialog: got a...
+text: IRIS is interfering with TRAVIS' assassination schedule.
+speaker_heading: IRIS
+dialog: Well, you want to or not?
+speaker_heading: TRAVIS
+dialog: (deciding)
+dialog: O.K. It's a date. I'll see you
+dialog: here, then.
+text: TRAVIS turns; IRIS smiles.
+speaker_heading: TOM
+dialog: Oh, Iris?
+speaker_heading: IRIS
+dialog: Yes?
+speaker_heading: TOM
+dialog: My name's Travis.
+speaker_heading: IRIS
+dialog: Thank you, Travis.
+speaker_heading: TRAVIS
+dialog: So long, Iris.
+dialog: (a beat)
+dialog: Sweet Iris.
+dialog: (smiles)
+text: TRAVIS exits.
+text: TRAVIS closes the door to No. 2 and stands in the corridor
+text: for a moment.
+text: The OLD MAN slowly walks from the dark end of the hallway
+text: with TRAVIS' .38 in his hand. OLD MAN stands near TRAVIS,
+text: and checks his watch.
+speaker_heading: OLD MAN
+dialog: (holding gun)
+dialog: I think this is yours, cowboy.
+dialog: 
+dialog: 88.
+text: TRAVIS reaches in his jacket pocket and pulls out the
+text: familiar crumpled $20 bill. He makes a big show of stuffing
+text: the wrinkled bill into the OLD MAN's hand. The OLD MAN
+dialog: doesn't understand the significance of it.
+speaker_heading: TRAVIS
+dialog: (restrained anger)
+dialog: Here's the twenty bucks, old man.
+dialog: You better damn well spend it right.
+text: TRAVIS turns and walks away.
+text: OLD MAN says as TRAVIS walks down stairs:
+speaker_heading: OLD MAN
+dialog: Come back anytime you want, cowboy.
+dialog: But without the rod -- please.
+speaker_heading: TRAVIS does not respond.
+speaker_heading: CUT TO:
+scene_heading: INT. ST. REGIS SUITE NOON
+text: Palantine, Tom and Palantine's Assistant are seated in
+text: garishly decorated suite.
+speaker_heading: ASSISTANT
+dialog: Well, at least it wasn't chicken.
+speaker_heading: PALANTINE
+dialog: It wasn't? I thought it was. It
+dialog: tasted like chicken.
+speaker_heading: TOM
+dialog: C'mon, Senator. That was a class
+dialog: dinner. The St. Regis is a class
+dialog: joint. That was veal.
+speaker_heading: PALANTINE
+dialog: Was it? It sure tasted like
+dialog: chicken to me.
+dialog: (a beat)
+dialog: Lately, everything tastes like
+dialog: chicken to me.
+speaker_heading: ASSISTANT
+dialog: Everything? Got to watch your gut.
+speaker_heading: PALANTINE
+dialog: What about it? I took 20 off
+dialog: before we started this thing.
+dialog: 
+dialog: 89.
+speaker_heading: ASSISTANT
+dialog: And you've put ten of it back on.
+speaker_heading: PALANTINE
+dialog: Ten? I don't think so. You really
+dialog: think so? Ten?
+speaker_heading: TOM
+dialog: Those TV cameras do. I caught the
+dialog: rally on CBS. You looked a little
+text: paunchy.
+speaker_heading: PALANTINE
+dialog: I don't think I gained ten pounds.
+text: Palantine gets up and walks over to the window. Its bars
+text: form a cross-sight on his head. He thinks to himself:
+speaker_heading: PALANTINE
+dialog: (weary)
+dialog: Jesus Christ.
+text: He looks at the crowded traffic on Fifth Avenue eighteen
+text: floors below. It is a mass of yellow.
+speaker_heading: CUT TO:
+scene_heading: EXT. FIFTH AVE NOON
+text: Travis' cab pulls away from the yellow mass and heads
+text: downtown.
+speaker_heading: CUT TO:
+scene_heading: EXT. DOWNTONE COFFEE SHOP NOON
+text: Travis' cab is parked near a neighborhood Bickford's.
+speaker_heading: CUT TO:
+text: TRAVIS and IRIS are having late breakfast at a middle-class
+text: EAST SIDE COFFEE SHOP. It is about 1:30 P.M.
+text: IRIS is dressed more sensibly, wearing jeans and a maroon
+text: sweater. Her face is freshly washed and her hair combed out.
+text: Seen this way, IRIS looks no different than any young girl
+text: in the big city. OTHER PATRONS of the coffee shop most
+text: likely assume she is having lunch with her big brother.
+text: They are both having an All-American breakfast: ham and
+text: eggs, large glasses of orange juice, coffee.
+dialog: 
+dialog: 90.
+text: Outside here environment, Iris seems the more pathetic. She
+text: seems unsure, schizy, unable to hold a subject for more than
+text: thirty seconds. Her gestures are too broad, her voice too
+text: mannered. We sympathize with Travis' paternal respect.
+dialog: This girl is in trouble.
+speaker_heading: IRIS
+dialog: ... and after that Sport and I just
+dialog: started hanging out...
+speaker_heading: TRAVIS
+dialog: Where is home?
+text: Iris removes her large blue-tinted sunglasses and fishes
+text: through her bag for another pair.
+speaker_heading: IRIS
+dialog: I got so many sunglasses. I
+dialog: couldn't live without my shades,
+dialog: man. I must have twelve pair of
+dialog: shades.
+text: She finds a pink-tinted pair and puts them on.
+speaker_heading: TRAVIS
+dialog: Where?
+speaker_heading: IRIS
+dialog: Pittsburgh.
+speaker_heading: TRAVIS
+dialog: I ain't ever been there, but it
+dialog: don't seem like such a bad place.
+speaker_heading: IRIS
+dialog: (voice rising)
+dialog: Why do you want me to go back to my
+dialog: parents? They hate me. Why do you
+dialog: think I split? There ain't nothin
+dialog: there.
+speaker_heading: TRAVIS
+dialog: But you can't live like this. It's
+dialog: hell. Girls should live at home.
+speaker_heading: IRIS
+dialog: (playfully)
+dialog: Didn't you ever hear of women's lib?
+text: There is a short, quick silence; TRAVIS' eyes retract. He
+dialog: goes on:
+dialog: 
+dialog: 91.
+speaker_heading: TRAVIS
+dialog: (ignoring her question)
+dialog: Young girls are supposed to dress
+dialog: up, go to school, play with boys,
+dialog: you know, that kinda stuff.
+text: Iris places a large gob of jam on her unbuttered toast and
+text: folds the bread over like a hotdog.
+speaker_heading: IRIS
+dialog: God, you are square.
+speaker_heading: TRAVIS
+dialog: (releasing pent-up tension)
+dialog: At least I don't walk the streets
+dialog: like a skunk pussy. I don't screw
+dialog: and fuck with killers and junkies.
+text: IRIS motions him to lower his voice.
+speaker_heading: IRIS
+dialog: Who's a killer?
+speaker_heading: TRAVIS
+dialog: That fella "Sport" looks like a
+dialog: killer to me.
+speaker_heading: IRIS
+dialog: He never killed nobody. He's a
+dialog: Libra.
+speaker_heading: TRAVIS
+dialog: Huh?
+speaker_heading: IRIS
+dialog: I'm a Libra too. That's why we get
+dialog: along so well.
+speaker_heading: TRAVIS
+text: He looks like a killer.
+speaker_heading: IRIS
+dialog: I think Cancer's make the best
+dialog: lovers. My whole family are air
+dialog: signs.
+speaker_heading: TRAVIS
+text: He shoots dope too.
+speaker_heading: IRIS
+dialog: What makes you so high and mighty?
+dialog: Did you ever look at your own
+dialog: eyeballs in a mirror. You don't
+dialog: get eyes like that from...
+dialog: 
+dialog: 92.
+speaker_heading: TRAVIS
+dialog: He's worse than an animal. Jail's
+dialog: too good for scum like that.
+text: There is a brief silence. Iris mind continued to whirl at
+text: 78 rpms. She seems to have three subjects on her mind at a
+text: time. She welcomes this opportunity to unburden herself.
+speaker_heading: IRIS
+dialog: Rock music died in 1970, that's
+dialog: what I think. Before that it was
+dialog: fantastic. I can tell you that.
+text: Everybody was crashing, hanging out
+dialog: at the Fillmore. Me and my
+dialog: girlfriend Ann used to go up the
+dialog: fire escape, you know? It was
+text: unbelievable. Rock Stars everywhere.
+dialog: That Airplane--that's my group, man.
+dialog: All Libras. But now everybody's
+dialog: split or got sick or busted. I
+dialog: think I'll move to one of those
+dialog: communes in Vermont, you know?
+dialog: That's where all the smart ones
+dialog: went. I stayed here.
+speaker_heading: TRAVIS
+dialog: I never been to a commune. I don't
+dialog: know. I saw pictures in a magazine,
+dialog: and it didn't look very clean to me.
+speaker_heading: IRIS
+dialog: Why don't you come to a commune
+dialog: with me?
+speaker_heading: TRAVIS
+dialog: Me? I could never go to a place
+dialog: like that.
+speaker_heading: IRIS
+dialog: Why not?
+speaker_heading: TRAVIS
+dialog: (hesitant)
+dialog: I... I don't get along with people
+dialog: like that.
+speaker_heading: IRIS
+dialog: You a scorpion? That's it. You're
+dialog: a scorpion. I can tell.
+speaker_heading: TRAVIS
+dialog: Besides, I've got to stay here.
+dialog: 
+dialog: 93.
+speaker_heading: IRIS
+dialog: Why?
+speaker_heading: TRAVIS
+dialog: I've got something important to do.
+dialog: I can't leave.
+speaker_heading: IRIS
+dialog: What's so important?
+speaker_heading: TRAVIS
+dialog: I can't say -- it's top secret.
+dialog: I'm doing something for the Army.
+dialog: The cab thing is just part time.
+speaker_heading: IRIS
+dialog: You a narc?
+speaker_heading: TRAVIS
+dialog: Do I look like a narc?
+speaker_heading: IRIS
+dialog: Yeah.
+text: TRAVIS breaks out in his big infectious grin, and IRIS joins
+text: his laughter.
+speaker_heading: IRIS
+dialog: God, I don't know who's weirder,
+dialog: you or me.
+speaker_heading: TRAVIS
+dialog: (pause)
+dialog: What are you going to do about
+dialog: Sport and that old bastard?
+speaker_heading: IRIS
+dialog: Just leave'em. There's plenty of
+dialog: other girls.
+speaker_heading: TRAVIS
+dialog: You just gonna leave 'em?
+speaker_heading: IRIS
+dialog: (astonished)
+dialog: What should I do? Call the cops?
+speaker_heading: TRAVIS
+dialog: Cops don't do nothin.
+speaker_heading: IRIS
+dialog: Sport never treated me bad, honest.
+dialog: Never beat me up once.
+dialog: 
+dialog: 94.
+speaker_heading: TRAVIS
+dialog: You can't leave 'em to do the same
+dialog: to other girls. You should get rid
+dialog: of them.
+speaker_heading: IRIS
+dialog: How?
+speaker_heading: TRAVIS
+dialog: (shrugs)
+dialog: I don't know. Just should, though.
+dialog: (a beat)
+dialog: Somebody should kill 'em. Nobody'd
+dialog: miss 'em.
+speaker_heading: IRIS
+dialog: (taken back)
+dialog: God. I know where they should have
+dialog: a commune for you. They should
+dialog: have a commune for you at Bellevue.
+speaker_heading: TRAVIS
+dialog: (apologetic/sheepish)
+dialog: I'm sorry, Iris. I didn't mean that.
+speaker_heading: IRIS
+dialog: You're not much with girls, are you?
+speaker_heading: TRAVIS
+dialog: (thinks)
+dialog: Well, Iris, I look at it this way.
+dialog: A lot of girls come into my cab,
+dialog: some of them very beautiful. And I
+dialog: figure all day long men have been
+text: after them: trying to touch them,
+dialog: talk to them, ask them out. And
+dialog: they hate it. So I figure the best
+dialog: I can do for them is not bother
+dialog: them at all. So I don't say a
+dialog: thing. I pretend I'm not even
+dialog: there. I figure they'll understand
+dialog: that and appreciate me for it.
+text: It takes IRIS a moment to digest this pure example of
+dialog: negative thinking: I am loved to the extent I do not exist.
+speaker_heading: IRIS
+dialog: Do you really think I should go to
+dialog: the commune?
+dialog: 
+dialog: 95.
+speaker_heading: TRAVIS
+dialog: I think you should go home, but
+dialog: otherwise I think you should go.
+dialog: It would be great for you. You
+dialog: have to get away from here. The
+dialog: city's a sewer, you gotta get out
+dialog: of it.
+text: Mumbling something about her "shades" again, Iris fishes
+text: through her bag until she comes up with another 99¢ pair of
+dialog: sunglasses and puts them on. She likes these better, she
+dialog: decides.
+speaker_heading: IRIS
+dialog: Sure you don't want to come with me?
+speaker_heading: TRAVIS
+dialog: I can't. Otherwise, I would.
+speaker_heading: IRIS
+dialog: I sure hate to go alone...
+speaker_heading: TRAVIS
+dialog: I'll give you the money to go. I
+dialog: don't want you to take any from
+dialog: those guys.
+speaker_heading: IRIS
+dialog: You don't have to.
+speaker_heading: TRAVIS
+dialog: I want to -- what else can I do
+dialog: with my money?
+dialog: (thinks)
+dialog: You may not see me again--for a
+dialog: while.
+speaker_heading: IRIS
+dialog: What do you mean?
+scene_heading: CLOSE on C.U. of TRAVIS:
+speaker_heading: TRAVIS
+dialog: My work may take me out of New York.
+speaker_heading: CUT TO:
+scene_heading: IRIS' ROOM - DAY
+text: Sport stands beside the bed.
+speaker_heading: SPORT
+dialog: What's the matter, baby, don't you
+dialog: feel right?
+dialog: 
+dialog: 96.
+text: Iris is wearing her blue-tinted shades.
+speaker_heading: IRIS
+dialog: It's my stomach. I got the flu.
+text: Sport puts his hand on her hips. He is slowly, carefully,
+text: smoothly manipulating her. It's the stone black hustle.
+speaker_heading: SPORT
+dialog: Oh, baby, there ain't no flu. You
+dialog: know that, baby.
+speaker_heading: IRIS
+dialog: Honest, Sport.
+text: Sport puts some slow soul music on the stereo.
+speaker_heading: SPORT
+dialog: You're just tired, baby. You just
+dialog: need your man. I am your man, you
+dialog: know. You are my woman. I wouldn't
+dialog: be nothing without you.
+text: Sport slowly grinds his hips to hers. Iris starts to move
+dialog: with him. This is what she really wanted. Her man's
+dialog: attention.
+speaker_heading: SPORT
+dialog: I know this may not mean anything
+dialog: to you, baby, but sometimes I get
+dialog: so emotional, sometimes I think, I
+dialog: wish every man could have what I
+dialog: have now, that every woman could be
+dialog: loved the way I love you. I go
+dialog: home and I think what it would be
+dialog: without you, and then I thank God
+dialog: for you. I think to myself, man,
+dialog: you are so lucky. You got a woman
+dialog: who loves you, who needs you, a
+dialog: woman who keeps you strong. It's
+dialog: just you and me. I'm nothing
+dialog: without you. I can go like this
+dialog: for ever and ever. We can do it,
+dialog: baby. You and me. Just you and me.
+text: Sport slowly rubs his crotch into her. Iris smiles. She is
+text: happy. The music rises.
+speaker_heading: CUT TO:
+scene_heading: FIRING RANGE - DAY
+text: TRAVIS stands at the firing range blasting the .44 Magnum
+text: with a rapid-fire vengeance.
+dialog: 
+dialog: 97.
+text: He sets down one gun, picks up the next, then the next.
+text: Quickly reloading, he fires again.
+text: The targets spin and dance under his barrage. The piercing
+text: sound of GUNSHOTS ring through the air.
+speaker_heading: CUT TO:
+scene_heading: INT. APARTMENT
+text: TRAVIS is again writing at the table. His western shirt is
+text: open, exposing his bare chest.
+text: A note of despair and doom has entered into TRAVIS' normally
+text: monotone narration voice: this will be the last entry in his
+dialog: diary.
+speaker_heading: TRAVIS (V.O.)
+dialog: My whole life has pointed in one
+dialog: direction. I see that now. There
+dialog: never has been any choice for me.
+speaker_heading: CUT TO:
+text: LENGTHY P.O.V. SHOT from TRAVIS' taxi: we see New York's
+text: nightlife as TRAVIS sees it. CAMERA TRACKS down midtown
+text: sidewalks in SLIGHTLY SLOW MOTION. There we see:
+text: COUPLES, walking in SLOWING MOTION, young couples, middle-
+text: aged couples, old couples, hookers and johns, girlfriends,
+text: boyfriends, business friends -- the whole world matched up
+text: in pairs, and TRAVIS left wandering alone in the night.
+text: Others would notice the breasts, the asses, the faces, but
+text: not TRAVIS: he notices the girl's hand that rubs the hair on
+text: her boyfriend's neck, the hand that hangs lightly on his
+text: shoulder, the nuzzling kiss in the ear.
+speaker_heading: TRAVIS (V.O.) (CONTD)
+dialog: Loneliness has followed me all my
+dialog: life. The life of loneliness
+dialog: pursues me wherever I go: in bars,
+dialog: cars, coffee shops, theaters,
+text: stores, sidewalks. There is no
+dialog: escape. I am God's lonely man.
+text: MATCHCUT TO P.O.V.: another neighborhood, LATER IN THE NIGHT.
+text: Still in SLIGHTLY SLOW MOTION.
+text: The CROWDS are more sparse here, the streets darker. A
+text: JUNKIE shudders in a doorway, a WINO pukes into a trash can,
+text: a STREET-WALKER meets a prospective CLIENT.
+dialog: 
+dialog: 98.
+speaker_heading: TRAVIS (V.O.) (CONTINUED)
+dialog: I am not a fool. I will no longer
+dialog: fool myself. I will no longer let
+dialog: myself fall apart, become a joke
+dialog: and object of ridicule. I know
+dialog: there is no longer any hope. I
+dialog: cannot continue this hollow, empty
+dialog: fight. I must sleep. What hope is
+dialog: there for me?
+speaker_heading: CUT TO:
+scene_heading: INT. APARTMENT
+text: TRAVIS, his shirt fastened, stands beside table.
+text: C.U.: He lays a brief hand-written letter on the table. We
+dialog: read it.
+dialog: Dear Iris,
+dialog: This money should be enough for your trip. By the time you
+dialog: read this I will be dead.
+dialog: Travis
+text: TRAVIS stacks five crisp hundred dollar bills beside the
+text: letter, folds them up with the letter, and puts them into an
+dialog: envelope.
+text: TIMECUT: A SHORT WHILE LATER. TRAVIS has cleaned up his
+text: apartment. Everything is neat and orderly.
+text: CAMERA PANS across room. The mattress is bare and flattened
+text: out, the floor is spotless, the cans and bottles of food and
+text: pills put out of sight. The wall is still covered with
+dialog: Palantine political paraphernalia, but when we reach the
+text: desk we see only four items there: an open diary and three
+text: loaded revolvers: .44, .38, .25.
+text: TRAVIS, freshly shaved and neatly dressed, stands in the
+text: middle of his clean room. The empty holster hangs on his
+text: shoulder. Metal .25 gliders can be seen under the slit in
+text: his right sleeve. He turns toward table.
+speaker_heading: CUT TO:
+text: TRAVIS, envelope in hand, closes the door behind him and
+text: walks down the corridor.
+text: He passes a ajar door and we are suprised to see the room is
+text: empty--and trashed. Travis lives in a decaying, if not
+dialog: condemned building.
+dialog: 
+dialog: 99.
+text: EXT.
+text: TRAVIS places the envelope to IRIS in his mail box.
+text: BACK IN APARTMENT. CAMERA CLOSE ON revolvers lying on the
+text: table in neat array.
+speaker_heading: CUT TO:
+speaker_heading: FADE IN:
+text: SOUND of a political rally: cheering, laughing, a band
+text: playing, talking.
+text: AFTERNOON. A CROWD of about 500 PERSONS is assembled before
+text: a platform outside a Brooklyn union hall. A DIXIELAND BAND
+text: is playing on the platform.
+text: C.U. CHARLES PALANTINE's feet climb out of a limousine.
+text: There is a ROAR from the nearby CROWD.
+text: PALANTINE, a bulky SECRET SERVICE MAN to the right and left
+text: of him, pushes his way through the CROWD toward the platform.
+text: Still cameras click, and TV cameras purr.
+text: SLIGHT TIMECUT: PALANTINE is speaking on the platform.
+speaker_heading: CUT TO:
+text: TRAVIS' empty taxi sits parked a few blocks away from rally.
+text: At this distance, the rally sounds are almost
+text: indistinguishable.
+text: C.U. of TRAVIS' boots walking. They make their way past one
+text: person, then two, then a cluster of three or four. SOUNDS
+dialog: of rally increase.
+text: We see a FULL FIGURE SHOT of TRAVIS: he is standing alone in
+text: an opening near the fringes of the CROWD.
+text: TRAVIS looks like the most suspicious human being alive.
+text: His hair is cropped short, he wears mirror-reflecting
+text: glasses. His face is pallid and drained of color, his lips
+text: are pursed and drawn tight. He looks from side to side.
+text: One can now see the full effect of TRAVIS' lack of sleep and
+text: sufficient diet -- he looks sick and frail.
+text: Even though it is a warm June day, TRAVIS is bundled up in a
+text: shirt, sweater and Army jacket buttoned from top to bottom.
+text: Under his jacket are several large lumps, causing his upper
+text: torso to look larger than it should. He is slightly hunched
+text: over and his hands shoved into his pockets.
+dialog: 
+dialog: 100.
+dialog: Anyone scanning the crowd would immediately light upon
+dialog: TRAVIS and think, "There is an assassin."
+text: TRAVIS pulls the vial of red pills from his pocket and
+text: swallows a couple.
+speaker_heading: CUT TO:
+text: SECRET SERVICE MAN standing beside the platform, scanning
+text: the CROWD. It is the same SECRET SERVICE MAN TRAVIS spoke
+text: to at the first rally. TOM, dressed in a conservative suit,
+text: stands beside him.
+text: PALANTINE is wrapping up his short speech:
+speaker_heading: PALANTINE
+dialog: ... and with your help we will go
+text: on to victry at the polls Tuesday.
+dialog: (applause)
+text: TRAVIS begins moving up into the crowd.
+speaker_heading: PALANTINE (CONTD)
+text: On to victory in Miami Beach next
+dialog: month
+dialog: (building applause)
+dialog: and on to victory next November!
+text: PALANTINE steps back, smiling and receiving the applause.
+text: Then, nodding, at the SECRET SERVICE MAN he descends the
+text: stairs and prepares to work his way through the CROWD.
+text: TRAVIS unbuttons the middle two buttons of his jacket,
+text: opening access to his holster. With the other hand he
+text: checks the .44 hooked behind his back.
+text: PALANTINE smiles and shakes a few of the many hands
+text: outstretched toward him.
+text: The SECRET SERVICE MAN, scanning the CROWD, spots something
+text: that interests him. He looks closely.
+scene_heading: SECRET SERVICE MAN'S P.O.V.: TRAVIS, his face intense,
+text: pushes his way through the CROWD.
+text: PALANTINE works his way through crowds and cameras.
+scene_heading: SECRET SERVICE MAN motions to SECOND SECRET SERVICE MAN and
+text: points in TRAVIS' direction.
+text: TRAVIS slips his hand into his jacket.
+dialog: 
+dialog: 101.
+text: The SECOND SECRET SERVICE MAN converges on TRAVIS from the
+dialog: side.
+text: TRAVIS and PALANTINE draw closer to each other.
+text: SECRET SERVICE MAN, walking just behind PALANTINE, grabs the
+text: candidate's hand and pulls him backward. PALANTINE looks
+text: sharply back at SECRET SERVICE MAN who motions for him to
+text: take a slightly altered route.
+text: TRAVIS sees this: his eyes meet the SECRET SERVICE MAN's.
+text: He recognizes the situation. To his right he spots the
+scene_heading: SECOND SECRET SERVICE MAN.
+text: TRAVIS' eyes meet PALANTINE's: candidate and would-be
+text: assassin exchange quick glances.
+text: TRAVIS hastily works his way back through the CROWD. He
+text: hears the SECRET SERVICE MAN's voice call out:
+scene_heading: SECRET SERVICE MAN
+dialog: Detain that man!
+text: OVERHEAD SHOT reveals TRAVIS has the jump on his pursuers.
+text: He is breaking free of the CROWD while they are still mired
+dialog: in it.
+text: TRAVIS, free of his pursuers, quickly makes his way down the
+text: sidewalks. The SECRET SERVICE MEN look futilely about.
+text: TRAVIS jumps in his cab. Sweat covers his face.
+speaker_heading: CUT TO:
+text: The film is moving fast now; it pushes hard and straight
+text: toward its conclusion. We're moving toward the kill.
+text: LATE AFTERNOON. TRAVIS' taxi skids around a corner and
+text: speeds into Manhattan.
+text: TRAVIS checks his mail slot: the letter to IRIS has already
+text: been picked up by the MAILMAN.
+text: TRAVIS, stripped to the waist, walks back and forth across
+text: his INT. APARTMENT, wiping his torso with a bath towel.
+text: TRAVIS begins dressing:
+text: -- He straps the Army combat knife to his calf.
+text: -- He reflexes the metal gliders and the Colt .25 on his
+text: right forearm.
+dialog: 
+dialog: 102.
+text: INTERCUT: SPORT stands in his doorway on the LOWER EAST SIDE
+text: shot with LONG DISTANCE LENS. It is EARLY EVENING.
+text: INTERCUT: A pudgy middle-aged white PRIVATE COP walks up to
+text: SPORT. The two men laugh, slap each other on the back and
+text: exchange a soul shake. They discuss a little private
+text: business and the PRIVATE COP walks off in the direction of
+text: IRIS' apartment.
+text: -- TRAVIS straps on holster and fits the .38 Special into it.
+text: INTERCUT: PRIVATE COP walks down block.
+text: -- TRAVIS hooks the huge Magnum into the back of his belt.
+text: He puts on his Army jacket and walks out the door.
+text: INTERCUT: PRIVATE COP turns up darkened stairway to IRIS'
+dialog: apartment.
+text: NIGHT has fallen: TRAVIS' taxi careens down 10th Ave. He
+text: speeds, honks, accelerates quickly. The glare of speeding
+text: yellow and red lights flash through the night.
+scene_heading: TRAVIS' P.O.V.: PEDESTRIAN attempts to flag down TRAVIS'
+text: taxi, but quickly steps back up on the curb when he sees
+text: TRAVIS has no intention of stopping for anything.
+text: INTERCUT: SPORT maintains his post in the dark doorway. He
+text: waves to a GIRL who passes, and she waves back.
+text: TRAVIS' taxi screeches to a stop and parks obliquely against
+dialog: the curb.
+speaker_heading: CUT TO:
+text: TRAVIS walks down the block to the doorway where SPORT
+text: stands. CAMERA TRACKS with TRAVIS.
+text: Without slowing, TRAVIS walks up to SPORT and puts his arm
+text: on his shoulder in a gesture of friendliness.
+speaker_heading: TRAVIS
+dialog: Hey, Sport. How are things?
+speaker_heading: SPORT
+dialog: (shrugs)
+dialog: O.K., cowboy.
+speaker_heading: TRAVIS
+dialog: (needling him)
+dialog: How are things in the pimp business,
+dialog: hey Sport?
+dialog: 
+dialog: 103.
+speaker_heading: SPORT
+dialog: What's going on?
+speaker_heading: TRAVIS
+dialog: I'm here to see Iris.
+speaker_heading: SPORT
+dialog: Iris?
+text: TRAVIS pushes SPORT back into the dark recesses of the
+dialog: corridor.
+speaker_heading: SPORT
+dialog: Wha -- ?
+speaker_heading: TRAVIS
+dialog: Yeah, Iris. You know anybody by
+dialog: that name?
+speaker_heading: SPORT
+dialog: No.
+dialog: (beat)
+dialog: Hillbilly, you'd better get your
+dialog: wise ass outa here and quick, or
+dialog: you're gonna be in trouble.
+text: TRAVIS is being propelled by an inner force, a force which
+text: takes him past the boundaries of reason and self-control.
+speaker_heading: TRAVIS
+dialog: (restrained anger)
+dialog: You carry a gun?
+text: SPORT looks into TRAVIS' eyes, saying nothing: he realizes
+dialog: the seriousness of the situation.
+text: TRAVIS pulls his .38 Special and holds it on SPORT, pushing
+text: him even further back against the wall.
+speaker_heading: TRAVIS
+dialog: Get it.
+speaker_heading: SPORT
+dialog: (submissive)
+dialog: Hey, mister, I don't know what's
+dialog: going on here. This don't make any
+dialog: sense.
+speaker_heading: TRAVIS
+dialog: (demanding)
+dialog: Show it to me.
+text: SPORT reluctantly pulls a .32 caliber pistol (a "purse gun")
+text: from his pocket and holds it limply.
+dialog: 
+dialog: 104.
+text: TRAVIS sticks his .38 into SPORT's gut and discharges it.
+text: There is a muffled blast, followed by a muted scream of pain.
+speaker_heading: TRAVIS
+dialog: Now suck on that.
+text: Agony and shock cross SPORT'S face as he slumps to the floor.
+text: TRAVIS turns and walks away before SPORT even hits.
+text: As TRAVIS walks away, SPORT can be seen struggling in the b.g.
+text: TRAVIS, he gun slipped into his jacket, walks quickly up the
+dialog: sidewalk.
+text: AROUND THE CORNER, TRAVIS walks into the darkened stairway
+text: leading to IRIS' apartment.
+text: As he walks up the stairs, TRAVIS pulls the .44 Magnum from
+text: behind his back and transfers the .38 Special to his left
+text: hand. He walks up the steps, a pistol dangling from each
+dialog: hand.
+text: AT THE TOP OF THE STAIRS, TRAVIS spots THE OLD MAN sitting
+text: at the far end of the dark corridor. THE OLD MAN starts to
+text: get up when TRAVIS discharges the mighty .44 at him. BLAAM!
+text: The hallway reverberates with shock waves and gun powder.
+text: THE OLD MAN staggers at the end of the corridor: his right
+text: hand has been blown off at the forearm.
+text: There is the sharp SOUND of a GUNSHOT behind TRAVIS: his
+text: face grimaces in pain. A bullet has ripped through the left
+text: side of his neck. Blood flows over his left shoulder.
+text: TRAVIS' .44 flies into the air.
+text: TRAVIS looks down the stairway: there SPORT lies choking in
+text: a puddle of his own blood. He has struggled long enough to
+text: fire one shot.
+text: Falling, TRAVIS drills another .38 slug into SPORT's back
+text: but SPORT is already dead.
+text: TRAVIS slumps to his knees. Down the corridor THE OLD MAN
+text: with a bloody stump is struggling toward him. TRAVIS turns
+text: his .38 toward THE OLD MAN.
+text: The door to No. 2 opens: IRIS' scream is heard in the b.g.
+text: The bulky frame of the PRIVATE COP fills the doorway. His
+text: blue shirt is open, in his hand hangs a .38 service revolver.
+text: The PRIVATE COP raises his gun and shoots TRAVIS. TRAVIS,
+text: blood gushing from his right shoulder, sinks to the floor.
+text: His .38 clangs down the stairs.
+dialog: 
+dialog: 105.
+text: THE OLD MAN grows closer. TRAVIS smashes his right arm
+text: against the wall, miraculously, the small Colt .25 glides
+text: down his forearm into his palm.
+text: TRAVIS fills the PRIVATE COP's face full of bullet holes.
+text: The PRIVATE COP, SCREAMING, crashes back into the room.
+text: THE OLD MAN crashes atop TRAVIS. The .25 falls from TRAVIS'
+dialog: hand.
+text: Both men are bleeding profusely as they thrash into IRIS'
+text: room. IRIS hides behind the old red velvet sofa, her face
+text: frozen in fright.
+text: TRAVIS, trapped under the heavy OLD MAN, reaches down with
+text: his right hand and pulls the combat knife from his right calf.
+text: Just as TRAVIS draws back the knife, THE OLD MAN brings his
+text: huge left palm crashing down on TRAVIS: THE OLD MAN's palm
+text: is impaled on the knife.
+text: OLD MAN SCREAMS in pain.
+text: Police SIRENS are heard in b.g.
+text: With great effort, TRAVIS turns over, pinning THE OLD MAN to
+text: the floor. The bloody knife blade sticks through his
+text: upturned hand.
+text: TRAVIS reaches over with his right hand and picks up the
+text: revolver of the new dead PRIVATE COP.
+text: TRAVIS hoists himself up and sticks the revolver into the
+text: OLD MAN's mouth.
+text: THE OLD MAN's voice is full of pain and ghastly fright:
+speaker_heading: OLD MAN
+dialog: Don't kill me! Don't kill me!
+text: IRIS screams in b.g. TRAVIS looks up:
+speaker_heading: IRIS
+dialog: Don't kill him, Travis! Don't kill
+dialog: him!
+text: TRAVIS fires the revolver, blowing the back of THE OLD MAN's
+text: head off the silencing his protests.
+text: The police SIRENS screech to a halt. SOUND of police
+text: officers running up the stairs.
+dialog: 
+dialog: 106.
+text: TRAVIS struggles up and collapses on the red velvet sofa,
+text: his blood-soaked body blending with the velvet.
+text: IRIS retreats in fright against the far wall.
+text: First uniformed POLICE OFFICER rushes in room, drawn gun in
+text: hand. Other POLICEMEN can be heard running up the stairs.
+text: TRAVIS looks helplessly up at the OFFICER. He forms his
+text: bloody hand into a pistol, raises it to his forehead and,
+text: his voice croaking in pain, makes the sound of a pistol
+text: discharging.
+speaker_heading: TRAVIS
+dialog: Pgghew! Pgghew!
+text: Out of breath fellow OFFICERS join the first POLICEMAN.
+text: They survey the room.
+text: TRAVIS' head slumps against the sofa.
+text: IRIS is huddled in the corner, shaking.
+scene_heading: LIVE SOUND CEASES.
+text: OVERHEAD SLOW MOTION TRACKING SHOT surveys the damage:
+text: -- from IRIS shaking against the blood-spattered wall
+text: -- to TRAVIS blood-soaked body lying on the sofa
+text: -- to THE OLD MAN with half a head, a bloody stump for one
+text: hand and a knife sticking out the other
+text: -- to POLICE OFFICERS staring in amazement
+text: -- to the PRIVATE COP's bullet-ridden face trapped near the
+dialog: doorway
+text: -- to puddles of blood and a lonely .44 Magnum lying on the
+text: hallway carpet.
+text: -- down the blood-specked stairs on which lies a nickle-
+dialog: plated .38 Smith and Wesson Special
+text: -- to the foot of the stairs where SPORT's body is hunched
+text: over a pool of blood and a small .32 lies near his hand
+text: -- to CROWDS huddled around the doorway, held back by POLICE
+speaker_heading: OFFICERS
+text: -- past red flashing lights, running POLICEMEN and parked
+dialog: police cars
+dialog: 
+dialog: 107.
+dialog: -- to the ongoing nightlife of the Lower East Side, curious
+text: but basically unconcerned, looking then heading its own
+dialog: way.
+speaker_heading: FADE TO:
+speaker_heading: FADE IN:
+scene_heading: EXT. TRAVIS' APARTMENT - DAY
+text: It is EARLY FALL. The trees are losing their leaves.
+speaker_heading: CUT TO:
+text: SLOW TRACKING SHOT across INT. APARTMENT. Room appears
+text: pretty much the same, although there is a new portable TV
+text: and an inexpensive easy chair.
+text: VISUAL: TRACK begins at table and works across the room to
+dialog: the mattress.
+dialog: We see these items:
+text: -- On the table rests the diary, closed. A desk calendar
+text: stands on the table: it is October.
+text: -- Across the wall where the Palantine clippings once hung
+text: there are now a series of new newspaper clippings. Right to
+dialog: left, they read:
+text: 1. The first is a full back page from the N.Y. Daily News.
+text: Headline reads: "CABBIE BATTLES GANGSTERS." There are large
+text: photos of police standing in IRIS' room after the slaughter,
+text: and a picture of TRAVIS' cabbie mug shot.
+text: 2. Underneath there is a more discreet clipping without
+text: photo from the N.Y. Times. Two-column headline reads:
+dialog: "Cabbie Shootout, Three Dead."
+text: 3. A follow-up story from the News. Two-column photo shows
+text: plain middle-aged couple sitting in middle-class living room.
+text: Two-column headline reads: "Parents Express Shock, Gratitude."
+text: 4. A two-column Daily News story without photo. Headline
+dialog: reads: "Taxi-Driver Hero to Recover."
+text: 5. A one-column two-paragraph News story stuck on an obscure
+text: page. Headline reads: "Cabbie Returns to Job."
+text: -- At the end of the clippings, a letter is tacked to the
+text: wall. It is a simple letter hand-written on plain white
+text: paper. The handwriting makes a conscious effort to appear
+text: neat and orderly. We recognize that it is the same letter
+text: that is being read in voice over.
+dialog: 
+dialog: 108.
+text: -- When we finally arrive at the mattress, we find it is
+text: barren. A pillow and blanket (new purchases) are folded at
+text: the head of the mattress.
+text: AUDIO: THROUGHOUT THE TRACK, we hear the voice of a middle-
+text: aged uneducated man reading in voice over.
+text: It is the voice of IRIS' FATHER and he is reading a letter
+text: he sent to TRAVIS, and which TRAVIS has tacked to his wall.
+speaker_heading: IRIS' FATHER (V.O.)
+dialog: Dear Mr. Bickle,
+dialog: I can't say how happy Mrs. Steensma
+dialog: and I were to hear that you are
+dialog: well and recuperating. We tried to
+dialog: visit you at the hospital when we
+dialog: were in New York to pick up Iris,
+dialog: but you were still in a coma.
+dialog: There is no way we can repay you
+dialog: for returning our Iris to us. We
+dialog: thought we had lost her, but now
+dialog: our lives are full again. Needless
+dialog: to say, you are something of a hero
+dialog: around this household.
+dialog: I'm sure you want to know about
+text: Iris. She is back in school and
+dialog: working hard. The transition has
+dialog: been very hard for her, as you can
+dialog: well imagine, but we have taken
+dialog: steps to see she never has cause to
+text: run away again.
+dialog: In conclusion, Mrs. Steensma and I
+dialog: would like to again thank you from
+dialog: the bottom of our hearts.
+dialog: Unfortunately, we cannot afford to
+dialog: come to New York again to thank you
+dialog: in person, or we surely would. But
+dialog: if you should ever come to
+dialog: Pittsburgh, you would find yourself
+dialog: a most welcome guest in our home.
+dialog: Our deepest thanks,
+dialog: Burt and Ivy Steensma
+speaker_heading: CUT TO:
+scene_heading: EXT. PLAZA HOTEL - NIGHT
+text: Four cabs stand in the waiting line in front of the hotel.
+dialog: 
+dialog: 109.
+text: Near the entrance, TRAVIS and WIZARD stand in the light
+dialog: talking.
+text: TRAVIS' hair is almost fully grown back to its normal length.
+text: TRAVIS wears the same clothes -- cowboy boots, jeans,
+text: western shirt, Army jacket -- but he isn't wearing a gun.
+text: There is a thick scar on the left side of his neck.
+text: Wizard is speaking.
+speaker_heading: WIZARD
+dialog: A private-owner wanted to swap
+dialog: wheels. Now my tires were brand
+dialog: new. "Give me a couple days," I says.
+text: CHARLIE T. parks his cab in line and walks toward TRAVIS and
+speaker_heading: WIZARD.
+speaker_heading: CHARLIE T
+dialog: Howdy Wizard, Killer.
+text: CHARLIE T. points his pistol/finger at TRAVIS, fires, says
+text: "Pow" and laughs.
+speaker_heading: CHARLIE T (CONTD)
+dialog: (casual joking)
+dialog: Don't mess with the Killer.
+speaker_heading: TRAVIS
+dialog: (smiles)
+dialog: Hey Charlie T.
+speaker_heading: WIZARD
+dialog: Howsit, Charlie?
+dialog: (pause)
+dialog: Hey Travis, I think you gota fare.
+text: They all turn. P.O.V. of DOORMAN closing rear door of
+text: TRAVIS' taxi.
+speaker_heading: TRAVIS
+dialog: Shit.
+dialog: (runs off)
+speaker_heading: CHARLIE T
+dialog: Take it slow, Killer.
+text: TRAVIS waves back to CHARLIE T. and WIZARD as he runs around
+text: cab and jumps in the driver's seat.
+text: TRAVIS' taxi pulls away.
+text: C.U. TRAVIS at the wheel. A FEMALE VOICE says:
+dialog: 
+dialog: 110.
+speaker_heading: FEMALE VOICE
+text: 34 East 56th Street.
+text: TRAVIS recognizes the voice. He looks in the rear-view
+dialog: mirror: It is BETSY.
+text: TRAVIS says nothing: he heads toward 56th Street.
+text: After a silence, BETSY speaks:
+speaker_heading: BETSY
+dialog: Hello, Travis.
+speaker_heading: TRAVIS
+dialog: Hello, Betsy.
+text: There is an uneasy pause.
+speaker_heading: TRAVIS
+dialog: I see where Palantine got the
+dialog: nomination.
+speaker_heading: BETSY
+dialog: Yes. It won't be long now.
+dialog: Seventeen days.
+speaker_heading: TRAVIS
+dialog: Well, I hope he wins.
+text: There is another pause.
+speaker_heading: BETSY
+dialog: (concerned)
+dialog: How are you, Travis? I read about
+dialog: you in the papers.
+speaker_heading: TRAVIS
+dialog: Oh, I got over that. It was
+dialog: nothing, really. The papers always
+dialog: blow these things up.
+dialog: (a beat)
+dialog: A little stiffness. That'll go
+dialog: away. I just sleep more, that's all.
+text: EXT.
+text: TRAVIS' taxi pulls up to 34 East 56th Street.
+speaker_heading: TRAVIS
+dialog: Here we are.
+text: BETSY digs in her purse.
+dialog: 
+dialog: 111.
+speaker_heading: TRAVIS
+dialog: (protesting)
+dialog: No, no, please. This fare's on me.
+dialog: Please.
+speaker_heading: BETSY
+dialog: Thank you, Travis.
+text: BETSY gets out of the cab and stands by the right front
+text: window, which is open.
+text: TRAVIS prepares to drive away.
+speaker_heading: BETSY
+dialog: Travis?
+speaker_heading: TRAVIS
+dialog: Yeah.
+speaker_heading: BETSY
+dialog: Maybe I'll see you again sometime,
+dialog: huh?
+speaker_heading: TRAVIS
+dialog: (thin smile)
+dialog: Sure.
+text: BETSY steps away from the curb and TRAVIS drives off. She
+text: watches his taxi.
+text: CAMERA FOLLOWS TRAVIS' taxi as it slowly disappears down
+dialog: 56th Street.
+scene_heading: SUPERIMPOSE TITLES: THE END
+dialog: 

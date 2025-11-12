@@ -1,0 +1,2817 @@
+dialog: 
+dialog: "John Q." --
+dialog: <!--
+dialog: if (window!= top)
+dialog: top.location.href=location.href
+dialog: // -->
+dialog: 
+dialog: ON BLACK:
+dialog: If I didn't have enough money, I'd be dead right now.
+dialog: - Carroll Shelby
+dialog: FADE IN:
+dialog: EXT. TWO-LANE HIGHWAY - DAY
+dialog: Mancini's "Ave Maria" fills the screen as a white BMW speeds along the road.
+speaker_heading: CREDITS ROLL
+text: A BEAUTIFUL WOMAN is behind the wheel. We never see her face. Hanging from the mirror is a rosary with a crucifix. Her porcelain hand turns up the volume and the music swells. A silver bracelet dangles from her wrist.
+dialog: EXT. TWO-LANE HIGHWAY - CONTINUOUS
+text: A slow-moving semi obstructs her path. The woman leans out the window to see if the road is clear before moving into the oncoming lane. She steps on the gas. She's in the wrong lane and can't get over. There are headlights in the distance and the moan of an airhorn is heard.
+dialog: EXT. TWO-LANE HIGHWAY - CONTINUOUS
+text: Suddenly, the headlights are upon her. And airhorn blasts and she's trapped between two monstrous big rigs. She cuts the wheel hard, but too late. The oncoming truck clips her, sending her car end over end.
+dialog: SLO-MO
+text: The accident is violent and horrible. The BMW cartwheels along the highway in a grotesque ballet of destruction. The music crescendos and sparks fly as the car skids along the pavement on its roof. And as the BMW violently smashes headfirst into the embankment, the beautiful woman is slammed into the windshield like a crash-test dummy.
+dialog: EXT. MIDDLE AMERICAN TOWN - PRE-DAWN
+text: The indigo horizon shimmers with the first light of morning. Vapor spewing smokestacks dwarf brick and mortar homes. Dairy Queens, Hardee's, and Walmarts line the main drag. Stars and Stripes flutter from lampposts.
+dialog: INT. ARCHIBALD HOUSE - BEDROOM - MORNING
+text: A man sits propped up against pillows, his sleeping wife snuggled next to him. His name is JOHN QUINCY ARCHIBALD. His strong, handsome face is beginning to show wear and tear. From across the room, last night's news broadcast drones on the TV. The President is telling everybody how wonderful the country is doing.
+text: JOHN Q. watches impassively, the irony not lost on him. Suddenly, he hears a noise. Something's not right. He jumps out of bed, wearing only a pair of BVDs.
+dialog: WIFE
+dialog: Honey, what is it?
+dialog: EXT. ARCHIBALD HOUSE - MORNING
+text: The screen door bangs open. John Q. bursts onto the porch to find a tow truck parked in front of his house. TWO TRUCKERS are winching a hook and cable to a ten year old Chevy.
+dialog: J.Q.
+dialog: Hey, what the hell are you doing?
+dialog: TOW TRUCK DRIVER #1
+dialog: What does it look like?
+dialog: J.Q.
+dialog: Aw, come on. That's my car.
+dialog: TOW TRUCK DRIVER #1
+dialog: Yeah? That's not what the bank says.
+text: The truckers quickly circle to the front and hop in. John Q. just watches as the truck speeds away, dragging the car along the cement.
+text: The neighbors now stand on their porches, staring. J.Q. turns to see his wife, DENISE, standing in the doorway. She's not a happy camper.
+dialog: Their nine year old son, MIKE, appears at his mother's side, wiping the sleep from his eyes.
+dialog: MIKE
+dialog: What's going on?
+scene_heading: INT. ARCHIBALD HOUSE - KITCHEN - MORNING
+text: CLOSE ON a hand circling want-ads in red ink. J.Q. sits at the kitchen table drinking a half-filled cup of coffee, his eyes scouring the classifides.
+text: Denise enters, dressed in her brown and red supermarket cashier's uniform. Without speaking, she passes J.Q. and starts making breakfast.
+dialog: J.Q.
+dialog: Sorry.
+dialog: Denise doesn't respond. A chill fills the air.
+dialog: J.Q. (CONT'D)
+dialog: I talked to the bank. They promised they'd work with me.
+dialog: DENISE
+dialog: Okay.
+dialog: J.Q.
+dialog: I did.
+dialog: DENISE
+dialog: John, that was two months ago.
+dialog: J.Q.
+dialog: We've got enough money for next month's rent. That's it. It was either the car or the house, so I thought...
+dialog: DENISE
+dialog: You thought.
+dialog: J.Q.
+dialog: What did you want me to do? Have us put out on the street? I'm down to twenty hours a week a the plant. They shipped off half the damn jobs down to Mexico.
+dialog: DENISE
+dialog: My car is gone, John.
+dialog: J.Q.
+dialog: You know I'm out there trying to find a second job.
+dialog: DENISE
+dialog: What do you want me to say? That it's fine? Alright, it's fine.
+dialog: J.Q.
+dialog: The car's still ours, Denise. We own it. All we have to do is wait two weeks until my check comes in.
+dialog: Mike enters dressed for school. He strikes a body builder's pose, flexing.
+dialog: MIKE
+dialog: Yah! Ronnie Coleman, Mr. Olympics two years running. Yah!
+dialog: He moves to the bread box and grabs a donut.
+dialog: DENISE
+dialog: Sit down, honey. Eat some breakfast.
+dialog: MIKE
+dialog: (mouthful of food)
+dialog: I am eating.
+dialog: J.Q.
+dialog: A donut isn't breakfast.
+dialog: MIKE
+dialog: Yeah it is. It's a continental breakfast.
+dialog: J.Q.
+dialog: Yeah, well, you're not a continent right now.
+dialog: MIKE
+dialog: Uh, Dad, what do you call North America?
+dialog: Denise sets down two plates of hot food.
+dialog: DENISE
+dialog: Enough about that. You're not going to school without breakfast. Now eat. Both of you.
+dialog: Mike and John Q. wolf down their food three bites at a time.
+dialog: MIKE
+dialog: I can't believe those jerks took our car, can you, Mom?
+dialog: Denise gives J.Q. the hairy eyeball.
+dialog: DENISE
+dialog: No, I can't.
+dialog: MIKE
+dialog: What are we going to do? You're not going to do something, right, Dad? You know what I'd do? I'd get so big and mad, I'd just go crazy and kick someone's butt.
+dialog: J.Q.
+dialog: Watch your language.
+dialog: MIKE
+dialog: I would. I swear. When I grow up I'll be so strong no one will ever take nothing from us.
+dialog: J.Q.
+dialog: You've been watching too much of that W.W. wrestling.
+dialog: MIKE
+dialog: Not wrestling, Dad. Body building. There's a big difference.
+dialog: DENISE
+dialog: Alright, alright. Get your books. You're going to be late.
+dialog: Mike runs out of the room. Denise starts to clear the table.
+speaker_heading: DENISE (CONT'D)
+dialog: Give me a ride to work?
+dialog: J.Q.
+dialog: Sure.
+dialog: J.Q. takes her arm.
+dialog: J.Q. (CONT'D)
+dialog: Baby, things will get better. I promise. I've just got to get a few paychecks ahead, that's all.
+scene_heading: INT. COMPUTER ROOM - SOMEWHERE IN AMERICA - NIGHT
+text: An amber light flashes through the darkness, followed by a rapid buzzing sound. The CAMERA PUSHES IN on a mammoth-sized printer, furiously pounding letters onto a fact sheet. We catch glimpses of peoples' names, hometowns, other vital information. Vernell Tilson, Des Moines. Arthur Friedlander, Jefferson City. Amy Podgorsky, Topeka.
+dialog: INT. JOHN Q.'S TRUCK - DAY
+dialog: John, Denise and Mike. Denise in the middle. John and Mike are playing Speedy Gonzalez. The object of the game is to pick something and then say it so fast it's almost indecipherable. Mike's got a good one.
+dialog: MIKE
+dialog: Rdshxshn.
+dialog: J.Q.
+dialog: Reddish Stick?
+dialog: MIKE
+dialog: No. Rdshxshn.
+dialog: J.Q.
+dialog: Radishes?
+dialog: MIKE
+dialog: Rdshxshn.
+dialog: J.Q.
+dialog: I swear to God, I'm hearing reddish stick.
+dialog: MIKE
+dialog: It's a radio station.
+dialog: J.Q.
+dialog: Oh, brother. You got me.
+dialog: It's Dad's turn.
+dialog: J.Q. (CONT'D)
+dialog: Ydugskew.
+dialog: MIKE Yogurt and stew?
+dialog: J.Q.
+dialog: Yogurt and Stew?
+dialog: MIKE
+dialog: Well, I don't know. Do it again.
+dialog: J.Q.
+dialog: Ydugskew.
+dialog: MIKE
+dialog: I give up.
+dialog: J.Q.
+dialog: You're going to school.
+dialog: MIKE
+dialog: Dad!
+dialog: J.Q.
+dialog: Okay. One more.
+dialog: It's the longest one in history.
+dialog: J.Q. (CONT'D)
+dialog: Iplglgnstheflgvthntdstscvmrcndthrpblcfw chtstndsnntnndrgdndvsblewithlbrtyndjstc rll.
+dialog: Mike gives him a look.
+dialog: J.Q. (CONT'D)
+dialog: Pledge of allegiance.
+dialog: MIKE
+dialog: Wow. That's a good one. How about you, Mom?
+dialog: DENISE
+dialog: I don't want to play. You guys always make fun of me.
+dialog: MIKE
+dialog: Come on, Mom. It's fun.
+dialog: J.Q.
+dialog: Yeah, Mom.
+dialog: DENISE
+dialog: Okay.
+dialog: Mom's not very good. You can always understand her clearly.
+speaker_heading: DENISE (CONT'D)
+dialog: Dashboard.
+dialog: The boys giggle.
+speaker_heading: DENISE (CONT'D)
+dialog: What? No good? Okay. Okay. Hold on.
+dialog: She tries to be tricky, but still it's clear as a bell.
+speaker_heading: DENISE (CONT'D)
+dialog: Antenna.
+dialog: The boys laugh at her.
+speaker_heading: DENISE (CONT'D)
+dialog: See. That's why I don't play.
+text: The car stops in front of the small, red brick elementary school. Kids everywhere. Mike kisses his mother goodbye.
+scene_heading: EXT. THOMAS EDISON ELEMENTARY SCHOOL - DAY
+dialog: John walks Mike to the gate. Mike turns, serious.
+dialog: MIKE
+dialog: Hey, Dad? I've got forty-six dollars I saved from my allowance. You can have it if you want.
+dialog: J.Q.
+dialog: Yeah?
+dialog: MIKE
+dialog: We're a family. We've got to stick together, right?
+dialog: John rubs his son's head. He's a good boy.
+dialog: J.Q.
+dialog: Right. But you earned that money. You keep it.
+dialog: Mike runs toward the schoolhouse.
+dialog: MIKE
+dialog: Okay. See you later!
+dialog: J.Q.
+dialog: Goodbye.
+dialog: Mike turns around.
+dialog: MIKE
+dialog: No, Dad. See you later. I hate goodbye.
+dialog: J.Q.
+dialog: Okay, okay. See you later.
+dialog: Mike does the crab before running inside.
+dialog: MIKE
+dialog: Flex Wheeler, 275 pounds. Two percent body fat. Yah!
+dialog: INT. NEIMAN MACHINERY PLANT - DAY
+text: Sparks. Fire. Goggles. Tires as tall as two-story buildings. John Q. and his best friend, JIMMY PALUMBO, work the assembly line. John holds a giant riveter.
+scene_heading: INT. NEIMAN MACHINERY PLANT - EMPLOYEE LOCKER ROOM - DAY
+text: Quitting time. Employees are showering, towling down, changing. John Q. is putting on a tie.
+dialog: JIMMY
+dialog: What's the deal with the jacket? Who died?
+dialog: EXT. NEIMAN MACHINERY PLANT - DAY
+text: Cement and huge. Smoke billows from the stacks. John Q. and Jimmy make their way to their trucks.
+dialog: J.Q.
+dialog: I've got a job interview at the machinery plant over in Otisville.
+dialog: JIMMY
+dialog: What job? There are no jobs.
+dialog: J.Q.
+dialog: I saw it in the paper.
+dialog: JIMMY
+dialog: Forget it.
+dialog: J.Q.
+dialog: I've got to go. Denise is going to kill me if I don't find something. They repo'd her car this morning.
+dialog: JIMMY
+dialog: Oh, boy. You want me to go with you?
+scene_heading: INT. OTISVILLE MACHINERY PLANT - WAITING AREA - DAY
+dialog: The waiting room is packed. A lot of people needing work. John fills out the application.
+dialog: JIMMY
+dialog: This is a waste of time. Four hundred people for one job. Give me a break.
+dialog: John keeps filling out his paperwork.
+speaker_heading: JIMMY (CONT'D)
+dialog: I'm telling you, somebody's son, cousin, uncle has already got this job sewn up.
+dialog: J.Q.
+dialog: Jimmy, why do they put it in the paper if they're not hiring?
+dialog: JIMMY
+dialog: They've got to put it in the paper to make it look good. State law or something.
+dialog: J.Q.
+dialog: Give it a rest, will you?
+dialog: JIMMY
+dialog: I'm just saying, it's the run around. Mark my words. It's either, 'We'll keep your application on file.' That's the kiss of death. Or they tell you that you're overqualified. Either way, you're screwed.
+text: A PERSONNEL MANAGER emerges from his office and reads from a clipboard.
+speaker_heading: PERSONNEL MANAGER
+dialog: John Archibald?
+scene_heading: INT. OTISVILLE MACHINERY PLANT - PERSONNEL OFFICE - DAY
+dialog: John Q. sits across the desk from the P.M.
+dialog: J.Q.
+dialog: I've been working heavy machinery for fifteen years. I really want this job. Whatever you need, I can do.
+speaker_heading: PERSONNEL MANAGER
+dialog: I see.
+dialog: J.Q.
+dialog: Hey, I could start today.
+dialog: John Q. laughs nervously as the P.M. reviews his application.
+speaker_heading: PERSONNEL MANAGER
+dialog: Your resume is very impressive. You've certainly got the experience. Frankly, you might be overqualified.
+text: John Q. gets the message. He pushes his chair back and starts to get up.
+scene_heading: INT. COMPUTER ROOM - SOMEWHERE IN AMERICA - NIGHT
+text: The daisy wheel buzzsaws across the page. WE SEE more names, columns, entitled STATUS, ENTRY DATE. Underneath the Entry Date heading, months and days appear: June 19, April 30. February 6.
+dialog: INT. ALL SAINTS CHURCH - DAY
+dialog: Sunday services. The congregation sings. In the third row, Mike elbows his Dad.
+dialog: MIKE
+dialog: The game starts in fifteen minutes. We're gonna be late.
+dialog: J.Q.
+dialog: I know.
+text: A few rows back, John sees Jimmy Palumbo tapping his watch. Denise gives her husband a disapproving look. John sticks his head back in the hymn book and continues singing.
+dialog: EXT. ALL SAINTS CHURCH - DAY
+text: The congregation pours out of the church and parishioners run to their cars. Denise stops to talk to the PASTOR.
+dialog: MIKE
+dialog: Dad!
+dialog: John moves over to Denise and the Pastor.
+dialog: J.Q.
+dialog: Sorry, Reverend. No time for saving souls today. Big game.
+dialog: PASTOR
+dialog: Have you been saying your prayers like we talked about?
+dialog: J.Q.
+dialog: Does praying for a job count?
+dialog: PASTOR
+dialog: Work on him, will you, Denise?
+dialog: DENISE
+dialog: He's hopeless.
+dialog: PASTOR
+dialog: No one's hopeless. Good luck!
+text: The Pastor waves as John grabs Denise by the hand and they run to the truck and hop in. In the parking lot, kids put on their uniforms, men and women change out of their Sunday best. Cars, vans, pick-ups, "dualies" take off, tires spinning, everybody whooping and hollering.
+dialog: EXT. BASEBALL FIELD - DAY
+text: It's a tailgate party. Parents lugging ice chests, making sandwiches, barbecuing. In the bleachers, John, Denise, Jimmy Palumbo, and his wife, GINA, cheer on the home team. The wives are really loud.
+dialog: DENISE
+dialog: Let's go, Orioles!
+dialog: GINA
+dialog: Pitcher's got a rubber arm!
+dialog: The Dodger pitcher stretches, fires a fastball. The batter takes the pitch.
+dialog: UMPIRE
+dialog: Ball four!
+dialog: Tommy trots down to first base.
+dialog: JIMMY
+dialog: Way to go, Tommy. Good eye. Walk's as good as a hit.
+dialog: Mike steps to the plate. Family and friends cheer wildly.
+dialog: GINA
+dialog: Yeah, Mike! Drive him home, baby! You can do it!
+dialog: DENISE
+dialog: Hey, pitcher! Hey, pitcher!
+dialog: The pitcher smokes one down the middle. Mike swings. Nothing but air.
+dialog: J.Q.
+dialog: That's okay, Mikey. Put the bat on the ball.
+dialog: The pitcher burns one on the outside corner.
+dialog: UMPIRE
+dialog: Strike two!
+dialog: DENISE
+dialog: Hey, ump, you're blind! I hate this pitcher. How old is he, anyway?
+dialog: GINA
+dialog: He's supposed to be twelve.
+dialog: JIMMY
+dialog: Twelve, my ass. Look at him. His beard just grew an inch between pitches!
+dialog: J.Q.
+dialog: Don't let him rattle you, Mikey. Wait for your pitch.
+text: The catcher flashes fingers. The pitcher nods and fires. Mike hits a sharp ground ball between first and second. The second baseman moves over but doesn't have the angle.
+text: The first baseman charges the ball, scoops it on the run, then underhands it to the Dodger pitcher, who gallops off the mound towards first.
+text: Mike's foot hits the bag at exactly the same time the ball plops in the pitcher's outstretched glove.
+dialog: FIRST BASE UMP
+dialog: SAAAAAAAAFFFEEE!
+speaker_heading: DODGER PITCHER
+dialog: No way! He was out!
+dialog: FIRST BASE UMP
+dialog: Tie goes to the runner, son.
+text: As the Dodger pitcher argues with the umpire, the Oriole player on third base darts towards home. The Dodger pitcher wheels around and fires. Too late, the runner scores.
+speaker_heading: HOME PLATE UMP
+dialog: Saaaaaffee!
+text: Seeing an opening, Mike races from first to second, arms pumping, breathing hard. The Dodger shortstop sees Mike, races to the base and calls for the throw.
+dialog: DODGER SHORTSTOP
+dialog: Second base!
+dialog: The Dodger catcher throws off his mask and fires the ball.
+text: CLOSE ON MIKE, slowing, suddenly clutching his chest, gulping for air, ten feet from the base. SMACK. The ball lands in the shortstop's glove.
+text: Mike wobbles, doubles over and falls face first into the dirt. The Dodger shortstop stands over Mike. He can't decide if he should tag him. Players, spectators look on dazed, shocked.
+speaker_heading: ANGLE - BLEACHERS
+text: PUSH IN ON J.Q.'s FACE, panicked. TRACK HIM leaping down the bleachers, knocking over spectators, racing onto the playing field.
+dialog: J.Q.
+dialog: Mike! Jesus God.
+text: He lifts Mike's head, holds it in his hands. Denise arrives, hysterical.
+dialog: DENISE
+dialog: Mike?! Mikey, can you hear me?
+dialog: Mike is semi-conscious, eyes dilated, barely breathing.
+dialog: JIMMY
+dialog: Somebody call an ambulance.
+dialog: J.Q.
+dialog: I'm not waiting for an ambulance.
+text: J.Q. lifts Mike into his arms and races with Denise through the crowd towards the parking lot. Denise gets in the pick up and John lays Mike down in her lap before gunning the engine and taking off.
+dialog: EXT. HIGHWAY - DAY
+text: J.Q.'s pick up speeds along a super highway, blurring past rural pastures, farmland and cornfields. Up ahead, the oppressive skyscrapers of the city.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - DAY
+text: A monolithic maze of glass and stone. John's truck screeches to a stop at the E.R. entrance.
+dialog: INT. EMERGENCY ROOM - DAY
+text: It's standing room only. Bodies everywhere. Doctors and nurses move purposefully through the suffering masses. Mike in his arms, J.Q. and Denise run double-time through the crowded corridors.
+dialog: J.Q.
+dialog: Help! My son can't breathe! I need help here! Can somebody please...
+text: A male nurse, LEO MAGUIRE, leaves what he's doing and moves towards them. He clutches Mike's wrist, taking his pulse.
+dialog: MAGUIRE
+dialog: What happened?
+dialog: J.Q.
+dialog: I don't know. He had a baseball game. All of a sudden he...
+dialog: Maguire passes a female nurse in the hallway.
+dialog: MAGUIRE
+dialog: I need a doctor right away. Room 6.
+dialog: INT. RESUSCITATION ROOM - DAY
+text: Maguire helps J.Q. lower Mike onto an examination table, and immediately several emergency technicians start applying the resuscitation equipment. Their movements are swift and precise. A blood pressure cuff is wrapped around Mike's arm, an oxymeter to the tip of his finger, and sensors are stuck all over his chest.
+dialog: The E.R. doctor is MARJORIE KLEIN, early 30's. Klein is all business, assessing Mike's condition.
+dialog: MAGUIRE
+dialog: Pulse is 150. B.P. 68 over 34. Collapsed playing baseball.
+dialog: J.Q. notices Maguire glancing worriedly at Klein.
+dialog: J.Q.
+dialog: He was running. Next thing we know he keels over.
+dialog: DR. KLEIN
+dialog: Anything like this ever happen before?
+dialog: J.Q.
+dialog: Never. No, ma'am. Never.
+dialog: MAGUIRE
+dialog: Pulse is seventy-eight percent.
+dialog: DR. KLEIN
+dialog: Let's get him on some oxygen.
+text: Maguire reaches for the Oxygen tank, lays the mask over Mike's nose, turns the screw. As Mike inhales the hissing air, Klein turns Mike on his side, probes his lung and lower back areas.
+dialog: J.Q.
+dialog: He's going to be alright, isn't he?
+dialog: DR. KLEIN
+dialog: The lungs are wet and his liver feels enlarged. Five mil I.V. Digoxin, stat.
+dialog: Maguire moves to the counter, finds an I.V. needle, fills it with Digoxin.
+dialog: DENISE
+dialog: What's the matter with him?
+dialog: Just then, another R.N. charges in. Klein "eyes" the nurse who immediately picks up on the look.
+dialog: R.N.
+dialog: Mr. and Mrs. Archibald, would you come with me?
+dialog: J.Q.
+dialog: What?
+dialog: R.N.
+dialog: He's in good hands. Please, there's a few procedures we need to go over.
+dialog: J.Q.
+dialog: What kind of procedures?
+text: The R.N. gently takes J.Q.'s elbow. J.Q. pushes her hand away.
+dialog: R.N.
+dialog: We're going to be admitting your son, sir. You'll need to fill out the proper forms.
+dialog: DENISE
+dialog: For godsakes, can't the forms wait?
+text: John and Denise watch helplessly as Maguire stabs an I.V. needle into Mike's vein.
+dialog: R.N.
+dialog: Please, Mr. and Mrs. Archibald. It's possible your son may need a transfusion. We'll need to test you both for blood types.
+dialog: The R.N. edges them out as SWOOSH, the divider curtain is pulled shut.
+dialog: INT. EMERGENCY ROOM - DAY
+text: J.Q. and Denise are escorted by the R.N. to the admitting desk. Arms bent, fists clenched, they're pressing sterilized gauze pads to their inner elbow joints.
+dialog: ADMITTING NURSE
+dialog: First name, Mr. Archibald?
+dialog: J.Q.
+dialog: John.
+dialog: The admitting nurse's fingers glide over the computer keyboard, inputting all vital info.
+dialog: ADMITTING NURSE
+dialog: Middle initial?
+dialog: J.Q.
+dialog: Q. Quincy.
+dialog: ADMITTING NURSE
+dialog: And the name of your insurance company?
+speaker_heading: JIMMY (O.S.)
+dialog: John!
+dialog: J.Q. spins and sees Jimmy and Gina rushing through the E.R. doors.
+dialog: GINA
+dialog: Where is he, is he okay?
+dialog: J.Q.
+dialog: I don't know. They're running tests. We're waiting to find out.
+dialog: GINA
+dialog: What can we do?
+dialog: Gina throws her arms around Denise, consoling her.
+dialog: ADMITTING NURSE
+dialog: Your card, Mr. Archibald?
+dialog: J.Q.
+dialog: Huh?
+dialog: ADMITTING NURSE
+dialog: Your insurance card. I'll need to make a copy for our files.
+text: J.Q. pulls out his wallet, fumbles for his card, hands it to the admitting nurse. INT. PEDIATRIC I.C.U. - DAY
+text: J.Q. and Denise walk past rows of quiet, glassed-in rooms full of patients and life-support machines. They enter Mike's room to find REGGIE, a twenty-four year old nurse, hooking Mike up to the high monitor above the bed.
+text: Mike is lying supine, awake but groggy, hooked up to a heart monitor, IV drips, hideous plastic tubes up his nose, down his throat, on full inotropic support. Denise leans over, kisses Mike.
+dialog: DENISE
+dialog: Hi, sweetheart.
+dialog: J.Q.
+dialog: Hey, slugger, how are you doing?
+dialog: Mike smiles weakly, struggles to speak, points to the tubes.
+dialog: MIKE
+dialog: I can't...talk.
+dialog: J.Q.
+dialog: Relax, buddy. Get some rest.
+dialog: Mike closes his eyes. He's really out of it.
+dialog: J.Q. (CONT'D)
+dialog: I love you, kid.
+dialog: Denise reacts to all the flashing numbers on the monitors.
+dialog: DENISE
+dialog: What's all this?
+dialog: REGGIE
+dialog: This is so we can monitor Mike's vitals. Respiratory rate. Pulse oximetry. Heart rate. And this one is blood pressure. Diastolic and systolic.
+text: Reggie points to a bank of monitors. In the middle is a flashing number 88.
+speaker_heading: REGGIE (CONT'D)
+dialog: We'd like this top number to stay above ninety, but between eighty-five and ninety is acceptable for now. Anything less than eighty is dangerous. If his blood pressure drops, we're going to have to do something. We can't have him going below seventy again.
+dialog: DENISE
+dialog: What would that mean?
+dialog: REGGIE
+dialog: Seventy and below, he's in heart failure.
+text: Reggie exits. J.Q. and Denise watch the blood pressure monitor, holding steady at 88. Plink. Suddenly, the number drops a notch to 87.
+scene_heading: INT. COMPUTER ROOM - SOMEWHERE IN AMERICA - NIGHT
+dialog: Growing. Names multiplaying. Jones, Baker, Azbirjari, Hererra. The daisy wheel pounds incessantly.
+scene_heading: INT. CONFERENCE ROOM - CARDIO-THORACIC DEPT. - DAY
+text: Eight members Hope Memorial Hospital's administrative staff are seated at a long conference table. Among them are DR. RAYMOND TURNER, mid-40's, REBECCA PAYNE, Hope Memorial Hospital's Administrative Supervisor, and Dr. Marjorie Klein.
+dialog: PAYNE
+dialog: The father works part-time. Mother's a cashier in a supermarket.
+dialog: DR. KLEIN
+dialog: how's the family's insurance?
+dialog: She shakes her head - "we've got a problem." Payne sees J.Q. and Denise enter and she is immediately on her feet.
+dialog: PAYNE
+dialog: Ah, Mr. and Mrs. Archibald. Rebecca Payne, hospital director. This is Doctor Turner, head of our cardiology department.
+dialog: J.Q.
+dialog: How's our boy doing?
+dialog: PAYNE
+dialog: Please sit down.
+text: John and Denise sit, and the lights are dimmed. Dr. Turner approaches an illuminated display of X-rays. He uses a pointer to clarify.
+dialog: DR. TURNER
+dialog: This X-ray is that of a normal, nine year old heart. This one is your son's.
+dialog: John Q. and Denise stare nervously at the fleshy fist-sized organs on the translucent glass.
+speaker_heading: DR. TURNER (CONT'D)
+dialog: There are septal defects here, here, and here, which have induced a myopathy resulting pulmonary edema, and malignant ventricular ectopy. As you can see, Mike's heart is approximately three times normal size.
+dialog: He points to Mike's heart, huge in comparison.
+dialog: J.Q.
+dialog: I'm sorry. I don't understand. Could you pout that in layman's terms?
+dialog: DR. TURNER
+dialog: Of course. Basically, there's not enough blood being pumped by the heart, so it backs up in the lungs. Sort of like a sponge getting wet. Mike's heart is trying, but I'm afraid it's working too hard.
+dialog: J.Q.
+dialog: So what's he need? An operation?
+dialog: Turner gathers himself, takes off his glasses.
+dialog: DR. TURNER
+dialog: I'm afraid we're considerably beyond the point of corrective surgery, Mr. and Mrs. Archibald. Your son's heart is useless. He is going to need a transplant.
+dialog: The room goes silent.
+dialog: DENISE
+dialog: He's nine.
+dialog: PAYNE
+dialog: Wait a second. There are other options.
+dialog: J.Q.
+dialog: What options?
+dialog: PAYNE
+dialog: To do nothing. Medicate him. Keep him as comfortable as possible. You need to start thinking about quality of life now.
+dialog: DENISE
+dialog: I don't understand. We were just with him. He seemed fine.
+dialog: DR. TURNER
+dialog: He's going to seem fine. But as his heart gets worse, he will become increasingly fatigued, need more and more sleep, until one day, he'll go to sleep and he won't wake up.
+dialog: PAYNE
+dialog: I know it's difficult, but you must face the fact that your son may not have much time left. You might want to make it a happy time. Say goodbye.
+dialog: DENISE
+dialog: Oh my God.
+dialog: PAYNE
+dialog: And transplantation is a high risk operation. You could lose your son on the table. You may not want to take that chance.
+dialog: J.Q.
+dialog: What do you think, Dr. Turner?
+dialog: DR. TURNER
+dialog: This isn't my decision.
+dialog: J.Q.
+dialog: I know that. I'm asking for your opinion. Without surgery, how long does he have?
+dialog: DR. TURNER
+dialog: Not long. Months. Weeks. Days.
+text: This is too much for Denise. She breaks into tears. John puts his arms around her, steadies her, gathers his thoughts.
+dialog: J.Q.
+dialog: What would you do if it was your son?
+dialog: PAYNE
+dialog: Mr. Archibald...
+dialog: J.Q.
+dialog: Not you. Him.
+dialog: DR. TURNER
+dialog: I'd do the transplant. Absolutely.
+dialog: J.Q. looks at Denise, who nods.
+dialog: J.Q.
+dialog: Okay. Let's do it.
+dialog: DR. TURNER
+dialog: The first step is to get Mike's name on an organ recipient list. Once he does, his chances are very good. Your son's an extremely rare type so there's less demand. With B-positive blood, Mike could go to the top of the list right away.
+dialog: PAYNE
+dialog: It's not that simple. There are other considerations before a prospective recipient is placed on the donor list, Mr. Archibald. The cost of transplant surgery is expensive. In most cases, prohibitively so.
+dialog: J.Q.
+dialog: I've got major medical. Don't worry, I'm covered.
+dialog: PAYNE
+dialog: Actually, we've already checked with your carrier. There's no provision in your policy for a procedure of this magnitude.
+dialog: J.Q.
+dialog: There must be some kind of mistake. My son is covered. I've got full medical. He's covered.
+dialog: PAYNE
+dialog: What about you, Mrs. Archibald? Do you have coverage?
+dialog: DENISE
+dialog: No. I've only been working at the market a short time. You need to be there two years before you get benefits.
+dialog: Payne flips through the Archibald family file.
+dialog: PAYNE
+dialog: I see that you don't own your own home. No investments, stocks, bonds. And you have a little over one thousand in savings.
+dialog: J.Q.
+dialog: Did you hear what I said? I'm telling you, I'm insured.
+dialog: PAYNE
+dialog: That may very well be, but you'll have to check with your carrier on that. In the meantime, I'm afraid we're going to have to treat you as a cash account.
+dialog: DENISE
+dialog: How much does a transplant cost?
+dialog: PAYNE
+dialog: Transplant surgery, doctor fees, post operative treatment and immunosuppressant drugs, you're looking at two-hundred and fifty-thousand dollars minimum.
+dialog: J.Q.
+dialog: What are you saying? If I don't come up with a quarter million dollars you're not going to treat my son?
+dialog: PAYNE
+dialog: We have treated him. We continue to treat him. Now I understand how upset you are, sir. But with other options available, we are not obligated to cover a procedure this costly. If you opt for replacement surgery, that's your choice. But the hospital maintains a very strict policy with respect to cash patients. We require a down payment before the patient's name can be placed on the receiver list.
+dialog: DENISE
+dialog: What kind of down payment?
+dialog: PAYNE
+dialog: Thirty percent. Seventy-five thousand.
+dialog: J.Q. Seventy-five thousand dollars to put my kid's name on a list?
+dialog: DENISE
+dialog: Our son is upstairs dying and all you can talk about is money?
+dialog: PAYNE
+dialog: Yes, it takes money to provide health service. It's expensive for you and for us. My job is to keep this program alive. For everyone. Now, I'm sorry, but we need you to guarantee payment before we can place your son's name on the list.
+scene_heading: INT. HALLWAY - CARDIO-THORACIC DEPT. - DAY
+dialog: J.Q. and Denise move down the hallway towards the elevators.
+speaker_heading: DR. KLEIN (O.S.)
+dialog: Mr. and Mrs. Archibald?
+dialog: They turn.
+dialog: J.Q.
+dialog: You don't want to treat my kid? Fine. I'll take him over to County Memorial.
+dialog: DR. KLEIN
+dialog: Trust me. You don't want to do that.
+dialog: J.Q.
+dialog: I don't, huh? Watch me. It's a county hospital. They have to treat him.
+dialog: DR. KLEIN
+dialog: No they don't. Transplantation is always considered an elective procedure. This hospital's politics are particularly infuriating, but you're in the right place. Believe me. You want Dr. Turner. His bedside manner is terrible, but he's one of the foremost surgeons in the country.
+dialog: J.Q.
+dialog: What do you want us to do? You heard Payne. We're a cash account.
+dialog: DR. KLEIN
+dialog: I know it's outrageous, but don't give up. Talk to your insurance company. Check with our Human Resources Department for medical assistance, State Children's Services, Medicaid. Just don't take no for an answer.
+scene_heading: INT. NEIMAN MACHINERY PLANT - EMPLOYEE SERVICE OFFICE - DAY
+dialog: John sits in a cubicle across from his employer's insurance representative.
+speaker_heading: INSURANCE REP.
+dialog: You coverage has changed, Mr. Archibald.
+dialog: J.Q.
+dialog: Changed?
+speaker_heading: INSURANCE REP.
+dialog: We've recently switched carriers from a PPO to an HMO. It's a less expensive policy, but unfortunately it has some restrictions.
+dialog: J.Q.
+dialog: What kind of restrictions?
+speaker_heading: INSURANCE REP.
+dialog: This is how it works. Non-management, part-time employees such as yourself only qualify for second tier catastrophic coverage.
+dialog: J.Q.
+dialog: But I'm not part-time. I'm a full-time employee. It's just slow right now.
+speaker_heading: INSURANCE REP.
+dialog: Sure. But your coverage is based on house worked. Like I said, you only qualify for second tier, and that has a maximum payout limit of twenty-thousand dollars.
+dialog: J.Q.
+dialog: Wait a minute. I've been paying for my coverage for years. You take it out of my paycheck every week.
+speaker_heading: INSURANCE REP.
+dialog: And that's why we're going to cover you for the full twenty.
+dialog: J.Q.
+dialog: Let me get this straight. You drop me from full-time to part-time, switch carriers, and now you're telling me I'm not fully covered even though I have a policy that says I am.
+speaker_heading: INSURANCE REP.
+dialog: Doesn't seem right, does it?
+dialog: J.Q.
+dialog: No, sir. It doesn't. My son is very sick. If I'm not covered, I've got a serious problem.
+speaker_heading: INSURANCE REP.
+dialog: I understand that, but there's nothing I can do. You might want to try State Services. Either that, or you can file an appeal.
+dialog: J.Q.
+dialog: Yeah?
+dialog: The insurance rep pushes a stack of papers towards J.Q.
+speaker_heading: INSURANCE REP.
+dialog: Here are the forms. It'll take about seven working days.
+dialog: INT. STATE SERVICES - DAY
+text: J.Q. and Denise at a window counter, talking to a STATE EMPLOYEE, who only knows what's on the computer screen in front of her.
+dialog: STATE REP
+dialog: Says here you already have medical insurance.
+dialog: J.Q.
+dialog: Not enough.
+dialog: DENISE
+dialog: What little we have is already used up.
+dialog: STATE REP
+dialog: I understand that. But then you don't qualify. We only give assistance to patients without coverage. Are you on Welfare?
+dialog: J.Q.
+dialog: No.
+dialog: STATE REP
+dialog: You should be on Welfare.
+dialog: DENISE
+dialog: Welfare? We both have jobs.
+dialog: STATE REP
+dialog: Oh, that's too bad. Sorry, I can't help you. Try MA.
+dialog: INT. COUNTY MEDICAL ASSISTANCE - DAY
+dialog: A county worker flips through J.Q.'s paperwork.
+dialog: COUNTY EMPLOYEE
+dialog: It says here your son's condition is congenital.
+dialog: J.Q.
+dialog: Yeah?
+dialog: COUNTY EMPLOYEE
+dialog: Not congenitive.
+dialog: J.Q.
+dialog: So what? What's the difference?
+dialog: COUNTY EMPLOYEE
+dialog: Big difference. It means it's a pre existing condition, one your son was born with. A birth defect. Obviously, it pre-dates your coverage. Otherwise we could help.
+dialog: J.Q.
+dialog: That's impossible. He's had clean check ups every year.
+dialog: COUNTY EMPLOYEE
+dialog: I don't know what to tell you. It's right here in the report. Have you tried Medicaid?
+dialog: INT. MEDICAID OFFICES - DAY
+dialog: Another state run facility. Another employee. Another excuse.
+speaker_heading: MEDICAID OFFICER
+dialog: No.
+dialog: J.Q.
+dialog: No, what?
+speaker_heading: MEDICAID OFFICER
+dialog: You don't qualify.
+dialog: J.Q.
+dialog: Don't qualify? I've got a kid who's dying and I'm broke. If I don't qualify, who does?
+speaker_heading: MEDICAID OFFICER
+dialog: Lower your voice, sir.
+dialog: J.Q.
+dialog: I mean, what do you guys do, anyway? Why does this service even exist?
+speaker_heading: MEDICAID OFFICER
+dialog: I'm sorry.
+dialog: J.Q.
+dialog: I don't need you to be sorry. I need some help.
+scene_heading: INT. COMPUTER ROOM - SOMEWHERE IN AMERICA - NIGHT
+text: We see more of the list this time. Boldfaced columns appear: HOSPITAL/CENTER, CROSS MATCH, WEIGHT RANGE, BLOOD TYPE.
+dialog: Vernell Tilson, Des Moines, Metropolitan Hospital, Entry Date: Feb. 5, 215-240 lbs. Type "O". Status 2. Arthur Friedlander, Jefferson City, St. Joseph's Medical Center, Entry Date: April 30, 160-175 lbs. Type "O". Status 2. Mike Archibald...
+scene_heading: INT. HOPE MEMORIAL HOSPITAL - ELEVATOR - DAY
+dialog: John Q. takes the trip down with Rebecca Payne.
+dialog: PAYNE
+dialog: No, no, no. You filed an appeal? An appeal is for an already existing claim. What you needed to file was a grievance. You'll have to resubmit. But that could take up to thirty days.
+dialog: J.Q.
+dialog: I don't have thirty days.
+dialog: PAYNE
+dialog: I know that.
+dialog: J.Q.
+dialog: And, frankly, I'm tired of getting the runaround. I need my son's name on that list.
+dialog: PAYNE
+dialog: Mr. Archibald, your hospital bill is in excess of thirty thousand dollars. So far, we haven't received any kind of payment. We have bent over backward to help you.
+dialog: J.Q.
+dialog: Oh, is that right?
+dialog: PAYNE
+dialog: Yes, sir, that is right. But there is a limit to this hospital's generosity. Once and for all, you are not covered by insurance. We will need to guarantee payment.
+dialog: J.Q.
+dialog: You want money? Alright, I'll get you your money.
+dialog: INT. ARCHIBALD HOUSE - DAY
+text: John selling everything. Television, washer, dryer, sofa. Strangers walk through the house and make offers. Jimmy Palumbo shakes his head.
+dialog: JIMMY
+dialog: You know what you should do? You should try that newsguy that does all those special investigative reports. You know the one. The guy with the hair.
+dialog: J.Q.
+dialog: Yeah, yeah.
+dialog: JIMMY
+dialog: The trouble shooter. Channel eight. What's his name?
+dialog: A woman offers twenty dollars for the coffee table. J.Q. takes it, pocketing the money.
+speaker_heading: JIMMY (CONT'D)
+dialog: Lampley. Tuck Lampley.
+scene_heading: INT. MAKE-UP ROOM - STUDIO CHANNEL 8 - DAY
+text: TUCK LAMPLEY, 38, with plastic hair, sits at his desk, his lunch spread all over the table.
+dialog: LAMPLEY
+dialog: Tuck Lampley. Hope you don't mind if I eat while we talk. I'm up to here today, you know? Go, go, go.
+dialog: J.Q.
+dialog: No, that's fine. Thanks for seeing us.
+dialog: LAMPLEY
+dialog: So, what can I do you for?
+dialog: J.Q.
+dialog: My son, Mike, went into heart failure playing in his little league game. I have full insurance through my work, but now they're saying they don't have to pay.
+dialog: LAMPLEY
+dialog: Why not?
+dialog: JIMMY
+dialog: Lots of reasons. He don't even understand half of them.
+dialog: LAMPLEY
+dialog: What about the hospital?
+dialog: J.Q.
+dialog: Hope Memorial Hospital.
+dialog: LAMPLEY
+dialog: Yeah, Hope Memorial. Don't they have to cover it?
+dialog: JIMMY
+dialog: Right, right? That's what I thought.
+dialog: J.Q.
+dialog: No. The hospital says I have to pay cash. Otherwise the only thing I can do is bring Mike home and watch him die.
+dialog: LAMPLEY
+dialog: Jesus.
+dialog: J.Q.
+dialog: Yeah.
+dialog: Lampley is already working on the story in his head, putting all the pieces in the right place.
+dialog: LAMPLEY
+dialog: Bureaucracy of the medical establishment, American family caught in the middle.
+dialog: JIMMY
+dialog: Right. Big guy versus little guy. We were thinking you could do one of them special interest pieces, you know? Send donations, write your congressman. That kind of thing.
+dialog: J.Q.
+dialog: Anything would help.
+dialog: LAMPLEY
+dialog: What they've done to your son is outrageous, and I want to help. But I've got to run it by my producers. I've got bosses, just like anyone else. So, leave me your phone number, and I'll get back to you.
+dialog: EXT. ARCHIBALD HOUSE - DAY
+dialog: The fire sale continues. The Archibald refrigerator is carried out the front door.
+dialog: EXT. ALL SAINTS CHURCH - DAY
+dialog: After Sunday services, The pastor hands John and envelope of collection money, and the congregation wishes him luck.
+dialog: INT. MIKE'S ICU ROOM - NIGHT
+text: Mike is sitting up in bed. He's pale, but he's in a good mood, joking around with his he-man poses. John and Denise react to something funny he says, and the three of them are laughing. John looks at the monitor. It now reads 86.
+dialog: INT. DINER - DAY
+dialog: John, Jimmy and Gina go door to door, soliciting donations.
+dialog: INT. MIKE'S ICU ROOM - NIGHT
+text: J.Q. reads to Mike from a book. Mike's eyes close and John smiles as he falls asleep. As John closes the book, something catches his eye. At the far end of the ICU, a man in a coal black suit stands over a boy in a hospital bed. He is the HOSPITAL CHAPLAIN, and he is performing last rites. The boy's distraught parents hang on to each other for comfort. The chaplain kisses the crucifix, touches it to the boy's forehead, and begins to pray.
+text: John and Denise exchange a look. The chaplain whispers incantations and he makes the sign of the cross over the dying child. Plink. John and Denise turn. The monitor now reads 84.
+dialog: INT. ILLINOIS TRUST - DAY
+dialog: John and Denise are refused for a loan.
+dialog: INT. ROYAL GOLD & JEWELRY - DAY
+text: Tight on a diamond ring through a lapidary's eyeglass. There are two gold wedding rings on the counter. The jeweler nods his head, and John takes the cash.
+dialog: INT. MIKE'S ICU ROOM - NIGHT
+text: Mike, oxygen tubes in his nostrils, is fast asleep, the monitors chirping quietly. Denise sits by Mike's bed, hands clasped and head bowed, praying hard. John Q. walks in, catches the anxiety on her face, before seeing the cause. The monitor now reads 80.
+dialog: EXT. ARCHIBALD HOUSE - DAY
+text: John selling the truck. A prospective buyer inspects as J.Q. waits. He'll take it. J.Q. takes the money, drops the keys in the buyer's hand, and watches his truck drive away.
+text: From inside the house, the phone rings. J.Q. hurries inside to get it.
+dialog: INT. ARCHIBALD HOUSE - DAY
+dialog: INTERCUT
+text: It's empty. Furniture, appliances, everything's gone. Just a few boxes. John picks up the ringing phone.
+dialog: J.Q.
+dialog: Hey, sweetheart. How's Mike?
+dialog: DENISE
+dialog: They're releasing him.
+dialog: J.Q.
+dialog: What?
+dialog: DENISE
+dialog: Dr. Turner just left. They're sending Mike home in the morning.
+dialog: J.Q.
+dialog: What are you talking about? They can't just send him home. I gave them money yesterday.
+dialog: DENISE
+dialog: It doesn't matter. They're releasing him.
+dialog: J.Q.
+dialog: But I spoke to the hospital. I took care of...
+dialog: DENISE
+dialog: Yeah, you always take care of it. But it's never enough, is it? You need to do something, John. Do you hear me? Do something.
+scene_heading: INT. ARCHIBALD HOUSE - MIKE'S BEDROOM - DAY
+text: John stands in Mike's bedroom, looking at his son's things. Each thing with a memory. The pictures. The toys. The body builder posters. He picks up a photo of John, Denise, and a seven-year old Mike clowning around. Better days.
+dialog: PUSH IN ON
+dialog: J.Q.'s face, thinking, thinking.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - MORNING
+text: J.Q. steps off a city bus carrying a gym bag. Windbreaker buttoned, baseball cap pulled down tight, he moves with purpose toward the hospital.
+dialog: INT. EMERGENCY WAITING ROOM - MORNING
+dialog: The broken, battered and bloodied sit on chairs waiting to be seen.
+text: A BABY BOY wails in the arms of his Hispanic mother, ROSA. MIRIAM, 28, hugely pregnant, sits next to her husband, STEVE, a contractor, dressed in paint-stained coveralls. LESTER, 23, a blood-soaked towel wrapped around his hand.
+text: MITCH, 30's, black jeans, shades, and a huge hangover, sits with his arm around his girlfriend, JULIE, a platinum bombshell. She's hurting. Her face is cut, her eyes swollen. DEBBY UTLEY, a young, sensitive nurse sits behind the admitting desk.
+dialog: MITCH
+dialog: What's going on? Are we going to get seen or what?
+dialog: DEBBY
+dialog: The doctor will be with you shortly, sir.
+dialog: MITCH Shortly? Shortly we could all be dead. We've been waiting damn near an hour.
+text: The electric doors slide open and J.Q. enters and looks around before moving quickly through and disappearing into the main hospital entrance.
+scene_heading: INT. HOPE MEMORIAL HOSPITAL - CORRIDORS - MORNING
+text: J.Q. moves through the corridors intently, a man on a mission. Dr. Turner escorts a wheelchair to the hospital exit. In a wheelchair is a middle-aged man, dressed in designer casuals, a Rolex wrapped around his wrist. His name is CARROLL SHELBY, and he is a transplant patient. One of the lucky recipients. His elegantly dressed WIFE walks alongside.
+dialog: DR. TURNER
+dialog: You're doing great, Carroll. You've already gained back five pounds. I think you're the only patient I have who actually eats the food here.
+speaker_heading: SHELBY'S WIFE
+dialog: Thanks for everything, doctor.
+dialog: J.Q. approaches the group. His face reveals nothing.
+dialog: DR. TURNER
+dialog: Hello, John. This is Mr. Archibald. His son's a patient of mine.
+speaker_heading: SHELBY'S WIFE
+dialog: Well, you're certainly in good hands.
+dialog: J.Q. forces a smile. The Shelbys say goodbye before leaving.
+dialog: J.Q.
+dialog: Denise said you're letting Mike go home.
+dialog: DR. TURNER
+dialog: Mr. Archibald, I'm a physician. I don't make policy decisions. That's handled by the board of trustees.
+dialog: J.Q.
+dialog: You're head of Cardiac Surgery, Doctor. You're telling me a person in your position makes a recommendation, no one's going to listen?
+dialog: DR. TURNER
+dialog: I make recommendations all the time. The final decision rests with the board. Not me.
+dialog: J.Q. wags a Hope Memorial brochure at Turner.
+dialog: J.Q.
+dialog: You and your staff did over three hundred operations last year. It's right here on page 4 of the hospital brochure. Nice color pictures, happy faces. Three hundred plus surgeries at a quarter million a pop. That's seventy five million dollars your department took in. Couldn't you do just one on good faith?
+dialog: DR. TURNER
+dialog: Please take your hands off me.
+dialog: J.Q.
+dialog: I'm not asking for charity, Doc. I'll pay. I don't know how, but I swear to God, if it takes me the rest of my life, I will. You have my word as a man.
+dialog: DR. TURNER
+dialog: I'm sorry. I tried to help. But it's out of my hands.
+text: Something in J.Q. snaps. Heart pounding, he pushes Turner through a pair of heavy metal doors and into the Emergency Room.
+dialog: INT. EMERGENCY ROOM - MORNING
+text: J.Q. shoves Turner inside, pulls out a Baretta .9mm, points it at Turner's head.
+dialog: J.Q.
+dialog: I'm not asking anymore, Doctor. I'm telling. Now I want a new heart for my kid. You understand?
+text: J.Q. drops the gym bag on the floor, unzips it, pulls out a length of heavy chain. Quickly, he wraps the chain around the power bar, threads a lock and clamps it shut. Turner marches over to a phone and picks it up. J.Q. sticks the weapon in his face.
+dialog: J.Q. (CONT'D)
+dialog: Don't even think about it.
+dialog: Turner hangs up the phone.
+dialog: SECURITY GUARD
+dialog: Hey, what are you doing?
+dialog: J.Q. sees the stocky SECURITY GUARD, trains the gun on him.
+dialog: J.Q.
+dialog: Hands over your head. Do it.
+dialog: The security guard nervously raises his hands above his head. This part wasn't covered in his training manual.
+dialog: J.Q. (CONT'D)
+dialog: Give me your gun.
+dialog: SECURITY GUARD
+dialog: I, uh, don't have a gun.
+dialog: J.Q. reacts awkwardly, wasn't expecting this response.
+dialog: J.Q.
+dialog: Okay. Then sit down. And stay down.
+dialog: The guard obediently drops into a chair.
+dialog: DR. TURNER
+dialog: Mr. Archibald, I understand how upset you are, but this is not the right way to handle it.
+dialog: J.Q.
+dialog: I tried your way, Doc. It didn't work. Now we're going to try it my way.
+text: In one of the treatment rooms, Dr. Marjorie Klein and Leo Maguire attend to a man in motorcycle leathers with a bloodied head wound. They watch J.Q. lock the ambulance entrance.
+dialog: DR. KLEIN
+dialog: Mr. Archibald. What are you doing?
+dialog: J.Q.
+dialog: I took your advice, Doctor. I'm not taking no for an answer.
+text: Several patients and medical personnel see the gun and bolt out the front door. With Turner still in tow, J.Q. hurries to the ER entrance, pulls more chains from his gym bag and secures both doors. Turning back, he sees Lester at the admitting desk arguing with Debby Utley. A clipboard with medical information forms sits in front of him.
+dialog: J.Q. (CONT'D)
+dialog: What's going on here?
+dialog: Lester removes the blood soaked towel. The tips of three fingers have been severed from his right hand.
+dialog: LESTER
+dialog: They want me to sign.
+dialog: The pen. The hand. It's not going to work.
+dialog: DR. TURNER
+dialog: Mr. Archibald, these people have nothing to do with this. You have got to let them go. They need treatment.
+dialog: J.Q.
+dialog: This is a hospital, isn't it? You're a doctor. Treat them.
+dialog: J.Q. points to Lester.
+dialog: J.Q. (CONT'D)
+dialog: Start with him.
+dialog: Turner stands frozen.
+dialog: J.Q. (CONT'D)
+dialog: What's the matter, Doc? You want to see his insurance card first?
+text: J.Q. stands on a table addressing the room. A madman with a gun.
+dialog: J.Q. (CONT'D)
+dialog: This hospital is under new management, ladies and gentlemen. From now on, free care for everyone.
+dialog: Various reactions from the people in the room.
+dialog: LESTER
+dialog: Far out.
+dialog: J.Q. points to the security guard.
+dialog: J.Q.
+dialog: You. Come with me.
+dialog: J.Q. leads the security guard to the elevators.
+dialog: J.Q. (CONT'D)
+dialog: Kill the power.
+dialog: SECURITY GUARD
+dialog: I don't have a key for that.
+dialog: J.Q.
+dialog: You've got the keys to the city. Now do it.
+text: Decision time. Finally the guard inserts an Allen wrench into the lock and kills the power. J.Q. takes a crowbar from his bag and jimmies the elevator control box, busting fuses and yanking wires. The elevator looks sick. It's not going anywhere.
+text: J.Q. looks around and sees a snake-eye security camera bolted to the ceiling.
+scene_heading: INT. HOPE MEMORIAL HOSPITAL - SECURITY DESK - DAY
+text: A skinny, pimple-faced KID with a big chrome badge sits in front of a dozen closed circuit monitors. On one, a man in a baseball cap is now bashing the camera with a crowbar. Ssss! A blizzard of white snow crackles on the monitor. Confused, the pimply faced kid picks up the phone.
+dialog: PIMPLY FACED SECURITY GUARD
+dialog: Uh. This is the security desk at Hope Memorial Hospital. I think you guys better get down here. We may have a situation.
+dialog: INT. EMERGENCY ROOM - DAY
+text: J.Q. paces next to the windows, sizing up the room. Nearby, the Hispanic baby wails.
+dialog: J.Q.
+dialog: Everybody does exactly what I say and nobody gets hurt.
+dialog: He looks around the room, everybody battered, bloodied, and bruised.
+dialog: J.Q. (CONT'D)
+dialog: ...more hurt.
+dialog: INT. CONTROL ROOM - CHANNEL 8 - DAY
+text: FREDDY B., a superbright techie-geek, pokes his head into an office where Tuck Lampley is having a meeting with his BOSSES.
+speaker_heading: FREDDY B.
+dialog: This just came in over the police radio. Someone is holding Hope Memorial hostage.
+dialog: Realizing, Lampley stares at the TV executives.
+dialog: TV EXEC
+dialog: Hope Memorial Hospital? Isn't that...?
+dialog: Lampley is already up and on the move.
+dialog: LAMPLEY
+dialog: Is it a good enough story for you now, George?
+speaker_heading: FREDDY B.
+dialog: Do you think it's that guy with the kid, boss?
+dialog: LAMPLEY
+dialog: What do you think?
+dialog: INT. EMERGENCY ROOM - DAY
+dialog: Maguire leads Lester back to the treatment area. Lester hands him a baggie filled with three-severed fingertips.
+dialog: LESTER Don't lose my fingers, man. Had them fingers my whole life.
+dialog: MITCH
+dialog: (under breath; to Julie)
+dialog: We were here before that guy.
+dialog: J.Q.
+dialog: You'll get your turn. Nobody's going anywhere for a while.
+text: J.Q. glances at the admitting desk and sees the chair move. He lifts his weapon and moves towards it. He jumps around the corner of the desk to find Debby Utley underneath, scared to death.
+dialog: J.Q. (CONT'D)
+dialog: I'm going to have to ask you to join the others, Miss.
+text: The sound of a screaming baby is cutting through the room like nails on a blackboard. J.Q. approaches Rosa, who clutches her child defensively.
+dialog: J.Q. (CONT'D)
+dialog: What's the problem?
+dialog: Rosa shakes her head. She doesn't speak much English.
+dialog: ROSA
+dialog: Yo no se que pasa. El llora por toda la noche.
+dialog: J.Q.
+dialog: Yo pienso que tiene dolor en su oreja.
+dialog: ROSA
+dialog: Si? En su oido?
+dialog: J.Q.
+dialog: Porque lo toca. Mira.
+dialog: The baby's tiny fingers reach for his ear. J.Q. singles out Debby Utley.
+dialog: J.Q. (CONT'D)
+dialog: This kid's got an ear infection. You.
+text: With J.Q.'s finger pointed at her, Debby falls apart, bursting into tears.
+dialog: DEBBY
+dialog: I can't.
+dialog: J.Q.
+dialog: Why not?
+dialog: DEBBY
+dialog: I don't know anything. It's my first.
+dialog: J.Q. gives her a look. "Oh, Jesus."
+dialog: MAGUIRE
+dialog: I got it. Give him this.
+dialog: Maguire hands a bottle of gooey pink Amoxycillin to Debby.
+dialog: MITCH
+dialog: Unbelievable. This place is a joke. Good think I'm not cut. I'd bleed to death in this joint. Am I right, my man?
+text: Mitch tries to engage J.Q. with a wink and a big flashy smile. J.Q. ignores him.
+dialog: MITCH (CONT'D)
+dialog: Excuse me? Hey, brother?
+dialog: Mitch. They crying baby. The tension. It's all getting to J.Q.
+dialog: MITCH (CONT'D)
+dialog: My girlfriend's in a lot of pain here. How much longer before she sees a doctor?
+dialog: Mitch gets up and tries to approach J.Q.
+dialog: J.Q. Sit down.
+dialog: MITCH
+dialog: That's cool. You and me ain't got no problems. You know what I'm saying? But do me a favor, huh? Baby's pretty banged up, and we've been waiting for hours.
+dialog: J.Q. I told you once already. Sit tight.
+dialog: MITCH
+dialog: That's what we've been doing.
+dialog: J.Q. shoots Mitch a look before moving to Miriam and Steve.
+dialog: J.Q.
+dialog: When is the baby due?
+dialog: MIRIAM
+dialog: Any minute.
+text: Oh, boy. J.Q. rubs his head. What else? CLANK. CLANK. The sound of the automatic doors banging against the chain is heard.
+dialog: J.Q.
+dialog: What's that?
+scene_heading: EXT. HOPE MEMORIAL HOSPITAL - ER ENTRANCE - DAY
+text: A red & white ambulance is parked outside. THREE PARAMEDICS are pushing against the locked doors, pounding on the glass. J.Q. runs from the treatment area, sees a body laying on a stretcher.
+dialog: PARAMEDIC #1
+dialog: Open up. Got a gunshot victim here. Lost a lot of blood.
+dialog: J.Q.
+dialog: Take him to another hospital.
+dialog: PARAMEDIC #2
+dialog: He won't make it. Come on. We're losing him. Open the door.
+dialog: J.Q.
+dialog: (to Maguire)
+dialog: You recognize these guys?
+dialog: MAGUIRE
+dialog: Yeah, they're here all the time.
+dialog: Paramedics #2 and #3 are wearing blue jackets, blue pants, cordovan, cushion-soled shoes. Paramedic #1 wears the same blue jacket and pants, but his shoes are black, with leather soles.
+dialog: J.Q.
+dialog: That one's a cop.
+dialog: MAGUIRE
+dialog: I was here when you brought in your son. Remember me? I shot straight with you then. I'm shooting straight with you now. I'm telling you, these guys are cool.
+text: J.Q. studies Maguire's eyes, measures his honesty, and then unchains the door and opens it, pointing the weapon. The paramedics see J.Q.'s gun and their hands go up.
+dialog: J.Q.
+dialog: You, open your coat.
+dialog: PARAMEDIC #1
+dialog: What?
+dialog: J.Q.
+dialog: You heard me. Take the coat off. Cop.
+dialog: Paramedic #1 takes off his coat. There's nothing underneath. He's not police.
+dialog: J.Q. (CONT'D)
+dialog: Alright, then. Leave the stretcher. Go. Beat it.
+text: The paramedics back away and take off. Maguire rolls the stretcher inside, and J.Q. re-locks the doors.
+dialog: MAN ON STRETCHER
+dialog: (name's STAWITZKY)
+dialog: I gave them all the money in the register. They shot me anyway.
+text: J.Q. peels back a corner of the blanket, looks for weapons, recoils at the sight of the man's blood. Maguire moves in, squeezes the man's wrist, takes his pulse.
+dialog: MAGUIRE
+dialog: We need to prep this man for immediate surgery. He's in boo-koo trouble. Doctor?
+dialog: DR. TURNER
+dialog: No, no. This is out of my department. I'm a heart surgeon. I'm not an emergency room physician.
+dialog: MAGUIRE
+dialog: You are now.
+dialog: J.Q.
+dialog: Come on, Doctor. It's like riding a bike. Pretend you're getting paid.
+dialog: Turner and J.Q. lock eyes.
+dialog: J.Q. (CONT'D)
+dialog: Do it.
+dialog: DR. TURNER
+dialog: Seventy-five milligrams Demerol IV Lidocaine, local. Two percent.
+text: Turner takes the man's pulse as they roll the stretcher towards the trauma room. J.Q. watches the anesthesia cup placed over the man's nose and he goes down for the count. Mitch fires a look at the stocky security guard.
+dialog: MITCH
+dialog: When I get out of here, I'm suing this hospital and your security company.
+dialog: Unseen by Mitch, J.Q. has moved behind him.
+dialog: J.Q.
+dialog: What makes you so sure you're getting out of here at all?
+text: Mitch sits back down. J.Q. leans against a wall, takes a breath. Suddenly, he hears the woop-woop of police sirens. He looks out the window and sees police cars storming the front of the hospital. The cavalry has arrived.
+dialog: J.Q. (CONT'D)
+dialog: Here we go.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - DAY
+text: The summer sun beats down as cop cars careen into the parking lot. Behind them, an unmarked Crown Victoria plows slowly through a growing crowd. LIEUTENANT FRANK GRIMES bails out before the car stops, smoothing out the wrinkles in his rumpled suit. He reacts with surprise when he sees veteran, on-the-spot news reporter, Tuck Lampley, already on the scene with his camera crew.
+dialog: GRIMES
+dialog: What are you doing here, Lampley? Shouldn't you be out exposing tragic miscarriages or justice or something?
+dialog: LAMPLEY
+dialog: Yeah, well, screw you, too.
+dialog: Grimes pushes past, but Lampley dogs him.
+speaker_heading: LAMPLEY (CONT'D)
+dialog: There's a rumor floating around, Frank. Some guy's holding the hospital hostage. Needs an operation for his kid. Any truth to it?
+dialog: GRIMES
+dialog: You know more than I do.
+dialog: LAMPLEY
+dialog: You're full of shit.
+dialog: GRIMES
+dialog: Hey, then we're even. I never believe a word you guys say either.
+dialog: LAMPLEY
+dialog: This is big, isn't it, Frank? I can feel it. Come on, what do you got?
+dialog: GRIMES
+dialog: Zip. Nothing. Read my lips. I just got here. But I promise, as soon as I know anything, you'll be the last to know.
+dialog: LAMPLEY
+dialog: Hey, Grimes. You're a real horse's ass. You know that?
+dialog: GRIMES
+dialog: Yeah, well...
+text: Grimes chuckles as he moves past the police barricade, sizing up his territory. He runs into swat team SERGEANT TIM MOODY, already on the scene. Moody's accompanied by the pimply faced security guard who phoned it in.
+dialog: MOODY
+dialog: This guy's in for the long haul, Lieutenant. He locked down the ER, barricaded himself inside, killed the power on the elevators. We could bust down the door, but the sonofabitch might start killing everybody.
+dialog: GRIMES
+dialog: Any other way in?
+dialog: MOODY
+dialog: I'm working on it.
+dialog: GRIMES
+dialog: How many hostages?
+dialog: MOODY
+dialog: Security guard here said there could be anywhere from ten to twenty.
+dialog: GRIMES
+dialog: Any security cameras?
+dialog: PIMPLY FACED SECURITY GUARD
+dialog: The guy took out the one in the ER, sir. But the hospital has two covert pinpoints hidden inside the treatment facility.
+dialog: GRIMES
+dialog: Pinpoint cameras? I don't understand.
+dialog: PIMPLY FACED SECURITY GUARD
+dialog: The hospital's own private security. Every hospital has them, in case a mental patient goes crazy or an employee starts stealing pharmaceuticals.
+dialog: MOODY
+dialog: They're hidden in the walls throughout the hospital. There's two inside the ER area.
+dialog: GRIMES
+dialog: Can we get them?
+dialog: MOODY
+dialog: We're setting up a video tap right now. Should be up and running in a few minutes.
+dialog: Grimes looks at the pimply-faced kid.
+dialog: GRIMES
+dialog: Are you in charge of security?
+dialog: PIMPLY FACED SECURITY GUARD
+dialog: No, sir. That'd be Wally Pitoniak. He's at home. It's his day off.
+dialog: GRIMES
+dialog: Not anymore it ain't. Get him down here.
+dialog: (to Moody)
+dialog: I need to make contact with this guy. Can you get me a secure line?
+dialog: PIMPLY FACED SECURITY GUARD
+dialog: Lieutenant? One of our guys is on the inside. He's got a walkie-talk. You might want to give this a shot.
+dialog: The kid hands Grimes his walkie-talkie.
+dialog: GRIMES
+dialog: Alright, but put a clamp on all phone lines to the Emergency Room. If he picks up the phone, I want him talking to me.
+dialog: MOODY
+dialog: Got it.
+dialog: Grimes looks around, sees more news vans arriving.
+dialog: GRIMES
+dialog: And keep the media on a need to know basis. Until I say so, the press doesn't need to know nothing. Now who's in charge of this hospital?
+dialog: PIMPLY FACED SECURITY GUARD
+dialog: Rebecca Payne, sir. She's off today, too.
+dialog: GRIMES
+dialog: Jesus Christ. Does anyone work at this hospital?
+dialog: PIMPLY FACED SECURITY GUARD
+dialog: It's Saturday.
+dialog: GRIMES
+dialog: So what? People get sick on Saturday, don't they?
+dialog: INT. EMERGENCY ROOM - DAY
+text: J.Q. watches the police build-up outside. Rosa is holding her baby, who is quieter now, not crying.
+dialog: J.Q.
+dialog: How old is he? Cuantos anos?
+dialog: ROSA
+dialog: Ocho meses. Eight month.
+dialog: J.Q. nods. Memories.
+dialog: J.Q.
+dialog: Eight months. Great age.
+dialog: Dr. Klein approaches J.Q. with Miriam.
+dialog: DR. KLEIN
+dialog: I'll need to do an internal examination on this woman.
+dialog: J.Q.
+dialog: Go.
+dialog: J.Q. sees Steve, the woman's husband, picking at his fingernails, anxious.
+dialog: J.Q. (CONT'D)
+dialog: Why'd you come to an ER? Why not go right to Maternity?
+dialog: STEVE
+dialog: Miriam went into labor early. Her water broke, we called our doctor, got the service.
+dialog: MITCH
+dialog: Excuse me, but I think my fiancee broke her arm. Could somebody take a look at her, please?
+dialog: J.Q. moves over to Julie, regards her black eye, her swollen face.
+dialog: MITCH (CONT'D)
+dialog: She's fine, ain't she? All that and twenty-two years old. Little slice of heaven. Must be doing something right, am I right?
+dialog: J.Q. looks at Mitch. Is this guy for real?
+dialog: J.Q.
+dialog: (to Julie)
+dialog: What's your story?
+dialog: MITCH
+dialog: Car accident. What does it look like?
+dialog: J.Q.
+dialog: I was talking to her.
+speaker_heading: JULIE
+dialog: A drunk ran a red light and slammed into us. It was an accident.
+dialog: A muffled voice suddenly squawks on the security guard's walkie-talkie.
+speaker_heading: GRIMES (O.S.)
+dialog: Hello? Hello? Anyone there?
+dialog: J.Q. grabs the guard's walkie-talkie, presses TALK.
+dialog: J.Q.
+dialog: Yeah.
+scene_heading: EXT. HOPE MEMORIAL HOSPITAL - COMMAND POST - DAY
+dialog: INTERCUT
+text: The police have cordoned off a section of the parking lot and transformed it into a command post. Police personnel invade the area. Tables, phones, and monitors are being set up.
+dialog: GRIMES
+dialog: This is Lieutenant Frank Grimes of the Chicago Police Department. Are you the man in charge?
+dialog: J.Q.
+dialog: That's right.
+dialog: GRIMES
+dialog: Who am I speaking to?
+dialog: J.Q. pauses.
+speaker_heading: GRIMES (CONT'D)
+dialog: Come on, my friend. We're going to be doing a lot of talking today. You don't have to give me your real name, but I've got to call you something.
+dialog: J.Q.
+dialog: Call me John Q.
+dialog: GRIMES
+dialog: Alright, John Q. Again, my name is Lieutenant Grimes. But I want you to call me Frank. Can you do that?
+dialog: J.Q.
+dialog: Sure, Frank.
+dialog: GRIMES
+dialog: I'm the hostage negotiator. I've been a cop for thirty-five years and this is all I do. I don't play games. And I don't fool around. So if I say something, you can take it to the bank. Now, let's get down to it. Is anybody hurt?
+dialog: J.Q.
+dialog: It's an Emergency Room, Frank. Everybody's hurt.
+dialog: Frank smiles. This guy's a comedian.
+dialog: J.Q. (CONT'D)
+dialog: They're fine.
+dialog: GRIMES
+dialog: Good. As long as it stays that way, we can keep talking.
+text: Grimes walks along the perimeter of the police barricade. A crowd of lookie-loos is starting to gather.
+speaker_heading: GRIMES (CONT'D)
+dialog: Murphy's Law, John. You picked the hottest day of the year. It's a hundred degrees out here. And I'm allergic to the heat. So let's wrap this up as quickly as possible. Now, what exactly is it you want?
+dialog: J.Q.
+dialog: Find Rebecca Payne, Hope Memorial's Administrative Supervisor. Tell her I want my kid's name on the donor list.
+dialog: GRIMES
+dialog: Kid? Boy or girl?
+dialog: J.Q.
+dialog: Boy.
+dialog: GRIMES
+dialog: How old? You know, I've got two boys. Two girls and two boys.
+dialog: J.Q.
+dialog: Don't handle me, Frank. I don't want to be handled. It insults my intelligence. If I don't get what I want, you're going to have a lot of dead bodies on your hands. You only need to remember two things. My kid and the donor list. You got that?
+dialog: GRIMES
+dialog: Take it easy, John. The idea's not to get too excited.
+dialog: J.Q.
+dialog: Mike's name goes on that list or there's going to be a blood bath in here.
+dialog: GRIMES
+dialog: Alright. I hear you loud and clear. Rebecca Payne, right? I'm writing it down. Lot of cops out here, John. Are you sure you want to go through with this?
+dialog: J.Q.
+dialog: I'm sure.
+dialog: GRIMES
+dialog: Alright. Sit tight. You're in a tough spot, John. A lot of trouble. But if you work with me, if you're reasonable, we'll figure a way out of this. We have to have a little faith in one another.
+dialog: J.Q.
+dialog: Why?
+dialog: GRIMES
+dialog: Why? Because that's what faith's all about. Believing when you don't want to believe. Besides, what else are you going to do?
+dialog: J.Q.
+scene_heading: Just tell Payne. Donor list. She'll understand. EXT. HOPE MEMORIAL HOSPITAL - COMMAND POST - DAY
+dialog: The line goes dead.
+dialog: GRIMES
+dialog: Alright, what the hell is a donor list?
+dialog: INT. EMERGENCY ROOM - DAY
+text: J.Q. paces the floor. It's slower now. Everyone just sitting around, waiting to see what will happen. Debby has pulled herself together for the time being. She calls out to John.
+dialog: DEBBY
+dialog: Mr. Q? Would you really do it?
+dialog: J.Q.
+dialog: What?
+dialog: DEBBY
+dialog: What you said about the bloodbath? Would you really shoot us?
+dialog: J.Q.
+dialog: I'll do what I have to do to help my kid.
+dialog: MITCH
+dialog: Aw, bullshit. He can't shoot us all. There's only eight bullets in that weapon.
+dialog: J.Q.
+dialog: First one's got your name on it, Mitch.
+text: Mitch mumbles and kicks his feet up, sparking a cigarette. J.Q. keeps pacing back and forth, and Steve is still picking them fingernails.
+dialog: J.Q. (CONT'D)
+dialog: First child?
+dialog: STEVE
+dialog: Yes, sir. You know how it is, kind of nervous.
+dialog: J.Q. nods, understands.
+dialog: J.Q.
+dialog: What are you hoping for? Boy or girl?
+dialog: STEVE
+dialog: Miriam wants a baby girl. Doesn't matter to me, as long as the baby's healthy.
+dialog: Steve stops short. Realizing his faux pas.
+dialog: STEVE (CONT'D)
+dialog: I'm sorry. I didn't meant --
+dialog: J.Q. shakes it off: "Not to worry." John notices Julie, her arm now in a sling, not broken.
+dialog: J.Q.
+dialog: Who was driving?
+dialog: (off Julie's look)
+dialog: The car.
+dialog: MITCH
+dialog: I was. What's that got to do with it?
+dialog: J.Q.
+dialog: How come she got all banged up and you didn't?
+dialog: MITCH
+dialog: What do you call this?
+text: Mitch pulls back his hair, shows off his wounds. Surface scratches on his arms and around his neck and face.
+dialog: LESTER
+dialog: Somebody get this man a band-aid.
+dialog: MITCH
+dialog: Shut up, smart ass. It hurts.
+speaker_heading: JULIE
+dialog: His airbag went off. Mine didn't.
+dialog: J.Q.
+dialog: What kind of car do you drive there, hot shot?
+dialog: MITCH
+dialog: Mercedes 500.
+dialog: J.Q.
+dialog: A Benz, huh?
+dialog: MITCH
+dialog: Sixteen valve. One point six liter. It does about a hundred and eighty in reverse.
+dialog: J.Q.
+dialog: Wow. Pretty snazzy. What year?
+dialog: MITCH
+dialog: 1986. It's a classic.
+dialog: The other hostages study J.Q. Where is he going with this?
+dialog: J.Q.
+dialog: Yeah, well, I've got news for you, Mitch. Mercedes didn't install passenger airbags until 1988.
+text: A long uncomfortable silence ensues as the group looks at Mitch, realizing the obvious. Busted.
+dialog: MITCH
+dialog: I was drunk. Alright?
+text: Tears stream down Julie's proud face, for the first time, Mitch is speechless. He looks like a car that won't start. Finally, he gets up and walks away.
+dialog: LESTER
+dialog: Well, well, well. My man, Mitch. Mister girlfriend beater. What do you got to say now, bitch?
+dialog: Maguire and Turner enter. Maguire's got a big smile on his face.
+dialog: J.Q.
+dialog: How's Stawitzky?
+dialog: DR. TURNER
+dialog: He's going to make it.
+dialog: J.Q.
+dialog: How's it feel, Doc? Saving a life? Feels pretty good, doesn't it?
+dialog: INT. MIKE'S ICU ROOM - DAY
+dialog: CLOSE ON
+text: Monitor. Plink. Mike's blood pressure drops from 75 to 74. Mike is resting, eyes closed. Denise stands vigilantly by Mike's bedside. Reggie enters. Carrying an armload of medicine. He replaces the IV bag and starts to administer the meds. One after the other, Reggie injects them into the IV line, and Mike stirs.
+dialog: DENISE
+dialog: What's that?
+dialog: REGGIE
+dialog: Lasix. It's a diuretic to help get rid of some of the fluid build-up. But it's potassium sparing, so he needs this one to supplement.
+dialog: DENISE
+dialog: And those?
+dialog: REGGIE
+dialog: Dopamine. For his blood pressure. Dig for his heart. Primacor.
+dialog: DENISE
+dialog: Gosh, it seems like so much.
+dialog: REGGIE
+dialog: Yeah, it's a lot. This is antibiotic.
+dialog: DENISE
+dialog: What for?
+dialog: REGGIE
+dialog: It's prophylactic. Just in case. These two, I don't really know what they're for. Pain, maybe.
+dialog: DENISE
+dialog: Pain?
+dialog: REGGIE
+dialog: I don't know, Mrs. Archibald. I just do what they tell me.
+dialog: Mike groans. He feels queasy and his mouth is bone dry.
+dialog: MIKE
+dialog: I don't feel good.
+dialog: REGGIE
+dialog: This is going to make you feel yucky for a few minutes, buddy. But I'm going to get you some of those crunchy ice chips to chew on. How does that sound?
+text: Mike forces a smile, dips his head slightly. "Sounds good." Reggie leaves the room. Something catches Denise's eye. Down the Pediatric ICU, she sees the hospital chaplain again. There is a commotion. The parents are crying. And a sheet is pulled over her face of the now dead child. The chaplain tries to console the devastated mother, who screams as her child is wheeled out of the room.
+dialog: MIKE
+dialog: Mom? Is Dad coming?
+dialog: DENISE
+dialog: Yeah. He's coming.
+dialog: MIKE
+dialog: Where is he?
+dialog: Denise steals a final look at the parents overcome with grief.
+dialog: DENISE
+dialog: I don't know, sweetheart. I don't know.
+scene_heading: INT. EMERGENCY ROOM - TREATMENT AREA - DAY
+text: Mitch is snooping around one of the treatment rooms, always careful to keep an eye on J.Q. He nearly jumps out of his skin when he sees the security guard standing next to him.
+dialog: SECURITY GUARD
+dialog: What are you up to?
+dialog: MITCH
+dialog: Never mind me. You're worthless. You know that? Some security guard. You should have zapped the bastard.
+dialog: SECURITY GUARD
+dialog: With what? Besides, I'm not putting my neck on the line. Not for eight-fifty an hour.
+text: Mitch reaches, pulls a cas cart closer. He carefully slides open a drawer, steals a sharp-edged scalpel, slips it into his pocket. Next he spots a spray top cannister marked Ethychloride.
+speaker_heading: SECURITY GUARD (CONT'D)
+dialog: What the hell are you doing?
+dialog: MITCH
+dialog: Looking out for number one.
+dialog: SECURITY GUARD
+dialog: You want to stay alive? Sit tight and wait for the cavalry to get here.
+dialog: MITCH
+dialog: Wake up, fat boy. The cops are coming in shooting. They don't give a shit about his kid. And as soon as he realizes that, we're history.
+dialog: SECURITY GUARD
+dialog: Yeah? He finds out you got a scalpel, you're the one that's history, asshole.
+dialog: MITCH
+dialog: Really? He doesn't look so bad to me.
+dialog: SECURITY GUARD
+dialog: Listen.
+dialog: MITCH
+dialog: No, listen to me, you stupid rent-a-cop. I'm not a slob. I've got a life, and it means something to me. I'm not dying in this shithole.
+dialog: INT. EMERGENCY ROOM - DAY
+text: The vending machines have been jimmied open and a huge pile of candy bars and soda cans sit on the waiting room table. Everybody is chowing down.
+dialog: J.Q.
+dialog: The thing I don't understand is why no one caught it before. Mike had check ups every year since the day he was born. Why didn't his doctors pick it up?
+dialog: DR. TURNER
+dialog: Was he ever diagnosed with a murmur?
+dialog: J.Q.
+dialog: Yeah, he was. About a week after he was born. But his doctor said that was normal. That it happens all the time.
+dialog: DR. TURNER
+dialog: He might not have been tested thoroughly enough.
+dialog: J.Q.
+dialog: Why not?
+dialog: MAGUIRE
+dialog: You got an HMO, right? There's your answer. HMO's pay their doctors not to test. Their way of keeping costs down. Let's say Mike needed additional testing, insurance says they won't cover them. The doctor keeps his mouth shut and no one's the wiser. Little Mike falls through the cracks, and come Christmas, the HMO sends the doc a big, fat bonus check. J.Q. looks at Turner.
+dialog: J.Q.
+dialog: Is that true?
+dialog: DR. TURNER
+dialog: Possible. Not likely, but possible.
+dialog: J.Q.
+dialog: Then Mike's doctors could have known about his condition all along? And he could have been treated years ago?
+dialog: DR. TURNER
+dialog: Who knows?
+dialog: LESTER
+dialog: Nothing personal, Doc, but you all are a bunch of damn crooks.
+dialog: MAGUIRE
+dialog: You see,here's the problem. Over here, you've got your insurance companies who basically want you healthy or dead. That's how they make money. And over here, you've got your medical establishment, doctors, pharmaceutical companies, who don't want you healthy or dead. They want you sick. That's the way they make money.
+dialog: LESTER
+dialog: It's all about getting paid, man.
+dialog: MAGUIRE
+dialog: And the individual is caught in the middle of this gigantic tug-of-war. It's a game. And the end result is, people don't get the treatment they deserve.
+dialog: LESTER
+dialog: Because then no one gets paid.
+speaker_heading: JULIE
+dialog: But what about that thing you guys take? That promise? What do they call it?
+dialog: STEVE
+dialog: The Hippocratic oath.
+dialog: LESTER
+dialog: More like the hipp-crit-cial Oath to me. How's that go, Doc? "I solemnly swear to take care of all sick folk, except those without major medical?"
+dialog: MAGUIRE
+dialog: I'm telling you, it's not that far from the truth. The shit happens all the time. Paramedics bring in some accident victim gasping for his last breath. Big boys in accounting find out they can't pay, they send them packing.
+speaker_heading: JULIE
+dialog: Hospitals can't turn people away.
+dialog: STEVE
+dialog: Yeah. I thought there were laws about that.
+dialog: MAGUIRE
+dialog: There are laws. But there are also ways around the laws. All we have to do is stabilize them. After that, we're off the hook.
+dialog: Turner is getting hot.
+dialog: DR. TURNER
+dialog: That's not how it works.
+dialog: MAGUIRE
+dialog: That's exactly how it works. Maybe not up there on the fifth floor, but down here, if you ain't got no money, you get a band-aid, a foot in the ass, and you're out the door.
+dialog: MITCH
+dialog: Is that how you paid for that Armani suit, Doc?
+dialog: Finally, Turner explodes.
+dialog: DR. TURNER
+text: Shut up. Enough already. I've heard all the bitching and moaning I can stand. Sure, the system sucks. There's red tape and there's worse. There's tough luck. And if you're looking for kindness and compassion, they're in short supply these days. But some of us got into medicine to do something about it. I break my ass every day trying to make a difference, trying to plug the dam. I'm in it up to my elbows. I've seen people live who shouldn't, and the other way around. And when I say I do my best, I mean it. So don't tell me about doctors, because they're the last stop between you and six feet under. And if you all want to regard me as some blood sucking vampire, fine. I'm the bad guy. But who's holding the fucking gun?
+dialog: Turner gets up and walks into the treatment room.
+speaker_heading: JULIE
+dialog: Wow.
+dialog: MITCH
+dialog: What's his problem?
+dialog: STEVE
+dialog: I've got to be honest, if my kid was dying and I couldn't get help, I don't know what I'd do.
+dialog: DEBBY
+dialog: Me, neither.
+dialog: STEVE
+dialog: But I'd do something.
+text: J.Q. glances quickly at the clock. He picks up the phone, clicking the button, trying to get a dial tone.
+scene_heading: EXT. HOPE MEMORIAL HOSPITAL - COMMAND POST - DAY
+dialog: INTERCUT
+text: A black SWAT phone starts ringing and the policemen freeze. Where's Grimes? A COMPUTER COP runs over and calls out to the lieutenant.
+dialog: COMPUTER COP
+dialog: Sir!
+dialog: Grimes waves him off and cues his portable.
+dialog: GRIMES
+dialog: This is Frank Grimes.
+dialog: INT. EMERGENCY ROOM
+dialog: J.Q., confused.
+dialog: J.Q.
+dialog: But...
+dialog: GRIMES
+dialog: The line is clipped, John. You pick up the phone, you get me.
+dialog: (then)
+dialog: Can I help you with something?
+dialog: J.Q.
+dialog: Where are we at with that list?
+dialog: GRIMES
+dialog: I'm working on it, John. But I need some time.
+dialog: J.Q.
+dialog: Time I don't have, Lieutenant.
+dialog: GRIMES
+dialog: I want to talk about the hostages.
+dialog: J.Q.
+dialog: What about them?
+dialog: GRIMES
+dialog: What's going on in there? How are they?
+dialog: J.Q.
+dialog: Same as they were before, Frank. We're all just kind of waiting on you.
+text: At the command post, Moody is now waving his arms. Grimes moves over and looks at the monitors. The videotape is up. The images are wide and grainy. Giving him his first look at the hostages. ON THE SCREEN, J.Q. moves into frame. Moody taps the screen and Grimes nods. That's our guy.
+dialog: GRIMES
+dialog: I want you to let some of them go.
+dialog: J.Q.
+dialog: What for?
+dialog: GRIMES
+dialog: I do for you. You do for me. Show some good faith. We've got a lot of nervous people out here, John. Make everybody breathe a lot easier if we saw some happy faces.
+dialog: J.Q.
+dialog: Good faith only takes you so far. You see, I believe in the merit system. And so far, you haven't earned any points.
+dialog: EXT. COMMAND POST - DAY
+text: A navy blue unmarked Crown Victoria pulls up and out steps Rebecca Payne and POLICE CHIEF GUS MONROE. They are quickly ushered over to the monitors where they see J.Q.'s face on the screens.
+dialog: PAYNE
+dialog: That's him. His name is John Archibald. His son's on the fifth floor, Pediatric ICU.
+dialog: INT. EMERGENCY ROOM - DAY
+dialog: Marjorie Klein moves over with a very hysterical Miriam in tow.
+dialog: DR. KLEIN
+dialog: Excuse me.
+dialog: J.Q. holds up a finger telling her to wait.
+speaker_heading: DR. KLEIN (CONT'D)
+dialog: I need to talk to you. Now.
+dialog: J.Q.
+dialog: (into phone)
+dialog: Can you hold on a minute, Frank?
+dialog: DR. KLEIN
+dialog: This woman's six centimeters dilated and the baby is breech. I can't do anything for her here. She needs to be moved to Maternity immediately.
+dialog: J.Q. rubs his eyes and lets out a breath. He's under a lot of stress.
+dialog: EXT. COMMAND POST - DAY
+dialog: Grimes has his hand over the receiver as he barks out orders to Moody.
+dialog: GRIMES
+dialog: Put people on the door. Nobody talks to the wife but me.
+dialog: Grimes sticks out his free hand to Monroe, who shakes it.
+speaker_heading: GRIMES (CONT'D)
+dialog: Good to see you, Gus. How are you?
+dialog: MONROE
+dialog: Hot. What's going on?
+dialog: GRIMES
+dialog: You're looking at it.
+dialog: J.Q. (O.S.)
+dialog: Are you there, Frank?
+dialog: GRIMES
+dialog: Yeah, I'm here.
+dialog: J.Q. (O.S.)
+dialog: I changed my mind. I am going to let some of the hostages go.
+dialog: GRIMES
+dialog: Great, John. That's the right thing.
+dialog: J.Q. (O.S.)
+dialog: But when I do, the clock starts. You have one hour to get back to me with some good news.
+text: Monroe is glued to the monitors. His wheels are already spinning. Grimes covers the receiver to speak to him.
+dialog: GRIMES
+dialog: Isn't it a little early for you to be here, Gus? Who called in the heavy artillery?
+dialog: J.Q. (O.S.)
+dialog: I mean it, Frank. If my boy's not on the list in an hour, I promise you someone's going to die.
+dialog: MONROE
+dialog: This is bad, Frank. Lot of people watching this one. Big embarrassment if it doesn't go away real quiet like.
+dialog: GRIMES
+dialog: Well, give me some time. I'm working on it.
+dialog: J.Q. (O.S.)
+dialog: Frank?
+dialog: GRIMES
+dialog: I got it, John. I'm hearing you. One hour.
+dialog: They look on Monroe's face tells Grimes that something is wrong.
+dialog: GRIMES (CONT'D) Gus?
+dialog: MONROE
+dialog: There's no time on this one, Frank. This one's just got to go away.
+dialog: INT. EMERGENCY ROOM - DAY
+dialog: J.Q. puts down the walkie-talkie and points at Miriam and Rosa.
+dialog: J.Q.
+dialog: You and you. Come with me. Maguire, give me a hand.
+dialog: MIRIAM
+dialog: Mr. Archibald. Please let my husband go with me.
+dialog: STEVE
+dialog: Honey, for godsakes, just do as the man says. Get out of here.
+dialog: MIRIAM
+dialog: I'm not leaving you here alone.
+dialog: MITCH
+dialog: Shit, I'll go.
+dialog: STEVE
+dialog: Shut your face. What kind of man are you?
+dialog: MITCH
+dialog: Screw you, Tyrone.
+text: Steve leaps from his seat and goes after Mitch, bristling with the racial slur. J.Q. moves in fast, trying to separate them. But instead of going for Steve, Mitch goes for broke and rushes J.Q. The Ethylchloride is out and Mitch sprays it into J.Q.'s eyes, temporarily blinding him.
+text: John tries to get his bearings but Mitch is already swinging the scalpel. As J.Q. blocks the knife, his arm is sliced and starts to gush. Mitch goes for the kill, but J.Q. grabs his arm and they wrestle to the ground, the scalpel and John's gun clattering to the floor. The element of surprise gone, Mitch is now getting the worst of it. J.Q. is getting in some heavy blows and no one is stepping in to stop it. Mitch sees the gun across the floor next to Julie.
+dialog: MITCH (CONT'D)
+dialog: Julie, baby, get the gun.
+dialog: Julie gets up.
+dialog: MITCH (CONT'D)
+dialog: Shoot him, honey. Shoot him.
+text: But instead of grabbing the weapon, she picks up the Ethylchloride, sprays it directly in Mitch's eyes from superclose range and doesn't stop. Mitch's hands fly to his eyes and he screams. J.Q. gets up and recovers his weapon, sticking it in his waistband. Julie stands over Mitch, who is still writhing in pain.
+dialog: MITCH (CONT'D)
+dialog: You stupid bitch!
+dialog: Julie rears back, and with her go-go boot, she kicks Mitch square in the groin.
+speaker_heading: JULIE
+dialog: That's for beating the shit out of me.
+dialog: She kicks him again.
+speaker_heading: JULIE (CONT'D)
+dialog: That's for being an asshole.
+dialog: Once more for good measure.
+speaker_heading: JULIE (CONT'D)
+dialog: And that's for calling me a bitch.
+dialog: LESTER
+dialog: Damn.
+text: The hostages look at Julie with newfound respect. J.Q. takes the security guard's handcuffs, drags Mitch across the floor, and manacles him to the radiator.
+dialog: J.Q.
+dialog: Everybody's a tough guy.
+dialog: Grimes voice crackles over the walkie-talkie.
+speaker_heading: GRIMES (O.S.)
+dialog: Where are those hostages, John?
+text: J.Q. moves to the door, unlocks the chain, points to Rosa and Miriam.
+dialog: J.Q.
+dialog: Let's go. Both of you.
+text: Rosa launches into a rapid-fire monologue of thanks. She speaks quickly, saying the word "Dios" over and over.
+dialog: DEBBY
+dialog: What's she saying?
+dialog: MAGUIRE
+dialog: She said she'll pray for his boy.
+dialog: Miriam kisses Steve, holds him tight.
+dialog: STEVE
+dialog: Everything's going to be okay. The baby is going to be just fine.
+dialog: J.Q. puts a hand on Steve's shoulder.
+dialog: J.Q.
+dialog: Get out of here. Go.
+dialog: Steve is stunned. Can't get to his feet.
+dialog: J.Q. (CONT'D)
+dialog: Vasta. Vasta. Let's go.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - DAY
+dialog: The front door opens and Steve, Miriam, Rosa and the baby are released. We see Channel 8 reporter Tuck Lampley doing a live "stand up."
+dialog: LAMPLEY
+text: The gunman has just freed several hostages who will immediately be debriefed by members of the crisis team. Will the man known as John Q. get a heart for his little boy? Time will tell. Where this leads next is anyone's guess. Live from Hope Memorial Hospital, this is Tuck Lampley.
+text: The hostages are hustled through the police barricade by a team of kevlar riot police. The media rush the hostages, shouting out questions and frantically trying to stick their microphones close enough.
+dialog: REPORTER #1
+dialog: Is it true an ambulance dropped off a gunshot victim after the gunman took over the ER?
+dialog: MIRIAM
+dialog: Yes. He unlocked the door and let him in.
+dialog: STEVE
+dialog: If he didn't, the man would have died.
+dialog: ROSA
+dialog: John Q. very good man.
+dialog: REPORTER #2
+dialog: The gunman?
+dialog: ROSA
+dialog: Si. Good man, el senor.
+text: But Tuck Lampley's attention is on the police command post where dozens of blue uniforms crowd around a small bank of monitors. Suddenly, it hits him.
+dialog: LAMPLEY
+dialog: They've got a camera in there. I don't believe it. They're watching a video feed.
+dialog: Freddy B. squints through the glasses.
+speaker_heading: FREDDY B.
+dialog: How do you know?
+dialog: LAMPLEY
+dialog: Well, they're looking at something, Freddy. And I need to know what it is. Can you steal it?
+speaker_heading: FREDDY B.
+dialog: No problem, boss. If they got it, I can get it.
+dialog: EXT. COMMAND POST - DAY
+text: WALLY PITONIAK, Chief of Hospital Security, has arrived. He and Sergeant Moody are standing over an unrolled building plan that has been stretched across the command table like a battle map. Monroe and Grimes have Rebecca Payne on the defensive.
+dialog: GRIMES
+dialog: You mean all of this could have been avoided if you had just put the kid's name on a list?
+dialog: PAYNE
+dialog: Don't you dare try to blame this on me. You think Mr. Archibald is the only one with a sick child? Try the HIV ward. There's a whole floor full of them. People get sick. They die. That's the way it goes. I'm faced with tough decisions every day.
+dialog: MONROE
+dialog: The fact is there's a man threatening to kill innocent people because you refused treatment for his son.
+dialog: PAYNE
+dialog: The fact is there are fifty million people in this country without medical insurance, sir. And there's one of me in every hospital. That's not my fault. It's just the way the country's set up. You want to change it? Write your congressman.
+dialog: Moody looks over from his map.
+dialog: MOODY
+dialog: Excuse me, but why don't we just tell him his son's on the list? Doesn't that make sense? I mean, how's he going to know.
+dialog: MONROE
+dialog: That's not a bad idea.
+dialog: PAYNE
+dialog: You want me to put his name on the list, fine, but it's a mistake. You give in to this man, there's going to be guns in every hospital in America.
+dialog: MONROE
+dialog: I don't personally care if you put the kid on it or not. That's your conscience. But give us a hand, will you honey? Work with us. Tell him his kid's going to be alright. Do you think you can do that?
+dialog: Pitoniak has indicated a spot on the schematic by circling it with a red pen.
+dialog: MOODY
+dialog: Sir? Sir, take a look at this.
+dialog: Monroe moves over.
+dialog: MONROE
+dialog: What is it?
+dialog: Pitoniak points to the map, marking a red "X" through the circle.
+speaker_heading: PITONIAK
+dialog: It's a phone.
+dialog: MONROE
+dialog: So?
+text: Moody points to one of the monitors. ON SCREEN, a view of the nurse's station and beyond. And in the foreground, big and clear as day, is the RED NURSES' PHONE.
+dialog: MOODY
+dialog: It's that phone.
+dialog: INT. EMERGENCY ROOM - DAY
+dialog: More waiting.
+dialog: MITCH
+dialog: So, what now? What's the plan?
+speaker_heading: JULIE
+dialog: Mitch...
+dialog: MITCH
+dialog: No. I want to know. Every day you read about this kind of shit. And now we're in the middle of it. How is it going to end, John? This country, man. I swear to God. You can't go anywhere anymore without getting robbed, mugged, or murdered. Kids killing classmates, drive bys... I won't even go into a post office anymore.
+dialog: MAGUIRE
+dialog: Shut up, Mitch.
+dialog: J.Q.
+dialog: He's right. You know how easy it was to get this gun? One gun show. Five minutes.
+dialog: MITCH
+dialog: That's right. You're just a punk with a gun. I understand your kid is sick, but what makes him better than me? I've got a life, too.
+dialog: J.Q.
+dialog: Yeah, but you've got insurance.
+dialog: MITCH
+dialog: So, what, you're going to shoot me? Because that's what you're telling the cops. If poor little Mikey doesn't get the very first heart available, all of us die.
+dialog: J.Q.
+dialog: No, I don't want to cheat anyone. I just want my kid to have a fair shot.
+dialog: MITCH
+dialog: So what's the plan, Stan? I mean, exactly? How long are you going to hold us hostage? Until your son gets a new heart?
+dialog: J.Q.
+dialog: I don't know.
+dialog: MITCH
+dialog: Think, Einstein. Use your head. Correct me if I'm wrong, Doctor, but hearts don't come just like that. It takes months, years sometimes.
+dialog: J.Q.
+dialog: I know.
+dialog: MITCH
+dialog: Then what's your move?
+dialog: J.Q.
+dialog: I'm not letting my kid die! I'm out of options, alright?! I have no more ideas. This is it. The end of the road. I'm looking for an act of God. I'm looking for a miracle.
+dialog: EXT. TWO-LANE HIGHWAY - DAY
+text: The white BMW speeds along the highway, tries to pass the semi in front of her, and smashes into the embankment. It's the same accident as before, only this time, it's regular speed.
+dialog: INT. PEDIATRIC I.C.U. - DAY
+dialog: Frank Grimes stands outside Mike's room, just watching him through the glass.
+dialog: CLOSE ON MONITOR
+text: Mike's blood pressure has fallen to 68. He is asleep, each breath magnified by the hollow, mechanized wheeze of the ventilator pump. Denise sits by his side, praying hard, tears rolling down her cheeks.
+text: Payne arrives, and the two stand there a moment. Watching the scene, Grimes is visibly moved. Even Payne and her super bitch attitude are a little humbled.
+dialog: PAYNE
+dialog: No matter how many times I see it, this is the part I always hate.
+dialog: GRIMES
+dialog: Do you have any children, Miss Payne?
+dialog: PAYNE
+dialog: No. No I don't.
+dialog: They move to the doorway and tap lightly on the door.
+dialog: GRIMES
+dialog: Mrs. Archibald?
+dialog: Denise's wet face turns to see the cause of the intrusion.
+speaker_heading: GRIMES (CONT'D)
+dialog: Could we have a word with you?
+dialog: INT. HOSPITAL CORRIDOR - DAY
+dialog: Denise, Grimes, and Payne by the elevators.
+dialog: DENISE
+dialog: This is my fault. When the hospital told me they were releasing Mikey, I was furious. I yelled at John to do something, anything. I never thought...
+dialog: GRIMES
+dialog: I understand. Is he a violent man, Mrs. Archibald.
+dialog: DENISE
+dialog: No. Heavens, no. He's gentle. He's sweet. He wouldn't hurt a fly.
+dialog: GRIMES
+dialog: That's not what he's saying. He's talking about killing people. Has he spent any time in the military?
+dialog: DENISE
+dialog: Hey, what is this? I get what's going on here. You want me to tell you something you can use to hurt my husband.
+dialog: GRIMES
+dialog: He's in a lot of trouble, Ma'am. We're going to need you to talk to him.
+dialog: DENISE
+dialog: Let's get something straight, Mister. You can't use me to make a case against John. I support my husband. Whatever he does. I'm on his side. Not yours.
+dialog: PAYNE
+dialog: Mrs. Archibald...
+dialog: DENISE
+dialog: You, don't talk to me. I'd tell you what I think of you but I'm a Christian woman. Now you people leave me alone. I have a sick child to look after.
+dialog: PAYNE
+dialog: I've decided to put Mike's name on the organ recipient list, Mrs. Archibald. The hospital will pay for everything.
+dialog: Denise looks at Payne, not daring to believe.
+dialog: DENISE
+dialog: Really.
+text: Payne nods. This is too much for Denise. She throws her arms around Payne, sobbing tears of joy.
+speaker_heading: DENISE (CONT'D)
+dialog: Oh, thank you. Thank you so much.
+dialog: Payne pats Denise on the back, awkwardly trying to comfort her.
+scene_heading: INT. HOPE MEMORIAL HOSPITAL - CORRIDORS - DAY
+dialog: Grimes and Payne move quickly through the corridors.
+dialog: GRIMES
+dialog: You're good.
+dialog: PAYNE
+dialog: Excuse me?
+dialog: GRIMES
+dialog: With the Archibald woman back there. Quite a performance. The sincere look, the comforting embrace. For a minute, I almost believed you cared.
+text: Payne's eyes flash with anger. She looks like she wants to say something, but she just turns and walks away.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - DAY
+text: A restless crowd encircles the hospital, cordoned off by police blockades, uniformed cops forming a human wall around people. EMS rescue vehicles rumble onto the scene, sirens blaring.
+text: A police bus drives slowly into the parking lot. A SWAT team, dressed in flak jackets and riot gear, pours out.
+text: An armada of soft drink, hot dog and ice cream vendors smell gold, and stake out their claims. It's Saturday afternoon, and the circus is in town.
+scene_heading: INT. EMERGENCY ROOM - LATE AFTERNOON
+text: J.Q. and the hostages watch Tuck Lampley on an overhead TV. Jimmy Palumbo is being interviewed. ON SCREEN, J.Q. sees the massive police build-up, swallows. He looks at the clock. 5:05 PM. Ten minutes and counting.
+scene_heading: EXT. TWO-LANE HIGHWAY - LATE AFTERNOON
+text: A red and white medical helicopter descends from the sky. The accident scene is now secured by the flashing lights of police and medical teams. The screeching sound of cutting metal is heard as the rescuers use the jaws of life. As we see the car more closely now, we notice that the woman's arm rests out the open window. On her wrist is a silver donor bracelet.
+dialog: EXT. COMMAND POST - LATE AFTERNOON
+text: Grimes returns to find the post empty. Nobody there except a few policemen and Sergeant Moody, who is doing a check on his walkie.
+dialog: GRIMES
+dialog: What's going on? Where is everybody?
+dialog: Moody indicates the map and the monitor.
+dialog: MOODY
+dialog: We're sending in one of ours through the ventilation ducts.
+dialog: ON SCREEN
+dialog: He indicates the red nurses' phone.
+speaker_heading: MOODY (CONT'D)
+dialog: If we can get the target to that phone, it's a clear shot.
+dialog: GRIMES
+dialog: Is that right?
+dialog: MOODY
+dialog: Yes, Lieutenant. That is right.
+dialog: GRIMES
+dialog: On who's orders?
+scene_heading: INT. UNDERGROUND PARKING GARAGE - LATE AFTERNOON
+text: Police Chief Gus Monroe, Wally Pitoniak, and a SWAT Team are in strategy session. They surround a sniper decked out in HBT regalia. A green video mini-monitor is being checked and fastened to the front of the sniper's vest. In the distance, Grimes bursts into the parking garage.
+dialog: GRIMES
+dialog: Gus...
+dialog: MONROE
+dialog: Not one word. I don't want to hear one goddamn word out of you, Frank.
+dialog: GRIMES
+dialog: I'm not going to say anything. I'm just going to go get you your red nose.
+dialog: MONROE
+dialog: What did you say to me? Are you calling me a clown?
+dialog: Monroe goes after Grimes and has to be restrained.
+speaker_heading: MONROE (CONT'D)
+dialog: I swear to God, I'll kill you.
+dialog: Boys. Boys.
+dialog: GRIMES
+dialog: You going to do this behind my back, you sonofabitch?
+dialog: MONROE
+dialog: Check the time, Frank. Look at your watch, Frank. The guy said at a quarter after he was going to start killing everybody, and we don't have any reason not to believe him.
+dialog: GRIMES
+dialog: So goddamn stupid.
+dialog: MONROE
+dialog: Yeah? What's your great idea?
+dialog: GRIMES
+dialog: There are no great ideas!
+dialog: MONROE
+dialog: Right! Exactly. But right now I've got a shot at this guy. I don't even know what we're talking about. You know the score. You always take the clear shot.
+dialog: GRIMES
+dialog: The wife has agreed to speak to him. Let her talk him down.
+dialog: MONROE
+dialog: That's exactly what we're going to do.
+dialog: GRIMES
+dialog: What? You use the man's wife to set him up?
+dialog: MONROE
+dialog: Whatever works. Let me paint a picture for you. And I hope it's clear. What we've got is a lose/lose. If this guy starts whacking out the hostages, it's bad, right? But if we give in to this asshole, it's also bad.
+dialog: GRIMES
+dialog: Bad for who?
+dialog: MONROE
+dialog: It's an election year. Do you want me to spell it out for you? A, B, C. However it goes down, this guy's not going to make it.
+dialog: GRIMES
+dialog: So, you kill him? That's a P.R. bonanza.
+dialog: MONROE
+dialog: There's not going to be a slaughter in there. Not on my watch. You're out, Frank.
+dialog: GRIMES
+dialog: Out?
+dialog: MONROE
+dialog: Out. No hard feelings. But you're officially relieved of duty. I'll handle it from here.
+dialog: GRIMES
+dialog: You?
+dialog: MONROE
+dialog: It's not my first trip around the dance floor, you know.
+dialog: Grimes laughs out loud.
+dialog: GRIMES
+dialog: Yeah.
+dialog: MONROE
+dialog: Hey, I don't like it any better than you do, but I'm under a lot of pressure here. Everyone is wetting their pants on this one. Believe me, my ass is swinging in the breeze.
+dialog: Monroe turns and walks away. Grimes calls out after him.
+dialog: GRIMES
+dialog: What about the hostages?
+dialog: MONROE
+dialog: They better keep their heads down.
+scene_heading: INT. EMERGENCY ROOM - LATE AFTERNOON
+text: J.Q. paces back and forth looking at the clock. His level of irritation is growing exponentially.
+dialog: J.Q.
+dialog: Where the hell are these guys?
+dialog: Mitch is now contrite and trying to reconcile with his battered girlfriend.
+dialog: MITCH
+dialog: Julie...
+speaker_heading: JULIE
+dialog: Leave me alone.
+dialog: MITCH
+text: I'm sorry. I'm a lousy drunk, okay? I get out of control. I don't mean to, but I do and I lose my mind. But that doesn't mean I don't love you. And I'll change. I swear to God, I will. It's you and me, baby. All the girls in the club, they don't mean shit to me. It's only you. I'll get down on my knees if you want me to. Look, I'm on my knees in front of everyone. I'll even forget you kicked me in the nuts. Come on.
+speaker_heading: JULIE
+dialog: No, Mitch. This is always how it goes. You treat me like shit, then come crawling back to me like Prince Charming. Not this time. It's over.
+text: She takes off a big diamond from her finger and drops it on the floor. It bounces and disappears under a table.
+dialog: MITCH
+dialog: Aw, come on. Don't do that. That ring cost me twenty grand.
+speaker_heading: JULIE
+dialog: Poor little rich boy. Used to getting everything he wants. Buying his way in and out of everything.
+text: Lester bends over and tries inconspicuously to look for the ring. The security guard gets on his hands and knees. Even Debby sneaks a peek.
+dialog: MITCH
+dialog: Do you mind? Stay away from the ring, please.
+dialog: SECURITY GUARD
+dialog: Hey, she don't want it.
+dialog: LESTER
+dialog: yeah. Finders keepers, man.
+dialog: The hostages laugh and Mitch goes crazy.
+dialog: J.Q.
+dialog: Hey, what's so funny? Does everybody think this is a joke? You all should be thinking about your own lives, hoping that phone rings with some good news. Because in about five minutes, the road is going to get a lot narrower.
+dialog: EXT. COMMAND POST - LATE AFTERNOON
+text: Monroe moves outside and joins the other SWAT team personnel at the video tap. Grimes follows to plead his case.
+dialog: GRIMES
+dialog: But he's not a wacko, Gus. Married with a family, no history of mental illness. No radical political views. He doesn't fit the profile.
+dialog: MONROE
+dialog: Don't matter. You know as well as I do that anybody can fit the profile at any time.
+dialog: MOODY
+dialog: He's got a gun and he's got hostages. That's a profile.
+dialog: GRIMES
+dialog: How long have we been doing this? You've got to trust me on this one. Gus, I like the guy.
+dialog: MONROE
+dialog: Well I don't. I don't like nut jobs who point guns at innocent people. It pisses me off.
+dialog: GRIMES
+dialog: He's not a nut job.
+dialog: MONROE
+text: Maybe you're right. Maybe he's bluffing. Maybe he's just a nice guy with a problem. Maybe he's misunderstood and needs to blow off a little steam. Hey, it's possible. But I can't depend on that, Frank. This asshole has raised the stakes real high. And I need to match it, just in case he's not bluffing. Now, we've got five minutes before he starts throwing bodies out the door. I've got a chance to end this right now and I'm taking it.
+dialog: GRIMES
+dialog: I'm telling you, you're making a mistake.
+dialog: MONROE
+dialog: Yeah, well. We try harder.
+dialog: GRIMES
+dialog: I want to be on the record. Monroe hands Grimes a set of headphones.
+dialog: MONROE
+dialog: You can be on whatever you want. Now I got you a chair. Put these on and have a seat.
+dialog: GRIMES
+dialog: Gus...
+dialog: MONROE
+dialog: Will you stop already? Jesus, Frank. You're so emotional.
+text: On one of the monitors WE SEE the ER room and hostages. On the other, the red nurses' phone. The images are black and white and grainy.
+dialog: MOODY
+dialog: (into walkie-talkie)
+dialog: This is Moody. Let's go.
+scene_heading: INT. HOSPITAL ENGINE AND POWER ROOM - LATE AFTERNOON
+text: Pitoniak climbs along the narrow catwalk until he reaches the area that houses the air-conditioning unit. We hear the thunderous sound of an enormous compressor. Pitoniak reaches for the AC on/off switch.
+scene_heading: INT. EMERGENCY ROOM - LATE AFTERNOON
+text: J.Q. paces. Everyone keeps looking at the clock. 5:12 PM. Three minutes to go.
+dialog: J.Q.
+dialog: Some first day, huh?
+dialog: DEBBY
+dialog: A little more stressful than I thought it would be.
+text: J.Q. cracks a smile. Just then, a loud rattle echoes through the ER, pipes clanging.
+dialog: J.Q.
+dialog: What was that?
+dialog: SECURITY GUARD
+dialog: Air conditioning unit just shut off.
+dialog: J.Q.
+dialog: Yeah? Why?
+dialog: SECURITY GUARD
+dialog: The power automatically shuts down when the thermostat hits a certain temperature.
+dialog: TIGHT ON J.Q.
+dialog: Something doesn't feel right.
+dialog: INT. DUCT SYSTEM - LATE AFTERNOON
+dialog: INTERCUT
+text: An armed SNIPER pops his head up and slithers along the plated aluminum floor of an AC duct, a remote mini-monitor in the palm of his hand.
+dialog: EXT. NEWS VAN - LATE AFTERNOON
+text: Snipers lock and load assault rifles, and Tuck Lampley's crew frantically unspools fiber optic cable line to a hospital outsource, cutting and splicing it back to the news van.
+dialog: LAMPLEY
+dialog: Where's my picture?
+speaker_heading: FREDDY B.
+dialog: Coming. We just need to unscramble the police encryptment. We're almost there.
+dialog: LAMPLEY
+dialog: Well, hurry up. I've got a contact in cardiology. The cops are setting up a phone call with this guy and his wife. This is going to be unbelievable.
+dialog: INT. DUCT SYSTEM - LATE AFTERNOON
+text: The sniper continues to crawl through the duct toward a light emanating from a louvered grill.
+dialog: EXT. COMMAND POST - LATE AFTERNOON
+dialog: Moody looks at his watch, synchronizes. Monroe does.
+dialog: MOODY
+dialog: (into walkie-talkie)
+dialog: Are you with a wife? Good. Let's patch it through.
+scene_heading: INT. EMERGENCY ROOM - LATE AFTERNOON
+text: 5:14 PM. All eyes on the clock. Hostages tired, hot, emotionally spent. Suddenly, a phone clangs. J.Q. looks around, surprised. He sees a desk phone, picks it up. Dead. He moves to another phone. Nothing. But the mysterious phone continues to ring.
+dialog: J.Q.
+dialog: Where's the phone? Which phone is it?
+dialog: INT. NEWS VAN - LATE AFTERNOON
+text: News monitors cackle with white snow. No picture. Freddy B. works the equipment. Lampley pokes his head in.
+dialog: LAMPLEY
+dialog: Come on, goddammit. They're putting the call through.
+text: Suddenly, an audio hook-up. The phone clanging like an alarm bell.
+speaker_heading: FREDDY B.
+dialog: Oh, yeah. We got sound.
+dialog: LAMPLEY
+dialog: Good. Good. But where's the video? Come on. I need picture.
+scene_heading: INT. EMERGENCY ROOM - TREATMENT AREA - LATE AFTERNOON
+text: J.Q. moves from phone to phone with no luck. The phone keeps ringing. Finally he moves into the corridor, spotting a red phone at the nurses' station.
+dialog: EXT. COMMAND POST - LATE AFTERNOON
+dialog: CLOSE ON VIDEO TAP
+text: Surreal, distorted focus, like a funhouse mirror. Suddenly, J.Q. races into frame and snatches the phone.
+dialog: J.Q.
+dialog: This better be good, Frank.
+scene_heading: INT. EMERGENCY ROOM - TREATMENT AREA - LATE AFTERNOON
+speaker_heading: DENISE (O.S.)
+dialog: John?
+dialog: J.Q.
+dialog: Denise?
+speaker_heading: DENISE (O.S.)
+dialog: Hi, baby. We're on the list!
+dialog: J.Q.
+dialog: What?
+speaker_heading: DENISE (O.S.)
+dialog: Payne was just here. Mike's name is on the list. You did it.
+scene_heading: INT. EMERGENCY ROOM - LATE AFTERNOON
+dialog: The hostages are glued to the TV, watching covering from the outside about what's happening on the inside.
+dialog: J.Q.
+dialog: Okay. Great. We're on the list. Wow. How's Mikey doing?
+speaker_heading: DENISE (O.S.)
+dialog: Not so good, baby. He looks like he's going away.
+dialog: EXT. COMMAND POST - LATE AFTERNOON
+dialog: Cops are glued to the monitor. Grimes looks on, disgusted.
+dialog: INT. MIKE'S ICU ROOM - LATE AFTERNOON
+dialog: DENISE
+dialog: They've done everything they can but he keeps getting worse and worse. Oh my God, our poor baby.
+dialog: Denise cracks. Tears come and there's no stopping them.
+dialog: INT. CRAWL SPACE - LATE AFTERNOON
+text: The sniper pops off the grill, revealing the acoustic tile of the ceiling below. He raises the microphone to his mouth.
+speaker_heading: SNIPER
+dialog: Two zero to base camp. I'm in position one.
+speaker_heading: MOODY (O.S.)
+dialog: Go.
+scene_heading: INT. EMERGENCY ROOM - TREATMENT AREA - LATE AFTERNOON
+text: John rests his head and closes his eyes as he listens to his wife falling apart.
+speaker_heading: DENISE (O.S.)
+dialog: You know, sometimes I think he's an angel. A real angel, sent down to keep us company for a while.
+dialog: J.Q.
+dialog: It's going to be alright, sweetheart.
+speaker_heading: DENISE (O.S.)
+dialog: Are you praying for him? Are you praying for our boy?
+dialog: J.Q.
+dialog: Yeah, baby. I'm praying.
+speaker_heading: DENISE (O.S.)
+dialog: Oh my God, what are we going to do?
+dialog: J.Q.
+dialog: I don't know.
+speaker_heading: DENISE (O.S.)
+dialog: Maybe we should let him go. Maybe it's meant to be and we should accept it.
+dialog: J.Q.
+dialog: No. Don't say it.
+speaker_heading: DENISE (O.S.)
+dialog: I don't know what else to think. The priest keeps coming. He wants to give him last rites.
+dialog: J.Q.
+dialog: Denise, don't you lose faith now. Not you. You can't give up. Mikey's going to make it. I swear on my life, he's going to make it. You've got to believe.
+speaker_heading: DENISE (O.S.)
+dialog: Okay, baby. I'll believe.
+dialog: J.Q.
+dialog: Is he awake? Can I talk to him? INT. NEWS VAN - LATE AFTERNOON
+text: On the monitors, the blizzard of white snow morphs into a clear picture of J.Q. on the phone. Mike's tired voice suddenly comes over the audio.
+speaker_heading: MIKE (O.S.)
+dialog: Dad?
+scene_heading: EXT. HOPE MEMORIAL HOSPITAL - LATE AFTERNOON
+dialog: INTERCUT
+dialog: Lampley is giving the thumbs up. They have picture.
+dialog: LAMPLEY
+dialog: Are we good? Beautiful baby. You're a genius.
+dialog: Lampley puts on his most sincere look as the Channel 8 news team goes live.
+speaker_heading: LAMPLEY (CONT'D)
+dialog: This is Tuck Lampley at Hope Memorial Hospital, where we are bringing you exclusive live coverage of a phone call between the father and the son he is fighting so desperately to save.
+dialog: ON POLICE VIDEO TAP CAMERA
+dialog: WE SEE J.Q.
+dialog: Leaning against the wall. Father and son's 911 static scratched voices crackling.
+dialog: J.Q.
+dialog: Mike? How you doing, buddy? You hanging in there?
+speaker_heading: MIKE (O.S.)
+dialog: Uh-huh. How are you?
+dialog: J.Q.
+dialog: Me? I'm fine. Don't worry about me.
+dialog: INT. DUCT SYSTEM - LATE AFTERNOON
+text: The sniper crawls from the louvered grill, moving along two metal support rails. He takes a crouching position over the acoustic tile.
+dialog: INT. MIKE'S ICU ROOM - LATE AFTERNOON
+text: Mike is propped up in bed, now breathing with some difficulty. He's so weak, Denise has to hold the phone.
+dialog: MIKE
+dialog: How come you're not here, Dad? Where are you?
+dialog: J.Q. (O.S.)
+dialog: Oh, I'm kind of tied up right now. I can't get away.
+dialog: INTERCUTTING SHOTS OF TV SETS AROUND THE NATION
+dialog: Quick, jagged CUTS: American families. People in bars. TV appliance stores. Even the hostages in the ER. Awestruck at what they're witnessing.
+dialog: INT. MIKE'S ICU ROOM - LATE AFTERNOON
+dialog: MIKE
+dialog: Mom says I need a new heart.
+dialog: J.Q. (O.S.)
+dialog: That's right, champ.
+dialog: MIKE
+dialog: What's wrong with my heart?
+dialog: J.Q. (O.S.)
+dialog: Not a thing, buddy. Not a thing. We just have to put a new one in so you can be stronger, okay?
+dialog: MIKE
+dialog: Okay.
+dialog: INT. DUCT SYSTEM - LATE AFTERNOON
+text: The sniper lifts a ceiling tile, exposing the treatment room below. There, across the room, is J.Q. talking on the phone.
+dialog: INT. MIKE'S ICU ROOM - LATE AFTERNOON
+dialog: INTERCUT
+text: Mike stops to catch his breath. He's really on his last legs. He just lays there a second before asking the big one.
+dialog: MIKE
+dialog: Hey, Dad?
+dialog: J.Q. (O.S.)
+dialog: Yeah, Mike.
+dialog: MIKE
+dialog: Am I going to die?
+dialog: Denise's hand flies to her mouth.
+dialog: INT. DUCT SYSTEM - LATE AFTERNOON
+dialog: CLOSE ON THE SNIPER
+text: He pushes the barrel of his weapon through the opening in the ceiling and puts his eye to the scope.
+speaker_heading: SNIPER POV
+text: Through the scope, J.Q.'s tormented face racks into focus, but he moves behind a partition. The shot is not clear.
+dialog: J.Q.
+dialog: No, Mikey, you're not going to die.
+speaker_heading: MIKE (O.S.)
+dialog: How do you know?
+dialog: J.Q.
+dialog: Hey, what good would the world be without you? Without you, there is no world.
+scene_heading: EXT. HOPE MEMORIAL HOSPITAL - LATE AFTERNOON
+text: Lampley stands by the news van watching the drama unfold on the monitor before him. He's a little choked up.
+dialog: LAMPLEY
+dialog: Oh my God. This is the greatest thing I've ever seen. This is my white Bronco.
+scene_heading: INT. EMERGENCY ROOM - TREATMENT AREA - LATE AFTERNOON
+dialog: J.Q.
+dialog: Hey, Mike.
+speaker_heading: MIKE (O.S.)
+dialog: Yeah, Dad?
+speaker_heading: SNIPER POV - SCOPE MATTE
+text: J.Q. moves out from behind the partition and into the open. He's a sitting duck now.
+dialog: INT. DUCT SYSTEM - LATE AFTERNOON
+dialog: The sniper cues his mic.
+speaker_heading: SNIPER
+dialog: On your call.
+scene_heading: INT. EMERGENCY WAITING ROOM - LATE AFTERNOON
+dialog: INTERCUT
+dialog: The hostages are glued to the TV set. Maguire, Julie, Debby, Marjorie Klein hang on J.Q.'s every word.
+dialog: J.Q.
+dialog: You know how much I love you, don't you? How proud I am of you?
+speaker_heading: MIKE (O.S.)
+dialog: Yeah.
+dialog: EXT. COMMAND POST - LATE AFTERNOON
+dialog: Monroe nods at Moody. It's time.
+dialog: MOODY
+dialog: (into walkie-talkie)
+dialog: Take the shot.
+scene_heading: INT. EMERGENCY ROOM - TREATMENT AREA - LATE AFTERNOON
+text: From across the room and through the ceiling, a small red light snaps on. WE ZOOM IN to see what it is.
+dialog: J.Q.
+dialog: Yeah, well, I wanted to tell you that. Just in case I forgot.
+dialog: INT. DUCT SYSTEM - LATE AFTERNOON
+speaker_heading: SNIPER POV
+text: J.Q. is in the crosshairs. Dead center. The red laser dot square in the middle of his back.
+dialog: J.Q.
+dialog: Give me a Chris Cormeir, will you? Yah!
+speaker_heading: MIKE (O.S.)
+dialog: Oh, yeah. Chris Cormeir. He's great.
+scene_heading: INT. EMERGENCY ROOM - LATE AFTERNOON
+text: The hostages attention has been so focused on the screen, none of them have realized that for John to be on TV, there has to be a camera inside the ER. Suddenly, it hits Lester.
+dialog: LESTER
+dialog: What the hell. Oh, shit...
+dialog: INT. DUCT SYSTEM - LATE AFTERNOON
+dialog: TIGHT ON THE TRIGGER. As the sniper squeezes --
+scene_heading: INT. EMERGENCY ROOM - TREATMENT AREA - LATE AFTERNOON
+dialog: J.Q.
+dialog: Get some rest, buddy. Okay?
+speaker_heading: MIKE (O.S.)
+dialog: Okay. I love you, Dad.
+dialog: J.Q.
+dialog: Yeah. I love you, too.
+dialog: As J.Q. hangs up the receiver, the sniper pulls the trigger.
+dialog: LESTER
+dialog: Hey, John. You're on the TV, you know that?
+dialog: BANG!
+text: John turns as the bullet explodes from the chamber, muzzle flashing. A bullet blows through J.Q.'s shoulder, knocking him backwards against the wall.
+dialog: EXT. COMMAND POST - LATE AFTERNOON
+text: The echoing gunshot rumbles through the air like a thunderclap. Monroe, Moody, Grimes and Payne react as the hostages scatter.
+dialog: MOODY
+dialog: He's down. We got him. He's down.
+dialog: Grimes pulls off his cans.
+dialog: GRIMES
+dialog: Your kids are lucky, Gus. Their father's coming home tonight.
+dialog: MEDIA MONITORS, POLICE VIDEO TAP, TV SETS
+dialog: The cops. Lampley. America. All tuned into the --
+scene_heading: INT. EMERGENCY ROOM - TREATMENT AREA - LATE AFTERNOON
+text: Sheer pandemonium. Hostages run for cover. The phone receiver swings back and forth, and a bloody J.Q. is slumped against the wall.
+scene_heading: EXT. HOPE MEMORIAL HOSPITAL - LATE AFTERNOON
+dialog: Lampley continues his live coverage as horrified crowds move around him.
+dialog: LAMPLEY
+dialog: All we know at this point is that an attempt has been made on the gunman's life. Repeat. John Q. has been shot.
+scene_heading: INT. EMERGENCY ROOM - TREATMENT AREA - LATER
+dialog: J.Q. sits, his shirt soaked in blood. Among all the madness, something funny happens.
+dialog: INT. DUCT SYSTEM - LATE AFTERNOON
+text: The sniper loses his balance and his leg crashes through the acoustic tile ceiling. He is momentarily stuck.
+scene_heading: INT. EMERGENCY ROOM - TREATMENT AREA - LATE AFTERNOON
+text: J.Q. blinks. The wound, the hysteria, the events of the day, and now a leg sticking through the ceiling. It's all very surreal. He gets up, moves to the leg, and pulls. And the ceiling comes crashing down.
+dialog: EXT. COMMAND POST
+text: Stunned, Monroe, Moody, Grimes and Payne grimly watch J.Q. subduing the sniper on the video tape monitors. Their faces are in stark contrast with the chaos that surrounds them.
+dialog: MOODY
+dialog: He's not down.
+dialog: GRIMES
+dialog: This is very bad, Gus.
+dialog: A UNIFORMED POLICEMAN runs up with a cell phone and hands it to Monroe.
+dialog: MONROE
+dialog: Not now.
+dialog: POLICEMAN
+dialog: It's the Mayor, sir. And you better kill that video feed. The media's pirated the signal and the whole thing just went out live over national TV.
+text: As Monroe takes the phone and Moody starts barking out orders, the feed is disconnected, and the monitors go blank.
+dialog: EXT. TWO-LANE HIGHWAY - GOLDEN HOUR
+text: The beautiful woman's body is loaded onto the medivac. The helicopter lifts off and disappears into the darkening sky.
+scene_heading: INT. COMPUTER ROOM - SOMEWHERE IN AMERICA - NIGHT
+text: The daisy wheel keeps on turning. WE SEE the words as they're printed. Vernell Tilson. Status 2. Arthur Friedlander. Status 3. Amy Podgorsky. Status 2. And a new entry, Mike Archibald, Age 9, 85 pounds. It's official. He's on the list. Status 1.
+dialog: INT. EMERGENCY ROOM - GOLDEN HOUR
+text: The sniper now sits restrained to a chair, his hands and feet bound by adhesive tape. The other hostages are somber, knowing that they are caught smack in the middle of this mess. J.Q. sits stripped to the waist as Maguire removes the bullet from his shoulder, his wheel spinning, spinning.
+dialog: J.Q.
+dialog: It's over. Mikey's not going to make it.
+speaker_heading: JULIE
+dialog: But the list.
+dialog: J.Q.
+dialog: What list? They're shooting at me. They're not going to help my kid. It's time to change plans.
+dialog: DR. KLEIN
+dialog: What about an El-vad?
+dialog: DR. TURNER
+dialog: No.
+dialog: J.Q.
+dialog: What's an El-vad?
+dialog: DR. KLEIN
+dialog: A left Ventricular Assist Device. It's basically a pump inserted into the chest cavity, wired to the heart to keep it stimulated.
+dialog: J.Q.
+dialog: All this time there's been a way to save his life and you never said anything?
+dialog: DR. TURNER
+dialog: It's not a solution. It's only a band aid. Mike's immune system may be too weak.
+dialog: J.Q.
+dialog: Will it give him time?
+dialog: DR. TURNER
+dialog: Not long. It's only a temporary measure.
+dialog: J.Q. My kid's down to hours and minutes, Doc. Things don't get more temporary than that.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - GOLDEN HOUR
+text: The police are unceremoniously disconnecting Channel 8's pirated signal, hassling Lampley's crew, and telling them they are all going to be arrested.
+dialog: LAMPLEY
+dialog: You're going to bust me? Get real. You just shot an innocent man on primetime TV.
+text: A roar from the crowd indicates something big is happening. J.Q. is coming outside. He's got the sniper in tow, using him as a human shield. The crowd behind the barricade is huge now, holding up signs like "Have a Heart," "Save Mike," and "John Q. Public." They scream encouragement with J.Q.'s every move. As he comes forward, police and SWAT teams train their rifles on him.
+dialog: J.Q.
+dialog: Grimes. Grimes!
+dialog: Behind the barricade, Frank Grimes stands with Monroe and Moody.
+dialog: MONROE
+dialog: Alright.
+dialog: GRIMES
+dialog: Alright, what?
+dialog: MONROE
+dialog: Let's go out there. See what he wants.
+dialog: GRIMES
+dialog: But I thought you said I was out.
+dialog: MONROE
+dialog: I stepped in shit, Frank. Is that what you want to hear, goddammit? Now quit breaking my stones. I need you to save my ass on this one.
+text: Frank Grimes smiles before grabbing a megaphone from one of the uniforms and stepping out from behind the barricade with Monroe and Moody.
+dialog: GRIMES
+dialog: Hold your fire.
+text: J.Q. looks around at the hundreds of weapons all pointing right at him. They're everywhere he turns. He sees Grimes approaches.
+dialog: J.Q.
+dialog: Look what I found.
+dialog: The crowd cheers support for their new hero.
+dialog: GRIMES
+dialog: John.
+dialog: J.Q.
+dialog: Who are these guys? Who the hell are you? Oh, I know who you are, the guys who tried to take me out.
+dialog: J.Q. indicates his bleeding shoulder.
+dialog: J.Q. (CONT'D)
+dialog: Almost.
+dialog: GRIMES
+dialog: This is Sergeant Moody and Police Chief Monroe.
+dialog: MONROE
+dialog: What are we doing, John?
+dialog: J.Q.
+dialog: You were going to call me back. I gave you your hostages and you were supposed to call me back. But no, you want me dead.
+dialog: GRIMES
+dialog: I don't want you dead.
+dialog: J.Q.
+dialog: No, you want to kill me. You want to kill me so bad you can taste it.
+dialog: GRIMES
+dialog: Nobody wants to kill you.
+dialog: J.Q.
+dialog: Nobody wants to kill me?
+dialog: (indicates the sniper)
+dialog: Who is this?
+dialog: The crowd voices their displeasure in a chorus of "boos."
+dialog: GRIMES
+dialog: That wasn't my call. I --
+dialog: J.Q.
+dialog: I, I, I bullshit! You tried to kill me. You tried to kill me while I was talking to my boy!
+text: The crowd erupts. They're getting rowdy now. The cops are getting jumpy, their rifles trained, their trigger fingers ready.
+dialog: MONROE
+dialog: John, listen to me. Lieutenant Grimes had nothing to do with that. It was my call.
+dialog: J.Q.
+dialog: Don't lie to me. I don't need to be bullshitted by some lying flunky cops.
+dialog: GRIMES
+dialog: What are we, friends all of a sudden? All of a sudden, we owe you something? You pulled the gun. You're the one that took the hospital. What did you think would happen? You want truth Here's some truth. This is going to end up bad for you. There's only two ways out of here. Jail or dead.
+dialog: J.Q. hears the words and they sink in. He knows they're right.
+speaker_heading: GRIMES (CONT'D)
+dialog: Look around you. Look at all of it. It's crazy. You don't want to do this.
+dialog: J.Q.
+dialog: I just want my life back.
+dialog: GRIMES
+dialog: I understand. It's hard to be a man these days. Hard to know what the right thing is. Put the gun down, John. It's all over. You got everything you asked for. Mike is on the list. Status one.
+dialog: J.Q.
+dialog: I don't believe you.
+dialog: GRIMES
+dialog: I give you my word.
+dialog: J.Q.
+dialog: Forgive me for being skeptical, Frank, but your word is shit!
+text: The crowd goes crazy, cheering and shouting out their encouragement. The faces are those of outrage and passion. Some even with tears streaming down their faces. J.Q. looks out the overwhelming display of support.
+dialog: GRIMES
+text: Hey, what are you doing? Stay with me, John. You think these people give a shit about you? They don't. You're just the cause of the moment. Believe me, in a couple of days, they'll be outraged about something else. Nobody cares, John. That's the real truth. Nobody cares. Only you. It's only you and me out here, and all these guns pointed at you. So, what do you want to do? It's your call.
+dialog: J.Q.
+dialog: I want my son.
+dialog: MOODY
+dialog: What?
+dialog: J.Q.
+dialog: Bring me my son. I want my son inside with me.
+dialog: MONROE
+dialog: Can't do it.
+dialog: J.Q.
+dialog: There's an operation that could save his life. I'm going to need some equipment but I've got two surgeons inside that are ready to go.
+dialog: MONROE
+dialog: You listen to me, you sonofabitch. You give this up right now, turn yourself in. And your son will have any and every means of assistance. If not, if you keep this up, this is going to be very bad for you.
+dialog: J.Q.
+dialog: Are you threatening me, Chief? Take your best shot. Oh, I forgot, you already did. No, we'll do this my way. You give me my boy, they do the surgery and then I give up. Nobody gets hurt and everyone goes home.
+dialog: Monroe studies J.Q. and considers.
+dialog: MONROE
+dialog: What do you think, Frank?
+dialog: GRIMES
+dialog: I say give it to him. He's not going to hurt his boy.
+dialog: Monroe takes his time making his decision.
+dialog: MOODY
+dialog: Sir, the object is to get hostages out, not to let more in.
+dialog: MONROE
+dialog: The boy is not a hostage. He's the man's son. Do it.
+scene_heading: INT. HOPE MEMORIAL HOSPITAL - HALLWAY - MAGIC HOUR
+text: Mike's hospital bed flies down the hallway. Running alongside we see Denise, Payne and nurses holding medical equipment.
+dialog: MIKE
+dialog: Mom, where are we going?
+dialog: DENISE
+dialog: To see your father.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - MAGIC HOUR
+text: The front doors burst open and Mike's bed is rolled onto the sidewalk. COPS run alongside like secret service agents, protecting Mike, pushing a path through the crowd.
+dialog: COPS
+dialog: Coming through. Let's go. Move it back, folks.
+text: The mob swarms around the speeding bed, trying to get a look at Mike, who considers the circus atmosphere surrounding him. As the bed hits the police barricade, the cops take over.
+dialog: DENISE
+dialog: Let me through. I'm his mother.
+dialog: But she is held back as Mike is ushered through.
+dialog: INT. EMERGENCY ROOM - MAGIC HOUR
+text: Mike's bed is rolled slowly to a stop outside the ER doors. The sniper is released and J.Q. stands guard as Mike is rolled in by Turner and Maguire, before locking the door behind them.
+dialog: MIKE
+dialog: Dad, where have you been?
+dialog: J.Q.
+dialog: Just waiting for you, buddy.
+text: Mike looks up to see Dr. Turner walking alongside. He looks up at him and smiles. Mike is wheeled into a Trauma room where the monitors quickly come to life.
+dialog: INT. MIKE'S TRAUMA ROOM - MAGIC HOUR
+text: J.Q. looks at Mike as the medical team assess his condition, just watching helplessly as the life drains out of his body.
+dialog: J.Q.
+dialog: How are you feeling, slugger?
+dialog: MIKE
+dialog: I'm okay. Tired.
+text: Beep. Beep. The monitors whisper faintly, irregularly, Turner steps in front of J.Q.
+dialog: DR. TURNER
+dialog: Out.
+dialog: J.Q.
+dialog: What?
+dialog: DR. TURNER
+dialog: I need some time to examine Mike and I don't need you getting in the way. It's crowded enough in here.
+dialog: J.Q.
+dialog: I'll stay in the corner.
+dialog: DR. TURNER
+dialog: I'm serious, John. Let me do my job.
+text: Turner ushers him out the door and closes it behind him. John looks up to find the hostages staring at him. Uncomfortable, he moves into a recovery room.
+scene_heading: INT. EMERGENCY ROOM - TRAUMA ROOM - NIGHT
+text: J.Q., alone, notices the simple wooden cross hanging over the door. He stares at it a long time before kneeling, his arms resting on the bed.
+dialog: J.Q.
+dialog: Bless me, father. For I have sinned. It's been a long time, so forgive me if I'm a little rusty. I know you do things your own way. But I'm finding it hard to understand why you would want Mike to be so sick.
+dialog: INT. MIKE'S TRAUMA ROOM - NIGHT
+text: Turner administers the meds and Mike's eyes glaze and roll back in his head. With all the drugs coursing through his system, Mike is really out of it now. But as Dr. Turner diligently attends to Mike, the boy considers him, the bright O.R. lights casting a halo around the doctor's head.
+dialog: MIKE
+dialog: Are you God?
+dialog: DR. TURNER
+dialog: (caught off-guard)
+dialog: Yeah, kid. Yeah, I am.
+text: Turner continues working, and as he turns his back to the boy, he hears the question that floors him.
+dialog: MIKE
+dialog: Where you been?
+scene_heading: INT. EMERGENCY ROOM - TRAUMA ROOM - NIGHT
+dialog: J.Q.
+dialog: I keep waiting for you to step in and help him. But you never do. And I don't understand. I don't understand and I don't forgive. So, help me, Father. Because I'm trying. I'm really trying.
+dialog: Dr. Turner appears at the doorway and sees John on his knees.
+dialog: DR. TURNER
+dialog: John?
+text: J.Q. looks up and Dr. Turner soberly shakes his head. The news isn't good.
+scene_heading: INT. EMERGENCY ROOM - TREATMENT AREA - NIGHT
+dialog: Dr. Turner and John look through the glass at Mike resting peacefully.
+dialog: DR. TURNER
+dialog: Mike's blood pressure has dropped into the mid-forties. His atrial blood pressure should be in the low teens. It's thirty-five. If I put that LVAD into him, his heart will never be able to handle the extra strain.
+dialog: J.Q.
+dialog: But...
+dialog: DR. TURNER
+dialog: Not buts, John. Without a new heart, he's not going to make it.
+dialog: J.Q. is devastated. It takes a few moments to sink in.
+dialog: J.Q.
+dialog: Take mine.
+dialog: Turner doesn't get it.
+dialog: DR. TURNER
+dialog: What?
+dialog: J.Q.
+dialog: You heard me. Take my heart and put it in Mike.
+dialog: MITCH
+dialog: John, buddy, you're talking a little nutsy cukoo, here.
+dialog: DR. TURNER
+dialog: You can't be serious.
+dialog: J.Q.
+dialog: You think I'm just going to stand here and watch my son die? You bet I'm serious. Dead serious.
+dialog: DEBBY
+dialog: Wow.
+speaker_heading: JULIE
+dialog: Oh my God.
+dialog: Lester tries to comprehend the nihilistic existentialism of it all.
+dialog: LESTER
+dialog: But that means you'll die, man.
+dialog: J.Q. calmly finishes Lester's thought.
+dialog: J.Q.
+dialog: And my sone will live.
+dialog: DR. KLEIN
+dialog: John, you can't do this.
+dialog: J.Q.
+dialog: It's the only way.
+dialog: DR. KLEIN
+dialog: No, you don't understand. You physically can't do it.
+dialog: J.Q.
+dialog: Why not? I kill myself. You cut me open and take my heart. It's perfect.
+dialog: LESTER
+dialog: The boy crazy.
+dialog: MITCH
+dialog: Nutsy cuckoo, I'm telling you.
+dialog: DR. KLEIN
+dialog: We just can't remove your heart and put it into Mike's body.
+dialog: DR. TURNER
+dialog: There's too many unknowns. Matching a donor and receiver is extremely complicated. There's several critical tests that have to be taken.
+dialog: J.Q.
+dialog: Like what?
+dialog: DR. TURNER
+dialog: Cross matches for blood type, chest cavity measurements. If both blood tissues aren't compatible, there's a very high likelihood of rejection.
+dialog: J.Q.
+dialog: Come on, Doc. I know all about compatibility. We've been tested up the wazoo. Mike and I are both B-Positive. Our tissues are a match. And his heart is three times normal size which means mine will fit. You know damn well we're compatible.
+dialog: DR. TURNER
+dialog: No, we don't. You're an adult. Mike is strong, but the amount of blood your heart pumps may be too much for Mike.
+dialog: J.Q.
+dialog: I'll take that chance. It's better than letting him die.
+dialog: DR. TURNER
+dialog: Out of the question. Too risky.
+dialog: J.Q.
+dialog: I'm telling you, he'll make it.
+dialog: DR. TURNER
+dialog: Can't do it, John.
+dialog: J.Q.
+dialog: You're telling me that if I'm laying dead on the floor, you wouldn't take my heart and put it in my kid to save his life? You'd let two people die instead of one because of a technicality?
+speaker_heading: JULIE
+dialog: I think what John's trying to do is right.
+dialog: DEBBY
+dialog: Me, too. I think it's very brave.
+dialog: MAGUIRE
+dialog: Yeah, it's all very noble and brave. But what do you think Mike would want? Or your wife?
+dialog: J.Q.
+dialog: Mike is too young to know what's good for him. I'm his father. It's my job to protect him, and Denise would do the same thing if she was in my place.
+dialog: SECURITY GUARD
+dialog: Are you saying Mike's life is more important than yours?
+dialog: MITCH
+dialog: Or that it's okay that Mike grows up without a father?
+dialog: MAGUIRE
+dialog: You can have more children, John.
+dialog: LESTER
+dialog: What happened to Mike is bad, man. It's the worst. It ain't fair, but you can't kill yourself. Sometimes you've just got to let go and let God take care of it. You've got to accept it.
+dialog: J.Q.
+dialog: Accept what?
+dialog: DR. TURNER
+dialog: That Mike's going to die.
+dialog: J.Q.
+dialog: No. I don't accept it. I reject it out of hand.
+dialog: John moves over to Dr. Turner to plea his case.
+dialog: J.Q. (CONT'D)
+dialog: I know you only think of Mike as a patient, but he's a great kid. Really. He's like magic, you know? He loves bodybuilding. You believe that? And he's funny. You'd like him, Doc. You'd really like him, if you knew him.
+dialog: DR. TURNER
+dialog: I do like him.
+dialog: J.Q.
+dialog: Please. You've got to help him. I'm begging you. If you ever do anything outside the rules, do this. Take a chance, please.
+dialog: DR. TURNER
+dialog: I'd like to. I really would. But what you're asking crosses the line. It's completely unethical.
+dialog: J.Q.
+dialog: I've crossed the line? No, you've crossed the line. The whole system has crossed the line.
+text: J.Q. paces around the room, his hand on his weapon, his mood very dark and threatening.
+dialog: J.Q. (CONT'D)
+dialog: I don't think you understand. I'm not letting him die. Haven't you figured that out by now? I don't care what I have to do.
+dialog: DR. TURNER
+dialog: So, what, you're going to kill me if I don't operate.
+dialog: J.Q.
+dialog: No. I'm going to kill myself.
+dialog: J.Q. puts the gun to his temple.
+dialog: J.Q. (CONT'D)
+dialog: And we'll just see what happens.
+dialog: LESTER
+dialog: Aw, man, this is messed up.
+dialog: J.Q.
+dialog: We all know how this works, people. In order for Mike to live, someone has to die. I'm the father. It might as well be me.
+dialog: J.Q. and Turner's eyes meet. Turner doesn't speak for a long moment.
+dialog: DR. TURNER
+dialog: Alright.
+dialog: MITCH
+dialog: Alright, what?
+dialog: DR. TURNER
+dialog: I'll do it. If that's what you want.
+dialog: MITCH
+dialog: Wait a minute. Are you serious?
+dialog: The room goes quiet.
+dialog: DR. TURNER
+dialog: Once he's dead. Why not?
+dialog: Dr. Klein moves to Dr. Turner.
+dialog: DR. KLEIN
+dialog: You're the finest surgeon I've ever known. You can't just throw your entire career for this man.
+dialog: MITCH
+dialog: Yeah, you're not God. It's not up to you to decide who lives and dies.
+dialog: J.Q.
+dialog: Aw, come on, Mitch. We're all going to die.
+dialog: MAGUIRE
+dialog: Not for nothing, Doctor. But if you do this, you're finished.
+dialog: DR. TURNER
+dialog: So, what are they going to do? Sue me? Disbar me? Evict me from the country club?
+dialog: DR. KLEIN
+dialog: Raymond, you're under a lot of stress. You're not yourself.
+dialog: DR. TURNER
+dialog: Yeah, well, what is myself? Because right now, I really don't know. Let's see --
+dialog: He takes his Patek Phillipe watch off and throws it at the wall, smashing it.
+speaker_heading: DR. TURNER (CONT'D)
+text: I run six miles a day, drive around in my little black Porsche and date girls thirty years younger than me. Is the picture clear now? I like twelve hundred dollar shoes and I've always got a great tan. And here's the best part. Everybody kisses my ass and acts as if that's the way doctors are supposed to be, that's the reward. Reward for what? What I am is a plumber. I connect valves to tubes and tubes to valves. That's what I do. But back in that room with your son, I got a very short glimpse of my soul. And let me tell you, it's been long lost.
+dialog: MAGUIRE
+dialog: But...
+dialog: DR. TURNER
+dialog: This is still a hospital. There's a sick kid in there and I'm his doctor. And if there's a heart available, I'll be damned if I'm going to let it go to waste.
+dialog: The room is stunned.
+dialog: EXT. MONTANA HOSPITAL - ROOF - NIGHT
+text: A medivac chopper swoops down, lands on the big white cross on the helipad tarmac. The doors fly open. A medical team quickly disembarks, lifts out a stretcher with a beautiful woman's body and runs across the roof into the hospital.
+scene_heading: INT. MONTANA HOSPITAL - OPERATING ROOM - NIGHT
+text: The stretcher is rushed into the O.R. and the body is placed on the surgical table. A MEDICAL TRANSPLANT TEAM is waiting, ready. They take the body, prep for organ harvesting.
+dialog: INT. MONTANA HOSPITAL - OFFICE - NIGHT
+dialog: In another room, an UNOS OFFICIAL is notified of the beautiful woman's arrival.
+dialog: UNOS OFFICIAL
+dialog: She's here?
+text: He gets up and is on the move, securing his wireless headset and dialing.
+scene_heading: INT. MONTANA HOSPITAL - OPERATING ROOM - NIGHT
+dialog: The UNOS Official moves into the OR. Everything the transplant people tell him, he repeats into the phone.
+dialog: MEDICAL TRANSPLANT PERSON #1
+dialog: Female. Donor. Thirty-three years old. Five foot seven. Liver, kidneys, usable.
+dialog: UNOS OFFICIAL
+dialog: Lungs?
+dialog: MEDICAL TRANSPLANT PERSON #2
+dialog: Okay.
+dialog: UNOS OFFICIAL
+dialog: Heart?
+dialog: MEDICAL TRANSPLANT PERSON #2
+dialog: Heart is good.
+dialog: UNOS OFFICIAL
+dialog: Type?
+dialog: The transplant team are busy.
+dialog: UNOS OFFICIAL (CONT'D)
+dialog: Come on. Blood type?
+dialog: MEDICAL TRANSPLANT PERSON #1
+dialog: (checks bracelet)
+dialog: B-positive.
+dialog: INT. EMERGENCY ROOM - NIGHT
+text: The TVs are now off. J.Q. looks out the window at the evergrowing police build-up. There's an upbeat bound in his step, a sense of relief with the finality of the decision he's made.
+dialog: J.Q.
+dialog: Come on, guys. Let's hurry it up. They could bust in here any minute.
+dialog: SECURITY GUARD
+dialog: This was your plan all along, wasn't it?
+dialog: J.Q.
+dialog: Last resort. You think I wanted it to turn out like this?
+dialog: J.Q. pulls a piece of paper out of his pocket and unfolds it.
+dialog: J.Q. (CONT'D)
+dialog: This is my will. I'm leaving my heart to my son.
+dialog: He holds up a pen.
+dialog: J.Q. (CONT'D)
+dialog: I need two witnesses. Don't everybody jump at once.
+dialog: LESTER
+dialog: I ain't signing your death warrant. No way.
+dialog: J.Q.
+dialog: Come on, people. The sooner we get this done, the sooner we all go home.
+speaker_heading: JULIE
+dialog: I'll sign.
+dialog: SECURITY GUARD
+dialog: Me, too.
+dialog: They do.
+speaker_heading: SECURITY GUARD (CONT'D)
+dialog: You know something, man? You're alright.
+dialog: J.Q.
+dialog: Sure am. Only one thing can stop me now.
+dialog: SECURITY GUARD
+dialog: What's that.
+dialog: J.Q.
+dialog: Mitch here being B-positive.
+dialog: MITCH
+dialog: No, sir. Type-O.Ê Swear to God.
+text: For a moment the mood is light. J.Q. looks around the room at Maguire, Debby, Mitch, Julie, Lester, and the security guard. Debby can't stop crying again.
+dialog: J.Q.
+dialog: Hey, you.
+dialog: MITCH
+dialog: Yeah.
+dialog: J.Q.
+dialog: Do yourself a favor. Start doing the right thing, huh? Life's too short. You had a good woman there. You're too smart to be so dumb.
+dialog: J.Q. looks around the room before he leaves.
+dialog: J.Q. (CONT'D)
+dialog: Alright, people. See you in the funny papers.
+scene_heading: INT. COMPUTER ROOM - SOMEWHERE IN AMERICA - NIGHT
+text: The daisy wheel buzzes, pounding letters onto the print page. Mike Archibald, Hope Memorial Hospital, age 9, 85 pounds. Blood type: B-positive. MATCH.
+dialog: PULL BACK TO REVEAL
+text: A man sitting alone in front of the computer. He rips the copy from the printer, lays it into the fax machine and dials. A piercing beep. The paper gets sucked away.
+dialog: INT. PEDIATRIC I.C.U. - NIGHT
+text: A fax machine chirps in the quiet PICU. Reggie picks up the fax, and as he reads, a look of disbelief.
+dialog: REGGIE
+dialog: Oh, my sweet Jesus.
+dialog: Paper in hand, he sprints out of the ward and down the corridor.
+dialog: INT. MIKE'S TRAUMA ROOM - NIGHT
+dialog: John enters to find Dr. Klein checking Mike's vitals. The heart monitor reads 30.
+dialog: J.Q.
+dialog: Can I have a word with him?
+dialog: Dr. Klein exits and J.Q. moves to Mike and gently wakes him up.
+dialog: MIKE
+dialog: Hi, Dad. You find me a heart?
+dialog: J.Q.
+dialog: Yeah, kid. We got you one. Look like you've got a guardian angel.
+dialog: Mike smiles and tries to go back to sleep.
+dialog: J.Q. (CONT'D)
+dialog: Try to stay awake for a minute, will you? I just need to tell you a few things. I want you always to listen to your mother. Because she's your best friend and family is important.
+dialog: He's all over the place, searching for the right words.
+dialog: J.Q. (CONT'D)
+dialog: And girls? You're too young for them now, but when the time comes, treat them like princesses because that's what they are. And if you say you'll do something, do it, because your world should be your bond. And if you have a chance to make money, go for it, even if it means selling out once in a while. Don't be a knucklehead like your father. Everything's so much easier with money.
+dialog: He's stumbling, trying to cram a lifetime of advice into five minutes.
+dialog: J.Q. (CONT'D)
+dialog: Don't smoke. And try to be kind. But if someone chooses you, be a man and stand up for yourself. And don't get caught up in the bad things, there's too many great things out there.
+dialog: J.Q. just sits there, the tears running down his face, not knowing what to say.
+dialog: J.Q. (CONT'D)
+dialog: Mike?
+dialog: Mike's eyes open.
+dialog: MIKE
+dialog: Yeah, Dad?
+dialog: J.Q.
+dialog: See you later, buddy.
+dialog: Mike closes his eyes before opening and closing his little hand. Bye bye.
+scene_heading: INT. HOPE MEMORIAL HOSPITAL - CORRIDORS - NIGHT
+dialog: INTERCUT
+text: Reggie races through the hospital, weaving in and out of ambulatory and pedestrian traffic. In his hand, the all important fax.
+dialog: INT. J.Q.'S TRAUMA ROOM - NIGHT
+text: Maguire, Klein and Turner speak in hushed tones as J.Q. reenters. When they see him, they immediately go quiet. J.Q.'s eyes are glassy, a look of finality on his face.
+dialog: J.Q.
+dialog: Let's do it.
+text: Maguire gathers fresh, clean towels and makes a pack for the back of J.Q.'s head. J.Q. sits on the exam table, takes the Baretta and pops the clip. He then takes a single bullet from his pocket, feeds the clip and chambers the round.
+dialog: MAGUIRE
+dialog: Wait a minute. This gun was empty the whole time?
+dialog: J.Q.
+dialog: Aw, I'm all talk. I would never hurt any of you. Only person I ever considered killing was me.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - NIGHT
+text: Reggie flies out the main entrance and into the crowd, pushing through the sea of humanity until he reaches Payne, Grimes and Monroe.
+dialog: REGGIE
+dialog: Miss Payne! You're not going to believe this! We've got a match.
+dialog: PAYNE
+dialog: Are you sure?
+dialog: Payne studies the fax.
+dialog: REGGIE
+dialog: B-positive. Michael William Archibald. The only status one in the whole country. The heart is ours.
+dialog: INSERT FAX
+dialog: It's official. The heart is on the way.
+dialog: PAYNE
+dialog: Well, I'll be damned.
+dialog: GRIMES
+dialog: You really put the kid on the list?
+dialog: PAYNE
+dialog: I may be a lot of things, Lieutenant, but I am not a liar.
+dialog: INT. J.Q.'S TRAUMA ROOM - NIGHT
+dialog: J.Q. readies himself before laying back on the roll of towels.
+dialog: DR. TURNER
+dialog: John. Stop. I changed my mind. I won't do this.
+dialog: J.Q. regards Turner with positive affection.
+dialog: J.Q.
+dialog: You're a good man, Doc. I know you'll do the right thing.
+dialog: J.Q. lifts the gun to his head.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - NIGHT
+dialog: Reggie, Grimes, Payne and Monroe run over to Denise.
+dialog: GRIMES
+dialog: Mrs. Archibald? I have some very, very good news.
+dialog: INT. J.Q.'S TRAUMA ROOM - NIGHT
+text: The moment has come. Everyone's face wears the intensity of it. John holds the gun up, his hand trembling. CLICK! Nothing happens.
+dialog: J.Q.
+dialog: Sorry. Safety's on.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - NIGHT
+dialog: Denise reads the fax.
+dialog: DENISE
+dialog: Is this for real?
+dialog: REGGIE
+dialog: You bet. The Lear Jet just landed at O'Hare. The helicopter will be here in fifteen minutes.
+dialog: Grimes offers his walkie-talkie to Denise.
+dialog: GRIMES
+dialog: You want to do the honors?
+dialog: DENISE
+dialog: (into walkie-talkie)
+dialog: John? It's me, baby. Are you there?
+dialog: INT. J.Q.'S TRAUMA ROOM - NIGHT
+speaker_heading: DENISE (O.S.)
+dialog: John, honey? Pick up.
+text: J.Q. hears Denise's voice squawking over the walkie-talkie. SNAP. He shuts it off. Takes a deep breath. Flips the safety off and puts the gun to his head for the final time.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - NIGHT
+dialog: Denise keeps triggering the walkie-talkie.
+dialog: DENISE
+dialog: John? John? Oh, no.
+dialog: Desperate, she grabs the list and starts running towards the ER entrance.
+dialog: INT. J.Q.'S TRAUMA ROOM - NIGHT
+dialog: CLOSE ON J.Q.'s GUN
+dialog: Moves closer to the temple til it touches.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - NIGHT
+dialog: Denise breaks through the police barricade.
+dialog: INT. J.Q.'S TRAUMA ROOM - NIGHT
+dialog: CLOSER ON TRIGGER as John's finger pulls it tighter.
+dialog: BLAM!
+scene_heading: EXT. HOPE MEMORIAL HOSPITAL - E.R. ENTRANCE - NIGHT
+dialog: BLAM! The sound is revealed. Not a bullet. It's Denise slapping the list up against the glass windows of the ER.
+dialog: DENISE
+dialog: John! It's a miracle! They found a heart! It's a miracle!!!
+dialog: EXT. HOPE MEMORIAL HOSPITAL - NIGHT
+text: The crowd points and stares as a white medivac helicopter descends from the sky, lights flashing and lands on the roof.
+dialog: PULL BACK TO REVEAL
+dialog: Tuck Lampley, hand over his ear, shouting above the noise to bring us more exclusive coverage.
+dialog: LAMPLEY
+dialog: The heart is here. Repeat. The heart for little Mike Archibald has arrived. What an unbelievable ending to this incredible, tumultuous day.
+text: A roar from the crowd is heard as the entrance to the ER is unlocked and the front door opens. Mitch and Debby are the first to emerge.
+speaker_heading: LAMPLEY (CONT'D)
+text: Oh my goodness, here we go. The first of the hostages are being released. Yes, they're coming out. There's one, two. They appear to be unharmed. But certainly exhausted from what must've been an excruciating ordeal.
+dialog: Julie and the security guard are next. And are quickly ushered away to support vehicles.
+speaker_heading: LAMPLEY (CONT'D)
+dialog: More, now. And there he is. John Q. is coming out.
+dialog: J.Q., in baseball hat and windbreaker, emerges from the hospital.
+speaker_heading: LAMPLEY (CONT'D)
+dialog: The suspect's hands are up. He appears to be surrendering.
+text: The police are all around him now. Pointing their weapons and shouting commands. J.Q. puts his hands behind his head, turns around, kneels and then lays face down on the pavement.
+speaker_heading: LAMPLEY (CONT'D)
+dialog: And they've got him. The police have subdued him. The handcuffs are on, and it's over. It's all over.
+text: The crowd voices their disapproval with the rough way J.Q. is being apprehended. They cheer their support as he is escorted to a police car.
+speaker_heading: LAMPLEY (CONT'D)
+dialog: If pictures speak a thousand words, well, I'd say these images speak volumes. And now as the bloody stand off comes to an end, we remind you that Channel 8 was here first and has brought you live, moment-to-moment, all-day coverage of "Crisis at Hope Memorial.'
+text: Frank Grimes takes in the whole scene. But as he glances at the suspect, a funny look comes across his face. Wait a sec -
+scene_heading: INT. HOPE MEMORIAL HOSPITAL - CORRIDORS - NIGHT
+text: Mike's gurney flies through the hospital corridors. Running alongside are Turner, Klein, Maguire and Denise. As well as teams of MEDICAL PERSONNEL and a man in green surgical scrubs. As they pass a police checkpoint, we notice the identity of the man in the green scrubs. It's J.Q.
+dialog: EXT. HOPE MEMORIAL HOSPITAL - NIGHT
+text: As J.Q. is pushed into the car, Grimes sees his real identity. It's Lester, dressed in J.Q.'s windbreaker, collar up, baseball cap pulled way down over his eyes. Grimes shakes his head. Top notch policework. Incredulous, he turns and takes the long walk to the hospital.
+scene_heading: INT. OPERATING ROOM - PEDIATRIC CARDIOLOGY - NIGHT
+text: Dr. Turner and the team work with quiet precision as Mike lays on the operating table, his chest wide open. Behind the partition glass, J.Q. and Denise hold on to each other for support as they look on. A figure in a rumpled suit settles in next to them and watches. It's Grimes.
+dialog: GRIMES
+dialog: It's time, John.
+dialog: J.Q. turns, knows it's over.
+dialog: J.Q.
+dialog: Can you give me a second, Frank? I just need to see this thing through.
+dialog: GRIMES
+dialog: Sure. Put these on for me, will you?
+text: Grimes hands J.Q. a pair of handcuffs. John puts them on and the three watch the surgery. The replacement heart is taken out of its container and placed into Mike's chest. But then, something suddenly is wrong. Mike's vital signs start giving out. The gauges dropping at once. It's bad.
+dialog: NURSE #1
+dialog: Blood pressure seventy over thirty-two.
+dialog: NURSE #2
+dialog: Acute respiratory distress.
+dialog: NURSE #1
+dialog: He's fibrillating.
+dialog: MAGUIRE
+dialog: I don't have a pulse.
+text: John and Denise look on, helpless. Dr. Turner barks out commands as the team scrambles to remedy the critical situation.
+dialog: DR. KLEIN
+dialog: He's going.
+dialog: DR. TURNER
+dialog: No! Come on, goddammit! I'm not losing this boy!
+dialog: Nut now the long familiar tone of the EKG is heard. FLATLINE.
+dialog: VIDEO IMAGES FILL THE SCREEN
+dialog: Various news related programming. "Crossfire," "Face The Nation," CNBC, COURT TV and "Larry King Live." Clips dissolve one into the other.
+speaker_heading: VIDEO CLIP #1
+dialog: NEWS REPORTER #1
+dialog: ...cannot let this man free. It sends the wrong message.
+dialog: NEWS REPORTER #2
+dialog: I agree. Although he's paid a heavy price, he took matters into his own hands...
+speaker_heading: VIDEO CLIP #2
+dialog: NEWS REPORTER #3
+dialog: Maybe it's the wake up call this country needs...
+speaker_heading: VIDEO CLIP #3
+dialog: NEWS REPORTER #4
+dialog: ...socialized medicine in England has worked.
+dialog: NEWS REPORTER #5
+dialog: Sure, to a point. Except when it's their life on the line, the Dutch, the English and everyone else go to their private doctors or come to America because we have the best technology. That is if they can afford it.
+dialog: VIDEO CLIP #4
+dialog: NEWS REPORTER #6
+dialog: I think the decision we see today will tell us a lot about this country.
+dialog: VIDEO CLIP #5
+dialog: NEWS REPORTER #7
+dialog: The long awaited verdict is expected today in the trial of John Quincy Archibald, where the jury has been deliberating...
+dialog: INT. COURTROOM - DAY
+dialog: SUPERIMPOSE: THREE MONTHS LATER
+dialog: CLOSE ON
+text: A gavel pounding down. The black-robed JUDGE silences the crowd. The courtroom is standing room only. Packed with cops, TV cameras, reporters, etc.
+text: We see Denise next to a grim-faced Jimmy and Gina Palumbo. As the jury flies into the jury box, the people take their seats. The bailiff hands the verdict card to the judge who reads it before addressing the FOREMAN.
+dialog: JUDGE
+dialog: Has the jury reached a verdict?
+dialog: The foreman stands, faces the judge.
+dialog: JURY FORMAN
+dialog: We have, Your Honor.
+dialog: JUDGE
+dialog: The defendant will please rise.
+dialog: AT THE DEFENDANT'S TABLE
+text: J.Q. Archibald gets up and faces the judge. His attorney, a P.D., by his side.
+text: Standing next to Denise, we REVEAL MIKE - he looks healthy and rosy-cheeked. He grabs his mother's hand with anticipation.
+dialog: JUDGE (CONT'D)
+dialog: The jury foreman will now read the verdict.
+dialog: JURY FORMAN
+dialog: As to count one, Assault with a deadly weapon, we find the defendant, John Quincy Archibald, not guilty.
+text: The courtroom explodes in cheers. In the crowd, we see familiar faces: Debby, Dr. Turner, and Dr. Klein. Behind them, Maguire.
+speaker_heading: JURY FORMAN (CONT'D)
+dialog: On count two, Armed Criminal Action. Not guilty.
+text: The crowd again roars its approval. Steve and Miriam watch from the gallery, holding a baby girl. Even Rebecca Payne cracks a smile.
+speaker_heading: JURY FORMAN (CONT'D)
+text: On the final count, False Imprisonment, we find the defendant, guilty. The crowd erupts in protest. The media rush out to file their stories.
+dialog: DENISE
+dialog: No!
+dialog: JUDGE
+dialog: Quiet! Sentencing will be one week from today.
+text: J.Q. stares straight ahead and takes a breath. After a moment, the public defender leads him over to the rail, where he is greeted by Jimmy, Gina, Denise and Mike.
+speaker_heading: PUBLIC DEFENDER
+dialog: He's going to do some time. But there's not a judge in the country that will give him more than a year. And with time served, John will be home very soon.
+dialog: J.Q. leans over to talk to his son.
+dialog: J.Q.
+dialog: You alright?
+dialog: Mike nods and stands there trying to hold back the tears.
+dialog: J.Q. (CONT'D)
+dialog: It's okay, slugger. I'll be home soon. If you need anything, ask your mother. And Jimmy and Gina will be around.
+dialog: MIKE
+dialog: Don't worry. If anybody messes with us, I'll take care of it.
+dialog: J.Q. embraces his boy and moves over to Denise.
+dialog: DENISE
+dialog: A year, huh? I could have lost you forever. I guess I can live with that.
+text: A hand taps him on the shoulder. J.Q. looks up. Sees Grimes.
+dialog: GRIMES
+dialog: Time to go, John.
+dialog: DENISE
+dialog: John? I'm proud of you.
+dialog: J.Q. smiles and Grimes starts to lead him away.
+dialog: JIMMY
+dialog: Give 'em hell, Johnny. Don't worry about nothing.
+dialog: MIKE
+dialog: Bye, Dad.
+dialog: J.Q.
+dialog: Not goodbye. Remember? See you later.
+dialog: EXT. COURTROOM - MORNING
+text: An enormous crowd lines both sides of the granite steps. They cheer their support as J.Q. emerges. Grimes steers J.Q. out through the confusion as reporters stick their mics in J.Q.'s face. They ask ridiculous questions about justice, health care, and politics. J.Q., uncomfortable with all the attention, has no comment. He pushes past politely, head down, his attention joslted when he hears a familiar voice.
+dialog: VOICE IN CROWD
+dialog: Hey, John. Good luck, man.
+text: J.Q. recognizes the voice, turns and sees LESTER. Both smile to each other as J.Q. is pushed further through when --
+dialog: REPORTER
+dialog: John Q.? Do you feel like your country has let you down?
+dialog: J.Q.
+dialog: (quietly)
+dialog: No. It's a wonderful country.
+dialog: REPORTER
+dialog: I'm sorry. I couldn't hear you. Could you repeat that?
+dialog: Grimes steps forward and speaks directly into the camera.
+dialog: GRIMES
+dialog: He said, "America is the greatest goddamn country in the world." Now excuse us, I have to take this man to jail.
+dialog: They push past the barricades and into the street.
+dialog: MEDIA
+dialog: John Q.! John Q.!
+dialog: GRIMES
+dialog: Look at all this. You're a celebrity, John.
+dialog: J.Q.
+dialog: Yeah? Check with me in a couple of days.
+text: They move to the street and Grimes opens the car door. J.Q. climbs inside. He looks up to see the CROWD, in all its glory, cameras flashing, microphones pointed at J.Q.
+dialog: J.Q. (CONT'D)
+dialog: This is ridiculous. I don't even know these people.
+dialog: GRIMES
+dialog: What can I tell you? You're their hero.
+dialog: J.Q.
+dialog: I'm not hero, Frank. I'm just a regular guy.
+dialog: GRIMES
+dialog: Yeah, right.
+text: Grimes slams the door. The "cherry" light spins, the siren wops and the cop car rolls through the crowd of people.
+dialog: INT. POLICE CAR - CONTINUOUS
+text: On the street, J.Q. sees Mike wave to him from the sidewalk, trying to get John's attention. Mike is saying something. J.Q. turns to look closer and finally he gets it: EXT. STREET - CONTINUOUS
+dialog: Mike's lips say "Thank you."
+dialog: INT. POLICE CAR - CONTINUOUS
+dialog: John winks at his boy.
+dialog: EXT. STREET - CONTINUOUS Mike makes a muscle.
+dialog: INT. POLICE CAR - CONTINUOUS
+dialog: John smiles, and the car picks up speed.
+dialog: EXT. STREET - CONTINUOUS
+text: The cop car pulls away. Away from the courtroom. The circus. Finally disappearing from view and we --
+dialog: FADE TO BLACK.
+dialog: THE END
+dialog: 

@@ -1,0 +1,7039 @@
+speaker_heading: Homicide: Life Everlasting 11/15/ Rev. PINK
+dialog: Disclaimer: The characters, plotlines, quotes, etc. included here are owned by Baltimore Pictures and Fatima
+dialog: Productions in association with NBC Studios, all rights reserved. Homicide was created by Paul Attanasio and
+dialog: based upon David Simon's book Homicide: A Year on the Killing Streets. The following script is in no way a
+dialog: substitute for the movie itself, it's for educational purposes only. This script is not
+dialog: authorized or endorsed by Baltimore Pictures, Fatima Productions, or NBC. It was obtained and
+dialog: transcribed by Ramius and made
+dialog: available for your downloading enjoyment by Laurel Krahn at
+dialog: http://www.windowseat.org/homicide/scripts/.
+speaker_heading: HOMICIDE LIFE EVERLASTING
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: Written by
+dialog: James Yoshimura
+dialog: Eric Overmyer
+speaker_heading: Tom Fontana EXECUTIVE PRODUCERS
+speaker_heading: FINAL DRAFT
+dialog: Barry Levinson
+dialog: October 22, 1999
+speaker_heading: Ton Fontana
+dialog: Jim Finnerty
+dialog: Rev. 11/8 blue
+dialog: 
+dialog: Rev. 11/15 pink
+speaker_heading: CO-EXECUTIVE PRODUCER Eric Overmyer
+speaker_heading: DIRECTOR Jean De Segonzac
+scene_heading: LIST OF REVISED PAGES Revision Date Pages in revision BLUE 8 November 99 Full Script PINK 15 November 99 Full Script
+text: PLEASE NOTE: The action for HOMICIDE: Life Everlasting takes place over the course
+dialog: of one Day, ending that
+dialog: Night.
+dialog: All wardrobe, props, etc., should reflect the weather conditions of
+dialog: the Fall in Baltimore.
+dialog: The following shots of The Board should be scheduled:
+dialog: 
+speaker_heading: HARDWICKE       in
+speaker_heading: RED
+dialog: 
+speaker_heading: HARDWICKE       in
+speaker_heading: BLACK
+dialog: 
+speaker_heading: RYLAND
+speaker_heading: in      RED
+dialog: 
+speaker_heading: RYLAND
+speaker_heading: in      BLUE
+dialog: These names are to be written under Lewis name.
+dialog: 
+speaker_heading: GIARDELLO         in
+speaker_heading: BLACK
+dialog: This name is to be written under Halls name.
+speaker_heading: The following CHARACTER NAMES have been changed:
+speaker_heading: OFFICER FRANK KEANE
+speaker_heading: to          OFFICER JEFF WESTBY
+speaker_heading: DOCTOR SUNIL MEHTA
+speaker_heading: to          DOCTOR ROBERT
+speaker_heading: WILLIAMS
+speaker_heading: NEWS ANCHOR
+speaker_heading: to          DINA NAPOLI
+speaker_heading: UNIFORM
+speaker_heading: to          OFFICER JAY SALERNO
+scene_heading: CAST BEAU FELTON...............................................................................................................Daniel
+dialog: Baldwin
+scene_heading: STANLEY BOLANDER..................................................................................................Ned
+dialog: Beatty
+scene_heading: JOHN MUNCH...............................................................................................................Richard
+dialog: Belzer
+scene_heading: FRANK PEMBLETON....................................................................................................Andre
+dialog: Braugher
+scene_heading: MIKE KELLERMAN.......................................................................................................Reed
+dialog: Diamond
+scene_heading: MIKE GIARDELLO.........................................................................................................Giancarlo
+speaker_heading: Esposito
+scene_heading: JULIANNA COX.............................................................................................................Michelle
+dialog: Forbes
+scene_heading: STUART GHARTY..........................................................................................................Peter
+dialog: Gerety
+scene_heading: MEGAN RUSSERT..........................................................................................................Isabella
+dialog: Hofmann
+scene_heading: ED DANVERS..................................................................................................................Zeljko
+dialog: Ivanek
+scene_heading: MELDRICK LEWIS.........................................................................................................Clark
+dialog: Johnson
+scene_heading: AL GIARDELLO..............................................................................................................Yaphet
+dialog: Kotto
+scene_heading: KAY HOWARD...............................................................................................................Melissa
+dialog: Leo
+scene_heading: TERRI STIVERS...............................................................................................................Toni
+dialog: Lewis
+scene_heading: RENE SHEPPARD...........................................................................................................Michael
+dialog: Michele
+scene_heading: J.H. BRODIE.....................................................................................................................Max
+dialog: Perlich
+scene_heading: STEVE CROSETTI...........................................................................................................Jon
+speaker_heading: Polito
+scene_heading: TIM BAYLISS..................................................................................................................Kyle
+dialog: Secor
+scene_heading: PAUL FALSONE..............................................................................................................Jon
+dialog: Seda
+scene_heading: LAURA BALLARD..........................................................................................................Callie
+dialog: Thorne
+scene_heading: COLONEL GEORGE BARNFATHER............................................................................Clayton
+speaker_heading: LeBouef
+scene_heading: CAPTAIN ROGER GAFFNEY........................................................................................Walt
+dialog: MacPherson
+scene_heading: DOCTOR GEORGE GRISCOM......................................................................................Austin
+dialog: Pendleton
+scene_heading: DETECTIVE ROBERT HALL..........................................................................................Jason
+dialog: Priestly
+scene_heading: QRT LIEUTENANT JASPER..........................................................................................Gary
+speaker_heading: DAddario
+scene_heading: DOCTOR LAUSANNE...................................................................................................Herb
+dialog: Levinson
+scene_heading: NAOMI............................................................................................................................Sharon
+speaker_heading: Ziman
+scene_heading: OFFICER JAY SALERNO..............................................................................................Jay
+dialog: Spadaro
+scene_heading: DOCTOR SCHEINER.....................................................................................................Ralph
+dialog: Tabakin
+scene_heading: OFFICER JEFF WESTBY...............................................................................................Granville
+dialog: Adams
+scene_heading: ERIC THOMAS JAMES..................................................................................................Eamonn
+dialog: Walker
+scene_heading: HOMELESS MAN...........................................................................................................Lanny
+dialog: Flaherty
+scene_heading: DAWN DANIELS............................................................................................................Rhonda
+dialog: Overby
+scene_heading: SHIRLEY DESASSY.......................................................................................................Elizabeth
+dialog: Berman
+scene_heading: DOCTOR ELI DEVILBISS..............................................................................................Sean
+dialog: Whitesell
+scene_heading: DOCTOR VICTOR EHRLICH........................................................................................Ed
+dialog: Begley Jr.
+scene_heading: ROBERT GESSNER........................................................................................................
+scene_heading: ROSINA GIARDELLO....................................................................................................Irma
+dialog: St.Paule
+scene_heading: RICHARD GILROY.........................................................................................................John
+dialog: Badila
+scene_heading: CARDINAL KEELER......................................................................................................As
+dialog: Himself
+scene_heading: JOHN KOMEN...............................................................................................................Craig
+dialog: Wallace
+scene_heading: HELEN LUCAITIS..........................................................................................................As
+dialog: Herself
+scene_heading: BILLIE LOU MCCOY.....................................................................................................Ellen
+speaker_heading: McElduff
+scene_heading: KARL MILLER................................................................................................................Paul
+dialog: West
+scene_heading: DINA NAPOLI................................................................................................................As
+dialog: Herself
+scene_heading: ROBBIE ROBERTS.........................................................................................................Phillip
+dialog: Reid
+scene_heading: NATHANIEL STEIGLER................................................................................................Mark
+dialog: Joy
+scene_heading: BERNIE WEEKS............................................................................................................
+dialog: Reg E. Cathey
+scene_heading: DOCTOR ROBERT WILLIAMS.....................................................................................David
+dialog: Copeland Goodman
+scene_heading: NEWS MANAGER.........................................................................................................Gradley
+dialog: Thoennes
+scene_heading: NURSE............................................................................................................................Susan
+dialog: Lynn Ross
+scene_heading: OLD WOMAN................................................................................................................Leeana
+dialog: Saunders
+scene_heading: O.R. NURSE....................................................................................................................Adetoro
+dialog: Makinde
+scene_heading: SKINHEAD.....................................................................................................................Matt
+dialog: Oney
+scene_heading: WITNESS #1...................................................................................................................Richard
+speaker_heading: DeAngelis
+scene_heading: WITNESS #2...................................................................................................................Jarvis
+dialog: W. George
+speaker_heading: SETS EXTERIORS
+speaker_heading: INTERIORS African Revival
+dialog: African Revival
+dialog: Movement Building
+dialog: Movement Building
+dialog: Alley
+dialog: Bolander Home
+dialog: Baltimore
+dialog: Kitchen
+dialog: Canton Street
+dialog: Church Home & Hospital
+dialog: Charles Street
+dialog: Chapel
+dialog: Church Home & Hospital
+dialog: Emergency Room
+dialog: Emergency Room
+speaker_heading: ER Entrance
+dialog: Gunpowder Falls
+dialog: Hallway
+dialog: Inner Harbor
+speaker_heading: ICU
+speaker_heading: Ampitheatre
+dialog: Corridor
+dialog: Jimmys Restaurant
+speaker_heading: Giardellos Room
+dialog: Backdoor
+dialog: Nurses Station
+dialog: Little Italy
+dialog: Operating Room #4
+dialog: Alley
+dialog: Operating Room #5
+dialog: Bocce Ball Court
+dialog: Waiting Room
+dialog: Playground
+dialog: Desassy Apartment
+dialog: Sidestreet
+dialog: Perry Hall
+dialog: James Home
+dialog: Homicide Unit
+dialog: Police Headquarters
+dialog: Coffee Room
+speaker_heading: Balcony
+dialog: Lieutenants Office
+dialog: Roof
+dialog: Interrogation Room #1
+dialog: State Police Headquarters
+dialog: Interrogation Room #2
+dialog: Street
+dialog: Observation Room
+dialog: Thames Street
+dialog: Squad Room
+speaker_heading: WYAT
+dialog: James Home
+dialog: 
+dialog: Bedroom
+dialog: 
+dialog: Hallway
+dialog: 
+dialog: Kitchen
+dialog: 
+dialog: Loyola College
+dialog: 
+dialog: Lecture Hall
+dialog: 
+speaker_heading: NYPD
+dialog: 
+dialog: Special Victims Unit
+dialog: 
+dialog: Pembletons Toyota
+dialog: 
+dialog: Police Headquarters
+dialog: 
+dialog: Garage
+dialog: 
+dialog: Lobby
+dialog: 
+dialog: Stairway
+dialog: 
+dialog: Radio Station
+dialog: 
+dialog: Studio
+dialog: 
+dialog: Visiting Room
+dialog: 
+dialog: Sands Lounge
+dialog: 
+dialog: State Police Headquarters
+dialog: 
+dialog: Screening Room
+dialog: 
+dialog: Swimming Pool
+dialog: 
+dialog: The Waterfront Restaurant
+dialog: 
+speaker_heading: WYAT
+dialog: 
+dialog: News Managers Office
+dialog: 
+dialog: News Studio Set
+speaker_heading: ACT ONE           FADE IN:
+speaker_heading: 1        EXT.  BALTIMORE - DAY
+dialog: Establishing.
+dialog: Eight a.m.
+speaker_heading: 2        EXT. INNER HARBOR - DAY
+speaker_heading: TV REPORTERS
+dialog: with film CREWS clusterfuck the area.  BUSINESS
+speaker_heading: EXECUTIVES grabbing
+speaker_heading: coffee, MOTHERS with TODDLERS, SENIOR
+speaker_heading: CITIZENS gawk,
+text: as a shiny Lincoln Town Car pulls up to curb.
+speaker_heading: AL GIARDELLO
+text: exits the Car, followed by NATHANIEL STIEGLER,
+dialog: campaign manager.
+dialog: Other AIDES exit a Ford Van.  The NEWS
+speaker_heading: CREWS beeline
+dialog: for GIARDELLO as he heads for:
+speaker_heading: 3         EXT. AMPITHEATRE/INNER
+speaker_heading: HARBOR - DAY
+speaker_heading: As GIARDELLO,
+speaker_heading: STIEGLER, AIDES and NEWS CREWS approach, video
+dialog: floodlights
+text: flash on.  CU on GIARDELLO caught in the glare.
+speaker_heading: A CROWD engulfs
+dialog: him.  Sings Giardello for Mayor flash into
+speaker_heading: CAMERA.
+text: A moment when GIARDELLO is jostled.  DAWN DANIELS,
+speaker_heading: WYAT Reporter,
+dialog: followed by CAMERAMAN, shoves a mic at
+speaker_heading: GIARDELLO.
+speaker_heading: DANIELS
+dialog: 
+dialog: Hows it feel to be the favorite
+dialog: 
+dialog: going into the last week of the
+dialog: 
+dialog: campaign?
+speaker_heading: GIARDELLO
+dialog: 
+dialog: (smiling)
+dialog: 
+dialog: It aint over til its over.
+speaker_heading: DANIELS
+dialog: 
+dialog: The polls show you twelve points
+dialog: 
+dialog: ahead of your opponent Robert Gessner.
+dialog: 
+dialog: The fat lady has taken her curtain
+dialog: 
+dialog: call, dont you think?
+speaker_heading: GIARDELLO
+dialog: 
+dialog: I learned one lesson in all my years
+dialog: 
+dialog: running the Homicide Unit: Never
+dialog: 
+dialog: assume anything.
+speaker_heading: A HOMELESS MAN,
+text: malevolent, red-rimmed eyes, pushes past
+speaker_heading: DANIELS and
+speaker_heading: grabs GIARDELLOs lapel.
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: Gimme a dollar.  A dollar. For
+dialog: 
+dialog: something to eat.
+speaker_heading: GIARDELLO and
+text: HOMELESS MAN exchange a look.  GIARDELLO smiles,
+dialog: a flash of anxiety.
+speaker_heading: STEIGLER calls to AIDE.
+speaker_heading: STEIGLER
+dialog: 
+dialog: Henry, take care of this.
+speaker_heading: AIDE pulls HOMELESS
+speaker_heading: MAN aside, as STIEGLER guides GIARDELLO
+dialog: toward a stage.
+speaker_heading: HOMELESS MAN mumbles a curse.  A UNIFORM
+dialog: shoves him further
+text: back into the CROWD.  A CHANT from the
+speaker_heading: CROWD:
+dialog: Giardello.  Giardello.  Giardello.  DANIELS persists:
+speaker_heading: DANIELS
+dialog: 
+dialog: Your recent statements that, if
+dialog: 
+dialog: elected, youd push to legalize drugs --
+dialog: 
+dialog: Do you think this is the issue that
+dialog: 
+dialog: has set your campaign apart from
+dialog: 
+dialog: your rivals?
+speaker_heading: GIARDELLO
+dialog: 
+dialog: I know this city.  I know what drugs
+dialog: 
+dialog: have done to this city.  The murders
+dialog: 
+dialog: and robberies and domestic problems.
+dialog: 
+dialog: I believe that substance abuse is a
+dialog: 
+dialog: health issue.  Like drinking and
+dialog: 
+dialog: smoking.  Nicotine is more addictive
+dialog: 
+dialog: than heroin or cocaine, but you dont
+dialog: 
+dialog: see the Marlboro Man being sent to
+dialog: 
+dialog: Jessup on a three-to-five.  I love
+dialog: 
+dialog: this city.  I want this city to be whole again.
+speaker_heading: DANIELS
+dialog: 
+dialog: But dont you --
+speaker_heading: GIARDELLO
+dialog: 
+dialog: (his slogan)
+dialog: 
+dialog: Educate, dont legislate.
+speaker_heading: STIEGLER
+dialog: 
+dialog: Thats all for now.  Everyone please
+dialog: 
+dialog: step back.
+speaker_heading: DANIELS
+dialog: and CAMERAMAN step back as GIARDELLO ascends the
+dialog: stage,
+speaker_heading: where Mayor KURT SCHMOKE and other famous BALTIMOREONS
+dialog: wait.
+text: A huge CHEER from the CROWD as GIARDELLO steps to the
+dialog: microphone:
+dialog: We Want Al, We Want Al, Hes Our Pal.  We Want
+dialog: Al.
+dialog: GIARDELLO tries to quiet the CROWD, but the CHEERING
+dialog: grows
+speaker_heading: LOUDER.  Tons of FLASHBULBS from PRESS and AUDIENCE
+dialog: are going
+text: off.  As GIARDELLO smiles, a rapid dull REPEAT is
+dialog: alarmed.
+text: A BUZZ of concern and confusion.  STIEGLER and the
+speaker_heading: CELEBRITIES
+text: reflexively back away.  GIARDELLO watches UNIFORMS
+speaker_heading: and PLAINCLOTHES
+dialog: push through the CROWD, which is charged
+dialog: with fear,
+text: curious, looking around.  Then, GIARDELLO slumps
+dialog: to his
+text: knees.  His white shirt fills red with his blood.
+speaker_heading: STIEGLER
+dialog: and AIDES reach to support GIARDELLO, who looks out
+dialog: at the
+text: CROWD, confused, in pain.  He slumps forward.  On
+speaker_heading: STIEGLER,
+speaker_heading: cradling GIARDELLOS head,
+speaker_heading: CUT TO:
+speaker_heading: 4         EXT. STREET - DAY
+speaker_heading: MELDRICK LEWIS
+dialog: and PAUL FALSONE pull up, exit Cavalier, walk
+dialog: down littered
+dialog: sidewalk in devastated neighborhood.
+speaker_heading: FALSONE
+dialog: 
+dialog: Meldrick, Ill be your partner, any
+dialog: 
+dialog: time, any place -- when it comes to
+dialog: 
+dialog: a crime.  But Im not investing in
+dialog: 
+dialog: your bar.  No way.
+speaker_heading: LEWIS
+dialog: 
+dialog: Cmon, you can see for yourself that
+dialog: 
+dialog: The Waterfront is a money making
+dialog: 
+dialog: operation, a veritable green machine.
+speaker_heading: FALSONE
+dialog: 
+dialog: Then whyre you so anxious to cut me
+dialog: 
+dialog: a slice?
+speaker_heading: LEWIS
+dialog: 
+dialog: Cause my other partners are all too
+dialog: 
+dialog: silent.  Munchs living large in New
+dialog: 
+dialog: York City.  Bayliss went on a semi-
+dialog: 
+dialog: permanent disappearing act.
+speaker_heading: FALSONE
+dialog: 
+dialog: Aah, what you need is someone to
+dialog: 
+dialog: help do all the work.  No thanks.
+speaker_heading: THEY turn
+dialog: into:
+speaker_heading: 5         EXT. ALLEY - DAY
+dialog: They head
+dialog: toward a crack house.
+speaker_heading: LEWIS
+dialog: 
+dialog: Im simply asking that you consider
+dialog: my proposition, give the concept a
+dialog: 
+dialog: few moments of serious thought.
+speaker_heading: A UNIFORM stands
+dialog: with his back to them.
+speaker_heading: FALSONE
+dialog: 
+dialog: Yo, Officer --
+speaker_heading: The UNIFORM turns,
+dialog: revealing himself to be MIKE GIARDELLO.
+speaker_heading: MIKE
+dialog: 
+dialog: Gentlemen.
+speaker_heading: FALSONE
+dialog: 
+dialog: Mike Giardello, as I live and as I
+dialog: 
+dialog: breathe.  I heard that you traded
+dialog: 
+dialog: the Bureau for a beat.
+speaker_heading: MIKE
+dialog: 
+dialog: Working on my detective shield.
+speaker_heading: LEWIS
+dialog: 
+dialog: Your dads making a whole lotta noise
+dialog: 
+dialog: in his run for City Hall.
+speaker_heading: MIKE
+dialog: 
+dialog: Yeah.  Every time I open the front
+dialog: 
+dialog: door, its Candid Camera --
+speaker_heading: LEWIS
+dialog: 
+dialog: Alan Funt, a great American.  I took
+dialog: 
+dialog: his passing very personally.
+speaker_heading: FALSONE
+dialog: 
+dialog: So, whatve we got here?
+speaker_heading: MIKE
+dialog: 
+dialog: Local dealer.  Shot in the head.
+dialog: 
+dialog: Looks like hes been dead at least a
+dialog: 
+dialog: day.
+speaker_heading: FALSONE
+dialog: 
+dialog: Does our dead head have a name?
+speaker_heading: MIKE
+dialog: 
+dialog: Joseph Hardwicke, a.k.a. Yin Yang.
+speaker_heading: LEWIS
+dialog: 
+dialog: Yeah, well, looks to me like he Yind
+dialog: 
+dialog: when he shoulda Yanged.
+speaker_heading: Officer JEFF
+speaker_heading: WESTBY approaches.
+speaker_heading: WESTBY
+dialog: 
+dialog: Hey, Mike...
+speaker_heading: MIKE
+dialog: 
+dialog: Yeah?
+speaker_heading: WESTBY
+dialog: 
+dialog: Dispatch just radioed.  They want
+dialog: 
+dialog: you Downtown pronto.
+speaker_heading: MIKE
+dialog: 
+dialog: Whats up?
+speaker_heading: WESTBY
+dialog: 
+dialog: Your father... Hes been shot.
+dialog: MIKE stares at
+dialog: him, not comprehending.  FALSONE turns to
+speaker_heading: LEWIS
+speaker_heading: As SONG BEGINS,
+speaker_heading: CUT TO:
+speaker_heading: 6         EXT. INNER HARBOR - DAY
+speaker_heading: SONG CONTINUES.
+dialog: Bedlam.  Terror.  SIRENS and SCREAMING.
+speaker_heading: UNIFORMS clear
+speaker_heading: a path.  EMS wheel an unconscious GIARDELLO
+dialog: out on a gurney.
+speaker_heading: As EMS works GIARDELLOs chest,
+speaker_heading: CUT TO:
+speaker_heading: 7         INT. LIEUTENANTS OFFICE/HOMICIDE
+speaker_heading: UNIT - DAY
+speaker_heading: SONG CONTINUES.
+text: CU on phone in hand.  PULL BACK to REVEAL
+speaker_heading: STUART GHARTY.
+dialog: Shocked, HE puts down phone, exits into:
+speaker_heading: A8     INT. SQUAD ROOM/HOMICIDE UNIT - DAY
+speaker_heading: SONG CONTINUES.
+text: GHARTY tells LAURA BALLARD and TERRI STIVERS.
+dialog: As THEY react,
+speaker_heading: CUT TO:
+speaker_heading: 8         EXT. BACKDOOR/JIMMYS
+speaker_heading: RESTAURANT - DAY
+speaker_heading: SONG CONTINUES.
+dialog: Short order COOK smokes cigarette outside
+dialog: kitchen door.
+text: KAY HOWARD walks up, shows a warrant, spins
+dialog: COOK around,
+text: cuffs him.  UNIFORM runs up, YELLING the news.
+dialog: As HOWARD reacts,
+speaker_heading: CUT TO:
+speaker_heading: 9         EXT. INNER HARBOR - DAY
+speaker_heading: SONG CONTINUES.
+text: GIARDELLO is loaded into EMS Wagon.  As
+speaker_heading: UNIFORMS push
+dialog: the NEWS CREWS away from Wagon doors,
+speaker_heading: CUT TO:
+speaker_heading: 10       INT. SPECIAL VICTIMS UNIT/NYPD
+speaker_heading: - DAY
+speaker_heading: SONG CONTINUES.
+dialog: CU on copy of The New York Post being held.
+speaker_heading: Cellphone RINGS.
+speaker_heading: Newspaper comes down to REVEAL JOHN MUNCH,
+dialog: as he reaches
+dialog: for cellphone, answers it.  As HE listens,
+speaker_heading: CUT TO:
+speaker_heading: 11       EXT. CHARLES STREET - DAY
+speaker_heading: SONG CONTINUES.
+speaker_heading: MIKE KELLERMAN sits in Car, secretly
+dialog: photographing
+text: a MAN kissing his MISTRESS.  As KELLERMAN HEARS
+speaker_heading: the NEWS on
+dialog: the car radio, puts down his camera,
+speaker_heading: CUT TO:
+scene_heading: 12      EXT. EMERGENCY ROOM/CHURCH HOME &
+speaker_heading: HOSPITAL - DAY
+speaker_heading: SONG CONTINUES.
+speaker_heading: EMS Wagon ROARS to a halt.  As TRIAGE TEAM
+speaker_heading: races with GIARDELLO
+dialog: into Emergency room,
+speaker_heading: CUT TO:
+scene_heading: 13       INT. KITCHEN/BOLANDER HOME - DAY
+speaker_heading: SONG CONTINUES.
+text: CU on eggs being fried up.  As WE PULL BACK
+speaker_heading: to REVEAL STANLEY
+text: BOLANDER, sipping a beer, watching the
+dialog: news bulletin
+dialog: on TV,
+speaker_heading: CUT TO:
+speaker_heading: 14       EXT. GUNPOWDER FALLS - DAY
+speaker_heading: SONG CONTINUES.
+text: CU on a fly plopping onto the water from a
+dialog: long arching
+text: cast.  Cellphone RINGS.  As WE PULL BACK to
+speaker_heading: REVEAL a pacific
+speaker_heading: TIM BAYLISS answering the phone,
+speaker_heading: CUT TO:
+scene_heading: 15       INT. EMERGENCY ROOM/CHURCH HOME
+speaker_heading: & HOSPITAL - DAY
+speaker_heading: SONG CONTINUES.
+dialog: NURSES stabilize GIARDELLO, put him on IVs.
+speaker_heading: PULL BACK to
+speaker_heading: REVEAL DOCTOR, who checks GIARDELLOs vitals on
+dialog: a cardiac monitor.
+dialog: As HE eyes an attractive NURSE,
+speaker_heading: CUT TO:
+scene_heading: 16       INT. LECTURE HALL/LOYOLA COLLEGE
+speaker_heading: - DAY
+speaker_heading: SONG CONTINUES.
+dialog: A woodpaneled, two-hundred seat Lecture
+dialog: Hall.
+text: Six STUDENTS sit in the first row, looking terrified.
+speaker_heading: PULL BACK to
+text: REVEAL FRANK PEMBLETON raving at his hostages.
+dialog: On the blackboard
+dialog: behind PEMBLETON is big chalk lettering
+dialog: The Principles
+dialog: of Ethics.  Various quotes from Aquinas,
+dialog: Nietzsche and
+text: Camus.  A PRIEST comes to the doorway, pauses,
+dialog: meek.
+text: PEMBLETON catches the PRIEST out of the corner of his
+dialog: eye.  The
+text: PRIEST motions.  PEMBLETON continues lecturing.
+speaker_heading: The PRIEST motions
+text: again.  PEMBLETON glares.  The PRIEST
+dialog: motions imploringly,
+text: respectfully.  PEMBLETON walks over.
+speaker_heading: The PRIEST whispers
+dialog: into PEMBLETONs good ear.  On PEMBLETON,
+dialog: staring at him
+dialog: as if he were speaking Esperanto,
+speaker_heading: CUT TO:
+scene_heading: 17      EXT. EMERGENCY ROOM/CHURCH HOME &
+speaker_heading: HOSPITAL - DAY
+speaker_heading: SONG ENDS.
+dialog: A Philadelphia rat-fuck of POLICE, PRESS and
+speaker_heading: PARAMEDICS;
+dialog: Emergency Vehicles, Cop Cars, City Cars, Press
+dialog: Vans.
+speaker_heading: HELEN LUCAITIS, Court TV Reporter, does live report:
+speaker_heading: LUCAITIS
+dialog: 
+dialog: ....Mayoral candidate Al Giardello
+dialog: 
+dialog: was making a campaign appearance
+dialog: 
+dialog: early this morning when he was shot
+dialog: 
+dialog: by an unidentified assailant...
+dialog: Squad Car pulls
+dialog: up, MIKE leaps out.
+speaker_heading: LUCAITIS (cont.)
+dialog: 
+dialog: ....Giardello was rushed here to Church
+dialog: 
+dialog: Home and Hospital, where he is
+dialog: 
+dialog: undergoing emergency surgery.  His
+dialog: 
+dialog: condition is listed as critical.
+dialog: 
+dialog: (as MIKE walks past)
+dialog: 
+dialog: Wait, heres his son, Officer Michael
+dialog: 
+dialog: Giardello, perhaps we can get a word --
+speaker_heading: LUCAITIS collars
+text: MIKE as he goes by, shoves microphone in
+dialog: his face, runs
+dialog: alongside him as he motors for door.
+speaker_heading: LUCAITIS (cont.)
+dialog: 
+dialog: Officer Giardello.  Officer Giardello.
+dialog: 
+dialog: Any news on your father?  How do you
+dialog: 
+dialog: feel?
+speaker_heading: MIKE
+dialog: 
+dialog: How do you think I feel?  Get out of
+dialog: 
+dialog: my face --
+dialog: He shoves her.
+text: As LUCAITIS falls down flat on her ass,
+speaker_heading: CUT TO:
+scene_heading: 18       INT. WAITING ROOM/CHURCH HOME &
+speaker_heading: HOSPITAL - DAY
+dialog: On her knees,
+speaker_heading: LUCAITIS continues her report:
+speaker_heading: LUCAITIS
+dialog: 
+dialog: ....Officer Giardello, understandably
+dialog: 
+dialog: distraught about this tragic turn of
+dialog: 
+dialog: events.  This is Helen Lucaitis,
+dialog: 
+dialog: reporting live from church Home --
+speaker_heading: As LUCAITIS gets
+dialog: to her feet,
+speaker_heading: CUT TO:
+scene_heading: 20       INT. HALLWAY/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+speaker_heading: BARNFATHER
+speaker_heading: and STIEGLER intercept MIKE.
+speaker_heading: STIEGLER
+dialog: 
+dialog: Mike, I just watched you body block
+dialog: 
+dialog: Helen Lucaitis into the next time
+dialog: 
+dialog: zone --
+speaker_heading: MIKE
+dialog: 
+dialog: Hows my father?
+speaker_heading: STIEGLER
+dialog: 
+dialog: I know youre upset, but you gotta
+dialog: 
+dialog: keep your hands off the press --
+speaker_heading: MIKE
+dialog: 
+dialog: Hows my dad?
+speaker_heading: BARNFATHER
+dialog: 
+dialog: He was shot in the abdomen, maybe
+dialog: 
+dialog: more than once --
+speaker_heading: MIKE
+dialog: 
+dialog: Is he gonna make it?
+speaker_heading: STIEGLER
+dialog: 
+dialog: They just started surgery.  Youll
+dialog: 
+dialog: be the first to know, as soon as
+dialog: 
+dialog: theres any news, I promise you --
+speaker_heading: MIKE
+dialog: 
+dialog: Whos his doctor?  I need to talk to
+dialog: 
+dialog: somebody right now, whoevers in
+dialog: 
+dialog: charge.
+speaker_heading: STIEGLER
+dialog: 
+dialog: Weve been working through the
+dialog: 
+dialog: communications director --
+speaker_heading: MIKE
+dialog: 
+dialog: I wanna talk to his doctor-doctor
+dialog: 
+dialog: not some spin doctor.
+speaker_heading: STIEGLER
+dialog: 
+dialog: Okay.
+speaker_heading: MIKE
+dialog: 
+dialog: How the hell could the shooter get
+dialog: 
+dialog: away?
+dialog: THEY go into:
+scene_heading: 21      INT. WAITING ROOM/CHURCH HOME &
+speaker_heading: HOSPITAL - DAY
+dialog: MIKE enters with
+speaker_heading: BARNFATHER and STIEGLER.
+speaker_heading: MIKE (cont.)
+dialog: 
+dialog: Place shouldve been crawling with
+dialog: 
+dialog: cops.
+speaker_heading: STIEGLER
+dialog: 
+dialog: There was an appropriate amount of
+dialog: 
+dialog: security for a routine campaign stop.
+speaker_heading: MIKE
+dialog: 
+dialog: Then what happened, they were asleep?
+speaker_heading: BARNFATHER
+dialog: 
+dialog: We had no reason to expect any trouble --
+speaker_heading: MIKE
+dialog: 
+dialog: No reason?  What about all the death
+dialog: 
+dialog: threats?
+speaker_heading: STIEGLER
+dialog: 
+dialog: Theres been nothing out of the
+dialog: 
+dialog: ordinary, nothing any person running
+dialog: 
+dialog: for public office doesnt encounter --
+speaker_heading: MIKE
+dialog: 
+dialog: How can you say that?  Since he
+dialog: 
+dialog: announced his position on drugs --
+speaker_heading: BARNFATHER
+dialog: 
+dialog: Weve taken the serious threats
+dialog: 
+dialog: seriously --
+speaker_heading: MIKE
+dialog: 
+dialog: Hate mail, faxes, anonymous phone
+dialog: 
+dialog: calls in the middle of the night --
+speaker_heading: BARNFATHER
+dialog: 
+dialog: The rest have been cranks --
+speaker_heading: MIKE
+dialog: 
+dialog: Black nationalists, the Klan, red-
+dialog: 
+dialog: neck law enforcement, even the drug
+dialog: 
+dialog: dealers --
+speaker_heading: BARNFATHER
+dialog: 
+dialog: Weve done everything possible.
+speaker_heading: MIKE
+dialog: 
+dialog: If youd done everything, we wouldnt
+dialog: 
+dialog: be standing here now.
+dialog: Theyve been
+dialog: shouting.  Now they stop and glare.  Then:
+speaker_heading: STIEGLER
+dialog: 
+dialog: Well get somebody to come down and
+dialog: 
+dialog: brief you --
+speaker_heading: MIKE
+dialog: 
+speaker_heading: Soon.           BARNFATHER and
+text: STIEGLER exit.  MIKE looks over.  A Mans
+dialog: sitting in the
+dialog: corner: BOLANDER.  As MIKE crosses to payphone,
+speaker_heading: CUT TO:
+scene_heading: 22      INT. GARAGE/POLICE HEADQUARTERS - DAY
+speaker_heading: FALSONE and LEWIS
+dialog: exit parked Cavalier.
+speaker_heading: FALSONE
+dialog: 
+dialog: Maybe we should go to the hospital.
+speaker_heading: LEWIS
+dialog: 
+dialog: Gee wouldnt want us sitting vigil.
+dialog: 
+dialog: Hed want us to find the ebola
+dialog: 
+dialog: who did this.
+speaker_heading: FALSONE
+dialog: 
+dialog: What about Joseph Yin Yang
+dialog: 
+dialog: Hardwicke?
+speaker_heading: LEWIS
+dialog: 
+dialog: Who?
+speaker_heading: FALSONE
+dialog: 
+dialog: Our day-old dead drug dealer.
+speaker_heading: LEWIS
+dialog: 
+dialog: Him?  Hell keep.
+dialog: Beat-up Ford
+text: Explorer HONKS, as it pulls into space.  They
+dialog: turn to see
+speaker_heading: BAYLISS, exiting Explorer.
+speaker_heading: FALSONE
+dialog: 
+dialog: Ho, look whos back from oblivion.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Catch Gees shooter?
+speaker_heading: LEWIS
+dialog: 
+dialog: Not yet.  We were waiting on you.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Im here to help.
+speaker_heading: FALSONE
+dialog: 
+dialog: Sabbaticals over?
+speaker_heading: BAYLISS
+dialog: 
+dialog: For now.
+speaker_heading: LEWIS
+dialog: 
+dialog: Weird.
+speaker_heading: BAYLISS
+dialog: 
+dialog: What?
+speaker_heading: LEWIS
+dialog: 
+dialog: That day you cleaned out your desk
+dialog: 
+dialog: and walked away.  Didnt even say
+dialog: 
+dialog: goodbye.
+speaker_heading: BAYLISS
+dialog: 
+dialog: I had things to think about.  Issues.
+speaker_heading: LEWIS
+dialog: 
+dialog: Bayliss, you always got issues.
+speaker_heading: FALSONE
+dialog: 
+dialog: Are we gonna stand here yapping?
+dialog: THEY exit to:
+speaker_heading: 23      EXT. POLICE HEADQUARTERS - DAY
+speaker_heading: TV NEWS CREWS
+speaker_heading: YELL questions to BAYLISS, FALSONE and LEWIS
+dialog: as they head
+text: for entrance.  A Toyota pulls up and parks in
+dialog: the middle of
+dialog: the street.  PEMBLETON emerges.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Frank...
+speaker_heading: As PEMBLETON
+dialog: stares up at Headquarters,
+speaker_heading: CUT TO:
+speaker_heading: 24      INT. SQUAD ROOM/HOMICIDE UNIT - DAY
+dialog: Redball chaos.
+dialog: The Aquarium is crammed with potential
+speaker_heading: WITNESSES.
+text: GHARTY stands in front of blackboard, on which
+dialog: are pasted Crime
+text: Scene photos.  PULL BACK to REVEAL STIVERS,
+speaker_heading: HOWARD, FALSONE,
+speaker_heading: BALLARD, BAYLISS, PEMBLETON and LEWIS, as
+dialog: well as new
+speaker_heading: DETECTIVES, including ROBERT HALL, twenties,
+dialog: handsome, peachfuzzed.
+speaker_heading: GHARTY
+dialog: 
+dialog: Some of you came to homicide after
+dialog: 
+dialog: Al Giardello left.  Some of you worked
+dialog: 
+dialog: alongside him, like Kay Howard, now
+dialog: 
+dialog: in the fugitive squad, Tim Bayliss,
+dialog: 
+dialog: whos been on a leave of absence,
+dialog: 
+dialog: and Frank Pembleton, who retired two
+dialog: 
+dialog: years ago --
+speaker_heading: HALL
+dialog: 
+dialog: So youre the almighty Pembleton...
+dialog: 
+dialog: Weve all heard the stories.
+speaker_heading: PEMBLETON stares
+text: at HALL, says nothing, then turns to GHARTY.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Can we get on with this?
+speaker_heading: GHARTY
+dialog: 
+dialog: Yup.  A homeless man, who wont tell
+dialog: 
+dialog: us his name, grabbed Giardello just
+dialog: 
+dialog: before the shooting.
+speaker_heading: FALSONE
+dialog: 
+dialog: Weve swabbed his hands for gunpowder
+dialog: 
+dialog: residue.  Hes clean.
+speaker_heading: HALL
+dialog: 
+dialog: Soon as the uniforms bring him up,
+dialog: 
+dialog: Im gonna interview him, find out if
+dialog: 
+dialog: he saw anything.
+speaker_heading: STIVERS
+dialog: 
+dialog: We talked to everybody at the rally
+dialog: 
+dialog: who stuck around and all the vendors.
+dialog: 
+dialog: Weve brought in a few witnesses for
+dialog: 
+dialog: further questioning.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: And this event was covered by the press,
+dialog: 
+dialog: right?
+speaker_heading: GHARTY
+dialog: 
+dialog: Way ahead of you, Frank.  Weve
+dialog: 
+dialog: already requested video footage from
+dialog: 
+dialog: the local news stations.  Stivers,
+dialog: 
+dialog: Ballard, I need you to collect the
+dialog: 
+dialog: cassettes.
+speaker_heading: STIVERS
+dialog: 
+dialog: Sure, Lieutenant.
+speaker_heading: BALLARD
+dialog: 
+dialog: Lots of witnesses.  What about
+dialog: 
+dialog: suspects?
+speaker_heading: LEWIS
+dialog: 
+dialog: Gees campaign for Mayor has knocked
+dialog: 
+dialog: some noses outta joint, made him a
+dialog: 
+dialog: few enemies.
+speaker_heading: HOWARD
+dialog: 
+dialog: Coupled with the ones he already
+dialog: 
+dialog: had.
+speaker_heading: UNIFORM escorts
+speaker_heading: HOMELESS MAN into Interrogation Room #1.
+speaker_heading: HALL
+dialog: 
+dialog: Im up.
+speaker_heading: GHARTY
+dialog: 
+dialog: Alright.  Howard, Bayliss -- I want
+dialog: 
+dialog: you researching Gees past, get me
+dialog: 
+dialog: everything on anybody hes ever
+dialog: 
+dialog: tangled with.
+speaker_heading: BAYLISS
+dialog: 
+dialog: How far back?
+speaker_heading: GHARTY
+dialog: 
+dialog: To his rookie days, if you have to...
+dialog: 
+dialog: Pembleton, Lewis, Falsone, make a
+dialog: 
+dialog: list of people hes pissed off along
+dialog: 
+dialog: the campaign trail.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: A list?  I didnt come here
+dialog: 
+dialog: to make lists --
+speaker_heading: GHARTY
+dialog: 
+dialog: We meet again in an hour.
+speaker_heading: GHARTY goes into
+dialog: his Office.  PEMBLETON sighs.  As the
+speaker_heading: DETECTIVES go
+dialog: in different directions,
+speaker_heading: CUT TO:
+scene_heading: 25      INT. WAITING ROOM/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+speaker_heading: BOLANDER looks
+text: over at MIKE, who talks on payphone.
+speaker_heading: MIKE
+dialog: 
+dialog: I dont know, sis, they havent told
+dialog: 
+dialog: me anything...  Yeah, Theresas on
+dialog: 
+dialog: the next plane in... Get here as
+dialog: 
+dialog: soon as you can...  I love you, too.
+dialog: He hangs up,
+text: crosses to couch, sits next to BOLANDER.
+speaker_heading: BOLANDER
+dialog: 
+dialog: I caught a bullet on the job myself,
+dialog: 
+dialog: you know.  A bullet in the brain.
+dialog: 
+dialog: (offers hand)
+dialog: 
+dialog: Stanley Bolander.  Used to work for
+dialog: 
+dialog: your dad.
+speaker_heading: MIKE
+dialog: 
+dialog: Thanks for coming.
+speaker_heading: BOLANDER
+dialog: 
+dialog: I had to, didnt I?  When I got shot,
+dialog: 
+dialog: your dad was -- I dont know, whats
+dialog: 
+dialog: the word?  Tenacious.
+speaker_heading: MIKE
+dialog: 
+dialog: Yeah, well, he is that.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Not that he sent me flowers or
+dialog: 
+dialog: anything.  But he was like a pit
+dialog: 
+dialog: bull.  Wouldnt let go til they
+dialog: 
+dialog: found the bastard who did it.
+speaker_heading: ROSINA (o.c.)
+dialog: 
+dialog: Caro --
+speaker_heading: ROSINA GIARDELLO,
+text: eighties, enters.  MIKE embraces her.
+speaker_heading: MIKE
+dialog: 
+dialog: Nonna --
+speaker_heading: ROSINA
+dialog: 
+dialog: Michael, this is terrible, terrible --
+dialog: MIKE kisses her
+dialog: on both cheeks.  BOLANDER crosses to water
+dialog: fountain, as
+speaker_heading: MEGAN RUSSERT gets off elevator.
+speaker_heading: RUSSERT
+dialog: 
+dialog: Stan.
+speaker_heading: BOLANDER
+dialog: 
+dialog: How are you, Megan?
+speaker_heading: RUSSERT
+dialog: 
+dialog: Good.  I hear you retired.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Yeah, now I play a little golf,
+dialog: 
+dialog: practice the cello --
+speaker_heading: RUSSERT
+dialog: 
+dialog: Retirement agrees with you.  You got
+dialog: 
+dialog: that nice pink glow about you.
+speaker_heading: BOLANDER
+dialog: 
+dialog: High blood pressure.  Im on a zero
+dialog: 
+dialog: sodium diet.  Zero.  As in none.  As
+dialog: 
+dialog: in, I cant even go down the ocean
+dialog: 
+dialog: and take in the sea breeze.  You
+dialog: 
+dialog: know how bland life is without salt?
+speaker_heading: RUSSERT
+dialog: 
+dialog: I know about bland.  I married a TV
+dialog: 
+dialog: executive.
+dialog: As THEY sit down,
+speaker_heading: CUT TO:
+speaker_heading: 26      INT. SQUAD ROOM/HOMICIDE UNIT - DAY
+speaker_heading: PEMBLETON sits
+speaker_heading: with BAYLISS and LEWIS.
+speaker_heading: LEWIS
+dialog: 
+dialog: Okay, heres a case of Gees from
+dialog: 
+dialog: nineteen eighty-two --
+speaker_heading: PEMBLETON groans,
+dialog: looks around the Room.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Very blue.
+dialog: 
+speaker_heading: (yells to BAYLISS)
+dialog: 
+dialog: You never said anything about the
+dialog: 
+dialog: squad room being this blue.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Sure I did.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Never.  Not this shade.
+speaker_heading: BAYLISS
+dialog: 
+dialog: No, huh?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: This is excessively blue.  Azure.
+dialog: 
+dialog: Cobalt. Cerulean.           PEMBLETON crosses
+dialog: to The Board, shields his eyes from the
+dialog: glare, takes
+dialog: out a pair of shades, puts them on.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Cept The Board --  All these open
+dialog: 
+dialog: cases.  Too much red.  Hurts my eyes.
+dialog: 
+dialog: Im seeing spots.
+speaker_heading: BAYLISS POV:
+dialog: The name Ryland in Red on The Board.
+speaker_heading: PEMBLETON scans
+speaker_heading: BAYLISS look.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: What.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Nothing.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: No, something.  Whos this Ryland?
+dialog: 
+dialog: And old case of yours?
+speaker_heading: LEWIS crosses
+dialog: by.
+speaker_heading: LEWIS
+dialog: 
+dialog: That stone-cold sucker is mine, Frank.
+dialog: 
+dialog: Luke Ryland snuffed two women over
+dialog: 
+dialog: the Internet.
+speaker_heading: FLASHBACK --
+speaker_heading: On LUKE RYLAND
+dialog: murdering a VICTIM,
+speaker_heading: CUT TO:
+speaker_heading: BACK TO PRESENT
+dialog: --
+speaker_heading: LEWIS (cont.)
+dialog: 
+dialog: But then, Balti-more being Balti-
+dialog: 
+dialog: less, he got off on a technicality.
+dialog: 
+dialog: Next day, Rylands laying curbside
+dialog: 
+dialog: with the slug from a forty-four in
+dialog: 
+dialog: the back of his head
+speaker_heading: FLASHBACK --
+speaker_heading: On LEWIS and
+speaker_heading: SHEPPARD standing over Rylands BODY,
+speaker_heading: CUT TO:
+speaker_heading: BACK TO PRESENT
+dialog: --
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You have no suspects?
+speaker_heading: LEWIS
+dialog: 
+dialog: Nope, no clues of any kind.  Whoever
+dialog: 
+dialog: did the deed, knew how to execute an
+dialog: 
+dialog: execution.
+speaker_heading: LEWIS walks off.
+speaker_heading: PEMBLETON turns to BAYLISS.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: And this sordid little tale makes
+dialog: 
+dialog: you jumpy because -- ?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Im not jumpy.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Youre jumpy.  I know you.
+speaker_heading: BAYLISS
+dialog: 
+dialog: You dont know me.  Things change,
+dialog: 
+dialog: Frank, people change --
+speaker_heading: PEMBLETON looks
+dialog: over to Lieutenants Office.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: And my Box...  Whatd they do to
+dialog: 
+dialog: my Box?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Like I said.
+speaker_heading: PEMBLETON turns
+dialog: to Observation Room.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: That kid still in there interviewing
+dialog: 
+dialog: the homeless man?
+speaker_heading: BAYLISS
+dialog: 
+dialog: I guess.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Hes taking way too much time.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Yeah.
+dialog: THEY cross to
+dialog: Observation Room, exit into:
+speaker_heading: 27      INT. OBSERVATION ROOM/HOMICIDE UNIT
+speaker_heading: - DAY
+speaker_heading: PEMBLETON and
+text: BAYLISS enter, see GHARTY observing.  PEMBLETON
+dialog: looks back and
+dialog: forth to each Interrogation Room.
+speaker_heading: PEMBLETONs POV:
+dialog: In Interrogation Room #1, HALL hovers over
+speaker_heading: the HOMELESS
+speaker_heading: MAN.
+speaker_heading: HALL (v.o.)
+dialog: 
+dialog: You got a name.  I know you do.
+speaker_heading: HOMELESS MAN (v.o.)
+dialog: 
+dialog: Gimme a dollar
+speaker_heading: PEMBLETON looks
+dialog: into the Interrogation Room #2
+speaker_heading: HIS POV:
+text: Another DETECTIVE hovers over another WITNESS.
+speaker_heading: PEMBLETON turns
+dialog: back to Interrogation Room #1.
+speaker_heading: HALL (v.o.)
+dialog: 
+dialog: I got a hundred eyeballs who say you
+dialog: 
+dialog: assault Al Giardello.  You saw who
+dialog: 
+dialog: shot him, didnt you?
+speaker_heading: HOMELESS MAN (v.o.)
+dialog: 
+dialog: I want a dollar.  I gotta get
+dialog: 
+dialog: something to eat.
+speaker_heading: HALL SLAMS the
+text: back of the HOMELESS MANs chair, open-handed.
+speaker_heading: The HOMELESS
+speaker_heading: MAN is startled.
+speaker_heading: HOMELESS MAN (v.o., cont.)
+dialog: 
+dialog: A measly little dollar.  Is that so
+dialog: 
+dialog: much to ask?
+speaker_heading: PEMBLETON exhales
+dialog: disgust.  HALL removes his jacket.
+speaker_heading: HALL (v.o.)
+dialog: 
+dialog: Thats it, pal.  Im outta patience.
+dialog: 
+dialog: I was gonna give you a number two
+dialog: 
+dialog: beating, but you worked and worked
+dialog: 
+dialog: and earned yourself a number one.  I
+dialog: 
+dialog: am gonna beat your balls off til
+dialog: 
+dialog: you tell me what I want to know.
+speaker_heading: BAYLISS turns
+speaker_heading: to PEMBLETON.
+speaker_heading: BAYLISS
+dialog: 
+dialog: A new breed of detective.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Inbreed.
+speaker_heading: GHARTY
+dialog: 
+dialog: This does not reflect my command.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Really?  I thought you were in charge,
+dialog: 
+dialog: here, Lieutenant Gharty.
+speaker_heading: GHARTY glares
+speaker_heading: at PEMBLETON.
+speaker_heading: BAYLISS
+dialog: 
+dialog: You better go help your man
+speaker_heading: BAYLISS points:
+speaker_heading: HALL is scuffling with the HOMELESS MAN.
+speaker_heading: GHARTY rushes
+dialog: into:
+speaker_heading: 28      INT. INTERROGATION ROOM #1/HOMICIDE
+speaker_heading: UNIT - DAY
+speaker_heading: YELLING and CURSING.
+speaker_heading: HALL and GHARTY wrestle HOMELESS MAN
+dialog: to the ground.
+speaker_heading: HALL struggles to cuff HOMELESS MAN.
+speaker_heading: HALL
+dialog: 
+dialog: This is gonna cost you.
+speaker_heading: HALL hoists him
+text: up by the shirt collar.  GHARTY breaks HALLs
+dialog: hold, eases
+speaker_heading: HOMELESS MAN into a chair.
+speaker_heading: GHARTY
+dialog: 
+dialog: You okay, Mister?
+speaker_heading: HALL
+dialog: 
+dialog: He swung at me.  Bastard swang at
+dialog: 
+dialog: me.
+speaker_heading: HOMELESS MAN
+dialog: bullrushes HALL.  GHARTY restrains him.. More
+speaker_heading: CURSING and
+text: YELLING.  BAYLISS and PEMBLETON enter.
+speaker_heading: HALL (cont.)
+dialog: 
+dialog: Whatre you two doing in here?
+speaker_heading: HOMELESS MAN
+text: eyes PEMBLETON, who sits in a chair, smiles,
+dialog: then sets dollar
+speaker_heading: bill in front of HOMELESS MAN.
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: Whats this?
+speaker_heading: HALL
+dialog: 
+dialog: Im in the middle of something --
+speaker_heading: PEMBLETON
+dialog: 
+dialog: A dollar.  You asked for a dollar.
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: Yeah, I asked for a dollar.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I heard you.
+speaker_heading: HALL
+dialog: 
+dialog: Look, I know you two guys are supposed
+dialog: 
+dialog: to be legends, but this is my
+dialog: 
+dialog: interview.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Shut up.
+speaker_heading: HALL.
+dialog: 
+dialog: What?  Excuse me?
+speaker_heading: BAYLISS
+dialog: 
+dialog: I said, shut the hell up.
+speaker_heading: BAYLISS eyefucks
+dialog: HALL, who looks to GHARTY, outraged.  GHARTY
+speaker_heading: motions HALL
+dialog: to exit Room.
+speaker_heading: HALL
+dialog: 
+dialog: Me.  Out?
+speaker_heading: GHARTY
+dialog: 
+dialog: Grab a coffee.
+speaker_heading: HALL
+dialog: 
+dialog: This aint right.
+speaker_heading: GHARTY
+dialog: 
+dialog: Grab me one, too.  Milk, two sugars.
+dialog: HALL storms out,
+dialog: BANGING the door open.
+speaker_heading: GHARTY (cont.)
+dialog: 
+dialog: Feisty little guy, isnt he?
+dialog: 
+dialog: (re: Observation Room)
+dialog: 
+dialog: Ill be in there if you need me.
+speaker_heading: As GHARTY closes
+dialog: the door,
+speaker_heading: CUT TO:
+speaker_heading: 29      EXT. CHURCH HOME & HOSPITAL - DAY
+speaker_heading: PRESS surround
+dialog: the Building, waiting.
+scene_heading: 30      INT. NURSES STATION/CHURCH HOME &
+speaker_heading: HOSPITAL - DAY
+speaker_heading: MIKE is in the
+dialog: face of a battle-as NURSE.
+speaker_heading: MIKE
+dialog: 
+dialog: Tell me whats going on.
+speaker_heading: NURSE
+dialog: 
+dialog: Sir, I dont know whats going on.
+speaker_heading: MIKE
+dialog: 
+dialog: Find me someone who does, dammit.
+speaker_heading: RUSSERT puts
+dialog: her hand on MIKEs shoulder.
+speaker_heading: RUSSERT
+dialog: 
+dialog: Mike...
+speaker_heading: MIKE
+dialog: 
+dialog: Its been hours and I cant get any
+dialog: 
+dialog: real information from anybody --
+dialog: 
+dialog: Like what theyre doing or how bad
+dialog: 
+dialog: it is or if hes gonna live or die --
+speaker_heading: RUSSERT
+dialog: 
+dialog: Relax.  Im sure the minute hes out
+dialog: 
+dialog: of surgery, theyll be telling you
+dialog: 
+dialog: exactly what they did and handing
+dialog: 
+dialog: you the itemized bill...
+speaker_heading: MIKE
+dialog: 
+dialog: (exhales)
+dialog: 
+dialog: Yeah.
+speaker_heading: RUSSERT points
+dialog: to TV set, which is covering the Giardello
+dialog: shooting, replaying
+dialog: clip of Mike and Lucaitis.
+speaker_heading: RUSSERT
+dialog: 
+dialog: Theyre replaying that clip of you
+dialog: 
+dialog: pushing Helen Lucaitis ass over
+dialog: 
+dialog: teakettle and cussing her out --
+speaker_heading: MIKE
+dialog: 
+dialog: Great --
+speaker_heading: RUSSERT
+dialog: 
+dialog: Made the national news.  Al would be
+dialog: 
+dialog: proud...
+speaker_heading: MIKE changes
+dialog: channel to Miss Sallys Schoolyard.
+speaker_heading: MIKE
+dialog: 
+dialog: You worked with my dad, right?
+speaker_heading: RUSSERT
+dialog: 
+dialog: Ive had the honor of being his equal,
+dialog: 
+dialog: his boss and his underling.  I know
+dialog: 
+dialog: every side of the man...
+speaker_heading: MIKE
+dialog: 
+dialog: I wish I did.
+dialog: 
+dialog: (off her look)
+dialog: 
+dialog: I used to be F.B.I. Liaison with the
+dialog: 
+dialog: Department.  I took the job to be
+dialog: 
+dialog: closer to him, make amends, maybe
+dialog: 
+dialog: put to rest all the anger and
+dialog: 
+dialog: bitterness between us...
+speaker_heading: RUSSERT
+dialog: 
+dialog: But that didnt happen?
+speaker_heading: MIKE
+dialog: 
+dialog: If anything, working together made
+dialog: 
+dialog: things worse.  We were always stepping
+dialog: 
+dialog: on each others toes.  Then I had a
+dialog: 
+dialog: little dust-up with my boss at the
+dialog: 
+dialog: Bureau, so I quit.  Started over as
+dialog: 
+dialog: a Balto uniform, bottom of the totem
+dialog: 
+dialog: pole... I dont know if any of it
+dialog: 
+dialog: made any difference to my dad.  If
+dialog: 
+dialog: he even noticed.
+speaker_heading: RUSSERT
+dialog: 
+dialog: Did you ever think to ask him?
+speaker_heading: MIKE
+dialog: 
+dialog: We dont have that kind of
+dialog: 
+dialog: relationship.  Hes my father, but...
+dialog: 
+dialog: in a lot of ways, the mans a stranger
+dialog: 
+dialog: to me.
+speaker_heading: On RUSSERT, trying
+dialog: to comfort MIKE,
+speaker_heading: CUT TO:
+scene_heading: 31      INT. INTERROGATION ROOM #1/HOMICIDE UNIT
+speaker_heading: - DAY
+speaker_heading: PEMBLETON and
+speaker_heading: BAYLISS sit with HOMELESS MAN.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You wouldnt hurt anyone, would you?
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: No.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You wouldnt hurt anyone because
+dialog: 
+dialog: its not in you.  I know this about
+dialog: 
+dialog: you.  Al Giardello wouldnt hurt
+dialog: 
+dialog: anyone either.  Its not in him.
+dialog: 
+dialog: You and he, you have a lot in common.
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: Thats why I asked him for a dollar.
+dialog: 
+dialog: Cause I knew hed understand.
+speaker_heading: HOMELESS MAN
+dialog: takes dollar in hand.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Whats your name?
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: Id tell ya my name, but whats it
+dialog: 
+dialog: matter?  You aint got an address,
+dialog: 
+dialog: whaddya need a name for?  Post office
+dialog: 
+dialog: cant find me.  So why should it
+dialog: 
+dialog: mean anything if I have a name?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: We dont need to know your name.
+dialog: 
+dialog: What we need to know is if you saw
+dialog: 
+dialog: who hurt Al Giardello.
+speaker_heading: HOMELESS MAN
+dialog: 
+speaker_heading: (to BAYLISS)
+dialog: 
+dialog: Got a dollar?
+speaker_heading: BAYLISS
+dialog: 
+dialog: A dollar?
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: Been jonesing for a Hershey bar.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I just gave you a dollar.
+speaker_heading: HOMELESS MAN
+dialog: 
+speaker_heading: (re: BAYLISS)
+dialog: 
+dialog: Im asking him.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: What did you see at the Inner Harbor
+dialog: 
+dialog: today?
+speaker_heading: HOMELESS MAN
+dialog: 
+speaker_heading: (to BAYLISS)
+dialog: 
+dialog: Im a fiend for chocolate.
+speaker_heading: PEMBLETON stands,
+dialog: leans across the table.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Didnt I just give you a dollar?
+dialog: No response.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: Didnt I?
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: Yeah.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: So now you play me for the fool?
+dialog: No response.
+speaker_heading: BAYLISS
+dialog: 
+dialog: If I give you a dollar, youll tell
+dialog: 
+dialog: us what you saw today?
+speaker_heading: PEMBLETON
+dialog: 
+speaker_heading: (to HOMELESS MAN)
+dialog: 
+dialog: Im the fool, huh?  I give you a
+dialog: 
+dialog: dollar and now, what?
+speaker_heading: BAYLISS takes
+dialog: out a dollar.  PEMBLETON stops him:
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: Put that away.
+dialog: 
+speaker_heading: (to HOMELESS MAN)
+dialog: 
+dialog: Im here out of concern for a good
+dialog: 
+dialog: person.  Someone who means a lot to
+dialog: 
+dialog: me, who means a lot to this city.
+dialog: 
+dialog: And what, now you think this is some
+dialog: 
+dialog: kind of deal where youre going to
+dialog: 
+dialog: use my concern to mooch money?  Cause
+dialog: 
+dialog: you think youre the key to the
+dialog: 
+dialog: puzzle, youre holding all the vital
+dialog: 
+dialog: info?  So, yeah, screw me?
+dialog: 
+speaker_heading: (points to BAYLISS)
+dialog: 
+dialog: And screw him.  And screw Al
+dialog: 
+dialog: Giardello.
+dialog: 
+dialog: (puts hand on chest)
+dialog: 
+dialog: Do you think you mean anything to
+dialog: 
+dialog: anyone?  Anything to this city?
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: No.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: But Im here.  Im extending you my
+dialog: 
+dialog: kindness.  I give you what you ask
+dialog: 
+dialog: for, out of goodwill.  And its not
+dialog: 
+dialog: about the dollar.  This is not the
+dialog: 
+dialog: money.  If youd asked me for ten,
+dialog: 
+dialog: Id give you ten.  A hundred, youve
+dialog: 
+dialog: got it.  Im respecting you.  But
+dialog: 
+dialog: you sit here and piss on me?  I will
+dialog: 
+dialog: send you to hell, Mister I-dont-
+dialog: 
+dialog: have-a-name-so-feel-sorry-for-my-
+dialog: 
+dialog: mooching-ass.
+speaker_heading: HOMELESS MAN
+dialog: 
+speaker_heading: (to BAYLISS)
+dialog: 
+dialog: The guy I see is late forties, early
+dialog: 
+dialog: fifties maybe.  Of the Negro
+dialog: 
+dialog: persuasion.
+speaker_heading: PEMBLETON glares
+speaker_heading: at HOMELESS MAN.
+speaker_heading: BAYLISS
+dialog: 
+dialog: The shooter is Black?  Whats he
+dialog: 
+dialog: look like?  How big is he?
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: A little taller than me.  And he has
+dialog: 
+dialog: grey sidewalls.  His hair.  You know,
+dialog: 
+dialog: sideburns.  And hes got a gun.
+dialog: 
+speaker_heading: (to PEMBLETON)
+dialog: 
+dialog: Dont stare.  Youre staring.  Thats
+dialog: 
+dialog: not polite, sir.
+speaker_heading: BAYLISS
+dialog: 
+dialog: You see this guy, Black, late forties,
+dialog: 
+dialog: fifties, with a gun.
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: Yuh.  One of them black guns that
+dialog: 
+dialog: goes pop-pop-pop --
+speaker_heading: BAYLISS
+dialog: 
+dialog: An automatic.
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: If you say so.
+speaker_heading: BAYLISS
+dialog: 
+dialog: After this guy shoots Giardello,
+dialog: 
+dialog: what then?  Where does he go?
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: I dunno.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Whaddya mean, I dunno?
+speaker_heading: HOMELESS MAN
+dialog: 
+speaker_heading: (to PEMBLETON)
+dialog: 
+dialog: You gotta stop with the evil eye,
+dialog: 
+dialog: sir.  Its gonna screw up all your
+dialog: 
+dialog: good blood with bile.  And bile,
+dialog: 
+dialog: its poison, yknow.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Okay, he shoots -- pop-pop-pop.
+dialog: 
+dialog: Then what happens?  What does he do
+dialog: 
+dialog: then?  Where does he go?
+speaker_heading: HOMELESS MAN
+dialog: 
+dialog: I dont know.  He just disappears.
+dialog: 
+dialog: Gets swallowed up by the crowd.  I
+dialog: 
+dialog: got scared, I was just trying to get
+dialog: 
+dialog: outta there, and then the cops grabbed
+dialog: 
+dialog: me up.
+dialog: 
+speaker_heading: (to BAYLISS)
+dialog: 
+dialog: Can I have that other dollar now?
+speaker_heading: On PEMBLETON
+dialog: and BAYLISS, exchanging a look,
+dialog: FADE OUT. END OF ACT ONE ACT TWO           FADE IN:
+scene_heading: 32      INT. HALLWAY/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+speaker_heading: ROSINA and RUSSERT
+dialog: exit the Womens Room.  They are pursued
+speaker_heading: by DANIELS and
+speaker_heading: her Cameraman, ERIC THOMAS JAMES.
+speaker_heading: DANIELS
+dialog: 
+dialog: Missus Giardello, any word on his
+dialog: 
+dialog: condition
+speaker_heading: ROSINA
+dialog: 
+dialog: (terrified)
+dialog: 
+dialog: No.
+speaker_heading: RUSSERT
+dialog: 
+dialog: Please step back --
+speaker_heading: DANIELS
+dialog: 
+dialog: Any ideas who shot him?
+speaker_heading: MIKE (o.c.)
+dialog: 
+dialog: Hey --
+speaker_heading: DANIELS turns
+dialog: to see MIKE charging toward her.
+speaker_heading: MIKE (cont.)
+dialog: 
+dialog: Leave her alone.  Youre not supposed
+dialog: 
+dialog: to be up here anyway --
+dialog: MIKE grabs the
+dialog: camera.
+speaker_heading: MIKE
+dialog: 
+dialog: Leave us the hell alone
+speaker_heading: JAMES heads down
+dialog: Hall to retrieve camera.
+speaker_heading: DANIELS
+dialog: 
+dialog: Were just doing our job.
+speaker_heading: MIKE
+dialog: 
+dialog: Thats no excuse.
+speaker_heading: DANIELS and JAMES
+text: go.  As MIKE puts his arm around his
+speaker_heading: GRANDMOTHER,
+speaker_heading: CUT TO:
+speaker_heading: 33      EXT. WYAT - DAY
+dialog: Cavalier pulls
+dialog: up.  STIVERS gets out drivers side.  BALLARD
+dialog: gets out as
+text: STIVERS looks into the backseat, piled with video
+dialog: cassettes, with
+dialog: logos from various local TV stations.
+speaker_heading: STIVERS
+dialog: 
+dialog: Last stop.
+speaker_heading: As SHE follows
+speaker_heading: BALLARD into building,
+speaker_heading: CUT TO:
+speaker_heading: 34      OMIT
+speaker_heading: 35      INT. NEWS STUDIO SET/WYAT - DAY
+speaker_heading: NEWS MANAGER
+dialog: walks with STIVERS and BALLARD as News Room
+speaker_heading: Redballs Giardello
+dialog: shooting.  They walk past News Anchor
+speaker_heading: DINA NAPOLI
+dialog: on air:
+speaker_heading: NAPOLI
+dialog: 
+dialog: Giardello is still in surgery at
+dialog: 
+dialog: this hour... Meanwhile, police have
+dialog: 
+dialog: intensified their investigation,
+dialog: 
+dialog: interviewing literally hundreds of
+dialog: 
+dialog: witnesses.
+speaker_heading: NEWS MANAGER
+dialog: 
+dialog: Id like to give you the tape, but I
+dialog: 
+dialog: cant.
+speaker_heading: BALLARD
+dialog: 
+dialog: Then well get a subpoena --
+speaker_heading: NEWS MANAGER
+dialog: 
+dialog: You dont understand.  There was
+dialog: 
+dialog: some kinda technical glitch with our camera.
+speaker_heading: STIVERS
+dialog: 
+dialog: Glitch?
+speaker_heading: NEWS MANAGER
+dialog: 
+dialog: We were the only station in town who
+dialog: 
+dialog: didnt get footage of the actual
+dialog: 
+dialog: shooting.  All I got is stuff leading
+dialog: 
+dialog: up to the gun shots, then the camera
+dialog: 
+dialog: dies.  And believe me, Im not happy,
+dialog: 
+dialog: losing out on the biggest news event
+dialog: 
+dialog: of the year.
+speaker_heading: STIVERS
+dialog: 
+dialog: Geez, Im weeping for ya.  Okay,
+dialog: 
+dialog: just give us what youve got.
+speaker_heading: On NEWS MANAGER,
+dialog: nodding,
+speaker_heading: CUT TO:
+speaker_heading: 36      EXT. POLICE HEADQUARTERS - DAY
+speaker_heading: BOLANDER and
+text: MUNCH walk to entrance, passing MEDIA.
+speaker_heading: MUNCH
+dialog: 
+dialog: Youre living in Saint Michaels
+dialog: 
+dialog: now?
+speaker_heading: BOLANDER
+dialog: 
+dialog: Yep.  Whod wanna shoot Giardello?
+speaker_heading: MUNCH
+dialog: 
+dialog: I was under the impression you were
+dialog: 
+dialog: here in Balto.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Nope.
+speaker_heading: MUNCH
+dialog: 
+dialog: That you were just refusing to answer
+dialog: 
+dialog: my calls out of some misdirected
+dialog: 
+dialog: spite.
+speaker_heading: BOLANDER
+dialog: 
+dialog: I have never mis-whateverd my spite.
+speaker_heading: MUNCH
+dialog: 
+dialog: I got married again.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Whats that?  Number four?
+speaker_heading: MUNCH
+dialog: 
+dialog: Yep.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Geez...
+speaker_heading: MUNCH
+dialog: 
+dialog: Were getting divorced.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Geez, John...
+speaker_heading: MUNCH
+dialog: 
+dialog: This feels good.  Me and you prowling
+dialog: 
+dialog: the streets of Baltimore again.
+speaker_heading: BOLANDER
+dialog: 
+dialog: I have never prowled anywhere with
+dialog: 
+dialog: you, awright?  Dont start agitating
+dialog: 
+dialog: me, Munch.
+speaker_heading: On BOLANDER,
+dialog: entering ahead of MUNCH,
+speaker_heading: CUT TO:
+speaker_heading: 37      INT. LIEUTENANTS OFFICE/HOMICIDE UNIT
+speaker_heading: - DAY
+speaker_heading: PEMBLETON, BAYLISS,
+speaker_heading: MUNCH, BOLANDER, FALSONE, HOWARD, STIVERS,
+speaker_heading: BALLARD, LEWIS
+dialog: and GHARTY crowd around VCR, watching videotape
+dialog: of the shooting.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Stop there.
+speaker_heading: GHARTY hits pause.
+text: BOLANDER looks closely at SCREEN.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: What are you looking at, Stan?
+speaker_heading: BOLANDER
+dialog: 
+dialog: This guy, near the edge of the stage,
+dialog: 
+dialog: his body language, it aint right.
+dialog: A moment of intense
+dialog: study on the stopped tape.
+speaker_heading: HOWARD
+dialog: 
+dialog: I cant see anything.
+speaker_heading: BALLARD
+dialog: 
+dialog: Youre looking for a gun?  This angle,
+dialog: 
+dialog: I cant even see his hands.
+speaker_heading: HOWARD
+dialog: 
+dialog: What we need is to enhance the tape.
+speaker_heading: FALSONE
+dialog: 
+dialog: Yeah, send a copy to the State Police
+dialog: 
+dialog: Lab --
+speaker_heading: We HEAR the SOUND
+text: of the door opening.  Captain ROGER GAFFNEY
+dialog: enters.
+text: In b.g. of doorway, PICK UP HALL, pouty face.
+speaker_heading: GAFFNEY
+dialog: 
+dialog: Lieutenant.
+speaker_heading: GHARTY
+dialog: 
+dialog: Captain.
+speaker_heading: GAFFNEY
+dialog: 
+dialog: My my my.  Lookit this. Sergeant
+dialog: 
+dialog: Howard, Frank Pembleton, Munch,
+dialog: 
+dialog: Bayliss, even the Big Man -- All the
+dialog: 
+dialog: ol boys and girls gathered again,
+dialog: 
+dialog: everybody pal-sy, wal-sy.
+dialog: 
+speaker_heading: (to GHARTY)
+dialog: 
+dialog: You interrupt one of my detectives
+dialog: 
+dialog: in the course of interviewing a
+dialog: 
+dialog: witness?
+speaker_heading: GHARTY looks
+text: through blinds, exchanges a look with HALL.
+speaker_heading: GHARTY
+dialog: 
+dialog: I was giving him some relief.
+speaker_heading: GAFFNEY
+dialog: 
+dialog: Relief my ass.  You wanted to show
+dialog: 
+dialog: him whos boss.  Thats your game.
+speaker_heading: GHARTY
+dialog: 
+dialog: Sir --
+speaker_heading: GAFFNEY
+dialog: 
+dialog: But now Im gonna show you whos
+dialog: 
+dialog: boss.  I order you to apologize to
+dialog: 
+dialog: Detective Hall.
+speaker_heading: GHARTY
+dialog: 
+dialog: Apologize?
+speaker_heading: GAFFNEY
+dialog: 
+dialog: Hall --
+speaker_heading: HALL steps in.
+speaker_heading: GAFFNEY turns to GHARTY.
+speaker_heading: GAFFNEY (cont.)
+dialog: 
+dialog: Go ahead.
+speaker_heading: GHARTY
+dialog: 
+dialog: I... apologize...
+speaker_heading: HALL
+dialog: 
+dialog: No problem.
+speaker_heading: HALL goes.
+speaker_heading: GAFFNEY faces the GROUP.
+speaker_heading: GAFFNEY
+dialog: 
+dialog: Why the hell are all of you in here?
+speaker_heading: MUNCH
+dialog: 
+dialog: We came to see if we could help.
+speaker_heading: GAFFNEY
+dialog: 
+speaker_heading: (to GHARTY)
+dialog: 
+dialog: This is your call? What are you,
+dialog: 
+dialog: desperate?
+speaker_heading: BAYLISS
+dialog: 
+dialog: We came on our own.
+speaker_heading: GAFFNEY
+dialog: 
+dialog: Truly noble.  Get your ass in gear,
+dialog: 
+dialog: Gharty.  I want this Giardello
+dialog: 
+dialog: shooting down today.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Thats what we all want, Gaffney.
+speaker_heading: GAFFNEY
+dialog: 
+dialog: This is police business.  Youre not
+dialog: 
+dialog: a cop anymore, Frank, are you?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Thats correct.
+speaker_heading: GAFFNEY
+dialog: 
+dialog: Then get lost.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Yeah.  Sure.  Good.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Me too, then.
+speaker_heading: GAFFNEY
+dialog: 
+dialog: No, Bolander.  You can stay.  Thats
+dialog: 
+dialog: the beauty of power, its arbitrary...
+dialog: 
+speaker_heading: (to GHARTY)
+dialog: 
+dialog: I have a press conference, two
+dialog: 
+dialog: oclock.  I better have startling
+dialog: 
+dialog: new revelations to tell the media.
+speaker_heading: GAFFNEY exits
+speaker_heading: STIVERS
+dialog: 
+dialog: Somebody open a window.
+speaker_heading: LEWIS
+dialog: 
+dialog: Wont do any good.  Eau De Gaffney
+dialog: 
+dialog: lasts for days.
+speaker_heading: PEMBLETON starts
+dialog: to exit
+speaker_heading: GHARTY
+dialog: 
+dialog: Frank, hey.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: No need to say anything.
+speaker_heading: GHARTY
+dialog: 
+dialog: We get anywhere, Ill keep you posted.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Fine. Give me a holler.
+speaker_heading: PEMBLETON exits.
+text: BAYLISS follows.  GHARTY turns to the
+speaker_heading: OTHERS.
+speaker_heading: GHARTY
+dialog: 
+dialog: Appreciate you being here.
+speaker_heading: MUNCH
+dialog: 
+dialog: Its about Gee.  Not you.
+speaker_heading: GHARTY
+dialog: 
+dialog: I know that.  Where are we with the
+dialog: 
+dialog: possible suspects?
+speaker_heading: BOLANDER
+dialog: 
+dialog: You shoot the President.  You shoot
+dialog: 
+dialog: the Pope.  John Lennon, maybe, but a
+dialog: 
+dialog: guy running for Mayor of Baltimore?
+dialog: 
+dialog: Whos crazy enough to do that?
+speaker_heading: On the GROUP,
+dialog: pondering the question,
+speaker_heading: CUT TO:
+scene_heading: 38      INT. STAIRWAY/POLICE HEADQUARTERS - DAY
+speaker_heading: BAYLISS pursues
+speaker_heading: PEMBLETON down stairs.
+speaker_heading: BAYLISS
+dialog: 
+dialog: You really just gonna leave, Frank?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Yeah.  And youre coming with me.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Where?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: If the bosses wont let us investigate
+dialog: 
+dialog: officially, well do one of our own.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Unofficially.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: A citizens brigade.
+dialog: THEY exit building.
+speaker_heading: 39      EXT. POLICE HEADQUARTERS - DAY
+speaker_heading: PEMBLETON and
+speaker_heading: BAYLISS walk briskly through MEDIA CIRCUS,
+speaker_heading: ignoring REPORTERS
+dialog: questions.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: Whats this semi-permanent leave of
+dialog: 
+dialog: absence youre on?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Same as you, Frank.  Got tired of
+dialog: 
+dialog: the job, Homicide sucked the life
+dialog: 
+dialog: outta me.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Really...
+speaker_heading: BAYLISS
+dialog: 
+dialog: Yup.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Theres no other reason?
+speaker_heading: BAYLISS
+dialog: 
+dialog: What other reason could there be?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I dunno.  You tell me.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Nothing to tell, Frank.  Can we
+dialog: 
+dialog: concentrate on Gee?
+speaker_heading: PEMBLETON and
+dialog: BAYLISS cross street, reach Pembletons Toyota.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Okay.  Well start with the Crime
+dialog: 
+dialog: Scene.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Im driving.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You aint driving my car.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Were taking your car?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Its the better car, Bayliss.  I
+dialog: 
+dialog: make forty-five grand a year teaching
+dialog: 
+dialog: at Loyola.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Forty-five?  And you can afford a
+dialog: 
+dialog: car like that?  Whatre you, on the
+dialog: 
+dialog: take?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: On the pad?  At Loyola?
+dialog: As THEY get into
+dialog: the Car,
+speaker_heading: CUT TO:
+speaker_heading: 40      INT. SQUAD ROOM/HOMICIDE UNIT - DAY
+dialog: Redball chaos
+text: continues.  GHARTY stands before MUNCH,
+speaker_heading: BOLANDER, STIVERS,
+speaker_heading: HOWARD, FALSONE, BALLARD, LEWIS and HALL.
+speaker_heading: HOWARD
+dialog: 
+dialog: Weve got fifteen different
+dialog: 
+dialog: descriptions of a possible shooter
+dialog: 
+dialog: from twenty-five different witnesses.
+speaker_heading: STIVERS
+dialog: 
+dialog: Some say hes Black, some say White.
+dialog: 
+dialog: Some say in his twenties, others in
+dialog: 
+dialog: his sixties.
+speaker_heading: BALLARD
+dialog: 
+dialog: They all agree that the shooters a man,
+dialog: 
+dialog: right?
+speaker_heading: STIVERS
+dialog: 
+dialog: Actually, a couple of them think he
+dialog: 
+dialog: mightve been a woman.
+speaker_heading: MUNCH
+dialog: 
+dialog: I say its a conspiracy.
+speaker_heading: OTHERS GROAN
+speaker_heading: MUNCH (cont.)
+dialog: 
+dialog: The guy Gees running against for
+dialog: 
+dialog: Mayor, whats his name, Gessner.
+dialog: 
+dialog: Hes about to get his ass kicked.
+dialog: 
+dialog: Decides to take action.  Hires an
+dialog: 
+dialog: assassin.  Like in The Manchurian
+dialog: 
+dialog: Candidate --
+speaker_heading: BOLANDER
+dialog: 
+dialog: Whatd I say about agitating, Munch?
+speaker_heading: HOWARD
+dialog: 
+dialog: Im gonna check out the widow of
+dialog: 
+dialog: Raymond Desassy.
+speaker_heading: LEWIS
+dialog: 
+dialog: The guy Gee shot?
+speaker_heading: FALSONE
+dialog: 
+dialog: Gee shot someone?
+speaker_heading: HOWARD
+dialog: 
+dialog: Coupla, three years back.  Kevin
+dialog: 
+dialog: Lugo, big shock radio personality --
+speaker_heading: FALSONE
+dialog: 
+dialog: Oh yeah, I remember, got whacked in
+dialog: 
+dialog: a Mount Washington parking lot.
+speaker_heading: HOWARD
+dialog: 
+dialog: We get a tip Raymond Desassys
+dialog: 
+dialog: the murderer.  Gee and I go to the
+dialog: 
+dialog: house, the suspect pulls a gun.  Gee
+dialog: 
+dialog: shoots him dead.  Turns out our tip
+dialog: 
+dialog: was Desassys best friend, whod
+dialog: 
+dialog: called it in as a practical joke.
+dialog: 
+dialog: Desassys wife was pretty bitter
+dialog: 
+dialog: about the whole thing.
+speaker_heading: GHARTY
+dialog: 
+dialog: Howard, Missus Desassy it is.
+speaker_heading: FALSONE
+dialog: 
+dialog: You need backup?
+speaker_heading: HOWARD
+dialog: 
+dialog: Sure.
+speaker_heading: GHARTY
+dialog: 
+dialog: Stivers, you and Ballard take the
+dialog: 
+dialog: video tapes to the State Lab, study
+dialog: 
+dialog: every frame...  Lewis, stop by the
+dialog: 
+dialog: courthouse, grab Sheppard, go talk
+dialog: 
+dialog: to Karl Miller.
+speaker_heading: LEWIS
+dialog: 
+dialog: The pride of the Aryan Nation?
+speaker_heading: GHARTY
+dialog: 
+dialog: Hes been beating the drums trying
+dialog: 
+dialog: to start a race war over Gees drug
+dialog: 
+dialog: policy.
+dialog: 
+speaker_heading: (to BOLANDER)
+dialog: 
+dialog: If youre volunteering, how bout
+dialog: 
+dialog: calling on John Komen?
+speaker_heading: BOLANDER
+dialog: 
+dialog: Whatever you need, Lieutenant.
+speaker_heading: FALSONE
+dialog: 
+dialog: Whos John Komen?
+speaker_heading: LEWIS
+dialog: 
+dialog: That mass suicide at the African
+dialog: 
+dialog: Revival Movement.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Yeah yeah.  I saw that on the news.
+speaker_heading: MUNCH
+dialog: 
+dialog: QRT storms the place and finds sixteen
+dialog: 
+dialog: bodies.  Poison.  Regular Jonestown.
+speaker_heading: GHARTY
+dialog: 
+dialog: Komen has taken over as head honcho
+dialog: 
+dialog: of the movement.  Course, he was
+dialog: 
+dialog: the only one left.  Last man standing.
+speaker_heading: FALSONE
+dialog: 
+dialog: And he blames Gee.
+speaker_heading: BOLANDER
+dialog: 
+dialog: So we go talk to him.
+speaker_heading: MUNCH
+dialog: 
+dialog: I say a Black nationalist and two
+dialog: 
+dialog: whiter-shades-of-pale detectives
+dialog: 
+dialog: dont exactly interface, you catch
+dialog: 
+dialog: my drift?
+speaker_heading: GHARTY
+dialog: 
+dialog: You got a problem with that, Munch,
+dialog: 
+dialog: make it easy on yourself.  Theres
+dialog: 
+dialog: an Amtrak back to the Big Apple every
+dialog: 
+dialog: hour.
+dialog: 
+speaker_heading: (to BOLANDER)
+dialog: 
+dialog: Stan, you know where the African
+dialog: 
+dialog: Revival Movement building is?
+speaker_heading: BOLANDER
+dialog: 
+dialog: If its in Balto, Ill can find it.
+speaker_heading: GHARTY
+dialog: 
+dialog: Weve set up an eight-hundred number
+dialog: 
+dialog: for tips.  You all know that
+dialog: 
+dialog: realistically we got forty-eight
+dialog: 
+dialog: hours to catch this guy.  After that,
+dialog: 
+dialog: the odds get long and you know what
+dialog: 
+dialog: hits the fan.  Okay, lets go.  Were
+dialog: 
+dialog: a team.  Lets catch this bastard.
+speaker_heading: DETECTIVES move
+text: off.  MUNCH leans into GHARTY.
+speaker_heading: MUNCH
+dialog: 
+dialog: You couldve handled this better,
+dialog: 
+dialog: Stu-ie.
+speaker_heading: BOLANDER
+dialog: 
+dialog: You coming, Detective Munch?
+speaker_heading: MUNCH
+dialog: 
+dialog: Yeah, yeah.  But Im driving.
+dialog: As MUNCH follows,
+scene_heading: FADE OUT. END OF ACT TWO ACT THREE           FADE IN:
+scene_heading: 41      INT. PEMBLETONS TOYOTA - DAY
+speaker_heading: PEMBLETON drives.
+speaker_heading: BAYLISS rides shotgun.
+speaker_heading: BAYLISS
+dialog: 
+dialog: How was that for you, Frank?  Being
+dialog: 
+dialog: back in the Squad Room.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Strange.
+speaker_heading: BAYLISS
+dialog: 
+dialog: So many things have changed.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: The color of the floors and the doors,
+dialog: 
+dialog: maybe.  But the rooms the same.
+dialog: 
+dialog: The works the same.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Yeah.  I guess thats never gonna be
+dialog: 
+dialog: different.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: What bothered me was not seeing Gee
+dialog: 
+dialog: there.  Charging outta his office,
+dialog: 
+dialog: like a water buffalo... Yknow, the
+dialog: 
+dialog: last conversation he and I had was
+dialog: 
+dialog: standing over your hospital bed.
+dialog: 
+dialog: After you took a bullet for me.
+speaker_heading: CUT TO:
+speaker_heading: FLASHBACK --
+speaker_heading: On BAYLISS getting
+dialog: shot,
+speaker_heading: CUT TO:
+speaker_heading: BACK TO PRESENT
+dialog: --
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: Did I ever thank you for that?
+speaker_heading: BAYLISS
+dialog: 
+dialog: No.  Not in so many words.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Thank you.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Prego.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Prego?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Its Italian
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I know its Italian.  Why Italian?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Im thinking of Gee.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I was so angry at him.  But I see
+dialog: 
+dialog: now, it wasnt him I was angry at.
+dialog: 
+dialog: It was the whole bloody business.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Yeah.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I never spoke to him after that day.
+dialog: 
+dialog: And now I may never get the chance
+dialog: 
+dialog: to speak with him again.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Lets stop by the hospital.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Hes in surgery.  And besides, I can
+dialog: 
+dialog: do more for the man being out on the
+dialog: 
+dialog: street.
+speaker_heading: BAYLISS
+dialog: 
+dialog: He didnt hate you.  And he knew you
+dialog: 
+dialog: didnt hate him --
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I handed him my badge, Tim.  He hated
+dialog: 
+dialog: that.
+speaker_heading: As THEY drive
+dialog: along,
+speaker_heading: CUT TO:
+scene_heading: 42      EXT. AFRICAN REVIVAL MOVEMENT BUILDING
+speaker_heading: - DAY
+dialog: Establishing.
+scene_heading: 43      INT. AFRICAN REVIVAL MOVEMENT BUILDING
+speaker_heading: - DAY
+speaker_heading: BOLANDER and
+speaker_heading: MUNCH sit across from JOHN KOMEN, forties,
+dialog: greying temples.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Youre not upset by the news about
+dialog: 
+dialog: Al Giardello.
+speaker_heading: KOMEN
+dialog: 
+dialog: Upset, yes, but not surprised.  Hes
+dialog: 
+dialog: a Black man who spoke the truth.
+dialog: 
+dialog: Theres a long tradition in this
+dialog: 
+dialog: country of shooting Black men who
+dialog: 
+dialog: speak the truth.
+speaker_heading: BOLANDER
+dialog: 
+dialog: We have a witness says the would-be
+dialog: 
+dialog: assassin was Black.
+speaker_heading: KOMEN
+dialog: 
+dialog: A Black assassin?  How convenient.
+dialog: 
+dialog: The White man can always find a race
+dialog: 
+dialog: traitor to do his dirty work.
+speaker_heading: MUNCH
+dialog: 
+dialog: There are some who blame Al Giardello
+dialog: 
+dialog: for what happened in this building
+dialog: 
+dialog: three years ago.  Some who say
+dialog: 
+dialog: Giardello is responsible for those
+dialog: 
+dialog: sixteen suicides.
+speaker_heading: CUT TO:
+speaker_heading: FLASHBACK --
+speaker_heading: On GIARDELLO
+dialog: finding the BODIES of dead Members of the African
+dialog: Revival Movement,
+speaker_heading: CUT TO:
+speaker_heading: BACK TO PRESENT
+dialog: --
+speaker_heading: KOMEN
+dialog: 
+dialog: You think I would want revenge?
+speaker_heading: BOLANDER
+dialog: 
+dialog: Maybe one of your followers.
+speaker_heading: KOMEN
+dialog: 
+dialog: Which you see where?  This Movement
+dialog: 
+dialog: was destroyed that day.  There is me
+dialog: 
+dialog: and the janitor and two elderly
+dialog: 
+dialog: couples who show up on Fridays for
+dialog: 
+dialog: the food giveaway.  The problem is:
+dialog: 
+dialog: We dont have any food to give away
+dialog: 
+dialog: anymore.  But they show up anyway.
+speaker_heading: MUNCH
+dialog: 
+dialog: So this morning, say eight-fifteen --
+speaker_heading: KOMEN
+dialog: 
+dialog: Was I at the Inner Harbor?  No.
+speaker_heading: BOLANDER
+dialog: 
+dialog: You can verify your whereabouts?
+speaker_heading: KOMEN
+dialog: 
+dialog: I was here.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Someone an back you on that?
+speaker_heading: KOMEN
+dialog: 
+dialog: Yes.  Theyll tell you that I was at
+dialog: 
+dialog: this desk working.
+speaker_heading: MUNCH
+dialog: 
+dialog: What work?  You say you dont have
+dialog: 
+dialog: any following.
+speaker_heading: KOMEN
+dialog: 
+dialog: The tide is turning.  Soon.  Im
+dialog: 
+dialog: going to be interviewed this week on
+dialog: 
+dialog: the radio.  The Mark Steiner Show --
+speaker_heading: BOLANDER
+dialog: 
+dialog: Steiner, huh?  I like him.
+speaker_heading: KOMEN
+dialog: 
+dialog: And Im going to tell the world how
+dialog: 
+dialog: Al Giardello was set up by the White
+dialog: 
+dialog: banking establishment to run for
+dialog: 
+dialog: Mayor, then shot by them.
+speaker_heading: BOLANDER
+dialog: 
+dialog: The banks shot Giardello.
+speaker_heading: KOMEN
+dialog: 
+dialog: Giardello gets popular, he gets shot,
+dialog: 
+dialog: he dies, the city riots, the city
+dialog: 
+dialog: goes up in flames.  The smoke clears,
+dialog: 
+dialog: the banks come in and rebuild the
+dialog: 
+dialog: neighborhood, shoving all the poor
+dialog: 
+dialog: Blacks out to the collar counties.
+dialog: 
+dialog: Whats behind Lexington Towers and
+dialog: 
+dialog: Boston Homes being torn down?  The
+dialog: 
+dialog: land theyre on is too valuable.
+dialog: 
+dialog: The banks and the developers want
+dialog: 
+dialog: all that land near the Harbor.  Its
+dialog: 
+dialog: worth hundreds of millions.
+speaker_heading: BOLANDER
+dialog: 
+dialog: The banks, huh?
+speaker_heading: MUNCH
+dialog: 
+dialog: Actually, it makes sense, when you
+dialog: 
+dialog: think about it.  The banks, the
+dialog: 
+dialog: multinationals, the real estate
+dialog: 
+dialog: lobby...
+speaker_heading: On BOLANDER giving
+dialog: MUNCH a look,
+speaker_heading: CUT TO:
+speaker_heading: 44      EXT. AMPITHEATRE/INNER HARBOR - DAY
+dialog: Still a Crime
+dialog: Scene.  Area of shooting taped off.  PEMBLETON
+speaker_heading: and BAYLISS
+speaker_heading: talk to WITNESS #1.
+speaker_heading: WITNESS #1
+dialog: 
+dialog: So when are you gonna let me re-open
+dialog: 
+dialog: my cart?  Im dying here.  Im losing
+dialog: 
+dialog: a whole days receipts.
+dialog: 
+dialog: Ive told you and them other
+dialog: 
+dialog: detectives ninety-nine times already,
+dialog: 
+dialog: I didnt see nothing.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: And Ive told you a hundred times,
+dialog: 
+dialog: you are lying.
+speaker_heading: WITNESS #1
+dialog: 
+dialog: Why would I lie?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Because youre afraid.
+speaker_heading: WITNESS #1
+dialog: 
+dialog: Me?  Im not afraid of nobody.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Yes, you are.  Youre frightened.
+dialog: 
+dialog: Of the man who shot Al Giardello.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Youre afraid if he finds out that
+dialog: 
+dialog: you IDd him, hell come back, shoot
+dialog: 
+dialog: you, too.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Listen, if you know anything, tell
+dialog: 
+dialog: us.  Well protect you.
+speaker_heading: WITNESS #1
+dialog: 
+dialog: Oh yeah.  How?  This goes to trial,
+dialog: 
+dialog: I gotta testify.  The gunman gets
+dialog: 
+dialog: off, Im dead.  No thanks.  I got no
+dialog: 
+dialog: reason to die for that goon Giardello.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Goon?
+speaker_heading: WITNESS #1
+dialog: 
+dialog: Legalizing drugs, thats just insane.
+speaker_heading: BAYLISS
+dialog: 
+dialog: You dont tell us what you know, the
+dialog: 
+dialog: gunmans free, running around the
+dialog: 
+dialog: streets.  He hits his mark next time,
+dialog: 
+dialog: he kills someone, thats on you.
+speaker_heading: WITNESS #1
+dialog: 
+dialog: Guess what, I can carry that.
+speaker_heading: BAYLISS
+dialog: 
+dialog: (sighs)
+dialog: 
+dialog: Thanks for your time.
+speaker_heading: WITNESS #1
+dialog: 
+dialog: Hey, so when can I re-open?
+speaker_heading: As PEMBLETON
+dialog: kicks a garbage can,
+speaker_heading: CUT TO:
+scene_heading: 45      INT. WAITING ROOM/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+speaker_heading: RUSSERT sits
+text: with ROSINA and MIKE, as J.H. BRODIE approaches.
+speaker_heading: BRODIE
+dialog: 
+dialog: Hiya.
+speaker_heading: RUSSERT
+dialog: 
+dialog: Brodie.  Mike, Missus Giardello,
+dialog: 
+dialog: this is J.J. Brodie, he used to work
+dialog: 
+dialog: with us in Homicide.
+speaker_heading: ROSINA
+dialog: 
+dialog: Hello.  Thank you for coming.
+speaker_heading: BRODIE
+dialog: 
+dialog: I was in D.C. for a film festival
+dialog: 
+dialog: and I heard about the Lieutenant.
+dialog: 
+dialog: (holds up stuffed
+dialog: 
+dialog: giraffe)
+dialog: 
+dialog: I bought him a giraffe.  Hows he
+dialog: 
+dialog: doing?
+speaker_heading: MIKE
+dialog: 
+dialog: I cant get anybody to tell me
+dialog: 
+dialog: anything.  I cant even find out who
+dialog: 
+dialog: I should be mad at for not telling
+dialog: 
+dialog: me.
+speaker_heading: BRODIE
+dialog: 
+dialog: I thought ER doctors were supposed
+dialog: 
+dialog: to be so compassionate and caring
+dialog: 
+dialog: and all that crapola.
+speaker_heading: MIKE
+dialog: 
+dialog: As far as I can tell, they dont
+dialog: 
+dialog: give a tinkers dam.
+speaker_heading: COMMOTION at
+speaker_heading: the elevators.  REPORTERS, including DANIELS,
+speaker_heading: YELLING questions
+dialog: at ROBERT GESSNER, forties, Redford-esque,
+dialog: stepping into
+dialog: view.
+speaker_heading: DANIELS
+dialog: 
+dialog: Mister Gessner, how will todays
+dialog: 
+dialog: shooting affect balloting on Tuesday?
+dialog: 
+dialog: Do you think Al Giardello will benefit
+dialog: 
+dialog: from a sympathy vote?  Will this put
+dialog: 
+dialog: you even further behind at the polls?
+speaker_heading: GESSNER
+dialog: 
+dialog: The polls be damned, Dawn, a mans
+dialog: 
+dialog: life is at stake.  Al Giardello and
+dialog: 
+dialog: I may disagree on many fundamental
+dialog: 
+dialog: issues, but when a tragedy like this
+dialog: 
+dialog: occurs it is essential to put aside
+dialog: 
+dialog: our differences and bring the city
+dialog: 
+dialog: together.  Im not here as a candidate
+dialog: 
+dialog: for Mayor, Im here as a concerned
+dialog: 
+dialog: citizen, as a friend.
+speaker_heading: MIKE
+dialog: 
+speaker_heading: (to RUSSERT)
+dialog: 
+dialog: My father hates this guys guts.
+speaker_heading: GESSNER approaches
+dialog: MIKE.
+speaker_heading: GESSNER
+dialog: 
+dialog: How are you holding up there, son?
+speaker_heading: MIKE
+dialog: 
+dialog: Im alright.
+speaker_heading: GESSNER
+dialog: 
+dialog: Good man.
+speaker_heading: As GESSNER shakes
+text: MIKEs hand, nodding grimly for the cameras,
+speaker_heading: CUT TO:
+speaker_heading: 46      INT. DESASSY APARTMENT - DAY
+speaker_heading: HOWARD and FALSONE
+speaker_heading: across from SHIRLEY DESASSY, thirty-five,
+dialog: world weary,
+dialog: drunk.
+speaker_heading: DESASSY
+dialog: 
+dialog: When I heard Giardello had taken a
+dialog: 
+dialog: bullet, Ill admit, I thought, Well,
+dialog: 
+dialog: thats some damn justice for you...
+speaker_heading: FLASHBACK --
+speaker_heading: As GIARDELLO
+speaker_heading: shoots RAYMOND DESASSY,
+speaker_heading: CUT TO:
+speaker_heading: BACK TO PRESENT
+dialog: --
+speaker_heading: HOWARD
+dialog: 
+dialog: Where were you this morning, Missus
+dialog: 
+dialog: Desassy?
+speaker_heading: DESASSY
+dialog: 
+dialog: Me?  Right here.  Making love to
+dialog: 
+dialog: this bottle of Tanqueray.
+speaker_heading: HOWARD
+dialog: 
+dialog: You start drinking early in the
+dialog: 
+dialog: morning?
+speaker_heading: DESASSY
+dialog: 
+dialog: No.
+speaker_heading: FALSONE
+dialog: 
+dialog: No?
+speaker_heading: DESASSY
+dialog: 
+dialog: I dont start early, cause I dont
+dialog: 
+dialog: stop the night before
+speaker_heading: FALSONE
+dialog: 
+dialog: Maybe you should get some help.
+speaker_heading: DESASSY
+dialog: 
+dialog: Maybe you oughta shove this bottle
+dialog: 
+dialog: where the sun dont shine.
+speaker_heading: HOWARD
+dialog: 
+dialog: Anybody vouch for your whereabouts
+dialog: 
+dialog: this morning?
+speaker_heading: DESASSY
+dialog: 
+dialog: My next door neighbor.  She was over
+dialog: 
+dialog: here, mooching a toot.
+speaker_heading: HOWARD rises.
+speaker_heading: FALSONE follows suit.
+speaker_heading: HOWARD
+dialog: 
+dialog: We may need you for further
+dialog: 
+dialog: questioning...
+speaker_heading: DESASSY
+dialog: 
+dialog: Ray and me, we was all each other
+dialog: 
+dialog: had in the world.  And you cops killed
+dialog: 
+dialog: him.  I hope that Giardello dies and
+dialog: 
+dialog: goes straight to hell.  I only wish
+dialog: 
+dialog: I had shot the bastard.
+speaker_heading: As HOWARD and
+speaker_heading: FALSONE exit,
+speaker_heading: CUT TO:
+speaker_heading: 47      EXT. CANTON STREET - DAY
+speaker_heading: RENE SHEPPARD
+dialog: and LEWIS exit Cavalier, survey pleasant, leafy,
+dialog: quaint Main
+dialog: Street, Baltimore County.
+speaker_heading: LEWIS
+dialog: 
+dialog: Huh.
+speaker_heading: SHEPPARD
+dialog: 
+dialog: I have to admit, White supremacist,
+dialog: 
+dialog: I was expecting something a little
+dialog: 
+dialog: more South Baltimore --
+speaker_heading: LEWIS
+dialog: 
+dialog: House trailer, broken down rowhouse,
+dialog: 
+dialog: major appliances on the front porch --
+speaker_heading: SHEPPARD
+dialog: 
+dialog: Exactly.  Not so --
+speaker_heading: LEWIS
+dialog: 
+dialog: Quaint.
+speaker_heading: SHEPPARD
+dialog: 
+dialog: Uh-huh.  More --
+speaker_heading: LEWIS
+dialog: 
+dialog: White trash.
+speaker_heading: SHEPPARD
+dialog: 
+dialog: You said it, not me.
+dialog: They stroll up
+dialog: sidewalk.
+speaker_heading: SHEPPARD (cont.)
+dialog: 
+dialog: You sure this is the right address?
+speaker_heading: LEWIS
+dialog: 
+dialog: Course Im sure.  Have I ever gotten
+dialog: 
+dialog: the wrong address?  Dont answer...
+dialog: They stop in
+text: front of a Variety Store.  LEWIS shrugs.
+speaker_heading: Puzzled, THEY
+dialog: go in:
+speaker_heading: 48      OMIT
+scene_heading: 49      INT. WAITING ROOM/RADIO STATION - DAY
+speaker_heading: LEWIS and SHEPPARD
+text: stop.  In front of them, behind glass,
+speaker_heading: KARL MILLER,
+dialog: thirties, well-groomed, David Duke-ish, sits at
+dialog: console, headphones
+dialog: on, in front of mic, listening to a
+dialog: caller.
+dialog: Their VOICES are audible over speakers:
+speaker_heading: CALLER (v.o.)
+dialog: 
+dialog: Giardello got what he deserved.
+dialog: 
+dialog: When the United States Government
+dialog: 
+dialog: wages war on its own people and
+dialog: 
+dialog: conspires with their enemies to
+dialog: 
+dialog: legalize drugs, when the very identity
+dialog: 
+dialog: of this country as a White Christian
+dialog: 
+dialog: nation is in jeopardy --
+speaker_heading: MILLER looks
+speaker_heading: up, sees SHEPPARD and LEWIS.
+speaker_heading: MILLER
+dialog: 
+dialog: Terry, I couldnt agree with you
+dialog: 
+dialog: more.  In the words of Thomas
+dialog: 
+dialog: Jefferson -- which Timothy McVeigh
+dialog: 
+dialog: wore on a tee-shirt -- the tree of
+dialog: 
+dialog: liberty must be watered frequently
+dialog: 
+dialog: with the blood of patriots and tyrants --
+speaker_heading: LEWIS holds up
+dialog: his badge and TAPS on the glass.
+speaker_heading: MILLER (cont.)
+dialog: 
+dialog: Ladies and gentlemen, stay tuned.
+dialog: 
+dialog: It looks like Im about to interview
+dialog: 
+dialog: two of Baltimore Citys finest.
+speaker_heading: SHEPPARD and
+speaker_heading: LEWIS enter Studio, LEWIS points to on air
+dialog: light.
+dialog: As MILLER reluctantly turns it off,
+speaker_heading: CUT TO:
+speaker_heading: 50      INT. CHAPEL/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+dialog: MIKE enters.
+speaker_heading: CARDINAL KEELER is at the altar.
+speaker_heading: KEELER
+dialog: 
+dialog: Michael.
+speaker_heading: MIKE
+dialog: 
+dialog: Your Eminence.
+speaker_heading: KEELER
+dialog: 
+dialog: Were all praying for your father.
+speaker_heading: MIKE
+dialog: 
+dialog: Thank you.  I appreciate that.
+speaker_heading: KEELER
+dialog: 
+dialog: God bless you.
+speaker_heading: KEELER exits.
+text: MIKE lights a candle at the altar, then pulls
+dialog: out his Rosary.
+dialog: As HE kneels and says his Rosary, praying
+dialog: with all his
+dialog: heart,
+speaker_heading: CUT TO:
+scene_heading: A51    INT. OPERATING ROOM #5/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+speaker_heading: Classical MUSIC
+speaker_heading: PLAYS as SURGICAL TEAM works on GIARDELLO.
+speaker_heading: Doctor ROBERT
+speaker_heading: WILLIAMS reaches deep into GIARDELLOS abdomen
+dialog: with surgical
+text: instrument and pulls out a battered bloody
+dialog: bullet.
+text: He holds it up to the light.
+speaker_heading: WILLIAMS
+dialog: 
+dialog: Thats one.  Big sucker --
+speaker_heading: O.R. NURSE holds
+text: out tray.  WILLIAMS drops bullet on tray
+dialog: and turns to
+speaker_heading: consult X-ray that Doctor ELI DEVILBISS holds
+dialog: up for him.
+speaker_heading: WILLIAMS (cont.)
+dialog: 
+dialog: Wheres the other one?
+dialog: 
+dialog: (off X-ray)
+dialog: 
+dialog: There.  Lodged up under the second
+dialog: 
+dialog: lower left rib.  Lots of lovely bone
+dialog: 
+dialog: fragment debris from the pulverized
+dialog: 
+dialog: rib --
+speaker_heading: DEVILBISS
+dialog: 
+dialog: Pressures sixty over palp, heart
+dialog: 
+dialog: rate one-twenty.
+speaker_heading: WILLIAMS
+dialog: 
+dialog: Okay.  Ill extract the slug first,
+dialog: 
+dialog: then well spend the rest of day
+dialog: 
+text: tweezing rib slivers out of his gut.
+speaker_heading: WILLIAMS bends
+text: to his work. Behind him, the door opens.  A
+speaker_heading: tall Black MAN,
+dialog: in surgical mask, gown and cap, enters.  No
+dialog: one pays any
+text: attention.  The MAN stands near the door, watches
+dialog: for a moment,
+dialog: then brings his arm up.  The movement catches
+speaker_heading: the eye of DEVILBISS,
+dialog: who glances in his direction.
+speaker_heading: DEVILBISS
+dialog: 
+dialog: Excuse me, are you in the right --
+speaker_heading: MAN is pointing
+text: a gun.  DEVILBISS stops, not understanding
+dialog: what hes seeing.
+dialog: A beat.  Then MAN FIRES several shots --
+speaker_heading: DEVILBISS ducks
+text: as monitor SHATTERS behind him.  A moment of
+dialog: silence, classical
+dialog: MUSIC keeps PLAYING, then SCREAMS and
+speaker_heading: SHOUTING.
+text: CHAOS.  DEVILBISS looks up: MAN is gone.  NURSES
+speaker_heading: are CRYING.
+text: DEVILBISS looks around.  WILLIAMS has thrown
+dialog: himself over
+text: GIARDELLO.  O.R. NURSE grabs intercom and starts
+speaker_heading: SCREAMING into
+speaker_heading: it as DEVILBISS goes to WILLIAMS:
+speaker_heading: O.R. NURSE
+dialog: 
+dialog: Security.  Security.  Theres been a
+dialog: 
+dialog: shooting in O.R. Five --
+speaker_heading: DEVILBISS
+dialog: 
+dialog: Is the patient okay?
+speaker_heading: O.R. NURSE
+dialog: 
+dialog: A shooting, a shooting in O.R. Five --
+speaker_heading: WILLIAMS doesnt
+dialog: respond.  DEVILBISS pulls WILLIAMS up, turns
+dialog: him over.
+text: Hes unconscious, his chest a wet red mass of
+dialog: blood.
+dialog: DEVILBISS stares:  Is this the patients blood or
+dialog: Williams?
+speaker_heading: DEVILBISS
+dialog: 
+dialog: Oh, God.  Doctor Williams has been
+dialog: 
+dialog: shot.  Doctor Williams has been shot.
+dialog: 
+speaker_heading: (to O.R.NURSE)
+dialog: 
+dialog: Code Red, Code Red.
+speaker_heading: O.R. NURSE
+dialog: 
+dialog: Code Red, Code Red, we need another
+dialog: 
+dialog: surgeon, stat --
+speaker_heading: As O.R. NURSE
+speaker_heading: SCREAMS into intercom, the TRAUMA TEAM tends
+speaker_heading: to both WILLIAMS
+speaker_heading: and GIARDELLO,
+scene_heading: FADE OUT. END OF ACT THREE ACT FOUR            FADE IN:
+scene_heading: B51    INT. ER ENTRANCE/CHURCH HOME & HOSPITAL -
+speaker_heading: DAY
+dialog: BRODIE, in scrubs,
+dialog: carrying camera, brushes past tall Black
+speaker_heading: MAN, still in
+text: scrubs, face turned away.  MAN exits building.
+speaker_heading: As BRODIE heads
+dialog: for elevator, CHAOS erupts.  As a FLOOD of
+speaker_heading: COPS and SECURITY
+dialog: head upstairs,
+speaker_heading: CUT TO:
+scene_heading: C51    INT. OPERATING ROOM #5/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+speaker_heading: CHAOS continues,
+speaker_heading: as MEDICAL STAFF lifts WILLIAMS onto gurney.
+speaker_heading: DEVILBISS
+dialog: 
+dialog: Weve got to save Doctor Williams.
+speaker_heading: O.R. NURSE
+dialog: 
+dialog: Take him to O.R. Four -- Weve gotta
+dialog: 
+dialog: keep working on this patient --
+speaker_heading: DEVILBISS
+text: looks at O.R. NURSE, panicked, frozen.
+scene_heading: D51    INT. HALLWAY/CHURCH HOME & HOSPITAL - DAY
+speaker_heading: STAFF carries
+speaker_heading: WILLIAMS into Operating Room #4, as other
+speaker_heading: DOCTORS and
+dialog: NURSES rush toward them, splitting up between
+dialog: Operating Room
+dialog: #4 and Operating Room #5.  BRODIE comes down
+dialog: Hallway.
+speaker_heading: BRODIE
+dialog: 
+dialog: Hey, what happened?
+speaker_heading: DEVILBISS
+dialog: 
+dialog: Not now.
+speaker_heading: DEVILBISS exits
+dialog: into Operating Room #4.  BRODIE crosses to
+dialog: door of Operating
+dialog: Room #4, looks in window.
+scene_heading: E51    INT. OPERATING ROOM #4/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+speaker_heading: SURGICAL TEAM
+speaker_heading: works on WILLIAMS.
+scene_heading: F51    INT. HALLWAY/CHURCH HOME & HOSPITAL - DAY
+speaker_heading: BRODIE crosses
+dialog: to Operating Room #5, looks in window.
+scene_heading: G51   INT. OPERATING ROOM #5/CHURCH HOME & HOSPITAL -
+speaker_heading: DAY
+speaker_heading: SURGICAL TEAM
+speaker_heading: works on GIARDELLO.
+scene_heading: H51   INT. HALLWAY/CHURCH HOME & HOSPITAL - DAY
+speaker_heading: BRODIE, alone,
+text: in a now quiet Hall, mumbles to himself
+speaker_heading: BRODIE
+dialog: 
+dialog: Strange days indeed.
+speaker_heading: As BRODIE raises
+dialog: his camera and starts filming,
+speaker_heading: J51    EXT. CHURCH HOME & HOSPITAL - DAY
+dialog: Cop Cars and
+dialog: QRT Vehicles.  QRT OFFICERS rush into Hospital
+speaker_heading: as VISITORS,
+speaker_heading: HOSPITAL STAFF and AMBULATORY PATIENTS are
+dialog: ushered out.
+dialog: RICHARD GILROY is broadcasting:
+speaker_heading: GILROY
+dialog: 
+dialog: ....In a bizarre development, shots
+dialog: 
+dialog: were fired moments ago inside the
+dialog: 
+dialog: hospital.  Its unclear if this latest
+dialog: 
+dialog: incident is related to the shooting
+dialog: 
+dialog: earlier today of Mayoral candidate
+dialog: 
+dialog: Al Giardello.  Police are clearing
+dialog: 
+dialog: the building and QRT Teams are
+dialog: 
+dialog: conducting a room by room search of
+dialog: 
+dialog: the hospital --
+dialog: HE is drowned
+text: out by the SOUND of a HELICOPTER landing nearby.
+scene_heading: K51   INT. CORRIDOR/ICU/CHURCH HOME & HOSPITAL - DAY
+speaker_heading: QRT OFFICERS,
+dialog: let by QRT Lieutenant JASPER, march down eerily
+dialog: quiet and deserted
+dialog: floor.  They enter room with bedridden
+speaker_heading: PATIENT, searching
+dialog: it quickly.  As THEY fan out and move on
+dialog: to the next
+dialog: room,
+speaker_heading: CUT TO:
+speaker_heading: L51    EXT. AMPITHEATRE/INNER HARBOR - DAY
+speaker_heading: PEMBLETON and
+speaker_heading: BAYLISS face WITNESS #2.
+speaker_heading: BAYLISS
+dialog: 
+dialog: You sure you saw this drug dealer at
+dialog: 
+dialog: the rally this morning?
+speaker_heading: WITNESS #2
+dialog: 
+dialog: Easy Eddie Moe.  I know him all too
+dialog: 
+dialog: well.  Used to cop from him when I
+dialog: 
+dialog: was in the game.  Back in the day.
+dialog: 
+dialog: Before I got clean.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Why would he be at a rally for
+dialog: 
+dialog: Giardello?
+speaker_heading: WITNESS #2
+dialog: 
+dialog: Thats what Im saying.  To take him
+dialog: 
+dialog: down maybe.
+dialog: 
+dialog: Drug dealers are so flipped out by
+dialog: 
+dialog: the idea of Giardello being Mayor,
+dialog: 
+dialog: theyre even registering to vote.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: And how do we find Easy Eddie?
+speaker_heading: WITNESS #2
+dialog: 
+dialog: You might talk to Bernie Weeks down
+dialog: 
+dialog: at the Sands Lounge.  Eddie used to
+dialog: 
+dialog: work for him.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Bernie Weeks?  Wasnt he that dealer
+dialog: 
+dialog: we busted by mistake, looking for
+dialog: 
+dialog: Manuel Renderos?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Yeah, he wasnt our killer, but he
+dialog: 
+dialog: had fifty kilos of coke in the trunk
+dialog: 
+dialog: of his car.
+speaker_heading: BAYLISS
+dialog: 
+dialog: And hes back on the street already.
+dialog: 
+speaker_heading: (to WITNESS #2)
+dialog: 
+dialog: Okay, thanks.
+speaker_heading: PEMBLETON and
+text: BAYLISS turn and walk away.
+speaker_heading: BAYLISS (cont.)
+dialog: 
+dialog: Well, what do we do now?  Pass this
+dialog: 
+dialog: along to Gharty?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: We could.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Or --
+speaker_heading: PEMBLETON
+dialog: 
+dialog: We could check it out ourselves.
+speaker_heading: As BAYLISS and
+speaker_heading: PEMBLETON move off,
+speaker_heading: CUT TO:
+scene_heading: 51      INT. STUDIO/RADIO STATION - DAY
+speaker_heading: MILLER looks
+speaker_heading: at LEWIS and SHEPPARD.
+speaker_heading: SHEPPARD
+dialog: 
+dialog: Where were you this morning around
+dialog: 
+dialog: eight-fifteen?
+speaker_heading: MILLER
+dialog: 
+dialog: When Giardello got shot?
+speaker_heading: LEWIS
+dialog: 
+dialog: Yeah.
+speaker_heading: MILLER
+dialog: 
+dialog: On the air.  And when the good news
+dialog: 
+dialog: came out over the Jewish-controlled
+dialog: 
+dialog: mainstream media, we popped a bottle
+dialog: 
+dialog: of genuine American sparkling wine
+dialog: 
+dialog: and shared the glad tidings with our
+dialog: 
+dialog: listeners across the country.
+speaker_heading: SHEPPARD
+dialog: 
+dialog: Across the country?
+speaker_heading: MILLER
+dialog: 
+dialog: We reach most of our followers on
+dialog: 
+dialog: the Internet.
+speaker_heading: SHEPPARD
+dialog: 
+dialog: You can verify you were in the studio
+dialog: 
+dialog: at the time of the shooting?
+speaker_heading: MILLER
+dialog: 
+dialog: Ill play you the tapes.
+speaker_heading: LEWIS
+dialog: 
+dialog: Those can be faked.  You couldve
+dialog: 
+dialog: been on the air and nowhere near
+dialog: 
+dialog: this place.
+speaker_heading: MILLER
+dialog: 
+dialog: Ill give you a list of people who
+dialog: 
+dialog: were in and out of the station all
+dialog: 
+dialog: morning and saw me.  In the flesh.
+speaker_heading: LEWIS
+dialog: 
+dialog: Heres a pen.  Start writing.
+speaker_heading: MILLER starts
+dialog: writing, laughs.
+speaker_heading: MILLER
+dialog: 
+dialog: I do wish we were on the air right
+dialog: 
+dialog: now, so that I could describe you
+dialog: 
+dialog: all for the benefit of my audience.
+speaker_heading: SHEPPARD
+dialog: 
+dialog: What do you mean?
+speaker_heading: MILLER
+dialog: 
+dialog: Well, were always talking on my
+dialog: 
+dialog: program about mud people -- youre
+dialog: 
+dialog: familiar with the term?
+speaker_heading: SHEPPARD
+dialog: 
+dialog: Yeah.  I am.
+speaker_heading: MILLER
+dialog: 
+dialog: One of our favorite topics.  Along
+dialog: 
+dialog: with the evils of race-mixing.
+dialog: 
+dialog: And look at the two of you.  Prime
+dialog: 
+dialog: examples of both.
+speaker_heading: On LEWIS and
+dialog: SHEPPARD, oh, man, this guy,
+speaker_heading: CUT TO:
+speaker_heading: 52      EXT. CANTON STREET - DAY
+speaker_heading: LEWIS and SHEPPARD
+dialog: exit Store, with witness list.
+speaker_heading: LEWIS
+dialog: 
+dialog: Gotta admit, theyve come a long way
+dialog: 
+dialog: from Grand Kleagles, burning crosses
+dialog: 
+dialog: and Birth of a Nation --
+speaker_heading: SHEPPARD
+dialog: 
+dialog: Yup.  Good old boys have definitely
+dialog: 
+dialog: traded their bedsheets for websites.
+dialog: 
+dialog: (re: list)
+dialog: 
+dialog: Assuming these check out, Millers
+dialog: 
+dialog: not Gees shooter.
+speaker_heading: LEWIS
+dialog: 
+dialog: No, but he might have told someone
+dialog: 
+dialog: else to pull the trigger.
+speaker_heading: SHEPPARD
+dialog: 
+dialog: Or he might have just incited it.
+dialog: 
+dialog: If the shooter turns out to be one
+dialog: 
+dialog: of his regular listeners, maybe we
+dialog: 
+dialog: can tie Miller in.
+speaker_heading: LEWIS
+dialog: 
+dialog: Man, Id love to pin something on
+dialog: 
+dialog: this racist clown, some kinda
+dialog: 
+dialog: conspiracy charge --
+speaker_heading: Three SKINHEADS
+dialog: block the sidewalk.
+speaker_heading: SKINHEAD
+dialog: 
+dialog: What are you doing here?
+speaker_heading: LEWIS
+dialog: 
+dialog: On second thought, they may have
+dialog: 
+dialog: changed, but they aint evolved
+speaker_heading: SHEPPARD
+dialog: 
+dialog: Ask me. theyre going backwards.
+speaker_heading: SKINHEAD
+dialog: 
+dialog: We got rights, too.  Freedom of
+dialog: 
+dialog: speech.  You made a big mistake
+dialog: 
+dialog: closing down Millers show --
+speaker_heading: SKINHEAD puts
+text: his hands on SHEPPARD, who flips him around
+dialog: and cuffs him
+dialog: as LEWIS simultaneously draws his gun and badges
+speaker_heading: other two SKINHEADS.
+speaker_heading: LEWIS
+dialog: 
+dialog: Anybody else wanna ride Downtown?
+speaker_heading: As SHEPPARD puts
+speaker_heading: SKINHEAD in the Cavalier,
+speaker_heading: CUT TO:
+scene_heading: A53    EXT. STATE POLICE HEADQUARTERS - DAY
+dialog: Establishing.
+scene_heading: B53    INT. SCREENING ROOM/STATE POLICE HEADQUARTERS
+speaker_heading: - DAY
+dialog: A state-of-the
+dialog: art video/audio facility.  STIVERS and BALLARD
+speaker_heading: sit with ROBBIE
+speaker_heading: ROBERTS, Chief State Lab Tech.  Dozens of
+dialog: tape cassettes
+dialog: from Channels Two, Eleven, Thirteen and Fox
+dialog: Forty-Five litter
+dialog: the console.
+speaker_heading: STIVERS
+dialog: 
+dialog: Next tape...
+speaker_heading: ON SCREEN: A
+dialog: newsreel videotape plays.  The Ampitheatre at
+dialog: the Inner Harbor.
+dialog: Faces of an expectant crowd.
+speaker_heading: BALLARD
+dialog: 
+dialog: This is from BAL, Channel Eleven.
+speaker_heading: BALLARD and STIVERS
+dialog: study the faces on the videotape.
+speaker_heading: ON SCREEN: Faces
+text: in the crowd.  Giardello comes into frame.
+speaker_heading: BALLARD and STIVERS
+dialog: lean in, searching for a clue.
+speaker_heading: ROBERTS
+dialog: 
+dialog: Maybe we should push the tape.  To
+dialog: 
+dialog: where Giardello gets shot.
+speaker_heading: ON SCREEN:
+dialog: The Homeless Man grabs Giardello
+speaker_heading: STIVERS (v.o., cont.)
+dialog: 
+dialog: Stop.
+speaker_heading: ROBERTS hits
+dialog: button which freezes tape.
+speaker_heading: ON SCREEN:
+dialog: The startled image of Giardello instinctively
+dialog: shying away
+dialog: from the Homeless Man.
+speaker_heading: STIVERS circles
+dialog: an eight-inch diameter ON SCREEN.
+speaker_heading: STIVERS (cont.)
+dialog: 
+dialog: Bring this section here up?
+speaker_heading: ROBERTS hits
+dialog: a few bells and whistles.
+speaker_heading: ON SCREEN:
+dialog: The section is enlarges times five.  The image
+dialog: zooms up grainy.
+dialog: The hands of everyone within reach of
+dialog: Giardello.
+text: Only the bottom of Giardellos suit is ON SCREEN.
+speaker_heading: STIVERS (cont.)
+dialog: 
+dialog: The gun the gun the gun, where the
+dialog: 
+dialog: hell is the gun?
+speaker_heading: As BALLARD and
+dialog: STIVERS look at the enlarged anonymous hands,
+speaker_heading: CUT TO:
+scene_heading: C53    EXT. EMERGENCY ROOM/CHURCH HOME & HOSPITAL -
+speaker_heading: DAY
+dialog: Sidewalk, street,
+speaker_heading: parking lot now full of VISITORS, STAFF
+dialog: and PATIENTS,
+dialog: ambulatory and in wheelchairs, COPS, QRT
+speaker_heading: OFFICERS
+text: and NEWS MEDIA.  BARNFATHER stands with MIKE.
+speaker_heading: MIKE
+dialog: 
+dialog: How could something like this happen?
+speaker_heading: BARNFATHER
+dialog: 
+dialog: We had officers posted on every floor.
+speaker_heading: MIKE
+dialog: 
+dialog: Then how did the shooter get in?  If
+dialog: 
+dialog: I were paranoid, Id say someone in
+dialog: 
+dialog: the Department is involved --
+speaker_heading: BARNFATHER
+dialog: 
+dialog: Im gonna forget you said that --
+speaker_heading: MIKE
+dialog: 
+dialog: Has QRT has sealed off the building?
+speaker_heading: BARNFATHER
+dialog: 
+dialog: Yes.  Well catch him.  Its only a
+dialog: 
+dialog: matter of time.
+speaker_heading: Officer JAY SALERNO
+dialog: approaches.
+speaker_heading: SALERNO
+dialog: 
+dialog: Officer Giardello?
+speaker_heading: MIKE
+dialog: 
+dialog: Hows my dad?
+speaker_heading: SALERNO
+dialog: 
+dialog: They got another surgeon working on
+dialog: 
+dialog: him.  Didnt miss a beat.
+speaker_heading: MIKE
+dialog: 
+dialog: What about his surgeon?  The one who
+dialog: 
+dialog: got shot?
+speaker_heading: SALERNO
+dialog: 
+dialog: Doctor Williams.
+speaker_heading: MIKE
+dialog: 
+dialog: Is he gonna make it?
+speaker_heading: SALERNO
+dialog: 
+dialog: Who knows a second surgical teams
+dialog: 
+dialog: cutting into him now.
+speaker_heading: MIKE
+dialog: 
+dialog: Thanks.
+speaker_heading: BARNFATHER
+dialog: 
+dialog: Are we positive the two shootings
+dialog: 
+dialog: are related?
+speaker_heading: MIKE
+dialog: 
+dialog: Of course theyre related, whatre
+dialog: 
+dialog: you talking about?
+speaker_heading: BARNFATHER
+dialog: 
+dialog: Maybe Doctor Mehta has enemies.
+speaker_heading: MIKE
+dialog: 
+dialog: The shooter was after my father --
+speaker_heading: BARNFATHER
+dialog: 
+dialog: We wont know for sure until we can
+dialog: 
+dialog: get in there and investigate.  And
+dialog: 
+dialog: right now our Crime Scene is still
+dialog: 
+dialog: an O.R.
+speaker_heading: JASPER exits
+dialog: building, sees BARNFATHER, shrugs.
+speaker_heading: JASPER
+dialog: 
+dialog: Hes not in there.
+speaker_heading: MIKE
+dialog: 
+dialog: He got away.
+dialog: MIKE curses under
+dialog: his breath.
+speaker_heading: BARNFATHER
+dialog: 
+dialog: Lets get everybody back inside.
+speaker_heading: As STAFF and
+dialog: PATIENTS start to re-enter building,
+speaker_heading: CUT TO:
+speaker_heading: D53   INT. SANDS LOUNGE - DAY
+speaker_heading: BAYLISS and PEMBLETON
+speaker_heading: play pool with BERNIE WEEKS.
+speaker_heading: WEEKS
+dialog: 
+dialog: Ive always wondered, myself, why
+dialog: 
+dialog: dont they do what hes saying, you
+dialog: 
+dialog: know, kick the bottom out of the
+dialog: 
+dialog: market by making the stuff legal.
+dialog: 
+dialog: Put me outta business like that --
+dialog: He misses shot.
+speaker_heading: BAYLISS takes a turn.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: So youre happy about somebody trying
+dialog: 
+dialog: to kill Giardello?
+speaker_heading: WEEKS
+dialog: 
+dialog: I didnt say that.  Could backfire.
+dialog: 
+dialog: The, whatchacallit, sympathy vote.
+speaker_heading: BAYLISS
+dialog: 
+dialog: You know our next question.
+speaker_heading: WEEKS
+dialog: 
+dialog: Do I got an alibi?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Yeah.
+speaker_heading: WEEKS
+dialog: 
+dialog: (reaching for cellphone)
+dialog: 
+dialog: Maybe I should call my attorney --
+speaker_heading: BAYLISS
+dialog: 
+dialog: (stops him)
+dialog: 
+dialog: You dont have to lawyer up.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: This is still friendly.  You lawyer
+dialog: 
+dialog: up, we gotta put you in the system.
+dialog: 
+dialog: Waste a time for all of us.
+speaker_heading: WEEKS
+dialog: 
+dialog: You Homicide, right?  Know anybody
+dialog: 
+dialog: in Narcotics?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Yes.  Absolutely.
+speaker_heading: WEEKS
+dialog: 
+dialog: You got any juice with Steve Fletcher?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: (no clue)
+dialog: 
+dialog: I could talk to him, yeah.
+speaker_heading: WEEKS
+dialog: 
+dialog: If you could get the bastard off my
+dialog: 
+dialog: back -- Hes camping out on my front
+dialog: 
+dialog: stoop.  My oldest daughter thinks
+dialog: 
+dialog: hes gonna kill me, bust the door
+dialog: 
+dialog: down and grease me in my own bed.
+dialog: 
+dialog: The stress is aggravating her asthma.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Ill speak to him.
+speaker_heading: WEEKS
+dialog: 
+dialog: I didnt do Giardello.
+speaker_heading: BAYLISS
+dialog: 
+dialog: What about your crew?
+speaker_heading: WEEKS
+dialog: 
+dialog: Them neither.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Witness put Easy Moe at the scene.
+speaker_heading: WEEKS
+dialog: 
+dialog: He doesnt work for me anymore.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Know where we can find him?
+speaker_heading: WEEKS
+dialog: 
+dialog: Id try his momas house first.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Let me just make this shot --
+speaker_heading: As PEMBLETON
+dialog: shoots and scratches,
+speaker_heading: CUT TO:
+speaker_heading: E53    EXT. STREET - DAY
+speaker_heading: BAYLISS and PEMBLETON
+dialog: exit Lounge.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: Well give this to Gharty.  If Easy
+dialog: 
+dialog: Eddies the shooter, hes in the
+dialog: 
+dialog: wind.  You and I wont be able to
+dialog: 
+dialog: find him on our own.  I could use a
+dialog: 
+dialog: cup of coffee.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Im buying.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I cant.  Cause of the stroke --
+speaker_heading: BAYLISS
+dialog: 
+dialog: Oh, yeah.  For a minute, I forgot.
+dialog: 
+dialog: For a minute, time seemed not to
+dialog: 
+dialog: have gone by.  For a minute, it was
+dialog: 
+dialog: eight years ago... Yknow, Frank, I
+dialog: 
+dialog: never really told you how much I
+dialog: 
+dialog: enjoyed being your partner.  How
+dialog: 
+dialog: much I loved... working with you.
+speaker_heading: PEMBLETON eyes
+dialog: BAYLISS, clicks his tongue.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You think maybe a cop shot Gee?
+speaker_heading: BAYLISS
+dialog: 
+dialog: A what?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: A cop.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Why would one of us wanna shoot the
+dialog: 
+dialog: Lieutenant?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Not one of us.  A cop with attitudes.
+dialog: 
+dialog: Prejudices.  A red-neck cop.
+speaker_heading: BAYLISS
+dialog: 
+dialog: God knows there are plenty of them.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: A Gaffney.  A guy whos put in the
+dialog: 
+dialog: time, walked the beat, now sees
+dialog: 
+dialog: Giardello making the reach for power --
+dialog: 
+dialog: decides to change history.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Interesting theory.  Cops as killers.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Happens.  Kellerman plugged Luther
+dialog: 
+dialog: Mahoney.  And I still think a boy in
+dialog: 
+dialog: blue finished off Gordon Pratt.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Me too.  But saying youre right,
+dialog: 
+dialog: saying some law enforcement officer
+dialog: 
+dialog: shot Gee, how do we find him?  Where
+dialog: 
+dialog: do we start to look?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I dont know.  Needle n haystack
+dialog: 
+dialog: time... lets go see how Ballard and
+dialog: 
+dialog: Stivers are doing with the video
+dialog: 
+dialog: tapes.
+dialog: They get to Car.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: You know why I left Homicide?  Because
+dialog: 
+dialog: I couldnt hear one more confession.
+dialog: 
+dialog: I got sick of hearing people confess
+dialog: 
+dialog: to me.  Like some Jesuit, I would
+dialog: 
+dialog: sit there in The Box, listening to
+dialog: 
+dialog: a man not just admit that hed killed
+dialog: 
+dialog: someone.  But cop to all the crap in
+dialog: 
+dialog: his life, over the course of his
+dialog: 
+dialog: life, that had led him to that moment.
+speaker_heading: BAYLISS
+dialog: 
+dialog: The merit of a whole life can be
+dialog: 
+dialog: undone in a single moment.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Who said that?
+speaker_heading: BAYLISS
+dialog: 
+dialog: The Buddha.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: The Buddha.  Huh.  Well, he was right,
+dialog: 
+dialog: exactly.  But unlike a priest, I
+dialog: 
+dialog: could never give the man what he
+dialog: 
+dialog: really needed --absolution.  I could
+dialog: 
+dialog: only give him prison time.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Youdve made a great Jesuit, Frank.
+dialog: As THEY get into
+dialog: Car and drive off,
+speaker_heading: CUT TO:
+scene_heading: F53    INT. HALLWAY/CHURCH HOME & HOSPITAL - DAY
+speaker_heading: GIARDELLO is
+dialog: wheeled out of O.R., under guard, accompanied
+dialog: by assortment
+text: of COPS.  As THEY move him toward ICU,
+scene_heading: FADE OUT. END OF ACT FOUR ACT FIVE           FADE IN:
+scene_heading: G53   INT. SCREENING ROOM/STATE POLICE HEADQUARTERS - DAY
+speaker_heading: STIVERS and BALLARD
+text: sit at the video console.  An empty pizza
+dialog: box and cans
+dialog: of soda litter the console.  STIVERS sips a
+dialog: Coke.
+dialog: ROBERTS isolates another section of tape, freezing
+dialog: the image of
+dialog: a startled, frightened Giardello from another
+dialog: angle.
+dialog: A middle-aged Black Man zooms up.
+speaker_heading: ROBERTS
+dialog: 
+dialog: This guy?
+speaker_heading: BALLARD
+dialog: 
+dialog: That guy.
+speaker_heading: ROBERTS
+dialog: 
+dialog: You wanna see whats in his hands?
+speaker_heading: STIVERS
+dialog: 
+dialog: Do your voodoo.
+speaker_heading: ROBERTS works
+dialog: the controls.  A section of the frame zooms
+dialog: up, a grainy
+dialog: image of the Black Man holding an object.
+speaker_heading: BALLARD
+dialog: 
+dialog: Hes holding something.  His right
+dialog: 
+dialog: hand.
+speaker_heading: STIVERS steps
+dialog: to the screen, anxious.
+speaker_heading: STIVERS
+dialog: 
+dialog: Pop it bigger.
+speaker_heading: ROBERTS works
+dialog: the controls.  The Black Mans right hand zooms
+dialog: up, isolated,
+dialog: more grainy.  STIVERS studies the image.
+speaker_heading: STIVERS (cont.)
+dialog: 
+dialog: Is that a gun?
+speaker_heading: BALLARD steps
+text: to the screen, anticipating.  ROBERTS zooms up
+dialog: the Black Mans
+dialog: hand to fill the entire screen.  His hand
+dialog: holds a rectangular
+dialog: object.
+speaker_heading: BALLARD
+dialog: 
+dialog: I cant tell.
+dialog: The image zooms
+dialog: up again, isolating the fingers on the Black
+dialog: Mans hand.
+speaker_heading: BAYLISS and PEMBLETON enter.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Anything?
+speaker_heading: STIVERS
+dialog: 
+dialog: I dunno.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You dunno, so maybe youve got
+dialog: 
+dialog: something?
+speaker_heading: STIVERS
+dialog: 
+dialog: Maybe.
+dialog: 
+speaker_heading: (to ROBERTS)
+dialog: 
+dialog: Hes definitely holding something.
+speaker_heading: BALLARD
+dialog: 
+dialog: But what?
+speaker_heading: ON SCREEN:
+dialog: The Black Mans fingers are enlarged times two.
+speaker_heading: STIVERS
+dialog: 
+dialog: Its not a gun.
+speaker_heading: BAYLISS
+dialog: 
+speaker_heading: (re: image ON SCREEN)
+dialog: 
+dialog: Thats a camera.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: One of the disposable kinds.
+speaker_heading: BALLARD
+dialog: 
+speaker_heading: (to BAYLISS)
+dialog: 
+dialog: You got anything?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Maybe.  Drug dealer with a grudge.
+dialog: 
+dialog: Passed it on to Gharty.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: How far into these tapes are you?
+speaker_heading: BALLARD
+dialog: 
+dialog: Bout halfway.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You mind if we sit in?
+speaker_heading: STIVERS
+dialog: 
+dialog: Not a problem.
+dialog: On the grainy
+dialog: image of Giardello ON SCREEN,
+speaker_heading: CUT TO:
+scene_heading: H53    INT. GIARDELLOS ROOM/ICU/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+speaker_heading: GIARDELLO, unconscious,
+dialog: wired and intubated.
+speaker_heading: PULL BACK TO:
+scene_heading: J53     INT. CORRIDOR/ICU/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+dialog: MIKE looks in
+speaker_heading: at his father, talking to Doctor VICTOR EHRLICH.
+speaker_heading: EHRLICH
+dialog: 
+dialog: Im not gonna sugarcoat reality for
+dialog: 
+dialog: you.  The internal damage is
+dialog: 
+dialog: substantial.
+dialog: 
+dialog: Your father was shot twice in the
+dialog: 
+dialog: abdomen.  One bullet pierced his
+dialog: 
+dialog: right kidney and colon, the other
+dialog: 
+dialog: missed the vital organs but pulverized
+dialog: 
+dialog: a rib.
+speaker_heading: MIKE
+dialog: 
+dialog: Mother of God --
+speaker_heading: EHRLICH
+dialog: 
+dialog: Hes looking at several more
+dialog: 
+dialog: operations to fully repair his colon
+dialog: 
+dialog: and remove the damaged kidney.  And
+dialog: 
+dialog: the risk of peritonitis remains high.
+speaker_heading: MIKE
+dialog: 
+dialog: So whats your most pessimistic
+dialog: 
+dialog: assessment?
+speaker_heading: EHRLICH
+dialog: 
+dialog: Recoverys going to take time, but I
+dialog: 
+dialog: think his long-term prognosis is
+dialog: 
+dialog: good.  Hes a very strong man, his
+dialog: 
+dialog: general health is excellent.
+speaker_heading: MIKE
+dialog: 
+dialog: Whens he gonna come to?  When do
+dialog: 
+dialog: you think I can talk to him?
+speaker_heading: EHRLICH
+dialog: 
+dialog: I dont know.
+speaker_heading: MIKE
+dialog: 
+dialog: Huh.  Well, thats refreshing.  A
+dialog: 
+dialog: doctor who doesnt know everything.
+speaker_heading: EHRLICH
+dialog: 
+dialog: Youre welcome.
+speaker_heading: EHRLICH turns
+dialog: to go.
+speaker_heading: MIKE
+dialog: 
+dialog: Hey, Im not thanking you.  Ive
+dialog: 
+dialog: been here all day, worried to death,
+dialog: 
+dialog: couldnt get a straight answer from
+dialog: 
+dialog: anybody.  I have to tell you, Ive
+dialog: 
+dialog: got a lot of problems with the way
+dialog: 
+dialog: this place is run --
+speaker_heading: EHRLICH
+dialog: 
+dialog: I was two under par on the fifteenth
+dialog: 
+dialog: green with a four-foot gimme, about
+dialog: 
+dialog: to go to three under when I got
+dialog: 
+dialog: beeped.  Dropped my club, didnt
+dialog: 
+dialog: even take the shot.
+dialog: 
+dialog: I get here, the O.R. is a war zone.
+dialog: 
+dialog: Kosovo on ice.  You rather we held
+dialog: 
+dialog: your hand or saved your fathers life?
+dialog: 
+dialog: (as he walks away)
+dialog: 
+dialog: Putz.
+dialog: On MIKE, well,
+dialog: you put it that way,
+speaker_heading: CUT TO:
+scene_heading: K53    INT. SCREENING ROOM/STATE POLICE HEADQUARTERS - DAY
+speaker_heading: ON SCREEN: A
+dialog: new section of news videotape plays.  Giardello
+dialog: and Schmoke
+dialog: bask in the glow of the crowds reception.  WE
+speaker_heading: HEAR a barely
+dialog: audible pop-pop-pop through the CHEERING.
+dialog: Giardello and
+dialog: the Police Officers react to the muffled report
+dialog: of gunshots.
+speaker_heading: STIVERS
+dialog: 
+dialog: Hear that?
+speaker_heading: BAYLISS
+dialog: 
+dialog: (re: the audio)
+dialog: 
+dialog: Pop-pop-pop.  The gun.
+speaker_heading: ON SCREEN: Giardello,
+text: stunned, in pain, grimacing, falling
+dialog: out of frame
+dialog: as Stiegler reaches for Giardello.
+speaker_heading: BALLARD
+dialog: 
+dialog: Lookit Gee there.  Hes hurt.
+speaker_heading: BALLARD turns
+dialog: from the SCREEN.  Slow motion.  Giardello being
+dialog: shot from yet
+dialog: a third angle.
+speaker_heading: ROBERTS works
+dialog: controls.
+speaker_heading: ON SCREEN: The
+dialog: image of Giardello falling is frozen.  The
+dialog: image is blown
+dialog: up in sections of the frame, in rapid sequence.
+speaker_heading: STIVERS
+dialog: 
+dialog: I see Gee getting shot.  We need the
+dialog: 
+dialog: reverse.  To see from wherever the
+dialog: 
+dialog: shots are coming from.
+speaker_heading: ROBERTS
+dialog: 
+dialog: I can only give you what you give
+dialog: 
+dialog: me.
+speaker_heading: STIVERS
+dialog: 
+dialog: I know that.
+speaker_heading: ROBERTS
+dialog: 
+dialog: So Im giving you what you have.
+speaker_heading: STIVERS
+dialog: 
+dialog: I said, I know that.
+speaker_heading: As BALLARD pats
+speaker_heading: STIVERS arm,
+speaker_heading: CUT TO:
+scene_heading: L53     INT. GIARDELLOS ROOM/ICU/CHURCH HOME &
+speaker_heading: HOSPITAL - DAY
+dialog: MIKE slumbers
+text: in chair.  Sunlight hits his face.  HAND taps
+dialog: him on shoulder.
+dialog: He wakes with a start --
+speaker_heading: MIKE
+dialog: 
+dialog: Hey --
+speaker_heading: GIARDELLO, dressed,
+dialog: smiling, knots his tie.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Lets go.
+speaker_heading: Stunned, MIKE
+dialog: looks over to bed.  Its empty, made.
+speaker_heading: GIARDELLO (cont.)
+dialog: 
+dialog: Buy you breakfast?
+speaker_heading: MIKE
+dialog: 
+dialog: Whatre you doing?  Get back in bed --
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Mike, Im fine.  Never felt better.
+speaker_heading: MIKE
+dialog: 
+dialog: You were shot, twice.  You shouldnt
+dialog: 
+dialog: be outta bed --
+speaker_heading: GIARDELLO
+dialog: 
+dialog: I feel fine.  Come on, lets grab
+dialog: 
+dialog: some scrapple at Jimmys.  A couple
+dialog: 
+dialog: of funnel cakes with frim-fram sauce
+dialog: 
+dialog: and shifaffa on the side --
+speaker_heading: MIKE
+dialog: 
+dialog: What?
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Nat King Cole was a merry old soul
+dialog: 
+dialog: and a merry old soul was he --
+speaker_heading: MIKE
+dialog: 
+dialog: Listen, pop, you really think you
+dialog: 
+dialog: should be doing this?
+speaker_heading: GIARDELLO
+dialog: 
+dialog: My cholesterols down, Ill risk it --
+speaker_heading: MIKE
+dialog: 
+dialog: I dont mean breakfast at Jimmys, I
+dialog: 
+dialog: mean checking yourself out of the hospital.
+speaker_heading: GIARDELLO looks
+text: around, grins, leans in, finger to lips.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Dont ask, dont tell.  I wont, if
+dialog: 
+dialog: you wont --
+speaker_heading: MIKE
+dialog: 
+dialog: Pop, youre not making sense, please
+dialog: 
+dialog: lie back down, lemme call the nurse --
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Last one out is a rotten egg --
+speaker_heading: Grinning, GIARDELLO
+text: walks out.  As MIKE leaps up,
+speaker_heading: CUT TO:
+scene_heading: M53    INT. GIARDELLOS ROOM/ICU/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+dialog: Asleep in chair,
+text: MIKE comes forward with jolt, wakes up.  He
+dialog: looks over at
+text: GIARDELLO, who lies unconscious in bed, IVd
+dialog: and wired.
+text: MIKE rubs his eyes, as Doctor JULIANNA COX and
+speaker_heading: Doctor GEORGE
+speaker_heading: GRISCOM enter.
+speaker_heading: GRISCOM
+dialog: 
+dialog: Mike...
+speaker_heading: MIKE
+dialog: 
+dialog: Hello, Doctor Griscom.
+speaker_heading: GRISCOM
+dialog: 
+dialog: Do you know Julianna Cox?  My
+dialog: 
+dialog: predecessor as Chief Medical Examiner.
+speaker_heading: COX
+dialog: 
+dialog: Sorry about your dad.
+speaker_heading: MIKE
+dialog: 
+dialog: Thanks.
+speaker_heading: GRISCOM
+dialog: 
+dialog: Weve been talking to his doctor.
+dialog: 
+dialog: Getting the full story.
+speaker_heading: COX
+dialog: 
+dialog: Knowing Gee the way I do, Im sure
+dialog: 
+dialog: hell pull through.
+speaker_heading: MIKE
+dialog: 
+dialog: Yeah.  Hope so.  I gotta take a walk.
+dialog: MIKE exits.
+speaker_heading: As COX and GRISCOM turn toward GIARDELLO,
+speaker_heading: CUT TO:
+scene_heading: 53       INT. WAITING ROOM/CHURCH HOME &
+speaker_heading: HOSPITAL - DAY
+dialog: MIKE enters Room
+speaker_heading: as RUSSERT approaches with ROSINA.
+speaker_heading: RUSSERT
+dialog: 
+dialog: Mike, Im gonna take your grandmother
+dialog: 
+dialog: home.  Shes exhausted.
+speaker_heading: MIKE
+dialog: 
+dialog: Thanks, Megan.
+dialog: 
+speaker_heading: (kisses ROSINA)
+dialog: 
+dialog: Get some rest.
+speaker_heading: RUSSERT
+dialog: 
+dialog: Youre tired, too.  Maybe you should
+dialog: 
+dialog: go, grab some nap-time.
+speaker_heading: MIKE
+dialog: 
+dialog: No.  Im too fired up to sleep.
+dialog: 
+dialog: Wheres Brodie?
+speaker_heading: RUSSERT
+dialog: 
+dialog: I dunno.  He wandered off somewhere.
+speaker_heading: RUSSERT stands
+dialog: at elevator as doors open to reveal:
+speaker_heading: KELLERMAN
+dialog: 
+dialog: Hey, Megan.
+speaker_heading: RUSSERT gets
+text: in, without a word, as KELLERMAN gets off.
+speaker_heading: KELLERMAN (cont.)
+dialog: 
+dialog: Nice to see you, too...
+dialog: Doors close.
+speaker_heading: KELLERMAN turns to MIKE.
+speaker_heading: KELLERMAN (cont.)
+dialog: 
+dialog: They told me downstairs that your
+dialog: 
+dialog: dads out of surgery.
+speaker_heading: MIKE
+dialog: 
+dialog: Yeah, hes in ICU.
+speaker_heading: KELLERMAN
+dialog: 
+dialog: Any word from Homicide, they catch
+dialog: 
+dialog: the shooter?
+speaker_heading: MIKE
+dialog: 
+dialog: Geez, I dont know.  Ive been so
+dialog: 
+dialog: caught up here --
+speaker_heading: KELLERMAN
+dialog: 
+dialog: Im sure theyre all over it.
+speaker_heading: MIKE
+dialog: 
+dialog: Yeah... Maybe Ill head down there,
+dialog: 
+dialog: check things out.  I got an idea I
+dialog: 
+dialog: have to tell Gharty about.
+speaker_heading: KELLERMAN
+dialog: 
+dialog: I could go with you.
+dialog: 
+dialog: (off MIKEs look)
+dialog: 
+dialog: Hey, I know Im not a cop anymore.
+dialog: 
+dialog: And I know there are alotta people
+dialog: 
+dialog: whod be just as happy never to see
+dialog: 
+dialog: my puss again.  But Gee was always
+dialog: 
+dialog: good to me.  And fair.
+dialog: MIKE nods, as
+text: BRODIE returns, still in scrubs, with camera.
+speaker_heading: KELLERMAN (cont.)
+dialog: 
+dialog: Brodie...
+speaker_heading: BRODIE
+dialog: 
+dialog: I just filmed a bypass operation.
+dialog: 
+dialog: Did you know this is the hospital
+dialog: 
+dialog: where Edgar Allen Poe died of rabies?
+speaker_heading: MIKE
+dialog: 
+dialog: Were gonna head over to Headquarters
+dialog: 
+dialog: for a little while.  If my dad comes
+dialog: 
+dialog: to, beep me.
+speaker_heading: As MIKE and KELLERMAN
+dialog: head off,
+speaker_heading: CUT TO:
+scene_heading: A54    INT. GIARDELLOS ROOM/ICU/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+speaker_heading: GRISCOM and COX
+speaker_heading: study X-rays, consult chart over GIARDELLO,
+dialog: still unconscious.
+speaker_heading: GRISCOM
+dialog: 
+dialog: That kidneys definitely history --
+speaker_heading: COX
+dialog: 
+dialog: Its amazing how effectively they
+dialog: 
+dialog: treat massive traumas nowadays.
+dialog: 
+dialog: Even ten years ago, these bad boys
+dialog: 
+dialog: would have been fatal.
+speaker_heading: GRISCOM
+dialog: 
+dialog: The upside of automatic weapons.
+dialog: 
+dialog: Theyve expanded the boundaries of
+dialog: 
+dialog: medical science.
+speaker_heading: COX
+dialog: 
+dialog: Talk about a silver lining.  I wish
+dialog: 
+dialog: we knew what caliber --
+speaker_heading: GRISCOM
+dialog: 
+dialog: Whats your best guess?
+speaker_heading: COX
+dialog: 
+dialog: >From the size of the entry wounds
+dialog: 
+dialog: and the internal trajectories, Id
+dialog: 
+dialog: say a nine mil.
+speaker_heading: She raises GIARDELLOs
+dialog: sheet, peeks under smock.
+speaker_heading: COX (cont.)
+dialog: 
+dialog: Odd.
+speaker_heading: GRISCOM
+dialog: 
+dialog: What?
+speaker_heading: COX
+dialog: 
+dialog: Im not used to seeing a body thats
+dialog: 
+dialog: still breathing... No powder burns.
+speaker_heading: GRISCOM
+dialog: 
+dialog: So judging from the internal damage,
+dialog: 
+dialog: the assailant was how far away when
+dialog: 
+dialog: he fired, would you say?
+speaker_heading: COX
+dialog: 
+dialog: Fifteen feet, max.
+speaker_heading: GRISCOM
+dialog: 
+dialog: Maybe as much as twenty-five.
+speaker_heading: COX
+dialog: 
+dialog: Injuries are too severe for that
+dialog: 
+dialog: distance, he must have been closer.
+speaker_heading: GRISCOM
+dialog: 
+dialog: Id love to get in there and have a
+dialog: 
+dialog: really good look around.  Not that
+dialog: 
+dialog: Id want him --
+speaker_heading: COX
+dialog: 
+dialog: No, no, of course not.  But I know
+dialog: 
+dialog: what you mean --
+speaker_heading: GRISCOM
+dialog: 
+dialog: Yes, Im sure you do.
+speaker_heading: On GRISCOM and
+dialog: COX, just itching to do that autopsy,
+speaker_heading: CUT TO:
+speaker_heading: 54       OMIT
+speaker_heading: 55       INT. LIEUTENANTS OFFICE/HOMICIDE
+speaker_heading: UNIT - DAY
+dialog: MIKE stands across
+speaker_heading: from GHARTY at desk
+speaker_heading: MIKE
+dialog: 
+dialog: Im here cause Ive been thinking --
+dialog: 
+dialog: and Ive had alotta time to think --
+dialog: 
+dialog: When I first came back to Baltimore,
+dialog: 
+dialog: there was a series of murders in
+dialog: 
+dialog: Little Italy.
+speaker_heading: GHARTY
+dialog: 
+dialog: Your cousin, right?
+speaker_heading: MIKE
+dialog: 
+dialog: Mario.
+speaker_heading: CUT TO:
+speaker_heading: FLASHBACK --
+speaker_heading: On GIARDELLO
+dialog: finding Mario Giardello dead in the bathtub,
+speaker_heading: CUT TO:
+speaker_heading: BACK TO PRESENT
+dialog: --
+speaker_heading: MIKE (cont.)
+dialog: 
+dialog: We eventually caught and convicted
+dialog: 
+dialog: the two children of one of Marios
+dialog: 
+dialog: old enemies, Carlo Roletta --
+speaker_heading: GHARTY
+dialog: 
+dialog: I remember.
+speaker_heading: MIKE
+dialog: 
+dialog: Maybe another member of the Roletta
+dialog: 
+dialog: family is responsible for Dads shooting.
+speaker_heading: GHARTY
+dialog: 
+dialog: Possibly...
+speaker_heading: MIKE
+dialog: 
+dialog: Put one of your guys on it.
+speaker_heading: GHARTY
+dialog: 
+dialog: Maybe I oughta put you on it.
+speaker_heading: MIKE
+dialog: 
+dialog: Me?
+speaker_heading: GHARTY
+dialog: 
+dialog: You were in the F.B.I.  Youre a
+dialog: 
+dialog: helluva cop.  You know the people in
+dialog: 
+dialog: that neighborhood, theyll talk to you.
+speaker_heading: MIKE
+dialog: 
+dialog: Okay, yeah, just a casual conversation
+dialog: 
+dialog: between me and some old friends.
+speaker_heading: On GHARTY, nodding
+speaker_heading: SMASH CUT TO:
+scene_heading: 56       EXT. ALLEY/LITTLE ITALY - DAY
+speaker_heading: SONG BEGINS.
+speaker_heading: CU on ITALIAN GUY #1 being rocked.  PULL BACK
+speaker_heading: to REVEAL MIKE,
+speaker_heading: in street clothes, stomping ITALIAN GUY #1.
+speaker_heading: As KELLERMAN
+dialog: looks on dispassionately,
+speaker_heading: CUT TO:
+scene_heading: 57       EXT. SIDESTREET/LITTLE ITALY - DAY
+speaker_heading: SONG CONTINUES.
+speaker_heading: CU on ITALIAN GUY #2 being rocked.  PULL
+speaker_heading: BACK to REVEAL
+text: MIKE stomping ITALIAN GUY #2.  As KELLERMAN
+dialog: sips coffee,
+speaker_heading: CUT TO:
+scene_heading: 58       EXT. PLAYGROUND/LITTLE ITALY - DAY
+speaker_heading: SONG CONTINUES.
+speaker_heading: MIKE chasing down middle-aged ITALIAN GUY
+dialog: #3.  He
+text: catches ITALIAN GUY #3, smacks him down, begins
+speaker_heading: kicking ITALIAN
+speaker_heading: GUY #3.  ITALIAN GUY #3 balls up to protect
+dialog: his vitals.
+dialog: As KELLERMAN chews slice of pizza,
+speaker_heading: CUT TO:
+scene_heading: 59       EXT. BOCCE BALL COURT/LITTLE ITALY
+speaker_heading: - DAY
+speaker_heading: SONG CONTINUES.
+dialog: CU on an ELDER of the neighborhood, bug-
+dialog: eyed.
+text: PULL BACK to REVEAL MIKE holding his service revolver
+speaker_heading: to the ELDERs
+dialog: head, his forearm braced against the ELDERs
+dialog: throat.
+speaker_heading: KELLERMAN stops him.
+speaker_heading: KELLERMAN
+dialog: 
+dialog: Mike, enough.
+dialog: MIKE breathes,
+dialog: steps back.
+speaker_heading: KELLERMAN (cont.)
+dialog: 
+dialog: One of the things your father taught
+dialog: 
+dialog: me was: How to recognize a dead end.
+speaker_heading: MIKE
+dialog: 
+dialog: A dead end?
+speaker_heading: KELLERMAN
+dialog: 
+dialog: Uh huh.
+dialog: On MIKE, frustrated,
+speaker_heading: CUT TO:
+speaker_heading: A60    INT. SWIMMING POOL - DAY
+speaker_heading: GIARDELLO stands
+dialog: on bottom of dry Pool, wearing suit and tie
+dialog: and goggles.
+text: Far above him is a LIGHT.  Suddenly, the Pool
+dialog: is full of water.
+speaker_heading: UNDER WATER --
+dialog: GIARDELLO looks up:  The LIGHT shimmers through
+dialog: the water like
+dialog: a distant beacon.
+speaker_heading: GIARDELLO breaststrokes
+dialog: for surface.  He swims and swims,
+dialog: up, up, up,
+text: toward the LIGHT.  He breaks the surface, gasping,
+speaker_heading: into the LIGHT.
+text: He rips off his goggles, wipes the water
+dialog: from his eyes,
+dialog: looks around.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Michael?  Michael?
+speaker_heading: As GIARDELLO
+text: looks in vain for his son, treading water, trying
+dialog: to keep his
+dialog: head above the surface,
+speaker_heading: CUT TO:
+scene_heading: B60    INT. GIARDELLOS ROOM/ICU/CHURCH HOME & HOSPITAL
+speaker_heading: - DAY
+speaker_heading: GIARDELLO, in
+dialog: bed, wired and IVd, opens his eyes.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Michael?  Michael?
+dialog: He looks over.
+dialog: On Mikes chair, empty,
+speaker_heading: FADE OUT. END OF ACT FIVE ACT SIX 60       OMIT
+speaker_heading: THROUGH
+speaker_heading: 81      OMIT
+speaker_heading: FADE IN:
+scene_heading: 82      INT. SCREENING ROOM/STATE POLICE HEADQUARTERS
+speaker_heading: - NIGHT
+speaker_heading: ON SCREEN: Giardello
+dialog: smiles, the rapid dull REPEAT is HEARD,
+dialog: a pop-pop-pop.
+speaker_heading: BALLARDs on
+text: the phone, making notes.  She hangs up.
+speaker_heading: BALLARD
+dialog: 
+dialog: That was Falsone.  The day-old dead
+dialog: 
+dialog: drug dealer, Yin Yang Hardwicke?
+speaker_heading: STIVERS
+dialog: 
+dialog: The one he and Lewis caught this
+dialog: 
+dialog: morning?
+speaker_heading: BALLARD
+dialog: 
+dialog: The lab boys ran a comparison on the
+dialog: 
+dialog: slugs outta Gee and our day-old dead
+dialog: 
+dialog: drug dealer.  Same caliber, same
+dialog: 
+dialog: gun.
+speaker_heading: BAYLISS
+dialog: 
+dialog: We have a witness, places a dealer
+dialog: 
+dialog: named Easy Eddie Moe at the scene.
+dialog: 
+dialog: And another dealer who says Eddie
+dialog: 
+dialog: had it in for Gee.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Maybe Easy Eddie shot Yin Yang, too.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Talk about bad kharma.
+speaker_heading: BALLARD
+dialog: 
+speaker_heading: (to STIVERS)
+dialog: 
+dialog: Lets go meet Falsone, help him check
+dialog: 
+dialog: this out.  See if theres some
+dialog: 
+dialog: connection between this Easy Eddie
+dialog: 
+dialog: and Yin and Gee.  Maybe its
+dialog: 
+dialog: something, maybe its nothing.
+speaker_heading: STIVERS
+dialog: 
+dialog: Fine by me.  I cant look at these
+dialog: 
+dialog: tapes for another second.
+speaker_heading: As STIVERS and
+speaker_heading: BALLARD exit, leaving PEMBLETON and BAYLISS
+dialog: behind,
+speaker_heading: CUT TO:
+speaker_heading: 83       OMIT
+speaker_heading: A84    INT. SQUAD ROOM/HOMICIDE UNIT - NIGHT
+speaker_heading: BOLANDER and
+dialog: MUNCH check their notes.
+speaker_heading: BOLANDER
+dialog: 
+dialog: How man Black Nationalist groups
+dialog: 
+dialog: are there in Baltimore?
+speaker_heading: MUNCH
+dialog: 
+dialog: Many.  Lewis and Sheppard still
+dialog: 
+dialog: working the various Aryan angles?
+speaker_heading: BOLANDER
+dialog: 
+dialog: Yup.  Baltimore, city of brotherly
+dialog: 
+dialog: love.
+speaker_heading: MUNCH
+dialog: 
+dialog: Thats Philadelphia.  Call me crazy,
+dialog: 
+dialog: but wouldnt it make more sense at
+dialog: 
+dialog: this point for us to switch?  I mean,
+dialog: 
+dialog: what is Gharty thinking?
+speaker_heading: BILLIE LOU (o.c.)
+dialog: 
+dialog: John.
+dialog: MUNCH turns to
+speaker_heading: see BILLIE LOU MCCOY, very calm cool and
+dialog: collected.
+speaker_heading: MUNCH
+dialog: 
+dialog: Billie Lou.
+speaker_heading: BILLIE LOU
+dialog: 
+dialog: I heard you were in town.  Why havent
+dialog: 
+dialog: you come to see me?
+speaker_heading: MUNCH
+dialog: 
+dialog: Billie Lou, this is my old partner,
+dialog: 
+dialog: Stan Bolander.
+speaker_heading: BILLIE LOU
+dialog: 
+dialog: Pleased to meet you.
+dialog: 
+speaker_heading: (to MUNCH)
+dialog: 
+dialog: I guess you have to eat your words
+dialog: 
+dialog: about never setting foot in Charm
+dialog: 
+dialog: City again.
+speaker_heading: MUNCH
+dialog: 
+dialog: When did I say that?
+speaker_heading: BOLANDER
+dialog: 
+dialog: Maybe I need a cup of coffee --
+speaker_heading: BILLIE LOU
+dialog: 
+dialog: And telling everybody I ran off with
+dialog: 
+dialog: one of your colleagues.
+speaker_heading: MUNCH
+dialog: 
+dialog: You know those New York cops, theyll
+dialog: 
+dialog: believe anything.
+speaker_heading: BILLIE LOU
+dialog: 
+dialog: Whod you have in mind -- Stuart?
+speaker_heading: MUNCH
+dialog: 
+dialog: Stivers.
+speaker_heading: BILLIE LOU
+dialog: 
+dialog: In your dreams.
+speaker_heading: MUNCH
+dialog: 
+dialog: Okay, Im a dog.  Can we talk about
+dialog: 
+dialog: this later?  Im working --
+speaker_heading: BILLIE LOU
+dialog: 
+dialog: You know where to find me.
+dialog: She exits.
+speaker_heading: BOLANDER looks at MUNCH.
+speaker_heading: BOLANDER
+dialog: 
+dialog: The fourth ex-Missus Munch.
+speaker_heading: MUNCH
+dialog: 
+dialog: You think maybe Im not cut out for
+dialog: 
+dialog: the domestic life?
+speaker_heading: BOLANDER
+dialog: 
+dialog: Guys like us, work is where we shine.
+speaker_heading: MUNCH nods.
+dialog: As THEY go back to it,
+speaker_heading: CUT TO:
+scene_heading: 84       INT. SCREENING ROOM/STATE POLICE
+speaker_heading: HEADQUARTERS - NIGHT
+speaker_heading: ON SCREEN: The
+dialog: Inner Harbor crowd.  Giardello ascends the
+dialog: stage.
+dialog: Daniels is pushed back.
+speaker_heading: PEMBLETON and
+speaker_heading: BAYLISS watch SCREEN.
+speaker_heading: BAYLISS
+dialog: 
+dialog: You watch these tapes of Gee getting
+dialog: 
+dialog: shot, over and over, in slo-mo, frame
+dialog: 
+dialog: by frame, and the act itself stops
+dialog: 
+dialog: being shocking.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Thats the problem with the job.
+dialog: 
+dialog: Things stop shocking you.
+speaker_heading: BAYLISS
+dialog: 
+dialog: That murderer, Luke Ryland, that you
+dialog: 
+dialog: said made me jumpy.  The women he
+dialog: 
+dialog: killed, those murders still shocked
+dialog: 
+dialog: me.  They angered me --
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Good.
+dialog: The tape plays
+speaker_heading: Giardello smiling and the CAMERA PANNING left
+dialog: to right again.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: Back it up.
+speaker_heading: ROBERTS rewinds
+text: tape.  PEMBLETON points to SCREEN.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: This here.
+speaker_heading: ON SCREEN: The
+dialog: CAMERA PANNING left to right, picks up the
+speaker_heading: WYAT Cameraman,
+dialog: Black, late forties, aiming his camera toward
+dialog: the unseen stage.
+speaker_heading: As the CAMERA continues to PAN left to
+dialog: right and the
+dialog: WYAT Cameraman being taped is about to leave
+speaker_heading: FRAME, three
+dialog: FLASHES of different colored light flare the
+dialog: left side of
+dialog: the FRAME.  A split second.  The three FLASHES
+dialog: of light in
+dialog: sync with a dull REPEAT, pop-pop-pop.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: Pop-pop-pop, with three flashes of
+dialog: 
+dialog: light.  See, the colors different
+dialog: 
+dialog: from all the others.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Where?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Back it up.
+speaker_heading: ROBERTS works
+dialog: controls.
+speaker_heading: ON SCREEN: The
+dialog: section of tape replaying.
+speaker_heading: PEMBLETON (v.o., cont.)
+dialog: 
+dialog: See the flashes?  Left side of the
+dialog: 
+dialog: frame.
+speaker_heading: BAYLISS (v.o.)
+dialog: 
+dialog: I heard the pops, but back it up
+dialog: 
+dialog: again.
+speaker_heading: ROBERTS works
+dialog: controls.
+speaker_heading: ON SCREEN: The
+dialog: section of tape replaying.
+speaker_heading: PEMBLETON (v.o.)
+dialog: 
+dialog: Watch.  Just as the WYAT Cameraman
+dialog: 
+dialog: is leaving frame.
+speaker_heading: ON SCREEN: The
+dialog: three FLASHES with the pop-pop-pop.
+speaker_heading: BAYLISS (v.o.)
+dialog: 
+dialog: Maybe the flashes are from those
+dialog: 
+dialog: cheap cameras.
+speaker_heading: PEMBLETON (v.o.)
+dialog: 
+dialog: No.  Those are white, these are
+dialog: 
+dialog: orange.
+dialog: 
+speaker_heading: (to ROBERTS)
+dialog: 
+dialog: Give it to me bigger.
+speaker_heading: ROBERTS works
+dialog: controls.
+speaker_heading: ON SCREEN: The
+dialog: section of tape blown-up times three.  The
+speaker_heading: WYAT Cameramans
+dialog: features zoom up grainier.  The faces of
+dialog: the crowd to
+dialog: his right side flare up in reflecting three
+speaker_heading: FLASHES in sync
+dialog: with the pop-pop-pop.
+speaker_heading: PEMBLETON (v.o., cont.)
+dialog: 
+dialog: If theres a gun, its right next to
+dialog: 
+dialog: that Cameraman in view and the people
+dialog: 
+dialog: to his right.
+speaker_heading: TIME CUT TO:
+scene_heading: 85       INT. SCREENING ROOM/STATE POLICE
+speaker_heading: HEADQUARTERS - NIGHT
+speaker_heading: ON SCREEN:
+text: The section of tape being replayed in slow motion.
+speaker_heading: PEMBLETON (v.o.)
+dialog: 
+dialog: Again.  But slow it down even more.
+speaker_heading: TIME CUT TO:
+scene_heading: 86       INT. SCREENING ROOM/STATE POLICE
+speaker_heading: HEADQUARTERS - NIGHT
+speaker_heading: ON SCREEN:
+text: The section of tape being played, blown-up, at a
+dialog: frame-by-frame
+dialog: sequence.  It becomes clearer as the CAMERA
+speaker_heading: is PANNING just
+dialog: past the WYAT Cameraman leaving FRAME, the
+speaker_heading: FLASHES of light
+dialog: are in perfect synch with the audio of the
+dialog: three gunshots.
+dialog: The audio of the pop-pop-pop is slowed in
+dialog: synch.
+text: A few faces in the foreground of the frame turn,
+dialog: looking around,
+dialog: confused, trying to locate the source of
+speaker_heading: that MUFFLED
+dialog: pop-pop-pop.
+speaker_heading: SMASH CUT TO:
+speaker_heading: 87       INT. LIEUTENANTS OFFICE/HOMICIDE
+speaker_heading: UNIT - NIGHT
+speaker_heading: ON SCREEN:
+dialog: The section of tape is being played, blown up, at
+dialog: regular speed.
+speaker_heading: GHARTY (o.c.)
+dialog: 
+dialog: Youre saying the shooter is the
+dialog: 
+dialog: Cameraman from WYAT?
+speaker_heading: PEMBLETON (o.c.)
+dialog: 
+dialog: Maybe.
+speaker_heading: PULL BACK to
+speaker_heading: REVEAL GHARTY, PEMBLETON and BAYLISS.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: This tape was shot by Channel Eleven.
+speaker_heading: PEMBLETON points
+dialog: to the three FLASHES of light.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: The three flashes of orange light.
+speaker_heading: GHARTY
+dialog: 
+dialog: I see em.
+speaker_heading: BAYLISS
+dialog: 
+dialog: With the pop-pop-pop --
+speaker_heading: GHARTY
+dialog: 
+dialog: Nothing showing him with the gun.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Went through all the tapes.  No guns
+dialog: 
+dialog: visible from any angle.
+speaker_heading: GHARTY
+dialog: 
+dialog: You feel theres something to this.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Could be.  Me and Frankll go suss
+dialog: 
+dialog: him out, huh?
+speaker_heading: GHARTY
+dialog: 
+dialog: You can go, Bayliss, but Pembleton,
+dialog: 
+dialog: you should back off a bit right now.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Right now, huh?
+speaker_heading: GHARTY
+dialog: 
+dialog: Not my decision.  You saw:  I got my
+dialog: 
+dialog: lunch handed to me for letting you
+dialog: 
+dialog: take over the homeless guy.  When
+dialog: 
+dialog: Bayliss called in the tip on Easy
+dialog: 
+dialog: Eddie Moe, I knew you guys were out
+dialog: 
+dialog: there working, and I didnt say squat.
+dialog: 
+dialog: But now --
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Not that I ever had a whole lot of
+dialog: 
+dialog: respect for you, Gharty, but what
+dialog: 
+dialog: are you doing, putting up with all
+dialog: 
+dialog: that nonsense from Gaffney?
+speaker_heading: GHARTY
+dialog: 
+dialog: I had to get off the street.  I could
+dialog: 
+dialog: smell it, that I wouldnt last.
+dialog: 
+dialog: I live with Gaffney and all the rest
+dialog: 
+dialog: of the brass cause thats what this
+dialog: 
+dialog: job is.  Im just a stooge.  I know
+dialog: 
+dialog: that.  But still, its better than
+dialog: 
+dialog: being out there --
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Al Giardello had nothing but respect
+dialog: 
+dialog: for you.
+speaker_heading: GHARTY
+dialog: 
+dialog: He did.  Yes.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: He stood up for you, for the rest of
+dialog: 
+dialog: his men.  covered our backs.  Never
+dialog: 
+dialog: gave a crap about Gaffney or anybody
+dialog: 
+dialog: else.  It is all about putting down
+dialog: 
+dialog: cases.
+speaker_heading: GHARTY
+dialog: 
+dialog: I know.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: So take a clue from Gee, huh?  Youre
+dialog: 
+dialog: heading a Detective Squad.  Theyre
+dialog: 
+dialog: looking to you.  Give em something.
+dialog: 
+dialog: Or walk the hell away.
+speaker_heading: GHARTY
+dialog: 
+dialog: (exhales)
+dialog: 
+dialog: You two, go to YAT, find out who
+dialog: 
+dialog: the guy is.
+speaker_heading: PEMBLETON and
+speaker_heading: BAYLISS head for exit.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Spoken like a champ.  Like a true
+dialog: 
+dialog: murder police.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Kiss my ass.
+speaker_heading: On GHARTY, sweating,
+speaker_heading: CUT TO:
+speaker_heading: 88       OMIT
+speaker_heading: 89       OMIT
+speaker_heading: A90    EXT. STREET - NIGHT
+speaker_heading: BALLARD, STIVERS
+speaker_heading: and FALSONE stand with an OLD WOMAN.
+speaker_heading: OLD WOMAN
+dialog: 
+dialog: Yes, sir, I saw the man clear as
+dialog: 
+dialog: day.  Well, dressed, good looking.
+dialog: 
+dialog: Got out of his car, walked up to
+dialog: 
+dialog: that boy -- that Yin Yang -- and
+dialog: 
+dialog: spoke to him for a moment.  Figured
+dialog: 
+dialog: he was buying drugs.  Then the well
+dialog: 
+dialog: dressed man, he took out a gun and
+dialog: 
+dialog: shot the boy dead away.
+speaker_heading: FALSONE
+dialog: 
+dialog: Whatd he look like?
+speaker_heading: OLD WOMAN
+dialog: 
+dialog: Who?  Which one?
+speaker_heading: BALLARD
+dialog: 
+dialog: The well dressed man.
+speaker_heading: OLD WOMAN
+dialog: 
+dialog: Forty or so.  Grey at the temples
+dialog: 
+dialog: Distinguished --
+speaker_heading: STIVERS
+dialog: 
+dialog: Black?
+speaker_heading: OLD WOMAN
+dialog: 
+dialog: Oh yes.  Blacker than you or me.
+speaker_heading: FALSONE
+dialog: 
+speaker_heading: (to BALLARD)
+dialog: 
+dialog: Sound like Easy Eddie to you?
+speaker_heading: BALLARD
+dialog: 
+dialog: Not much.  Easy Eddies twenty-two,
+dialog: 
+dialog: short, funny looking.  And his idea
+dialog: 
+dialog: of dressing up is clean sneakers.
+speaker_heading: On FALSONE and
+dialog: BALLARD, wondering,
+speaker_heading: CUT TO:
+speaker_heading: 90       INT. NEWS MANAGERS OFFICE/WYAT
+speaker_heading: - NIGHT
+speaker_heading: NEWS MANAGER
+speaker_heading: sits with PEMBLETON and BAYLISS.
+speaker_heading: NEWS MANAGER
+dialog: 
+dialog: The guy youre looking for, names
+dialog: 
+dialog: Eric Thomas James.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Is he still on the job?
+speaker_heading: NEWS MANAGER
+dialog: 
+dialog: He was down at the hospital, but
+dialog: 
+dialog: hes off now.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Well need his home address.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Any idea what he thinks of Al
+dialog: 
+dialog: Giardello?
+speaker_heading: NEWS MANAGER
+dialog: 
+dialog: I dont have a clue.  Ive never
+dialog: 
+dialog: heard him talk politics.  I dont
+dialog: 
+dialog: really know anything about the man.
+dialog: 
+dialog: Hes a freelancer, works mostly
+dialog: 
+dialog: weekends.  He comes and goes.  What
+dialog: 
+dialog: can I tell you?  Hes a cameraman.
+dialog: 
+dialog: Hes removed.  He sits behind his
+dialog: 
+dialog: lens and observes people.  Cameramen.
+dialog: 
+dialog: Theyre all a little hinky, if you
+dialog: 
+dialog: know what I mean.
+speaker_heading: As the NEWS MANAGER
+dialog: reaches for Rolodex,
+speaker_heading: CUT TO:
+speaker_heading: 91       INT. GIARDELLOS ROOM/ICU/CHURCH
+speaker_heading: HOME & HOSPITAL - NIGHT
+dialog: MIKE enters.
+text: GIARDELLO sits with plate of gnocchi.
+speaker_heading: MIKE
+dialog: 
+dialog: Dad...
+speaker_heading: GIARDELLO
+dialog: 
+dialog: They catch the guy who shot me?
+speaker_heading: MIKE
+dialog: 
+dialog: Not yet.  But everybodys working
+dialog: 
+dialog: every side of the equation.  Even
+dialog: 
+dialog: Bayliss and Pembleton.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Pembleton?  Huh.
+speaker_heading: MIKE
+dialog: 
+dialog: That does not smell like hospital
+dialog: 
+dialog: food.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Nonna brought me some of her gnocchi.
+speaker_heading: MIKE
+dialog: 
+dialog: Heaven.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: The Doctor wont let me have any.
+dialog: 
+dialog: Mangia?
+speaker_heading: MIKE
+dialog: 
+dialog: If Id known.  I just got through
+dialog: 
+dialog: wolfed down some bad Chinese take-
+dialog: 
+dialog: out.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Michael, just because youre a cop,
+dialog: 
+dialog: doesnt mean you have to eat like a
+dialog: 
+dialog: dog.
+speaker_heading: MIKE
+dialog: 
+dialog: Youve always said that --
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Ive never considered indigestion
+dialog: 
+dialog: part of the job description.  I dont
+dialog: 
+dialog: believe that along with your gun and
+dialog: 
+dialog: your badge, they issue you a bottle
+dialog: 
+dialog: of antacid.
+speaker_heading: MIKE
+dialog: 
+dialog: No, they sure dont.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: When I was a beat cop, my partners
+dialog: 
+dialog: made fun of me because I always
+dialog: 
+dialog: insisted on eating a real sit-down
+dialog: 
+dialog: dinner, no fast food.  I told them
+dialog: 
+dialog: it was because I was Italian.
+speaker_heading: MIKE
+dialog: 
+dialog: Whatd they say to that?
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Ah, who cares?  People are a little
+dialog: 
+dialog: more enlightened these days.  You
+dialog: 
+dialog: know, when I went to Rome --
+speaker_heading: MIKE
+dialog: 
+dialog: When were you in Rome?
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Many years ago.  Before you were
+dialog: 
+dialog: born.  Spent three weeks there.
+speaker_heading: MIKE
+dialog: 
+dialog: I never knew that.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: It was September.  It was hot.
+dialog: 
+dialog: Beautiful blue skies.
+dialog: 
+dialog: Policemen, workmen, the most common
+dialog: 
+dialog: laborer, everyone -- Would sit down
+dialog: 
+dialog: in the middle of the day and have a
+dialog: 
+dialog: two hour lunch with three courses.
+dialog: 
+dialog: And good wine.
+speaker_heading: MIKE
+dialog: 
+dialog: Which is why the Romans never get
+dialog: 
+dialog: anything done --
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Maybe.  But they know how to live.
+dialog: 
+dialog: I never forgot that.  And I always
+dialog: 
+dialog: tried, no matter how deep into a
+dialog: 
+dialog: case I was, to sit down like a human
+dialog: 
+dialog: being and have a decent meal.  Thats
+dialog: 
+dialog: important, Michael.
+speaker_heading: MIKE
+dialog: 
+dialog: I hear you.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: To know how to live.  In the little
+dialog: 
+dialog: time we have.
+speaker_heading: MIKE
+dialog: 
+dialog: Okay.  No more bad take-out.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Promise me.
+speaker_heading: MIKE
+dialog: 
+dialog: I promise.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Bene.
+speaker_heading: MIKE
+dialog: 
+dialog: Listen, Ill see you tomorrow.
+dialog: 
+dialog: Charisse and Theresall both be here
+dialog: 
+dialog: by then.  Charisse is bringing little
+dialog: 
+dialog: Al.  The whole family will be
+dialog: 
+dialog: together.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Good.  Buona notte --
+speaker_heading: MIKE
+dialog: 
+dialog: Buona notte, Poppa.
+dialog: MIKE leans over
+text: and kisses GIARDELLO on cheek.  On GIARDELLO,
+dialog: smiling, as
+dialog: MIKE exits,
+speaker_heading: CUT TO:
+speaker_heading: 92       OMIT
+speaker_heading: 93       EXT. PERRY HALL - NIGHT
+dialog: Establishing.
+scene_heading: 94      EXT. JAMES HOME/PERRY HALL - NIGHT
+speaker_heading: PEMBLETON and
+dialog: BAYLISS exit Toyota, walk up to a well-kept,
+dialog: cookie cutter
+dialog: suburban Home.  BAYLISS RINGS the bell.  JAMES
+dialog: opens door.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Mister James?  Eric Thomas James?
+speaker_heading: JAMES
+dialog: 
+dialog: Yes.
+speaker_heading: BAYLISS flashes
+dialog: his shield.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Baltimore Homicide.  Im Detective
+dialog: 
+dialog: Bayliss.  This is my... partner.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Frank Pembleton.
+speaker_heading: JAMES holds open
+dialog: the door.
+speaker_heading: JAMES
+dialog: 
+dialog: Sure.  Come in.
+speaker_heading: PEMBLETON and
+speaker_heading: BAYLISS enter.
+speaker_heading: A95    INT. KITCHEN/JAMES HOME - NIGHT
+dialog: They step in,
+text: JAMES closes the door.
+speaker_heading: JAMES
+dialog: 
+dialog: Ive got some coffee.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: No, thank you.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Ill take a cup, thanks.
+speaker_heading: JAMES
+dialog: 
+dialog: I know its late --
+speaker_heading: JAMES pours BAYLISS
+dialog: a cup of coffee.
+speaker_heading: JAMES (cont.)
+dialog: 
+dialog: But I dont sleep much anyway.
+speaker_heading: JAMES hands BAYLISS
+dialog: coffee.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Neither do I.  Thank you.
+speaker_heading: JAMES
+dialog: 
+dialog: Youre welcome.  Ive been expecting
+dialog: 
+dialog: you.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Whys that?
+dialog: JAMES looks at
+dialog: them, exits Kitchen, PEMBLETON and BAYLISS
+dialog: follow.
+scene_heading: 95       INT. HALLWAY/JAMES HOME - NIGHT
+speaker_heading: JAMES heads off
+dialog: to Bedroom right off the Kitchen.  PEMBLETON
+speaker_heading: and BAYLISS
+dialog: follow, a buzz of wariness to their step.  JAMES
+dialog: opens Bedroom
+text: door.  BAYLISS slides his hand to his weapon.
+speaker_heading: 96      INT. BEDROOM/JAMES HOME - NIGHT
+dialog: A typical teenagers
+dialog: Bedroom.  Unmade bed.  Clothes, soda
+dialog: cans, CDs video
+dialog: games, school books litter the floor.
+speaker_heading: JAMES
+dialog: 
+dialog: This is my boys bedroom.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Mister James, are there any weapons
+dialog: 
+dialog: in the house?
+speaker_heading: JAMES
+dialog: 
+dialog: This is how his room was three months
+dialog: 
+dialog: ago.  It hasnt been touched.
+speaker_heading: BAYLISS guides
+dialog: JAMES to a wall, frisks him.
+speaker_heading: JAMES (cont.)
+dialog: 
+dialog: Im not carrying a gun either.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Just making sure, thats all.
+speaker_heading: JAMES
+dialog: 
+dialog: What, you dont trust me?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You were at the Inner Harbor this
+dialog: 
+dialog: morning, werent you, Mister James?
+dialog: 
+dialog: And at the hospital this afternoon?
+speaker_heading: JAMES
+dialog: 
+dialog: I was working.  Lemme tell you
+dialog: 
+dialog: something, awright?  My Tom, my Tommy,
+dialog: 
+dialog: hes got it all.  Smarts, looks,
+dialog: 
+dialog: girlfriends.  This is someone who
+dialog: 
+dialog: will make his mark.  Put his imprint
+dialog: 
+dialog: on the world.
+speaker_heading: BAYLISS releases
+text: JAMES, sets him down in a chair.  A beat,
+speaker_heading: JAMES looks
+dialog: around the Room.
+speaker_heading: JAMES (cont.)
+dialog: 
+dialog: He just got his drivers license.
+dialog: 
+dialog: Me and the wife, were going to help
+dialog: 
+dialog: him get ahold of a decent used car
+dialog: 
+dialog: for college.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Where is Missus James?
+speaker_heading: JAMES
+dialog: 
+dialog: Who knows?  She left a coupla weeks
+dialog: 
+dialog: ago.  Didnt say for where.  Id
+dialog: 
+dialog: guess her sisters in Buffalo, but I
+dialog: 
+dialog: havent called, she hasnt either.
+dialog: 
+dialog: Dont have the energy.  Yeah, I shot
+dialog: 
+dialog: that man this morning.  Giardello.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Mister James, I have to advise you
+dialog: 
+dialog: of your rights --
+speaker_heading: JAMES
+dialog: 
+dialog: My what?  Rights? --
+dialog: 
+dialog: (smiles, looks away)
+dialog: 
+dialog: I have a right to have things as
+dialog: 
+dialog: they were three months ago.  Id
+dialog: 
+dialog: always played by the rules.  Cut my
+dialog: 
+dialog: lawn, paid my taxes, didnt honk at
+dialog: 
+dialog: anyone coming out of the church
+dialog: 
+dialog: parking lot.  What else was I supposed
+dialog: 
+dialog: to do?  I dont deserve my Tommy
+dialog: 
+dialog: dying.  That is my right.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Your son is dead?
+speaker_heading: JAMES
+dialog: 
+dialog: Yes.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Im sorry.
+speaker_heading: JAMES
+dialog: 
+dialog: What for?  You didnt know him
+speaker_heading: BAYLISS
+dialog: 
+dialog: No one should have a child die.
+speaker_heading: JAMES
+dialog: 
+dialog: Tell that to all them bigshots who
+dialog: 
+dialog: want to legalize drugs.  Who want
+dialog: 
+dialog: everyone to have the right to get
+dialog: 
+dialog: themselves high on anything they
+dialog: 
+dialog: want.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Youve admitted shooting Al Giardello.
+speaker_heading: JAMES
+dialog: 
+dialog: I shot him, yeah.  I was aiming for
+dialog: 
+dialog: Schmoke, too, but, hey, why should I
+dialog: 
+dialog: expect to be a sharpshooter, huh?
+dialog: 
+dialog: Why should I expect my boy to go
+dialog: 
+dialog: into Baltimore, buy himself his dope
+dialog: 
+dialog: and O.D. right on the street?  Why
+dialog: 
+dialog: should I expect his friends who I
+dialog: 
+dialog: know were with him, why do they leave
+dialog: 
+dialog: him on the street, right there at
+dialog: 
+dialog: Broadway and Fleet and let him die?
+dialog: 
+dialog: Three months ago almost to the day.
+dialog: 
+dialog: And this is how Tommy leaves his
+dialog: 
+dialog: room.  If hedve just cleaned the
+dialog: 
+dialog: damn place up, I couldve sold our
+dialog: 
+dialog: home.  But, naw, hes gotta leave it
+dialog: 
+dialog: like this.  His personal touches.
+dialog: 
+dialog: How can I sell this house that his
+dialog: 
+dialog: mother cannot stand to live in
+dialog: 
+dialog: anymore?  I shot the dealer who sold
+dialog: 
+dialog: Tommy the drugs.  And that man,
+dialog: 
+dialog: Giardello, because he wants to
+dialog: 
+dialog: legalize drugs.  Im trying to stop
+dialog: 
+dialog: that.  Ill shot whoever says its
+dialog: 
+dialog: okay.  Cause its not.  Im trying
+dialog: 
+dialog: to save these innocent kids.  Thats
+dialog: 
+dialog: all.
+speaker_heading: BAYLISS
+dialog: 
+dialog: I understand.
+speaker_heading: JAMES and BAYLISS
+dialog: exchange a look.  BAYLISS stands JAMES up,
+dialog: reflexively
+text: reaches for his cuffs, turns to PEMBLETON.
+speaker_heading: BAYLISS (cont.)
+dialog: 
+dialog: I dont have any cuffs on me.
+speaker_heading: JAMES
+dialog: 
+dialog: You dont need em.
+speaker_heading: BAYLISS and PEMBLETON
+dialog: lead JAMES out of the Room, into:
+scene_heading: A97    INT. HALLWAY/JAMES HOME - NIGHT
+speaker_heading: BAYLISS guides
+text: JAMES.  PEMBLETON picks up the video camera with
+dialog: cover, off side
+text: table.  He examines it, opens cover.  He
+dialog: shows it to
+dialog: BAYLISS: James has rigged the gun to the camera.
+speaker_heading: On BAYLISS and
+speaker_heading: PEMBLETON, walking JAMES out,
+scene_heading: FADE OUT. END OF ACT SIX ACT SEVEN           FADE IN:
+speaker_heading: 97       INT. LIEUTENANTS OFFICE/HOMICIDE
+speaker_heading: UNIT - NIGHT
+speaker_heading: CU on VIDEO from
+dialog: the POV of the shooter.  See Giardello
+dialog: standing on
+dialog: stage, then the CAMERA jolts from the gunshot,
+dialog: then Giardello
+dialog: falls.
+speaker_heading: PEMBLETON (o.c.)
+dialog: 
+dialog: He had the gun attached to the camera,
+dialog: 
+dialog: which is why no one saw it.  And the
+dialog: 
+dialog: kept the camera rolling when he shot
+dialog: 
+dialog: Gee, only he didnt turn the cassette
+dialog: 
+speaker_heading: in to WYAT.
+speaker_heading: PULL BACK to
+speaker_heading: REVEAL PEMBLETON, BAYLISS, GHARTY and Assistant
+dialog: States Attorney
+speaker_heading: ED DANVERS.
+speaker_heading: DANVERS
+dialog: 
+dialog: We show this tape in court, Eric
+dialog: 
+dialog: Thomas James is done.  We got two
+dialog: 
+dialog: counts of attempted murder, Giardello
+dialog: 
+dialog: and Dr. Williams, maximum thirty
+dialog: 
+dialog: years each, not to mention the spare
+dialog: 
+dialog: change hell pick up for killing the
+dialog: 
+dialog: drug dealer.
+dialog: 
+speaker_heading: (to PEMBLETON and
+dialog: 
+speaker_heading: BAYLISS)
+dialog: 
+dialog: Congratulations.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Uh huh.
+speaker_heading: DANVERS
+dialog: 
+dialog: Ill need you both to testify.
+speaker_heading: PEMBLETON goes.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Well be there.
+speaker_heading: BAYLISS
+dialog: exits into:
+speaker_heading: 98       INT. SQUAD ROOM/HOMICIDE UNIT
+speaker_heading: - NIGHT
+dialog: Normal activity
+speaker_heading: as PEMBLETON and BAYLISS pass through.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Like old times, huh?
+speaker_heading: BAYLISS
+dialog: 
+dialog: I know how James feels.  You have to
+dialog: 
+dialog: stop those who are going to hurt the
+dialog: 
+dialog: innocent.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: James is a lunatic.  Certifiable.
+speaker_heading: BAYLISS
+dialog: 
+dialog: His son dies, hes got to do
+dialog: 
+dialog: something.
+speaker_heading: PEMBLETON and
+speaker_heading: BAYLISS exit.
+speaker_heading: 99       EXT. ROOF/POLICE HEADQUARTERS
+speaker_heading: - NIGHT
+speaker_heading: PEMBLETON and
+speaker_heading: BAYLISS step out.
+speaker_heading: BAYLISS (cont.)
+dialog: 
+dialog: Say one of your kids gets hooked on
+dialog: 
+dialog: drugs.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: One of my kids what?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Gets hooked.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: They wouldnt.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Say they did.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Theyre not going to.  Its not going
+dialog: 
+dialog: to happen.  Case closed.  Next.
+speaker_heading: BAYLISS
+dialog: 
+dialog: You have no sympathy for James?
+dialog: 
+dialog: What hes going through?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Hes laying the blame off on Gee
+dialog: 
+dialog: cause in his heart of hearts, he
+dialog: 
+dialog: knows hes responsible for what
+dialog: 
+dialog: happened to his kid.
+speaker_heading: BAYLISS
+dialog: 
+dialog: I appreciate how he feels.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You can appreciate all the hell you
+dialog: 
+dialog: want, Tim, but theres a line.
+dialog: 
+dialog: Between right and wrong.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Youre the expert on that.  Nothing
+dialog: 
+dialog: lumpy about you, cause you know
+dialog: 
+dialog: all.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: The city looks good tonight.
+speaker_heading: BAYLISS
+dialog: 
+dialog: We cant all be you, Frank.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Let the courts figure it out for
+dialog: 
+dialog: James, awright?  Im gonna take my
+dialog: 
+dialog: wife out to dinner in the Harbor.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Sometimes you can lose your bearings.
+dialog: 
+dialog: Sometimes the line isnt so clear.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Maybe wine and dine her at Pierpoint.
+dialog: 
+dialog: Romantic.  Of course the line is
+dialog: 
+dialog: clear.  Theres good, theres evil.
+dialog: 
+dialog: Dont be one of these namby-pamby
+dialog: 
+dialog: relativists and start running that
+dialog: 
+dialog: oh-life-is-shades-of-grey nonsense.
+dialog: 
+dialog: Thats for weak thinkers.
+speaker_heading: BAYLISS
+dialog: 
+dialog: (stops)
+dialog: 
+dialog: Yeah.  Youre the expert.
+speaker_heading: PEMBLETON turns,
+dialog: sees that BAYLISS stopped.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: It doesnt take an expert to tell
+dialog: 
+dialog: right from wrong.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Youve never shot anyone, have you?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: No.
+speaker_heading: BAYLISS
+dialog: 
+dialog: And you never would.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Ive never had to.  Ive been lucky.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Youve always been the righteous
+dialog: 
+dialog: cop.  The line has always been clear
+dialog: 
+dialog: to you.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Not always.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Time for one last confession, Frank...
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Confession?
+speaker_heading: BAYLISS
+dialog: 
+dialog: I killed a man.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Im not in the mood, awright?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Luke Ryland.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Huh?
+speaker_heading: BAYLISS
+dialog: 
+dialog: I shot the bastard dead.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Good.  Go to jail.  Lethal injection
+dialog: 
+dialog: or the gas chamber?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Im not kidding.  I killed him.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You couldnt kill anyone.
+speaker_heading: BAYLISS
+dialog: 
+dialog: He got off on a technicality.
+dialog: 
+dialog: Sonofabitch had to die before he
+dialog: 
+dialog: murdered another innocent woman.
+speaker_heading: PEMBLETON stares
+speaker_heading: hard at BAYLISS.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Dont screw with me.
+speaker_heading: BAYLISS looks
+speaker_heading: at PEMBLETON, no joke.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: You killed this whoever.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Luke Ryland.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Internal cleared you?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Frank, Im saying I went to hunt
+dialog: 
+dialog: this bastard down.  I found him and
+dialog: 
+dialog: blew his brains out.  I executed him
+dialog: 
+dialog: in cold blood.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: And Im saying, Internal rules it
+dialog: 
+dialog: was a good shooting.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Internal doesnt know crap about me
+dialog: 
+dialog: killing Ryland.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Youre standing here and youre
+dialog: 
+dialog: telling me you killed someone.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Yes.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: In self-defense.
+speaker_heading: BAYLISS
+dialog: 
+dialog: No.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You were standing there with your
+dialog: 
+dialog: gun and then it went off and you
+dialog: 
+dialog: dont remember how.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Frank --
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Cause guns go off accidentally.
+dialog: 
+dialog: Happens all the time.
+speaker_heading: BAYLISS
+dialog: 
+dialog: This was no accident.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Im saying its an accident.  For
+dialog: 
+dialog: you to shoot someone, it has to be a
+dialog: 
+dialog: mistake.
+speaker_heading: BAYLISS
+dialog: 
+dialog: No mistake, no accident.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Tim --
+speaker_heading: BAYLISS
+dialog: 
+dialog: Youre a good cop.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Im not a cop anymore.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Youll always be a cop.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Im a teacher now.  A civilian.
+speaker_heading: BAYLISS
+dialog: 
+dialog: I murdered this guy, cause he was a
+dialog: 
+dialog: predator.  He preyed on women.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Why are you doing this?
+speaker_heading: BAYLISS
+dialog: 
+dialog: I put the gun right up to the mothers
+dialog: 
+dialog: brain and I pulled the trigger.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Shut up. Just -- shut up.
+speaker_heading: BAYLISS
+dialog: 
+dialog: What do I do, Frank?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You put this on me?  You sunofabitch.
+speaker_heading: BAYLISS
+dialog: 
+dialog: You have a conscience.  I have one.
+dialog: 
+dialog: I dont know why mine keeps kicking
+dialog: 
+dialog: me, but it does.  All the time.
+dialog: 
+dialog: (taps his chest, open-
+dialog: 
+dialog: palmed)
+dialog: 
+dialog: Here  Im okay with it.  In my heart,
+dialog: 
+dialog: I know I saved some girls life.
+dialog: 
+dialog: Some girl in New Orleans.  Who will
+dialog: 
+dialog: never know.  Thats where Ryland was
+dialog: 
+dialog: headed.  He said the girls were easy
+dialog: 
+dialog: there.  Hed have access --
+dialog: 
+dialog: (taps his temple)
+dialog: 
+dialog: But here?
+dialog: Pause.
+speaker_heading: PEMBLETON and BAYLISS exchange a look.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I come back for this.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Maybe its cause this James guy
+dialog: 
+dialog: hes going to jail for basically the
+dialog: 
+dialog: same reasons I had for doing what I
+dialog: 
+dialog: did.  And Im out here.  Free.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You wait til Im back and then you
+dialog: 
+dialog: have to unload, huh?  Unburden
+dialog: 
+dialog: yourself... Whats supposed to happen
+dialog: 
+dialog: now?
+speaker_heading: BAYLISS
+dialog: 
+dialog: You tell me.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Im not bringing you in.
+speaker_heading: BAYLISS
+dialog: 
+dialog: No, huh?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Im not a cop.  Im not official.
+speaker_heading: BAYLISS
+dialog: 
+dialog: So youll what, not tell anyone?
+dialog: 
+dialog: Keep my secret to yourself?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Sunofabitch.  Youre a sunofabitch.
+dialog: 
+dialog: You murdered him.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Yes.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Whos the primary?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Lewis.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You talk to him?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Youre the first to know.  Who else
+dialog: 
+dialog: was I going to tell?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: But did you talk to Lewis?
+speaker_heading: BAYLISS
+dialog: 
+dialog: About the case?  No.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: No one suspects it was you.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Cmon, me?  Whod suspect me?  Good
+dialog: 
+dialog: old Tim Bayliss.  The Zen Detective.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Hunh.
+speaker_heading: BAYLISS
+dialog: 
+dialog: So youll take me in.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Im going to take you in?  Are you wild?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Youll take me in.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: No.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Did I take a bullet for you once?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Cut it out.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Did I?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Im not taking you in.
+speaker_heading: BAYLISS
+dialog: 
+dialog: I take one for you, you take one for
+dialog: 
+dialog: me.  Thats square business.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: This is not taking a bullet for you.
+dialog: 
+dialog: This is you wanting me to toss your
+dialog: 
+dialog: ass into a jackpot.  Youre confessing
+dialog: 
+dialog: to a murder, Tim.  You understand
+dialog: 
+dialog: that?
+speaker_heading: BAYLISS
+dialog: 
+dialog: You want someone else to bring me
+dialog: 
+dialog: in.  Someone else should bust me.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: No.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Then it has to be you.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: No.
+speaker_heading: BAYLISS
+dialog: 
+dialog: I thought about eating my gun.  I
+dialog: 
+dialog: figured if I didnt tell you and you
+dialog: 
+dialog: didnt do what is right --
+dialog: 
+dialog: (taps temple)
+dialog: 
+dialog: -- for here -- then theres only one
+dialog: 
+dialog: other way out.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Tim, cops in prison -- not a pretty
+dialog: 
+dialog: sight.
+speaker_heading: BAYLISS
+dialog: 
+dialog: I respect you, Frank, I love... you...
+speaker_heading: PEMBLETON and
+dialog: BAYLISS look off, then back at each other.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: You thought about putting a gun to
+dialog: 
+dialog: yourself?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Youd be saving my life.  I dont
+dialog: 
+dialog: know for how long, but for now, at
+dialog: 
+dialog: least, you would.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I believe that you didnt mean to do
+dialog: 
+dialog: this killing.
+speaker_heading: BAYLISS
+dialog: 
+dialog: If thats what you want to believe.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Do you want to go back inside now?
+speaker_heading: BAYLISS
+dialog: 
+dialog: Never delay whats inevitable, right?
+dialog: 
+dialog: It has to be what it has to be.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Sonofabitch.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Frank, do you absolve me?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Absolve you?  I cant.
+speaker_heading: BAYLISS
+dialog: 
+dialog: Cant  You mean you wont.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I cant.  Can not.  Its not within
+dialog: 
+dialog: my power...
+speaker_heading: BAYLISS takes
+text: his badge out of his pocket, hands it to
+speaker_heading: PEMBLETON.
+dialog: PEMBLETON looks at it a moment, puts it in his
+dialog: pocket, looks
+dialog: out at the sky.
+speaker_heading: PEMBLETON (cont.)
+dialog: 
+dialog: I think maybe Mary and I should stay
+dialog: 
+dialog: home tonight and have dinner with
+dialog: 
+dialog: the kids.
+speaker_heading: As PEMBLETON
+speaker_heading: and BAYLISS start back to Headquarters,
+speaker_heading: CUT TO:
+scene_heading: 100     INT. THE WATERFRONT RESTAURANT - NIGHT
+speaker_heading: BALLARD, STIVERS,
+speaker_heading: MUNCH, BOLANDER, KELLERMAN, GRISCOM, COX,
+speaker_heading: LEWIS, HOWARD,
+speaker_heading: SHEPPARD, FALSONE, DANVERS and Medical
+dialog: Examiners Doctor
+speaker_heading: LAUSANNE and Doctor SCHEINER sit, drinking.
+speaker_heading: BILLIE LOU tends
+text: bar.  COX raises a glass to the room.
+speaker_heading: COX
+dialog: 
+dialog: A toast to Al Giardello.  Too badass
+dialog: 
+dialog: to die.
+dialog: ALL toast, hear-hear.
+speaker_heading: BALLARD
+dialog: 
+dialog: Heres to Bayliss and Pembleton --
+speaker_heading: STIVERS
+dialog: 
+dialog: Where are Bayliss and Pembleton?
+speaker_heading: KELLERMAN
+dialog: 
+dialog: Cmon, you expect to see the
+dialog: 
+dialog: notoriously anti-social Frank
+dialog: 
+dialog: Pembleton here?
+speaker_heading: DANVERS
+dialog: 
+dialog: And Bayliss, who knows?
+speaker_heading: LEWIS
+dialog: 
+dialog: Yeah, who could ever figure Bayliss
+dialog: 
+dialog: out.  I mean, is he gay or bi or
+dialog: 
+dialog: what?
+speaker_heading: HOWARD
+dialog: 
+dialog: Who cares?
+speaker_heading: BALLARD
+dialog: 
+dialog: Hey, hey, Im in the middle of a
+dialog: 
+dialog: toast.  And its bad luck not to
+dialog: 
+dialog: finish a toast.
+speaker_heading: LAUSANNE
+dialog: 
+dialog: Says who?
+speaker_heading: BALLARD
+dialog: 
+dialog: Says me.  So... To Bayliss and
+dialog: 
+dialog: Pembleton, who doggedly pursued the
+dialog: 
+dialog: case -- despite interference from
+dialog: 
+dialog: the Bosses -- and brought the shooter
+dialog: 
+dialog: to justice.
+dialog: ALL toast, hear-hear.
+text: SHEPPARD raises her glass.
+speaker_heading: SHEPPARD
+dialog: 
+dialog: To new friends.
+dialog: ALL toast, hear-hear.
+speaker_heading: LEWIS raises his glass.
+speaker_heading: LEWIS
+dialog: 
+dialog: To old friends.
+dialog: ALL toast, hear-hear.
+speaker_heading: GRISCOM
+dialog: 
+dialog: To pathological friends
+speaker_heading: COX/LAUSANNE/SCHEINER
+dialog: 
+dialog: Hear, hear.
+speaker_heading: FALSONE
+dialog: 
+dialog: Yknow, Lewis, I have always liked
+dialog: 
+dialog: this joint.  Maybe I will be your
+dialog: 
+dialog: partner.
+speaker_heading: LEWIS
+dialog: 
+dialog: No. Really?
+speaker_heading: FALSONE
+dialog: 
+dialog: Really.
+speaker_heading: MUNCH
+dialog: 
+dialog: Ill sell you my share.  In a New
+dialog: 
+dialog: York minute.
+speaker_heading: BILLIE LOU
+dialog: 
+dialog: Not so fast.  Were still married.
+dialog: 
+dialog: I own half of your third.
+speaker_heading: FALSONE raises
+dialog: his glass.
+speaker_heading: FALSONE
+dialog: 
+dialog: To partners.
+dialog: ALL toast, hear-hear.
+speaker_heading: BRODIE enters.
+speaker_heading: LEWIS
+dialog: 
+dialog: Hey, Brodie, where you been?
+speaker_heading: BRODIE
+dialog: 
+dialog: The hospital.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Whats the latest?
+speaker_heading: BRODIE
+dialog: 
+dialog: He died.  Lieutenant Giardello died.
+dialog: Shock, confusion.
+speaker_heading: BOLANDER
+dialog: 
+dialog: Thats not funny, son.
+speaker_heading: BRODIE
+dialog: 
+dialog: The doctor says it was some kind of
+dialog: 
+dialog: aneurysm.  It was fast.  There was
+dialog: 
+dialog: no pain.
+speaker_heading: BOLANDER
+dialog: 
+dialog: No pain, huh?
+speaker_heading: BRODIE
+dialog: 
+dialog: Thats what the doctor said.
+speaker_heading: BOLANDER turns
+text: to HOWARD, takes her hand.  BALLARD starts to
+speaker_heading: cry.  FALSONE
+text: comforts her.  KELLERMAN and COX hug.  STIVERS
+speaker_heading: leans on DANVERS.
+speaker_heading: SCHEINER, GRISCOM, SHEPPARD and LAUSANNE
+dialog: exchange a mournful
+text: glance.  BILLIE LOU puts her hand on
+dialog: MUNCHs shoulder.
+dialog: LEWIS rises, exits.
+speaker_heading: 101     EXT. THAMES STREET - NIGHT
+speaker_heading: LEWIS comes out,
+dialog: stares up at Police Headquarters, sees:
+scene_heading: 102     EXT.  BALCONY/POLICE HEADQUARTERS -
+speaker_heading: NIGHT
+dialog: MIKE stands looking
+dialog: down at The Waterfront.  LEWIS nods to
+dialog: MIKE, who returns
+text: the gesture.  MIKE heads inside.
+scene_heading: 103     INT. LOBBY/POLICE HEADQUARTERS - NIGHT
+dialog: MIKE, grieving,
+dialog: stops, feels in his pocket, takes out his
+dialog: Rosary.
+text: He contemplates it a long moment, puts it back in
+dialog: pocket.
+dialog: As MIKE enters:
+speaker_heading: 104     INT. SQUAD ROOM/HOMICIDE UNIT - NIGHT
+dialog: MIKE walks past
+speaker_heading: unfamiliar FACES.  NAOMI walks by.
+speaker_heading: MIKE
+dialog: 
+dialog: Uh, listen, you mind if I take a
+dialog: 
+dialog: peek in his office?  What used to be
+dialog: 
+dialog: his office?
+speaker_heading: NAOMI
+dialog: 
+dialog: Lieutenants out, Im sure he wouldnt
+dialog: 
+dialog: mind.
+speaker_heading: MIKE
+dialog: 
+dialog: Thanks.
+speaker_heading: NAOMI walks on.
+dialog: MIKE goes over, enters:
+speaker_heading: 105     INT. LIEUTENANTS OFFICE/HOMICIDE UNIT -
+speaker_heading: NIGHT
+dialog: MIKE stands there,
+dialog: looks around.  He tries to feel his
+dialog: fathers presence.
+dialog: He finds one picture on the wall of
+dialog: Giardello, takes
+text: Rosary out of his pocket and hangs it on
+dialog: corner of frame.
+speaker_heading: PEMBLETON enters.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Oh.  Hello, Im Frank Pembleton.
+speaker_heading: MIKE
+dialog: 
+dialog: Mike Giardello.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I heard about Gee... Im sorry.
+speaker_heading: MIKE
+dialog: 
+dialog: (nods)
+dialog: 
+dialog: Thank you for catching the man who
+dialog: 
+dialog: killed my father.
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Yeah... Im good at catching bad
+dialog: 
+dialog: guys.  Caught me a couple tonight.
+dialog: 
+dialog: (looks at Squad Room)
+dialog: 
+dialog: Lotta people have worked in that
+dialog: 
+dialog: room over the years.  Lot of em
+dialog: 
+dialog: have died.  Beau Felton got killed
+dialog: 
+dialog: in the line of duty.  Steve Crosetti
+dialog: 
+dialog: committed suicide.  To this day, no
+dialog: 
+dialog: one knows why...
+speaker_heading: MIKE
+dialog: 
+dialog: Do you miss it, Homicide?
+speaker_heading: PEMBLETON
+dialog: 
+dialog: I dunno.  You can never really escape,
+dialog: 
+dialog: yknow, cause death is everyday,
+dialog: 
+dialog: death goes on and on and on...
+speaker_heading: MIKE
+dialog: 
+dialog: Thats because life goes on and on.
+dialog: 
+dialog: Here.  And there...
+speaker_heading: PEMBLETON
+dialog: 
+dialog: Where is there?
+speaker_heading: MIKE
+dialog: 
+dialog: Wherever.
+dialog: A moment of silence.
+dialog: THEY exit.
+speaker_heading: 106     INT. SQUAD ROOM/HOMICIDE UNIT - NIGHT
+speaker_heading: As MIKE and PEMBLETON
+dialog: exit Squad Room they walk past
+speaker_heading: GIARDELLO, who
+dialog: enters.  They cant see each other.  GIARDELLO
+dialog: stops, looks
+dialog: around, surprised to find himself there.  The
+speaker_heading: unfamiliar FACES
+dialog: of a moment ago are gone, replaced by POLICE
+speaker_heading: OFFICERS from
+dialog: the Twenties, Thirties, Forties, Fifties,
+dialog: Sixties, Seventies
+dialog: and Eighties in period uniforms.  All
+dialog: killed in the
+dialog: line of duty.  GIARDELLO acknowledges a few of
+dialog: them, nods to
+dialog: three OFFICERS killed by Junior Bunk in the
+dialog: big Squad Room
+text: shoot-out.  A LITTLE BLACK GIRL skips by him.
+dialog: He knows who
+dialog: she is:
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Adena Watson.
+speaker_heading: GIARDELLO exits
+dialog: into:
+scene_heading: 107     INT. COFFEE ROOM/HOMICIDE UNIT - NIGHT
+speaker_heading: STEVE CROSETTI
+text: and BEAU FELTON are playing cards at a table
+dialog: set with four
+dialog: chairs.
+speaker_heading: CROSETTI
+dialog: 
+dialog: Hey, hey.
+speaker_heading: FELTON
+dialog: 
+dialog: Gee.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Crosetti.  Felton.
+speaker_heading: CROSETTI
+dialog: 
+dialog: We been waiting on you.  Have a seat.
+speaker_heading: CROSETTI deals
+dialog: down card, then up card all around.
+speaker_heading: CROSETTI (cont.)
+dialog: 
+dialog: Ten of spades to Mister Beau Felton.
+dialog: 
+dialog: Jack of diamonds to my esteemed
+dialog: 
+dialog: Lieutenant, eight of clubs to yours
+dialog: 
+dialog: truly --
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Whatre we playing?
+speaker_heading: CROSETTI
+dialog: 
+dialog: Five card stud.
+dialog: They bid around.
+speaker_heading: FELTON
+dialog: 
+dialog: Ten.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Ill meet that.
+speaker_heading: CROSETTI
+dialog: 
+dialog: Too soon to quit.  Ill pay to see
+dialog: 
+dialog: one more.
+dialog: Theyre all in,
+dialog: CROSETTI deals another card to each.
+speaker_heading: CROSETTI (cont.)
+dialog: 
+dialog: Pair of tens showing to Mister Felton,
+dialog: 
+dialog: another diamond for Gee, possible
+dialog: 
+dialog: flush -- and a handful of nothing
+dialog: 
+dialog: for the little Dago dealer.  Pair of
+dialog: 
+dialog: tens bets --
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Whos the fourth chair for?
+speaker_heading: FELTON
+dialog: 
+dialog: We dont know yet.  But theyll be
+dialog: 
+dialog: here sooner or later.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Anybody I know?
+speaker_heading: CROSETTI
+dialog: 
+dialog: Maybe.  It aint like its written
+dialog: 
+dialog: in stone, Lieutenant.  Pre-ordained
+dialog: 
+dialog: or anything.
+speaker_heading: FELTON
+dialog: 
+dialog: Take you, for example.  If youd
+dialog: 
+dialog: just slept five minutes longer this
+dialog: 
+dialog: morning, you woulda run into this
+dialog: 
+dialog: fender bender on Light Street on
+dialog: 
+dialog: your way to the Inner Harbor --
+speaker_heading: CROSETTI
+dialog: 
+dialog: Which wouldve made you a half hour
+dialog: 
+dialog: late for your speech --
+speaker_heading: FELTON
+dialog: 
+dialog: And the guy who shot you woulda got
+dialog: 
+dialog: nervous and left --
+speaker_heading: CROSETTI
+dialog: 
+dialog: Probably shot somebody else --
+speaker_heading: FELTON
+dialog: 
+dialog: And we wouldnt now be having the
+dialog: 
+dialog: pleasure of your company.
+speaker_heading: GIARDELLO
+dialog: 
+dialog: I suddenly got worried that -- My
+dialog: 
+dialog: son, hes a cop.  I thought, maybe --
+speaker_heading: CROSETTI
+dialog: 
+dialog: I wouldnt worry.  Life is short,
+dialog: 
+dialog: but once youre dead, youre a long
+dialog: 
+dialog: time dead, if you know what I mean.
+speaker_heading: FELTON
+dialog: 
+dialog: Your son -- ?
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Michael.
+speaker_heading: FELTON
+dialog: 
+dialog: Hes a good kid?
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Yeah.
+speaker_heading: FELTON
+dialog: 
+dialog: You taught him well?
+speaker_heading: GIARDELLO
+dialog: 
+dialog: I did my best.  I wish Id --
+speaker_heading: CROSETTI
+dialog: 
+dialog: Uh-uh-uh.  No regrets.
+speaker_heading: FELTON
+dialog: 
+dialog: Just have to wait and see.  See what
+dialog: 
+dialog: hand hes dealt --
+speaker_heading: GIARDELLO
+dialog: 
+dialog: And how he plays it.
+speaker_heading: FELTON
+dialog: 
+dialog: The best thing about this place?
+dialog: 
+dialog: All those cares and worries you had
+dialog: 
+dialog: in life?  They dont matter anymore.
+dialog: 
+dialog: Rest in peace, means what it says.
+speaker_heading: CROSETTI
+dialog: 
+dialog: You want some coffee?
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Coffee?  Coffee would be good.  You
+dialog: 
+dialog: got espresso?
+speaker_heading: CROSETTI
+dialog: 
+dialog: Espresso?  Where do you think you
+dialog: 
+dialog: are?  Heaven?
+speaker_heading: FELTON
+dialog: 
+dialog: (re:  the bid)
+dialog: 
+dialog: Fifty to you, Gee --
+speaker_heading: GIARDELLO
+dialog: 
+dialog: Im in...
+speaker_heading: As GIARDELLO
+dialog: puts his money on the table,
+text: FADE TO BLACK. THE END More scripts.
+dialog: 

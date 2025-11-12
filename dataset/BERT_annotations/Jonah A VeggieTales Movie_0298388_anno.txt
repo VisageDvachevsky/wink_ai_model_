@@ -1,0 +1,4278 @@
+dialog: 
+speaker_heading: JONAH
+speaker_heading: JONAH
+dialog: <!--
+dialog: /* Font Definitions */
+dialog: @font-face
+dialog: {font-family:Courier;
+dialog: panose-1:0 0 0 0 0 0 0 0 0 0;
+dialog: mso-font-charset:0;
+dialog: mso-generic-font-family:modern;
+dialog: mso-font-format:other;
+dialog: mso-font-pitch:fixed;
+dialog: mso-font-signature:3 0 0 0 1 0;}
+dialog: @font-face
+dialog: {font-family:"New York";
+dialog: panose-1:0 0 0 0 0 0 0 0 0 0;
+dialog: mso-font-charset:0;
+dialog: mso-generic-font-family:roman;
+dialog: mso-font-format:other;
+dialog: mso-font-pitch:variable;
+dialog: mso-font-signature:3 0 0 0 1 0;}
+dialog: /* Style Definitions */
+dialog: p.MsoNormal, li.MsoNormal, div.MsoNormal
+dialog: {mso-style-parent:"";
+dialog: margin:0in;
+dialog: margin-bottom:.0001pt;
+dialog: mso-pagination:none;
+dialog: text-autospace:none;
+dialog: font-size:12.0pt;
+dialog: font-family:"New York";
+dialog: mso-fareast-font-family:"Times New Roman";
+dialog: mso-bidi-font-family:"Times New Roman";}
+scene_heading: p.GENERAL, li.GENERAL, div.GENERAL
+dialog: {mso-style-name:GENERAL;
+dialog: margin-top:0in;
+dialog: margin-right:1.25in;
+dialog: margin-bottom:0in;
+dialog: margin-left:1.25in;
+dialog: margin-bottom:.0001pt;
+dialog: mso-pagination:none;
+dialog: text-autospace:none;
+dialog: font-size:12.0pt;
+dialog: font-family:Courier;
+dialog: mso-fareast-font-family:"Times New Roman";
+dialog: mso-bidi-font-family:"Times New Roman";}
+scene_heading: p.SCENEHEADING, li.SCENEHEADING, div.SCENEHEADING
+dialog: {mso-style-name:"SCENE HEADING";
+dialog: mso-style-next:ACTION;
+dialog: margin-top:12.0pt;
+dialog: margin-right:1.25in;
+dialog: margin-bottom:0in;
+dialog: margin-left:1.25in;
+dialog: margin-bottom:.0001pt;
+dialog: mso-pagination:none;
+dialog: text-autospace:none;
+dialog: font-size:12.0pt;
+dialog: font-family:Courier;
+dialog: mso-fareast-font-family:"Times New Roman";
+dialog: mso-bidi-font-family:"Times New Roman";
+dialog: text-transform:uppercase;}
+scene_heading: p.ACTION, li.ACTION, div.ACTION
+dialog: {mso-style-name:ACTION;
+dialog: margin-top:12.0pt;
+dialog: margin-right:1.25in;
+dialog: margin-bottom:0in;
+dialog: margin-left:1.25in;
+dialog: margin-bottom:.0001pt;
+dialog: mso-pagination:none;
+dialog: text-autospace:none;
+dialog: font-size:12.0pt;
+dialog: font-family:Courier;
+dialog: mso-fareast-font-family:"Times New Roman";
+dialog: mso-bidi-font-family:"Times New Roman";}
+scene_heading: p.CHARACTERNAME, li.CHARACTERNAME, div.CHARACTERNAME
+dialog: {mso-style-name:"CHARACTER NAME";
+dialog: mso-style-next:DIALOG;
+dialog: margin-top:12.0pt;
+dialog: margin-right:2.25in;
+dialog: margin-bottom:0in;
+dialog: margin-left:3.25in;
+dialog: margin-bottom:.0001pt;
+dialog: mso-pagination:none;
+dialog: text-autospace:none;
+dialog: font-size:12.0pt;
+dialog: font-family:Courier;
+dialog: mso-fareast-font-family:"Times New Roman";
+dialog: mso-bidi-font-family:"Times New Roman";
+dialog: text-transform:uppercase;}
+scene_heading: p.PARENTHETICAL, li.PARENTHETICAL, div.PARENTHETICAL
+dialog: {mso-style-name:PARENTHETICAL;
+dialog: mso-style-next:DIALOG;
+dialog: margin-top:0in;
+dialog: margin-right:2.75in;
+dialog: margin-bottom:0in;
+dialog: margin-left:2.75in;
+dialog: margin-bottom:.0001pt;
+dialog: mso-pagination:none;
+dialog: text-autospace:none;
+dialog: font-size:12.0pt;
+dialog: font-family:Courier;
+dialog: mso-fareast-font-family:"Times New Roman";
+dialog: mso-bidi-font-family:"Times New Roman";}
+scene_heading: p.DIALOG, li.DIALOG, div.DIALOG
+dialog: {mso-style-name:DIALOG;
+dialog: mso-style-next:ACTION;
+dialog: margin-top:0in;
+dialog: margin-right:2.25in;
+dialog: margin-bottom:0in;
+dialog: margin-left:2.25in;
+dialog: margin-bottom:.0001pt;
+dialog: mso-pagination:none;
+dialog: text-autospace:none;
+dialog: font-size:12.0pt;
+dialog: font-family:Courier;
+dialog: mso-fareast-font-family:"Times New Roman";
+dialog: mso-bidi-font-family:"Times New Roman";}
+scene_heading: p.TRANSITION, li.TRANSITION, div.TRANSITION
+dialog: {mso-style-name:TRANSITION;
+dialog: mso-style-next:"SCENE HEADING";
+dialog: margin-top:12.0pt;
+dialog: margin-right:1.25in;
+dialog: margin-bottom:0in;
+dialog: margin-left:4.25in;
+dialog: margin-bottom:.0001pt;
+dialog: mso-pagination:none;
+dialog: text-autospace:none;
+dialog: font-size:12.0pt;
+dialog: font-family:Courier;
+dialog: mso-fareast-font-family:"Times New Roman";
+dialog: mso-bidi-font-family:"Times New Roman";
+dialog: text-transform:uppercase;}
+scene_heading: p.SHOT, li.SHOT, div.SHOT
+dialog: {mso-style-name:SHOT;
+dialog: mso-style-next:ACTION;
+dialog: margin-top:12.0pt;
+dialog: margin-right:1.25in;
+dialog: margin-bottom:0in;
+dialog: margin-left:1.25in;
+dialog: margin-bottom:.0001pt;
+dialog: mso-pagination:none;
+dialog: text-autospace:none;
+dialog: font-size:12.0pt;
+dialog: font-family:Courier;
+dialog: mso-fareast-font-family:"Times New Roman";
+dialog: mso-bidi-font-family:"Times New Roman";
+dialog: text-transform:uppercase;}
+dialog: /* Page Definitions */
+dialog: @page
+dialog: {mso-page-border-surround-header:no;
+dialog: mso-page-border-surround-footer:no;
+dialog: mso-footnote-numbering-restart:each-section;}
+speaker_heading: @page Section1
+dialog: {size:8.5in 11.0in;
+dialog: margin:1.0in 0in 1.0in 0in;
+dialog: mso-header-margin:.5in;
+dialog: mso-footer-margin:.5in;
+dialog: mso-paper-source:0;}
+dialog: div.Section1
+dialog: {page:Section1;}
+dialog: -->
+dialog: body {
+dialog: margin-top:0 !important;
+dialog: padding-top:0 !important;
+dialog: min-width:800px !important;
+dialog: }
+dialog: .wb-autocomplete-suggestions {
+scene_heading: text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+dialog: position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+dialog: }
+text: .wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+dialog: .wb-autocomplete-suggestion b { font-weight: bold; }
+dialog: .wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+dialog: Jul
+speaker_heading: AUG
+dialog: Sep
+dialog: 22
+dialog: 2015
+dialog: 2016
+dialog: 2017
+dialog: 76 captures
+dialog: 18 Jun 2003 - 22 Aug 2016
+dialog: About this capture
+speaker_heading: COLLECTED BY
+dialog: Organization: Alexa Crawls
+text: Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive. Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+dialog: 
+dialog: Collection: Alexa Crawls
+text: Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive. Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+dialog: 
+scene_heading: __wm.bt(550,27,25,2,"web","http://www.scifiscripts.com:80/cartoon/Jonah_Script.htm","2016-08-22",1996);
+speaker_heading: JONAH
+dialog: V 4.1 05/08/02 Big Idea Productions, Inc.
+dialog: 
+dialog: Black
+text: Night SFX. We hear the faint sound of a GUITAR
+text: frantically strumming a "Rafi" type folk song and the engine of a
+dialog: minivan.
+speaker_heading: FADE IN:
+speaker_heading: EXTERIOR -
+scene_heading: NIGHT. SIDE OF wooded, WINDING RURAL
+speaker_heading: ROAD.
+dialog: The road and
+text: surrounding woods are very dark - silhouetted against a cloudy full moon
+text: sky. The guitar and engine noise grow
+text: louder as we see head lights appear. A
+text: porcupine scurries across the road. A
+text: minivan full of veggie kids passes by the camera, revealing the darkened woods
+dialog: once again.
+dialog: Interior -
+dialog: night. veggie van.
+speaker_heading: JR. ASPARAGUS,
+text: PERCY, ANNIE and LAURA are sitting and singing in the second and third rows of
+text: the van. LAURA is holding a ticket. DAD ASPARAGUS is sitting in the front
+text: passenger seat and facing toward the kids - singing and "playing" the
+text: guitar. They are on their way to a "Twippo" concert and are all very
+text: excited except for BOB THE TOMATO - he's perturbed and not singing, driving and
+text: fumbling with a map.
+speaker_heading: KIDS and DAD
+dialog: 
+dialog: Now Billy Joe
+dialog: McGuffrey
+dialog: Was a really
+dialog: clumsy kid
+dialog: On the 1st day
+dialog: of 1st grade
+dialog: I'll tell you
+dialog: what he did
+dialog: 
+dialog: He tripped over
+dialog: a pencil box
+dialog: Flew up in the
+dialog: air
+dialog: Landed on a
+dialog: kangaroo
+dialog: Who pulled out
+dialog: all his hair
+dialog: 
+dialog: He needed
+dialog: 1st aid (clap)
+dialog: in the 1st grade (clap)
+dialog: 1st aid (clap)
+dialog: in the 1st grade (clap)
+dialog: 1st aid (clap)
+dialog: in the 1st grade (clap)
+dialog: You could a buy
+dialog: a zoo
+dialog: With all the
+dialog: doctor bills he paid!
+dialog: 
+dialog: 
+dialog: Oh Billy Joe
+dialog: McGuffrey
+dialog: Was a really
+dialog: clumsy kid
+dialog: On the 2nd day
+dialog: of 2nd grade
+dialog: I'll tell you
+dialog: what he did
+dialog: 
+dialog: He slipped on a
+dialog: banana peel
+dialog: Flew up in the
+dialog: sky
+dialog: Landed on a
+dialog: chimpanzee
+dialog: Who poked him in
+dialog: the eye
+dialog: 
+dialog: He needed
+dialog: 1st aid (clap)
+dialog: in the 2nd grade (2claps)
+dialog: 1st aid (clap)
+dialog: in the 2nd grade (2claps)
+dialog: 1st aid (clap)
+dialog: in the 2nd grade (2claps)
+dialog: You could a buy
+dialog: a zoo
+dialog: With all the
+dialog: doctor bills he paid!
+speaker_heading: BOB
+dialog: (under breath)
+dialog: ... Route 59?
+dialog: BOB, while fumbling
+text: with the map, inadvertently hits the headlight switch - turning them off. NEAR
+text: BLACK. BOB startles.
+dialog: Bob (cont'd)
+speaker_heading: AAAAH! LIGHTS!
+speaker_heading: AAAAH!
+speaker_heading: DAD accidently
+text: smacks BOB in the back of the head with the neck of the guitar. As the kids are singing in near black, we
+text: hear Bob frantically trying to find the light switch - map rustling, tires
+text: squealing, engine revving, etc....
+speaker_heading: BOB (cont'd)
+dialog: (ad lib)
+dialog: Whoa... lights!
+dialog: Lights! Lights!
+scene_heading: EXTERIOR - NIGHT.
+scene_heading: WINDING RURAL ROAD.
+speaker_heading: HEADLIGHTS back
+text: on. Camera street level as the van
+text: passes over it. We cut to a rear view
+text: to see the van driving on. A beam of
+text: moon light reveals a "porcupine crossing" hazard sign.
+speaker_heading: INTERIOR -
+scene_heading: NIGHT. VEGGIE VAN.
+speaker_heading: BOB gives DAD a
+text: stern glance. DAD remains happily
+dialog: "strumming" the guitar.
+speaker_heading: KIDS AND DAD
+dialog: Now Billy Joe
+dialog: McGuffrey
+dialog: Was a really
+dialog: clumsy kid
+dialog: On the 3rd day
+dialog: of 3rd grade
+dialog: I'll tell you
+dialog: what he did
+dialog: 
+dialog: He fell out of a
+dialog: fishing boat
+dialog: Splashed into
+dialog: the sea
+dialog: Landed on a
+dialog: moray eel
+dialog: Who bit him on
+dialog: the knee
+dialog: 
+dialog: He needed
+dialog: 1st aid (clap)
+dialog: in the 3rd grade (3claps)
+dialog: 1st aid (clap)
+dialog: in the 3rd grade (3claps)
+dialog: 1st aid (clap)
+dialog: in the 3rd grade (3claps)
+dialog: You could a buy
+dialog: a zoo
+dialog: With all the
+dialog: doctor bills he paid!
+text: LAURA looks down at
+text: her ticket, smiling. It reads, "In
+dialog: Concert - Twippo! Backstage Pass"
+speaker_heading: LAURA
+dialog: (reverently - with awe)
+dialog: ...I get to meet
+dialog: Twippo...
+dialog: Laura picks the
+dialog: song right up again...
+dialog: Song has been
+text: increasing in tempo and is now at a fevered pitch.
+speaker_heading: DAD
+dialog: Twelfth grade!
+speaker_heading: KIDS AND DAD
+dialog: Now Billy Joe
+dialog: McGuffrey
+dialog: Was a really
+dialog: clumsy kid
+dialog: On the 12th day
+dialog: of 12th grade
+dialog: I'll tell you
+dialog: what he did
+dialog: 
+dialog: Walked into
+dialog: financial aid
+dialog: Fell and broke a
+dialog: bone
+dialog: Showed them all
+dialog: his bills and
+dialog: Got a great big
+dialog: College Loan!
+dialog: 
+dialog: And he got
+dialog: 1st aid(clap)in
+dialog: the 12th grade (12claps)
+dialog: 1st aid(clap)in
+dialog: the 12th grade (12claps)
+dialog: 1st aid(clap)in
+dialog: the 12th grade (12claps)
+dialog: You could a buy
+dialog: a zoo or two with all the doctor bills he paid!
+dialog: You could a buy
+dialog: a zoo or two with all the doctor bills he paid!
+text: Big Ending. KIDS CHEER and DAD STRUMS wildly at end of
+dialog: song.
+speaker_heading: KIDS
+dialog: Hurray!!
+speaker_heading: KIDS comment:
+speaker_heading: PERCY
+dialog: Let's do another
+dialog: Twippo song!
+speaker_heading: ANNIE
+dialog: I love Twippo!
+speaker_heading: JR
+dialog: Me too!
+speaker_heading: LAURA
+dialog: (holding her 'special' ticket aloft)
+dialog: But I'm the
+dialog: only one who gets to meet him, because I won the Twippo Sweepstakes!
+speaker_heading: LAURA'S ticket is
+text: proudly displayed in Junior's face as she delivers her line.
+speaker_heading: JR
+dialog: Ya don't have to
+dialog: rub it in!
+speaker_heading: DAD
+dialog: It's great that you
+dialog: won the contest, Laura, but let's try not to brag about it.
+dialog: (to Bob)
+dialog: Nice one with the
+dialog: lights, Bob!
+speaker_heading: BOB, covered in
+text: map, receives DAD's sincere compliment sarcastically (with a forced smile and
+text: laugh). He then snaps angrily:
+speaker_heading: BOB
+dialog: My pleasure. For the next song, maybe I can drive into
+dialog: the river!
+text: DAD startles at
+dialog: BOB's aggression.
+speaker_heading: KIDS
+dialog: (cheer, then singing)
+dialog: Yeah!
+dialog: Drive into the
+dialog: river Bob!
+dialog: Oh! Drive into
+dialog: the river Bob!...
+speaker_heading: BOB (cont'd over kid's)
+dialog: Or maybe... You
+dialog: could help me with the MAP!
+scene_heading: EXTERIOR - NIGHT.
+scene_heading: WINDING RURAL ROAD.
+speaker_heading: DAD
+dialog: Oh... I'm Sorry.
+dialog: We see DAD leaning
+dialog: over attempting to help BOB. Map
+text: rustles around, impairing BOB'S vision once again. Van swerves and squeals.
+speaker_heading: INTERIOR -
+scene_heading: NIGHT. VEGGIE VAN.
+dialog: laura
+text: (to Junior - teasing and waving ticket in his face.)
+dialog: Is there anything
+dialog: you want me to tell Twippo, when I meet him?
+text: Tires squeal as van
+text: swerves. Laura loses her balance and
+text: falls against the side of the van. The
+text: ticket flies out a side window.
+speaker_heading: DAD
+dialog: Laura!
+speaker_heading: LaURA
+dialog: (GASP!!!)
+scene_heading: EXTERIOR - NIGHT.
+scene_heading: WINDING RURAL ROAD.
+dialog: We watch the ticket
+text: fly out the window and past the camera.
+speaker_heading: intERIOR. vAN -
+speaker_heading: nIGHT
+speaker_heading: LAURA
+dialog: (screams)
+dialog: My ticket!!!!!
+dialog: Bob startles,
+text: accidently turning the wheel and losing his grip on the map.
+dialog: bob
+dialog: Wha-?
+dialog: Dad startles,
+text: whacking Bob again with his guitar, which only makes the situation worse.
+dialog: dad
+dialog: Huh? Wha... Quick!
+dialog: Get it!
+dialog: exT. winding road
+speaker_heading: -nIGHT
+dialog: The vans tires
+text: squeal, as Bob tries to regain control.
+dialog: bob
+dialog: The map!!
+dialog: Guitar boing off
+dialog: Bob's head.
+dialog: Dad
+dialog: Sorry!
+dialog: 
+speaker_heading: BOB
+speaker_heading: AAAH!
+dialog: laura
+dialog: (irate)
+dialog: My ticket!!!!!
+dialog: Guitar gets stuck
+text: in the steering wheel.
+dialog: Bob
+dialog: Do you mind?
+speaker_heading: DaD
+dialog: I'm stuck. (Grunt)
+dialog: Dad struggles to
+text: free the guitar. He is excited when he finally pulls it free, but both Dad and
+text: Bob are horrified as they realize that the steering wheel is pulled off, still
+text: stuck to the guitar.
+speaker_heading: ALL
+dialog: Aaaahhhh!
+dialog: Bob
+dialog: Get it on! Fix it!
+dialog: Put it back!
+dialog: 
+dialog: Much chaos.
+dialog: Van out of
+dialog: control. We hear more yelling, guitar
+text: boinging, etc.... In the foreground, a
+text: family of porcupines - a momma and 2 kids, are crossing the road. The van is headed right at them! We cut to the momma porcupine's
+text: reaction. She's shocked and terrified! She looks to her babies. Cute, innocent and unaware of the danger,
+text: they look back at her with kinked heads and blink. Momma porcupine looks tenderly at her babies, then turns angrily
+text: toward the approaching van.
+text: Dramatically, she "winds-up".
+speaker_heading: INTERIOR -
+scene_heading: NIGHT. VEGGIE VAN.
+dialog: We cut back to Bob
+text: as the map falls below his eyes. He reacts in terror to what he then sees:
+text: Momma porcupine has her quilled back toward the van with her head turned -
+text: looking right at him. The babies stand innocently and blink.
+speaker_heading: BOB
+speaker_heading: PORCUPINE!
+scene_heading: EXTERIOR - NIGHT.
+scene_heading: WINDING RURAL ROAD.
+dialog: Momma porcupine
+text: then "pitches" a swarm of quills at the front tires. We follow the
+text: flight of the quills on the "quill cam" as they punch into the
+text: tires. We hear a couple of explosions
+text: from the tires popping.
+speaker_heading: INTERIOR -
+scene_heading: NIGHT. VEGGIE VAN.
+dialog: all
+speaker_heading: AAAHH!
+scene_heading: EXTERIOR - NIGHT.
+scene_heading: WINDING RURAL ROAD.
+dialog: The van performs
+text: some donuts as it continues forward.
+text: Much screams. Bob spins the
+text: wheel wildly, trying to regain control of the van. The porcupines watch in interest as the "screaming" van
+text: spins off the side of the road and heads down a steep wooded hill that leads to
+text: a river! Bob steers wildly as the van
+text: heads through some brush... the kids in the back scream in terror.
+dialog: In rapid succession,
+text: Bob must avoid a series of obstacles, which Dad calls out like a
+text: highly-caffeinated sports announcer.
+speaker_heading: daD
+dialog: Tree!!!!
+text: Bob swerves wildly
+dialog: to miss a huge tree. Cut to kids in the
+text: back, bouncing up and down and screaming as if they were riding bikes down a
+dialog: flight of stairs.
+dialog: dad (cont'd)
+dialog: Cabin!!!!
+text: Bob swerves wildly
+text: to miss a small FISHERMAN'S CABIN. He
+text: avoids the obstacle, but heads right toward the fisherman's CLOTHESLINE, a
+text: sturdy, multi-line job strung with several items of clothing, most prominently,
+text: a large pair of polka-dotted boxer
+dialog: shorts.
+speaker_heading: DAD (cont'd)
+dialog: UNDERWEAR!!!!!!
+dialog: Bob can't turn in
+text: time, and the van heads right through the clothesline, with the boxer shorts
+text: plastered across the windshield. The
+text: kids startle and scream as if an alien had just landed on the windshield. Amazingly, the 5 nylon cords of the
+text: clothesline hold tight, and slow the van to a stop like a small plane caught by
+text: cartoon power lines. With visible and
+text: audible tension, the stretched cords hold the van still at a 45 degree angle on
+text: the side of the hill, no more than 20 feet from the river.
+dialog: Kids
+dialog: Aaaaaahhh!
+speaker_heading: intERIOR van -nIGHT
+text: All is still. Kids are silent, in shock. After a moment, Bob turns to look back and
+dialog: says...
+speaker_heading: boB
+dialog: Heh, heh... Well
+dialog: I'm glad that's over!
+dialog: There is a loud
+dialog: "poing!" SFX. Bob snaps to
+dialog: Dad, who still hasn't moved.
+dialog: bob (cont'd)
+dialog: Did you say
+dialog: something?
+dialog: Another
+dialog: "poing," and now we see what it is.
+text: The nylon cords of the clothesline are snapping, one by one.
+speaker_heading: BOB (cont'd)
+dialog: (eyes widening)
+dialog: Oh...
+dialog: dad
+dialog: (eyes widening)
+dialog: ... dear...
+dialog: Poing! Poing!
+text: Poing! The last 3 cords snap in
+text: rapid succession, and the van lurches toward the river. The kids' eyes widen and they all press back
+text: against their seats in unison, and everyone screams like mad!
+dialog: all
+dialog: Aaaaaaaaah!!!!!!
+dialog: eXT. hill -nIGHT
+dialog: As the van rolls
+text: perilously toward the river, a low-angle shot reveals a thick tree stump in its
+text: path, about bumper-height, unnoticed by the van's occupants. As they scream and roll ahead, suddenly the
+text: bumper meets the tree stump, and the van stops cold, no more than 6 feet from
+dialog: the river
+speaker_heading: intERIOR. vAN -
+speaker_heading: nIGHT
+dialog: The tree stump
+text: stops the van cold, but also fires both front seat airbags, which inflate and
+text: completely engulf Bob and Dad's faces.
+text: The screaming dies out. Silence. The kids are afraid to blink. The airbags remain completely inflated,
+text: engulfing Bob and Dad who stare into them motionless... wondering if they are
+text: dead. After a pause, and not quite sure
+dialog: what has happened, Bob speaks.
+dialog: bob
+dialog: (sfx - talking in balloon)
+dialog: Am I in... heaven?
+text: Beat. There is dust in the air from the airbags.
+dialog: dad
+dialog: (sniffs)
+dialog: Smells like...
+dialog: Wisconsin.
+dialog: The kids finally
+text: let their breath out, and fall back into their seats.
+speaker_heading: KiDS
+dialog: (exhale / sigh)
+dialog: Phew!!!
+speaker_heading: EXT. RIVERSIDE
+speaker_heading: -NIGHT
+dialog: LS of the van at
+text: the bank of the river. After a pause,
+text: the sliding passenger side door opens and we see the veggie kids and dad
+text: peeking out into the moonlit night.
+text: Dust is settling. Bob pops
+text: through the crowd, looks around and exits the van. He looks around a little more.
+speaker_heading: BOB
+dialog: Well. Nobody got hurt!
+dialog: We hear the flying
+text: quill SFX and a doink.
+speaker_heading: BOB (cont'd)
+speaker_heading: AAAAHHHH!
+dialog: BOB looks over his
+text: "shoulder" to find a small quill stuck in his behind. We hear high pitched laughing. Dad looks back up the hill and sees the
+text: three porcupines standing where the van left the road. This time one of the babies has his back to
+text: Bob - as if he were the one responsible for the "shot". His mother and sibling are laughing
+text: approvingly.
+speaker_heading: DAD
+dialog: Wow. What a shot!
+speaker_heading: BOB
+dialog: (in pain)
+speaker_heading: Hrrrgrrr.
+speaker_heading: JR
+dialog: Hey! What's that?
+dialog: Everyone directs
+text: their attention to that which Jr. has observed. It's an old rundown shack under a bridge along the bank of the
+text: river. The lights from the building
+text: glow eerily, dimly illuminating the surrounding landscape. A Red Neon sign reading "SEAFOO"
+text: buzzes. There is a dock attached to the
+text: restaurant to which are tied a couple decrepid rowboats and a larger
+dialog: "pirate" type ship (see "The Pirates that Don't do Anything's"
+text: ship). A fog rises from the river which
+text: overflows onto the land. A FOG HORN
+text: sounds and a SHIP BELL rings. An
+text: occasional SEAGULL call fills the air.
+dialog: Eerie. Cut back to our group's
+dialog: reaction.
+speaker_heading: ALL
+speaker_heading: (except BOB,)
+dialog: Oooooh.
+speaker_heading: ANNIE
+dialog: What's
+speaker_heading: "SEAFOO"?
+speaker_heading: PERCY
+dialog: ... Maybe it's
+dialog: like... tofu.
+speaker_heading: DAD
+dialog: ... Only saltier.
+dialog: Cut back to the
+text: restaurant. A "D" on the end
+text: of the sign flickers a few times, revealing the real word, "SEAFOOD".
+speaker_heading: ALL
+dialog: AAAhhhhh.
+speaker_heading: FADE TO:Black
+dialog: .
+speaker_heading: FADE IN:
+dialog: Interior - night. LOBBY of
+dialog: Seafood restaurant
+dialog: We hear Jr. teasing
+text: Laura and Bob scolding Dad as our group comes through the front door of the
+dialog: seafood restaurant. It's set up like a
+text: typical Red Lobster with a hostess station and waiting area in the lobby,
+text: bathrooms and telephones off to the side and a dining room beyond a clam and
+text: lobster montage arch. Jean Claude and Phillipe Pea are the hosts and are
+text: standing on the host podium. The walls
+text: are filled with every imaginable sea creature - both stuffed and painted. Fishing nets hang. A picture of Ahab and Moby Dick adorns the walls, as well. The atmosphere is very mysterious and
+dialog: "salty." The Pirates Who Don't Do Anything's theme in a
+text: "moody/nautical" style is playing over the audio system. Dialogue is occurring simultaneously:
+speaker_heading: BOB
+dialog: Oh yeah? Well, if it wasn't for you we wouldn't be in
+dialog: this mess!
+speaker_heading: daD
+dialog: I said I was
+dialog: sorry... I'll do better next time!
+speaker_heading: BOB
+dialog: There isn't gonna
+dialog: be a next time!!
+speaker_heading: ANNIE
+dialog: Mr. Bob?... How are
+dialog: we gonna get to the Twippo concert?
+speaker_heading: PERCY
+dialog: Ya! We're gonna
+dialog: miss the bald bunny song!
+speaker_heading: BOB
+dialog: (very disgruntled)
+dialog: I dunno!... I don't
+dialog: know about any bald... bunnies...
+speaker_heading: laURA
+dialog: Even if we make it
+dialog: to the concert - I can't get in! I lost
+dialog: my ticket!
+dialog: JR.
+dialog: Serves you
+dialog: right! It's your own fault for waving
+dialog: it around in my face!!
+speaker_heading: PERCY
+dialog: (singing)
+dialog: I'm a bald bunny,
+dialog: ain't got no fur I'm a bald bunny,
+dialog: brrr brrr brrr.
+speaker_heading: ANNIE
+dialog: I have to go to the
+dialog: bathroom.
+speaker_heading: DAD
+dialog: You know I'm
+dialog: usually not that clumsy in the car...
+dialog: Usually I'm quite dexterous.
+speaker_heading: BOB
+dialog: Two flat
+dialog: tires. How in the world are we gonna
+dialog: change two flat tires?... Where's the
+dialog: phone?...
+speaker_heading: PERCY
+dialog: (singing)
+dialog: I'm a bald bunny,
+dialog: looking kinda silly
+dialog: I'm a bald bunny,
+dialog: feeling really chilly...
+speaker_heading: lauRA
+dialog: (mourning)
+dialog: I lost my ticket!
+speaker_heading: JR
+dialog: (to Laura)
+dialog: If you hadn't been
+dialog: teasing me with it, we might not be in this mess, Laura!
+dialog: 
+dialog: Laura looks down
+scene_heading: sadly. JEAN CLAUDE and PHILLIP PEA
+text: observe our friends as they enter the restaurant and put up with the racket
+dialog: momentarily, then can take no more...
+dialog: Jean claude &
+speaker_heading: phillip
+dialog: (clearing throats, together)
+dialog: eh.. eh.. Ahem...
+dialog: May we help you?
+dialog: Our friends stop in
+text: their tracks and look up to the imposing hosts. They all pause for a moment then blurt out simultaneously:
+speaker_heading: BOB
+dialog: The Asparagus
+text: whacked me in the head with a guitar and our van got taken out by a mad
+dialog: porcupine, then another one got me...
+speaker_heading: BOB turns around
+text: and shows his back side with the quill sticking out.
+speaker_heading: PERCY
+dialog: (singing)
+dialog: Bald, bald, bunny,
+dialog: bunny Look over there
+dialog: bunny! Hair over there
+dialog: bunny!
+dialog: What fur? That fur! There's some fur bald bunny!
+speaker_heading: DAD
+dialog: Maybe it's because
+dialog: I'm used to the ukulele... The neck is so much shorter... Yeah... that's why...
+dialog: Say... I need to call my wife... Do you have a phone?
+speaker_heading: JR
+dialog: Laura was teasing
+dialog: me with her "special ticket," and then it flew right out the window
+text: and she screamed and made the van crash..
+dialog: Jr turns to Laura
+speaker_heading: JR (cont'd)
+dialog: and now none
+dialog: of us get to see Twippo!
+speaker_heading: ANNIE waits for
+text: everyone to finish shouting, then comments sweetly:
+speaker_heading: ANNIE
+dialog: May I please use
+dialog: the bathroom?
+speaker_heading: JEAN CLAUDE and
+text: PHILLIPE look at each other then turn back to the crowd.
+speaker_heading: PHillipe
+dialog: Down the hall,
+text: first door on the left.
+speaker_heading: ANNIE
+dialog: Thank you.
+speaker_heading: ANNIE hops off
+text: toward the bathroom. There is a video
+text: game at the end of the hall, as well.
+text: PERCY looks on.
+speaker_heading: PERCY
+dialog: Oooh! Captain Ahab's Moby Blaster! My favorite!
+speaker_heading: PERCY follows ANNIE
+dialog: down the hall.
+speaker_heading: JEAN CLAUDE
+dialog: What do you want?
+speaker_heading: BOB
+dialog: Well sirs... The
+dialog: Asparagus hit me in the head with a guitar and an angry mother porcupine shot
+dialog: out our tires and one of her babies got me...
+dialog: BOB turns his
+dialog: bottom toward peas
+speaker_heading: JEAN CLAUDE &
+speaker_heading: PHILLIPE
+dialog: oooh.
+speaker_heading: DAD
+dialog: ... and I need to
+dialog: use your phone to call...
+speaker_heading: BOB
+dialog: (cutting off Dad)
+dialog: A tow truck.
+speaker_heading: DAD
+dialog: ...My wife.
+speaker_heading: JEAN CLAUDE
+dialog: I see.
+speaker_heading: PhILLIPE
+dialog: (to Dad)
+dialog: Next to the Moby
+dialog: Blaster.
+speaker_heading: DAD
+dialog: Thanks.
+text: DAD hops off toward
+dialog: the phone. BOB, JR. and LAURA
+dialog: remain.
+speaker_heading: JEAN CLAUDE
+dialog: ... Well... In the
+dialog: meantime, would you like to have a seat?
+dialog: Maybe enjoy a nice... combo platter?...
+dialog: Cheesy DRUMS starts
+dialog: up...
+speaker_heading: JEAN CLAUDE &
+speaker_heading: PHILLIPE
+dialog: (singing)
+dialog: Steak! Steak! Eat it! Eat it!
+dialog: Shrimp! Shrimp!
+dialog: Need it! Need it!
+dialog: Steak and
+dialog: Shrimp! Steak and Shrimp!
+dialog: Need to! Need
+dialog: to! Eat it! Eat it!
+speaker_heading: JEAN CLAUDE and
+text: PHILLIPE do a little dance as they sing.
+text: DRUMS stop as abruptly as they started.
+text: BOB, LAURA and JR look at each other, concerned. BOB returns a cautious nod.
+speaker_heading: INTERIOR -
+scene_heading: NIGHT. DINING ROOM OF SEAFOOD
+speaker_heading: RESTAURANT
+speaker_heading: BOB, LAURA and JR
+text: hop toward their table. They are led by
+text: JEAN CLAUDE (menus in hand) and followed by PHILLIPE. PHILLIPE takes note of the quill in BOB'S behind. THE PIRATES WHO DON'T DO ANYTHING theme
+text: MUSIC plays over the sound system.
+speaker_heading: PhILLIPE
+dialog: Do you prefer
+dialog: "poking" or "non-poking?"
+speaker_heading: BOB returns an
+text: annoyed, forced laugh to PHILLIP'S bad pun.
+speaker_heading: BOB
+dialog: heh heh heh... non.
+speaker_heading: JEAN CLAUDE
+dialog: Good one
+dialog: Phillipe! You are one clever pea, no?
+speaker_heading: PHILLIPE
+dialog: (with his little French laugh)
+dialog: Un huh huh!
+speaker_heading: PHILLIPE
+text: "yanks" the quill out. This
+text: can be implied with a sound effect ("doink") and then showing
+text: Phillipe holding the quill.
+speaker_heading: BOB
+speaker_heading: AAAH!
+speaker_heading: PHILLIPE stops hopping
+text: and stands there examining the quill as JEAN CLAUDE continues with the other
+dialog: three.
+speaker_heading: PHILLIPE
+dialog: (looking at quill)
+dialog: Whala! A skewer for zee scampi!
+speaker_heading: PHILLIPE hops back
+text: toward the kitchen, revealing (rack focus) three scraggly pirates in a
+dialog: booth. It's "The Pirates Who Don't
+text: Do Anything": Pa Grape, Mr. Lunt and Larry. They join into the intercom music lazily singing like old high
+dialog: school football players reminiscing about their glory days:
+speaker_heading: PIRATES
+dialog: (Singing)
+dialog: We are The Pirates
+dialog: Who Don't Do Anything! We just stay
+dialog: home and lie around! And if
+dialog: you ask us to do anything,
+dialog: We'll just tell
+dialog: you...
+dialog: We don't do
+dialog: anything!
+speaker_heading: Cut back to JEAN
+text: CLAUDE, BOB, JR and LAURA as they reach their booth. Coincidently, it is right beside where the pirates are
+text: sitting. The booths are divided by a
+dialog: sheet of translucent Plexiglas. We hear
+text: the light, lazy banter of the pirates (having finished their little chorus)
+text: beyond the glass as background noise.
+speaker_heading: JEAN CLAUDE
+dialog: Please make
+dialog: yourselves comfortable, I will be back to take your orders...
+speaker_heading: JEAN CLAUDE places
+text: menus on table and hops away.
+speaker_heading: BOB
+dialog: Why don't you two
+dialog: wait here. I'm gonna go call a tow
+dialog: truck. Maybe we can still make it to
+dialog: the concert on time.
+text: BOB hops off.
+speaker_heading: lAURA
+dialog: (sadly)
+dialog: Yeah... everyone
+dialog: but me...
+speaker_heading: jR
+dialog: Hey, it's your own
+dialog: fault for teasing me! You're just
+dialog: getting what you deserve!
+dialog: LAURA is frustrated
+text: and hurt. She looks to BOB hopping off.
+text: Jr. smiles, self-righteously.
+speaker_heading: LAURA
+dialog: (frustrated noise)
+dialog: Hrrrrrrrg... I'm coming
+dialog: with you Mr. Bob...
+speaker_heading: PIRATES
+dialog: [add lib lazy
+dialog: comments]
+dialog: LAURA hops off
+text: after BOB. JR remains at the table,
+text: gloating in the "divine justice" of Laura's plight. He looks around the restaurant, taking in
+text: the surroundings - which are slightly eerie once again. He can see the silhouettes of the pirates
+text: through the Plexiglas. They continue
+text: their banter. He realizes he is alone,
+text: and feels a little frightened.
+dialog: We return to JR. at
+text: the table. He nervously looks around,
+text: then spots the menu in front of him. He opens it up and starts to read. We scan it as he reads...
+dialog: STEAK AND SHRIMP ... $10.00
+speaker_heading: SCAMPI ON A
+dialog: SKEWER ...
+dialog: $7.50
+speaker_heading: SCAMPI ON A
+speaker_heading: CLEAN SKEWER ... $10.00
+scene_heading: COMPASSION ... MARKET PRICE
+dialog: This last item
+text: seems odd to JR. He raises an eyebrow. We hear a SLIDING SFX.
+speaker_heading: PA GRAPE
+dialog: Excuse me!
+dialog: JR is taken by
+text: surprise and startles. He drops his menu, revealing the pirates. They have slid back the translucent
+text: Plexiglas from between the booths and now seem quite close. They're all staring at JR.
+speaker_heading: JR
+speaker_heading: AAAAAH!
+speaker_heading: LARRY
+dialog: How's it goin?
+speaker_heading: MR. LUNT
+dialog: Hey. What's up?
+speaker_heading: JR
+dialog: (still scared)
+dialog: Who are you?
+speaker_heading: PIRATES look around
+dialog: and behind themselves.
+speaker_heading: PA GRAPE
+dialog: Who us?
+dialog: JR thought the
+dialog: question was obvious.
+speaker_heading: JR
+dialog: ...Yeah...
+speaker_heading: PA GRAPE
+dialog: Oh!... We are...
+dialog: "The Pirates Who Don't Do Anything!"...
+speaker_heading: MR. LUNT
+dialog: Oh you know that's
+dialog: right.
+speaker_heading: LARRY
+dialog: Nothin'.
+speaker_heading: MR. LUNT
+dialog: Zilch.
+speaker_heading: LARRY
+dialog: Nada.
+speaker_heading: PA GRAPE
+dialog: ... Didn'tcha hear
+dialog: our song?
+speaker_heading: JR
+dialog: Well.. yeah...
+dialog: but...
+speaker_heading: PA GRAPE
+dialog: Look... Sonny...
+dialog: Can I call you Sonny?
+speaker_heading: JR
+dialog: Junior.
+speaker_heading: PA GRAPE
+dialog: Hey! Pretty
+dialog: close! Look... Junior... We couldn't help but notice you were havin'
+dialog: a little thing with your friend over there.
+speaker_heading: MR. LUNT
+dialog: Yeah. You weren't being very nice...
+speaker_heading: JR
+dialog: Well, it's her own
+dialog: fault! She was teasing me and now she's
+dialog: getting what she deserves!
+speaker_heading: PA GRAPE
+dialog: Right.
+dialog: (pause)
+dialog: Junior... we've
+dialog: seen these types of situations before.
+speaker_heading: MR. LUNT
+dialog: Happens all the
+dialog: time.
+speaker_heading: PA GRAPE
+dialog: What you need is a
+dialog: little compassion.
+speaker_heading: LARRY
+dialog: ...And maybe some
+dialog: scampi.
+dialog: JR throws off
+dialog: LARRY'S comment and comments to PA;
+speaker_heading: JR
+dialog: Hey... I saw that
+dialog: in the menu... What is that? What's
+dialog: compassion?
+speaker_heading: MR. LUNT
+dialog: Ooh. That's a hard question.
+speaker_heading: LARRY
+dialog: Mmmm Hmmm.
+speaker_heading: PA GRAPE
+dialog: Well... Compassion
+dialog: is when ya see that someone needs help, and ya wanna help 'em!
+text: JR looks confused.
+speaker_heading: PA GRAPE (cont'd)
+dialog: That's what I
+dialog: thought you'd say.
+speaker_heading: MR. LUNT
+dialog: They all do.
+speaker_heading: LARRY
+dialog: Yep.
+speaker_heading: PA GRAPE
+dialog: We find it helpful
+text: to illustrate with a little story.
+dialog: JR seems
+dialog: interested.
+speaker_heading: JR
+dialog: A story?
+speaker_heading: PA GRAPE
+dialog: Yep. You know, we call ourselves, "The
+dialog: Pirates Who Don't Do Anything."
+dialog: But that's not entirely accurate...
+speaker_heading: MR. LUNT
+dialog: Yeah! Remember when we did that one thing... with
+dialog: that one guy?
+speaker_heading: PA GRAPE
+dialog: Oh do I ever...
+speaker_heading: LARRY
+dialog: (dreamily)
+dialog: I remember it like
+dialog: it was yesterday...
+speaker_heading: FADE TO:
+dialog: ext - day. marketplace of small, israeli town.
+dialog: 3
+text: pirates approach merchant's booth. Mr.
+text: Nezzer is merchant. He eyes them
+text: suspiciously, but with mild amusement, like one eyes the town eccentric who
+text: insists on wearing his underpants on the outside.
+dialog: nezzer
+dialog: Are you guys still
+dialog: doin' that 'pirate thing?'
+dialog: lunt
+dialog: (resents statement)
+dialog: Arrgh!! Watch yer tongue matey, or we'll hafta...
+dialog: (to comrades after beat)
+dialog: What will we do?
+dialog: larry
+dialog: We won't do
+dialog: anything. We're 'The Pirates Who Don't
+dialog: Do Anything', remember?
+dialog: lunt
+dialog: (let down)
+dialog: Oh, that's right.
+dialog: (fierce again)
+dialog: Arrgh! Ya got off easy today!
+dialog: Nezzer gives him a
+dialog: 'whatever' look and goes about his business.
+speaker_heading: laRRY
+dialog: We need more
+dialog: "Mister Twisty's Twisted Cheese Curls!"
+speaker_heading: pa GRAPE
+dialog: Ya! And root beer!
+speaker_heading: nEZZER
+dialog: I told you boys -
+dialog: no more cheese curls until you pay your tab!
+dialog: You still owe me from last week!
+speaker_heading: LuNT
+dialog: But, you'll take
+dialog: away out chance to win the "Mister Twisty's Twisted Cheese Curl
+dialog: Sweepstakes!"
+dialog: Nezzer
+dialog: ... Come again?
+speaker_heading: Pa GRAPE
+dialog: Inside one of those
+dialog: bags of cheesy goodness is a golden ticket that'll change our lives forever!!
+speaker_heading: NeZZER
+dialog: (thinks)
+dialog: Well... you could
+dialog: work here for me... That way you could EARN more cheese curls...
+speaker_heading: PiRATES
+dialog: [Great! Okay!
+dialog: Sounds good! etc.]
+speaker_heading: NEZZER
+dialog: So, uh... Whadaya
+dialog: know how to do?
+dialog: Pirates think.
+speaker_heading: Pa GRAPE
+dialog: Well... I'm pretty
+dialog: good at lawn darts...
+speaker_heading: LarRY
+dialog: Ping-pong! I can
+dialog: play ping-pong!
+speaker_heading: LunT
+dialog: Croquet is my
+dialog: spe-ci-al-ity...
+dialog: Nezzer just stares
+dialog: at them.
+speaker_heading: Pa GRAPE
+dialog: When do we start?
+dialog: Nezzer slams the
+text: gate down on his booth.
+speaker_heading: Pa GRAPE (cont'd)
+dialog: Monday's good for
+dialog: me...
+speaker_heading: pA narrator (V.O.)
+dialog: We were short on
+dialog: cash. It seems not doin' anything
+dialog: didn't pay very well.
+dialog: lunt
+dialog: So, what do we do
+dialog: now?
+speaker_heading: laRRY
+dialog: Mmm - nothing.
+speaker_heading: LuNT
+dialog: You are a genius!
+dialog: Pirates exit,
+text: passing by booth where Man is buying fish from Ninevites. 2 Ninevites have a pile of old fish in front
+text: of them. Flies buzz around the pile.
+dialog: Man
+dialog: Are these fish
+dialog: fresh?
+speaker_heading: jeAN CLAUDE
+dialog: You bet!
+speaker_heading: PhilLIPE
+dialog: Oh, ya!
+dialog: Man sniffs - fish
+text: are obviously rotten. He nearly faints,
+text: then turns and walks away indignantly.
+dialog: Man
+dialog: Oh!
+speaker_heading: jeAN CLAUDE
+dialog: What?!? They were
+dialog: fresh when we caught them...
+speaker_heading: PhILLIPE
+dialog: Zat's right...
+speaker_heading: JeaN CLAUDE
+dialog: ...two weeks ago!!
+speaker_heading: Jean CLAUDE &
+speaker_heading: PHILLIPE
+dialog: Ha ha! Ha ha ha! Ha
+dialog: hee!
+dialog: Other Ninevite
+dialog: laughs.
+dialog: Cut to Larry -
+dialog: looking on.
+speaker_heading: larrY
+dialog: (concerned/disgusted)
+dialog: Mm. Ninevites.
+speaker_heading: pa narrator (VO)
+dialog: Beside the fact
+dialog: that we were low on funds, this was a memorable day because he showed
+dialog: up!
+dialog: Larry and others
+text: turn to look at a tall figure entering the market. It is JONAH (Archibald Asparagus), riding very regally on his camel REGINALD. As Pa speaks, we watch Jonah ride into the
+text: market as well as the reactions of the crowd to the presence of a prophet. (SCORE - Theme 2B-271.)
+dialog: pa narrator (cont'd)
+dialog: Jonah!
+dialog: (musical sting)
+dialog: Now Jonah was a
+dialog: prophet of God - which means he was one of the very special people God used to
+dialog: deliver messages to Israel. He was kind
+dialog: of like a mailman, except his letters came straight from God!!
+dialog: (Pa gets a little too excited on that line.)
+dialog: Ahem. Anyway...
+dialog: Jonah loved helping his friends by bringing them God's messages. Sometimes the
+dialog: messages were good, sometimes they were not so good. But when a prophet talked, everybody listened!
+speaker_heading: nEZZER
+dialog: (yelling out)
+dialog: What's the word,
+dialog: Jonah?
+dialog: townspeople
+dialog: (various)
+dialog: (What's the
+dialog: word? Yeah, what's the word?)
+dialog: Jonah looks around
+text: smartly, then pulls up his camel.
+dialog: jonah
+dialog: Stop right here,
+dialog: Reginald.
+dialog: Reginald
+speaker_heading: Rpbbpbpbf!
+dialog: Reginald snuffles
+text: and pulls up short. From his demeanor,
+text: it is obvious that he too, is British.
+text: Jonah glances around for a moment, then speaks. Music starts.
+speaker_heading: joNAH
+dialog: Dear people, I
+dialog: bring you a message from the Lord!
+dialog: The crowd catches
+text: their breath and stiffens, fearing the worst.
+dialog: Crowd
+dialog: Gasp!
+speaker_heading: joNAH
+dialog: Oh... it's a
+dialog: message of encouragement!
+speaker_heading: CROWD
+dialog: Phew! (Sigh?)
+dialog: Crowd relaxes
+dialog: visibly.
+speaker_heading: jonAH
+dialog: (singing)
+dialog: Do not fight,
+dialog: Do not cheat,
+dialog: Wash your hands
+dialog: before you eat,
+dialog: There is nothing
+dialog: quite as sweet - a message from the Lord!
+dialog: 
+dialog: Be a friend,
+dialog: Say your
+dialog: prayers,
+dialog: Heaven loves a
+dialog: heart that cares,
+dialog: That is why I've
+dialog: come to share a message from the Lord!
+dialog: 
+dialog: And if you follow
+dialog: God's commands -
+dialog: There will be peace
+dialog: throughout the land!
+dialog: You will live long
+dialog: and happy lives!
+dialog: With your sheep -
+dialog: your kids - your wives!!
+speaker_heading: joNAH (cont'd)
+dialog: (singing)
+dialog: Don't eat pigs,
+dialog: Show merchant selling pork products. He
+text: tries to look inconspicuous.
+speaker_heading: jonah (cont'd)
+dialog: Don't eat bats.
+speaker_heading: MERCHANT #2 is selling
+dialog: "bat-on-a-sticks". He tries
+dialog: to look inconspicuous.
+speaker_heading: jonah (cont'd)
+dialog: Don't eat beetles,
+text: flies or gnats.
+speaker_heading: MERCHANT #3 is
+dialog: selling, you guessed it, bug burgers.
+text: He too, tries to look inconspicuous.
+speaker_heading: jonah (cont'd)
+dialog: Stay away from all
+dialog: of that! A message from the Lord!
+dialog: 3 merchants pull
+text: out new signs or flip tables over. All
+dialog: 3 are now selling bagels.
+speaker_heading: jonah (cont'd)
+dialog: (singing)
+dialog: Do what's right,
+dialog: Don't provoke,
+dialog: Jonah approaches
+scene_heading: MAN WEARING CLOAK.
+speaker_heading: joNAH (cont'd)
+dialog: (singing)
+dialog: Put four tassels on
+dialog: your cloak.
+dialog: KID next to man
+dialog: cracks up.
+speaker_heading: joNAH (cont'd)
+dialog: (singing)
+dialog: Do not laugh, it's
+dialog: not a joke! A message from the Lord!
+dialog: Townspeople start
+text: to pick up song. Jonah echoes each line
+dialog: with a "That's right! Now you've
+dialog: got it!" Etc.
+dialog: Townspeople
+dialog: (singing)
+dialog: Do not fight,
+dialog: Do not cheat,
+dialog: woman #1
+dialog: Wash your hands
+dialog: before you eat,
+dialog: man #1
+dialog: There is nothing
+dialog: quite as sweet -
+speaker_heading: WOman #2
+dialog: a message from the
+dialog: Lord!
+speaker_heading: joNAH
+dialog: All together now!
+speaker_heading: towNSPEOPLE
+dialog: (singing)
+dialog: Be a friend,
+dialog: Say your
+dialog: prayers,
+dialog: Heaven loves a
+dialog: heart that cares,
+dialog: That is why he came
+dialog: to share a message from the Lord!
+dialog: Repeat stanza
+dialog: instrumentally. Tempo picks up -
+text: townspeople break into 'Oklahoma'-style dance around market. Townspeople resume singing at new tempo.
+speaker_heading: towNSPEOPLE (cont'd)
+dialog: And if we follow
+dialog: God's commands -
+dialog: Women in Cart
+dialog: Yodel-ah-ha-ah
+dialog: Townspeople
+dialog: There will be peace
+dialog: throughout our land!
+speaker_heading: WoMEN IN CART
+dialog: Yodel-ah-ha-ah
+speaker_heading: ToWNSPEOPLE
+dialog: We will live long
+dialog: and happy lives!
+dialog: With our sheep -
+dialog: our kids - our wives!!
+dialog: 
+dialog: Do what's right,
+dialog: Don't provoke,
+dialog: Put four tassels on
+dialog: your cloak.
+dialog: Do not laugh, it's
+dialog: not a joke! A message from the Lord!
+speaker_heading: joNAH
+dialog: Don't do drugs!
+dialog: Stay in school!
+dialog: cockney townsperson
+dialog: This is quite a lot
+dialog: of rules!
+speaker_heading: joNAH
+dialog: Follow them and
+dialog: you're no fool, a-
+speaker_heading: townSPEOPLE
+dialog: Follow them and
+dialog: you're no fool, a-
+speaker_heading: joNAH
+dialog: Follow them and
+dialog: you're no fool,
+dialog: all
+dialog: A message from the
+dialog: Lord!!
+speaker_heading: joNAH
+dialog: Follow them and
+dialog: you're no fool,
+dialog: all
+dialog: A message from the
+dialog: Lord!
+dialog: A message from the
+dialog: Lord!!
+dialog: Crowd strikes a
+text: final pose - holds it for a few beats - then everyone goes back to their
+dialog: business.
+speaker_heading: joNAH
+dialog: Alright, good show
+dialog: everyone! Thank you very much!
+speaker_heading: pa nARRATOR (vo)
+dialog: That was pretty
+dialog: much Jonah's life! Town to town... bringing God's messages to his friends...
+dialog: not a bad gig, overall!
+dialog: 
+speaker_heading: diSSOLVE TO:
+text: ext - night. outside jonah's tent.
+dialog: Small, colorful
+text: tent set up on the edge of town. (Big
+dialog: enough to stand up in, but wouldn't hold more than 3 or 4 people.) Oil lamp is primary source of light, hanging
+text: near tent's small window.
+speaker_heading: disSOLVE TO:
+text: int - night. inside jonah's tent.
+dialog: Jonah is ready for
+text: bed, praying. Either seated or
+dialog: standing, depending on acting logistics.
+text: There is a map of Israel on the wall, painted on a large piece of
+text: papyrus. The map extends just enough to
+text: show Nineveh in the far upper right corner.
+speaker_heading: pa nARRATOR
+dialog: So, every night
+dialog: before he went to sleep, Jonah would pray and ask God if there was a new
+dialog: message for him to deliver. And this
+dialog: night, there was a message that would change Jonah's life!
+dialog: 
+speaker_heading: jonAH
+dialog: (eyes closed - 'conversing' with God)
+dialog: A new message...
+dialog: yes... what's that? People being
+dialog: unkind? Lying? Stealing?
+dialog: Oh, dear! Sounds like a standard
+dialog: "turn and repent" to me.
+dialog: Alright... name the town! I'll
+dialog: be on my way first thing in the morning!
+dialog: Where is it? Jericho? Damascus?
+dialog: (pause)
+dialog: What? Nineveh?
+dialog: Jonah opens his
+text: eyes and scans his map.
+speaker_heading: joNAH (cont'd)
+dialog: (confused)
+dialog: I'm not aware of
+dialog: any Nineveh's in Israel... no, I don't think...
+dialog: (pause - eyes widen)
+dialog: Oh... you mean that
+dialog: Nineveh?
+speaker_heading: PA NARRATOR
+dialog: (Pan and zoom across map to Nineveh.)
+dialog: That Nineveh wasn't in Israel at all! It was the capital of Assyria and it was the
+dialog: biggest, meanest city around!
+dialog: (Show dark, scary city)
+dialog: Now, the people of
+dialog: Nineveh were particularly mean to Jonah's people - the Israelites. They lied!
+dialog: They stole! But worst of all,
+dialog: they slapped people with fishes!
+dialog: (Show Ninevites doing the above to several Israelites)
+dialog: Ninevite pea
+dialog: Yes!!
+speaker_heading: PA NARRATOR
+dialog: They even slapped
+dialog: each other with fishes! They didn't
+dialog: know the difference between right and wrong.
+dialog: The Ninevites were so mean, in fact, that most Israelites - including
+dialog: Jonah - wished God would just wipe Nineveh off the face of the Earth!
+dialog: (Show fire from heaven consuming Nineveh - comically)
+dialog: Ninevite pea
+dialog: (yelling)
+dialog: Pa Narrator
+dialog: Needless to say, Jonah was shocked that God
+dialog: would want him to deliver a message to his enemies
+dialog: Back to Jonah.
+speaker_heading: JONAH
+dialog: (confused)
+dialog: You - you don't
+dialog: want me to go there.... You don't know
+dialog: what Nineveh is like! Perhaps you've
+dialog: never been there... Well, of course, you haven't! A god like you would never go to a place like Nineveh! For that matter, either would a prophet like
+dialog: me! Ha ha..
+dialog: (nervous laugh - then singing )
+dialog: No, it cannot
+dialog: be...
+dialog: Your messages
+dialog: are meant for me... and my brothers.
+dialog: We are you're
+dialog: chosen people - and Nineveh... well, they're not!
+dialog: 
+dialog: There must be
+dialog: some mistake - a big misunderstanding.
+dialog: It's really hard
+dialog: to take - how could you be so demanding?
+dialog: 
+dialog: For years I've
+dialog: been your messenger from Moresheth to Gath.
+dialog: But Nineveh
+dialog: should get no chance to turn - they've earned your wrath!
+dialog: 
+dialog: No, it cannot
+dialog: be...
+dialog: Your messages
+dialog: are meant for me... and my brothers.
+dialog: We are you're
+dialog: chosen people - and Nineveh... well, they're not!
+dialog: 
+dialog: (speaking)
+dialog: We're the good
+dialog: guys... they're the bad guys! Please,
+dialog: don't send me there with a message of your mercy!
+dialog: 
+dialog: (singing)
+dialog: Damascus or
+dialog: Jerusalem - I'll be there in a minute!
+dialog: Any town in
+dialog: Israel, just ask me! I'll be in it!
+dialog: 
+dialog: Shiloh, Gilgal,
+dialog: Jericho - just say the word!
+dialog: But Nineveh -
+dialog: that is just absurd!
+dialog: Joppa, Aphek,
+dialog: Jezreel - they're all just fine -
+dialog: But Nineveh...
+dialog: (thoughtful)
+dialog: oh, Nineveh...
+dialog: (resolute)
+dialog: No! Nineveh is where I draw the line!
+text: Jonah rips off
+text: section of map containing Nineveh on closing beat, cutting a clear line across
+dialog: map.
+dialog: cut TO:
+text: ext - night. Jonah's tent. near ground angle.
+dialog: Glow in tent window
+text: is the only warm tone in an otherwise blue night scene. He's the only one awake in town. Jonah flings the crumpled up piece of map
+text: out the window. It bounces up near the
+dialog: camera.
+dialog: cut TO:
+dialog: int - Jonah's tent.
+dialog: Jonah lies back on
+text: his mat, staring up thoughtfully.
+speaker_heading: jonAH
+dialog: (singing)
+dialog: No, it cannot
+dialog: be...
+dialog: Your messages
+dialog: are meant for me.
+dialog: 
+text: He turns away from
+text: the camera and the wind picks up,
+text: blowing out his small OIL LAMP.
+dialog: cut to black.
+dialog: int - night. seafood restaurant
+dialog: Besides Junior, a
+text: few more people have gathered around to hear the story, Laura included. They are entranced.
+dialog: Laura is now
+text: sitting beside Junior, listening.
+speaker_heading: pa GRAPE
+dialog: Yup. It sounded like God wanted to offer mercy to
+dialog: Jonah's enemies.
+dialog: Bob returns,
+text: sliding into the booth, oblivious to the story.
+dialog: bob
+dialog: The tow truck's on
+dialog: it's way. Ya know, Junior, I love your
+dialog: dad and all, but that's the last time I pick him for a copilot
+dialog: Bob notices the
+dialog: pirates staring.
+speaker_heading: bOB (cont'd)
+dialog: Uh... what's going
+dialog: on?
+text: Lunt slurps on his
+text: straw. Pa stares at him for a beat.
+speaker_heading: pa GRAPE
+dialog: Ahem... We're
+dialog: telling a little story. You should
+dialog: listen, too.
+text: Bob glances around,
+text: then nods and smiles feebly.
+speaker_heading: pa GRAPE (cont'd)
+dialog: As I was saying, it
+dialog: sounded like God wanted to offer mercy to the Ninevites.
+dialog: laura
+dialog: What's 'mercy'?
+dialog: lunt
+dialog: It's what this
+dialog: whole story is about!
+dialog: junior
+dialog: I thought it was
+dialog: about compassion... remember? The menu?
+dialog: Mr. Lunt looks a
+dialog: little embarrassed.
+dialog: lunt
+dialog: Uh, yeah. There's that, too.
+speaker_heading: pa GRAPE
+dialog: Better check your
+dialog: menu again - we got TWO specials today... and they go hand in hand!
+dialog: Junior picks up his
+text: menu, just in time to see "MERCY..... MARKET PRICE" fade in right
+dialog: beneath compassion.
+dialog: larry
+dialog: Compassion is when
+dialog: you want to help someone who needs help.
+dialog: Mercy is when you give someone a second chance... even if they don't
+dialog: deserve it! This story is about both of
+dialog: them!
+speaker_heading: PA GRAPE
+dialog: That's right, my
+dialog: cucumber friend. Ya can't have mercy
+dialog: without compassion... but mercy is even more important! Jonah was afraid God was going to give
+dialog: Nineveh a second chance - that he was going to help them even though they
+dialog: didn't deserve it!
+dialog: laura
+dialog: So what did he do?
+speaker_heading: dissOLVE TO:
+dialog: ext - day. outside
+dialog: jonah's tent.
+speaker_heading: pa nARRATOR
+dialog: Well, never before
+dialog: had he gotten a message from God that he didn't want to deliver! He didn't know what to do!
+dialog: Jonah backs out of
+text: tent, shutting the flap behind him. No
+text: sooner does he turn around, than he is greeted warmly by townspeople.
+dialog: jerry
+dialog: Good morning,
+dialog: Jonah! What's the word?
+dialog: Jonah starts to
+dialog: panic.
+speaker_heading: joNAH
+dialog: What? Nothing!
+dialog: There is no word!
+dialog: jerry
+dialog: (surprised)
+dialog: Nothing at all?
+speaker_heading: joNAH
+dialog: No!! Nothing at all! Now, if you'll excuse me, I'm very busy!
+dialog: Jonah hurries off,
+text: only to be greeted by another townsperson.
+speaker_heading: neZZER
+dialog: Good morning
+dialog: Jonah! What's the word?
+speaker_heading: joNAH
+dialog: (very panicky)
+dialog: Stop it!! There is no word!! Nothing!!
+dialog: (to himself)
+dialog: I've got to get out
+dialog: of here!
+dialog: Jonah starts to
+text: run. Nezzer looks after, confused.
+speaker_heading: joNAH (cont'd)
+dialog: (running, looking over shoulders to make sure no one's following)
+dialog: There is no
+dialog: word... I have no new messages!!
+dialog: And above all, I am
+dialog: not... going... to... Nineveh!!
+dialog: Jonah runs face
+text: first into giant map of middle east, posted next to a merchant's booth advertising
+dialog: cruise tickets.
+dialog: cut TO:
+dialog: ext - day.
+dialog: dockside.
+dialog: The merchant is
+text: SCOOTER. He has a small booth right at
+text: the edge of the dock. He sells tickets
+dialog: for cruises out of this small port.
+text: There are several ships docked behind him, one of which belongs to the Pirates.
+dialog: scooter
+dialog: Sorry, sir! I can't sell ya a ticket to Nineveh!
+speaker_heading: jonAH
+dialog: (confused)
+dialog: What?!? Who are you?!?
+dialog: scooter
+dialog: The name's
+dialog: Angus. I sell cruise tickets! There's nothing like a cruise on the Great
+dialog: Sea ta clean the sand outa yer wicket, aye?
+dialog: But ya can't sail ta Nineveh!
+dialog: It's landlocked! See?
+dialog: (gestures with a loud 'thwack!' to map with pointer)
+dialog: Ya can't go by
+dialog: sea... ya gotta go by land!
+speaker_heading: jonAH
+dialog: (still confused)
+dialog: But I don't want to
+dialog: go to-
+dialog: Jonah is
+text: interrupted by passing townspeople
+speaker_heading: wOMAN #1
+dialog: Oh, hello Mr.
+dialog: Jonah! What's the word?
+speaker_heading: sCOOTER
+dialog: Ah! He's goin' ta Nineveh!!
+speaker_heading: wOMAN #1
+dialog: Oh, really?
+speaker_heading: jonAH
+dialog: (erupts)
+dialog: I am not
+dialog: going to Nineveh! Why on Earth would I
+dialog: want to go to Nineveh?!? In fact, I'm
+dialog: going in the opposite direction!
+dialog: (looks to map)
+dialog: What's the furthest
+dialog: thing in the world from Nineveh?
+speaker_heading: SCOOTER
+dialog: Well if you have a
+dialog: few days, you could sail down to Egypt... it's lovely this time of year...
+dialog: Something on the
+text: map has caught Jonah's eye. He isn't
+dialog: listening.
+speaker_heading: jonAH
+dialog: There! I want to go there!
+dialog: Camera follows
+text: Jonah's gaze to the far end of the map - to an area called
+dialog: "Tarshish."
+speaker_heading: SCOOTER
+dialog: Wha-? Tarshish?
+dialog: Why, that would take weeks! It's
+dialog: the other end of the world!!
+speaker_heading: jonAH
+dialog: Perfect! How much?
+speaker_heading: SCOOTER
+dialog: Even if you had the
+dialog: money, no one around here has the time to sail all the way to Tarshish...
+dialog: Scooter notices one
+text: of the Pirates lounging above deck in a recliner, listening to their theme song
+text: on a cheap, AM radio.
+speaker_heading: scoOTER (cont'd)
+dialog: Then again...
+dialog: Jonah notices Pirates
+dialog: as well.
+dialog: cut TO:
+dialog: ext - day. Pirate ship - above deck.
+dialog: All 3 Pirates are
+dialog: lined up, explaining why they can't possibly sail to Tarshish.
+speaker_heading: pa GRAPE
+dialog: (overlapping)
+dialog: We couldn't
+dialog: possibly... we're very busy with... cargo... and stuff...
+dialog: lunt
+dialog: You know, Pirates
+dialog: have to pillage and plunder and... uh, that really takes it out of you...
+dialog: larry
+dialog: ... and Alf is on
+dialog: in a half-hour so I don't think we should... uh...
+speaker_heading: pa GRAPE
+dialog: ... and besides
+dialog: that, we don't really sail.
+dialog: (beat)
+dialog: At all.
+dialog: (beat)
+dialog: So the answer is
+dialog: 'no.'
+speaker_heading: jonAH
+dialog: (after a pause)
+dialog: Money is no object.
+dialog: Pregnant
+text: pause. The Pirates are motionless. Then Pa Grape breaks the silence.
+speaker_heading: pa GRAPE
+dialog: Next stop,
+dialog: Tarshish! I'll hoist the mainsail!
+dialog: larry
+dialog: I'll pop the
+dialog: popcorn!
+speaker_heading: lunT
+dialog: I'll get the moist
+dialog: towelettes! Where did we put them? Hey, Larry, have you seen the towelettes?
+speaker_heading: LarrY
+dialog: I got it! I got it!
+speaker_heading: LuNT
+dialog: No, those are baby
+dialog: wipes. They'll dry your skin out.
+dialog: Pirates scurry
+dialog: around like crazy, imagining all the cheese curls their newfound wealth will
+text: buy. Jonah smiles - relieved - but then
+text: looks a bit concerned as he realizes he is now 'officially' running away from
+dialog: God.
+dialog: The Pirates prattle
+text: on as their ship moves away from the dock under full sail. Sailing erratically, they careen into the
+text: ship next to them as they head toward the open sea.
+dialog: pa grape (os)
+dialog: Sorry! My fault!!
+speaker_heading: Pa NARRATOR
+dialog: Even though we'd
+dialog: never sailed before, we took to it like a fish to water!
+dialog: Cut to Larry
+text: standing dramatically in the crow's nest, spyglass to his eye. He scans the sea
+text: aggressively. He spots something.
+speaker_heading: LarrY
+dialog: Thar she blows!
+dialog: Cut to Lunt,
+text: staring up at him from the deck
+speaker_heading: LuNT
+dialog: Where?
+speaker_heading: LarrY
+dialog: (looking down at the deck)
+dialog: Right there! Next
+dialog: to the grill!
+dialog: We cut to Larry's
+text: POV through the telescope to show a ping-pong ball on the deck of the ship next
+text: to the BBQ grill. Lunt moves into shot. Cut to Lunt on deck.
+speaker_heading: LUNT
+dialog: Got it!
+dialog: Lunt takes the ball
+text: to the pint pong table. Pa is standing on the top of one side of the table with
+text: paddle. Jonah stands behind the opposite side, holding paddle lethargically.
+speaker_heading: Pa GRAPE
+dialog: 6-0!
+dialog: Pa serves the ball.
+text: It bounces right past Jonah, who makes no attempt to hit it. He's too depressed
+text: to try. He watches it bounce off the table and over toward the grill.
+speaker_heading: Pa GRAPE (cont'd)
+dialog: 7-0! That's a
+dialog: skunk! I win!
+dialog: Jonah looks on
+text: dryly. Lunt and Larry cheer.
+dialog: Lunt and Larry
+dialog: Yeah! Yippee
+speaker_heading: Pa GRAPE
+dialog: Whadaya say, Jonah?
+dialog: 2 out of 3?
+speaker_heading: JoNAH
+dialog: Ahh... No. I'm
+dialog: done.
+dialog: Jonah turns and
+text: listlessly walks away from the table.
+speaker_heading: PA GRAPE
+dialog: Argh! When we get
+dialog: to Tarshish, Ho-ho's! On me!
+speaker_heading: LuNT AND LARRY
+dialog: Yeah! Yippee
+dialog: (cheering in unison!)
+dialog: We winny at the
+dialog: ping pong!
+dialog: We get the ho-ho
+dialog: and the ding dong!
+dialog: Ding-dong!
+dialog: Cut to shot from
+text: the bulkhead ad Jonah listlessly walks toward stairs to go below deck.
+speaker_heading: pa nARRATOR
+dialog: Once we finally got
+dialog: out to sea, Jonah went below deck to rest a bit.
+dialog: cut TO:
+text: int - day. SHIP'S HOLD.
+dialog: Typical ship's
+text: hold. Dark and musty. Bags of grape leaves on floor, barrels of
+text: who-knows-what, etc. Two bunks hang off
+text: one wall - one over the other. Light
+text: comes from several oil lanterns, plus some natural light down ladder from above
+text: deck and through cracks in planking above.
+text: Jonah enters and looks around.
+speaker_heading: joNAH
+dialog: (a little depressed)
+dialog: Oh, what have I
+dialog: done? What have I done?
+dialog: Jonah grabs bag of
+text: grape leaves and tosses it on bunk to use as a pillow. He drops onto the bunk on his back, with his
+text: head on the bag, unaware that there is a large worm in the bag he has chosen.
+dialog: tape
+dialog: (from bag)
+dialog: You are powerful
+dialog: and attractive.
+dialog: jonah
+dialog: (glances around nervously)
+dialog: What? Who's there?
+speaker_heading: TAPE
+dialog: You do not run from
+dialog: your problems, but confront them face-to-face.
+speaker_heading: joNAH
+dialog: (jumping up)
+dialog: Ah!! The bag! It speaks!
+dialog: Throws bag against
+dialog: opposite wall.
+dialog: Khalil
+dialog: (from pillow)
+dialog: Ow! What did you do that for?
+speaker_heading: joNAH
+dialog: Mr. Twisty? ...
+dialog: Who's there? Show yourself!
+text: Worm crawls up on
+text: barrel or something. He is holding
+text: headphones, which he places back in the bag of leaves. Jonah has never seen a
+dialog: worm exactly like this one.
+dialog: Khalil
+dialog: Hello!
+speaker_heading: joNAH
+dialog: What are you?
+speaker_heading: KHALIL
+dialog: Who, me?... Oh, my
+dialog: name is Khalil. I am a
+dialog: caterpillar. Well, that's only half
+dialog: true. My mother was a caterpillar. My father was a worm. But I'm okay with that now.
+speaker_heading: joNAH
+dialog: (can't pronounce)
+dialog: Khalil?
+dialog: khalil
+dialog: Khalil. You've got to get your gut into it.
+dialog: (pause)
+dialog: I bet you're
+dialog: wondering why I'm here.
+dialog: jonah
+dialog: (not really interested)
+dialog: Aaah... you... tidy
+dialog: up around the ship?
+speaker_heading: KHALIL
+dialog: Oh, no - I do not
+dialog: work on the ship.
+dialog: (proudly)
+dialog: I am a small
+dialog: business operator! A traveling
+dialog: salesman! I sell Persian rugs door to
+dialog: door! See?
+speaker_heading: JONAH
+dialog: (still not interested)
+dialog: Oh - lovely. A-
+dialog: Jonah opens his
+text: mouth to speak, but Khalil cuts him off.
+speaker_heading: KHALIL
+dialog: By the way, do you
+dialog: know where this ship is going?
+speaker_heading: JONAH
+dialog: Yes, Tarshish.
+speaker_heading: KHALIL
+dialog: (eyes widen)
+dialog: Tarshish! What a trip!
+dialog: (thinks)
+dialog: You know, that may
+dialog: be just what I need! The Persian rug
+dialog: business has not been going very well around here...
+dialog: (brightens)
+dialog: But I still have a
+dialog: positive mental attitude... because of my motivational tapes!
+dialog: Pulls headphones
+text: out of bag of leaves - tape is still playing.
+text: Jonah looks on curiously.
+dialog: tape
+dialog: You are a skilled
+dialog: metalworker.
+text: Khalil smiles big.
+speaker_heading: KHALIL
+dialog: I am a skilled
+dialog: metalworker!
+dialog: (shrugs)
+dialog: I did not know
+dialog: that!
+dialog: Jonah stares,
+text: perplexed. Khalil puts headphones back
+text: in back - clicks off tape. Jonah turns
+text: to straighten his bunk.
+speaker_heading: jONAH
+dialog: Yes... well, that's
+dialog: lovely, Carlyle, but if you don't mind, I think I'll just get some rest...
+dialog: Khalil is staring
+text: intently at Jonah's profile. It looks
+text: very familiar. Suddenly, he realizes
+text: who he's looking at.
+speaker_heading: KHALIL
+dialog: (excited)
+dialog: Jonah!?!
+text: Jonah startles.
+speaker_heading: JONAH
+dialog: Huh - ?
+speaker_heading: KHALIL
+dialog: You're Jonah!!
+speaker_heading: JONAH
+dialog: You know me?
+speaker_heading: KHALIL
+dialog: Of course I
+dialog: do! You are the most famous prophet in
+dialog: the whole world!!
+dialog: Jonah is flattered,
+text: tries to hide a smile.
+speaker_heading: JONAH
+dialog: Well, I don't know
+dialog: if I'd say -
+speaker_heading: KHALIL
+dialog: I sell your
+dialog: licensed merchandise! Look! I have the Jonah rugs...
+dialog: Pulls out Persian
+text: rug with Jonah's profile on it.
+speaker_heading: khaLIL (CONT'D)
+dialog: ... the Jonah plush
+dialog: toy...
+dialog: Pulls out tiny
+dialog: plush Jonah.
+speaker_heading: KHALIL (CONT'D)
+dialog: ... with sound
+dialog: chip!
+dialog: Khalil gives the
+text: Jonah doll a few whacks to the belly.
+dialog: plush toy
+dialog: (tinny - sound chip style)
+dialog: A message from the
+dialog: Lord!
+dialog: (whack)
+dialog: A message from the
+dialog: Lord!
+speaker_heading: jONAH
+dialog: Well, I'm...
+dialog: flattered...
+speaker_heading: khALIL
+dialog: You are huge!! You are a celebrity!!
+speaker_heading: JONAH
+dialog: (modestly)
+dialog: Well... I...
+speaker_heading: KHALIL
+dialog: From town to town -
+dialog: delivering God's messages! What a
+dialog: life! You are a big shot!!
+speaker_heading: JONAH
+dialog: (still hiding a smile)
+dialog: Oh, no... it's
+dialog: really...
+speaker_heading: kHALIL
+dialog: (not slowing down a bit)
+dialog: The man God can
+dialog: count on to deliver his messages!
+dialog: This line nicks Jonah,
+text: and his fake modesty starts to fade.
+speaker_heading: JONAH
+dialog: (deflating)
+dialog: Yes... well...
+speaker_heading: KHALIL
+dialog: You and God are
+text: like peas in a pod! Like two humps on a
+dialog: camel - you always 'sway the same way!'
+text: Jonah is wilting.
+speaker_heading: kHALIL (CONT'D)
+dialog: (laughing)
+dialog: Oh, that's a good
+dialog: one! You know, humor runs very deep in
+dialog: my family! My uncle was a big star
+dialog: back at a comedy club in Nineveh... the Taj Ma-Haha... Standing room only!
+dialog: (grows sober)
+dialog: Then he was hit
+dialog: with a fish. I'm telling you, those
+dialog: people don't know right from wrong.
+speaker_heading: joNAH
+dialog: Oh, Nineveh.
+dialog: Khalil
+dialog: Hmm? You are sad now, my friend? Something about Nineveh makes you feel sad
+dialog: inside?
+speaker_heading: joNAH
+dialog: I don't really want
+dialog: to talk about it... I just need some rest...
+dialog: Khalil
+dialog: Oh, you do not have
+dialog: to tell me.
+speaker_heading: joNAH
+dialog: Good.
+dialog: Khalil
+dialog: Because I already
+dialog: know.
+speaker_heading: joNAH
+dialog: (startles)
+dialog: You do?
+dialog: Khalil
+dialog: Oh, yes. There is a woman in Nineveh, is there
+dialog: not? A beautiful young asparagus! She is waiting there for you, no?
+speaker_heading: joNAH
+dialog: Um, no.
+dialog: Khalil
+dialog: (keeps right on going)
+dialog: You were promised
+dialog: to be married - but your job is now in the way. The woman's father is the head of an international ring of camel
+dialog: thieves! This very day you set sail for
+dialog: Tarshish to deliver a message that will break the back of the camel thieves -
+dialog: but in the process will break the heart of the woman you love!
+dialog: Jonah stares -
+dialog: unable to speak.
+speaker_heading: Khalil (CONT'D)
+dialog: Insight runs very
+dialog: deep in my family. Do not worry, the
+dialog: first one is free.
+speaker_heading: JONAH
+dialog: (beyond desperate)
+dialog: Please, Carlyle...
+dialog: I just need to get some rest...
+speaker_heading: KHALIL
+dialog: It's Khalil. But you can call me Carlyle if you want
+dialog: to! When we get to Tarshish, you can
+dialog: deliver the message, and I'll sell the plush toys! We can be a team!
+dialog: Jonah stares at the
+text: wall and groans.
+dialog: Toy
+dialog: A message from...
+dialog: the Lord!
+speaker_heading: JONAH
+dialog: Ugh...
+speaker_heading: kHALIL
+dialog: Well, sweet dreams
+dialog: travelling buddy! We can make our plans
+dialog: to save those camels tomorrow!
+dialog: Clearly depressed,
+text: Jonah closes his eyes. We hear the
+text: "click" of Khalil's tape recorder, as the motivational tape starts
+text: back up. The look on Jonah's face
+text: contrasts with the line from the tape.
+speaker_heading: tAPE
+dialog: You are a
+dialog: go-getter.
+speaker_heading: fade tO bLACK.
+dialog: 
+dialog: int - dream
+text: sequence. Cut to white limbo.
+dialog: Jonah over white
+dialog: limbo background. Jonah is
+text: walking. Passes Scooter, dressed as
+dialog: ticket merchant. Everything is
+dialog: mysterious.
+speaker_heading: joNAH
+dialog: Yes - which way is
+dialog: Tarshish?
+speaker_heading: sCOOTER
+dialog: (kind of trance-like)
+dialog: Right this way...
+dialog: ya can't miss it!
+speaker_heading: joNAH
+dialog: Thank you!
+dialog: Jonah continues -
+text: relieved to be heading for Tarshish.
+dialog: Suddenly God's voice
+text: interrupts, which sounds suspiciously like Pa Grape.
+dialog: god
+dialog: Jonah...
+dialog: Jonah is surprised
+dialog: - looks around for source.
+speaker_heading: joNAH
+dialog: What? Who is it?
+dialog: god
+dialog: Jonah... Where are
+dialog: you going?
+speaker_heading: joNAH
+dialog: Oh! It's you, Lord.
+dialog: (nervously)
+dialog: Um - I'm going
+dialog: to... I'm going...
+dialog: god
+dialog: Jonah!
+speaker_heading: joNAH
+dialog: I'm sorry, I can't
+dialog: hear you!
+dialog: Jonah starts to
+dialog: walk very quickly.
+dialog: god
+dialog: Jonah!
+dialog: Jonah starts to
+dialog: run.
+speaker_heading: joNAH
+dialog: I can't hear
+dialog: you! Lalalalalalala...!
+dialog: god
+dialog: Jonah!
+dialog: Suddenly, running
+text: becomes difficult. Jonah looks down and
+text: sees that he is now running in water, and the water seems to be rising.
+speaker_heading: joNAH (o.S.)
+dialog: (struggling)
+dialog: I... can't...
+dialog: hear... you!
+speaker_heading: PA GRAPE (o.S.)
+dialog: Jonah!
+dialog: Water splashes
+text: Jonah's face as he tries vainly to run against the rising tide.
+dialog: dissolve TO:
+dialog: int - day. Ship's hold.
+dialog: Dream transition
+text: back to Jonah, tossing in his bunk. The
+text: hold of the ship is flooding and water is splashing Jonah's face. Pa Grape is trying to wake him.
+speaker_heading: pa GRAPE
+dialog: Jonah! Jonah! Jonah!
+speaker_heading: joNAH
+dialog: (eyes closed)
+dialog: No! I- I can't hear you!
+speaker_heading: pa GRAPE
+dialog: Come on, wake
+dialog: up! We got trouble!
+dialog: Jonah finally opens
+text: his eyes and sees his surroundings.
+text: Water sloshes around the hold as the ship is rocked by an immense storm.
+speaker_heading: joNAH
+dialog: (groggy)
+dialog: What?
+dialog: (notices situation)
+dialog: What's happening?!?
+speaker_heading: PA
+speaker_heading: GRAPE
+dialog: We're in a
+dialog: storm! Like I've never seen
+dialog: before! If we don't do something quick,
+dialog: we're gonna sink!!
+dialog: We cut to the WORM
+text: with his mouth stuffed with grape leafs, bobbing around in a small pot while
+text: munching away and licking his fingers.
+dialog: Khalil
+dialog: (speaking with his mouth full)
+dialog: We seem to have
+dialog: sprung a leak, traveling buddy!
+speaker_heading: PA GRAPE spots the
+dialog: worm and becomes angry.
+speaker_heading: PA GRAPE
+dialog: Huh?... Hey! What are you doin' here?
+speaker_heading: The WORM looks
+dialog: nervous.
+speaker_heading: PA GRAPE (cont'd)
+dialog: Didn't I tell you
+dialog: to get off my ship, ya lousy leaf eater?
+speaker_heading: The WORM nods
+text: timidly in affirmation.
+dialog: Khalil
+dialog: Well, yes... but
+dialog: you see, my new friend and I are going to Tarshish to break the back of the
+dialog: camel thieves!!
+dialog: Pa glances
+text: curiously at Jonah, who gives him an "it's a long story" look.
+speaker_heading: Khalil (cONT'D)
+dialog: Crime-fighting runs
+dialog: very deep in my family!
+speaker_heading: PA GRAPE
+dialog: ... Why if it
+dialog: wasn't for this storm I'd make ya walk the plank!
+dialog: (turning his attention to Jonah)
+dialog: And you! How can
+dialog: you sleep at a time like this?
+speaker_heading: JONAH
+dialog: What's going on?
+speaker_heading: PA GRAPE
+dialog: I'll tell you
+dialog: what's going on! We're all gonna be
+dialog: fish food if I don't get some help!
+speaker_heading: JONAH and the WORM
+dialog: startle.
+speaker_heading: joNAH
+dialog: (panic)
+dialog: Well - what can we
+dialog: do?
+speaker_heading: PA GRAPE
+dialog: Get up and pray to
+dialog: your god! Maybe he'll have mercy on us and spare our lives! ... Oy!
+speaker_heading: PA GRAPE turns to
+dialog: go above deck.
+speaker_heading: PA GRAPE (cont'd)
+dialog: Somebody "up
+dialog: there" must be really upset with somebody "down here!"
+speaker_heading: JONAH looks
+text: nervous, the WORM looks at JONAH. PA GRAPE then turns back and brightens, just
+dialog: having had a realization.
+speaker_heading: PA GRAPE (cont'd)
+dialog: ...Wait a minute!
+dialog: That's it!... Alright you two, follow me!
+speaker_heading: The WORM and JONAH
+text: look curiously at each other.
+dialog: 
+speaker_heading: EXTERIOR -
+scene_heading: DAY. PIRATE SHIP AT SEA
+speaker_heading: LARRY and MR LUNT
+text: are on deck at a small folding table, playing go fish with a deck of fish
+dialog: cards. MR LUNT has a big
+dialog: "handful" of cards. LARRY is
+text: holding only one card and has his "suits" laid out neatly in front of
+text: him. The ship is rocking violently and
+text: the two pirates and their table slide up and down the deck as they play.
+speaker_heading: LuNT
+dialog: You got electric
+dialog: eel?
+dialog: Larry
+dialog: Nope. Go Fish...
+dialog: (tauntingly)
+dialog: ...one more
+dialog: card....
+speaker_heading: MR. LUNT
+dialog: You are one
+dialog: cheatin' buccaneer.
+speaker_heading: LARRY
+dialog: How'm I supposed to
+dialog: cheat at "go fish?"
+speaker_heading: MR LUNT thinks
+dialog: about the question.
+speaker_heading: MR. LUNT
+dialog: Uhhh... I don't know...
+speaker_heading: PA GRAPE
+dialog: (Off-screen)
+dialog: Alright ya Lazy's!
+speaker_heading: PA GRAPE, JONAH and
+text: the WORM approach.
+speaker_heading: PA GRAPE (cont'd)
+dialog: Game over! Shuffle 'em up and deal us in!
+speaker_heading: LARRY
+dialog: ...but...
+speaker_heading: MR. LUNT
+dialog: (Mockingly)
+dialog: Hee Hee.
+dialog: The other three
+text: gather around the table. MR LUNT
+text: gathers the cards and "shuffles" them. PA GRAPE lays the ground rules... We cut between character's reactions as he speaks.
+speaker_heading: PA GRAPE
+dialog: Okay! Here's the
+dialog: deal. The way I see it, there is a
+dialog: reason for this storm. Somebody
+dialog: "up there" is really upset with somebody "down here." And
+dialog: it's not gonna let up until we know who that "somebody" is. It could be any one of us...
+speaker_heading: MR LUNT deals the
+dialog: cards.
+speaker_heading: PA GRAPE (cont'd)
+dialog: ...I have my
+dialog: suspicions...
+speaker_heading: PA GRAPE turns
+text: sharply toward the WORM, who reacts in terror.
+speaker_heading: PA GRAPE (cont'd)
+dialog: But we won't know
+dialog: for sure until we figure it out scientifically.
+speaker_heading: EVERYONE looks at
+dialog: each other suspiciously.
+speaker_heading: PA GRAPE (cont'd)
+dialog: All right men -- Go
+dialog: fish!... looser takes a swim!
+speaker_heading: LIGHTNING
+text: flashes. EVERYONE startles.
+dialog: We montage through
+text: an intense game of "go fish" as the storm continues to rage. We dissolve between different types of fish
+text: cards being flipped up, passed around, and set down on the table. We see
+text: character's faces as the game progresses - if they're holding a lot of cards,
+text: they look nervous, if not, they're relaxed. MR LUNT appears to be losing at one
+text: point, then the game shifts and the WORM is on the loosing end. We cut away to a wide shot of the pirate
+text: ship and see it being tossed around by the waves. The worm starts to make a comeback. We hear reverby "go fishes" and various
+text: "aarghs" and "uh-ohs" throughout the game . Finally, only the WORM and JONAH are left
+dialog: with cards. They both look very
+text: nervous. MUSIC stops. The WORM asks timidly;
+speaker_heading: KhaLIL
+dialog: ...You got any...
+dialog: trout?
+speaker_heading: JONAH'S face
+text: drops. He slides the WORM a card. The WORM picks the card up, then slowly lays
+dialog: down his last four cards face up - four
+text: whales! The WORM is out. JONAH is the
+text: loser. All eyes turn toward JONAH. PA GRAPE is confused.
+speaker_heading: KhaLIL (cONT'D)
+dialog: Hmmm? What a goose I am! It's a match! I had it
+dialog: all along!
+speaker_heading: PA GRAPE
+dialog: Huh??!! I thought for sure...
+speaker_heading: JONAH
+dialog: Alright! I admit
+dialog: it. It's my fault! All my fault! I'm the one to blame!
+dialog: Khalil looks at
+dialog: Jonah, confused.
+speaker_heading: PA GRAPE
+dialog: But... I... the
+dialog: worm...
+speaker_heading: JONAH
+dialog: (cutting PA off)
+dialog: I am a Hebrew, and
+dialog: I worship the Lord, the God of heaven, who made the sea and the land. And I'm
+dialog: running away from Him! He told me to go to Nineveh, but I didn't listen! You
+dialog: know, I don't like those people...
+dialog: Mr. Lunt
+dialog: (chiming in)
+dialog: Oooh. Fish
+dialog: slappers.
+dialog: Cut back to Khalil,
+text: shaking his head in disbelief.
+speaker_heading: JONAH
+dialog: Yes... so I ran.
+dialog: I ran and I ended up here and now everyone's in terrible danger all
+dialog: because of me. I'm afraid the only thing left is to be thrown into the sea!
+speaker_heading: LARRY
+dialog: Awww... you don't
+dialog: have to do that... we gotta plank. You
+dialog: can just walk off...
+speaker_heading: JONAH, thinking
+text: himself noble for the offer, is a little surprised by LARRY'S comment and
+dialog: comments dryly...
+speaker_heading: JONAH
+dialog: ...Yes... thank
+dialog: you. You're too kind.
+speaker_heading: LARRY smiles at the
+dialog: compliment.
+speaker_heading: PA GRAPE
+dialog: Well Jonah, ol'
+dialog: buddy. It was nice knowin' ya... Normally you'd be entitled to a refund, but
+dialog: under the circumstances - you know, with you dyin' and all ...
+speaker_heading: JONAH is again
+text: underwhelmed by his hosts' benevolence.
+speaker_heading: JONAH
+dialog: ...
+dialog: No... I don't suppose a refund would do me much good now, would it?...
+speaker_heading: PA GRAPE
+dialog: Ah, thanks! You're a trooper.
+speaker_heading: (to LARRY)
+dialog: Ain't he a trooper?
+speaker_heading: LARRY nods and
+text: smiles in agreement. JONAH looks down
+text: and catches Khalil's eye.
+speaker_heading: KHALIL
+dialog: But... the
+dialog: camels...
+speaker_heading: joNAH
+dialog: (looks down)
+dialog: Oh...
+dialog: Jonah shakes his
+text: head sadly, then looks pitifully toward the sea.
+speaker_heading: Suddenly, MR LUNT
+text: brightens up, then chimes in...
+speaker_heading: MR. LUNT
+dialog: Hey! Wait a minute!
+dialog: I just remembered something! Maybe you don't have to walk the plank, after all!
+speaker_heading: ALL
+dialog: Huh?!!
+dialog: Exterior -
+text: day. REAR OF Pirate ship at sea
+dialog: Our friends have
+text: all gathered around a big lump covered with a tarp at the back of the
+text: ship. The storm continues to rage.
+speaker_heading: MR. LUNT
+dialog: Every winter, my
+dialog: cousin from Moose Lake asks me to take care of this...
+text: MR LUNT peels off
+text: the tarp revealing a large gas powered outboard dual propeller boat motor.
+speaker_heading: ALL
+dialog: Oooooh.
+speaker_heading: LARRY
+dialog: Cool.
+speaker_heading: PA GRAPE
+dialog: What is it?
+speaker_heading: MR. LUNT
+dialog: This my friends, is
+text: a Jupiter 1600 horsepower, high-octane, dual propeller, pull ignition, outboard
+text: motor... with the optional chrome trim package.
+dialog: The chrome
+text: shimmers.
+speaker_heading: ALL
+dialog: (in the same tone)
+dialog: Oooooh.
+speaker_heading: LARRY
+dialog: (in the same tone)
+dialog: Cool.
+speaker_heading: PA GRAPE
+dialog: (in the same tone)
+dialog: What is it?
+speaker_heading: MR. LUNT
+dialog: It gets us back to
+dialog: Joppa.
+speaker_heading: PA GRAPE
+dialog: Oh.
+speaker_heading: JONAH
+dialog: Well... How does it
+dialog: work?
+speaker_heading: MR. LUNT
+dialog: That I don't know.
+dialog: Everyone stands
+text: there and stares at the engine. The
+text: WORM then speaks up.
+speaker_heading: KHALIL
+dialog: Perhaps I could
+dialog: help.
+dialog: (to Jonah)
+dialog: You know, technical
+dialog: competency runs -
+speaker_heading: joNAH
+dialog: (interrupting)
+dialog: I know, very deep
+dialog: in your family.
+dialog: The worm is
+dialog: surprised.
+speaker_heading: KHALIL
+dialog: Oh! Our reputation precedes us! Well then... it appears that one should pull
+dialog: the cord and then perhaps push this black bubbly thingy...
+dialog: Everyone thinks
+dialog: that's as good of an idea as any other. They all ignorantly nod in
+dialog: agreement. The WORM does just
+dialog: that. He pulls the cord a couple of
+text: times and the engine turns over but does not start. He then squeezes the fuel line bubble a couple of times. Nothing happens. Everyone looks at the WORM, who becomes a little nervous that his
+dialog: plan did not work. He revises it:
+speaker_heading: KHALIL (cONT'D)
+dialog: Oh.. no... Maybe
+dialog: it's the other way around. Perhaps if
+text: one first pushes the black bubbly thingy and then pulls the cord...
+dialog: Everyone again
+text: ignorantly nods. The WORM squeezes the
+text: fuel line bubble a couple of times then gives the cord a firm pull. The engine starts up immediately. The propellers start spinning.
+dialog: All
+dialog: Aaah!
+dialog: The WORM, proud of
+dialog: himself, adds:
+speaker_heading: KHALIL
+dialog: See?
+dialog: All
+dialog: (Yelling)
+dialog: Ahhhhh!
+dialog: Just then, the
+text: propellers catch the surface of the deck of the ship. Wood chips fly as the spinning blades propel the engine all the
+text: way across the deck - ripping a trail in the planks. Cut to shots of the
+text: propeller chasing characters through screen. They scream as the motor follows.
+text: It then crashes through the guard rail on the bow of the ship and drops into
+text: the sea. Everyone stares in disbelief.
+speaker_heading: MR. LUNT
+dialog: (after a pause)
+dialog: Yep. That's how it
+dialog: works.
+dialog: Everyone turns
+text: angrily to the worm, who is standing there dumbfounded. He notices the glares and becomes
+dialog: frightened.
+speaker_heading: KHALIL
+dialog: It has been
+dialog: delightful, but I must go now...
+speaker_heading: The WORM runs away
+text: from the group and dives into an Art Bigotti bowling bag in the pirate's pile
+text: of leisure gear next to the card table.
+text: We cut to CU of JONAH who offers a resigned look as the camera pushes in
+dialog: to his eyes- this is his fate. He has
+dialog: no other choice but to...
+dialog: Exterior -
+text: day. The Plank of Pirate ship at sea
+dialog: We pull out of
+text: JONAH'S face to reveal a different background.
+text: He's now standing on the "plank" of the ship and is wearing a
+text: little ducky flotation ring and a swim cap.
+text: The PIRATES stand at the base of the plank with their heads bowed and
+text: their eyes closed. The storm continues
+dialog: to rage.
+speaker_heading: PA GRAPE
+dialog: (Praying)
+dialog: Oh Lord, don't let
+dialog: us die for this man's sin. And don't hold us responsible for his death, because
+dialog: it isn't our fault. O Lord, you have sent this storm upon him for your own good
+dialog: reasons.
+speaker_heading: LARRY
+dialog: And keep my ducky
+dialog: safe.
+speaker_heading: PIrates
+dialog: Amen.
+speaker_heading: The PIRATES look up
+text: from their prayer to JONAH. He looks at
+text: them, gulps, then turns toward the sea.
+dialog: Jonah
+dialog: Gulp!
+dialog: We cut to the WORM
+text: poking his head out of the bowling bag - he looks sad for his friend. JONAH
+text: bounces a few times then jumps off the plank and splashes into the sea. Immediately, the winds begin to die down and
+text: the sea starts to calm. The clouds part
+text: and sun shines once again. In a matter
+text: of seconds, the sea and air are completely calm. JONAH bobs up and down softly in his little ducky ring. He looks around. The PIRATES, a little surprised that their plan actually worked,
+text: look over the side of the ship at JONAH.
+speaker_heading: PA GRAPE
+dialog: That was easy.
+dialog: Exterior -
+dialog: day. Underwater
+dialog: We cut to a below
+text: the water looking up at JONAH shot. We hear the PIRATE'S voices through the
+text: water as OMINOUS "JAWS-LIKE" STRINGS sound.
+speaker_heading: MR. LUNT
+dialog: Well.. Should we
+dialog: pull him back in?
+speaker_heading: BAAAA DUMMM
+speaker_heading: PA GRAPE
+dialog: I don't see why
+dialog: not.
+speaker_heading: BAAAA DUMMM
+speaker_heading: EXTERIOR -
+scene_heading: DAY. PIRATE SHIP AT SEA
+text: PIRATES looking at
+text: JONAH. LARRY acquires a lifesaver ring and tosses it out to JONAH. He misses by
+dialog: a mile.
+speaker_heading: JONAH is not sure
+text: what to make of the situation. He thinks for a moment and then opens his mouth
+text: to speak. Before he can say anything,
+text: something brushes up against him causing him to turn a few degrees. STRINGS back in. BAAAA DUMM. JONAH looks
+text: nervous. The PIRATES look nervous. STRINGS back in full. LARRY pulls the ring
+text: back in quickly and throws it out again. Not even close. JONAH looks over at
+text: the distant ring and gets pushed a few feet through the water as the music
+text: intensifies. JONAH is getting very scared.
+speaker_heading: JONAH
+dialog: Something touched
+dialog: me!... There's something in the water!...
+speaker_heading: PA GRAPE and MR
+text: LUNT yell frantically as LARRY pulls the ring back in once again.
+speaker_heading: PA GRAPE
+dialog: Hurry up! Hurry!
+speaker_heading: MR. LUNT
+dialog: I'm hurrying!
+speaker_heading: PA GRAPE
+dialog: Hang on, Jonah!
+dialog: (to Lunt)
+dialog: Aim this time!
+speaker_heading: LuNT
+dialog: I was aiming!
+speaker_heading: Pa GRAPE
+dialog: I can never tell
+dialog: where you're looking...
+speaker_heading: LuNT
+dialog: You should talk!
+speaker_heading: JoNAH
+dialog: Hurry!
+dialog: Lunt throws the
+dialog: ring... It misses again.
+speaker_heading: JoNAH (cont'd)
+dialog: Fellows... please!
+speaker_heading: Pa GRAPE
+dialog: Pull it back in.
+dialog: Hurry!
+speaker_heading: LuNT
+dialog: Okay, okay! I got
+dialog: it!
+speaker_heading: Pa GRAPE
+dialog: Let me do that!
+speaker_heading: LuNT
+dialog: No, no! I'll throw
+dialog: it!
+speaker_heading: JoNAH
+dialog: Fellows... Please!
+speaker_heading: Pa GRAPE
+dialog: Com'on! Give it
+dialog: here!
+speaker_heading: LuNT
+dialog: I said I got
+dialog: it!
+speaker_heading: LarrY
+dialog: Excuse me,
+dialog: gentlemen! Perhaps I can be of some assistance.
+speaker_heading: LARRY tosses the
+text: ring. This time it's headed right for JONAH! Slow motion. Very dramatic. Very
+text: Bay Watch. The ring lands perfectly around JONAH - just like the ring toss at
+text: the carnival! LARRY smiles - proud of his achievement. MUSIC relaxes slightly.
+text: LARRY begins to pull JONAH in. Just as JONAH begins to move toward the boat -
+text: looking a little more hopeful, we see a GIANT WHALE come to the surface behind
+text: JONAH and swallow him whole. The PIRATE'S expressions turn from relief to
+dialog: shock. LARRY reacts:
+speaker_heading: LARRY (cont'd)
+dialog: Oops.
+dialog: One of the Pirates
+text: notice that the life-ring rope is sailing out very rapidly, as the whale swims
+text: away with the life-ring in it's mouth.
+text: They are attached to the whale.
+speaker_heading: PA GRAPE
+dialog: Huh? (Gasp)
+dialog: The rope reaches
+text: its full length, pulls taut, and then the metal cleat fastening it to the mast
+text: breaks loose, sailing toward the front of the ship. They are no longer attached to the whale!
+speaker_heading: pirateS
+dialog: (all relieved)
+dialog: [sigh]
+dialog: Back to the cleat,
+text: which sails towards the bow. It fails
+text: to clear the rail, however, and instead wedges firmly against the front rail. Back to the Pirates, whose faces fall as
+text: they realize they are one again attached to the whale.
+dialog: pirates (cont'd)
+dialog: Hm?
+dialog: Before they can
+text: speak, the boat jerks into motion. All
+text: three Pirates are knocked backwards off their feet, rolling head over heals all
+text: the way across the deck to the wall of the poop deck.
+speaker_heading: PIRATES (cont'd)
+dialog: Aaaaaaahhh!!!
+speaker_heading: The SHIP races
+text: through the water. PA GRAPE gets up and frantically looks around for a solution
+dialog: to the problem.
+speaker_heading: PA GRAPE
+dialog: Man the cannon!
+speaker_heading: Mr LUNT
+dialog: Aye, aye cap'n!
+dialog: Larry and Pa run up
+text: to the cannon at the bow. Mr. Lunt
+text: looks on concerned.
+speaker_heading: MR. LUNT
+dialog: (standing)
+dialog: We don't got no
+dialog: ammo!
+speaker_heading: LARRY looks around
+text: and spots the pile of leisure gear.
+speaker_heading: LARRY
+dialog: Oh yes we do!
+dialog: The ship races
+dialog: through the water.
+dialog: Exterior -
+dialog: day. Cannon of pirate ship.
+dialog: Our brave buccaneer
+text: LARRY stuffs the cannon with various leisure items and fire them off. A TENNIS
+speaker_heading: RACKET,
+speaker_heading: PA GRAPE
+dialog: Fire one!
+dialog: MR LUNT pulls a
+text: string on the cannon. The TENNIS RACKET
+text: flies out, spins wildly out of control and splashes into the sea nowhere near
+text: the whale. LARRY then stuffs in two croquet mallets.
+speaker_heading: PA GRAPE (cont'd)
+dialog: Fire Two!
+speaker_heading: MR LUNT pulls the
+text: string on the cannon. Same result. LARRY then spots the ammo jackpot - the Art
+text: Bigotti bowling ball bag. He removes the ball and places in the cannon. Just
+text: before the ball sinks into the cannon, the worm pops his head out of the
+text: thumb-hole and says pathetically...
+speaker_heading: kHALIL
+dialog: Hello?!?
+text: The BALL drops in.
+speaker_heading: PA GRAPE
+dialog: Fire three!
+speaker_heading: MR LUNT pulls the
+text: string. The Ball comes roaring out of the cannon. We follow it's flight as the worm pops his head out of the thumb
+text: hole again and screams in terror.
+speaker_heading: kHALIL
+speaker_heading: AAAAAAAAIIIIIII'm
+dialog: coming traveling buddy!
+speaker_heading: From the WORM'S
+text: POV, the camera flies to where the WHALE had been - but now it is nowhere in
+text: sight. Presumably it has gone deep below the surface. We cut back to the WORM,
+text: who looks confused. He calls out and whistles as if looking for a lost dog;
+speaker_heading: kHALIL (cONT'D)
+dialog: Traveling buddy?..
+dialog: (whistle) Where are you?
+speaker_heading: Suddenly, the WHALE
+text: leaps out of the water catching the bowling ball in his mouth like a dog
+text: catching a treat. Hanging in the air (ala Free Willy), he holds it in it his
+text: mouth and we hear a loud gulping noise.
+text: With that, the WHALE crashes back into the sea, releasing the life
+text: preserver as he disappears.
+dialog: We see the life
+text: preserver pop out of the water. As it does, the PIRATE SHIP slows - they are no
+text: longer attached to the WHALE.
+dialog: 100 ft off the bow
+text: of the ship, The PIRATES stand and look out in relief toward sea as the ship
+text: comes to a stop. Pause as they reflect.
+text: Pa and Mr. Lunt remove their hats in respect.
+speaker_heading: PA GRAPE
+dialog: Now that boy really
+dialog: knows how to go fish.
+speaker_heading: The RUBBER DUCKY
+text: floatation ring pops out of the water in the foreground. Larry face lights up. He turns to the others, who do not share his
+text: joy. Self-consciously, he tries to
+dialog: match their somber looks.
+speaker_heading: FADE TO BLACK.
+dialog: 
+speaker_heading: FADE IN:
+dialog: int. - whale.
+dialog: The scene is quite
+text: dark, with JONAH forlornly sitting on a barrel
+text: or some other indigestible object inside the whale. After a moment, the bowling ball rolls up next to him.
+speaker_heading: joNAH
+dialog: (dryly)
+dialog: Oh, look... a
+dialog: bowling ball. If I could only find some
+dialog: pins...
+dialog: The worm pops up
+text: out of the bowling ball like a girl jumping out of a cake.
+speaker_heading: kHALIL
+dialog: You found better
+dialog: than that, travelling buddy! It's me!!
+speaker_heading: jONAH
+text: (shudders as if he suddenly feels ill)
+dialog: Oh, my...
+speaker_heading: kHALIL
+dialog: So forget about
+dialog: Tarshish! All we need to do is get this
+dialog: whale to swim to Nineveh! You give the
+dialog: message - I sell the plush toys - we'll be right back on track!
+speaker_heading: jONAH
+dialog: (interrupting)
+dialog: Carlyle, please
+dialog: don't speak to me. I'm having a rather
+dialog: bad day.
+dialog: Jonah stands and
+text: walks away from worm, depressed and annoyed.
+speaker_heading: kHALIL
+dialog: Well you don't need
+dialog: to be so down about it - Mr. Grumpy-pants!
+text: Jonah whirls back
+dialog: toward worm, irate.
+dialog: jonah
+dialog: Look around
+dialog: you! We're inside a whale! We're going to be digested!! Do you know what that means?!?
+speaker_heading: kHALIL
+dialog: Of course I do!
+dialog: Digestion runs very deep in my family.
+dialog: I'm just trying to have a positive outlook, you know!
+dialog: (pause)
+dialog: You know the
+dialog: difference between you and me is that you see the whale as half empty, but I
+dialog: see the whale as half full!
+dialog: Jonah is dumbfound.
+speaker_heading: joNAH
+dialog: I don't know what
+dialog: that means.
+speaker_heading: kHALIL
+dialog: (thinks for a moment)
+dialog: Neither do I.
+dialog: Worm looses energy
+text: - looks around. Jonah turns away and
+text: sits down forlornly.
+speaker_heading: joNAH
+dialog: Oh, I might as well
+dialog: face it. God gave me a job to do and I
+dialog: disobeyed him. I ran the other
+dialog: way! I've done something terrible and
+dialog: now I'm getting what I deserve. [sigh.]
+dialog: I'm going to die here in this whale.
+dialog: The worm looks back
+text: at Jonah sympathetically - opens his mouth to speak, but realizes he has no way
+dialog: to cheer up his travelling buddy.
+text: VOICES are heard from elsewhere in the whale.
+speaker_heading: singER 1 (os)
+dialog: Have you ever seen
+dialog: anything so pathetic?
+dialog: singer 2 (os)
+dialog: Mmm mmm. This boy needs some help!
+speaker_heading: jonAH
+dialog: (startles)
+dialog: What? Who's there?
+dialog: singer 3
+dialog: Take it easy,
+dialog: Jonah! We're on your side!
+speaker_heading: jonAH
+dialog: How did you know my
+dialog: name? How did you get in here?!?
+speaker_heading: kHALIL
+dialog: (confused)
+dialog: Were you in
+dialog: the bowling ball, too?
+speaker_heading: sinGER 1
+dialog: Oh, no. That's not how we get around. No, we came straight from the big man
+dialog: himself!
+speaker_heading: jONAH
+dialog: You mean... ?
+dialog: Jonah gestures up,
+dialog: knowingly.
+dialog: singer 2
+dialog: Mmm Hmm! And just like you, we deliver his messages!
+speaker_heading: jONAH
+dialog: (brightens)
+dialog: So you're prophets,
+dialog: too?
+dialog: singer 1
+dialog: Not exactly. Ya see, we work on a slightly higher
+dialog: level.
+speaker_heading: jONAH
+dialog: (confused)
+dialog: You do?
+dialog: Angels nod.
+dialog: singer 3
+dialog: (dramatically - leaning in)
+dialog: And Jonah - we've
+dialog: got a message for you!
+dialog: Jonah looks around
+text: nervously. Music starts.
+speaker_heading: sinGER 1
+dialog: You're feelin'
+dialog: pretty blue - you didn't do what God requested...
+dialog: singer 2
+dialog: Yeah, I'd be mopin'
+dialog: too, if I was gonna be digested!
+dialog: singer 3
+dialog: This ain't a pretty
+dialog: picture - no, it ain't a pretty sight.
+dialog: singer 2
+dialog: You ran from God
+dialog: this morning and you're...
+speaker_heading: AlL
+dialog: ...whale chow
+dialog: tonight!
+dialog: 
+dialog: (But) Hold up!
+dialog: 
+dialog: Hang on!
+dialog: singer 1
+dialog: Not so fast!
+dialog: Your life ain't
+dialog: over yet!
+dialog: singer 3
+dialog: We're here to tell
+dialog: you all about...
+speaker_heading: SINGER 2
+dialog: ...the forgiveness
+dialog: that...
+dialog: All
+dialog: ...you can get!
+text: Lights reveal full gospel choir in the
+dialog: background. Choir 'oohs' over next
+text: stanza, then claps over first chorus before joining in big on second chorus.
+dialog: singer 1
+dialog: (You see,) Our
+dialog: God's a god of mercy,
+speaker_heading: SINGER 2
+dialog: ...and our God's a
+dialog: god of love.
+dialog: all
+dialog: And right now, he
+dialog: gonna lend a helping hand from up above!
+dialog: Tempo picks up -
+dialog: band kicks in - clappin' and swayin' commence!
+dialog: all singers
+dialog: Praise the
+dialog: Lord! He's the God of second chances!
+dialog: You'll be
+dialog: floored! How his love, your life
+dialog: enhances!
+dialog: (You can) be
+dialog: restored - from your darkest circumstances!
+dialog: Our God is the God
+dialog: of second chances!
+dialog: singer 3
+dialog: Ain't it great to
+dialog: know a God who wants to give a second chance.
+speaker_heading: kHALIL
+dialog: Why, that's enough
+dialog: to get a smile from Mr. Grumpy-pants!
+dialog: singer 1
+dialog: So if you say
+dialog: you're sorry for all the stuff you do,
+dialog: singer 2
+dialog: We know that he'll
+dialog: be ready with a second chance for you!
+dialog: 
+dialog: everyone
+dialog: Praise the
+dialog: Lord! He's the God of second chances!
+dialog: You'll be
+dialog: floored! How his love, your life
+dialog: enhances!
+dialog: (You can) be
+dialog: restored - from the darkest circumstances!
+dialog: Our God is the God
+dialog: of second chances!
+dialog: Our God is a god...
+dialog: all singers
+dialog: If you - believe
+dialog: God's love - is
+dialog: true
+dialog: Then you - should
+dialog: know
+dialog: What you - should
+dialog: do!
+dialog: (Repeat several times, building)
+dialog: If you - believe
+dialog: God's love - is
+dialog: true
+dialog: Then you - should
+dialog: know
+dialog: What you - should
+dialog: do!
+dialog: (to chorus2)
+dialog: Second
+dialog: chances!
+dialog: Second
+dialog: chances!
+dialog: 
+dialog: Praise the Lord!
+dialog: He's the God of second chances!
+dialog: You'll be floored
+dialog: when His love your life enhances.
+dialog: You can be restored
+dialog: from your darkest circumstances!
+dialog: Our God is the God
+dialog: of second chances!
+dialog: 
+dialog: Chorus repeats.
+speaker_heading: cuT TO:
+dialog: ext. -
+dialog: evening. surface of sea.
+dialog: Scooter and George
+text: are fishing with poles from a small fishing boat. We can faintly hear the music from the whale, filtering up
+text: through the water. Scooter notices.
+text: Scooter looks puzzled,
+text: then leans over the edge of the boat and stares down into the water.
+dialog: cut TO:
+text: ext. night. underwater.
+dialog: As music continues,
+text: we see the whale swimming slowly away from the camera, every-so-slightly
+text: "dancing" to the music within him.
+text: As whale disappears into the darkness, we transition back to
+dialog: restaurant. Song ends big over
+dialog: transition.
+dialog: wipe TO:
+scene_heading: int - night. seaFOOD RESTAURANT
+dialog: All veggies are now
+text: present in booth, and listening with rapt attention.
+speaker_heading: pa GRAPE
+dialog: So from inside the
+dialog: whale, Jonah prayed and asked God to forgive him for not obeying. He told God that if he got another chance,
+dialog: he would go to Nineveh, even though he didn't like those people very
+dialog: much.
+dialog: Bob
+dialog: (now very interested)
+dialog: So did he get
+dialog: another chance?
+speaker_heading: PA GRAPE
+dialog: (sly smile - amused that Bob is so interested)
+dialog: Shouldn't you be
+dialog: lookin' our for yer tow truck?
+speaker_heading: BOB
+dialog: (hurried)
+dialog: Yeah, yeah,
+dialog: yeah. That can wait. Did Jonah get another chance?
+dialog: 
+speaker_heading: pa GRAPE
+dialog: Well, God saw that
+dialog: Jonah needed help, and he wanted to help him.
+dialog: junior
+dialog: That's compassion!
+dialog: bob
+dialog: But did he give him
+dialog: a second chance even though he didn't deserve it? You know... mercy?
+speaker_heading: pa GRAPE
+dialog: After three days,
+dialog: Jonah noticed something strange happening...
+speaker_heading: disSOLVE TO:
+dialog: int - whale.
+dialog: Jonah and worm are
+text: sitting around inside whale. Suddenly
+text: the 'floor' of the whale starts undulating - and we here loud rumbling
+text: sounds. Jonah and worm are terrified as
+dialog: the 'undulation' becomes increasingly violent!
+dialog: -or-
+dialog: This shot could be
+text: underwater exterior of whale - showing whale reacting to his 'upset'
+dialog: stomach. No interior needed.
+dialog: cut TO:
+dialog: ext day - surface
+dialog: of the sea
+dialog: The sea is calm,
+text: but we can faintly hear the 'rumbling' sound.
+text: Suddenly there is a much louder sound - somewhere between a massive burp
+text: and a stomach rumble. Jonah is launched
+text: from the sea like a ballistic missile from a submarine - with the worm hanging
+text: on desperately to Jonah's bag. They
+text: land in a heap on a sandy beach. Jonah
+dialog: looks pretty weird. His skin is very
+text: pasty, his clothes are torn, and he is wrapped in seaweed - very Robinson
+dialog: Crusoe-ish.
+speaker_heading: joNAH
+dialog: (moan)
+text: He moans a bit,
+text: then rolls over and looks up - right into the face of his camel, Reginald!
+speaker_heading: joNAH (cont'd)
+dialog: (still on his back)
+dialog: Oh! Reginald!
+dialog: Good to see you! Yes... well...
+speaker_heading: disSOLVE TO:
+dialog: ext day - road to
+dialog: nineveh
+dialog: Lawrence of Arabia
+text: shot... endless desert. Jonah rides Reginald across barren countryside. Clip clop, clip clop. Worm is riding in Jonah's bag, peering out
+text: at the monotonous landscape, which grows more barren as they near Nineveh - as
+dialog: if the cruelty of the Ninevites has disrupted nature.
+speaker_heading: pa nARRATOR
+dialog: So God told the
+dialog: whale to burp up Jonah - and Jonah got his second chance!
+speaker_heading: disSOLVE TO:
+dialog: Jonah and Khalil
+dialog: riding toward Nineveh.
+speaker_heading: Pa nARRATOR (cont'd)
+dialog: And just like he
+dialog: promised, he headed straight for Nineveh!
+dialog: Jonah passes
+dialog: signs... "Welcome to Nineveh - Home of the Mister Twisty's Twisted Cheese
+dialog: Curls!" ... Followed by "Visitors Welcome... To Leave!"
+dialog: Jonah and Khalil
+text: look pretty nervous. They enter the canyon leading to Nineveh. Jonah looks
+text: around, uncomfortably. Then a noise ahead attracts his attention. A CRAZED MAN,
+text: possibly from Joppa, is running right at him... His eyes wide with terror.
+dialog: Crazed Man
+dialog: (hysterical)
+dialog: Turn back!! Turn
+dialog: back!! Turn back!!!
+dialog: The man runs right
+text: by Jonah, who turns to watch, eyes wide.
+speaker_heading: CRAZED MAN (cont'd)
+dialog: The slapping!
+dialog: Whack! He runs
+text: right into an outcrop on the canyon wall... Bounces back, then keeps on going.
+speaker_heading: CrAZED MAN (cont'd)
+dialog: The slapping!
+dialog: Jonah and Khalil
+text: stare after, eyes wide. We hear the crazed man's voice trail off in the distance.
+speaker_heading: CrAZED MAN (cont'd)
+dialog: Turn back! Turn
+dialog: back!
+dialog: Jonah and Khalil
+text: look at each other, clearly frightened, then turn ahead and nervously continue
+text: their journey. They continue a bit, and then round a corner. Light from Nineveh
+text: fills Jonah's face and he pulls up Reginald in awe of the sight he sees. Just
+text: ahead, the canyon opens up and Nineveh spreads out in front of him, under a
+text: red, hazy sky. The sound of 'urban chatter' and distant fish slapping drifts
+text: up. Swallowing hard, Jonah urges Reginald on. (Maybe we should include a shot
+dialog: of Reginald looking back at Jonah reluctantly.)
+dialog: Jonah approaches
+text: the gate of the great city, and two guards step out in from of him, blocking
+text: his path. They are pea Ninevite guards, with Cockney accents. (rapid-fire
+dialog: exchange as guards interrupt Jonah.)
+speaker_heading: JoNAH
+dialog: (to himself)
+dialog: Go in, give the
+dialog: message, get out...
+dialog: Go in, give the
+dialog: message, get out...
+dialog: Guard 1
+dialog: Who goes 'ere?
+speaker_heading: JoNAH
+dialog: Ah, yes... My name
+dialog: is Jonah... And I'm a prophet... from -
+dialog: Guard 2
+dialog: You're not from
+dialog: 'ere, are you?
+speaker_heading: JoNAH
+dialog: Um... No, you see,
+dialog: I'm from -
+speaker_heading: GUARD 1
+dialog: That would make you
+dialog: a stranger, wouldn't it?
+speaker_heading: JoNAH
+dialog: Well, um, yes. I
+dialog: suppose so... But I -
+speaker_heading: GUARD 2
+dialog: We don't like
+dialog: strangers.
+speaker_heading: JoNAH
+dialog: No... yes, I've
+dialog: heard that... But you see I have a -
+speaker_heading: GUARD 1
+dialog: So why're you
+dialog: 'ere?!?
+speaker_heading: JoNAH
+dialog: Well - I have a
+dialog: message.
+speaker_heading: GUARD 1
+dialog: A message? For who?
+dialog: Jonah wasn't
+dialog: expecting this question.
+speaker_heading: JoNAH
+dialog: (thinking)
+dialog: Well... For
+dialog: everyone! For the whole city!
+dialog: The guards find
+dialog: this ludicrous.
+speaker_heading: GUARD 1
+dialog: You've got a
+dialog: message for the 'ole city?!?
+speaker_heading: GUARD 2
+dialog: ... the 'ole city?!?
+speaker_heading: GuarD 1
+dialog: Oh, that's rich!!!
+dialog: Guards start to
+dialog: laugh.
+speaker_heading: GUARD 2
+dialog: I'll alert the
+dialog: king! "You're honor! A Bleached asparagus has a message for us all!"
+speaker_heading: GUARD 1
+dialog: Most important!
+dialog: They laugh
+text: themselves silly. Khalil pears around Jonah's shoulder.
+speaker_heading: KHALIL
+dialog: I do not think this
+dialog: is going very well.
+speaker_heading: JoNAH
+dialog: Oh, let's just go
+dialog: home! I did what you said, I guess it just wasn't meant to be.
+dialog: Jonah turns
+text: Reginald to leave during this line. Just as he starts to trot away, someone
+dialog: calls his name.
+speaker_heading: Pa GRAPE (o.S.)
+dialog: Jonah?!?
+dialog: Jonah spins around
+text: to see the Pirates standing in the entrance to the city, apparently on their
+text: way out. They look rather silly, as each wears what appears to be a large foam
+text: cheese curl on their head. (similar to Wisconsin's "cheddar heads.")
+dialog: Jonah
+dialog: (confused)
+dialog: What?
+dialog: The Pirates step
+text: out of the gate, with mouths agape. Jonah recognizes them, and slides off
+dialog: Reginald.
+speaker_heading: KhALIL
+dialog: (excited)
+dialog: It is our friends
+dialog: from the ship!
+speaker_heading: JoNAH
+dialog: (recognizing them)
+dialog: What on earth... ?
+dialog: What are you doing here?
+speaker_heading: LarrY
+dialog: What are you
+dialog: doing here?
+speaker_heading: LuNT
+dialog: Ya! You were... you
+dialog: were...
+speaker_heading: Pa GRAPE
+dialog: ...fish food!
+dialog: The two parties
+text: meet off to the side of the gate. While they are talking, Jonah periodically
+text: glances up curiously at the Pirates headgear.
+speaker_heading: KhALIL
+dialog: The whale spit us
+dialog: out like so much bad cous-cous, and here we are now! Delivering the message to
+dialog: Nineveh!
+speaker_heading: JoNAH
+dialog: But they wouldn't
+dialog: let us in, so I guess we're going home.
+speaker_heading: LuNT
+dialog: Hey, I bet we could
+dialog: get him in...
+dialog: Jonah pulls back,
+text: not expecting this. On his shoulder, Khalil smiles broadly.
+speaker_heading: JoNAH
+dialog: Huh?
+dialog: Cut TO:
+dialog: Ext. Nineveh gate -
+speaker_heading: momenTS LATER
+dialog: CU on Guard 1, who
+text: snaps to attention as travelers approach.
+dialog: Cut to his POV -
+text: the three pirates stand smiling in front of him, with Jonah behind them and
+text: Khalil peering from is shoulder. They look like they're posing for a family
+dialog: picture. (Though Jonah doesn't look like he wants to be part of the family.)
+dialog: Guard 1 softens as
+dialog: he recognizes the celebrities
+speaker_heading: GuaRD 1
+dialog: Hey, look! It's the
+dialog: cheese curls blokes!
+dialog: The pirates smile.
+speaker_heading: GUARD 1 (cont'd)
+dialog: (sweetly)
+dialog: Comin' back for a
+dialog: visit, are ya?
+dialog: (notices Jonah - hardens)
+dialog: Ahem - is this
+dialog: fella with you?
+speaker_heading: Pa GRAPE
+dialog: Oh, yes! He's with
+dialog: us!
+speaker_heading: GUARD 1
+dialog: (to Jonah)
+dialog: You're with them,
+dialog: eh?
+speaker_heading: JoNAH
+dialog: (trying to smile)
+dialog: Yes, indeed! Why, I
+dialog: sailed halfway across the world with these... fine... gentlemen.
+dialog: Has to force out
+text: those last few words... His smile fading like he's feeling suddenly ill.
+speaker_heading: GuARD 1
+dialog: (eyeing Jonah suspiciously)
+dialog: Alright. You can
+dialog: come in.
+dialog: (pause as they pass)
+dialog: Enjoy your stay in
+dialog: Nineveh.
+dialog: The group passes
+text: through the gate. Jonah and Khalil glance back nervously, to see Guard 1
+text: continue to make strange, comically menacing, "eye on you" faces.
+speaker_heading: JoNAH
+dialog: What was that all
+dialog: about? How did you do that?
+dialog: Pa snaps to,
+text: excited to tell his story.
+speaker_heading: Pa GRAPE
+dialog: Remember that money
+dialog: you gave us?
+dialog: (suddenly concerned)
+dialog: By the way, you
+dialog: aren't gonna want that refund, are ya?
+dialog: Jonah
+dialog: (considers)
+dialog: Ah...
+speaker_heading: Pa GRAPE
+dialog: (relieved)
+dialog: Good. Cuz we spent
+dialog: it!!! Every last penny! On cheese curls!
+dialog: Jonah stares.
+speaker_heading: JoNAH
+dialog: Cheese curls?
+speaker_heading: LuNT
+dialog: Yup! 1458 bags of
+dialog: "Mister Twisty's Twisted Cheese Curls!"
+speaker_heading: LarrY
+dialog: And you'll never
+dialog: guess what we found in bag 497...
+dialog: Jonah doesn't have
+dialog: a clue.
+speaker_heading: Pa GRAPE
+dialog: (leaning in - hushed tone)
+dialog: The golden ticket!
+dialog: Jonah doesn't get
+dialog: it.
+speaker_heading: Pa GRAPE (cont'd)
+dialog: We won the
+dialog: "Mister Twisty's Twisted Cheese Curl Sweepstakes!"
+speaker_heading: JoNAH
+dialog: And the prize
+dialog: was... ?
+dialog: Jonah glances back
+text: and forth at their hats. Pa looks up.
+speaker_heading: Pa GRAPE
+dialog: (nods)
+dialog: Mmm hmm. But in
+dialog: addition to our enviably fashionable headgear, we also got a tour of Mister
+dialog: Twisty's factory - right here in Nineveh!
+dialog: The group enters
+text: the crowded market area. Ninevites mill around... Assorted fish slapping in the
+text: background. Jonah and Khalil aren't wild about what they see.
+speaker_heading: Pa GRAPE (cont'd)
+dialog: Which, despite its
+dialog: unseemly location, was a splendid experience!
+speaker_heading: LarRY
+dialog: And, believe it or
+dialog: not, in this town we are famous!
+speaker_heading: LuNT
+dialog: (noticing something)
+dialog: Hey, look! Here
+dialog: comes a city official to greet us!!
+dialog: Everyone looks to
+text: see a Ninevite and several guards walking aggressively toward them. They do not
+dialog: look happy.
+speaker_heading: Pa GRAPE
+dialog: (aloof)
+dialog: Hello! We were in
+dialog: the neighborhood, so we thought we'd -
+dialog: City Official
+dialog: (referring to Pirates)
+dialog: These are the men!
+dialog: Arrest them at once!!
+dialog: Everyone's in
+dialog: shock.
+speaker_heading: Pa GRAPE
+dialog: But...
+speaker_heading: JoNAH
+dialog: Excuse me. What
+dialog: have they done?
+speaker_heading: CITY OFFICIAL
+dialog: Thievery! High
+dialog: theft against the Royal City of Nineveh!
+speaker_heading: LuNT
+dialog: That's ridiculous!!
+speaker_heading: CiTY OFFICIAL
+dialog: Oh, is it?!?
+dialog: He grabs Larry and
+text: spins him around. On his back is a small pack. The City Official pulls out a
+text: knife, and everyone gasps. He slits the bottom of Larry's pack, and 8-10
+text: mini-sized bags of Mister Twisty's Cheese Curls fall to the floor.
+speaker_heading: LarrY
+dialog: (panicked)
+dialog: No! Wait! I thought
+dialog: they were free samples!!
+speaker_heading: CiTY OFFICIAL
+dialog: Take them away!!
+speaker_heading: JoNAH
+dialog: You can't do that!
+dialog: The city official
+dialog: spins to Jonah.
+speaker_heading: CiTY OFFICIAL
+dialog: I'm sorry... are
+dialog: you with these men?
+dialog: Jonah isn't sure
+dialog: how to answer.
+speaker_heading: JoNAH
+dialog: Well, um... yes, I
+dialog: suppose...
+dialog: Jonah glances to
+text: the side to see a guard approaching him swiftly.
+dialog: Jonah (cont'd)
+dialog: Hello... What are
+dialog: you doing?
+speaker_heading: Jonah's POV - the
+text: guard rears back, his fish flashes through the air toward Jonah. SFX - SMACK!
+text: And simultaneous BLACKOUT.
+dialog: Cut to:
+dialog: Ext. Nineveh market
+speaker_heading: - latER
+dialog: Tight on Jonah's
+text: head - covered by a black bag. The bag is pulled off and Jonah blinks around in
+dialog: the sunlight.
+dialog: Cut to Jonah's POV
+text: - a good sized crowd of Ninevites stands in a circle around him, staring
+text: intently at him.
+speaker_heading: JoNAH
+dialog: (encouraged)
+dialog: Oh! Wonderful! It
+dialog: must be time for my speech!
+dialog: Cut to bag coming
+text: off Pa Grape's head. He tries to move, but is tied tight.
+speaker_heading: Pa GRAPE
+dialog: Hey! I can't move!
+dialog: Cut to bag off
+text: Lunt's head. He pulls against ropes!
+speaker_heading: LuNT
+dialog: I can't move,
+dialog: either!!
+dialog: Cut to Larry, who's
+text: bag is off and who also can't move.
+dialog: Cut to Jonah, who
+text: looks down confused and realizes that he can't move either. He looks over to Pa
+text: in his confusion and sees that...
+dialog: (LS Pa) Pa can't
+text: move because he's tied back-to-back with Lunt to the front of, beneath a huge,
+text: ominously hanging metal fish held up with a rope. This doesn't look good.
+dialog: Cut to Jonah's face
+text: - his eyes widen and his mouth falls.
+speaker_heading: JoNAH
+dialog: [Gasp!]
+dialog: Cut back to LS pa
+text: on bulls-eye. Pa looks up and notices Jonah looking at him with panic on his
+dialog: face.
+speaker_heading: Pa GRAPE
+dialog: What? Have I got
+dialog: somethin' on my face?
+dialog: Cut to Pa's face -
+text: he sees Jonah's situation.
+dialog: Cut to LS Jonah
+dialog: (Pa's POV) - also, in the same situation.
+dialog: Cut to Pa's face
+text: who echoes Jonah's reaction.
+speaker_heading: pa GRAPE (cont'd)
+dialog: [Gasp!]
+dialog: Cut to Lund, who
+text: repeats this sequence by looking at Larry's situation.
+speaker_heading: luNT
+dialog: [Gasp!]
+dialog: Cut to Larry, who
+text: repeats by looking at Lunt's situation.
+dialog: larry
+dialog: [Gasp!]
+dialog: Jonah
+dialog: This doesn't look
+dialog: good...
+dialog: Cut to Larry, who
+dialog: feels responsible.
+speaker_heading: LarrY
+dialog: (on the verge of tears)
+dialog: I'm sorry guys! I
+dialog: thought they were free samples. They were right out there in the open... in a
+dialog: big bowl. Very misleading!
+speaker_heading: Pa GRAPE
+dialog: Oh, don't go
+dialog: blamin' yourself!
+dialog: Lund is cranky with
+dialog: Pa.
+speaker_heading: LuNT
+dialog: No... blame HIM!
+dialog: (gestures over shoulder to Pa)
+dialog: "Let's put it
+dialog: all in cheese curls," he says. "No," I say, "We need a
+dialog: BALANCED portfolio!" A little stock, a little bonds... A little cash or
+dialog: cash equivalents... And THEN maybe some snacks. But no. "Put it all in
+dialog: cheese curls!" he says.
+dialog: (to Pa)
+dialog: Man, you gotta plan
+dialog: for the future!
+speaker_heading: Pa GRAPE
+dialog: What? It got us
+dialog: here, didn't it?!?
+dialog: Everyone stares at
+text: Pa, confused. Pa realizes what they are thinking.
+speaker_heading: Pa GRAPE (cont'd)
+dialog: (gestures around)
+dialog: Not
+dialog: "here" literally... But...
+dialog: (looks off mistily)
+dialog: We were somebody!
+dialog: We were celebrities!
+speaker_heading: LunT
+dialog: (outraged)
+dialog: We are going to
+dialog: die!
+dialog: Lunt is interrupted
+dialog: by the City Official
+speaker_heading: CiTY OFFICIAL
+dialog: People of Nineveh!
+dialog: These four men...
+dialog: (glances toward Khalil)
+dialog: ... and that
+dialog: small... whatever-it-is...
+speaker_heading: KhALIL
+dialog: (indignant)
+dialog: I am a
+dialog: caterpillar!!
+dialog: (to self)
+dialog: Well, that is only
+dialog: half true...
+speaker_heading: City OFFICIAL
+dialog: Have been found
+dialog: guilty of high thievery against the Royal City of Nineveh!
+text: The crowd hisses.
+speaker_heading: City OFFICIAL (cont'd)
+dialog: For their
+dialog: punishment... "The Slap of No Return!"
+dialog: The crowd looks
+text: quizzically at the fish poles, no sure what to make of them. The pirates look
+text: up at them, not sure whether to be frightened or not. The City Official notices
+dialog: the lack of respect for his latest invention.
+dialog: Larry
+dialog: What's so funny?
+speaker_heading: CiTY OFFICIAL
+dialog: Observe!
+dialog: The Pirates and Jonah
+text: look on as the City Official places a large pumpkin on a small wooden platform
+text: in from of the fifth fish pole. There is a hush as he walks over to the rope,
+text: anchored to a stake in the ground, raises a curved sword high in the air, and
+text: brings it down, severing the rope
+dialog: The fish falls,
+text: splattering the pumpkin to bits. Pumpkin hits Jonah's face. After a beat, the
+text: crowd starts cheering and the Pirates and Jonah start crying like little
+dialog: babies.
+dialog: All
+dialog: [No! Waaaaaaaaah!
+dialog: Etc.]
+dialog: Cut to Khalil, who
+text: is tied with string to the backside of Jonah. He can't see anything.
+speaker_heading: KhALIL
+dialog: (confused)
+dialog: What is happening
+dialog: that is making you all cry like little babies?!?
+dialog: Jonah yells over
+dialog: the commotion
+speaker_heading: JoNAH
+dialog: Why on earth do you
+dialog: take snack food so SERIOUSLY?!?
+dialog: The city official
+text: turns to answer, but it interrupted by a trumpet fanfare. He spins back to the
+dialog: crowd.
+speaker_heading: CiTY OFFICIAL
+dialog: People of Nineveh!
+dialog: I give you... King Twistomer!!
+dialog: More trumpet
+text: fanfare... Camera pans up the building facing the "condemned" to a
+text: balcony several stories overhead. 2 attendants stand on either end of the
+text: balcony. From the shadows between them emerges King Twistomer (the giant gourd
+dialog: from "Hi Silk Hat" - with Goliath's voice) a very large,
+text: grumpy-looking gourd, with more than a passing resemblance to the more chipper,
+text: slimmer pitchman Jonah has seen on several snack bags and billboards. The
+text: Pirates' jaws drop.
+speaker_heading: Pa GRAPE
+dialog: It's "Mister
+dialog: Twisty"
+speaker_heading: JoNAH
+dialog: Well, that explains
+dialog: it!
+dialog: Lunt and Larry
+text: squint up at the gourd.
+speaker_heading: LarRY
+dialog: He looks happier on
+dialog: the bag.
+speaker_heading: CiTY OFFICIAL
+dialog: (to King)
+dialog: Your royal
+dialog: gourdliness... These are the perpetrators of the heinous act against your curls
+dialog: of cheese!
+dialog: King Twistomer
+dialog: scowls.
+speaker_heading: CiTY OFFICIAL (cont'd)
+dialog: For their
+dialog: punishment... "The Slap of No Return!"
+dialog: A rise from the
+text: crowd. King Twistomer smiles.
+dialog: King twistomer
+dialog: Proceed.
+dialog: The city official
+text: spins with his sword. Jonah's eyes widen.
+speaker_heading: JoNAH
+dialog: Wait!
+dialog: (to King)
+dialog: Won't you at least
+dialog: give the guilty parties the chance to speak in their own defense?!?
+dialog: The City Official
+text: looks up to the king, who ponders.
+speaker_heading: KinG TWISTOMER
+dialog: You may speak.
+dialog: The sword is
+text: lowered. Jonah relaxes a bit.
+speaker_heading: JoNAH
+dialog: Well... As I
+text: understand it, the snacks in question were right out in the open... In a large
+dialog: bowl!!
+dialog: (pleading to crowd)
+dialog: I think we'll all
+dialog: agree this was somewhat misleading...
+dialog: (looks for support)
+dialog: Don't you think?
+dialog: The city official
+text: glances to the king. The king ponders... softening... nodding... then looks
+dialog: down to the city official.
+speaker_heading: KinG TWISTOMER
+dialog: Slap them.
+dialog: Again the sword
+text: flashes high in the air. Jonah panics! The Pirates start whimpering loudly.
+text: Jonah no desperately appeals directly to the City Official.
+speaker_heading: JoNAH
+dialog: No! You don't
+dialog: understand! I'm not REALLY with them... I mean... How could I be? While they
+dialog: were taking the tour, I was in the belly of a whale!!
+dialog: The City Official
+text: freezes - the sword jerking in his hand. The crowd around them hushes down
+text: some. The Official looks up to Jonah quizzically.
+speaker_heading: CiTY OFFICIAL
+dialog: What... did you...
+dialog: say?
+speaker_heading: JoNAH
+dialog: (not really noticing the reaction)
+dialog: I said while they
+dialog: were on the tour... I was in the belly of a whale!!
+dialog: The crowd GASPS.
+text: The Official steps back - clearly shaken.
+speaker_heading: CiTY OFFICIAL
+dialog: (shocked)
+dialog: But... You are not
+dialog: dead!
+speaker_heading: JoNAH
+dialog: No! That's just it!
+dialog: I was in the whale for 3 days and nights! Then I prayed to my God, and the
+dialog: great monster spit me up onto the shore... So that I could bring you all a
+dialog: message.
+dialog: The official is
+text: shaken... The crowd whispers among themselves. The king's eyes widen - then
+text: narrow. He approaches the edge of the balcony.
+speaker_heading: King TWISTOMER
+dialog: Hmm... Asparagus...
+dialog: Here in Nineveh we bow to the Great Fish... We celebrate the Great Fish in our
+dialog: art...
+dialog: Jonah looks around
+text: at the whale images on buildings and the large metal fish hanging over his
+dialog: head.
+speaker_heading: JoNAH
+dialog: Yes, I noticed...
+speaker_heading: King TWISTOMER
+dialog: If what you are
+dialog: saying is true...
+dialog: The King ponders
+text: for a moment. The Official steps up and responds...
+speaker_heading: CiTY OFFICIAL
+dialog: Yes... How do we
+dialog: know if he is telling the truth, sire?
+speaker_heading: King TWISTOMER
+dialog: (to Official)
+dialog: Smell him.
+speaker_heading: CiTY OFFICIAL
+dialog: (confused)
+dialog: Y-your highness?
+speaker_heading: King TWISTOMER
+dialog: Smell him.
+speaker_heading: The Official
+text: awkwardly approaches Jonah, and takes a big whiff. Jonah smells TERRIBLE. He
+text: stagers back, reeling... Barely able to stay on his feet.
+speaker_heading: JoNAH
+dialog: (apologetic)
+dialog: I'm... terribly
+dialog: sorry... I've been meaning to shower...
+dialog: The King's eyes
+dialog: widen.
+speaker_heading: King TWISTOMER
+dialog: He has been in the
+dialog: Great Fish. We must hear the message.
+dialog: This is so
+text: unexpected that Jonah isn't sure what to do next.
+speaker_heading: JoNAH
+dialog: What? Oh...the
+dialog: message... Yes...
+dialog: Jonah thinks - but
+dialog: it has been so long he has a hard time remembering what he was supposed to say.
+text: As he stammers, Khalil shakes his head in disbelief.
+speaker_heading: JoNAH (cont'd)
+dialog: ...the message...
+dialog: What was the message?
+speaker_heading: KhALIL
+dialog: Com'on!
+speaker_heading: JoNAH
+dialog: (to King)
+dialog: It's been so
+dialog: long... I...
+dialog: (to himself)
+dialog: Oh! Yes Ahem...
+dialog: (collects himself)
+dialog: Stop it!!
+dialog: The crowd gasps and
+text: recoils. The King's eyes widen.
+speaker_heading: JoNAH
+dialog: Stop cheating! Stop
+dialog: lying! And especially, stop slapping people with fishes!! Or this entire city
+dialog: will be destroyed!!
+dialog: Jonah looks around
+text: dramatically. The crowd shudders... The King looks concerned. Back to Jonah who
+text: is smiling contentedly.
+speaker_heading: JoNAH (cont'd)
+dialog: A message from the
+dialog: Lord!
+speaker_heading: Pa nARRATOR
+dialog: Well, the King was
+dialog: very upset! He had no idea they weren't suppose to do that stuff! No one had
+dialog: ever told him that before!
+dialog: A decree is handed
+dialog: to the city official.
+speaker_heading: CiTY OFFICIAL
+dialog: A decree from the
+dialog: King! Let everyone call urgently to God. Let them give up their evil ways and
+dialog: their violence. Perhaps the God that brought this man out of the Great Fish,
+dialog: will give us... a second chance!
+dialog: Score swells...
+text: Crowd erupts... Everyone smiles. Jonah looks around, tugging against his ropes.
+speaker_heading: King TWISTOMER
+dialog: And let the asparagus
+dialog: and his friends go free!
+dialog: They are all untied
+text: and congratulated by the crowd. Happy, happy.
+dialog: 
+speaker_heading: EXTERIOR - DAY.
+speaker_heading: NINEVEH
+dialog: Wide shot of
+text: NINEVEH. The clouds have completely
+text: moved away and it's a perfectly sunny day. SCORE is triumphant. Birds sing.
+text: Flower bouquets fly like graduation caps.
+speaker_heading: pa nARRATOR
+dialog: So the king and the
+dialog: people of Nineveh said they were sorry, stopped the fish-slapping and started
+dialog: being nice to people...
+dialog: cut to:
+dialog: Interior night - seafood restaurant
+dialog: laura
+dialog: Wow! That's great!
+dialog: junior
+dialog: Yeah! Everyone musta been really happy, right?
+speaker_heading: pa NARRATOR
+dialog: Well, almost
+dialog: everyone.
+speaker_heading: dissOLVE TO:
+speaker_heading: ext. day - NINEVEH
+dialog: Jonah and worm are
+text: being warmly thanked by Ninevites. Worm
+text: is eating it up, but Jonah is just nodding along. Several Ninevite kids run happily away from Jonah and the worm,
+text: clutching Jonah plush toys to their chests.
+speaker_heading: JoNAH
+dialog: (ad lib)
+dialog: Yes, thank you!
+dialog: Farewell! Goodbye, thank you!
+speaker_heading: KhALIL
+dialog: (ad lib)
+dialog: Goodbye all you
+dialog: lovely people!
+speaker_heading: pa NARRATOR
+dialog: You see, Jonah
+dialog: figured God wouldn't really forgive the Ninevites. I mean, they had done some
+dialog: terrible stuff. No! He figured God had something else in mind.
+speaker_heading: JoNAH
+dialog: Sigh...
+dialog: Jonah sits in the
+text: sand, silently, staring at Nineveh. The
+dialog: worm is a bit confused.
+speaker_heading: KHALIL
+dialog: What are we doing?
+dialog: jonah
+dialog: Oh, it's time to
+dialog: watch the fun!
+speaker_heading: KHALIL
+dialog: Aaaand what fun
+dialog: would that be?
+dialog: jonah
+dialog: Well, I did what I
+dialog: was supposed to do... I warned them that they were going to get in big
+dialog: trouble! So now that they've had their
+dialog: warning, it's time to watch God wipe them off the face of the Earth! Aha!
+dialog: Worm looks at Jonah
+text: quizzically. Jonah doesn't notice.
+speaker_heading: jONAH (cont'd)
+dialog: I picked a safe
+dialog: distance so we won't get singed.
+dialog: Jonah sits back to
+dialog: watch the destruction. The worm looks
+text: at Jonah, then looks at Nineveh.
+text: Time goes by. The hot sun beats down. Nothing happens. Jonah is sweating, but still smiling.
+speaker_heading: joNAH (cont'd)
+dialog: This is going to be
+dialog: great! The bad guys! Finally getting what they deserve!
+text: More time goes by. The sun is intense. Jonah is wilting.
+dialog: pa narrator
+dialog: So Jonah waited for
+dialog: God to destroy Nineveh. Even now, God
+dialog: was compassionate towards Jonah and caused a plant to grow that shaded him from
+dialog: the hot sun.
+dialog: Jonah looks up and
+text: sees large weed hanging overhead
+dialog: like an umbrella.
+speaker_heading: joNAH
+dialog: Hmm? Oh! Yes! Very nice!
+dialog: Thank you! Very nice!
+dialog: He settles in to
+text: watch some more. The worm looks back
+dialog: and forth between Jonah and Nineveh.
+text: Then he notices the weed and looks -
+dialog: suddenly - hungry.
+dialog: pa narrator
+dialog: Jonah kept waiting.
+dialog: But it didn't seem like anything was
+dialog: happening! He wondered if maybe God was
+dialog: forgetting something.
+dialog: Jonah stands and
+text: looks up toward heaven, then back to Nineveh.
+dialog: jonah
+dialog: Alright! I did my job! So... fire!
+dialog: Brimstone! Whatever! You pick!
+dialog: Right over there!
+dialog: (pause)
+dialog: I'll just... sit
+dialog: here under my weed... and wait.
+dialog: Jonah sits back
+text: down and forces a smile, leaning up against the weed. Without warning, the weed and Jonah crash to the ground. Jonah sits up quickly and looks around.
+speaker_heading: jONAH (cont'd)
+dialog: What? - What
+dialog: happened?
+dialog: Jonah spies worm,
+text: happily munching a mouthful of weed, and sees the partially chewed weed stump.
+speaker_heading: jONAH (cont'd)
+dialog: What? How could you?!?
+speaker_heading: KHALIL
+dialog: (surprised)
+dialog: Hmm? All your whining made me hungry! It was just a weed...
+speaker_heading: jONAH
+dialog: (suddenly despondent)
+dialog: Just a weed?!? It - it was my shade! It was my friend!
+dialog: (melodramatic)
+dialog: Oh, dear Lord, how
+dialog: could you let this happen?!?
+dialog: Jonah mourns for
+dialog: the weed like a fallen comrade. The
+dialog: worm can take it no more.
+speaker_heading: KHALIL
+dialog: Would you look at
+dialog: yourself?!?
+dialog: Jonah looks up -
+text: startled by the worm's intensity.
+speaker_heading: KHALIL (cont'd)
+dialog: You care more about
+dialog: that weed than about all the people in Nineveh!!
+speaker_heading: jONAH
+dialog: Well... I...
+speaker_heading: KHALIL
+dialog: Why are you here
+dialog: now? Instead of back in the belly of
+dialog: that whale?
+dialog: Jonah opens his
+text: mouth, but doesn't have an answer.
+speaker_heading: KHALIL (cONT'D)
+dialog: Because God is
+dialog: compassionate! He wanted to help
+dialog: you! And because he is merciful! He gave you a second chance!
+speaker_heading: jONAH
+dialog: (chipper)
+dialog: Oh, yes - and I'm very
+dialog: grateful-
+speaker_heading: KHALIL
+dialog: Has it ever
+dialog: occurred to you that maybe God loves everybody! Not just you! That maybe he wants to give everyone
+dialog: a second chance!
+speaker_heading: jONAH
+dialog: Uh - well...
+speaker_heading: KHALIL
+dialog: He saw that those
+dialog: people needed help - that they didn't know right from wrong - and he wanted to
+dialog: help them! And that is why he sent you!
+speaker_heading: jONAH
+dialog: Ah-
+speaker_heading: KHALIL
+dialog: And when you told
+dialog: them what they were doing wrong they said they were sorry - they put down their
+dialog: mackerels and their halibuts - and they asked God for a second chance. And by golly, he gave them one!!
+dialog: (Jonah ponders)
+dialog: Don't you see? God wants to give everyone a
+dialog: second chance! And so should we!
+dialog: Jonah is initially
+text: moved by this truth, but then becomes theatrically pouty - like the spoiled
+text: rich kid who isn't getting his way.
+speaker_heading: jONah
+dialog: Well, if they
+dialog: get a second chance - those fish-slappers - well, then... it would be better if
+dialog: I were dead!
+dialog: (flops onto the ground)
+dialog: Oh, I wish I were
+dialog: back in that whale!
+dialog: Jonah is a basket
+text: case. The worm looks at him in
+dialog: disbelief.
+speaker_heading: KHALIL
+dialog: You are pathetic.
+dialog: (pause)
+dialog: You know, patience
+dialog: runs very deep in my family... but not that deep. I'm out of here!
+dialog: Khalil starts to
+dialog: walk off.
+speaker_heading: jONah
+dialog: What? What are you doing?
+speaker_heading: KHALIL
+dialog: (turning back)
+dialog: I wanted to be big
+dialog: and important... just like you! But the
+dialog: world doesn't need more people who are "big and important," the world
+dialog: needs more people who are nice.
+dialog: And compassionate. And merciful.
+dialog: (pause)
+dialog: That's what I want
+dialog: to be.
+dialog: (pause)
+dialog: You can find
+dialog: yourself a new traveling buddy.
+dialog: Goodbye.
+speaker_heading: jONah
+dialog: You can't just
+dialog: leave!
+speaker_heading: KHALIL
+dialog: Can and am!
+speaker_heading: jONah
+dialog: But... who will I
+dialog: talk to? You can't just leave me here
+dialog: all alone?
+dialog: (pause)
+dialog: Hello?
+dialog: Reginald? Carlisle?
+dialog: Khowleel? Carleel? Howie? (etc... ad lib)
+dialog: Jonah tries to call
+text: the worm's name - but can't get the pronunciation right. He tries several times with comical results
+text: as the camera cranes higher above him, revealing the worm walking further and
+text: further away and Jonah looking smaller and more alone.
+dialog: cut TO:
+dialog: int. night -
+dialog: seafood restaurant
+dialog: Abrupt cut to shot
+text: of Pirates peering over booth.
+dialog: pa grape
+dialog: (after a beat)
+dialog: The end!
+dialog: Immediately, the
+text: Pirates slide the Plexiglas divider shut between the two booths. It shuts with a loud whack, startling the
+text: listeners in the next booth who continue staring in disbelief.
+dialog: bob
+dialog: (confused)
+dialog: Wait a minute...
+dialog: its's over?
+dialog: pa grape (os)
+dialog: Yup!
+dialog: Bob
+dialog: That's how it
+dialog: ends?!?
+speaker_heading: Pa GRAPE
+dialog: Yup!
+dialog: junior
+dialog: But what did Jonah
+dialog: learn?
+dialog: Lunt opens screen
+dialog: again.
+speaker_heading: lunT
+dialog: (looking at Junior)
+dialog: The question, my
+dialog: friends, is not "what did Jonah learn." The question is - what did you learn?
+dialog: junior
+dialog: (thinking)
+dialog: Well, I learned
+dialog: that we need to help people who need help...
+dialog: (pause)
+dialog: And we need to give
+dialog: 2nd chances. Even if they don't deserve them.
+dialog: (looks up)
+dialog: But what's that got
+dialog: to do with us?
+dialog: Pa turns and looks
+text: directly at Bob, who startles.
+speaker_heading: pa GRAPE
+dialog: Hey... tomato...
+dialog: bob
+dialog: Eh?
+speaker_heading: pa GRAPE
+dialog: Your friend
+dialog: there... the big asparagus. If I'm not
+dialog: mistaken, he didn't do such a good job helping you with the map.
+dialog: bob
+dialog: Oh, it was a
+dialog: disaster! He said he was sorry and that
+dialog: he'd do better next time, but no way!
+dialog: Uh uh!
+text: (Bob realizes what he's said and looks down)
+dialog: Mercy. I guess everyone deserves a second
+dialog: chance.
+dialog: Dad Asparagus
+dialog: smiles.
+speaker_heading: pa GRAPE
+dialog: Yup! Now get outa
+dialog: here before my crab legs get cold!
+dialog: Pirates shut window
+dialog: once more. Veggies smile, then Dad
+text: snaps out of the "feel good" moment.
+dialog: dad
+dialog: You know, that
+dialog: still wasn't a very good way to end a story!
+text: Others agree. From across the barrier, Pa yells out...
+speaker_heading: pa GRAPE (os)
+dialog: Well, whadya
+dialog: want? A big musical number?!?
+dialog: Everyone looks at
+dialog: each other and agrees that sound pretty good.
+speaker_heading: DAD
+dialog: Well... yeah!
+dialog: Pa turns to Larry.
+speaker_heading: PA GRAPE
+dialog: Who do they think I
+dialog: am... Twippo?
+dialog: A male voice from
+dialog: the lobby.
+dialog: voice (o.S.)
+dialog: Yes?
+dialog: Several veggies
+text: look up, as they recognize the voice.
+text: They turn in their seats and peer over the booth to the entry-way, where
+dialog: they see none other than Twippo himself!
+dialog: (Archibald Asparagus, dressed in an Elvis-y sort of outfit.)
+dialog: veggies
+dialog: Twippo!!!
+dialog: Twippo smiles - a
+text: little apprehensively. Veggies rush him
+dialog: - Bob in front.
+speaker_heading: VeGGIES (cont'd)
+dialog: Yeah... (etc., ad
+dialog: lib)
+speaker_heading: bOB
+dialog: What are you
+dialog: doing here?!?
+speaker_heading: Twippo
+dialog: Well, I've got a
+dialog: concert tonight, but I'm running late!
+dialog: Can't find Route 59 to save my life!
+dialog: So I stopped here for directions.
+dialog: jr.
+dialog: We're going to your
+dialog: concert tonight!
+dialog: (pause - looks down)
+dialog: At least we were...
+dialog: bob
+dialog: (downcast)
+dialog: And then...
+dialog: porcupines!!
+speaker_heading: dAD
+dialog: ... and underwear!!
+dialog: Annie
+dialog: ... and pirates!!
+speaker_heading: bOB
+dialog: ... and now it
+dialog: looks like we aren't going to make it at all.
+speaker_heading: Twippo
+dialog: Good heavens! Well, if it's a ride you need, I've got
+dialog: plenty of room in my bus... you can all come with me!
+dialog: Veggies eyes widen
+dialog: - big smiles!
+speaker_heading: veGGIES
+dialog: [That's be
+dialog: great! Wow! etc.]
+dialog: Laura looks down -
+dialog: she can't come.
+speaker_heading: lAURA
+dialog: ...yeah. Everyone
+dialog: but me.
+dialog: Junior notices...
+text: Thinks...camera pushes in slowly as Junior makes his big decision. Touching
+text: score. Junior smiles and offers Laura his ticket.
+speaker_heading: JR
+dialog: Laura... You can
+dialog: have my ticket.
+dialog: Pause on Laura. She
+text: is surprised and touched.
+speaker_heading: LaURA
+dialog: But Junior, it was
+dialog: my fault.
+dialog: Junior simply
+text: smiles and lifts the ticket up to her once again. Laura looks tenderly at
+text: Junior and smiles.
+dialog: Everyone smiles -
+text: amazed. Score swells.
+dialog: Twippo is
+dialog: impressed.
+speaker_heading: Twippo
+dialog: Why, that was a
+dialog: very compassionate thing to do!
+dialog: Bob
+dialog: And merciful!
+speaker_heading: TwipPO
+dialog: Tell you what...
+dialog: I'll give you all a ride to the concert, and I'll make sure you ALL get have
+dialog: backstage passes!
+dialog: Veggies erupt in
+dialog: celebration. Happy, happy!
+speaker_heading: VeGGIES
+dialog: (celebration!)
+dialog: Hurray! (ad lib)
+speaker_heading: Twippo
+dialog: Speaking of mercy,
+dialog: have any of you heard the story of a man named... Jonah?
+dialog: Veggies freeze, not
+dialog: sure what to say, then all respond at once.
+speaker_heading: veGGIES
+dialog: Yes.
+dialog: Twippo is taken
+dialog: aback.
+speaker_heading: Twippo
+dialog: Oh. Well... uh, would you like to hear a song
+dialog: about it?
+speaker_heading: pERCY
+dialog: Is it like the bald
+dialog: bunny song?
+speaker_heading: Twippo
+dialog: Not really... it's
+dialog: more of a 'big musical number.'
+speaker_heading: dAD
+dialog: Perfect!
+dialog: wipe to:
+dialog: Twippo on stage at
+dialog: Seafood Restaurant. Theatrical lights
+text: on him. He's holding his guitar, ready
+dialog: to play.
+speaker_heading: Twippo
+dialog: (singing - ballad-like)
+dialog: When I was a boy I
+dialog: went to church back home in Arizona
+dialog: And that was where
+dialog: I heard the tale of a man whose name was Jonah!
+dialog: Now Jonah was a
+dialog: prophet, but that's not why he's remembered.
+dialog: We tell the tale,
+dialog: 'cuz in a whale he nearly was dismembered!
+dialog: Horns and drums
+dialog: jump in - big band feel. Either curtain
+text: behind Twippo or wall itself pulls back to reveal Broadway musical-ish set with
+text: fake, 2D pirate ship rocking to beat on fake, 2D waves. Actual pirates are perched atop fake ship.
+speaker_heading: pirATES
+dialog: (singing)
+dialog: Jonah was a
+dialog: prophet!
+speaker_heading: Twippo
+dialog: Ooh, ooh!
+dialog: pirates
+dialog: But he really never
+dialog: got it!
+speaker_heading: Twippo
+dialog: Sad, but true!
+speaker_heading: PIRATES
+dialog: If you've been
+dialog: watching you can spot it!
+speaker_heading: Twippo
+dialog: Doodle-ee-doo!
+speaker_heading: PIRATES
+dialog: He did not get the
+dialog: point!
+speaker_heading: Twippo
+dialog: Compassion and
+dialog: mercy!
+dialog: From me to you and
+dialog: you to me!
+dialog: Exactly what God
+dialog: wants to see!
+dialog: And yes, that is
+dialog: the point!
+speaker_heading: pirATES
+dialog: (singing)
+dialog: Jonah was a
+dialog: prophet!
+speaker_heading: Twippo
+dialog: Ooh, ooh!
+dialog: pirates
+dialog: But he really never
+dialog: got it!
+speaker_heading: Twippo
+dialog: Sad, but true!
+speaker_heading: PIRATES
+dialog: If you've been
+dialog: watching you can spot it!
+speaker_heading: Twippo
+dialog: Doodle-ee-doo!
+speaker_heading: PIRATES
+dialog: He did not get the
+dialog: point!
+dialog: Twippo, now playing
+text: the role of Jonah, jumps up on the pirate ship cutout.
+speaker_heading: Twippo
+dialog: Now Jonah set sail
+dialog: On a pirate ship in
+dialog: a dreadful gale
+dialog: Wind blows, fake
+dialog: lighting. Pirates takeover narrative as
+text: Twippo either falls or flies on a line into the mouth of a fake whale cutout
+text: that has been wheeled on stage.
+speaker_heading: piRATES
+dialog: Got eaten up by a
+dialog: giant whale
+dialog: But managed not to
+dialog: be dead.
+dialog: Twippo sticks his
+text: head out of the top of the whale, (blowhole region) to prove he's still
+text: alive. Smiles big.
+speaker_heading: pirATES (cont'd)
+dialog: You'd think he
+dialog: would learn a lot
+dialog: From being saved
+dialog: from a awful spot
+dialog: But the second
+dialog: chance that he had got
+dialog: He didn't want to
+dialog: be spread!
+dialog: Whale cutout leaves
+dialog: - maybe pull in Nineveh cutout, or string of Ninevites for Twippo to scowl
+dialog: at. Musical break - little dance time -
+text: then set changes to Jonah on hill, under cutout weed. Pirates get melodramatically sorrowful.
+dialog: 
+speaker_heading: piRATES (cont'd)
+dialog: (weepy)
+dialog: So poor old Jonah -
+dialog: Now he's all
+dialog: alone-a!
+dialog: Pirates raise
+text: energy as giant megaphone cutout lowers from above, letting them yell at Jonah
+dialog: on hill.
+speaker_heading: PIRATES (cont'd)
+dialog: Gotta use a
+dialog: megaphone-a!
+dialog: To get it through
+dialog: to his head!
+dialog: (shouted through megaphone)
+dialog: Hey!!!
+dialog: Hill and weed
+text: "blow away" from force of shouted 'hey.' Twippo stands and comes forward on stage, no longer playing
+dialog: Jonah.
+speaker_heading: pirATES (cont'd)
+dialog: (singing)
+dialog: Jonah was a
+dialog: prophet!
+speaker_heading: Twippo
+dialog: Ooh, ooh!
+dialog: pirates
+dialog: But he really never
+dialog: got it!
+speaker_heading: Twippo
+dialog: Sad, but true!
+speaker_heading: PIRATES
+dialog: If you've been
+dialog: watching you can spot it!
+speaker_heading: Twippo
+dialog: Doodle-ee-doo!
+speaker_heading: PIRATES
+dialog: He did not get the
+dialog: point!
+dialog: Musical break -
+dialog: seque ways into more intimate spoken part.
+speaker_heading: Twippo
+dialog: (spoken)
+dialog: Now, true, in your
+dialog: life you probably don't ride on a camel
+dialog: And you probably
+text: won't wake up inside a large, aquatic mammal.
+dialog: But all the same,
+dialog: like Jonah, there is something you can do -
+dialog: Everyone deserves to get a second chance from you!
+dialog: Big horn sting,
+dialog: then all sing together...
+dialog: all
+dialog: Compassion and
+dialog: mercy!
+dialog: From me to you and
+dialog: you to me!
+dialog: Exactly what God
+dialog: wants to see!
+dialog: And yes, that is
+dialog: the point!
+dialog: Start
+dialog: "bringing it down." Maybe
+text: Twippo starts pulling pirate ship across stage, faking an 'exit.'
+speaker_heading: pirATES
+dialog: (softer)
+dialog: Jonah was a
+dialog: prophet!
+speaker_heading: Twippo
+dialog: (softer)
+dialog: Ooh, ooh!
+dialog: pirates
+dialog: But he really never
+dialog: got it!
+speaker_heading: Twippo
+dialog: Sad, but true!
+speaker_heading: pirATES
+dialog: (even softer)
+dialog: Jonah was a
+dialog: prophet!
+speaker_heading: Twippo
+dialog: Ooh, ooh!
+dialog: pirates
+dialog: But he really never
+dialog: got it!
+speaker_heading: Twippo
+dialog: Sad, but true!
+dialog: Stop exit at
+text: center-stage - turn and strike a pose.
+speaker_heading: pirATES
+dialog: (loud)
+dialog: Jonah was a
+dialog: prophet!
+dialog: Big chord - end of
+text: song. Crowd goes wild. Voice heard from the foyer...
+speaker_heading: KhaliL
+dialog: I beg your pardon.
+dialog: I hate to break up the party, but who needed a tow?
+dialog: Everyone looks at
+dialog: Khalil.
+speaker_heading: TwiPPO
+dialog: Ah... Have we met?
+text: Khalil smiles at
+dialog: camera - cut to black
+speaker_heading: THE END
+dialog: 
+dialog: 

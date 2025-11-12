@@ -1,0 +1,3047 @@
+dialog: 
+scene_heading: INT. BEDROOM - NIGHT
+text: Ed lies awake in bed. He is sweaty and nervous. His eyes are wide-open, blood-shot and tired.
+text: He picks up his bedside clock which is ticking loudly. It is 3:37.
+text: He looks over at the other side of the
+text: queen-size bed. It is still made. He picks a long, blonde hair from the
+text: pillow and examines it curiously.
+text: There is a noise outside and Ed gets up to investigate.
+scene_heading: INT. HALLWAY - NIGHT
+text: Ed walks through the dark hallway and into the living room of his small house.
+scene_heading: INT. LIVING ROOM
+text: By the front door, hanging on the wall, is a
+text: framed picture of Eve, Ed's wife. Ed passes by it and looks outside
+text: through the window. There is some wind outside, but nothing else.
+scene_heading: INT. BATHROOM
+text: Ed looks longingly at his reflection. Ed Saxon,
+text: 45, is a morbid, insecure man. His frustration with his life has tinged
+text: his sense of humor with an acerbic bite. His early success, a few
+dialog: publications of his poetry, has given him a professorship at the
+text: University. He is well-read, intelligent, a bit pompous and
+text: occasionally condescending. But mostly, these qualities are restrained
+text: and his outward appearance is a little sorrowful. There is an
+text: unquestionable charm about him, and its effect is evident in the people
+dialog: around him.
+text: He searches through the medicine cabinet, which
+text: is full of women's items, and takes out a Cosco-sized bottle of
+text: sleeping pills. He reads the back and takes two.
+text: He hears something bang against the front door.
+scene_heading: INT. LIVING ROOM
+text: He opens the front door and takes a step outside.
+scene_heading: EXT. PORCH - NIGHT
+text: He looks down by his feet and finds the morning
+text: paper, wrapped in blue plastic, lying on the doormat. He picks it up
+text: and goes back inside.
+scene_heading: INT. LIVING ROOM
+text: Ed stands helplessly in the empty living room.
+text: Ed's desk sits on one side of the living room,
+text: crammed into the corner. He searches quickly through the stuff on the
+text: desk and finds a small address book. He finds a name in the book and
+text: dials the number.
+speaker_heading: SUSIE
+dialog: (over phone)
+dialog: Hello?
+speaker_heading: ED
+dialog: Susie. Hi, it's Ed. I'm sorry I woke you up.
+speaker_heading: SUSIE
+dialog: Is something wrong?
+speaker_heading: ED
+dialog: Eve isn't there, is she?
+speaker_heading: SUSIE
+dialog: No. She's not there?
+speaker_heading: ED
+dialog: No. She didn't come home after work.
+speaker_heading: SUSIE
+dialog: Oh, no. Didn't she call or anything?
+speaker_heading: ED
+dialog: No. She was supposed to be home around six. I cooked her dinner.
+speaker_heading: SUSIE
+dialog: Could she have gone anywhere else?
+speaker_heading: ED
+dialog: I don't think so. Do you?
+speaker_heading: SUSIE
+dialog: I don't know.
+speaker_heading: ED
+dialog: I'm a little worried.
+speaker_heading: SUSIE
+dialog: I bet. Did you call Harborview?
+speaker_heading: ED
+dialog: No. Do you think I should?
+speaker_heading: SUSIE
+dialog: Yeah. If she got into an accident of something, they would take her there.
+speaker_heading: ED
+dialog: You don't think that's overreacting?
+speaker_heading: SUSIE
+dialog: Don't be silly. Just call them. It can't hurt.
+speaker_heading: ED
+dialog: Alright. But if she comes home later and it turns out to be nothing, don't tell her I called the hospital, OK?
+speaker_heading: SUSIE
+dialog: Call me back.
+speaker_heading: ED
+dialog: Alright.
+text: Ed finds the Yellow Pages and finds a page of
+text: "non-emergency" numbers. His finger runs down the list: Trauma, Fire,
+text: Disaster, etc. until he comes to Hospitals and then Harborview. He
+text: dials the number.
+speaker_heading: OPERATOR
+dialog: Harborview.
+speaker_heading: ED
+dialog: Hello. I wanted to find out if someone had come in. In an emergency, maybe.
+speaker_heading: OPERATOR
+dialog: Hold on.
+text: She transfers him and the phone rings again.
+speaker_heading: NURSE
+dialog: Emergency room.
+speaker_heading: ED
+dialog: I wanted to find out if someone had been brought in.
+speaker_heading: NURSE
+dialog: What's the last name?
+speaker_heading: ED
+dialog: Saxon. Eve Saxon.
+speaker_heading: NURSE
+dialog: Are you a relative?
+speaker_heading: ED
+dialog: She's my wife.
+speaker_heading: NURSE
+text: One second. No. No one with last name Saxon.
+speaker_heading: ED
+dialog: Are there any other hospitals that I could check?
+speaker_heading: NURSE
+dialog: Well, we serve as the emergency room for King County,
+dialog: so unless they specified a hospital, they would have been brought here.
+dialog: In an emergency.
+speaker_heading: ED
+dialog: OK. Thank you.
+text: He calls Susie back.
+speaker_heading: SUSIE
+dialog: What happened?
+speaker_heading: ED
+dialog: Nothing.
+speaker_heading: SUSIE
+dialog: Jeez. Did you guys have a fight?
+speaker_heading: ED
+dialog: No. No.
+speaker_heading: SUSIE
+dialog: Did you call the school?
+speaker_heading: ED
+dialog: Yeah, a while ago. No one answered the phone there.
+speaker_heading: SUSIE
+dialog: It's not like her to not call, is it?
+speaker_heading: ED
+dialog: No, she would have called.
+speaker_heading: SUSIE
+dialog: Why don't you call the police?
+speaker_heading: ED
+dialog: The police?
+speaker_heading: SUSIE
+dialog: Maybe they know something? Like if she was in an accident.
+speaker_heading: ED
+dialog: It's going a little far, don't you think?
+speaker_heading: SUSIE
+dialog: I don't know. If you're worried...It's not like the police have anything better to do.
+speaker_heading: ED
+dialog: I guess. OK. I'll call you tomorrow. Sorry to wake you up.
+speaker_heading: SUSIE
+dialog: It's OK. Call me tomorrow.
+text: He hangs up.
+scene_heading: INT. KITCHEN - NIGHT
+text: Ed looks around the kitchen, searching lazily
+text: for something to eat. He opens a cabinet that is full of boxes of
+dialog: fat-free Skin-EE( chocolate-marshmallow cookies.
+text: He opens the fridge, looks around and takes the
+text: plate of food he made for his wife. He takes off the cellophane and
+text: starts to eat.
+text: He sits at the table, but after a few more bites, he loses his appetite.
+scene_heading: INT. LIVING ROOM - NIGHT
+text: Ed sits at his desk, staring at the phone. He takes a breath and calls 911.
+speaker_heading: OPERATOR
+dialog: 911 emergency.
+speaker_heading: ED
+dialog: Hi. I don't think this is an emergency.
+speaker_heading: OPERATOR
+dialog: What's the problem?
+speaker_heading: ED
+dialog: My wife hasn't come home and, I don't know..I wanted to check with the police to see if there was an accident.
+speaker_heading: OPERATOR
+dialog: When was the last time you saw her?
+speaker_heading: ED
+dialog: This morning. She was supposed to come home from work, but she didn't.
+speaker_heading: OPERATOR
+dialog: When does she get off work?
+speaker_heading: ED
+dialog: Around six. Usually.
+speaker_heading: OPERATOR
+dialog: She hasn't called since then?
+speaker_heading: ED
+dialog: No.
+speaker_heading: OPERATOR
+dialog: Do you have any idea where she might have gone? Maybe to a friend's house?
+speaker_heading: ED
+dialog: I don't think so. I called the only place I could think of.
+speaker_heading: OPERATOR
+dialog: But you were expecting her home.
+speaker_heading: ED
+dialog: Yes. I cooked dinner.
+speaker_heading: OPERATOR
+dialog: I could send a police officer to your house.
+speaker_heading: ED
+dialog: Do you think that's necessary? Maybe I should wait.
+speaker_heading: OPERATOR
+dialog: Until when? It's five in the morning.
+speaker_heading: ED
+dialog: Maybe she went somewhere.
+speaker_heading: OPERATOR
+dialog: Where?
+speaker_heading: ED
+dialog: I don't know. Should I be worried?
+speaker_heading: OPERATOR
+dialog: I would be.
+speaker_heading: ED
+dialog: Yes, I'm worried.
+speaker_heading: OPERATOR
+dialog: So, do you want me to send an officer to your house?
+speaker_heading: ED
+dialog: I don't think so. I think I should wait.
+speaker_heading: OPERATOR
+dialog: Do you think she's going to come home soon?
+speaker_heading: ED
+dialog: I hope so.
+speaker_heading: OPERATOR
+dialog: So do I. How long are you going to wait?
+speaker_heading: ED
+text: A little longer. I think I may be overreacting. She might have gone somewhere I can't think of. Sometimes I worry too much.
+speaker_heading: OPERATOR
+dialog: OK. It's up to you. My name is Paul. I'll be here if you change your mind.
+text: Ed hangs up.
+scene_heading: INT. BATHROOM
+text: Ed takes the sleeping pills from the medicine cabinet and takes two more.
+scene_heading: INT. HALLWAY
+text: Eve has a small room in the house that Ed is
+text: cautious about entering. He walks in and looks around, as if he hasn't
+dialog: been in there for a while.
+scene_heading: INT. EVE'S ROOM
+text: The room is painted sky-blue and the ceiling has clouds painted on it.
+text: On one side of the room, there is a console piano with some sheet music resting on it.
+text: On the other side of the room is a small,
+text: antique writing desk. Ed sits down and looks at some of the items lying
+text: on it. There are a couple of letters and an address book. There is a
+text: box containing paper clips, etc. There is an open box of Skin-EE(
+dialog: cookies.
+text: There is a drawer in the desk which he tries to
+text: open, but finds that it is locked. He searches around the desk for a
+text: key, but can'' find one. He presses a little harder at the drawer, but
+text: it won't budge. He takes a letter opener from a jar on the desk and
+text: starts to fidget with it, but he still can't open it.
+text: Then he hears some distant voices coming from
+text: outside. He looks out the window where he can see the house next door.
+text: There is a light on in the neighbor's window, where the voices are
+text: coming from, and some vague shadows move around inside. Ed turns off
+text: the lights in Eve's room, so that he can see more clearly.
+text: From the muffled sounds, it is soon clear that the couple next door is having an argument.
+text: Only the woman's voice is clear.
+speaker_heading: WOMAN
+dialog: I hate you! Stay away from me! Don't touch me! Just go
+dialog: to sleep! I'll scream! I am not screaming now! You don't know anything
+dialog: about me!
+text: Then the noise dies down and the woman can be heard sobbing in the distance.
+scene_heading: INT. LIVING ROOM - NIGHT
+text: Ed picks up the phone and dials 911.
+speaker_heading: OPERATOR
+dialog: 911 emergency.
+speaker_heading: ED
+dialog: Hi. I called before. I think I was talking to Paul.
+speaker_heading: OPERATOR
+dialog: Hold on.
+text: Paul comes on the line.
+speaker_heading: OPERATOR
+dialog: This is Paul.
+speaker_heading: ED
+dialog: Hi. I called before. My wife hasn't come home.
+speaker_heading: OPERATOR
+dialog: Yes. I remember. You want me to send an officer over?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: OPERATOR
+dialog: What's your address?
+speaker_heading: ED
+text: 4523 East Street.
+speaker_heading: OPERATOR
+dialog: He should be there in a few minutes. OK?
+speaker_heading: ED
+dialog: Yes. Thank you.
+speaker_heading: OPERATOR
+dialog: You did the right thing, sir.
+text: Ed hangs up. Almost instantly, he sees some
+text: lights pass by the window. He looks through the window and sees a
+text: police car pull up. He opens the door and watches the officer as he
+text: approaches the house.
+text: OFFICER STEWART is a youngish patrolman. He is relaxed, caring and formal.
+speaker_heading: STEWART
+dialog: You called the police?
+speaker_heading: ED
+dialog: Yes. It was me. That was fast.
+speaker_heading: STEWART
+dialog: Thank you.
+speaker_heading: ED
+dialog: Come in.
+text: Stewart is led a few steps into the living room. He looks around.
+speaker_heading: STEWART
+dialog: Your wife didn't come home? Is that right?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: STEWART
+dialog: When was the last time you saw her?
+speaker_heading: ED
+dialog: When she left for work this morning. She was supposed to come home after work. I cooked dinner.
+speaker_heading: STEWART
+dialog: And she made it to work, right?
+speaker_heading: ED
+dialog: Yes. I think so. I don't know.
+speaker_heading: STEWART
+dialog: What time does she usually come home? Around six?
+speaker_heading: ED
+dialog: Yes. Usually.
+speaker_heading: STEWART
+dialog: What does she look like?
+speaker_heading: ED
+text: She's blonde, straight hair.
+speaker_heading: STEWART
+dialog: What was she wearing? Do you remember?
+speaker_heading: ED
+dialog: I think it was a red sweater and a dress.
+speaker_heading: STEWART
+dialog: What kind of car does she drive?
+speaker_heading: ED
+dialog: A Volvo. Gray. '85, I think.
+text: Stewart lets out a sigh of relief.
+speaker_heading: STEWART
+dialog: Well, you had me worried. There was a blonde woman
+text: involved with a car-jacking around six. Apparently she was hit on the
+text: head by one of the perpetrators and then wandered away from the
+dialog: incident in a daze. Nobody's seen her since. When I got the call on the
+dialog: radio, I thought that must have been your wife, but this woman was
+text: driving a Pathfinder and was wearing jeans, so it probably wasn't her.
+dialog: You had me worried.
+speaker_heading: ED
+text: She drove a Volvo. Drives a Volvo.
+speaker_heading: STEWART
+dialog: That's a relief. Do you know anywhere your wife might have gone?
+speaker_heading: ED
+dialog: I called the only place I could think of. And I called the hospital.
+speaker_heading: STEWART
+dialog: Harborview?
+speaker_heading: ED
+dialog: Yes.
+text: Stewart takes a couple of pills from a bottle and takes them, chasing them down with a coffee he has with him.
+speaker_heading: STEWART
+dialog: I'm afraid there's not much I can do now. By law, we
+dialog: can't put out a missing persons until 72 hours has elapsed since the
+dialog: last time she was seen.
+speaker_heading: ED
+dialog: 72 hours?
+speaker_heading: STEWART
+dialog: Usually in these cases, it was something stupid. Maybe
+dialog: she was upset about something, had to get away. Who knows? What I can
+dialog: do is take the license plate number of her car and if it shows up for
+dialog: some reason, we'll give you a call. Do you have your wife's license
+dialog: plate number?
+speaker_heading: ED
+dialog: Yes. Actually, it's easy to remember. 007 FEC.
+speaker_heading: STEWART
+dialog: James Bond.
+speaker_heading: ED
+dialog: Right. And FEC, For Every Child.
+speaker_heading: STEWART
+dialog: And what's her name?
+speaker_heading: ED
+dialog: Eve. Eve Saxon.
+speaker_heading: STEWART
+dialog: And your name?
+speaker_heading: ED
+dialog: Ed. Saxon.
+speaker_heading: STEWART
+dialog: Like I said, it was probably something stupid. Did you have a fight?
+speaker_heading: ED
+dialog: Not at all.
+speaker_heading: STEWART
+dialog: Well, you should try to get some sleep and, if she
+dialog: doesn't show up tomorrow, give us a call and we'll see what things look
+dialog: like then. OK?
+speaker_heading: ED
+dialog: Yes. Thank you.
+speaker_heading: STEWART
+dialog: Usually, they come back.
+speaker_heading: ED
+dialog: Yes. Thank you. I feel much better now. Thank you for coming.
+speaker_heading: STEWART
+dialog: No problem. You have a good night. Or morning, I guess.
+speaker_heading: ED
+dialog: Yes. You too.
+text: Ed shuts the door. He's a little wired so he
+text: sits at his desk and picks up a pile of his students' papers. He reads
+text: the one on top, marking it with a red pen as he does.
+text: He hears a gurgling noise coming quietly from the bathroom. He gets up and walks into the-
+scene_heading: INT. BATHROOM
+text: He looks around the bathroom, tracing the sound
+text: to the bathtub drain. It gets louder as he approaches it, but before he
+text: can investigate, there is a knock on the front door.
+scene_heading: INT. LIVING ROOM - DAY
+text: When Ed comes out to answer the door, it is now bright daylight outside.
+text: The sun is streaming in through the windows.
+text: Through the washed-out sunlight outside his window, Ed can see a police
+text: car parked in front of his house.
+text: Someone knocks again and Ed answers the door.
+text: As he does, he picks up the mail that has been dropped through the slot
+text: in the door.
+text: DETECTIVE DERM, 46, stands outside in plain
+dialog: clothes. Derm is, above all, a nice man. Experience has given him a
+text: knowing stare, but he is affable, not suspicious. He is consistently
+text: professional and genuinely concerned.
+speaker_heading: ED
+dialog: Hello.
+speaker_heading: DERM
+dialog: Mr Saxon?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: DERM
+dialog: Sorry to wake you up.
+speaker_heading: ED
+dialog: I wasn't asleep.
+speaker_heading: DERM
+dialog: Oh. I called a few times and when there wasn't any answer I thought I better come over.
+speaker_heading: ED
+dialog: What time is it?
+speaker_heading: DERM
+text: About 3:30.
+speaker_heading: ED
+dialog: 3:30? Maybe I did fall asleep. Damn.
+speaker_heading: DERM
+dialog: I'm Detective Derm of the Seattle Police Department. You called last night about your wife.
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: DERM
+dialog: We found her car this morning. On Capitol Hill. Actually, somebody called it in. It was running.
+speaker_heading: ED
+dialog: Running?
+speaker_heading: DERM
+dialog: Did your wife come home last night?
+speaker_heading: ED
+dialog: No.
+speaker_heading: DERM
+dialog: Did she go to work today?
+speaker_heading: ED
+dialog: I don't know. I haven't called.
+speaker_heading: DERM
+dialog: Do you have a number for her there?
+speaker_heading: ED
+dialog: Sure.
+text: Ed picks up the phone and dials from memory.
+speaker_heading: DERM
+dialog: Why don't you let me?
+text: He hands Derm the phone.
+speaker_heading: DERM
+dialog: Hi, this is Detective Derm of the Seattle Police. I was
+dialog: wondering if Mrs Eve Saxon had come into work today, or called in, any
+dialog: word from her. Yes. Since yesterday. Did you see her leave yesterday?
+dialog: Yes. About what time was that? I'm not sure. Is she calls, or comes in,
+dialog: could you please ask her to call me. My number is 734-9722, extension
+dialog: 38. Thank you. Bye.
+text: He hangs up.
+speaker_heading: DERM
+dialog: She hasn't been in today.
+speaker_heading: ED
+dialog: My God.
+speaker_heading: DERM
+dialog: She hasn't called here at all?
+speaker_heading: ED
+dialog: No.
+speaker_heading: DERM
+dialog: Any messages?
+text: He points to the answering machine. It is blinking, full of messages.
+speaker_heading: ED
+dialog: I must have been asleep.
+speaker_heading: DERM
+dialog: That happens.
+speaker_heading: ED
+dialog: I was up late last night.
+speaker_heading: DERM
+dialog: I understand. Why don't we listen to these messages?
+speaker_heading: ED
+dialog: Alright.
+text: Ed pushes the button on the machine.
+text: The first message is from Eve's work.
+speaker_heading: CELESTE
+dialog: (on machine)
+dialog: Hi, this is Celeste, calling for Eve. We're worried
+dialog: about you. You don't come in. You don't call. No, seriously, we just
+dialog: want to make sure you're OK. Don't worry about your students. Marie's
+dialog: covering for you. But give us a call, OK? Bye.
+speaker_heading: ED
+text: That's the school where Eve works. She's a piano teacher at Franklin High.
+dialog: Then there's a message for Ed.
+speaker_heading: MRS MASTRIONI
+dialog: (on machine)
+dialog: Hello, Mr Saxon. This is Mrs Mastrioni from the
+dialog: University. You didn't show up for your morning class and I'm calling
+dialog: to see if you'll be in for your other classes so that I can make the
+dialog: proper arrangements. I assume you remember how to use the phone.
+speaker_heading: ED
+dialog: Damn.
+speaker_heading: DERM
+dialog: You're a teacher too?
+speaker_heading: ED
+text: A professor at the University.
+text: The next message is Derm.
+speaker_heading: DERM
+dialog: (on machine)
+dialog: Hello, this is Detective Derm from the Seattle Police Department...
+text: Derm takes a small pill box from his overcoat, while the machine plays in the background.
+speaker_heading: DERM
+dialog: That's me. Do you have a glass of water?
+speaker_heading: ED
+dialog: Sure.
+dialog: Ed goes into the -
+scene_heading: INT. KITCHEN
+text: - and fills a glass for the detective.
+scene_heading: INT. LIVING ROOM
+text: When he comes back, he sees Derm casually
+text: looking over the woman's magazines on the coffee table. Derm picks up a
+text: filled-in New York Times Sunday Crossword and looks it over.
+speaker_heading: DERM
+dialog: Your wife did this?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: DERM
+dialog: Smart woman. The acrostic, too.
+text: Ed hands Derm the water.
+speaker_heading: DERM
+dialog: Thank you.
+text: Meanwhile the next message comes on. It is a girl from Ed's class.
+speaker_heading: SADIE
+dialog: (on machine)
+dialog: Hello, Mr Saxon? This is Sadie, from your creative
+dialog: writing class. Anyway, you didn't show up today and I just wanted to
+dialog: see if you were OK and, you know, if there was any reading or anything
+dialog: you wanted us to do. My number is 323-4854. I hope you're alright. Bye.
+speaker_heading: DERM
+dialog: A student?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: DERM
+dialog: Do they call you often?
+speaker_heading: ED
+dialog: No, but they all have my number.
+text: The next message is from Susie.
+speaker_heading: SUSIE
+dialog: (on machine)
+dialog: He, Ed. I just wanted to find out what happened last
+dialog: night. If Eve ever showed up, or what happened. Call me at work,
+dialog: 672-5695.
+speaker_heading: ED
+dialog: I thought she might have gone over there last night. Excuse me, I better call the University.
+text: The next message is Detective Derm again and it plays behind Ed's conversation.
+speaker_heading: ED
+dialog: Hi, Mrs Mastrioni?
+speaker_heading: MRS MASTRIONI
+dialog: (over phone)
+dialog: Yes.
+speaker_heading: ED
+dialog: This is Ed Saxon.
+speaker_heading: MRS MASTRIONI
+dialog: Oh, yes. Didn't make it in today, huh?
+speaker_heading: ED
+dialog: I guess not.
+speaker_heading: MRS MASTRIONI
+dialog: There were students waiting for you.
+speaker_heading: ED
+dialog: Yes, I know. It's a personal matter.
+speaker_heading: MRS MASTRIONI
+dialog: A personal matter, huh?
+speaker_heading: ED
+dialog: That's right.
+speaker_heading: MRS MASTRIONI
+dialog: So you'll be in tomorrow.
+speaker_heading: ED
+dialog: Yes, tomorrow.
+speaker_heading: MRS MASTRIONI
+dialog: Or you'll call.
+speaker_heading: ED
+dialog: Or I'll call, yes. Hello? Hello?
+text: Ed hangs up, having been hung up on. He turns around to see Derm standing right by, listening to his call.
+text: The next message is from George Simian, a man
+text: who works with Eve. His cautious voice makes it known that it is weird
+text: that he is calling. Ed pays special attention to this call.
+speaker_heading: GEORGE
+dialog: Hi, Eve. This is George, from school. You didn't come
+dialog: into work today and I just wanted to make sure everything was OK. I
+dialog: guess I'll see you tomorrow.
+speaker_heading: DERM
+dialog: Who's that?
+speaker_heading: ED
+dialog: Some guy she worked with. P.E. teacher, I think.
+speaker_heading: DERM
+dialog: I see. Mr Saxon, does your wife have an address book?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: DERM
+dialog: Could I see it, please? And a picture, if you have one.
+speaker_heading: ED
+dialog: Certainly.
+dialog: Ed heads into -
+scene_heading: INT. EVE'S ROOM
+text: - and picks up the small address book from the desk.
+scene_heading: INT. LIVING ROOM
+text: He hands the address book and takes a picture of Eve from his desk, removing from the frame.
+speaker_heading: DERM
+dialog: Great.
+text: Derm flips through the address book and a business card falls out. Derm picks it up and looks it over.
+speaker_heading: DERM
+dialog: George Simian. Is that the same George that called?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: DERM
+dialog: This address, this George Simian lives on Capitol Hill, where we found your wife's car.
+speaker_heading: ED
+dialog: Really?
+speaker_heading: DERM
+dialog: May I borrow this?
+speaker_heading: ED
+dialog: I suppose.
+speaker_heading: DERM
+dialog: I'll call the numbers in here and see what I can turn up. Try no to worry, Mr Saxon. I'll be in touch.
+speaker_heading: ED
+dialog: Yes, thank you.
+text: Derm leaves. Ed shuts the door and locks it.
+text: The phone rings and Ed picks it up.
+speaker_heading: ED
+dialog: Hello.
+speaker_heading: SADIE
+dialog: (over phone)
+dialog: He, Mr Saxon?
+speaker_heading: ED
+dialog: Yes?
+speaker_heading: SADIE
+dialog: Hi, it's Sadie Crumb, from your creative writing class.
+speaker_heading: ED
+dialog: Oh, yes. Hi.
+speaker_heading: SADIE
+dialog: Are you OK? Is this a bad time to call?
+speaker_heading: ED
+dialog: No. It's alright.
+speaker_heading: SADIE
+dialog: I was, I don't know, wondering if you were sick or something, when you didn't come to class.
+speaker_heading: ED
+dialog: No, well, a little.
+speaker_heading: SADIE
+dialog: Do you need anything? I mean, I could bring you something.
+speaker_heading: ED
+dialog: No, I don't think so.
+speaker_heading: SADIE
+dialog: Really, it's no problem. Have you eaten?
+speaker_heading: ED
+dialog: No, but...
+speaker_heading: SADIE
+dialog: I can bring you something to eat. It's no problem. Some soup or something.
+speaker_heading: ED
+dialog: Really, I don't know if it's a good idea.
+speaker_heading: SADIE
+dialog: Oh, I'm sorry.
+speaker_heading: ED
+dialog: No, don't be. It's just that I don't feel too well.
+speaker_heading: SADIE
+dialog: That's OK. I used to volunteer at a hospital.
+speaker_heading: ED
+dialog: Really?
+speaker_heading: SADIE
+dialog: Yeah, I was a candy striper.
+speaker_heading: ED
+dialog: You're kidding.
+speaker_heading: SADIE
+dialog: What I mean is, I'm used to it. You know, sick people.
+speaker_heading: ED
+dialog: Yeah? OK.
+speaker_heading: SADIE
+dialog: Where do you live?
+speaker_heading: ED
+text: 4523 East Street.
+speaker_heading: SADIE
+dialog: I'll be there soon.
+speaker_heading: ED
+dialog: OK.
+speaker_heading: SADIE
+dialog: Oh. Do you not eat meat, or anything?
+speaker_heading: ED
+dialog: No. I eat anything.
+speaker_heading: SADIE
+dialog: Great. Bye.
+text: Ed hangs up the phone. He walks into the -
+scene_heading: INT. BATHROOM
+text: He looks in the mirror. His hair is a mess and he is unshaven. He looks tired. He turns on the shower.
+scene_heading: INT. BEDROOM
+text: Ed takes off his clothes and walks back into the -
+scene_heading: INT. BATHROOM
+text: He puts his hand under the water. It isn't warm yet, so he picks up his toothbrush and puts some paste on it.
+text: Then he hears a piano playing, behind the sound of the shower. It can hardly be heard.
+speaker_heading: ED
+dialog: Eve?
+scene_heading: INT. EVE'S ROOM
+text: He looks around Eve's room quickly. There is no one there. Ed goes back to the -
+scene_heading: INT. BATHROOM
+text: He comes back into the bathroom. The music has stopped and all that can be heard is the shower filling up the tub.
+text: The water is about ankle-deep.
+speaker_heading: ED
+dialog: Damn.
+text: Ed reaches into the drain and pulls out a clump
+text: of Eve's hair. He throws it into the toilet and then gets in the
+text: shower. The drain is obviously still clogged up. He is up to his knees
+text: in soapy water.
+scene_heading: INT. HALLWAY - NIGHT
+text: As Ed comes out of the shower, he sees that it is completely dark. There is a knock on the door.
+speaker_heading: ED
+dialog: Hold on! One second!
+text: Ed grabs Eve's robe from the back of the bathroom door.
+scene_heading: INT. LIVING ROOM - NIGHT
+text: Ed answers the door.
+dialog: SADIE, 18, is the kind of girl who always has
+dialog: something to say in class, who has always done her homework and who has
+text: definite ideas about her future and the future of the planet. She is
+text: innocent and naïve, nice and well-mannered. But also pushy and
+text: manipulative, used to getting her way.
+speaker_heading: SADIE
+dialog: Hi, it's me.
+speaker_heading: ED
+dialog: Oh, hi.
+speaker_heading: SADIE
+dialog: Are you OK?
+speaker_heading: ED
+dialog: I didn't think you'd be here so fast.
+speaker_heading: SADIE
+text: It's almost eight.
+speaker_heading: ED
+dialog: Oh. I seem to be having a little trouble with time.
+speaker_heading: SADIE
+dialog: I know what you mean. I'm one of those people who is always late.
+speaker_heading: ED
+dialog: Come in.
+speaker_heading: SADIE
+dialog: I hope you don't mind me coming over like this. It
+dialog: didn't occur to me that it might be a little strange until after I hung
+dialog: up. It's just, well, at my high school, I went to boarding school, and
+dialog: we were pretty close with our teachers.
+speaker_heading: ED
+dialog: It's nice. Kindness. Very refreshing.
+speaker_heading: SADIE
+dialog: I brought you some soup.
+speaker_heading: ED
+dialog: I better get some clothes on. Make yourself at home.
+speaker_heading: SADIE
+dialog: OK.
+scene_heading: INT. BEDROOM
+text: Ed gets dressed. As he does, he notices a pile
+text: of Eve's clothes on the floor. He picks them up and puts them in the
+text: closet, on top of a pile of Eve's dirty laundry.
+scene_heading: INT. LIVING ROOM
+text: When Ed comes out, Sadie has put the soup in a bowl and set a place at the table.
+speaker_heading: SADIE
+dialog: I put it in a bowl for you. I hope you don't mind.
+speaker_heading: ED
+dialog: Thank you.
+text: Ed sits down and tastes the soup.
+speaker_heading: ED
+dialog: It's good.
+speaker_heading: SADIE
+dialog: I got it at my favorite place. You don't mind me hanging out for a little while, do you?
+speaker_heading: ED
+dialog: No. I could use the company. Like I said, I haven't been feeling very well.
+text: Sadie notices the pile of papers on Ed's desk.
+speaker_heading: SADIE
+dialog: Oh, you graded our papers.
+speaker_heading: ED
+dialog: Some of them.
+speaker_heading: SADIE
+dialog: Can I look?
+speaker_heading: ED
+dialog: Sure.
+text: Sadie looks through the papers. She finds hers marked with a C minus.
+speaker_heading: SADIE
+dialog: Oh.
+speaker_heading: ED
+dialog: What is it?
+speaker_heading: SADIE
+dialog: I just...I guess I though this one was better.
+speaker_heading: ED
+dialog: Let me see.
+text: Ed looks over the paper for a second. He takes a pen and crosses out the C and changes it to an A.
+speaker_heading: ED
+dialog: I was in a bad mood when I graded these.
+speaker_heading: SADIE
+dialog: Don't change it if it's not good.
+speaker_heading: ED
+dialog: It's just a grade.
+speaker_heading: SADIE
+dialog: Please don't. No. Don't. Please.
+text: Sadie takes the paper away from him.
+speaker_heading: ED
+dialog: Sorry. I didn't mean to.
+speaker_heading: SADIE
+dialog: It's just. I don't think you're doing me any favors by
+dialog: letting me off easy. I mean, I'm hear to learn. It means a lot to me to
+dialog: do well in your class. You're the best teacher I've had since I came to
+dialog: the University.
+speaker_heading: ED
+dialog: How long has that been?
+speaker_heading: SADIE
+dialog: Well, I'm still a freshman, but I've met a lot of
+dialog: teachers and I'm very discerning. Before I took your class I went to
+dialog: the library and looked up your work.
+speaker_heading: ED
+dialog: You're kidding.
+speaker_heading: SADIE
+dialog: No. I read all your poems, or all they had. The ones in the New Yorker and in Poetry Magazine, and two short stories.
+speaker_heading: ED
+dialog: What did you think?
+speaker_heading: SADIE
+dialog: I loved them; the poems especially. I mean, they're
+dialog: dark, but they're so...true. Really. I really got into them. I
+dialog: photocopied one and put it on my wall. I hope you don't mind.
+speaker_heading: ED
+dialog: Which one?
+speaker_heading: SADIE
+dialog: "The Passion of my Youth". It is so intense. "Her eyes
+text: blew gently, purposefully by my ears, echoing gentle pulses of bliss
+text: which bounced and fired like a chill on my whole being, leaving just a
+dialog: trace to fuel my longing."
+speaker_heading: ED
+dialog: My wife like that poem.
+speaker_heading: SADIE
+dialog: You're married.
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: SADIE
+dialog: Where's your wife?
+speaker_heading: ED
+text: She's at her mother's. She's gone for a while.
+speaker_heading: SADIE
+dialog: Oh.
+text: There is an awkward silence.
+speaker_heading: SADIE
+dialog: May I use the bathroom?
+speaker_heading: ED
+dialog: Sure. Go ahead.
+text: Sadie takes her purse and goes into the bathroom. Ed finishes his soup. The phone rings and he picks it up.
+speaker_heading: ED
+dialog: Hello.
+speaker_heading: GEORGE
+dialog: Is this Ed?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: GEORGE
+dialog: This is George Simian.
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: GEORGE
+dialog: Where's Eve?
+speaker_heading: ED
+dialog: Why do you want to talk to Eve?
+speaker_heading: GEORGE
+dialog: What have you done?
+speaker_heading: ED
+dialog: Excuse me?
+speaker_heading: GEORGE
+dialog: You've done something. I know you have.
+speaker_heading: ED
+dialog: What are you talking about?
+speaker_heading: GEORGE
+dialog: The police found her car near my house. They think I have something to do with her disappearance.
+speaker_heading: ED
+dialog: Maybe it's because you were fucking her.
+speaker_heading: GEORGE
+dialog: You son of a bitch. What did you do? If you hurt her, I swear, I'm going to kill you.
+speaker_heading: ED
+dialog: Look, she disappeared. I haven't seen her. Why do you think I called the police?
+speaker_heading: GEORGE
+dialog: I'll kill you. I'll kill you, you bastard. I swear.
+text: Ed hangs up. He is shaky, but also strangely
+text: exhilarated. He turns off the ringer on the phone and turns down the
+text: volume on the answering machine.
+scene_heading: INT. KITCHEN
+text: He brings the rest of the soup to the sink,
+text: scrapes it into the garbage disposal, and flicks the switch. When the
+text: food has gone down, he starts to wash the dishes. He stops and looks
+text: back to the bathroom.
+scene_heading: INT. HALLWAY
+text: Ed walks over to the bathroom door.
+speaker_heading: ED
+dialog: Sadie?
+text: There is no answer. He knocks on the door.
+speaker_heading: ED
+dialog: Sadie? Is everything alright?
+text: There is still no answer.
+speaker_heading: ED
+dialog: I'm coming in. OK?
+scene_heading: INT. BATHROOM
+text: Ed opens the door. Sadie is lying on the floor,
+text: passed out. Her pants are around her knees, as if she passed out while
+text: standing up from the toilet.
+text: Her nose is bleeding, like she might have hit it on the way down. It has bled on her sweater.
+text: The air from the open door wakes her up, but she is in a heavy daze.
+speaker_heading: ED
+dialog: Are you alright? My God. What happened?
+text: Ed comes over to her and lifts her head. She stares at him strangely.
+speaker_heading: ED
+dialog: Can you stand? Do you understand me? I'll help you to the bedroom.
+text: Sadie notices her pants are down.
+speaker_heading: SADIE
+dialog: Oh.
+speaker_heading: ED
+dialog: I'll wait outside.
+scene_heading: INT. HALLWAY
+text: Ed waits outside and, a second later, Sadie
+text: comes out, still reeling, clutching her purse. She leans on Ed, who
+text: leads her into the bedroom.
+scene_heading: INT. BEDROOM
+text: Sadie lies down on the bed.
+speaker_heading: ED
+dialog: You want some water.
+speaker_heading: SADIE
+dialog: Yes, please.
+dialog: Ed goes into the -
+scene_heading: INT. KITCHEN
+text: He takes a glass from the cupboard and fills it
+text: up. He stops, having noticed something on the glass. He holds the glass
+text: up to the light.
+text: Eve's lipstick is clearly marked on the rim.
+text: He puts that glass down and fills another.
+scene_heading: INT. BEDROOM
+text: When he comes back, he finds Sadie digging through her purse. She pulls out an asthma inhaler and takes a couple of big hits.
+text: Then she sits on the bed and drinks a little water.
+speaker_heading: SADIE
+dialog: I'm so embarrassed.
+speaker_heading: ED
+dialog: No, don't be.
+speaker_heading: SADIE
+dialog: God, my nose.
+speaker_heading: ED
+dialog: Does it hurt?
+speaker_heading: SADIE
+dialog: No, but the blood.
+speaker_heading: ED
+dialog: Maybe you hit it when you fell.
+speaker_heading: SADIE
+text: It was so weird. I heard someone's voice, a woman's voice. Like a scream. And then it was like all my blood left my body.
+speaker_heading: ED
+dialog: Sometimes you can hear the neighbors.
+speaker_heading: SADIE
+text: It was like it echoed around the bathroom. Maybe I imagined it. I've been taking these caffeine pills to stay awake.
+speaker_heading: ED
+dialog: Just relax.
+speaker_heading: SADIE
+dialog: I should go.
+speaker_heading: ED
+dialog: I can't let you leave like this.
+speaker_heading: SADIE
+dialog: I didn't mean to be such a burden. I'm such a loser. I am so sorry about this.
+text: It seems that her nose has stopped bleeding, but her sweater has a surprising amount of blood on it.
+speaker_heading: ED
+dialog: I'll get you a towel.
+text: Ed leaves and then comes back with a wet towel.
+text: He starts to wipe the blood off her nose.
+speaker_heading: SADIE
+dialog: I feel better now. Thank you.
+speaker_heading: ED
+dialog: Do you want me to drive you home?
+speaker_heading: SADIE
+dialog: I'll be OK.
+speaker_heading: ED
+dialog: Maybe you want me to call your roommate.
+speaker_heading: SADIE
+dialog: My roommate moved out. She hated me. She said I was immature, do you believe that?
+speaker_heading: ED
+dialog: Your friends, then.
+speaker_heading: SADIE
+dialog: I don't have any friends. I don't know what it is.
+dialog: People don't like me here. I thought it would be a good idea to go to a
+dialog: school far away from home, but since I've been here, it's like, I spend
+dialog: all this time on my own. At my high school, my friends and I were so
+dialog: close. I just don't get along with people anymore. I don't know what it
+dialog: is.
+speaker_heading: ED
+dialog: You get along with me.
+speaker_heading: SADIE
+dialog: You're the first person I've met since I've been here that talks to me like a real person.
+text: Ed walks over to the closet and takes out a sweater.
+speaker_heading: ED
+dialog: You can borrow this, if you want. It's my wife's.
+speaker_heading: SADIE
+dialog: She wouldn't mind.
+speaker_heading: ED
+dialog: No.
+speaker_heading: SADIE
+dialog: I bled so much.
+text: Ed gets up to give her some room.
+text: She slips out of her sweater and puts the other one on.
+text: Sadie looks at a picture next to the bed.
+speaker_heading: SADIE
+dialog: Is this your wife?
+speaker_heading: ED
+dialog: That's my mother. That picture is older than it looks.
+speaker_heading: SADIE
+dialog: She's so pretty.
+speaker_heading: ED
+dialog: She was young when that was taken. She died a few years ago.
+speaker_heading: SADIE
+dialog: That's awful. How'd she die?
+speaker_heading: ED
+dialog: Cancer. It was quite an ordeal. She died very slowly.
+speaker_heading: SADIE
+dialog: That's so sad. I better go, huh?
+speaker_heading: ED
+dialog: It's getting late.
+scene_heading: INT. LIVING ROOM
+text: Ed walks her to the door.
+speaker_heading: SADIE
+dialog: I'm sorry about everything.
+speaker_heading: ED
+dialog: Don't be sorry. I'm glad you came.
+speaker_heading: SADIE
+dialog: I'll see you tomorrow.
+speaker_heading: ED
+dialog: Tomorrow?
+speaker_heading: SADIE
+dialog: In school. You'll be there, right?
+speaker_heading: ED
+dialog: Oh, yes. I'll be there.
+speaker_heading: SADIE
+dialog: Bye.
+text: Sadie kisses him on the cheek and then leaves.
+text: Ed locks the door after her.
+scene_heading: INT. BATHROOM
+text: Ed looks at the tub in the bathroom which is full of water.
+text: He sticks his finger deep into the drain, trying
+text: to free whatever is in there. There is another tuft of hair, and again
+text: he throws it into the toilet.
+text: The gurgling sound that he heard before has come back, resonating through the soapy water from the drain.
+scene_heading: INT. BASEMENT
+text: Ed follows the gurgling sounds into the basement.
+text: He takes a flashlight from behind the basement
+text: door and shines it at the pipes that lead from the bathtub drain. He
+text: can hear the gurgling sound running through them. It sound like they
+text: ate something they can't digest. He reaches up and touches the pipe. It
+text: seems to be leaking a little, or maybe it is condensation.
+text: Ed traces the noise to a larger sewage pipe
+text: that runs down into the basement floor. He watches the pipe, but
+text: slowly, his attention is drawn to the shadow next to the pipe.
+text: As he stares intently into the darkness of the
+text: shadow, a figure begins to emerge in the distance. The darkness begins
+text: to change into a long hallway. A small figure is walking towards Ed and
+text: his footsteps echo in the distance.
+text: Ed watches, mesmerized.
+text: The basement fades into the blackness, and now, the hallway becomes more clear.
+scene_heading: INT. HOSPITAL
+text: It is a very long hospital hallway, and the figure walking toward Ed is a doctor, carrying a clipboard.
+speaker_heading: DOCTOR
+dialog: Mr Saxon.
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: DOCTOR
+dialog: There's nothing we can do for her now except to
+dialog: alleviate any pain she may be feeling. We have her on a morphine drip
+dialog: and we'll keep increasing the dosage as she shows any signs of pain.
+speaker_heading: ED
+dialog: I see. Can she understand me?
+speaker_heading: DOCTOR
+dialog: At this point, probably not. She has so much morphine
+dialog: in her, I doubt she can even recognize you. But you never know.
+dialog: Actually, in cases like this, where the end is inevitable, I recommend
+dialog: that we increase the dosage on the morphine drip at an accelerated
+dialog: rate. There's no point in making this last longer than it has to.
+speaker_heading: ED
+dialog: Whatever you think is best.
+text: The doctor nods, then walks into the hospital
+text: room where, we see now, Ed's MOTHER is lying in a hospital bed, hooked
+text: up to a digital IV. She is old, but looks older - she's been through
+text: chemotherapy and radiation and they have all taken their toll.
+text: She stares at Ed with confused and desperate eyes. It is hard to tell if she is looking at him or not.
+text: The doctor, at the door, has a few words with the NURSE, who then looks into the room.
+text: Ed sits next to his mother and takes her hand. She stares at him.
+text: The nurse comes in and pushes a button on the
+text: digital IV. Ed watches the LED numbers on the digital IV go up. The
+text: nurse smiles an attempt at comfort, then leaves the room.
+text: Mother reacts to the higher dosage of morphine.
+text: Her eyes get wider and more delirious. She sits up a little and tenses
+text: her muscles. She lets go of Ed's hand and starts moving her arm up and
+dialog: down.
+text: She starts shouting something. At first, it is completely unintelligible, but slowly, it becomes clearer.
+speaker_heading: MOTHER
+text: IT MEANS YOU'RE GOING TO HELL! IT MEANS YOU'RE GOING TO HELL! IT MEANS YOU'RE GOING TO HELL!
+text: Ed stands up and backs away. He backs out of the hospital room as his mother continues to scream.
+text: Ed backs into the hallway, which is now blackness.
+text: As he backs away, another noise starts to echo around him. A banging. A loud banging is coming from upstairs.
+text: Ed backs away and then runs upstairs.
+scene_heading: INT. HALLWAY - DAY
+text: As Ed opens the basement door, he sees that it is bright daylight again.
+scene_heading: INT. LIVING ROOM
+text: Ed opens the front door and before he can react, a fist hits him hard in the face.
+text: Ed falls to the ground, next to a pile of letters that has been dropped through the slot in the door.
+text: GEORGE SIMIAN walks in, wearing a track suit.
+dialog: George, 35, is a stronger man than Ed. He is better looking, too, or,
+text: at least, younger. He has a genuine honesty about him, like a big boy.
+text: It is this boyish quality that makes his anger seem uncontrollable.
+speaker_heading: GEORGE
+dialog: You son of a bitch. Get up.
+text: Ed staggers to his feet. He tries to get a swing
+text: in at George, but George grabs him by the collar, hits him again, then
+text: throws him over the coffee table. Ed hits the phone and the answering
+text: machine on the way down.
+speaker_heading: GEORGE
+speaker_heading: EVE!
+text: When Ed doesn't say anything, George starts searching around the house.
+speaker_heading: GEORGE
+speaker_heading: (O.S.)
+speaker_heading: EVE!
+text: Ed can hear George searching around in the other rooms.
+text: He gets up and sits on the couch, nursing his wounds.
+text: After a minute, George comes back into the living room.
+speaker_heading: GEORGE
+dialog: What have you done?
+speaker_heading: ED
+dialog: Don't hit me again.
+speaker_heading: GEORGE
+dialog: You son of a bitch.
+text: George sits down on a chair across from Ed.
+speaker_heading: GEORGE
+dialog: You son of a bitch.
+speaker_heading: ED
+dialog: What did you think would happen? Nothing?
+speaker_heading: GEORGE
+dialog: You did something.
+speaker_heading: ED
+dialog: I did what I always do. I woke up, went to my shitty
+dialog: job, came home and cooked dinner for my wife, who was too busy bouncing
+dialog: up and down on your bedsprings to cook it herself. Not exactly what I
+dialog: had planned for my life. The same boring shit as always. Why don't you
+dialog: leave?
+speaker_heading: GEORGE
+dialog: I love her. I'm sorry. I know she's your wife.
+text: George is crying. Ed, despite himself, is moved.
+speaker_heading: ED
+dialog: What? Am I supposed to feel sorry for you now? Well, I
+dialog: won't. People think they can just carry on. They don't think that there
+dialog: might be consequences to their actions. You won't find sympathy here.
+dialog: Why don't you just leave?
+speaker_heading: GEORGE
+dialog: What did you do?
+speaker_heading: ED
+dialog: I didn't do anything. She didn't come home after work.
+text: George gets up and starts to leave.
+speaker_heading: ED
+dialog: Don't come back here again.
+text: George stops when he hears this and turns
+text: towards Ed with and angry look on his face. He grabs Ed's collar, picks
+text: him up from the couch and slugs him hard across the head. Ed lands on
+text: the floor, stunned and not moving.
+speaker_heading: GEORGE
+dialog: I swear. If I find out you did something to her, I'll kill you.
+text: Ed watches George leave and stays lying on the floor as George's car can be heard driving away outside.
+text: The telephone is lying on the floor, knocked off
+text: its cradle, just out of Ed's reach. Ed stares at it for a few seconds.
+text: It is making that beeping noise that phones make when they are off the
+dialog: hook too long.
+text: He slowly gets up and limps into the bathroom.
+scene_heading: INT. BATHROOM
+text: He looks in the mirror. His eye is swelling up
+text: already and his lip is bruised. He washes his lip off, and then takes a
+text: towel from the bathroom.
+scene_heading: INT. KITCHEN
+text: He fills the towel with ice and holds it to his head.
+scene_heading: INT. LIVING ROOM
+text: He picks up the phone as he walks into the
+text: living room and places it on the coffee table. He sits on the couch and
+text: stares at it for a second.
+text: Then he brings the phone over to his desk and finds Derm's business card. He sits down at the desk and calls Derm.
+speaker_heading: ED
+dialog: Hello. Detective?
+speaker_heading: DERM
+dialog: Mr Saxon?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: DERM
+dialog: I've been trying to call you.
+speaker_heading: ED
+dialog: You found her.
+speaker_heading: DERM
+dialog: No. I need to talk to you.
+speaker_heading: ED
+dialog: Detective. George Simian was just over here. He hit me.
+speaker_heading: DERM
+dialog: Are you OK?
+speaker_heading: ED
+dialog: I think so.
+speaker_heading: DERM
+dialog: Do you want me to call an ambulance?
+speaker_heading: ED
+dialog: I don't need an ambulance.
+speaker_heading: DERM
+dialog: I'll be right over.
+speaker_heading: ED
+dialog: OK.
+text: He hangs up the phone.
+text: He sits at the desk, resting the ice on his forehead.
+text: Then he notices something under the sofa. It grabs his attention. He gets up for a closer look.
+text: There are dust bunnies and dust under the edge
+text: of the sofa, like it hasn't been swept for a while. Ed kneels down and
+text: tries to peer under the sofa. It is dark underneath and he can't see
+dialog: anything.
+text: He reaches his fingers under and sweeps out a few dust bunnies.
+text: Then he reaches a little further under the sofa and sweeps out Eve's pinkie finger.
+text: He recoils at the sight of this. The finger has
+text: been neatly cut, as if by a sharp blade. Dust has clung to the clotted
+text: blood around the stump, but it is unquestionably a woman's pinkie
+dialog: finger.
+text: He stares at it for a second, curiously disgusted.
+text: He goes to pick it up, decides he doesn't want to touch it, then uses a tissue to pick it up.
+text: He hurries to the bathroom.
+scene_heading: INT. BATHROOM
+text: He drops the finger into the toilet with the tissue and flushes it.
+scene_heading: INT. LIVING ROOM
+text: He hurries to the edge of the couch with a sponge and cleans up the small amount of blood and dust left there.
+scene_heading: INT. KITCHEN
+text: He squeezes the sponge out until it is clean, then puts it aside.
+text: He lets out a huge sigh of relief.
+scene_heading: INT. LIVING ROOM
+text: Much of the ice has melted and the towel it was wrapped in is now soaking wet.
+scene_heading: INT. BATHROOM
+text: He takes the towel into the bathroom and rings it out.
+text: Then he looks over at the toilet. The finger is
+text: still there, floating like a cigarette butt. The water is pink from the
+text: blood, the tissue is gone, but the finger floats there defiantly.
+text: He flushes the toilet again, but this time stays to watch. The water goes down, but the finger stays buoyant and won't go down.
+text: There is a knock on the front door.
+text: Ed takes a bunch of toilet paper from the roll
+text: and tosses it over the finger. He flushes again, but the tank hasn't
+dialog: filled up yet and, if anything, this makes it longer until it will fill
+dialog: up again.
+text: There is another impatient knock at the door.
+speaker_heading: ED
+dialog: One second!
+text: Ed sits there waiting, listening to the toilet tank filling.
+text: The knocking outside is becoming more impatient.
+text: The tank finally fills. Ed flushes and watches.
+text: This time the paper he threw in clogs the toilet and the bowl quickly
+text: fills up with water.
+text: Ed reaches behind the toilet and turns off the water, stopping it from overflowing.
+text: He looks in the toilet and can't see the finger through the mess of toilet paper.
+text: There is another knock on the door.
+text: Ed closes the toilet lid.
+scene_heading: INT. HALLWAY
+text: Ed shuts the bathroom door firmly, takes a breath, and hurries out to meet Derm.
+scene_heading: INT. LIVING ROOM
+text: Ed answers the door. Derm comes in with two assistants, MAZUREK and SNYDER. Snyder is holding Ed's morning paper.
+speaker_heading: DERM
+dialog: Damn. You did take a couple of blows, didn't you.
+speaker_heading: ED
+dialog: I was just putting some ice on it.
+speaker_heading: DERM
+dialog: That's the best thing for it. Try to keep the swelling
+dialog: down. It's going to look worse tomorrow. You don't want to have a
+dialog: doctor examine you?
+speaker_heading: ED
+dialog: It's not necessary.
+speaker_heading: DERM
+dialog: Mr Saxon, Officer Mazurek and Officer Snyder. They'll be assisting me.
+speaker_heading: ED
+dialog: Hi.
+speaker_heading: MAZUREK
+dialog: How's it going?
+speaker_heading: SNYDER
+dialog: Here. I brought this in.
+text: Snyder hands Ed the newspaper.
+speaker_heading: ED
+dialog: Thanks.
+speaker_heading: DERM
+dialog: You say it was George Simian who hit you?
+speaker_heading: ED
+dialog: Yes, he did. He came barreling in here and hit me. Several times.
+speaker_heading: DERM
+dialog: Do you have any idea why he would come here?
+speaker_heading: ED
+dialog: Because he's a fucking asshole.
+speaker_heading: DERM
+dialog: I should say that I'm concerned that he would come
+dialog: here. Mr Simian has a history of violent behavior, in regards to
+dialog: domestic disputes.
+speaker_heading: ED
+dialog: What kind of history?
+speaker_heading: DERM
+dialog: Nothing too serious. No felonies. But enough, I think,
+dialog: to warrant some concern. With your permission, I'd like to fill in a
+dialog: complaint report for his assault on you, and as soon as we're finished
+dialog: here, I'll send these two over to arrest him, assuming he can be found.
+speaker_heading: ED
+dialog: You think he did something to Eve?
+speaker_heading: DERM
+dialog: We don't have any evidence that he's even seen your
+dialog: wife she left her office and disappeared. We'll be arresting him solely
+dialog: for his assault on you.
+speaker_heading: ED
+dialog: But Eve's car. You said you found her car near his house.
+speaker_heading: DERM
+dialog: It does no one any good to jump to conclusions.
+speaker_heading: ED
+dialog: I guess I misunderstood.
+speaker_heading: DERM
+dialog: We're going to have to take some pictures of you for
+dialog: the complaint report. The pictures will be used as evidence against Mr
+dialog: Simian if this matter does, eventually, go to trial.
+speaker_heading: ED
+dialog: Fine.
+text: Derm turns to Snyder, who has heard this conversation, and Snyder begins to take pictures of Ed.
+speaker_heading: DERM
+dialog: Mr Saxon. These investigations can be quite demanding,
+dialog: especially when experiencing the trauma of loss. Do you understand what
+dialog: I am saying?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: DERM
+dialog: If you feel that you need someone to talk to, at any
+dialog: time, there are people, sometimes victims of similar situation
+dialog: themselves, who are will to listen and would like to help.
+text: He hands Ed a business card which reads Human Support Services, and has some address and phone information on it.
+speaker_heading: DERM
+dialog: Are you aware that your wife has been having an affair?
+speaker_heading: ED
+dialog: With George Simian?
+speaker_heading: DERM
+dialog: Yes.
+speaker_heading: ED
+dialog: The P.E. teacher. I guess I should have known.
+speaker_heading: DERM
+dialog: Apparently your wife has been seeing him for some time. Almost a year, in fact.
+speaker_heading: ED
+dialog: A year?
+speaker_heading: DERM
+dialog: Do you consider that you and your wife have a normal relationship?
+speaker_heading: ED
+dialog: I don't know. Normal relationship. We get on each
+dialog: other's nerves, have sex a few times a year, order pizza on Fridays.
+dialog: We've been married for ten years. It doesn't stay rosy forever. Maybe
+dialog: it isn't paradise, but that doesn't mean that I don't love her.
+speaker_heading: DERM
+dialog: Are you having any other relationships?
+speaker_heading: ED
+dialog: No.
+speaker_heading: DERM
+dialog: Does your wife keep a diary?
+speaker_heading: ED
+dialog: No. She isn't the type.
+speaker_heading: DERM
+dialog: Mr Saxon. May I be frank?
+speaker_heading: ED
+dialog: Yes. Please.
+speaker_heading: DERM
+dialog: Cases involving missing persons are not uncommon. In
+dialog: many cases, and that is not to say in every case, but in many cases,
+dialog: the results are unfortunate.
+speaker_heading: ED
+dialog: My God.
+speaker_heading: DERM
+dialog: I'm not saying that you should give up hope, but my
+dialog: experience tells me that you should prepare yourself for the worst.
+dialog: Now, having said that, we will do everything in our power to find your
+dialog: wife.
+speaker_heading: ED
+dialog: I understand.
+speaker_heading: DERM
+dialog: Now, it's best if we can gather as much information as
+dialog: possible, as quickly as possible. I'm sure you understand the urgency
+dialog: here.
+speaker_heading: ED
+dialog: Of course.
+speaker_heading: DERM
+dialog: It will be necessary for us to search through some of your wife's personal items.
+speaker_heading: ED
+dialog: I'm sure I can find whatever it is that you want.
+speaker_heading: DERM
+dialog: It's really in your wife's best interests if you allow
+dialog: us to do it. We won't disturb anything or touch anything without your
+dialog: permission.
+speaker_heading: ED
+dialog: Alright.
+speaker_heading: DERM
+dialog: How about we start in the bedroom?
+speaker_heading: ED
+dialog: The bedroom.
+speaker_heading: DERM
+dialog: Yes.
+speaker_heading: ED
+dialog: Right. I'll show you.
+text: Ed stands up and leads them into the bedroom.
+scene_heading: INT. HALLWAY
+text: They pass by the bathroom. The gurgling noises
+text: from the plumbing echo around the hallway, and while the police don't
+dialog: seem to pay it any mind, Ed can definitely hear it.
+scene_heading: INT. BEDROOM
+text: Ed looks around the bedroom quickly before they go in.
+speaker_heading: ED
+dialog: Here you go. It's sort of a mess.
+speaker_heading: DERM
+dialog: Do you know where your wife keeps her credit card receipts?
+speaker_heading: ED
+dialog: Yes. Sure. This way.
+text: Ed leads Derm to Eve's room, leaving the two assistants in the bedroom.
+scene_heading: INT. EVE'S ROOM
+text: Ed goes over to Eve's writing desk and looks over the papers lying on top.
+speaker_heading: DERM
+dialog: Nice room.
+speaker_heading: ED
+dialog: You like it?
+speaker_heading: DERM
+dialog: Yeah. Very Magritte. It's like a nursery.
+speaker_heading: ED
+dialog: I guess it is. I always through it was more of a conservatory.
+speaker_heading: DERM
+text: With the piano.
+speaker_heading: ED
+dialog: Right. She plays in here sometimes. It's nice. We
+dialog: always wanted to fix up the whole house, but, this is the only room we
+dialog: got to.
+speaker_heading: DERM
+dialog: Things always cost more than you think.
+speaker_heading: ED
+dialog: Yeah, I don't know what happened. Anyway, we share a credit card, but she mostly uses her own.
+speaker_heading: DERM
+dialog: If someone has taken your wife, there's a chance they
+dialog: might have used one of her credit cards. Or she might have used it
+dialog: herself.
+text: Ed pulls at the locked drawer in the writing table.
+speaker_heading: ED
+dialog: I think she keeps the receipts in here, but I don't have a key.
+text: Derm looks at the lock.
+speaker_heading: DERM
+dialog: Let me try.
+text: Ed gets out of the way and Derm sits in the
+text: chair to examine the lock more closely. He presses his thumbs against
+text: the desk and breaks the wood around the lock, forcing the drawer open.
+speaker_heading: DERM
+dialog: There we go.
+speaker_heading: ED
+dialog: I could have done it if I wanted to break it.
+speaker_heading: DERM
+dialog: I'm sure she'll understand.
+speaker_heading: ED
+dialog: She won't. I promise.
+text: Ed sits back down and searches through the drawer. He finds some credit card receipts and sorts through them.
+speaker_heading: MAZUREK
+dialog: Detective Derm.
+text: Mazurek comes into the office carrying Sadie's sweater, which has blood all over it.
+text: Snyder follows Mazurek in and looks over Mazurek's shoulder.
+speaker_heading: MAZUREK
+dialog: It was under the bed, sir.
+text: Derm takes the sweater and looks at the blood on it.
+speaker_heading: DERM
+dialog: Is this your wife's?
+speaker_heading: ED
+dialog: No.
+speaker_heading: DERM
+dialog: There's blood on this sweater, Mr Saxon.
+speaker_heading: ED
+dialog: Yes, I know. A student. Detective, this is going to
+dialog: sound awkward, I guess, but a student of mine came to the house
+dialog: yesterday, after you were here. She was nervous, I suppose. She had a
+dialog: bloody nose.
+speaker_heading: DERM
+dialog: Why would she have been nervous?
+speaker_heading: ED
+dialog: I don't know, but she seemed nervous.
+speaker_heading: DERM
+dialog: That is awkward, isn't it.
+speaker_heading: ED
+dialog: I suppose it is. I gave her one of my wife's sweaters to wear home. She must have left that one by accident.
+speaker_heading: DERM
+dialog: By accident? Under the bed?
+speaker_heading: ED
+dialog: I don't know.
+speaker_heading: DERM
+dialog: What was her name?
+speaker_heading: ED
+dialog: Sadie. Sadie Crumb.
+text: Derm finds a small, printed name-tag reading
+text: Sadie Crumb sewn into the collar. Derm shows it to Mazurek and then
+text: indicates for him to go back to the bedroom.
+text: Derm shows the label to Ed.
+speaker_heading: DERM
+dialog: Do you have this girl's phone number? I'd like to talk to her.
+speaker_heading: ED
+dialog: I don't think so. Maybe.
+text: Ed gets up and walks into the -
+scene_heading: INT. LIVING ROOM
+text: - where his desk is. He searches around and quickly finds a photocopy of a hand-written list of phone numbers.
+speaker_heading: DERM
+dialog: I should call her.
+speaker_heading: ED
+dialog: Sure. Here.
+text: He hands him the phone. Derm dials the number.
+speaker_heading: ED
+dialog: I didn't tell her about my wife. I didn't see any reason to.
+text: Derm reaches into his pocket and pulls out a
+text: roll of Tums. He takes a couple and chews them and it obviously puts a
+text: bad taste in his mouth.
+speaker_heading: DERM
+dialog: Could I trouble you for a glass of water?
+speaker_heading: ED
+dialog: Sure.
+dialog: Ed walks into the -
+scene_heading: INT. HALLWAY
+text: He passes by the bathroom and stops by the
+text: bedroom door. He looks into the bedroom where the officers are
+text: searching through his stuff. They find a copy of Hustler Magazine and
+text: they chuckle about it, before they notice Ed watching them.
+text: As he watches, he can hear Derm talking to Sadie.
+speaker_heading: DERM
+speaker_heading: (O.S.)
+dialog: Hi. May I speak to Sadie Crumb, please? This is
+dialog: Detective Derm of the Seattle Police Department. Can I ask you a few
+dialog: questions?
+text: The officers turn and stare at Ed until he leaves.
+scene_heading: INT. KITCHEN
+text: Ed takes a glass from the cupboard. He takes it
+text: over to the sink and fills it with water. The tap makes enough noise so
+text: that he can't hear anything else.
+scene_heading: INT. HALLWAY
+text: As Ed passes the bathroom door, the gurgling
+text: noises from the plumbing get louder. He makes sure the door is firmly
+text: shot and then brings the glass of water to Derm.
+scene_heading: INT. LIVING ROOM
+text: Derm hangs up the phone and drinks the water.
+speaker_heading: DERM
+dialog: Thank you.
+speaker_heading: ED
+dialog: Well?
+speaker_heading: DERM
+dialog: She sounded very nice. You know, I think she left her sweater under your bed on purpose.
+speaker_heading: ED
+dialog: Why would she do that?
+speaker_heading: DERM
+dialog: So that she'd have a reason to come back.
+speaker_heading: ED
+dialog: I see.
+text: Derm sees an open box of Skin-EE( cookies.
+speaker_heading: DERM
+dialog: Hey. My wife loves those things. I swear, she eats them by the box. I think they taste like shit.
+speaker_heading: ED
+dialog: I know. I hate them. Sometimes I think she eats them just to spite me.
+speaker_heading: MAZUREK
+dialog: Detective Derm.
+text: Derm looks at Ed, then goes into the other room. Ed follows.
+scene_heading: INT. HALLWAY
+speaker_heading: DERM
+dialog: Did you go to work today, Mr Saxon?
+speaker_heading: ED
+dialog: No. I guess I didn't.
+speaker_heading: DERM
+dialog: If you'd like, I can call the University for you and explain the situation. It might help. I'm sure they would understand.
+speaker_heading: ED
+dialog: I don't think it's necessary.
+speaker_heading: DERM
+dialog: Well, the offer stands if you change your mind later.
+speaker_heading: ED
+dialog: It's just that, I don't want them to know anything about all this. At least not yet.
+speaker_heading: DERM
+dialog: I understand.
+dialog: They walk into the -
+scene_heading: INT. BEDROOM
+text: Mazurek is holding a small, fabric-bound writing book.
+speaker_heading: DERM
+dialog: What's that?
+speaker_heading: MAZUREK
+dialog: Looks like a diary, sir.
+speaker_heading: DERM
+dialog: Let's have a look.
+text: Derm looks it over, reads the last couple of entries quickly.
+speaker_heading: DERM
+dialog: Where'd you find this?
+speaker_heading: MAZUREK
+text: Behind the bedside table.
+speaker_heading: ED
+dialog: I didn't know.
+speaker_heading: DERM
+dialog: We have to keep some things to ourselves, or we'd go crazy. This is your wife's handwriting?
+text: He shows him the diary.
+speaker_heading: ED
+dialog: Yes. Can I look at that?
+speaker_heading: DERM
+dialog: Of course.
+text: Ed takes the diary and wanders into Eve's room, flipping through it as he walks.
+scene_heading: INT. EVE'S ROOM
+text: Ed flips through the last pages of the diary. He
+text: reads for a minute. Some distant noises are coming from the neighbor's
+text: house. While we can't hear exactly what is being said, it is clear that
+text: a man is saying something funny and a woman is laughing hysterically.
+text: Ed reads for a minute until, astonished, he puts it down and looks up at Derm, who is standing in the doorway watching him.
+speaker_heading: ED
+dialog: I guess you never really know anyone.
+speaker_heading: DERM
+dialog: You didn't know that you're wife is pregnant?
+speaker_heading: ED
+dialog: No.
+speaker_heading: DERM
+dialog: I'm sorry. I talked to her doctor yesterday. I thought you knew.
+text: Mazurek comes up behind Derm and says something inaudibly in his ear.
+speaker_heading: DERM
+dialog: Is it alright if Mazurek uses the bathroom?
+speaker_heading: ED
+dialog: Excuse me?
+speaker_heading: DERM
+dialog: The bathroom. May we use the bathroom? We might be here for a while.
+speaker_heading: ED
+dialog: No. The toilet is stuffed up. Actually. Do you mind leaving? I just would like to be alone.
+speaker_heading: DERM
+dialog: Mr Saxon. I'm sorry about the intrusions into your
+dialog: privacy, but you must understand: my first priority is finding your
+dialog: wife. There is still a great deal to go over. We might want to notify
+dialog: the press.
+speaker_heading: ED
+dialog: The press?
+speaker_heading: DERM
+dialog: In cases like this, when we don't have many substantial leads, getting a picture of your wife on TV can be invaluably helpful.
+speaker_heading: ED
+dialog: I don't know if I'm comfortable with that.
+speaker_heading: DERM
+dialog: We still have options left, but without a thorough search of your wife's belongings, those options are extremely limited.
+speaker_heading: ED
+dialog: I want to be helpful, but I really don't see how, if
+dialog: you think she was kidnapped, I don't see how it helps you to search
+dialog: around our things.
+speaker_heading: DERM
+dialog: We don't know that she was kidnapped. We can't draw
+dialog: those kinds of conclusions. She could have simply decided that she
+dialog: needed some time alone. We have to consider every possibility.
+speaker_heading: ED
+dialog: I just don't see how it helps.
+speaker_heading: DERM
+dialog: I don't want to argue with you. We're trying to help you. This is our job.
+speaker_heading: ED
+dialog: I understand.
+speaker_heading: DERM
+dialog: It is in the best interest of your wife that you let us do that job without impediment.
+speaker_heading: ED
+dialog: I don't want to get in the way. I just would like some
+dialog: time alone. You can comes back tomorrow, but, please. I'm very tired. I
+dialog: know it might seem irrational, but I haven't slept in a long time and
+dialog: this is all extremely overwhelming. Please. I need to be alone.
+speaker_heading: DERM
+dialog: Certainly. If I could just take those receipts.
+speaker_heading: ED
+dialog: Sure. Here. Take them all.
+text: The receipts are on the desk in front of him and he hands them to Derm.
+text: Derm reaches out for the diary.
+speaker_heading: ED
+dialog: I'd like to keep this.
+speaker_heading: DERM
+dialog: There are some things it may be better not to know, especially if your wife comes back.
+speaker_heading: ED
+dialog: I can give it to you tomorrow, if you still want it.
+text: Ed leaves the diary on Eve's writing table and walks the officers out.
+scene_heading: INT. LIVING ROOM
+speaker_heading: DERM
+dialog: Mr Saxon. Is there something wrong with your answering machine?
+speaker_heading: ED
+dialog: Yes. It broke when I fell on it.
+speaker_heading: DERM
+dialog: You haven't been answering your phone.
+speaker_heading: ED
+text: It hasn't rung.
+text: Derm looks at the phone and sees the ringer is turned off.
+speaker_heading: DERM
+text: The ringer is off.
+speaker_heading: ED
+dialog: Oh. I must have turned it off.
+speaker_heading: DERM
+dialog: What if your wife calls?
+speaker_heading: DERM
+dialog: Yes. Of course. I wasn't thinking.
+speaker_heading: DERM
+dialog: Could you please leave the phone on from now on?
+speaker_heading: ED
+dialog: Yes. I thought I was. OK. Thank you.
+speaker_heading: DERM
+dialog: I'll be calling to let you know how things go with Mr Simian.
+speaker_heading: ED
+dialog: Yes. Thank you.
+text: Derm and the officers leave.
+text: Ed lets out a sigh of relief. He touches his forehead and it obviously hurts.
+text: He goes back into the bathroom.
+scene_heading: INT. BATHROOM
+text: He opens the medicine cabinet and searches
+text: through the plethora of over-the-counter medicine crowding the shelves.
+text: He takes a bottle of Midol, or some other feminine pain-killer. He
+text: takes a few of them and chases them down with a handful of tap water.
+text: Then he turns to the toilet, lifts the lid and looks at the stuffed-up mess.
+text: He rolls up his sleeve and sticks his hand in the bowl. He searches around for the finger.
+text: The phone rings. He gives up searching and, with some wet toilet paper stuck to his arm, hurries to answer the phone.
+scene_heading: INT. LIVING ROOM
+text: Ed picks up the phone.
+speaker_heading: ED
+dialog: Hello.
+speaker_heading: MRS MASTRIONI
+text: Mr Saxon. This is Mrs Mastrioni, from the Dean's office.
+speaker_heading: ED
+dialog: Yes?
+speaker_heading: MRS MASTRIONI
+dialog: Mr Saxon. You are supposed to call us when you plan on missing class. There were students waiting for you.
+speaker_heading: ED
+dialog: Yes. I know. I'm just having some personal problems.
+speaker_heading: MRS MASTRIONI
+dialog: Anyway, the Dean wants to see you.
+speaker_heading: ED
+dialog: The Dean?
+speaker_heading: MRS MASTRIONI
+dialog: Yes. Can you come in today?
+speaker_heading: ED
+dialog: No. What does he want to see me about?
+speaker_heading: MRS MASTRIONI
+dialog: I don't know.
+speaker_heading: ED
+dialog: Is it about me missing classes?
+speaker_heading: MRS MASTRIONI
+dialog: It might be.
+speaker_heading: ED
+dialog: What's that supposed to mean?
+speaker_heading: MRS MASTRIONI
+dialog: It means that if I was the Dean, and I wanted to see you, that is what it would be about.
+speaker_heading: ED
+dialog: What kind of bullshit is that?
+speaker_heading: MRS MASTRIONI
+dialog: There's no need to get upset, Mr Saxon.
+speaker_heading: ED
+dialog: Am I being fired? Is that it?
+speaker_heading: MRS MASTRIONI
+dialog: Look, I don't know. The Dean said he wanted to see you.
+speaker_heading: ED
+dialog: Well, I can't see him.
+speaker_heading: MRS MASTRIONI
+dialog: Personal problems?
+speaker_heading: ED
+dialog: That's right. Yes.
+speaker_heading: MRS MASTRIONI
+dialog: That's too bad.
+speaker_heading: ED
+dialog: Yes it is too bad. Because I know what you're trying to do.
+speaker_heading: MRS MASTRIONI
+dialog: Really? What's that?
+speaker_heading: ED
+dialog: You know what? Why don't you tell the Dean to go fuck himself?
+speaker_heading: MRS MASTRIONI
+dialog: Mr Saxon...
+speaker_heading: ED
+dialog: And you go fuck yourself too.
+speaker_heading: MRS MASTRIONI
+dialog: Does this mean that you won't be coming to class tomorrow?
+speaker_heading: ED
+dialog: Fuck you!
+text: Ed slams the phone down.
+scene_heading: INT. BATHROOM
+text: Ed takes the bottle of Midol from the medicine cabinet and takes a few more.
+text: Then he notices a trail of pink water leading from the toilet, along the bathroom floor and into the hallway.
+text: He follows the trail.
+scene_heading: INT. HALLWAY
+text: The trail leads up to the pinkie finger. Ed
+text: watches while the finger moves, inchworm-like, across the floor, toward
+text: Eve's room, leaving a wet trail behind it.
+text: Ed watches for a second while he decides what to do.
+text: He quickly grabs the finger and takes it to the
+text: kitchen sink. He drops it in the sink, pushes it down the drain and
+text: flicks the garbage disposal on. He turns the water on and leaves it
+text: running until it sounds like there is nothing left of the finger.
+text: When he turns it off, he sticks his hand in, searching for any remnants of the finger. It appears to have gone down.
+text: He takes the sponge and wets it.
+scene_heading: INT. HALLWAY
+text: He wipes up the trail of the finger, following it back into the bathroom.
+scene_heading: INT. BATHROOM
+text: He looks at the toilet, which is still stuffed up.
+scene_heading: INT. BASEMENT
+text: Ed searches around the basement for a plunger. The basement is full of strange sounds, all ruminating from the exposed pipes.
+text: He finds a plunger among some other tools and
+text: starts back upstairs, but on his way upstairs, he finds that there is a
+text: puddle of water on the floor. He traces the source of the puddle to the
+text: pipe that was only moist before. It is now dripping slowly and a large
+text: pool of dirty water is collecting in the shallow recess of the cement
+dialog: floor.
+text: Ed stares into the murky, black pool.
+text: There is a knock on the door upstairs and Ed turns to answer it.
+scene_heading: INT. LIVING ROOM - NIGHT
+text: Ed answers the door and sees that it is now dark outside.
+text: GEOFFREY COSTAS stands outside. Geoffrey, 54, is
+text: a wise, patient man. He is formal and calm in his manner, but these
+text: qualities belie a warm emotional vulnerability. Physically, he is not
+dialog: small or weak. One gets the impression that he wasn't always so kind.
+speaker_heading: GEOFFREY
+dialog: Mr Saxon?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: GEOFFREY
+dialog: Hello. My name is Geoffrey Costas. I'm from Human Support Services.
+speaker_heading: ED
+dialog: I'm not interested.
+speaker_heading: GEOFFREY
+dialog: Detective Derm asked me to stop by.
+text: He hands him a business card. Ed takes the card and looks it over.
+speaker_heading: GEOFFREY
+dialog: You've been hit.
+speaker_heading: ED
+dialog: I'm fine. I don't need a doctor.
+text: He tries to hand the card back.
+speaker_heading: GEOFFREY
+dialog: Oh, I'm not a physician. I'm a psychiatrist. But I'm not here on business. This is my time off.
+speaker_heading: ED
+dialog: This is a personal visit? I don't understand.
+speaker_heading: GEOFFREY
+dialog: Human Services is a volunteer organization. We offer assistance to victims of traumatic crimes.
+speaker_heading: ED
+dialog: What kind of assistance?
+speaker_heading: GEOFFREY
+dialog: Advice, support, a shoulder to cry on.
+speaker_heading: ED
+dialog: Why would I want to cry on your shoulder?
+speaker_heading: GEOFFREY
+dialog: Maybe you just want someone to talk to. It can be a lonely world when those you love are taken from you.
+speaker_heading: ED
+dialog: No. I don't think so.
+speaker_heading: GEOFFREY
+dialog: Well, you have my card. If you feel like talking at another time, please feel free to call.
+speaker_heading: ED
+dialog: Actually, there is something you can help me with. I've been having trouble sleeping.
+speaker_heading: GEOFFREY
+dialog: That's understandable, under the circumstances.
+speaker_heading: ED
+dialog: Is there something you can give me?
+speaker_heading: GEOFFREY
+dialog: You mean a prescription?
+speaker_heading: ED
+dialog: You're a doctor, aren't you?
+speaker_heading: GEOFFREY
+dialog: Yes.
+speaker_heading: ED
+dialog: I can't seem to find anything strong enough.
+speaker_heading: GEOFFREY
+dialog: You're anxious.
+speaker_heading: ED
+text: Yes. I can't sleep. It makes me anxious. Or maybe I can't sleep because I'm anxious. I don't know.
+speaker_heading: GEOFFREY
+dialog: How long has this been going on?
+speaker_heading: ED
+dialog: A long time.
+speaker_heading: GEOFFREY
+dialog: Weeks?
+speaker_heading: ED
+dialog: Oh, yes.
+speaker_heading: GEOFFREY
+dialog: You must have slept some.
+speaker_heading: ED
+dialog: Maybe I do. But I don't seem to get the benefits. I
+text: never feel rested. There just doesn't seem to be the time to relax
+dialog: anymore. I'm always two steps behind. I have to stop the thinking. The
+dialog: longer I stay awake, the more my thoughts become frantic, irrational.
+dialog: If I don't get some sleep soon, nothing is going to make any sense.
+speaker_heading: GEOFFREY
+dialog: I see. May I come in?
+speaker_heading: ED
+dialog: Yes. Come in.
+text: Geoffrey comes in and places his briefcase on the table inside.
+speaker_heading: GEOFFREY
+dialog: There are times when the pressures of everyday life
+dialog: become overwhelming. As a doctor, I notice more and more of my patients
+dialog: experiencing similar symptoms. I'm afraid it's a sign of the times, as
+dialog: much as anything else.
+speaker_heading: ED
+dialog: Can you help me?
+speaker_heading: GEOFFREY
+dialog: Like I said, I'm not here on a professional basis. Your
+text: insomnia is merely a symptom of a greater unwholesomeness. A lasting
+dialog: treatment may be extremely hard to come by. There's very little we can
+dialog: hope to accomplish with pharmaceuticals alone. However, under the
+dialog: circumstances, I can give you something to help you sleep. Do you have
+dialog: health insurance?
+speaker_heading: ED
+dialog: Yes, through work.
+text: Geoffrey takes a prescription pad from his briefcase and scribbles out a prescription.
+speaker_heading: GEOFFREY
+dialog: The prescription I'm going to write for you is
+dialog: expensive, so I recommend you save the receipt for your insurance
+dialog: company. I'm sure they'll cover it. These pills are quite new. I've
+dialog: been prescribing them to my patients who travel a great deal, for their
+dialog: jet lag. They will help stabilize your internal clock by chemically
+dialog: suppressing certain amino acids in your brain.
+speaker_heading: ED
+dialog: Will it help me sleep?
+speaker_heading: GEOFFREY
+dialog: Oh, yes. Now, take two at night, and don't take more than six in a day. OK?
+speaker_heading: ED
+dialog: Yes. Thank you.
+text: Geoffrey shuts his briefcase and starts to leave.
+speaker_heading: GEOFFREY
+dialog: I'm glad I could help. How about I check in on you tomorrow afternoon?
+speaker_heading: ED
+dialog: Tomorrow?
+speaker_heading: GEOFFREY
+dialog: To see how you're doing?
+speaker_heading: ED
+dialog: I don't know.
+speaker_heading: GEOFFREY
+dialog: For what it's worth, I understand your position better
+dialog: than you think. Don't shut it all out. Sometimes that fragile
+dialog: connection to the rest of the world is all we have. I sincerely hope
+dialog: things turn out for you. Tomorrow then?
+speaker_heading: ED
+dialog: Tomorrow.
+text: Ed shuts the door behind Geoffrey.
+scene_heading: INT. BATHROOM
+text: Ed works the plunger in the toilet. The water is
+text: still pink from the finger, but also might be pink from the pink toilet
+text: paper that is now broken up and mixed in with the water.
+text: He plunges the toilet a few more times and then
+text: stops to see if it is working. The water slowly goes down. He reaches
+text: behind the toilet and turns the water back on. He flushes it and it
+text: seems to be working again, albeit weakly.
+text: He sits on the edge of the bathtub and takes a
+text: breath. The water in the tub hasn't gone down, so he takes the plunger
+text: and starts to work it over the drain.
+text: After a minute, he sees that it isn't working.
+text: He reaches into the drain and pulls out a huge clump of scum-filled
+text: hair. It is repulsive to Ed. He throws it into the toilet.
+text: The water in the bathtub still hasn't gone down.
+scene_heading: INT. KITCHEN
+text: He searches under the sink through an exhaustive
+text: supply of cleaning supplies. He eventually pulls out a king-size
+dialog: container of Drano.
+scene_heading: INT. BATHROOM
+text: He reads the back of the container quickly, then pours the whole thing down the drain.
+text: He watches it for a second, waiting for it to go down.
+text: Slowly, then softly, the piano can be heard playing in the other room.
+text: Ed listens to it before following it down the hallway.
+scene_heading: INT. HALLWAY
+text: The lamp on Eve's writing desk is on and it lights up the end of the hallway. The music still seems to be coming from her room.
+scene_heading: INT. EVE'S ROOM
+text: Ed comes in and looks around the room. There is no one playing the piano, but the music continues over the rest of the scene.
+text: Ed's attention turns to the diary, which is
+text: still sitting on the desk where he left it. Ed sits in the chair and
+text: starts paging through Eve's diary. The piano continues playing.
+text: We hear Eve's voice as it must have been when she was writing.
+speaker_heading: EVE
+speaker_heading: (V.O.)
+dialog: More than three weeks late. Damn. I'm so stupid. I
+dialog: haven't told George because I'm sure he would use this as an excuse to
+dialog: pressure me to leave Ed. And how can I tell Ed. There's no way he could
+dialog: be the father. We haven't had sex in months. He would know it isn't is.
+text: Ed flips back a few pages.
+text: As he does, the camera starts to travel around
+text: the room, passing the piano, and then a few pictures from Eve's past,
+text: then some souvenirs on a shelf.
+speaker_heading: EVE
+speaker_heading: (V.O.)
+dialog: Saw a movie last night with George. It was awful; just
+dialog: the kind of movie Ed hates. I wanted to tell him about it, but I
+dialog: couldn't. I told him I was at Susie's. George loved it, of course. I
+dialog: think he likes every movie. Still, it was nice to go out on a date like
+dialog: that. It was fun.
+scene_heading: INT. HALLWAY
+text: Now the camera has turned to the empty hallway. It slowly moves toward the bathroom.
+speaker_heading: EVE
+speaker_heading: (V.O.)
+text: Ed came home in a shitty mood and started picking a
+dialog: fight with me about a coffee cup I broke last week. It was the last
+dialog: thing I needed, today especially. Sometimes I fucking hate him. He can
+dialog: be such a shit.
+scene_heading: INT. KITCHEN
+text: The camera pans over the glass that has Eve's lipstick on it.
+speaker_heading: EVE
+speaker_heading: (V.O.)
+dialog: I can't believe what a jock George is. I knew he worked
+dialog: out, but he really takes car of himself. After we had sex, I was
+dialog: embarrassed to let him see me naked. How could I have gotten so fat?
+dialog: I'm going back to the gym tomorrow. I've really let myself go to pot.
+dialog: Maybe I'll get him a softball bat for his birthday next week.
+scene_heading: INT. BATHROOM
+text: The camera comes into the bathroom and passes over all of Eve's things sitting on the back of the toilet.
+speaker_heading: EVE
+speaker_heading: (V.O.)
+dialog: Ed doesn't sleep anymore. He's beginning to scare me.
+dialog: He takes all these pills to help him sleep, but they only make it
+dialog: worse. And he hates me. I can see it in his eyes. He blames me for
+dialog: everything that went wrong in his life. Maybe he's right. Maybe it is
+dialog: my fault. I feel so guilty about George that I can't argue with him
+dialog: anymore. I can't keep this up much longer. Fuck it. I'm going to tell
+dialog: him about George tomorrow. He knows anyway. He must know. He's been
+dialog: acting so weird. Poor Ed. He used to have so much ambition. And he's so
+dialog: talented. I just wish things had turned out better.
+text: The camera turns toward the bathtub, and
+text: focuses slowly in on the drain. A few bubbles pop out from under the
+text: water and the water starts to drain out. As the camera dollies in on
+text: the drain, the last of the murky water disappears.
+text: Ed, now standing in the bathroom, strikes a
+text: match and holds it up to the diary until the corner finally catches on
+text: fire. He fans out the pages so that it will catch more.
+text: When he can't hold it anymore, he drops it
+text: into the bathtub and watches it burn. He watches it until it has burnt
+text: itself out, burning into a pile of thick, black ashes.
+scene_heading: INT. HALLWAY
+text: Ed looks up at the smoke alarm. He tries to pull it down, but it is out of his reach.
+text: Ed grabs a chair from the living room and stands
+text: on it so that he can reach the alarm. He pulls the cover off the alarm
+text: and then the battery out and the alarm is finally silenced.
+text: Then he hears voices coming from outside the front door.
+text: He approaches the front door cautiously, then
+text: puts his ear up to the door and listens. The voices are muted and
+text: whispered, but Ed can still hear what is being said, although it is
+text: hard to tell who is talking.
+speaker_heading: HARVEY
+speaker_heading: (O.S.)
+dialog: No. I won't.
+speaker_heading: SADIE
+speaker_heading: (O.S.)
+dialog: You are so crazy.
+speaker_heading: HARVEY
+speaker_heading: (O.S.)
+dialog: I'm crazy? What about you?
+speaker_heading: SADIE
+speaker_heading: (O.S.)
+dialog: Quiet. He's going to hear you.
+speaker_heading: HARVEY
+speaker_heading: (O.S.)
+dialog: So what if he hears me. Who is he, anyway?
+speaker_heading: SADIE
+speaker_heading: (O.S.)
+dialog: God, you are being such an asshole.
+text: Ed opens the door quickly.
+scene_heading: EXT. PORCH - NIGHT
+dialog: Sadie and Harvey freeze like caught children.
+text: HARVEY, 19, looks younger than his is; his
+text: facial hair isn't capable yet of filling out his meager goatee. He
+text: seems hurt, like a spoiled child who hasn't gotten his way.
+speaker_heading: ED
+dialog: What's going on?
+speaker_heading: SADIE
+dialog: Christ. I'm so sorry.
+speaker_heading: HARVEY
+dialog: Who's this? Is this him?
+speaker_heading: SADIE
+dialog: Will you shut up?
+speaker_heading: HARVEY
+dialog: He's so old.
+speaker_heading: ED
+dialog: Excuse me?
+speaker_heading: SADIE
+dialog: Can we just go inside? Please?
+text: Ed lets Sadie inside.
+speaker_heading: HARVEY
+dialog: So that's it? You're going with him now?
+speaker_heading: SADIE
+dialog: You really don't understand anything.
+speaker_heading: HARVEY
+dialog: You said you loved me.
+speaker_heading: SADIE
+dialog: Jesus. Would you shut up? You are so embarrassing.
+speaker_heading: HARVEY
+dialog: Embarrassing? I'll tell you what's embarrassing. You with this fucking geriatric old man. That's embarrassing.
+speaker_heading: ED
+dialog: You little shit.
+text: Ed makes a move toward Harvey, but Harvey backs away quickly.
+speaker_heading: HARVEY
+dialog: Don't touch me!
+speaker_heading: SADIE
+dialog: Let's just go in, OK? He'll leave.
+speaker_heading: HARVEY
+dialog: User.
+speaker_heading: SADIE
+dialog: Stalker. Psycho.
+speaker_heading: HARVEY
+dialog: Slut.
+text: Sadie slams the door on him.
+scene_heading: INT. LIVING ROOM
+text: Sadie stands staring at the floor.
+speaker_heading: SADIE
+dialog: I can't believe that. You know, he followed me here.
+speaker_heading: ED
+dialog: He followed you?
+speaker_heading: SADIE
+dialog: Yeah. Do you believe it? Oh my God. What happened to you?
+speaker_heading: ED
+dialog: Somebody hit me.
+speaker_heading: SADIE
+dialog: Are you alright?
+speaker_heading: ED
+dialog: I'm fine.
+speaker_heading: SADIE
+dialog: Who hit you?
+speaker_heading: ED
+dialog: I really don't want to get into it.
+speaker_heading: SADIE
+dialog: I nearly had a heart attack when the police called me.
+speaker_heading: ED
+dialog: What did they ask you?
+speaker_heading: SADIE
+dialog: Just about me being here. About what happened.
+speaker_heading: ED
+dialog: But nothing happened.
+speaker_heading: SADIE
+dialog: That's what I told them.
+speaker_heading: ED
+dialog: They found your sweater. It has blood all over it.
+speaker_heading: SADIE
+dialog: You're kidding.
+speaker_heading: ED
+dialog: You left it under the bed.
+speaker_heading: SADIE
+dialog: Oh, yeah. Damn. I don't know why I do things like that.
+speaker_heading: ED
+dialog: What if my wife had found it?
+speaker_heading: SADIE
+dialog: Oh. Is she here?
+speaker_heading: ED
+dialog: No. Look, Sadie. I don't want you to get the wrong idea.
+speaker_heading: SADIE
+dialog: Don't be mad. It's just that I worry too much. You
+dialog: didn't come to class again. And you said you would. I started getting
+dialog: all these ideas. I called you, but nobody answered. I meant to bring
+dialog: your wife's sweater back, but I forgot it.
+speaker_heading: ED
+dialog: Actually, I'm glad you're here. Can you do me a favor?
+speaker_heading: SADIE
+dialog: Sure. Anything.
+speaker_heading: ED
+dialog: I have to get a prescription filled.
+speaker_heading: SADIE
+dialog: No problem.
+text: Ed finds the prescription on his desk.
+speaker_heading: ED
+dialog: I'd go myself, but I'm expecting a phone call.
+speaker_heading: SADIE
+dialog: Sure.
+text: He hands her the prescription.
+speaker_heading: ED
+text: There's a twenty-four pharmacy on Market.
+speaker_heading: SADIE
+dialog: I know the one. I go there all the time. It's like my second home.
+speaker_heading: ED
+dialog: I'll give you my credit card.
+text: Ed finds his wallet and hands her the card.
+speaker_heading: SADIE
+dialog: I'll be back in a minute.
+speaker_heading: ED
+dialog: Thank you.
+text: Sadie skips out the door and Ed shuts it behind her.
+scene_heading: INT. BATHROOM
+text: Ed turns on the shower, washing the ashes down the drain.
+text: After he's watched them go down, he takes a
+text: sponge and cleans off the burnt mark in the tub as best he can. He
+text: turns the shower on, rinsing it out.
+text: He turns the shower off and hears the phone is ringing.
+scene_heading: INT. LIVING ROOM
+text: Ed picks up the phone.
+speaker_heading: DERM
+dialog: Mr Saxon? Detective Derm.
+speaker_heading: ED
+dialog: Yes, hi.
+speaker_heading: DERM
+dialog: I wanted to let you know that we've taken Mr Simian into custody.
+speaker_heading: ED
+dialog: I understand.
+speaker_heading: DERM
+dialog: We found him at his place of work.
+speaker_heading: ED
+dialog: At the school?
+speaker_heading: DERM
+dialog: Yes. We arrested him there. He'll come up for
+dialog: arraignment tomorrow morning and then, as far as I can tell, he'll
+text: probably be released on his own recognizance.
+speaker_heading: ED
+dialog: I see.
+speaker_heading: DERM
+dialog: It's just standard procedure, but I thought I'd keep you informed.
+speaker_heading: ED
+dialog: Yes. Thank you. Did he say anything about Eve?
+speaker_heading: DERM
+dialog: Try to rest, Mr Saxon. We have a lot of ground to cover tomorrow.
+speaker_heading: ED
+dialog: I will. Thank you.
+speaker_heading: DERM
+dialog: Good night.
+text: Ed hangs up the phone.
+text: Then he hears some sounds coming from Eve's room.
+scene_heading: INT. EVE'S ROOM
+text: Ed takes a few steps into Eve's room. He traces the noises to the window and looks out at the neighbor's house.
+text: The light is on in the neighbor's window, and
+text: there are some vague shadows moving around on the closed curtain. As
+text: the noises get louder, it soon becomes clear that the neighbors are
+dialog: having sex.
+text: Ed peers out at the light in the window,
+text: listening to the woman's increasing moans. The woman seems to be in
+dialog: some sort of painful, orgasmic delight. In other words, it mostly
+dialog: sounds like she is having a good time, but there should be a growing
+dialog: suspicion that not all is right.
+speaker_heading: WOMAN
+speaker_heading: (O.S.)
+dialog: Oh. Oh. Oh! Oh! OH! OH! NO! NO! NO!
+text: Ed backs slowly away from the window. He hears someone knocking on the front door.
+scene_heading: INT. LIVING ROOM
+text: Ed opens the door and Sadie comes in holding a colorful paper bag.
+speaker_heading: ED
+dialog: Thank you.
+text: Ed takes the bag from Sadie and goes into the kitchen.
+scene_heading: INT. KITCHEN
+text: Sadie follows him in.
+text: Ed opens the pills quickly and swallows three of them with a glass of water.
+speaker_heading: SADIE
+dialog: Those pills cost a lot. They must be strong.
+speaker_heading: ED
+dialog: They're sleeping pills. I've been having trouble sleeping.
+speaker_heading: SADIE
+dialog: You must have anxiety. I can never get to sleep when I'm anxious.
+speaker_heading: ED
+dialog: I am anxious. Yes.
+text: Sadie takes some other stuff out of the bag. One
+text: of the items is an individually wrapped Skin-EE( fat-free cookie,
+dialog: chocolate, chocolate chip.
+speaker_heading: SADIE
+dialog: I got you some peroxide and stuff. And a cookie. I haven't eaten today.
+speaker_heading: ED
+dialog: You put it all on my credit card, right?
+speaker_heading: SADIE
+dialog: Actually, I paid for it. They wouldn't take your card.
+speaker_heading: ED
+dialog: Why not?
+speaker_heading: SADIE
+dialog: They said you hadn't paid your bill, on the phone. They called the credit card people when it didn't go through.
+speaker_heading: ED
+dialog: Damn. Well, I'll pay you back.
+speaker_heading: SADIE
+dialog: It's OK. I charged it to my Dad. I don't even pay the bill.
+speaker_heading: ED
+dialog: No, those pills are expensive. And my insurance will cover it anyway.
+speaker_heading: SADIE
+dialog: Pay me back later, then. Really, it's OK.
+speaker_heading: ED
+dialog: Are you sure?
+speaker_heading: SADIE
+dialog: It's fine. I swear.
+text: Sadie looks at the cuts on his face.
+speaker_heading: SADIE
+dialog: Your face must hurt.
+speaker_heading: ED
+dialog: No. I don't seem to feel anything.
+speaker_heading: SADIE
+dialog: It's nasty.
+text: Sadie takes a closer look.
+speaker_heading: SADIE
+dialog: Here. Sit down.
+text: She sits Ed down at the kitchen table, under a
+text: light, and sits across from him, then takes the peroxide and some
+text: cotton swabs she bought at the pharmacy and starts to dress his wounds.
+speaker_heading: ED
+dialog: I've never been hit before.
+speaker_heading: SADIE
+dialog: Me neither.
+speaker_heading: ED
+dialog: It's not so bad, really. It's humbling, but I like the
+dialog: effect it seems to have on people. It seems to make them more
+dialog: compassionate. There's a competitive market for suffering in the world.
+dialog: It's difficult to stand out from the handicapped and the homeless and
+dialog: the politically oppressed. Sometimes a little advertising helps remind
+dialog: people that you're a human being.
+speaker_heading: SADIE
+dialog: It does make you look sort of cute, in a pathetic kind of way.
+speaker_heading: ED
+dialog: Sadie.
+speaker_heading: SADIE
+dialog: Are you really married?
+speaker_heading: ED
+dialog: What? You think I just made it up?
+speaker_heading: SADIE
+dialog: I don't know. Some people just say they're married, you know, because maybe they think it's more respectable or something.
+speaker_heading: ED
+dialog: I'm not one of those people.
+speaker_heading: SADIE
+dialog: I didn't mean to imply anything. It's just that you act sort of weird.
+speaker_heading: ED
+dialog: I act weird?
+speaker_heading: SADIE
+dialog: Not weird, really. Worried, I guess. Secretive. Like you're worried I might find out something about you.
+speaker_heading: ED
+dialog: You don't want to get involved with my problems.
+speaker_heading: SADIE
+dialog: Maybe I do.
+speaker_heading: ED
+dialog: Believe me, you don't.
+speaker_heading: SADIE
+dialog: I didn't mean to pry. Well, maybe I did. I'll just put a band-aid on it.
+speaker_heading: ED
+dialog: Would you like a drink? I'm going to have one.
+text: 1tt1He finds a bottle of wine.
+speaker_heading: SADIE
+dialog: You're not supposed to mix wine with sleeping pills. It increases the amount of medicine that's absorbed into the bloodstream.
+text: 1tt1Ed searches for a corkscrew and starts to open the bottle.
+speaker_heading: ED
+dialog: I need all the help I can get.
+speaker_heading: SADIE
+dialog: It's dangerous.
+speaker_heading: ED
+dialog: It's just wine. I'll only have a glass.
+text: 1tt1He offers her some and she nods. He pours her a glass. Sadie takes
+text: her glass into the living room. Ed downs his glass of wine and refills
+text: it quickly before following her.
+scene_heading: INT. LIVING ROOM
+text: 1tt1She sits down at his desk.
+speaker_heading: SADIE
+dialog: Are you working on anything new?
+speaker_heading: ED
+dialog: No. I don't write anymore.
+speaker_heading: SADIE
+dialog: Why not?
+speaker_heading: ED
+dialog: I just don't have the time. I have to work all day. Time just slips by.
+speaker_heading: SADIE
+dialog: I know what you mean. There's not enough time in the day.
+speaker_heading: ED
+dialog: Not as much as there used to be.
+speaker_heading: SADIE
+dialog: There used to be more?
+speaker_heading: ED
+dialog: Yes. Before I had to work there was plenty of time.
+speaker_heading: SADIE
+dialog: But you had all that stuff published.
+speaker_heading: ED
+dialog: Sure, but it didn't pay very much. I had a lot of debts
+dialog: from school that needed to be paid off. And then, credit cards. And
+dialog: then I got married, bought a house. Life comes with all these expenses.
+dialog: And poetry just doesn't pay. I thought working at the University would
+dialog: at least give me summers off.
+speaker_heading: SADIE
+dialog: Doesn't it?
+speaker_heading: ED
+dialog: Not really. No.
+text: 1tt1There is a knock on the door. The idea that someone else might see them together makes it awkward for both of them.
+text: 1tt1Ed freezes for what seems like a long time; long enough for whoever it is to knock again.
+speaker_heading: ED
+dialog: I better see who that is.
+speaker_heading: SADIE
+dialog: Yeah.
+text: 1tt1Ed goes over to the door and opens it cautiously. It is Eve's friend, SUSIE.
+speaker_heading: SUSIE
+dialog: Hi, it's me.
+speaker_heading: ED
+dialog: Oh, hi Susie.
+text: 1tt1She is about to walk in, when Ed blocks her way. She can see Sadie sitting at Ed's desk holding a glass of wine.
+speaker_heading: ED
+dialog: Eve's not here.
+speaker_heading: SUSIE
+dialog: Oh. She came back though, didn't she?
+speaker_heading: ED
+dialog: No, she didn't.
+speaker_heading: SUSIE
+dialog: Oh no. Can I come in?
+scene_heading: EXT. PORCH - NIGHT
+text: 1tt1Ed, rather than let her in, pushes her outside and shuts the door behind her.
+speaker_heading: ED
+dialog: No. I'm busy right now. I called the police.
+speaker_heading: SUSIE
+dialog: What did they say?
+speaker_heading: ED
+dialog: They're working on it. You can call them if you want.
+text: 1tt1Ed finds Derm's card in his pocket and hands it to her.
+speaker_heading: SUSIE
+dialog: Aren't you worried?
+speaker_heading: ED
+dialog: Of course I'm worried. I'm just working right now. This
+dialog: girl is one of my students. She wanted some help on an assignment. She
+dialog: doesn't know anything about Eve being missing.
+speaker_heading: SUSIE
+dialog: What happened to you?
+speaker_heading: ED
+dialog: George Simian hit me.
+speaker_heading: SUSIE
+dialog: George?
+speaker_heading: ED
+dialog: You know him. It figures.
+text: 1tt1Susie starts crying. Ed stares at her helplessly, then goes back inside.
+speaker_heading: SUSIE
+dialog: Wait.
+speaker_heading: 1tt1Ed stops.
+speaker_heading: SUSIE
+dialog: Can I come back later?
+speaker_heading: ED
+dialog: It's late. I just took some sleeping pills. I haven't slept much since this all started. Why don't you come back tomorrow?
+speaker_heading: SUSIE
+dialog: Tomorrow?
+speaker_heading: ED
+dialog: Good night, Susie.
+text: Ed walks back in, leaving Susie standing on the porch.
+scene_heading: INT. LIVING ROOM - NIGHT
+text: Ed waits by the door until he hears her footsteps walking away outside.
+text: Sadie stands up, looking nervous.
+speaker_heading: SADIE
+dialog: 2t2Is that your wife?
+speaker_heading: ED
+dialog: 2t2No. It was a friend of hers.
+speaker_heading: SADIE
+speaker_heading: 2t2I should go.
+speaker_heading: ED
+speaker_heading: 2t2No. Why?
+speaker_heading: SADIE
+dialog: 2t2You must be tired. Those pills must be working.
+speaker_heading: ED
+dialog: 2t2I don't think they're working at all.
+speaker_heading: SADIE
+dialog: 2t2Still. You're married, right?
+speaker_heading: ED
+dialog: 2t2Yeah, but, please don't go. Please. Time has a way of slowing down when you're around.
+speaker_heading: SADIE
+dialog: 2t2Really? For me, too.
+speaker_heading: ED
+dialog: 2t2So you'll stay?
+speaker_heading: SADIE
+dialog: 2t2If you want me to.
+text: Ed comes over to her and kisses her.
+speaker_heading: SADIE
+dialog: 2t2Can I ask you something?
+speaker_heading: ED
+speaker_heading: 2t2What?
+speaker_heading: SADIE
+dialog: 2t2Do you think my writing is good?
+speaker_heading: ED
+dialog: 2t2You've done some good work.
+speaker_heading: SADIE
+dialog: 2t2Yeah. C minus good.
+speaker_heading: ED
+dialog: 2t2I told you, I was in a bad mood when I graded that.
+speaker_heading: SADIE
+speaker_heading: 2t2I guess so.
+text: She is unresponsive at first.
+speaker_heading: SADIE
+dialog: (to herself)
+dialog: 2t2What am I doing?
+text: They kiss for a minute, then Ed slips his hand under the back of Sadie's sweater.
+text: She kisses him again.
+scene_heading: INT. BEDROOM
+text: Sadie turns the lights off and we can only see by the light coming in from the hallway.
+text: Ed lies on the bed and Sadie lies next to him,
+text: under the covers. Ed slips his hand under the back of her sweater and
+text: fiddles with her bra while they kiss.
+text: The gurgling sound starts up again, and while
+text: Sadie doesn't notice, or doesn't hear it, it becomes increasingly
+text: distracting to Ed. He looks to the bathroom where the noise is coming
+dialog: from.
+scene_heading: INT. BATHROOM
+text: The camera focuses in on the drain. The water in the bathtub starts rising again.
+scene_heading: INT. BEDROOM
+text: Sadie breaks away from him, sits up and takes off her sweater. Ed takes off his shirt.
+text: Ed's kisses move around the side of her neck. As
+text: he reaches her ear, he looks up and notices Eve's clothes sitting on
+dialog: the chair.
+scene_heading: INT. BATHROOM
+text: The water is rising slowly, but we can see solid
+text: stuff (the ashes from the diary are clearly part of the muck) seeping
+text: out of the drain with the water. It is a cloudy, dark, disgusting water
+dialog: which probably stinks too.
+scene_heading: INT. BEDROOM
+text: Ed is trying to concentrate on Sadie, but he notices the closet door is open and there are some dresses blowing around inside.
+text: And the noise from the bathroom is getting louder.
+text: He turns Sadie onto her back, turning himself
+text: away from the closet. His kisses run down her chest until he gets to
+text: her jeans. He unbuttons her jeans and starts to pull them off, kissing
+text: as he goes.
+text: Ed has taken her pants off, but his passion and
+text: enthusiasm has faded, and he stops and stares off into space, towards
+text: the bathroom. He is spooked.
+speaker_heading: SADIE
+dialog: 2t2What's wrong?
+text: He looks down and sees Sadie staring at him.
+speaker_heading: ED
+dialog: 2t2I don't know. Maybe it's those pills. I don't know.
+speaker_heading: SADIE
+dialog: 2t2Just relax. Lie back.
+text: Sadie gently pushes him back and starts to go down on him.
+dialog: Ed get more uptight.
+speaker_heading: ED
+dialog: 2t2No. Please. Just stop.
+text: She keeps trying until Ed is forced to push her away.
+speaker_heading: ED
+dialog: 2t2It's just not working. OK?
+speaker_heading: SADIE
+dialog: 2t2Alright. I'm sorry.
+text: Sadie turns away. She's upset.
+speaker_heading: SADIE
+dialog: 2t2Maybe I should go.
+speaker_heading: ED
+dialog: 2t2No. Please, don't. It's my fault. Please. Don't go.
+speaker_heading: SADIE
+dialog: 2t2Damn, I'm so stupid.
+speaker_heading: ED
+dialog: 2t2No, it's me. Please.
+speaker_heading: SADIE
+dialog: 2t2This was a mistake.
+text: Sadie gets up and puts on her shirt. She grabs the rest of her clothes and goes into the living room.
+text: Ed stares after her, listening to her finish dressing herself and then leave.
+text: The clock next to the bed is ticking loudly and the sound of the ticking continues of the next few scenes, as indicated.
+scene_heading: INT. KITCHEN
+text: Ed pours a few more pills into his hand, swallowing them with some wine from the bottle.
+scene_heading: INT. BATHROOM
+text: Ed looks at the bathtub, which is full of the
+text: murky water. He picks up the plunger, which is still by the toilet, and
+text: starts working it on the drain.
+text: More stuff is coming up, making the water
+text: darker, but as he relaxes the plunger, the water doesn't go down. If
+text: anything, the gurgling sound is louder.
+text: He works the plunger some more, more vigorously
+text: and then, again, relaxes it and watches the drain hopefully. The
+text: gurgling noise seems closer and the water still does not go down.
+text: Then he hears something hit the front door.
+scene_heading: INT. LIVING ROOM
+text: Ed opens the front door and picks up the
+text: newspaper which has just been thrown. He puts it with the other
+text: newspapers, which have piled up in their plastic wraps on his desk.
+scene_heading: INT. BATHROOM
+text: He comes back into the bathroom and looks at the bathtub.
+text: He puts the plunger over the drain and works it
+text: much harder and, this time, after a few seconds, there is a loud knock
+text: in the pipes, as if he hit something. He takes the plunger away and
+text: watches the drain.
+text: Suddenly, a large air bubble bursts out of the drain. He watches, but the water shows no sign of draining.
+text: Then, slowly, blood starts to leak into the tub from the drain.
+text: Ed is naturally terrified by this. He watches until it is clear that it is blood and not just more gook.
+text: He puts plunger back on the drain and pumps it a
+text: few more frantic times. More blood seeps out of the drain. He seems to
+dialog: be making the problem worse.
+text: He shuts the shower curtain and backs out of the bathroom.
+scene_heading: INT. KITCHEN
+text: He spills the pills on the kitchen counter and
+text: counts them quickly. There are about ten left. He pours them into his
+text: mouth and swallows the rest of the wine.
+text: Then the ticking stops. Ed looks at a clock on the wall. The second hand has stopped.
+text: He hears voices in the other room.
+scene_heading: INT. EVE'S ROOM
+text: He looks out of the window in Eve's room. He
+text: sees that the light in the neighbor's window is on. The couple next
+text: door are having another argument, but this one is much more intense
+dialog: than the last.
+speaker_heading: WOMAN
+speaker_heading: (O.S.)
+dialog: 2t2Why do you care! You don't care! You know nothing about me! I hate
+dialog: you! Stay away from me! I'll scream! I am not screaming now! You think
+dialog: you're the only one? Yes, I do! I LOVE YOU! You never do that! You do
+dialog: not! You never do anything! You think that nothing's wrong! You think
+dialog: we live in paradise! This is what I think of this fucking house!
+text: There is the sound of things breaking.
+speaker_heading: WOMAN
+speaker_heading: (O.S.)
+dialog: IT'S NOT MY FAULT! IT'S NOT MY FAULT! THEN DON'T! I AM
+text: NOT! I LOVE YOU! FUCK YOU! I CAN'T BELIEVE YOU SAID THAT! STAY AWAY
+text: FROM ME! YOU RUINED MY LIFE! STAY AWAY FROM ME! STOP IT! SHUT UP! STAY
+text: AWAY FROM ME! NO! STOP IT! YOU SON OF A BITCH! HELP! HELP!
+text: This ends with a loud, terrifying shriek. It seems to echo around the room as Ed watches. Then the voices stop.
+text: Ed watches the window and sees a featureless man
+text: stick his head through the curtains to see if anybody is listening.
+text: Then he closes the window and curtains.
+text: The phone rings in the other room.
+scene_heading: INT. KITCHEN
+text: He hurries to answer the phone.
+text: While he is on the phone, a new sound is coming from the bathroom. It is like the gurgling sound, but also subtly different.
+speaker_heading: ED
+dialog: Hello.
+speaker_heading: DERM
+dialog: Mr Saxon?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: DERM
+dialog: It's Detective Derm. I'm sorry to call you so late, but I thought you would want to hear this.
+speaker_heading: ED
+dialog: Yes?
+speaker_heading: DERM
+dialog: I'm afraid I have some bad news.
+speaker_heading: ED
+dialog: What is it?
+speaker_heading: DERM
+dialog: It's your wife. We've found her...
+speaker_heading: ED
+dialog: You found her.
+speaker_heading: DERM
+dialog: We found her body.
+speaker_heading: ED
+dialog: Her...
+speaker_heading: DERM
+text: Yes, sir. In the woods, near George Simian's house, where we found her car. I'm afraid she's dead.
+text: Ed drops the phone. He walks trance-like into the hallway.
+text: He follows the noise into the -
+scene_heading: INT. BATHROOM
+text: The noise coming from the bathroom now sounds more human, like a baby gurgling.
+text: As Ed walks into the bathroom, he can see that
+text: there is something in the bathtub. The shower curtain is closed, but
+text: behind it, there is some sort of body moving. Ed pulls the curtain
+text: back. He reveals a baby, just born, lying in the tub. Most of the murky
+text: water has drained and left a dirty ring around the tub.
+text: The BABY is a newborn, except that its eyes are
+text: maybe larger than they would be. The Baby is also SIX FEET TALL. It's
+text: immense frame fills the bathtub. It is naked (it's a boy).
+text: Ed watches with amazement. The baby looks
+text: incredibly real, except for its size. The stare at each other for a
+text: minute. The baby looks a lot like George Simian. It has his eyes.
+text: Other than this, it behaves like a baby. It is
+text: lying on its back, gurgling peacefully with his feet in the air and his
+text: left hand gripping the shower curtain.
+text: The baby reaches out for Ed lovingly.
+text: Ed backs away.
+text: Seeing this, the baby starts crying.
+text: Ed, panicking, approaches the baby. It is still
+text: crying. Ed reaches out to touch it. He touches its arm and the baby's
+text: crying starts to subside. The baby moves with typical, quick, chaotic
+text: movements that, because of the baby's size, are almost threatening.
+text: Ed puts his hand in the baby's hand. The baby
+text: grips it as baby's do, but this baby's hand is about the size of Ed's.
+text: The baby stops crying and returns to its curious gurgling.
+text: Ed tries to pull his hand back, but the baby
+text: won't let go. The baby, it seems, is incredibly strong. Ed pulls
+text: harder. He still can't get the baby to let go. Ed tries to pry the
+text: baby's fingers off, and this time manages to get his hand out of the
+dialog: baby's grip.
+text: But as soon as he does, the baby starts crying again.
+text: He backs out into the hallway.
+scene_heading: INT. HALLWAY
+text: Ed is in a panic. The baby's cries echo around him as he backs away from the bathroom.
+scene_heading: INT. KITCHEN
+text: Ed finds himself in the kitchen. He looks at his
+text: hands which are covered with bloody muck from the tub. He washes them
+text: off in the sink. He looks over at the kitchen knife which has been
+text: drying in the dish rack.
+scene_heading: INT. HALLWAY
+text: Ed walks slowly, purposefully to the bathroom. The crying baby gets louder as he approaches.
+scene_heading: INT. BATHROOM
+text: He comes into the bathroom, but in the tub,
+text: instead of the baby, there is a grown man's body. It is Ed, staring up
+text: at himself from under the water. We only see a very tight shot of
+text: BATHTUB ED's head and part of his neck. His head is under water and he
+text: looks up, unable to move.
+text: We then see the reverse shot of this and it is
+text: also of Ed, so that Ed is, in effect, looking up at himself through the
+text: cloudy water.
+text: The baby cries continue, although the baby is no longer in the scene.
+text: From Bathtub Ed's point of view, we see the other Ed takes the kitchen knife and lean forward and to the right, off-camera.
+text: Bathtub Ed, who can move his eyes, tries to look
+text: to his arm, where the other Ed is cutting. Soon, blood starts to mix
+text: with the water, diffusing over Bathtub Ed's face.
+text: The blood also diffuses over Bathtub Ed's
+text: P.O.V., as he looks up at the other Ed cutting him. When the other Ed
+text: is finished cutting, Bathtub Ed sees him put the knife aside and then
+text: reach down, off-camera. After a short struggle, the other Ed pulls up
+text: Bathtub Ed's severed arm and slips it into a garbage bag he has already
+dialog: prepared.
+text: The blood from Bathtub Ed's cut fills the water with dark blood, turning the film red.
+text: The red dissolves into a pool of blood that is in the hallway.
+scene_heading: INT. HALLWAY
+text: Ed, with a bucket and sponge, is cleaning pockets of blood from the floor and walls. He is crying while he does this.
+text: He squeezes the sponge for the last time, then
+text: inspects the hallway as closely as he can, searching for any spots he
+dialog: might have missed.
+text: Then he picks up the bucket and takes it into the bathroom.
+scene_heading: INT. BATHROOM
+text: He dumps the water from the bucket into the
+text: bathtub. The water is pink and dirty. He sits down on the edge of the
+text: bathtub and watches the water go down the drain.
+text: He stares at the drain in a trance until he hears a knock on the front door. He turns to listen to it in the other room.
+scene_heading: INT. HALLWAY - DAY
+text: As he opens the bathroom door, he sees that the sun is shining in from the living room.
+scene_heading: INT. LIVING ROOM
+text: Geoffrey stands patiently outside as Ed opens
+text: the door. He carries his briefcase and looks dressed for work. His
+text: appearance is a stark contrast to the half-dressed, blood-shot Ed.
+speaker_heading: GEOFFREY
+dialog: Hi. I wanted to see how you were getting along.
+speaker_heading: ED
+dialog: Getting along?
+speaker_heading: GEOFFREY
+dialog: I have to say, you don't look well.
+speaker_heading: ED
+dialog: I'm not well.
+speaker_heading: GEOFFREY
+dialog: Have you slept?
+speaker_heading: ED
+dialog: I don't know. Maybe. It's difficult to tell. I have these lapses, but I'd hardly call it sleep.
+speaker_heading: GEOFFREY
+dialog: Did you take the pills?
+speaker_heading: ED
+dialog: The pills are fucking useless.
+speaker_heading: GEOFFREY
+dialog: But you took them?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: GEOFFREY
+dialog: I see. May I take your blood pressure?
+speaker_heading: ED
+dialog: OK, fine.
+text: Geoffrey comes in and places his briefcase on
+text: the table. He takes a stethoscope and the rest of his blood pressure
+text: kit and starts to take Ed's blood pressure.
+speaker_heading: ED
+dialog: I feel like a lab rat. Like one of those lab rats they drug up and study. You know what I mean?
+speaker_heading: GEOFFREY
+dialog: You feel like a rat.
+speaker_heading: ED
+text: They put them in a maze and they give them shocks and
+text: drugs and they see what they do. They try to prod them in the direction
+dialog: they want them to go.
+speaker_heading: GEOFFREY
+dialog: Try to relax.
+speaker_heading: ED
+dialog: I feel like a rat who took all the turns, took all the
+dialog: drugs, went down the right path and then, when I got to the end, they
+dialog: shocked me anyway, right up the sphincter, like it was all just a big
+dialog: joke. I guess they thought I'd be too drugged up to notice.
+speaker_heading: GEOFFREY
+dialog: It's been a few days, hasn't it, since your wife disappeared?
+speaker_heading: ED
+dialog: Days? Yes. I guess.
+speaker_heading: GEOFFREY
+dialog: Has there been any word from the police?
+speaker_heading: ED
+dialog: Haven't you talked to them?
+speaker_heading: GEOFFREY
+dialog: No. But if you'd like me to, I will, on your behalf. They know me and I've been through this before.
+speaker_heading: ED
+dialog: With others?
+speaker_heading: GEOFFREY
+dialog: With others, and myself. My wife was taken from me about three years ago.
+speaker_heading: ED
+dialog: What happened?
+speaker_heading: GEOFFREY
+dialog: It was a similar situation to yours. The police found
+text: her car in the parking lot of a mall. They found her body about a week
+text: later in some woods nearby.
+speaker_heading: ED
+dialog: She was murdered.
+speaker_heading: GEOFFREY
+dialog: Yes.
+speaker_heading: ED
+dialog: Did they ever catch the man who did it?
+speaker_heading: GEOFFREY
+dialog: No.
+speaker_heading: ED
+dialog: Why would somebody do that?
+speaker_heading: GEOFFREY
+text: Sometimes a man, when faced with his own problems or inadequacies, takes it out on someone weaker than themselves.
+speaker_heading: ED
+dialog: I'm sorry.
+speaker_heading: GEOFFREY
+dialog: Do you feel responsible at all for your wife's disappearance?
+speaker_heading: ED
+dialog: Why?
+speaker_heading: GEOFFREY
+dialog: People often blame themselves for events that they have
+text: no control over, especially when the events seem so random and cruel.
+dialog: Action leading up to tragedy tend to become more significant. Details
+dialog: weigh on the conscience.
+speaker_heading: ED
+dialog: I do seem to be having problems with my conscience.
+speaker_heading: GEOFFREY
+dialog: I see.
+speaker_heading: ED
+dialog: Do you think that's why I can't sleep?
+speaker_heading: GEOFFREY
+dialog: Could be.
+speaker_heading: ED
+dialog: Is there anything you can give me?
+speaker_heading: GEOFFREY
+dialog: A prescription? For your conscience? Of course not.
+speaker_heading: ED
+dialog: Then what's the point?
+speaker_heading: GEOFFREY
+dialog: There are other ways I can be of help.
+speaker_heading: ED
+dialog: A shoulder to cry on?
+speaker_heading: GEOFFREY
+dialog: Would you like me to call the police? There might be some news.
+speaker_heading: ED
+dialog: The police called last night, late last night. They found Eve's body.
+speaker_heading: GEOFFREY
+dialog: Oh, no.
+speaker_heading: ED
+text: They found her buried in the woods, near where they found her car.
+speaker_heading: GEOFFREY
+dialog: I'm sorry. I didn't know.
+text: Geoffrey's watch alarm goes off. He looks at the
+text: time and then, habitually takes a shiny silver pillbox from his pocket.
+text: He takes two pills out.
+speaker_heading: GEOFFREY
+dialog: Excuse me.
+speaker_heading: ED
+dialog: I never knew I could feel so alone.
+text: Geoffrey takes a thermos from his briefcase, pours some hot tea into the lid and swallows the pills with a mouthful of tea.
+speaker_heading: GEOFFREY
+dialog: He hasn't called since last night?
+speaker_heading: ED
+dialog: No.
+speaker_heading: GEOFFREY
+dialog: It's been a while. Why don't you let me call him? Maybe there's some news.
+text: When Ed doesn't object, Geoffrey takes his address book from his briefcase, along with a cellular phone and dials the number.
+speaker_heading: GEOFFREY
+dialog: Detective Derm, please. Hi, Charlie, it's Geoffrey. I'm
+dialog: over at Ed Saxon's house. Yeah. He was hoping to get some information
+dialog: on his wife. Uh-huh. Well, he said you called him last night and told
+dialog: him that you had found her body. Uh-huh. I see. In the woods, near
+dialog: where you found her car. I don't know. Yes. Well, I did give him
+dialog: something to help him sleep. Right. Yes.
+text: Then Geoffrey turns away from Ed and says a few words quietly, so that Ed can't hear. Then...
+speaker_heading: GEOFFREY
+dialog: Yes. Yes. I'll tell him. Yes. OK. Bye.
+text: Geoffrey hangs up and turns back to Ed.
+speaker_heading: ED
+dialog: What?
+speaker_heading: GEOFFREY
+dialog: He says he never called you last night.
+speaker_heading: ED
+dialog: What?
+speaker_heading: GEOFFREY
+dialog: He told me to tell you to wait here for him; that he's coming over.
+speaker_heading: ED
+dialog: I don't understand.
+speaker_heading: GEOFFREY
+dialog: It is possible that you did fall asleep, that you
+dialog: dreamed the phone call. I have to say that I was surprised when you
+dialog: said you hadn't slept. Those pills are very effective.
+speaker_heading: ED
+dialog: The pills. Yes. Maybe.
+speaker_heading: GEOFFREY
+dialog: Still, this is better, isn't it? I mean, now there's still a chance. Your wife could still be...There's still hope.
+speaker_heading: ED
+dialog: Yes. Hope. But why is he coming over here?
+speaker_heading: GEOFFREY
+dialog: He said he had some questions to ask you.
+speaker_heading: ED
+dialog: What questions?
+speaker_heading: GEOFFREY
+dialog: He didn't say.
+speaker_heading: ED
+dialog: If he had some questions to ask me, he could have asked me on the phone.
+speaker_heading: GEOFFREY
+dialog: Calm down, Mr Saxon.
+speaker_heading: ED
+dialog: Why did you turn away from me when you were talking to him? What did you say?
+speaker_heading: GEOFFREY
+dialog: I said you were very tired and anxious and that you seemed to be under a great deal of stress.
+speaker_heading: ED
+dialog: You're lying.
+speaker_heading: GEOFFREY
+dialog: I have no reason to lie.
+speaker_heading: ED
+dialog: Don't you?
+speaker_heading: GEOFFREY
+dialog: No. Why do you think I'm lying?
+speaker_heading: ED
+dialog: Because you're scared.
+text: Geoffrey does look scared. He has quickly packed up his briefcase.
+speaker_heading: GEOFFREY
+dialog: Mr Saxon. Please. I understand you're under a lot of stress.
+speaker_heading: ED
+dialog: You don't understand anything.
+speaker_heading: GEOFFREY
+dialog: I came here to help you.
+speaker_heading: ED
+dialog: Then help me. Please.
+speaker_heading: GEOFFREY
+dialog: I've done all I can now. I'm sorry. I can't do any more.
+speaker_heading: ED
+dialog: But, you'll come to see me again, won't you?
+speaker_heading: GEOFFREY
+dialog: No. I don't think I will.
+text: Geoffrey leaves. Ed shuts the door.
+text: The phone rings.
+text: Ed picks it up.
+speaker_heading: ED
+dialog: Hello?
+speaker_heading: GEORGE
+dialog: Is this Ed?
+speaker_heading: ED
+dialog: George.
+speaker_heading: GEORGE
+dialog: What did you do to Eve?
+speaker_heading: ED
+dialog: I didn't do anything.
+speaker_heading: GEORGE
+dialog: I know you did. I saw her before she left work. We met
+dialog: in the parking lot, like we always did. She told me she was leaving
+dialog: you. She was going to tell you when she got home.
+speaker_heading: ED
+dialog: You don't know anything about it.
+speaker_heading: GEORGE
+dialog: Yes, I do. I know you. Eve talks about you. She tell me things.
+speaker_heading: ED
+dialog: What things?
+speaker_heading: GEORGE
+dialog: I know about the fights you have.
+speaker_heading: ED
+dialog: She's my wife. We fight sometimes.
+speaker_heading: GEORGE
+dialog: That's bullshit. I know what kind of a son of bitch you can be. She's told me.
+speaker_heading: ED
+dialog: What don't you tell it to the police?
+speaker_heading: GEORGE
+dialog: I did.
+speaker_heading: ED
+dialog: You think she was some sort of angel? She was cheating on me.
+speaker_heading: GEORGE
+dialog: I love her. I loved her.
+text: Ed listens to George break down.
+speaker_heading: ED
+dialog: I'm sorry.
+text: There is a long pause.
+speaker_heading: GEORGE
+dialog: It's not enough.
+text: George hangs up.
+scene_heading: INT. BATHROOM
+text: The bathroom is completely clean. There is no
+text: sign of any of the activity from before. Ed finds the bottle of
+text: prescription sleeping pills. It is empty. He takes a couple of Midol
+text: and swallows them dry.
+scene_heading: INT. LIVING ROOM
+text: Ed sits down at his desk. He looks over the papers on his desk. Sadie's is on top. He looks it over.
+text: The phone rings and he picks it up.
+speaker_heading: ED
+dialog: Hello?
+speaker_heading: SADIE
+dialog: Hello.
+speaker_heading: ED
+dialog: Sadie.
+speaker_heading: SADIE
+dialog: I wanted to apologize.
+speaker_heading: ED
+dialog: No. Don't apologize. It was me.
+speaker_heading: SADIE
+dialog: I shouldn't have left like that. I don't know what came over me.
+speaker_heading: ED
+dialog: It was understandable, under the circumstances.
+speaker_heading: SADIE
+dialog: I really wanted you to like me.
+speaker_heading: ED
+dialog: I wonder if you'll still feel the same way when you find out what kind of person I really am.
+speaker_heading: SADIE
+dialog: I'll still keep your poem on my wall.
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: SADIE
+dialog: I think it's a beautiful poem. I really do. Are you still there?
+speaker_heading: ED
+dialog: Yes.
+speaker_heading: SADIE
+dialog: I wish things had turned out better.
+text: She hangs up. Ed stays on the phone, listening until the dial tone clicks back in.
+text: Then Ed hears a car pull up outside. He follows some quiet footsteps as they walk up to the front door.
+text: He sees the door knob turn quietly in the door. The door is locked.
+text: Ed approaches the door slowly, but suddenly, there is a crash against it. Someone is trying to knock the door down.
+text: The door is strong, and doesn't open, but the wall around it shakes.
+text: After a few seconds, there is another crash
+text: against the door. This time the wall shakes so much that Eve's picture,
+text: which hangs by the door, almost falls off its nail.
+text: Ed looks out of the window. The window is
+text: positioned facing the street, but not the porch, so he cannot see who
+text: it is, but he can see a car parked out front, with the door still open.
+text: Inside the car, there is a softball glove lying on the passenger seat,
+dialog: along with something that George Simian was wearing when we last saw
+dialog: him.
+text: George crashes against the door again. This
+text: time Eve's picture falls off the wall. It hits the ground and smashes,
+text: spreading broken glass around her picture.
+text: The door is starting to loosen around the lock and jamb.
+scene_heading: INT. HALLWAY
+text: Ed backs into the hallway. As he passes the bathroom, he can hear the gurgling sounds from the plumbing starting up again.
+scene_heading: INT. KITCHEN
+text: Ed backs into the kitchen. He searches around,
+text: quickly finding the kitchen knife. He grabs it out of the dish rack and
+text: starts walking toward the front door.
+scene_heading: INT. HALLWAY
+text: There's another bang on the door. Ed passes slowly through the hallway, watching the door, holding the knife in front of him.
+text: The gurgling sounds in the bathroom are deep and resonant, echoing out of the drain, around the bathroom and into the hallway.
+text: There is another hard crash against the door,
+text: which breaks the jamb. The door is only being held on by the splinters
+text: around the lock and George starts kicking the door with his foot.
+text: Ed backs into the basement door. He opens it and goes into the-
+scene_heading: INT. BASEMENT
+text: He hurries down the stairs into the darkness of
+text: the basement. The pipes surround Ed with hysterical, thick, watery
+text: sounds. There are metallic creaks and strains which reverberate around
+text: the walls of the basement as the pipes seem to expand and contract.
+text: A couple of inches of dark, dirty water have collected on the floor and Ed's feet get wet as he steps off the last stair.
+text: Ed finds a place to hide in the shadows behind
+text: some boxes. He stares up, as he hears the door breaking open upstairs
+text: and someone walking into the living room.
+text: With his eyes, he follows the footsteps as they search the apartment.
+text: Ed has hidden under a large pipe, which is
+text: dripping drops of dirty water onto his face. In the darkness of the
+text: basement, the color of the water is unclear, but as he wipes some onto
+text: his fingers, he can see it is murky and dark.
+text: The basement door opens slowly, and from the
+text: light upstairs, Ed can see the silhouette of George Simian standing
+text: with a softball bat.
+text: Ed grips onto his knife and watches as George
+text: comes down the stairs, step by step. The water keeps dripping on the
+text: top of Ed's head, running down the side of his face, but he holds
+dialog: still.
+text: Ed watches George come down the stairs.
+text: George reaches the bottom and steps into the shallow water. He peers cautiously into the shadows. He starts walking toward Ed.
+text: Ed withdraws as much as he can into his corner until he is in complete darkness.
+text: He watches George approaching him and he slowly raises his knife.
+text: George raises his softball bat. He takes a few
+text: more steps up to Ed, but then steps blindly past him and into a deep,
+text: dark shadow.
+text: Ed watches him disappear into the shadow and
+text: then, makes his move. He rushes into the shadow with his knife raised
+text: and both he and George are engulfed in darkness.
+text: After a few seconds, Ed emerges from the
+text: shadow. He drops the knife into the water at his feet. As he does,
+text: blood runs out of the shadow, mixing with the water in the basement
+dialog: floor.
+text: Ed walks slowly upstairs. The noises around him in the basement are now at their loudest.
+scene_heading: INT. BATHROOM
+text: Ed takes a long look at himself in the mirror.
+text: He is wet with blood and dirt. He opens the medicine cabinet and finds
+text: the sleeping pills he was using before. He opens the bottle and empties
+text: it into his hand. There are only about five pills left.
+text: He takes the two toothbrushes from a toothpaste-crusty glass and fills it with water. He takes the pills.
+text: Unsatisfied, he searches through the rest of the
+text: medicine cabinet. The selection, though not particularly toxic, is a
+dialog: good representation of standard, over-the-counter pills and tonics. He
+text: finds the Midol and takes the last few from the bottle. There is a
+text: bottle of cold medicine which he finishes off. He drinks down a nearly
+text: full bottle of pink diarrhea medicine. He finds a bottle of
+text: multi-vitamins and takes a handful of those. As he finishes each one,
+text: he drops the empties onto the floor of the bathroom.
+text: When he stops, he notices blood seeping out of
+text: the bathtub drain. It is pure, thick, dark blood. He backs away into
+dialog: the hallway.
+scene_heading: INT. HALLWAY
+text: Ed backs into the wall and then, losing strength in his legs, lowers himself to the floor. He keeps watching the bathtub.
+text: Piano music starts to seep through the gurgling noises. Ed turns towards Eve's room.
+text: On the other side of the house, outside the
+text: broken door, Ed can hear Derm's car pull up. Ed watches the living room
+text: as Derm comes in carefully, flanked by Mazurek and Snyder.
+text: Derm comes over to Ed and kneels down in front of him. Ed looks up at him helplessly.
+speaker_heading: ED
+dialog: It wasn't me.
+text: Derm looks at Ed's hands, which are covered in blood.
+speaker_heading: ED
+dialog: It wasn't me.
+text: Ed watches Derm looking at him. Then he notices, behind Derm, blood seeping over the rim of the bathtub.
+text: Ed turns to Eve's room, where the piano can still be heard.
+text: The camera continues on where Ed can't go: down
+text: the hallway to Eve's room. As it approaches, all the other noises fade
+text: out and the piano is all that we hear.
+text: Ed watches from his position in the hall so that it all seems like his point of view.
+scene_heading: INT. EVE'S ROOM
+text: The camera comes into Eve's room and turns to the piano.
+text: EVE is sitting at the piano, playing some music.
+text: We watch her for a few seconds. She turns to the camera as she plays,
+text: then continues playing.
+text: Then the camera turns toward the clouds painted
+text: on the ceiling. A crack appears in the plaster and starts widening
+text: until there is an empty black space behind it. The sound of the baby
+text: crying seeps in from the crack. The camera zeroes in on this black
+text: until it fills the frame. Over the blackness, we can hear the baby
+text: crying until it fades out.
+speaker_heading: THE END
+dialog: 

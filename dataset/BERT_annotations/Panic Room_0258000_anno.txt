@@ -1,0 +1,5494 @@
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+speaker_heading: PANIC ROOM
+dialog: 
+dialog: 
+dialog: by
+dialog: 
+dialog: David Koepp
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: February 23, 2000
+dialog: 
+dialog: 
+scene_heading: --------------------------------------------------------------------
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: 
+dialog: This film is short.
+dialog: 
+dialog: This film is fast.
+dialog: 
+dialog: 
+dialog: 
+speaker_heading: FADE IN:
+dialog: 
+scene_heading: EXT. MANHATTAN - DAY
+dialog: 
+text: The whole island, from the south. For a second. Literally.
+dialog: 
+scene_heading: EXT. NEW YORK SKYLINE - DAY
+dialog: 
+text: Closer, just the skyline. For another second.
+dialog: 
+scene_heading: EXT. UPPER WEST SIDE - DAY
+dialog: 
+text: Closer still, the Upper West Side. For another second. No
+text: time to waste admiring the scenery.
+dialog: 
+scene_heading: EXT. WEST 83RD STREET - DAY
+dialog: 
+text: Race across a field of PEDESTRIANS to pick up three women
+text: hurrying down the sidewalk. LYDIA LYNCH, a real estate
+text: broker, vaults down the sidewalk, she's got a hell of a
+text: stride. MEG ALTMAN, thirtyish, struggles to keep up with
+text: her, she's tall, wafer-thin, pale as a ghost. SARAH, a nine
+text: year old girl, flat out runs to keep up, dribbling a
+text: basketball as she goes. The kid's athletic, much tougher
+dialog: than Meg, who she resembles.
+dialog: 
+text: Lydia reads from a sheet she carries in her bouncing hands.
+dialog: 
+speaker_heading: LYDIA
+dialog: -- seventeen feet wide, fifty-five
+text: feet deep, forty-two hundred square
+text: feet, four floors with a rentable
+dialog: basement apartment, so five
+dialog: altogether, courtyard in back --
+dialog: 
+speaker_heading: MEG
+dialog: Could you slow down a little?
+dialog: (looking back over her
+dialog: shoulder)
+dialog: Or we could wait for the car...
+dialog: 
+speaker_heading: LYDIA
+dialog: No cars. Feet are faster.
+dialog: 
+speaker_heading: MEG
+dialog: How many more do we have after this?
+dialog: 
+speaker_heading: LYDIA
+dialog: None, there's nothing else, you know
+dialog: how tight the market is.
+dialog: 
+speaker_heading: MEG
+dialog: This is it? I told you on the
+dialog: phone, I have to be moved in in two
+dialog: weeks. Sarah, please don't bounce
+dialog: that here.
+dialog: 
+speaker_heading: SARAH
+dialog: Mom, it's the sidewalk.
+dialog: 
+speaker_heading: LYDIA
+dialog: Oh, that miserable little prick is
+dialog: already leaving.
+dialog: 
+text: They approach a row of brownstones, narrow four story
+dialog: townhouses, nice looking buildings, a hundred years old or
+text: more. EVAN, a sour-looking man, has just locked the front
+text: door of number 26 and is coming down the steps. He sees them
+dialog: coming.
+dialog: 
+speaker_heading: EVAN
+dialog: One day you will learn to respect
+dialog: other people's time, Lydia, one day
+dialog: you --
+dialog: 
+speaker_heading: LYDIA
+dialog: Evan, I am so sorry, you were a
+dialog: saint to wait for us!
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TOWNHOUSE - FOYER - DAY
+dialog: 
+text: Evan throws open the front door, revealing the airy foyer of
+text: the townhouse. The place is completely empty. He talks
+text: fast, races through the tour. The three of them come in,
+text: Sarah still bouncing her basketball.
+dialog: 
+speaker_heading: EVAN
+dialog: This is the middle of the house, the
+text: entry floor, living room's over
+dialog: there. The kitchen floor's below us
+dialog: and there's two bedroom floors
+dialog: above.
+dialog: 
+text: The front door closes behind them, with a THUD so
+dialog: authoritative it seems to say no one's ever getting out. Meg
+text: tries to get her daughter's attention, to tell her to stop
+text: bouncing the ball in the house.
+dialog: 
+speaker_heading: EVAN
+dialog: It's an enormous amount of space for
+dialog: the money and I'll be perfectly
+dialog: honest, the family is in no hurry
+dialog: whatsoever.
+dialog: 
+text: Meg whispers Sarah's name, but Sarah still ignores her, goes
+text: on bouncing the ball.
+dialog: 
+speaker_heading: EVAN
+dialog: I don't have to tell you there is an
+dialog: acute shortage of living space in
+dialog: Manhattan right now and this is a
+dialog: highly unique property.
+dialog: 
+speaker_heading: LYDIA
+dialog: No ball, kid.
+dialog: 
+text: Sarah immediately stops bouncing. She wanders into the
+text: living room, peers through the big French doors, which look
+text: out over the courtyard area. There's another row of
+text: brownstones on the next block, and all the patios back up to
+text: one another. It looks tranquil out there, oasis in the city.
+dialog: 
+text: Sarah leans up against the door, sighs, her breath fogs the
+text: window. There is a profound melancholy about her. Meg
+text: watches her, tries to catch eyes with her in the reflection.
+dialog: Can't.
+dialog: 
+text: Evan flings open the door of an old-fashioned cage-style
+dialog: elevator.
+dialog: 
+speaker_heading: EVAN
+dialog: Working elevator. Mr. Pearlstine,
+dialog: the previous owner, was disabled the
+dialog: last ten years of his life. Highly
+dialog: unusual, the elevator, you will not
+dialog: find this in ninety percent of
+dialog: brownstones.
+dialog: 
+speaker_heading: MEG
+dialog: Will they take asking price? I need
+dialog: a two week escrow and I'm already
+dialog: approved for the loan.
+dialog: 
+text: Lydia turns, gives Meg an "are you insane?" look.
+dialog: 
+speaker_heading: EVAN
+dialog: What say we see the house before we
+dialog: dicker, hmm?
+dialog: (starting up the stairs)
+dialog: I have to warn you, this is exactly
+dialog: the response we expected to get.
+dialog: It's a very emotional property.
+dialog: 
+text: As he disappears upstairs, Lydia turns to Meg, lowers her
+dialog: voice.
+dialog: 
+speaker_heading: LYDIA
+dialog: Who taught you to negotiate?
+dialog: 
+speaker_heading: SARAH
+dialog: It's not like Saks', Mom, you don't
+dialog: have to pay the price on the tag.
+dialog: 
+text: She gets in the elevator and RATTLES the door shut with a
+text: bang. That kid's got an attitude. Meg takes a deep breath,
+text: turns to Lydia. She brushes her hair behind an ear, we
+text: notice her thin hand is shaking.
+dialog: 
+speaker_heading: MEG
+dialog: I'm sorry. Apartments, and...
+dialog: money, and... this is more my
+dialog: husband's area.
+dialog: 
+text: She digs in her purse for a prescription pill bottle and some
+dialog: water.
+dialog: 
+speaker_heading: MEG
+dialog: Was. His area. I'm not very good
+dialog: at...
+dialog: 
+text: Lydia watches as she swallows a pill, waiting for Meg to
+dialog: finish her sentence. Not very good at what?
+dialog: 
+speaker_heading: MEG
+dialog: Things, and if I can't prove to my
+dialog: soon to-be ex-husband that I can
+dialog: provide a suitable place for our
+dialog: daughter to live in the next
+dialog: fourteen days, it's going to get
+dialog: ugly between us. Uglier.
+dialog: 
+text: Lydia just looks at her, no idea what to say. These two are
+dialog: from different places.
+dialog: 
+speaker_heading: EVAN (O.S.)
+dialog: (from upstairs)
+dialog: It would be so lovely if I could
+dialog: shot the property before I leave!
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TOP FLOOR BEDROOM - DAY
+dialog: 
+text: Evan, Lydia, and Meg poke their heads in a series of rooms,
+text: one after the other, the tour flying by quickly. First, an
+text: upstairs bedroom. Nice, roomy, looks out on the courtyard.
+dialog: 
+speaker_heading: EVAN
+dialog: Top floor. Two bedrooms, one
+dialog: bathroom.
+dialog: 
+scene_heading: INT. DEN - DAY
+dialog: 
+text: Another floor, another empty room. The trio passes through.
+dialog: 
+speaker_heading: EVAN
+dialog: Third floor, spare bedroom, den,
+dialog: what have you. Mr. Pearlstine used
+dialog: it as an office.
+dialog: 
+speaker_heading: LYDIA
+dialog: (low voice, to Meg)
+dialog: He's talking about Bernard
+dialog: Pearlstine.
+dialog: 
+dialog: Meg shrugs, who's that?
+dialog: 
+speaker_heading: EVAN
+dialog: (moving, through a
+dialog: bathroom)
+dialog: Master bath.
+dialog: 
+speaker_heading: LYDIA
+dialog: The hotel guy? It's been in the
+dialog: papers lately. His kids are all
+dialog: suing each other over his estate.
+dialog: He was a total recluse, paranoid,
+dialog: rich as hell, he was worth thirty
+dialog: million or something, now it turns
+dialog: out they can't find half of it.
+dialog: (singsong)
+dialog: Somebody took something didn't
+dialog: belong to them!
+dialog: 
+speaker_heading: EVAN
+dialog: I hardly see how family gossip is
+dialog: germane to showing the property.
+dialog: 
+speaker_heading: LYDIA
+dialog: (low, to Meg)
+dialog: Stop calling it the property, you
+dialog: sound ridiculous.
+dialog: 
+speaker_heading: EVAN
+dialog: (through a closet)
+dialog: Master closet.
+dialog: 
+text: From the hallway, there is a GROANING METALLIC sound, the
+text: elevator, and the happy laughter of the little girl as she
+text: puts it through its paces. Evan winces, speaks as if his
+text: mouth hurts when he moves it.
+dialog: 
+speaker_heading: EVAN
+dialog: Could the child please stop that?
+dialog: 
+speaker_heading: LYDIA
+speaker_heading: KID! NO ELEVATOR!
+dialog: 
+text: She looks at Meg and winks.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - DAY
+dialog: 
+speaker_heading: EVAN
+text: And we emerge in the master bedroom.
+dialog: 
+text: He checks his watch.
+dialog: 
+text: Meg looks around, studying the dimensions of the room. She
+text: looks at the far wall, the one that borders the house next
+text: door. She looks at the wall that corners it, opposite the
+text: window wall. She takes two steps back from it.
+dialog: 
+speaker_heading: MEG
+dialog: Something's weird.
+dialog: 
+speaker_heading: LYDIA
+dialog: What?
+dialog: 
+speaker_heading: MEG
+dialog: I don't know, doesn't that corner
+dialog: seem funny to you?
+dialog: 
+text: She points to the far end of the wall, near the entrance to
+text: the closet. There is a mirrored door that leads to the
+dialog: closet, and a mirror on the wall alongside it. If you look
+dialog: closely, you'll see that the mirrors are raked slightly
+dialog: toward one another, which causes an optical illusion in which
+text: the corner of the room appears much closer to the door than
+dialog: it is.
+dialog: 
+speaker_heading: EVAN
+dialog: I was waiting to see if you'd
+dialog: notice! On caravan, no one from our
+dialog: office had the slightest idea.
+dialog: 
+text: He pushes on the top of the mirror on the wall. It makes a
+text: faint CLICK, then glides open a few inches off the wall. He
+text: pulls it toward him, opens it all the way, a hundred eighty
+text: degrees, and it fastens magnetically to the back of the
+dialog: closed door. There is smooth wall behind it, but if you look
+text: closely, there is a faint vertical crack in the wall.
+dialog: 
+text: Meg looks at him -- what in the world? Even pushes again,
+text: twice this time, first at the top, then at the bottom, and
+text: the smooth wall CLICKS ajar. He pulls it wide open. Meg and
+text: Lydia step forward, fascinated.
+dialog: 
+scene_heading: INT. PANIC ROOM - DAY
+dialog: 
+text: From the opposite end of a lone, narrow, windowless space, we
+text: see the three of them standing in the open doorway,
+text: silhouetted by the sunlight streaming through the bedroom
+text: windows behind them.
+dialog: 
+speaker_heading: EVAN
+dialog: It's called a panic room.
+dialog: 
+text: He hits a switch and a row of bulbs flick on overhead.
+dialog: 
+speaker_heading: MEG
+dialog: A what?
+dialog: 
+speaker_heading: EVAN
+text: A safe room. An inner sanctum. A
+dialog: castle keep, in medieval times.
+dialog: 
+speaker_heading: LYDIA
+dialog: Oh, I've seen these...
+dialog: 
+speaker_heading: EVAN
+dialog: It's quite in vogue in high end
+dialog: construction right now. One really
+dialog: can't be too careful about home
+dialog: invasion.
+dialog: 
+text: The other two walk inside, but Meg lingers near the door,
+text: looking around, studying the neatly arrayed survival supplies
+dialog: -- water, food packs, batteries, flashlights, tools, rope,
+dialog: clothes, blankets -- you get the idea.
+dialog: 
+speaker_heading: LYDIA
+dialog: Hey, this is perfect for you...
+dialog: (Meg scoffs)
+dialog: Absolutely! You're a woman, you're
+dialog: living alone now. Your alarm goes
+dialog: off, or you head glass break, or for
+dialog: whatever reason you think someone's
+dialog: broken into your home in the middle
+dialog: of the night. What are you going to
+dialog: do? Call the police and wait until
+dialog: they get here on Tuesday? Traipse
+dialog: downstairs in your sexy little
+dialog: underthings and check it out? I
+dialog: think not!
+dialog: 
+speaker_heading: EVAN
+text: Reinforced steel core walls. Buried
+dialog: phone line, completely separate, not
+dialog: connected to the house's main line
+dialog: and never exposed throughout the
+dialog: house's infrastructure or outside
+dialog: the house -- you can call the
+dialog: police; nobody can cut you off.
+dialog: Your own ventilation system,
+dialog: complete with oxygen scrubber, so
+dialog: you've got plenty of fresh air for
+dialog: as long as you like. And a bank of
+dialog: video monitors --
+dialog: 
+text: He hits a switch next to a dozen tiny video monitors,
+text: revealing a dozen different views of the house.
+dialog: 
+speaker_heading: EVAN
+dialog: -- covering almost every corner of
+dialog: the house.
+dialog: 
+text: Meg nods, starting to sweat.
+dialog: 
+speaker_heading: MEG
+dialog: Makes me nervous.
+dialog: 
+speaker_heading: LYDIA
+dialog: Why?
+dialog: 
+speaker_heading: MEG
+dialog: Ever read any Poe?
+dialog: 
+speaker_heading: LYDIA
+dialog: I don't think so, but I love her
+dialog: album.
+dialog: 
+speaker_heading: MEG
+dialog: No, Edgar Allen.
+dialog: 
+speaker_heading: LYDIA
+dialog: (thinks)
+dialog: The furniture guy?
+dialog: 
+speaker_heading: MEG
+dialog: (giving up)
+dialog: What's to keep them from prying open
+dialog: the door?
+dialog: 
+text: Evan reaches past Meg and pushes a red button on the wall
+text: behind her. With a sudden WHANG of steel, a heavy metal door
+text: leaps out of a slot in the wall and SLAMS shut, like a
+text: submarine hatch. A series of metal latches CLICK into place
+text: inside it, from top to bottom, securing it into place.
+dialog: 
+speaker_heading: EVAN
+text: Steel, four inches thick.
+dialog: 
+text: Meg takes a step back. They're now enclosed in the room.
+dialog: 
+speaker_heading: EVAN
+dialog: Everything's spring-loaded, even if
+dialog: the power's out it's fully
+dialog: functional.
+dialog: 
+speaker_heading: MEG
+dialog: Open it.
+dialog: 
+speaker_heading: LYDIA
+dialog: Old Bernie didn't miss a trick with
+dialog: this room, did he?
+dialog: 
+speaker_heading: MEG
+dialog: Open the door.
+dialog: 
+speaker_heading: LYDIA
+dialog: And with kids like he's got, no
+dialog: wonder he wanted a place to hide.
+dialog: 
+speaker_heading: EVAN
+dialog: That's highly inappropriate.
+dialog: 
+speaker_heading: MEG
+dialog: I said open the door.
+dialog: 
+text: Evan hits a green button and the door GROANS slowly open,
+text: recoiling its massive spring, and revealing Sarah, the little
+text: girl, standing in the entryway, grinning widely.
+dialog: 
+speaker_heading: SARAH
+dialog: My room. Definitely my room.
+dialog: 
+text: She bolts in, just as her mother bolts out.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - DAY
+dialog: 
+text: Meg stands just outside the door to the panic room, regaining
+dialog: her composure. Not crazy about tight spaces. Which we
+dialog: already knew.
+dialog: 
+speaker_heading: LYDIA
+dialog: That door is a safely hazard.
+dialog: 
+speaker_heading: EVAN
+dialog: Not at all.
+dialog: 
+text: He points. There's a tiny red beam that shines across the
+dialog: doorway, one at shoulder height --
+dialog: 
+speaker_heading: EVAN
+dialog: Infrared. Like the beam in an
+dialog: elevator doorway. Won't let the
+dialog: door close if something's blocking
+dialog: it.
+dialog: 
+text: -- and one at shin height. Even bend down, blocks the one at
+text: shin height with his hand.
+dialog: 
+speaker_heading: EVAN
+dialog: Watch.
+dialog: 
+text: He reaches up, to push the close button, but with one hand
+text: anchored at the floor, he can't quite reach it.
+dialog: 
+speaker_heading: EVAN
+dialog: (to Lydia)
+dialog: Push that button for me, will you?
+dialog: 
+speaker_heading: MEG
+dialog: Don't!
+dialog: 
+text: Lydia pushes the close button, nothing happens. Evan pulls
+text: his hand put of the beam, takes a step back. Lydia pushes
+dialog: the button again.
+dialog: 
+text: WHANG! The metal door rockets shut, the metallic slang
+text: reverberating in the room. Almost immediately, the fake
+text: piece of wall HUMS shut, of its own accord, followed a moment
+text: later by the mirror, which detaches itself from the back of
+text: the closet door and HUMS silently back into place, closing
+text: over the hidden door, making the corner of the room look like
+dialog: a corner again.
+dialog: 
+text: As the mirrored door closes, it shows Meg her own reflection.
+text: She looks at herself, still rattled. She wipes a trickle of
+text: sweat from the side of her face.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. TOWNHOUSE - FOYER - DAY
+dialog: 
+text: The same house, two weeks later. The entry floor is piled
+text: high with moving boxes. Sarah and Meg lie sprawled out in
+text: the middle of the black and white tile, arms and legs splayed
+text: wide, exhausted.
+dialog: 
+text: They stare up at the ceiling, beat.
+dialog: 
+speaker_heading: SARAH
+dialog: Too many stairs.
+dialog: 
+speaker_heading: MEG
+dialog: Got us in here, didn't I?
+dialog: 
+speaker_heading: SARAH
+dialog: Shoulda got an apartment.
+dialog: 
+speaker_heading: MEG
+dialog: Well, I know that now.
+dialog: 
+speaker_heading: SARAH
+dialog: 478-0150.
+dialog: 
+text: Meg raises her hand to her face, she's got her cell phone in
+dialog: her palm.
+dialog: 
+speaker_heading: MEG
+dialog: Battery's dead.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. KITCHEN - DAY
+dialog: 
+text: Meg picks up the wall phone in the kitchen, gets a dial tone.
+dialog: 
+speaker_heading: MEG
+dialog: The phone works.
+dialog: (to Sarah)
+dialog: Hey, I hooked up the phone.
+dialog: 
+speaker_heading: SARAH
+dialog: (sarcastic)
+text: The crowd goes wild.
+dialog: 
+speaker_heading: MEG
+dialog: (ignoring the slight)
+dialog: 478...
+dialog: 
+speaker_heading: SARAH
+dialog: 0150.
+dialog: 
+text: Meg finishes dialing. It rings, someone answers.
+dialog: 
+speaker_heading: VOICE
+dialog: Perry's Pizza, please hold.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. KITCHEN - NIGHT
+dialog: 
+text: Night has fallen. Meg and Sarah sit at a small table in the
+text: middle of the kitchen, surrounded by packing boxes. They eat
+text: pizza. They chew, silently. Sarah drinks a diet Dr.
+text: Pepper. Meg finishes a glass of wine.
+dialog: 
+text: Meg's eyes are moist. Sarah notices. She notices her
+dialog: noticing, shrugs. I'm human, what do you want me to do, hide
+dialog: it?
+dialog: 
+text: Sarah looks away, goes back to chewing. After a moment:
+dialog: 
+speaker_heading: SARAH
+dialog: Fuck him.
+dialog: 
+speaker_heading: MEG
+dialog: Don't.
+dialog: 
+speaker_heading: SARAH
+dialog: Fuck her too.
+dialog: 
+text: Meg looks at her, not sure how to confront the open defiance.
+dialog: 
+speaker_heading: MEG
+dialog: I agree. But don't.
+dialog: 
+text: Sarah stares at her for a moment, then goes back to eating.
+dialog: 
+text: Meg picks up the bottle of wine.
+dialog: 
+text: Sarah's eyes flick over and watch as wine GLUGS into her
+dialog: mother's glass.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. SARAH'S BEDROOM - NIGHT
+dialog: 
+text: Sarah's bedroom is full of unpacked boxes, but her twin bed
+text: has been set up and Sarah is in it, hair wet, pajamas on.
+text: She reads from a book ("Tom Swift and His Repelatron Skyway")
+text: while Meg, drowsy, lies next to her, listening.
+dialog: 
+speaker_heading: SARAH
+dialog: "Tom's throat felt so dry and tight
+dialog: that it was a moment before he could
+dialog: make any sound come out. "Dad!" He
+dialog: croaked. "I'm - inside - the -
+dialog: machine!" "Great Scott!" The elder
+text: scientist gasped. He dashed across
+dialog: the laboratory and switched off the
+dialog: repelatron's motor. "What happened,
+dialog: son?" "The Durafoam hardened, Dad.
+dialog: Get a solvent, quick -- you know the
+dialog: formula!"
+dialog: 
+scene_heading: INT. BATHROOM - NIGHT
+dialog: 
+text: In the master bathroom, Meg soaks in a bath. She is
+text: exhausted. She reaches for her wine glass, finishes the last
+dialog: of it.
+dialog: 
+text: She stretches for the bottle, which is on the floor next to
+text: her. She refills the glass. Again.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Meg, dressed in an old Knicks T-shirt and boxer shorts,
+text: stands next to the alarm panel in the master bedroom, reading
+text: from an instruction manual. She's frustrated. She mutters,
+text: slurring, a bit drunk.
+dialog: 
+speaker_heading: MEG
+dialog: Bypass non-ready zones... shunt,
+dialog: enter, zone number...
+dialog: 
+text: She tries it, pushing a few buttons, but the alarm panel
+text: BEEPS at her disapprovingly. She's doing something wrong.
+dialog: 
+text: She sighs, sits on the floor, gets serious about figuring out
+dialog: the instructions.
+dialog: 
+speaker_heading: MEG
+dialog: Bypass non-ready zones... ah, shunt,
+dialog: enter, shunt again, zone number...
+dialog: wait...
+dialog: 
+speaker_heading: HER FINGERS
+dialog: 
+text: dance over the alarm panel, some time later. She seems to
+text: have figured it out, and a small light on the panel lights
+dialog: up.
+dialog: 
+speaker_heading: SYSTEM ARMED
+dialog: 
+dialog: The very moment the red light goes on, we cut sharply to --
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: -- the darkened panic room, where the dozen small video
+text: screens all suddenly wink to life, showing a dozen views of
+dialog: the house. Whatever she pushed turned these on too, probably
+dialog: not what she meant to do, but at least she got the alarm on
+dialog: for the night.
+dialog: 
+text: The door that leads from the panic room to the master bedroom
+text: hangs open. In the middle of the floor in here, somebody has
+text: made a small tent of blankets and couch cushions. Sarah must
+dialog: have been playing here before bed.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Meg puts sheets on her bed in the master bedroom.
+dialog: 
+text: She fills a glass of water, puts it on a box she's using for
+dialog: a night table.
+dialog: 
+text: She plugs in a battery charger for her cell phone, places the
+text: phone in the cradle. It BEEPS. "Charging."
+dialog: 
+text: She sets the digital clock, puts it next to the glass of
+dialog: water. It's 12:26.
+dialog: 
+text: She gets in bed, her side, the left side.
+dialog: 
+text: She lies in the dark, half an acre of empty bed across from
+dialog: her.
+dialog: 
+text: We drift off her, see the clock again. The time changes, the
+dialog: number one dissolves away, changing the time to --
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: -- 2:26. Meg is in a hard, boozy sleep. We drift out the
+text: door of the master bedroom, into the third floor hallway, and
+text: down the open stairwell. We glide through the entry floor,
+text: still gently falling through the stairwell's airway, dropping
+text: even further, all the way down to the kitchen floor, the
+dialog: ground floor.
+dialog: 
+text: We drift across the darkened kitchen, serpentine through the
+text: canyon of moving boxes, approach the window that looks out on
+dialog: the street.
+dialog: 
+text: We move right up against the window, peer through the glass
+dialog: just as --
+dialog: 
+text: -- a van pulls up across the street and stops. Can't see
+text: through its windows. No movement for a moment, then the
+text: driver's door opens and a MAN climbs out. He wears dark
+dialog: clothes.
+dialog: 
+text: The Man closes the door, looks both ways, and starts across
+text: the street towards us. He's carrying a bag of some kind.
+dialog: 
+text: He goes to the door, and we drift down toward the doorknob.
+text: We hear a key slide into the door, rattle.
+dialog: 
+text: But the lock doesn't turn. The key slides out, back in
+text: again, jiggles. Still won't open the door.
+dialog: 
+text: The Man steps away from the door, goes to the kitchen window,
+text: which is heavily barred, and peers inside, right at us.
+dialog: Can't see anything, it's darker in here than it is out there.
+dialog: 
+text: He turns, looks both ways on the street again, then steps up,
+dialog: onto the window ledge. Now we can only see his legs, can't
+text: tell what he's doing. He's reaching up, stretching for
+text: something. It drops into view with a metallic SCRAPE.
+dialog: 
+dialog: The fire escape.
+dialog: 
+text: The Man climbs, his feet disappearing from our field of
+dialog: vision.
+dialog: 
+text: We turn around, facing the other way in the kitchen. We
+dialog: start back the way we came, through the canyon of boxes in
+text: the kitchen, toward the stairwell.
+dialog: 
+scene_heading: INT. STAIRWELL - NIGHT
+dialog: 
+text: Back in the stairwell, the exact reverse of the shot we saw
+text: earlier. We're drifting up, off the kitchen floor, through
+text: the entry floor, and as we rise we notice something all the
+dialog: way up on the roof that we couldn't see before, when we were
+dialog: looking down.
+dialog: 
+text: A skylight. We continue to rise, drawn toward it. We move
+text: up, through the master bedroom floor, creeping up alongside
+text: the stair banister, now reaching the top floor of the house,
+dialog: and just as we near the skylight --
+dialog: 
+text: -- a figure appears, visible through it. The Man in dark
+text: clothes, on the roof now. He stops, peers down through the
+text: skylight, looking at us without seeing us again.
+dialog: 
+text: He steps across the skylight. This is not the way he intends
+text: to enter. We drift again, following his soft footsteps on
+text: the roof, which we can hear faintly through the ceiling.
+dialog: 
+text: Here in the hall, just outside Sarah's bedroom, a closet door
+text: is ajar. We squeeze through the gap and into the closet.
+dialog: 
+speaker_heading: IN THE CLOSET,
+dialog: 
+text: it's completely dark. Can't see a thing. But then a sliver
+text: of light appears, coming from above. We look up.
+dialog: 
+text: There is a ladder that's bolted to the wall in this closet,
+text: it leads up to a square panel in the ceiling.
+dialog: 
+dialog: Roof access. And that roof access panel is moving, ever so
+text: slightly, moonlight spilling in as it twists in its setting.
+text: A shiny silver something slides through the crack along the
+dialog: edges of the portal.
+dialog: 
+text: It slithers along the edge of the hatchway, searching for
+text: something. It finds a small round nub in the crack. The
+text: silver something stops. It HUMS with electricity for a
+text: moment, then there is a bright spark and a soft CRACK.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: In the master bedroom, a message appears on the alarm panel:
+dialog: 
+speaker_heading: ZONE 19 DISABLED
+dialog: 
+scene_heading: INT. CLOSET - NIGHT
+dialog: 
+text: In the closet, the silver something withdraws and the roof
+text: access panel is removed. A million stars are visible in the
+dialog: night sky above. But we're inside.
+dialog: 
+text: And in a moment, so is this intruder. The Man peers down,
+text: through the open hatchway, then slips through the opening and
+text: climbs silently down the ladder.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: In bed, Meg stirs. An alcohol sleep is a restless one, and
+dialog: she's suffering.
+dialog: 
+text: She sits up groggily, chugs a glass of water. Lies down
+dialog: again.
+dialog: 
+scene_heading: INT. FOURTH FLOOR HALLWAY - NIGHT
+dialog: 
+text: One floor up, the Man steps into the hallway and starts for
+text: the stairs, moving quickly and confidently. Knows where he's
+text: going, knows what he wants. He starts down the stairs,
+text: happens to glance to the side as he does so.
+dialog: 
+text: He freezes. He's looking in the open doorway of the top
+text: floor bathroom, staring hard at something that clearly
+dialog: disturbs him.
+dialog: 
+text: A nightlight. Plugged into an outlet in the baseboard in the
+dialog: bathroom. (For the record, it's the Power Puff Girls.) The
+text: Man climbs the stairs again, concerned, goes to the door of
+text: the bathroom. He looks from the nightlight to the
+dialog: countertop.
+dialog: 
+text: There's a moving box on the countertop. His eyes widen.
+dialog: This is news to him, bad news.
+dialog: 
+text: He takes a step back and a breath. He turns, looks to the
+text: end of the hall. His eyes now adjusted to the darkness, he
+text: notices something he didn't see before, something coming from
+text: under the door to the fourth floor bedroom.
+dialog: 
+text: Light. From inside. From another nightlight.
+dialog: 
+scene_heading: INT. SARAH'S BEDROOM - NIGHT
+dialog: 
+text: In the top floor bedroom, a nightlight burns in another
+text: outlet. Nearby, Sarah is asleep in bed, the covers kicked
+dialog: off.
+dialog: 
+text: The door to Sarah's bedroom glides open, terribly slowly.
+text: The Man stands in the doorway, staring, aghast, at the
+text: mountain of moving boxes piled in the room. His gaze falls
+text: on Sarah in the bed.
+dialog: 
+text: The Man just stares, beside himself. His lips mouth a word,
+text: soundlessly. Doesn't take a lip reader to guess it.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: In the master bedroom, Meg flops over in bed, facing away
+text: from the doorway, really having a rough go of it. She slept
+text: too hard before, now she's awake, her head is killing her,
+text: she's really paying the price of four glasses of wine.
+dialog: 
+text: She lies still, on her side, facing us.
+dialog: 
+text: Behind her, the bedroom door moves, silently.
+dialog: 
+dialog: Opening.
+dialog: 
+text: The Man stands there, one finger still on the door he's just
+text: pushed open. He stares at the sleeping form of Meg on the
+text: bed, whose back is to him. He has no idea she's awake.
+dialog: 
+text: Meg lies in bed, eyes wide open, no idea a Man is standing in
+text: the doorway to her bedroom.
+dialog: 
+text: Noiselessly, the Man moves away, down the hall. The moment
+text: his head disappears down the stairwell --
+dialog: 
+text: -- Meg flops over again, facing the doorway. She closes her
+dialog: eyes, gives sleep another try.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. KITCHEN - NIGHT
+dialog: 
+text: The Man walks across the kitchen, shaking his head in
+text: exasperation at the packing boxes all around him. He goes to
+text: the front window, peers outside. He reaches for a light
+text: switch on his right.
+dialog: 
+text: Through the window, we can see the stoop light go on. Then
+text: off, then on and off again.
+dialog: 
+text: Still through the window, we see the side panel door of the
+dialog: van slide open.
+dialog: 
+text: TWO MORE MEN climb out. They are also dressed in dark
+text: clothes. They also carry satchels.
+dialog: 
+text: They walks calmly across the street, grow large in the window
+text: as they approach us. The first intruder (who has a name,
+text: it's BURNHAM) steps over to the kitchen door, runs his
+text: silvery strip through the gap. Another HUM and spark.
+dialog: 
+speaker_heading: AN ALARM PANEL
+dialog: 
+dialog: flashes again.
+dialog: 
+speaker_heading: ZONE 1 DISABLED
+dialog: 
+text: IN THE KITCHEN,
+dialog: 
+text: Burnham opens the kitchen door, letting the two other guys
+text: slip inside. RAOUL is a hulking figure whose back seems to
+text: rise up over the top of his slouching head; when he walks it
+text: looks like gravity does all the work, just pulling him
+text: forward. JUNIOR is much smaller, very high-strung, dresses
+dialog: like a homey, very street, but can't hide the fact that the
+dialog: street is Park Avenue.
+dialog: 
+text: They all freeze, staring at the moving boxes.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Fuck.
+dialog: 
+speaker_heading: BURNHAM
+dialog: I know.
+dialog: 
+speaker_heading: RAOUL
+dialog: What?
+dialog: 
+speaker_heading: BURNHAM
+text: A woman and a little girl, both
+dialog: asleep upstairs.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Fuck!
+dialog: 
+speaker_heading: BURNHAM
+dialog: Keep your voice down.
+dialog: 
+speaker_heading: JUNIOR
+dialog: They're not supposed to be here!
+dialog: 
+speaker_heading: BURNHAM
+dialog: This was your department, Junior.
+dialog: 
+speaker_heading: JUNIOR
+dialog: They're not supposed to be here!
+dialog: 
+speaker_heading: BURNHAM
+dialog: That's why the key didn't work, they
+dialog: changed the locks.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Fourteen day escrow, man, that's
+dialog: almost three weeks! They shouldn't
+dialog: be here for another week! They
+dialog: don't own this house yet!
+dialog: 
+speaker_heading: BURNHAM
+dialog: (pause)
+dialog: Exactly how is fourteen days almost
+dialog: three weeks?
+dialog: 
+speaker_heading: JUNIOR
+dialog: Fourteen business days. Escrow is
+dialog: always business days.
+dialog: 
+dialog: Burnham sighs.
+dialog: 
+speaker_heading: JUNIOR
+dialog: I mean, right? Isn't it?
+dialog: 
+speaker_heading: BURNHAM
+dialog: You're an idiot.
+dialog: 
+text: Raoul steps forward, shoves Burnham with both hands in the
+dialog: chest.
+dialog: 
+speaker_heading: RAOUL
+dialog: Watch your mouth.
+dialog: 
+speaker_heading: JUNIOR
+dialog: It's okay, Raoul.
+dialog: 
+speaker_heading: BURNHAM
+dialog: (to Junior)
+dialog: Who is this guy?
+dialog: 
+speaker_heading: JUNIOR
+dialog: Raoul is cool. That's all you need
+dialog: to know.
+dialog: 
+speaker_heading: BURNHAM
+dialog: This is insane. I'm outta here.
+dialog: 
+text: He starts for the door.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Wait a minute, wait a minute. We
+dialog: can still handle this.
+dialog: (to Raoul)
+dialog: Can we still handle this?
+dialog: 
+speaker_heading: RAOUL
+dialog: It's just the woman and the kid?
+dialog: 
+speaker_heading: BURNHAM
+dialog: Unless Daddy comes back later.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Daddy's not coming back, she's in
+dialog: the middle of a divorce, it's just
+dialog: the two of them. We're okay, here.
+dialog: (to Raoul)
+dialog: We can do this, right?
+dialog: 
+speaker_heading: RAOUL
+dialog: You're fuckin' A we can do this.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Not with me. Not with people.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Forty-five minutes. That's all you
+dialog: said you need. That's like nothing.
+dialog: 
+speaker_heading: BURNHAM
+dialog: She'll call the cops, they'll be
+dialog: here before I get unpacked.
+dialog: 
+speaker_heading: JUNIOR
+dialog: So we keep an eye on her. Raoul can
+dialog: totally administrate that part.
+dialog: 
+speaker_heading: RAOUL
+dialog: No problem.
+dialog: 
+speaker_heading: BURNHAM
+dialog: I don't want Raoul to administrate
+dialog: that part.
+dialog: 
+speaker_heading: JUNIOR
+dialog: They won't get hurt.
+dialog: 
+speaker_heading: BURNHAM
+dialog: What about us? What if she has a
+dialog: gun?
+dialog: 
+speaker_heading: JUNIOR
+dialog: Raoul, what in God's name do we do
+dialog: if she has a gun?
+dialog: 
+text: Raoul pulls up his sweatshirt, revealing a .38 tucked into
+dialog: his belt.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Asshole.
+dialog: 
+speaker_heading: JUNIOR
+dialog: A guy shows you a gun, Burnham, and
+dialog: you insult him? Hey, who's the
+dialog: idiot? Huh?
+dialog: 
+speaker_heading: BURNHAM
+dialog: Where did you get this clown?
+dialog: 
+speaker_heading: JUNIOR
+dialog: I met him at the tables, same as
+dialog: you. And frankly, I'm grateful we
+dialog: have a little muscle right about
+dialog: now.
+dialog: 
+speaker_heading: BURNHAM
+dialog: What tables? I've never seen him
+dialog: before.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Different tables.
+dialog: 
+speaker_heading: BURNHAM
+dialog: (to Raoul)
+dialog: The fuck did you bring a gun for?
+dialog: 
+speaker_heading: RAOUL
+dialog: You're welcome.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Peace out.
+dialog: 
+text: He moves for the door. Junior, trying desperately to hold
+text: this together, gets there first, blocks the door with his
+dialog: back.
+dialog: 
+speaker_heading: JUNIOR
+dialog: We can't do it without you, Burnham.
+dialog: 
+text: Junior starts at Burnham. Raoul stares at Burnham.
+dialog: 
+speaker_heading: JUNIOR
+dialog: It's still a good plan. It's
+dialog: just... got a twist.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Yeah. Kidnapping.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Not if we keep 'em here. You can't
+dialog: kidnap somebody in their own house.
+dialog: It's just breaking and entering,
+dialog: unless we take 'em someplace. Or
+dialog: something like that, I'm pretty
+dialog: sure.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Pure idiot.
+dialog: 
+speaker_heading: JUNIOR
+dialog: I am. I'm an idiot's son. An
+dialog: idiot's grandson. I'm third-
+dialog: generation idiot. But for once in
+dialog: my life I had a good idea, and I'm
+dialog: not giving up so easy. You are?
+dialog: Are you actually telling me that for
+dialog: the first time in your life you're
+dialog: gonna throw your cards on the table
+dialog: and go home early? I can't believe
+dialog: my eyes.
+dialog: (Burnham hesitates)
+dialog: Fourteen million dollars upstairs,
+dialog: Burnham. You'll be out of the hole.
+dialog: Baby, you'll be so far out of the
+dialog: hole you could draw bricks every
+dialog: night for the next twenty years and
+dialog: still shit green.
+dialog: (Burnham sways)
+dialog: Come on, Buddy. One more hand.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Meg sits up in bed. She's bleary, her head feels like
+text: someone rested a manhole cover on it. She gets up, in the
+text: dark, and staggers off toward the bathroom door, feeling her
+text: way with her arms, her eyes not adjusted to the dark.
+dialog: 
+text: She steps through the door.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: She walks into the bathroom and feels around for a light
+text: switch, but can't find it. She blinks, squints, tries to get
+text: her bearings. The only light is a harsh white glow that
+text: comes from along one wall, from a bank of tiny video
+dialog: monitors.
+dialog: 
+text: She finds the light switch, flicks it on, it nearly blinds
+text: her. She's not in the bathroom. She's wandered into the
+dialog: panic room by mistake.
+dialog: 
+text: She turns around, walks out, leaving the lights on behind
+dialog: her.
+dialog: 
+dialog: We linger for a look at the video screens. If only she'd
+dialog: done the same, she'd see what we see.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: we see the three men, still in the kitchen, huddled in a
+text: group, silently debating what to do.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Using the light that spills from the open door to the panic
+text: room, Meg comes back into the master bedroom and finds the
+text: proper door to the bathroom.
+dialog: 
+scene_heading: INT. BATHROOM - NIGHT
+dialog: 
+text: Meg SNAPS the cap off a jug of Advil and dumps three into her
+text: palm. She pops them in her mouth, searches for a glass for
+text: water, finds none, bends to the spout for a gulp to wash them
+dialog: down.
+dialog: 
+text: She turns to the toilet.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: On the monitor, we see the three men leave the kitchen and
+text: start up the stairs.
+dialog: 
+scene_heading: INT. BATHROOM - NIGHT
+dialog: 
+text: Meg stands, flushes the toilet.
+dialog: 
+scene_heading: INT. LIVING ROOM - NIGHT
+dialog: 
+text: One floor down, Burnham, Raoul, and Junior freeze, just
+text: coming up the stairs from the kitchen. They look up, hearing
+text: the water rushing through the pipes in the ceiling directly
+dialog: above them.
+dialog: 
+text: They stare at the ceiling, following with their eyes as a
+text: pair of feet pad across the CREAKY floor. Finally, they hear
+text: a SQUEAK of bedsprings as Meg climbs back into bed.
+dialog: 
+text: They hold a moment longer, a silence grows. Raoul reaches
+text: into his jacket pocket and pulls out a ski mask. He pulls it
+text: over his head. They look at him.
+dialog: 
+speaker_heading: RAOUL
+dialog: (whispers)
+dialog: No face.
+dialog: 
+dialog: Burnham rolls his eyes. Doesn't know this guy much, but
+text: hates him so far. They start across the foyer toward the
+dialog: stairs.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Meg rolls over, to go back to sleep. She sees she's left the
+text: lights on in the panic room. She TSKS, gets out of bed, and
+text: walks across the floor toward it.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg steps into the panic room, raises her hand to the light
+dialog: switch --
+dialog: 
+text: -- and stops, her hand frozen in mid-air. She cocks her
+text: head, looking at something she can't understand.
+dialog: 
+text: She blinks. Takes a step, further into the room. She stares
+text: at the video monitors -- at the three men in dark clothes,
+text: stealing silently across the foyer.
+dialog: 
+dialog: This can't be. These are just pictures, they have no
+text: relation to reality. She drops to her knees, her face inches
+text: from the screens, and reaches out to touch them, as if trying
+dialog: to make sure they're really there.
+dialog: 
+scene_heading: INT. STAIRWELL - NIGHT
+dialog: 
+text: They reach the base of the stairs, Junior in the lead. As he
+text: reaches a bend at the base of the stairs, he places one foot
+text: short on an angled step and it slips off. He trips, falls
+dialog: forward.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Watching the video monitors, Meg stares in horror as the
+text: image of Junior slipping is verified by the SLAP of his hands
+text: on the stairs as he catches himself, audible through the open
+text: door to the panic room.
+dialog: 
+dialog: She GASPS. It is real.
+dialog: 
+scene_heading: INT. STAIRWELL - NIGHT
+dialog: 
+text: In the living room, Burnham's eyes are wide as saucers,
+text: staring at Junior as he turns and pulls himself to his feet.
+dialog: 
+text: Junior points at Raoul, speaks in an urgent whisper.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Top floor, get the little girl and
+dialog: keep her there. I'll bring the
+dialog: woman up. Gimme.
+dialog: 
+text: He holds out his hand for the gun and Raoul gives it to him.
+dialog: 
+speaker_heading: JUNIOR
+dialog: (points to Burnham)
+dialog: Stay here. Nobody gets past you.
+dialog: 
+text: He heads for the stairs. Raoul follows close behind him.
+dialog: Burnham stays, reluctant -- what the fuck has he gotten
+dialog: himself into?
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg moves. Leaps to her feet and dashes out of the room.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Meg races across her bedroom, flies out the door, and bolts
+text: up the carpeted stairs, headed for the top floor.
+dialog: 
+scene_heading: INT. SARAH'S BEDROOM - NIGHT
+dialog: 
+text: Meg races into Sarah's room, drops onto the bed, and grabs
+text: Sarah by the shoulders, trying to rouse her.
+dialog: 
+speaker_heading: MEG
+dialog: Wake up... wake up...
+dialog: 
+text: But she's in a profound child's sleep and won't wake up.
+dialog: 
+scene_heading: INT. THIRD FLOOR HALLWAY - NIGHT
+dialog: 
+text: One floor down, Junior and Raoul reach the third floor
+text: landing. Still moving stealthily, Junior heads down the hall
+text: for the master bedroom, where he thinks Meg is sleeping.
+text: Raoul heads for the stairs that lead to the top floor.
+dialog: 
+scene_heading: INT. SARAH'S BEDROOM - NIGHT
+dialog: 
+text: Meg is desperate, still can't wake Sarah.
+dialog: 
+speaker_heading: MEG
+dialog: Wake up...come on, come on...
+dialog: 
+text: She sees a plastic cup on her night table/box, half filled
+text: with water. She snatches it and tosses the water in her
+dialog: face.
+dialog: 
+text: Now she's awake. And pissed off. She SPUTTERS, SHOUTS.
+dialog: 
+speaker_heading: SARAH
+dialog: WHAT DID YOU DO THAT FOR?!
+dialog: 
+scene_heading: INT. THIRD FLOOR HALLWAY - NIGHT
+dialog: 
+text: Raoul, at the base of the stairs that lead to the top floor,
+text: hears the kid shouting. He starts up the stairs, quickly.
+dialog: 
+scene_heading: INT. SARAH'S BEDROOM - NIGHT
+dialog: 
+text: On the top floor, Meg is already dragging Sarah out of the
+text: room and into the hallway.
+dialog: 
+scene_heading: INT. HALLWAY - NIGHT
+dialog: 
+text: Meg and Sarah come out of Sarah's bedroom just as Raoul
+text: reaches the top of the stairs at the other end. They're cut
+dialog: off.
+dialog: 
+text: Meg freezes, staring at the hulking ski-masked figure at the
+text: end of the hallway. She thinks, no idea what to do for a
+text: second. She looks frantically to her right -- the bathroom,
+dialog: dead end.
+dialog: 
+text: She looks to her left.
+dialog: 
+dialog: The elevator.
+dialog: 
+text: She yanks open the elevator door, throws aside the gate, and
+text: races inside with Sarah.
+dialog: 
+text: Raoul takes off down the hall, lunging for the elevator.
+dialog: 
+scene_heading: INT. ELEVATOR - NIGHT
+dialog: 
+text: Meg SLAMS the gate shut and PUNCHES the button for the first
+text: floor. The elevator GROANS to life and starts down --
+dialog: slowly.
+dialog: 
+text: Sarah looks up at her, terrified.
+dialog: 
+speaker_heading: SARAH
+dialog: What's going on?!
+dialog: 
+speaker_heading: MEG
+dialog: People. In the house.
+dialog: 
+text: As the elevator descends, they see Raoul, through the window
+text: in the door, as he drops to his knees, to get a good look at
+dialog: them.
+dialog: 
+scene_heading: INT. TOP FLOOR HALLWAY - NIGHT
+dialog: 
+text: Raoul turns from the elevator, SHOUTS to the open stairwell.
+dialog: 
+speaker_heading: RAOUL
+text: IN THE ELEVATOR! BOTH OF 'EM HEADED
+dialog: TOWARD YOU!
+dialog: 
+scene_heading: INT. THIRD FLOOR HALLWAY - NIGHT
+dialog: 
+text: Junior turns from the open doorway of the master bedroom and
+text: races back down the hall, toward the elevator. He reaches
+text: the door, peers through the window.
+dialog: 
+text: He sees the bare feet of Meg and Sarah, dropping toward him.
+text: He grabs the door handle, pulls as hard as he can, but it
+text: stays locked, with the elevator moving beyond.
+dialog: 
+text: He bangs on the button, hoping the elevator will stop. As
+text: Meg and Sarah drop fully into view, he stands there, eye to
+text: moving eye with her for a moment. But the elevator doesn't
+dialog: stop, it keeps going down.
+dialog: 
+scene_heading: INT. ELEVATOR - NIGHT
+dialog: 
+text: Meg stands frozen, terrified, staring at Junior as they move
+dialog: past him.
+dialog: 
+text: Junior has another go at the door, pulling as hard as he can,
+text: actually bending the door, but the elevator is still moving,
+text: the catch holds fast and the door won't open.
+dialog: 
+text: As they pass, his face suddenly disappears, he takes off.
+dialog: 
+scene_heading: INT. STAIRWELL - NIGHT
+dialog: 
+text: Junior flies down the stairs, to cut them off at the first
+dialog: floor.
+dialog: 
+scene_heading: INT. ELEVATOR - NIGHT
+dialog: 
+speaker_heading: MEG
+dialog: He's going down.
+dialog: 
+speaker_heading: SARAH
+dialog: That room!
+dialog: 
+speaker_heading: MEG
+dialog: What?!
+dialog: 
+speaker_heading: SARAH
+speaker_heading: PANIC ROOM!
+dialog: 
+text: Meg thinks, then punches the button for three, to go back up.
+dialog: 
+text: But the elevator continues down. She jabs at it, futilely.
+dialog: 
+speaker_heading: SARAH
+dialog: No. you gotta...
+dialog: 
+text: She reaches past her, pushes the STOP button. The elevator
+text: jerks to a halt. Then Sarah pushes three. Now the elevator
+text: starts to rise.
+dialog: 
+text: Meg looks at her, impressed. Love that kid.
+dialog: 
+scene_heading: INT. ENTRY FLOOR - NIGHT
+dialog: 
+text: In the foyer, Junior freezes, hearing the elevator stop and
+dialog: start again.
+dialog: 
+speaker_heading: JUNIOR
+dialog: SHE'S COMING BACK UP TOWARD YOU!!
+dialog: 
+text: He takes off up the stairs again. Burnham can't take it
+text: anymore, he takes off after Junior, following him upstairs.
+dialog: 
+scene_heading: INT. FOURTH FLOOR HALLWAY - NIGHT
+dialog: 
+text: Raoul, still on the top floor, heads for the stairs, fast.
+dialog: 
+scene_heading: INT. STAIRWELL - NIGHT
+dialog: 
+text: Junior races back up the stairs. They have her caught in the
+dialog: middle.
+dialog: 
+scene_heading: INT. THIRD FLOOR HALLWAY - NIGHT
+dialog: 
+text: The door to the elevator BANGS open on three, the gate
+text: RATTLES aside, and Meg and Sarah leap out. They take off
+text: down the hall, toward the doorway to the master bedroom.
+dialog: 
+text: Raoul flies down the stairs, not twenty feet behind them.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Meg and Sarah run through the master bedroom. As she passes
+text: the night table, Sarah swings an open hand to grab her cell
+text: phone from its cradle. But in her haste she starts to pull
+text: it out at an angle and the prongs at the bottom stick in the
+text: charger. The phone slips from her fingers, bounces off the
+text: corner of the table, caroms off her foot, and skitters under
+dialog: the bed.
+dialog: 
+text: Sarah turns, looks to the head of the stairs just as Junior
+text: turns the corner and Raoul thunders down the steps from four.
+dialog: 
+text: She abandons the phone, grabs Sarah, and they lunge through
+text: the open doorway to the panic room.
+dialog: 
+text: Junior and Raoul burst through the doorway to the bedroom,
+text: just a few steps away.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg and Sarah trip over each other coming through the
+text: doorway, they tumble to the floor of the panic room, the door
+text: wide open behind them. Meg spins around, hurls herself at
+dialog: the red button on the wall --
+dialog: 
+text: -- Junior leaps, sailing through the air toward them --
+dialog: 
+text: -- Meg SLAMS her open palm on the red button, the massive
+text: coiled spring that holds the metal door open is released, the
+text: steel barrier leaps forward out of the wall --
+dialog: 
+text: -- and WHANGS shut in a split-second.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Junior SLAMS into the closing metal door, banging his
+text: shoulder into it, and slithers to the ground, too late.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg rolls over and pulls Sarah into her arms, both of them
+text: breathing hard, asking each other if they're okay, scared out
+dialog: of their minds.
+dialog: 
+dialog: But safe.
+dialog: 
+text: She spots the telephone, the one with the special buried
+text: phone line. She lunges for it, snatches it from its cradle,
+text: listens for a dial tone.
+dialog: 
+dialog: Nothing there either.
+dialog: 
+speaker_heading: MEG
+dialog: Damn it!
+dialog: 
+speaker_heading: SARAH
+dialog: It doesn't work?!
+dialog: 
+speaker_heading: MEG
+dialog: Different phone line, I never hooked
+dialog: it up!
+dialog: 
+text: She hurls it down, looks back at Sarah. She seems a bit
+text: pale, scared. She goes to her, holds her, reassures her.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Junior is slumped at the base of the door, livid, in pain,
+text: pounding on it with his fists, screaming "NO!" over and over
+text: again, crazy with rage.
+dialog: 
+text: Raoul stands in the middle of the room, chest heaving, hands
+dialog: on his knees.
+dialog: 
+text: Burnham finally walks into the room and stops in the doorway,
+text: looks from Raoul to Junior to the door to the panic room,
+dialog: figures out the situation.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Tell me... tell me they're not in
+dialog: there...
+dialog: 
+text: We rise up, above them, above the room, looking down on them,
+dialog: the rats-in-a-maze shot.
+dialog: 
+text: We rise up further still, above where the ceiling ought to
+dialog: be, to look down on this room and the one beside it, the room
+text: behind the four inches of reinforced steel, the panic room in
+text: which Meg and Sarah kneel in the middle of the floor, holding
+dialog: each other tight.
+dialog: 
+dialog: Standoff.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Very close on the metal door, from inside the panic room. An
+text: ear moves slowly into frame, presses against the cold steel.
+dialog: Listens.
+dialog: 
+text: Meg pulls away from the door, shaking her head.
+dialog: 
+speaker_heading: MEG
+dialog: Can't hear a thing.
+dialog: 
+speaker_heading: SARAH
+dialog: What do they want?
+dialog: 
+speaker_heading: MEG
+dialog: I don't know. Rob us. I don't
+dialog: know.
+dialog: 
+text: She sits back against a wall, looks around, at the tiny room.
+text: She's trying not to show how freaked out she is.
+dialog: 
+speaker_heading: SARAH
+dialog: What do we do?
+dialog: 
+speaker_heading: MEG
+dialog: Wait.
+dialog: 
+speaker_heading: SARAH
+dialog: What if they get in here?
+dialog: 
+speaker_heading: MEG
+dialog: They can't. They can't get in here.
+dialog: No. They can't.
+dialog: 
+speaker_heading: SARAH
+dialog: I heard you.
+dialog: 
+speaker_heading: MEG
+dialog: Feel okay?
+dialog: 
+speaker_heading: SARAH
+dialog: Yeah.
+dialog: 
+speaker_heading: MEG
+dialog: Shaky?
+dialog: 
+speaker_heading: SARAH
+dialog: Nope.
+dialog: 
+speaker_heading: MEG
+dialog: Chills?
+dialog: 
+speaker_heading: SARAH
+dialog: Huh uh.
+dialog: 
+text: She checks her wristwatch, for some reason.
+dialog: 
+speaker_heading: SARAH
+dialog: Don't worry about me.
+dialog: 
+dialog: The implications being, worry about yourself.
+dialog: 
+text: Sarah crawls over to the bank of video monitors, studies
+text: them. Meg crawls over to join her. They scan the screens.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: there are a dozen different views of the house. Front stoop.
+text: Kitchen. Dining room. Entry floor. Living room. Master
+text: bedroom. Den. Top floor bedrooms, both of them. Top two
+text: floor hallways. Even one with a shot of the inside of the
+dialog: elevator.
+dialog: 
+text: The three intruders are gathered in the living room, standing
+text: in a tight circle, having a hell of an argument. Lots of
+text: gesturing, fingers jabbing in chests, but we can't hear a
+dialog: word.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg furrows her brow, noticing something interesting to the
+text: right of the video monitors. She slides over, studies a
+text: panel there with sixteen different buttons and a small
+dialog: grilled area.
+dialog: 
+speaker_heading: MEG
+dialog: Hey...
+dialog: 
+text: Sarah joins her, looks at the buttons. Each one is labeled
+dialog: with a different room name -- den, kitchen, master bedroom,
+text: etc. Up in the corner there is a button that says "ALL
+dialog: PAGE," down in the opposite corner there's a button marked
+dialog: "TALK."
+dialog: 
+text: Meg looks at Sarah.
+dialog: 
+speaker_heading: SARAH
+dialog: Go ahead.
+dialog: 
+text: Meg is reluctant, frightened. Sarah is encouraging, for the
+dialog: first time.
+dialog: 
+speaker_heading: SARAH
+dialog: You can do it.
+dialog: 
+text: Meg leans forward, clears her throat.
+dialog: 
+scene_heading: INT. LIVING ROOM - NIGHT
+dialog: 
+text: Burnham, Raoul, and Junior are standing in the half-darkened
+text: living room, in the middle of their argument, when a VOICE
+text: booms around them.
+dialog: 
+speaker_heading: MEG (O.S.)
+dialog: Excuse me.
+dialog: 
+text: They practically jump out of their shoes, looking around for
+dialog: the source of the voice.
+dialog: 
+speaker_heading: MEG (O.S.)
+text: The police are on their way.
+dialog: 
+text: Only Burnham has remained relatively calm. After he gets
+text: over the initial shock, he walks toward the tiny camera
+text: that's hidden in an upper corner of the living room wall and
+text: stares up at it. Raoul, who has taken off his ski mask, is
+text: careful to move out of the camera's range, and turn his back
+dialog: to it.
+dialog: 
+speaker_heading: MEG
+dialog: I suggest you leave.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: Burnham looks up at the camera and shakes his head, wagging a
+text: finger from side to side. He raises a hand, makes a gesture
+text: like a telephone, then wags his finger again. The message is
+dialog: clear -- you don't have a phone.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg is puzzled.
+dialog: 
+speaker_heading: MEG
+dialog: How'd he know that?
+dialog: 
+text: She presses the talk button again.
+dialog: 
+speaker_heading: MEG
+dialog: (into speaker)
+dialog: Take what you want and get out.
+dialog: 
+text: That sounded fairly tough. She looks at the monitor again.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: the three of them have an urgent, whispered conference, then
+text: they all start patting their pockets for some reason, turning
+text: in circles, looking for something.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg and Sarah watch them, confused.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: Burnham holds up a finger to the camera -- wait a second --
+text: while Raoul and Junior rush off screen, looking for
+text: something. Junior returns a moment later holding something
+text: and the three of them hunch over a box, working on something.
+dialog: 
+text: After a moment, they break apart and Junior steps up to the
+text: camera holding a pad of paper. He shows it to the camera.
+text: On the top page, in big block letters, they've written.
+dialog: 
+speaker_heading: WHAT WE WANT
+dialog: 
+text: After a suitable pause for reading, he turns to the second
+text: page, where four more words are written.
+dialog: 
+text: IS IN THAT ROOM.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Sarah GASPS, Meg sits back.
+dialog: 
+speaker_heading: MEG
+dialog: "What we want is in that room."
+dialog: 
+speaker_heading: SARAH
+dialog: They're coming in here, aren't they?
+dialog: 
+speaker_heading: MEG
+dialog: No, I told you, they can't. It's
+dialog: not a possibility.
+dialog: 
+text: Angry, she sits forward and jabs the talk button.
+dialog: 
+speaker_heading: MEG
+dialog: (into speaker)
+dialog: What do you know about this room?
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: there is more frenzied writing, more arguing, and a first
+text: draft of a response torn up. Finally, Junior steps forward
+dialog: with another sign:
+dialog: 
+dialog: MORE THAN YOU.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg's confidence is ebbing, but she doesn't want to show it.
+text: She hits the talk button again.
+dialog: 
+speaker_heading: MEG
+dialog: (into speaker)
+dialog: We're not coming out. We're not
+dialog: letting you in. Get out of my
+dialog: house.
+dialog: (clicks off)
+dialog: 
+speaker_heading: SARAH
+dialog: Say fuck.
+dialog: 
+speaker_heading: MEG
+dialog: (into speaker)
+dialog: Fuck.
+dialog: 
+speaker_heading: SARAH
+dialog: "Get the fuck out of my house."
+dialog: 
+speaker_heading: MEG
+dialog: (into speaker)
+dialog: Get the fuck out of my house!
+dialog: 
+text: She clicks off again, looks to Sarah for approval, and gets
+text: it, sort of, in Sarah's half-smile. But Sarah's eyes go back
+dialog: to the screen.
+dialog: 
+speaker_heading: SARAH
+dialog: Answer.
+dialog: 
+text: Meg follows Sarah's eyes back to the screen, where another
+text: message is being held up for them.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+dialog: the notepad says:
+dialog: 
+dialog: WE WILL LET YOU GO.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg and Sarah speak at the same time.
+dialog: 
+speaker_heading: MEG
+dialog: Oh, please.
+dialog: 
+speaker_heading: SARAH
+dialog: Give me a break.
+dialog: 
+scene_heading: INT. LIVING ROOM - NIGHT
+dialog: 
+text: In the living room, her voice booms from the speaker.
+dialog: 
+speaker_heading: MEG (O.S.)
+text: Conversation's over.
+dialog: 
+text: With an audible CLICK, she signs off. Burnham, Raoul, and
+text: Junior stand arrayed beneath the camera, staring up at it,
+dialog: dumbfounded.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Got her right where you want her,
+dialog: Junior.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Shut up.
+dialog: 
+speaker_heading: BURNHAM
+dialog: When you said you'd let 'em go I
+dialog: thought she'd come running right out
+dialog: for sure.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Shut up and let me think.
+dialog: 
+text: He opens a pack of cigarettes, takes out a joint and lights
+dialog: it.
+dialog: 
+speaker_heading: BURNHAM
+dialog: I'm afraid to let you think, Junior.
+dialog: Things get worse when you think.
+dialog: (sniffs)
+dialog: Oh, that's gonna help.
+dialog: 
+speaker_heading: JUNIOR
+dialog: (holding in a hit)
+dialog: Okay, fuckball, you think. What are
+dialog: we gonna do?
+dialog: 
+speaker_heading: RAOUL
+dialog: What if she called the cops?
+dialog: 
+speaker_heading: BURNHAM
+dialog: She didn't.
+dialog: 
+speaker_heading: JUNIOR
+dialog: She said she did.
+dialog: 
+speaker_heading: BURNHAM
+dialog: She lied. Cops woulda been here by
+dialog: now if she called 'em. Besides,
+dialog: Junior cut the phones.
+dialog: 
+text: Burnham goes to the window and stares outside. He laughs,
+text: covers his face.
+dialog: 
+speaker_heading: RAOUL
+dialog: What the fuck is funny about this?
+dialog: 
+speaker_heading: BURNHAM
+dialog: God.
+dialog: 
+speaker_heading: RAOUL
+dialog: There is not one thing funny here.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Who else but God could think this
+dialog: shit up? I spend ten years building
+dialog: those fucking rooms to keep people
+dialog: out, now I gotta figure out how to
+dialog: get in. God, man, He just loves the
+dialog: irony.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Yes. Yes, it's all terrible ironic
+dialog: and amusing. You fuck. Now how are
+dialog: you gonna get us into that room?
+dialog: 
+speaker_heading: BURNHAM
+dialog: Can't. Whole point. Can't get in
+dialog: the room.
+dialog: 
+speaker_heading: RAOUL
+dialog: So what the fuck are we supposed to
+dialog: do?!
+dialog: 
+speaker_heading: BURNHAM
+dialog: Make her come out. And when she
+dialog: does, that's when we gotta be
+dialog: careful. She can't get out of this
+dialog: house. She can't even think she can
+dialog: get out of this house. We just keep
+dialog: them here and keep them quiet for
+dialog: forty-five minutes. And I don't
+dialog: want
+dialog: (Raoul)
+dialog: Joe Pesci here standing over them
+text: with his fat sweaty finger on the
+dialog: trigger. That's a sure way for us
+dialog: to end up with two dead bodies and
+text: little puffs of smoke burning out of
+dialog: our heads up in Greenhaven. So
+dialog: we're gonna seal the place up. They
+dialog: wanna hole up in here? Fine, we'll
+dialog: help 'em. Make it impossible for
+dialog: them to leave. Once they come out
+dialog: of that room.
+dialog: 
+speaker_heading: JUNIOR
+dialog: And why exactly would they want to
+dialog: come out?
+dialog: 
+text: At the window, Burnham notices something sitting just outside
+text: the French doors, on the balcony. It's a large outdoor
+text: barbecue grill. He thinks, takes a step closer.
+dialog: 
+text: He sees a white five gallon tank of some kind underneath the
+dialog: grill.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Workin' on it.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: In the panic room, Meg is sitting cross-legged on the floor,
+text: leaning against a wall, but Sarah is in motion, sorting
+text: through shelves, opening drawers. Every drawer has something
+text: in it, sealed under plastic. She opens and closes, sorts and
+dialog: lifts finds the following:
+dialog: 
+text: Waterproof matches and lighters.
+dialog: 
+dialog: Flashlights.
+dialog: 
+text: Unopened packages of batteries.
+dialog: 
+text: Sealed water bags stamped "PURE FIVE YEARS FROM DATE."
+dialog: 
+dialog: Tinned food.
+dialog: 
+dialog: Flares.
+dialog: 
+dialog: Pillows, fireproof blankets (we know because the bags are
+speaker_heading: stamped FIREPROOF BLANKET).
+dialog: 
+dialog: A complete tool kit.
+dialog: 
+text: As Sarah explores, she discovers something in the far wall at
+text: the end of the room, down on the floor at eye level.
+dialog: 
+text: It's a small round portal, about eight inches across, with a
+text: four-pronged cloverlike seal. The portal is closed tight, as
+text: Sarah pokes and scrapes at it idly with a finger or two, it
+text: resists her attempts to crank it open.
+dialog: 
+dialog: Meg notices.
+dialog: 
+speaker_heading: MEG
+dialog: Hey. Relax, okay?
+dialog: 
+text: But Sarah keeps at it, feels along the edges of the portal,
+text: then all along the wall, looking for some kind of hidden
+dialog: switch that controls it.
+dialog: 
+speaker_heading: MEG
+dialog: I mean it, lie down. You get your
+dialog: adrenaline up and you know what's
+dialog: gonna happen.
+dialog: 
+text: Sarah stops, looks at her mother, who is pale and wan,
+text: huddled in the corner.
+dialog: 
+speaker_heading: SARAH
+dialog: Are you freaking out?
+dialog: 
+speaker_heading: MEG
+dialog: Little bit. Yeah.
+dialog: 
+text: Sarah looks around the room.
+dialog: 
+speaker_heading: SARAH
+dialog: Small space?
+dialog: 
+speaker_heading: MEG
+dialog: (nods, fast)
+dialog: Don't though.
+dialog: (talk about it, that is)
+dialog: 
+text: Sarah looks at her, thinks. It's not an unfamiliar
+text: situation, her needing to comfort her mother.
+dialog: 
+speaker_heading: SARAH
+dialog: Why did the chicken cross the road?
+dialog: 
+speaker_heading: MEG
+dialog: What am I, a five year old?
+dialog: 
+speaker_heading: SARAH
+dialog: Why did the chicken cross the road?
+dialog: 
+speaker_heading: MEG
+dialog: I don't know, why?
+dialog: 
+speaker_heading: SARAH
+dialog: To prove he wasn't chicken.
+dialog: 
+text: Meg tries to push a smile across her face, but it's
+text: immediately dashes as she looks back at the video screens.
+text: Her eyes show alarm, staring at the kitchen.
+dialog: 
+speaker_heading: MEG
+dialog: What the hell are they doing?
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. KITCHEN - NIGHT
+dialog: 
+text: The contents of one of the satchels is dumped out over the
+dialog: kitchen counter, every kind of tool imaginable, many that are
+dialog: unfamiliar to us. They sort through the pile, choosing
+dialog: things.
+dialog: 
+scene_heading: INT. KITCHEN FLOOR - REAR DOORS - NIGHT
+dialog: 
+text: At the French doors that lead to the garden, Burnham has a
+text: cordless screwdriver and a pile of long screws in his hand.
+text: He reaches up, drills a screw through the door, into the
+text: corner of the door frame. He does the same at the bottom of
+dialog: the door.
+dialog: 
+text: He unlocks the doorknob, tries it. The screws hold the door
+text: fast. He moves on, to the next door.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: In the panic room, Meg stares at the video screens, eyes
+text: wide, terrified. She watches them. Can't take her eyes off
+dialog: them.
+dialog: 
+speaker_heading: MEG
+dialog: (barely audible)
+dialog: ... locking us in...
+dialog: 
+scene_heading: INT. LIBRARY - NIGHT
+dialog: 
+text: In the library, in the front of the house, Raoul screws shut
+text: a window, driving the long screws into its frame. He looks
+text: out at the street, at two CLUBGOERS walking home.
+dialog: 
+text: He pulls the drape.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg's hands are over her mouth, she's trembling, shaking her
+text: head from side to side. This can't be happening.
+dialog: 
+scene_heading: INT. KITCHEN - NIGHT
+dialog: 
+text: In the kitchen, Junior goes to the wall phone Meg used to
+text: call for pizza earlier. He cuts the phone wire with a
+dialog: knife.
+dialog: 
+text: He stands there, staring at the phone, wiping the sweat from
+text: his palms on his pants. Not satisfied, he pulls the phone
+text: itself out of the wall, cuts the cord for the handset too.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg pushes herself back into the corner of the panic room,
+text: horrified. Sweat has broken out on her forehead, her whole
+text: body seems to vibrate. Sarah comes over, leans in front of
+dialog: her.
+dialog: 
+speaker_heading: SARAH
+dialog: Mom?
+dialog: 
+text: But Sarah's voice is hollow, seems far away.
+dialog: 
+speaker_heading: SARAH
+dialog: Are you okay?
+dialog: 
+text: Meg looks at her. As she watches, Sarah floats away from
+text: her. In fact, the entire room is floating away from her,
+text: elongating.
+dialog: 
+text: And narrowing. Meg looks to the sides, and the walls don't
+text: just seem like they're pushing in on her, they are pushing in
+dialog: on her.
+dialog: 
+text: Meg opens her mouth, screams, but no sound comes out.
+dialog: 
+text: Sarah stands up and bends over her, but now she's just a
+text: figure far away, all the way at the end of a long, impossibly
+dialog: narrow hall.
+dialog: 
+speaker_heading: SARAH
+dialog: (barely heard)
+dialog: MOM?! MOM!!
+dialog: 
+text: Meg crawls out, into the middle of that hallway, to get away
+text: from the wall, but they both continue moving in on her.
+dialog: 
+speaker_heading: MEG
+dialog: Not here... not here... someplace
+dialog: else... someplace else...
+dialog: 
+text: Her eyes roll back into her head, we see just the whites, and
+text: she loses her balance, falling over onto her back.
+dialog: 
+text: We fall with her, move in tight on her face, and the dark
+text: hallway carpet beneath it turns to green, all green, grassy
+text: green. She sits up, looks around, and we realize she is in
+dialog: fact somewhere else, she's --
+dialog: 
+scene_heading: EXT. GREAT LAWN - DAY
+dialog: 
+text: -- in the middle of the Great Lawn, in Central Park. She
+text: stands, turns in a circle, she's completely alone on the
+text: great green grassy plain in the middle of a beautiful spring
+text: day, tall buildings sparkling in the distance.
+dialog: 
+text: Meg stretches her arms out, smiles, but far off in the
+text: distance, she hears a voice calling to her, dimly:
+dialog: 
+speaker_heading: SARAH (O.S.)
+dialog: Mom?! Mom!!
+dialog: 
+text: Meg ignores the voice, she's so happy to be out here, out in
+text: the open, in the beautiful wide open, she could stay here
+text: forever, she spins around, throws her head back, but there's
+dialog: that voice again, insistent:
+dialog: 
+speaker_heading: SARAH (O.S.)
+dialog: Mom, please!!
+dialog: 
+text: There is the sharp sound of a SLAP, and Meg's face abruptly
+text: jerks to the side. She touches her cheek, confused, as a hot
+text: red handprint rises up on it.
+dialog: 
+dialog: What the hell was that?
+dialog: 
+speaker_heading: BAM!
+dialog: 
+text: Now the perfect spring day is shattered suddenly by a
+text: deafening CRUNCH. The smile vanishes from Meg's face, she
+dialog: turns. Where did that come from?
+dialog: 
+text: BAM! Another one, even louder. Meg's whole body winces at
+dialog: the sound.
+dialog: 
+text: BAM! A third one, and on this one Meg falls to her knees,
+text: covering her ears, walls spring up around her, right there on
+text: the Great Lawn, we rush in on her, the walls close in, and
+dialog: she's right back --
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+dialog: -- in the panic room, where she always was, and that pounding
+dialog: is real, it's right outside the door, it's like somebody's
+text: trying to smash their way right through the wall.
+dialog: 
+text: Sarah is right over Meg, holding her by the arms, and that
+text: handprint on Meg's face is real, Sarah must have slapped her
+dialog: to try to bring her out of it.
+dialog: 
+speaker_heading: SARAH
+dialog: THEY'RE COMING IN! THEY'RE COMING
+dialog: IN!
+dialog: 
+text: Meg looks to the wall, watches it seem to vibrate as another
+text: deafening BANG crunches into it from outside.
+dialog: 
+text: BAM! BAM! BAM! The sound is deafening. Sarah throws both
+text: hands over her ears. Meg looks around, still disoriented.
+dialog: 
+speaker_heading: SARAH
+dialog: YOU CAN'T DO THAT! YOU CAN'T FREAK
+dialog: OUT LIKE THAT! YOU HAVE TO STAY
+dialog: HERE WITH ME!
+dialog: 
+speaker_heading: MEG
+dialog: I am. I'm here.
+dialog: 
+speaker_heading: SARAH
+dialog: YOU HAVE TO!
+dialog: 
+speaker_heading: MEG
+dialog: I'm here. I'm here.
+dialog: 
+text: They huddle there, terrified. Meg blinks, wipes the sweat
+text: from her forehead, begins to come back around. She turns her
+text: head, sneaks a look at the funny wristwatch Sarah wears,
+dialog: tries to look without her daughter knowing. It's not an
+text: ordinary watch, it only has one number, a tall, flashing
+dialog: digital display:
+dialog: 
+dialog: 120
+dialog: 
+text: Meg nods, as if reassuring herself.
+dialog: 
+speaker_heading: MEG
+dialog: We're fine. We're okay.
+dialog: 
+text: She turns, looks at the video monitors to see what the hell
+dialog: they're doing out there.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+speaker_heading: BAM!
+dialog: 
+text: In the master bedroom, a claw hammer CRUNCHES into the
+text: sheetrock on the outer wall of the panic room.
+dialog: 
+text: The intruders are in the master bedroom now, and Burnham is
+text: like a man possessed, tearing at the sheetrock with the sharp
+text: end of the tool while Junior shines a flashlight into the
+dialog: hole.
+dialog: 
+text: As the sheetrock tears away, we see the skeleton of the wall
+text: behind it. There's a latticework of two by four studs, and
+text: beyond those the dull shine of the wall's metal core.
+dialog: 
+text: But that's not what he's after. He continues tearing,
+text: reveals an air duct running through the wall, feeding into
+text: the panic room through a welded hole in the steel. Burnham
+text: tears away with the hammer, exposing a short section of the
+dialog: duct.
+dialog: 
+text: CLANG! The claw hammer drops into an opened toolbox.
+text: Burnham drops to his knees, rips open another tool case.
+text: This one has a sophisticated looking power drill in it, along
+text: with a couple dozen specialized bits. He selects one, twists
+dialog: it into the drill.
+dialog: 
+text: At the wall, Burnham puts drill to metal and hits the switch.
+text: A horrendous METAL SCREECH fills the air and the drill bit
+text: tears into the duct, opening up a jagged hole about the size
+dialog: of a quarter.
+dialog: 
+text: Raoul hurries through the doorway of the bedroom, carrying a
+text: coiled garden hose. Burnham snaps his fingers for it, Raoul
+text: tosses it to him, holding one end, and the hose uncoils in
+text: the air as it snakes across the room.
+dialog: 
+text: Burnham shoves the end of the garden hose into the hole he's
+text: just drilled in the air duct.
+dialog: 
+text: RIP! He tears off a length of duct tape and seals the
+dialog: connection, makes it airtight.
+dialog: 
+text: SLIT! Using a large hunting knife, Raoul hacks a ten foot
+text: section of the garden hose off the coil.
+text: He stretches it out, across the room, to the white five
+text: gallon tank we saw before, which is now sitting on the floor
+text: up here. We move in close as Burnham snugs the cut end of
+text: the garden hose over a spigot at the top of the tank. Red
+text: block letters are easy to read on the side of the tank.
+dialog: 
+speaker_heading: PROPANE
+speaker_heading: CAUTION - FLAMMABLE
+dialog: 
+dialog: Along with a number of other dire warnings.
+dialog: 
+text: Burnham raises his hand to the knob, hesitates, doesn't
+dialog: really want to do this, but doesn't stop himself either.
+dialog: 
+text: He spins it open. Halfway.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Open it.
+dialog: 
+speaker_heading: BURNHAM
+dialog: I did.
+dialog: 
+speaker_heading: RAOUL
+dialog: He said open it.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Just sending a message. She'll get
+dialog: the point.
+dialog: 
+text: Gas HISSES through the spigot and into the hose. We follow
+text: along the length of the hose, across the floor of the room,
+text: through the hole in the sheetrock, into the hole that's been
+dialog: drilled in the air duct --
+dialog: 
+speaker_heading: INSIDE THE WALL
+dialog: 
+text: -- through the wall itself, where we see the horizontal lines
+text: of an air vent up ahead. We squeeze between two of the
+dialog: horizontal lines --
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: -- and come out in the panic room. Three red streamers, tied
+text: to the air vent, flap to life as the gas HISSES into the
+dialog: panic room.
+dialog: 
+text: Directly underneath the vent, Meg is hunched up against the
+text: wall, her arm around Sarah.
+dialog: 
+text: She sniffs.
+dialog: 
+dialog: Again.
+dialog: 
+text: Sarah sniffs.
+dialog: 
+text: They look at each other.
+dialog: 
+text: She looks up. Sees the streamers floating above her.
+dialog: 
+text: She leaps to her feet, steps up onto a shelf, and stretches
+text: her nose toward the streamers. Just as she does --
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Near the tank, Raoul shoves Burnham out of the way.
+dialog: 
+speaker_heading: RAOUL
+dialog: We ain't playin', here.
+dialog: 
+text: He cranks the valve handle of the grill open all the way.
+text: The gas pours into the hose with an audible WHOOSH.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg, at the vent, falls back, two lungfuls of propane, and
+text: drops to her knees on the floor.
+dialog: 
+speaker_heading: SARAH
+dialog: What, what, what is it?!
+dialog: 
+speaker_heading: MEG
+dialog: On the floor! Get on the floor!
+dialog: 
+text: Now Sarah coughs. The gas is pouring into the room.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Raoul is standing guard over the tank, to make sure no one
+text: messes with the valve.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Look, don't be stupid...
+dialog: 
+text: Junior has his head pressed against the door to the panic
+text: room, trying to hear any sounds from within.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Be quiet.
+dialog: 
+speaker_heading: BURNHAM
+dialog: We're trying to scare them, not kill
+dialog: them!
+dialog: 
+speaker_heading: JUNIOR
+dialog: They're coughing.
+dialog: 
+speaker_heading: BURNHAM
+dialog: They're gonna die in there!
+dialog: 
+speaker_heading: JUNIOR
+dialog: Nobody is gonna die, man, will you
+dialog: please have the balls to follow
+dialog: through with a good idea? Think
+dialog: about it, what would you do if you
+dialog: were them, stay in there and choke
+dialog: to death, or come out?! Huh? We're
+dialog: just getting them to come out for
+dialog: forty-five minutes, forty-five
+dialog: fucking minutes! The worst that's
+dialog: gonna happen is they pass out, we
+dialog: drag 'em out here into the fresh
+dialog: air, and they'll be fine.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Junior, you gigantic idiot, how are
+dialog: we supposed to get into the room if
+dialog: they pass out?
+dialog: 
+text: Pause. Junior turns to Raoul.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Cut it back a little bit.
+dialog: 
+speaker_heading: RAOUL
+dialog: No fucking way.
+dialog: 
+speaker_heading: JUNIOR
+dialog: He's right, we can't get into the
+dialog: room if they're dead!
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg and Sarah are down on the floor, rags covering their
+text: mouths, trying like crazy to filter the air, but it's not
+text: working. Sarah is crawling around the base of the wall, near
+text: to where she was before, clawing at the strange portal thing
+dialog: again.
+dialog: 
+text: Finally, she finds a small metal handle, folded back into the
+text: clover-leaf seal on the portal. She unfolds it, twists it.
+dialog: 
+text: The portal cranks open, revealing it to be at the end of a
+text: tube, about a foot long, an emergency ventilation source
+text: directly through to the exterior of the house. She bends
+text: down and looks through it. It's covered by a metal mesh at
+text: the opposite end, but she can see and smell the outside
+dialog: through it.
+dialog: 
+text: She sits up, gestures to her mother to bend down next to her.
+text: She does, and they both jam their mouths up near the end of
+text: the tube, gulping fresh air greedily.
+dialog: 
+text: Meg looks at Sarah, good job, and they both drop to the floor
+text: at the portal and suck air. It's temporary, but it works.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: In the master bedroom, the debate has turned physical.
+text: Burnham lunges across the room at Raoul, to get his hands on
+text: the valve, to turn off the gas. But Raoul catches him and
+text: hurls him aside.
+dialog: 
+text: Burnham SLAMS into the wall, bounces off and SCREAMS at
+text: Raoul, who SCREAMS right back. Junior leaps into the middle,
+dialog: trying to break it up, to get them to shut up, keep their
+dialog: voices down.
+dialog: 
+dialog: It's bedlam.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: In the panic room, Meg knows this can't go on forever. She
+text: turns away from the portal, looks up at the vent, where the
+text: streamers still stream.
+dialog: 
+text: She looks to the other side of the room, to where Sarah found
+text: the waterproof matches and lighters.
+dialog: 
+text: She thinks. Takes a deep lungful of fresh air from the tube
+text: and crawls over to the lighters. She selects one, snatches
+text: up a screwdriver.
+dialog: 
+text: Sarah looks at her, has a vague idea of what she's thinking,
+text: but can't believe it. She shakes her head vehemently.
+dialog: 
+text: In response, Meg picks up two or three of the fireproof
+text: blankets and piles them over Sarah, right up to her
+text: disbelieving eyes. She bends down, takes another gulp of
+text: air. but she's getting woozy. This can't go on much longer.
+dialog: 
+text: She staggers across the room, hoists herself back up onto the
+text: shelf she stood on before, and gets right up next to the
+text: vent. Holding her breath to avoid breathing the toxic gas,
+text: she unscrews the vent cover.
+dialog: 
+dialog: The duct is wide enough to put your arm in. She reaches in,
+text: past a bundle of multicolored wires that run down through the
+text: wall. She reaches all the way in, lighter in hand.
+dialog: 
+speaker_heading: INSIDE THE DUCT,
+dialog: 
+text: we see her hand crawl in, lighter clenched between her
+text: fingers. She raises a thumb to the flint wheel, cranks it
+dialog: once.
+dialog: 
+dialog: Too slow. Not even a spark.
+dialog: 
+text: Her hand shakes. She tries again. Still no spark. But with
+text: the effort and the angle, when she thumbs the lighter it
+text: makes her hand twitch, banging up against the sides of the
+text: duct with a hollow BOOM.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Burnham turns abruptly.
+dialog: 
+text: He turns around. They all freeze, listening. He hears it
+text: again. The hollow BOOM, coming from inside the wall. Now a
+dialog: third time.
+dialog: 
+text: He walks forward, slowly, toward the wall.
+dialog: 
+speaker_heading: BOOM.
+dialog: 
+text: He moves closer, gets right up next to the wall. He leans
+text: into the wall, putting his ear right up next to the air duct.
+text: This close, he hears the sound in more detail, realizes it's
+dialog: two sounds.
+dialog: 
+speaker_heading: SCRATCH. BOOM.
+dialog: 
+text: He arches an eyebrow.
+dialog: 
+speaker_heading: INSIDE THE DUCT,
+dialog: 
+text: Meg's hand is trembling, tiring. She tries again, thumbs the
+text: flint wheel. It SCRATCHES as it rolls, her hand twitches,
+text: BOOMS against the side of the duct.
+dialog: 
+dialog: Still, the gas HISSES through.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg's face is turning color, she's running out of air. Her
+text: feet tremble on the shelf, she's about to lose her footing.
+dialog: 
+speaker_heading: INSIDE THE DUCT,
+dialog: 
+text: she tries again. SCRATCH. BOOM.
+dialog: 
+speaker_heading: IN THE BEDROOM,
+dialog: 
+text: Burnham's eyes suddenly pop wide as he identifies the sound.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Oh.
+dialog: 
+text: He tears himself away from the wall --
+dialog: 
+speaker_heading: INSIDE THE DUCT,
+dialog: 
+dialog: -- Meg's thumb tenses for one good hard turn --
+dialog: 
+speaker_heading: IN THE BEDROOM,
+dialog: 
+text: -- Burnham leaps through the air, hurling himself toward the
+dialog: propane tank --
+dialog: 
+speaker_heading: INSIDE THE DUCT,
+dialog: 
+text: -- Meg cranks the wheel, a spark sparks, a flame flames, and
+text: a hot blue cloud shoots out in two directions, one toward the
+text: panic room, the other toward the bedroom.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg jumps off the shelf, throwing herself as far away from
+text: the vent as she can, her arm engulfed by licking blue flame.
+text: She drops to the floor of the room, covering her daughter's
+text: body just as the entire ceiling of the panic room turns into
+text: a lake of fire with a deafening WHOOMP. The fluorescent
+text: light tubes EXPLODE, showering glass everywhere.
+dialog: 
+speaker_heading: IN THE BEDROOM,
+dialog: 
+text: the blue flame shoots out of the wall, into the hose, through
+text: the hose, backing up toward the tank.
+dialog: 
+text: Burnham CRUNCHES to the floor next to the tank, knocking the
+text: other end of the hose away from the spigot just as the blue
+text: flame erupts from the end of the hose.
+dialog: 
+text: The flame engulfs his entire body, his hair starts on fire,
+text: his chest, his arms. Raoul lunges forward, Junior tears the
+text: blankets from the bed and throws them over him, Burnham HOWLS
+text: and rolls on the floor in pain.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: the blue cloud on the ceiling suddenly evaporates with
+text: another angry WHOOMP, leaving a few little pockets of flame
+text: that Meg extinguishes by swatting with a blanket. Only one
+text: of the fluorescent lights is left intact; it casts a
+text: flickering, uneven light on the room.
+dialog: 
+text: She stands in the middle of the still-smoky panic room,
+text: breathing hard. She shouts, SCREAMS incomprehensibly, making
+dialog: no sense whatsoever.
+dialog: 
+text: She stops, noticing the look Sarah is giving her. Wide-eyed
+dialog: admiring, frightened, you are an insane woman.
+dialog: 
+text: Meg looks to herself. Her arm is signed, the hair burned
+text: off. The sleeve of her T-shirt is burned back to the
+text: shoulder. Her face is sooty, blackened.
+dialog: 
+text: Meg GRUNTS, half frightened by herself.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Out in the bedroom, it's worse for Burnham, who has lost most
+text: of his hair and shirt. But his skin isn't badly burned,
+dialog: which is something, I guess.
+dialog: 
+text: Still, he's in a rage. He POUNDS the metal door of the panic
+dialog: room.
+dialog: 
+speaker_heading: BURNHAM
+dialog: I'M COMING IN THERE, BITCH, I AM
+dialog: COMING IN THERE! I AM COMING IN
+dialog: THERE!
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg whirls, goes to the door herself, SCREAMS right back. We
+text: can hardly make out a word she's saying, but it sounds
+dialog: threatening.
+dialog: 
+text: Suddenly, she stops, hearing something else. Outside the
+text: door, Burnham continues to rant, but there's a second sound,
+text: a sound coming from the long wall of the panic room, the wall
+dialog: that's shared with the brownstone next door.
+dialog: 
+text: It's a faint -- very faint -- POUNDING sound, along with a
+text: high pitched, complaining voice, so faint it can hardly be
+text: heard. Sarah hears it too.
+dialog: 
+speaker_heading: SARAH
+dialog: Neighbor!
+dialog: 
+text: Meg and Sarah leap as one, facing the common wall, SHOUTING
+dialog: at the tops of their lungs -- get help, call the police,
+dialog: please, call the police, that sort of thing.
+dialog: 
+text: They shout and shout, but the soft pounding continues, and if
+text: their voices are as soft on the other side as the COMPLAINING
+dialog: VOICE is on this side, they have no hope.
+dialog: 
+text: Their voices crack and they begin to cough, too irritated by
+text: the gas to shout for very long. Long after they stop, the
+text: soft POUNDING from next door continues.
+dialog: 
+text: Their pleas are not heard.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: The Intruders have stopped their racket too, and are
+text: listening carefully at the common wall. Eventually, the soft
+text: POUNDING stops, the complaining voice complains no more.
+dialog: 
+text: Burnham stands there, in pain. Things are falling apart.
+text: Raoul stands in the doorway, silhouetted by the hallway
+text: light. He draws himself up to his full, bulky height. He's
+dialog: big.
+dialog: 
+speaker_heading: RAOUL
+dialog: (to Junior)
+dialog: We're gonna talk. Downstairs.
+dialog: 
+text: Junior nods and starts out. Raoul lets him pass, but when
+text: Burnham tries to follow him, Raoul puts a big hand on his
+text: chest stopping him.
+dialog: 
+speaker_heading: RAOUL
+dialog: You stay. Make sure she don't come
+dialog: out.
+dialog: 
+text: Burnham swallows. But stays.
+dialog: 
+text: Raoul turns, follows Junior downstairs. As he descends, he
+text: looks up, making eye contact with Burnham. And holding it.
+dialog: Something on his mind, that's for sure.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: THUNK. Meg's head falls back against a wall; she sags to the
+text: floor, legs folded in front of her, completely drained.
+dialog: 
+text: But Sarah's not drained, Sarah's full of nervous ingenuity,
+text: rustling around through the stuff in the panic room, an idea
+text: forming in her head. She finds a powerful-looking flashlight
+text: and loads it up with batteries. She tries it, flashing
+dialog: around the room.
+dialog: 
+text: Halogen bulb, very powerful, hurts her mother's eyes as she
+text: flashes it past. Meg watches her. What's she up to?
+dialog: 
+text: Sarah lays on the floor in front of the ventilation tube she
+text: discovered earlier. She squints through it.
+dialog: 
+speaker_heading: THROUGH THE TUBE,
+dialog: 
+text: she can see out of the house, into the courtyard behind the
+dialog: brownstone.
+dialog: 
+text: About thirty yards away she can see the backs of the
+text: brownstones on the next block, and directly across (because
+dialog: the tube doesn't leave much room for lateral vision) she can
+text: see straight into somebody's bedroom.
+dialog: 
+text: There's a light on. A SLEEPING MAN is in bed, an open book
+text: on his chest.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Sarah sits back.
+dialog: 
+text: She grabs the flashlight, looks for a little button on the
+dialog: top, the kind you can flick the flashlight on and off with.
+text: Shining it on the wall of the panic room, she flashes it at a
+text: wall, three times, on and off. Satisfied, she turns back to
+dialog: the tube.
+dialog: 
+text: Meg, curious, crawls across the floor to join her. Sarah
+text: shoves the flashlight all the way into the tube, leaving
+text: enough room on either side of it for them to see through.
+text: Meg lays down flat, squints into the tube, Sarah alongside
+dialog: her. She looks at her daughter, curious -- your plan?
+dialog: 
+text: Sarah reaches into the tube, finds the little flash button on
+text: the top of the flashlight.
+dialog: 
+speaker_heading: THROUGH THE TUBE,
+dialog: 
+text: the piercing halogen beam begins to flash, across the
+text: courtyard and into the bedroom of the Man in the bedroom.
+text: The light flashes on the wall over his bed.
+dialog: 
+text: The flashes are in a rhythm. Short. Short. Short. Long.
+dialog: Long. Long. Short. Short. Short.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg turns to Sarah, impressed.
+dialog: 
+speaker_heading: MEG
+dialog: Morse code?
+dialog: 
+speaker_heading: SARAH
+dialog: (nods)
+dialog: Dot dot dot, dash dash dash, dot dot
+dialog: dot.
+dialog: 
+speaker_heading: MEG
+dialog: Where'd you learn S.O.S.?
+dialog: 
+speaker_heading: SARAH
+dialog: "Titanic."
+dialog: 
+speaker_heading: THROUGH THE TUBE,
+dialog: 
+text: the flashes continue -- dot dot dot, dash dash dash, dot dot
+text: dot. But the Man continues to sleep, the light on the wall
+text: behind him has no effect.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Sarah is frustrated. She adjusts the flashlight.
+dialog: 
+speaker_heading: THROUGH THE TUBE,
+dialog: 
+text: the beam of light lowers jerkily from the wall until it is
+text: shining directly into the Sleeping Man's eyes.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Sarah strains to keep the light in that perfect spot. She's
+text: starting to sweat. Meg leans over, sneaks a peek at the
+text: watch Sarah wears on her left wrist. The readout:
+dialog: 
+dialog: 114
+dialog: 
+speaker_heading: THROUGH THE TUBE,
+dialog: 
+text: the Sleeping Man stirs. Opens his eyes. Winces from the
+text: light, which is flashing directly in his eyes.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+speaker_heading: MEG
+dialog: Got him!
+dialog: 
+speaker_heading: SARAH
+dialog: Come on, come on...
+dialog: 
+speaker_heading: THROUGH THE TUBE,
+dialog: 
+text: the Sleeping Man sits up. Raises a hand, trying to block the
+text: light, which keeps flashing on him.
+dialog: 
+text: He gets up, out of bed. He comes to the window.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+speaker_heading: MEG
+dialog: Yes, yes, yes, yes...
+dialog: 
+text: Sarah keeps it up, flashing faster.
+dialog: 
+speaker_heading: THROUGH THE TUBE,
+dialog: 
+text: they see the Man come all the way to his window. He leans
+text: against it, cups his hands so he can see better. The flashes
+text: continue, right on top of him now.
+dialog: 
+text: Clearly, the Man is reading the flashes! He takes a steps
+dialog: back from the window --
+dialog: 
+dialog: -- gives them the finger --
+dialog: 
+text: -- and angrily yanks shut his drapes.
+dialog: 
+text: A moment later, the light goes out and the room is black.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg and Sarah drop their heads to the carpet, defeated.
+dialog: 
+text: Sarah rolls over, knocks the flashlight away, stares up at
+dialog: the ceiling.
+dialog: 
+text: Meg puts a hand in her hair. It was a good idea.
+dialog: 
+speaker_heading: SARAH
+dialog: We're never getting out of here.
+dialog: 
+speaker_heading: MEG
+dialog: Shhh...
+dialog: 
+text: She looks at the wristwatch again.
+dialog: 
+dialog: 103
+dialog: 
+dialog: She's concerned.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Burnham is concerned as well. He's still in the master
+text: bedroom, but barely, he's standing in the doorway, straining
+dialog: like hell to hear a conversation that Junior and Raoul are
+text: having in the foyer, one floor one.
+dialog: 
+dialog: They're trying to keep their voices down, but stray words
+text: float up through the open stairwell -- words like "him" and
+dialog: "warning" and "dangerous."
+dialog: 
+text: Burnham chews a fingernail. If only he could get closer. He
+text: throws a look back at the door to the panic room. He looks
+text: back out the bedroom door. Listening.
+dialog: 
+scene_heading: INT. FOYER - NIGHT
+dialog: 
+text: Junior and Raoul are huddled together in the foyer. They're
+text: keeping their voices low, but their conversation is heated.
+dialog: 
+speaker_heading: JUNIOR
+dialog: We're not gonna do anything about
+dialog: him, he's fine.
+dialog: 
+speaker_heading: RAOUL
+dialog: If you think I'm gonna let my half
+dialog: of the fourteen million bucks slip
+dialog: away because of --
+dialog: 
+speaker_heading: JUNIOR
+dialog: "Half?" What did you, take a nap in
+dialog: math class? Three people, three
+dialog: shares, one third. Four point six
+dialog: six six repeating.
+dialog: 
+speaker_heading: RAOUL
+dialog: I'm just saying, the man is a
+dialog: problem. And he's your problem.
+dialog: Wasn't me idea to bring him along.
+dialog: 
+speaker_heading: JUNIOR
+dialog: That's right, Raoul, it wasn't your
+dialog: idea, none of this was your idea, it
+dialog: was mine, it's my family we're
+dialog: ripping off, it's my prick
+dialog: grandfather who built that fucking
+dialog: room, it was my idea to get the
+dialog: plans, I found the floor safe, and
+dialog: it was my idea to ask a guy who
+dialog: builds these rooms to help break
+dialog: into one! Me, me, me, I, I, I, at
+dialog: no point did I say "you" or Raoul,"
+dialog: got it?
+dialog: 
+speaker_heading: RAOUL
+dialog: He puts his hands on me again I'll
+text: bury a slug in his ear.
+dialog: 
+speaker_heading: JUNIOR
+dialog: No, you will not, because without
+dialog: Burnham there's no way in hell we're
+dialog: gonna get into that safe, so as far
+dialog: as I'm concerned he can paint your
+text: ass blue and run it up a flagpole
+dialog: and you won't lay a finger on him,
+dialog: you understand me?
+dialog: 
+speaker_heading: RAOUL
+dialog: Don't take no tone of voice with me,
+dialog: Homes.
+dialog: 
+speaker_heading: JUNIOR
+dialog: What is this shit you're talking all
+dialog: of a sudden? You're a bus driver,
+dialog: "Homes," you live in Flatbush, so
+dialog: please don't start spouting some
+dialog: Elmore Leonard shit you just heard
+dialog: because I saw that movie too,
+dialog: 
+text: ON THE VIDEO MONITORS,
+dialog: 
+text: Junior and Raoul are visible, still arguing in the foyer.
+dialog: 
+text: On the next monitor over, Burnham is visible, standing in the
+text: master bedroom doorway, listening.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg is watching the monitors, thinking. She notices
+text: something, sits forward abruptly, looking at the monitor that
+text: covers the master bedroom. She squeezes right up close,
+text: staring at the screen.
+dialog: 
+speaker_heading: ON THE MONITOR,
+dialog: 
+text: we peer closely at the box next to her bed, the one she was
+text: using for a night table. On top of the box, she sees the
+text: charger for her cellular phone, sitting empty.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg sits back, eyes alive with an idea. If only she could
+text: get to that phone, which must be still under the bed. She
+text: looks back at the monitors, at Burnham lingering in the
+text: doorway to the room.
+dialog: 
+speaker_heading: MEG
+dialog: Damn.
+dialog: 
+text: She turns away from the monitors, to check on Sarah, who's
+text: settled into a corner of the room, looking pale.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: In the bedroom, Burnham is desperate. The argument
+text: downstairs is entering round two, and he's got to hear what
+dialog: they're saying.
+dialog: 
+text: He takes a few steps out of the bedroom --
+dialog: 
+scene_heading: INT. THIRD FLOOR HALLWAY - NIGHT
+dialog: 
+text: -- and comes into the hallway. He leans over the stairwell.
+text: Where he's standing, he is directly under the camera that
+dialog: covers the hallway --
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: -- and can't be seen on the monitor that covers the hallway.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg turns back from Sarah, to look at the monitors again.
+text: She see Burnham is no longer in the bedroom. And doesn't
+text: appear to be in the hallway, either.
+dialog: 
+speaker_heading: MEG
+dialog: Oh yes, yes...
+dialog: 
+text: She looks at another monitor.
+dialog: 
+speaker_heading: ON THE MONITOR,
+dialog: 
+text: she sees Junior and Raoul in the foyer.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg sits back. That leaves Burnham unaccounted for.
+dialog: 
+speaker_heading: MEG
+dialog: ... the hell is he?
+dialog: 
+text: IN THE HALLWAY,
+dialog: 
+text: Burnham is still lingering under the camera.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Sarah has come forward to the monitors as well.
+dialog: 
+speaker_heading: SARAH
+dialog: Do it.
+dialog: 
+speaker_heading: MEG
+dialog: Yeah, but where's the third guy?
+dialog: 
+speaker_heading: SARAH
+dialog: Not in the bedroom. Do it!
+dialog: 
+text: Meg goes to the door, raises a hand to the green "open"
+dialog: button. Hesitates.
+dialog: 
+text: IN THE MASTER BEDROOM,
+dialog: 
+text: we see Burnham, lurking in the hallway, just about six feet
+dialog: from the door to the panic room. Don't open that door!
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg wipes sweat from her palm.
+dialog: 
+speaker_heading: MEG
+dialog: If it looks like I can't get back,
+text: just close the door.
+dialog: 
+speaker_heading: SARAH
+dialog: No.
+dialog: 
+speaker_heading: MEG
+dialog: Close it!
+dialog: 
+text: Sarah nods, looks back to the button.
+dialog: 
+text: IN THE HALLWAY,
+dialog: 
+text: a shouted CURSE rises up from downstairs. Burnham takes a
+text: step toward the stairs.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: he suddenly appears, in the hallway.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Sarah sees it.
+dialog: 
+speaker_heading: SARAH
+dialog: WAIT!
+dialog: 
+text: Meg freezes. She looks at the monitor, wide-eyed. Close
+dialog: one.
+dialog: 
+text: IN THE HALLWAY,
+dialog: 
+dialog: Burnham can't take it anymore.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Oh, hell...
+dialog: 
+text: He turns and takes off down the stairs.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: Burnham flies down the stairs and appears in the foyer, next
+dialog: to Junior and Raoul.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg and Sarah see all three men accounted for, downstairs.
+dialog: 
+speaker_heading: SARAH
+dialog: GO GO GO!
+dialog: 
+text: Meg leaps up, runs to the door, and punches the green button.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: The door begins to crank open, Meg slips through the gap
+text: sideways before it's even all the way open. She darts across
+dialog: the room --
+dialog: 
+text: -- slides to the floor next to the bed --
+dialog: 
+text: -- and flattens herself, reaching underneath it to get the
+dialog: phone. Damn, that phone slid far, it's right in the middle,
+dialog: wouldn't you know it.
+dialog: 
+speaker_heading: IN THE FOYER,
+dialog: 
+text: the three men hear her footsteps, as one, they take off for
+dialog: the stairs.
+dialog: 
+text: IN THE MASTER BEDROOM,
+dialog: 
+text: Meg continues to stretch, her fingers inches from the phone.
+dialog: 
+text: ON THE STAIRWELL,
+dialog: 
+text: feet race up toward her --
+dialog: 
+text: IN THE MASTER BEDROOM,
+dialog: 
+text: Meg's fingernails paw the phone, pull it closer to her. She
+dialog: grabs it, stands --
+dialog: 
+text: IN THE HALLWAY,
+dialog: 
+text: the three men come off the stairs and race toward her, they
+text: see her as she lunges across, toward the panic room, she
+text: hurls herself through the door --
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: -- and Sarah SMACKS the red button. The steel door closes
+text: with a deafening WHANG.
+dialog: 
+dialog: Safe.
+dialog: 
+speaker_heading: IN THE ENTRYWAY,
+dialog: 
+text: the echo of the metallic WHANG reverberates through the
+dialog: house.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: In the panic room, Meg punches 9-1-1 on her cell phone with
+dialog: trembling fingers.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: The big empty charger cradle is in the foreground when the
+text: three men burst into the room. Burnham stops in the middle
+text: of the floor, turns in a frantic circle.
+dialog: 
+speaker_heading: BURNHAM
+dialog: What'd she get, what'd she get,
+dialog: what'd she get...
+dialog: 
+text: His eyes fall on the empty charger.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Cell phone.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Shit!
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg raises the cell phone to her ear --
+dialog: 
+text: -- and gets a rapid busy signal.
+dialog: 
+speaker_heading: MEG
+dialog: Oh, no. No, no, no no no no no...
+dialog: 
+text: She looks at the phone. It's showing just one signal bar,
+text: and even that one is flashing on and off.
+dialog: 
+speaker_heading: MEG
+dialog: Oh come on, come on, come on...
+dialog: 
+text: She walks around the room, raises the phone high and low,
+text: trying crazily to find a signal.
+dialog: 
+dialog: But can't.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: In the bedroom, Burnham stands just outside the door,
+text: fingertips lightly resting on it, the ghost of a smile on his
+dialog: face.
+dialog: 
+speaker_heading: BURNHAM
+dialog: (softly)
+dialog: I don't think we'll be talking on
+dialog: our cell phone from in there...
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Inside the room, Meg doesn't seem upset. Rather, she's
+text: staring at the cell phone in her hand, thinking. Remembering
+dialog: something.
+dialog: 
+speaker_heading: MEG
+dialog: Wires...
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: At the same moment, Burnham is having the same thought. He's
+text: still at the door, fingertips still resting there.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Phone...
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+speaker_heading: MEG
+dialog: ... wires.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Burnham looks down, at the baseboard below. What is he
+dialog: looking at?
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg steps up, onto the shelf she climbed earlier, and comes
+text: up next to the vent.
+dialog: 
+speaker_heading: SARAH
+dialog: What are you doing?
+dialog: 
+speaker_heading: MEG
+dialog: I saw something, I saw...
+dialog: 
+text: In the vent, alongside the duct, she sees the bundle of
+text: multicolored wires she saw earlier.
+dialog: 
+speaker_heading: MEG
+dialog: ... phone wires!
+dialog: 
+text: She jumps down off the shelf, goes to the tools, starts
+dialog: searching for something.
+dialog: 
+speaker_heading: MEG
+dialog: I may not have hooked up the phone
+dialog: in here, but I hooked up the main
+dialog: line, and there's a jack at the base
+dialog: of this wall outside, I saw it!
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+dialog: Yes, that is correct, there is in fact a jack in the base of
+text: the wall outside the door to the panic room.
+dialog: 
+text: Burnham bends down into frame, studying it, thinking the same
+text: thing she is. He clears his throat.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Say, while we're on the subject of
+dialog: phones...
+dialog: 
+text: He turns, looks up at Junior.
+dialog: 
+speaker_heading: BURNHAM
+dialog: When I said cut the line, did you
+dialog: cut the main line at the junction
+dialog: box in the basement like I said, and
+dialog: which I repeated, or did you just
+dialog: cut the cord on the phone in the
+dialog: kitchen?
+dialog: 
+dialog: Pause. Swallow.
+dialog: 
+speaker_heading: JUNIOR
+dialog: I, uh, I...
+dialog: 
+dialog: Shit.
+dialog: 
+speaker_heading: JUNIOR
+dialog: ... hit a little snag finding the
+text: one in the basement.
+dialog: 
+dialog: Shit.
+dialog: 
+text: Pause. Then, as if a starting gun has been fired, Burnham
+text: leaps to his feet and races out of the bedroom.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: That same starting gun has been fired in the panic room.
+text: With a strong RIP, Meg pulls the whole bundle of multi
+text: colored wires out of the wall and drops onto the floor with
+text: it. She trusts it at Sarah, finds a wire cutter in the
+text: assorted tools, and gives her that too.
+dialog: 
+speaker_heading: MEG
+dialog: Strip 'em, expose the ends, try blue
+dialog: first, blue is phones!
+dialog: 
+speaker_heading: SARAH
+dialog: Blue is phones?
+dialog: 
+speaker_heading: MEG
+dialog: Yes, no, I don't know, do 'em all!
+dialog: 
+text: While Sarah goes to work on the wires, Meg turns to the phone
+text: itself, the one with the buried phone line that isn't working
+text: yet. She rips the phone out of its housing, tears free the
+text: wire on the end of it.
+dialog: 
+scene_heading: INT. ENTRY FLOOR - NIGHT
+dialog: 
+text: Burnham flies down the stairs from the third floor, races
+text: across the foyer, flies down the stairs to the kitchen floor.
+dialog: 
+scene_heading: INT. KITCHEN - NIGHT
+dialog: 
+text: Burnham races across the kitchen floor, whips open a door and
+text: heads down another, narrow, darkened stairway.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg and Sarah are like animals, clawing and tearing at the
+text: ends of their respective phone cables, foregoing tools and
+text: stripping the wires with fingers and teeth, it's faster.
+dialog: 
+text: With the phone receiver cradled on her shoulder, Meg starts
+text: twisting the ends of wires onto the exposed ends of the wires
+text: from the phone unit. First wire -- nothing. She tries a
+dialog: second wire.
+dialog: 
+scene_heading: INT. MECHANICAL ROOM - NIGHT
+dialog: 
+text: Burnham SLAMS open the door to a dark room, pulls the string
+text: on a bare bulb. Burned out.
+dialog: 
+speaker_heading: BURNHAM
+dialog: God damn it!
+dialog: 
+text: Without light, he can't see a thing. He SMACKS the bulb, it
+text: swings wildly, SMASHES on the cement wall. He turns and
+text: races out of the room.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg tries another wire. Still no dial tone. Sarah shoves
+text: another wire at her. She tries again. Nothing. She moves
+dialog: on.
+dialog: 
+scene_heading: INT. LIVING ROOM - NIGHT
+dialog: 
+text: Burnham slides to his knees, snatches a flashlight from his
+text: duffel, leaps up and takes off again.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Another wire. Nothing. Another wire. DIAL TONE!
+dialog: 
+text: Meg SHRIEKS and punches 911.
+dialog: 
+scene_heading: INT. STAIRWELL - NIGHT
+dialog: 
+text: Burnham flies down the stairs, flashlight beam bouncing
+text: crazily in front of him.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: The phone is ringing. An operator picks up.
+dialog: 
+speaker_heading: OPERATOR
+dialog: 911 emergency --
+dialog: 
+speaker_heading: MEG
+dialog: I'm at 26 West --
+dialog: 
+speaker_heading: OPERATOR
+dialog: -- please hold.
+dialog: 
+text: It's a mechanical voice, which gives over to MUZAK.
+dialog: 
+speaker_heading: MEG
+dialog: NO!
+dialog: 
+scene_heading: INT. MECHANICAL ROOM - NIGHT
+dialog: 
+text: Burnham BANGS through the door again, starts searching the
+text: darkened mechanical room, shining harsh light around its
+text: dingy walls.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+speaker_heading: MUZAK continues to play.
+dialog: 
+speaker_heading: MEG
+dialog: Damn it!
+dialog: 
+text: No more time to hold. Meg hangs up the phone, dials another
+text: number, a seven digit one she knows by heart.
+dialog: 
+speaker_heading: SARAH
+dialog: Call Dad!
+dialog: 
+speaker_heading: MEG
+dialog: On it!
+dialog: 
+scene_heading: INT. MECHANICAL ROOM - NIGHT
+dialog: 
+text: In the mechanical room, the bouncing flashlight beam falls on
+text: a metal cabinet across the way. Burnham runs to it, flings
+text: it open. Circuit breakers. SLAMS it shut.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg listens as a phone rings on the other end. And rings.
+text: And rings again.
+dialog: 
+dialog: This is torture.
+dialog: 
+scene_heading: INT. MECHANICAL ROOM - NIGHT
+dialog: 
+text: Burnham turns, sees another, smaller metal box, this one
+dialog: clearly labeled:
+dialog: 
+speaker_heading: PHONES
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: On the other end of the phone, a husky MALE VOICE answers;
+text: clearly he's been awakened.
+dialog: 
+speaker_heading: VOICE
+dialog: Hello?
+dialog: 
+speaker_heading: MEG
+dialog: Listen to me! There are three --
+dialog: 
+scene_heading: INT. MECHANICAL ROOM - NIGHT
+dialog: 
+text: With a subhuman ROAR of anger, Burnham rips the entire phone
+text: panel off the wall with his bare hands.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: With an abrupt SHRIEK, the line goes dead. Meg pauses, can't
+dialog: believe it.
+dialog: 
+speaker_heading: MEG
+dialog: Hello? Don't... are...
+dialog: 
+text: She looks up, see Sarah looking at her, her eyebrows arches,
+text: her face all hope. Meg keeps her cool, but it take a hell of
+dialog: an effort.
+dialog: 
+text: Sarah reads her face. She turns away.
+dialog: 
+text: She hangs up the phone.
+dialog: 
+text: Sarah goes to a corner of the room, faces away from her.
+dialog: 
+dialog: Meg doesn't know what to say.
+dialog: 
+speaker_heading: MEG
+dialog: He'll do something.
+dialog: 
+speaker_heading: SARAH
+dialog: Uh uh.
+dialog: 
+speaker_heading: MEG
+dialog: He'll know we're in trouble. He
+dialog: heard me, I said "There are
+dialog: three..."
+dialog: 
+speaker_heading: SARAH
+dialog: He won't even know who it was.
+dialog: 
+speaker_heading: MEG
+dialog: What would you think, in the middle
+dialog: of the night? I mean, three what,
+dialog: three bears? He'll call the police.
+dialog: 
+speaker_heading: SARAH
+dialog: Stop it.
+dialog: 
+speaker_heading: MEG
+dialog: He's just across the park, this is
+dialog: why we got places so close to each
+dialog: other, in case we needed each other,
+dialog: we're still a family, he'll help
+dialog: us...
+dialog: 
+speaker_heading: SARAH
+dialog: He --
+dialog: 
+speaker_heading: MEG
+speaker_heading: He WILL.
+dialog: 
+text: She practically shouted. Sarah drop her head into her arms.
+dialog: 
+speaker_heading: MEG
+dialog: I'm sorry.
+dialog: 
+speaker_heading: SARAH
+dialog: I'm sorry.
+dialog: 
+speaker_heading: MEG
+dialog: Why?
+dialog: 
+speaker_heading: SARAH
+dialog: I was trying not to tell you...
+dialog: 
+speaker_heading: MEG
+dialog: What?
+dialog: 
+speaker_heading: SARAH
+dialog: I'm dizzy and thirsty.
+dialog: 
+dialog: Meg blanches. This is very bad news.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Tired, Burnham drags himself back up the stairs and into the
+text: doorway of the master bedroom. Raoul and Junior stand there,
+text: staring at him.
+dialog: 
+dialog: Long pause.
+dialog: 
+speaker_heading: JUNIOR
+dialog: She's never coming out.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Hey.
+dialog: 
+speaker_heading: JUNIOR
+dialog: And we're never getting in.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Do me a favor and don't talk.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Jesus, what was I thinking?
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg has torn open one of the water packets and is trying to
+dialog: get Sarah to drink, but the little girl has gone completely
+text: pale and seems to have lost some of the strength in her neck,
+text: she's having trouble holding her head up. Most of the water
+text: runs down her chin.
+dialog: 
+speaker_heading: MEG
+dialog: Come on, come on... stay with me...
+dialog: you gotta drink...
+dialog: 
+text: She takes Sarah's hand, checks her wristwatch thing. The
+dialog: readout is now
+dialog: 
+dialog: 82
+dialog: 
+text: She swallows. She grabs Sarah by the face.
+dialog: 
+speaker_heading: MEG
+dialog: Okay, listen, honey, you went double
+dialog: digit here, you must have been
+dialog: shooting out adrenaline like crazy,
+dialog: we gotta bring your blood sugar back
+dialog: up, okay? Can you hear me?
+dialog: 
+speaker_heading: SARAH
+dialog: I'm dizzy, not deaf.
+dialog: 
+speaker_heading: MEG
+dialog: Hey, she's still a smart ass,
+dialog: excellent sign. Did you see any
+dialog: sugar in here? Any candy bars,
+dialog: anything sweet?
+dialog: 
+speaker_heading: SARAH
+dialog: Huh uh.
+dialog: 
+speaker_heading: MEG
+dialog: Okay, you just gotta calm yourself
+dialog: down, that's all, just stay calm and
+dialog: your adrenaline will go back to
+dialog: normal and you'll be fine.
+dialog: 
+speaker_heading: SARAH
+dialog: What if I keep dropping?
+dialog: 
+speaker_heading: MEG
+dialog: Not an option.
+dialog: 
+speaker_heading: SARAH
+dialog: What if I do?
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: In the bedroom, Junior has had enough.
+dialog: 
+speaker_heading: JUNIOR
+dialog: We're leaving.
+dialog: 
+speaker_heading: RAOUL
+dialog: The hell we are.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Hey man, after all we went through I
+dialog: am not walking out when we're this
+dialog: close.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Close? Are you insane? We're
+dialog: nowhere near close! Fuck this, I'll
+dialog: make an anonymous phone call on
+dialog: Monday, they'll find the floor safe,
+dialog: and I'll inherit the shit. Little
+dialog: piece of it, anyway, it's better
+dialog: than nothing.
+dialog: 
+speaker_heading: BURNHAM
+dialog: What about us?
+dialog: 
+text: Junior thinks, then pulls out his wallet. He thrusts a
+text: fistful of bills at them.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Here. For your time.
+dialog: 
+text: They both just stare at him.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Five hundred bucks here.
+dialog: 
+text: Neither one of them moves to take it. Junior shurgs, drops
+text: it on the floor.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Suit yourself.
+dialog: 
+speaker_heading: RAOUL
+dialog: Nobody leaves.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Observe.
+dialog: 
+text: He heads for the door, expecting Raoul to block him, but as
+dialog: he draws close --
+dialog: 
+text: -- Raoul just steps out of the way. Junior passes through
+text: and heads for the stairs.
+dialog: 
+speaker_heading: BURNHAM
+dialog: We're not leaving. I'm getting in
+dialog: that room, and I'm opening that
+dialog: safe.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Lookin' doubtful there, Big Guy, but
+dialog: ten out of ten for attitude.
+dialog: 
+text: And he disappears, down the stairs, Burnham still pleading
+dialog: with him.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg rifles the foodstuffs that are stored in the room.
+text: Sarah, in the corner, is starting to tremble.
+dialog: 
+speaker_heading: SARAH
+dialog: What if I spazz out?
+dialog: 
+speaker_heading: MEG
+dialog: (forced calm)
+dialog: No biggie, we've been through it a
+dialog: dozen times, I just jab you with the
+dialog: Glucogen.
+dialog: 
+text: Pause. She keeps looking.
+dialog: 
+speaker_heading: SARAH
+dialog: Where is the Glucogen?
+dialog: 
+speaker_heading: MEG
+dialog: Oh, you know, it's uh... it's in the
+dialog: little fridge in your room.
+dialog: 
+speaker_heading: SARAH
+dialog: (pause)
+dialog: I'm sorry, Mom.
+dialog: 
+speaker_heading: MEG
+dialog: Hey, quit apologizing, you're
+dialog: starting to sound like Grandma.
+dialog: You're not gonna have an attack.
+dialog: Okay?
+dialog: 
+speaker_heading: SARAH
+dialog: Okay.
+dialog: 
+text: She lays back, oddly passive, her lips changing color. She
+text: stares at the monitors.
+dialog: 
+scene_heading: INT. LIVING ROOM - NIGHT
+dialog: 
+text: Junior strides into the living room, purposefully. He tosses
+text: some tools into his duffel bag and heads for the stairs down
+text: to the kitchen. Burnham is behind him.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Would you wait? Would you please
+dialog: just wait a minute?
+dialog: 
+text: But Junior heads down. Burnham follows. Raoul is just
+text: coming down from upstairs.
+dialog: 
+scene_heading: INT. KITCHEN - NIGHT
+dialog: 
+text: Junior reaches the door of the kitchen, tries to open it,
+text: realizes it's screwed shut. He takes out a screwdriver and
+text: starts unscrewing the screws. Burnham stops at the stairway.
+dialog: 
+speaker_heading: BURNHAM
+dialog: You walk out that door and you lose
+dialog: your share of the money.
+dialog: 
+speaker_heading: JUNIOR
+dialog: Yeah, whatever.
+dialog: 
+speaker_heading: BURNHAM
+dialog: I mean it!
+dialog: 
+speaker_heading: JUNIOR
+dialog: Adios.
+dialog: 
+text: He gets the last screw out, throws open the door, and BLAST
+text: of wind gusts in, it's a blustery night out there, he takes a
+dialog: step into the doorway --
+dialog: 
+text: -- and with a quiet PFFFT from right behind Burnham, a bullet
+text: whizzes across the kitchen and hits Junior in the back of the
+text: head. He crumples, right in the open kitchen doorway.
+dialog: 
+text: Burnham SHOUTS incoherently and turns. Raoul is standing
+text: there, two steps up, a silencer twisted onto the barrel of
+dialog: his gun.
+dialog: 
+speaker_heading: RAOUL
+dialog: Nobody leaves.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Sarah is staring at the video monitors, eyes wide. She
+text: raises one trembling finger, points at the kitchen monitor,
+dialog: tries to mouth the words, can't.
+dialog: 
+text: Meg looks up.
+dialog: 
+scene_heading: INT. KITCHEN - NIGHT
+dialog: 
+text: Burnham is freaking out, but trying to stay calm.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Oh God... oh, my God...
+dialog: 
+text: Raoul walks past him calmly, grabs Junior by the ankles, and
+text: drags him back into the house. He turns, looks at Burnham,
+text: whose jaw is dropped in horror.
+dialog: 
+speaker_heading: RAOUL
+dialog: You should see the look on your
+dialog: face.
+dialog: 
+speaker_heading: BURNHAM
+dialog: The fuck did you do that for?!
+dialog: 
+speaker_heading: RAOUL
+dialog: Fuckin' asshole, thinks he knows me.
+dialog: Drives his German car up to 125th
+dialog: Street a couple of times, buys a few
+dialog: rounds, thinks he's a tough guy,
+dialog: thinks he knows me.
+dialog: (to the corpse)
+dialog: You don't know one thing about me!
+dialog: 
+text: While Burnham stares down at the body in shock and Raoul
+text: stares at Burnham, his back to the outside, a small, thin
+text: VOICE comes from the still-open doorway.
+dialog: 
+speaker_heading: VOICE
+dialog: What the h --
+dialog: 
+text: They turn. A man, fiftyish, stands there in hastily thrown
+text: on clothes, staring down at the dead body in mute shock.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg, watching the monitors with Sarah, GASPS as she sees the
+text: man, whose name is HARRIS. While she and Sarah watch --
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: -- they see the silent image of Harris, set upon by Raoul,
+text: who grabs him roughly and drags him inside. Burnham hurries
+dialog: to the door --
+dialog: 
+scene_heading: INT. KITCHEN - NIGHT
+dialog: 
+text: -- and SLAMS it shut. He puts his back to it, thinking,
+text: terrified, things are spinning out of control, fast.
+dialog: 
+text: Raoul, in the middle of the kitchen floor, is venting some
+text: more of his rage on Harris, whom he has hurled to the floor.
+text: He lands a solid boot in the side of Harris's head, leaving
+text: him GROANING in pain, completely disoriented.
+dialog: 
+text: Harris rolls groggily into the spreading pool of blood coming
+dialog: from underneath Junior.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Stop it! Stop it!
+dialog: 
+speaker_heading: RAOUL
+dialog: (turning on him)
+dialog: Who's the clown now? Huh?! Who's
+dialog: the fucking clown now?!
+dialog: 
+text: He pulls his gun, shoves it into Burnham's eye, hard, we can
+text: hear the faint SIZZLE of skin burning.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Me. I am.
+dialog: 
+speaker_heading: RAOUL
+dialog: That's right.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Burning me. It's burning my eye.
+dialog: 
+speaker_heading: RAOUL
+dialog: I have the gun.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Yes.
+dialog: 
+speaker_heading: RAOUL
+dialog: Remember that.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Please...
+dialog: 
+text: Raoul pulls the gun back, just an inch. The skin around
+text: Burnham's eye is an angry red. His eyes dart, strain to look
+text: over at Harris, MOANING on the floor. And at Junior, dead.
+dialog: 
+speaker_heading: BURNHAM
+dialog: What? What do you want me to do?
+dialog: 
+speaker_heading: RAOUL
+dialog: What do you think? Get us into that
+dialog: room.
+dialog: 
+speaker_heading: BURNHAM
+dialog: I can't.
+dialog: 
+text: Raoul pushes the gun barrel back into Burnham's eye socket.
+dialog: 
+speaker_heading: RAOUL
+dialog: You can. You're full of ideas. You
+dialog: just need to squeeze one out.
+dialog: 
+speaker_heading: BURNHAM
+dialog: I can't...
+dialog: 
+speaker_heading: RAOUL
+dialog: You got till the count of three.
+dialog: Then you end up like him.
+dialog: 
+text: He tilts his head over to Junior, whose brains are spreading
+text: out on the kitchen floor.
+dialog: 
+speaker_heading: RAOUL
+dialog: One. Squeeze.
+dialog: 
+speaker_heading: BURNHAM
+dialog: This is ridiculous...
+dialog: 
+speaker_heading: RAOUL
+dialog: Two. Squeeze harder.
+dialog: 
+speaker_heading: BURNHAM
+dialog: I can't just...
+dialog: 
+speaker_heading: RAOUL
+dialog: Th --
+dialog: 
+speaker_heading: BURNHAM
+dialog: Okay, okay! Okay.
+dialog: 
+speaker_heading: RAOUL
+dialog: You got an idea?
+dialog: 
+speaker_heading: BURNHAM
+dialog: Yeah. Yeah, I got an idea. I gotta
+dialog: check something.
+dialog: 
+text: Raoul GRUNTS, satisfied. Pulls the gun back. Burnham slides
+text: away, shaking. He bends down, to the floor. He looks at
+text: Harris's left hand. At his index finger.
+dialog: 
+text: He sees a white strip of skin, where Harris wore his wedding
+dialog: ring, until recently.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Harris, still semi-conscious, is hurled against the metal
+text: door of the panic room. He collapses at its base. Burnham,
+text: bends down next to him.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Okay, look. I know you can hear me.
+dialog: Your wife and kid are in there.
+dialog: You're gonna get 'em to come out.
+dialog: Or --
+dialog: 
+text: He looks up at Raoul, hulking overhead, gun in hand.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Or I can't stop what he's gonna do.
+dialog: Do you understand?
+dialog: 
+text: Harris, regaining some semblance of consciousness, nods
+dialog: feebly.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Good.
+dialog: 
+text: Burnham stands up, turns to the video camera, and SHOUTS.
+dialog: 
+speaker_heading: BURNHAM
+dialog: OPEN THE GOD DAMN DOOR!
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Sarah and Meg see the horrifying sight on the video monitors.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Burnham SHOUTS at the door to the room.
+dialog: 
+speaker_heading: BURNHAM
+speaker_heading: OPEN UP!
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: they see Burnham, standing over Harris; they faintly hear him
+dialog: call to them to open the door.
+dialog: 
+text: And then they hear another VOICE, calling back to them.
+text: Sarah sits up, recognizes her father's voice.
+dialog: 
+speaker_heading: SARAH (O.S.)
+speaker_heading: DADDY!
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Harris is SHOUTING against the closed door.
+dialog: 
+speaker_heading: HARRIS
+dialog: DON'T DO IT! NO MATTER WHAT
+dialog: HAPPENS, DON'T OPEN THE DOOR!
+speaker_heading: DON'T O --
+dialog: 
+text: He's silenced by a vicious kick to the ribs. Raoul begins to
+dialog: beat him.
+dialog: 
+text: Burnham stands by, powerless, horrifies, watching as Raoul
+text: savages Harris, who continues to call out, as long as he has
+text: strength, telling Meg not to open the door, no matter what.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg and Sarah SHOUT in horror, she covers her daughter's
+text: face, turn her away from the screen, SCREAMS in incoherent
+dialog: anger of her own.
+dialog: 
+text: But she doesn't open the door.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Burnham SHOUTS at Raoul, pleading.
+dialog: 
+speaker_heading: BURNHAM
+dialog: STOP IT, MAN, STOP IT, THAT'S HIS
+dialog: KID IN THERE, HIS KID IS WATCHING
+dialog: THIS!!
+dialog: 
+text: But Raoul whips the gun up, into Burnham's throat, backing
+text: him off, shutting him up.
+dialog: 
+text: He resumes his pounding of Harris.
+dialog: 
+text: Burnham turns, looks up at the camera in the corner of the
+dialog: room.
+dialog: 
+text: He can't stand it anymore. He whips off his jacket, runs to
+text: the camera, and covers the lens.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: While Meg watches, the monitor that cover the master bedroom
+text: abruptly goes black, mercifully sparing them the sight of
+text: Harris's beating.
+dialog: 
+text: She holds Sarah, who's sobbing, shaking.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Harris finally lapses into unconsciousness. Raoul stands
+text: over him, chest heaving.
+dialog: 
+text: Burnham stand in the doorway, neither in nor out of the room,
+text: a silhouette, head hung.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Meg tries desperately to see something on the bedroom
+text: monitor, but it's hopeless, it's covered. On the hallway
+text: monitor, she can just see shadows, as two men in the bedroom
+text: lift a third off the floor and carry him across the room.
+dialog: 
+text: A sudden BEEPING sound tears her attention away. Still
+text: holding Sarah, she pulls her back, off her shoulder. Her
+text: face is completely white, her lips blue, her eyes rolled back
+text: into her head. The BEEPING sound grows louder, she checks
+dialog: Sarah's wristwatch, the reading is dire:
+dialog: 
+dialog: 57
+dialog: 
+text: Meg GASPS, horrifies.
+dialog: 
+speaker_heading: MEG
+dialog: Oh God, oh my God...
+dialog: 
+text: Sarah begins to convulse, she bucks right out of Meg's arms
+text: and falls back onto the floor of the panic room. Meg clears
+text: everything away from her, tries to make room for her.
+dialog: 
+text: The convulsion worsens. Meg searches through the piles of
+text: supplies, comes up with a plastic-handled screwdriver. She
+text: opens Sarah's jaws, wedges the plastic handle between her
+dialog: teeth.
+dialog: 
+text: She helps Sarah ride out the convulsion. Finally, her eyes
+text: roll back into her head, she slowly re-orients herself.
+text: Sarah reaches over, turns off her still-BEEPING
+dialog: wristwatch/monitor herself.
+dialog: 
+text: Sarah sighs, a shuddering sigh of relief, but she is nowhere
+dialog: near normal.
+dialog: 
+text: Her skin has passed through white and is turning a sallow
+text: yellow color. She moves her lips, Meg can't hear her, she
+dialog: bends down:
+dialog: 
+speaker_heading: SARAH
+dialog: You gotta jab me, Mommy...
+dialog: 
+text: Meg turns, looks back at the monitors. What she sees is good
+dialog: news --
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: the jacket has been removed from the bedroom camera. Burnham
+dialog: and Raoul are gone, the only person there is HARRIS, who lies
+text: slumped on the far side of the bed.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg looks quickly over at the monitor for the living room.
+dialog: 
+speaker_heading: ON THAT MONITOR,
+dialog: 
+text: she sees Burnham and Raoul having an urgent conversation,
+text: Burnham sitting in a chair, Raoul pacing in front of him,
+dialog: ranting.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Meg's face lights up, she practically laughs, she's so
+dialog: overjoyed at this turn of events.
+dialog: 
+text: She turns, looks back at Sarah, who is starting to tremble
+dialog: again.
+dialog: 
+text: That does it. Meg leaps up, hits the button that controls
+text: the steel door, and it starts to crank open, almost
+text: impossibly slowly.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Meg steps out of the panic room, into the master bedroom.
+text: She looks at Harris, on the bed. With his back to her she
+dialog: can't even tell if he's alive or dead, but first things must
+text: be first, so she turns and races out of the room.
+dialog: 
+scene_heading: INT. HALLWAY - NIGHT
+dialog: 
+text: Meg flies up the stairs, bare feet on padded carpet.
+dialog: 
+scene_heading: INT. LIVING ROOM - NIGHT
+dialog: 
+text: In the living room, Raoul looks up, hearing the pitter-pat of
+text: her feet on the stairs above.
+dialog: 
+text: He smiles and pulls his ski mask back on, to cover his face.
+dialog: 
+text: Coming around behind him, we see Burnham sitting in the
+dialog: chair. Except it isn't Burnham at all, it's Harris,
+text: unconscious, wearing Burnham's shirt.
+dialog: 
+dialog: And if Harris is the person in the chair, that means --
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: -- the person on the bed in the bedroom is Burnham, wearing
+text: Harris's shirt. His eyes pop open, he sits up, sees the wide
+text: open door to the panic room.
+dialog: 
+scene_heading: INT. SARAH'S BEDROOM - NIGHT
+dialog: 
+text: Meg races into Sarah's bedroom and tears open the door of a
+text: mini-fridge. Inside are dozens of little bottles of insulin
+dialog: and something called Glucogen.
+dialog: 
+text: She grabs a bottle of Glucogen and a black leather pouch and
+dialog: takes off.
+dialog: 
+scene_heading: INT. HALLWAY - NIGHT
+dialog: 
+text: As Meg nears the bottom of the stairs, she sees a horrifying
+text: sight. It's Raoul, ski mask over his face, standing in the
+text: doorway of the master bedroom.
+dialog: 
+text: She SCREAMS, he SLAMS the door, she takes off down the hall,
+text: reaches the end, throws the door open --
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: -- and races into the master bedroom, where Raoul is
+text: motoring, fast, headed for the panic room, where she can
+text: already see Burnham, standing in the middle of the open
+text: doorway, in front of Sarah, wearing Harris's shirt and a grim
+dialog: "tricked you" expression.
+dialog: 
+text: Meg hurls herself at Raoul, lands clinging to his back. She
+text: claws and wrestles with him, gets one hand on his ski mask,
+text: tears it from his head. He reaches up to try to stop her
+dialog: from pulling it off --
+dialog: 
+text: -- his gun slips from his fingers, falls to the floor --
+dialog: 
+text: -- and caroms off his boot, spinning across the floor away
+dialog: from them.
+dialog: 
+text: Raoul flips her off his back violently, she CRUNCHES to the
+text: floor, clutching his mask and getting a good long look at his
+text: face. He makes a move toward his gun, but she's faster,
+text: she's already pawing herself frantically across the hardwood
+dialog: toward it.
+dialog: 
+text: Raoul measures the distance, knows he'll lose, and sprints
+text: for the panic room instead. Meg turns, looks down at the
+text: medicine in her hands, then at the door to the panic room,
+text: where Raoul is right now reaching up to push the button that
+text: controls the steel door.
+dialog: 
+text: She makes a fast decision and lunges, hurling the plastic
+text: bottle of Glucogen and the black leather pouch through the
+dialog: gap just before --
+dialog: 
+text: -- the spring-loaded steel door SLAMS shut with tremendous
+dialog: ferocity.
+dialog: 
+text: And then it's silent. Meg WAILS in agony, POUNDS on the
+dialog: door.
+dialog: 
+text: She stands back, chest heaving, sobbing.
+dialog: 
+text: A looooong moment goes by.
+dialog: 
+text: Finally, a VOICE comes over the house's intercom system.
+dialog: 
+speaker_heading: RAOUL (O.S.)
+dialog: (calmly)
+dialog: If you leave the house, we'll kill
+dialog: her.
+dialog: 
+dialog: Meg sobs.
+dialog: 
+speaker_heading: RAOUL (O.S.)
+dialog: If I see a uniform in the house,
+dialog: we'll kill her.
+dialog: 
+speaker_heading: MEG
+dialog: Oh... oh...
+dialog: 
+speaker_heading: RAOUL (O.S.)
+dialog: You understand?
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: Meg looks up at the camera in the master bedroom. She nods,
+dialog: terrified.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Burnham pushes past Raoul, at the speaker button, and leans
+text: forward. He's approaching exhaustion.
+dialog: 
+speaker_heading: BURNHAM
+dialog: (into speaker)
+dialog: I just... I just need forty-five
+dialog: minutes.
+dialog: 
+text: Raoul stands behind him, muttering to himself.
+dialog: 
+speaker_heading: RAOUL
+dialog: Saw my face, man. Saw my face.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: we see Meg's face, agonized, as she lunges toward the camera,
+text: SCREAMING something up at it, the same thing, over and over.
+text: But in here her voice is nearly muted, what bleeds through
+text: the walls isn't enough to be heard.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Raoul looks at her image on the monitor, irritated.
+dialog: 
+speaker_heading: RAOUL
+dialog: Shut up.
+dialog: 
+text: IN THE MASTER BEDROOM,
+dialog: 
+text: we abruptly hear her voice, full-throated.
+dialog: 
+speaker_heading: MEG
+dialog: (shouting into the camera)
+dialog: -- cine, she needs the MEDICINE!
+speaker_heading: GIVE HER THE --
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Sarah shivers in a corner, knees pulled up to her chest,
+text: staring at the intruders, scared out of her wits, and looking
+dialog: very, very sick.
+dialog: 
+text: Burnham looks at her, musters the most reassuring face he can
+dialog: come up with under the circumstances.
+dialog: 
+speaker_heading: BURNHAM
+dialog: It's gonna be cool, kid. Be outta
+dialog: here before you know it.
+dialog: 
+text: No response from Sarah. Burnham cocks a head, really looking
+dialog: at her.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Are you okay?
+dialog: 
+speaker_heading: RAOUL
+dialog: Hurry up, for Christ's sake!
+dialog: 
+text: Burnham turns, grabs his satchel, and drops to his knees in
+text: the middle of the floor. Over his shoulder, we can see the
+text: face of Meg on one of the monitors, shouting into the camera,
+dialog: begging them to give Sarah her medicine.
+dialog: 
+text: Using his hand, Burnham measures six lengths in from the
+text: wall, then digs his fingernails into the weave of the carpet,
+dialog: looking for a seam.
+dialog: 
+text: He finds one, gets hold of it on one edge, and runs his other
+text: hand along the seam till he finds a place where it seems to
+text: turn a corner. He stands, hovering over the carpet, and
+text: pulls back evenly with both hands.
+dialog: 
+text: The concealed carpet flap pulls back neatly, with the soft
+text: sound of tearing VELCRO. Underneath the flap --
+dialog: 
+text: -- is the smooth metal door of a floor safe.
+dialog: 
+text: Burnham unsnaps his satchel and gives it a shove. It rolls
+text: out and opens up onto the floor, revealing a neat array of
+dialog: safecracking tools.
+dialog: 
+text: He begins his delicate work, but is suddenly jarred by a
+text: POUNDING on the metal door. He turns, annoyed. Meg is still
+text: SCREAMING outside the door.
+dialog: 
+speaker_heading: BURNHAM
+dialog: The hell does she want?
+dialog: 
+speaker_heading: RAOUL
+dialog: I don't know, she keeps screamin'
+dialog: the same thing over and over.
+dialog: 
+text: Burnham turns, looks at the monitors.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: Meg is staring up at the camera, miming the act of giving
+text: herself an injection in the arm.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+dialog: Raoul laughs.
+dialog: 
+speaker_heading: RAOUL
+dialog: Drugs. She wants drugs. What the
+dialog: fuck?
+dialog: 
+text: But Burnham thinks. His eyes fall on the bottle and the
+text: leather pouch she hurled through the door, then whip over to
+text: Sarah, who sags over into a fetal position on the floor. Her
+text: lips are moving.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Oh, man...
+dialog: 
+text: He crawls over to Sarah, puts his ear down next to Sarah's
+dialog: lips.
+dialog: 
+speaker_heading: BURNHAM
+dialog: What is it?
+dialog: 
+text: Sarah tries to summon enough strength to speak, but her
+dialog: breath comes hard.
+dialog: 
+speaker_heading: SARAH
+dialog: I need...
+dialog: 
+speaker_heading: BURNHAM
+dialog: Yeah?
+dialog: 
+speaker_heading: SARAH
+dialog: ... 'jection...
+dialog: 
+speaker_heading: BURNHAM
+dialog: An injection?
+dialog: 
+text: Sarah nods. Burnham points to the pouch and the Glucogen, on
+dialog: the floor nearby.
+dialog: 
+speaker_heading: BURNHAM
+dialog: That stuff?
+dialog: 
+text: Sarah nods again.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Can you do it yourself?
+dialog: 
+text: Sarah shakes her head no.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Well, I don't know how.
+dialog: 
+text: Sarah looks at him, eyes pleading. Raoul stands behind
+dialog: Burnham.
+dialog: 
+speaker_heading: RAOUL
+dialog: I don't fucking believe this.
+dialog: (to Sarah)
+dialog: You gotta wait.
+dialog: 
+text: Sarah just looks at Burnham. Please.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Yeah, just like a half hour, maybe a
+dialog: little more, and your mom'll give it
+dialog: to you. You can wait a half hour,
+dialog: can't you?
+dialog: 
+speaker_heading: RAOUL
+dialog: Yeah. She can. She's fine, she's
+dialog: just like, tired, she's gotta rest.
+dialog: You rest, Kid. Half an hour.
+dialog: 
+text: Sarah looks terrified, shaking her head no.
+dialog: 
+speaker_heading: RAOUL
+dialog: Come on.
+dialog: 
+text: He starts to pull Burnham away, but Burnham shakes his hand
+text: off, violently. He bends down very close to Sarah's lips.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Tell me the truth, okay? What's
+dialog: gonna happen if you don't get this?
+dialog: 
+text: Sarah swallows, licks her cracking lips. When she speaks,
+text: it's breathy, almost inaudible.
+dialog: 
+dialog: But the words are clear.
+dialog: 
+speaker_heading: SARAH
+dialog: Coma. Die.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Seen from overhead, Meg paces in the master bedroom, out of
+dialog: her mind with worry, no idea how to communicate to the people
+text: in the room the desperate situation.
+dialog: 
+text: Suddenly, a VOICE comes over the intercom speaker.
+dialog: 
+speaker_heading: BURNHAM (O.S.)
+dialog: I understand. I'll give her the
+dialog: shot.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: A HAND comes down into frame and picks up the Glucogen and
+text: the leather pouch. Burnham stands, looking down at them.
+text: Raoul grabs him, pulls him to the far end of the room.
+dialog: 
+speaker_heading: RAOUL
+dialog: You're wasting your fucking time,
+dialog: man, you're wasting my time. You
+dialog: don't know how to do this, and the
+dialog: longer we stay in here, the more
+dialog: likely she's gonna lose it and call
+dialog: the cops!
+dialog: 
+speaker_heading: BURNHAM
+dialog: Are you gonna open the safe?
+dialog: 
+text: Raoul looks at him.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Then shut up and get out of my way.
+dialog: 
+text: As Burnham crosses the room, Raoul makes eye contact with
+text: Sarah, who is staring at him.
+dialog: 
+speaker_heading: RAOUL
+dialog: Don't look at me.
+dialog: 
+speaker_heading: ACROSS THE ROOM,
+dialog: 
+text: Burnham drops to his knees next to Sarah and unzips the
+dialog: pouch.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Okay, kid, all I know about this is
+dialog: what I've seen on TV, you gotta talk
+dialog: me through it.
+dialog: 
+text: Sarah tries to form words, but she's too weak. Burnham
+dialog: swallows.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Okay. No talking. No problem. TV
+dialog: don't lie, right?
+dialog: 
+text: He reaches into the pouch, take out a syringe, a sterile pad,
+text: and a length of rubber tubing. He takes Sarah's arm,
+text: stretches it out, exposing the underside of her forearm.
+dialog: 
+speaker_heading: BURNHAM
+dialog: You seem like a good kid. Your
+dialog: mom... only saw her for a second,
+dialog: but, woah. Beautiful, huh?
+dialog: 
+text: No answer. Burnham ties the rubber tubing around Sarah's
+text: arm, pulls it tight.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Hey, nod or something, show me
+dialog: you're still alive, will ya?
+dialog: 
+dialog: Sarah nods.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Attagirl. That too tight?
+dialog: 
+text: Sarah shakes her head no. Burnham takes the syringe, starts
+dialog: to fill it from the Glucogen bottle.
+dialog: 
+speaker_heading: BURNHAM
+dialog: You guys are pretty rich, huh?
+dialog: 
+text: Sarah shrugs. While Burnham goes through the process of
+text: finding an exposed vein and giving the injection itself, he
+dialog: goes on, as much to comfort Sarah as to comfort himself:
+dialog: 
+speaker_heading: BURNHAM
+dialog: Yeah, you don't think about that
+dialog: stuff. Good for you.
+dialog: 
+text: He looks at her, sees her looking at him. Thinking about
+dialog: him.
+dialog: 
+speaker_heading: BURNHAM
+dialog: I know, I know. I really screwed
+dialog: the pooch this time. I never did
+dialog: anything like this before. Break
+dialog: into somebody's house? Not even
+dialog: close. Bad cards, Kid. I swear to
+dialog: God, I been on the wrong end of
+dialog: maybe six straight years of bad
+dialog: cards. House. Car. Wife.
+dialog: (snaps his fingers --
+dialog: gone)
+dialog: Those are some seriously bad cards.
+dialog: And still, every time I pick up a
+dialog: fresh hand I swear to God, the rush
+dialog: comes so hot and prickly I feel it
+dialog: right down to my toes because this
+dialog: time, this one time, it might be
+dialog: there, this time it might be that
+dialog: hand, that perfect hand, that
+dialog: monster hand.
+dialog: (shakes his head)
+dialog: And you thought you were sick.
+dialog: 
+text: The shot successfully given, he pulls Sarah's sleeve back
+dialog: down.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Feel better?
+dialog: 
+text: Sarah nods, and she seems better already. Burnham helps her
+text: to sit up, to lean against the wall.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Woulda been a hell of a dad.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: A VOICE comes over the intercom in the master bedroom. It's
+dialog: Raoul.
+dialog: 
+speaker_heading: RAOUL (O.S.)
+dialog: She's okay. Now sit down and wait.
+dialog: 
+text: He CLICKS off.
+dialog: 
+text: Meg is hugely relieved. And extremely pissed off. She goes
+text: to the corner of the room and picks up the gun, the one that
+dialog: Raoul dropped.
+dialog: 
+text: She heads downstairs.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Sparks fly as Burnham goes to work on the floor safe with a
+dialog: small, specialized drill.
+dialog: 
+text: Raoul bends down next to him.
+dialog: 
+speaker_heading: RAOUL
+dialog: Congratulations. You saved her life
+dialog: for ten minutes.
+dialog: 
+text: Burnham looks up at him -- what? But Raoul turns and walks
+dialog: away.
+dialog: 
+text: Burnham goes back to work.
+dialog: 
+scene_heading: INT. LIVING ROOM - NIGHT
+dialog: 
+text: Meg is in the living room, with Harris, who is still slouched
+text: in the chair. He's in awful shape, barely conscious.
+dialog: 
+text: Out of the silence, a sudden, deafening sound.
+dialog: 
+speaker_heading: The DOORBELL.
+dialog: 
+text: Her eyes go wide. She darts a look over to the door (the one
+text: that leads to the stoop, not the bloody kitchen door
+text: downstairs), then back at Harris.
+dialog: 
+speaker_heading: HARRIS
+dialog: Police.
+dialog: 
+speaker_heading: MEG
+dialog: (gasps)
+dialog: You called the police?
+dialog: 
+dialog: He nods.
+dialog: 
+speaker_heading: HARRIS
+dialog: You... scared...
+dialog: 
+dialog: Shit. This is exactly what she prayed for him to do, now
+dialog: it's the worst thing that could happen.
+dialog: 
+text: She stands, thinking, desperate. She walks toward the door,
+dialog: stops, thinks some more.
+dialog: 
+text: The doorbell RINGS again.
+dialog: 
+text: She comes up with a plan. She goes back to where Harris is
+text: in the chair, pulls the chair back a few feet, out of view of
+text: the door. She puts the gun in his lap, puts his hand over it
+dialog: to steady it.
+dialog: 
+text: She leans down, WHISPERS to him.
+dialog: 
+speaker_heading: MEG
+dialog: Don't. Say. A word.
+dialog: 
+dialog: He nods.
+dialog: 
+text: Meg takes a breath, walks across the foyer, tousling her hair
+dialog: as she goes.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Raoul is staring at the monitors, aghast.
+dialog: 
+speaker_heading: RAOUL
+dialog: Holy shit... holy shit...
+dialog: 
+text: Burnham races over, looks over his shoulder. One monitor
+text: covers the front stoop, and on that monitor they can clearly
+text: see TWO UNIFORMED COPS.
+dialog: 
+speaker_heading: RAOUL
+dialog: She's fuckin' crazy, she killed the
+dialog: kid! She just killed her own kid!
+dialog: 
+speaker_heading: BURNHAM
+dialog: It's not her fault, it's not her
+dialog: fault, the guy must have called
+dialog: them. Look, look, look, she's
+dialog: telling us.
+dialog: 
+text: He points to another monitor, the one in the foyer, where Meg
+text: is looking up at the camera, miming to them -- don't worry,
+dialog: I'll take care of this.
+dialog: 
+speaker_heading: BURNHAM
+dialog: She's gonna handle it.
+dialog: 
+speaker_heading: RAOUL
+dialog: She better.
+dialog: 
+scene_heading: INT. ENTRY FLOOR - NIGHT
+dialog: 
+text: Meg's shaking hand rises up to the doorknob and pulls open
+text: the big front door. On the stoop, the two Cops turn to look
+text: at her. She acts as if she's just been awakened. She looks
+text: it, too, still in T-shirt and boxer shorts. The wind is
+text: gusty and cold outside.
+dialog: 
+speaker_heading: MEG
+dialog: Yeah?
+dialog: 
+speaker_heading: COP 1
+dialog: Everything okay?
+dialog: 
+speaker_heading: MEG
+dialog: Huh?
+dialog: 
+speaker_heading: COP 2
+dialog: Are you all right?
+dialog: 
+speaker_heading: MEG
+dialog: What are you guys -- what time is
+dialog: it?
+dialog: 
+speaker_heading: COP 1
+dialog: 'Bout four o'clock.
+dialog: 
+speaker_heading: MEG
+dialog: I don't get it.
+dialog: 
+speaker_heading: COP 2
+dialog: We got a call...
+dialog: 
+text: Cop 1 looks at him. Cop 2 stops talking.
+dialog: 
+speaker_heading: MEG
+dialog: Somebody called you?
+dialog: 
+speaker_heading: COP 1
+dialog: Can we come in?
+dialog: 
+speaker_heading: MEG
+dialog: What do you want?
+dialog: 
+speaker_heading: COP 1
+dialog: We'd like to come in.
+dialog: 
+speaker_heading: MEG
+dialog: No, you can't come in.
+dialog: 
+speaker_heading: COP 2
+dialog: Are you okay?
+dialog: 
+speaker_heading: MEG
+dialog: I'm fine.
+dialog: 
+speaker_heading: COP 1
+dialog: Can we come in?
+dialog: 
+speaker_heading: MEG
+dialog: Stop asking me that. I'm fine. Who
+dialog: called you?
+dialog: 
+speaker_heading: COP 1
+dialog: You don't look so good.
+dialog: 
+speaker_heading: MEG
+dialog: You wake me out of a sound sleep at
+dialog: four in the morning and then tell me
+dialog: I look like hell? Of course I look
+dialog: like hell, you don't look so hot
+dialog: yourself, Jack. I'm freezing here,
+dialog: thank you for checking, can I go?
+dialog: 
+text: Cop 1 studies her, notices the burned sleeve of her T-shirt,
+text: the black smudges still on her face.
+dialog: 
+speaker_heading: COP 1
+dialog: Your husband says you said "There
+dialog: are three..." right before you got
+dialog: cut off.
+dialog: 
+speaker_heading: MEG
+dialog: Oh, that phone call...
+dialog: 
+text: Cop 1 takes a step forward and lowers his voice to just above
+text: a whisper, unconsciously making her lean forward in order to
+dialog: hear him.
+dialog: 
+speaker_heading: COP 1
+dialog: Ma'am, if there's something you want
+dialog: to say to us right now that maybe
+dialog: you can't say to us right now, maybe
+dialog: you just want to make a signal, by
+dialog: blinking a few times, something like
+dialog: that.
+dialog: 
+dialog: She just looks at him. Wow, this guy's intuitive. She is
+text: sorely tempted. But she can't.
+dialog: 
+speaker_heading: COP 1
+dialog: That's something you could do.
+dialog: Safely.
+dialog: 
+dialog: She thinks, thinks --
+dialog: 
+dialog: -- and burst out laughing.
+dialog: 
+speaker_heading: MEG
+dialog: Man, you are good! You mean, like,
+dialog: if somebody was in the house or
+dialog: something? That's great, they
+dialog: really train you guys these days,
+dialog: don't they?
+dialog: 
+text: Cop 1 looks at her, not sure if he believes her or not.
+dialog: 
+speaker_heading: MEG
+dialog: No. I'm fine. Cross my heart.
+dialog: 
+text: Cop 2 turns to go, but Cop 1 lingers.
+dialog: 
+speaker_heading: COP 1
+dialog: May I ask what the rest of that
+dialog: sentence was going to be?
+dialog: 
+speaker_heading: MEG
+dialog: (stalling)
+dialog: Huh?
+dialog: 
+speaker_heading: COP 1
+dialog: The sentence that started "There are
+dialog: three." What was the rest?
+dialog: 
+text: Pause. She stares at him.
+dialog: 
+speaker_heading: MEG
+dialog: Okay, look. My husband and I just
+dialog: broke up. It's my first night in
+dialog: the new house, and I was feeling a
+text: little lonely and a little drunk.
+dialog: The sentence, if you insist on
+dialog: knowing, was going to be "There are
+dialog: three things I'll do for you if you
+dialog: come over right now and get in bed
+dialog: with me."
+dialog: 
+text: Cop 2 stifles a laugh.
+dialog: 
+speaker_heading: MEG
+dialog: But thank God I came to my senses
+dialog: before I said all that and hung up
+dialog: instead, so nobody would ever know
+dialog: what I was thinking, unless, of
+dialog: course, two policemen showed up in
+dialog: the middle of the night to
+dialog: interrogate me about it.
+dialog: 
+dialog: That was good. Cop 1 is embarrassed. Cop 2 thinks it's
+dialog: funny.
+dialog: 
+speaker_heading: COP 2
+dialog: You want her to show you which three
+dialog: things, Rick, or should we just go?
+dialog: 
+text: Cop 1 looks at Meg, a long look, he holds it for one last
+text: moment, trying to read her mind.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: we see the video image of the Cops as they turn and head away
+text: down the front steps. Meg closes the doors, looks up into a
+dialog: camera, right at us.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Burnham and Raoul breathe a sigh of relief.
+dialog: 
+text: Burnham goes back to work on the safe. He's making progress.
+dialog: 
+text: Raoul looks at Sarah. Stares actually. He's thinking too.
+dialog: 
+text: Bad thoughts. He moves over, crouches down next to Burnham.
+dialog: 
+speaker_heading: RAOUL
+dialog: She saw my face. The kid too.
+dialog: 
+text: Sarah overhears that. She raises her head, alarmed. Burnham
+text: turns, looks over at her, and she just gets her head back
+text: down in time. Burnham and Raoul close themselves off, for a
+dialog: private conversation.
+dialog: 
+text: Sarah edges closer. She overhears a fragment.
+dialog: 
+speaker_heading: BURNHAM
+dialog: That's your problem.
+dialog: 
+speaker_heading: RAOUL
+dialog: That's their problem.
+dialog: 
+text: Sarah is terrified. Doesn't know what to do. She looks to
+text: her immediate left, sees the intercom panel. She edges
+dialog: closer.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Let me fucking finish this so we can
+dialog: get out of here.
+dialog: 
+speaker_heading: RAOUL
+dialog: You finish. Then we finish.
+dialog: 
+text: Sarah sneaks up a hand and pushes a button -- "ALL PAGE."
+dialog: 
+scene_heading: INT. LIVING ROOM - NIGHT
+dialog: 
+text: In the living room, there is an audible CLICK as the speaker
+text: is activated. Meg looks up, hears Burnham's voice, in the
+dialog: middle of a sentence.
+dialog: 
+speaker_heading: BURNHAM (O.S.)
+dialog: -- posed to mean?
+dialog: 
+speaker_heading: RAOUL (O.S.)
+dialog: You're here with me, you're already
+dialog: on the hook for one. Buy one, you
+dialog: get the rest for the same price.
+dialog: You know that.
+dialog: 
+speaker_heading: BURNHAM (O.S.)
+dialog: Get the fuck away from me.
+dialog: 
+speaker_heading: RAOUL (O.S.)
+dialog: The kid in here. The other two when
+dialog: we come out.
+dialog: 
+text: Meg listens, horrified.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: Sarah holds the intercom button down with a trembling finger.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Bullshit.
+dialog: 
+speaker_heading: RAOUL
+dialog: You know how this gotta end.
+dialog: 
+scene_heading: INT. LIVING ROOM - NIGHT
+dialog: 
+text: Meg stares, in shock, as Raoul's voice echoes in the empty
+dialog: room.
+dialog: 
+speaker_heading: RAOUL (O.S.)
+dialog: They stay in the house.
+dialog: 
+text: There in an abrupt CLICK, and the speaker turns off. Meg
+text: turns, goes to Harris, falls to her knees, no idea what to
+text: do. She holds him close, their foreheads touching. She's
+text: terrified, exhausted, wants to collapse in his arms.
+dialog: 
+text: Instead, she starts to pull the gun from his fingers. He
+dialog: tightens his grip, what are you doing? He tries to hold onto
+text: the gun, but she pulls his fingers off it, takes it away from
+text: him. He is too weak to resist.
+dialog: 
+speaker_heading: CUT TO:
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: In the panic room, Sarah has her hands clamped over her ears,
+text: her mouth is wide open, and a hideous METAL SHRIEK seems to
+dialog: be coming out of it.
+dialog: 
+text: But the SHRIEK is actually coming from the safe, where
+text: Burnham continues to work, another drill, a bigger bit. The
+text: noise is deafening.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: Sarah sees her mother approaching the monitor in the bedroom,
+text: carrying a jacket. Meg tosses the jacket, this time she
+dialog: doesn't want them to see what she's doing.
+dialog: 
+text: The monitor goes black.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: In the master bedroom, Meg pulls on a pair of jeans that are
+text: hanging over a chair.
+dialog: 
+text: She steps into a pair of boots.
+dialog: 
+text: She shoves the gun into her belt.
+dialog: 
+text: Here in the bedroom, she can hear the drill. From the house
+text: next door, she hears POUNDING again, more MUFFLED CURSES.
+text: Apparently the neighbor can hear the drill too.
+dialog: 
+text: Meg looks from the walls of the bedroom to the walls of the
+text: panic room. Her eyes light up with an idea.
+dialog: 
+text: She goes to the front wall of the bedroom, stands with her
+text: back against the exterior wall (street side), with her left
+text: shoulder against the common wall that's shared with the
+dialog: neighbor's brownstone.
+dialog: 
+text: She begins to step off the distance, heel to toe, measuring
+text: with her feet until she reaches the metal door that is the
+text: entrance to the panic room.
+dialog: 
+speaker_heading: MEG
+dialog: Fourteen.
+dialog: 
+text: She hurries out of the bedroom. What's she doing?
+dialog: 
+scene_heading: INT. LIBRARY - NIGHT
+dialog: 
+text: Meg comes into a small room full of empty bookshelves, a
+text: library. There is a window that looks out over the sidewalk,
+text: one floor up, same level as the stoop.
+dialog: 
+text: She looks up, into the corners of the room.
+dialog: 
+speaker_heading: MEG
+dialog: No camera, no camera, no camera...
+dialog: 
+dialog: They're bare, no video cameras. Good.
+dialog: 
+text: She goes to the window, tries to open it. Screwed shut, of
+dialog: course.
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: The safe is almost cracked. Raoul is watching the monitors
+dialog: carefully.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: we see Meg as she searches through the tools in the living
+text: room, finds a screwdriver, a sledgehammer.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Raoul furrows his brow. Now what?
+dialog: 
+scene_heading: INT. LIBRARY - NIGHT
+dialog: 
+text: Meg is back in the library, hurriedly unscrewing the window.
+text: She gets the last screw out, shoves the window up.
+dialog: 
+text: The wind BLASTS in, it's a hell of a spooky night out there.
+dialog: 
+text: She leans out the window. We lean with her. The sidewalk is
+dialog: empty (we see it only from our vantage point inside the
+text: house). She's one floor up. To her right is the house's
+dialog: front stoop.
+dialog: 
+text: She tosses the sledgehammer over, onto the stoop. Climbs up
+text: onto the window ledge, and slithers out herself.
+dialog: 
+text: We lean further, watch her as she edges along the ledge, hops
+text: down onto the stoop, and freezes, staring in horror --
+dialog: 
+text: -- at the video camera that covers the front stoop.
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: we see her staring straight up at the camera, clearly
+text: standing on the front stoop, outside the house, where she was
+dialog: specifically told not to go.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Sarah sees the image of her on the stoop. Raoul happens to
+text: be looking away at the moment, at the safe, but he starts to
+dialog: turn around, to look at the monitors again --
+dialog: 
+text: -- and Sarah kicks him, hard, in the ass.
+dialog: 
+speaker_heading: RAOUL
+dialog: Hey!
+dialog: 
+text: He turns, away from the monitors.
+dialog: 
+speaker_heading: SARAH
+dialog: Sorry. Can't control it sometimes.
+dialog: 
+text: Raoul scowls at her. Behind him --
+dialog: 
+speaker_heading: ON THE MONITORS,
+dialog: 
+text: Meg darts down the front steps and disappears from view on
+dialog: the monitor.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Sarah sees her mother go.
+dialog: 
+speaker_heading: SARAH
+dialog: (to Raoul)
+dialog: Won't happen again.
+dialog: 
+scene_heading: INT. LIBRARY - NIGHT
+dialog: 
+text: Still leaning out the window, we can see Meg from here as she
+text: reaches the sidewalk and runs up the front steps of the
+text: neighbor's house, which is contiguous.
+dialog: 
+dialog: Straining to see (yet stay in the house), we see Meg all the
+text: way at the right edge of the frame, as she shifts the gun to
+text: the back of her pants and knocks on the neighbor's door,
+text: sledgehammer held slightly behind her leg.
+dialog: 
+text: After a long moment, we hear the neighbor's front door open.
+text: The conversation begins. The wind is gusting right in our
+dialog: faces, we can't make out the details, but the gist is clear --
+dialog: let me into your house, and don't as me a lot of questions.
+dialog: 
+text: The NEIGHBOR -- and by the tone of the voice it sounds like
+text: an old woman -- is slow to respond, grumpy.
+dialog: 
+text: Losing patience, Meg just pulls the Neighbor out of the way
+text: and shoves into the house. The Neighbor stumbles out onto
+dialog: her front stoop, and we were right, it's an old lady in a
+dialog: nightgown, but she's no shrinking violet. In fact, she's
+text: royally pissed off and not at all intimidated.
+dialog: 
+speaker_heading: NEIGHBOR
+dialog: What the hell do you think you're
+dialog: doing, young lady?!
+dialog: 
+text: She storms back into her house, following Meg. As both of
+text: them disappear from the frame, we move out of the library,
+text: into the foyer, and move along the common wall, the one
+dialog: shared with the neighbor's brownstone.
+dialog: 
+text: From the other side of the wall, we can hear muffled voices,
+text: arguing, Meg and the Neighbor shouting at each other.
+dialog: 
+text: We drift up, up the stairs, and hear the THUNDERING of
+text: footsteps on the stairs next door. We keep pace with them,
+dialog: from inside this house. We pass right through the floor --
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: -- and rise up out of the floor in the master bedroom, and
+dialog: now we can hear the conversation on the other side of the
+text: wall in here, the Neighbor's fearful, angry tones, Meg's
+dialog: firm, urgent declarations.
+dialog: 
+dialog: We move with Meg, even though we can't see her, we know what
+text: she's doing, she's stepping off the paces on the other side
+text: of the wall. We drift down that wall, fourteen steps, until
+text: we reach the metal door to the panic room, then we pass
+dialog: through that door --
+dialog: 
+scene_heading: INT. PANIC ROOM - NIGHT
+dialog: 
+text: -- and arrive inside the panic room, where Burnham is this
+dialog: close to getting the safe open, when all of a sudden --
+dialog: 
+speaker_heading: WHOMP.
+dialog: 
+speaker_heading: CRUNCH.
+dialog: 
+text: Burnham and Raoul freeze, alarmed. It's coming from the long
+text: wall, the shared wall.
+dialog: 
+text: They look at each other.
+dialog: 
+speaker_heading: WHOMP.
+dialog: 
+speaker_heading: CRUNCH.
+dialog: 
+text: They look at the wall.
+dialog: 
+text: Somebody is on the other side, pounding like hell.
+dialog: 
+speaker_heading: RAOUL
+dialog: The walls are steel, right?
+dialog: 
+speaker_heading: BURNHAM
+dialog: Not that one.
+dialog: 
+speaker_heading: RAOUL
+dialog: NOT THAT ONE?!
+dialog: 
+speaker_heading: BURNHAM
+dialog: Hey man, it's the neighbor's house,
+text: who breaks in through the neighbor's
+dialog: house?!
+dialog: 
+speaker_heading: WHOMP! CRUNCH!
+dialog: 
+text: Louder. Closer. Burnham turns, SCREAMS at the wall.
+dialog: 
+speaker_heading: BURNHAM
+text: WHO THE FUCK BREAKS IN THROUGH THE
+speaker_heading: NEIGHBOR'S HOUSE?!
+dialog: 
+speaker_heading: RAOUL
+dialog: We've got the Kid!
+dialog: (shouting at the wall)
+dialog: WE'VE GOT YOUR KID!! What the fuck
+dialog: is she thinking?!
+dialog: 
+speaker_heading: WHOMP! CRUNCH!
+dialog: 
+speaker_heading: BURNHAM
+dialog: She's got your gun, that's what
+dialog: she's thinking! The FUCK you had to
+dialog: bring a gun for?!
+dialog: 
+text: Burnham throws himself back on the floor, goes back to work
+text: on the safe. Fires up the drill again, it SCREAMS into the
+dialog: metal.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Almost there...
+dialog: 
+text: The POUNDING keeps up from next door. We hear sheetrock torn
+text: away on the far side. Bricks, SCRAPING out of place.
+dialog: 
+text: Sarah, in the corner, is energized, excited. While Burnham
+text: and Raoul are distracted, she grabs the leather pouch, palms
+text: the three syringes that are left in there.
+dialog: 
+speaker_heading: BURNHAM
+dialog: ALMOST THERE...
+dialog: 
+text: Finally, the door to the safe CRUNCHES in on one side,
+dialog: yielding to the drilling --
+dialog: 
+text: -- at the very moment that the head of a sledgehammer CRASHES
+text: through the wall of the panic room. Raoul grabs hold of
+text: Sarah, Burnham maintains his focus, throwing open the safe,
+dialog: revealing --
+dialog: 
+dialog: -- nothing.
+dialog: 
+speaker_heading: CRUNCH!
+dialog: 
+text: The sledgehammer head strikes again, opening up a hole about
+text: a foot across. Light spills through from the other side, as
+text: well as the voice of the hysterical Neighbor.
+dialog: 
+text: Raoul hurls Sarah against the far wall, leaps over to the
+text: side of the hole, and waits, poised above it.
+dialog: 
+text: At the safe, Burnham doesn't lose his cool, just opens a
+text: false bottom in the safe, revealing a manila envelope.
+dialog: 
+text: He snatches it up, RIPS it open, and his eyes dance as he
+dialog: holds up fourteen individual one million dollar U,S, Treasury
+text: Bearer Bonds. He fans them out, eyes drinking from his
+dialog: Grail.
+dialog: 
+dialog: BANG!
+dialog: 
+text: A gunshot whizzes right through one of the bonds, setting it
+text: aflame before it SLAMS into the far wall, sending up a little
+text: cloud of plaster dust.
+dialog: 
+speaker_heading: BURNHAM
+speaker_heading: JESUS!
+dialog: 
+text: He whirls, sees an arm poking through the hole in the wall,
+dialog: gun extended.
+dialog: 
+text: But Raoul is standing just above the hole, and already has
+text: his boot raised, over the hand. He brings it down, a
+text: CRUNCHING blow that stomps right on Meg's wrist.
+dialog: 
+text: Meg SCREAMS, loses her grip on the gun, and it CLATTERS into
+dialog: the space between the houses.
+dialog: 
+speaker_heading: BETWEEN THE WALLS,
+dialog: 
+text: the gun falls into oblivion, the space between the walls,
+dialog: where no one can get to it.
+dialog: 
+speaker_heading: IN THE PANIC ROOM,
+dialog: 
+text: Burnham shoves the loose bonds into his jacket.
+dialog: 
+speaker_heading: BURNHAM
+dialog: I GOT THE MONEY, LET'S GO!!!
+dialog: 
+text: Raoul grabs Sarah and turns, jabs the green button to open
+dialog: the door.
+dialog: 
+text: Behind them, Meg SCREAMS in anger and wriggles through the
+text: opening. Before she's even all the way through, she gets
+text: hold of Raoul's leg and pulls herself into the panic room,
+text: scraping and bloodying herself on the edges of the too-small
+dialog: hole.
+dialog: 
+speaker_heading: BURNHAM
+dialog: GO, LET'S GO, OUTTA HERE!!
+dialog: 
+text: But Raoul is deep in a violent rage. Still holding Sarah
+text: with one hand, he bends down, grabs Meg by the hair, and
+text: drags her toward the doorway.
+dialog: 
+speaker_heading: RAOUL
+dialog: YOU KNOW HOW THIS IS GONNA GO!
+dialog: 
+speaker_heading: BURNHAM
+dialog: FUCK YOU, I'M GONE!
+dialog: 
+text: He bolts out of the room, through the metal door, which is
+text: just finishing its slow crank open, its heavy spring coiling
+dialog: in the wall.
+dialog: 
+text: Raoul drag Meg across the floor by the hair, right into the
+text: track of the open steel door.
+dialog: 
+text: She looks up, sees the infrared safety beam over her head,
+text: and realizes with horror what his intention is.
+dialog: 
+text: Still with one arm holding Sarah, who is kicking and
+text: struggling viciously, Raoul holds Meg's head down on the
+text: floor, below the safety beam that would prevent the door from
+text: closing. He reaches for the "close" button.
+dialog: 
+text: Sarah raises her arm, stuffed with three syringes, and jabs
+text: them into Raoul's neck. Raoul SCREAMS in pain.
+dialog: 
+text: Meg manages to raise her head, breaking the beam.
+dialog: 
+scene_heading: INT. HALLWAY - NIGHT
+dialog: 
+text: On the stairwell, Burnham, stops, frozen, his face twitching
+text: with indecision. He hears the murder taking place just above
+dialog: him.
+dialog: 
+text: He runs down three steps.
+dialog: 
+text: Stops again.
+dialog: 
+text: Runs down the rest of the stairs.
+dialog: 
+scene_heading: INT. MASTER BEDROOM - NIGHT
+dialog: 
+text: Raoul stretches to push the red "close" button for the door,
+text: but he has to hold Meg's head down, out of the lower beam
+text: with one hand, all with Sarah savagely attacking him at the
+text: same time, and three syringes hanging out of his neck.
+dialog: 
+text: Finally, he gets Meg's head all the way down, onto the floor.
+dialog: 
+text: Looking up, Meg sees the red beam become complete again.
+dialog: 
+dialog: Raoul jabs the button --
+dialog: 
+text: -- just as Sarah throws her hand into the upper beam, the one
+text: at shoulder level. Sarah's hand turns red, the beam is
+text: broken, the door will not close.
+dialog: 
+text: Raoul ROARS in anger and twists violently, sending Sarah
+text: flying across the room.
+dialog: 
+text: Meg strains, gets her head off the floor again, breaking the
+text: beam. Raoul starts jamming the close button, over and over
+text: again, the beam completes, then breaks, completes, then
+text: breaks, never the button and the beam at the same time.
+dialog: 
+dialog: But it can't go on forever. Meg's tiring, she can't keep it
+text: up, her head trembles --
+dialog: 
+text: -- and collapses onto the floor.
+dialog: 
+dialog: The beam completes --
+dialog: 
+dialog: -- Raoul SMACKS the red button --
+dialog: 
+text: -- and Burnham appears on the other side of the door. He
+text: reaches in, grabs hold of Raoul, to pull him off her, but
+dialog: Raoul loses his balance, falls forward --
+dialog: 
+dialog: -- into the gap --
+dialog: 
+text: -- and his head is crushed by the spring-loaded steel door
+text: that SLAMS forward just as Meg draws herself back.
+dialog: 
+text: Meg falls across the panic room, grabs Sarah, and holds on
+dialog: tight.
+dialog: 
+text: The door detects the obstruction and opens again, slowly.
+text: Raoul's body slumps to the floor, dead.
+dialog: 
+text: Burnham stands there, looking down at Meg and Sarah.
+dialog: 
+text: They stare at each other, wordless, their first face to face
+text: contact. She sees the bonds protruding from his jacket.
+dialog: 
+text: She just looks at him. There will be no understanding here.
+dialog: 
+text: He zips his jacket, turns, and hurries away.
+dialog: 
+scene_heading: INT. ENTRY FLOOR - NIGHT
+dialog: 
+text: Burnham races down the steps, hurries to the entry door,
+dialog: throws it open --
+dialog: 
+text: -- and finds a gun barrel pointed directly into his nose. He
+text: blinks, tries to focus on whoever's on the other end of that
+dialog: gun.
+dialog: 
+dialog: It's the Cop, the first Cop, the one who came to the door and
+text: was so suspicious of Meg. The Cop looks down, sees blood
+text: smeared all over Burnham's jacket, sees more than enough to
+dialog: know his suspicions were correct.
+dialog: 
+speaker_heading: COP 1
+dialog: Put your hands up.
+dialog: 
+text: Burnham freezes, silhouetted in the doorway. Wind and leaves
+text: blow into the house, a real gale outside.
+dialog: 
+text: From behind Cop 1, MORE COPS SHOUT, all at once, must be a
+dialog: half dozen of 'em there, but Burnham can't see anything in
+text: the stinging light, and can't hear much either, over the
+speaker_heading: ROARING wind.
+dialog: 
+text: Burnham moves suddenly, flinging the door shut right in the
+text: Cop's face. The door SLAMS hard, Burnham turns to run but
+text: doesn't get more than a few paces before three sharp GUNSHOTS
+text: CRACK through the door behind him.
+dialog: 
+text: Brilliant white light spills through the bulletholes in the
+dialog: door, but it's not the light that gets you, it's the chunks
+text: of lead. They rip through Burnham's back and come out his
+text: chest, a triangle pattern.
+dialog: 
+text: Burnham stops, sags to his knees. He reaches into his
+text: jacket, pulls out the loose stack of bonds.
+dialog: 
+text: He fans them out, stares down at them, holds them like
+dialog: playing cards.
+dialog: 
+speaker_heading: BURNHAM
+dialog: Monster hand.
+dialog: 
+text: Behind him, the front door CRACKS open, half a dozen COPS
+text: appear and start SHOUTING, all at once. Burnham tosses the
+text: bonds to the floor, the same gesture as folding a hand of
+dialog: poker.
+dialog: 
+text: He GROANS and collapses, slowly, falling through the bonds,
+text: twisting as he goes down. He SLAPS onto his back in the
+text: foyer as the wind gusts through the open door, scoops the
+text: bonds up off the floor, and blows them back into the house,
+dialog: as if they were never meant to leave.
+dialog: 
+text: Burnham lies there on the floor, eyes open, staring up at the
+text: ceiling, looking at the bonds that swirl in the blast of air,
+text: suspended there, twisting and bucking and diving just over
+text: his head as he dies.
+dialog: 
+speaker_heading: DISSOLVE TO:
+dialog: 
+scene_heading: EXT. CENTRAL PARK - GREAT LAWN - DAY
+dialog: 
+text: The swirling bonds melt into swirling leaves, blowing in the
+text: air over Central Park on a crisp fall day. The leaves float
+text: down, over the Great Lawn, that massive expanse of grass we
+dialog: saw in Meg's hallucination.
+dialog: 
+dialog: But on a day like this the Great Lawn's full of people,
+text: throwing frisbees, playing football, lying there doing
+dialog: nothing.
+dialog: 
+text: The leaves land on the grass next to Meg and Sarah, stretched
+text: out on a blanket, a newspaper spread in front of them, open
+dialog: to the ads.
+dialog: 
+text: Meg is on her back, arms folded behind her head, staring up
+dialog: at the clouds.
+dialog: 
+text: Sarah is intent on the paper, circling the occasional ad.
+dialog: 
+speaker_heading: SARAH
+dialog: I mean, uptown is close to Dad's
+dialog: place, but somebody at school said
+dialog: the Village is really cool, so... I
+dialog: don't know, it's so great to be
+dialog: close to the park and everything...
+dialog: What do you think, I mean, give me a
+dialog: clue, here, where are we gonna live?
+dialog: 
+text: Meg rolls over, props herself up on one elbow. She seems
+text: years younger. She looks at Sarah, reaches out, brushes her
+text: daughter's hair behind one ear.
+dialog: 
+text: She smiles. She is calm.
+dialog: 
+text: Behind her, a flock of pigeons takes off, leaping into the
+dialog: clear autumn sky.
+dialog: 
+speaker_heading: FADE OUT.
+dialog: 

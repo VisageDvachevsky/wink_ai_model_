@@ -1,0 +1,4803 @@
+scene_heading: NEVER BEEN KISSED by Jenny Bicks
+dialog: <!--
+dialog: if (window!= top)
+dialog: top.location.href=location.href
+dialog: // -->
+scene_heading: NEVER BEEN KISSED
+dialog: Revised draft by Jenny Bicks
+dialog: Based on the Original Screenplay by
+dialog: Abby Kohn & Marc Siliverstein
+dialog: Shooting Script
+dialog: Revision Draft
+speaker_heading: 6/26/98
+speaker_heading: FADE IN:
+text: CLOSE UP ON A GIRL'S FACE
+text: It's Josie Geller, 25, cute, blonde and scared out of her
+text: wits. We hear the chanting of a crowd.
+speaker_heading: CROWD
+dialog: Josie! Josie! Josie!
+speaker_heading: JOSIE (V.O.)
+dialog: You know in some movies how they
+dialog: have a dream sequence only they
+dialog: don't tell you it's a dream?
+text: PULL OUT to reveal Josie on pitcher's mound of a--
+scene_heading: EXT. A BASEBALL STADIUM -- NIGHT
+text: It's packed. Reporters line the field. All eyes are on
+dialog: Josie.
+speaker_heading: JOSIE (V.O.)
+dialog: This is so not a dream.
+text: The stadium clock sets at 5:00. The crowd goes crazy. Josie
+text: takes a deep, nervous breath and smiles, "Oh God."
+scene_heading: INT. ELECTRONICS STORE -- CONTINUOUS
+text: Multiple images of Josie play across rows of TV sets. A
+text: crowd has gathered.
+speaker_heading: JOSIE (V.O.)
+dialog: It wasn't supposed to be like this.
+dialog: I was just trying to do my job.
+dialog: And then things happened. Well,
+dialog: life happened. And now I'm here.
+scene_heading: EXT. BASEBALL STADIUM -- CONTINUOUS
+text: The clock starts to tick down. The crowd yells again.
+speaker_heading: JOSIE (V.O.)
+dialog: Trust me. I am not the kind of
+dialog: girl who does things like this. I
+dialog: mean, two months ago you couldn't
+dialog: have picked me out of a crowd...
+scene_heading: INT. CHICAGO SUN TIMES BULLPEN -- DAY
+text: Packed with office workers. Bustling with activity. The
+text: CAMERA searches the CROWD.
+speaker_heading: JOSIE (V.O.)
+dialog: Told you. I'm over there.
+text: The CAMERA SWINGS to Josie entering. Rhoda, a young copy
+text: assistant, tails her, pen and paper in hand.
+speaker_heading: RHODA
+dialog: Theater--
+speaker_heading: JOSIE
+dialog: Standard American calls for "er".
+dialog: Standard British is "re". So go
+dialog: for "er", unless you're a pompous
+dialog: American, then go for British.
+text: Josie keeps negotiating the maze, leaving Rhoda in her
+dialog: wake.
+speaker_heading: RHODA
+dialog: No. Theater. Last night. We were
+dialog: supposed to go, remember?
+text: Josie stops at a desk where Merkin Burns, officious office
+text: assistant, is talking on the phone. He picks his nose with
+text: abandon as he talks, ignoring Josie.
+speaker_heading: MERKIN
+dialog: (into phone)
+dialog: No way. No way. No way. Ech, hold
+dialog: on.
+dialog: (to Josie)
+dialog: What.
+speaker_heading: JOSIE
+dialog: Messages?
+text: Merkin removes his finger from his nose and uses it to
+text: pick up a pink message. He holds it out to Josie. Disgusted,
+text: she takes it by one corner.
+speaker_heading: MERKIN
+dialog: (into phone)
+dialog: Seriously? No way. No way--
+text: Josie's still standing there.
+speaker_heading: MERKIN
+dialog: What?
+speaker_heading: JOSIE
+dialog: Merkin, do you think we could get
+dialog: some more yellow highlighters? I
+dialog: checked the box and we're--
+text: Merkin swivels his chair 180 degrees so his back is to
+text: Josie and continues with his phone call.
+speaker_heading: MERKIN
+dialog: (back into phone)
+dialog: Okay, I'm back, so--
+text: Josie sighs, walks to her door. It's marked with a lopsided
+text: nameplate: Josie Geller, Copy Editor. She adjusts the plate
+dialog: so it's perfectly straight.
+scene_heading: INT. JOSIE'S OFFICE -- CONTINUOUS
+text: Josie enters, reads the messsage still gingerly held in
+text: two fingers, and drops it into the trash can. She hangs
+text: her coat squarely on the back of her door, takes five
+text: pencils from her pencil pot, one by one sharpens them in
+text: her pencil sharpener, and then lays them out neatly in a
+text: row. She smiles, satisfied, ready for another day.
+text: Anita Brandt, late 20's, pretty in a semi-unprofessional
+text: way, bursts in, smiling.
+speaker_heading: ANITA
+dialog: Guess who I did it with last
+dialog: night...
+speaker_heading: JOSIE
+dialog: (duh)
+dialog: Roger in Op/Ed.
+speaker_heading: ANITA
+dialog: Who told!
+speaker_heading: JOSIE
+dialog: You did. Yesterday you said, and I
+dialog: quote, "I have a date with Roger
+dialog: from Op/Ed tonight and I'm going
+dialog: to do it with him."
+speaker_heading: ANITA
+dialog: Well, that doesn't mean it was
+dialog: going to happen for sure.
+text: Josie just stares at her.
+speaker_heading: ANITA
+dialog: Once it didn't happen for sure.
+dialog: Gus Strauss, late 30's, would probably clean up well,
+text: enters. He tosses some copy onto Josie's desk.
+speaker_heading: GUS
+text: Computer's down. Septuplets story.
+dialog: I need it back by five. Hopefully
+dialog: the copy's not a mess.
+speaker_heading: JOSIE
+dialog: (emphasizing)
+text: It is hoped that it's not a mess.
+dialog: "Hopefully" is an adverb. It means
+dialog: "with hope". You have it defining
+dialog: the copy, and I'm pretty sure the
+dialog: copy doesn't have feelings.
+text: Gus and Anita just stare at Josie.
+speaker_heading: JOSIE
+dialog: Well, excuse me for caring about
+dialog: words.
+speaker_heading: GUS
+dialog: (to Anita)
+dialog: So. You and Roger in Op/Ed.
+speaker_heading: ANITA
+dialog: Oh, man! Who told?
+speaker_heading: GUS
+dialog: Roger in Op/Ed. Don't make me send
+dialog: you another memo about my policy
+text: on inter-office dating.
+speaker_heading: JOSIE
+dialog: Intra office. And they're not
+text: dating. They're having sex.
+speaker_heading: ANITA
+dialog: And what is your policy? That if
+dialog: you're not getting any, no one
+dialog: can?
+text: Anita flounces off.
+speaker_heading: GUS
+dialog: How many times have I fired her?
+speaker_heading: JOSIE
+dialog: Five-- Six--
+speaker_heading: GUS
+dialog: (shrugging, giving
+dialog: up)
+dialog: Eh.
+text: Gus turns to exit.
+speaker_heading: JOSIE
+dialog: Hey Gus--did you see the story
+dialog: idea I left on your desk?
+speaker_heading: GUS
+dialog: Yeah--the blind foster home mother.
+dialog: It was good. I got Cahoon on it.
+speaker_heading: JOSIE
+dialog: (disappointed)
+dialog: Oh. Cahoon. Yeah, he's--good.
+speaker_heading: GUS
+dialog: Geller, we've been over this. You're
+dialog: a great copy editor. Maybe my best
+dialog: copy editor. You're not a reporter.
+speaker_heading: JOSIE
+dialog: You've done five of my ideas.
+speaker_heading: GUS
+dialog: You know what separates us office
+dialog: flunkies from the reporters?
+speaker_heading: JOSIE
+dialog: They don't have to be in the office
+dialog: Christmas show?
+speaker_heading: GUS
+text: A flack jacket.
+speaker_heading: JOSIE
+dialog: (not getting it)
+dialog: A--flack jacket.
+speaker_heading: GUS
+dialog: Every Tom, Dick, and Harry thinks
+dialog: he can write. But a journalist
+dialog: gets in there, right where the
+text: bombs are. He's aggressive. Grabs
+text: the bull by the balls.
+speaker_heading: JOSIE
+dialog: You don't think I can grab bulls'
+dialog: balls?
+speaker_heading: GUS
+dialog: Geller, you don't want a reporter's
+dialog: life. They're very--messy. You're
+dialog: all about order. Control. And
+dialog: getting me my copy by five.
+speaker_heading: JOSIE
+dialog: Hey--I can be out of control.
+text: Gus smiles. On his way out he re-adjusts Josie's nameplate
+text: so it hangs at an angle. Tormented, Josie waits a beat.
+text: She can't take it, and runs to the door and straightens
+dialog: it.
+speaker_heading: GUS
+dialog: (over his shoulder)
+dialog: Copy by five.
+scene_heading: INT. SUN TIMES LUNCHROOM -- DAY
+text: Actually, a pretty depressing kitchenette area. Anita and
+text: Josie eat lunch--Anita eats Chinese out of a container,
+text: Josie has three baggies of perfectly cut food in front of
+dialog: her.
+speaker_heading: JOSIE
+dialog: Be honest. Do you think I'm
+dialog: aggressive?
+text: Anita ponders a moment.
+speaker_heading: ANITA
+dialog: Okay. Remember when they took your
+dialog: office chair in for repairs and
+dialog: forgot to return it?
+speaker_heading: JOSIE
+dialog: Yeah.
+speaker_heading: ANITA
+dialog: You stood for like a month.
+text: Cynthia, an affable African-American woman in her 40's,
+text: enters and puts three microwave meals in the microwave.
+speaker_heading: JOSIE
+dialog: Just because I'm not out of control
+dialog: doesn't mean I can't write.
+speaker_heading: CYNTHIA
+dialog: Josie, you listen to me. If you
+dialog: feel you're a writer--
+dialog: (touching her chest)
+dialog: Here, deep inside, don't let anyone
+dialog: tell you you're not. Look at me.
+dialog: Every day I come to this paper and
+dialog: I pour my heart and soul into what
+dialog: I do. I feel it, passionately, to
+dialog: the core of my being.
+speaker_heading: JOSIE
+dialog: You write obituaries.
+speaker_heading: CYNTHIA
+dialog: Hey, if you can make a busted aorta
+dialog: sound good--honey, that's art.
+text: The microwave dings off. Cynthia fishes the three Lean
+text: Cuisines out. Anita and Josie share a look.
+speaker_heading: ANITA
+dialog: Cynthia, aren't they only diatetic
+dialog: if you eat them one at a time?
+speaker_heading: CYNTHIA
+dialog: I eat 'em one at a time.
+speaker_heading: ANITA
+dialog: (to Josie)
+dialog: Y'know, maybe Gus has a point. It
+dialog: wouldn't kill you to relax and
+dialog: have some fun. Roger's got a friend,
+dialog: Marshall in editing? The one with
+dialog: the lazy eye? Maybe we could double
+dialog: date.
+speaker_heading: JOSIE
+dialog: Forget it.
+speaker_heading: ANITA
+dialog: I swear to God, Jos. When is the
+dialog: last time you went on a real live
+dialog: date?
+speaker_heading: JOSIE
+dialog: I'm concentrating on my career
+dialog: right now.
+speaker_heading: ANITA
+dialog: Do you own any colored underwear?
+dialog: Stripes? Anything?!
+speaker_heading: JOSIE
+dialog: (embarrassed)
+dialog: Anita!
+speaker_heading: ANITA
+dialog: Look. You're way under 30, you're
+dialog: cute, some guys find white Carter's
+dialog: underwear sexy
+dialog: (beat)
+dialog: If you talk to his nose, you don't
+text: even notice the eye.
+text: Josie laughs in spite of herself.
+speaker_heading: JOSIE
+dialog: The right guy is out there. I'm
+dialog: just not going to kiss a whole
+text: bunch of losers to get to him.
+speaker_heading: ANITA
+dialog: Yeah, but sometimes kissing the
+dialog: losers can be a fun diversion.
+speaker_heading: JOSIE
+dialog: When I finally get kissed, I'll
+dialog: know.
+text: Anita and Cynthia trade looks.
+speaker_heading: ANITA
+dialog: Okay. If you've never kissed a
+dialog: guy, we got bigger problems than
+dialog: the underwear.
+speaker_heading: JOSIE
+dialog: I've kissed guys. I've just never
+dialog: kissed a guy. Felt that thing--
+speaker_heading: CYNTHIA
+dialog: "That thing"? Is that what you
+dialog: kids are calling it these days?
+speaker_heading: JOSIE
+dialog: That thing. That moment. You kiss
+dialog: someone and it's like the world
+dialog: around you gets all hazy and the
+dialog: only thing in focus is you and
+dialog: this other person and you know
+dialog: that one person is the person you're
+dialog: meant to be kissing for the rest
+dialog: of your life. And for that one
+dialog: moment you've been given this
+dialog: amazing gift and you want to laugh
+dialog: and cry at the same time because
+dialog: you're so lucky you found it, and
+text: so scared that it will all go away.
+text: Anita and Cynthia take this in.
+speaker_heading: CYNTHIA
+dialog: Damn, girl. You are a writer.
+scene_heading: INT. TIKI POST -- DAY
+text: Basically a Mailbox Etc. store, but dressed in a Tahitian
+text: theme. Cardboard hula dancers hold Fedex envelopes.
+text: ROB GELLER, 23, good-looking, wears a smock with "Tiki
+text: Post" emblazoned across it over a Hawaiian shirt. He stands
+text: watch at the cash register.
+text: MONTY MAYLIK, 50, proud owner, rearranges a display. The
+text: place is empty.
+speaker_heading: ROB
+dialog: Hey Monty--you think we'll get any
+dialog: business today?
+speaker_heading: MONTY
+dialog: (of course)
+dialog: I'm handing out a free lei to every
+dialog: customer! What do you think?
+speaker_heading: ROB
+dialog: I think maybe people are scared
+text: off by the tiki torches.
+speaker_heading: MONTY
+dialog: Change is scary. Robbie, let me
+dialog: tell you a little something about
+dialog: the mail business. I've been in it
+dialog: over thirty years. And in those
+dialog: thirty years, the only thing that's
+dialog: changed is the Elvis stamp and
+dialog: some gun laws. People are bored!
+dialog: They wanna shake things up!
+speaker_heading: ROB
+dialog: I thought people just wanted their
+text: mail delivered on time.
+text: Josie walks into the store, triggering Hawaiian music.
+text: Monty puts a lei over her head.
+speaker_heading: MONTY
+dialog: Aloha! Welcome!
+speaker_heading: ROB
+dialog: Relax, Monty. It's just my sister.
+text: Monty takes the lei off her neck. Josie hands Rob an
+text: envelope. Rob rifles through the cash inside.
+speaker_heading: ROB
+dialog: Thanks, Jos. I'll pay you back.
+dialog: Bambi thanks you, too.
+text: Rob indicates a beat-up wreck of a yellow car parked
+dialog: outside.
+speaker_heading: JOSIE
+dialog: That is so--weird that you name
+dialog: your car.
+speaker_heading: ROB
+dialog: No it's not. Guys name their
+dialog: penises.
+speaker_heading: JOSIE
+dialog: Okaaaay....
+dialog: (then)
+dialog: That car's going to bankrupt you.
+speaker_heading: ROB
+dialog: She just needs a new windshield
+dialog: wiper.
+speaker_heading: JOSIE
+dialog: Because I bought the windshield
+dialog: last week. I'm a hubcap away from
+dialog: owning more of Bambi than you do.
+text: Rob hands the money back.
+speaker_heading: ROB
+dialog: Y'know what? Take it. I don't want
+dialog: it.
+text: Josie hands it back.
+speaker_heading: JOSIE
+dialog: Rob, take the money, okay? It's no
+dialog: big deal.
+speaker_heading: ROB
+dialog: No, it is. It's just one more thing
+dialog: to add to your "things that make
+dialog: you a better person than me" list.
+speaker_heading: JOSIE
+dialog: Better person than I.
+speaker_heading: ROB
+dialog: See!
+speaker_heading: JOSIE
+dialog: I know this woman. She works in
+dialog: admissions at Lakeshore Community?
+dialog: She might be able to get you in
+dialog: for the Fall semester. Maybe she
+dialog: could get you the baseball
+dialog: scholarship, and I could help and--
+speaker_heading: ROB
+dialog: I'm not going to college, Jos. And
+dialog: I'm not playing anymore baseball.
+dialog: This is my life.
+speaker_heading: JOSIE
+dialog: (whispering)
+dialog: This--this is a luau that sells
+dialog: packing material!
+speaker_heading: ROB
+dialog: Someday this luau is going to be
+dialog: all mine!
+speaker_heading: JOSIE
+dialog: How can you just give up like that?
+dialog: You had a real shot at playing
+dialog: college ball and you let one case
+dialog: of mono stop everything. Don't you
+dialog: want more? To move out of Mom and
+dialog: Dad's? Pay your own bills?
+speaker_heading: ROB
+dialog: Oh yay! And then I could be as
+dialog: happy as you!
+speaker_heading: JOSIE
+dialog: For your information, I am very
+text: happy. Deliriously happy. I lead a
+dialog: very happy life!
+text: She exits. The music starts up again.
+speaker_heading: MONTY
+dialog: Come again!
+scene_heading: INT. JOSIE'S APARTMENT -- NIGHT
+dialog: We PAN AROUND the neatest and quietest walk-up you've ever
+text: seen. Lots of books on shelves.
+text: We find Josie sitting at her small table putting the
+text: finishing touches on a needlepoint pillow. She turns it
+text: over and WE SEE it says: "LOVE". She holds up the final
+text: product to a terrarium, lookup up at her two turtles.
+speaker_heading: JOSIE
+dialog: There. What d'you think, guys?
+dialog: Where should it go?
+text: Josie looks around the living room.
+speaker_heading: JOSIE
+dialog: Hmm.
+dialog: (She pretends to
+dialog: listen to the
+dialog: turtles.)
+dialog: What's that? Bedroom? Great idea!
+text: She walks into the bedroom with the pillow.
+scene_heading: INT. JOSIE'S BEDROOM -- CONTINUOUS
+text: A perfectly arranged Laura Ashley bedroom. We PAN OVER TO
+text: the bed. It is completely covered in needlepoint pillows.
+text: Josie places the latest one on top of the others and smiles.
+speaker_heading: JOSIE
+dialog: Perfect.
+scene_heading: INT. A CONFERENCE ROOM - SAME
+text: It's packed with the NEWSPAPER STAFF. HYRAM RIGFORT, 65,
+text: white-haired, dignified owner of the paper presides. Anita
+text: and Josie sit next to each other. Next to Anita sits Roger
+text: from Op/Ed, a good-looking guy in his 30's.
+speaker_heading: RIGFORT
+dialog: Let me start out by saying that I
+dialog: was very impressed by the
+dialog: investigative piece Dutton did on
+dialog: pesticides in our supermarkets.
+text: An older man, Dutton, smiles proudly.
+speaker_heading: RIGFORT
+dialog: But since the Trib did a better
+dialog: piece on the same subject, you're
+dialog: fired.
+text: Dutton's face falls. Everyone looks horrified.
+speaker_heading: RIGFORT
+dialog: You heard me. Out. Out.
+text: Dutton shuffles out. Josie takes a big bite of donut.
+speaker_heading: RIGFORT
+dialog: So. Happy March everybody!
+speaker_heading: ALL
+dialog: (by rote)
+dialog: Happy March Mr. Rigfort.
+speaker_heading: RIGFORT
+dialog: To celebrate, I've decided it's
+dialog: time for another undercover feature!
+text: Everyone looks underwhelmed.
+speaker_heading: RIGFORT
+dialog: You all know that some of my best
+dialog: inspiration comes from personal
+dialog: experience. Who knew that my botched
+dialog: foray into hair plugs would lead
+dialog: to last month's award-winning expose --
+dialog: "hair today, gone tomorrow"? Hat's
+dialog: off to you, Bruns.
+text: We PAN OVER to BRUNS, a reporter whose hair is missing in
+text: odd-looking clumps. He nods sadly.
+speaker_heading: RIGFORT
+dialog: Or should I say "hat's on"! And
+dialog: what about when my wife had that
+dialog: affair with Gil, her ski instructor
+dialog: and Howard went undercover as an
+dialog: expert slalom skier.
+text: Howard smiled wanly. Both his arms are in casts. CAMERA
+text: PANS the room as Rigfort continues, picking out different
+dialog: reporters.
+speaker_heading: RIGFORT
+dialog: So last night I'm sitting around
+dialog: the dinner table with my family.
+dialog: The wife, the two nannies, the
+dialog: boys, and we're eating chicken
+dialog: with this peanut sauce.
+text: CAMERA STOPS at a Chef Boyardee look-alike.
+speaker_heading: GUS
+dialog: Undercover chef. I like it.
+speaker_heading: RIGFORT
+dialog: Hang on, Gus. So, we're eating
+dialog: this peanut sauce and suddenly the
+text: younger kid starts choking.
+text: CAMERA STOPS at a Nurse Ratchet look-alike.
+speaker_heading: ANITA
+dialog: (sotto to Josie)
+dialog: I'm smelling undercover ER nurse.
+speaker_heading: RIGFORT
+text: Turns out he's allergic to peanuts.
+dialog: And I think -- holy shit. I don't
+dialog: even know my own kids. I mean, who
+dialog: knows if they're even mine? And it
+dialog: got me thinking. How much do we
+dialog: know about kids today? What are
+dialog: they thinking? How many of them
+dialog: are allergic to peanuts? Boom. It
+dialog: hit me -- "My Semester In High
+dialog: School."
+text: CAMERA STOPS at a bald guy, the jerks over one seat to
+dialog: Josie.
+speaker_heading: RIGFORT
+dialog: (to Josie)
+dialog: You. What's your name?
+speaker_heading: JOSIE
+dialog: Josie. Josie Geller.
+speaker_heading: RIGFORT
+dialog: You enroll on Friday.
+text: General crowd hubub. Josie's in shock.
+speaker_heading: JOSIE
+dialog: Oh. But--I'm not a reporter yet...
+speaker_heading: RIGFORT
+dialog: And none of these geezers could
+dialog: pass for a day under 40. Have fun.
+text: And Rigfort exits.
+scene_heading: INT. JOSIE'S OFFICE - MINUTES LATER
+text: Josie is so excited she can hardly speak to Anita.
+speaker_heading: JOSIE
+dialog: It's finally happening, Anita! I'm
+dialog: going to write!
+text: Anita looks concerned.
+speaker_heading: JOSIE
+dialog: My own undercover feature - "Written
+dialog: by Josie Geller".
+speaker_heading: ANITA
+dialog: Jos - Maybe you should turn it
+dialog: down.
+text: A beat. Josie's face falls.
+speaker_heading: JOSIE
+dialog: You don't think I can do it.
+speaker_heading: ANITA
+dialog: No - It's just a lot of pressure
+dialog: for your first piece, that's all.
+dialog: I mean, it's not a half-page
+dialog: article, it's a major undercover
+dialog: piece, Jos. Look what Rigfort did
+dialog: to Dutton - and that guy's his
+dialog: cousin!
+text: Gus enters.
+speaker_heading: GUS
+dialog: Don't worry, I'll straighten all
+dialog: this out.
+speaker_heading: JOSIE
+dialog: But I don't want it straightened
+dialog: out.
+speaker_heading: GUS
+dialog: Geller, this is way out of your
+dialog: league.
+text: Josie takes in Anita and Gus.
+speaker_heading: JOSIE
+dialog: Okay, just so I'm clear here --
+dialog: neither of you think I can do this.
+speaker_heading: ANITA
+dialog: Jos, that's not what we're --
+speaker_heading: JOSIE
+dialog: Anita, when you wanted to seduce
+dialog: the guy in the mailroom and you
+dialog: didn't think you could learn Spanish
+dialog: fast enough, who quizzed you on
+dialog: your verbs?
+text: Anita looks down, chastened.
+speaker_heading: ANITA
+dialog: Senorita Josie.
+speaker_heading: JOSIE
+dialog: And Gus - when you picked up
+dialog: knitting, who showed you how to
+dialog: hold the needles?
+speaker_heading: GUS
+dialog: (sotto)
+dialog: YOU DID.
+speaker_heading: ANITA
+dialog: (to Gus)
+dialog: YOU KNIT?
+speaker_heading: JOSIE
+dialog: So, this is my chance.
+text: A beat.
+speaker_heading: GUS
+dialog: I'm not holding your job for you,
+dialog: Geller.
+text: Josie jumps up and down and hugs Gus, who is clearly
+dialog: uncomfortable.
+speaker_heading: GUS
+dialog: Don't make me send you the memo on
+text: hugging in the workplace.
+text: Josie smiles. Gus exits.
+speaker_heading: ANITA
+dialog: I do believe in you, Jos. Anything
+dialog: you need, I'll help you out.
+text: Josie sits, motions to the brown paper bag.
+speaker_heading: JOSIE
+dialog: You can start by handing me that
+dialog: bag.
+text: Anita does. Josie sticks it over her face, flips her head
+text: between her knees and starts hyperventilating again.
+text: CLOSE UP on Rob, wearing his Tiki Post outfit. He shakes
+text: his head.
+speaker_heading: ROB
+dialog: No. Uh, uh.
+text: PULL OUT TO REVEAL HIM STANDING WITH JOSIE ON THE SIDEWALK
+scene_heading: IN FRONT OF -
+scene_heading: EXT. TIKI POST - DAY
+text: Josie's shiny Buick is parked right behind Bambi at the
+dialog: curb.
+speaker_heading: JOSIE
+dialog: It's just for a couple of months.
+speaker_heading: ROB
+dialog: You can't just "borrow" my car for
+dialog: a couple of months! That's like
+dialog: ten years in Bambi life!
+speaker_heading: JOSIE
+dialog: I'll give you my Buick Le Sabre.
+text: Rob rolls his eyes and enters the store.
+speaker_heading: JOSIE
+dialog: You can name it whatever you want.
+scene_heading: INT. TIKI POST - CONTINUOUS
+text: Josie follows Rob into the store. He turns.
+speaker_heading: ROB
+dialog: Wow. This must be big.
+speaker_heading: JOSIE
+dialog: I got an assignment from the paper.
+dialog: I'm going undercover. Back to high
+dialog: school.
+text: Rob starts laughing uncontrollably.
+speaker_heading: JOSIE
+dialog: What!?
+speaker_heading: ROB
+dialog: Do you remember high school?
+speaker_heading: JOSIE
+dialog: It was a long time ago -
+speaker_heading: ROB
+dialog: Don't you remember what they called
+dialog: you?
+text: Slowly Josie's face falls. She looks very far away.
+speaker_heading: ROB
+dialog: Josie -
+scene_heading: INT. A HIGH SCHOOL CAFETERIA - DAY (FLASHBACK)
+text: It's packed with kids. Everyone stares off-screen at chants -
+speaker_heading: ALL
+dialog: Josie Grossie. Josie Grossie. Josie
+dialog: Grossie.
+scene_heading: INT. TIKI POST - SAME
+text: Josie looks stricken.
+speaker_heading: JOSIE
+dialog: Josie Grossie.
+speaker_heading: ROB
+dialog: I know. I came up with it.
+dialog: (beat)
+dialog: You look nauseous.
+speaker_heading: JOSIE
+dialog: Nauseated. I look nauseated. Oh
+dialog: God.
+text: She puts her hand over her mouth, races for the bathroom.
+scene_heading: INT. TIKI POST BATHROOM - MINUTES LATER
+text: Josie has just gotten violently ill. She rises off her
+text: knees, grabs some toilet paper to wipe her mouth. She looks
+text: down at her feet.
+scene_heading: INT. HIGH SCHOOL CORRIDOR - DAY (FLASHBACK)
+text: We CLOSE UP on brown leather oxfords and widen to reveal
+speaker_heading: teenage JOSIE
+text: braces, heavy glasses, in all her nerdom, slowly walking
+text: down the corridor with a huge backpack on her back.
+text: A boy sneaks up behind her, holds open the top of her
+text: backpack while another boy pours a half drunk Sprite into
+dialog: her backback.
+text: Kids smile and snicker as Josie continues down the hallway.
+text: She spots, BILLY PRINCE, ultmate high school heartthrob,
+text: and approaches him nervously.
+speaker_heading: JOSIE
+dialog: Hey, Billy Prince, I noticed you
+dialog: weren't in math today, and I have
+dialog: the notes in case you want -
+text: Midway through Josie's speech, WE HEAR the odd sound of
+text: liquid hitting linoleum. Josie follow Billy's gaze down to
+text: between her feet where a pool of Sprite has gathered. Billy
+text: starts to laugh. Kids around him join in. As the laughter
+text: echoes around her we
+scene_heading: DISSOLVE BACK TO:
+scene_heading: INT. TIKI POST BATHROOM - SAME (PRESENT DAY)
+text: Josie stares into the mirror. Staring back is teenage Josie.
+speaker_heading: JOSIE
+dialog: This is a very bad idea.
+scene_heading: INT. THE MALL - TEEN CLOTHING STORE - DAY
+text: Anita and Josie cruise through a teen clothing store,
+text: carrying large bags from a stationery store. Josie picks
+text: up a platform sneaker and just stares at it.
+speaker_heading: ANITA
+dialog: So, you were a geek. Big deal.
+speaker_heading: JOSIE
+dialog: Anita, remember espadrilles?
+speaker_heading: ANITA
+dialog: Please. That doesn't make you a
+dialog: nerd. Everyone wore those shoes.
+speaker_heading: JOSIE
+dialog: The girls threw them at me in the
+text: locker room.
+speaker_heading: ANITA
+dialog: Okay. That's bad.
+speaker_heading: JOSIE
+text: At the end of the yeat the person
+dialog: who got the most direct his to my
+dialog: head got to toss me into the pool.
+speaker_heading: ANITA
+dialog: Mama mia.
+dialog: (then)
+dialog: Just because you were a nerd once
+dialog: doesn't mean it's going to happen
+dialog: again. That's why you have me for
+dialog: fashion consultation.
+text: Anita pulls a slip skirt off a rack and holds it up.
+speaker_heading: ANITA
+dialog: Now this is cute.
+speaker_heading: JOSIE
+dialog: That is lingerie.
+speaker_heading: ANITA
+dialog: So I was thinking about what you
+dialog: were saying - y'know, about really
+dialog: being kissed? I think Roger could
+dialog: be the one.
+speaker_heading: JOSIE
+dialog: What'd you feel when you kissed
+dialog: him?
+speaker_heading: ANITA
+dialog: Bridgework?
+speaker_heading: JOSIE
+dialog: Very romantic.
+text: Josie pulls out a plain button-down cardigan.
+speaker_heading: JOSIE
+dialog: How about this?
+speaker_heading: ANITA
+dialog: I am not letting you out of the
+dialog: house in that, young lady.
+text: Anita grabs an awful white maribou jacket and matching
+text: earrings and holds them up.
+speaker_heading: ANITA
+dialog: Cuuuute!
+speaker_heading: JOSIE
+dialog: 'Nita, this is about reporting,
+dialog: not accessorizing.
+speaker_heading: ANITA
+dialog: And we're going to have to do
+dialog: something about your hair.
+speaker_heading: JOSIE
+dialog: Anita!
+speaker_heading: ANITA
+dialog: Jos, please try and have some fun
+dialog: here, okay? How many of us get to
+dialog: go back to high school? You're
+dialog: gonna have a blast!
+scene_heading: SMASH CUT TO:
+scene_heading: CLOSE UP - AN ALARM CLOCK
+text: on a bedside table. Surrounded by make-up, boxes of hair
+text: color, a stack of index cards, ripped magazine pages of
+text: teen looks, issues of Teen Beat and YM. The clock slips to
+text: 7:00. NPR starts playing. A hand reaches over, hits the
+text: radio off.
+text: SOUND EFFECTS: A school bell. As the bell continues to
+dialog: ring, we WIDEN TO:
+scene_heading: INT. JOSIE'S BEDROOM - MORNING
+text: Josie sits up in bed, covers pulled up to her chin in
+dialog: terror.
+scene_heading: EXT. A CHICAGO STREET - MORNING
+text: MUSIC UP: "Morning Train". Crowds of commuters stream down
+text: the sidewalk and onto the stairs leading up to the El.
+text: A big yellow car jerks into frame, backfires noisily. It's
+text: Josie at the wheel of Bambi. She jerks out of frame.
+scene_heading: EXT. SOUTH GLEN SOUTH HIGH SCHOOOL - MORNING
+text: A suburban campus anchored by a main building. Cars pull
+text: into the parking lot for the beginning of the day. Kids
+text: greet each other, converge on the front doors of the school.
+dialog: General mayhem.
+text: Bambi pulls in. She jerks into a spot, backfiring once
+text: more for effect. The entire scene stops. Kids freeze, look
+text: at Josie. A beat, and they they continue on their way.
+scene_heading: INT. BAMBI - CONTINUOUS
+text: Josie takes a few deep breaths.
+speaker_heading: JOSIE
+dialog: Okay, I can do this. Piece of cake.
+dialog: I can do this.
+scene_heading: EXT. PARKING LOT - CONTINUOUS
+text: Josie steps out of the car wearing the maribou jacket,
+text: earrings, and white jeans. She shuts the door behing her,
+text: starts walking. She has unknowingly shut her jacket in the
+text: door and as she walks, a piece of maribou rips, trailing
+text: behind her like a tail.
+speaker_heading: JOSIE
+dialog: Yeah, okay. Feeling good...
+scene_heading: INT. SCHOOL LOBBY - SAME
+text: Josie merges with the throngs of kids and is literally
+text: pushed into the lobby. She stares around, overwhelmed. "Go
+text: Rams!" banners share space with signs that read: "63 DAYS
+text: TIL PROM!" She inches her way along the wall until she is
+text: stopped by a guard who grabs her arm.
+speaker_heading: GUARD
+dialog: Hey--where are you going?
+speaker_heading: JOSIE
+dialog: Oh, I'm a student. Most definitely
+dialog: a student. In high school. Here. I
+dialog: am going to class. With my fellow
+dialog: students.
+dialog: (greeting random
+dialog: kids)
+dialog: Hi. Hi there.
+text: The guard stares at her a beat and then motions behind
+text: them, to three huge metal detectors that the kids are
+text: filtering through. Josie smiles, "whoops," walks back.
+speaker_heading: GUARD
+dialog: (under his breath)
+dialog: Freak.
+scene_heading: INT. SCHOOL LOBBY - MINUTES LATER
+text: Josie's stuff lays out on the post-detector table - cell
+dialog: phone, laptop, mini tape recorder, electronic organizer,
+text: pager, being scrutinized by the guard. Josie's sure she's
+text: been found out. CAMERA WIDENS. Down from Josie, WE SEE
+text: other kids' belongings spread out. They have the identical
+text: high-tech equipment. The guard picks up Josie's nail file,
+dialog: examines it -
+speaker_heading: GUARD
+dialog: Weapon.
+text: And throws it in the trash.
+scene_heading: INT. HIGH SCHOOL HALLWAY - MORNING
+text: Josie stares at her class card and eyes the classrooms,
+text: totally lost. She approaches a boy in a flannel shirt and
+text: loose jeans.
+speaker_heading: JOSIE
+dialog: Hi--um, I'm looking for Room 204,
+dialog: Ms. Knox?
+text: As soon as the boy starts to talk, we notice something in
+text: his mouth - a tongue pierce. Josie does too. We ZOOM IN on
+text: that shiny little metal ball. Josie is fixated. So fixated
+dialog: that we stop hearing the boy's voice. All WE SEE is the
+text: mouth - and that ball - moving. The mouth closes. He's
+text: done. Josie's face is contorted in imagined pain.
+speaker_heading: JOSIE
+dialog: Ow.
+dialog: (catching herself)
+dialog: I mean, wow. Wow. Great directions.
+dialog: Clear. Concise.
+text: And Josie takes off, totally embarrassed.
+speaker_heading: BOY
+dialog: (under his breath)
+dialog: Freak.
+scene_heading: INT. HIGH SCHOOL HALLWAY - MORNING
+text: Josie walks up to Room 204. Opening the door, she's met by
+text: a sea of faces.
+text: MS. KNOX, mid-forties, distracted but bubbly, sits in the
+text: front of the class.
+speaker_heading: MS. KNOX
+dialog: Hi - hello. Wilkommen. Entre.
+text: Josie walks in. Kids whisper and snicker.
+speaker_heading: JOSIE
+dialog: Sorry I'm late.
+speaker_heading: MS. KNOX
+dialog: Yes, well, I'm sorry I forgot to
+dialog: take my hot flash medication this
+dialog: morning. Josie, right? Please sit.
+dialog: Mi casa es su casa.
+text: Josie makes her way to the desk, trailing maribou. The
+text: class titters. She sits in front of two girls, KIRSTEN and
+text: KRISTEN, beautiful and intimidating.
+speaker_heading: KIRSTEN
+dialog: That is so sad --
+speaker_heading: KRISTEN
+dialog: I know, like five chickens had to
+dialog: die just so she could look that
+dialog: stupid.
+speaker_heading: MS. KNOX
+dialog: Josie, in my classroom, tardiness
+dialog: is unacceptable --
+speaker_heading: JOSIE
+dialog: I'm really sorry --
+text: Ms. Knox pulls a ridiculously huge sombrero out from under
+text: her desk. The class laughs in recognition.
+speaker_heading: MS. KNOX
+dialog: Not as sorry as I am.
+text: Ms. Knox puts the sombrero on a less-than-thrilled Josie.
+speaker_heading: MS. KNOX
+dialog: Ole! Ten minutes in this hat, you'll
+dialog: never be late again. So, let's
+dialog: hear something about you. Stand
+dialog: up. Stand up.
+text: Josie does. The sombrero drops over her eyes. She adjusts
+text: it so she can read her notecards.
+text: CLOSE UP on the notecard --it's filled with precise script
+text: under a heading: MY PAST.
+text: She scans it, then flips the cards face-down on the desk.
+text: Confidently she begins --
+speaker_heading: JOSIE
+dialog: My name is Josie. I'm a high school
+dialog: student. I came from --
+text: Just then the classroom door opens. WE SEE from Josie's
+text: perspective a blinding light, Josie squints. From the light
+text: emerges a shadowy vision of Billy Prince.
+speaker_heading: JOSIE
+dialog: Billy?
+text: Josie blinks, REVEAL not Billy, but a beautiful guy, Guy.
+text: He stands very close to her.
+speaker_heading: JOSIE
+dialog: (catching herself)
+speaker_heading: BALI.
+dialog: (another beat)
+dialog: I'm from Billy-Bali. It's a suburb
+dialog: of Bali proper.
+text: Guy pushes past her, tosses a wooden hall pass to Ms. Knox,
+text: and moves to his seat.
+speaker_heading: MS. KNOX
+dialog: Bali. Fascinating! What did your
+dialog: family do there?
+text: Josie looks around in panic, sees a student in a South
+text: Glen South windbreaker with huge ram on the back.
+speaker_heading: JOSIE
+dialog: We were--sheep--farmers. We raised
+text: sheep. In Billy-Bali.
+text: Josie realizes the trouble she's gotten herself into.
+speaker_heading: JOSIE
+dialog: Oh my God.
+dialog: (caught)
+dialog: Oh my God--do I miss Billy-Bali.
+dialog: (beat)
+dialog: It had--a really great...aquarium.
+text: She sits. Defeated.
+scene_heading: INT. HIGH SCHOOL HALLWAY - LATER
+text: Josie rushes down the hall, still toting her enormous bag.
+text: A huge banner - SOUTH GLEN, OUR NATION'S BEST PROM - hangs
+text: prominently. She talks covertly into a hand-held tape
+dialog: recorder.
+speaker_heading: JOSIE
+dialog: Note to self--Research Bali. Kill
+dialog: Anita for picking out this outfit.
+dialog: Find and destroy sombrero.
+scene_heading: INT. CLASSROOM - SAME
+text: Josie and her enormous bookbag enter. She takes a seat
+text: toward the back of the room.
+text: Kristen, Kirsten and GIBBY, another beauty, enter and head
+text: to the back of the room.
+text: Kirsten and Gibby stand over Josie, staring at her.
+speaker_heading: KIRSTEN
+dialog: We sit here.
+speaker_heading: JOSIE
+dialog: Oh. Sorry--I didn't know these
+dialog: were assigned.
+speaker_heading: GIBBY
+dialog: They're not.
+text: Josie quickly gathers her things and moves one row forward,
+text: next to two empty seats. TWO STONERS shuffle over to Josie.
+speaker_heading: STONER 1
+dialog: Sorry. We sit here.
+speaker_heading: JOSIE
+dialog: (indicating two
+dialog: empty seats)
+dialog: Couldn't you two--sit there?
+speaker_heading: STONER 2
+dialog: Right. Except there are three of
+dialog: us--
+text: The Stoners eye each other, then the two seats. A look of
+text: horror comes over Stoner 1.
+speaker_heading: STONER 1
+dialog: Dude--we left Jed at the 7-11!
+dialog: (beat)
+dialog: Again!
+text: Josie picks up her stuff, moves to the last empty seat in
+text: the room-in the front row, surrounded by "" who all wear
+text: orange Denominator sweatshirts.
+text: Sitting next to Josie is ALDYS, a Denominator--intense,
+text: wise, with a whole bunch of math medals on her sweatshirt.
+text: She smiles at Josie.
+text: Josie smiles back and looks up as MR. COULSON enters the
+text: room. He's a ruggedly handsome twenty-something Yale grad.
+text: He grabs a notebook out of his bag, goes around to sit on
+text: the front of his desk, sipping coffee from a Styrofoam
+dialog: cup.
+speaker_heading: SAM
+dialog: Hi, everyone.
+dialog: (Spots Josie)
+dialog: I don t think we've met. I'm Sam
+dialog: Coulson- although for some reason
+dialog: the school has this thing about
+dialog: not letting you guys call me Sam.
+speaker_heading: JOSIE
+dialog: (shyly)
+dialog: I'm Josie. Geller. I think the
+dialog: school would probably be pretty
+dialog: comfortable with you calling, me
+dialog: that. Josie.
+text: Sam smiles.
+speaker_heading: SAM
+dialog: Josie since you're new--I love to
+dialog: drink my coffee during class, and
+dialog: since I allow myself to do this, I
+dialog: allow everyone to bring beverages
+dialog: to class as well.
+dialog: (a beat)
+dialog: welcome to Shakespeare's "As You
+dialog: Like It."
+dialog: (beat)
+dialog: Okay. How many of you actually
+dialog: read the assignment last night?
+text: About five hands go up.
+speaker_heading: SAM
+dialog: Not bad. Now how many of you spent
+text: more than thirty minutes eating
+dialog: salty snack foods?
+text: Twenty hands. Sam laughs.
+speaker_heading: SAM
+dialog: Man. If I could just get you guys
+dialog: to read while you eat.
+text: Sam opens his book. Aldys notices Josie has no book. She
+text: moves next to her.
+speaker_heading: ALDYS
+dialog: Here. We can share.
+text: They share a smile.
+speaker_heading: SAM
+dialog: 'As You Like It" is an example of
+dialog: a Shakespearean--
+text: Sam turns to the blackboard and starts writing. We CU on
+text: his butt, hardly discernable in his loose 501 jeans, all
+text: the girls swoon.
+speaker_heading: SAM
+dialog: Pastoral Comedy. Anyone know what
+dialog: that means?
+text: An enthusiastic, if slightly dim girl, SERA, waves her
+dialog: hand.
+speaker_heading: SERA
+dialog: Oh oh oh! That's what they do to
+dialog: milk!
+speaker_heading: SAM
+dialog: That's pasteurize, Sera. But close.
+dialog: Same letter--
+dialog: (tapping three
+text: fingers on his arm
+dialog: a la charades)
+dialog: --three syllables--
+speaker_heading: SERA
+dialog: Parakeet?!
+speaker_heading: ALDYS:
+dialog: (sotto to Josie)
+dialog: There's a minute of my life I'll
+dialog: never get back.
+text: Josie smiles at this.
+speaker_heading: SAM
+dialog: Okay, anyone else---
+text: Josie can't contain herself.
+speaker_heading: JOSIE
+dialog: Pastoral means set in the country.
+text: Originally seen in the Eclogues of
+dialog: Virgil. It's from the Latin pascere.
+dialog: To graze.
+text: Student bleets like a sheep O.S. Sam just stares at her,
+text: smiling. Finally, he walks over and shakes her hand.
+speaker_heading: SAM
+dialog: Did I mention to the class that I
+dialog: love our new student?
+text: Josie beams.
+speaker_heading: GIBBY
+dialog: Did I mention that the class also
+dialog: loves our new kiss ass?
+text: Josie's smile quickly fades.
+speaker_heading: SAM
+dialog: Gibby, that's not exactly the kind
+dialog: of participation I'm looking for.
+text: Gibby looks right at Josie.
+speaker_heading: GIBBY
+dialog: (totally insincere)
+dialog: Ooops. Sorry.
+text: Josie just sits there, face burning.
+scene_heading: INT. HIGH SCHOOL HALLWAY - LATER
+text: Josie approaches her locker. She can't get to it because a
+text: COUPLE is busy making out against it.
+text: A GIRL'S VOICE comes over the loudspeaker. She's completely
+dialog: ignored.
+speaker_heading: GIRL'S VOICE
+dialog: Hi. This is Sydney, Student Body
+dialog: President! Okay, first. Bad news-
+dialog: The' district didn't allocate enough
+dialog: funds, so as of this afternoon,
+dialog: there will be no music department.
+dialog: Now, about Prom--
+text: The entire hallway FREEZES. The couple breaks their clinch
+text: and looks up. SILENCE. Josie is amazed.
+speaker_heading: SYDNEYS VOICE
+dialog: Voting on Prom theme has been
+dialog: completed. And the theme is--
+text: CU on expectant FACES.
+speaker_heading: SYDNEYS VOICE
+dialog: The Millennium!
+text: PANDEMONIUM. Kids cheer, gasp. One GIRL faints.
+text: The crowd surges again. Josie, caught in the flow, doesn't
+text: notice a locker door flinging open. She smashes her face
+text: right into it. Everyone, including Guy, turns and laughs.
+dialog: Even some Denominators.
+speaker_heading: CUT TO:
+scene_heading: CU: A CAFETERIA TRAY
+text: Moves down the food line. It's piled with unidentifiable
+text: foods and three glasses of fluorescent red punch. Hands
+text: pull the tray out of the frame. INTO FRAME comes another
+text: tray, this one bearing a perfectly arranged place setting
+text: with three celery sticks on a plate. WIDEN TO REVEAL:
+scene_heading: INT. CAFETERIA - DAY
+text: Josie, pulling the perfect tray down the cafeteria line.
+text: She reaches some awful-looking Cole slaw in a big vat. A
+text: CAFETERIA GUY in a plastic cap hovers above it.
+speaker_heading: JOSIE
+dialog: (to cafeteria guy)
+dialog: Excuse me. What's in the Cole slaw?
+text: The cafeteria guy hauls an industrial-size plastic tub
+text: onto the, counter and turns it-so Josie can read the label:
+text: "KOLE SLAW FOOD." Josie wrinkles her nose. She moves on
+text: to the cash register.
+speaker_heading: CASHIER
+dialog: That'll be twelve ninety-five.
+speaker_heading: JOSIE
+dialog: (stunned)
+dialog: Oh my gosh. Wow. That's... pricey.
+speaker_heading: CASHIER
+dialog: That's real meat in the ham
+dialog: sandwich.
+text: Josie turns to a GIRL in line behind her.
+speaker_heading: JOSIE
+dialog: Boy--that's a lot of bread for
+dialog: that bread!
+text: The Girl rolls her eyes, reaches past Josie to grab a
+text: mustard bottle. Josie turns with her tray toward the room.
+speaker_heading: CUT TO:
+scene_heading: INT. CAFETERIA - DAY (FLASHBACK)
+text: 4 KIDS stare at CAMERA and chant:
+speaker_heading: ALL
+dialog: Josie Grossie--Josie Grossie--Josie
+dialog: Grossie.
+text: ANGLE BACK ON JOSIE. She's seventeen. Standing with her
+text: tray, paralyzed. The CAMERA SPINS, showing us her back.
+text: There, tattooed in squeeze-bottle mustard, is "GROSSIE."
+text: A boy stands behind her victoriously holding the mustard
+dialog: bottle.
+speaker_heading: CUT BACK TO:
+scene_heading: INT. CAFETERIA - SAME (PRESENT DAY)
+text: Josie shakes off the vision and stares out at the crowded
+text: cafeteria. She sees Kirsten, Kristen and Gibby, steels
+text: herself, and decides to approach.
+text: Kirsten is eating a bran muffin.
+speaker_heading: KRISTEN
+dialog: Kirsten, that bran muffin has like
+dialog: 75 fat grams.
+speaker_heading: KIRSTEN
+dialog: Nah uh.
+speaker_heading: GIBBY
+dialog: Yeah, I read this thing that one
+dialog: bran muffin can be like two bran
+dialog: muffins sometimes.
+text: Kirsten pushes the muffin away.
+speaker_heading: KIRSTEN
+dialog: God. Food is so confusing.
+speaker_heading: JOSIE
+dialog: (to Kirsten)
+dialog: Hi Kristen.
+speaker_heading: KIRSTEN
+dialog: It's Kirsten.
+text: Josie plops herself down with these girls, and takes a
+text: spiral pad out of her big knapsack. In the process, she
+text: manages to spill her chocolate milk all over her white
+dialog: jeans.
+speaker_heading: JOSIE
+dialog: That'll teach me to wear white
+dialog: after Labor Day.
+speaker_heading: GIBBY
+dialog: Umm- I don't think you're supposed
+dialog: to wear white jeans after 1983.
+text: They all laugh. Josie fakes a laugh, too.
+speaker_heading: JOSIE
+dialog: Right, right.
+text: Josie picks up her notepad and her pen.
+speaker_heading: JOSIE
+dialog: So - tell me about yourselves.
+text: They all just stare at Josie in disgust. Guy approaches
+dialog: their table.
+speaker_heading: GUY
+dialog: I'm Guy.
+text: Guy looks at Josie. He's beautiful. She's flustered.
+speaker_heading: JOSIE
+dialog: Yes you are. A guy. Guy. Quite a
+dialog: guy. Oh my. Look at that--I rhymed.
+dialog: (beat)
+dialog: Yikes.
+dialog: (beat)
+dialog: Bikes!
+speaker_heading: GUY
+dialog: (very serious)
+dialog: Are you in special ed?
+text: Josie stands up, grabs her bag and her chocolate milk -
+speaker_heading: JOSIE
+dialog: Bye. Guy. Others.
+text: She leaves the Cafeteria, passing a-couple of Denominators.
+speaker_heading: JOSIE
+dialog: (to herself)
+dialog: Aaaah! How old am I?
+speaker_heading: DENOMINATOR #1
+dialog: Approximately six thousand three
+dialog: hundred and fifty days old-subject
+dialog: to adjustment for month of birth.
+dialog: This is very funny Denominator humor- to the Denominators.
+text: Josie leaves the Cafeteria.
+scene_heading: EXT. SCHOOL GROUNDS - CONTINUOUS
+text: Josie runs out an exit door and right into a SECURITY GUARD
+speaker_heading: GUARD
+dialog: You got a pass?
+scene_heading: INT. GYM - LATER
+text: A banner above reads "PRESIDENTIAL FITNESS TESTING THIS
+text: WEEK." FIFTEEN SENIOR GIRLS, including Josie, in matching
+text: green and yellow polyester gym clothes do sprints up and-
+text: down the basketball court. Josie looks like she's about to
+text: die. Ms. Brown yells as she passes.
+speaker_heading: MS. BROWN
+dialog: move it Geller! Move it! Move it!
+text: Josie stops, grabs the woman by the shoulders.
+speaker_heading: JOSIE
+dialog: Must--have--water--
+speaker_heading: MS. BROWN
+dialog: What do I look like, your waitress?
+dialog: Now you're gonna complete these
+dialog: sprints, cause if you don't you
+dialog: fail. And if you fail gym, you're
+text: NEVER GETTING INTO COLLEGE!
+speaker_heading: JOSIE
+dialog: Oh--my--God--you guys arestill
+dialog: telling that lie--?
+speaker_heading: MS. BROWN
+dialog: That's it Geller--drop and give me
+dialog: twenty!
+text: Josie drops to the gym floor.
+scene_heading: INT. HIGH SCHOOL HALLWAY - LATER
+text: It's - finally- the end of the day. Josie makes her way
+text: down the hall, clutching her pad of paper, getting pushed
+text: and shoved by kids as they storm outside. A huge banner
+text: hangs overhead reading: "SIGN UP FOR SENIOR NIGHT!"
+text: She tries to smile at some kids, but they all ignore her.
+text: She makes it to the main entrance to the school, where we
+text: see, as she shoves her pad of paper into her bag, it is
+text: completely blank.
+scene_heading: EXT. PARKING LOT - SAME
+text: Kids fill the parking lot. Josie walks, talking on her
+dialog: cell phone.
+speaker_heading: JOSIE
+dialog: (into phone)
+dialog: Rhoda, make sure Gus gets-the whole
+dialog: message, okay? Yeah--bye--
+text: Josie arrives where she parked Bambi. The space is empty.
+text: She still holds the phone to her ear--
+speaker_heading: JOSIE
+dialog: Wait a second--
+dialog: (into phone)
+dialog: No, not you--bye--
+text: Josie shuts the phone, looks around...retraces her steps
+text: ... Bambi is gone.
+text: Josie walks around the lot, getting visibly upset.
+text: In the corner of the lot, WE SEE a group of Denominators
+text: removing a BIG METAL CHAIN from around a group of tightly
+dialog: packed cars.
+speaker_heading: ALDYS (O.S.)
+dialog: They do it to all the new kids.
+text: Josie finds Aldys standing next to her.
+speaker_heading: JOSIE
+dialog: Who's of they?
+text: Aldys motions up to a second floor window. Guy and his
+text: Group look down on them, laughing.
+speaker_heading: ALDYS
+dialog: Guy Perkins and his amazing
+dialog: Lemmings. They push your car out
+dialog: of its space, hide it, then watch
+dialog: while you look for it. We've taken
+dialog: to chaining ours together for
+dialog: safety. I'm Aldys.
+speaker_heading: JOSIE
+dialog: I'm Josie. Aldys is an interesting
+dialog: name.
+speaker_heading: ALDYS
+dialog: When it's not yours. My mom was
+dialog: going through her Harlequin Romance
+dialog: phase.
+speaker_heading: JOSIE
+dialog: Try being named after a guitar-
+text: playing pussycat.
+dialog: Aldys doesn't get it.
+speaker_heading: JOSIE
+dialog: Never mind.
+dialog: (beat)
+dialog: That is so awful that they hide
+dialog: your cars.
+speaker_heading: ALDYS
+dialog: guess. Although, what is truly
+dialog: awful is that with the combined
+dialog: intellectual effort of every kid
+dialog: in that room right now-
+text: She points up to the biology room-
+speaker_heading: ALDYS
+dialog: They still would not know the
+dialog: difference between a synecdoche
+text: and a hyperbole.
+text: Josie laughs.
+speaker_heading: JOSIE
+dialog: I know. It's pathetic.
+text: Aldys stares Josie down.
+speaker_heading: JOSIE
+dialog: What?
+speaker_heading: ALDYS
+dialog: Well, do you?
+speaker_heading: JOSIE
+text: Synecdoche uses a part to represent
+dialog: a whole- as in " head of cattle",
+dialog: whereas a hyperbole is simple
+dialog: exaggeration like "I could eat a
+dialog: horse."
+speaker_heading: ALDYS
+dialog: Nice.
+text: They stop and look around.
+speaker_heading: JOSIE
+dialog: How long will they watch us for?
+speaker_heading: ALDYS
+text: Until Guy tells them to go. Once
+dialog: they watched me for like two hours.
+dialog: I found my car the next day in the
+text: T.J. Maxx parking lot.
+speaker_heading: JOSIE
+dialog: Why do they listen to Guy?
+speaker_heading: ALDYS:
+dialog: (duh)
+dialog: Because he's Guy Perkins.
+dialog: (then)
+dialog: Listen, you want to walk to Na-
+dialog: Na's and get something to eat?
+speaker_heading: JOSIE
+dialog: Yeah. Let's do that.
+text: They start to walk out of the parking lot. Josie is visibly
+text: thrilled - having finally found a friend.
+scene_heading: INT. NA-NA'S - LATER
+text: Josie and Aldys share a huge plate of chili fries.
+speaker_heading: ALDYS
+dialog: Yeah - isn't it amazing that those
+dialog: guys are our same age? I mean,
+dialog: they just seem so much younger,
+dialog: you know.
+speaker_heading: JOSIE
+dialog: Oh I know.
+text: A WAITER delivers two huge chocolate shakes.
+speaker_heading: ALDYS
+dialog: I'm going to be so happy to get to
+dialog: college. I hear at Northwestern
+dialog: they don't make fun of you for
+dialog: knowing the element table.
+speaker_heading: JOSIE
+dialog: Hey--I went to Northwestern!
+dialog: (a beat)
+dialog: Once. To use the bathroom.
+text: OUT THE WINDOW, Josie sees her Buick with Rob at the wheel
+text: stopped at a red light. Detailed on to the side in big
+text: white script is: "THE TIKI POST".
+text: Josie's eyes widen. The light changes. Rob pulls away.
+speaker_heading: JOSIE
+dialog: (So angry)
+dialog: Oh. My. God.
+dialog: (a beat)
+dialog: You'll really like Northwestern.
+text: They both slurp down their shakes.
+speaker_heading: JOSIE
+dialog: So what are your hopes, your dreams,
+dialog: what do you want to be?
+speaker_heading: ALDYS
+dialog: Professor of medieval literature.
+dialog: Novelist. Weekend flautist.
+text: Aldys takes another slurp of her shake. WE HEAR a muffled
+text: cell phone RINGING.
+speaker_heading: ALDYS
+dialog: I think your knapsack is ringing.
+text: Josie takes the cell phone out of her knapsack and answers
+dialog: it.
+speaker_heading: JOSIE
+dialog: Hello?
+scene_heading: WE INTERCUT WITH:
+scene_heading: INT. GUS'S OFFICE - SAME
+text: Gus speaks into his phone, knitting frantically.
+speaker_heading: GUS
+dialog: Geller, I got your message. What
+dialog: the hell kind of story are you
+dialog: pitching?!
+text: Josie smiles awkwardly at Aldys, covering the phone.
+speaker_heading: JOSIE
+dialog: It's my dad. He worries.
+dialog: (into phone)
+dialog: Hi, Dad. I miss you too.
+speaker_heading: GUS
+dialog: You're a sick puppy, Geller.
+text: Josie indicates to Aldys she'll be right back and walks to
+text: the back of the restaurant by the pay phones.
+speaker_heading: JOSIE
+dialog: (into the phone)
+text: It's an expose on cafeteria food.
+speaker_heading: GUS
+dialog: And you're leading with the terrible
+dialog: truth about cole slaw?!
+speaker_heading: JOSIE
+dialog: Well, the bulk of it will be about
+dialog: the pimento loaf--
+speaker_heading: GUS
+dialog: Geller...you wanna be a reporter?
+dialog: Take a look at what sells! Sex
+dialog: scandals. Bribery. People jumping
+dialog: off buildings. So unless a kid
+dialog: just killed himself because he was
+dialog: being paid to have sex with the
+text: school mascot in a big vat of this
+dialog: cole slaw, you got nothing!
+text: Gus slams down his phone.
+speaker_heading: JOSIE
+dialog: (into a dead phone)
+dialog: You didn't taste the pimento loaf.
+text: She looks back to the table where Aldys is dividing the
+dialog: check.
+scene_heading: EXT. TRACK - HIGH SCHOOL - DUSK
+text: In the middle of the track is Josie's car. The MARCHING
+text: BAND clumsily practices their formations around it. Josie
+text: and Aldys arrive at the car and Aldys pops the hood.
+speaker_heading: ALDYS
+dialog: They love to disconnect the battery,
+dialog: too.
+text: She looks under the hood, reconnects the battery. Slams
+text: the hood down.
+speaker_heading: ALDYS
+dialog: Just so you know, I think they
+dialog: recalled these cars in 1974.
+speaker_heading: JOSIE
+dialog: Thanks.
+speaker_heading: ALDYS
+dialog: Sure. No problem.
+text: Aldys heads to the lot for her car, and then turns around.
+speaker_heading: ALDYS
+dialog: Hey, Josie, how are you at Calculus?
+speaker_heading: JOSIE
+dialog: Petty good.
+speaker_heading: ALDYS
+dialog: How would you like to join The
+dialog: Denominators? The Math Team could
+dialog: really use a new brain. We lost
+dialog: our best logarithm guy last year.
+speaker_heading: JOSIE
+dialog: College?
+speaker_heading: ALDYS
+dialog: NASA.
+dialog: (beat)
+dialog: Plus we have these really fun pizza
+dialog: study groups, and we go to-these
+dialog: all county meets. And, I mean, not
+dialog: that you need it, and without
+dialog: sounding too much like the
+dialog: Godfather, I think we could offer
+dialog: you a certain amount of protection",
+dialog: if you know what I mean. We all
+dialog: kind of stick together and watch
+dialog: out for each other.
+text: Josie smiles.
+scene_heading: MUSIC UP: SCHOOL HOUSE ROCK'S "Magic Three"
+scene_heading: AS WE BEGIN MONTAGE:
+scene_heading: INT. HIGH SCHOOL HALLWAY - DAY
+text: Josie and Denominators walk down the hallway in unison,
+text: past Guy's Group, open their lockers in order a la
+text: "RESERVOIR DOGS", take out paper, pencils, calculators.
+scene_heading: INT. - HIGH SCHOOL HALLWAY - DAY
+text: Josie and Aldys, both wearing big orange Denominator
+text: sweatshirts, are behind a table manning a bake sale.
+text: A banner behind them says: n = 3.14578697786978 Pie = $.75
+text: No one is stopping to buy anything. Josie points to the
+text: left, Aldys looks, and Josie stuffs a whole brownie in her
+text: mouth. They laugh uncontrollably as Josie starts to choke
+dialog: and cough up most of the brownie.
+text: We PAN DOWN a row of nervous looking Denominator faces as
+text: they watch Josie, sitting head to head against a DIGIT, an
+text: opposing Math-a-lon competitor. They both work furiously
+text: on a problem. A judge sits between them. A makeshift
+text: scoreboard hanging off the desk shows the score is tied.
+text: Josie bangs the bell on the desk and hands the judge her
+text: card. He looks it over, and gives her team five points.
+dialog: They win.
+text: The Denominators erupt into cheers. They're jumping all
+text: over Josie, going crazy. As we go wider we see the gym is
+text: entirely empty, except for a handful of Denominators going
+text: crazy on one side, and a janitor sweeping up on the other.
+scene_heading: INT. MALL BOOK STORE - DAY
+text: Smiling at each other, Josie and Aldys clutch books
+text: excitedly and stand in line. WE WIDEN to reveal they're in
+text: line with NERDY ADULTS also clutching their books. At the
+text: head of the line is a blow-up poster for The New Elements
+text: Of Grammar. An OLD MAN signs books for his fans.
+scene_heading: INT. JOSIE'S APARTMENT - NIGHT
+text: It's late. Josie is typing on her laptop, referencing notes
+text: from her notebook. Schoolbooks and homework are spread
+text: around her.
+scene_heading: END MONTAGE.
+scene_heading: INT. CLASSROOM - DAY
+text: Sam is perched on the desk. The usual players in their
+text: usual seats. Aldys is standing and reading from her book.
+speaker_heading: ALDYS:
+dialog: (reading)
+dialog: "All the world's a stage and all
+dialog: the men and women merely players."
+speaker_heading: SAM
+dialog: Anyone have any idea what
+dialog: Shakespeare meant by that?
+text: No one answers.
+speaker_heading: SAM
+dialog: Anyone? Sera ... Megan ... exchange
+dialog: student who doesn't speak English?
+text: We CU on the students, ending on an Asian boy who smiles
+text: wildly at Sam and waves. Sam smiles, and waves back.
+speaker_heading: SAM
+dialog: It's about disguise, playing a
+dialog: part. It's the theme of "As You
+dialog: Like It." Can anyone tell me where
+dialog: we see that?
+speaker_heading: ALDYS
+text: Well, Rosalind disguises herself
+text: as a man and escapes into the
+dialog: forest.
+speaker_heading: SAM
+dialog: Right. And it's when she's in
+dialog: costume that she can finally express
+dialog: her love for Orlando. See,
+dialog: Shakespeare's making the point
+dialog: here that when we're disguised, we
+dialog: feel freer. We can do things we
+dialog: wouldn't do in ordinary life.
+text: CU on Josie's face. She's clearly uncomfortable. Sam walks
+text: up to a huge football player, BRETT.
+speaker_heading: SAM
+dialog: Brett when you go out on the
+dialog: football field in your uniform,
+dialog: what happens?
+speaker_heading: BRETT
+dialog: We win?
+speaker_heading: SAM
+dialog: You hit people. You yell. You touch
+text: other guys' butts.
+text: The class giggles. Brett looks horrified.
+speaker_heading: SAM
+dialog: But it's okay, because you're in
+text: uniform. Disguise changes the rules
+dialog: (beat)
+dialog: I had these Spiderman pyjamas. I
+dialog: thought when I wore them, that I
+dialog: had super powers. One night I tried
+text: to walk up the side of the garage.
+speaker_heading: SERA
+dialog: Did you make it?
+speaker_heading: SAM
+dialog: To the Emergency Room. Yeah.
+text: Josie smiles at this, a little smitten.
+speaker_heading: SAM
+dialog: Josie, why don't you read from Act
+dialog: 5, Scene 2, Rosalind's speech--
+text: Josie stands up, starts reading--
+speaker_heading: JOSIE
+dialog: "No sooner had they met but they
+dialog: looked; no sooner looked but they
+dialog: loved; no sooner loved but they
+dialog: sighed..."
+text: JOSIE'S VOICE BEGINS TO FADE AWAY-
+scene_heading: INT. CLASSROOM - DAY (FLASHEACK)
+text: ANGLE BACK to Josie, now seventeen and mortified, nervously
+text: standing in class and reading a poem. Billy Prince sits to
+text: the side--she glances at him throughout the poem, it's
+text: clearly about him.
+speaker_heading: JOSIE
+dialog: Does he notice me? Does he hear my
+dialog: heart screaming his name-- sometimes
+dialog: it's so loud I think the Gods can
+dialog: hear my pain. His voice is so
+dialog: mellifluous, oh to get just one
+text: small kiss.
+text: The CLASS laughs at her except for Billy, who smiles at
+text: her, looking slightly touched.
+scene_heading: INT. HIGH SCHOOL LIBRARY - DAY (FLASHBACK)
+text: Seventeen-year-old Josie is surrounded by an elaborate,
+text: color-coded index card system for her research paper.
+text: Her friend, SHEILA, over-weight and pimply, comes running
+text: across the library at breakneck speed. She sits down next
+text: to Josie, visibly excited and pushes her index cards aside.
+speaker_heading: SHEILA
+dialog: O.K., what have you wanted for
+dialog: like ever but you didn't think it
+dialog: would -ever happen?
+text: Josie looks at her for a moment, mulling it over.
+speaker_heading: JOSIE
+dialog: That they'd start an Olympic team
+dialog: for grammar - like diagramming
+dialog: sentences and verb declensions and
+dialog: stuff. And I'm scouted for the
+dialog: team- just as an alternate, of
+dialog: course- because I'm so young. But
+dialog: then there's talk of me in the '96
+dialog: games-
+speaker_heading: SHEILA.
+dialog: No-, better. Something better
+text: Josie smiles.
+speaker_heading: JOSIE
+dialog: I'm the most popular girl in school,
+dialog: and Billy Prince is taking me to
+dialog: prom.
+text: Josie laughs at the absurdity. She looks at Sheila. Sheila
+text: is dead serious.
+speaker_heading: SHEILA
+dialog: Yes.
+speaker_heading: JOSIE
+dialog: What?
+speaker_heading: SHEILA
+dialog: Billy Prince is asking you to prom.
+speaker_heading: JOSIE
+dialog: Why?
+speaker_heading: SHEILA
+dialog: I don't know.
+speaker_heading: JOSIE
+dialog: (beat)
+dialog: The poem! I knew he liked the poem!
+dialog: (all sinking in)
+dialog: Billy Prince is asking me to the
+dialog: prom.
+speaker_heading: SHEILA
+dialog: That's what I'm saying.
+text: The two girls look at each other. Big smiles erupt into
+text: screams, as they jump up and down, hugging each other.
+scene_heading: SFX - The BELL RINGS.
+scene_heading: INT. SAM'S CLASSROOM (PRESENT)
+speaker_heading: SAME
+text: It's the end of class. Students pack their bags.
+speaker_heading: SAM
+dialog: (calling out)
+dialog: O.K. - just a reminder. Your paper
+dialog: is due in one week.
+scene_heading: INT. HIGH SCHOOL HALLWAY - SAME
+text: Aldys and Josie head out of class and down the hallway
+text: towards their lockers. Josie stops in front of hers where
+text: the Makeout Couple continues their clinch, blocking her
+text: locker. Josie pauses frustrated as Sydney's Voice comes
+text: over the loudspeaker.
+speaker_heading: SYDNEY (O.S.)
+dialog: Hey guys! Bad news--Chem wing is
+dialog: closed. The Hazardous Materials
+dialog: Crew is on the way. Now, about
+dialog: prom.
+text: The entire hallway STOPS to listen. The makeout Couple
+dialog: stop making out.
+speaker_heading: SYDNEY (O.S.)
+dialog: Please join a committee--because
+dialog: we are going to KICK NORTHGLEN'S
+dialog: BUTT and make millennium the best
+speaker_heading: prom EVER!
+text: The hallway erupts in CHEERS. Josie makes a move to go for
+text: her locker. The Makeout Couple are faster. They're back in
+text: their clinch, blocking Josie again.
+speaker_heading: CU ON GUY
+text: walking with his group.
+speaker_heading: GUY
+dialog: Rufus! Prom is gonna be Rufus.
+speaker_heading: KRISTEN
+dialog: Rufus?
+speaker_heading: GUY
+dialog: Yeah. I made it up. Start using
+dialog: it.
+text: ANGLE BACK ON JOSIE AND ALDYS.
+speaker_heading: JOSIE
+dialog: What is with this school and prom?
+speaker_heading: ALDYS
+dialog: Southglen South competes every
+dialog: year for best prom, and usually
+dialog: they win. We Denominators don't
+dialog: even go to prom. -But to everyone
+dialog: else it's huge.
+speaker_heading: JOSIE
+dialog: Aldys, don't miss your prom--it
+dialog: only happens once.
+speaker_heading: ALDYS
+dialog: This one has been so hyped. We're
+dialog: tied for most wins with Northglen
+dialog: North. This year's winner will
+dialog: determine the winner of the century.
+dialog: The theme is everything. So whatever
+dialog: Southglen picks has to be totally
+dialog: unique--
+scene_heading: INT. NORTHGLEN NORTH HIGH SCHOOL - DAY
+text: KIDS all stare at a loudspeaker.
+speaker_heading: KID'S VOICE: (O.S.)
+dialog: And this year's prom theme is--the
+dialog: millennium!
+text: The Northglen kids go crazy.
+scene_heading: INT. SOUTHGLEN HIGH SCHOOL HALLWAY - SAME
+text: Josie reaches for her knapsack, and realizes she left it
+dialog: in English.
+speaker_heading: JOSIE
+dialog: I left my bag in English. I'll see
+dialog: you later.
+text: Josie dashes down the hallway.
+scene_heading: INT. CLASSROOM - SAME
+text: Sam still sits at his desk. He reads a book. Josie enters.
+speaker_heading: SAM
+dialog: Whoa. Deja Vu.
+speaker_heading: JOSIE
+dialog: Sorry. Forgetful.
+text: Josie picks up her bookbag. She notices the book Sam's
+dialog: reading--
+speaker_heading: JOSIE
+dialog: (excited)
+dialog: Dorothy Parker--
+speaker_heading: SAM
+dialog: You like her?
+speaker_heading: JOSIE
+dialog: I love the way she writes.
+speaker_heading: SAM
+dialog: Not the happiest of souls.
+dialog: (reading out of
+dialog: book)
+dialog: "Art is a form of catharsis, and
+dialog: love is a permanent flop."
+speaker_heading: JOSIE
+dialog: But I think she wanted to be happy,
+dialog: that's why she wrote. I mean, she
+dialog: was still writing about love, right?
+speaker_heading: SAM
+dialog: True. I guess she hadn't completely
+dialog: given up hope.
+dialog: (then)
+dialog: Are you sure you're seventeen?
+speaker_heading: JOSIE
+dialog: Sure, why?
+speaker_heading: SAM
+dialog: Because seventeen-year-olds do not
+dialog: like writers from the '30's. They
+dialog: don't even like people in their
+dialog: 30's.
+speaker_heading: JOSIE
+dialog: Well, I'm definitely seventeen and
+dialog: (off clock)
+dialog: now definitely late--
+text: And she smiles and runs out.
+scene_heading: INT. ALDYS' CAR - NIGHT
+text: Aldys drives, Josie has shotgun and TYKE, Aldys' nine-year-
+text: old sister, is in back. They all hold double-scooped cones
+text: and they all sing FREE TO BE YOU AND ME at full voice.
+speaker_heading: TYKE
+dialog: See, aren't you guys glad you took
+dialog: a break from that Denominator stuff.
+dialog: I mean, you shouldn't be spending
+dialog: your Saturday night studying the
+dialog: whole time.
+speaker_heading: ALDYS
+dialog: we should be spending it thinking
+dialog: of how we can better serve your
+dialog: baby-sitting needs?
+speaker_heading: TYKE
+text: They pull up at a red light, next
+text: to an abandoned drive-in. Josie
+text: peers in, and sees a BIG GROUP OF
+text: KIDS, standing around a bonfire
+text: drinking beers, talking, a few
+text: making out. She opens her window,
+text: sticks her head out, and tries to
+dialog: get a better look.
+speaker_heading: JOSIE
+dialog: What's that?
+speaker_heading: ALDYS
+dialog: That's the old drive-in. They call
+dialog: it "The Court". Now it's just a
+text: continuous party for Guy's group.
+text: ANGLE ON: Gibby and Kristen talking by a car.
+speaker_heading: ALDYS
+dialog: Sometimes I wonder what they talk
+dialog: about.
+speaker_heading: JOSIE
+dialog: Yeah, I know.
+speaker_heading: ALDYS
+dialog: I mean, what if they just stupid
+dialog: to hide the fact that they're
+dialog: actually brainiacs with super powers
+dialog: and they're plotting to take over
+dialog: the world and make my life hell
+dialog: until I die?
+text: ANGLE ON: THE COOL GIRLS.
+speaker_heading: GIBBY
+dialog: No. It's lather, rinse, repeat.
+text: ANGLE BACK ON: ALDYS AND JOSIE
+text: Suddenly, Guy pokes his head in, startling everyone.
+speaker_heading: GUY
+dialog: Wow, if it isn't Alpo. Coming out
+dialog: to sniff some hydrants?
+text: Josie is frozen, but not Aldys.
+speaker_heading: ALDYS
+dialog: Oh, Guy, you on a little break
+dialog: from having an original thought?
+dialog: Ooops, I forgot, that's all the
+dialog: time.
+text: Tyke gets it, and laughs. Guy doesn't get it at all.
+speaker_heading: GUY
+dialog: You guys aren't seriously trying
+dialog: to hang out at The Court?
+speaker_heading: ALDYS
+dialog: oooh, cheap wine coolers and a
+dialog: fire in a trashcan. Where do I
+dialog: sign up?
+speaker_heading: GUY
+dialog: And stay away from prom.
+speaker_heading: ALDYS
+dialog: Last I checked--this was still a
+dialog: free country.
+speaker_heading: TYKE
+dialog: (singing)
+dialog: There's a land that I see, where
+dialog: the children are free-
+text: Guy's right in Aldys' face, leaning over Josie. Aldys starts
+text: to drive away. Guy keeps his head in the window while he
+text: runs alongside the car.
+speaker_heading: GUY
+dialog: Look, geek, why don't you just go
+dialog: home and play with your calculator.
+dialog: Figure out how many lifetimes it
+dialog: will take you to get cool.
+text: Guy stops running, and the car continues down the street.
+scene_heading: INT. CAR  CONTINUOUS
+text: Aldys seems a little shaken, Tyke continues singing.
+speaker_heading: JOSIE
+dialog: Have you ever wanted to go to The
+dialog: Court?
+speaker_heading: ALDYS
+dialog: Are you kidding, Josie? It's lame.
+dialog: All they do is stand around and
+dialog: get drunk. It's lame.
+speaker_heading: JOSIE
+dialog: It is?
+speaker_heading: ALDYS
+dialog: Yes, it's lame.
+speaker_heading: JOSIE
+dialog: Yeah, it sounds lame. Why would we
+dialog: want to go there, and stand around?
+speaker_heading: ALDYS
+dialog: Exactly.
+scene_heading: INT. GUS'S OFFICE - DAY
+text: CLOSE ON a newspaper headline: "THE COURT - SITE FOR
+text: PARTIES, DRUGS AND WEEKEND ARRESTS" - as Gus throws the
+text: newspaper down on his desk.
+text: Josie sits across the desk from him. She reads the headline,
+text: looking very surprised.
+speaker_heading: GUS
+dialog: Josie, I am appalled.
+text: Josie picks up the paper, and starts reading intently.
+speaker_heading: JOSIE
+dialog: Jeez, so am I. I had no idea that
+dialog: these kids- let's see- turn to A14-
+text: She tries to turn to A14, but Gus grabs the paper out of
+text: her hands in a rage.
+speaker_heading: GUS
+dialog: (trying to keep his
+dialog: cool)
+dialog: No, I am appalled that I have a
+dialog: reporter in there, undercover, for
+dialog: almost three weeks now- I had to
+dialog: read about this in the Tribune.
+speaker_heading: JOSIE
+dialog: Oh. Right.
+text: Gus angrily tries to fold the paper back 'up. He's having
+text: a hard time. Josie tries to help, but he yanks it away.
+text: Gus reads aloud from the newspaper.
+speaker_heading: GUS
+dialog: Responding officers found minors,
+dialog: marijuana, and cheap wine coolers
+dialog: when they responded to a call to
+text: break up a party at what Southglen
+dialog: High Schoolers have come to call
+dialog: "The Court." Seventeen-year-old
+dialog: Kristen Rey says, "Yeah, everyone
+dialog: who's anyone is at The Court on
+dialog: Saturday night."
+speaker_heading: JOSIE
+dialog: (disbelieving)
+dialog: Kristen got a quote?
+text: Gus looks up at Josie.
+speaker_heading: JOSIE
+dialog: Yes, urm, she's right. I have
+dialog: learned it is a very popular place
+dialog: for the young people to go.
+speaker_heading: GUS
+dialog: Have you been there?
+speaker_heading: JOSIE
+dialog: Uhh, no.
+speaker_heading: GUS
+dialog: Have you been to any parties?
+speaker_heading: JOSIE
+dialog: Well, how would you define to
+dialog: parties"? Because we ordered a
+dialog: deli platter at this one Denominator
+dialog: drill session--
+text: Gus looks like he may combust. He opens the newspaper,
+text: finds what he's looking for, and shoves it in Josie's face.
+text: It is a picture of all of the popular kids at Southglen-
+text: Kristen, Kirsten, Gibby, Guy- they are all posing for the
+text: picture at The Court, smiling and holding beers.
+speaker_heading: GUS
+dialog: This is where the stories are. You
+dialog: are going to become friends with
+dialog: these people. You are going to
+dialog: party with them. You are going to
+dialog: hang out with them on weekends.
+dialog: When they go to prom, you are going
+dialog: to be in their same damn limo!
+speaker_heading: JOSIE
+dialog: Gus I, the popular kids and I, we
+dialog: just don't- I mean, I don't think
+dialog: I can do this.
+text: He points to the picture in the paper of the Popular Kids.
+speaker_heading: GUS
+dialog: Do you even know these kids?
+speaker_heading: JOSIE
+dialog: (trying)
+dialog: They hid my car--
+text: Gus leans in very close.
+speaker_heading: GUS
+dialog: Get to know them. Very well. Your
+dialog: job and my job depends on it.
+speaker_heading: JOSIE
+dialog: (very small)
+dialog: Depend on it. No s. Your subject
+dialog: is plural.
+speaker_heading: GUS
+dialog: OUT!
+text: Josie grabs her knapsack and does.
+scene_heading: INT. ANITA'S CUBICLE - CONTINUOUS
+text: Josie runs through the bullpen, past Anita's cubicle. ROGER
+text: from op/ed enters. He and Anita smile flirtatiously.
+speaker_heading: ANITA
+dialog: Hi Roger from op/ed--
+speaker_heading: ROGER
+dialog: Hi Anita from classifieds. We still
+dialog: on for tonight?
+speaker_heading: ANITA
+dialog: of course--
+text: And he leans in and kisses her. She pulls away, confused.
+text: A beat. Anita kisses him again. Nothing.
+speaker_heading: ANITA (CONTD)
+dialog: (can't believe she's
+dialog: saying it--)
+dialog: Y'know what? No, I don't think we
+dialog: are on. I think I have to stay
+dialog: home.
+dialog: (liking how it sounds)
+dialog: Yeah. I'm staying home! I don't
+dialog: know what I'll do there, but I'm
+dialog: gonna do it. Alone!
+text: Roger walks off.
+speaker_heading: ROGER
+dialog: (under)
+dialog: Freak.
+scene_heading: EXT. JOSIE'S PARENTS' HOUSE - NIGHT
+text: Rob opens the door still dressed in his Tiki Post outfit.
+text: He takes one look at Josie and knows that things are not
+dialog: good.
+speaker_heading: JOSIE
+dialog: Are mom and dad here?
+speaker_heading: ROB
+dialog: No. They're at the Franklin Hint
+text: Expo at the Skokie Holiday Inn.
+speaker_heading: JOSIE
+dialog: Good.
+text: She shoves her way into the house. Rob follows.
+scene_heading: INT. DEN - CONTINUOUS
+text: Josie storms into the den, and plants herself on the sofa.
+text: She sees that Rob has been watching baseball on T.V., and
+text: she turns it off.
+speaker_heading: JOSIE
+dialog: I can't do it. I thought I could.
+dialog: I can't. I give up--I'm never going
+dialog: to be a reporter.
+text: Rob sits next to her on the couch. He looks up at the T.V.-
+text: which is now off.
+speaker_heading: ROB
+dialog: Did you catch the score?
+text: Josie gives him a look of death.
+speaker_heading: ROB
+dialog: No, I mean, no big whoop.
+speaker_heading: JOSIE
+dialog: I can't do this.
+text: She pulls the article out of her purse, and shoves it at
+text: Rob. He sees the picture of all the popular kids at The
+dialog: Court.
+speaker_heading: ROB
+dialog: These girls are high schoolers?
+dialog: Damn, we've got some underage
+dialog: hotties on our hands, here!
+speaker_heading: JOSIE
+dialog: Gus insists that I become friends
+dialog: with these kids. The popular kids.
+dialog: It's impossible.
+speaker_heading: ROB
+dialog: Why is that impossible?
+text: Josie's eyes get teary.
+speaker_heading: JOSIE
+dialog: Rob, you don't know how it was for
+dialog: me back in high school. No one
+dialog: ever threw juice boxes at you in
+dialog: the hallway. You never dreamed
+dialog: about being popular- you already
+dialog: were. All I wanted was to be
+dialog: accepted, and they just fucking
+dialog: tortured me. I can't do all that
+dialog: again. I can't go back to Southglen
+dialog: South.
+speaker_heading: ROB
+dialog: Oh my God! You're at Southglen
+dialog: South? They have a killer baseball
+dialog: team.
+speaker_heading: JOSIE
+dialog: Rob. Please focus.
+text: He puts his arm around her.
+speaker_heading: ROB
+dialog: Jos, you've been to college, you're
+dialog: successful, you wash your hair now--
+dialog: you're not Josie Grossie anymore.
+speaker_heading: JOSIE
+dialog: Don't you realize how much I wanted
+dialog: to be you in high school? Just for
+dialog: one minute to feel what it was
+dialog: like to be popular?
+speaker_heading: ROB
+dialog: Come on! It's not that hard. All
+dialog: you need is one person. Once the
+dialog: right person thinks you're cool,
+dialog: you're in. Everyone else will be
+text: too scared to question it.
+speaker_heading: JOSIE
+dialog: Is that true?
+speaker_heading: ROB
+dialog: Little known fact.
+text: Josie takes this in.
+speaker_heading: ROB
+dialog: Look, don't you wanna show them -
+dialog: Gus, Billy Prince, yourself--that
+dialog: you're not freaked out by the cool
+dialog: kids anymore? That you can go in
+dialog: there, be friends with them, and
+dialog: get your story?
+speaker_heading: JOSIE
+dialog: Yes, desperately.
+speaker_heading: ROB
+dialog: Plus, if you quit you're no better
+dialog: than me.
+speaker_heading: JOSIE
+dialog: Better than I...
+speaker_heading: ROB
+dialog: That's the spirit!
+scene_heading: EXT. HIGH SCHOOL PARKING LOT - NEXT MORNING
+text: Josie approaches the school. She's clearly made a new
+text: attempt at style- she's teetering on too-high platform
+text: shoes and showing a blending white midriff. No one pays
+text: much attention to her.
+text: GEORGE, thirty-something African-American, the epitome of
+text: cool, waves Josie over to an open van side door. Josie
+text: looks confused and scurries to the van.
+speaker_heading: JOSIE
+dialog: (sotto)
+dialog: George! What are you doing here?
+speaker_heading: GEORGE
+dialog: Just get in the van, Josie.
+scene_heading: INT. GEORGE'S VAN - MOMENTS LATER
+text: High-tech surveillance wonderland meets seventies living
+text: room. Tape players and monitors share space with shag
+text: carpeting and a mini-fridge. Barry White PLAYS on a TAPE.
+text: George starts to wrap wire around Josie's waist. He pins a
+text: kid's plastic "captain's wings" onto her collar.
+speaker_heading: JOSIE
+dialog: What is this?
+speaker_heading: GEORGE
+text: Hidden camera.
+speaker_heading: JOSIE
+dialog: Wings?
+speaker_heading: GEORGE
+dialog: We used it for our expose on
+dialog: overweight flight attendants--"Is
+dialog: That Why They Never Give You a
+dialog: Second Bag of Nuts?"
+speaker_heading: JOSIE
+dialog: I'm not doing this until I speak
+dialog: with Gus.
+speaker_heading: GUS (O.S.)
+dialog: (through speaker)
+dialog: Geller, stop being a pain in the
+dialog: ass.
+text: Josie looks all around.
+speaker_heading: JOSIE
+dialog: Gus?
+speaker_heading: GUS (O.S.)
+dialog: No, it's the Great and Powerful
+dialog: Oz. Now listen--you're in over
+dialog: your head. This is how it's gonna
+dialog: work. I review the tapes, I find
+dialog: your story.
+speaker_heading: JOSIE
+dialog: What if I say no?
+speaker_heading: GUS (O.S.)
+dialog: I bet Good Housekeeping would go
+text: gaga over the cole slaw piece.
+text: Off Josie's look of concern...
+scene_heading: EXT. SCHOOL - MINUTES LATER
+text: A crush of kids flood up the stairs to the front door of
+text: the school. We see Kirsten, Kristen and Gibby walking three
+text: abreast ahead of Josie up the stairs. The Crowd parts around
+text: them. Josie heads towards them.
+speaker_heading: JOSIE
+dialog: Hey! Kirsten, Kristen, Gibby--
+dialog: What's up girlfriends?
+text: The three girls pause and turn just as Josie, caught up in
+text: the moment, doesn't see a stray backpack on the stairs in
+text: front of her. Josie trips and--
+speaker_heading: JOSIE-CAM POV:
+text: The CAMERA FACE-PLANTS into the pavement.
+scene_heading: INT. GEORGE'S VAN - SAME
+text: George watches the monitor, winces.
+speaker_heading: JOSIE-CAM POV:
+text: The CAMERA still faces the pavement.
+speaker_heading: JOSIE (O.S.)
+dialog: (small)
+dialog: I'M OKAY.
+scene_heading: INT. COULSOM'S CLASSROOM - LATER
+text: Josie is standing, reading from her paper. Sam is rapt.
+speaker_heading: JOSIE
+text: And so it is Rosalind, in disguise,
+dialog: who is best able to see through
+dialog: the disguises of others. To say to
+dialog: Phebe, "Mistress, know thy self,"
+dialog: to look at love from every angle,
+dialog: and to realize, finally, that she
+dialog: is in love with Orlando--
+text: The BELL RINGS. Class is over. Josie puts her stuff away
+text: and starts to follow the Cool Girls out.
+speaker_heading: JOSIE
+dialog: Hey guys, wait up--
+text: The Girls keep moving. Sam stops Josie.
+speaker_heading: SAM
+dialog: Hey, Josie, hold on.
+dialog: (then)
+dialog: You've been hiding something from
+dialog: me.
+speaker_heading: JOSIE
+dialog: Oh I don't think so.
+speaker_heading: SAM
+dialog: Your writing. It's amazing, Josie.
+dialog: You're really talented. And far
+dialog: less depressing than Dorothy Parker.
+speaker_heading: JOSIE
+dialog: Thank you.
+speaker_heading: SAM
+dialog: So what are you thinking for
+dialog: college?
+speaker_heading: JOSIE
+dialog: College. Haven't really thought
+dialog: about it.
+speaker_heading: SAM
+dialog: That's crazy. I'll get you some
+dialog: applications.
+speaker_heading: JOSIE
+dialog: Oh no no no no no. See, my family,
+dialog: we don't go to college.
+dialog: (beat)
+dialog: We just go right into sheep herding.
+speaker_heading: SAM
+dialog: Josie you owe it to yourself to
+dialog: go. For your writing. You're a
+dialog: natural.
+speaker_heading: JOSIE
+dialog: Thanks. Wow. That's--really nice
+dialog: to hear.
+speaker_heading: SAM
+dialog: Josie, you're different. When you
+dialog: speak in class, I can tell--You
+dialog: actually feel the words--
+dialog: (touching heart)
+dialog: in here. They're alive. Like-Eurdora
+dialog: Welty talked about the word it
+dialog: moon"? How for her it was like a
+dialog: Concord grape. "That Grandpa took
+dialog: off his vine and gave to me to
+dialog: suck out of its skin--"
+speaker_heading: SAM/JOSIE
+dialog: It --and swallow whole."
+text: They both take a breath in. Look away from each other.
+scene_heading: INT. GEORGE'S VAN  SAME
+text: George watches the monitor.
+speaker_heading: GEORGE
+dialog: Uh oh.
+scene_heading: INT. GUS'S OFFICE - AFTERNOON
+text: Anita sits on Gus's desk, watches the last scene on Gus's
+text: TV, engrossed. Gus walks in and stops the tape.
+speaker_heading: GUS
+dialog: Showtime's over! Move-it! Back to
+dialog: work!
+text: Anita climbs off his desk.
+speaker_heading: ANITA
+dialog: Gus, have you ever been in love?
+speaker_heading: GUS
+dialog: Leave.
+speaker_heading: ANITA
+dialog: Oh give it up, Gus. I'm just making
+dialog: conversation.
+speaker_heading: GUS
+dialog: Love. Who knows what that is? Now
+dialog: circulation, deadlines, those I
+dialog: understand.
+speaker_heading: ANITA
+dialog: You should go out every now and
+dialog: then, Gus; with some new ties the
+dialog: girls would be all over you.
+text: Gus stares down at his tie. But he's smiling--a little.
+speaker_heading: GUS
+dialog: Go away. I have enough work here
+dialog: to last me all night.
+speaker_heading: ANITA
+dialog: Listen, I don't have any plans--
+dialog: you want some help?
+speaker_heading: GUS
+dialog: No Roger from op/ed?
+speaker_heading: ANITA
+dialog: Nope.
+text: They share a smile.
+scene_heading: INT. HIGH SCHOOL HALLWAY  DAY
+text: Josie walks toward her locker, the Make out Couple is at
+text: it again. Josie's fed up. She taps the Boy on his shoulder.
+speaker_heading: JOSIE
+dialog: Excuse me. Hi. Do you guys have
+dialog: some kind of schedule I could work
+dialog: around?
+text: He ignores Josie and goes back to his Girlfriend.
+text: Aldys, in her Denominator sweatshirt decorated with pins,
+text: approaches Josie.
+speaker_heading: ALDYS
+dialog: Hey, where's your sweatshirt?
+speaker_heading: JOSIE
+dialog:  uhh, must have forgotten-
+speaker_heading: ALDYS
+dialog: No biggie. I have an extra in my
+dialog: locker. I'll get it for you.
+text: She starts to leave.
+speaker_heading: ALDYS
+dialog: Oh  I almost forgot  I'll see
+dialog: you tonight at Big Cup. 7:30, right?
+text: Josie looks confused.
+speaker_heading: ALDYS
+dialog: Remember, that poet that we liked
+dialog:  the reading he's doing at Big
+dialog: Cup? I got us tickets.
+speaker_heading: JOSIE
+dialog: Right. 7:30.
+speaker_heading: ALDYS
+dialog: I'm late for lab.
+text: Aldys takes off. Josie looks down the hall, where Guy,
+text: Kristen and the others are all looking at a flyer pasted
+text: to the wall.
+speaker_heading: GUY
+dialog: That is gonna be such a sweet show.
+dialog: I am so there.
+text: Guy looks at Tommy and Jason, who f follow his lead.
+speaker_heading: TOMMY
+dialog: Oh, yeah, man, I'll drive.
+speaker_heading: JASON
+dialog: It's gonna be Rufalicious.
+speaker_heading: GUY
+dialog: (beat)
+dialog: You're using it wrong.
+text: They head off, en masse. Josie goes and looks at the flyer:
+text: "JIMMY CLIFF TONIGHT AT DELLOSER HALL". Josie smiles.
+scene_heading: EXT. CLUB/DELLOSER HALL - NIGHT
+text: Marquee reads "Jimmy Cliff." A crowd has gathered by the
+text: door. Josie gets out of cab, and walks towards the club.
+scene_heading: INT. CLUB/DELLOSER HALL - NIGHT
+text: Josie enters the small, smoky club. She wears what she
+text: considers to be her "hip concert outfit," an outfit that
+text: completely clashes with the Rasta wear of the other concert
+text: goers. -She reaches the BOUNCER.
+speaker_heading: BOUNCER
+dialog: You Drinking?
+text: Josie notices the two Stoners from school standing behind
+text: her in line.
+speaker_heading: JOSIE
+dialog: I am not 21. I am only seventeen
+dialog: and I still attend high school.
+text: The bouncer stamps her hand. She looks down at her hand.
+text: WE CU ON her hand, reading DELLOSER.
+text: She enters as the two Stoners approach the Bouncer.
+speaker_heading: BOUNCER
+dialog: Two of you?
+text: A beat as the Stoners look at each other, realizing...
+speaker_heading: STONER 1
+dialog: (to Stoner 2)
+dialog: Oh, Dude--
+text: And they run out of the club.
+scene_heading: INT. CLUB/DELLOSER HALL - SAME
+text: JIMMY CLIFF is playing. The crowd sits at tables, grooving.
+text: Josie approaches the bar. A guy turns around--it's Sam.
+speaker_heading: SAM
+text: Josie--out on a school night.
+text: A woman, LARA, emerges from the crowd. And puts her arm
+text: around SAM. An awkward beat.
+speaker_heading: LARA
+dialog: Hi.
+speaker_heading: JOSIE
+dialog: Hi.
+speaker_heading: SAM
+dialog: Oh, right, sorry. Lara--Josie.
+dialog: Josie--Lara.
+dialog: (to Lara)
+dialog: Josie's a student of mine.
+dialog: (to Josie)
+dialog: Lara's my-date.
+speaker_heading: LARA
+dialog: Nice to meet you.
+text: Another awkward pause.
+speaker_heading: LARA
+dialog: C'mon, c'mon, let's go dance.
+text: The crowd roars over Cliff's next song as Lara drags San
+text: off into the crowd. Sam looks back briefly at Josie as we
+text: lose him into the crowd.
+speaker_heading: ANGLE ON JOSIE
+text: She sees Guy's group sitting at a table and approaches an
+text: empty seat. They immediately scoot around so that the seat
+text: is taken. Undeterred, Josie sees a seat at the next table
+text: and sits down in it. She looks up to see that she is at a
+text: table of huge RASTAFARIANS. They all wear big Rasta hats
+text: and even bigger hair and are smoking a joint the size of
+text: Cuba. She smiles awkwardly.
+speaker_heading: JOSIE
+dialog: Hi. Is it okay if I sit here?
+speaker_heading: RASTA #1
+dialog: Oh, ya mon. We accept all peoples.
+dialog: We are all about da' love.
+text: Josie and the Rasta's start to groove to the music. Josie
+text: looks over at Guy's table, sees they are toking off a small
+text: joint and passing it around.
+scene_heading: INT. GEORGE'S VAN - CONTINUOS
+text: George and his DATE, a Pam Grier look-alike, sit close on
+text: the couch, grooving to the CONCERT PLAYING on the monitor
+text: and through the various speakers. CU on the monitor.
+speaker_heading: JOSIE-CAM POV:
+text: The joint the size of Cuba is passed INTO FRAME. Josie's
+text: hand takes it. Catching sight of this, George and his Date
+text: exchange concerned looks.
+scene_heading: SMASH CUT TO:
+scene_heading: INT. CLUB/DELLOSER HALL - LATER
+text: Josie is high beyond belief, wearing a big Rasta hat and
+text: loudly laughing her ass off as the Rastas just stare. She
+text: can hardly keep herself in her chair.
+speaker_heading: JOSIE
+dialog: Get it?! Get it?! He was a
+dialog: firecracker!
+text: She lifts up Rasta 1's dreadlocks to get his ear.
+speaker_heading: JOSIE
+dialog: (yelling)
+text: A FIRECRACKER!
+text: And she cracks up again.
+speaker_heading: RASTA #1
+dialog: (to Rasta #2)
+dialog: I don't love her.
+text: Rastas share looks ill around. Then Josie hears the first
+dialog: strains of "The Harder They Come"--
+speaker_heading: JOSIE
+dialog: Oh my God! This music rules!
+text: And Josie proceeds to get up and take over the place--she's
+text: dancing on the table, getting up with the band and playing
+text: the bongos, all with absolutely no rhythm or style. But
+text: with a lot of whooping. The club is agog.
+text: ANGLE ON: Lara and Sam. They both look aghast.
+speaker_heading: LARA
+dialog: She's a student of yours?
+speaker_heading: SAM
+dialog: (in explanation)
+dialog: She's from Bali.
+text: And as Josie continues to dance on stage, making a total
+text: fool of herself, Jimmy Cliff turns to CAMERA.
+speaker_heading: JIMMY
+dialog: Freak.
+scene_heading: INT. JOSIE'S APARTMENT - LATER
+text: Josie is on the phone, and is in the process of finishing
+text: an entire pie.
+speaker_heading: JOSIE
+dialog: I'm telling you, Rob! I think I
+dialog: did it! I'm totally in! I was soo
+dialog: cool tonight! You'd be so--
+dialog: (staring at fork)
+dialog: You know what's a weird word? Fork.
+dialog: (then)
+dialog: Wait! Wait! Did I tell you about
+dialog: my new friends? I made friends
+dialog: with a whole table of Rastafarians!
+dialog: Not one, a whole table!
+dialog: (noting empty pie
+dialog: plate, suddenly
+dialog: serious)
+dialog: Oh. My. God. Someone ate my entire
+dialog: pie.
+speaker_heading: DISSOLVE TO:
+scene_heading: INT. JOSIE'S APARTMENT - NEXT MORNING
+text: Josie is asleep where we left her, her head on her hand,
+text: empty pie plate nearby.
+text: She wakes, picks her head up. Looks down at her hand, the
+text: DELLOSER stamp is faint. CLOSE UP ON her forehead. There
+text: in block letters backwards is "LOSER".
+text: She looks up at the clock, which reads: 8:30. She's late.
+text: Very late. She grabs her book bag and her keys, and races
+dialog: out.
+scene_heading: INT. HIGH SCHOOL HALLWAY - MORNING
+text: Josie strides confidently down the hallway, LOSER
+text: prominently on her forehead. She sees Guy and his Group.
+speaker_heading: JOSIE
+dialog: Hi Guy. Guys. Guy's Guys.
+text: They stare, then snicker.
+speaker_heading: GUY
+dialog: Hi loser.
+text: The group laughs and joins in, saying "Hey Loser." Josie's
+text: face registers confusion.
+speaker_heading: JOSIE-CAM POV:
+text: We move slowly down the packed hallway, the CAMERA shifting
+text: nervously amidst a sea of laughing kids. The LAUGHTER starts
+speaker_heading: to ECHO.
+text: Josie starts to walk quickly, then run, through the gauntlet
+text: of' laughing and pointing kids.
+scene_heading: INT. GEORGE'S VAN - CONTINUOUS
+text: WE HEAR THE LAUGHING, the JOSIE CAM JERKS frantically from
+text: KID to KID.
+speaker_heading: GEORGE
+dialog: This can not be good--
+scene_heading: INT. HIGH SCHOOL HALLWAY - CONTINUOUS
+text: JOSIE CAM P.O.V. WE HEAR Josie BREATHING HEAVILY as she
+text: runs past KIDS who all stare or LAUGH. She makes it to the
+text: Girls Room, pushes open the door.
+scene_heading: INT. GIRLS' BATHROOM - CONTINUOUS
+text: Josie goes to the sink, splashes water on her face.
+scene_heading: INT. GEORGE'S VAN CONTINUOS
+text: George watches the monitor, HANDS splash water. A HAND
+text: grabs a paper towel. George can now see Josie reflected in
+text: the bathroom mirror. He sees the "LOSER" stamp on her
+dialog: forehead.
+speaker_heading: GEORGE
+dialog: Oh man. Look up, girl. C'mon, Look
+dialog: up--
+scene_heading: INT. GIRLS' BATHROOM - CONTINUOUS
+text: Josie wipes her mouth. Throws the towel away. Goes to exit--
+scene_heading: INT. GEORGE'S VAN - CONTINUOUS
+text: George is now apoplectic.
+speaker_heading: GEORGE
+text: LOOK IN THE MIRROR!
+scene_heading: INT. BATHROOM - CONTINUOUS
+text: Josie pauses, goes back to the mirror. She looks up. Sees
+text: the stamp. Her hand goes to her mouth in horror. She runs
+text: into a stall.
+scene_heading: JOSIE CAM P.O.V.: WE FACE the toilet.
+scene_heading: INT. GEORGE'S VAN - CONTINUOUS
+text: George looks at the monitor in amazement.
+scene_heading: INT. GUS'S OFFICE - DAY
+text: A Group is watching Gus's TV, including Burns (the hair
+text: plug man) AND HOWARD (arm casts). They are slack-jawed in
+text: shock. WE HEAR O.S. the SOUNDS of Josie VOMITING. Gus shakes
+text: his head sadly.
+speaker_heading: GUS
+dialog: It's like the All-Humiliation
+dialog: Network.
+text: They all nod in agreement.
+scene_heading: INT. GIRLS' BATHROOM - MINUTES LATER
+text: Josie is in the fetal position on the floor of a stall.
+scene_heading: INT. DEN - NIGHT (FLASHBACK)
+text: The den of Josie's parents' home. Josie is decked out.
+text: She's wearing a pretty hideous metallic pink dress, matching
+text: gloves, bag, shoes. She's shining her braces, using the
+text: T.V. screen as a mirror. The PHONE RINGS. Josie grabs it.
+speaker_heading: JOSIE
+dialog: (into phone)
+dialog: Hey, Billy. I'm ready. Sure, I can
+dialog: just wait for you on the front
+dialog: porch. See you in a -uhh- jiffer.
+text: She hangs up. Sixteen year old Rob, very cute and buff,
+text: enters. His pretty GIRLFRIEND is on his arm.
+speaker_heading: GIRLFRIEND
+dialog: (mouthing to Rob)
+dialog: Jiffer?
+text: Rob just shrugs.
+scene_heading: EXT. JOSIE'S FRONT PORCH NIGHT (FLASHBACK)
+text: Josie, in all her prom splendor, waits out on the front
+dialog: porch for her date.
+text: She sees a LONG, BLACK LIMO turn the corner, headed for
+text: the house. She's hopping up and down with excitement. She
+text: checks her reflection in her compact, and then watches the
+text: limo approach.
+text: The sunroof of the limo opens and Billy Prince, the Adonis
+text: of the suburbs, stands up, sticking out of the sunroof. He
+text: waves. Josie smiles and waves back.
+text: Then, another figure joins Billy's. It's a GORGEOUS BLONDE
+text: in a slinky dress. She's standing up, sticking out of the
+text: sunroof as well. Josie looks a bit confused, but still
+text: tries to smile. Then, she sees them holding things. LITTLE
+text: THINGS. LITTLE WHITE THINGS.
+text: Before Josie realizes what's going on, her metallic ensemble
+text: is covered in dripping, oozing eggs. One whacks her right
+text: in her trifocals.
+speaker_heading: BILLY
+dialog: (shouting)
+dialog: Hey, write a poem about this!
+text: Billy and his date lob a few more eggs, and their limo
+text: roars off. Josie stands on the porch, alone. She's got egg
+text: in her hair, on her face, all over her dress- everywhere.
+text: She starts to cry. Softly at first, moving into big, loud,
+text: wet sobs. She sits down on the porch, her head in her hands,
+text: and just keeps crying.
+scene_heading: DISSOLVE BACK TO:
+scene_heading: INT. HIGH SCHOOL HALLWAY - (PRESENT) - DAY
+text: Homeroom has just gotten out, and the halls are packed
+text: with kids. Josie is running full speed, trying to negotiate
+text: around lots of kids, in her frantic-race for the door.
+text: Kids still point and stare.
+text: She bangs into some freshmen, gets whacked by a book bag,
+text: slides some banners that kids are painting - but she won't
+dialog: slow down.
+text: Just as she's almost at the doors to the school, the BIG
+text: WOODEN DOOR to the front office opens. Josie can't stop. A
+text: figure emerges, but before Josie can even see who it is,
+text: she slams into it and goes down. She bangs her head on the
+text: hard linoleum floor.
+scene_heading: INT. HIGH SCHOOL HALLWAY - (PRESENT) - DAY
+text: Homeroom has just gotten out, and the halls are packed
+text: with kids. Josie is running full speed, trying to negotiate
+text: around lots of kids, in her frantic-race for the door.
+text: Kids still point and stare.
+text: She bangs into some freshmen, gets whacked by a book bag,
+text: slides some banners that kids are painting - but she won't
+dialog: slow down.
+text: Just as she's almost at the doors to the school, the BIG
+text: WOODEN DOOR to the front office opens. Josie can't stop. A
+text: figure emerges, but before Josie can even see who it is,
+text: she slams into it and goes down. She bangs her head on the
+text: hard linoleum floor.
+speaker_heading: DISSOLVE TO:
+speaker_heading: JOSIE-CAM POV:
+text: WE SEE two KIDS looking down into the camera.
+speaker_heading: JASON
+dialog: Hey--you okay?
+text: Camera nods "yes" slowly. Tommy and Jason come into frame.
+speaker_heading: TOMMY
+dialog: Wow. You took a pretty big fall.
+speaker_heading: JASON
+dialog: Yeah. Like every loser should. And
+text: they move out of frame, laughing.
+speaker_heading: JOSIE
+dialog: As every loser should.
+speaker_heading: VOICE
+dialog: Are you O.K.? Josie, are you O.K.?
+text: Rob comes into frame.
+scene_heading: INT. HIGH SCHOOL HALLWAY - CONTINUOUS
+text: Rob is bent over Josie. She rubs her eyes.
+speaker_heading: JOSIE
+dialog: I've been in a horrible accident.
+text: This is a coma-induced nightmare.
+speaker_heading: ROB
+dialog: No. Josie, this is real.
+text: She looks up.
+speaker_heading: JOSIE
+dialog: Oh my God! That's worse!
+dialog: (beat)
+dialog: What are you doing here?!
+text: Rob leans in and whispers to Josie.
+speaker_heading: ROB
+dialog: I just registered.
+text: Rob whips out his fake ID and shows it to her.
+speaker_heading: ROB
+dialog: (proudly)
+text: Manufactured at the Tiki Post.
+text: Rob helps Josie up.
+speaker_heading: JOSIE
+dialog: Are you crazy?! You can't do this.
+speaker_heading: ROB
+dialog: This is it Jos! This is my ninth
+dialog: inning! The game isn't over--I
+dialog: just thought it was! I get on the
+dialog: Southglen baseball team, the right
+dialog: scout sees me-- I'm into the minors-
+dialog: it's game time!
+speaker_heading: JOSIE
+dialog: You're twenty-three years old!
+speaker_heading: ROB
+dialog: With the reading comprehension of
+dialog: a fifteen year old! Plus, I'm
+dialog: popular... You want to be popular...
+dialog: I can recognize a cry for help
+dialog: when I see one.
+speaker_heading: JOSIE
+dialog: Hear one.
+dialog: (then)
+dialog: Rob, this is so like you. You know,
+dialog: you can't just come in here and be
+dialog: popular in just one day.
+scene_heading: SMASH CUT TO:
+scene_heading: INT. CAFETERIA - LATER
+text: Josie emerges from the cafeteria line with her tray. A
+text: LOUD CHANT comes from one of the tables.
+speaker_heading: CROWD
+speaker_heading: ROB, ROB, ROB
+text: She turns to see Rob in the middle of a hot dog eating
+text: contest with a HUGE WRESTLER. Rob downs his last one, raises
+text: his hands in victory. The CROWD goes WILD. Rob sits down
+text: at Guy's table.
+speaker_heading: JOSIE
+dialog: Oh my god.
+scene_heading: ANGLE ON GUY'S TABLE
+speaker_heading: GUY
+dialog: Dude, you rock!
+text: He high-fives Rob. A pretty girl, TRACY approached Rob.
+speaker_heading: TRACY
+dialog: Hi. I'm Tracy and I'm sixteen and
+dialog: I'm a gymnast and I don't have a
+dialog: boyfriend...
+speaker_heading: ROB
+dialog: (looks skyward,
+dialog: mouths)
+dialog: Thank you.
+dialog: (Then , to Tracy)
+dialog: I'm Rob.
+speaker_heading: TRACY
+dialog: Duh.
+scene_heading: ANGLE BACK ON JOSIE
+text: Aldys approaches.
+speaker_heading: ALDYS
+dialog: Hey  where were you last night? I
+dialog: was worried.
+text: Josie can't take her eyes off Rob sitting at Guy's table.
+text: Aldys notices Josie's distraction.
+speaker_heading: JOSIE
+dialog: What?
+speaker_heading: ALDYS
+dialog: Last night. 7:30. Big Cup. I kept
+dialog: calling you, but I only got your
+dialog: machine. I don't even know your
+dialog: parents line and I was really
+dialog: worried.
+speaker_heading: JOSIE
+dialog: Oh. I forgot.
+text: Aldys is really hurt.
+speaker_heading: ALDYS
+dialog: Well, maybe you should forget about
+dialog: sitting with us too.
+text: Josie just stands there all alone.
+scene_heading: EXT. TRACK - LATER
+text: Girls P.E. is over. The girls head back to the locker room.
+text: Josie lags behind the group, and then wanders over to the
+text: baseball diamond, where she hears a bunch of hoots and
+text: hollers.
+scene_heading: EXT. BASEBALL DIAMOND - SAME
+text: The team is practicing. Rob has just hit a home run with
+text: three men on. EVERYONE CHEERS him on as he runs the bases.
+text: As he comes into home, he is met with congrats, high fives.
+dialog: Everyone loves him.
+text: Josie watches the whole scene, seething with jealousy.
+scene_heading: INT. GIRLS' LOCKER ROOM - LATER
+text: Josie, post-shower, is wrapped in a towel and carrying her
+text: sweaty gym clothes. A group of GIRLS walk by her, giggling
+text: as they exit. She approaches her locker and finds it ajar
+text: and completely empty. She looks from the empty locker down
+text: to the sweaty clothes in her hand. A realization sweeps
+text: over her face.
+scene_heading: INT. HIGH SCHOOL HALLWAY - LATER
+text: Josie shuffles down the hall, still wearing her cheesy
+text: green and yellow gym clothes. She is clearly beaten. She
+text: looks down the hall, stunned.
+text: It is ridiculous Rob is being followed by a posse, everyone
+text: knows his name. Girls tug on his shirt, guys slap him on
+text: the back or high-five him.
+speaker_heading: JASON
+dialog: Hey, Rob.
+speaker_heading: TOMMY
+dialog: Robster, what's up?
+speaker_heading: BRETT
+dialog: The Rob man. My man Rob.
+speaker_heading: GIBBY
+dialog: Hey, Robbie.
+speaker_heading: KRISTEN
+dialog: Hi there Robbie Rob.
+text: Josie sees Guy approach Rob, and shake his hand.
+speaker_heading: GUY
+dialog: Hey Robo- how's it going?
+speaker_heading: ROB
+dialog: Nice pants, man. They are rufus.
+text: Guy smiles. Josie looks like she's going to hurl. She looks
+text: down the hall the other way- where a huge banner hangs
+dialog: that reads:
+scene_heading: "IMPEACH SYDNEY ANAKOWSKI. ELECT ROB STUDENT BODY PRESIDENT.
+speaker_heading: TRACY
+dialog: Hey Rob, see you at the carnival
+dialog: later?
+speaker_heading: STONER 1
+dialog: It's Robilicious!
+text: Josie looks on the wall next to her- and sees a list:
+scene_heading: "FINAL CAST LIST FOR HAMLET. HAMLET . . . ROB."
+speaker_heading: JOSIE
+dialog: Oh, please.
+text: Josie has seen enough, and walks on.
+scene_heading: EXT. CARNIVAL GROUNDS - NIGHT
+text: Establishing shot of a smallish carnival, Ferris wheel,
+text: midway, tea cups ride. Near the entrance reads a banner:
+scene_heading: "SOUTHGLEN HIGH SENIOR NIGHT".
+scene_heading: EXT. CARNIVAL MIDWAY - SAME
+text: Aldys and the Denominators stand in front of a booth that
+text: displays a large glass jar of jellybeans. Calculators and
+text: paper out, they're engrossed in find the answer.
+text: Josie walks by alone. The Denominators don't notice her.
+scene_heading: EXT. THE FERRIS WHEEL - SAME
+text: WE PAN DOWN the line of KIDS waiting to ride the Ferris
+text: wheel. In front are Tommy, Jason, Gibby and Kirsten.
+speaker_heading: KIRSTEN
+dialog: This has been so much fun! We've
+dialog: been first in line for every ride!
+speaker_heading: TOMMY
+dialog: That's cuz we cut every line.
+text: WE PAN DOWN to the end of the line, where we find Josie,
+text: standing alone. She's trying her best to keep her game
+text: face on. The CARNY opens the gate, the Kids pile onto the
+text: ride, two by two. Josie reaches an empty car--the last one--
+text: and gets in. The Carny holds the safety bar open.
+speaker_heading: CARNY
+dialog: Where's your partner?
+speaker_heading: JOSIE
+dialog: I don't--I don't have one--
+speaker_heading: CARNY
+dialog: (yelling loudly)
+text: I GOT A LONELY RIDE IN BUCKET SEVEN!
+dialog: (to Crowd)
+speaker_heading: SINGLE!
+speaker_heading: JOSIE
+dialog: Do you have to yell like that?
+text: Sam, standing by a vendor, looks over and notices Josie's
+dialog: predicament.
+speaker_heading: TOMMY (O.S.)
+dialog: Of course it's Loser that's holding
+dialog: up the ride!
+text: Sam walks up to the Josie's bucket.
+speaker_heading: SAM
+dialog: This seat taken?
+speaker_heading: JOSIE
+dialog: (relieved)
+dialog: Thank you.
+text: He gets in. The ride JERKS into motion.
+speaker_heading: SAM
+dialog: (nervous)
+dialog: Whoa.
+text: They start a slow ascent. Sam seems ill at ease.
+speaker_heading: JOSIE
+dialog: Are you--scared?
+speaker_heading: SAM
+dialog: I'm gonna tell you something here,
+dialog: and I hope it doesn't undermine my
+dialog: position as an authority figure.
+dialog: I'm a little afraid of heights.
+speaker_heading: JOSIE
+dialog: You're afraid of the Ferris wheel.
+speaker_heading: SAM
+dialog: Actually, it's more the plunging
+text: head first into the crowd part
+dialog: that gets me.
+speaker_heading: JOSIE
+dialog: Oh right. The Spiderman incident.
+speaker_heading: SAM
+dialog: (touched)
+dialog: You remember that story?
+speaker_heading: JOSIE
+dialog: Of course. I remember everything
+dialog: from your class.
+text: They smile at each other. The smile is interrupted by a
+text: HEAVY SWAYING of their bucket, caused by Tommy ROCKING in
+text: the bucket ahead. Sam looks a little green.
+speaker_heading: SAM
+dialog: Yoooooow.
+speaker_heading: JOSIE
+dialog: Don't look down!
+text: They're facing the ground at this point.
+speaker_heading: SAM
+dialog: Out of my control.
+dialog: (yelling to Tommy)
+text: TOMMY! CUT IT OUT! ENOUGH!
+text: Tommy stops. Sam turns to Josie.
+speaker_heading: SAM
+dialog: (defensive)
+dialog: I said that as a chaperone.
+text: They start to ascend again. Sam relaxes.
+speaker_heading: SAM
+dialog: Okay This is okay. Smooth.
+dialog: (then)
+dialog: Can I ask you something? Do you
+dialog: think I tell too many stories in
+dialog: class?
+speaker_heading: JOSIE
+dialog: That's what makes you interesting.
+dialog: (beat, recovering)
+dialog: As a teacher.
+speaker_heading: SAM
+dialog: God, I would love to think I'm an
+dialog: interesting teacher. I mean, I had
+dialog: maybe one or two teachers in high
+dialog: school who had any passion at all.
+speaker_heading: JOSIE
+dialog: You do. Seem to. Have passion. In
+dialog: the classroom.
+speaker_heading: SAM
+dialog: You have to say that. You're my
+dialog: student.
+speaker_heading: JOSIE
+dialog: I don't have to say that.
+text: They look into each other's eyes just as Tommy RATTLES his
+text: bucket ruthlessly.
+speaker_heading: TOMMY (O.S.)
+scene_heading: IF THE BUCKET'S A-ROCKIN', DON'T
+scene_heading: COME-A KNOCKIN'.
+text: Josie and Sam laugh uncomfortably.
+speaker_heading: SAM
+dialog: Boys.
+speaker_heading: JOSIE
+dialog: I know.
+speaker_heading: SAM
+dialog: I'd like to tell you that we all
+dialog: grow out of it, but that's a lie.
+dialog: Some of us will always be rattling
+dialog: cages.
+speaker_heading: JOSIE
+dialog: Why do you do that?
+speaker_heading: SAM
+dialog: I don't know. And you know what's
+dialog: scary--when you get older it just
+dialog: gets more confusing. I've spent
+dialog: the last ten years with women who
+dialog: are basically all wrong for me.
+dialog: (beat)
+dialog: You know what, I shouldn't be
+dialog: talking about this stuff with you.
+speaker_heading: JOSIE
+dialog: That's okay. It's nice to have
+dialog: someone to talk to--
+text: The bucket is rocked again by Tommy--Sam grips the safety
+dialog: bar.
+speaker_heading: SAM
+dialog: (as he rocks)
+dialog: Same here.
+text: They stop rocking but they're still stuck at the top.
+speaker_heading: SAM
+dialog: All I can tell you is that when
+dialog: you're my age, the guys will be
+dialog: lined up around the block for you.
+text: They share a smile.
+speaker_heading: JOSIE
+dialog: (suddenly shy)
+dialog: You have to say that. You're my
+dialog: teacher.
+speaker_heading: SAM
+dialog: I shouldn't say that, because I'm
+dialog: your teacher.
+text: They look at each other, their smiles fading into
+text: realization. Suddenly, the car jerks, and they start to
+text: move down. Josie and Sam are pulled out of their reverie.
+text: They smile awkwardly at each other and laugh a small laugh.
+text: WIDE SHOT of the Ferris wheel as Josie and Sam descend.
+speaker_heading: SAM (V.O.)
+dialog: Thanks, Josie. This wasn't as bad
+dialog: as I thought.
+speaker_heading: JOSIE (V.O.)
+dialog: When are you going to open your
+dialog: eyes?
+speaker_heading: SAM (V.O.)
+dialog: I'm thinking when I'm home.
+scene_heading: EXT. BASEBALL DUGOUT - DAY
+text: Rob sits with a bunch of BASEBALL PLAYERS. MATZ and PACKER,
+text: the studs of the team, come into the dugout and join them.
+speaker_heading: PACKER
+dialog: Hey Rob, thanks for showing me
+dialog: that new grip. It totally changed
+dialog: my swing.
+speaker_heading: ROB
+dialog: No problem, man.
+text: They do one of those elaborate, fraternity-like handshakes.
+text: Out of the corner of his eye, Rob sees Josie walking alone
+text: across the field. He gets an idea.
+speaker_heading: ROB
+dialog: Hey, you guys know that girl, Josie
+dialog: Geller?
+speaker_heading: MATZ
+dialog: You mean "Loser"?
+speaker_heading: ROB
+dialog: No, dude, Josie. We used to go out
+dialog: and she dumped me. But we're still
+dialog: good friends. And she is amazing,
+dialog: if you know what I mean.
+text: The guys are all stunned.
+scene_heading: INT. BIOLOGY CLASSROOM - DAY
+text: Gibby stands staring at a skeleton with Rob and the Cool
+dialog: Girls.
+speaker_heading: GIBBY
+dialog: All right--that's it. Just water
+dialog: and Ex-Lax till prom.
+speaker_heading: ROB
+dialog: Hey--Josie's Dad invented that
+dialog: stuff. Josie's like the heiress to
+dialog: the Ex- Lax fortune.
+speaker_heading: KIRSTEN
+dialog: (impressed)
+speaker_heading: SHUT UP.
+speaker_heading: ROB
+dialog: Yeah. She's loaded. She spends all
+text: her vacations on the family yacht
+dialog: in the south of France.
+dialog: They react.
+scene_heading: EXT. TRACK - DAY
+text: Rob stands behind the bleachers with Tommy, Jason, and
+dialog: Guy.
+speaker_heading: TOMMY
+dialog: No way.
+speaker_heading: JASON
+dialog: She used to date the drummer for
+dialog: The Big Bad Voodoo Daddys?
+speaker_heading: GUY
+dialog: No way. I always wanted to be a
+dialog: drummer.
+speaker_heading: ROB
+dialog: Yeah well, she left him for the
+dialog: drummer from "Sister Hazel." Y'know
+dialog: the song "All for You?"
+speaker_heading: GUY
+dialog: That was about Josie?
+dialog: (impressed)
+dialog: Rufus
+scene_heading: INT. CAFETERIA - DAY
+text: Josie turns with her tray after paying. Aldys sees her.
+speaker_heading: ALDYS
+dialog: Hey, Josie--I'm really sorry I
+dialog: snapped at you. Do you wanna--
+text: Josie sees Rob waving her over to "the table" where Kristen,
+text: Gibby and the gang sit.
+speaker_heading: JOSIE
+dialog: Oh, Aldys, y'know, I have to--
+text: And Josie walks over to Guy's table, leaving Aldys staring
+text: after her. Josie sits down at the table. Everyone stares
+text: at her.
+speaker_heading: GIBBY
+dialog: Hey Josie. It's Josie, right?
+speaker_heading: KRISTEN
+dialog: Can I just say--I totally love Ex-
+dialog: Lax.
+speaker_heading: JOSIE
+dialog: (confused)
+dialog: Okay, that's good to know--
+speaker_heading: TOMMY
+dialog: I can't believe you dated Big Bad
+dialog: Voodoo Daddy.
+text: Josie shoots a look at Rob.
+speaker_heading: ROB
+dialog: Hey, I told you--Josie doesn't
+dialog: like to talk about that.
+speaker_heading: KIRSTEN
+dialog: Yeah, Tommy, that's totally gochay.
+speaker_heading: GIBBY
+dialog: I think it's pronounced gauche.
+speaker_heading: JOSIE
+dialog: Yeah it's French. There's no accent
+dialog: aigue, so the e is soft.
+text: A silent beat. Josie thinks she may have blown it.
+speaker_heading: GIBBY
+dialog: Duh, of course you would know that.
+dialog: From being on your yacht in the
+dialog: south of France.
+text: They all smile at her. Josie soaks in her newfound
+dialog: popularity.
+scene_heading: INT. SCIENCE CLASSROOM - DAY
+text: On the walls are SAFE SEX posters. On the front desk,
+dialog: pamphlets on sexually transmitted diseases share space
+text: with plastic biology cross-section models of male and female
+dialog: reproductive organs.
+text: Sam stands in front of his English class, impatiently
+text: looking at his watch. Josie looks up from her desk, sees
+text: Anita waving wildly from the other side of the glass door.
+text: Josie's eyes widen, she starts to make "get out of here"
+text: movements. Sam notices Josie and follows her gaze to Anita.
+text: He opens the door, speaks sotto to Anita.
+speaker_heading: SAM
+dialog: Hi. You're here for the sex talk?
+speaker_heading: ANITA
+dialog: (happily taken aback)
+dialog: Well. I like a man who gets to the
+dialog: point.
+speaker_heading: SAM
+dialog: You're Pam?
+speaker_heading: ANITA
+dialog: (frisky)
+dialog: If you say so.
+text: Sam turns to the class.
+speaker_heading: SAM
+dialog: Welcome juniors and seniors, this
+dialog: is Pam Kitterman. She's our district
+dialog: health counselor. She's here to
+dialog: lead our sex discussion.
+text: He ushers a surprised Anita to the front of the room. Josie
+dialog: reacts.
+speaker_heading: ANITA
+dialog: I am? Oh, I am. Hi. Okay. Sex.
+dialog: Yes, well, sex. What's to say
+dialog: really, y'know? You like a guy,
+dialog: you do it. Sometimes he calls.
+dialog: Sometimes he doesn't.
+text: Anita leans into Josie, talks sotto.
+speaker_heading: ANITA
+dialog: (whispering)
+dialog: Hi!
+speaker_heading: JOSIE
+dialog: (also whispering)
+dialog: What are you doing here?!
+speaker_heading: ANITA
+dialog: I had a lunch break so I thought
+dialog: I'd come by and see you. Your
+dialog: teacher is a fox!
+dialog: (then normal voice
+dialog: to Josie)
+dialog: Why don't we discuss that after
+dialog: class. But the burning is totally
+dialog: normal.
+dialog: (looking at watch)
+dialog: Oh look. Class is over already.
+speaker_heading: SAM
+dialog: I thought this was a 45-minute
+dialog: seminar.
+speaker_heading: ANITA
+dialog: Right. Right.
+text: Anita walks back to the front of the classroom.
+speaker_heading: ANITA
+dialog: Okay, sex. Let's see. Sex is really
+dialog: fun.
+dialog: (off Josie's look)
+dialog: When you're old enough. Which none
+dialog: of you are, trust me I should know
+dialog: cuz when you lose it to some guy
+dialog: named Junior with really bad breath
+text: in the back of a van at a Guns and
+dialog: Roses concert you're gonna wish
+dialog: you listened to your Mom when she
+dialog: said, y'know, no one's gonna want
+dialog: to buy the whole friggin ice cream
+dialog: truck when you're handing out the
+dialog: popsicles for free.
+text: There's a deafening silence. The kids are amazed.
+speaker_heading: ANITA
+dialog: Okay. Any questions?
+scene_heading: INT. SCIENCE CLASSROON - LATER
+text: The Kids all have bananas and condoms. They are in various
+text: stages of putting the condom over the banana. Anita walks
+text: among them, clearly more comfortable with her role now.
+speaker_heading: ANITA
+dialog: Okay. I know it's hard.
+text: Titters from the group.
+speaker_heading: ANITA
+dialog: Difficult. But safe sex is really
+dialog: important. I try to practice it
+dialog: every day.
+text: Josie reacts.
+text: ANGLE ON KIRSTEN & KRISTEN. Their condoms are snugly on
+text: their bananas. They stare at Josie.
+speaker_heading: KRISTEN
+dialog: wait, rewind. Do you really think
+dialog: she hooked-up with our Rob? They're
+dialog: so--different.
+speaker_heading: GIBBY
+dialog: Sometimes opposites attract.
+speaker_heading: KIRSTEN
+dialog: Yeah. Look at Bert and Ernie.
+text: WE ANGLE ON ANITA. She's walking authoritatively up the
+text: aisle towards the front.
+speaker_heading: ANITA
+dialog: So just..imagine the bananas are
+dialog: the real thing.
+text: She takes a rather large banana off a desk and looks at
+text: it. She snorts.
+speaker_heading: ANITA
+dialog: In a land called "every man's
+dialog: fantasy".
+text: She looks up, sees the real MISS KITTERMAN
+text: (we can tell from the model of a uterus she carries),
+text: standing outside the door and waving. Without missing a
+text: beat, Anita pulls down a shade on the door and locks it.
+text: ANGLE ON: JOSIE AND TRACY still struggling with condoms.
+speaker_heading: TRACY
+dialog: God, I can't do this.
+speaker_heading: JOSIE
+dialog: Maybe because we're not supposed
+text: to be having sex with bananas.
+speaker_heading: TRACY
+dialog: You know what, though? I feel like
+dialog: I'm really ready to do it. To have
+dialog: sex for the first time.
+speaker_heading: JOSIE
+dialog: Wow. That's big. I mean sex is a
+dialog: really big deal. You shouldn't do
+dialog: it until you know you've found the
+dialog: right person.
+text: ANGLE ON SAM, listening. Josie is oblivious.
+speaker_heading: JOSIE
+dialog: You know, Adele penguins pick one
+dialog: mate. They spend their whole life
+dialog: looking for that one other penguin
+dialog: and when they find it, they know.
+dialog: That's the penguin they stay with
+dialog: for the rest of their lives.
+speaker_heading: TRACY
+dialog: But I'm not a penguin.
+speaker_heading: SAM
+dialog: It's an analogy.
+text: A surprised Josie looks up to see Sam next to her. She
+text: lets her condom go. And it flies off her banana into his
+text: face. Josie turns to Tracy.
+speaker_heading: JOSIE
+dialog: Excuse me. I have to go die now.
+text: The class is interrupted by Sydney over the loudspeaker:
+speaker_heading: SYDNEY (O.S.)
+dialog: (over speaker)
+dialog: Hey guys--Sydney again! Don't forget--
+dialog: No going into the library cuz of
+dialog: that little asbestos problem. And
+dialog: about prom
+text: Everyone freezes. Dead silence.
+speaker_heading: SYDNEY
+dialog: Really bad news. We just got the
+dialog: word from intelligence-- Northglen
+dialog: High is doing the Millennium too!
+text: Complete chaos. SCREAMING terror. A GIRL faints. Sera
+text: squeezes her banana so hard it oozes out of its skin. Other
+text: KIDS are beating their bananas against desktops. Brett,
+text: the football player, absentmindedly peels his banana and
+text: begins eating it.
+speaker_heading: SAM
+dialog: All right guys, let's calm down.
+dialog: Calm down.
+dialog: (no response)
+dialog: Sit!
+dialog: They all do, including Anita.
+speaker_heading: SAM
+dialog: Now look. Let's focus. Prom theme.
+dialog: We need a new idea.
+speaker_heading: ANITA
+dialog: OH! How about "Under the Sea?"
+text: She's met with a round of "boos". Anita reacts.
+speaker_heading: ANITA
+dialog: Well excuse me.
+speaker_heading: SAM
+dialog: What about the "Roaring Twenties"
+dialog: or "The 80's"?
+text: The Class lets out a GIANT GROAN on that one.
+speaker_heading: GIBBY
+dialog: What do you think we are? Amateurs?
+speaker_heading: GUY
+dialog: Josie.
+speaker_heading: SERA
+dialog: That's not a theme.
+speaker_heading: GUY
+dialog: No, Josie will have the answer.
+text: A long beat. Expectant faces all turn to Josie. She looks
+dialog: at Tracy.
+speaker_heading: JOSIE
+dialog: How about--'
+dialog: (coming to her)
+dialog: meant for each other--Famous couples
+dialog: throughout history?
+text: Another beat as the Class considers.
+speaker_heading: GUY
+dialog: (smiles and nods)
+dialog: Yeah. That's it.
+text: The Class suddenly CONCURS.
+speaker_heading: CLASS
+dialog: Yeah. /That's it. /Rufus.
+text: Josie soaks in all the approval like a sponge.
+speaker_heading: JOSIE
+dialog: Thanks. Thank you.
+text: Josie looks from Sam and Anita's smiling faces to find Guy
+text: smiling at her.
+text: CLOSE UP ON A BANNER reading: "MILLENNIUM". It comes down,
+text: replaced by one that reads: "MEANT FOR EACH OTHER... WIDEN
+scene_heading: TO REVEAL:
+scene_heading: INT. HIGH SCHOOL HALLWAY - DAY
+text: Josie and the Cool Girls walk under the banner, laughing.
+text: We PAN UP to their lapels and see that they are all wearing
+text: replicas of Josie-'s geeky airplane pin. They pass Aldys,
+text: Josie is oblivious.
+scene_heading: INT. MALL - DAY
+text: Josie and the Girls walk four abreast, like a pack of proud
+dialog: lions. Kids part to let them through.
+scene_heading: INT. SUN TIMES BULLPEN - DAY
+text: WORKERS look at their watches, run into Gus's office.
+scene_heading: INT. GYM PROM PREP AREA - LATER
+text: Sam and Josie have fun painting a backdrop of the sunset.
+scene_heading: INT. GUS'S OFFICE - SAME
+text: Workers stand around Gus's TV, riveted by Josie and Sam.
+scene_heading: INT. DEPARTMENT STORE - COSMETIC COUNTER - SAME
+text: Josie and the Girls try on lipstick, laughing and fooling
+dialog: around.
+scene_heading: INT. MUSIC ROOM - DAY
+text: Josie and Sam pick out CDs from a DJ's case. Josie picks
+text: one out and puts it in the "yes" pile. Sam picks it up,
+text: wrinkles his nose, puts it back. When he looks away, Josie
+text: sneaks it back.
+scene_heading: INT. TEEN CLOTHING STORE - SAME
+text: Josie's hiding behind a rack of clothes, talking on her
+dialog: cell phone.
+speaker_heading: JOSIE
+dialog: (into phone)
+dialog: I'm telling you Gus. It's a great
+dialog: story. They keep the tags on, then
+dialog: return the clothes after they've
+dialog: worn them.
+dialog: (beat)
+dialog: Gus?--Gus?
+text: Kirsten discovers Josie behind the rack. Josie quickly
+text: pulls a cardigan off a rack, feigning interest in it. The
+dialog: Girls all do the same.
+scene_heading: INT. HALL CONCOURSE - SAME
+text: Josie and the Girls, wearing matching cardigans, walk past
+text: Aldys and another Denominator on their way to the escalator.
+text: Josie and Aldys lock eyes and Josie smiles but Aldys turns
+text: her back to her.
+speaker_heading: ALDYS
+dialog: (to Denominator)
+dialog: Look, there goes another Lemming.
+text: WE ANGLE ON the escalator as Josie and the Girls rise single
+dialog: file out of- FRAME.
+scene_heading: EXT. BASEBALL STANDS - DAY
+text: Josie sits with her new friends, emulating them by sunning
+text: in a bikini top and shorts while they watch the game.
+speaker_heading: GIBBY
+dialog: Josie, you have totally
+dialog: transitioned.
+speaker_heading: JOSIE
+dialog: Transitioned?
+speaker_heading: GIBBY
+dialog: You crossed over.
+speaker_heading: KRISTEN
+dialog: Into our group.
+speaker_heading: KIRSTEN
+dialog: It's really hard to do. Some kids
+dialog: try for all of-high school and
+dialog: never make it.
+speaker_heading: GIBBY
+dialog: Wannabes. Kirsten transitioned
+dialog: last year.
+speaker_heading: KRISTEN
+dialog: Her dad sold a car to Leonardo Di
+dialog: Caprio's uncle and before he picked
+dialog: it up, her dad let us all sit in
+dialog: it and take pictures.
+speaker_heading: GIBBY:
+dialog: (to Josie)
+dialog: Wait. Do you know any gay guys?
+speaker_heading: JOSIE
+dialog: Why?
+speaker_heading: KIRSTEN
+dialog: We'd love to transition a gay guy
+dialog: into the group.
+speaker_heading: KRISTEN
+dialog: We're very evolved.
+speaker_heading: ON THE FIELD
+text: A BALL sails fast and hard. It looks like it's going to be
+text: a base hit, into left Field, but the shortstop leaps up
+text: and grabs it. That shortstop is Rob. The Team cheers. Coach
+text: Romano heads out of the dugout towards Rob.
+speaker_heading: IN THE STANDS
+text: Josie and the Gang leap up and cheer. Josie almost loses
+text: her top, but catches it, just as Guy comes around the side
+text: of the stands and notices Josie.
+scene_heading: EXT. BASEBALL DIAMOND - CONTINUOUS
+text: Coach Romano approaches Rob. Slaps him on the back.
+speaker_heading: COACH ROMANO
+dialog: Great playing, Rob. You might be
+dialog: just what Southglen South needs to
+dialog: get to Nationals.
+speaker_heading: ROB
+dialog: I'm playing in the championship
+dialog: game?
+speaker_heading: COACH ROMANO
+dialog: Playing? You're starting shortstop.
+dialog: And I don't mean to put more
+dialog: pressure on you but there are going
+dialog: to be some pro scouts there.
+speaker_heading: ROB
+dialog: Oh man!
+text: Rob grabs Coach Romano in a bear hug. The Coach is
+text: uncomfortable. Rob moves towards the dugout and the Coach
+text: happily slaps him on the ass.
+scene_heading: EXT. BASEBALL STANDS - SAME
+text: Josie and the Girls are leaving. Guy catches up to them
+text: and taps Josie on the shoulder.
+speaker_heading: GUY
+dialog: So--you going to the party at Rob's?
+text: Josie's taken aback. The Girls notice Guy's interest.
+speaker_heading: JOSIE
+dialog: Rob's?
+speaker_heading: GUY
+dialog: Yeah, you gonna be there?
+text: Josie stumbles on a step Guy immediately reaches out to
+text: steady her. She melts. She can't even speak, so she just
+dialog: nods.
+speaker_heading: GUY
+dialog: Good. I'll see you tonight.
+text: Guy walks off.
+speaker_heading: GIBBY
+dialog: He is totally crunching on you.
+speaker_heading: JOSIE
+dialog: (confused)
+dialog: Do I want to be crunched?
+speaker_heading: GIBBY
+dialog: By Guy?
+scene_heading: GIBBY/KRISTEN/KIRSTEN
+dialog: Oh yeah.
+scene_heading: INT. SUN TIMES ELEVATOR - DAY
+text: CAMERA PANS the faces of some dull-looking workers. It
+text: stops on Josie, who stands out in her teen garb and huge
+text: knapsack. A star struck female WORKER turns to her.
+speaker_heading: WORKER
+dialog: I really loved you in the sex-ed
+dialog: scene.
+text: Josie reacts.
+scene_heading: INT. BULLPEN - CONTINOUS
+text: Josie spills out the elevator and races through the bullpen
+text: with Rhoda in pursuit.
+speaker_heading: RHODA
+dialog: Splendiferous--
+text: Josie stops, turns back to her.
+speaker_heading: JOSIE
+dialog: Totally.
+text: Josie keeps going. A confused Rhoda stares after her. She
+text: passes Merkin's desk. He is still on the phone.
+speaker_heading: MERKIN
+dialog: (into phone)
+dialog: No way ... Yeah? ... No way.
+text: Josie reaches over, grabs the phone out of his hand and
+text: hangs up without missing a beat. She continues on as Merkin
+text: stares after her. Josie reaches the conference room door.
+text: An older WOMAN runs out crying.
+scene_heading: INT. CONFERENCE ROOM - CONTINUOUS
+text: Rigfort presides over a staff meeting. CLOSE UP on stunned
+text: office WORKERS' faces.
+speaker_heading: RIGFORT
+dialog: Alrighty then--next on the agenda-
+dialog: sack races at the company picnic-
+dialog: yes or no?
+text: Josie sneaks in. She pushes past workers to get to a chair,
+text: big backpack whacking them as she goes.
+speaker_heading: JOSIE
+dialog: Hi. Sorry I'm late.
+dialog: (pushing past chairs)
+dialog: Sorry. Excuse me--
+text: Josie takes the chair next to Anita's. Anita looks her up
+dialog: and down.
+speaker_heading: ANITA
+dialog: (sotto)
+dialog: I love that jacket.
+speaker_heading: RIGFORT
+dialog: Miss Geller, what's the status on
+dialog: your story?
+speaker_heading: JOSIE
+dialog: Oh it's great. Totally Rufus.
+text: Gus and Anita look at each other, both mouthing "Rufus?"
+speaker_heading: JOSIE
+dialog: I have, um--
+text: Josie dumps out her backpack on the table. Teen items spill
+text: out-notebooks, CDs, barrettes, a hacky sac, a Frisbee,
+text: glitter nail polish. She rifles through it all--
+speaker_heading: JOSIE
+dialog: --notes here somewhere-
+dialog: (picking up paper)
+dialog: There's my math homework!
+speaker_heading: RIGFORT
+dialog: Geller, I don't need your notes. I
+dialog: need your story. Though I speak
+dialog: for everyone when I say I've seen
+dialog: the tapes. Compelling stuff.
+text: All the workers nod in agreement.
+speaker_heading: RIGFORT
+dialog: But I want a story in two weeks.
+dialog: I'm saving the "Life and Style"
+dialog: cover for you. You're gonna make
+dialog: one hell of a reporter. Oh, and if
+dialog: you don't, you and Gus are fired.
+text: Josie and Gus react.
+speaker_heading: RIGFORT
+dialog: Now, onto the next order of
+dialog: business. Marketing department-yes
+dialog: or no?
+scene_heading: EXT. JOSIE'S PARENTS' HOUSE  NIGHT
+text: Beer cans and kids litter the lawn. Josie pulls into the
+dialog: driveway.
+scene_heading: INT. JOSIE'S PARENTS HOUSE  SAME
+text: Josie makes her way through the THRONGS OF KIDS. It's a
+dialog: big high school "rager" lots of big blue keg cups, drunk
+text: girls, etc. The cool Girls are present and socializing.
+text: Josie finally makes her way to the kitchen.
+scene_heading: INT. KITCHEN - SAME
+text: Rob is mixing margaritas, wearing a big sombrero. Tracy
+text: sits on the counter, gazing lovingly at Rob's every move.
+speaker_heading: JOSIE
+dialog: Hey Rob, what's going on?
+speaker_heading: TRACY
+dialog: I'm Rob's prom date.
+text: Josie glares at Rob.
+speaker_heading: JOSIE
+dialog: Really?
+dialog: (pulling Rob aside)
+dialog: Rob-, that girl is sixteen.
+speaker_heading: ROB
+dialog: And a gymnast!
+speaker_heading: JOSIE
+dialog: She's sixteen years old, Rob. That's
+dialog: totally and completely illegal.
+text: Josie feels an arm around her shoulder. It's Guy.
+speaker_heading: GUY
+dialog: Hey there.
+speaker_heading: JOSIE
+dialog: Hey. There.
+text: Guy takes Josie's hand.
+speaker_heading: GUY
+dialog: Come here. I want to ask you
+dialog: something.
+text: Rob watches them leaving the kitchen.
+speaker_heading: ROB
+dialog: (to Josie, calling
+dialog: after)
+dialog: See you around the cellblock, Mrs.
+dialog: Robinson.
+text: Josie turns around and gives him a death look. Tracy turns
+dialog: to Rob.
+speaker_heading: TRACY
+dialog: Rob, what do you want to be when
+dialog: you grow up?
+speaker_heading: ROB
+dialog: Well, a ball player.
+speaker_heading: TRACY
+dialog: No, I know. But, what if you don't
+dialog: make it? 'I mean, you don t Want
+dialog: to be working at a mail place the
+dialog: rest of your life. It's okay for
+dialog: an after school job, but, come on,
+dialog: "hi, I'm Rob and I run the Tiki
+dialog: Post"?! Totally lame.
+text: Tracy starts to giggle. Rob does not.
+scene_heading: INT. UPSTAIRS HALLWAY - CONTINUOUS
+text: Guy and Josie stand in front of Josie's old room. A bicycle
+text: license plate that says-"JOSIE" is nailed to the door. She
+text: stands in front of it.
+speaker_heading: JOSIE
+dialog: Maybe we should go in a different
+dialog: room?
+speaker_heading: GUY
+dialog: I already checked. There are some
+dialog: pretty serious couples in there.
+text: Guy reaches for the doorknob.
+scene_heading: INT. JOSIE'S OLD BEDROOM - CONTINUOUS
+text: They go in. Josie sees her spelling bee trophies- with her
+text: name. She turns them around, trying to appear nonchalant.
+text: As Guy enters, he eyes the trophies, the stuffed animals,
+text: the many sets of encyclopedias.
+speaker_heading: GUY
+dialog: Wow, Rob's sister must be such a
+dialog: loser.
+text: Josie manages a weak smile. Guy sits on the bed.
+speaker_heading: GUY
+dialog: Come here, sit down.
+text: She sits on the bed, and then sees a picture of her and
+text: her family on the bedside table. She dives across the bed
+dialog: to overturn it.
+speaker_heading: GUY
+dialog: I'm sure you've probably heard
+dialog: that I want to ask you, but I'd
+dialog: like to know if you'd go to prom
+dialog: with me. I know we Didn't hit it
+dialog: off right at the beginning but-
+speaker_heading: JOSIE
+dialog: Yes. I'll go. Yes.
+text: Guy leans in as if to kiss her and whispers...
+speaker_heading: GUY
+dialog: Rufus.
+dialog: (then pulling away)
+dialog: But I don't even know where you
+dialog: live.
+speaker_heading: JOSIE
+dialog: You know what? Why don't you just
+dialog: pick me up here? We could all share
+text: a limo.
+speaker_heading: GUY
+dialog: Cool. I'll catch you later.
+text: Guy leaves. Josie is ecstatic and flops back on her bed.
+text: Stuffed animals fall all around her.
+scene_heading: INT. HIGH SCHOOL HALLWAY - DAY
+text: Josie and Rob walk confidently through the hallway. Kids
+text: greet and high five them both.
+speaker_heading: JASON
+dialog: Hey Jos. Hey Robster.
+speaker_heading: BRETT
+dialog: Looking good guys.
+speaker_heading: TOMMY
+dialog: Hey Jos. Rob, rufus kegger.
+text: Rob and Josie turn the corner.
+speaker_heading: JOSIE
+dialog: Rob, this is unbelievable. I mean--
+text: Josie shoves through the double doors leading into the
+dialog: gym.
+scene_heading: INT. GYM - CONTINUOUS
+text: The place is a flurry of activity, a staging area for prom.
+text: Various committees are set up at tables throughout the
+dialog: room.
+text: Josie and Rob enter.
+speaker_heading: JOSIE
+dialog: --I spent my whole life wanting to
+dialog: fit in, and now--
+text: Gibby and Kirsten run up to Josie.
+speaker_heading: GIBBY
+dialog: Hey Josie- who did Archie date
+dialog: Betty or Veronica?
+speaker_heading: JOSIE
+dialog: Betty.
+text: Gibby turns to Kirsten.
+speaker_heading: GIBBY
+dialog: Told you.
+text: And they move off. Rob spots Tracy and moves off to her.
+speaker_heading: SAM (O.S.)
+dialog: I always liked Betty better.
+text: Josie turns, sees Sam.
+speaker_heading: JOSIE
+dialog: You did?
+text: And they begin to walk through the prom prop area, and it
+text: begins to appear like a romantic date--they pass flowers,
+text: he picks one out, they pass a bistro table, a backdrop of
+text: a sunset follows them for awhile, etc.
+speaker_heading: SAM
+dialog: Oh yeah. Betty was so spunky and
+dialog: fun. Veronica may have had great
+dialog: legs, but she was too moody. Very
+dialog: high maintenance.
+text: Josie laughs.
+text: ANGLE ON: A TABLE where Kristen and Tommy are selling prom
+text: tickets. Aldys is standing in front of them.
+speaker_heading: ALDYS
+dialog: You can't not sell me a ticket to
+dialog: prom.
+speaker_heading: TOMMY
+dialog: Listen, Alpo--we can do whatever
+dialog: we want.
+speaker_heading: ALDYS
+dialog: Oh, I get it. It's that pesky making
+dialog: change part that's confusing you
+dialog: guys. Here. I'll make it easy.
+dialog: (holding up money)
+dialog: Money-
+dialog: (drops money, takes
+dialog: ticket)
+dialog: Ticket.
+text: Aldys takes her ticket, walks off. Tommy and Kristen turn
+text: to each other and start whispering conspiratorially.
+scene_heading: ANGLE BACK ON: JOSIE AND SAM
+text: Sera runs up to Josie.
+speaker_heading: SERA
+dialog: Josie, were Tweedle Dee and Tweedle
+dialog: Dum a couple?
+text: Josie and Sam share a look.
+speaker_heading: JOSIE
+dialog: Well, in a strict sense, probably
+dialog: not. But for prom--sure.
+speaker_heading: SERA
+dialog: Thanks!
+text: Sera turns off.
+speaker_heading: SAM
+dialog: You're really doing a great job
+dialog: here, Josie. I like your "can do"
+dialog: attitude.
+speaker_heading: JOSIE
+dialog: (shyly)
+dialog: Thanks.
+dialog: (beat)
+dialog: They weren't related to Humpty
+dialog: Dumpty, were they? Tweedle Dum and
+dialog: Tweedle Dee?
+speaker_heading: SAM
+dialog: Maybe distant cousins. They did
+dialog: have that egg shape in common.
+speaker_heading: JOSIE
+text: But Humpty Dumpty was alone.
+speaker_heading: SAM
+dialog: That's sad, isn't it? He had to
+text: sit on that wall all by himself.
+dialog: He deserved to have somebody.
+speaker_heading: JOSIE
+dialog: That's really what we all need,
+dialog: right? Someone to sit up on the
+dialog: wall with us--
+speaker_heading: SAM
+dialog: Yeah. To watch the world go by.--
+speaker_heading: JOSIE
+dialog: To put us back together again when
+dialog: we fall.
+text: They share a meaningful glance and a smile.
+speaker_heading: SAM
+dialog: Our penguin, right?
+speaker_heading: JOSIE
+dialog: Do you think you'll find her?
+speaker_heading: SAM
+dialog: Yeah, actually I do.
+text: They are lost in each other. They lean closer, as if they
+text: may kiss, then Sam breaks the moment.
+speaker_heading: SAM
+dialog: Oh my God! I almost forgot--I got
+dialog: you a meeting with the admissions
+dialog: guy from Dartmouth!
+speaker_heading: JOSIE
+dialog: What! But--I wasn't even going to
+dialog: go to college--
+speaker_heading: SAM
+dialog: No, I know, but I pulled some
+dialog: strings, got him to look at your
+dialog: writing, and he agreed to meet
+dialog: you.
+speaker_heading: JOSIE
+dialog: Oh--yikes!
+speaker_heading: SAM
+dialog: told him
+dialog: (teasing)
+dialog: --if I'm wrong about this girl,
+dialog: you can take away my teaching
+dialog: certificate!
+speaker_heading: JOSIE
+dialog: Wow. You believe in me that much--
+speaker_heading: SAM
+dialog: Of course I do. Josie, you owe it
+dialog: to yourself--to your writing, to
+dialog: go to college. You're a great
+dialog: writer. You just have to find your
+dialog: story.
+text: As they share a meaningful look, WE FREEZE FRAME.
+scene_heading: INT. GUS'S OFFICE - LATER
+text: Gus and Josie sit in front of his TV. The image of Sam and
+text: Josie is frozen on the screen.
+speaker_heading: GUS
+dialog: That's your story!
+speaker_heading: JOSIE
+dialog: You're crazy. I can't--I can't-no.
+dialog: No.
+speaker_heading: GUS
+dialog: It's got it all--sex, intrigue,
+dialog: immorality in the education system--
+speaker_heading: JOSIE
+dialog: He's my teacher!
+speaker_heading: GUS
+dialog: And that's the best part.
+dialog: (bannering with his
+dialog: hands)
+dialog: "Teacher-Student Relations: How
+dialog: close is too close?" We're gonna
+dialog: blow the lid off it!
+speaker_heading: JOSIE
+dialog: There is no lid! Nothing's going
+dialog: on between Sam and me. Coulson.
+dialog: Mr. Sam Coulson and me.
+speaker_heading: GUS
+dialog: Not yet. Every person in this office
+dialog: comes in here and watches you guys!
+dialog: It's like the goddamn Young and
+text: the Restless! Rigfort's salivating
+text: over it.
+speaker_heading: JOSIE
+dialog: You already pitched this to
+dialog: Rigfort?!
+text: Gus leans in, now all business.
+speaker_heading: GUS
+dialog: Josie, this isn't a joke. You heard
+dialog: Rigfort. It's both of our asses on
+dialog: the line. This is your story.
+scene_heading: INT. JOSIE'S APARTMENT - BEDROOM - NIGHT
+text: Josie is getting ready for prom. She wears her bathrobe
+text: and is doing her make-up. She looks over at her dresser
+text: where she eyes the camera/flight wings pin tentatively.
+scene_heading: INT. DEN - NIGHT
+text: Rob, in boxers, a dress shirt, and socks is filling flasks
+text: with vodka. Josie comes in the door wearing a lovely
+text: Elizabethan gown. She looks absolutely beautiful.
+speaker_heading: ROB
+dialog: Wow, Josie- you look really-
+speaker_heading: JOSIE
+dialog: (hopeful)
+dialog: Rufus?
+speaker_heading: ROB
+dialog: Yes. Exactly. Major Rufus.
+speaker_heading: JOSIE
+dialog: Thanks. And what are -
+speaker_heading: ROB
+dialog: Duh. Tom Cruise. "Risky Business".
+text: He puts on his black wayfarer sunglasses, and does the
+text: famous slide into the living room. Josie laughs.
+speaker_heading: JOSIE
+dialog: Rob--thanks. For everything. This
+dialog: is really happening. I never thought--
+speaker_heading: ROB
+dialog: I know.
+text: Rob smiles and exits.
+text: Josie nervously checks her reflection in the T.V. - just
+text: like she did eight years ago. She takes a deep breath, and
+text: goes out.
+scene_heading: EXT. FRONT PORCH - SAME
+text: Josie comes out on the porch, and sees the limo rounding
+text: the corner, just like eight years before. The sunroof opens.
+text: And Guy stands up - holding something.
+text: Josie panics - and starts to take cover - but then sees
+text: he's holding a dozen white roses. And holding them out to
+dialog: her.
+speaker_heading: GUY
+dialog: Come on beautiful - what are you
+dialog: waiting for?
+text: Josie, smiling, runs down the driveway to the limo.
+scene_heading: EXT. COUNTRY CLUB - NIGHT
+text: Prom night. And it really is magical. Twinkling lights dot
+text: the trees, MUSIC wafts out from the club. A neon sign that
+text: says "Meant For Each Other" blinks above the building.-
+text: COUPLES make their way inside. We see MORK a MINDY, ANTONY
+text: a CLEOPATRA and Sera dressed as a RABBIT. Annoyed, she
+text: turns back to her lagging date, Brett, dressed as a
+speaker_heading: TORTOISE.
+speaker_heading: SERA
+dialog: Hello! If you don't hurry up we're
+dialog: gonna miss the whole thing!
+text: Gibby, Kirsten, and Kristen exit limos with their DATES.
+text: They all wear the same straight blonde wig, and look at
+text: each other in horror.
+speaker_heading: GIBBY
+dialog: Oh-my-God. You totally ripped off
+dialog: my Malibu Barbie idea.
+speaker_heading: KRISTEN
+dialog: Uh uh. I'm Disco Barbie.
+text: Kirsten's wearing a short, tight miniskirt.
+speaker_heading: KIRSTEN
+dialog: And I'm Evening Gown Barbie.
+speaker_heading: GIBBY
+dialog: Right. That's not an evening gown.
+speaker_heading: KIRSTEN
+text: It is on Barbie.
+text: Josie and Guy approach, dressed in Elizabethan costume.
+dialog: They look great.
+speaker_heading: KRISTEN
+dialog: Josie, you look Rufus.
+speaker_heading: KIRSTEN
+dialog: Who are you guys?
+speaker_heading: GIBBY
+dialog: Don't tell me... You're Medieval
+dialog: Barbie.
+speaker_heading: JOSIE
+dialog: Rosalind and Orlando.
+dialog: (nothing)
+dialog: From "As You Like It"?
+dialog: (more blank stares)
+dialog: Shakespeare?
+text: It's like talking to a sack of hammers. Guy interjects.
+speaker_heading: GUY
+dialog: Look! I get to have a sword!
+dialog: And they all ooh and ahh.
+scene_heading: INT. COUNTRY CLUB  CONTINOUS
+text: WE FOLLOW Josie and the group into the prom. The place
+text: looks amazing. Lights, ice sculptures, champagne fountains.
+text: WE PAN DOWN the buffet.
+text: A BOY dressed as a jar of PEANUT BUTTER and his date, JELLY,
+text: are getting food. Peanut Butter turns away from the buffet
+text: and bumps into a GIRL dressed as a CHOCOLATE BAR.
+speaker_heading: PEANUT BUTTER
+dialog: oh, sorry.
+text: There's a magical beat as they smile at each other.
+speaker_heading: CHOCOLATE BAR
+dialog: That's okay--
+text: Jelly looks on, chagrined.
+text: We reach two OLDER GENTLEMEN in tuxes who carry clipboards
+text: and wear big buttons that read: NATIONAL PROM JUDGE. They
+text: contemplate the ice sculpture.
+speaker_heading: JUDGE #1
+dialog: It's deft and unique without being
+dialog: derivative.
+speaker_heading: JUDGE #2
+dialog: (looking off)
+dialog: Hey! Pigs in blankets!
+text: And he runs off.
+scene_heading: INT. COUNTRY CLUB - LATER THAT NIGHT
+text: Josie sits with the COOL GROUP at a table. Kristen is making
+text: odd faces.
+speaker_heading: JOSIE
+dialog: Kristen, what are you doing?
+speaker_heading: KRISTEN
+text: I'm practicing my surprised face
+dialog: for when we get named to prom court.
+text: JOSEPH and a very pregnant MARY approach their table and
+dialog: try to sit down.
+speaker_heading: KIRSTEN
+dialog: Sorry. There's no room at this
+dialog: table.
+text: Joseph and Mary amble off. Guy turns to Josie.
+speaker_heading: GUY
+dialog: You having fun?
+speaker_heading: JOSIE
+dialog: (meaning it)
+dialog: Oh yeah. The best. Josie takes in
+text: the spectacle around her.
+scene_heading: INT. GEORGE'S VAN - CONTINUOUS
+text: Candles are lit. George's Date sits on the couch. The
+text: monitor is on showing the JOSIE CAM POV.
+text: He flips the switch, the lights dim and a small disco ball
+text: starts moving slowly. George settles in next to his Date.
+scene_heading: INT. GUS'S OFFICE - CONTINUOUS
+text: The entire office is crammed into Gus's office. Anita sits
+text: up front, spellbound, watching the JOSIE CAM. Gus stands
+dialog: in back. Okay, he's a little interested too.
+speaker_heading: ANITA
+dialog: This is the most beautiful prom I
+dialog: have ever been to.
+text: Cynthia runs in with a bowl of popcorn.
+speaker_heading: CYNTHIA
+dialog: Did I miss the crowning?
+speaker_heading: MERKIN
+dialog: No, but I'm closing the pool in
+dialog: five minutes.
+text: Merkin holds out a bowl of cash.
+speaker_heading: MERKIN
+dialog: Josie's odds are 3 to 1. 2 to 1
+dialog: for Prom court. And even odds the
+text: kid sticks himself with the sword
+text: by the end of the night.
+scene_heading: INT. COUNTRY CLUB - CONTINUOUS
+text: WE PAN ACROSS the dance floor where we see POPEYE & OLIVE
+text: OYL, SONNY & CHER, the BLUES BROTHERS.
+text: WE HOLD on ROBIN dancing with BATGIRL. BATMAN approached
+text: and taps Robin's shoulder--
+speaker_heading: BATMAN
+dialog: May I have this dance-
+text: And Batgirl steps aside--Robin and Batman dance happily
+dialog: away.
+text: ANGLE ON ROB TRYING TO SLOW DANCE WITH TRACY
+text: (dressed like REBECCA De MORNAY), but she is so-drunk she's
+text: having trouble balancing.
+speaker_heading: TRACY
+dialog: Are you having fun?
+speaker_heading: ROB
+dialog: Yeah. Definitely.
+text: He tries to stand her up on her own.
+speaker_heading: TRACY
+dialog: Good. Gibby gave me champagne.
+speaker_heading: ROB
+dialog: Maybe we should sit.
+text: He helps her to a chair next to the dance floor. They both
+text: sit. Next to them, a ravenous MISS PIGGY eats with her
+text: date KERMIT looking on. She picks up an hors d'oeuvre and
+text: stares at it horrified.
+speaker_heading: MISS PIGGY
+dialog: Oh my God! Is this a pig in a
+dialog: blanket?!
+text: Tracy looks at Rob, and gets serious.
+speaker_heading: TRACY
+dialog: Rob, I've - I've thought about it
+dialog: a lot. And I think- I mean, I know.
+dialog: You're the one. My penguin.
+text: Rob looks at her. She's young. She's beautiful. She's tipsy.
+text: She's trying to put her legs behind her head.
+speaker_heading: ROB
+dialog: Wow - I-
+speaker_heading: TRACY
+dialog: Rob, I mean it. I want you to be
+dialog: my first. Me and you. Once the
+dialog: floor stops spinning, let's have
+dialog: sex.
+text: He looks around. It's high school prom. A skinny kid is
+text: getting beat up in a corner. Other kids are sneaking smokes.
+dialog: He can't do this.
+speaker_heading: ROB
+dialog: I'm gonna get you some water. And
+dialog: then, I think we should get back
+text: out on that dance floor and boogie.
+text: Rob gets up, kisses Tracy on the top of her head, and heads
+text: for the refreshment table. Tracy, her leg still around her
+text: head falls backwards into Kermit's lap. Kermit looks down,
+text: surprised and interested. Miss Piggy notices, gives him a
+text: big "Harumph", tosses her hair, and leaves.
+text: ANGLE BACK ON: THE COOL TABLE.
+text: Gibby is staring O.S. in horror.
+speaker_heading: GIBBY
+dialog: You guys--what is the one thing
+dialog: that could ruin my senior prom?
+speaker_heading: KRISTEN
+dialog: That you would trip on your Barbie
+dialog: heels and I'd get named prom queen?
+dialog: (beat)
+dialog: Did I say that out loud?
+text: WE FOLLOW Kristen's stare to the prom entrance where Aldys
+text: and the Denominators enter in pairs, one behind the other,
+text: attached together with rope, to form a human ladder. They
+text: cross the dance floor, interrupting everything with their
+text: unwieldy, tied-together conga line. They approach the Cool
+dialog: Table.
+speaker_heading: GIBBY
+dialog: So what are you supposed to be?
+dialog: Other than freaks?
+speaker_heading: ALDYS
+dialog: We're DNA. A double helix. But I
+dialog: guess you'd know that if you'd
+dialog: actually passed bio.
+text: Kristen reaches out and touches the rope binding Denominator
+text: #1 to Aldys. Denominator #1 slaps her hand away.
+speaker_heading: DENOMINATOR #1
+dialog: Please don't touch the hydrogen.
+dialog: It's rented.
+text: Kristen reacts.
+scene_heading: INT. COUNTRY CLUB - ON THE STAGE  LATER
+text: Sam takes the stage, with a card in his hand.
+speaker_heading: SAM
+text: Well, the moment has arrived.
+text: He looks at the card.
+speaker_heading: SAM
+dialog: Our 1999 prom court - the princesses
+dialog: are - Miss Kristen Rey, Miss Kirsten
+dialog: Leosis and Miss Gibby Zarefsky.
+dialog: And the princes are Mr. Thomas
+dialog: Salamey, Mr. Jason Way, and Mr.
+dialog: Rob -
+text: Sam looks at the card, and then looks around. Nobody can
+dialog: help him.
+speaker_heading: SAM
+dialog: Mr. Rob ... Mr. Rob!
+text: The crowd cheers. Gibby, Kirsten, and Kristen all jump in
+text: preplanned delight. Rob seems genuinely surprised. Jason
+text: carries Tommy up to the stage piggyback. The girls make
+text: their way to the stage, and put on their "PROM COURT"
+text: sashes. Sam looks to the card again.
+speaker_heading: SAM
+dialog: Next up - Southglen's Prom King
+text: Guy is already halfway to the stage-
+speaker_heading: SAM
+dialog: Guy Perkins!
+text: The crowd goes wild. Guy reaches the stage and takes his
+text: crown and scepter.
+speaker_heading: SAM
+dialog: And - this year's prom queen -
+text: Sam looks at the card, then at Josie. Josie is standing;
+text: eyes open, staring at the podium...
+scene_heading: INT. GUS'S OFFICE - CONTINUOUS
+text: The Crowd is rapt, waiting for the announcement. Anita has
+text: her eyes squeezed shut, praying for the win...
+scene_heading: INT. COUNTRY CLUB - ANGLE ON SAM.
+speaker_heading: SAM
+dialog: Ladies and gentlemen  Josie Geller!
+text: The Crowd CHEERS like crazy, Josie smiles.
+scene_heading: INT. GUS'S OFFICE - CONTINUOUS
+text: The Crowd goes crazy, hugging each other and jumping up
+dialog: and down.
+speaker_heading: ANITA
+dialog: Yes! You go girl! Yes! Yes!
+text: Anita gives Gus a big hug. Gus is completely taken aback.
+text: Merkin dolefully hands out money.
+scene_heading: INT. COUNTRY CLUB - CONTINUOUS-
+text: Josie is hugged and congratulated as she makes her way,
+text: elated, to the stage. Sam places the Queen's tiara on her
+text: head and hands her a bouquet of flowers. They lock eyes
+dialog: for a moment.
+speaker_heading: SAM
+dialog: And now - as it is custom - the
+dialog: king and queen will have their
+dialog: first dance.
+scene_heading: ON THE DANCE FLOOR:
+text: Guy and Josie begin to dance. From Josie's P.O.V., it's in
+text: SLOW MOTION, the world glittering and wonderful around
+dialog: her.
+speaker_heading: GUY
+dialog: Hey--what are you thinking about?
+speaker_heading: JOSIE
+dialog: Shakespeare. How he described a
+dialog: night like this--"Look how the
+dialog: floor of heaven is thick inlaid
+text: with patines of bright gold".
+dialog: (beat)
+dialog: What about you? What are you
+dialog: thinking about?
+speaker_heading: GUY
+dialog: (taking a beat,
+dialog: happily)
+dialog: My sword.
+text: It's like a switch has been flicked on in Josie's brain.
+speaker_heading: JOSIE
+dialog: Oh.
+speaker_heading: GUY
+dialog: Josie, you rock my world. You're
+dialog: like the most amazing girl I've
+dialog: ever dated. You're so smart and
+dialog: fun and crazy! You rock my world.
+speaker_heading: JOSIE
+dialog: You said that already.
+scene_heading: INT. COUNTRY CLUB - BUFFET - MINUTES LATER
+text: Josie stands by the buffet in her tiara, turns and comes
+text: face to face with Sam. They're both taken aback by the
+dialog: other's beauty.
+speaker_heading: SAM
+dialog: Josie--you make a really beautiful
+dialog: prom queen.
+speaker_heading: JOSIE
+dialog: Thanks. So do you.
+text: They both laugh, embarrassed, at Josie's flub.
+speaker_heading: SAM
+dialog: I always feel like such a goofball
+dialog: in these penguin suits. Like I'm
+dialog: at my own wedding or something.
+text: An awkward beat.
+speaker_heading: SAM
+dialog: You wanna--
+text: He gestures towards the dance floor. Josie smiles.
+speaker_heading: JOSIE
+dialog: Yeah, okay--
+text: And they walk off onto the dance floor.
+text: ANGLE ON: THE SIDE OF THE DANCE FLOOR.
+text: Guy approaches Aldys.
+speaker_heading: GUY
+dialog: Hey, listen--it's prom. How about
+dialog: we let all the old shit go. Would
+dialog: you like to dance?
+text: Aldys can't help it. She smiles, a little flattered.
+speaker_heading: GUY
+dialog: If it's okay with the rest of the
+dialog: double helix.
+text: Aldys smiles and unhooks herself from the group. And starts
+dialog: to dance with Guy.
+text: ANGLE ON: JOSIE AND SAM as they continue to dance.
+speaker_heading: SAM
+dialog: Proms always make me sad. They're
+dialog: so final. Graduation. Everyone's
+text: scattering, moving on.
+speaker_heading: JOSIE
+dialog: Well, are you here with anybody?
+speaker_heading: SAM
+dialog: No, I'm alone.
+speaker_heading: JOSIE
+dialog: It's weird because "prom" is
+text: actually from the word "promenade".
+dialog: And you can't really promenade
+dialog: alone, can you?
+text: Sam smiles at this.
+speaker_heading: SAM
+dialog: You're amazing, Josie Geller.
+text: ANGLE ON: GUY AND ALDYS as they dance, WE SEE the Cool
+text: Girls and Jason standing to the side of the dance floor
+text: laughing Gibby reaches into her purse and pulls out a CAN
+text: OF ALPO. She hands it to Jason who pulls a CAN OPENER out
+text: of his pocket, opens the lid. He hands it to Kirsten who
+text: take the lid off. She hands the can to Kristen, who hands
+dialog: the can to Tommy.
+speaker_heading: SAM
+dialog: So--have you thought anymore about
+dialog: Dartmouth?
+speaker_heading: JOSIE
+dialog: Yeah, I have.
+text: CLOSE UP on Josie's HAND as she subtlety removes her hidden
+text: camera pin and drops it to the ground.
+speaker_heading: JOSIE
+dialog: There's something I have to tell
+dialog: you--
+text: Her foot comes down on top of it.
+scene_heading: INT. GEORGE'S VAN - CONTINUOUS
+text: George is making out with his Date when the monitor suddenly
+text: FRITZES OFF. George looks up.
+speaker_heading: GEORGE
+dialog: What the--?!
+text: George stands and hits the side of the monitor.
+scene_heading: INT. GUS'S OFFICE - CONTINUOUS
+text: Gus's monitor flicks to static. The Crowd lets out a
+text: horrified GASP.
+speaker_heading: CYNTHIA
+dialog: Tell him what?! Tell him what?!
+scene_heading: INT. COUNTRY CLUB - DANCE FLOOR - CONTINUOUS
+text: Sam looks deep into Josie's eyes.
+speaker_heading: SAM
+dialog: There's something I have to tell
+dialog: you, too--
+text: Josie's eyes shift from Sam to over his shoulder. She spots
+text: Aldys, who smiles at her. Josie's eyes travel up to the
+text: can of DOG FOOD.
+scene_heading: FLASH: TEENAGE JOSIE
+text: on the porch, facing Billy and his Date.
+scene_heading: FLASH: TEENAGE JOSIE
+text: with egg dripping all over her.
+text: BACK TO PRESENT.
+speaker_heading: JOSIE
+speaker_heading: NOOOOOOO!
+text: SLOW MOTION as Josie lunges for Aldys and pulls her to
+text: floor as Tommy, off-balance, dumps the dog food all down
+text: Guy's front. The Crowd stops dead, staring. The can, now
+text: empty, rolls slowly off the dance floor, the metal rolling
+text: noise ECHOING in the silence.
+speaker_heading: GUY
+dialog: (to Josie)
+dialog: What is your problem?!
+speaker_heading: GIBBY
+dialog: I knew it. You are a loser.
+speaker_heading: KRISTEN
+dialog: You ruined the whole thing!
+speaker_heading: KIRSTEN
+dialog: You so do not deserve to be prom
+dialog: queen.
+text: Everyone is still staring. It's dead quiet.
+speaker_heading: JOSIE
+dialog: Let me tell you something.
+text: It is still silent. Josie takes a deep breath, and looks
+text: around the room.
+speaker_heading: JOSIE
+dialog: I don't care about being the prom
+dialog: queen. I am twenty five years old.
+text: Looks of confusion and teenage disgust. Rob is pissed. Sam
+text: looks shocked.
+speaker_heading: JOSIE
+dialog: I'm here as an undercover reporter
+dialog: for the Sun Times for God's sake
+dialog: and I've been beating my brains
+dialog: out trying to impress you.
+text: She tears off her crown, and chucks it. She's on a roll.
+speaker_heading: JOSIE
+dialog: I want to tell you something. You
+dialog: people- Guy, Gibby, the rest of
+dialog: you who have been keeping the geeks
+dialog: down through the ages. You will
+dialog: spend your lives trying to figure
+dialog: out ways to keep others down,
+dialog: because it makes you feel more
+dialog: important. And you will miss out
+dialog: on so much.
+dialog: (indicating Aldys)
+dialog: Why her, huh? What did she ever
+dialog: do to you? Let me tell you something
+dialog: about this girl. She is
+dialog: unbelievable. I was new here, and
+dialog: she befriended me- no questions
+dialog: asked. But you people, you were my
+dialog: friends only after my brother,
+dialog: Rob...
+text: She points out Rob in the crowd. He's mortified.
+speaker_heading: JOSIE
+dialog: posed as a student and told you to
+dialog: like me. But y'know--l have to
+dialog: thank you. I got to go to an amazing
+dialog: prom. I got to be prom queen. I
+dialog: got to be cool. It felt good.
+dialog: (beat)
+dialog: But not as good as being myself.
+dialog: (turns to crowd)
+dialog: And to all of you-- there's a big
+text: world out there. Bigger than prom.
+dialog: Bigger than high school. When you
+dialog: get there, it won't matter if you
+dialog: were prom queen or the quarterback
+dialog: or the biggest nerd in school.
+dialog: What matters is that you don't
+dialog: regret who you were, who you are-
+dialog: What if Steven Spielberg had quit
+dialog: the audio/visual club because it
+dialog: wasn't "cool"? What if Rosie
+dialog: O'Donnell had stopped cracking
+dialog: jokes because someone told her
+dialog: they were stupid? What if Michael
+dialog: Jordan never went back to basketball
+dialog: after he got cut from his high
+dialog: school team?.
+dialog: (a beat)
+dialog: In this room right now, there could
+dialog: be a future Nobel Prize winner, a
+dialog: Supreme Court Justice, an amazing
+dialog: Mom. Find out who you are and don't
+dialog: be afraid of it.
+dialog: (a beat)
+dialog: And if you'll all excuse me, I
+dialog: have some business to take care
+dialog: of.
+text: Reaction shots' all around. Kids start clapping, hollering,
+text: whooping. The MUSIC STARTS UP again. They all go back to
+text: dancing The Denominators lead their own conga line.
+speaker_heading: ANGLE ON: JOSIE
+text: She looks around for Sam but he is gone. She runs out,
+text: brushing past the Judges.
+speaker_heading: ANGLE ON: JUDGES
+text: Judge #2 dabs his eyes.
+speaker_heading: JUDGE #1
+dialog: This prom had it all. Laughter,
+text: tears, an amazing climax.
+text: Judge #2, still overcome, just raises his "two thumbs up."
+scene_heading: EXT. COUNTRY CLUB PARKING LOT - MOMENTS LATER
+text: Josie exits the club, looking for Sam. George runs up to
+dialog: her.
+speaker_heading: GEORGE
+dialog: Hey--I lost the feed! What happened
+dialog: with Coulson? Gus is going crazy!
+text: Out of the shadows emerges Sam. The look on his face says
+dialog: he just heard everything.
+speaker_heading: JOSIE
+dialog: So--surprise!
+text: He shakes his head in disbelief and walks off. Josie chases
+text: after him. He turns back to her.
+speaker_heading: SAM
+dialog: "Surprise!" you were doing a story
+dialog: on me?!
+speaker_heading: JOSIE
+dialog: No, surprise, I thought you'd be--
+speaker_heading: SAM
+dialog: What? Happy? Why? Because it turns
+dialog: out all along that I was allowed
+dialog: to be attracted to you?
+speaker_heading: JOSIE
+dialog: (touched)
+dialog: You were attracted to me?
+speaker_heading: SAM
+dialog: Goddamnit, Josie! Drop the act. Do
+dialog: you have any idea what I went
+dialog: through every night because of
+dialog: you?! I was attracted to a 17
+dialog: year old! When I wasn't taking
+dialog: cold showers, I was trying to figure
+dialog: out what the hell I was going to
+dialog: do when I couldn't teach anymore!
+dialog: I thought I was the one being
+dialog: unethical.
+speaker_heading: JOSIE
+dialog: Wait, I was going to tell you--
+speaker_heading: SAM
+dialog: You set me up. For a story.
+dialog: (beat)
+dialog: You know what's crazy? I was
+dialog: actually considering waiting for
+dialog: you.
+speaker_heading: JOSIE
+dialog: But now you don't have to--
+speaker_heading: SAM
+dialog: Now I don't want to! I bought all
+dialog: of your penguin crap. I thought I
+dialog: found her--the right one! And the
+dialog: problem was she was too young! No -
+dialog: the problem was--she didn't even
+dialog: exist!
+speaker_heading: JOSIE
+dialog: I did exist. I do exist. I'm the
+dialog: same person!
+speaker_heading: SAM
+dialog: The person I cared about wouldn't
+dialog: have done this. Everything out of
+dialog: your mouth has been a complete
+dialog: lie. I don't know you at all. For
+dialog: all I know you could hate Dorothy
+dialog: Parker.
+speaker_heading: JOSIE
+dialog: I don't! Look, you could get to
+dialog: know me, again.
+text: Sam turns and starts to walk away.
+speaker_heading: JOSIE
+dialog: Please. Please don't walk away.
+speaker_heading: SAM
+dialog: I just can't look at you the same
+dialog: way.
+text: Sam gets into his car and drives off. Josie is devastated.
+scene_heading: INT. JOSIE'S APARTMENT BUILDING - HALLWAY - LATER
+text: Josie, still in the prom dress, rounds the corner of her
+text: apartment hallway and sees Rob, still in his Risky Business
+text: get-up, slumped in front of the door.
+speaker_heading: ROB
+dialog: Josie, finally. I just wanted to
+dialog: come over and make sure you're
+dialog: okay.
+speaker_heading: JOSIE
+dialog: Really?
+text: He gets up. He's not happy.
+speaker_heading: ROB
+dialog: No- not really, Josie. NOT REALLY.
+dialog: How could you do that to me? I
+dialog: helped you. I got you everything
+dialog: you wanted. And how do you repay
+dialog: me- you blow everything TWO DAYS
+dialog: before pro scouts come to see me
+dialog: play. Once they had seen me really
+dialog: play- they wouldn't have given a
+dialog: shit about my age.
+speaker_heading: JOSIE
+dialog: wasn't even thinking about-
+speaker_heading: ROB
+dialog: No, you weren't. Don't you realize
+dialog: the only time I was really happy
+dialog: in the last five years was when I
+dialog: was playing ball with those guys?
+speaker_heading: JOSIE
+dialog: I-
+speaker_heading: ROB
+dialog: No, shut up, Josie. Just shut up.
+text: He storms off.
+scene_heading: INT. JOSIE'S BEDROOM - LATER THAT NIGHT
+text: Josie lies amidst the needlepoint pillows, still in her
+text: prom costume. She stares blankly at the ceiling.
+scene_heading: INT. GUS'S OFFICE - DAY
+text: Gus slaps a newspaper down on his desk.
+text: CLOSE ON - the front page of the paper, and not just any
+text: newspaper - THE CHICAGO TRIBUNE - the Sun Times' rival.
+text: There is a PHOTO of Josie from Prom with the headline that
+text: reads: "REPORTER REVEALED AT LOCAL HIGH SCHOOL".
+text: Josie picks it up, and starts reading.
+speaker_heading: GUS
+dialog: Your story was Rigfort's baby. We
+dialog: were scooped! We've got nothing.
+dialog: Zippo. You totally and completely
+dialog: screwed both of us.
+speaker_heading: JOSIE
+dialog: Maybe I could talk to Rigfort, you
+dialog: know, tell him the whole story.
+speaker_heading: GUS
+dialog: I'll tell you a story. It's about
+dialog: this shy copy editor who makes a
+text: mockery of herself and her boss
+text: when she completely botches her
+dialog: first assignment as a reporter.
+text: Josie stands. Slams down the paper.
+speaker_heading: JOSIE
+dialog: We are not screwed. Yes, I made a
+dialog: mistake. But we will have a story.
+dialog: (beat)
+dialog: You will have an amazing story.
+text: Josie exits.
+scene_heading: INT. SUN TIMES BULLPEN - CONTINUOUS
+text: Josie walks out of Gus's office, continues, determined,
+text: towards the elevators. Anita falls into step with her.
+speaker_heading: ANITA
+dialog: Josie! Josie, how'd it go? Did he
+dialog: ream you?
+speaker_heading: JOSIE
+dialog: Yeah, but I'm okay. I've got some
+dialog: work to do.
+speaker_heading: ANITA
+dialog: You need my help?
+speaker_heading: JOSIE
+dialog: No, thanks--I'm doing this on my
+dialog: own.
+text: Josie walks past Merkin's desk. She holds out her hand to
+dialog: Merkin.
+speaker_heading: JOSIE
+dialog: Merkin. Highlighter.
+text: Merkin slaps a highlighter into her hand, she continues
+text: on. Anita watches her go.
+scene_heading: EXT. SOUTHGLEN HIGH SCHOOL - DAY
+text: Josie, looking quite the professional in stylish pantsuit
+text: and briefcase, bounds up the steps, two at a time.
+scene_heading: INT. HIGH SCHOOL HALLWAY - SAME
+text: Josie walks down the hall, purposefully - she is on a
+text: mission. Groups of kids stop and stare at her, but this
+text: time, Josie doesn't even notice.
+text: As Josie rounds a corner, she comes face to face with Guy,
+text: who is at his locker. He looks at her. She smiles. And now
+text: it is Guy that is nervous. He drops a pile of papers, tries
+text: awkwardly to gather them. Josie looks at him - and for the
+text: first time we see it register on her face - this guy is
+text: just a seventeen- year-old kid.
+speaker_heading: GUY
+dialog: Uh, hey, umm--Ms. Geller. This is
+dialog: totally embarrassing but my mom,
+dialog: she's all worried about me getting
+dialog: a job after graduation. She wanted
+dialog: me to ask you about like, an
+dialog: internship for me, at the Sun Times?
+text: Josie smiles big.
+speaker_heading: JOSIE
+dialog: I'll do what I can. And tell your
+dialog: mom not to worry - you'll do O.K.
+text: Josie continues down the hall.
+scene_heading: INT. LOCKER ROOM - SAME
+text: The guys' locker room. A bunch of GUYS are getting dressed
+dialog: after P. E.
+speaker_heading: JOSIE (O.S.)
+scene_heading: WOMAN COMING THROUGH! COVER UP
+dialog: WHAT YOU DON'T WANT SEEN!
+text: And with that Josie comes walking into the locker room,
+text: completely unruffled, and storms over to Coach Romano's
+text: office, just as he is leaving it.
+speaker_heading: JOSIE
+dialog: Hi, Coach Romano, my name is Josie
+dialog: Geller, from the Chicago Sun Times
+dialog: Listen, you know the local sports
+dialog: guy for the Sun Times, Jim Lakin?
+speaker_heading: COACH
+dialog: Sure, every coach in the area tries
+dialog: to get Jim to cover his team.
+text: Josie puts her arm around the coach, and leads him back
+text: into his own office.
+speaker_heading: JOSIE
+dialog: Well, what would you say if I told
+dialog: you that I could guarantee that
+dialog: Jim and every other reporter in
+dialog: the area would be at the game?
+speaker_heading: COACH
+dialog: I'd say you can have whatever the
+dialog: hell you want.
+text: Josie smiles, together they enter his office and close the
+dialog: door.
+scene_heading: INT. JOSIE'S APARTMENT - DAY
+text: Josie sits at her disk, typing on her laptop, engrossed.
+speaker_heading: JOSIE (V.O.)
+dialog: Someone once told me that to write
+dialog: well you have to write what you
+dialog: know. This is what I know. I am
+dialog: twenty five years old. I have never
+dialog: really kissed a guy. A geek to the
+dialog: core, most of my childhood years
+dialog: were spent doing extra homework I
+dialog: requested from the teacher.
+scene_heading: INT. GUS' OFFICE - DAY
+text: Gus comes in, snaps on the light, sits at his desk, and
+text: opens his newspaper. He pulls out, the "Life and Style"
+dialog: section.
+scene_heading: And there it is. Front page - "NEVER BEEN KISSED BY JOSIE
+text: GELLER." There are three pictures next to the article.
+text: One is Josie at age 17, one is her recent prom picture,
+text: and one is her as a normal, 25 yr. old adult.
+speaker_heading: JOSIE (V.O.)
+dialog: High school was more of the same.
+dialog: Then, at seventeen, it seemed as
+dialog: if my luck was about to change.
+dialog: The cutest guy in school asked me
+dialog: to senior prom - but it turned out
+dialog: he invited me as a cruel joke. I
+dialog: have never fully recovered.
+scene_heading: INT. SUN TIMES LUHCHROOH - DAY
+text: Anita and Cynthia read the article, in the staff lunch
+text: room, over a shared bag of microwave popcorn. They are
+dialog: astounded-
+speaker_heading: JOSIE (V.O.)
+dialog: Yes, it is embarrassing to share
+dialog: this with the world. But it would
+dialog: be hard to explain what I learned,
+dialog: and how I learned it, without
+dialog: sharing this humiliating history.
+scene_heading: EXT. A HOUSE - MORNING
+text: The Sun Times lies on the front mat. The door opens; we
+text: see a pair of bare feet. A hand reaches down to grab the
+text: paper. WE PAN UP to reveal Sam in all his depressed glory--
+text: sweats, unshaven, bleary eyed.
+speaker_heading: JOSIE (V.O.)
+dialog: I received an assignment, my first
+dialog: as a reporter, to enroll in high
+dialog: school as a student, to gain some
+dialog: insight into kids today.
+dialog: Understandably, returning to high
+dialog: school was my worst nightmare.
+text: Sam shuts the door.
+scene_heading: EXT. SOUTHGLEN HIGH SCHOOL - DAY
+dialog: Kids stream into school.
+speaker_heading: JOSIE (V.O.)
+dialog: What I found?
+scene_heading: INT. MRS. KNOX'S CIASSROOM - DAY
+text: Mrs. Knox, wearing the sombrero, teaches her class.
+speaker_heading: JOSIE (V.O.)
+dialog: There's still that one teacher,
+text: who marches to her own drummer-
+text: And in the back row, Kirsten, Kristen and Gibby are laughing
+dialog: an talking--
+speaker_heading: JOSIE (V.O.)
+dialog: Those girls are still there. The
+dialog: ones that, even as you grow up,
+dialog: will still be the most beautiful
+dialog: girls that you've ever seen close
+dialog: up.
+scene_heading: EXT. BASEBALL DIAMOND - DAY
+text: THE BASEBALL TEAM AS THEY PRACTICE-
+speaker_heading: JOSIE (V.O.)
+dialog: The athletes - and the immense
+dialog: sense of fraternity and loyalty
+dialog: that they share-
+scene_heading: INT. SCIENCE LAB - DAY
+scene_heading: ALDYS AND THE DENOMINATORS- MAKING SMORES OVER A BUNSON
+text: BURNER GETTING INTO A MELTED CHOCOLATE AND MARSHMALLOW
+scene_heading: FIGHT- AND LAUGHING HYSTERICALLY-
+speaker_heading: JOSIE (V.O.)
+dialog: The smart kids. Who everyone else
+dialog: always knew as the brains. But who
+dialog: I just knew as my soulmates, my
+dialog: teachers, my friends.
+scene_heading: EXT. PARKING LOT - DAY
+text: GUY, TOMMY AND JASON, AS THEY GET OUT GUY'S CAR, IN THE
+scene_heading: PARKING LOT-
+speaker_heading: JOSIE (V.O.)
+dialog: And there's still that one guy,
+dialog: the one who is so perfect in every
+dialog: way, from the muscles in his
+dialog: shoulders-
+scene_heading: EXT. HIGH SCHOOL - DAY
+text: WE FOCUS IN ON GUY, AS HE TAKES THE FRONT STEPS TWO AT A
+speaker_heading: TIME-
+speaker_heading: JOSIE (V.O.)
+dialog: - to the way he, in his own way,
+dialog: struggles to uphold tradition.
+dialog: Southglen would not have been the
+dialog: same without him. High school would
+dialog: not be the same without him. I
+dialog: would not have been the same without
+dialog: him.
+scene_heading: INT. HIGH SCHOOL HALLWAY - DAY
+scene_heading: GUY, HIS BUDDIES, KIRSTEN, KRISTEN AND GIBBY, SIGN
+text: YEARBOOKS, HANG OUT BY THE LOCKERS-
+speaker_heading: JOSIE (V.O.)
+dialog: All of these things made me
+dialog: miserable at seventeen. But at
+dialog: twenty five I finally see that
+dialog: this - all of this- is just the
+dialog: way it should be. It is all part
+dialog: of this thing- high school. A time
+dialog: in our lives that we can never
+text: truly repeat. A time that shapes
+dialog: us. A time that makes us who we
+dialog: are, for years to come.
+scene_heading: EXT. NEWSSTAND - DAY
+scene_heading: HANDS GRAB CHICAGO SUN TIMES AT THE NEWSSTAND-
+speaker_heading: JOSIE (V.O.)
+dialog: High school- going through it the
+dialog: first time- helped make me who I
+dialog: am. But going there a second time
+dialog: made me see that who I am is O.K.
+dialog: I always wanted to be "in", but
+dialog: seven years later, when they finally
+dialog: opened the door, I somehow gained
+dialog: the confidence to stay outside,
+text: firmly, happily.
+scene_heading: EXT. "EL" TRAIN PLATFORM - DAY
+dialog: About 75% of the people have their Life and Style sections
+text: opened, reading Josie's piece.
+speaker_heading: JOSIE (V.O.)
+dialog: This is not the article I was sent
+dialog: in to write. This is the article I
+dialog: needed to write. I lived a lifetime
+dialog: of regret after my first high school
+dialog: experience, and now, after my
+dialog: second, my regrets are down to
+dialog: one.
+scene_heading: INT. SAM'S KITCHEN - MORNING
+text: The kitchen of a depressed guy--empty pizza boxes next to
+text: a dying plant. Sam pours milk into a bowl of Lucky Charms
+text: while he reads the Sports Section of the paper.
+speaker_heading: JOSIE (V.O.)
+text: A certain teacher was trampled in
+dialog: my path to self-discovery, and
+dialog: though this article may serve as a
+dialog: step, it in no way makes up for
+dialog: what I did to him.
+text: He's not paying attention and the milk overflows the bowl,
+text: soaking the table.
+speaker_heading: JOSIE
+dialog: To this man, you know who you are,
+dialog: I am so sorry.
+text: He takes the wet paper, using it like a sponge, he sops up
+text: the remaining milk, and throws the paper into an open trash
+text: can. He leaves the kitchen. WE HOLD ON the empty room.
+speaker_heading: JOSIE
+dialog: And, I would like to add one more
+dialog: thing - I think I am in love with
+dialog: you.
+scene_heading: EXT. BASEBALL, STADIUM PARKING LOT  NIGHT
+text: Cars begin to fill the parking lot in a steady stream.
+speaker_heading: JOSIE (V.O.)
+dialog: And so I propose this - as an ending
+dialog: to this article, and, perhaps, as
+dialog: an ending to this portion of my
+dialog: life. I, Josie Geller, will be at
+dialog: the State Championship baseball
+dialog: game  where my friends the
+text: Southglen Rams are playing for the
+dialog: title.
+scene_heading: EXT. BASEBALL FIELD - NIGHT
+text: The Southglen Rams baseball team minus Rob, are on the
+text: field, warming up.
+speaker_heading: JOSIE (V.O.)
+dialog: I will stand on the pitcher's mound
+dialog: for the five minutes prior to the
+dialog: first pitch. If this man accepts
+dialog: my apology, I ask him to come to
+dialog: kiss me, in front of everyone, for
+dialog: my first real kiss.
+text: We find a nervous looking Josie standing in the dugout.
+speaker_heading: JOSIE
+text: Five minutes may seem like a short
+dialog: time, but trust me, when you've
+dialog: been waiting twenty-five years,
+dialog: it's usually the last five minutes
+dialog: that kill you.
+text: CU: THE PICTURE TAKEN OF JOSIE AND SAM AT THE PROM.
+speaker_heading: JOSIE (V.O.)
+dialog: I went back to high school and
+dialog: discovered I was a loser, again.
+text: WIDEN TO REVEAL the picture on the fridge in--
+scene_heading: INT. SAM'S KITCHEN - EVENING
+text: Sam enters, still in sweats, carrying a book. He opens the
+text: fridge, grabs a beer, shuts it, is confronted by Josie's
+text: picture. He takes it down, looks at it.
+speaker_heading: JOSIE
+dialog: And then I discovered it wasn't so
+dialog: bad. I wasn't so bad. So, now that
+dialog: I'm ready to start living the rest
+dialog: of my life, it would be magical if
+dialog: I could live the rest of it with
+dialog: him.
+text: Sam lets the photo slowly drop from his hand into the trash.
+speaker_heading: JOSIE
+dialog: Because inside everyone is a loser
+dialog: afraid to be loved, and out there
+dialog: is the one person who can kiss us
+dialog: and make it all better.
+text: WE FOLLOW Sam's stare down into the trash and see the photo
+text: lying on top and to the side of Josie's article--the photos
+text: from the article are clearly visible.
+text: ANGLE ON HOT DOGS, POPCORN CHANGING HANDS being sold by
+text: the truckload at the stadium. The crowds are over capacity.
+text: Way over. People fill the parking lot, they cover every
+text: other inch of school grounds, as well. They stand on the
+text: roofs of nearby buildings, they sit on top of their cars.
+text: It looks like most of Chicago is either already there, or
+text: on their way.
+text: Some WOMEN hold signs for Josie, others hold and wave her
+dialog: article.
+text: Josie sticks her head out of the dugout, and looks out at
+text: the fans. TV REPORTERS are everywhere, including several
+text: on the field. She looks like she may faint. She ducks back
+dialog: in.
+scene_heading: INT. DUGOUT - SAME
+text: The team is dressed, ready, excited. Anita and Aldys stand
+text: next to Josie. Josie looks up at the crowd, amazed.
+speaker_heading: JOSIE
+dialog: Wow. It's packed.
+speaker_heading: ANITA
+dialog: It's great! They're behind you.
+dialog: They feel like they know you.
+speaker_heading: ALDYS
+dialog: It's romantic, what you're doing,
+dialog: and they want to be a part of it.
+speaker_heading: JOSIE
+dialog: Well I'm so glad that you guys
+dialog: are.
+text: Josie then starts to hyperventilate. She puts her head
+text: between her ankles. Anita and Aldys both grab the brown
+text: paper bag and hand it to Josie. She hyperventilates into
+text: it. Coach Romano approaches. Josie puts the bag down.
+speaker_heading: COACH
+dialog: Sweet Jesus, Geller - I had no
+dialog: idea there'd be all these TV crews
+dialog: here. This thing's gonna be on
+dialog: every station in the country.
+text: Josie immediately begins hyperventilating into the bag
+dialog: again.
+speaker_heading: COACH
+dialog: You more than kept your end of the
+dialog: bargain. Now go out there and get
+dialog: 'em.
+text: Josie gets up and he slaps her on the ass. She hugs Aldys.
+text: Then Anita gives Josie a big hug, and won't let go. Josie
+text: has to pull Anita pulls back. Josie struggles to get out
+text: of the hug- Anita won't let her. Finally, they are both
+dialog: laughing.
+text: Josie walks out of the dugout, and onto the field.
+scene_heading: EXT. PITCHER'S MOUND - SAME
+text: She walks, alone, out to the pitcher's mound, clutching a
+text: microphone. The crowd goes berserk. She stands until they
+dialog: quiet.
+speaker_heading: JOSIE
+dialog: Could I have five minutes on the
+dialog: clock, please?
+text: The scoreboard clock reads 5:00. Josie stands, alone.
+scene_heading: EXT. BOX SEATS  SAME
+text: The staff from the Sun Times sits in box seats up front.
+text: Rigfort joins them, carrying a huge load of hot dogs.
+speaker_heading: RIGFORT
+dialog: I got weiners. Hot weiners.
+text: Rigfort sits next to Gus. Behind them sit Bruns, his hair
+text: finally growing in and Howard, now down to just a sling.
+speaker_heading: RIGFORT
+dialog: I love this. Sun Times readers,
+dialog: out here, making a personal
+dialog: connection to one of our reporters.
+dialog: This is amazing, isn't it? Weiner?
+text: Gus takes a weiner.
+speaker_heading: GUS
+dialog: Yeah, it is.
+speaker_heading: RIGFORT
+dialog: (studying his weiner)
+dialog: Wait a minute...
+text: Rigfort pulls something small and shiny out of the bun.
+speaker_heading: RIGFORT
+dialog: There's a bolt in my weiner.
+text: Then he turns back to Howard and smiles.
+speaker_heading: RIGFORT
+dialog: Hey Howard, what are you doing for
+dialog: the next month?
+text: Howard's face falls.
+scene_heading: EXT. PITCHER'S MOUND - SAME
+text: Josie still stands there. The clock is down to 2:30. She
+text: looks over to the dugout.
+scene_heading: EXT. BLEACHERS - SAME
+text: The Denominators talking and laughing. Behind them, sit
+dialog: the Marching Band
+scene_heading: EXT. PITCHER'S MOUND  SAME
+text: Josie forces-a stoic smile. 1:00 is on the clock.
+scene_heading: EXT. BLEACHERS - SAME
+text: The cool crowd. Guy, Kirsten and the gang. They are trying
+dialog: start the wave, but its not working.
+scene_heading: EXT. PITCHER'S MOUND - SAME
+text: The clock reads: 20.
+scene_heading: EXT. BOX SEATS - SAME
+text: The Sun Times box. Anita clutches Gus's hand for dear life
+text: has her eyes squeezed tight. The crowd keeps chanting.
+scene_heading: EXT. BLEACHERS - SAME
+dialog: Everyone - including all the Denominators are on their
+text: feet, chanting. Aldys cheers the loudest.
+scene_heading: EXT. STANDS - SAME
+text: The women are on their feet, chanting.
+scene_heading: EXT. BLEACHERS - SAME
+text: Guy and the Gang are on their feet.
+scene_heading: EXT. PITCHER'S MOUND - SAME
+text: Josie stands, clutching the mic. The clock reads: 10.
+speaker_heading: CROWD
+scene_heading: TEN - NINE - EIGHT - SEVEN - SIX -
+text: Josie stands there, head still held high.
+speaker_heading: CROWD
+scene_heading: FIVE - FOUR - THREE - TWO -
+text: Josie steals a look to the dugout. No one is coming out
+dialog: the door.
+speaker_heading: CROWD
+dialog: ONE!!
+text: Josie makes one more desperate look around. No one is
+text: running toward her.
+text: CLOSE UP on Josie, completely crestfallen. She drops the
+text: microphone. It reverbs in the silent stadium.
+text: WE PAN ACROSS the Crowd, all defeated. And then...
+text: A commotion in the stands. Sam bursts through the crowd.
+text: He runs toward the mound. The Crowd is on their feet.
+text: It feels like a lifetime before he reaches Josie, grabs
+text: her, pulls her close to him.
+speaker_heading: SAM
+dialog: I told you you could write, Josie
+dialog: Geller.
+speaker_heading: JOSIE
+dialog: I finally found my story.
+text: And they kiss passionately. The most amazing, most waited-
+dialog: for kiss in the history of man. A kiss that will last
+dialog: forever.
+scene_heading: INT. DUGOUT - SAME
+text: Rob is in his baseball uniform, cheering up a storm. Across
+text: his chest is emblazoned: "ASSISTANT COACH".
+scene_heading: EXT. BOX SEATS - SAME
+text: Anita is so thrilled, she reaches over and plants a big
+text: one on Gus. She is surprised. So is he. They like it.
+scene_heading: EXT. BLEACHERS - SAME
+text: The Denominators and Aldys cheer their brains out.
+scene_heading: EXT. BLEACHERS - SAME
+dialog: Guy, Kirsten, etc. have finally succeeded in starting the
+dialog: wave.
+scene_heading: EXT. PITCHER'S MOUND - SAME
+dialog: MUSIC UP: The Beach Boys "And Then I Kissed Her" as Josie
+text: and Sam continue to kiss as the CAMERA PULLS UP, taking in
+text: the kiss, the Crowd, the stadium... CAMERA SPINS UP as
+text: FIREWORKS go off above the stadium... And we watch as the
+text: stadium becomes a speck against the glittering backdrop of
+dialog: Chicago.
+speaker_heading: FADE OUT:
+speaker_heading: THE END
+dialog: 

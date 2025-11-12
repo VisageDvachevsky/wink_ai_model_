@@ -1,0 +1,2430 @@
+dialog: 
+dialog: window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app100.us.archive.org';v.server_ms=850;archive_analytics.send_pageview({});});
+dialog: __wm.init("https://web.archive.org/web");
+scene_heading: __wm.wombat("http://www.pages.drexel.edu:80/~ina22/splaylib/Screenplay-Pushing_Daisies-pilot.HTM","20160318124510","https://web.archive.org/","web","/_static/",
+dialog: "1458305110");
+dialog: Screenplay-Pushing_Daisies-pilot.MMSW
+speaker_heading: PUSHING DAISIES
+dialog: 
+speaker_heading: "PIE-LETTE"
+dialog: 
+dialog: (2007)
+dialog: 
+dialog: Written By Bryan Fuller
+dialog: 
+dialog: 
+dialog: Lee Pace...........................................Ned
+dialog: Anna Friel...................Charlotte 'Chuck' Charles
+dialog: Chi McBride................................Emerson Cod
+dialog: Jim Dale..............................Narrator (voice)
+dialog: Ellen Greene............................Vivian Charles
+dialog: Swoosie Kurtz.............................Lily Charles
+dialog: Kristin Chenoweth..........................Olive Snook
+dialog: Patrick Breen..............................Leo Gaswint
+dialog: Terry Anzur..............................Newscaster #3
+dialog: Ed Brigadier...............................Minister #1
+dialog: Field Cate...................................Young Ned
+dialog: Ted Garcia...............................Newscaster #1
+dialog: Murray Gershenz..................................Rabbi
+dialog: Tina Gloss................................Ned's Mother
+dialog: Brad Grunberg.........................Funeral Director
+dialog: Sammi Hanratty.............................Young Chuck
+dialog: Geraud Moncure...........................Newscaster #4
+dialog: Leyna Nguyen.............................Newscaster #2
+dialog: Sy Richardson..................................Coroner
+dialog: Greg Suddeth............................Gravedigger #1
+dialog: David Trice........................Martin Miltinberger
+dialog: Julie Wittner..........................Deedee Duffield
+dialog: Jeff Wolfe..........................Shiny Shoes Killer
+dialog: 
+dialog: 
+dialog: 
+speaker_heading: ACT ONE
+speaker_heading: DIRT
+text: CAMERA MOVES up through the earth finding the gnarled tips
+dialog: of a perennial weed. We RISE out of the soil REVEALING a
+dialog: beautiful blooming daisy. In fact, it's an entire...
+scene_heading: 1 EXT. FIELD OF DAISIES - DAY - FLASHBACK 1
+dialog: CAMERA FLIES OVER the "Welcome to Couer d'Couers" sign at
+dialog: the field's edge to FIND a bright, care-free boy of about 10
+dialog: (YOUNG NED) racing through the flowers sending petals flying
+text: as he chases his dog DIGBY, an adorable yellow lab as bright
+dialog: and care-free as Young Ned. Our OMNISCIENT NARRATOR (imagine
+dialog: Patrick Stewart reading a bedtime story) begins:
+speaker_heading: NARRATOR
+dialog: At this very moment in the town of
+dialog: Couer d'Couers, Young Ned was 9 years,
+dialog: 27 weeks, 6 days, and 3 minutes old.
+text: Young Ned is only a few feet behind his dog, 3 sets of legs
+text: speeding through the brush. He reaches out trying to make
+dialog: contact, but Digby is just out of touch. Closer... closer...
+text: The brush gives way to a clearing. Closer... closer, still...
+speaker_heading: NARRATOR (CONT'D)
+dialog: His dog Digby was 3 years, 2 weeks,
+dialog: 6 days, 5 hours and 9 minutes old.
+text: WHAM. Out of nowhere, Digby is HIT BY A PASSING SEMI-TRUCK.
+text: A BLUR OF BIG RIG obscures the impact. Ned stops, horrified.
+speaker_heading: NARRATOR (CONT'D)
+dialog: And not a minute older.
+text: TIME SLOWS TO A CRAWL. FUR SAILS THROUGH THE AIR, as if Digby
+dialog: was taking flight by his own propulsion. ALL SOUND DROPS OUT
+text: except for the RAPID, RHYTHMIC POUNDING of Ned's HEART and
+text: the EXPANSION AND CONTRACTION of his LUNGS.
+text: He approaches the unmoving body of his dead dog Digby.
+speaker_heading: NARRATOR (CONT'D)
+dialog: This was the moment Young Ned realized
+dialog: he wasn't like the other children.
+dialog: Nor was he like anyone else for that
+dialog: matter.
+text: Ned kneels down beside Digby and as he reaches out to stroke
+dialog: the dog's matted fur... CAMERA JUMP CUTS TO:
+scene_heading: AN EXTREME-EXTREME-EXTREME-EXTREME CLOSE UP OF NED'S FINGER
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 2.
+text: The ridges of his fingertip look like circular troughs. As
+text: Ned touches his dog we see a small STATIC POP OF ELECTRICITY
+dialog: between his finger and Digby's fur.
+speaker_heading: CAMERA JUMPS WIDE
+text: TIME RESUMES TO NORMAL as Digby inexplicably scrambles to
+text: his feet with a happy dog-smile on his face and runs off
+dialog: into the field of daisies.
+speaker_heading: NARRATOR (CONT'D)
+dialog: Young Ned could touch dead things
+dialog: and bring them back to life.
+text: Young Ned watches slack-jawed and furrow-browed as Digby
+text: disappears over the horizon. He stares at his finger, not
+dialog: sure exactly what just happened.
+speaker_heading: CLOSE ON - A FLY
+text: It lands on a cupboard door and darts to and fro until SMACK.
+dialog: A FLY SWATTER ends its life in one abrupt movement. We are...
+scene_heading: 2 INT. NED'S CHILDHOOD HOME - KITCHEN - DAY - FLASHBACK 2
+text: The dead fly lands on the counter top. Young Ned's MOTHER
+text: sets the fly swatter down and returns to lovingly preparing
+text: a pie, pressing dough into the pie plate.
+speaker_heading: NARRATOR
+dialog: It was a gift given to him, but not
+dialog: by anyone in particular. There was
+dialog: no box, no instructions, no
+dialog: manufacturer's warranty. It just
+dialog: was.
+text: Young Ned peers over the edge of the counter, reaching in
+text: and touching the dead fly. There's a small ELECTRIC POP then
+text: the fly flies up and out the open window.
+speaker_heading: NARRATOR (CONT'D)
+dialog: The terms of use weren't immediately
+dialog: clear nor were they of immediate
+dialog: concern.
+dialog: CAMERA FOLLOWS THE FLY and Young Ned's gaze to:
+scene_heading: 3 EXT. NEIGHBOR GIRL'S HOME - DAY - FLASHBACK 3
+text: A girl named CHUCK, pig-tails et al, plays in the back yard.
+speaker_heading: NARRATOR
+dialog: Young Ned was in love.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 3.
+dialog: She's making a small village out of mounds of dirt and
+dialog: cardboard boxes with Play-Doh people and toy cars as her
+text: FATHER waters the lawn in the background.
+speaker_heading: NARRATOR (CONT'D)
+dialog: Her name was Chuck. At this very
+dialog: moment, she was 8 years, 42 weeks, 3
+dialog: hours and 2 minutes old.
+dialog: She squeezes a little people head out of the Play-Doh Fun
+text: Factory and places it on the body she's already constructed.
+speaker_heading: NARRATOR (CONT'D)
+dialog: Young Ned did not think of her as
+dialog: being born or hatched or conceived
+dialog: in any way. Chuck came ready made
+dialog: from the Play-Doh Fun Factory of
+dialog: Life.
+dialog: She makes the final few touches on her village and it COMES
+text: TO LIFE THROUGH THE MAGIC OF IMAGINATION.
+speaker_heading: CHUCK'S P.O.V. - IMAGINATION REALIZED
+text: Large as life, TOY CARS drive through tiny streets, and TOY
+text: PEOPLE mill about on tiny sidewalks.
+scene_heading: BOOM. BOOM. BOOM. BOOM. The ground SHAKES. The TOY PEOPLE
+dialog: react to the strangeness... then a GIANT REPTILIAN LEG STOMPS
+text: into a cardboard building, crushing it.
+dialog: CAMERA REVEALS A GIANT PIG-TAILED GODZILLA stomping through
+dialog: the village, sparing no one as PLAY-DOH PEOPLE SCRAMBLE.
+dialog: And just when we think a lone TOM CRUISE-ESQUE PLAY-DOH PERSON
+scene_heading: has escaped... SQUISH. A GIANT RODAN-ESQUE WINGED DINOSAUR
+dialog: looking as much like Ned as the Godzilla looks like Chuck
+dialog: (wearing the same clothes, etc.) stomps him good.
+speaker_heading: SMASH BACK TO REALITY
+text: Chuck and Ned are stomping through the remains of her small
+dialog: village, having an absolute ball and getting very dirty.
+speaker_heading: ON NED
+text: His Mother is sweeping the dirt off of him with a broom.
+scene_heading: 4 INT. NED'S CHILDHOOD HOME - KITCHEN - DAY - FLASHBACK 4
+text: Freshly broomed, Young Ned stares out the window as filthy
+text: Chuck is getting hosed off in the backyard by her Father.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 4.
+speaker_heading: NARRATOR
+dialog: He was under Chuck's spell... until
+dialog: a blood vessel in his mother's brain
+dialog: burst, killing her instantly.
+dialog: IN THE BACKGROUND, WE SEE NED'S MOTHER CUTTING FRUIT ONE
+text: MOMENT THEN ABRUPTLY DROPPING OUT OF FRAME.
+scene_heading: 5 INT. NED'S CHILDHOOD HOME - KITCHEN - DAY - FLASHBACK 5
+text: Young Ned turns away from the window to find his Mother dead
+text: on the linoleum floor next to the stove.
+scene_heading: EXTREME CLOSE UP - MOTHER'S OPEN AND STARING EYE
+text: Young Ned reaches into FRAME and touches his Mother's cheek
+text: just below the eye. A BOLT OF STATIC ELECTRICITY. Her
+text: constricted pupil dilates and Ned's Mother blinks.
+text: DING. The timer goes off.
+speaker_heading: ON NED
+text: He slowly backs away as his Mother stares at him. A CLOCK
+text: appears in the corner of the OUR SCREEN and begins counting
+dialog: down from ONE MINUTE. 59 seconds... 58... 57...
+speaker_heading: NARRATOR
+dialog: Young Ned's random gift that was
+dialog: came with a caveat or two...
+speaker_heading: MOTHER
+dialog: Did the timer go off?
+text: Young Ned nods as his Mother gets to her feet, brushes off
+text: her apron and pulls on a pair of OVEN MITTS.
+speaker_heading: MOTHER (CONT'D)
+dialog: I must've slipped. Clumsy. Hmmm.
+text: Ned sits at the kitchen table, unable to look away as his
+text: Mother pulls a pie out of the oven. 37 seconds... 36...
+text: Ned's Mother places the pie in the kitchen window to cool.
+speaker_heading: ON CHUCK IN HER YARD
+text: She kicks over the last standing building and runs inside as
+text: her Father continues to water the lawn in the background.
+dialog: The COUNTDOWN continues... 23... 22... 21...
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 5.
+speaker_heading: ON NED AND HIS MOTHER
+text: Ned watches as his Mother readies a second pie to go into
+dialog: the oven. 11... 10... 9... 8...
+speaker_heading: NARRATOR
+dialog: It was a gift that not only gave...
+dialog: it took.
+dialog: Ned's Mother twists the timer around, puts a new pie in the
+text: oven and as she closes the oven door. The CLOCK HAND has
+dialog: traveled almost full circle: 4... 3... 2...
+speaker_heading: NARRATOR (CONT'D)
+dialog: Young Ned discovered he could only
+dialog: bring the dead back to life for one
+dialog: minute without consequence. Any longer
+dialog: and someone else had to die.
+dialog: INCLUDE THE KITCHEN WINDOW, through which we can SEE Chuck's
+dialog: Father drop dead. Young Ned and his Mother don't immediately
+dialog: see this because their backs are to the window.
+text: Ned's Mother cuts a piece of pie, puts it on a plate, and
+text: sets it down in front of Young Ned. He takes a bite. Heaven.
+speaker_heading: NARRATOR (CONT'D)
+dialog: It was the most delicious pie ever
+dialog: baked because it was the pie that
+dialog: was not meant to be.
+text: His Mother's GASP draws his attention to the window, where
+text: they can see Chuck's Father dead in the yard.
+scene_heading: 6 INT. NED'S CHILDHOOD HOME - NED'S BEDROOM - LATER THAT NIGHT 6
+text: Ned stares out the window at an AMBULANCE slowly pulling
+text: away from Chuck's house without its lights on, horrified.
+speaker_heading: NARRATOR
+dialog: Young Ned realized somehow in the
+dialog: grand universal scheme of things, he
+dialog: had traded his mother's life for
+dialog: Chuck's father's.
+speaker_heading: NED'S MOTHER
+dialog: Come on, big daddy, into bed.
+speaker_heading: NARRATOR
+dialog: And he was horrified.
+dialog: Ned's Mother pulls up the blankets so Ned can slide into
+text: bed. She draws the blanket up to his chest. (NOTE: Never
+dialog: touching him directly.)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 6.
+speaker_heading: NARRATOR (CONT'D)
+dialog: But there was one more thing about
+dialog: touching dead things that Young Ned
+dialog: didn't know. And he learned it in
+dialog: the most unfortunate way.
+text: She moves to kiss Ned on his forehead.
+scene_heading: EXTREME-EXTREME-EXTREME CLOSE ON - NED'S MOTHER'S LIPS
+text: As they're about to make contact with his forehead, we see a
+speaker_heading: STATIC POP OF ELECTRICITY.
+speaker_heading: GO WIDE
+text: Ned's Mother drops dead right then and there.
+speaker_heading: NARRATOR (CONT'D)
+dialog: First touch, life. Second touch,
+dialog: dead again forever.
+text: Ned kneels next to his dead mother, poking her cheek, waiting
+text: for her to open her eyes again. She doesn't.
+scene_heading: 7 EXT. NED'S HOME/CHUCK'S HOME - DAY - FLASHBACK 7
+text: Young Ned sits on the porch, dressed all in black. He watches
+dialog: as Chuck's 30-something Grey Garden-esque aunts (VIVIAN and
+text: LILY) drag large steamer trunks into Chuck's house.
+speaker_heading: NARRATOR
+dialog: Chuck was orphaned when her father
+dialog: died and fostered by her aunts Vivian
+dialog: and Lily. A renowned synchronized
+dialog: swimming duo, they shared matching
+dialog: personality disorders and a love for
+dialog: fine cheese.
+scene_heading: 8 INT. NED'S CHILDHOOD HOME - NED'S BEDROOM - FLASHBACK 8
+text: Young Ned watches as his FATHER fills a steamer trunk with
+dialog: all the belongings from his room, his Rodan costume,
+speaker_heading: NARRATOR
+dialog: For all intents, Young Ned was
+dialog: orphaned, too. After a brief mourning
+dialog: period, his father panicked at raising
+dialog: a child alone. In the wake of that
+dialog: panic, Ned was hustled off to boarding
+dialog: school.
+scene_heading: 9 EXT. JEWISH/CHRISTIAN GRAVEYARD - LATE DAY - FLASHBACK 9
+speaker_heading: The JEWISH and CHRISTIAN GRAVEYARDS are two halves of the
+dialog: same cemetary. The Synagogue and Church on either end of the
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 7.
+text: hillside graveyard. Two funerals are taking place, one on
+dialog: each side of the graveyard.
+speaker_heading: NARRATOR
+dialog: At their respective parent's
+dialog: funerals...
+scene_heading: 10 EXT. GRAVEYARD - SUNSET- FLASHBACK 10
+dialog: The peak of the cemetary hill. Young Ned and the Neighbor
+text: Girl ENTER FRAME from their respective side, silhouetted by
+text: the sun. She takes his hand and kisses him on the lips.
+speaker_heading: NARRATOR
+dialog: ...dizzy with grief, curiosity and
+dialog: hormones, Young Ned and a girl named
+dialog: Chuck had their first and only kiss.
+speaker_heading: MOMENTS LATER
+text: Young Ned watches the Neighbor Girl head back down the hill.
+text: After a moment, Young Ned's dog Digby returns and bounds
+text: right up to Ned. He reaches out to pet Digby and the dog
+text: pulls away. Despite this, Digby wags his tail and smiles,
+text: keeping a safe distance. As Young Ned leads Digby down the
+text: other side of cemetary hill, CAMERA BEGINS TO PULL BACK...
+speaker_heading: NARRATOR (CONT'D)
+dialog: The effect of his Mother's death on
+dialog: Ned's psyche was twofold. He avoided
+dialog: social attachments, fearing what
+dialog: he'd do if someone else he loved
+dialog: died. Secondly, he became obsessed
+dialog: with pies.
+text: The setting sun shining bright and round MORPHS INTO A GOLDEN
+dialog: BROWN PIE on a cloud-print tablecloth. We are:
+speaker_heading: NARRATOR (CONT'D)
+dialog: It's 19 years, 34 weeks, 1 day and
+dialog: 59 minutes later...
+scene_heading: 11 INT. PIE HOLE - KITCHEN - DAY - PRESENT 11
+dialog: We're on a cooling window, the shelves lined with the
+text: cloudprint tablecloth. On a pillow on the floor, is DIGBY.
+speaker_heading: NARRATOR
+dialog: Young Ned has become "The Pie-Maker,"
+dialog: owner and pastry chef of "The Pie
+dialog: Hole."
+text: CAMERA FINDS a PAIR OF HANDS rolling and kneading dough.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 8.
+speaker_heading: NARRATOR (CONT'D)
+dialog: The expression "pie in the sky"
+dialog: entered popular culture in 1911,
+dialog: referring to a dessert so sweet it
+dialog: can only be found in heaven. But...
+scene_heading: 12 EXT. PIE HOLE - DAY 12
+dialog: A charming Parisian (in tone)/American (in style) googieesque
+dialog: bakery. The front of the business is rounded and given the
+text: facade of a giant pie wedged into the ground floors of an
+text: ADJACENT APARTMENT BUILDING, complete with a pie-crust roof.
+dialog: A sign reads: The Pie Hole.
+speaker_heading: NARRATOR
+dialog: ...if you crave something before you
+dialog: die I recommend where the Pie Maker
+dialog: makes his pies.
+scene_heading: 13 INT. PIE HOLE - KITCHEN - DAY - PRESENT 13
+text: CAMERA PUSHES IN ON the back of the Pie Maker as he works,
+text: lining the pie pan with dough, not yet showing his face.
+speaker_heading: NARRATOR
+dialog: The peaches never brown. Berries
+dialog: ripe as the instant they were plucked.
+dialog: If they weren't so delicious and
+dialog: eaten so quickly, folks might notice
+dialog: the pies stayed fresh an unusually
+dialog: long time.
+text: Dead, dying or bruised fruit is lovingly picked from a bowl
+text: and placed into the empty pie crust. Bruises fade and dead
+text: fruit spontaneously engorges with juice, ripe and tasty.
+speaker_heading: NARRATOR (CONT'D)
+dialog: That's because the Pie Maker
+dialog: personally touches the contents of
+dialog: every one.
+text: A piece of NOW FRESH fruit spills out of the pie crust.
+speaker_heading: NARRATOR (CONT'D)
+text: The dead fruit in his hands becomes
+dialog: ripe with ever-lasting flavor -- as
+dialog: long as he only touches it once.
+text: The Pie-Maker's hand snatches it before it hits the floor
+text: and the fruit spontaneously shrivels and darkens.
+speaker_heading: NARRATOR (CONT'D)
+dialog: For this reason, the Pie-Maker is a
+dialog: vegetarian.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 9.
+speaker_heading: CAMERA FINALLY REVEALS NED'S FACE
+text: Simultaneously handsome and awkward, about 30 years of age.
+text: Ned's lips are whistling but we don't hear a sound.
+speaker_heading: NARRATOR (CONT'D)
+text: He bakes alone, whistling quietly to
+dialog: himself, rarely pursing his lips
+dialog: tight enough to produce a sound.
+text: Digby cocks his head, listening to what no one else can hear.
+scene_heading: 14 INT. PIE HOLE - DINING AREA - DAY 14
+text: Rich and textured, like the inside of a pie. Tufted booths
+text: and a rounded counter bar (with spinning stools) that curves
+text: parallel to the pie facade exterior. Right out of the 40's.
+text: The place is dappled with customers and a single WAITRESS.
+text: CAMERA FINDS OLIVE, a 20-something waitress waiting on regular
+dialog: customer EMERSON, a late 30's/early 40's African-American
+dialog: man in a seersucker suit.
+speaker_heading: OLIVE
+dialog: Every day I come in, I pick a pie
+dialog: and concentrate all my love on that
+dialog: pie. If I love it, then someone
+dialog: else will love it. And you know what?
+dialog: By the end of the day I've sold more
+dialog: of those pies than any other pie in
+dialog: the bakery.
+speaker_heading: EMERSON
+dialog: Yeah? What pie do you love today?
+speaker_heading: CAMERA PUSHES IN:
+speaker_heading: OLIVE
+dialog: Rhubarb.
+speaker_heading: EMERSON
+dialog: I'll stick with three plum. Ala mode.
+speaker_heading: NARRATOR
+dialog: Emerson Cod, soon to be enjoying a
+dialog: slice of three plum pie ala mode,
+dialog: was the sole keeper of the Pie Maker's
+dialog: secret.
+scene_heading: 15 EXT. CITY - ROOFTOP - FLASHBACK 15
+text: EMERSON chases a RUNNING MAN across a rooftop.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 10.
+speaker_heading: NARRATOR
+dialog: And how he came to be the sole keeper
+dialog: of the Pie Maker's secret...
+text: The Running Man jumps to make it to the next building and
+text: misses, plunging 10 stories to his death. Emerson looks over
+text: the ledge to see the Running Man HIT a trash bin with a BONE-
+dialog: CRUNCHING WHAM that most definitely killed the man. But he
+dialog: BOUNCES into a SLIGHTLY YOUNGER NED who happened to be
+dialog: emptying the trash at the time.
+scene_heading: CAMERA JUMPS TO AN EXTREME-EXTREME-EXTREME CLOSE UP of the
+dialog: impact and we SEE the POP OF STATIC ELECTRICITY.
+text: CAMERA POPS WIDE as the Dead Running Man OPENS HIS EYES and
+text: takes off again. Slightly Younger Ned gives chase.
+text: Emerson watches as Slightly Younger Ned tackles the Running
+dialog: Man and he goes limp.
+speaker_heading: NARRATOR (CONT'D)
+dialog: After the runaway corpse, Emerson
+dialog: Cod, a Private Investigator, proposed
+dialog: a partnership with the Pie Maker.
+text: CAMERA PUSHES IN ON Emerson staring, slack-jawed.
+speaker_heading: NARRATOR (CONT'D)
+dialog: Murders are much easier to solve
+dialog: when you can ask the victim who killed
+dialog: them.
+speaker_heading: 16 RESUME - PIE HOLE - DAY 16
+text: Ned watches Emerson through the porthole window in the kitchen
+text: door. Emerson looks up from his pie. Their eyes connect.
+speaker_heading: NARRATOR
+dialog: Since the bakery was on the verge of
+dialog: financial ruin, the Pie Maker agreed
+dialog: so he could keep his Pie Hole open.
+scene_heading: 17 INT. PIE HOLE - NIGHT 17
+text: It's after hours and the bakery is closed. Blinds are drawn
+text: over the windows and the lights are dim. As CAMERA FINDS Ned
+text: and Emerson sitting at a booth speaking in hushed tones.
+text: Ned, forever the handsome, articulate recluse, fidgets a
+text: bit, uncomfortable in his own skin. Digby sits nearby
+speaker_heading: listening to them MID-CONVERSATION:
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 11.
+speaker_heading: NED
+dialog: I asked you not to use the word
+dialog: "zombie." It's disrespectful.
+dialog: Stumbling around, squawking for
+dialog: brains. That's not how they do. And
+dialog: "undead?" Nobody wants to be un-
+dialog: anything. Why begin a statement with
+dialog: a negative? It's like saying "I don't
+dialog: disagree." Just say you agree.
+speaker_heading: EMERSON
+dialog: Are you comfortable with "living
+dialog: dead?"
+text: Ned shakes his head for a long beat.
+speaker_heading: NED
+dialog: You're either living or you're dead.
+dialog: When you're living, you're alive.
+dialog: When you're dead, that's what you
+dialog: are. And when you're dead and then
+dialog: you're not, you're alive again. Can't
+dialog: we say "alive again?" Doesn't that
+dialog: sound nice?
+speaker_heading: EMERSON
+dialog: Sounds like you're a narcoleptic.
+speaker_heading: NED
+dialog: I suffer from sudden and
+dialog: uncontrollable attacks of deep sleep?
+speaker_heading: EMERSON
+dialog: What's the other one?
+speaker_heading: NED
+dialog: Necrophiliac.
+speaker_heading: EMERSON
+dialog: Words that sound alike get mixed up
+dialog: in my head. Used to think masturbation
+dialog: meant chewing your food. Now are you
+dialog: interested in this opportunity or
+dialog: not?
+dialog: (off his hesitation)
+dialog: A dog is involved.
+speaker_heading: NED
+dialog: (glances at Digby)
+dialog: What kinda dog?
+speaker_heading: EMERSON
+dialog: Gonna be a dead dog. A dead dog named
+dialog: Cantaloupe. Putting her down.
+dialog: Allegedly killed her owner.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 12.
+speaker_heading: NED
+dialog: When you say allegedly --
+speaker_heading: EMERSON
+dialog: Cantaloupe was framed. Someone put
+dialog: part of the victim in her mouth.
+speaker_heading: NED
+dialog: Huh.
+speaker_heading: EMERSON
+dialog: Docile as a kitten, says the family.
+text: Emerson holds up a picture of the dog, a chow.
+speaker_heading: NED
+dialog: Despite it being a chow -- the breed
+dialog: most likely to turn on its owner.
+speaker_heading: EMERSON
+dialog: That's racial profiling. Looky here,
+dialog: if the dog's innocent, it's murder.
+dialog: If it's murder, then there's a reward.
+scene_heading: 18 AN OIL PAINTING - LEONARD GASWINT AND HIS DOG, CANTALOUPE 18
+speaker_heading: NARRATOR
+dialog: The facts were these: one Leonard
+dialog: Gaswint, 39 years, 42 weeks, 5 days,
+dialog: 3 hours and 26 minutes old, was found
+text: mauled to death in a parking garage.
+scene_heading: 19 INT. PARKING GARAGE - NIGHT - FLASHBACK 19
+text: A chow named Cantaloupe cleans himself next to a parked car
+text: which partially obscures Leonard Gaswint's corpse.
+speaker_heading: NARRATOR
+dialog: His dog Cantaloupe was the soul
+dialog: witness and only suspect in the
+dialog: murder.
+speaker_heading: 20 A REWARD SIGN 20
+dialog: There's a business photo of Leonard Gaswint with text that
+dialog: reads: "REWARD $20,000."
+speaker_heading: NARRATOR
+dialog: Convinced of her innocence, the
+dialog: Gaswint family offered a significant
+dialog: reward to find the real killer.
+speaker_heading: 21 INT. POUND - DAY 21
+text: Cantaloupe sits alone in her cell, awaiting execution.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 13.
+scene_heading: 22 INT. COUNTY CORONER'S OFFICE - DAY 22
+text: Ned and Emerson stand outside the morgue with the CORONER,
+text: who is filling out a series of forms on a clip board. TWO
+text: COUNTY SHERIFFS stand nearby, looking official.
+speaker_heading: CORONER
+dialog: You the dog expert?
+speaker_heading: NED
+dialog: Uh-huh.
+speaker_heading: CORONER
+dialog: Already had a dog expert.
+speaker_heading: NED
+dialog: I'm the, uh... other one.
+scene_heading: 23 INT. COUNTY CORONER'S OFFICE - MORGUE - DAY 23
+text: Emerson and Ned approach a sheet-covered body on a slab.
+text: Ned peeks under the sheet and Emerson takes a step back.
+speaker_heading: EMERSON
+dialog: How's he look?
+speaker_heading: NED
+dialog: He looks fine, but my threshold is
+dialog: pretty high so you have to take what
+dialog: I say with a grain of salt.
+text: Emerson takes a peek under the sheet himself.
+speaker_heading: EMERSON
+dialog: It's not a grain of salt. It's one
+dialog: of those blocks they give cows to
+dialog: lick. The man's tore up.
+speaker_heading: NED
+dialog: He can't help the way he is.
+speaker_heading: EMERSON
+dialog: It doesn't make it any less traumatic.
+speaker_heading: NED
+dialog: For who?
+speaker_heading: EMERSON
+dialog: Me. And I'm sure him. But mainly me.
+dialog: I'm fine when they don't move. It's
+dialog: when they move that I have a problem.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 14.
+speaker_heading: NED
+dialog: Would it help if I turned off the
+dialog: light?
+speaker_heading: EMERSON
+dialog: Yes.
+text: Ned turns off a metal floor lamp next to the drawer, casting
+text: a shadow over the body and obscuring it. Emerson pulls back
+text: the sheet and reacts to the OFF-CAMERA corpse, mortified.
+speaker_heading: EMERSON (CONT'D)
+dialog: I'm gonna wait outside.
+text: Ned watches as Emerson quickly disappears out the door. As
+dialog: Ned's about to touch dead Leonard Gaswint's hand... CAMERA
+text: JUMPS TO AN EXTREME-EXTREME-EXTREME CLOSE UP and we see the
+text: FAMILIAR POP OF ELECTRICITY. Ned sets the alarm on his watch.
+text: A CLOCK appears in the corner of the SCREEN and begins
+dialog: counting down from ONE MINUTE. 59 seconds... 58... 57...
+text: Leonard Gaswint sits upright into the light revealing he's
+dialog: been MAULED. He couldn't be nicer.
+speaker_heading: LEONARD GASWINT
+dialog: Hello.
+speaker_heading: NED
+dialog: Hi. Sorry to disturb you, Mr. Gaswint.
+dialog: Or Leonard. Do you prefer --
+speaker_heading: LEONARD GASWINT
+dialog: Leo.
+speaker_heading: NED
+dialog: Leo. Your, um, current condition...
+text: Ned indicates the missing part of Gaswint's face. The clock
+dialog: continues to count down: 43... 42... 41...
+speaker_heading: LEONARD GASWINT
+dialog: Do I have something right here?
+speaker_heading: NED
+dialog: No. There's nothing right there.
+speaker_heading: LEONARD GASWINT
+dialog: Damn dog.
+speaker_heading: NED
+dialog: Cantaloupe?
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 15.
+speaker_heading: LEONARD GASWINT
+dialog: No, no. Cantaloupe's docile as a
+dialog: kitten. It was that rottweiller. My
+dialog: secretary sicked her dog on me. She's
+dialog: been upset since last year's Christmas
+dialog: party. You know, it's a funny story...
+text: Before Gaswint can start, Ned touches him and life slips
+text: from his body instantly. He stops his watch at 27 seconds.
+scene_heading: 24 INT. COUNTY CORONER'S OFFICE - DAY 24
+dialog: The Coroner and the Two Sheriff Deputies stand outside, as
+text: before, alone with Emerson. Ned steps out of the morgue.
+speaker_heading: CORONER
+dialog: Was it the chow?
+speaker_heading: NED
+dialog: The Secretary. With a rottweiler.
+scene_heading: 25 INT. POUND - DAY - SLOW MOTION 25
+text: Cantaloupe bounds out of her kennel and down the aisle, her
+text: fellow kenneled dogs barking M.O.S. in support.
+scene_heading: 26 EXT. SECRETARY'S BROWNSTONE 26
+text: SECRETARY and the ROTTWEILLER are escorted out of her
+text: apartment building, surrounded by MEDIA and POLICE. CAMERA
+dialog: PULLS BACK TO REVEAL the image is on TV. We are --
+scene_heading: 27 INT. OLIVE'S APARTMENT - NIGHT 27
+text: CAMERA CONTINUES PULLING BACK TO REVEAL Olive sitting in a
+text: over-stuffed lounge chair, Digby squeezed in next to her,
+text: his head on her lap. They're watching the evening news.
+speaker_heading: NEWSCASTER
+dialog: An anonymous tip led to solving the
+dialog: murder of a Michigan entrepreneur
+dialog: believed to have been fatally mauled
+dialog: by a family pet. The truth, however...
+text: KNOCK-KNOCK. Someone's at the door.
+scene_heading: 28 INT. HALL OUTSIDE OLIVE'S APARTMENT - NIGHT 28
+text: Olive opens the door to find Ned standing on her stoop.
+text: Digby pokes his head out from around the lounge chair. The
+text: NEWSCASTER continues to prattle on in the background.
+speaker_heading: OLIVE
+dialog: How was your convention?
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 16.
+text: She draws close to him, flirtatious and almost slightly
+text: desperate for him to seduce her. He doesn't engage.
+speaker_heading: NED
+dialog: Conventional. How was Digby?
+speaker_heading: OLIVE
+dialog: Neurotic. He's a very needy dog. Do
+dialog: you pet him? Maybe if you pet him
+dialog: once in a while he wouldn't be so
+dialog: neurotic.
+scene_heading: 29 INT. OLIVE'S APARTMENT - NIGHT - CONTINUOUS 29
+text: Ned steps inside and around Olive.
+speaker_heading: NED
+dialog: I pet him. I'm allergic so I can't
+dialog: actually touch him. But I pet him.
+speaker_heading: OLIVE
+dialog: With a stick? How do you pet him?
+speaker_heading: NED
+dialog: A stick is involved, but it's more
+text: like a handle to a... petting device.
+speaker_heading: OLIVE
+dialog: The dog needs to be touched. We all
+dialog: need to be touched.
+speaker_heading: NED
+dialog: You touch him. Other people touch
+dialog: him.
+speaker_heading: OLIVE
+dialog: He's your dog. Do you touch anything?
+speaker_heading: NED
+dialog: Of course I... I touch lots of things.
+speaker_heading: OLIVE
+dialog: With affection?
+text: She reaches out and touches his shoulder, holding her hand
+text: there an uncomfortable beat. Ned innocently averts his eyes.
+speaker_heading: OLIVE (CONT'D)
+dialog: When was the last time someone touched
+dialog: you with affection?
+speaker_heading: NED
+dialog: I get touched.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 17.
+text: She holds his gaze for another uncomfortable moment. He clears
+text: his throat, she finally pulls back her hand.
+speaker_heading: NED (CONT'D)
+dialog: Can I get Digby's leash?
+dialog: (to Digby)
+dialog: You don't mind that I don't touch
+dialog: you, do you?
+text: Digby smiles and wags his tail, happy to see Ned.
+speaker_heading: NARRATOR
+dialog: And then came the event that changed
+dialog: everything.
+text: Ned's attention is drawn away from Digby and to the television
+dialog: news broadcast. A NEWSCASTER reports:
+speaker_heading: NEWSCASTER
+dialog: In other news, the body of a young
+dialog: woman allegedly murdered aboard a
+dialog: cruise ship was recovered from the
+dialog: sea. Her identity is being held
+dialog: pending notification of...
+text: Ned watches on the television as an image of a LIMP, LIFELESS
+text: WOMAN is hauled out of the water by a system of pulleys on
+dialog: the deck of the cruise ship.
+speaker_heading: NARRATOR
+dialog: The Pie-Maker listened intently to
+dialog: the news, unaware that he stopped
+dialog: breathing. He was haunted by the
+dialog: nameless woman who met her end on
+dialog: the high seas.
+text: Olive approaches with Digby's leash in hand.
+speaker_heading: OLIVE
+dialog: Here's your leash.
+speaker_heading: NARRATOR
+dialog: But he didn't know why.
+dialog: OFF Ned, totally rapt, ignoring Olive...
+scene_heading: 30 INT. PIE HOLE - KITCHEN - DAY 30
+text: Ned has one eye on the pies he's making and the other on the
+text: small television set in the corner of his kitchen.
+speaker_heading: NEWSCASTER
+dialog: Her name still withheld, very little
+dialog: is known of the victim, who was
+dialog: reportedly traveling alone when ...
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 18.
+text: Ned gives Digby a scratch with the petting device.
+speaker_heading: NEWSCASTER (CONT'D)
+dialog: ...murdered aboard a passenger ship
+dialog: returning from a tropical cruise.
+text: Ned looks up from the television to see Emerson through the
+text: porthole window in the kitchen door -- he's seated at a booth
+text: in the restaurant. Their eyes connect.
+scene_heading: 31 INT. PIE HOLE - DINING AREA - NIGHT 31
+text: It's after hours and the bakery is closed. Blinds are drawn
+text: over the windows and the lights are dim.
+speaker_heading: EMERSON
+dialog: Been watching the news?
+speaker_heading: NED
+dialog: Doesn't seem like much is going on
+dialog: in the world besides a dead girl on
+dialog: a boat.
+speaker_heading: EMERSON
+dialog: A lot's going on with that dead girl.
+speaker_heading: NED
+dialog: That so?
+speaker_heading: EMERSON
+dialog: Mmm-hmm. 100,000 dollars of that's
+dialog: so. Interested in a conversation?
+speaker_heading: NED
+dialog: I could be persuaded.
+speaker_heading: EMERSON
+dialog: You better be persuaded quick cause
+text: dead girl's about to go in the ground.
+speaker_heading: NED
+dialog: They just pulled her out of the water.
+speaker_heading: EMERSON
+dialog: Jewish. Christians leave 'em laying
+dialog: around. Jews gotta get 'em buried.
+speaker_heading: NED
+dialog: Where we going?
+speaker_heading: EMERSON
+dialog: Coeur d'Coeurs. Ever been there?
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 19.
+speaker_heading: NED
+dialog: I grew up there. Sort of.
+dialog: (lost, then:)
+dialog: So this dead Jewish girl from Coeur
+dialog: d'Coeurs. She have a name?
+speaker_heading: EMERSON
+dialog: Charlotte Charles.
+dialog: POW. He might as well have punched Ned in the stomach.
+scene_heading: SERIES OF QUICK SHOTS FROM NED'S P.O.V.:
+text: -- Young Chuck stomping through the dirt city in her yard.
+dialog: -- Young Chuck and Young Ned at Halloween. She's Godzilla,
+dialog: he's Rodan, they hold their candy bags out for goodies.
+dialog: -- Young Chuck and Young Ned kissing in the graveyard.
+scene_heading: RESUME - PIE HOLE - EMERSON AND NED, AS BEFORE
+speaker_heading: NED
+dialog: Chuck?
+speaker_heading: END OF ACT ONE
+dialog: 
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 20.
+speaker_heading: ACT TWO
+scene_heading: 32 INT. TRAIN CAR - DAY 32
+text: Ned and Emerson sit opposite each other next to a window.
+speaker_heading: EMERSON
+dialog: You know this girl?
+speaker_heading: NED
+dialog: I know of her.
+speaker_heading: EMERSON
+dialog: Know of her in the biblical sense?
+speaker_heading: NED
+dialog: Haven't thought of her since I was
+dialog: 10.
+speaker_heading: EMERSON
+dialog: Think of her a lot when you were 10?
+speaker_heading: NED
+dialog: Don't remember anything when I was
+dialog: 10.
+speaker_heading: NARRATOR
+dialog: The Pie-Maker remembers everything.
+scene_heading: 33 EXT. OCEAN - UNDER WATER - FLASHBACK 33
+text: CAMERA IS ANGLED UP at the undulating surface of the water.
+text: SPWOOSH. A BODY breaks the surface in a cloud of bubbles.
+speaker_heading: NARRATOR
+dialog: The facts were these... Charlotte
+dialog: Charles, 28 years, 24 weeks, 3 days,
+dialog: 11 hours, and 51 minutes old, was
+dialog: found floating in the ocean moments
+dialog: after her body was discarded there.
+text: The silhouette of dead Charlotte Charles floats in the surf.
+speaker_heading: NARRATOR (CONT'D)
+dialog: Discarded by whom seemed to be a
+dialog: question only Charlotte Charles could
+dialog: answer.
+speaker_heading: CLOSE ON - COFFIN
+text: A simple, pine casket. The lid is set in place over
+text: Charlotte's beautiful, lifeless body. We don't see her face.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 21.
+speaker_heading: NARRATOR (CONT'D)
+dialog: Jewish law prescribes burial in a
+dialog: plain white shroud to demonstrate
+dialog: equality for all. No bling. For this
+dialog: reason...
+scene_heading: 34 EXT. FUNERAL HOME - DAY 34
+text: The FUNERAL DIRECTOR, a chain-smoking obese man, stands
+text: outside the Home as MOURNERS file inside.
+speaker_heading: NARRATOR
+dialog: ...the nondenominational Funeral
+dialog: Director preferred non-Jewish
+dialog: services.
+scene_heading: INSIDE LAVISH COFFINS - 3 QUICK POPS
+text: -- The Funeral Director opens the coffin lid and pulls the
+text: NECKLACE off of a DEAD WOMAN'S neck.
+text: -- ...pulls the WATCH off a DEAD MAN'S wrist.
+text: -- ...pulls the SIZEABLE RING off a DEAD WOMAN'S finger.
+scene_heading: 35 INT. FUNERAL HOME - DAY 35
+text: The Funeral Director continues to watch MOURNERS file in.
+text: CAMERA FINDS Ned and Emerson approaching in the throng of
+text: mourners. Emerson begrudgingly slips the Funeral Director
+text: some cash, he quickly pockets it and opens the door.
+scene_heading: 36 INT. FUNERAL HOME - VIEWING ROOM - DAY 36
+text: The simple, pine casket in the middle of the room surrounded
+text: by much fancier coffins. The afternoon sun shines through a
+text: window -- a light on the pine casket. Emerson and Ned ENTER.
+speaker_heading: NED
+dialog: Um, I just wanna... I wanna... Can't
+dialog: I do this one alone? On account of,
+dialog: you know, the whole historical
+dialog: context?
+speaker_heading: EMERSON
+dialog: Got something personal you wanna
+dialog: say?
+speaker_heading: NED
+dialog: No. Okay, perhaps. I have nothing to
+dialog: gain but a small amount of closure.
+speaker_heading: EMERSON
+dialog: Wha'cha got so open it needs closing?
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 22.
+speaker_heading: NED
+dialog: Just wanna say I'm sorry for
+dialog: something. One of those stupid things
+dialog: kids do... that they don't know
+dialog: they're doin'.
+speaker_heading: EMERSON
+dialog: You ask who killed her first.
+speaker_heading: NED
+dialog: Okay.
+speaker_heading: EMERSON
+dialog: You only got one minute.
+speaker_heading: NED
+dialog: I know.
+speaker_heading: EMERSON
+dialog: 60 seconds.
+speaker_heading: NED
+dialog: I know.
+text: Emerson walks out eyeing Ned, who closes the door behind
+text: him. Alone in the room, Ned braces his back on the door and
+text: takes a deep breath. Gulp. He slowly approaches the casket.
+text: Ned runs his hand over the pine frame then lifts the lid,
+text: bathing the body of Charlotte Charles, aka CHUCK, in sunlight.
+speaker_heading: NARRATOR
+dialog: Only Prince Charming could know how
+dialog: the Pie-Maker felt upon looking at
+dialog: her.
+dialog: Even in death she's beautiful, a woman yet very much the
+dialog: little girl he once knew.
+speaker_heading: NARRATOR (CONT'D)
+dialog: Great thought was taken as to where
+dialog: to touch her. The hand too impersonal,
+dialog: lips too forward, the cheek... the
+dialog: cheek.
+text: Ned's finger closes in on Chuck's alabaster cheek and CAMERA
+dialog: JUMPS TO AN EXTREME-EXTREME-EXTREME CLOSE UP of his slow
+text: caress. A CRACKLE OF ELECTRICITY between finger and cheek.
+text: A CLOCK appears in the corner of the SCREEN and begins
+dialog: counting down from ONE MINUTE. 59...
+text: Chuck opens her beautiful eyes and blinks. Ned can only stare
+text: back at her. The moment is as electric as his touch.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 23.
+text: He smiles at her, expecting a warm smile in return but
+text: instead... WHAM. She grabs him by the jacket and SLAMS HIS
+text: HEAD between the coffin and its lid. WHAM-WHAM-WHAM.
+speaker_heading: NED
+speaker_heading: OW.
+text: Chuck scrambles out of her coffin as Ned stumbles back in a
+text: daze. She grabs a chair and raises it to hit him again.
+speaker_heading: NED (CONT'D)
+dialog: Chuck! Wait.
+speaker_heading: CHUCK
+dialog: Who are you?
+speaker_heading: NED
+dialog: Do you remember the little boy who
+dialog: lived next door to you when your dad
+dialog: died?
+speaker_heading: CHUCK
+dialog: Yeah...
+speaker_heading: NED
+dialog: We used to destroy small villages
+dialog: together?
+text: Chuck stares at him a moment... confused... then...
+speaker_heading: CHUCK
+dialog: Ned? Hey. How's it going?
+text: She finally puts the chair down. 46... 45... 44...
+speaker_heading: NED
+dialog: Good. You look great. Um, do you
+dialog: know what's happening right now?
+speaker_heading: CHUCK
+dialog: I had the strangest dream I was being
+dialog: strangled to death with a plastic
+dialog: sack.
+speaker_heading: NED
+dialog: It wasn't a dream. You were...
+dialog: strangled to death with a plastic
+dialog: sack. That's probably an odd thing
+dialog: to hear but I wasn't quite sure how
+dialog: to sugar-coat it.
+text: It takes a moment. She glances at her burial shroud, her
+text: coffin and finally the viewing room filled with caskets.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 24.
+speaker_heading: CHUCK
+dialog: Oh. Oh. And I'm...? Neat. How...?
+speaker_heading: NED
+dialog: You only have a minute. Less. About
+dialog: 38 seconds.
+speaker_heading: CHUCK
+dialog: Huh. What can I do in 38 seconds?
+speaker_heading: NED
+dialog: You can tell me who killed you so,
+dialog: um, you know, justice can be served.
+speaker_heading: CHUCK
+dialog: That is so sweet. I just wanna put
+dialog: you in my pocket. But I don't know
+dialog: who killed me. I went to go get ice.
+dialog: I was filling my bucket and I dropped
+dialog: my room key in the ice maker and
+dialog: just as I was thinking that was
+dialog: dumb...
+scene_heading: 37 INT. CRUISE SHIP - CORRIDOR - MEMORY FLASH - VERY QUICK
+speaker_heading: ACTION 37
+text: CHUCK stands at the ice machine perplexed with a bucket of
+text: ice under her arm. FWIP - a bag is thrown violently over her
+text: head. She sucks air and it shrink-wraps to her face.
+text: The ice tumbles to the deck in the FOREGROUND as Chuck is
+speaker_heading: murdered in the BACKGROUND.
+scene_heading: 38 RESUME - FUNERAL HOME - VIEWING ROOM - DAY 38
+speaker_heading: CHUCK
+dialog: ...then you touched my cheek.
+text: BEEP-BEEP-BEEP: Ned's watch alarm goes off. 15 seconds left.
+speaker_heading: CHUCK (CONT'D)
+dialog: Is my time up?
+speaker_heading: NED
+dialog: I'm sorry.
+dialog: And Chuck was just starting to get used to being alive again.
+dialog: It's weird and sad, but all she can think to say is:
+speaker_heading: CHUCK
+dialog: Thanks for calling me Chuck. Nobody's
+dialog: called me Chuck since... you.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 25.
+scene_heading: 39 INT. FUNERAL HOME - OUTSIDE VIEWING ROOM - DAY 39
+text: Emerson RAP-RAP-RAPS on the door.
+speaker_heading: EMERSON
+dialog: I heard you beeping.
+speaker_heading: NED'S VOICE
+dialog: Just a second.
+speaker_heading: 40 RESUME - VIEWING ROOM - DAY 40
+text: Chuck back in her coffin, Ned holding the lid. 11... 10...
+text: He stumbles on his words, trying to speak but overwhelmed:
+speaker_heading: NED
+dialog: Before you...
+speaker_heading: CHUCK
+dialog: Yeah?
+speaker_heading: NED
+dialog: I wanted to say I'm...
+text: Staring at her, Ned can't bring himself to tell her he
+dialog: inadvertently killed her father. So instead he says:
+speaker_heading: NED (CONT'D)
+dialog: I used to... when I lived next door
+dialog: to you... I had a cru... I was in...
+dialog: You were my first kiss.
+speaker_heading: CHUCK
+dialog: (smiles, touched)
+dialog: You were my first kiss, too. Or did
+dialog: you think I'd been around?
+speaker_heading: NED
+dialog: I didn't want to assume.
+speaker_heading: CHUCK
+dialog: Wanna be my last kiss? First and
+dialog: last? Or is that weird?
+speaker_heading: NED
+dialog: It's not weird. It's symmetrical.
+text: 5... 4... He looks at her and slowly moves in for the kiss.
+text: She closes her eyes. Their lips are about to connect when...
+scene_heading: 41 INT. FUNERAL HOME - BATHROOM - DAY 41
+text: The Funeral Director scoots into the stall, pulling down his
+text: pants, sitting on the toilet and striking up a cigarette.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 26.
+speaker_heading: 42 RESUME - VIEWING ROOM - DAY 42
+text: Ned and Chuck, their lips hang in the air, centimeters apart.
+speaker_heading: NARRATOR
+dialog: His lips went as far as they would
+dialog: go. He couldn't will them to go any
+dialog: further.
+dialog: Chuck opens her eyes. 2... 1... Minute's up.
+scene_heading: 43 INT. FUNERAL HOME - BATHROOM - DAY 43
+dialog: A beat, then THUNK -- we HEAR The Funeral Director's lifeless
+text: head hit the stall door. Then the smoking cigarette drops.
+speaker_heading: 44 RESUME - VIEWING ROOM - DAY 44
+text: Ned slowly pulls away from Chuck, who lies there blinking.
+dialog: He let her live and someone else died, the weight of it all
+text: is clearly on Ned's face when he looks back at Chuck.
+speaker_heading: CHUCK
+dialog: If you don't wanna kiss me, you
+dialog: don't... It was just a... I thought
+dialog: it might...
+speaker_heading: NED
+dialog: No. I want to, I do... I... What if
+dialog: you didn't have to... be dead?
+speaker_heading: CHUCK
+dialog: Well, that would be preferable.
+text: RAP-RAP-RAP, Emerson pounds on the door.
+speaker_heading: NED
+dialog: Nobody can know. I have to think
+dialog: about how to get you outta here. Can
+dialog: you lay really still until I get
+dialog: back?
+speaker_heading: CHUCK
+dialog: Uh, sure --
+text: Before she can finish, he's closing the coffin lid.
+scene_heading: 45 INT. FUNERAL HOME - OUTSIDE VIEWING ROOM - DAY 45
+text: Ned emerges from the viewing room, quickly shutting the door
+text: behind him. He's nervous and a little sweaty.
+speaker_heading: NED
+dialog: She doesn't know. Didn't know.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 27.
+speaker_heading: EMERSON
+dialog: Someone tossed her carcass off a
+dialog: boat and -- why are you sweating?
+speaker_heading: NED
+dialog: I'm -- it's warm in there. What?
+speaker_heading: EMERSON
+dialog: Your eye's twitching. When people
+dialog: aren't telling the truth, their eye
+dialog: twitches. Right there. Like yours
+dialog: did, just now.
+speaker_heading: NED
+text: It's nerves. Aggravated by a stomach
+dialog: thing. Like acid reflux but in my
+dialog: eye. I think I'm gonna stay for the
+dialog: service.
+speaker_heading: EMERSON
+dialog: S'that so?
+speaker_heading: NED
+dialog: Feeling nostalgic. I'll catch a later
+dialog: train. Remember how to get to the
+dialog: station? It's down the, uh... Great.
+scene_heading: 46 INT. FUNERAL HOME - VIEWING ROOM - DAY 46
+text: Ned runs in and STARTLES at an ELDERLY JEWISH MAN standing
+text: next to where Chuck's coffin was but no longer is. The Elderly
+dialog: Jewish Man STARTLES, as well.
+speaker_heading: NED
+dialog: Where... uh, where's the deceased?
+text: He points to an open back door.
+speaker_heading: ELDERLY JEWISH MAN
+dialog: Gone to sleep with her fathers.
+speaker_heading: NED
+dialog: What? I'm sor -- You sort of mumbled.
+speaker_heading: ELDERLY JEWISH MAN
+dialog: She's getting buried.
+speaker_heading: NED
+dialog: Presently?
+dialog: OFF Ned's ohshit of it all...
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 28.
+scene_heading: 47 EXT. FUNERAL HOME - DAY 47
+text: The HEARSE is pulling away as Ned BURSTS out of the doors of
+text: the Funeral Home in PANICKED HOT PURSUIT.
+speaker_heading: CUT TO BLACK.
+speaker_heading: END OF ACT TWO
+dialog: 
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 29.
+speaker_heading: ACT THREE
+scene_heading: 48 EXT. FUNERAL HOME - DAY 48
+text: Ned runs across the cemetery vaulting over headstones. He
+text: cuts into a road and falls into step behind the Hearse.
+scene_heading: 49 INT. HEARSE - THROUGH REAR WINDOW - DAY 49
+text: Ned chases the hearse until he disappears in a cloud of dust.
+scene_heading: 50 EXT. FUNERAL HOME - DAY 50
+text: Ned waves at the clouds of dust. He sees the Hearse continue
+text: down the driveway until it turns onto the street, a long
+text: line of cars pull out behind it.
+text: Ned sees which direction the Hearse is heading and cuts across
+text: the Funeral Home yard, jumping over fences and hedges.
+scene_heading: 51 INT. COFFIN - DARK 51
+dialog: The small amount of light coming through the joints of the
+text: coffin barely illuminates Chuck. She's beaming, awestruck.
+speaker_heading: NARRATOR
+dialog: Only Sleeping Beauty could know how
+dialog: Chuck felt at this moment. With a
+dialog: brush of his finger across her cheek,
+dialog: the world became a place of magic.
+text: Chuck is suddenly JOSTLED.
+speaker_heading: NARRATOR (CONT'D)
+dialog: And then the pallbearers pulled her
+dialog: out of the hearse.
+scene_heading: 52 INT. FUNERAL HOME - VIEWING ROOM - DAY 52
+text: 8 PALLBEARERS pick up the casket and carry it out the back
+text: door following the RABBI walking ahead of them. The
+text: Pallbearers are unevenly matched -- tall on one side, short
+dialog: on the other -- consequently there's some slippage.
+scene_heading: 53 INT. COFFIN - DARK 53
+text: Chuck continues to be jostled about.
+scene_heading: 54 EXT. HILLSIDE GRAVEYARD/SYNAGOGUE - DAY 54
+text: The Pallbearers stop and we HEAR Chuck slide up and bump her
+text: head on the inside of the coffin.
+speaker_heading: CHUCK'S MUFFLED VOICE
+dialog: Ow.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 30.
+text: Two Pallbearers react to the "Ow," glancing at one another
+text: over the top of the casket, each thinking it was the other.
+speaker_heading: 55 EXT. DIRT ROAD - DAY 55
+text: Ned runs as fast as he can, spying the cemetery up ahead.
+text: He quickens his pace, running past the last of the mourners.
+scene_heading: 56 INT. COFFIN - DARK 56
+text: Chuck lies there, waiting patiently.
+speaker_heading: NARRATOR
+dialog: Lying in the dark, Chuck considered
+dialog: how she came to be lying in the dark.
+scene_heading: 57 EXT. SWIMMING POOL - DAY - FLASHBACK 57
+dialog: CAMERA PUSHES IN ON YOUNGER VIVIAN AND YOUNGER LILY, their
+text: backs to us as they sit on the side of the pool facing very,
+dialog: very sparsely populated audience stands, mermaid fins cover
+dialog: their legs. A SIGN READS: "The Darling Mermaid Darlings."
+speaker_heading: NARRATOR
+dialog: She considered the life that was
+dialog: with Aunts Lily and Vivian.
+scene_heading: 58 EXT. CHUCK'S AUNTS' HOUSE - DAY - FLASHBACK 58
+text: The yard is over-run with growth and the paint is peeling.
+speaker_heading: NARRATOR
+dialog: No longer nursing at the teat of
+dialog: synchronized swimming stardom, their
+dialog: personality disorders blossomed into
+dialog: incapacitating social phobias.
+scene_heading: 59 INT. CHUCK'S AUNTS' HOUSE - DAY 59
+text: VIVIAN (early 50's) is cleaning a birdcage. LILY (early 50's
+text: dressed in a kimono and an eyepatch) shields her eyes.
+speaker_heading: NARRATOR
+dialog: Which made it difficult for them to
+dialog: leave the house.
+dialog: CAMERA PULLS BACK TO REVEAL... they're surrounded by DOZENS
+text: AND DOZENS of CAGED BIRDS in a maze of STACKS AND STACKS of
+text: newspapers and magazines. Chuck is moving through the house
+dialog: opening curtains and windows and allowing fresh air to flow.
+speaker_heading: NARRATOR (CONT'D)
+dialog: Which in turn made it difficult for
+dialog: Chuck to leave them.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 31.
+scene_heading: 60 EXT. CHUCK'S AUNTS' HOUSE - BACKYARD - FLASHBACK 60
+text: Chuck is wearing a bee keeper's outfit and pulling cells of
+dialog: honeycomb out of the hive.
+speaker_heading: NARRATOR
+dialog: She never strayed far from home. She
+dialog: served the community by harvesting
+dialog: honey in her backyard...
+speaker_heading: ON A HOMELESS MAN
+text: He's below a banner reading: "HONEY FOR THE HOMELESS: HONEY
+text: DRIVE." Chuck stands next to him holding a jar of honey.
+scene_heading: 61 INT. CHUCK'S AUNTS' HOUSE - CHUCK'S BEDROOM - FLASHBACK 61
+text: As Chuck sits in the window sill reading a novel, the empty
+text: shelves in the room FILL WITH BOOKS until the walls are
+dialog: "literally" covered.
+speaker_heading: NARRATOR
+dialog: ...and read about people she could
+dialog: never be, on adventures she would
+dialog: never have.
+scene_heading: 62 INT. "BOUTIQUE TRAVEL" TRAVEL BOUTIQUE - FLASHBACK 62
+text: Chuck ENTERS glancing around at all the promise of adventure.
+speaker_heading: NARRATOR
+dialog: Life was good enough until one day...
+dialog: it wasn't. Chuck wanted more.
+text: CHUCK'S P.O.V. as she approaches the smiling MANAGER DIEDRE
+text: next to giant STANDEE advertising a TAHITIAN CRUISE.
+speaker_heading: NARRATOR (CONT'D)
+dialog: The irony that her want for life got
+dialog: her killed was not lost.
+scene_heading: 63 EXT. HILLSIDE GRAVEYARD/SYNAGOGUE - NIGHT - THE PRESENT 63
+text: CAMERA ROCKETS through the headstones until FINDING a large
+text: mound of earth next to a hole in the ground next to a
+dialog: headstone that reads "Charles Charles, Loving Father." The
+text: TWO GRAVEYARD WORKERS seen earlier are about to take their
+text: first shovels-full of dirt and sling them into Chuck's grave.
+text: Ned runs up to the Graveyard Workers, out of breath.
+speaker_heading: NED
+dialog: Hey, I think somebody's truck's on
+dialog: fire.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 32.
+text: They look over his shoulder to see their work truck CONSUMED
+dialog: IN FLAMES. The Workers GASP and run to put out the fire.
+speaker_heading: GRAVEYARD WORKERS
+dialog: Holy -- Oh, jeez --
+text: Ned makes sure they're not looking and jumps into the grave,
+text: pulling the lid off the coffin. Chuck sits up and smiles at
+dialog: the sight of her Prince Charming. He returns the gesture:
+speaker_heading: NED
+dialog: Sorry I'm late.
+scene_heading: 64 INT. PIE HOLE - NIGHT 64
+text: Chuck and Ned sit at a booth, Chuck wrapped in his coat. He
+text: watches her devour a piece of pie and a large glass of milk.
+text: Ned is still filthy from digging up her grave.
+speaker_heading: CHUCK
+dialog: I can't even hug you? What if you
+dialog: need a hug? A hug can turn your day
+dialog: around.
+speaker_heading: NED
+dialog: I'm not a fan of the hug.
+speaker_heading: CHUCK
+dialog: Then you haven't been hugged properly.
+dialog: It's an emotional Heimlich. Someone
+dialog: puts their arms around you, gives a
+dialog: squeeze. All your fear and anxiety
+dialog: comes shooting out of your mouth in
+dialog: a big, wet wad and you can breath
+dialog: again.
+speaker_heading: NED
+dialog: That's fine for someone else to do,
+dialog: if I'm choking. On something other
+dialog: than emotion. But you can't touch
+dialog: me.
+speaker_heading: CHUCK
+dialog: So a kiss is out of the question.
+dialog: (off his look)
+dialog: I'm teasing. I'm teasing you.
+speaker_heading: NED
+dialog: Lost my train of thought.
+speaker_heading: CHUCK
+dialog: This is the most delicious pie I've
+dialog: ever tasted... you use a lot of
+dialog: butter?
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 33.
+text: He shakes his head, then touches a piece of fruit that's
+dialog: fallen out of the pie, it SHRIVELS before our very eyes.
+speaker_heading: CHUCK (CONT'D)
+dialog: Never had so much in common with a
+dialog: pie.
+dialog: (back to point)
+dialog: Why didn't you touch me twice? I
+dialog: haven't seen you in 20 years.
+speaker_heading: NED
+dialog: I have a very good memory.
+speaker_heading: CHUCK
+dialog: How long were you thinking about
+dialog: this?
+speaker_heading: NED
+dialog: Like thinking-thinking? It wasn't
+dialog: premeditated. I wasn't lying in
+dialog: wait. More like I was musing on the
+dialog: idea. Not, you know, dwelling. But
+dialog: I wasn't seriously considering until
+dialog: the exact moment I did it. Or, um,
+dialog: didn't do it.
+text: Chuck stares at him a moment -- this is all overwhelming.
+speaker_heading: CHUCK
+dialog: I always wondered if you'd come back.
+dialog: I guess you came back when I needed
+dialog: you most. Well, that would've been
+dialog: before I was killed but this worked
+dialog: out.
+speaker_heading: NED
+dialog: You understand you can't go back,
+dialog: right? You can't see your aunts.
+speaker_heading: CHUCK
+dialog: They're shut-ins, it's not like they
+dialog: talk to anybody.
+speaker_heading: NED
+dialog: People aren't used to this sort of
+dialog: thing. Issues of morality and "how
+dialog: come she's not dead anymore?" It'd
+dialog: be a disaster.
+speaker_heading: CHUCK
+dialog: I suppose dying is as good excuse as
+dialog: any to start living my own life.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 34.
+speaker_heading: NED
+dialog: At least you're not the only Jew
+dialog: whose ever risen from the dead.
+speaker_heading: CHUCK
+dialog: I am if you asked a Jew.
+scene_heading: 65 INT. NED'S APARTMENT - LIVING ROOM - NIGHT 65
+text: Ned and Chuck stand in front of Digby, who wags his tail.
+text: It's clear from Ned's slouching that he's exhausted.
+speaker_heading: NED
+dialog: This is Digby.
+speaker_heading: CHUCK
+dialog: Wasn't your old dog named Digby?
+speaker_heading: NED
+dialog: This is him.
+speaker_heading: CHUCK
+dialog: Did he...? Did you...? And now
+dialog: he's...?
+speaker_heading: NED
+dialog: Yes.
+speaker_heading: CHUCK
+dialog: You seem to do that a lot. Why do
+dialog: you do that a lot?
+speaker_heading: NED
+dialog: It's just the two of you. I don't
+dialog: mean to be a bad host but I'm sort
+dialog: of exhausted from chasing your coffin.
+speaker_heading: CHUCK
+dialog: Oh, oh, of course.
+text: Ned crosses to the couch and lays down, dirt and all.
+speaker_heading: NED
+dialog: I'm gonna sleep here, you take the
+dialog: bed. I insist. My eyes are rolling
+dialog: back into my head. I'm laying down
+dialog: now.
+text: But Ned is already sound asleep. He snores quietly
+speaker_heading: CHUCK
+dialog: (softly)
+dialog: I'd kiss you if it wouldn't kill me.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 35.
+scene_heading: 66 INT. NED'S APARTMENT - BEDROOM - NIGHT 66
+text: Chuck sits up in bed, watching the TELEVISION NEWS. A candid
+text: "while living" PICTURE OF CHUCK's smiling face looms over
+text: NEWSCASTER #1'S shoulder as he recites the news:
+speaker_heading: NEWSCASTER #1
+dialog: 28 year-old "Lonely Tourist" Charlotte
+dialog: Charles was laid to rest earlier
+dialog: today --
+speaker_heading: NARRATOR
+text: In a strange bed watching her own
+dialog: funeral on the evening news, Chuck
+dialog: was struck by the undignified nature
+dialog: of celebrity.
+dialog: Every time she CLICKS the remote the NEWSCASTER changes but
+dialog: her haunting "while living" picture stays the same.
+speaker_heading: NEWSCASTER #3
+dialog: A passenger heard a commotion just
+dialog: moments before the victim's body
+dialog: fell past his window --
+speaker_heading: NARRATOR
+dialog: Maybe her death should be celebrated.
+dialog: If she hadn't died, she wouldn't
+dialog: have this chance to finally live.
+speaker_heading: NEWSCASTER #3
+dialog: Boutique Travel travel boutique has
+dialog: offered a 100,000 dollar reward for
+dialog: the murderer of customer Charlotte
+dialog: Charles.
+dialog: Chuck reacts, no one said anything about a reward.
+scene_heading: 67 INT. NED'S APARTMENT - LIVING ROOM - NIGHT 67
+text: Ned sleeps on the couch. CAMERA SLOWLY REVEALS Chuck sitting
+text: on the big wing-back chair opposite him.
+speaker_heading: CHUCK
+dialog: Ned?
+speaker_heading: NED
+dialog: Hmmm?
+speaker_heading: CHUCK
+dialog: Would I be alive right now if I knew
+dialog: who killed me?
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 36.
+speaker_heading: NED
+dialog: Of course. Don't be silly -- That's
+dialog: a -- Something on the news about the
+dialog: reward?
+speaker_heading: CHUCK
+dialog: You said you wanted to know who killed
+dialog: me so justice could be served. But I
+dialog: don't think justice was on the menu.
+dialog: Maybe as a side dish. But not an
+dialog: entree.
+speaker_heading: NED
+dialog: It most certainly was an entree. It
+dialog: was a special of the d -- Can we
+dialog: drop the metaphor? I wouldn't have
+dialog: known you died if it weren't for the
+dialog: reward.
+speaker_heading: CHUCK
+dialog: When were you gonna tell me?
+speaker_heading: NED
+dialog: In the morning or when it came up.
+dialog: Which ever didn't come first.
+speaker_heading: CHUCK
+dialog: 100,000 dollars makes a lotta pie.
+speaker_heading: NED
+dialog: 50 thousand. I have a business
+dialog: partner.
+speaker_heading: CHUCK
+dialog: It's a business?
+speaker_heading: NED
+dialog: Not in the traditional sense.
+speaker_heading: CHUCK
+dialog: You touch murder victims, ask who
+dialog: killed them, touch 'em again, they
+dialog: go back to being dead and you collect
+dialog: the reward?
+speaker_heading: NED
+dialog: Yeah... that's it in a nutshell.
+speaker_heading: CHUCK
+dialog: Are you after my reward? I'm not mad
+dialog: at ya, I just wanna know. I'll be
+dialog: mad at ya if you lie to me, though.
+dialog: Is that why you're keeping me around?
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 37.
+speaker_heading: NED
+dialog: I don't want your reward.
+speaker_heading: CHUCK
+dialog: I'll be so mad if you're lying. You'll
+dialog: have me scratching the drapes.
+speaker_heading: NED
+dialog: I'm not lying. Please don't attack
+dialog: the window treatments.
+speaker_heading: CHUCK
+dialog: Okay. Go back to sleep.
+text: Chuck stands and returns to the bedroom. Ned lays his head
+text: back down on the couch, unable to shut his eyes.
+scene_heading: 68 INT. NED'S APARTMENT - BEDROOM - NIGHT 68
+text: Chuck in bed, facing the living room. She closes her eyes
+text: and reaches out and puts her palm to the wall.
+text: CAMERA RISES TO AN OVERHEAD ANGLE FINDING NED
+text: ...on the other side. He reaches out and touches the wall.
+text: He and Chuck appear to be holding hands side by side.
+scene_heading: 69 INT. NED'S APARTMENT - BEDROOM - MORNING 69
+text: Chuck opens her eyes to find a note taped to the lamp shade.
+dialog: It reads: "Please do NOT leave this apartment."
+scene_heading: 70 INT. APARTMENT BUILDING - HALL - MORNING 70
+dialog: Chuck, in long coat, scarf and sunglasses, turns and is
+dialog: surprised to see Olive standing outside her apartment
+text: surprised to see a woman coming out of Ned's.
+speaker_heading: CHUCK
+dialog: I'm a friend of Ned's.
+text: Olive sizes her up for a moment, then out of curiosity:
+speaker_heading: OLIVE
+dialog: Does he touch you?
+scene_heading: 71 INT. PIE HOLE - MORNING 71
+text: Emerson sits opposite Ned before the bakery is open.
+speaker_heading: EMERSON
+dialog: How was the service?
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 38.
+speaker_heading: NED
+dialog: You know, just paid my respects.
+speaker_heading: EMERSON
+dialog: Weren't looking to get paid?
+speaker_heading: NED
+dialog: Hmmm?
+speaker_heading: EMERSON
+dialog: Might see a dead woman speaking to
+dialog: you in confidence as an opportunity
+dialog: to make a whole lot of money by your
+dialog: lonesome. Regardless of prior
+dialog: arrangements.
+speaker_heading: NED
+dialog: There's no opportunity here.
+text: With that, Chuck slides into the booth next to Emerson.
+speaker_heading: CHUCK
+dialog: Hi. Are you the business partner?
+speaker_heading: EMERSON
+dialog: Yes, ma'am.
+speaker_heading: CHUCK
+dialog: Charlotte Charles. Call me Chuck.
+text: Emerson can only stare. Ned buries his face in his hands.
+speaker_heading: CHUCK (CONT'D)
+dialog: I've been ruminating. And by
+dialog: ruminating I mean pondering, not
+dialog: chewing cud. How about we solve my
+dialog: murder and collect the reward.
+dialog: Wouldn't that be poetic? It's
+dialog: certainly an anecdote.
+speaker_heading: EMERSON
+dialog: She's supposed to be in the ground.
+speaker_heading: NED
+dialog: (to Chuck)
+dialog: I thought you didn't want the reward.
+speaker_heading: CHUCK
+dialog: No. I wanted you not to want the
+dialog: reward. 100,000 dollars is a lot of
+dialog: money. How about a 3 way split?
+dialog: 30/30/40? Only fair I get more. I
+dialog: did die for it.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 39.
+speaker_heading: NED
+dialog: I'm not a detective. I make pies.
+speaker_heading: CHUCK
+dialog: You can't just touch somebody's life
+dialog: and be done with it.
+speaker_heading: NED
+dialog: Yes, I can. That's how I roll.
+speaker_heading: CHUCK
+dialog: For someone who brings people back
+dialog: to life, you're awfully dead inside.
+dialog: Ned reacts to that, stung.
+speaker_heading: EMERSON
+dialog: I can do 30/30/40.
+speaker_heading: NED
+dialog: She's supposed to be dead.
+dialog: (to Chuck)
+dialog: You're supposed to be dead. I think
+dialog: this is pushing your luck.
+speaker_heading: CHUCK
+dialog: Yes, well, luck pushed me first.
+dialog: OFF Chuck's determination...
+speaker_heading: END OF ACT THREE
+dialog: 
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 40.
+speaker_heading: ACT FOUR
+scene_heading: 72 EXT. PIE HOLE - ROOF - DAY 72
+dialog: Emerson and Ned on the googie-esque pie crust roof.
+speaker_heading: EMERSON
+dialog: It's just so shockingly stupid I
+dialog: have a hard time believing you did
+dialog: it.
+speaker_heading: NED
+dialog: You just agreed to be her partner.
+speaker_heading: EMERSON
+dialog: I intend to profit from your
+dialog: stupidity. Are you in love with
+dialog: her? Cause it's that level of stupid.
+speaker_heading: NED
+dialog: I'll admit to being confused. This
+dialog: is a very confusing time. Childhood
+dialog: issues. Diggin' in the dirt. S'all
+dialog: coming up.
+speaker_heading: EMERSON
+dialog: We all have the childhood issues. I
+dialog: got a full subscription. Horror
+dialog: stories.
+speaker_heading: NED
+dialog: I kinda killed her dad when I was
+dialog: 10.
+speaker_heading: EMERSON
+dialog: Maybe not "horror" stories.
+speaker_heading: NED
+dialog: She doesn't know. I wanted to make
+dialog: it better or different from what it
+dialog: was because what it was was her dead
+dialog: and I didn't want that to be my fault,
+dialog: too.
+speaker_heading: EMERSON
+dialog: Who died instead, Captain Sav'a'ho?
+text: Ned hands him the folded newspaper in his back pocket.
+speaker_heading: NED
+dialog: It's a random proximity thing.
+speaker_heading: EMERSON
+dialog: Bitch, I was in proximity.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 41.
+speaker_heading: NED
+dialog: I wasn't thinking.
+text: Emerson glances at the obituaries and a circled picture of
+dialog: the now deceased obese, chain-smoking Funeral Director.
+speaker_heading: EMERSON
+dialog: I wondered where he went.
+speaker_heading: NED
+dialog: Thank god he was an A-hole. He took
+dialog: stuff off of dead people and sold it
+dialog: on ebay. It's all in the obituary.
+speaker_heading: EMERSON
+dialog: Oh, that's nice. Fact he was an A-
+dialog: hole make you feel better about what
+dialog: you did?
+speaker_heading: NED
+dialog: Yes. Immensely. I would've felt
+dialog: horrible if it was... you, for
+dialog: example.
+text: Emerson slaps Ned upside the head.
+speaker_heading: NED (CONT'D)
+dialog: Ow. I'm not proud.
+speaker_heading: EMERSON
+dialog: I like that you did it. Makes the
+dialog: worst thing I ever did seem
+dialog: insignificant.
+speaker_heading: NED
+dialog: Listen to you all judgey-judge.
+speaker_heading: EMERSON
+dialog: You don't know this woman. You don't
+dialog: know anything about her. Except she
+dialog: got herself killed.
+dialog: As Ned takes that in...
+speaker_heading: NARRATOR
+dialog: The Pie-Maker hadn't considered Chuck
+dialog: could be anything but the little
+dialog: girl next door he fell in love with.
+dialog: CAMERA DRIFTS OVER THE LEDGE to find the side of the Pie
+dialog: Hole Bakery, moving through a window and into:
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 42.
+speaker_heading: NARRATOR (CONT'D)
+dialog: She only ever had charitable thoughts
+dialog: and her heart was filled with
+dialog: kindness.
+scene_heading: 73 INT. PIE HOLE - DAY 73
+text: CAMERA FINDS Chuck sitting at the booth alone.
+speaker_heading: NARRATOR
+dialog: She was who he wanted her to be and
+dialog: no one else... until proven otherwise.
+text: Ned and Emerson slide into the booth next to Chuck.
+speaker_heading: CHUCK
+dialog: I'm not who you think I am.
+text: Emerson gives Ned a side-long glance.
+speaker_heading: EMERSON
+dialog: Who does he think you are?
+speaker_heading: CHUCK
+dialog: The small town girl who never saw
+dialog: the world only to have her first
+dialog: time out be her last. Well, that is
+dialog: who I am but I've been hoisted upon
+dialog: my own petard.
+speaker_heading: NED
+dialog: What's a petard?
+speaker_heading: CHUCK
+dialog: In my case, a petard is the wander-
+dialog: lust that compromised my judgment.
+dialog: That Tahitian getaway was a devil's
+dialog: bargain. And the devil... was Diedre.
+scene_heading: 74 INT. "BOUTIQUE TRAVEL" TRAVEL BOUTIQUE - FLASHBACK 74
+text: Diedre Duffield holds the door open for Chuck as she ENTERS.
+text: Once inside, Diedre locks the door behind her.
+speaker_heading: NARRATOR
+dialog: Diedre Duffield was the local manager
+dialog: of Boutique Travel travel boutique
+dialog: who lured Chuck with the promise of
+dialog: a highseas adventure at no cost...
+speaker_heading: RESUME - PIE HOLE
+speaker_heading: CHUCK
+dialog: All I had to do was pick up a package
+dialog: for Diedre.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 43.
+speaker_heading: NED
+dialog: Are you a drug mule?
+speaker_heading: CHUCK
+dialog: No. I'm a monkey mule. I met a man
+dialog: in a park and he gave me a brief
+dialog: case.
+speaker_heading: BRIEF CASE - FLASHBACK
+text: A stainless steel Halliburton molded in an alligator print.
+text: The case opens to REVEAL a pair of PLASTER MONKEY STATUES.
+speaker_heading: RESUME - PIE HOLE
+speaker_heading: NED
+dialog: You died for a pair of plaster
+dialog: monkeys?
+speaker_heading: CHUCK
+dialog: Diedre said their value was
+dialog: sentimental.
+speaker_heading: EMERSON
+dialog: Those must be some emotional monkeys.
+speaker_heading: CHUCK
+dialog: Yes, well, clearly he didn't want to
+dialog: part with them. You should ask Diedre
+dialog: about all of this. I'm very curious
+dialog: what she has to say.
+scene_heading: 75 INT. TRAVEL BOUTIQUE - DAY - FLASHBACK 75
+dialog: CAMERA PULLS BACK FROM Diedre the Boutique Manager to REVEAL
+text: she's SPEAKING M.O.S. in front of SEVERAL REPORTERS.
+speaker_heading: NARRATOR
+dialog: The facts were these: in a shrewd
+dialog: marketing ploy, the Boutique Travel
+dialog: travel boutique offered a 100,000
+dialog: dollar reward in the death of
+dialog: Charlotte Charles.
+scene_heading: 76 EXT. BOUTIQUE TRAVEL TRAVEL BOUTIQUE - DAY - PRESENT 76
+text: Emerson, Ned and Chuck pull up in front of the building.
+text: Only Ned and Emerson get out. Chuck slouches in the back.
+speaker_heading: NARRATOR
+dialog: Boutique Travel travel boutique
+dialog: manager, Diedre Duffield, hoped it
+speaker_heading: (MORE)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 44.
+speaker_heading: NARRATOR (CONT'D)
+dialog: would catch a killer before a killer
+dialog: caught her.
+scene_heading: 77 INT. BOUTIQUE TRAVEL TRAVEL BOUTIQUE - DAY - PRESENT 77
+text: Ned and Emerson open the door. They step inside and a bell
+text: CHIMES. The store appears to be empty, they look around.
+speaker_heading: EMERSON
+dialog: Hello? Anybody home?
+dialog: Ned looks around as Emerson goes into:
+scene_heading: 78 INT. BOUTIQUE TRAVEL TRAVEL BOUTIQUE - BACK ROOM 78
+text: Emerson ENTERS and stops short at strangled-to-death Diedre
+text: sitting at the break table, plastic bag over her head.
+speaker_heading: NARRATOR
+dialog: Although on-line sales increased by
+dialog: 23 percent, the reward fell short of
+dialog: achieving its desired goal.
+speaker_heading: NED
+speaker_heading: (as he ENTERS)
+dialog: This is really no way to run a --
+dialog: Oh.
+speaker_heading: MOMENTS LATER
+text: Chuck is now staring at Diedre's
+dialog: dead body along with Ned and Emerson.
+text: Chuck carefully pulls the bag off
+dialog: her head.
+speaker_heading: CHUCK
+dialog: Well, I guess I can't be too mad at
+dialog: her. Is that how they found me? That's
+text: humiliating. She looks horrible.
+speaker_heading: NED
+dialog: I wonder how long she's been here.
+speaker_heading: EMERSON
+dialog: Touch the poor bitch and ask her.
+speaker_heading: NED
+dialog: (hesitates, to Chuck)
+dialog: I'm sort of embarrassed to do it in
+dialog: front of you.
+text: Chuck turns around and Ned touches Diedre. A familiar POP OF
+text: ELECTRICITY. Diedre opens her eyes, blinks and sits up. She
+dialog: glances around, more than a little confused -- wasn't she
+text: just murdered. She locks eyes with Chuck.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 45.
+text: A CLOCK appears in the corner of the SCREEN: 59... 58...
+speaker_heading: DIEDRE
+dialog: Hey, Charlotte.
+speaker_heading: CHUCK
+dialog: Hey, Diedre.
+speaker_heading: DIEDRE
+dialog: Now why'd I know you'd be the first
+dialog: person I'd see when I got to... is
+dialog: this... which one is this?
+speaker_heading: CHUCK
+dialog: This isn't either. Or maybe it's
+dialog: both. But here's the deal: you get
+dialog: to talk for like a minute so we're
+dialog: gonna catch up. Then you're... not
+dialog: talking anymore.
+speaker_heading: DIEDRE
+dialog: Does everybody get to do this? Cause,
+dialog: girl, we got to break it down.
+speaker_heading: CHUCK
+dialog: Did you know I was gonna get killed?
+speaker_heading: DIEDRE
+dialog: I thought it might be a possibility.
+dialog: And I'm real sorry about that. I
+dialog: probably should have said something.
+dialog: But to be honest, and really? Why
+dialog: not at this point? If it was safe, I
+dialog: would've done it myself. This is
+dialog: fantastic. Being honest is fun.
+text: Chuck is stunned. The clock continues: 34... 33... 32...
+speaker_heading: EMERSON
+dialog: (sotto, to Chuck)
+dialog: Ask who the dude was that killed
+dialog: you. And her. And what's with the
+dialog: monkeys.
+speaker_heading: DIEDRE
+dialog: (re: Ned and Emerson)
+dialog: Um, who are those people?
+speaker_heading: CHUCK
+dialog: That's Emerson. I don't know him
+dialog: really. And this is Ned. He was my
+dialog: first kiss.
+speaker_heading: DIEDRE
+dialog: Oh, now he's adorable. Look at this --
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 46.
+text: Diedre reaches over and pinches Ned's cheek and THUNK! Her
+text: head hits the table as she goes back to being dead INSTANTLY.
+speaker_heading: EMERSON
+dialog: You couldn't have taken a step back?
+speaker_heading: NED
+dialog: I didn't know she was gonna pinch my
+dialog: cheek. Who does that?
+speaker_heading: CHUCK
+dialog: She... actually, she does that a
+dialog: lot.
+speaker_heading: EMERSON
+dialog: Whoever killed you, killed your girl
+dialog: Diedre as evidenced by the plastic
+dialog: sack. But why would whoever killed
+dialog: you kill her if he already got his
+dialog: monkeys.
+speaker_heading: CHUCK
+dialog: I dropped my key in the ice maker.
+dialog: He couldn't get in my room.
+scene_heading: 79 INT. CRUISE SHIP - CORRIDOR - MEMORY FLASH 79
+text: The PLASTIC SACK KILLER, his face OUT OF FRAME, stands outside
+text: a cabin door holding dead Chuck slumped over in his arms, as
+text: he fumbles through her bathrobe for her room key.
+speaker_heading: PLASTIC SACK KILLER
+dialog: Oh, for Pete's sake.
+text: He tries the handle, it doesn't open.
+speaker_heading: PLASTIC SACK KILLER (CONT'D)
+dialog: This is a nightmare.
+scene_heading: RESUME - BOUTIQUE TRAVEL TRAVEL BOUTIQUE - BREAK ROOM
+speaker_heading: NED
+dialog: He doesn't have the monkeys.
+speaker_heading: CHUCK
+dialog: When you get murdered on a boat,
+dialog: where do they send your stuff?
+speaker_heading: EMERSON
+dialog: Your next of kin.
+speaker_heading: CHUCK
+dialog: If I got killed for the monkeys and
+dialog: Diedre got killed for the monkeys
+dialog: then...
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 47.
+speaker_heading: CLOSE ON - THE BRIEFCASE
+dialog: CAMERA VERY QUICKLY PULLS BACK TO REVEAL we're in:
+scene_heading: 80 INT. CHUCK'S CHILDHOOD HOME - CHUCK'S BEDROOM - NIGHT 80
+dialog: The room has been stripped of all personal belongings. The
+text: briefcase sits on a bed, surrounded by STACKS OF BOOKS. In
+text: fact, the whole room is filled with STACKS OF NEWSPAPER.
+text: CAMERA CONTINUES PULLING BACK INTO...
+speaker_heading: THE HALLWAY
+dialog: ...and down the stairs to the:
+speaker_heading: LIVING ROOM
+text: Vivian is preparing a cheese platter while Lily watches an
+text: old television playing a NEWSREEL of the DARLING MERMAID
+text: DARLINGS in action, swimming in circles under water.
+speaker_heading: NARRATOR
+dialog: It was Aunt Vivian and Aunt Lily who
+dialog: received custody of the monkeys. And
+dialog: they were about to be paid a visit
+dialog: by the man willing to kill for them.
+text: DING-DONG. The doorbell rings.
+speaker_heading: LILY
+dialog: Get that, would you dear?
+speaker_heading: END OF ACT FOUR
+dialog: 
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 48.
+speaker_heading: ACT FIVE
+scene_heading: 81 EXT. CHUCK'S AUNTS' HOUSE - NIGHT - MOMENTS EARLIER 81
+text: Ned's VINTAGE MERCEDES screeches to a halt across the street
+dialog: from Chuck's Aunts' House. Ned, Emerson and Chuck hop out.
+speaker_heading: NED
+dialog: You stay here.
+speaker_heading: CHUCK
+dialog: I just wanna look in the windows.
+dialog: Like the ghost of Christmas past.
+speaker_heading: NED
+dialog: This isn't your Christmas anymore.
+speaker_heading: CHUCK
+dialog: I want my pie and I wanna eat it,
+dialog: too. I'll get crumbs in the bed I
+dialog: don't mind.
+speaker_heading: NED
+dialog: You can't. You can have your pie,
+dialog: but you can't eat it. That's how it
+dialog: works.
+speaker_heading: NARRATOR
+dialog: Chuck was the Pie-Maker's pie and he
+dialog: could never have a bite.
+speaker_heading: EMERSON
+dialog: You're making me hungry.
+speaker_heading: CHUCK
+dialog: What if something happened? What if
+dialog: they got hoisted on my petard, too?
+dialog: I would just die. Again.
+speaker_heading: NED
+dialog: I wish I could give you an emotional
+dialog: Heimlich so you could cough up that
+dialog: wad of fear and anxiety, but... I
+dialog: can't.
+text: Ned stares at her, his heart swells.
+speaker_heading: NED (CONT'D)
+dialog: (to Emerson)
+dialog: Give her a hug.
+dialog: Emerson gives Chuck a hug.
+speaker_heading: NED (CONT'D)
+dialog: That was from me.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 49.
+text: Chuck watches them cross the street to her Aunts' house.
+speaker_heading: NARRATOR
+dialog: For 19 years, 33 weeks, 3 days, 7
+dialog: hours and 42 minutes, Aunt Vivian
+dialog: and Aunt Lily were all Chuck had.
+dialog: And before Chuck, all they had were
+dialog: each other.
+scene_heading: 82 INT. POOL - DAY - FLASHBACK 82
+text: Teen Vivian and Lily loll underwater, rolling over and over
+text: languidly in sea-shell bikini tops and mermaid fin bottoms.
+speaker_heading: NARRATOR
+dialog: They made a name for themselves as
+dialog: the "Darling Mermaid Darlings."
+dialog: Teen Vivian and Teen Lily dive, pivot, shoot out of the water
+text: and flip, perfectly synchronized. The CROWD goes wild.
+scene_heading: 83 INT. POOL - DAY - FLASHBACK - 15 YEARS LATER 83
+text: 30's VIVIAN and LILY loll underwater, rolling over and over
+dialog: less gracefully than before, their mermaid fins not as cute.
+speaker_heading: NARRATOR
+dialog: Still holding onto their fading glory
+dialog: as under-water artists, their lives
+dialog: were changed forever...
+scene_heading: 84 INT. BATHROOM - FLASHBACK 84
+dialog: CAMERA MOVES PAST an advertisement for the "Darling Mermaid
+dialog: Darlings" to FIND 40's Lily cleaning the litter box as the
+text: cat waits patiently for her to be done. She accidentally
+text: flips cat sand in her own face and recoils.
+speaker_heading: NARRATOR
+dialog: ...when Lily cleaned the litter box
+dialog: and got dirty cat sand in her eye.
+scene_heading: 85 INT. POOL - DAY - FLASHBACK 85
+text: The cat now sits at the edge of the pool watching 30's Vivian
+dialog: and 30's Lily (with an eye patch) loll underwater with no
+dialog: indication of grace, colliding into each other.
+speaker_heading: NARRATOR
+dialog: Not only was the eye lost but their
+dialog: careers, too.
+dialog: The CROWD in the stands is only 7 percent of what it was.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 50.
+scene_heading: 86 EXT. SYNAGOGUE - DAY - FLASHBACK 86
+dialog: Young Chuck and 30's Vivian and 40's Lily lead a RABBI and a
+text: train of PALLBEARERS carrying her father's coffin through
+text: the GRAVEYARD on the hill above the Synagogue.
+speaker_heading: NARRATOR
+dialog: They retreated behind a fence and
+dialog: made sure the world stayed on the
+dialog: other side.
+scene_heading: 87 INT. CHUCK'S AUNTS' HOUSE - LIVING ROOM - NIGHT - PRESENT 87
+text: Vivian is preparing a cheese platter while Lily watches an
+text: old television playing a NEWSREEL of the DARLING MERMAID
+text: DARLINGS in action, swimming in circles under water.
+text: DING-DONG. The doorbell rings.
+speaker_heading: LILY
+dialog: Get that, would you dear?
+scene_heading: 88 EXT. CHUCK'S AUNTS' HOUSE - NIGHT - PRESENT 88
+text: Ned and Emerson stand at a walk-in gate talking to a box.
+speaker_heading: VIVIAN'S VOICE
+dialog: Hello?
+speaker_heading: NED
+dialog: Hi. Uh, my name is Ned. I lived next
+dialog: door 20 years ago. I was a friend of
+dialog: Chuck's... or Charlotte's, rather.
+text: Emerson shoots him a look. BUZZZ. The walk in gate unlatches
+text: and Ned turns and gives Chuck in the car a thumbs up. She
+text: returns the thumbs up and then immediately scrambles out of
+text: the car, running to catch the gate before it closes.
+scene_heading: 89 INT. CHUCK'S CHILDHOOD HOME - NIGHT 89
+text: Ned and Emerson sit opposite Vivian, they're surrounded by
+text: CAGED BIRDS of all varieties and a maze of newspaper stacks.
+text: As Vivian sets a sad cobbled-together cheese and cracker
+dialog: plate in front of their guests, Lily prattles on:
+speaker_heading: LILY
+dialog: Charlotte was a firecracker. Always
+dialog: trying to get us out of the house,
+dialog: threatening to bake anti-depressants
+dialog: into our food. Got to the point I
+dialog: was scared to eat anything she cooked.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 51.
+speaker_heading: VIVIAN
+dialog: She was a good cook. And a nice girl.
+dialog: Do you like girls?
+speaker_heading: NED
+dialog: Yes, ma'am.
+speaker_heading: VIVIAN
+dialog: Charlotte was a nice girl. With the
+dialog: exception of puberty. Which was
+dialog: unfortunately the same time Lily was
+dialog: going through her change of life.
+speaker_heading: LILY
+dialog: It's impolite to discuss a person's
+dialog: menopause in mixed company.
+speaker_heading: VIVIAN
+dialog: It nearly killed me.
+dialog: Lily turns the subject back to Charlotte.
+speaker_heading: LILY
+dialog: Horrible the way Charlotte died. On
+dialog: a cruise. Last days spent surrounded
+dialog: by middle-aged over-weight women who
+dialog: wear sweatshirts with things sewn to
+dialog: them. Usually kittens made of felt.
+dialog: And the food is perfectly atrocious.
+dialog: Unless she enjoyed vomiting and
+dialog: diarrhea, I can't imagine she had a
+dialog: good last meal.
+speaker_heading: EMERSON
+dialog: A good last meal goes a long way.
+dialog: Our penal system makes a point of
+dialog: it.
+speaker_heading: NED
+dialog: It's nice she had a little glimpse
+dialog: of the world before she died.
+speaker_heading: LILY
+dialog: The world isn't that great.
+speaker_heading: VIVIAN
+dialog: At least she had the sense not to
+dialog: fly. Airplanes fall outta the sky
+dialog: every day.
+speaker_heading: (TO EMERSON)
+dialog: Cheese? I recommend the pure goat
+dialog: with blue ash. Has a grassy flavor.
+dialog: Emerson takes a bite.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 52.
+speaker_heading: EMERSON
+dialog: It does have a grassy flavor.
+speaker_heading: VIVIAN
+dialog: It's delicious with Charlotte's honey.
+dialog: You haven't lived until you've tasted
+dialog: her honey. The homeless love it.
+speaker_heading: LILY
+dialog: (holds off emotion)
+dialog: We'll never taste her honey again.
+scene_heading: 90 EXT. CHUCK'S AUNTS' HOUSE - NIGHT 90
+text: Chuck peers through the window at her Aunts, examining the
+dialog: life she left behind. Regardless of their neurosis, Chuck's
+dialog: Aunts were the only family she had and she loves them.
+speaker_heading: NARRATOR
+dialog: For the life of her, Chuck couldn't
+dialog: remember why she was so desperate to
+dialog: leave her Aunts behind.
+scene_heading: 91 INT. CHUCK'S AUNTS' HOUSE - NIGHT 91
+text: Ned reacts as he catches Chuck peering through the window.
+dialog: He tries not to lose his focus and keep on task:
+speaker_heading: NED
+dialog: Not to change the subject, but has
+dialog: the cruise line returned her
+dialog: belongings? Specifically a stainless
+dialog: steel briefcase?
+scene_heading: 92 EXT. CHUCK'S AUNTS' HOUSE - NIGHT 92
+text: Chuck spots Ned spotting her and ducks out of sight.
+text: She sneaks another look at her Aunts through the window,
+text: surrounded by their feathered friends in cages. She moves
+text: around the side of the house, eyes the stacks of bee hives.
+scene_heading: 93 INT. CHUCK'S AUNTS' HOUSE - CHUCK'S BEDROOM - NIGHT 93
+text: Chuck opens the window, climbs inside, finds the bed with
+text: the suitcase and the briefcase on the springs on top. A lone
+text: parrot is on its perch in the its cage in the corner. Chuck
+text: opens the briefcase to reveal the twin PLASTER MONKEYS.
+speaker_heading: NARRATOR
+dialog: The monkeys of indeterminate
+dialog: sentimental value took on a new
+dialog: sentimental value for Chuck. If she
+dialog: couldn't keep her Aunts, she was
+dialog: going to keep them.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 53.
+text: She HEARS footsteps coming up the stairs. She pulls the
+dialog: monkeys out of the briefcase.
+speaker_heading: 94 UPSTAIRS LANDING - NIGHT 94
+text: Lily walks up the stairs.
+speaker_heading: 95 CHUCK'S BEDROOM - NIGHT 95
+text: Chuck snaps the briefcase shut and moves toward the window.
+text: She stops and takes a look around and slips outside.
+text: Lily ENTERS narrowly missing Chuck. Lily crosses to the window
+text: and pulls it shut, yanking the curtains closed.
+scene_heading: 96 EXT. CHUCK'S AUNTS' HOUSE - LEDGE - NIGHT 96
+text: Chuck stands on the ledge out of sight, the two plaster
+dialog: monkeys under her arm.
+scene_heading: 97 INT. CHUCK'S BEDROOM - NIGHT 97
+text: Lily moves to the bed and picks up the briefcase. Behind
+text: her, silhouetted in the door, a MAN quietly ENTERS the room.
+speaker_heading: The parrot SQUAWKS.
+speaker_heading: PARROT
+dialog: "Oh, for Pete's sake."
+text: Lily turns around and FWIP - a bag is thrown violently over
+text: her head. She sucks air and it shrink-wraps to her face.
+scene_heading: 98 EXT. CHUCK'S AUNTS' HOUSE - LEDGE - NIGHT 98
+text: Chuck is trying to see through the window, but can't around
+text: the winding maze of NEWSPAPER STACKS. She shimmies along the
+dialog: ledge toward another window.
+scene_heading: 99 INT. CHUCK'S AUNTS' HOUSE - LIVING ROOM - NIGHT 99
+dialog: Ned, Emerson and Vivian in the living room.
+speaker_heading: VIVIAN
+dialog: Charlotte always wanted to get away.
+dialog: Got away further than any of us
+dialog: thought.
+text: Ned reaches over and holds Lily's hand...
+speaker_heading: NARRATOR
+dialog: In a rare moment of sensitivity, the
+dialog: Pie-Maker reached out and touched
+dialog: someone... who didn't want to be
+dialog: touched.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 54.
+text: ...but she stiffens at his touch. They sit there an awkward
+text: beat as if a social taboo has been broken. Ned is finally
+text: unable to take it anymore and gets up to excuse himself.
+speaker_heading: NED
+dialog: I'll go see if she needs any help
+dialog: bringing it down in case it's heavy.
+scene_heading: 100 INT. CHUCK'S AUNTS' HOUSE - LANDING - NIGHT 100
+text: Ned climbs the stairs to the second landing. It's eerily
+text: quiet upstairs. He takes a few steps down the hall.
+speaker_heading: NED
+dialog: Want me to carry that for you?
+text: He rounds the corner and sees the stainless steel briefcase
+text: in the middle of the hall when FWIP - a bag is thrown
+text: violently over his head, as well. He sucks air and it
+text: shrinkwraps to his face. Ned's struggles with the Killer,
+text: who tightens his grip, pulling Ned off his feet.
+text: WHAP -- Chuck comes out of nowhere and SLAMS THE STAINLESS
+text: STEAL BRIEFASE upside the Plastic Sack Killer's head. It
+text: rings in his ears and ours. He drops Ned with a plop. He
+text: scrambles back pulling the sack off his face, gasping for
+text: air. The Plastic Sack Killer spins around just as Chuck is
+dialog: taking another swing with the briefcase --
+text: THWAP. The Plastic Sack Killer catches the briefcase before
+text: it hits his head, snapping it out of Chuck's hands. A tense
+dialog: beat then...
+speaker_heading: PLASTIC SACK KILLER
+dialog: Didn't I kill you?
+speaker_heading: LILY (O.S.)
+dialog: I can hold my breath for a long time.
+dialog: The Plastic Sack Killer turns to see Lily, still alive,
+text: standing at the other end of the hall cocking a shotgun.
+speaker_heading: LILY (CONT'D)
+dialog: 18 years of under-water ballet.
+speaker_heading: PLASTIC SACK KILLER
+dialog: Oh, for Pete's sake.
+dialog: BLAM! The shotgun KICK PROPELS Lily backward into the
+text: partially closed door behind her and into the next room.
+dialog: The impact of the SHOTGUN BLAST knocks the Plastic Sack Killer
+dialog: off his feet and THROUGH THE WINDOW BEHIND HIM, the stainless
+text: steel briefcase clamors to the floor.
+speaker_heading: LIVING ROOM
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 55.
+text: Emerson and Vivian both react to the commotion upstairs.
+speaker_heading: UPSTAIRS LANDING
+text: Chuck and Ned stand with the gaping window between them,
+dialog: staring at each other. Holy shit. Did that just happen?
+text: They look down the other end of the hall where Lily is staring
+dialog: directly at not only Ned but more importantly Chuck, her
+text: dead niece evidently returned from the grave.
+speaker_heading: NARRATOR
+dialog: The jig appeared to be up. Aunt Lily
+dialog: was looking directly at her niece.
+dialog: Her niece who wasn't supposed to be
+dialog: alive.
+speaker_heading: LILY'S P.O.V. - HALL
+text: The corridor is partially obscured by her eye patch and she
+dialog: doesn't see Chuck at all, only Ned
+speaker_heading: NARRATOR (CONT'D)
+dialog: And if she possessed two good eyes,
+dialog: she would have seen her.
+speaker_heading: ON CHUCK
+text: She slinks around the corner and out the open window.
+scene_heading: 101 EXT. CHUCK'S AUNTS' HOUSE - LEDGE - NIGHT 101
+text: Chuck emerges from the second story and climbs down the rose
+dialog: trellis. She turns back to see:
+speaker_heading: SECOND STORY WINDOW
+text: Ned's looking out the window at Chuck. The wail of approaching
+text: sirens can be heard in the distance.
+speaker_heading: NED'S P.O.V. - YARD
+text: Chuck runs across the yard and stops at the dead Plastic
+text: Sack Killer and kicks him.
+speaker_heading: NARRATOR
+dialog: A rush of warmth washed over the Pie
+dialog: Maker, he would later describe this
+dialog: feeling as delight. The girl he
+dialog: rescued from death had returned the
+dialog: favor.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 56.
+scene_heading: 102 INT. CHUCK'S AUNTS' HOUSE - LANDING - NIGHT 102
+text: Ned turns from the window to find Lily holding the stainless
+text: steel briefcase as Emerson and Vivian come up the stairs.
+speaker_heading: ON BRIEFCASE
+text: The lid pops open to REVEAL there are no monkeys, but instead
+text: it's filled with HONEYCOMB. A single bee flies out.
+speaker_heading: NARRATOR
+dialog: And she gave a little sweetness to
+dialog: the ones she left behind.
+speaker_heading: GO WIDE
+text: Ned, Emerson, Vivian and Lily watch the lone bee fly out the
+dialog: window and into the night.
+scene_heading: 103 EXT. CHUCK'S AUNTS' HOUSE - NIGHT 103
+text: POLICE and NEWS VANS parked in the street outside the fence.
+speaker_heading: POLICE OFFICERS, REPORTERS and CAMERA-MEN storm through the
+text: gait and stop short at an unusual sight.
+speaker_heading: THE DEAD PLASTIC SACK KILLER
+text: He's laying sprawled out surrounded by broken glass.
+speaker_heading: ON LILY AND VIVIAN
+text: They step out onto the porch, surveying the REPORTERS and a
+speaker_heading: gathering CROWD OF LOOKILOOS
+speaker_heading: NARRATOR
+dialog: And saw that the Darling Mermaid
+dialog: Darlings had another go at the teat
+dialog: of stardom.
+speaker_heading: ON CHUCK
+text: She's wearing scarf and long-coat, watching from the gathering
+speaker_heading: CROWD OF LOOKILOOS.
+speaker_heading: CHUCK
+dialog: Hey. Aren't those the world-renowned
+dialog: Darling Mermaid Darlings?
+text: The Reporters glance at Chuck, then back at Lily and Vivian,
+text: then swarm to the Darling Mermaid Darlings in a CACOPHONOUS
+speaker_heading: MURMUR OF QUESTIONS and GASPS.
+dialog: Chuck smiles, pleased with herself...
+speaker_heading: CUT TO BLACK:
+dialog: 
+speaker_heading: END OF ACT FIVE
+dialog: 
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 57.
+speaker_heading: ACT SIX
+speaker_heading: ON A TELEVISION
+dialog: Newscaster #1, seen earlier, reports breaking news:
+speaker_heading: NEWSCASTER #1
+dialog: Former "Darling Mermaid Darlings"
+dialog: Vivian and Lily Charles defeated a
+dialog: deadly home invader who may have
+dialog: some connection to the murder of
+dialog: their niece, "Lonely Tourist"
+dialog: Charlotte Charles.
+dialog: CAMERA PULLS BACK TO REVEAL we are --
+scene_heading: 104 INT. OLIVE'S APARTMENT - NIGHT 104
+text: CAMERA CONTINUES PULLING BACK TO REVEAL Olive again sitting
+text: in her over-stuffed lounge chair, Digby squeezed in next to
+dialog: her. They're watching the evening news.
+speaker_heading: NEWSCASTER #1 (O.S.)
+dialog: When asked about a "Darling Mermaid
+dialog: Darlings" reunion the sisters
+dialog: mentioned a benefit performance to
+dialog: support "Honey for the Homeless" was
+dialog: in the works.
+dialog: Olive raises the television remote and we...
+speaker_heading: CLICK TO BLACK
+scene_heading: 105 INT. PIE HOLE - DINING AREA - NIGHT 105
+text: CAMERA FINDS Ned and Chuck seated at a booth enjoying pie.
+speaker_heading: CHUCK
+dialog: You know, this whole thing is sort
+dialog: of like reincarnation but more
+dialog: immediate.
+speaker_heading: NED
+dialog: Sort of.
+speaker_heading: CHUCK
+dialog: Do you believe in reincarnation? If
+dialog: I wouldn't have come back this way,
+dialog: would I have come back some other
+dialog: way?
+speaker_heading: NED
+dialog: I don't wanna believe in
+dialog: reincarnation.
+speaker_heading: (MORE)
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 58.
+speaker_heading: NED (CONT'D)
+dialog: The planet's falling apart. Right
+dialog: now it's the children's problem, but
+dialog: if we reincarnate it's our problem.
+speaker_heading: CHUCK
+dialog: Never thought of it that way.
+dialog: (considers)
+dialog: Was this an act of kindness? Me.
+dialog: Here. Were you trying to do something
+dialog: good for no other reason than to
+dialog: help me?
+speaker_heading: NED
+dialog: (shakes his head)
+dialog: I was being selfish. I'd love to
+dialog: tell myself I was being unselfish
+dialog: but I know deep down in my primal
+dialog: sweet spot I was being unselfish for
+dialog: selfish reasons.
+speaker_heading: CHUCK
+dialog: Did you want a corpse bride?
+speaker_heading: NED
+dialog: No. I just thought the world would
+dialog: be a better place if you were still
+dialog: in it.
+dialog: The most romantic things she's ever heard.
+speaker_heading: CHUCK
+dialog: Anything else I should know?
+speaker_heading: NARRATOR
+dialog: The Pie Maker wanted to tell Chuck
+dialog: about that fateful afternoon when he
+dialog: brought his mother back and
+dialog: inadvertently killed her father, but
+dialog: instead he said...
+speaker_heading: NED
+dialog: You know everything there is to know.
+speaker_heading: NARRATOR
+dialog: He lied.
+text: She slides one of the Monkeys across the table.
+speaker_heading: CHUCK
+dialog: I figure since they cost me my life
+dialog: I should get to keep at least one.
+dialog: And since I wouldn't be alive if it
+dialog: weren't for you, you should have the
+dialog: other one.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 59.
+speaker_heading: NED
+dialog: It's like those heart pendants that
+dialog: BFF's wear. Except with monkeys.
+speaker_heading: CHUCK
+dialog: Thanks for bringing me back to life.
+text: The word "life" hangs there. Chuck stares at Ned a moment.
+dialog: The attraction is palpable, but is it love or fascination?
+dialog: Not even Chuck could tell you. Ned's affection is clearer:
+speaker_heading: NED
+dialog: Thanks for returning the favor.
+text: Chuck takes her Monkey and presses its face against Ned's
+text: Monkey. Ned smiles returning the kiss with his Monkey. He
+text: feels the weight of the plaster statue.
+speaker_heading: NED (CONT'D)
+dialog: These are kinda heavy.
+text: Then: SMASH. Chuck smashes her Monkey against Ned's. The
+text: plaster shatters revealing SOLID GOLD MONKEYS underneath.
+speaker_heading: CHUCK
+dialog: Is that...?
+speaker_heading: NED
+dialog: Uh-huh.
+speaker_heading: CHUCK
+dialog: Neat.
+scene_heading: 106 EXT. CHUCK'S AUNTS' HOUSE - DAY 106
+text: The flowers in the yard are blooming and there's a fresh
+dialog: coat of paint being applied to the house. Lily and Vivian
+text: emerge and walk down the path to the gate, stepping out.
+speaker_heading: NARRATOR
+dialog: With a renewed interest in the world
+dialog: on the other side of their fence,
+dialog: Vivian and Lily retreated from their
+dialog: retreat...
+scene_heading: 107 EXT. WATER TANK - DAY 107
+text: A large metal water tank with port hole windows in the side.
+dialog: Vivian and Lily in robes and wearing bathing caps climb the
+text: stairs to the platform above the water.
+speaker_heading: NARRATOR
+dialog: ...and took the plunge.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 60.
+dialog: The VERY AMPLE CROWD APPLAUDS as Vivian and Lily DIVE!
+text: CAMERA PUSHES INTO THE PORTHOLE WINDOW
+text: SPLOOSH-SPLOOSH. Vivian and Lily dive in and into each other.
+text: The porthole the window in a kitchen door. The door swings
+dialog: open to REVEAL we are:
+scene_heading: 108 INT. KITCHEN - DAY - DAYS LATER 108
+text: CAMERA PUSHES PAST Emerson to find Ned and Chuck standing on
+text: either side of the door to the WALK-IN FREEZER.
+speaker_heading: NARRATOR
+dialog: And the Pie-Maker and Chuck took a
+dialog: plunge of their own...
+dialog: CAMERA PUSHES BETWEEN Ned and Chuck to REVEAL they're standing
+text: over a FROZEN CORPSE. A clean-cut white professorial type in
+text: his late 40's wearing a suit. His name is MARTIN MILTENBERGER
+dialog: and he's been stabbed several times.
+speaker_heading: NARRATOR (CONT'D)
+dialog: The facts were these: one Martin
+dialog: Miltenberger, Principal of the Beales
+dialog: School for Boys was found stabbed to
+dialog: death in the school's walk-in freezer.
+dialog: As Ned's about to touch dead Martin Miltenberger... CAMERA
+text: JUMPS TO AN EXTREME-EXTREME-EXTREME CLOSE UP and we see the
+text: FAMILIAR POP OF ELECTRICITY. Ned sets the alarm on his watch.
+text: A CLOCK appears in the corner of the SCREEN and begins
+dialog: counting down from ONE MINUTE. 59 seconds... 58... 57...
+text: Martin Miltenberger sits up and takes in his stabbed status.
+speaker_heading: NARRATOR (CONT'D)
+dialog: But before Principal Miltenberger
+dialog: could get into the specifics of his
+dialog: demise, Chuck thought it would be
+dialog: nice to ask...
+speaker_heading: CHUCK
+dialog: Do you have any last words or thoughts
+dialog: or requests?
+text: Ned reacts, glancing at Chuck and loving her for asking.
+speaker_heading: NARRATOR
+dialog: It was something the Pie Maker never
+dialog: thought or cared enough to ask until
+dialog: Chuck back into his life.
+speaker_heading: EMERSON
+dialog: You better ask who killed him first.
+scene_heading: -----------------------------------------------------------------------------------------------------
+dialog: 61.
+text: As Martin Miltenberger prattles on, Ned stares at Chuck, his
+text: heart swelling. He reaches behind him and holds his hands
+dialog: behind his back.
+speaker_heading: NARRATOR
+dialog: As he stared at her, he reached around
+dialog: and held his hand behind his back,
+dialog: pretending he was holding hers.
+text: Chuck winks at Ned and reaches behind her back.
+speaker_heading: NARRATOR (CONT'D)
+dialog: And at that very moment she was
+dialog: pretending to be holding his.
+dialog: OFF Chuck and Ned holding their hands behind their backs...
+speaker_heading: FADE OUT:
+dialog: 

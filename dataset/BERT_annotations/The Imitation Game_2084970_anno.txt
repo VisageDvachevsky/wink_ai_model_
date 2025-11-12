@@ -1,0 +1,4616 @@
+speaker_heading: THE IMITATION GAME
+dialog: Written by
+dialog: Graham Moore
+dialog: Based on
+dialog: "Alan Turing: The Enigma"
+dialog: By Andrew Hodges
+speaker_heading: BLACK.
+speaker_heading: ALAN TURING (V.0O.)
+dialog: Are you paying attention?
+scene_heading: INT. ALAN TURING’S HOUSE - DAY - 1951
+text: A HALF-DOZEN POLICE OFFICERS swarm the Manchester home of
+dialog: mathematics professor Alan Turing.
+speaker_heading: ALAN TURING (V.0O.)
+dialog: Good. This is going to go very
+dialog: quickly now. If you are not
+dialog: listening carefully, you will miss
+dialog: things. Important things. You’re
+dialog: writing some of this down? That’s
+dialog: good.
+text: INSIDE ALAN’S HOUSE: There's been a break-in, and the house
+text: is a mess - someone has given it a pretty thorough once-over.
+speaker_heading: ALAN TURING (V.0O.)
+dialog: I will not pause, I will not repeat
+dialog: myself, and you will not interrupt
+dialog: me. If you ask me a question, I
+dialog: will ignore it. You think that
+dialog: because you’re sitting where you
+dialog: are, and I am sitting where I am,
+dialog: that you are in control of what is
+dialog: about to happen. You’re mistaken. I
+dialog: am in control, because I know
+dialog: things that you do not know.
+text: PAPERS inked black with mathematical symbols litter the
+text: floor. The test tubes and beakers of Turing's chemical work
+text: are shattered in the study, CYANIDE and POTASSIUM NITRATE
+text: DRIPPING ACROSS THE UGLY CARPET.
+speaker_heading: ALAN TURING (V.0O.)
+dialog: What I will need from you now is a
+dialog: commitment. You will listen
+dialog: closely, and you will not judge me.
+text: And, in the corner: A MACHINE. It’s the size of a dresser,
+text: tall, sprouting VACUUM TUBES and WIRES. It looks
+text: anachronistic here, too futuristic for its time.
+text: The CONSTABLES LOOK AT THE MACHINE, CONFUSED: What is that
+dialog: thing?
+speaker_heading: ALAN TURING (V.O.)
+dialog: When I am finished — when I have
+dialog: told you that I am finished — you
+dialog: are free to think whatever you
+dialog: like. But until then, you will
+dialog: trust that while this story will be
+dialog: hard for you to understand,
+dialog: everything I am saying I am saying
+dialog: for a reason.
+text: A CONSTABLE PHONES IN the robbery to police headquarters —
+scene_heading: INT. POLICE HEADQUATERS - DAY
+text: — At headquarters, a RADIO GIRL RECEIVES the information and
+text: passes it to an assistant for delivery to the detectives on
+dialog: duty —
+scene_heading: INT. MI-6 - RADIO OPERATORS’ ROOM/HALLWAYS - DAY
+text: — While in London, a RADIO OPERATOR in a dark room far below
+text: Victoria Street INTERCEPTS THE MESSAGE —
+speaker_heading: ALAN TURING (V.O.)
+dialog: If you cannot commit to this, then
+dialog: please leave the room. That’s
+dialog: right, you’re the one who’s free to
+dialog: go. But if you choose to stay, if
+dialog: you choose to listen, remember
+dialog: this: If things happen that you do
+dialog: not like, you chose to be here.
+text: — The MESSAGE is HANDED OFF and WHISKED through the dim
+text: hallways —
+scene_heading: INT. MI-6 - MENZIES OFFICE - DAY
+text: — Until it’s finally deposited on the desk of STEWART
+text: MENZIES, the Director of MI-6. British Secret Intelligence
+dialog: Services.
+speaker_heading: ALAN TURING (V.O.)
+dialog: What happens from this moment
+dialog: forward is not my responsibility:
+dialog: It’s yours.
+text: Menzies picks up the message: “Alan Turing has been robbed.”
+speaker_heading: ALAN TURING (V.O.)
+dialog: This will go quite fast now.
+dialog: (laughs)
+dialog: And that is the last time I will
+dialog: repeat myself. Pay attention.
+scene_heading: EXT. ALAN TURNING’S HOUSE - MORNING
+text: DETECTIVE ROBERT NOCK, 40s, athletic, more interested in
+text: football than being a detective, hustles past a few double-
+text: parked police cars and up the steps and into:
+scene_heading: INT. ALAN TURNING’S HOUSE - CONTINUOUS
+text: Detective Nock enters to find the same messy crime scene we
+text: just saw. He’s addressed by SERGEANT STAEHL.
+scene_heading: SGT. STAEHL
+dialog: Bit late, don’t you think?
+speaker_heading: DETECTIVE NOCK
+text: The baby. Up all night, hollering
+text: and crying. June says it’s collick.
+dialog: (cre: the mess)
+dialog: What’s all this, then?
+scene_heading: SGT. STAEHL
+dialog: Turing, Alan. Professor at King’s.
+dialog: Seems there’s been a robbery.
+speaker_heading: DETECTIVE NOCK
+dialog: What of?
+scene_heading: SGT. STAEHL
+dialog: That’s just it. Nothing’s missing,
+dialog: really.
+speaker_heading: DETECTIVE NOCK
+dialog: No, what’s he a professor of?
+scene_heading: SGT. STAEHL
+dialog: (consulting notes)
+dialog: Maths. Or, as he put it, “ordinal
+dialog: logic, with a dose of number
+dialog: theory.”
+dialog: ON NOCK: What on earth does that mean?
+text: Staehl shrugs.
+speaker_heading: DETECTIVE NOCK
+dialog: What’s he doing in Manchester?
+text: Sergeant Staehl shows Nock the MACHINE in the corner.
+dialog: ON NOCK: What the hell is that?
+scene_heading: SGT. STAEHL
+dialog: Something with machines. Project at
+dialog: the NPL, I checked, but he won’t
+dialog: say what it’s on.
+speaker_heading: DETECTIVE NOCK
+dialog: He’s a bit squirrely then, our
+dialog: Professor Turing?
+scene_heading: SGT. STAEHL
+dialog: That’s putting it mildly.
+text: Sergeant Staehl motions to the next room, and he follows Nock
+dialog: in...
+text: ++. Where they find ALAN TURING, 38. He’s the smartest man in
+dialog: the room, and he knows it. But he doesn’t really care if you
+dialog: do.
+text: Turing is VERY CAREFULLY sweeping up a pile of WHITE POWDER.
+text: He’s doing it with a PAINTBRUSH, his mouth covered in a
+dialog: scarf.
+text: He’s totally oblivious to the detectives as they enter.
+speaker_heading: DETECTIVE NOCK
+dialog: Professor Turing?
+dialog: (beat)
+dialog: Professor Turing? My name is
+text: Detective Nock. Manchester Police.
+dialog: Sergeant Staehl here tells me
+dialog: you've had a robbery last night.
+dialog: (still nothing)
+dialog: Professor Turing?
+text: Detective Nock steps closer, peering over Turing’s shoulder
+text: at the white powder.
+speaker_heading: DETECTIVE NOCK (CONT’D)
+dialog: Professor —
+speaker_heading: ALAN TURING
+dialog: — I would step back, if I were you.
+speaker_heading: DETECTIVE NOCK
+dialog: Pardon me?
+speaker_heading: ALAN TURING
+dialog: Step back, and don’t breathe so
+dialog: much.
+speaker_heading: DETECTIVE NOCK
+dialog: Breathe?
+speaker_heading: ALAN TURING
+dialog: You're breathing heavily and you’re
+dialog: going to inhale this junk and
+dialog: you're going to leave your collicky
+dialog: son without a father.
+text: Detective Nock stops, and steps back. What in the world?
+speaker_heading: ALAN TURING (CONT’D)
+dialog: Sound carries in this house.
+speaker_heading: DETECTIVE NOCK
+dialog: What is all that?
+speaker_heading: ALAN TURING
+dialog: Cyanide. Undiluted. Wouldn’t take
+dialog: more than a thimbleful to kill you.
+text: Turing finishes sweeping the cyanide into a jar, before
+dialog: safely CAPPING IT.
+text: Turing stands, removes his scarf, and for the first time
+text: takes a look at Detective Nock. Sizes him up.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: Oh. Disappointing.
+text: Detective Knock and Sergeant Staehl exchange a look.
+speaker_heading: DETECTIVE NOCK
+dialog: Pardon?
+speaker_heading: ALAN TURING
+dialog: I'd hoped for a bit more.
+speaker_heading: DETECTIVE NOCK
+dialog: Sergeant Staehl, is it just me, or
+dialog: do you get the sense that we’re
+dialog: being insulted?
+speaker_heading: ALAN TURING
+dialog: (to Nock)
+dialog: You lied to your friend here about
+dialog: your son, which is just unseemly.
+dialog: Collick didn’t keep you up all
+dialog: night. Drink did. You’ve bags under
+dialog: your eyes the size of strawberries.
+dialog: Your topcoat reeks of whiskey.
+dialog: You're short of breath after
+dialog: walking 30 paces. And I believe
+dialog: Manchester United had a match
+dialog: yesterday, yes? I could hear the
+dialog: shouting from Simpson’s on my way
+dialog: home.
+speaker_heading: DETECTIVE NOCK
+dialog: (caught)
+dialog: ++. We won by four. Would’ve been
+dialog: unseemly not to celebrate.
+text: Sergeant Staehl SIGHS, embarrassed.
+scene_heading: SGT. STAEHL
+dialog: You had a break in last night. Your
+dialog: neighbor, a Mr. Springborn, called
+dialog: to report the noise. Only you say
+dialog: there’s nothing missing. Odd. So
+dialog: how about it — You tell us what
+dialog: happened, and we find the chap who
+dialog: did this.
+speaker_heading: ALAN TURING
+dialog: Gentlemen, I don’t think you could
+dialog: figure out who broke into my house
+dialog: if he walked up and spat in your
+dialog: face. What I could really use at
+text: the moment is not a bobby but a
+dialog: good cleaning lady. So unless one
+dialog: of you has an apron in your car,
+dialog: I'd suggest that you file your
+dialog: reports and leave me alone.
+text: Staehl is about to say something — and probably something
+text: aggressive, by the look of his face — but Nock stops him.
+speaker_heading: DETECTIVE NOCK
+dialog: ++. As you say, Professor Turing.
+dialog: Best of luck with your cyanide.
+scene_heading: EXT. ALAN TURNING’S HOUSE - MOMENTS LATER
+text: Detective Nock and Sergeant Staehl walk away from Turing’s
+dialog: house.
+scene_heading: SGT. STAEHL
+dialog: I'll give you a bob if you can name
+dialog: me a more insufferable sod.
+speaker_heading: DETECTIVE NOCK
+dialog: Curious, isn’t he?
+scene_heading: SGT. STAEHL
+dialog: Oh, you've a soft spot for the
+dialog: bastard ‘cause he called you on
+dialog: your drink? Which, while we’re on
+dialog: the subject —
+speaker_heading: DETECTIVE NOCK
+dialog: — Seemed a bit forced though,
+dialog: didn’t it?
+scene_heading: SGT. STAEHL
+dialog: Don’t know what you mean.
+speaker_heading: DETECTIVE NOCK
+dialog: If you didn’t want a pair of
+dialog: bobbies digging around in your
+dialog: personal affairs, well, that would
+dialog: have been a stellar way to see that
+dialog: they don’t. Tell me you don’t think
+dialog: this is suspicious.
+scene_heading: SGT. STAEHL
+dialog: I don’t think this is suspicious.
+speaker_heading: DETECTIVE NOCK
+dialog: A mysterious professor who won’t
+dialog: admit he’s had something stolen
+dialog: from his flat?
+scene_heading: SGT. STAEHL
+dialog: What’re you suggesting?
+speaker_heading: DETECTIVE NOCK
+dialog: I’m suggesting that Alan Turing is
+dialog: hiding something.
+speaker_heading: CUT TO:
+scene_heading: INT. EUSTON STATION - LONDON - DAY - 1939
+text: Alan Turing — 11 years younger — HURRIES through Euston
+text: Station on the day that Britain declares war on Germany.
+dialog: The station is preparing for war:
+text: PAPERBOYS SCREAM the headlines: “800,000 CHILDREN EVACUATED!”
+text: “GERMAN BOMBS COMING!” “FOOD SUPPLIES RATIONED!”
+text: MILITARY PERSONNEL herd PACKS OF CHILDREN like cattle onto
+text: rumbling trains.
+text: The children, born with stiff upper lips, hold back their
+text: tears. A FATHER shakes the hand of his 8-YEAR-OLD SON
+text: goodbye, almost business-like. Neither knows if they’ll ever
+dialog: see one another again.
+text: Alan moves through this determinedly, methodically, and
+text: unemotionally — it’s like he doesn’t even notice anyone is
+dialog: there.
+scene_heading: INT/EXT. TRAIN - DAY - LATER
+text: Alan Turing walks down the aisle of a train bound for
+text: Bletchley Park — his is the only adult face amidst the sea of
+dialog: children.
+text: He watches a SMALL BOY pour over a PUZZLE BOOK. OLDER KIDS,
+text: loud and rowdy, TAUNT the Small Boy, who doesn’t look up,
+text: he’s so focused on his puzzles.
+text: Alan watches. Maybe he smiles. Maybe he understands.
+scene_heading: EXT. BLETCHLEY VILLAGE - STREET - A FEW HOURS LATER
+text: Alan walks through the small village of Bletchley. He passes
+text: a sign that reads “BLETCHLEY RADIO MANUFACTURING” as he heads
+dialog: to
+scene_heading: EXT. BLETCHLEY PARK - AN HOUR LATER
+text: Alan arrives at the imposing front gates of Bletchley Park.
+text: An enormous Victorian mansion lies in the center of the
+text: grounds, surrounded by empty gardens and tall iron fences.
+text: As Alan approaches, two NAVAL OFFICERS with MACHINE GUNS step
+text: out from behind the BARRICADES.
+dialog: Whatever this place is, it’s housing something very secret
+dialog: inside.
+scene_heading: INT. BLETCHLEY PARK - COMMANDER DENNISTON’S OFFICE - LATER
+text: A few minutes later, Alan sits alone in a cluttered office.
+text: He stares ahead blankly at the empty chair behind the desk.
+dialog: Waits.
+speaker_heading: COMMANDER DENNISTON (0.S.)
+dialog: — What are you doing here?
+text: Alan turns with a start.
+speaker_heading: ALAN TURING
+dialog: The girl told me to wait —
+speaker_heading: COMMANDER DENNISTON
+dialog: In my office? She tell you to help
+dialog: yourself to a cup of tea while you
+dialog: were here?
+speaker_heading: ALAN TURING
+dialog: No. She didn’t.
+speaker_heading: COMMANDER DENNISTON
+dialog: She didn’t tell you what a joke is
+dialog: then either, I gather.
+speaker_heading: ALAN TURING
+dialog: Was she supposed to?
+speaker_heading: COMMANDER DENNISTON
+dialog: For Christ’s sake — who are you?
+speaker_heading: ALAN TURING
+dialog: Alan Turing.
+speaker_heading: COMMANDER DENNISTON
+dialog: (looking at papers on his
+dialog: desk)
+dialog: Turing... Let me see... Oh, Turing.
+dialog: The mathematician.
+speaker_heading: ALAN TURING
+dialog: Correct.
+speaker_heading: COMMANDER DENNISTON
+dialog: How ever could I have guessed?
+speaker_heading: ALAN TURING
+dialog: You didn’t. It was written on your
+dialog: paper.
+speaker_heading: COMMANDER DENNISTON
+dialog: ++. King’s College, Cambridge. Says
+dialog: here you were a bit of a prodigy in
+dialog: the maths department.
+speaker_heading: ALAN TURING
+dialog: I’m not sure I can evaluate that,
+dialog: Mr... ?
+speaker_heading: COMMANDER DENNISTON
+dialog: How old are you, Mr. Turing?
+speaker_heading: ALAN TURING
+dialog: 27.
+speaker_heading: COMMANDER DENNISTON
+dialog: How old were you when you became a
+dialog: fellow at Cambridge?
+speaker_heading: ALAN TURING
+dialog: 24.
+speaker_heading: COMMANDER DENNISTON
+dialog: And how old were you when you
+dialog: published this paper here, that has
+dialog: a title I can barely understand,
+dialog: which apparently got you this
+dialog: fellowship?
+speaker_heading: ALAN TURING
+dialog: 23.
+dialog: 10.
+speaker_heading: COMMANDER DENNISTON
+dialog: And you don’t think that qualifies
+dialog: you as a certified prodigy?
+speaker_heading: ALAN TURING
+dialog: Rather depends on how old my peers
+dialog: were when they did comparable work,
+dialog: doesn’t it?
+speaker_heading: COMMANDER DENNISTON
+dialog: And how old were they?
+speaker_heading: ALAN TURING
+dialog: Newton discovered the binomial
+dialog: theorem at 22. Einstein published
+dialog: four papers that changed the world
+dialog: at 26. As far as I can tell I’ve
+dialog: barely made par.
+speaker_heading: COMMANDER DENNISTON
+dialog: You're serious, aren’t you?
+speaker_heading: ALAN TURING
+dialog: Would you prefer I make a joke?
+speaker_heading: COMMANDER DENNISTON
+dialog: Not sure you know what those are.
+speaker_heading: ALAN TURING
+dialog: It hardly seems fair that that
+dialog: would be a requirement for
+dialog: employment here, Mr...?
+speaker_heading: COMMANDER DENNISTON
+dialog: Commander Denniston, of the Royal
+dialog: Navy. All right, Mr. Turing, I’1l
+dialog: bite. Why do you want to work for
+dialog: His Majesty’s government?
+speaker_heading: ALAN TURING
+dialog: Oh, I don’t, really.
+speaker_heading: COMMANDER DENNISTON
+dialog: (suspicious)
+dialog: Are you a bleeding pacifist,
+dialog: Turing?
+speaker_heading: ALAN TURING
+dialog: I’m agnostic about violence.
+speaker_heading: COMMANDER DENNISTON
+dialog: But you realize that 600 miles from
+dialog: London there’s this nasty chap
+dialog: named Hitler who’s looking to
+dialog: engulf Europe in tyranny?
+dialog: 11.
+speaker_heading: ALAN TURING
+dialog: Politics is not my area of
+dialog: expertise.
+speaker_heading: COMMANDER DENNISTON
+dialog: I believe you’ve just set a record
+dialog: for the shortest job interview in
+dialog: British military history.
+speaker_heading: ALAN TURING
+dialog: Mother says that I can be off-
+dialog: putting sometimes. On account of
+dialog: being the best mathematician in the
+dialog: world.
+speaker_heading: COMMANDER DENNISTON
+dialog: You're the best mathematician in
+dialog: the world?
+speaker_heading: ALAN TURING
+dialog: Oh. Yes.
+speaker_heading: COMMANDER DENNISTON
+dialog: ++. Do you know how many people
+dialog: I've rejected for this program?
+speaker_heading: ALAN TURING
+dialog: No.
+speaker_heading: COMMANDER DENNISTON
+dialog: That’s right. Because we’re a top
+dialog: secret program. But I’1ll tell you,
+dialog: just because we’re friends, that
+dialog: last week I rejected one of our
+dialog: great nation’s top linguists, knows
+dialog: German better than Bertolt Brecht.
+speaker_heading: ALAN TURING
+dialog: I don’t speak German.
+speaker_heading: COMMANDER DENNISTON
+dialog: What?
+speaker_heading: ALAN TURING
+dialog: I don’t. Speak German.
+speaker_heading: COMMANDER DENNISTON
+dialog: How the bloody hell are you
+dialog: supposed to decrypt German
+dialog: communications if you don’t, oh, I
+dialog: don’t know, speak German?
+speaker_heading: ALAN TURING
+dialog: I’m quite excellent at crossword
+dialog: puzzles.
+dialog: And for a
+dialog: 12.
+speaker_heading: COMMANDER DENNISTON
+dialog: (calling off)
+speaker_heading: MARGARET!
+speaker_heading: ALAN TURING
+text: The German codes are a puzzle. A
+dialog: game. Just like any other game.
+speaker_heading: COMMANDER DENNISTON
+dialog: MARGARET! Where are you?!
+speaker_heading: ALAN TURING
+dialog: I'm very good at games. Puzzles.
+dialog: And I think this is the hardest
+dialog: puzzle in the world.
+speaker_heading: COMMANDER DENNISTON
+dialog: MARGARET! ?!
+dialog: (beat)
+dialog: For the love of.
+dialog: obviously.
+dialog: This is a joke,
+dialog: 
+speaker_heading: ALAN TURING
+dialog: I’m afraid I can’t make jokes,
+text: Commander Denniston.
+text: split second, Denniston actually smiles.
+speaker_heading: COMMANDER DENNISTON
+dialog: Have a pleasant trip back to
+dialog: Cambridge, Professor.
+speaker_heading: ALAN TURING
+dialog: Enigma.
+text: At the mention of this word Denniston looks suddenly serious.
+speaker_heading: SECRETARY ("MARGARET")
+dialog: (popping head in)
+dialog: You called for me?
+text: He WAVES HER AWAY, entirely focused on what Alan just said.
+speaker_heading: ALAN TURING
+dialog: (after she leaves)
+dialog: ++. That’s what you’re doing here.
+dialog: The top secret program at
+dialog: Bletchley. You’re trying to break
+text: the German Enigma machine.
+speaker_heading: COMMANDER DENNISTON
+dialog: What makes you think that?
+speaker_heading: ALAN TURING
+dialog: It’s the greatest encryption device
+dialog: in history, and the Germans use it
+dialog: for all major communications.
+speaker_heading: (MORE )
+dialog: 13.
+speaker_heading: ALAN TURING (CONT'D)
+dialog: If the Allies broke Enigma — well,
+dialog: this would turn into a very short
+dialog: war indeed. Of course you’re
+dialog: working on it. But you also haven't
+dialog: got anywhere. If you had, you
+dialog: wouldn’t be hiring cryptographers
+dialog: out of University. You need me a
+dialog: lot more than I need you. I'd just
+dialog: as easily go work for the Germans,
+dialog: frankly, but they simply don’t have
+dialog: anything this good to work on. Our
+dialog: mathematicians aren’t as impressive
+dialog: as theirs. With one significant
+dialog: exception. I like solving problems,
+dialog: Commander. And Enigma is the most
+dialog: difficult problem in the world.
+speaker_heading: COMMANDER DENNISTON
+dialog: Enigma isn’t difficult. It’s
+dialog: impossible. The Americans. The
+dialog: French. The Russians. The Germans.
+dialog: Everyone thinks Enigma is
+dialog: unbreakable.
+speaker_heading: ALAN TURING
+dialog: Goody! Let me try and we'll know
+dialog: for sure.
+text: The men stare at each other. Neither blinks.
+scene_heading: INT. BLETCHLEY PARK - DAY - LATER
+text: ANGLE ON: A machine. It looks like a typewriter that got left
+text: on the set of Blade Runner. Wires running all over it. Extra
+text: gears sticking out of the sides. Blinking lights that reveal
+text: German characters. Half electrical, half mechanical.
+speaker_heading: COMMANDER DENNISTON (0.S.)
+dialog: Welcome to Enigma.
+text: SLOWLY REVEAL: COMMANDER DENNISTON, 50s, is showing the
+text: ENIGMA MACHINE to the NEW RECRUITS.
+dialog: They are:
+text: HUGH ALEXANDER, 30s, loves women and chess in equal measure.
+text: JOHN CAIRNCROSS, 30s, Scottish, not the prodigy his
+dialog: compatriots are and knows it.
+text: PETER HILTON, 20s, a precocious undergrad from Oxford.
+text: KEITH FURMAN and CHARLES RICHARDS, 40s, both stodgy
+dialog: linguists.
+dialog: 14.
+text: Stewart Menzies — head of MI-6, who we briefly glimpsed in
+text: the opening — stands in the corner, silent and observing.
+text: Charming and inscrutable, he didn’t become the head of
+dialog: British Secret Intelligence Services by accident.
+speaker_heading: COMMANDER DENNISTON (CONT'D)
+dialog: The German navy encodes every
+dialog: message they send using the Enigma
+dialog: machine. The details of every
+dialog: surprise attack, of every secret
+dialog: convoy, of every U-Boat in the
+dialog: bloody Atlantic go into that thing,
+text: and out comes... Gibberish.
+text: FINALLY REVEAL: ... Alan stands with them, staring at the
+text: machine like it’s the Sistine Chapel.
+text: He reaches out and touches it lovingly.
+speaker_heading: ALAN TURING
+dialog: It’s beautiful.
+speaker_heading: COMMANDER DENNISTON
+dialog: It’s the crooked hand of death
+dialog: itself.
+text: Denniston shows Alan sheets of Enigma messages: PAGE AFTER
+text: PAGE OF RANDOM LETTERS.
+speaker_heading: COMMANDER DENNISTON (CONT'D)
+dialog: Our WRENs intercept thousands of
+dialog: radio messages a day. But to the
+dialog: lovely young ladies of the Women’s
+dialog: Royal Navy, they’re nonsense. It’s
+dialog: only when you feed them back into
+dialog: Enigma that they make sense.
+speaker_heading: JOHN CAIRNCROSS
+dialog: But we have an Enigma machine.
+speaker_heading: COMMANDER DENNISTON
+dialog: Yes. Polish intelligence smuggled
+dialog: this out of Berlin.
+speaker_heading: JOHN CAIRNCROSS
+dialog: So what’s the problem? Just put the
+dialog: intercepted messages back in to
+dialog: Enigma and —
+speaker_heading: ALAN TURING
+dialog: — It’s not that simple, is it? Just
+dialog: having an Enigma machine doesn’t
+dialog: help you decode the messages.
+dialog: 15.
+speaker_heading: COMMANDER DENNISTON
+dialog: Very good, Mr. Turing. To decode a
+dialog: message, you need to know the
+text: machine’s settings. The Germans
+dialog: switch settings every day, promptly
+dialog: at midnight. We usually intercept
+dialog: our first message around 6am. Which
+dialog: gives you exactly 18 hours every
+dialog: day to crack the code before it
+dialog: changes, and you start again.
+text: Alan looks at the machine carefully.
+speaker_heading: ALAN TURING
+text: Five rotors. Six plugboard cables.
+dialog: That's...
+speaker_heading: CHARLES RICHARDS
+dialog: Five —
+speaker_heading: JOHN CAIRNCROSS
+dialog: — thousand million —
+speaker_heading: PETER HILTON
+dialog: — No no it’s — I've got it —
+speaker_heading: CHARLES RICHARDS
+dialog: — Million, million —
+speaker_heading: KEITH FURMAN
+dialog: -— In the millions, obviously —
+speaker_heading: CHARLES RICHARDS
+dialog: — Obviously —
+speaker_heading: ALAN TURING
+dialog: — Over one hundred and fifty
+dialog: million million million possible
+dialog: settings.
+text: All eyes turn to Turing: Wow.
+speaker_heading: COMMANDER DENNISTON
+dialog: ++. Very good.
+speaker_heading: HUGH ALEXANDER
+dialog: One hundred fifty nine, if you'd
+dialog: rather be exact about it.
+text: Everyone looks at Hugh now.
+speaker_heading: HUGH ALEXANDER (CONT’D)
+dialog: One five nine with eighteen zeroes
+dialog: behind it. Possibilities. Every
+dialog: single day.
+dialog: Jesus Christ. Who is this guy?
+dialog: 16.
+speaker_heading: COMMANDER DENNISTON
+dialog: Gentlemen, meet Hugh Alexander.
+dialog: I’ve personally selected him to run
+dialog: this unit.
+speaker_heading: JOHN CAIRNCROSS
+dialog: Didn’t you...?
+speaker_heading: COMMANDER DENNISTON
+dialog: Mr. Alexander won Britain's
+dialog: national chess championship.
+speaker_heading: HUGH ALEXANDER
+dialog: Twice.
+speaker_heading: JOHN CAIRNCROSS
+dialog: (extending a hand to Hugh)
+dialog: John Cairncross.
+speaker_heading: COMMANDER DENNISTON
+dialog: (to Alan)
+dialog: You’re not the only one who’s good
+dialog: at games around here.
+speaker_heading: ALAN TURING
+dialog: Are we all to work together then? I
+dialog: prefer to have my own office.
+speaker_heading: COMMANDER DENNISTON
+dialog: You're a team, and you’ll work as
+dialog: one.
+speaker_heading: ALAN TURING
+dialog: I don’t have time to explain myself
+dialog: as I go along, and I’m afraid these
+dialog: men will only slow me down.
+speaker_heading: STEWART MENZIES
+dialog: (piping up from the
+dialog: corner)
+dialog: -— If you can’t play together, then
+dialog: I’m afraid we can’t let you play at
+dialog: all.
+text: They all stare at him.
+speaker_heading: COMMANDER DENNISTON
+dialog: This is Stuart Menzies. MI-6.
+text: The team ACKNOWLEDGES Menzies.
+speaker_heading: CHARLES RICHARDS
+dialog: There are only five divisions of
+dialog: military intelligence. There is no
+dialog: “MI-6."”
+dialog: 17.
+speaker_heading: STEWART MENZIES
+dialog: Exactly. That’s the spirit.
+dialog: (to Alan)
+dialog: Mr. Turing. Do you know how many
+dialog: British servicemen have died
+dialog: because of Enigma?
+speaker_heading: ALAN TURING
+dialog: I don’t.
+speaker_heading: STEWART MENZIES
+dialog: Three.
+text: They all stare at Menzies: That doesn’t sound like very many.
+speaker_heading: STEWART MENZIES (CONT'D)
+dialog: ».. While we've been having this
+dialog: conversation.
+dialog: (checks his watch)
+dialog: Oh look. There’s another. Rather
+dialog: hope he didn’t have a family. This
+dialog: war that Commander Denniston’s been
+dialog: going on about? We’re not winning
+dialog: it. Break the code and at least we
+dialog: might have a chance.
+dialog: (to Denniston)
+dialog: Shall we leave the children alone
+dialog: with their new toy?
+text: Menzies and Commander Denniston LEAVE.
+text: The team stands there. With Enigma.
+speaker_heading: HUGH ALEXANDER
+dialog: Alright boys. Let’s play.
+speaker_heading: CUT TO:
+scene_heading: EXT. SHERBORNE SCHOOL FOR BOYS - DAY - 1927
+text: TEENAGE BOYS play cricket in the green front gardens of a
+text: boys boarding school. Behind them looms the school’s stately
+text: central manor house.
+speaker_heading: ALAN TURING (V.0O.)
+dialog: The problem began, of course, with
+dialog: the carrots.
+scene_heading: INT. SHERBORNE SCHOOL FOR BOYS - DAY
+text: YOUNG ALAN TURING, 15, sits alone in the dining hall. Other
+text: BOYS joke and laugh and tell animated stories at nearby
+text: tables, but Alan sits alone, staring intently at his food.
+dialog: 18.
+text: ON ALAN’S PLATE: Boiled steak. Potatoes. Peas. And carrots.
+speaker_heading: ALAN TURING (V.0O.)
+text: Carrots are orange. Peas are green.
+dialog: They mustn’t touch.
+text: Alan carefully tries to separate the carrots from the peas.
+text: It’s like he’s performing brain surgery.
+text: BEHIND ALAN, a group of BIGGER BOYS approach quietly. One of
+text: them holds a TRAY OF BOILED VEGETABLES —
+text: — The Boys try to MUFFLE THEIR GIGGLES so Alan can’t hear
+dialog: them approach —
+text: — The Boys DUMP THE TRAY OF VEGETABLES ALL OVER ALAN.
+dialog: 
+text: Alan SCREAMS.
+text: The Boys LAUGH as Alan SCREAMS and SHAKES and tries to get
+text: the peas and carrots and everything else off of him. He’s in
+dialog: hell.
+text: Alan FALLS DOWN. Still shaking, still screaming.
+speaker_heading: YOUNG ALAN
+dialog: Carrots are orange! Carrots are
+dialog: orange! Carrots are orange!
+speaker_heading: BOY #1
+dialog: What a bloody weirdo!
+text: Alan CURLS UP INTO A BALL as he shivers.
+speaker_heading: CUT TO:
+scene_heading: INT. COFFIN - A FEW MINUTES LATER
+text: ++. Alan is now inside a coffin.
+text: He’s KICKING AT THE WOODEN BOARDS ABOVE and SCREAMING TO BE
+scene_heading: RELEASED.
+dialog: It’s not helping.
+text: From above, we hear the familiar LAUGHTER OF THE SCHOOLBOYS.
+text: REVEAL: The “coffin” is make-shift; the Boys have constructed
+text: it out of the broken floorboards of a half-finished class
+text: room. Alan is buried underground, and they’re nailing him in.
+dialog: 
+dialog: 19.
+speaker_heading: ALAN TURING (V.0O.)
+dialog: Do you know why people like
+dialog: violence? Because it feels good.
+text: The THUMP THUMP of nails entering the boards.
+speaker_heading: ALAN TURING (V.0O.)
+dialog: Humans find violence deeply
+dialog: satisfying. But remove the
+dialog: satisfaction, and the act
+dialog: becomes... Hollow.
+text: FROM INSIDE THE COFFIN: Alan goes silent.
+text: The Boys pound away, but the silence unnerves them.
+speaker_heading: BOY #1
+dialog: Alan? Alan?
+speaker_heading: BOY #2
+dialog: C’mon don’t be such a kike about
+dialog: it...
+speaker_heading: BOY #3
+dialog: Leave him to bloody rot.
+text: The Boys LEAVE.
+text: There’s still only SILENCE from inside Alan’s coffin.
+text: Alan breathes slowly. Quietly. Controls his shivering to
+text: barely a tremor. He waits.
+speaker_heading: ALAN TURING (V.0O.)
+dialog: I didn’t learn this on my own
+dialog: though. I had help.
+text: Suddenly, the boards above him CREAK. Then BEND. Then SNAP.
+text: Then an ARM REACHES DOWN and PULLS Alan out of the coffin.
+text: REVEAL: CHRISTOPHER MORCOM, 16, tall, pretty, and charming in
+dialog: ways that Alan will never, ever be.
+speaker_heading: CHRISTOPHER
+dialog: Christ, I thought they were going
+dialog: to kill you.
+text: Christopher PULLS Alan from the floorboard coffin and they —
+scene_heading: EXT. SHERBORNE SCHOOL FOR BOYS - SECONDS LATER
+text: Walking away from the half-finished school room, Christopher
+text: helps Alan as he hobbles.
+dialog: 20.
+speaker_heading: YOUNG ALAN
+dialog: It’s not my fault. The carrots
+dialog: got in with the peas.
+dialog: (off Christopher’s look)
+dialog: I’m sorry. I won’t let them do it
+dialog: again.
+speaker_heading: CHRISTOPHER
+dialog: They’re getting worse.
+speaker_heading: YOUNG ALAN
+dialog: They only beat me up because I’m
+dialog: smarter than they are.
+speaker_heading: CHRISTOPHER
+dialog: No. They beat you up because you’re
+dialog: different. So you'll have to try a
+dialog: little harder to blend in.
+speaker_heading: YOUNG ALAN
+dialog: Mother says I’m just an odd duck.
+speaker_heading: CHRISTOPHER
+dialog: And she’s right.
+text: Alan STUMBLES and Christopher grabs his hand, steadying him.
+speaker_heading: CHRISTOPHER (CONT'D)
+dialog: But you know, sometimes it is the
+dialog: very people who no one imagines
+dialog: anything of who do the things that
+dialog: no one can imagine.
+speaker_heading: ALAN TURING (V.O.)
+dialog: Christopher helped.
+speaker_heading: CUT TO:
+scene_heading: INT. POLICE STATION - MANCHESTER - DAY - 1951
+text: Detective Nock sits at his desk, yelling incredulously into
+dialog: his telephone.
+speaker_heading: DETECTIVE NOCK
+dialog: What do you mean, “classified”?
+dialog: (beat)
+dialog: ».. Yes, I am aware of the literal
+dialog: meaning of the word “classified,”
+dialog: what I’m asking is why would a
+dialog: maths professor have his military
+dialog: records classified?
+dialog: (beat)
+dialog: . Well then I will come down
+dialog: there and...
+dialog: 21.
+text: Nock HANGS UP, frustrated.
+text: He notices Sergeant Staehl walking past.
+speaker_heading: DETECTIVE NOCK (CONT’D)
+dialog: Come with me.
+scene_heading: EXT. MANCHESTER STREETS - LATER
+text: Detective Nock and Sergeant Staehl walk through Manchester,
+text: away from the police station.
+scene_heading: SGT. STAEHL
+dialog: ++. SO are you going to catch this
+dialog: mysterious thief who hasn’t
+dialog: actually stolen anything?
+speaker_heading: DETECTIVE NOCK
+dialog: Alan Turing is a suspect in a
+dialog: robbery but they won’t share a
+dialog: thing with the police?
+scene_heading: SGT. STAEHL
+dialog: “Suspect”? I distinctly recall
+text: writing his name next to the word
+dialog: “victim.”
+text: Nock looks around, paying no attention to Staehl. He sees
+dialog: something (which we don’t) in the reflection of a shop
+dialog: window.
+speaker_heading: DETECTIVE NOCK
+dialog: Will?
+scene_heading: SGT. STAEHL
+dialog: Yes?
+speaker_heading: DETECTIVE NOCK
+dialog: I’m terribly sorry about this.
+text: Suddenly, Nock PUSHES Staehl, hard.
+text: Staehl, reeling, is very, very confused.
+scene_heading: SGT. STAEHL
+dialog: What?
+text: Nock responds by PUNCHING Staehl across the jaw, sending him
+text: to the ground.
+text: People on the street TURN and STARE.
+text: Nock RUNS away down the street —
+dialog: 22.
+text: Staehl starts CHASING AFTER HIM —
+text: — They each DODGE PASSERSBY, who are all staring —
+text: — Until Nock suddenly CHANGES DIRECTIONS and SLAMS INTO A
+speaker_heading: PEDESTRIAN —
+text: — The Pedestrian and Nock TUMBLE TO THE GROUND.
+text: The two SCRAMBLE, and then exchange a look: The Pedestrian
+dialog: is... Concerned.
+text: The Pedestrian STRUGGLES TO HIS FEET and RUNS OFF.
+text: Nock stands dusting himself off as Staehl catches up to him —
+text: — And PUNCHES NOCK IN THE JAW.
+speaker_heading: DETECTIVE NOCK
+dialog: Oww! Would you stop it?
+scene_heading: SGT. STAEHL
+dialog: What is wrong with you?
+speaker_heading: DETECTIVE NOCK
+dialog: Here.
+text: Nock hands a BILLFOLD back to Staehl.
+scene_heading: SGT. STAEHL
+dialog: Whose is this?
+text: Very confused, Staehl LOOKS THROUGH the billfold.
+speaker_heading: SGT. STAEHL (CONT'D)
+dialog: ++. That man you knocked over! You
+dialog: stole his billfold.
+text: Nock shrugs.
+speaker_heading: SGT. STAEHL (CONT’D)
+dialog: Oh. Bob?
+speaker_heading: DETECTIVE NOCK
+dialog: Yes?
+scene_heading: SGT. STAEHL
+dialog: There’s a photograph of you.
+text: Staehl shows Nock the billfold’s contents: A PHOTO OF NOCK,
+scene_heading: PAPERS WITH NOCK’S ADDRESS, PERSONAL DATA.
+speaker_heading: SGT. STAEHL (CONT'D)
+dialog: That man was following you.
+dialog: 23.
+speaker_heading: DETECTIVE NOCK
+dialog: Has been for awhile now.
+scene_heading: SGT. STAEHL
+dialog: Good God... Your home address, your
+dialog: district, your... Bob, there is a
+dialog: letter here from the Foreign
+dialog: Office.
+text: Staehl shows him: The letter, stamped with the Foreign Office
+dialog: seal, instructs that the bearer be granted access to all
+text: records concerning one “ROBERT NOCK"”.
+speaker_heading: FEMALE PEDESTRIAN
+dialog: (approaching them)
+dialog: — Are you two all right?
+scene_heading: SGT. STAEHL
+dialog: (to Pedestrian)
+text: Bugger off.
+text: She LEAVES, offended.
+speaker_heading: SGT. STAEHL (CONT’D)
+dialog: Why are you being followed? We have
+dialog: to call this in.
+speaker_heading: DETECTIVE NOCK
+dialog: (looking at the letter)
+dialog: I think I might have a better idea.
+speaker_heading: CUT TO:
+scene_heading: INT. POLICE STATION - MANCHESTER - LATER
+text: QUICK SHOTS: Nock PAINTS TIPP-EX over his own name on the
+text: letter he just stole, and TYPES IN A NEW ONE — “ALAN TURING”
+scene_heading: INT. ADMIRALTY RECORDS OFFICE - DAY - LATER
+text: Detective Nock walks up to a SECRETARY.
+speaker_heading: DETECTIVE NOCK
+dialog: (to Secretary)
+dialog: Pardon me. I'd like to see some
+dialog: documents, if I may. Service
+dialog: records of a Mr. Turing. Alan.
+text: He FLASHES THE FORGED LETTER.
+speaker_heading: DETECTIVE NOCK (CONT’D)
+dialog: Foreign Office sent me.
+dialog: 24.
+dialog: Off of Nock’s SMILE we
+speaker_heading: CUT TO:
+scene_heading: EXT. ATLANTIC OCEAN - GERMAN PLANE - DAY — 1940
+speaker_heading: ALAN TURING (V.O.)
+dialog: The game was quite a simple one.
+scene_heading: ON THE ATLANTIC:
+text: — A GERMAN SPYPLANE spots a BRITISH CONVOY travelling across
+text: the ocean, far away. We hear the BEEP BEEP of Morse Code as
+text: the SPYPLANE SENDS OUT AN ENCRYPTED MESSAGE and we cut to —
+scene_heading: EXT. BRITISH SHIP - ON DECK - DAY
+text: — The DECK of one of the British ships. A SEAMAN smokes a
+text: cigarette as waves crash against the side. He’s approached by
+text: two FRIENDS. He looks: He’s only got one smoke left. In a
+text: kind gesture, he SNAPS his cigarette in half, sharing it —
+scene_heading: INT/EXT. GERMAN SUBMARINE - DAY
+text: — As underwater, a GERMAN SUBMARINE receives the BEEP BEEP of
+text: the Morse message about the convoy’s location. The sub
+scene_heading: CHANGES COURSE —
+speaker_heading: ALAN TURING (V.O.)
+dialog: Every single German message. Every
+text: surprise attack. Every bombing run.
+text: Every imminent U-boat assault. They
+text: were all floating through the air,
+dialog: radio signals that any schoolboy
+dialog: with an AM kit could intercept.
+scene_heading: INT. BLETCHLEY PARK - HUT 14 - DAY
+scene_heading: AT BLETCHLEY PARK:
+text: — Inside HUT 14: ROW after ROW of RADIO STATIONS, all staffed
+text: by the smartly dressed young ladies of the Women’s Royal
+text: Navy. One WREN, listening to Morse code on her headphones,
+text: intercepts the very same BEEP BEEP of the MESSAGE —
+speaker_heading: ALAN TURING (V.O.)
+dialog: The trick was that they were
+text: encrypted.
+text: — She takes it down by hand: It’s GIBBERISH. Encrypted. She
+text: places the messages in a PILE —
+dialog: 25.
+text: — A FEMALE ASSISTANT picks up the pile of encrypted messages-
+scene_heading: EXT. BLETCHLEY PARK - HUT 14 - DAY
+dialog: — And carries it through Bletchley —
+text: — The grounds surrounding the mansion at Bletchley Park are
+text: now littered with 18 WOODEN “HUTS” — hastily constructed
+text: structures that contain all of Britain’s top secret
+dialog: cryptography operations —
+speaker_heading: ALAN TURING (V.O.)
+dialog: One hundred and fifty nine million
+dialog: million million possible Enigma
+dialog: settings. All we had to do was try
+dialog: each one.
+scene_heading: EXT. BLETCHLEY PARK - HUT 8 - DAY
+text: — The Female Assistant hurries past ARMED GUARDS and SECURITY
+text: CHECKPOINTS into —
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - DAY
+text: — HUT 8: Where the Enigma cryptanalysis team does their work.
+speaker_heading: ALAN TURING (V.O.)
+dialog: But if we had 10 men checking one
+dialog: setting a minute, for 24 hours
+dialog: every day and seven days every
+dialog: week, it would take... Well, you
+dialog: tell me. How many days would it
+dialog: take to check each of the settings?
+text: — John Cairncross, Peter Hilton, Keith Furman, and Charles
+text: Richards use PERFORATED SHEETS to analyze Enigma messages as
+text: the Female Assistant deposits the pile onto Hugh Alexander's
+dialog: desk.
+text: All around Hut 8, we see STACK after STACK of encrypted
+text: messages, just like the one that was just delivered.
+speaker_heading: ALAN TURING (V.O.)
+dialog: Would you like a hint? It’s not
+dialog: days. It’s years.
+text: The team does their best to decrypt these stacks of messages,
+text: but they’re getting nowhere. There are thousands of messages,
+text: and only four cryptographers.
+dialog: 26.
+speaker_heading: ALAN TURING (V.0O.)
+dialog: (sighs)
+dialog: Oh dear, you still haven’t worked
+dialog: it out, have you? Pity you didn’t
+dialog: pay more attention in school.
+dialog: (beat)
+dialog: It’s 20 million years.
+text: MOVE IN on the urgent message about the attack, which is
+dialog: untouched as —
+scene_heading: EXT. ATLANTIC OCEAN - BRITISH SHIP - DECK - DAY
+scene_heading: BACK IN THE ATLANTIC:
+text: — The deck of the British ship. The sailors SMOKE as we —
+speaker_heading: ALAN TURING (V.0O.)
+dialog: To stop a coming attack, we would
+dialog: have to check 20 million years
+dialog: worth of settings... In 20 minutes.
+text: — Move DOWN INTO THE WATER to see that the German submarine
+text: has arrived. It FIRES A TORPEDO at the helpless convoy and we
+speaker_heading: cut—
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - DAY
+dialog: BACK TO HUT 8:
+text: The team is still buried in pile after pile of undecrypted
+dialog: messages. Another convoy has been lost because they couldn’t
+text: move fast enough, and they’re so far behind they don’t even
+dialog: know it yet.
+speaker_heading: PETER HILTON
+dialog: I’m famished.
+text: Hugh stretches, staring out the window, where he sees a WREN
+text: passing by.
+speaker_heading: HUGH ALEXANDER
+dialog: (cre: the WREN)
+dialog: Good God, what is it with women in
+dialog: little hats?
+text: John, Peter, Keith and Charles all look as well — there is in
+text: fact something strangely sexy about women in little hats.
+text: John Cairncross gets up and walks into the next room, where
+text: he finds Alan, working alone.
+dialog: 27.
+speaker_heading: JOHN CAIRNCROSS
+dialog: The boys. We were going to get
+dialog: some lunch?
+dialog: (Alan ignores him)
+dialog: Alan?
+dialog: 
+speaker_heading: ALAN TURING
+dialog: Yes.
+speaker_heading: JOHN CAIRNCROSS
+dialog: I said we were going to get some
+dialog: lunch?
+dialog: (Alan keeps ignoring him)
+dialog: Alan?
+speaker_heading: ALAN TURING
+dialog: Yes.
+speaker_heading: JOHN CAIRNCROSS
+dialog: Can you hear me?
+speaker_heading: ALAN TURING
+dialog: Yes.
+speaker_heading: JOHN CAIRNCROSS
+dialog: I said we’re off to get some lunch.
+dialog: (silence)
+dialog: This is starting to get a bit
+dialog: repetitive.
+speaker_heading: ALAN TURING
+dialog: What is?
+speaker_heading: JOHN CAIRNCROSS
+dialog: I had asked if you wanted to have
+dialog: lunch with us.
+speaker_heading: ALAN TURING
+dialog: No you didn’t. You told me you were
+dialog: getting lunch.
+speaker_heading: JOHN CAIRNCROSS
+dialog: Have I offended you in some way?
+speaker_heading: ALAN TURING
+dialog: Why would you think that?
+speaker_heading: JOHN CAIRNCROSS
+dialog: Would you like to come to lunch
+dialog: with us?
+speaker_heading: ALAN TURING
+dialog: When is lunchtime?
+dialog: 28.
+speaker_heading: HUGH ALEXANDER
+dialog: (calling out)
+dialog: Christ, Alan, it’s a bleeding
+dialog: sandwich.
+speaker_heading: ALAN TURING
+dialog: What is?
+speaker_heading: HUGH ALEXANDER
+dialog: Lunch.
+speaker_heading: ALAN TURING
+dialog: I don’t like sandwiches.
+speaker_heading: JOHN CAIRNCROSS
+dialog: Nevermind.
+speaker_heading: HUGH ALEXANDER
+dialog: John was trying to be nice.
+speaker_heading: ALAN TURING
+dialog: How?
+speaker_heading: JOHN CAIRNCROSS
+dialog: Let it go.
+speaker_heading: HUGH ALEXANDER
+dialog: You know to pull off this irascible
+dialog: genius routine, one has to actually
+dialog: be a genius. Yet we’re the ones
+dialog: making progress here, aren’t we?
+speaker_heading: ALAN TURING
+dialog: You have?
+speaker_heading: HUGH ALEXANDER
+dialog: We've decrypted a number of German
+dialog: messages by analyzing the frequency
+dialog: of letter distribution.
+speaker_heading: ALAN TURING
+dialog: Oh. Even a broken clock is right
+dialog: twice a day. That’s not progress at
+dialog: all, that’s just blind luck. I’m
+dialog: designing a machine that will allow
+dialog: us to break every message, every
+text: day, instantly.
+text: We see his work: ELECTRICAL SCHEMATICS. He’s designing a
+scene_heading: STRANGE NEW MACHINE.
+dialog: ON THE TEAM: A machine? That’s ridiculous.
+speaker_heading: PETER HILTON
+dialog: Who’s hungry? Let’s go.
+dialog: 29.
+speaker_heading: HUGH ALEXANDER
+dialog: Bye, Alan.
+text: The guys gather their things and walk out...
+speaker_heading: ALAN TURING
+dialog: I’m hungry.
+dialog: They turn.
+speaker_heading: JOHN CAIRNCROSS
+dialog: What?
+speaker_heading: ALAN TURING
+dialog: Peter asked if anyone was hungry. I
+dialog: am.
+dialog: (they stare at him)
+dialog: May I have some soup, please?
+scene_heading: EXT. BLETCHLEY PARK - HUT 8 - MOMENTS LATER
+text: Hugh, John, Peter, Keith and Charles all exit Hut 8, shaking
+text: their heads and laughing at what an impossible weirdo Alan
+dialog: is.
+text: In the window, we see Alan’s face, alone with his work.
+text: ON ALAN: He looks out at the team, a slight longing to be
+text: among them, and yet the resolution that he never can be.
+scene_heading: EXT. OUTSKIRTS OF BLETCHLEY - DAY - SEQUENCE
+text: Alan runs for miles and miles along the outskirts of
+dialog: Bletchley.
+text: He thinks when he runs. It focuses him. He looks intent,
+text: deeply concentrating as he presses his legs as hard as
+dialog: they’1ll go.
+scene_heading: INTERCUT WITH:
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - DAY - SEQUENCE
+text: Alan obsessively works on something in Hut 8, filling sheet
+text: after sheet of paper with his designs. He’s drawing
+text: SCHEMATICS... As it fills out, we see what it is:
+text: It’s a HUGE MACHINE.
+dialog: 30.
+scene_heading: EXT. BLETCHLEY PARK - DAY
+text: Alan walks through the camp brandishing a PIECE OF PAPER.
+text: He’s a fish out of water amidst all of the MILITARY MEN
+text: moving supplies around him.
+text: He finds what he’s looking for:
+text: Commander Denniston stands before a SUPPLY TRUCK, checking
+text: the manifest as supplies are UNLOADED.
+speaker_heading: ALAN TURING
+dialog: This is unacceptable.
+speaker_heading: COMMANDER DENNISTON
+dialog: Turing. If you’d like to discuss
+dialog: the complaint, I’d suggest making a
+dialog: proper appointment with my office.
+speaker_heading: ALAN TURING
+dialog: Complaint? Hugh Alexander has
+dialog: denied my requisition. Parts and
+dialog: equipment, to build the machine
+dialog: I’ve designed.
+speaker_heading: COMMANDER DENNISTON
+dialog: Your fellow codebreakers are
+dialog: refusing to work with you. They’ve
+dialog: filed a formal complaint.
+speaker_heading: ALAN TURING
+dialog: It’s inspired by an old Polish code
+dialog: machine, only infinitely more
+dialog: advanced.
+speaker_heading: COMMANDER DENNISTON
+dialog: If you don’t respond to the
+dialog: complaint, I’ll have to take it up
+dialog: with the Home Office.
+speaker_heading: ALAN TURING
+dialog: Fine. My response is, they are all
+dialog: idiots. Fire them and use the
+dialog: savings to fund my machine. I’1l
+dialog: only need about a hundred thousand
+dialog: pounds.
+speaker_heading: COMMANDER DENNISTON
+dialog: A hundred thousand — Why are you
+dialog: building a machine?
+speaker_heading: ALAN TURING
+dialog: It’s highly technical. You wouldn’t
+dialog: understand.
+dialog: 31.
+speaker_heading: COMMANDER DENNISTON
+dialog: I suggest you make an effort to
+dialog: try.
+speaker_heading: ALAN TURING
+text: ++. Enigma is a machine. A very
+dialog: well-designed machine. Our problem
+dialog: is that we’re trying to beat it
+dialog: with men. What if only a machine
+dialog: can defeat another machine?
+text: Denniston stares at him.
+speaker_heading: COMMANDER DENNISTON
+dialog: .».. Hugh Alexander is in charge of
+dialog: your unit and if he’s said no,
+dialog: that’s that.
+speaker_heading: ALAN TURING
+dialog: I do not have time for this —
+speaker_heading: COMMANDER DENNISTON
+dialog: — Have you ever won a war before,
+dialog: Turing? I have. Do you know how
+dialog: it’s done? Order. Discipline. Chain
+dialog: of command. You’re not at
+dialog: University any longer. You are a
+text: very small cog in a very large
+dialog: system and you’ll do as your
+text: commanding officer instructs.
+speaker_heading: ALAN TURING
+dialog: Who is your commanding officer?
+speaker_heading: COMMANDER DENNISTON
+dialog: Winston Churchill. 10 Downing
+dialog: Street, London. You have a problem
+dialog: with my decision you can take it up
+dialog: with him.
+text: And with that, Denniston walks away, furious.
+dialog: ON ALAN: Well alright, if you say so...
+scene_heading: EXT. BLETCHLEY PARK - MAIN GATE - LATER
+text: Stewart Menzies walks out of the Bletchley’s MAIN GATE,
+text: through security, when’s he’s approached by:
+speaker_heading: ALAN TURING
+dialog: Mr. Menzies! You’re headed back to
+dialog: London, yes?
+speaker_heading: STEWART MENZIES
+dialog: Possibly.
+dialog: 32.
+speaker_heading: ALAN TURING
+dialog: Will you deliver a letter for me?
+text: Alan hands Menzies a letter:
+scene_heading: It’s addressed to “WINSTON CHURCHILL. 10 DOWNING ST. LONDON.”
+dialog: ON MENZIES: Well, this should be interesting...
+scene_heading: INT. BLETCHLEY PARK - DENNISTON’S OFFICE - DAY
+text: The team — Alan, Hugh, John, Peter, Keith, and Charles — are
+text: assembled in Commander Denniston’s office for a meeting.
+text: Stewart Menzies watches quietly from the corner, as is his
+dialog: way.
+speaker_heading: HUGH ALEXANDER
+dialog: You must be joking. Churchill put
+dialog: Alan in charge?!?!?!
+speaker_heading: KEITH FURMAN
+dialog: -— This is a terrible plan —
+speaker_heading: PETER HILTON
+dialog: — No no no no no no —
+speaker_heading: ALAN TURING
+dialog: — Really? I can give these men
+dialog: orders now?
+speaker_heading: COMMANDER DENNISTON
+dialog: Though I hate to say it... Yes.
+speaker_heading: ALAN TURING
+dialog: Fantastic.
+dialog: (to Keith and Charles)
+dialog: Keith and Charles. You’re both
+dialog: fired.
+speaker_heading: KEITH FURMAN
+dialog: Excuse me?
+speaker_heading: CHARLES RICHARDS
+dialog: What?
+speaker_heading: ALAN TURING
+dialog: You're mediocre linguists and
+text: positively poor codebreakers.
+speaker_heading: HUGH ALEXANDER
+dialog: Alan, you can’t just fire Keith and
+dialog: Charles.
+speaker_heading: ALAN TURING
+dialog: He just said I could.
+speaker_heading: COMMANDER DENNISTON
+dialog: (furious)
+dialog: I did no such thing.
+speaker_heading: STEWART MENZIES
+dialog: But Churchill did.
+text: Denniston looks at Menzies, stewing, but Menzies
+dialog: back: “What would you have me do?”
+speaker_heading: CHARLES RICHARDS
+dialog: (to Alan)
+dialog: Go to hell.
+text: Charles and Keith leave, pissed.
+speaker_heading: JOHN CAIRNCROSS
+dialog: This is inhuman. Even for you.
+text: ON DENNISTON: He looks at Alan with a withering,
+dialog: glare.
+dialog: 33.
+dialog: just shrugs
+dialog: simmering
+text: ON ALAN: He doesn’t budge an inch, or feel the slightest need
+dialog: to explain himself.
+text: As everyone stares at him, angry, the tension is brutal.
+speaker_heading: STEWART MENZIES
+dialog: (to Alan)
+dialog: ++. Popular at school, were you?
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - MINUTES LATER
+speaker_heading: CUT TO:
+text: Alan, Hugh, John and Peter walk back into Hut 8 after the
+text: meeting — resigned, unhappily, to their fate.
+speaker_heading: JOHN CAIRNCROSS
+dialog: «+. So what do we do now?
+speaker_heading: PETER HILTON
+dialog: We're short on staff.
+speaker_heading: ALAN TURING
+dialog: We get more staff.
+speaker_heading: HUGH ALEXANDER
+dialog: And how are you going to do that?
+text: Alan takes a paper from his desk and TACKS IT UP ON THE WALL.
+dialog: 34.
+text: ON THE PAPER: It’s a CROSSWORD PUZZLE.
+scene_heading: INT. FAMILY HOME - MORNING - 1940
+text: A MAN opens up that morning’s Daily Telegraph, and flipping
+text: through the paper, he sees an advertisement.
+text: ON THE AD: It’s a crossword puzzle. Below it, the ad copy
+dialog: says — “If you can solve this puzzle in under ten minutes
+dialog: please call STO-6264 for an exciting career opportunity.”
+scene_heading: INT. OTHER LOCATIONS - SAME TIME
+text: SERIES OF SHOTS: Other people — MEN, WOMEN, STUDENTS,
+text: RETIREES — open up their papers and see Alan’s ad. They all
+dialog: try solving the puzzle.
+dialog: It’s really, really hard.
+scene_heading: INT. FAMILY HOME - SAME TIME
+text: Back in the first house, the Man is trying to complete the
+dialog: puzzle when —
+text: — The AIR RAID SIREN goes off.
+text: Quickly, the Man gathers his FAMILY and they rush down into
+scene_heading: INT. BOMB SHELTER - CONTINUOUS
+text: The Man and his WIFE light candles in the safety of their
+text: underground BOMB SHELTER.
+text: As BOMBS EXPLODE on the street above them, the Man passes
+text: TOYS and GAMES to his children, to keep them distracted
+text: during the assault.
+text: He returns to Alan’s crossword puzzle, trying to solve it as
+text: just a few yards above him a city burnt to rubble.
+scene_heading: INT. TUBE STATION - LONDON - SAME TIME
+text: CIVILIANS run down into an old TUBE TUNNEL to get away from
+dialog: the bombing.
+text: Inside the tightly crowded station, some people read books,
+text: some play games, some lay on the train tracks to sleep as
+text: dust POOFS UP from the shaking ground.
+dialog: 35.
+text: Normal life goes on as the LIGHTS FLICKER from the shelling
+dialog: above.
+text: By the dim flickering, we see OTHER PEOPLE trying their hand
+text: at Alan’s puzzle.
+scene_heading: EXT. MI-6 HEADQUARTERS - LONDON - DAY
+text: Alan bicycles through London, passing a group of GASMASKED
+text: SCHOOLCHILDREN being led calmly on a DRILL by their TEACHER.
+text: As a MILKMAN crosses a BOMBED OUT BUILDING to delivers his
+text: wares, Alan comes to a stop beside a MARRIED COUPLE who are
+text: digging through the RUBBLE. The husband digs while the wife
+text: rests, sipping tea as if her house was other than a war zone.
+text: While FIREMEN tend to a nearby smoldering mess, Alan locks up
+text: his bike and enters MI-6 HEADQUARTERS.
+speaker_heading: END SEQUENCE
+scene_heading: INT. MI-6 HEADQUARTERS - LONDON - MOMENTS LATER
+text: Alan and Stewart Menzies talk in the hallway, outside a
+text: closed door.
+speaker_heading: STEWART MENZIES
+dialog: Who are they?
+speaker_heading: ALAN TURING
+dialog: All sorts, really. A school
+text: teacher. An engineer. A handful of
+dialog: students.
+speaker_heading: STEWART MENZIES
+dialog: And you think they’re qualified for
+dialog: Bletchley because they’re good at
+dialog: crossword puzzles?
+speaker_heading: ALAN TURING
+dialog: Well, they say they’re good. Now we
+dialog: should probably find out.
+dialog: Alan leads Menzies into:
+scene_heading: INT. CLASS ROOM - CONTINUOUS
+text: Alan and Stewart Menzies are in an MI-6 conference room. It’s
+text: been set up like a class room: Rows of identical desks, at
+text: which sit a COLLECTION OF CROSSWORD ENTHUSIASTS. There are
+text: around 20, all men.
+dialog: Just then,
+dialog: 36.
+speaker_heading: ALAN TURING
+dialog: ++. You'll have six minutes to
+dialog: complete the puzzle, at which
+dialog: point—
+text: a WOMAN enters. Everyone turns to look..
+text: Her name is JOAN CLARKE, 20s, a graduate student at Cambridge
+text: who’s trying to get as far away from her preacher father as
+dialog: possible,
+dialog: story.
+dialog: and she’s about to become very important to this
+speaker_heading: MI-6 AGENT
+dialog: Pardon, Ma’am, this room is
+dialog: restricted.
+speaker_heading: JOAN CLARKE
+dialog: Apologies for my tardiness — bus
+text: caught a flat tire.
+speaker_heading: ALAN TURING
+dialog: (irritated)
+dialog: May I continue, please?
+speaker_heading: MI-6 AGENT
+dialog: (to Joan)
+dialog: You’re not allowed in here, Ma’am.
+speaker_heading: JOAN CLARKE
+dialog: I’m only a few minutes late. With
+dialog: the bombing there’s ten potholes to
+dialog: each road.
+speaker_heading: MI-6 AGENT
+dialog: No, ma’am, the secretaries are to
+dialog: head upstairs. This room is for the
+dialog: candidates.
+speaker_heading: ALAN TURING
+dialog: May I please get on with this?
+speaker_heading: JOAN CLARKE
+dialog: I am a candidate.
+speaker_heading: MI-6 AGENT
+dialog: For what position?
+speaker_heading: JOAN CLARKE
+dialog: The letter did not say, precisely.
+speaker_heading: MI-6 AGENT
+dialog: Yes, so, secretaries are to head
+dialog: upstairs.
+dialog: 37.
+speaker_heading: JOAN CLARKE
+dialog: It said it was top secret.
+speaker_heading: ALAN TURING
+dialog: (comes over to them)
+dialog: What is going on here?
+speaker_heading: JOAN CLARKE
+text: There was a crossword in the paper.
+dialog: I solved it. I got a letter saying
+dialog: I was a candidate for some
+dialog: mysterious job. So here I am. My
+dialog: name is Joan Clarke.
+text: She hands the Agent the LETTER.
+speaker_heading: MI-6 AGENT
+dialog: Miss, did you really solve this
+dialog: puzzle yourself?
+speaker_heading: JOAN CLARKE
+dialog: What makes you think I couldn’t
+dialog: have solved the puzzle myself? I am
+dialog: quite —
+speaker_heading: MI-6 AGENT
+dialog: — Ma’am I'll have to ask you —
+speaker_heading: ALAN TURING
+dialog: — Miss Clarke. I find tardiness
+dialog: unacceptable under any
+dialog: circumstance. Now take a seat, so
+dialog: we may continue.
+dialog: Joan stares at Alan: Thank you.
+speaker_heading: JOAN CLARKE
+dialog: Apologies again for being late.
+text: As Joan SITS, the Agent turns to Menzies — who’s been
+text: silently observing Alan thus far — for support.
+speaker_heading: Menzies SHRUGS.
+text: The Agent backs down.
+text: Alan passes out NEW CROSSWORD PUZZLES.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: — Pardon, but before we start, can
+dialog: you tell me a bit about this
+dialog: position I’m qualifying for?
+speaker_heading: ALAN TURING
+dialog: Oh for God’s sake — No.
+dialog: 38.
+speaker_heading: JOAN CLARKE
+dialog: It’s just that I’ve a pretty decent
+dialog: job at the University, and I'd
+dialog: rather not give it up for something
+dialog: less interesting.
+speaker_heading: ALAN TURING
+dialog: Miss Clarke. You now have the
+dialog: distinct honor of having wasted
+dialog: more of my time than any other
+dialog: person in this room. Quiet.
+dialog: Gentlemen. And lady. You have six
+dialog: minutes. Begin.
+text: SHOTS: EVERYONE FRANTICALLY TRIES TO FINISH THE NEW PUZZLE.
+dialog: As they work:
+speaker_heading: STEWART MENZIES
+dialog: (whispering to Alan)
+dialog: Six minutes? Is that even possible?
+speaker_heading: ALAN TURING
+dialog: No. It takes me eight. But this
+dialog: test isn’t about crosswords — it’s
+dialog: about how you approach solving an
+dialog: impossible problem. Do you take the
+dialog: whole thing at once? Do you divide
+dialog: it into smaller —
+text: — Suddenly, Joan sits up. She’s finished. Early.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: You've finished?
+speaker_heading: JOAN CLARKE
+dialog: Yes.
+speaker_heading: ALAN TURING
+dialog: (checking watch)
+dialog: ».. 5 minutes, 34 seconds.
+speaker_heading: JOAN CLARKE
+dialog: You said to do it in under 6.
+text: ON ALAN: The smartest man in the room is surprised for the
+dialog: first time in a very long time by someone who might be even
+dialog: smarter.
+speaker_heading: STEWART MENZIES
+dialog: (to Alan)
+dialog: Seems like some people approach it
+dialog: by simply doing the impossible.
+speaker_heading: CUT TO:
+dialog: 39.
+scene_heading: INT. CLASS ROOM - MINUTES LATER
+text: Minutes later, TWO PEOPLE have survived the crossword test.
+text: Joan is one of them.
+speaker_heading: STEWART MENZIES
+dialog: Congratulations, and my warmest
+dialog: welcome to His Majesty’s service.
+dialog: If you speak a word of anything I’m
+dialog: about to show you, you’ll be
+dialog: executed for High Treason. You will
+dialog: lie to your friends, your family,
+dialog: everyone you meet about what it is
+dialog: you really do.
+speaker_heading: JOAN CLARKE
+dialog: And what is it that we’re really
+dialog: doing?
+speaker_heading: ALAN TURING
+dialog: We're going to break an unbreakable
+dialog: Nazi code and win the war.
+speaker_heading: JOAN CLARKE
+dialog: Well that does sound more
+dialog: interesting than my university job.
+speaker_heading: CUT TO:
+scene_heading: EXT. SHERBORNE SCHOOL FOR BOYS - DAY - 1927
+text: Young Alan and Christopher sit under a tree, the school in
+dialog: the distance.
+text: Alan is going through a crossword puzzle, Christopher is
+text: reading a book. Their legs are touching affectionately
+text: without either even knowing, like two people who are
+text: effortlessly comfortable with one another.
+speaker_heading: YOUNG ALAN
+dialog: What’s that you’re reading?
+text: Christopher shows him: “A Guide to Codes and Cyphers.”
+speaker_heading: CHRISTOPHER
+dialog: It’s about cryptography.
+speaker_heading: YOUNG ALAN
+dialog: What’s cryptography?
+speaker_heading: CHRISTOPHER
+dialog: It’s complicated. You wouldn’t
+dialog: understand.
+dialog: 40.
+speaker_heading: YOUNG ALAN
+dialog: I’m only fourteen months younger
+dialog: than you. Don’t treat me like a
+dialog: child.
+speaker_heading: CHRISTOPHER
+dialog: Cryptography is the science of
+dialog: codes.
+speaker_heading: YOUNG ALAN
+dialog: Like secret messages?
+speaker_heading: CHRISTOPHER
+dialog: Not secret. That’s the brilliant
+dialog: part. Messages that anyone can see,
+dialog: but no one knows what they mean,
+dialog: unless you have the key.
+speaker_heading: YOUNG ALAN
+dialog: (confused)
+dialog: How is that different from talking?
+speaker_heading: CHRISTOPHER
+dialog: Talking?
+speaker_heading: YOUNG ALAN
+dialog: When people talk to each other they
+dialog: never say what they mean. They say
+dialog: something else. And you’re supposed
+dialog: to just know what they mean. Only,
+dialog: I never do. So how is that
+dialog: different?
+speaker_heading: CHRISTOPHER
+dialog: (handing him the book)
+dialog: Alan, I have a funny feeling that
+dialog: you're going to be very good at
+dialog: this.
+scene_heading: EXT. SHERBORNE SCHOOL FOR BOYS - DORMITORY - EVENING
+text: Christopher walks Young Alan back to his dormitory. They’re
+text: happy after a long day together.
+speaker_heading: CHRISTOPHER
+dialog: Goodnight, Alan.
+text: Christopher touches Alan’s shoulder, and the two share a
+dialog: sweet moment.
+speaker_heading: ALAN TURING
+dialog: Goodnight.
+dialog: 41.
+text: Alan watches Christopher go; his heart is blooming, in love.
+speaker_heading: CUT TO:
+scene_heading: INT. MANCHESTER POLICE STATION - DAY - 1951
+text: A crowded POLICE STATION.
+text: Detective Nock approaches his boss, SUPERINTENDANT SMITH, as
+text: the latter walks through the station dropping PAPERS onto
+text: various DESKS and checking the work of other POLICE OFFICERS.
+text: Nock hands Superintendant Smith a MANILA ENVELOPE.
+scene_heading: SUPERINTENDANT SMITH
+dialog: What is this?
+speaker_heading: DETECTIVE NOCK
+dialog: Alan Turing’s classified military
+dialog: file.
+scene_heading: SUPERINTENDANT SMITH
+dialog: (displays the file)
+text: It’s bloody empty.
+speaker_heading: DETECTIVE NOCK
+dialog: Exactly.
+scene_heading: SUPERINTENDANT SMITH
+text: It’s an empty manila envelope.
+speaker_heading: DETECTIVE NOCK
+dialog: Yes.
+scene_heading: SUPERINTENDANT SMITH
+dialog: Well you’ve cracked the case wide
+dialog: open then, haven't you?
+speaker_heading: DETECTIVE NOCK
+dialog: Alan Turing’s war records aren’t
+dialog: just classified. They're non-
+dialog: existent. That means someone got
+dialog: rid of them. Erased them, burned
+dialog: them.
+scene_heading: SUPERINTENDANT SMITH
+dialog: And that person broke into his
+dialog: house and stole... Nothing?
+speaker_heading: DETECTIVE NOCK
+dialog: What if Turing wasn’t just a math
+dialog: professor?
+dialog: 42.
+scene_heading: SUPERINTENDANT SMITH
+dialog: You think maybe he also teaches
+dialog: English lit?
+speaker_heading: DETECTIVE NOCK
+dialog: Guy Burgess and Donald Maclean.
+scene_heading: SUPERINTENDANT SMITH
+dialog: The spies? From the papers?
+speaker_heading: DETECTIVE NOCK
+dialog: The Soviet spies. But first, they
+dialog: were professors, weren’t they?
+dialog: Newspapers say they became
+dialog: radicalized at Cambridge. Then they
+dialog: joined the Communist Party, took
+dialog: positions in the Foreign Office and
+dialog: leaked information to Stalin during
+dialog: the war. Now, can you think of
+dialog: anyone else we know who was at
+dialog: Cambridge, then took up something
+dialog: murky and top secret when the war
+dialog: broke out?
+text: Smith gives him a look.
+scene_heading: SUPERINTENDANT SMITH
+dialog: You think Alan Turing might be a
+dialog: Soviet agent?
+text: ON NOCK’S FACE: It would explain a lot, wouldn’t it?
+text: ON SUPERINTENDANT SMITH: He’s considering...
+speaker_heading: DETECTIVE NOCK
+dialog: Something very serious is
+dialog: happening, right here under our
+dialog: noses. Wouldn’t you like to find
+dialog: out what it is?
+text: Smith thinks, and then hands the folder back to Nock.
+scene_heading: SUPERINTENDANT SMITH
+dialog: No. I wouldn’t. I like my job. Now
+dialog: as to yours: Those lads have been
+text: causing a ruckus down by Whitworth
+dialog: Park again. Will you give them a
+dialog: talking to? Thank you.
+text: And with that, Smith leaves.
+dialog: ON NOCK: Damn it.
+text: He walks back across the station to find Sergeant Staehl
+text: waiting beside his desk.
+dialog: 43.
+speaker_heading: SERGEANT STAEHL
+dialog: Well? What’d he say?
+speaker_heading: DETECTIVE NOCK
+dialog: He said alright. Let’s do it. Let’s
+dialog: follow Turing. You’ll take the
+dialog: first shift. Turing won’t have a
+dialog: secret left by the time we’re
+text: through with him.
+speaker_heading: CUT TO:
+scene_heading: INT. BLETCHLEY PARK - HUT 11 - DAY - 1941
+text: CLOSE ON: A GIANT, HALF-BUILT MACHINE. The size of a dining
+text: room table, but taller than it is wide, its guts are composed
+text: of SPINNING GEARS and a seemingly endless stream of LONG RED
+speaker_heading: WIRES.
+text: REVEAL: TECHNICIANS work on putting the machine together,
+text: SOLDERING THE WIRES, while Alan FUSSES.
+speaker_heading: ALAN TURING
+dialog: Careful! Damn it, will you — It’s
+dialog: not a toy.
+text: Alan tries to protect his precious creation when he’s
+dialog: interrupted by:
+speaker_heading: HUGH ALEXANDER
+dialog: Alan! Your new minion has arrived.
+text: Alan turns to see: His new recruit, JACK GOOD.
+dialog: ++. But no Joan.
+speaker_heading: ALAN TURING
+dialog: (displeased)
+dialog: ... Where’s Miss Clarke?
+speaker_heading: CUT TO:
+scene_heading: INT. CLARKE HOUSE - LONDON - DAY
+text: Joan returns home from the market when she hears a familiar
+text: VOICE from the sitting room.
+speaker_heading: ALAN TURING (0.S.)
+dialog: — Well it’s a very important radio
+dialog: factory you see. It’s not really —
+dialog: I mean along the spectrum of radio
+dialog: factories this one is particularly—
+text: Joan follows the voices to find:
+dialog: 44,
+text: Alan sitting across from her MOTHER and FATHER, arguing.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: (seeing Joan)
+dialog: Hello.
+text: Joan makes the sort of face any young woman would make if she
+text: found Alan Turing sitting to tea with her parents.
+speaker_heading: CUT TO:
+scene_heading: INT. CLARKE HOUSE - LONDON - MINUTES LATER
+text: In the KITCHEN: Joan's MOTHER hands her a TEA TRAY. The two
+text: share a look.
+text: As Joan’s Mother and Father pretend to putter in the kitchen,
+text: listening in on the conversation in the next room, Joan takes
+text: the tray to the LIVING ROOM, where she begins to serve tea.
+speaker_heading: ALAN TURING
+dialog: ++. Why aren’t you at Bletchley?
+speaker_heading: JOAN CLARKE
+dialog: ("My parents can hear us”)
+dialog: So kind of you to visit, Mr.
+dialog: Turing. Was your trip pleasant?
+speaker_heading: ALAN TURING
+dialog: Gather your things and let’s go.
+speaker_heading: JOAN CLARKE
+dialog: I’m sorry. I am unable to accept
+dialog: your offer.
+speaker_heading: ALAN TURING
+dialog: And why not?
+speaker_heading: JOAN CLARKE
+dialog: As my father told you, it is felt —
+dialog: well we feel — that such a position
+dialog: would hardly be appropriate.
+speaker_heading: ALAN TURING
+dialog: You earned a double-first in
+dialog: mathematics.
+speaker_heading: JOAN CLARKE
+dialog: But sadly was not granted the
+dialog: opportunity to become a Fellow.
+speaker_heading: ALAN TURING
+dialog: You belong at Bletchley.
+speaker_heading: ON ALAN:
+speaker_heading: ON JOAN:
+speaker_heading: ON ALAN:
+dialog: 45.
+speaker_heading: JOAN CLARKE
+dialog: I’m sorry, but for someone in my
+dialog: position to work - to live -
+dialog: amongst all of your men, so far
+dialog: from home It would be
+dialog: indecorous.
+dialog: 
+speaker_heading: ALAN TURING
+dialog: What in the world does that even —
+speaker_heading: JOAN CLARKE
+dialog: ("I told you they’re
+dialog: listening!”)
+dialog: — One lump or two?
+dialog: Are you fucking serious?
+dialog: Yes. I’m fucking serious.
+text: He tries to think of a solution
+dialog: 
+speaker_heading: ALAN TURING
+dialog: ++. We have a group of young women
+dialog: who tend to our clerical tasks.
+text: Assistants, translators. They live
+dialog: together in town. Would that be a
+dialog: more suitable environment?
+text: ON JOAN’S PARENTS: This sounds more promising.
+speaker_heading: ON JOAN:
+speaker_heading: ON JOAN'S
+speaker_heading: JOAN CLARKE
+dialog: So I would be working amongst these
+dialog: women?
+speaker_heading: ALAN TURING
+dialog: ("Not actually”)
+dialog: Yes.
+dialog: “Go on.”
+speaker_heading: ALAN TURING (CONT’D)
+dialog: ++. Wonderful ladies, they even
+dialog: organize social events at St
+text: Martin’s church, down the road. The
+dialog: whole thing is really quite...
+dialog: Decorous.
+dialog: PARENTS: That’s much better.
+speaker_heading: JOAN CLARKE
+dialog: ("Good job.”)
+dialog: Well. I will have to talk this over
+dialog: with my family.
+text: As Joan’s parents enter, we
+speaker_heading: CUT TO:
+dialog: 46.
+scene_heading: EXT. CLARKE HOUSE - MOMENTS LATER
+text: Joan walks Alan out of the front door, finally out of earshot
+text: from her parents for a few quick seconds.
+speaker_heading: ALAN TURING
+dialog: You won’t have the proper
+dialog: clearance, so we’ll have to
+dialog: improvise a bit.
+speaker_heading: JOAN CLARKE
+dialog: Why are you helping me?
+speaker_heading: ALAN TURING
+dialog: There is only one thing that
+dialog: matters in this entire world, do
+dialog: you understand? Breaking Enigma.
+speaker_heading: JOAN CLARKE
+dialog: Mr. Turing. Why are you helping me?
+speaker_heading: ALAN TURING
+dialog: ++. Sometimes it is the very people
+dialog: who no one imagines anything of who
+dialog: do the things that no one can
+dialog: imagine.
+scene_heading: EXT. BLETCHLEY PARK - DAY
+text: Joan and a few OTHER WRENS exit a BUS that’s deposited them
+text: in front of the Park’s central mansion.
+text: Looking up at it, she sees Alan walking across the way.
+text: He gives her a small wave, which she returns with a small
+dialog: wave back.
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - NIGHT
+text: Later in Hut 8, the team (w/o Alan) — Hugh, John, Peter, and
+text: the new guy, Jack — work frantically into the night.
+text: The team uses their PERFORATED SHEETS to find linguistic
+text: patterns in the Enigma messages, everyone working as hard and
+dialog: as fast as they possibly can until —
+text: — Suddenly a BELL GOES OFF.
+text: Everyone stops their work, frustrated.
+text: Angry, Hugh KICKS his desk.
+dialog: 47.
+speaker_heading: JACK GOOD
+dialog: ++. What just happened?
+speaker_heading: JOHN CAIRNCROSS
+dialog: Midnight. All the work we did today
+dialog: is useless. But don’t worry: We've
+dialog: a few hours before tomorrow's
+dialog: messages start pouring in. And we
+dialog: start all over again.
+speaker_heading: PETER HILTON
+dialog: From scratch.
+speaker_heading: HUGH ALEXANDER
+dialog: I am sick of this. Sick. He made me
+dialog: waste four hours this morning re-
+text: wiring his plugboard matrix. Three
+dialog: hours yesterday on rotor positions.
+speaker_heading: JOHN CAIRNCROSS
+dialog: Don’t go over there.
+speaker_heading: HUGH ALEXANDER
+dialog: No. If our job was not impossible
+dialog: before it bloody well is now.
+text: Hugh stands and heads to the door —
+speaker_heading: JOHN CAIRNCROSS
+dialog: — Hugh, don’t —
+dialog: — But Hugh is already gone to
+speaker_heading: CUT TO:
+scene_heading: INT. BLETCHLEY PARK - HUT 11 - MOMENTS LATER
+text: Alan stands alone with his machine, tinkering, comparing the
+text: assembly to his SCHEMATICS.
+speaker_heading: Hugh BURSTS in —
+speaker_heading: HUGH ALEXANDER
+dialog: — Damn you and damn your useless
+dialog: machine.
+speaker_heading: ALAN TURING
+dialog: (not even looking)
+dialog: My machine is how we’re going to
+dialog: win.
+speaker_heading: HUGH ALEXANDER
+dialog: This machine?
+dialog: 48.
+text: Hugh grabs a GLASS from the table and SMASHES IT AGAINST
+scene_heading: ALAN'S MACHINE.
+speaker_heading: ALAN TURING
+dialog: (turning around, shocked)
+dialog: Stop.
+speaker_heading: HUGH ALEXANDER
+dialog: This is the bloody machine you’re
+dialog: talking about?
+text: He grabs a WRENCH —
+text: — Alan moves to protect Christopher, standing between Hugh
+dialog: and the machine —
+speaker_heading: ALAN TURING
+dialog: No no don’t —
+text: — When the team enters behind Hugh —
+text: — GRABBING HIM and HOLDING HIM BACK.
+text: Alan stands between the team and his machine as Hugh STEAMS.
+speaker_heading: HUGH ALEXANDER
+dialog: ++. You could help us. You could
+dialog: make this go faster. But you won't.
+speaker_heading: PETER HILTON
+dialog: Hugh is right, Alan. There are
+text: actual soldiers out there trying to
+dialog: win an actual war — my brother, my
+dialog: cousins, all my friends, they are
+dialog: all making a difference, while we
+dialog: wile away our days producing
+dialog: nothing. Because of you.
+speaker_heading: HUGH ALEXANDER
+dialog: Because of you...
+text: Hugh PUSHES towards Alan again —
+text: — but John HOLDS HIM BACK.
+speaker_heading: JOHN CAIRNCROSS
+dialog: (to Hugh, calming)
+dialog: ... What’s the use?
+speaker_heading: ALAN TURING
+dialog: My machine will work.
+text: Hugh stares Alan, then at John.
+speaker_heading: HUGH ALEXANDER
+dialog: +++. I’m going to the pub.
+dialog: 49,
+text: Hugh leaves, and the team FOLLOWS.
+speaker_heading: ALAN TURING
+dialog: «+. It’ll work.
+text: ON ALAN: Alone. Rattled from the violence. Scared.
+dialog: And yet... Resolved.
+text: He makes a fateful decision and runs off to
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - MINUTES LATER
+text: Alan goes back into Hut 8, which is now empty.
+text: He goes to a far STORAGE CABINET, from which he removes a
+text: STACK OF ENIGMA MESSAGES.
+text: Alan FOLDS THE SHEETS, STUFFING THEM INTO HIS COAT POCKETS —
+text: — INTO HIS PANTS —
+text: — INTO HIS SHOES —
+dialog: — ETC.
+text: He runs out, concealing enough top secret information on his
+text: body to have him hanged for treason ten times over.
+scene_heading: EXT. BLETCHLEY PARK - DIRT PATH - MINUTES LATER
+text: Alan walks his bicycle through the CHECK POINT, showing his
+text: ID to the GUARDS.
+scene_heading: EXT. BLETCHLEY PARK - MAIN GATE - CONTINUOUS
+text: At the Gate, ARMED GUARDS stop him as he passes, and as is
+text: protocol, Alan opens up his BRIEFCASE for the men to see:
+text: Nothing is inside.
+text: Concealing the documents in his coat/pants/shoes/etc., Alan
+text: hops on his bike and heads off to:
+scene_heading: EXT. JOAN’S FLAT - LATER
+text: Alan bicycles to the outside of Joan’s new flat.
+text: The windows are BOARDED UP at night — city regulations, so
+text: that the Germans flying overhead can’t see any lights from
+dialog: the town.
+dialog: 50.
+text: Alan CHUCKS A SMALL rock at Joan's boarded window —
+text: — Then carefully sneaks around in back of the house—
+text: — Finding an OPEN BACK WINDOW —
+text: — On the second floor.
+text: He CLIMBS A NEARBY FENCE, and JUMPS FROM THE FENCE TO THE
+speaker_heading: WINDOW —
+text: — Where Joan GRABS HIM and HELPS HIM INSIDE:
+scene_heading: INT. JOAN’S FLAT - CONTINUOUS
+text: It’s dark inside...
+speaker_heading: JOAN CLARKE
+dialog: (whispering)
+dialog: Could you have made a bit more
+dialog: noise, Alan? Not sure you woke up
+dialog: my landlady.
+speaker_heading: ALAN TURING
+dialog: Sorry.
+text: Joan turns on a SMALL LAMP and then lights some CANDLES.
+speaker_heading: JOAN CLARKE
+dialog: The best I can do. No male visitors
+text: after dark.
+text: She watches Alan remove papers from his pockets.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: What’d you bring me?
+text: Alan produces the Enigma messages from every available hiding
+dialog: place on his person.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: ++. Some men try flowers, you know.
+speaker_heading: ALAN TURING
+dialog: (pulling papers from
+dialog: inside his shirt)
+dialog: These are actual decrypted Enigma
+dialog: messages, direct from Nazi high
+dialog: command.
+speaker_heading: JOAN CLARKE
+dialog: Or chocolates. Girls like
+dialog: chocolate.
+dialog: 51.
+text: Alan starts PLACING THE MESSAGES down on a table, but there
+text: isn’t room, so he starts LAYING THEM OUT ON THE FLOOR.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: (reading a message)
+dialog: “0600 hours. Weather today is
+text: clear. Rain in the evening. Heil
+dialog: Hitler.” Well, clearly that vital
+dialog: information is going to win us the
+dialog: war.
+speaker_heading: ALAN TURING
+dialog: It’s the relationship between the
+dialog: encrypted and decrypted messages
+dialog: that interests me. Is there a clue
+dialog: there that we can build into
+dialog: Christopher?
+speaker_heading: JOAN CLARKE
+dialog: Who’s “Christopher”?
+speaker_heading: ALAN TURING
+dialog: Oh. He’s my machine.
+speaker_heading: JOAN CLARKE
+dialog: You named him?
+speaker_heading: ALAN TURING
+dialog: Is that a bad name?
+speaker_heading: JOAN CLARKE
+dialog: Nevermind...
+dialog: (looks over the messages)
+dialog: Are you trying to build your
+dialog: Universal Machine?
+dialog: Alan looks at her: How do you know what that is?
+text: Joan smiles.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: I read your paper at university.
+speaker_heading: ALAN TURING
+dialog: They're teaching it already?
+speaker_heading: JOAN CLARKE
+dialog: Oh God no, but I was precocious.
+dialog: You theorized a machine that can
+dialog: solve any problem. It doesn’t just
+dialog: do one thing: It does everything.
+dialog: The machine isn’t only
+dialog: programmable, it’s re-programmable.
+dialog: ON ALAN: She understands what he’s been writing about.
+dialog: 52.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: Is that part of the idea behind
+dialog: your Christopher?
+speaker_heading: ALAN TURING
+dialog: Human beings can compute large sums
+dialog: very quickly. Even Hugh can do
+dialog: that. I want Christopher to be...
+dialog: Smarter. To make a calculation, and
+dialog: then to determine what to do next.
+dialog: Like a person does. Think of it: An
+dialog: electrical brain. A digital
+dialog: computer.
+speaker_heading: JOAN CLARKE
+dialog: (trying out the words on
+dialog: her tongue)
+dialog: A “digital computer?” Hmm.
+speaker_heading: ALAN TURING
+dialog: I’ll show you —
+text: — Alan TURNS, and KNOCKS OVER THE CANDLE
+dialog: 
+text: ... Which LIGHTS THE ENIGMA MESSAGES ON FIRE.
+text: Alan and Joan SCRAMBLE TO PUT OUT THE FIRE.
+dialog: They make a lot of NOISE in the process, though they do
+dialog: Manage not to burn down Joan’s flat.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: I’m so sorry.
+text: They hear more noise from downstairs: “Joan?!? HELLO?!?”
+speaker_heading: JOAN CLARKE
+dialog: My landlady. You need to leave.
+speaker_heading: ALAN TURING
+dialog: Right.
+text: Alan moves to the front door —
+speaker_heading: JOAN CLARKE
+text: — No. The window. She’s coming.
+speaker_heading: ALAN TURING
+dialog: (staring at window)
+dialog: Really?
+speaker_heading: JOAN CLARKE
+dialog: Go.
+dialog: 53.
+text: Alan AWKWARDLY CLIMBS OUT THE WINDOW, TRYING NOT TO FALL...
+scene_heading: SMASH CUT TO:
+scene_heading: EXT. BLETCHLEY PARK - THE NEXT DAY
+text: REVEAL: Alan has been injured in his fall.
+dialog: (Climbing is not his strong suit.)
+text: Alan walks through the grounds into:
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - CONTINUOUS
+text: Alan enters Hut 8 to find his team watching silently as a
+text: bunch of MILITARY POLICE RIFLE THROUGH HIS DESK —
+text: — MANHANDLING his papers, his machine parts, making a mess.
+speaker_heading: ALAN TURING
+dialog: (re: parts of Christopher)
+dialog: Hey! Don’t touch that!
+text: The RMP’S TRAIN GUNS ON HIM.
+speaker_heading: MILITARY POLICEMAN
+dialog: Don’t move!
+speaker_heading: ALAN TURING
+dialog: That’s my desk.
+speaker_heading: COMMANDER DENNISTON (0.S.)
+dialog: Thank goodness. Be a pity if we
+dialog: were searching the wrong one.
+text: Alan turns to find Denniston directing the search.
+speaker_heading: ALAN TURING
+dialog: What are you doing?
+speaker_heading: COMMANDER DENNISTON
+dialog: There’s a spy at Bletchley Park.
+speaker_heading: JOHN CAIRNCROSS
+dialog: The Navy thinks one of us is a
+dialog: Soviet double-agent, Alan.
+speaker_heading: ALAN TURING
+dialog: Why?
+dialog: 54.
+speaker_heading: COMMANDER DENNISTON
+dialog: Our boys intercepted this on its
+dialog: way to Moscow. Look familiar?
+text: Denniston hands Alan a TELEGRAM — it’s a LONG STRING OF
+text: LETTERS, running down the entire page.
+speaker_heading: ALAN TURING
+dialog: (looking at the telegram)
+dialog: . This is a Beale Cypher. It’s
+text: encrypted with a key phrase, from a
+dialog: book or a poem or...
+dialog: (re: the team)
+dialog: Which one of them did this?
+text: As Alan stares at the team, they stare back at him.
+text: He glances at the RMP’s rifling through his desk.
+dialog: Oh fuck.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: I’m not a double agent.
+speaker_heading: COMMANDER DENNISTON
+dialog: Double agents are such bastards.
+text: Isolated loners. No attachments to
+dialog: friends or family. Arrogant. Think
+dialog: they’re smart enough to get away
+dialog: with anything. Do you know anyone
+dialog: like that?
+speaker_heading: ALAN TURING
+dialog: I know you don’t like me... But you
+dialog: don’t think I could actually be a
+dialog: spy, do you?
+text: ON THE TEAM: They won’t look him in the eye.
+speaker_heading: MILITARY POLICEMAN
+dialog: (to Denniston)
+dialog: Nothing out of the ordinary, Sir.
+speaker_heading: COMMANDER DENNISTON
+dialog: Well then. Next time, you will make
+dialog: a mistake. And then, I don’t even
+dialog: need to bother firing you — I can
+dialog: simply hang you for treason.
+text: Denniston and his men LEAVE.
+speaker_heading: HUGH ALEXANDER
+dialog: (to Jack)
+dialog: Aren’t you glad you joined up
+dialog: just in time?
+dialog: 55.
+scene_heading: INT. BLETCHLEY PARK - HUT 11 - MINUTES LATER
+text: In the machine Hut next door, Alan touches his precious
+dialog: machine for comfort.
+text: Whenever he feels lonely, misunderstood, isolated — he has
+dialog: his machine.
+text: There’s a KNOCK on the door and...
+text: ++. Joan enters.
+speaker_heading: JOAN CLARKE
+dialog: I heard about what happened... I
+dialog: have an idea of what might cheer
+dialog: you up.
+speaker_heading: CUT TO:
+scene_heading: INT. BLETCHLEY PARK - BEER HUT - LATER
+text: Alan and Joan sip from beer bottles in the “beer hut” — Among
+dialog: the military commissaries, it’s so named because, well, it’s
+dialog: the one that serves beer.
+text: They can be a bit more relaxed here than at Joan’s flat.
+text: They’re surrounded by NAPKINS full of MATHEMATICAL EQUATIONS,
+dialog: which they’re studying, debating, etc.
+speaker_heading: JOAN CLARKE
+dialog: ++. So because no letter can be
+dialog: encoded as itself, you’ve already a
+dialog: handful of settings that can be
+dialog: rejected at the outset. If you —
+text: Just then, Hugh, John, and Peter enter the Beer Hut...
+text: ++. Alan looks up, seeing them.
+text: Joan notices.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: Is that your team? Let’s say hello.
+speaker_heading: ALAN TURING
+dialog: No.
+speaker_heading: JOAN CLARKE
+dialog: (to the boys)
+dialog: Over here!
+dialog: They see Joan...
+dialog: 56.
+speaker_heading: ALAN TURING
+dialog: I told you not to do that.
+speaker_heading: JOAN CLARKE
+dialog: Correct.
+text: ++. Hugh, John and Peter approach.
+speaker_heading: HUGH ALEXANDER
+dialog: Alan. Didn’t even know you drank.
+speaker_heading: ALAN TURING
+dialog: Hello.
+speaker_heading: JOAN CLARKE
+dialog: He doesn’t, really, he just sort of
+text: sips at the foam.
+speaker_heading: HUGH ALEXANDER
+dialog: Tell you a secret, Miss...
+speaker_heading: JOAN CLARKE
+dialog: ++. Clarke.
+speaker_heading: HUGH ALEXANDER
+dialog: Miss Clarke.
+speaker_heading: JOAN CLARKE
+dialog: Please.
+speaker_heading: HUGH ALEXANDER
+dialog: The foam’s my favorite part too.
+speaker_heading: JOAN CLARKE
+dialog: Well then, I’1l show you a trick.
+dialog: (to Bartender)
+dialog: Alex! We’re in need of supplies.
+text: Joan hops behind the bar and the BARTENDER helps her to
+text: BOTTLES OF GUINNESS.
+text: Hugh, Alan, John and Peter watch.
+speaker_heading: HUGH ALEXANDER
+dialog: Alan, are you... On a date?
+speaker_heading: ALAN TURING
+dialog: What? No. Of course not.
+speaker_heading: HUGH ALEXANDER
+dialog: Mind if I have a crack?
+speaker_heading: ALAN TURING
+dialog: I’m not a Soviet spy.
+dialog: Returning,
+dialog: 57.
+speaker_heading: HUGH ALEXANDER
+dialog: Do love a proper blonde.
+speaker_heading: ALAN TURING
+dialog: Hugh. I swear. I’m not a spy.
+speaker_heading: HUGH ALEXANDER
+dialog: Oh for God’s sake, Alan, of course
+dialog: you’re not a spy.
+speaker_heading: ALAN TURING
+dialog: What?
+speaker_heading: HUGH ALEXANDER
+dialog: Denniston gave me the Beale Cypher.
+dialog: And guess what? I broke it. “Ask
+dialog: and it shall be given you; seek and
+dialog: ye shall find.” Matthew 7:7. That
+dialog: was the key. Far too simple for
+dialog: you. Pity Denniston disagrees.
+text: Joan POURS PINTS OF GUINNESS FOR THE TEAM.
+speaker_heading: JOAN CLARKE
+dialog: Did you ever notice that the
+text: bubbles in a pint of Guinness
+dialog: travel downwards, as opposed to
+dialog: upwards in any other beer? Ever
+dialog: wonder why? It’s because the pint
+text: glass creates drag on the bubbles
+text: along the side; but the center
+text: bubbles are free to sprint upwards.
+text: Then the rising current in the
+text: middle pushes down on the side
+dialog: bubbles and... And voila: Guinness.
+dialog: The official beer of
+dialog: mathematicians.
+text: ON THE PINTS: Joan has etched pi symbols into the foam.
+speaker_heading: HUGH ALEXANDER
+dialog: Be still my beating heart. Come
+dialog: join us for a drink.
+speaker_heading: ALAN TURING
+dialog: She’s assisting me with some
+dialog: calculations.
+speaker_heading: HUGH ALEXANDER
+dialog: Fine, Alan can come too.
+speaker_heading: ALAN TURING
+dialog: Thank you.
+dialog: 58.
+speaker_heading: JOAN CLARKE
+dialog: Hugh was being sarcastic.
+speaker_heading: HUGH ALEXANDER
+dialog: He’s a lost cause, I promise.
+speaker_heading: JOAN CLARKE
+dialog: We'll be there in a moment.
+text: Joan smiles at Hugh as he joins John and Peter at a separate
+dialog: table.
+speaker_heading: ALAN TURING
+dialog: ++. He likes you.
+speaker_heading: JOAN CLARKE
+dialog: Yes.
+speaker_heading: ALAN TURING
+dialog: You got him to like you.
+speaker_heading: JOAN CLARKE
+dialog: Yes.
+speaker_heading: ALAN TURING
+dialog: Why?
+speaker_heading: JOAN CLARKE
+dialog: Because I’m a woman in a man’s job
+dialog: and I don’t have the luxury of
+dialog: being an ass.
+dialog: (beat)
+dialog: Alan, it doesn’t matter how smart
+dialog: you are. Enigma is smarter. If you
+dialog: really want to beat it - if you
+dialog: really want to solve your puzzle —
+dialog: you're going to need all the help
+dialog: you can get. And they are not going
+dialog: to help you if they do not like
+dialog: you.
+text: Alan thinks. The next sentence is incredibly hard for him to
+text: say out loud.
+speaker_heading: ALAN TURING
+dialog: ».. How should I get them to like
+dialog: me?
+speaker_heading: CUT TO:
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - DAY
+text: Alan enters Hut 8 to find his team hard at work.
+text: He’s carrying a BAG OF APPLES.
+dialog: 59.
+speaker_heading: HUGH ALEXANDER
+dialog: (sees apples)
+dialog: What’re those?
+speaker_heading: ALAN TURING
+dialog: Apples.
+speaker_heading: HUGH ALEXANDER
+dialog: No.
+speaker_heading: ALAN TURING
+dialog: No, they really are... I... Joan
+dialog: told me it’d be nice to bring you
+dialog: all something.
+text: Alan takes the apple bag around the room, handing each man an
+dialog: apple.
+dialog: They take them. It’s really awkward.
+speaker_heading: JOHN CAIRNCROSS
+dialog: Thanks?
+speaker_heading: PETER HILTON
+dialog: I like apples.
+speaker_heading: HUGH ALEXANDER
+dialog: My best to Miss Clarke.
+speaker_heading: ALAN TURING
+dialog: +. There are two fellows in the
+text: woods. And they run into a bear.
+text: The first fellow, he kneels down
+text: and starts to pray. But the second
+text: one, he begins lacing up his boots.
+dialog: The first one says, “my friend,
+dialog: what’re you doing? You can’t outrun
+dialog: a bear.” And the second one
+dialog: responds, “I don’t have to. I only
+dialog: have to outrun you.”
+dialog: Ba dum bum.
+text: Awkward silence.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: I’ll be with Christopher if anyone
+dialog: needs me.
+text: Alan walks off to the adjacent Hut.
+speaker_heading: CUT TO:
+scene_heading: INT. SHERBORNE SCHOOL FOR BOYS - DAY - 1927
+text: Young Alan and Christopher are in math class.
+dialog: 60.
+text: The TEACHER drones on as the students pretend to pay
+dialog: attention.
+text: Young Alan and Christopher PASS NOTES —
+text: — Dropping them by each other’s desks —
+dialog: -— And snapping them up quickly.
+speaker_heading: TEACHER
+dialog: Mr. Turing! Passing notes, are we?
+speaker_heading: ALAN TURING
+dialog: No, Sir.
+text: The Teacher comes over, and grabs the note from his hand.
+scene_heading: ON THE NOTE: “FDFH RG TU HSD PDXT PEJND QERDZX.”
+text: It's encrypted.
+speaker_heading: TEACHER
+dialog: (holding it up for
+dialog: everyone)
+dialog: Only Mr. Turing would pass notes
+text: written in gibberish.
+text: The other students LAUGH as the Teacher drops the note in the
+dialog: trash.
+text: Alan isn’t bothered by the laughter — he’s safe in his
+dialog: private world with Christopher.
+text: The BELL RINGS. Class is over. AS EVERYONE SHUFFLES OUT:
+speaker_heading: TEACHER (CONT'D)
+dialog: Alright you lot, do not forget your
+dialog: calculus over break. Have a
+dialog: pleasant holiday and we’ll resume
+dialog: your integrals when you return.
+text: Alan waits... And grabs the note from the trash.
+scene_heading: EXT. SHERBORNE SCHOOL FOR BOYS - CLOISTERS - MINUTES LATER
+text: Now alone, Alan DECRYPTS THE MESSAGE. One at a time, the
+text: letters become intelligible.
+text: ON THE NOTE: “SEE YOU IN TWO LONG WEEKS, DEAREST FRIEND.”
+dialog: ON ALAN: Christopher called him his dearest friend.
+speaker_heading: CUT TO:
+dialog: 61.
+scene_heading: EXT. BLETCHLEY PARK - OUTSIDE HUT 8 - DAY - 1941
+text: Alan and Joan eat a PICNIC LUNCH in a wooded area behind Hut
+dialog: 8.
+text: Alan finishes writing an EQUATION, then hands his NOTEBOOK to
+dialog: Joan.
+text: She looks at the equation, then instantly starts CROSSING
+text: THINGS OUT and REWRITING. Alan laughs. There aren’t many
+dialog: people who would cross out his work so brazenly.
+text: Joan sees his laughter, looks up: “What’d I do?”
+text: But before Alan can respond they both see: Hugh approaching.
+text: Alan is nervous.
+text: But Hugh simply HANDS ALAN A SHEET OF PAPER.
+speaker_heading: HUGH ALEXANDER
+dialog: Look at this.
+text: As Alan and Joan stare at SCHEMATICS on the paper, Hugh
+text: SWIPES A SANDWICH from their picnic and begins to chew.
+speaker_heading: HUGH ALEXANDER (CONT’D)
+dialog: If you run the wires across the
+dialog: plugboard matrix diagonally, you'll
+dialog: eliminate rotor positions 500 times
+dialog: faster.
+speaker_heading: ALAN TURING
+dialog: ++. This is actually not an
+dialog: entirely terrible idea.
+speaker_heading: JOAN CLARKE
+dialog: That’s Alan for “thank you.”
+speaker_heading: ALAN TURING
+dialog: (looking up)
+dialog: That’s my sandwich.
+speaker_heading: HUGH ALEXANDER
+dialog: You don’t like sandwiches.
+text: And with that, Hugh takes another bite, gives Joan a wink,
+text: and walks off.
+scene_heading: INT. BLETCHLEY PARK - HUT 11 - DAY
+text: Alan and the team (Hugh, John, Peter) stand in a half-circle
+text: around the now-completed Christopher.
+dialog: 62.
+text: An ELECTRICAL ASSISTANT feeds fresh Enigma messages into one
+text: end of the machine.
+text: The men look at each other, feeling the importance of the
+dialog: moment.
+speaker_heading: JOHN CAIRNCROSS
+dialog: (to Alan)
+dialog: You nervous?
+text: Alan takes a gulp and CONNECTS the final bit of electrical
+dialog: wiring...
+text: ... AND THE VERY FIRST “DIGITAL COMPUTER” IN HISTORY COMES TO
+speaker_heading: LIFE.
+text: ON THE MACHINE: GEARS ARE SPINNING, CURRENT IS RACING THROUGH
+text: THE WIRES.
+text: The CLACKING SOUND it makes is UNBELIEVABLY LOUD.
+speaker_heading: PETER HILTON
+dialog: (yelling over the machine)
+dialog: Christ!! What happens now?!
+speaker_heading: ALAN TURING
+dialog: It should tell us the day’s Enigma
+dialog: settings!!
+speaker_heading: HUGH ALEXANDER
+dialog: How long?!?
+dialog: ON ALAN: He’s not sure...
+text: The team shares a look: Is this really going to work?
+scene_heading: EXT. BLETCHLEY PARK - DAWN
+text: Dawn rises over Bletchley Park.
+scene_heading: INT. BLETCHLEY PARK - DENNISTON’S OFFICE - MORNING
+text: Commander Denniston receives a visit from the Electrical
+text: Assistant who'd been helping Alan in the previous scene.
+scene_heading: ELECTRICAL ASSISTANT
+text: The gears just keep spinning and
+text: spinning. It’s endless.
+speaker_heading: COMMANDER DENNISTON
+dialog: And there’s no result in sight?
+dialog: 63.
+text: The Assistant NODS. Denniston SMILES: Got him.
+scene_heading: INT. BLETCHLEY PARK - HUT 11 - EARLY MORNING
+text: As the machine CLACKS away, Alan is frantically going over
+text: his papers. He’s unshaven, wearing yesterday’s clothes. He
+dialog: hasn’t gotten a wink of sleep.
+text: ON ALAN’S FRANTIC PACING: Why isn’t it working? Why?!
+text: Alan rubs his eyes, exhausted, and as he does so he looks out
+dialog: the window to see...
+text: .».. Commander Denniston walking towards the Machine Hut,
+text: accompanied by a HOME OFFICE MAN and TWO RMPs.
+text: Alan quickly runs to the door and BOLTS it —
+text: — Just as Denniston and the men get to it from the outside.
+speaker_heading: OUTSIDE:
+text: Denniston tries the door. It won’t open.
+speaker_heading: COMMANDER DENNISTON
+dialog: Turing! Open the bloody door!
+speaker_heading: INSIDE:
+speaker_heading: ALAN TURING
+dialog: No!!!
+speaker_heading: OUTSIDE:
+speaker_heading: COMMANDER DENNISTON
+dialog: Open the door or we will break it
+dialog: down!!
+speaker_heading: INSIDE:
+speaker_heading: ALAN TURING
+dialog: I cannot let you in!! I cannot let
+dialog: you interfere!!!
+speaker_heading: OUTSIDE:
+text: Denniston turns to the RMPs: Break it down.
+text: The RMPs KICK DOWN THE DOOR —
+text: — And the men BURST INTO THE ROOM as Alan FALLS BACK.
+dialog: 64.
+speaker_heading: COMMANDER DENNISTON
+dialog: (re: the horrible noise)
+dialog: Turn that thing off.
+text: An RMP walks over to Christopher —
+text: -— Alan tries to stop him but they POINT GUNS AT HIM —
+text: -— And so Alan watches in absolute horror as they TURN OFF THE
+speaker_heading: MACHINE.
+speaker_heading: COMMANDER DENNISTON (CONT'D)
+dialog: Well then. It seems your great big
+text: expensive machine doesn’t work.
+speaker_heading: ALAN TURING
+dialog: It does.
+speaker_heading: COMMANDER DENNISTON
+dialog: Wonderful. So you’ve broken Enigma
+dialog: then?
+speaker_heading: ALAN TURING
+dialog: It works... It was just... Still
+dialog: working.
+speaker_heading: COMMANDER DENNISTON
+dialog: This is my associate from the Home
+dialog: Office. A hundred thousand pounds
+dialog: is quite a lot of money. He’s here
+dialog: to see what you have to show for
+dialog: it.
+speaker_heading: ALAN TURING
+dialog: You will never understand the
+dialog: importance of what I’ve created
+dialog: here.
+text: Commander Denniston exchanges a look with the men: See what I
+dialog: mean?
+speaker_heading: COMMANDER DENNISTON
+dialog: Have you decrypted any German
+dialog: messages? A single one? Can you
+dialog: point to anything at all that
+dialog: you've achieved?
+dialog: ON ALAN: He can’t.
+speaker_heading: COMMANDER DENNISTON (CONT'D)
+dialog: Your funding is up, and our
+dialog: patience has expired. It is with
+dialog: such great pleasure that I finally
+dialog: get to say this: Alan Turing,
+dialog: you're fired.
+dialog: 65.
+dialog: ON ALAN: What can he do? This is it...
+speaker_heading: COMMANDER DENNISTON (CONT'D)
+dialog: Please escort Mr. Turing from the
+dialog: premises.
+speaker_heading: HUGH ALEXANDER (0.S.)
+dialog: No.
+text: Everyone turns to see Hugh, John, and Peter at the door,
+text: wearing fresh clothes.
+speaker_heading: COMMANDER DENNISTON
+dialog: Pardon?
+speaker_heading: HUGH ALEXANDER
+dialog: God help me... If you fire Alan,
+dialog: you'll have to fire me too.
+speaker_heading: COMMANDER DENNISTON
+dialog: What on earth are you saying?
+speaker_heading: HUGH ALEXANDER
+dialog: Trust me, no one wants to say this
+dialog: less than I do, but Alan’s right.
+dialog: His machine can work. At least it’s
+dialog: the best chance we’ve got.
+speaker_heading: COMMANDER DENNISTON
+dialog: You must be joking.
+speaker_heading: JOHN CAIRNCROSS
+dialog: If you fire them, you’ll have to
+dialog: fire me too.
+speaker_heading: PETER HILTON
+dialog: And me.
+speaker_heading: HUGH ALEXANDER
+dialog: We're the best cryptographic minds
+dialog: in Britain. Are you going to fire
+dialog: us all?
+text: Denniston looks to the Home Office Man, who NODS: Hugh is
+dialog: right.
+speaker_heading: HUGH ALEXANDER (CONT’D)
+dialog: At least give us more time. Six
+dialog: more months, and if the machine
+dialog: doesn’t produce results we’ll go
+dialog: back to doing things the old way.
+speaker_heading: COMMANDER DENNISTON
+dialog: ++. One month. And then so help me
+dialog: God you are all gone.
+dialog: 66.
+text: Denniston and his men LEAVE.
+text: The team breathes a sigh of relief: They’ve been given a
+dialog: temporary reprieve.
+speaker_heading: ALAN TURING
+dialog: Thank you.
+speaker_heading: HUGH ALEXANDER
+dialog: This machine better bloody work.
+speaker_heading: CUT TO:
+scene_heading: INT. MANCHESTER POLICE STATION - DAY - 1951
+text: Sergeant Staehl walks eagerly through the police station.
+text: He comes to an office marked “SUPERINTENDANT SMITH”, where he
+text: OPENS the door to find
+scene_heading: INT. MANCHESTER POLICE STATION - SMITH’S OFFICE - CONTINUOUS
+text: Superintendant Smith and Detective Nock are in the middle of
+text: a genial conversation.
+text: The Superintendant turns to Staehl.
+scene_heading: SUPERINTENDANT SMITH
+dialog: Can I help you?
+speaker_heading: SERGEANT STAEHL
+dialog: Sirs, I think I’ve got him.
+scene_heading: SUPERINTENDANT SMITH
+dialog: Got who?
+speaker_heading: SERGEANT STAEHL
+dialog: Turing.
+text: Detective Nock looks at Staehl — “Shhhh!”
+text: The Superintendant looks at Nock — “You didn’t...”
+speaker_heading: SERGEANT STAEHL (CONT’D)
+dialog: I trailed Turing to a pub last
+text: night, where he met a bloke. They
+dialog: exchanged an envelope. So I
+text: followed the guy, picked him up,
+dialog: gave him a good shake... Here, I’1l
+dialog: show you.
+dialog: 67.
+scene_heading: SUPERINTENDANT SMITH
+dialog: (to Nock, angry)
+dialog: You and I will discuss this later.
+dialog: (to Staehl)
+dialog: Sergeant.
+text: They follow Staehl out to...
+scene_heading: INT. POLICE STATION - INTERROGATION ROOM - MOMENTS LATER
+text: As Nock and Smith stands outside the INTERROGATION ROOM,
+text: Sergeant Staehl points through the window in the door:
+text: Inside is ARNOLD MURRAY, 20s, nervous.
+speaker_heading: SERGEANT STAEHL
+dialog: He’s a bloody poofter. He
+dialog: confessed.
+text: Staehl shows Nock and Smith a SIGNED STATEMENT.
+speaker_heading: DETECTIVE NOCK
+dialog: What?
+speaker_heading: SERGEANT STAEHL
+dialog: The man admitted it. Arnold Murray.
+dialog: Bit of a hustler. Hangs around that
+dialog: pub, men pay him for a go. Turing
+dialog: is one of the men who paid. Only,
+dialog: Mr. Murray got the bright idea to
+text: rob Turing’s house after, with a
+dialog: friend. That’s what Turing was
+dialog: hiding: He’s a poof, not a spy.
+speaker_heading: DETECTIVE NOCK
+dialog: No.
+scene_heading: SUPERINTENDANT SMITH
+dialog: This is good work, Sergeant. Quite
+dialog: good.
+speaker_heading: DETECTIVE NOCK
+dialog: No, it’s not.
+speaker_heading: SERGEANT STAEHL
+dialog: What’s the matter? We can charge a
+dialog: university professor with
+dialog: indecency.
+speaker_heading: DETECTIVE NOCK
+dialog: No. No. This is bloody rubbish.
+dialog: Turing is up to something
+dialog: important, not getting his jollies
+dialog: in some pub.
+dialog: 68.
+scene_heading: SUPERINTENDANT SMITH
+dialog: He committed a crime. He broke the
+dialog: law. And with a bloke, Christ, it’s
+dialog: bloody disgusting.
+speaker_heading: DETECTIVE NOCK
+dialog: I don’t care if it’s disgusting.
+dialog: This is not the investigation I was
+dialog: conducting.
+scene_heading: SUPERINTENDANT SMITH
+dialog: Clearly.
+dialog: (to Staehl)
+dialog: Bring him in.
+speaker_heading: DETECTIVE NOCK
+dialog: Wait. Let me interrogate him.
+scene_heading: SUPERINTENDANT SMITH
+dialog: You’re asking me for a favour right
+dialog: now?
+speaker_heading: DETECTIVE NOCK
+dialog: Please. I know him. I know he’s
+dialog: hiding something and I know I can
+dialog: get him to talk... Give me half an
+dialog: hour alone and then I swear to you
+dialog: I will spend the next month running
+text: errands on as many rubbish cases as
+dialog: you like.
+scene_heading: SUPERINTENDANT SMITH
+dialog: ... Fine. Now will someone get a
+dialog: warrant for the arrest of Alan
+dialog: Turing?
+speaker_heading: CUT TO:
+scene_heading: JOAN’S FLAT - DAY - 1941
+text: Joan comes home to her flat. She looks sad as she puts her
+text: key in the lock and opens the door.
+text: She enters to find:
+text: HUNDREDS OF MATHEMATICAL PAPERS ARE SCATTERED ALL OVER HER
+scene_heading: LIVING ROOM.
+text: She sighs.
+speaker_heading: JOAN CLARKE
+dialog: Alan?
+dialog: 69.
+text: At the sound of her voice, Alan comes out of the wash room,
+text: wiping the shaving cream from his face. He’s moving and
+dialog: talking a mile a minute.
+dialog: Joan sits
+speaker_heading: ALAN TURING
+dialog: Christopher is simply not moving
+dialog: fast enough.
+speaker_heading: JOAN CLARKE
+dialog: We should talk.
+text: down, sadly.
+speaker_heading: ALAN TURING
+dialog: (totally oblivious)
+text: Even with the diagonal board he’s
+dialog: not eliminating settings as quickly
+dialog: as —
+speaker_heading: JOAN CLARKE
+dialog: Alan, I’m leaving.
+speaker_heading: ALAN TURING
+dialog: You just walked in.
+speaker_heading: JOAN CLARKE
+dialog: No. Bletchley.
+speaker_heading: ALAN TURING
+dialog: What?
+speaker_heading: JOAN CLARKE
+dialog: It’s my parents... I am twenty-five
+dialog: and I am unmarried and I am living
+dialog: alone... And they want me home.
+speaker_heading: ALAN TURING
+dialog: That’s ridiculous.
+speaker_heading: JOAN CLARKE
+dialog: That's my parents.
+speaker_heading: ALAN TURING
+dialog: You cannot leave. I won’t let you.
+speaker_heading: JOAN CLARKE
+dialog: “T'll miss you.” That’s what a
+dialog: normal person might say in this
+dialog: situation.
+speaker_heading: ALAN TURING
+dialog: I don’t care what’s normal.
+speaker_heading: JOAN CLARKE
+dialog: “I'll write.” That'd work too.
+dialog: 70.
+speaker_heading: ALAN TURING
+dialog: No. This is unacceptable. You are
+dialog: not leaving and that is that.
+speaker_heading: JOAN CLARKE
+dialog: What am I supposed to do, Alan? I
+dialog: will not give up my parents. The
+text: world is burning to ash and they
+dialog: are my family and they want me
+dialog: home.
+speaker_heading: ALAN TURING
+dialog: You have the opportunity here to
+dialog: make some actual use of your life —
+speaker_heading: JOAN CLARKE
+dialog: — And end up like you? No thanks.
+dialog: I’m sorry you're lonely. I’m sorry
+dialog: no one likes you.
+dialog: But Enigma will not save you. Can
+dialog: you decypher that, you fragile
+dialog: narcissist? Or do you need me to
+dialog: fetch your precious Christopher for
+dialog: help?
+dialog: Silence.
+text: Alan looks like she just slapped him across the face. Which
+dialog: she basically did.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: I’m sorry.
+speaker_heading: ALAN TURING
+dialog: I want you to stay because I like
+dialog: you.
+speaker_heading: JOAN CLARKE
+dialog: I know.
+speaker_heading: ALAN TURING
+dialog: I like talking to you.
+speaker_heading: JOAN CLARKE
+dialog: I like talking to you, too, Alan.
+speaker_heading: ALAN TURING
+dialog: What if you weren’t living alone...
+dialog: If you had a husband?
+speaker_heading: JOAN CLARKE
+dialog: You have one in mind?
+speaker_heading: ALAN TURING
+dialog: I do.
+dialog: 71.
+speaker_heading: JOAN CLARKE
+dialog: Hugh is terribly attractive, I'll
+dialog: give you that, but he’s really not
+dialog: the marrying type.
+speaker_heading: ALAN TURING
+dialog: I wasn’t referring to Hugh.
+speaker_heading: JOAN CLARKE
+dialog: Peter? He’s so quiet...
+text: Alan stares at Joan. She stares back.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: (getting it)
+dialog: Oh dear Lord.
+speaker_heading: ALAN TURING
+dialog: This makes sense.
+speaker_heading: JOAN CLARKE
+dialog: Did you just propose to me?
+speaker_heading: ALAN TURING
+dialog: It’s the logical thing to do.
+speaker_heading: JOAN CLARKE
+dialog: This is ridiculous.
+speaker_heading: ALAN TURING
+dialog: This is your parents.
+speaker_heading: JOAN CLARKE
+dialog: (trying to process)
+dialog: I cannot believe this is happening.
+text: Alan fishes a piece of ELECTRICAL WIRE from his pocket...
+speaker_heading: ALAN TURING
+dialog: Joan Ca... Wait, is your middle
+dialog: mame Caroline or Catherine?
+speaker_heading: JOAN CLARKE
+dialog: Elizabeth.
+speaker_heading: ALAN TURING
+dialog: Joan Elizabeth Clarke, will you
+dialog: marry me?
+text: wee And then FASHIONS IT INTO A RING.
+text: ON JOAN'S FACE: What’s she going to do?
+scene_heading: SMASH CUT TO:
+dialog: 72.
+scene_heading: INT. BLETCHLEY PARK - BEER HUT - NIGHT
+text: An impromptu ENGAGEMENT PARTY in the Beer Hut that night:
+text: — A BANNER made from PUNCH CARDS reads: “CONGRATULATIONS!”
+text: — Music plays as DANCERS TWIRL in the center of the Hut.
+text: — Joan LAUGHS with her WREN FRIENDS in one corner, while in
+text: another Alan drinks beer with his team.
+text: ON JOAN AND THE GIRLS: She shows off her makeshift wire
+dialog: engagement ring:
+speaker_heading: JOAN'S FRIEND
+dialog: (trying her best)
+dialog: «+. It’s... beautiful?
+text: Joan LAUGHS. She understands.
+speaker_heading: JOAN CLARKE
+dialog: I know it’s not an ordinary ring..
+text: She looks over at Alan warmly.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: ++. But who ever loved ordinary?
+text: ON ALAN AND THE BOYS: They’re are all a bit drunk, TELLING
+scene_heading: DIRTY STORIES:
+speaker_heading: HUGH ALEXANDER
+dialog: ».. So she’s got it in her hands,
+text: right, and she looks up at me and
+dialog: says, “I’m to put it in my mouth?”
+dialog: And I say, “yes, you know. The
+dialog: French way.” So she pops it in,
+text: closes her lips around the thing...
+text: And then she starts humming the
+dialog: bloody Marseillaise!
+text: The men BURST INTO LAUGHTER.
+text: Except for Alan, who looks a bit confused.
+speaker_heading: PETER HILTON
+dialog: (to Alan)
+dialog: What about you and Joan? Does she
+dialog: do it the French way?
+text: Alan looks away, uncomfortable.
+speaker_heading: HUGH ALEXANDER
+dialog: Soon enough, you lucky bastard.
+dialog: Just then,
+dialog: 73.
+text: Joan comes over and throws an affectionate arm
+dialog: around Alan.
+dialog: Hugh takes
+speaker_heading: JOAN CLARKE
+dialog: Care for a dance?
+speaker_heading: HUGH ALEXANDER
+dialog: No no, your fiancé can dance with
+dialog: you anytime he likes. Now it’s my
+dialog: turn.
+text: Joan's hand, and leads her across the room. They
+text: begin to DANCE, while Peter follows, dancing with one of
+dialog: Joan’s friends.
+text: Alan and John are left alone at the table.
+dialog: Alan looks
+dialog: Alan looks
+dialog: worried.
+speaker_heading: JOHN CAIRNCROSS
+dialog: What’s the matter?
+speaker_heading: ALAN TURING
+dialog: ++». What if I don’t fancy... being
+dialog: with Joan in that way?
+speaker_heading: JOHN CAIRNCROSS
+dialog: Because you’re a homosexual?
+text: at him, surprised.
+speaker_heading: JOHN CAIRNCROSS (CONT'D)
+dialog: I suspected. You’re not quite as
+dialog: much of an enigma as you think you
+dialog: are. Or as much as Enigma is.
+speaker_heading: ALAN TURING
+dialog: Should I tell Joan? I’ve had
+dialog: affairs. With other men.
+speaker_heading: JOHN CAIRNCROSS
+dialog: You know, in my admittedly limited
+dialog: experience, women tend to be a bit
+dialog: touchy about accidentally marrying
+dialog: homosexuals. I think perhaps not
+dialog: spreading this information around
+dialog: might be in your best interest.
+speaker_heading: ALAN TURING
+dialog: Having children, a family... I want
+dialog: that with her. I do. I just don’t
+dialog: know if I can... Pretend...
+dialog: 74.
+speaker_heading: JOHN CAIRNCROSS
+dialog: You can’t tell anyone, Alan. It’s
+dialog: illegal. And Denniston is looking
+dialog: for any excuse he can get to put
+dialog: you away.
+speaker_heading: ALAN TURING
+dialog: ++. I know.
+speaker_heading: JOHN CAIRNCROSS
+dialog: This has to stay a secret, or trust
+dialog: me, they’ll kill you for it.
+dialog: ON ALAN: He knows John is right.
+text: As Alan thinks, Joan comes back over and offers him her hand.
+speaker_heading: JOAN CLARKE
+dialog: Come on, now it’s your turn.
+text: She leads him to the dance floor.
+text: As they START TO DANCE, chastely, sweetly, WE
+speaker_heading: CUT TO:
+scene_heading: INT. SHERBORNE SCHOOL FOR BOYS - ALAN’S ROOM - DAY - 1927
+text: CLOSE ON A LETTER: “I LOVE YOU” is written on the paper.
+text: REVEAL: Young Alan sits in his dormitory room, ENCRYPTING his
+dialog: love letter to Christopher.
+text: Slowly, letter by letter, Alan transforms “I LOVE YOU” into
+dialog: code...
+text: Hearing a commotion, Alan LOOKS OUT THE WINDOW:
+text: BOYS are being unloaded from a BUS at the gates, dropped off
+dialog: to begin the new spring term.
+text: Alan sees them all, excited: Christopher is coming back!
+text: He STUFFS HIS ENCRYPTED LETTER IN AN ENVELOPE and RUNS OFF to
+scene_heading: EXT. SHERBORNE SCHOOL FOR BOYS - FRONT GATES - MINUTES LATER
+text: Alan waits eagerly by the main gate as BOYS STREAM PAST —
+text: — Joking, horsing around —
+text: — Alan waits patiently, looking for Christopher’s face among
+text: the rowdy schoolboys —
+dialog: 75.
+dialog: — Until: They’re all gone.
+text: Christopher never shows.
+text: Alan looks at his undelivered note, then at the empty yard
+text: before him.
+dialog: Where is Christopher?
+text: Confused, Young Alan finally gives up...
+text: ++. When he runs into the PACK OF BOYS who beat him up
+dialog: earlier.
+speaker_heading: BOY #1
+dialog: Well look. Mr. Turing is all alone.
+text: Young Alan stands frozen as they come at him, and we
+speaker_heading: CUT TO:
+scene_heading: INT. MANCHESTER POLICE STATION - INTERROGATION ROOM - 1951
+text: Alan Turing sits alone in the interrogation room with his
+text: eyes closed.
+text: Detective Nock enters.
+speaker_heading: DETECTIVE NOCK
+dialog: Cup of tea?
+speaker_heading: ALAN TURING
+dialog: (eyes closed)
+dialog: Thanks, no.
+speaker_heading: DETECTIVE NOCK
+dialog: ++. Mr. Turing, may I tell you a
+dialog: secret?
+speaker_heading: ALAN TURING
+dialog: I’m quite good with those.
+speaker_heading: DETECTIVE NOCK
+dialog: I’m here to help you.
+text: Suddenly, Alan opens his eyes.
+speaker_heading: ALAN TURING
+dialog: (re: being in jail)
+dialog: Clearly.
+speaker_heading: DETECTIVE NOCK
+dialog: (changing tacks)
+dialog: Can machines think?
+dialog: 76.
+speaker_heading: ALAN TURING
+dialog: You've read my published work.
+speaker_heading: DETECTIVE NOCK
+dialog: What makes you say that?
+speaker_heading: ALAN TURING
+dialog: Because I’m sitting in a police
+text: station, accused of entreating a
+dialog: young man to touch my penis, and
+dialog: you’re asking me whether machines
+dialog: can think.
+speaker_heading: DETECTIVE NOCK
+dialog: Can they? Could machines ever think
+dialog: as human beings do?
+speaker_heading: ALAN TURING
+dialog: Most people say no.
+speaker_heading: DETECTIVE NOCK
+dialog: You're not most people.
+speaker_heading: ALAN TURING
+dialog: The problem is that you’re asking a
+dialog: stupid question.
+speaker_heading: DETECTIVE NOCK
+dialog: I am?
+speaker_heading: ALAN TURING
+dialog: Of course machines can’t think “as
+text: human beings do.” A machine is
+dialog: different from a human being;
+dialog: hence, it would think differently.
+dialog: The interesting question is, just
+dialog: because something thinks
+dialog: differently from you, does that
+dialog: mean it’s not thinking? We allow
+dialog: that humans have such divergences
+dialog: from one another. You like
+dialog: strawberries. I hate ice-skating.
+dialog: You cry at sad films. I’m allergic
+dialog: to pollen. What does it mean to
+dialog: have different tastes — different
+dialog: preferences — other than to say
+dialog: that our brains work differently?
+dialog: That we think differently from one
+dialog: another? And if we can say that
+dialog: about each another, why can’t we
+dialog: say the same for brains made of
+dialog: copper and steel?
+speaker_heading: DETECTIVE NOCK
+dialog: That’s... This big paper you
+dialog: wrote... What’s it called?
+dialog: 77.
+speaker_heading: ALAN TURING
+dialog: “The Imitation Game.”
+speaker_heading: DETECTIVE NOCK
+dialog: Right. That’s what it’s about?
+speaker_heading: ALAN TURING
+dialog: (thinking)
+dialog: ++. Would you like to play?
+speaker_heading: DETECTIVE NOCK
+dialog: Play?
+speaker_heading: ALAN TURING
+dialog: The game. It’s a test, of sorts.
+dialog: For determining whether something
+dialog: is a machine, or a human being.
+speaker_heading: DETECTIVE NOCK
+dialog: How do we play?
+speaker_heading: ALAN TURING
+dialog: There's a judge, and a subject. The
+dialog: judge asks questions, and based on
+dialog: the subject’s answers, he
+dialog: determines: Who is he speaking
+dialog: with? What is he speaking with? All
+dialog: you have to do is ask me a
+dialog: question.
+speaker_heading: DETECTIVE NOCK
+dialog: ++. What did you do during the war?
+speaker_heading: ALAN TURING
+dialog: I worked in a radio factory.
+speaker_heading: DETECTIVE NOCK
+dialog: What did you really do during the
+dialog: war?
+text: Alan smiles — Detective Nock is smarter than he looks.
+speaker_heading: ALAN TURING
+dialog: ++. Are you paying attention?
+scene_heading: INT. BLETCHLEY PARK - HUT 11 - NIGHT - 1942
+text: Alan and his team — Hugh, John, Peter — anxiously stand
+text: before Alan’s huge machine as it CLACK CLACK CLACKS,
+text: ferociously loud.
+text: The gears are spinning, current is flowing through the wires,
+text: and the team stares at it, taking turns compulsively checking
+dialog: their watches.
+dialog: 78.
+dialog: ON ALAN: This is going to work. This has to work.
+dialog: Suddenly...
+text: DING. The chime announces the stroke of midnight.
+speaker_heading: HUGH ALEXANDER
+dialog: Damn it!
+text: Everyone is pissed, frustrated.
+text: Alan looks as if he’s about to rip his own hair out: Why
+dialog: won’t this damned thing work?
+text: As the machine CLACKS on, oblivious, they all walk outside:
+scene_heading: EXT. BLETCHLEY PARK - NEAR HUT 11 - CONTINUOUS
+text: The team walks across Bletchley together, moving as one
+text: through the most highly secret war zone in the world.
+text: MORE SECURITY has been added throughout the park, including
+text: along the path from Hut 11 — ARMED GUARDS check IDs, which
+text: the team hands over absentmindedly.
+speaker_heading: JOHN CAIRNCROSS
+dialog: We’re soon out of time. Our
+dialog: month...
+speaker_heading: PETER HILTON
+dialog: So that’s it then. We lost.
+speaker_heading: HUGH ALEXANDER
+dialog: It does not matter how much we
+dialog: improve on it, that machine will
+dialog: never be able to check 159 million
+dialog: million million possibilities in
+dialog: time.
+speaker_heading: ALAN TURING
+dialog: It’s searching... It’s just... It
+dialog: doesn’t know what it’s searching
+dialog: for... If only we knew what the
+dialog: messages were going to say...
+speaker_heading: JOHN CAIRNCROSS
+dialog: If we knew what the messages were
+dialog: going to say, we wouldn’t have to
+dialog: decrypt them at all.
+dialog: ON ALAN: Maybe it was always impossible after all.
+dialog: 79.
+scene_heading: INT. BLETCHLEY PARK - BEER HUT - LATER
+text: It’s crowded in the beer hut, even this late at night.
+text: On one side of the room, Alan, Hugh, John, and Peter are
+text: drinking. Commiserating about their fate.
+text: On the other side, Joan is drinking with her friend HELEN — a
+dialog: fellow WREN.
+scene_heading: ON JOAN AND HELEN:
+speaker_heading: HELEN
+dialog: Who’s Alan’s friend?
+speaker_heading: JOAN CLARKE
+dialog: Hugh? Bit of a cad, actually.
+speaker_heading: HELEN
+dialog: So my type then?
+speaker_heading: JOAN CLARKE
+dialog: Here, I’1ll introduce you.
+speaker_heading: HELEN
+dialog: No! Lord, engaged for a fortnight
+dialog: and you’ve already forgotten how to
+dialog: do this? He’ll come over.
+speaker_heading: JOAN CLARKE
+dialog: Are you sure?
+speaker_heading: HELEN
+dialog: Yes. I smiled at him fifteen
+dialog: minutes ago and haven’t looked at
+dialog: him since.
+scene_heading: ON HUGH, ALAN, JOHN, AND PETER:
+text: Hugh is looking at the girls.
+speaker_heading: HUGH ALEXANDER
+dialog: (re: Helen)
+dialog: Who's that, then?
+speaker_heading: ALAN TURING
+dialog: Helen? Works with Joan in the
+text: WREN’s hut.
+speaker_heading: PETER HILTON
+dialog: You do have a point about the
+dialog: little hats.
+speaker_heading: HUGH ALEXANDER
+dialog: She wants me to come over.
+dialog: 80.
+speaker_heading: ALAN TURING
+dialog: How can you possibly know that?
+speaker_heading: HUGH ALEXANDER
+dialog: She smiled at me awhile back and
+dialog: hasn’t looked again since.
+scene_heading: ON JOAN AND HELEN:
+speaker_heading: HELEN
+dialog: (cre: Hugh’s glances)
+dialog: And... Got him.
+speaker_heading: JOAN CLARKE
+dialog: Is it odd that when I was single
+dialog: this game felt tedious, but now it
+dialog: seems just dreadfully fun?
+text: ON THE BOYS:
+speaker_heading: HUGH ALEXANDER
+dialog: (ve: Helen’s glances)
+dialog: And... Brilliant. She’s in. Alan,
+dialog: introduce me.
+speaker_heading: ALAN TURING
+dialog: Why me?
+speaker_heading: HUGH ALEXANDER
+dialog: Because there is nothing like a
+dialog: friend’s engagement to make a woman
+dialog: want to do something she will later
+dialog: regret with the fiancé’s better-
+dialog: looking chum.
+text: Hugh drags Alan across the pub to Helen and Joan.
+scene_heading: ON JOHN AND PETER:
+speaker_heading: JOHN CAIRNCROSS
+dialog: Half crown says Alan bollockses
+dialog: this up entirely.
+speaker_heading: PETER HILTON
+dialog: No bet.
+scene_heading: ON HUGH, ALAN, JOAN, AND HELEN:
+speaker_heading: HUGH ALEXANDER
+dialog: (to the ladies)
+dialog: Alan Turing has a theory.
+speaker_heading: JOAN CLARKE
+dialog: He has many.
+dialog: 81.
+speaker_heading: HUGH ALEXANDER
+dialog: He believes that the regulations
+dialog: against men and women working side-
+dialog: by-side are sound, because such
+dialog: proximity will necessarily lead to
+dialog: romance.
+speaker_heading: ALAN TURING
+dialog: No I don’t —
+text: Hugh KICKS Alan, who shuts up.
+dialog: Hugh looks
+dialog: Joan picks
+speaker_heading: HUGH ALEXANDER
+dialog: — However, I disagree.
+speaker_heading: HELEN
+dialog: You do?
+speaker_heading: HUGH ALEXANDER
+dialog: I think that if I were working
+dialog: beside a woman all day long, I
+dialog: could manage to appreciate her
+dialog: abilities and intellect without
+text: needing to take her to bed.
+dialog: (to Helen)
+dialog: Pardon, have we met?
+speaker_heading: HELEN
+dialog: I don’t recall. But let’s assume we
+dialog: haven't.
+text: at Alan for an introduction: Alan is silent.
+dialog: up the slack:
+speaker_heading: JOAN CLARKE
+dialog: Helen Stewart, Hugh Alexander.
+speaker_heading: HUGH ALEXANDER
+dialog: So who do you agree with? Alan or
+dialog: myself?
+speaker_heading: HELEN
+dialog: Well, Alan, of course.
+speaker_heading: ALAN TURING
+dialog: I’m flattered, but this is not
+dialog: actually —
+text: Now Joan KICKS Alan, who is still very confused.
+speaker_heading: HUGH ALEXANDER
+dialog: — Rubbish.
+dialog: 82.
+speaker_heading: HELEN
+dialog: I work beside a man every day, and
+dialog: I can’t help but have developed a
+text: bit of a crush on him.
+speaker_heading: HUGH ALEXANDER
+dialog: Well who is this man, so I can kick
+dialog: his arse?
+speaker_heading: HELEN
+dialog: Oh, it’s been chaste, you've no
+dialog: need to worry. We’ve never even
+dialog: met. He’s a German.
+speaker_heading: HUGH ALEXANDER
+dialog: Now I really want to kill him.
+speaker_heading: ALAN TURING
+dialog: How do you mean you work alongside
+dialog: a German?
+speaker_heading: HELEN
+dialog: Each of us intercepts messages from
+text: a specific German radio tower. So
+dialog: we've a counterpart on the other
+text: side, who’s tip-tapping out the
+dialog: messages. Everybody types a touch
+dialog: differently; you get to know the
+dialog: rhythm of your counterpart. It’s
+dialog: strangely intimate. I feel as if we
+dialog: know each other. Pity he has a
+dialog: girlfriend... But that’s why I
+dialog: disagree with you. I’m in love with
+dialog: a co-worker, of sorts, even if
+dialog: we've never met.
+speaker_heading: HUGH ALEXANDER
+dialog: I’ll require another pint to tell
+dialog: you why you’re wrong.
+speaker_heading: HELEN
+dialog: Let's.
+text: Helen and Hugh walk away to the bar...
+speaker_heading: JOAN CLARKE
+dialog: (to Alan)
+dialog: That’s what flirting looks like. In
+dialog: case you were curious.
+text: But Alan is lost in thought...
+dialog: Something is wrong...
+speaker_heading: ALAN TURING
+dialog: (screaming)
+dialog: HELEN!!!
+text: Everyone in the room turns and stares at him.
+text: Joan winces.
+text: Helen and Hugh come back over.
+speaker_heading: HELEN
+dialog: Yes, Alan?
+speaker_heading: ALAN TURING
+dialog: Why do you think your German
+dialog: counterpart has a girlfriend?
+speaker_heading: HELEN
+dialog: Oh, it’s a stupid joke, don’t worry
+dialog: about it.
+speaker_heading: ALAN TURING
+dialog: Tell me.
+speaker_heading: HELEN
+text: Each one of his messages begins
+dialog: with the same five letters. C-I-L-L-
+dialog: Y. So I suspect Cilly must be the
+dialog: name of his amore.
+speaker_heading: ALAN TURING
+dialog: That’s impossible. The Germans are
+dialog: instructed to choose five letters
+text: at random to start every message.
+speaker_heading: HELEN
+dialog: Well, this bloke doesn’t.
+speaker_heading: HUGH ALEXANDER
+dialog: Love’l1l make a man do strange
+dialog: things, I suppose. Anyhow —
+speaker_heading: ALAN TURING
+dialog: — In this case, love just lost the
+dialog: Germans the whole bloody war.
+text: Alan BOLTS out of the bar —
+text: — SPILLING BEER ALL OVER HELEN —
+text: — Who CRIES OUT, and ANGRILY RUNS OFF —
+text: — Leaving Hugh and Joan standing there, confused.
+text: They share a look: What’s gotten into Alan?
+text: Joan quickly RUNS OFF after Alan —
+text: — Hugh follows suit —
+dialog: 83.
+dialog: 84.
+text: — And John and Peter, seeing this across the room, take off
+dialog: after Hugh —
+scene_heading: EXT. BLETCHLEY PARK - CONTINUOUS - SEQUENCE
+text: Everyone chases Alan across Bletchley Park —
+text: — GUARDS YELL at Alan as he bypasses security checkpoints —
+text: — Guards are screaming at them, drawing guns as he and Joan
+dialog: barrel into Hut 8 —
+text: — Hugh and John show their IDs to the Guards, yelling back at
+dialog: them —
+text: — Hugh and John finally get rid of the guards and enter:
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - CONTINUOUS
+text: — Joan runs into the Hut to find that Alan has grabbed a BOX
+scene_heading: OF PREVIOUSLY DECRYPTED MESSAGES —
+text: — Alan POURS those messages out all over the floor —
+speaker_heading: JOAN CLARKE
+dialog: Alan?
+text: — Hugh, John, and Peter enter as Alan spreads the messages
+text: out on the floor. (Just like he did in Joan’s flat!)
+speaker_heading: ALAN TURING
+dialog: What if Christopher doesn’t have to
+dialog: search through all the settings?
+dialog: What if he only had to search the
+dialog: ones that produce the words we
+dialog: already know will be in the
+dialog: message?
+speaker_heading: HUGH ALEXANDER
+dialog: Repeated words! Predictable
+dialog: words...
+dialog: — They all search the messages with Alan —
+text: — Joan holds up a DECRYPT: It’s the same one she read
+dialog: earlier.
+speaker_heading: JOAN CLARKE
+dialog: Like this?
+dialog: (reading aloud)
+dialog: “0600 hours. Weather today is
+text: clear. Rain in the evening. Heil
+dialog: Hitler.”
+dialog: 85.
+speaker_heading: ALAN TURING
+dialog: Yes! That’s it!
+dialog: (looking at message)
+text: They send a weather report at 6AM.
+dialog: Every day. That means there are
+dialog: three words we already know will be
+dialog: in the 6am message. “Weather,”
+dialog: obviously, and —
+speaker_heading: HUGH ALEXANDER
+dialog: “Heil bloody Hitler.”
+speaker_heading: ALAN TURING
+dialog: Heil bloody Hitler.
+text: Joan searches through a PILE, finding:
+speaker_heading: JOAN CLARKE
+dialog: Here’s the 6 o’clock message from
+dialog: this morning.
+text: Joan holds the message as they all run out to:
+scene_heading: EXT. BLETCHLEY PARK - HUT 8 - CONTINUOUS
+text: Alan runs from Hut 8 to Hut 11, the team chasing behind him.
+scene_heading: INT. BLETCHLEY PARK - HUT 11 - CONTINUOUS
+text: Alan, Joan, John, Peter and Hugh burst in —
+speaker_heading: ALAN TURING
+text: Hugh — the right hand letter-rings.
+dialog: Set them to —
+speaker_heading: HUGH ALEXANDER
+dialog: — I know, I know. “Veter.”
+dialog: “Hitler.”
+text: — Hugh turns the rings while —
+speaker_heading: ALAN TURING
+dialog: — Peter, John — Run voltage from
+text: those rings through the back
+text: scramblers —
+text: — John and Peter go around back —
+speaker_heading: JOHN CAIRNCROSS
+dialog: — So we'll use the loops?
+dialog: 86.
+speaker_heading: ALAN TURING
+dialog: — Yes. Joan, what’s the last 6am
+dialog: message?
+text: Joan reads aloud to Alan as he enters it in:
+speaker_heading: JOAN CLARKE
+scene_heading: L-H-W-A-U-Q-X-kK...
+text: They all stand back as Alan TURNS ON the machine.
+text: They watch the CLACK CLACK CLACK of Christopher as he
+dialog: processes the message...
+text: — They’re nervous, fretting, anxiously awaiting his
+dialog: calculations...
+text: Finally, Christopher STOPS.
+text: Silence, as a SERIES OF ROTORS on the side of Christopher
+text: snap into place, displaying a SET OF LETTERS.
+speaker_heading: PETER HILTON
+dialog: What happened? Did it work?
+text: Alan SCRIBBLES down the letters ("EXBAO...”) and they all run
+dialog: back to —
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - CONTINUOUS
+text: Where Alan takes a DUMMY ENIGMA MACHINE, turns the machine’s
+text: rotors to the setting he wrote down ("EXBAO...”) —
+speaker_heading: ALAN TURING
+dialog: Give me a fresh message. The last
+dialog: one we intercepted.
+text: Peter hands Alan one from a nearby folder —
+text: — Alan starts typing one of today’s gibberish encrypted
+dialog: messages into Enigma —
+text: — As John TAKES DOWN the decoded German letters —
+text: — Hugh looks at what John is writing and TRANSLATES the
+dialog: German into English —
+speaker_heading: HUGH ALEXANDER
+dialog: “KMS Jaguar... Is auf punkt —- is
+dialog: directed - 53 degrees, 24 minutes
+dialog: north... And auf punkt 1 degree
+dialog: west...”
+dialog: 87.
+scene_heading: HUGH ALEXANDER (CONT’D) ALAN TURING
+dialog: “,.. Heil Hitler.” “,.. Heil Hitler.”
+text: Alan and Hugh look at each other: Oh my god.
+speaker_heading: ALAN TURING
+dialog: Turns out that’s the only German
+dialog: you need to know to break Enigma.
+text: The team EXPLODES WITH JOY.
+text: LAUGHING, HOOTING, SCREAMING, JUMPING, HUGGING.
+text: This is the happiest moment of their lives.
+text: John even starts to TEAR UP, and TRIES TO HUG ALAN —
+text: — Who just STANDS THERE, limp.
+speaker_heading: JOHN CAIRNCROSS
+dialog: (re: Alan)
+dialog: Not a hugger. Probably could have
+dialog: guessed that.
+scene_heading: EXT. BLETCHLEY PARK - DAWN
+text: Dawn rises over Bletchley Park.
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - DAWN
+text: The team has been there working all through the night.
+text: There’s a flurry of activity: Decoding messages, translating
+text: the decrypts, reading the information contained within.
+text: Hugh steps back for a moment to look at the product of their
+text: work: A BIG MAP ON THE WALL.
+text: ON THE MAP: It’s the Atlantic Ocean. Blue pins represent the
+text: Allied ships, red ones represent the Axis ships.
+speaker_heading: HUGH ALEXANDER
+dialog: You did it.
+dialog: (turns to Alan)
+dialog: Bloody hell, you did it. You just
+text: defeated Nazism with a crossword
+dialog: puzzle. What does it feel like to
+dialog: do the impossible?
+text: ON ALAN’S FACE: He’s not sure. Something is bothering him,
+text: but he can’t figure out what.
+text: John steps back from his work to join Hugh.
+dialog: 88.
+speaker_heading: JOHN CAIRNCROSS
+dialog: There are five people in the world
+dialog: who know the position of every ship
+text: in the Atlantic. They are all in
+dialog: this room.
+text: Now Joan joins Hugh and John in seeing the full map for the
+dialog: first time.
+dialog: Hugh picks
+speaker_heading: Hugh DIALS
+speaker_heading: JOAN CLARKE
+dialog: Oh my good God.
+speaker_heading: HUGH ALEXANDER
+dialog: I don’t think even He has the power
+dialog: that we do right now.
+speaker_heading: JOAN CLARKE
+dialog: (getting closer to map)
+dialog: There’s going to be an attack on a
+text: British passenger convoy. There.
+speaker_heading: JOHN CAIRNCROSS
+dialog: You’re right. Those U-Boats are
+text: only twenty or thirty minutes away.
+speaker_heading: JOAN CLARKE
+dialog: Civilians. Hundreds of them. We can
+dialog: save their lives.
+speaker_heading: JOHN CAIRNCROSS
+dialog: And knock out a whole German fleet
+text: in the process.
+speaker_heading: HUGH ALEXANDER
+dialog: I’ll call Denniston. Have him radio
+text: his Admirals immediately.
+dialog: up the phone —
+speaker_heading: ALAN TURING
+dialog: (figuring something out)
+dialog: No.
+speaker_heading: JOAN CLARKE
+dialog: Is there enough time to save them?
+speaker_heading: JOHN CAIRNCROSS
+dialog: Should be. If we can get a message
+text: to the passenger convoy, she can
+dialog: turn —
+dialog: 89.
+speaker_heading: ALAN TURING
+dialog: (louder)
+dialog: No. No.
+speaker_heading: HUGH ALEXANDER
+dialog: (into phone)
+dialog: — Commander Denniston’s office —
+speaker_heading: ALAN TURING
+dialog: NO.
+speaker_heading: HUGH ALEXANDER
+dialog: (into phone)
+dialog: — This is urgent, top priority —
+speaker_heading: ALAN TURING
+dialog: NO!!!
+text: Alan LEAPS ACROSS THE ROOM and GRABS THE PHONE FROM HUGH.
+speaker_heading: HUGH ALEXANDER
+dialog: What the bloody hell?
+text: Hugh tries to grab the phone back —
+text: — But Alan pulls away sharply.
+text: Everyone STOPS. Turns. Looks at Alan.
+speaker_heading: HUGH ALEXANDER (CONT’D)
+dialog: Are you mad?
+speaker_heading: ALAN TURING
+dialog: No. No. You can’t call Denniston.
+dialog: You can’t tell him about the
+dialog: attack.
+speaker_heading: JOAN CLARKE
+dialog: Alan, are you all right? What’s
+dialog: going on?
+speaker_heading: JOHN CAIRNCROSS
+dialog: We can have air support over the
+text: passenger convoy in ten minutes.
+speaker_heading: ALAN TURING
+dialog: No. Let the U-Boats sink the
+dialog: convoy.
+speaker_heading: JOHN CAIRNCROSS
+dialog: Look, this has been a big day,
+dialog: maybe you’re going through a bit of
+dialog: shock —
+speaker_heading: HUGH ALEXANDER
+dialog: — There’s no time for this.
+dialog: 90.
+text: Hugh tries to GRAB THE PHONE from Alan —
+text: = but Alan PULLS it away and SMASHES THE PHONE AGAINST THE
+speaker_heading: GROUND.
+speaker_heading: JOAN CLARKE
+dialog: Alan!
+dialog: Hugh can’t take it anymore —
+text: — He TAKES A SWING AT ALAN —
+text: — Who CRUMPLES AT THE BLOW ON HIS JAW —
+text: — Hugh stares down at Alan, who’s bleeding on the floor —
+text: — Hugh WINDS UP FOR ANOTHER PUNCH —
+text: — When Joan CATCHES HIS ARM mid-swing —
+text: — Surprised, Hugh instinctively SWINGS AT HER —
+text: — Smacking Joan hard across the face.
+text: — He’s stunned by what he’s done as she responds by PUSHING
+text: HIM INTO A TABLE —
+text: — And Hugh falls to the floor, next to Alan.
+text: Joan stands above them.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: (to Hugh)
+dialog: If you hurt him, you will just
+text: barely live to regret it.
+text: Silence. Just the sounds of panting.
+speaker_heading: JOHN CAIRNCROSS
+dialog: Everyone stop. Please. Calm down.
+speaker_heading: PETER HILTON
+dialog: The attack is in minutes. We don’t
+dialog: have time to calm down.
+speaker_heading: ALAN TURING
+dialog: Do you know why people like
+dialog: violence, Hugh? Because it feels
+dialog: good.
+dialog: (wipes blood from his
+dialog: nose)
+dialog: It would feel good to blow those U-
+text: Boats out of the Atlantic. But
+dialog: sometimes we can’t do what feels
+dialog: good. We have to do what’s logical.
+dialog: 91.
+speaker_heading: JOHN CAIRNCROSS
+dialog: What’s logical?
+speaker_heading: ALAN TURING
+dialog: The hardest time to lie is when the
+dialog: other person is expecting to be
+dialog: lied to.
+speaker_heading: JOAN CLARKE
+dialog: (getting it)
+dialog: Oh my God.
+speaker_heading: JOHN CAIRNCROSS
+dialog: What?
+speaker_heading: ALAN TURING
+dialog: If they’re waiting for a lie, you
+dialog: can’t just give them one.
+speaker_heading: JOAN CLARKE
+dialog: Oh my God. Damn it. Alan’s right.
+speaker_heading: PETER HILTON
+dialog: What?!?
+speaker_heading: ALAN TURING
+dialog: What will the Germans think if we
+dialog: destroy those U-Boats?
+speaker_heading: PETER HILTON
+dialog: Nothing. They’ll be dead.
+speaker_heading: JOHN CAIRNCROSS
+dialog: (getting it)
+dialog: No. No. You can’t be right.
+speaker_heading: PETER HILTON
+dialog: Am I the only one who’s still not
+dialog: getting this?
+speaker_heading: ALAN TURING
+text: Suddenly our convoy veers off
+text: course and a fleet of RAF bombers
+text: magically descends on the location
+dialog: of a pack of U-Boats? What will the
+dialog: Germans think?
+speaker_heading: PETER HILTON
+dialog: Hugh?
+speaker_heading: HUGH ALEXANDER
+dialog: The Germans will know we broke
+dialog: Enigma.
+speaker_heading: JOAN CLARKE
+dialog: They'll put a halt on radio
+dialog: communication by noon.
+speaker_heading: (MORE )
+dialog: 92.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: And they’ll have the design of
+dialog: Enigma changed by the weekend.
+speaker_heading: ALAN TURING
+dialog: Two years of work. Everything we’ve
+dialog: done here. It’1ll all be for
+dialog: nothing.
+speaker_heading: JOHN CAIRNCROSS
+dialog: There are 500 people in that
+dialog: convoy. Civilians. Women. Children.
+dialog: We're about to let them die.
+speaker_heading: ALAN TURING
+dialog: Our job wasn’t to save one
+dialog: passenger convoy. It was to win the
+dialog: war.
+speaker_heading: HUGH ALEXANDER
+dialog: Our job was to break Enigma.
+speaker_heading: ALAN TURING
+dialog: Done. Now for the hard part:
+dialog: keeping it a secret. Forever.
+text: Peter looks at the map...
+speaker_heading: PETER HILTON
+dialog: It’s the Carlisle.
+text: They all look at him.
+speaker_heading: JOAN CLARKE
+dialog: What?
+speaker_heading: PETER HILTON
+dialog: The convoy you’re about to...
+dialog: It’s... The HMS Carlisle is one of
+dialog: the ships.
+speaker_heading: ALAN TURING
+dialog: So?
+speaker_heading: PETER HILTON
+dialog: We can’t act on every piece of
+dialog: intelligence? Fine. We won’t. Just
+dialog: this one. The Germans won’t find us
+dialog: out if we stop one attack.
+speaker_heading: JOAN CLARKE
+dialog: What’s gotten into you, Peter?
+speaker_heading: PETER HILTON
+dialog: ++. My brother. Phillip. He’s on
+text: the Carlisle. Gunnery ensign.
+dialog: 93.
+dialog: Silence. Fuck.
+speaker_heading: ALAN TURING
+dialog: I’m sorry.
+speaker_heading: PETER HILTON
+dialog: Who the hell do you think you are?
+dialog: This is my brother. My big brother.
+dialog: He was the only one — Look, he was
+dialog: there after my mum — He’s my big
+dialog: brother, alright, and you have a
+text: few minutes to call off his murder.
+speaker_heading: ALAN TURING
+dialog: It’s not my fault.
+speaker_heading: Peter DIVES for Alan —
+text: — But John stops him.
+speaker_heading: JOHN CAIRNCROSS
+dialog: Alan is right. We can’t.
+speaker_heading: PETER HILTON
+dialog: AND WHY THE BLOODY HELL NOT? I am
+dialog: begging you. Alan. Joan. Hugh.
+dialog: John. Please. I am begging you.
+dialog: Just this once. Just one time. The
+dialog: Germans won’t get suspicious just
+dialog: because we stopped one attack. It’s
+dialog: one time. No one will know. I’m
+dialog: asking you. As your friend. If I
+dialog: mean anything to you. Please.
+dialog: Silence. This is the hardest thing anyone in this room has
+dialog: ever had to do.
+speaker_heading: ALAN TURING
+dialog: I’m so sorry.
+speaker_heading: PETER HILTON
+dialog: You’re not God, Alan. You don’t get
+dialog: to decide who lives and who dies.
+speaker_heading: ALAN TURING
+dialog: Yes, we do.
+speaker_heading: PETER HILTON
+dialog: Why? Why?
+speaker_heading: ALAN TURING
+dialog: Because no one else can.
+dialog: 94.
+scene_heading: INT. TRAIN - DAY
+text: Alan and Joan ride the train from Bletchley into London.
+dialog: They know what they have to do.
+scene_heading: EXT. TRAIN STATION - DAY
+text: Alan and Joan exit the train and walk down the platform.
+scene_heading: INT. TEA SHOP - LONDON - DAY
+text: In a quiet TEA SHOP, Alan, Joan, and Stewart Menzies sip
+text: their Twinings. Outside the GLASS WINDOWS, NURSES help
+text: WOUNDED SOLDIERS out of an AMBULANCE and into a local
+speaker_heading: HOSPITAL.
+speaker_heading: STEWART MENZIES
+dialog: Why are you telling me this?
+speaker_heading: ALAN TURING
+dialog: We need your help to keep this from
+dialog: the Admiralty. Army. RAF. No one
+dialog: can know we broke Enigma, not even
+dialog: Denniston.
+speaker_heading: STEWART MENZIES
+dialog: Who is in the process of having you
+dialog: fired.
+speaker_heading: JOAN CLARKE
+dialog: You'll take care of that.
+speaker_heading: ALAN TURING
+dialog: While we develop a system for
+dialog: determining how much intelligence
+dialog: to act on. Which attacks to stop,
+dialog: which to let through. Statistical
+dialog: analysis. The minimum number of
+dialog: actions it’ll take to win the war,
+dialog: but the maximum number we're able
+dialog: to take before the Germans get
+dialog: suspicious.
+speaker_heading: STEWART MENZIES
+dialog: You’re going to trust this all to
+dialog: statistics? To maths?
+speaker_heading: ALAN TURING
+dialog: Correct.
+speaker_heading: JOAN CLARKE
+dialog: And then MI-6 can come up with the
+dialog: lies we'll tell everyone else.
+dialog: 95.
+speaker_heading: ALAN TURING
+dialog: We'll require a believable
+dialog: alternate source for each piece of
+dialog: information we use.
+speaker_heading: JOAN CLARKE
+dialog: A false story that exlains how we
+dialog: got that information, that has
+dialog: nothing to do with Enigma. And then
+dialog: you'll need to leak those stories
+dialog: to the Germans.
+speaker_heading: ALAN TURING
+dialog: And the rest of our military.
+speaker_heading: JOAN CLARKE
+dialog: Can you do that?
+speaker_heading: STEWART MENZIES
+dialog: Maintain a conspiracy of lies
+dialog: through the highest levels of our
+dialog: government? Yes, that sounds right
+dialog: up my alley.
+text: ON ALAN AND JOAN: Okay. Let’s do it.
+speaker_heading: STEWART MENZIES (CONT'D)
+dialog: (smiling)
+dialog: Alan, I so rarely have cause to say
+dialog: this. But you are exactly the man I
+dialog: always hoped you would be.
+scene_heading: INT. TRAIN - DAY
+text: Alan and Joan ride the train back to Bletchley.
+text: She reaches out and puts her hand in his. They’re in this so
+text: deep now... But at least they’re in it together.
+scene_heading: EXT. BLETCHLEY PARK - LAWNS - SEQUENCE
+text: At 6am, dawn is threatening to break across the Park.
+speaker_heading: ALAN TURING (V.O.)
+dialog: They codenamed it “Ultra.”
+scene_heading: INT. BLETCHLEY PARK - WREN’S HUT - SEQUENCE
+text: But in the WREN’S HUT, the women eagerly await the coming of
+dialog: the day’s first messages —
+dialog: 96.
+text: — And a sudden BEEP BEEP BEEP announces that they have. The
+text: WRENS quickly take down the first messages —
+speaker_heading: ALAN TURING (V.0O.)
+dialog: And it quickly became the largest
+dialog: store of military intelligence in
+dialog: the history of the world.
+text: A WREN removes the first few dozen from a pile —
+dialog: — And hands it over to another WREN —
+scene_heading: INT. BLETCHLEY PARK - HUT 11 - SEQUENCE
+text: — In Hut 11, the WREN gives the day’s first messages to Hugh,
+text: who enters them into Christopher —
+speaker_heading: ALAN TURING (V.0O.)
+dialog: It was like having a tap on
+text: Himmler’s intercom.
+speaker_heading: — Christopher HUMS —
+text: — And Hugh, after a few minutes, reads the day’s Enigma
+text: settings on the machine’s read-out: “FSOQR”
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - DAY
+text: Jack turns his Enigma machine to the day’s setting — “FSOQR”
+text: — and one by one types in the newly intercepted messages,
+text: recording the now decrypted results in a BOOKLET. On the
+text: cover, the booklet is marked: “ULTRA.”
+speaker_heading: ALAN TURING (V.0O.)
+dialog: Secrecy became the primary concern.
+dialog: And for some reason they trusted
+dialog: me.
+text: Alan organizes stacks of similar ULTRA booklets when he has
+text: trouble finding one of them — He looks up to see Peter
+text: walking nearby.
+speaker_heading: ALAN TURING
+dialog: Peter, do you have the 9:30
+dialog: decrypts —
+text: But instead of answering, Peter BUMPS HARD against Alan’s
+text: shoulder, scattering Alan’s papers to the floor.
+text: Jack looks over. Peter keeps on walking.
+text: No one helps Alan as he bends down to clean up his papers.
+text: Peter LEAVES Hut 8 without speaking a single word.
+dialog: 97.
+text: ON ALAN: He’s kneeling down in front of John’s MESSY DESK,
+text: picking up papers from the floor, when his eyes come level
+text: with something on the desk...
+text: It’s a BOOK. Buried underneath CRYPTOGRAPHIC PAPERS.
+text: Alan stares at it strangely. Something about its shape and
+text: colour look familiar... He UNCOVERS it...
+dialog: If’S A BIBLE.
+dialog: Holy shit.
+text: There’s a page dog-eared. Alan opens to the page — it’s
+dialog: Matthew 7:7. “Seek and ye shall find...”
+text: ON ALAN: JOHN CAIRNCROSS IS THE SOVIET SPY.
+dialog: Suddenly:
+speaker_heading: JOHN CAIRNCROSS (0.S.)
+dialog: Peter will come around eventually.
+text: Alan turns and stands — there’s John, right behind him.
+text: ON JOHN: He sees something on Alan’s face. Something is
+text: wrong. He looks down at the desk... AND SEES THE UNCOVERED
+speaker_heading: BIBLE.
+text: What’s John going to do? Alan is terrified...
+speaker_heading: JOHN CAIRNCROSS (CONT'D)
+dialog: Jack, could you give Alan and I
+dialog: a moment?
+text: Across the room, Jack looks over. Whatever is going on
+text: between Alan and John, he wants no part of it.
+text: Jack leaves.
+text: Alan is now alone with John, the Soviet spy.
+speaker_heading: JOHN CAIRNCROSS (CONT'D)
+dialog: The Soviets and us, we’re all
+dialog: on the same side. What I’m doing
+dialog: will help Britain.
+speaker_heading: ALAN TURING
+dialog: I’1l tell Denniston.
+speaker_heading: JOHN CAIRNCROSS
+dialog: No you won’t. Because if you tell
+dialog: him my secret, I’1l tell him yours.
+dialog: 98.
+dialog: ON ALAN: Oh God, John was the one person he trusted.
+speaker_heading: JOHN CAIRNCROSS (CONT'D)
+dialog: Do you know what they do to
+dialog: homosexuals? You’ll never be able
+dialog: to work again. Never be able to
+dialog: teach. Your precious machine —
+dialog: doubt you’ll ever see him again.
+text: ON ALAN: Looks down. He’s beaten.
+text: He puts an understanding hand on Alan’s shoulder.
+speaker_heading: JOHN CAIRNCROSS (CONT'D)
+dialog: Until the history books are ready
+dialog: to call you a hero, sometimes you
+dialog: have to play the villain.
+text: And with that, John takes his bible and leaves.
+dialog: ON ALAN: What’s he going to do?
+scene_heading: INT. BLETCHLEY PARK - CENTRAL MANSION - DAY
+text: Alan borrows a phone in the central mansion.
+speaker_heading: ALAN TURING
+dialog: (into phone)
+dialog: I need to speak to Menzies...
+text: But frustrated by the response he hears, Alan HANGS UP.
+scene_heading: INT. BLETCHLEY PARK - JOAN’S FLAT - DAY
+text: Alan bursts into Joan’s flat to tell her what he’s found.
+speaker_heading: ALAN TURING
+dialog: Joan! Joan! Are you there?
+text: It’s dark. He FLICKS ON THE LIGHT...
+text: REVEAL: The room has been ransacked.
+text: Clothes, books, papers scattered everywhere.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: — Joan?!?
+text: He quickly moves through the flat: What happened here?
+speaker_heading: ALAN TURING (CONT’D)
+dialog: Joan, are you okay? Where are you?
+dialog: 99.
+text: Runs to the back bedroom, where he finds...
+text: ... Stewart Menzies. Calmly looking over some papers.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: Where’s Joan?
+speaker_heading: STEWART MENZIES
+dialog: Military prison.
+speaker_heading: ALAN TURING
+dialog: What have you done?
+speaker_heading: STEWART MENZIES
+dialog: (holding up papers)
+text: Decoded Enigma intercepts. A stack
+text: of them under her nightstand.
+dialog: ON ALAN: Fuck.
+speaker_heading: ALAN TURING
+dialog: I gave those to her. A year ago.
+dialog: When she was with the clerks I was—
+speaker_heading: STEWART MENZIES
+dialog: — Yes yes yes, I’m sure. But
+dialog: Denniston has been looking for a
+dialog: Soviet spy, and he’s been looking
+dialog: for one inside Hut 8.
+speaker_heading: ALAN TURING
+dialog: I know who the Soviet agent is.
+dialog: It’s not Joan.
+dialog: Menzies looks at Alan: Who is it if not her?
+speaker_heading: ALAN TURING (CONT’D)
+dialog: ++. I found the bible... The spy is
+dialog: John Cairncross.
+text: Menzies SMILES. As if he’s impressed.
+speaker_heading: STEWART MENZIES
+dialog: +++ God, how I wish you’d been the
+dialog: spy. You’re so much better at this
+dialog: than he is.
+speaker_heading: ALAN TURING
+dialog: You knew Cairncross was the spy?
+speaker_heading: STEWART MENZIES
+dialog: Well of course Cairncross was the
+dialog: bloody spy.
+speaker_heading: (MORE )
+dialog: 100.
+speaker_heading: STEWART MENZIES (CONT'D)
+dialog: I’ve known that since before he got
+dialog: to Bletchley. Why do you think I
+dialog: had him placed here?
+scene_heading: QUICK CUT TO:
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - DAY - FLASHBACK
+text: Flash to the first scene where Alan met his new team after
+text: arriving at Bletchley. Commander Denniston explains how
+text: Enigma works, while Menzies stands in the corner, observing.
+text: Menzies keeps a special eye on Cairncross as Alan and Hugh
+dialog: compete over who knows more about cryptography.
+speaker_heading: STEWART MENZIES (V.O.)
+dialog: You said yourself he was a piss-
+dialog: poor mathematician.
+speaker_heading: CUT BACK TO:
+scene_heading: INT. BLETCHLEY PARK - JOAN’S FLAT - CONTINUED
+speaker_heading: ALAN TURING
+dialog: You placed a Soviet agent at
+dialog: Bletchley?
+speaker_heading: STEWART MENZIES
+dialog: It’s quite useful to be able to
+dialog: leak whatever we like to Stalin.
+scene_heading: QUICK CUT TO:
+scene_heading: EXT. BLETCHLEY PARK - MAIN GATE - DUSK - FLASHBACK
+text: A year earlier, John Cairncross exits the Main Gate of
+text: Bletchley carrying a SUITCASE —
+speaker_heading: STEWART MENZIES (V.O.)
+dialog: Churchill is too damned paranoid.
+dialog: He won’t share a shred of
+dialog: intelligence with the Soviets.
+speaker_heading: CUT TO:
+scene_heading: EXT. BLETCHLEY VILLAGE - STREET - NIGHT - FLASHBACK
+text: Cairncross walks through the village with the suitcase —
+dialog: 101.
+speaker_heading: STEWART MENZIES (V.O.)
+dialog: Even information that will help
+dialog: them against the Germans. So much
+dialog: secrecy...
+speaker_heading: CUT TO:
+scene_heading: EXT. BLETCHLEY VILLAGE - STREET - NIGHT - FLASHBACK
+text: Cairncross comes to a MAILBOX, where under cover of night he
+speaker_heading: OPENS HIS CASE —
+text: — Removing A FOLDER OF COPIED ENIGMA INTERCEPTS —
+text: — Which he then places in the mailbox.
+speaker_heading: STEWART MENZIES (V.O.)
+dialog: Cairncross has no idea we know, of
+dialog: course. Really not the brightest
+dialog: bulb.
+text: Cairncross WALKS AWAY into the night.
+text: After he leaves, two MI-6 AGENTS come and UNLOCK THE MAILBOX—
+text: — Removing his FOLDER —
+text: — The Agents take SOME MESSAGES OUT, and put other NEW ONES
+speaker_heading: BACK IN —
+text: — Before re-sealing the folder and putting it back in the
+dialog: mailbox —
+text: — And RE-LOCKING the mailbox lid.
+speaker_heading: CUT BACK TO:
+scene_heading: INT. BLETCHLEY PARK - JOAN’S FLAT - CONTINUED
+speaker_heading: STEWART MENZIES
+dialog: That’s why I’ll need your help now
+dialog: to work out what to leak to John.
+dialog: What to feed the Soviets, as well
+dialog: as the British.
+text: ON ALAN: Flustered. Terrified.
+speaker_heading: ALAN TURING
+dialog: I’m not a spy. I’m just a
+dialog: mathematician.
+dialog: 102.
+speaker_heading: STEWART MENZIES
+dialog: I know a lot of spies, Alan. You’re
+dialog: holding on to more secrets than the
+dialog: best of them.
+text: Menzies holds up the stolen decrypts. The threat is palpable.
+speaker_heading: ALAN TURING
+dialog: You must promise to get Joan out of
+dialog: prison.
+speaker_heading: STEWART MENZIES
+dialog: She’s at the market. She’ll be back
+dialog: in an hour. I lied.
+dialog: (puts the decrypts into
+dialog: his pocket)
+dialog: I'd better hold on to these. If
+dialog: anyone finds out about them, prison
+dialog: will be the least of her worries.
+text: ON ALAN: What choice does he have? He looks down.
+speaker_heading: STEWART MENZIES (CONT'D)
+dialog: Oh Alan. We’re going to have such a
+dialog: wonderful war together.
+scene_heading: EXT. BLETCHLEY PARK - PATHWAY NEAR HUT 8 - DAY
+text: Joan walks towards Hut 8, showing her ID to the new GUARDS
+text: who are closely monitoring entry to the Huts.
+text: In front of Hut 8, Alan watches her. Steeling himself up for
+dialog: what he has to do.
+text: As she approaches, she sees Alan waiting for her. She smiles
+text: at him, but he doesn’t return it. Something is wrong.
+scene_heading: EXT. BLETCHLEY PARK - BEHIND HUT 8 - MOMENTS LATER
+text: Alan and Joan talk behind Hut 8.
+speaker_heading: ALAN TURING
+dialog: I need you to leave Bletchley.
+speaker_heading: JOAN CLARKE
+dialog: (annoyed)
+dialog: What?
+speaker_heading: ALAN TURING
+dialog: Menzies. I don’t trust...
+text: ON ALAN: He wants to tell her, but he can’t. It’s too
+dialog: dangerous.
+dialog: 103.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: I don’t think it’s safe here.
+speaker_heading: JOAN CLARKE
+dialog: You think it’s safe somewhere else?
+speaker_heading: ALAN TURING
+dialog: You need to leave, and you need to
+dialog: get very far away from me.
+speaker_heading: JOAN CLARKE
+dialog: Alan. What’s happened?
+text: ON ALAN: This isn’t working. He’s going to have to try a
+dialog: different approach.
+speaker_heading: ALAN TURING
+dialog: We can’t be engaged anymore.
+dialog: Your parents will have to take you
+dialog: back and find you a husband
+dialog: elsewhere.
+speaker_heading: JOAN CLARKE
+dialog: What is wrong with you?
+speaker_heading: ALAN TURING
+dialog: ».. There’s something I have to
+dialog: tell you. I’m... I’m a homosexual.
+speaker_heading: JOAN CLARKE
+dialog: Alright.
+dialog: ON ALAN: What?
+speaker_heading: ALAN TURING
+dialog: Men, Joan. Not women.
+speaker_heading: JOAN CLARKE
+dialog: So what?
+speaker_heading: ALAN TURING
+dialog: I just said —
+speaker_heading: JOAN CLARKE
+dialog: — So what? I had my suspicions. I
+dialog: always did. But we’re not like
+dialog: other people. We love each other in
+dialog: our own way, and we can still live
+dialog: the life together that we want. You
+dialog: won't be the perfect husband? I can
+dialog: promise you I harboured no
+dialog: intention of being the perfect
+dialog: wife. I’ll not be fixing your lamb
+dialog: all day awaiting your return from
+dialog: the office, will I? I’11 work.
+speaker_heading: (MORE )
+dialog: 104.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: You'll work. We’ll have each
+dialog: other’s company. We’ll have each
+dialog: other’s minds. Sounds like a better
+dialog: Marriage than most. Because I care
+dialog: for you. And you care for me. And
+dialog: we understand one another more than
+dialog: anyone else ever has.
+text: ON ALAN: He needs to get rid of her, to save her, and she is
+dialog: making this impossible.
+speaker_heading: ALAN TURING
+dialog: I don’t.
+speaker_heading: JOAN CLARKE
+dialog: What?
+speaker_heading: ALAN TURING
+dialog: Care for you. I never did. I only
+dialog: needed you to break Enigma. And now
+dialog: I’ve done it, so you can leave.
+text: She SLAPS HIM.
+speaker_heading: JOAN CLARKE
+dialog: I am not going anywhere. I have
+dialog: spent entirely too much of my life
+dialog: worried about what you think of me,
+dialog: or what my parents think of me, or
+dialog: what the boys in Hut 8 or the girls
+dialog: in Hut 3 think, and you know I am
+dialog: done with it. This work is the most
+dialog: important thing I will ever do in
+dialog: my life. And no one will stop me.
+dialog: Least of all you.
+text: Joan turns to walk away, and then, angry, she turns back.
+text: She TOSSES HER WIRE ENGAGEMENT RING AT ALAN.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: They were right. John. Hugh.
+dialog: Peter. You really are a monster.
+text: Alan watches her walk away, struggling to maintain his facade
+text: of icy indifference.
+speaker_heading: CUT TO:
+scene_heading: INT. SHERBORNE SCHOOL FOR BOYS - HEADMASTER’S OFFICE - 1927
+text: Young Alan enters the HEADMASTER’S OFFICE.
+dialog: 105.
+speaker_heading: YOUNG ALAN
+dialog: You wanted to see me, Sir?
+speaker_heading: HEADMASTER
+dialog: Turing. Sit down.
+speaker_heading: YOUNG ALAN
+dialog: Is something the matter?
+speaker_heading: HEADMASTER
+dialog: You and Christopher Morcom are
+dialog: quite close.
+speaker_heading: YOUNG ALAN
+dialog: I wouldn’t say that.
+speaker_heading: HEADMASTER
+dialog: Your mathematics teacher says you
+text: two are positively inseparable.
+speaker_heading: YOUNG ALAN
+dialog: We're the best students in the
+dialog: class.
+speaker_heading: HEADMASTER
+dialog: He caught you passing notes the
+dialog: other day.
+speaker_heading: YOUNG ALAN
+dialog: Cryptography. To pass the time. The
+dialog: class is too simple.
+speaker_heading: HEADMASTER
+dialog: You and your friend solve maths
+dialog: problems during maths class because
+dialog: maths class is too dull?
+speaker_heading: YOUNG ALAN
+dialog: He’s not my friend.
+speaker_heading: HEADMASTER
+dialog: I’ve been told he’s your only
+dialog: friend.
+speaker_heading: YOUNG ALAN
+dialog: Who said that?
+speaker_heading: HEADMASTER
+dialog: Something has come up. About
+dialog: Morcom.
+speaker_heading: YOUNG ALAN
+dialog: Why am I here?
+speaker_heading: HEADMASTER
+text: Christopher is dead.
+speaker_heading: ON ALAN'S
+dialog: 106.
+speaker_heading: YOUNG ALAN
+dialog: «+. I don’t understand.
+speaker_heading: HEADMASTER
+dialog: His mother sent word this morning.
+dialog: The family was on holiday, you see.
+speaker_heading: YOUNG ALAN
+dialog: I don’t understand.
+speaker_heading: HEADMASTER
+dialog: He had bovine tuberculosis, as I’m
+dialog: sure he told you. This mustn’t be a
+dialog: shock, but all the same, I’m sorry.
+speaker_heading: YOUNG ALAN
+dialog: You're mistaken.
+speaker_heading: HEADMASTER
+dialog: Did he not tell you? He’s been sick
+dialog: for a long time. Knew this was
+dialog: coming soon, but he had a stiff
+dialog: upper lip about it. Good lad.
+dialog: FACE: Christopher never told him.
+speaker_heading: HEADMASTER (CONT’D)
+dialog: Are you all right, Turing?
+speaker_heading: YOUNG ALAN
+dialog: Yes. Of course. As I said, I didn’t
+dialog: know him well.
+speaker_heading: HEADMASTER
+dialog: Ah. Very well then.
+speaker_heading: YOUNG ALAN
+dialog: May I leave, Headmaster?
+speaker_heading: HEADMASTER
+dialog: Of course. Oh, but Turing?
+speaker_heading: YOUNG ALAN
+dialog: Yes, Sir?
+speaker_heading: HEADMASTER
+dialog: Do pay more attention in maths
+dialog: class, will you?
+speaker_heading: CUT TO:
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - 1943-5 - SEQUENCE
+text: Alan, Joan, John, Hugh, and Peter decrypt messages together
+dialog: for another two exhausting years.
+dialog: 107.
+speaker_heading: ALAN TURING (V.O.)
+dialog: The war dragged on for another two
+dialog: solitary years.
+text: Alan spends two years pressed shoulder-to-shoulder with the
+text: woman whose heart he broke. With the man whose dark secret he
+text: uncovered. With the man whose brother he allowed to die.
+speaker_heading: ALAN TURING (V.O.)
+dialog: Every day we performed our blood-
+dialog: soaked calculus. Every day we
+dialog: decided who lived and who died. And
+dialog: every day we guided the Allied
+dialog: armies to victory without anyone
+dialog: knowing.
+scene_heading: EXT. MEDITERRANEAN SEA - SICILY (ARCHIVE FOOTAGE) - DAY
+text: INTERCUT WITH ARCHIVAL FOOTAGE: The FRONTLINE BATTLES whose
+text: outcomes, good and bad, are determined by the work of Hut 8.
+text: The MEDITERRANEAN FLEET is RAVAGED outside Sicily... 6,000
+text: SHIPS launch for the surprise attack on Normandy...
+speaker_heading: ALAN TURING (V.O.)
+dialog: Stalingrad? The Ardennes? Normandy?
+dialog: None of those victories would have
+dialog: been possible without the
+dialog: intelligence we produced.
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - DAY
+text: IN HUT 8: Peter and Hugh each decrypt a message, placing TWO
+text: BLUE PINS on the board, and then one RED. They look to Alan:
+text: Two British ships, and they can only save one of them.
+text: Alan runs a statistical analysis of their options. We see KEY
+scene_heading: WORDS: “LIKELIHOOD OF DETECTION,” “CASUALTIES,” “MATERIAL
+text: LOSSES” interspersed with mathematical equations. Alan places
+text: his results into a GREEN FOLDER. A MESSENGER comes in and
+text: takes the folder to —
+scene_heading: INT. MI-6 - WAR ROOM - DAY
+text: AN MI-6 WAR ROOM: The Messenger delivers the Green Folder to
+text: Menzies and a TEAM OF MI-6 AGENTS. They look over Alan's
+text: analysis and decide what military actions to take. The Agents
+text: TELEPHONE Churchill’s office in London.
+dialog: 108.
+scene_heading: EXT. NORTH OF ALGIERS (ARCHIVE FOOTAGE) - DAY
+text: ARCHIVAL FOOTAGE: We see the impact of Hut 8’s work as a
+text: dozen British ships are BLOWN OUT OF THE OCEAN just north of
+dialog: Algiers, sacrificed for the greater good in Operation Torch.
+scene_heading: EXT. BLETCHLEY PARK - HUT 8 - DAY
+text: BACK IN HUT 8: The team learns of the outcome as they decode
+text: more German messages. Peter takes the BLUE PIN down from the
+text: map, tossing it angrily in the trash. He looks at Alan, who
+text: looks away — another ship they could not save.
+scene_heading: EXT. BLETCHLEY VILLAGE/ ENVIRONS - NIGHT
+text: OUTSIDE BLETCHLEY VILLAGE: Alan RUNS at night on a dirt path
+text: along the outskirts of Bletchley. He runs for miles,
+text: sweating, panting, until his legs almost give way.
+speaker_heading: ALAN TURING (V.O.)
+dialog: People talk about the war as this
+text: epic battle between civilizations.
+dialog: Good versus evil, liberty versus
+text: tyranny. Armies of millions
+text: bleeding into the mud, fleets of
+dialog: ships that weighed down the oceans,
+dialog: packs of airplanes that dropped
+text: bombs until they blotted out the
+dialog: sun itself. But it wasn’t.
+scene_heading: INT. BLETCHLEY PARK - HUT 8 - NIGHT
+text: QUIET MOMENTS IN HUT 8: Hugh lays a folded-up coat under a
+text: sleeping Peter’s head as a pillow. John makes tea for Joan.
+speaker_heading: ALAN TURING (V.O.)
+dialog: The war was really just a half-
+dialog: dozen crossword enthusiasts in a
+dialog: tiny village in the south of
+dialog: England.
+scene_heading: EXT. WHITEHALL (ARCHIVE FOOTAGE) - DAY
+text: ARCHIVAL FOOTAGE: On V-E Day, Churchill speaks to millions
+text: from a balcony in Whitehall. Truman dedicates the victory to
+text: Roosevelt as Times Square erupts into drunken cheers.
+text: The whole world kisses. The whole world cries.
+speaker_heading: ALAN TURING (V.O.)
+dialog: Was I God? No. Because God didn’t
+dialog: win the war. I did.
+dialog: 109.
+scene_heading: EXT. BLETCHLEY PARK - DAY - 1945
+text: All of Bletchley Park is celebrating the end of the war.
+text: Flags are being waved, people are dancing, cheering.
+dialog: But inside the central mansion:
+scene_heading: INT. BLETCHLEY PARK - CENTRAL MANSION - CONTINUOUS
+text: Alan and his team are assembled before Stewart Menzies.
+speaker_heading: HUGH ALEXANDER
+dialog: ++. What happens now? Back to the
+dialog: university for us?
+speaker_heading: STEWART MENZIES
+dialog: Yes. You’ve only one thing left to
+dialog: do before your service to your
+text: government is concluded.
+speaker_heading: JOHN CAIRNCROSS
+dialog: What’s that?
+speaker_heading: STEWART MENZIES
+dialog: Burn everything.
+speaker_heading: HUGH ALEXANDER
+dialog: What?
+speaker_heading: STEWART MENZIES
+dialog: We told you when you started that
+dialog: this was a top secret program. Did
+dialog: you think we were joking?
+speaker_heading: HUGH ALEXANDER
+text: But the war is over.
+speaker_heading: ALAN TURING
+dialog: This war is over. But there will be
+dialog: more. And we know how to break a
+dialog: code that everyone else thinks is
+dialog: unbreakable.
+speaker_heading: STEWART MENZIES
+dialog: (with a smile at Alan)
+dialog: Alright. Tear it down, light it up,
+dialog: sweep away the ashes. None of you
+dialog: have ever met before. None of you
+dialog: have ever even heard the word
+dialog: Enigma. Have a safe trip home.
+speaker_heading: (MORE )
+dialog: 110.
+speaker_heading: STEWART MENZIES (CONT'D)
+dialog: Behave, and with a bit of luck none
+dialog: of you will ever see me — or one
+dialog: another — again in your lives.
+speaker_heading: CUT TO:
+scene_heading: INT. MANCHESTER POLICE STATION - INTERROGATION ROOM - 1951
+text: Alan Turing finishes telling his story to Detective Nock.
+speaker_heading: DETECTIVE NOCK
+dialog: That's... Unbelievable.
+speaker_heading: ALAN TURING
+dialog: That’s the Imitation Game.
+speaker_heading: DETECTIVE NOCK
+dialog: I don’t know what to do now.
+speaker_heading: ALAN TURING
+dialog: Now, Detective, you get to judge.
+dialog: That’s how the game works. I
+dialog: answered your questions. You know
+dialog: my story. That’s the point of the
+dialog: game. We are all pretending to be
+dialog: something. Imitating something.
+dialog: Someone. And we are no more, and no
+dialog: less, than what we can convince
+dialog: other people that we are. So tell
+dialog: me: What am I? Am I a person? Am I
+dialog: a machine? Am I a war hero? Am I a
+dialog: criminal?
+speaker_heading: DETECTIVE NOCK
+dialog: I can’t judge you.
+speaker_heading: ALAN TURING
+dialog: Well then you’re no help to me at
+dialog: all.
+text: ON ALAN: Turning away. He’s done with Nock.
+speaker_heading: CUT TO:
+scene_heading: INT. POLICE STATION - MANCHESTER - DAY - 6 MONTHS LATER
+text: A PLAINCLOTHES OFFICER walks through the police station,
+text: carrying a NEWSPAPER under his arm.
+text: He makes his way to —
+text: — Detective Nock’s desk.
+dialog: 111.
+scene_heading: PLAINCLOTHES OFFICER
+dialog: Congratulations, Sir.
+text: The Officer drops the newspaper in front of Nock.
+text: The headline reads: “CAMBRIDGE PROFESSOR SENTENCED FOR
+text: INDECENCY”, above a photo of Alan.
+dialog: ON NOCK: This should make him happy. But instead he feels
+text: only empty and sick.
+scene_heading: INT. ALAN TURING’S HOUSE - DAY
+text: We find Alan in his study. He’s gained weight since last we
+text: saw him — he’s grown paler as well. Haggard. And the place is
+text: a horrible mess.
+text: He compares his half-built NEW MACHINE to the plans on his
+text: desk — his work progresses. Slowly.
+dialog: (This is the machine we saw in the opening scene, which
+text: appears different but related to the Bletchley machine — like
+dialog: a newer model of the same basic concept.)
+text: The doorbell RINGS. Alan ignores it, focused on his work.
+text: It RINGS again. Irritated, he gets up and shuffles through
+dialog: his house —
+text: — He’s walking with an odd limp, like it’s hard for him to
+text: move his legs normally —
+text: — And as the bell keeps RINGING insistently he reaches the
+text: front door, opening it to find:
+speaker_heading: JOAN CLARKE
+dialog: I had to find out from the bloody
+dialog: newspapers.
+speaker_heading: CUT TO:
+scene_heading: INT. ALAN TURING’S HOUSE - SITTING ROOM - MOMENTS LATER
+text: Joan takes a seat while Alan fusses, embarrassed at the state
+text: of the place and trying to clean up for her.
+speaker_heading: JOAN CLARKE
+dialog: ++. You never responded to my
+dialog: letters.
+dialog: (silence from Alan)
+dialog: I would have come. I would have
+dialog: testified.
+dialog: Alan tries
+dialog: «+. Which
+dialog: He is.
+dialog: 112.
+speaker_heading: ALAN TURING
+dialog: And what would you have said? That
+dialog: I wasn't a homosexual?
+speaker_heading: JOAN CLARKE
+dialog: I would have said something. This
+dialog: is serious. They could send you to
+dialog: jail -
+dialog: to move a glass of water...
+text: he DROPS, shattering it.
+speaker_heading: ALAN TURING
+dialog: Damn it...
+speaker_heading: JOAN CLARKE
+dialog: Your hands... You’re twitching.
+speaker_heading: ALAN TURING
+dialog: No I’m not.
+speaker_heading: JOAN CLARKE
+dialog: Alan.
+speaker_heading: ALAN TURING
+dialog: «++. It’s the medication.
+speaker_heading: JOAN CLARKE
+dialog: The medication?
+speaker_heading: ALAN TURING
+dialog: I have to go in for weekly
+dialog: oestrogen treatments. At the
+dialog: hospital.
+speaker_heading: JOAN CLARKE
+dialog: What are you talking about?
+speaker_heading: ALAN TURING
+dialog: The judge gave me a choice. Prison.
+dialog: Or “hormonal therapy.”
+speaker_heading: JOAN CLARKE
+dialog: Oh my god. Oh my god. That’s —
+speaker_heading: ALAN TURING
+dialog: — Chemical castration. Yes. To cure
+dialog: my homosexual predilections. Of
+dialog: course I chose that. I wouldn’t be
+dialog: able to work from prison.
+text: Joan is HORRIFIED.
+dialog: 113.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: Well how would I even have got
+dialog: parts in jail? It just makes no
+dialog: sense.
+speaker_heading: JOAN CLARKE
+dialog: All right. This is what we’re going
+dialog: to do. I’m going to speak to your
+dialog: doctors. I’m going to speak to your
+dialog: lawyer. We’re going to find a way
+dialog: out of this.
+speaker_heading: ALAN TURING
+dialog: No.
+speaker_heading: JOAN CLARKE
+dialog: You are not thinking clearly. There
+dialog: are a million chemicals flowing
+dialog: through your brain. This treatment—
+speaker_heading: ALAN TURING
+dialog: — I’m fine.
+speaker_heading: JOAN CLARKE
+dialog: Please let me help you.
+speaker_heading: ALAN TURING
+dialog: I don’t need your help.
+speaker_heading: JOAN CLARKE
+dialog: You do not have to do this all
+dialog: alone.
+speaker_heading: ALAN TURING
+dialog: Alone? I’m not alone. I never have
+dialog: been.
+text: He looks lovingly at his machine — at Christopher.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: . Christopher has got so smart.
+dialog: If I stop the treatment, they’1l
+dialog: take him away from me. You can’t
+dialog: let them do that. You can’t. Don’t
+dialog: let them leave me alone.
+text: Joan looks at Alan. And at Christopher. His true love.
+text: Looking at his machine, Alan starts to have a small PANIC
+text: ATTACK — he’s getting more emotional, twitching more, getting
+text: teary — the hormones are flowing through him.
+speaker_heading: JOAN CLARKE
+dialog: (cre: Alan’s freak out)
+dialog: Here, it’s alright. It’s alright.
+dialog: Sit down.
+dialog: 114.
+text: She sits him in a chair, trying to contain his
+text: hyperventilating.
+text: Alan, embarrassed at this uncontrollable display, tries to
+text: play it off, but of course he can’t stop it.
+text: With her hand on his shoulder, he notices her WEDDING RING.
+speaker_heading: ALAN TURING
+dialog: (trying to seem normal)
+dialog: . It’s a much nicer ring than the
+dialog: one I got you.
+speaker_heading: JOAN CLARKE
+dialog: His name is Jock. We work together
+dialog: in Eastcote. He’s gotten me into
+dialog: coin collecting. Can you believe
+dialog: it?
+text: Joan looks around the room for a tea cup, a glass of water,
+text: anything that isn’t mouldy she can have him sip from.
+text: She sees the newspaper she brought in, grabs it.
+speaker_heading: JOAN CLARKE (CONT'D)
+dialog: Do you want to do a crossword? For
+dialog: old times’ sake. It’ll only take
+dialog: five minutes. Or in your case, six.
+text: She tries to get him to smile at her joke.
+text: Joan opens the paper to a PUZZLE.
+text: Alan looks down at it.
+text: His fingers twitch. He stares at the puzzle, confused. He
+dialog: doesn’t know how to do it.
+text: Alan moves his hand away from the puzzle.
+speaker_heading: ALAN TURING
+dialog: Perhaps later.
+text: The treatment has wrecked his brain so badly that he can’t do
+text: crossword puzzles anymore.
+text: Joan watches and her heart utterly breaks.
+text: ON JOAN: He’s gone forever. And she knows it.
+text: Alan sees her sadness. He’s embarrassed, angry, bitter.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: +... At least it worked out for one
+dialog: of us.
+speaker_heading: (MORE )
+dialog: 115.
+speaker_heading: ALAN TURING (CONT’D)
+dialog: You got what you wanted, didn’t
+dialog: you? Work. A husband. A normal
+dialog: life.
+text: She looks at him quietly for a moment.
+speaker_heading: JOAN CLARKE
+dialog: But no one normal could have done
+dialog: this.
+dialog: (gestures to Christopher)
+dialog: This morning I took a train through
+dialog: a city that would not exist if it
+dialog: wasn’t for you. I bought a ticket
+dialog: from a man who would likely be dead
+dialog: if it wasn’t for you. I read up on
+dialog: my work, a whole field of
+dialog: scientific inquiry that only exists
+dialog: because of you. If you wish you
+dialog: could have been ‘normal’, I can
+dialog: promise you, I do not. The world is
+dialog: an infinitely better place
+dialog: precisely because you weren't.
+speaker_heading: ALAN TURING
+dialog: Is that what you think?
+speaker_heading: JOAN CLARKE
+dialog: I think that sometimes it is
+dialog: the very people who no one imagines
+dialog: anything of who do the things that
+dialog: no one can imagine.
+speaker_heading: CUT TO:
+scene_heading: EXT. SHERBORNE SCHOOL FOR BOYS - DAY - 1927
+text: Young Alan sits under the tree where Christopher first taught
+text: him about cryptography. He’s holding the book that
+dialog: Christopher gave him.
+text: He starts to cry. He’s alone now, and he will be for a very
+dialog: long time.
+speaker_heading: CUT TO:
+scene_heading: INT. ALAN TURING’S HOUSE - DAY - 1954
+text: Alan sits at his desk, going over papers. He closes a book.
+text: Gets up. Walks past Christopher, giving him a look. He turns
+text: off the light, walking away down the dim hallway.
+dialog: 116.
+scene_heading: EXT. ALAN TURING’S HOUSE - DAY - 1954
+text: A familiar scene: A HALF-DOZEN POLICE OFFICERS swarm the
+dialog: Manchester home of (former) mathematics professor Alan
+dialog: Turing.
+text: Detective Nock passes the double-parked police cars and
+text: ascends the front steps of Alan’s house.
+dialog: Remembers the first time he was here.
+scene_heading: INT. ALAN TURING’S HOUSE - CONTINUOUS
+text: A CONSTABLE leads Detective Nock upstairs, gesturing into the
+text: open BEDROOM door.
+text: In the doorway, we see a team of COPS tending to something on
+text: the bed. There’s an APPLE on the nightstand.
+speaker_heading: CONSTABLE
+text: Suicide, looks like. Half-eaten
+text: apple next to the bed. Some sort of
+text: white powder all over it.
+speaker_heading: DETECTIVE NOCK
+dialog: Cyanide.
+dialog: (off the Constable’s look)
+dialog: You'll find a tub of it downstairs.
+text: The Constable makes a curious face: How can you know that?
+text: Nock approaches the bed, and stares into the lifeless face of
+dialog: Alan Turing.
+dialog: ON NOCK: Alan Turing made the world a better place... And
+dialog: Nock killed him for it.
+speaker_heading: CUT TO:
+scene_heading: EXT. BLETCHLEY PARK - NIGHT - 1945
+text: Alan, Joan, Hugh, John, and Peter stand before the MASSIVE
+text: BONFIRE that’s been built in the center of the Park.
+dialog: TITLE: Alan Turing committed suicide in 1954.
+dialog: TITLE: His machine was never perfected, though it
+dialog: generated a whole field of research into what became
+dialog: nicknamed “Turing Machines.” Today, we call them “computers.”
+text: Hugh comes over and puts one arm around Alan, another around
+text: Joan. They have a moment: They did it. They won the war.
+text: John throws a stack of Enigma messages high into the air —
+dialog: 117.
+text: — They watch as the papers flutter down into the fire.
+text: They laugh, and one by one they all join in:
+text: They FROLIC and PLAY as they throw every document, every slip
+text: of scratch paper, every bit of evidence they were there into
+dialog: the fire.
+dialog: TITLE: In 1990, John Cairncross publicly confessed to having
+dialog: been a Soviet agent. He was never prosecuted.
+dialog: TITLE: In 2013, Turing was granted an official pardon by the
+dialog: government. Approximately 49,000 other gay men were convicted
+dialog: and punished under the same code between 1885 and 1967.
+text: TITLE: The logo of Apple Computer - an apple with a bite
+dialog: taken out of it - has long been rumored to be a silent
+dialog: tribute to Turing. These rumors have never been confirmed.
+speaker_heading: ALAN TURING (V.O.)
+dialog: Well then.
+text: ON ALAN AND THE TEAM: Hugging and playing as everything they
+text: did is burnt to a crisp.
+speaker_heading: ALAN TURING (V.O.)
+dialog: Any questions?
+speaker_heading: BLACK.
+dialog: 

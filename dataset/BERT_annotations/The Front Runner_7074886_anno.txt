@@ -1,0 +1,5090 @@
+dialog: The Front Runner
+dialog: Written by Matt Bai & Jay Carson & Jason Reitman
+dialog: July 27th, 2017
+dialog: Blue Revisions 8/28/17
+dialog: Pink Revisions 9/10/17
+dialog: Yellow Revisions 9/15/17
+dialog: ii.
+text: Note: The following screenplay features overlapping dialogue in
+text: the style of films like The Candidate. The idea is to create a
+dialog: true-to-life experience of the Hart campaign of 1987.
+speaker_heading: CAST OF CHARACTERS
+speaker_heading: THE HARTS
+scene_heading: GARY HART, SENATOR
+speaker_heading: LEE HART, HIS WIFE
+scene_heading: THE CAMPAIGN TEAM
+scene_heading: BILL DIXON, CAMPAIGN MANAGER
+scene_heading: BILLY SHORE, AIDE-DE-CAMP
+scene_heading: KEVIN SWEENEY, PRESS SECRETARY
+scene_heading: JOHN EMERSON, DEPUTY CAMPAIGN MANAGER
+scene_heading: DOUG WILSON, POLICY AIDE
+scene_heading: MIKE STRATTON, LEAD ADVANCE MAN
+scene_heading: IRENE KELLY, SCHEDULER
+text: AT THE WASHINGTON POST
+scene_heading: BEN BRADLEE, EXECUTIVE EDITOR
+scene_heading: ANN DEVROY, POLITICAL EDITOR
+scene_heading: AJ PARKER, POLITICAL REPORTER
+scene_heading: DAVID BRODER, CHIEF POLITICAL CORRESPONDENT
+scene_heading: BOB KAISER, MANAGING EDITOR
+text: AT THE MIAMI HERALD
+scene_heading: KEITH MARTINDALE, EXECUTIVE EDITOR
+speaker_heading: JIM SAVAGE, EDITOR
+scene_heading: TOM FIEDLER, POLITICAL REPORTER
+scene_heading: JOE MURPHY, INVESTIGATIVE REPORTER
+scene_heading: ROY VALENTINE, PHOTOGRAPHER
+scene_heading: THE TRAVELING PRESS
+scene_heading: JACK GERMOND, BALTIMORE SUN COLUMNIST
+scene_heading: IRA WYMAN, AP PHOTOGRAPHER
+scene_heading: ALAN WEINBERG, PHILADELHIA ENQUIRER
+scene_heading: ANN MCDANIEL, NEWSWEEK
+speaker_heading: MIKE SHANAHAN, AP
+speaker_heading: MIAMI
+scene_heading: DONNA RICE, MODEL AND ACTRESS
+scene_heading: BILLY BROADHURST, HART’S PERSONAL FRIEND
+scene_heading: LYNN ARMANDT, RICE’S FRIEND
+dialog: 
+dialog: “1984"
+scene_heading: EXT. SAINT FRANCIS HOTEL, SAN FRANCISCO. NIGHT.
+text: We open inside a NEWS VAN. Four monitors show different
+text: competing feeds. A waiting reporter. Color Bars. A political
+text: commercial. One monitor is cueing up a debate clip.
+text: A light pops on the reporter and he springs to life.
+speaker_heading: TV REPORTER
+dialog: Yes, we learned just a few minutes
+dialog: ago that Senator Hart will soon be
+dialog: leaving this hotel back to the
+dialog: convention hall, where he will
+dialog: concede -- yes, he will concede --
+dialog: to former vice president Walter
+dialog: Mondale. Hart won every state --
+text: We pull out to reveal a PRODUCER hovering over an ENGINEER.
+speaker_heading: PRODUCER
+dialog: His hair looks like shit. When’s he
+dialog: getting it cut?
+speaker_heading: ENGINEER
+dialog: That is the new cut.
+dialog: (shakes his head)
+dialog: We can’t get a clear line.
+speaker_heading: PRODUCER
+dialog: Are we at full stick?
+text: The producer pops her head out to check the dish. We tilt up
+text: to see people watching from above as the dish slowly rises.
+text: We pan to find the blown-dry reporter. Beyond him is another
+text: NEWSMAN, delegates, protestors, cops, etc...
+speaker_heading: TV REPORTER
+dialog: -- West of the Mississippi River in
+dialog: this fight for the Democratic
+dialog: nomination. But in the end, it was
+text: Mondale’s taunting question, taken
+dialog: from a Wendy’s advertisement, that
+dialog: dogged his insurgent campaign.
+speaker_heading: PRODUCER HART (0.C.)
+dialog: Roll tape. Go! I think the dedication of our
+dialog: party to minority people in
+dialog: the South...
+scene_heading: Yellow Rev. (9/15/17) 2.
+text: We push back into the van to see ACTUAL FOOTAGE - WALTER
+text: MONDALE at a debate with Hart.
+speaker_heading: MONDALE
+dialog: I hear your new ideas, I’m reminded
+dialog: of that ad - Where's the beef?
+text: A ROAR of laughter and applause as Hart tries to be heard.
+speaker_heading: HART (0.C.)
+dialog: If you’d listen just a minute --”
+text: We're pulling away from the monitor.
+speaker_heading: PRODUCER
+dialog: Ok, go Steve.
+speaker_heading: REPORTER (0.C.)
+dialog: Senator Hart will take the stage
+dialog: tonight to --
+speaker_heading: ENGINEER
+dialog: Hold it Steve, hold it! We lost the
+dialog: signal.
+speaker_heading: REPORTER PRODUCER
+dialog: (continuing unbeknownst)
+dialog: Share his thoughts with the
+dialog: many thousands of voters and
+dialog: activists who fought hard
+dialog: these last months.
+dialog: The fuck is going on up
+dialog: there? Talk to me. Are we
+dialog: facing south?
+dialog: (peering up at the roof)
+dialog: Steve, would you shut up? We
+dialog: lost the signal again.
+speaker_heading: ENGINEER (CONT'D)
+dialog: I think we're facing South.
+dialog: Supposed to be south, yes?
+speaker_heading: PRODUCER
+dialog: Well, maybe you should invest ina
+dialog: god damn compass.
+speaker_heading: REPORTER
+dialog: (continuing unbeknownst)
+speaker_heading: PRODUCER (CONT'D)
+dialog: Would someone tell him to
+dialog: Senator Hart broke from
+dialog: relative obscurity when he
+dialog: took the New Hampshire
+dialog: primary...
+text: We pop back outside the news
+dialog: shut the fuck up. No one’s
+dialog: listening. Ah, what’s the
+dialog: point?
+dialog: van to find a couple guys we’l1l
+text: come to know as STRATTON and WILSON. Smoking cigarettes.
+scene_heading: Yellow Rev. (9/15/17) 3.
+speaker_heading: STRATTON
+dialog: «+. Guy just tried to pin my lapel.
+dialog: Didn’t even ask.
+speaker_heading: WILSON
+dialog: How far are we from the O'Farrell
+dialog: Theater...? Just curious.
+text: They cross the street through traffic. Stratton tells a story
+text: about losing the tip of his finger while starting a golf cart
+text: as a young staffer.
+text: We boom up and find a THIRD FLOOR WINDOW. A guy we’1ll come to
+text: know as EMERSON is sitting on the sill. He’s wearing a WHITE
+text: ELECTION HAT. It reads “HART”. He takes it off, examines it
+text: one last time, then tosses it down to the street below.
+scene_heading: INT. VIP SUITE, ST. FRANCIS HOTEL. CONTINUOUS.
+text: Stratton and Wilson enter the room still jawing. The staffers
+dialog: were cute on the McGovern campaign.
+dialog: We pan to find a guy we’ll come to know as BROADHURST. He’s
+text: smoking in the bathroom with a attractive female staffer.
+speaker_heading: BROADHURST
+dialog: You can’t even imagine... There
+dialog: ain’t nothing like sleeping on the
+dialog: open ocean, darling.
+text: We find Emerson grabbing a drink at a small wet bar. It’s a
+text: mixed crowd. Staffers and donors. The mood is low key, but
+text: people still mingle.
+speaker_heading: EMERSON
+dialog: What’s the plan for after?
+speaker_heading: STRATTON
+dialog: Can we hold off the ‘88 talks for
+text: just a moment.
+speaker_heading: EMERSON
+dialog: I meant drinks.
+speaker_heading: STRATTON
+dialog: Oh, the Hawaiian place.
+speaker_heading: WILSON
+dialog: It’s Polynesian.
+text: We move through bodies to find GARY HART, sitting on an aging
+text: sofa, PHONE and a VODKA, finishing up the worst phone call
+dialog: you can make in politics.
+scene_heading: Yellow Rev. (9/15/17) 4.
+speaker_heading: HART
+dialog: (cradling a corded phone)
+dialog: Yeah, OK. I appreciate it, Walter.
+text: His wife and college sweetheart LEE, wipes an eye and holds
+text: his arm. He makes meaningful eye contact with BILL DIXON.
+text: Nearby are his son and daughter, JOHN and ANDREA.
+speaker_heading: HART (CONT'D)
+dialog: (to his wife Lee, quietly)
+dialog: I‘1l1 come with you back to Denver.
+speaker_heading: LEE
+dialog: You should stay.
+text: Nearby, JOHN EMERSON chats up BILLY SHORE about the Russian
+dialog: Olympic boycott.
+text: Stratton checks his watch and shows Shore the time. He nods.
+text: Wilson pulls out speech and checks it one last time.
+text: Stratton and Shore approach the sofa where Hart sits.
+speaker_heading: STRATTON
+dialog: It’s time, Senator.
+speaker_heading: WILSON SHORE
+dialog: (to Hart) (to Wilson)
+dialog: Remember to hit homelessness. Doug. Come on.
+speaker_heading: HART
+dialog: (to Lee)
+dialog: I don’t want you to fly alone.
+speaker_heading: LEE
+dialog: I'm fine. I’ll take the kids. You
+dialog: need to be in DC.
+speaker_heading: HART
+dialog: I don’t need to be anywhere.
+speaker_heading: LEE
+dialog: Yeah, you do.
+speaker_heading: STRATTON SHORE
+dialog: We need to roll. Gary?
+text: BILLY SHORE, late 20s, helps Gary with his suit jacket.
+text: Stratton guides the Harts toward the door.
+scene_heading: Yellow Rev. (9/15/17) 5.
+scene_heading: INT. HOTEL CORRIDOR - DAY
+text: The team moves through heartbroken supporters offering ad
+dialog: libbed, “Don't leave... stay in it...” A couple secret
+text: service agents push through as PHOTO FLASHES POP.
+dialog: Wilson continues to remind about policy.
+speaker_heading: SHORE
+dialog: We promised homeless to Mondale.
+speaker_heading: WILSON
+dialog: People are homeless. The name of
+dialog: the issue is “homelessness”.
+speaker_heading: STRATTON
+dialog: (struggling)
+dialog: Come on, clear a path...
+speaker_heading: WILSON
+dialog: (to Hart)
+dialog: And Perestroika.
+speaker_heading: SHORE
+dialog: It’s a marker for ‘88.
+speaker_heading: HART
+dialog: (to Wilson)
+dialog: Homeless and Russians, got it.
+text: Suddenly, COMMOTION. A woman screams. The secret service
+text: agents RUSH at Hart, pushing him back towards the suite.
+speaker_heading: STRATTON
+dialog: What the fuck is --
+text: Other agents converge on a man. For a moment, we see an ARM
+text: WITH A GUN being held up in the air.
+speaker_heading: AGENT
+dialog: Active shooter... Active shooter...
+speaker_heading: LEE
+dialog: Oh God! What?
+text: The agents move like a scrum, pushing them back into...
+scene_heading: INT. VIP SUITE, ST. FRANCIS HOTEL. CONTINUOUS.
+text: Hart is pulled into a corner. An agent hovering over him.
+speaker_heading: AGENT
+text: Redwood is secure.
+scene_heading: Yellow Rev. (9/15/17) 6.
+text: We hear reports coming in over the walkie talkies as the team
+text: shares looks with each other. Stunned.
+speaker_heading: LEE
+dialog: Gary.... Gary?!
+text: They all look over at Hart. The secret service agent steps
+text: away to reveal him doubled over, clutching his side.
+speaker_heading: SHORE
+dialog: Senator?!
+speaker_heading: AGENT
+dialog: We need a paramedic in the suite.
+text: Lee gets down on her knees to help, but Hart rears up
+text: LAUGHING hysterically, barely able to breathe.
+speaker_heading: LEE
+dialog: Gary!!
+text: But he can’t stop laughing. After a long beat...
+speaker_heading: HART
+dialog: Who shoots the loser?
+scene_heading: INT. TRADER VICS, SAN FRANCISCO - MIDDLE OF THE NIGHT
+text: Hart, tie loosened, still laughing. In an image unfamiliar
+text: for anyone today, Hart is drinking with his PRESS BUDDIES.
+scene_heading: JACK GERMOND (The Sun) DAVID BRODER (The Post) IRA WYMAN.
+speaker_heading: BRODER
+dialog: Maybe he didn’t like your jobs
+dialog: plan, either.
+speaker_heading: HART
+dialog: We've been through that. It’s a
+dialog: good plan... It was a good plan.
+text: Reveal we are watching from another table, over the shoulders
+text: of a younger generation of reporters.
+speaker_heading: HART (CONT'D)
+dialog: Did anyone find out this guy’s
+dialog: reasons?
+speaker_heading: WYMAN
+dialog: Yeah, they found a photo of you in
+text: his wife’s purse.
+text: Off laughter, we move to the Kids Table. ALAN WEINBERG, ANN
+text: MCDANIEL, DAVID AXELROD drinking cheap beer.
+scene_heading: Yellow Rev. (9/15/17) 7.
+speaker_heading: MCDANIEL
+dialog: You really want to follow Mondale
+dialog: around for another six months?
+speaker_heading: WEINBERG
+dialog: My apartment is grim. I'll take the
+dialog: free meals.
+speaker_heading: MCDANIEL
+dialog: Yeah, that’s how I feel about my
+dialog: boyfriend.
+text: BOB WOODWARD stops by the big boys table.
+speaker_heading: AXELROD
+dialog: Holy shit, look, it’s Woodward.
+speaker_heading: MCDANIEL
+dialog: Think he still comes into the
+dialog: newsroom?
+speaker_heading: WEINBERG
+dialog: I heard he doesn’t take a salary.
+speaker_heading: MCDANIEL
+dialog: Doesn't need to. Have you seen his
+dialog: house?
+speaker_heading: WEINBERG
+dialog: Have you?
+text: We find Hart and Woodward now at the bar sharing whiskeys.
+speaker_heading: WOODWARD
+dialog: ... She’d have won you New Jersey
+dialog: if you hadn’t made that dumbass
+dialog: crack about the water.
+speaker_heading: HART
+dialog: No one’s got a sense of humor
+dialog: anymore.
+speaker_heading: WOODWARD
+dialog: Fuck ‘em if they can’t take a joke.
+dialog: (beat while he drinks)
+dialog: How's Lee doing?
+speaker_heading: HART
+dialog: She needs a rest.
+speaker_heading: WOODWARD
+dialog: Mondale did you a favor. Reagan's
+text: going to crush him.
+speaker_heading: Yellow Rev. (9/15/17)
+speaker_heading: HART
+dialog: Maybe. Probably.
+speaker_heading: WOODWARD
+dialog: You'll have an open road in ‘88.
+speaker_heading: HART
+dialog: ‘88... right.
+speaker_heading: WOODWARD
+dialog: Next time, they’re going to want
+dialog: the one thing you won't give.
+speaker_heading: HART
+dialog: What’s that?
+speaker_heading: WOODWARD
+dialog: Everything else.
+speaker_heading: HART
+dialog: Right.
+scene_heading: OPENING TITLES
+text: And then BLACK. We hear a woman crying.
+scene_heading: TITLE SLIDE: WASHINGTON. 1987.
+scene_heading: INT. BEDROOM, GEORGETOWN. EARLY MORNING.
+text: Tammy Faye Bakker cries through runny mascara on
+dialog: “Charges expected in Bakker Family Scandal"
+text: The room is dark, but we find Gary’s legs on the
+text: bed. He’s pulling on his trademark COWBOY BOOTS.
+speaker_heading: TAMMY FAYE
+dialog: ... And so I always say, ‘Lord, I
+dialog: trust you with me.'
+text: Gary stands and leaves.
+scene_heading: INT. GEORGETOWN UNIVERSITY AUDITORIUM, WASHINGTON
+text: A debate between GARY HART and BOB DOLE is in ful
+speaker_heading: HART
+dialog: President Reagan has allowed our
+dialog: cities to decay while he buys
+dialog: enough warheads to destroy the
+dialog: planet 30 times over.
+speaker_heading: (MORE )
+dialog: CNN -
+dialog: edge of his
+dialog: 1 swing.
+dialog: Yellow Rev. (9/15/17) 9.
+speaker_heading: HART (CONT'D)
+dialog: Imagine if every library could have
+dialog: a computer. Every school. Every
+dialog: home.
+speaker_heading: DOLE
+dialog: Why don’t we just buy everyone a
+dialog: microwave? And a television set
+dialog: while we’re at it?
+speaker_heading: HART
+dialog: I'm interested in educating the
+dialog: next generation... not entertaining
+dialog: them.
+speaker_heading: MODERATOR
+dialog: This is beginning to sound like a
+dialog: campaign debate... Did either of
+dialog: you want to announce something?
+text: Light laughter and clapping from the audience. Young people
+text: are clearly charmed by Hart’s charisma.
+text: In the wings we find Billy Shore, four years older. He’s
+text: watching and nodding. ALAN WEINBERG approaches with a smile.
+speaker_heading: WEINBERG
+dialog: Mr. Billy Shore, what’s the story?
+speaker_heading: SHORE
+dialog: It’s not going to happen today,
+dialog: Alan... But keep asking.
+speaker_heading: WEINBERG
+dialog: You hear Sonny Bono announced. He’s
+dialog: running for mayor of Palm Springs.
+speaker_heading: SHORE
+dialog: Come on. I can guess his slogan.
+dialog: They both stumble some sort of “He’s got you babe”.
+scene_heading: INT. CONFERENCE ROOM - “HART FOR PRESIDENT” HQ, DENVER
+text: Drop-tile ceiling, 35-year old carpeting with paint to match.
+text: A college aged intern is setting up three unmatching TVs. One
+text: features Hart at Georgetown.
+text: Staffers from ‘84 reuinite with hugs. Some holding suitcases.
+text: A PHONE TECH is trying to open the phone jack box with a
+text: screwdriver, but the screws are stripped. He grabs a small
+text: crowbar from his bag, and pries the door off with a loud POP.
+scene_heading: Yellow Rev. (9/15/17) 10.
+speaker_heading: PHONE TECH
+dialog: (coughing, sputtering)
+dialog: Ain’t gonna hold twenty-five lines.
+text: Mid-way through the room, 50 or so VOLUNTEERS and STAFFERS
+text: are gathered in a circle, rapt, with DIXON, campaign manager.
+speaker_heading: DIXON
+dialog: These other candidates, they’re all
+dialog: decent guys. They all want the best
+dialog: for this country. But they are Not
+dialog: Going To Win. You know it, they
+dialog: know it, most importantly, George
+dialog: Bush knows it. That’s why they’re
+dialog: all gunning for us. We don’t win
+dialog: this primary, kiss the White House
+dialog: good bye. And kiss your future
+dialog: goodbye. Because, and I don’t know
+dialog: how the hell this happened, but
+dialog: damn near all of you in here are
+dialog: younger than me. So it is truly
+dialog: your future that is at stake here.
+text: The phone tech continues to pry ceiling tiles loose, using a
+text: staple gun to drop phone cord from the ceiling.
+speaker_heading: MODERATOR (ON TV)
+dialog: They call you and some of your
+dialog: younger colleagues the Atari
+dialog: Democrats.
+speaker_heading: HART (ON TV)
+dialog: I've heard. I didn’t coin that.
+speaker_heading: MODERATOR (ON TV)
+dialog: Have you played Atari?
+speaker_heading: HART (ON TV)
+dialog: I tried Asteroids with my son a few
+dialog: times. I mostly drifted around
+text: getting pelted with rocks. Felt
+dialog: like my first term in the senate.
+text: We find KEVIN SWEENEY (press secretary) along with Wilson and
+text: IRENE KELLY (campaign scheduler) around a PHONE TREE. Wilson
+text: is distracted by Hart on television.
+speaker_heading: KELLY
+dialog: If line three rings, don’t pick up.
+dialog: That’s the fax.
+speaker_heading: SWEENEY
+dialog: What if line one and two are busy?
+scene_heading: Yellow Rev. (9/15/17) 11.
+speaker_heading: KELLY WILSON
+dialog: Use line four. (watching the TV)
+dialog: How does he look that good?
+speaker_heading: SWEENEY (CONT'D)
+dialog: Genetics.
+text: Swing back to Dixon building with steam withe volunteers.
+speaker_heading: DIXON
+dialog: So, when you're tired and your feet
+dialog: hurt and your hands are freezing
+dialog: because you’ve been knocking on
+dialog: doors in Nashua for twelve straight
+dialog: hours. When you miss your
+dialog: boyfriends and girlfriends, your
+dialog: kids. When you’re tired of eating
+dialog: leftovers because we don’t pay you
+dialog: jack shit, you think about the
+dialog: opportunity we have right now, and
+dialog: the cost to this great country if
+dialog: we squander it. The future of this
+dialog: country is in your hands. That’s no
+dialog: exaggeration. It’s in your hands.
+dialog: Hold it carefully.
+scene_heading: INT. THE WASHINGTON POST NEWSROOM. CONTINUOUS.
+text: The newsroom’s humming as Hart’s debate continues on TV.
+text: BEN BRADLEE’s office, where the legendary editor, seated
+text: behind his desk with Watergate-era photos behind him, is
+text: meeting with about 7 editors and reporters.
+text: In the room are: ANN DEVROY (30s, the political editor),
+scene_heading: DAVID BRODER (50s, the chief political correspondent), BOB
+dialog: WOODWARD (40s, reporter of Watergate fame), BOB KAISER (40s,
+text: national editor), and AJ PARKER from earlier.
+speaker_heading: BRADLEE
+dialog: Let’s assume Cranston’s out. Who’re
+dialog: we missing?
+speaker_heading: BRODER
+text: If Cranston doesn’t know he’s out,
+dialog: someone better tell him.
+text: Devroy looks at the TV, part distracted, part annoyed.
+speaker_heading: DEVROY
+text: Gore's looking at it.
+dialog: Al Gore?
+scene_heading: Yellow Rev. (9/15/17) 12.
+speaker_heading: KAISER BRADLEE
+dialog: Is he old enough?
+speaker_heading: DEVROY (CONT'D)
+dialog: He’s 38, I think?
+speaker_heading: BRODER
+dialog: His daddy could win him the South.
+speaker_heading: KAISER
+dialog: Have you seen the wife? Tipper?
+speaker_heading: BRODER
+dialog: And Dukakis, maybe.
+speaker_heading: BRADLEE
+dialog: Who?
+speaker_heading: BRODER
+dialog: Governor of Massachusetts.
+speaker_heading: BRADLEE
+dialog: Du-ka-kis. That's not going to look
+text: good on a campaign poster.
+speaker_heading: KAISER
+dialog: Add a “K". He could win the South.
+text: Bradlee watches Hart on TV for a moment. Parker notices.
+speaker_heading: PARKER
+dialog: Gallop’s got Hart beating Bush by
+dialog: twelve.
+speaker_heading: BRADLEE
+dialog: Twelve? Jesus. Woodward, you know
+dialog: the guy. What do you think?
+speaker_heading: WOODWARD
+dialog: Gary Hart? He could win it. I mean,
+dialog: he’s got the hair.
+speaker_heading: DEVROY
+dialog: How many points you think the hair
+dialog: is worth?
+speaker_heading: BRADLEE
+dialog: Six points. Four if it’s windy.
+text: Laughter, as we hear from the TV...
+dialog: Applause.
+scene_heading: Yellow Rev. (9/15/17) 13.
+speaker_heading: DOLE
+dialog: I think it's a little lofty for
+dialog: Senator Hart to be discussing our
+dialog: grand future without crediting
+dialog: President Reagan with the reforms
+dialog: we're seeing in the Soviet Union.
+speaker_heading: HART
+dialog: We didn't bankrupt the Soviets.
+dialog: Communism bankrupted itself,
+dialog: morally and economically. You don't
+dialog: get credit for kicking down a door
+dialog: that's already open.
+text: Hart smiles at Dole, who kind of smiles back.
+dialog: There’s genuine camaraderie amongst these men.
+scene_heading: INT. HART CAMPAIGN OFFICE, DENVER. CONTINUOUS.
+text: The campaign team sits in folding chairs.
+speaker_heading: KELLY
+text: Ribbon-cutting at the end of the
+dialog: week, and then a run-through of the
+dialog: grand announcement, six thousand
+text: feet above sea level, at Red Rocks.
+speaker_heading: SWEENEY
+dialog: Has anyone been able to move him
+dialog: off this weird mountain man thing?
+speaker_heading: EMERSON
+text: He’s entrenched.
+speaker_heading: WILSON
+dialog: Technically, he can’t be entrenched
+text: if he’s on top of a mountain.
+speaker_heading: DIXON
+dialog: There’s a long storied history of
+dialog: announcing one’s candidacy in a
+dialog: drab shit colored ballroom with
+dialog: electricity... and lights...
+speaker_heading: SWEENEY
+dialog: And elevators.
+speaker_heading: KELLY
+dialog: Has anyone told him we can’t drop
+dialog: balloons from a mountain?
+speaker_heading: STRATTON
+dialog: Maybe we can rent a plane.
+scene_heading: Yellow Rev. (9/15/17) 14.
+text: Wilson continues to watch Hart on TV, enamored.
+speaker_heading: WILSON
+dialog: We didn’t prep any of this. He’s
+text: just shooting from the hip.
+text: Dixon gets the attention of a young female staffer, GINNY
+text: TERZANO. He motions for a coffee. She nods and walks off.
+speaker_heading: KELLY
+dialog: She’s not the one who gets the
+dialog: coffee.
+speaker_heading: SWEENEY
+dialog: We'll need water for the press.
+dialog: Maybe oxygen.
+speaker_heading: EMERSON
+dialog: And beer.
+speaker_heading: STRATTON
+dialog: Good luck. I moved two weeks ago
+dialog: and still can’t find a decent
+dialog: package store.
+speaker_heading: DIXON
+dialog: Okay, come on, let’s focus. Please.
+speaker_heading: KELLY
+dialog: We've got a down weekend in Miami.
+text: An exchanged glance over this.
+speaker_heading: WILSON
+dialog: (turning to Stratton)
+dialog: You haven’t found the one on
+text: Wynkoop? Right around the corner.
+speaker_heading: STRATTON EMERSON
+dialog: (to Emerson) I‘1l put together some local
+dialog: Doesn't it close at like 5? party leaders out of Fort
+dialog: Lauderdale.
+speaker_heading: DIXON
+dialog: We’re not doing that.
+speaker_heading: EMERSON
+dialog: We're not getting endorsements?
+speaker_heading: DIXON
+dialog: We’re not filling up photo albums
+dialog: with people who'll think we owe
+dialog: them something.
+scene_heading: Yellow Rev. (9/15/17) 15.
+speaker_heading: EMERSON
+dialog: Anything else we should know?
+speaker_heading: DIXON
+dialog: No barbecues.
+speaker_heading: SWEENEY EMERSON
+dialog: Dix... The road to the Yeah, what about the steak
+dialog: presidency goes through the fry?!
+dialog: Iowa State Fair.
+speaker_heading: DIXON (CONT'D)
+dialog: Not this year.
+speaker_heading: SWEENEY
+dialog: Jesus. Who’s staffing Miami?
+speaker_heading: KELLY
+dialog: Billy's there all weekend.
+speaker_heading: SWEENEY
+dialog: (to Dixon, surprised)
+dialog: You're going to Miami?
+speaker_heading: KELLY
+dialog: Billy B, Broadhurst, not Shore.
+speaker_heading: SWEENEY
+dialog: Damn, there’s a lot of Billy's
+dialog: around here.
+speaker_heading: DIXON
+dialog: I’m Bill. Only an 8-year-old should
+dialog: be called Billy.
+speaker_heading: STRATTON
+dialog: What is Billy B’s exact position on
+dialog: this campaign?
+speaker_heading: DIXON
+dialog: He’s a Louisiana lobbyist. His
+dialog: chief contribution to the political
+dialog: process seems to be gumbo and
+dialog: bourbon.
+speaker_heading: EMERSON
+dialog: And dirty jokes. He makes the
+dialog: senator laugh.
+speaker_heading: KELLY
+dialog: Last week in April we kick off and
+text: hit the road, starting with a grip
+dialog: and greet in Kansas.
+text: Yellow Rev. (9/15/17) 16.
+speaker_heading: SWEENEY
+dialog: Kansas is a go?
+speaker_heading: DIXON
+dialog: We think Kansas is a go.
+speaker_heading: SWEENEY
+dialog: He'll actually talk about his
+dialog: parents?
+speaker_heading: DIXON
+text: He finds the subject irrelevant.
+speaker_heading: WILSON
+dialog: How...? Everyone’s got parents.
+text: It’s relatable.
+speaker_heading: DIXON
+dialog: That he was born?
+speaker_heading: SWEENEY
+dialog: This isn’t four years ago. He’s up
+dialog: by twelve points... People are
+dialog: going to want to know him.
+speaker_heading: KELLY
+dialog: Is the senator comfortable...
+dialog: “sharing”?
+speaker_heading: DIXON
+dialog: I’ve never met a man more talented
+text: at untangling the bullshit of
+dialog: politics into something anyone can
+dialog: understand. It’s a gift - That he
+dialog: wants to share. And all people want
+dialog: is him to pose for a stupid photo.
+dialog: He will never understand that.
+text: Everyone digests this. Terzanno returns with coffee.
+speaker_heading: KELLY
+dialog: After Miami, it’s up to New York
+dialog: for the newspaper publishers.
+speaker_heading: SWEENEY
+dialog: Speaking of... What am I telling
+dialog: People?
+speaker_heading: DIXON
+dialog: People is not a newspaper.
+speaker_heading: SWEENEY
+text: It’s circulation is thirty million.
+dialog: I think it counts.
+scene_heading: Yellow Rev. (9/15/17) 17.
+speaker_heading: DIXON
+dialog: If you run covers about the sexiest
+dialog: man alive, you’re not a newspaper.
+scene_heading: INT. BEN BRADLEE’S OFFICE, WASHINGTON POST. CONTINUOUS.
+text: ON THE TV -- CHEERS for Hart.
+speaker_heading: KAISER
+dialog: He ever find the beef?
+speaker_heading: WOODWARD
+dialog: Uh yeah, he wrote a pamphlet on it -
+dialog: Reform, Hope, and the Human Factor.
+dialog: (adding)
+text: It’s 94 pages.
+speaker_heading: KAISER DEVROY
+text: Some pamphlet. (looking over at the TV)
+dialog: What about his marriage?
+text: More CHEERS from the TV as Devroy, annoyed now, reaches over
+text: and turns the volume OFF. We still SEE, but can’t HEAR Hart.
+speaker_heading: KAISER
+dialog: I heard she looks the other way.
+speaker_heading: BRODER
+dialog: Sounds pretty ideal to me.
+speaker_heading: BRADLEE
+dialog: Sounds like a zipper story.
+speaker_heading: DEVROY
+dialog: What is the candidate’s position on
+dialog: zippers?
+speaker_heading: WOODWARD
+dialog: He prefers them open.
+speaker_heading: BRADLEE
+dialog: Bob, weren’t you two roommates at
+dialog: one point?
+speaker_heading: WOODWARD
+dialog: When Lee kicked him out a few years
+text: back, he crashed on my couch.
+speaker_heading: DEVROY
+dialog: And?
+scene_heading: Yellow Rev. (9/15/17) 18.
+speaker_heading: WOODWARD
+dialog: And anything that happens on my
+dialog: sectional sofa is irrelevant.
+speaker_heading: DEVROY
+dialog: AJ says the trail reporters are
+dialog: obsessed with it.
+speaker_heading: BRADLEE
+dialog: Mr. Parker. Is that right?
+speaker_heading: PARKER
+dialog: (stepping forward now)
+dialog: Just a lot of stories circulating.
+speaker_heading: BRADLEE
+dialog: Such as?
+speaker_heading: PARKER
+dialog: I heard one when I was in Dallas.
+dialog: Someone saw Hart go up to his hotel
+dialog: room with this blonde heiress after
+text: a fund-raiser.
+speaker_heading: BRADLEE
+dialog: Hm. When I was on trail, we were
+dialog: fucking each other, not writing
+dialog: about it.
+speaker_heading: PARKER
+dialog: I’m married.
+speaker_heading: BRADLEE
+dialog: Good luck with that.
+speaker_heading: DEVROY
+dialog: Should we follow up?
+speaker_heading: BRADLEE
+dialog: It’s gossip. Do you know how many
+dialog: members of congress... I mean, we’d
+dialog: have to expel half the senate.
+speaker_heading: BRODER
+dialog: And you wouldn’t be thrilled with
+dialog: who was left.
+speaker_heading: DEVROY
+dialog: I’m not thrilled now.
+scene_heading: Yellow Rev. (9/15/17) 19.
+scene_heading: INT. HART CAMPAIGN OFFICE, DENVER. CONTINUOUS.
+text: Where Hart is still giving his speech on the TV, Wilson
+text: mostly paying attention and the rest of them mostly not.
+speaker_heading: DIXON
+dialog: Why do they need three hours to
+dialog: take a picture?
+speaker_heading: SWEENEY
+dialog: That's just what they do. It’s the
+dialog: cover of People.
+speaker_heading: EMERSON
+dialog: And they want Gary and Lee.
+speaker_heading: SWEENEY
+dialog: They call me every day, and they’re
+dialog: not the only ones. I need to know
+dialog: what the plan is here.
+speaker_heading: DIXON
+dialog: As in?
+speaker_heading: SWEENEY
+dialog: There’s a ton of interest in the
+dialog: separations, the getting back
+dialog: together. Wouldn’t hurt us to put
+text: them both out there. Together.
+speaker_heading: DIXON
+dialog: What are you talking about?
+speaker_heading: SWEENEY
+dialog: The state of things... I mean...
+dialog: Are we talking about, I don’t know,
+dialog: whatever their arrangement...?
+speaker_heading: DIXON
+dialog: Arrangement - Did you really just
+dialog: say that out loud?
+speaker_heading: SWEENEY
+dialog: People want to know the Harts. They
+dialog: want to see them walking their dog,
+dialog: pumping gas, being regular people.
+speaker_heading: DIXON
+dialog: He’s not a regular person. He’s the
+dialog: next fucking president of the
+dialog: united fucking states.
+scene_heading: Yellow Rev. (9/15/17) 20.
+speaker_heading: KELLY EMERSON
+dialog: (aside to Emerson) (whispering back)
+dialog: I guess we’re really not We are not.
+dialog: talking about it?
+scene_heading: INT. FIRST CLASS CABIN, UNITED 767 - MORNING
+text: As passengers board, we linger on a row where a MAN and a
+text: WOMAN are reading magazines. We see the covers: The Bakkers
+text: and Jimmy Swaggart on Time ("Row in the Pulpit”), Charlie
+text: Sheen and “Platoon” on People.
+speaker_heading: HART
+dialog: No, it’s not up for discussion.
+speaker_heading: SHORE
+dialog: Millions of people read People.
+speaker_heading: HART
+dialog: (smiling)
+dialog: Oh, it has words?
+speaker_heading: SHORE
+dialog: People want to feel like they know
+dialog: you. It’s a good forum for that.
+speaker_heading: HART
+dialog: Billy. If I do a photoshoot,
+dialog: what’s tomorrow? Talent show?
+dialog: Swimsuit competition?
+dialog: (to himself)
+dialog: A good forum.
+speaker_heading: SHORE
+dialog: There will be photographers in
+dialog: Kansas.
+speaker_heading: HART
+dialog: And I will be smiling... like some
+dialog: sort of game show host.
+speaker_heading: PLANE WOMAN
+dialog: Excuse me. Mr. Hart? Would you mind
+dialog: signing my diary?
+text: He reflexively takes the daybook and signs it, then hands it
+text: back to the WOMAN with a smile. She actually squeals.
+speaker_heading: PLANE WOMAN (CONT’D)
+dialog: Thank you!
+text: She and HER FRIEND leave elated. Hart nods at the autograph
+text: seeker, then realizes Shore is staring at him in disbelief.
+scene_heading: Yellow Rev. (9/15/17) 21.
+speaker_heading: HART
+dialog: What?
+scene_heading: EXT. FRONT GATE AT TROUBLESOME GULCH, COLORADO. DAY.
+text: A WAGONEER pulls up to a ranch-style gate at the end of a
+text: gravel drive. The only sign says: PRIVATE PROPERTY. KEEP OFF.
+text: About 50 yards ahead, we see the log cabin where the Harts
+text: live. We can make out the figure of Lee spreading BIRD SEED
+text: on the ground. Hart gets out of the car and they share a hug.
+scene_heading: INT. KITCHEN, TROUBLESOME GULCH - DAY
+text: Gary and Lee enjoying sandwiches with Shore. Quick ad-libs
+dialog: about the quality of the food.
+speaker_heading: SHORE
+dialog: Your husband won’t move off of
+text: announcing at Red Rocks.
+speaker_heading: HART
+text: It’s a powerful backdrop.
+speaker_heading: SHORE
+dialog: We're going to need to distribute
+text: oxygen tanks to the press.
+speaker_heading: LEE
+dialog: Perhaps they’1ll conserve energy by
+dialog: not asking questions.
+text: Lee smiles at Gary. He winks back.
+speaker_heading: GARY
+dialog: Billy wants us to pose for People
+dialog: Magazine.
+speaker_heading: LEE
+dialog: Don’t be fooled, Gary loves People.
+speaker_heading: GARY
+dialog: That is slander.
+text: Their daughter ANDREA (23) wanders into the kitchen.
+speaker_heading: ANDREA
+dialog: You should have told him it was for
+dialog: Popular Science.
+scene_heading: Yellow Rev. (9/15/17) 22.
+speaker_heading: SHORE
+dialog: What do you think Andrea - This
+dialog: time next year, you might be living
+text: in the White House.
+speaker_heading: ANDREA
+dialog: Just think what my chores will be.
+speaker_heading: LEE
+dialog: Just think what your rent will be.
+speaker_heading: GARY
+dialog: How are the applications coming?
+speaker_heading: ANDREA
+text: Utterly fascinating.
+speaker_heading: GARY
+dialog: You know there’s a little school
+dialog: called Georgetown...
+speaker_heading: LEE
+dialog: I think we have some pull.
+scene_heading: EXT. AMONGST THE TREES - DAY
+text: Gray and Lee are hiking. He stumbles for a second and she
+text: makes a quip about his age.
+scene_heading: INT. LIVING ROOM, TROUBLESOME GULCH - AFTERNOON
+text: Gary and Lee share a sofa, reading books. They’re SURROUNDED
+text: BY BOOKS. Lee borrows Gary’s PENCIL to take notes.
+scene_heading: INT. ANDREA’S ROOM, TROUBLESOME GULCH - AFTERNOON
+text: Andrea is filling out grad school applications. Gary is going
+text: over one of her personal essays.
+speaker_heading: GARY
+dialog: I just don’t think you need the
+dialog: paragraph about the iguana. It
+dialog: makes light of everything else
+dialog: you're saying about yourself.
+speaker_heading: ANDREA
+dialog: Says I have a sense of humor.
+speaker_heading: GARY
+dialog: Yeah, I don’t think they care.
+text: Yellow Rev. (9/15/17) 23.
+text: Andrea chuckles a little. Gary picks up her GUITAR for a
+text: second. Tries strumming. Can’t play a lick.
+speaker_heading: ANDREA
+dialog: So, red rocks?
+speaker_heading: GARY
+dialog: A little too much?
+speaker_heading: ANDREA
+dialog: If you’re going to reframe the
+dialog: debate... why not reframe the
+dialog: location.
+text: Gary smiles. The kind of smile we reserve for our daughters.
+speaker_heading: ANDREA (CONT'D)
+dialog: Still getting a hard time about the
+dialog: road trip with Kate.
+speaker_heading: GARY
+dialog: We're your parents. We’re supposed
+dialog: to, you know... Just stay on main
+dialog: roads. Call us every night.
+speaker_heading: ANDREA
+dialog: That’s not the problem.
+text: Gary looks up from the application.
+speaker_heading: ANDREA (CONT'D)
+text: It’s Kate’s dad... He’s concerned
+dialog: about us sharing a room. I think it
+text: makes him uncomfortable.
+speaker_heading: GARY
+dialog: One bed or two?
+text: A beat. There is more to this conversation. Andrea hasn’‘t
+text: come out of the closet, but there is an understanding.
+speaker_heading: GARY (CONT’D)
+dialog: Hotel rooms aren’t cheap...
+dialog: (smiles)
+dialog: Make an economics argument.
+text: She smiles and nods a thank you.
+scene_heading: EXT. HART CAMPAIGN HEADQUARTERS - DAY
+text: Flashing bulbs. Hart, flanked by Lee on one side and Dixon on
+text: the other, holds a pair of scissors over a ceremonial ribbon.
+text: Yellow Rev. (9/15/17) 24.
+text: A large sign reads - “HART FOR PRESIDENT. NEW IDEAS.” We SEE
+text: assembled staff and supporters cheering and whistling.
+text: Hart tries to cut the ribbon twice, but the scissors are too
+text: small and dull. He smiles gamely.
+speaker_heading: HART
+dialog: Well this isn’t much of an omen!
+text: Amid the LAUGHTER, Shore appears to hand Lee a larger pair of
+text: scissors, which she hands to Hart.
+speaker_heading: LEE
+dialog: To second tries!
+text: Raucous LAUGHTER as Hart finally cuts the ribbon.
+scene_heading: INT. HART CAMPAIGN HEADQUARTERS - THIRTY MIN LATER
+text: Quieter now as Hart moves briskly from cubicle to cubicle,
+text: accompanied by Dixon and Shore, meeting the STAFF.
+text: We see dozens of young people at desks, folding tables,
+text: cubicles -- trying to look busy as they wait eagerly for
+text: Senator Hart to say hello to them. As he lets go of a YOUNG
+text: WOMAN’s hand, moves on to the next --
+speaker_heading: DIXON
+dialog: This is Joe Trippi, Senator. He’s
+dialog: handling mail.
+speaker_heading: HART
+dialog: Hi Joe.
+dialog: (looking at his desk)
+dialog: Is that supposed to be a chef?
+speaker_heading: JOE
+dialog: Huh? Oh.
+dialog: (re: a blue figurine)
+text: It’s a smurf. Brainy Smurf.
+dialog: Actually. See? Glasses.
+speaker_heading: HART
+dialog: (taking the smurf)
+dialog: Uh-huh.
+speaker_heading: DIXON
+dialog: And this is Ginny Terzano, part of
+dialog: our press team...
+text: Hart goes to shake the next hand, absentmindedly pocketing
+text: the smurf. OFF Joe’s ‘Oh my god! He took my smurf!' look.
+dialog: Yellow Rev. (9/15/17) 25.
+scene_heading: EXT. RED ROCKS STATE PARK, COLORADO. MIDDAY.
+text: Gary, Lee, and the campaign trudge up a dusty hill under the
+text: hot sun. The wind WHIPS around them audibly, obscuring some
+text: of the dialog, which is rushed and sometimes overlapping.
+speaker_heading: DIXON
+dialog: (to Stratton)
+dialog: Can you run this much cable?
+speaker_heading: STRATTON
+dialog: We'll use a mult box.
+speaker_heading: DIXON
+dialog: How much higher are we going?
+text: The altitude is brutal on all of them, but the Harts.
+speaker_heading: HART
+dialog: Just a little bit further.
+speaker_heading: STRATTON
+text: The straight down light is going to
+dialog: make brutal shadows. I'd like to
+text: shade him somehow, for the cameras.
+speaker_heading: EMERSON
+dialog: (gasping for air)
+dialog: Mrs. Hart, are you okay with the
+dialog: climb?
+speaker_heading: LEE
+dialog: (fine, smiling back)
+dialog: Are you?
+speaker_heading: STRATTON
+dialog: (to Hart)
+dialog: How would you react to a tent?
+speaker_heading: HART
+dialog: Poorly.
+speaker_heading: WILSON
+dialog: (to Hart)
+dialog: We should hit enlightened
+text: engagement before the three E's.
+speaker_heading: DIXON
+dialog: Was Everest not available?
+speaker_heading: HART
+dialog: (to Wilson)
+dialog: Huh?
+dialog: Yellow Rev. (9/15/17) 26.
+speaker_heading: WILSON
+dialog: Economy, education, environment.
+speaker_heading: DIXON
+dialog: Are we calling it the three E’s?
+speaker_heading: HART
+dialog: (to Wilson)
+dialog: Not that. The part before.
+speaker_heading: WILSON
+dialog: I think foreign policy first?
+speaker_heading: HART
+dialog: You forgot ethics.
+speaker_heading: DIXON
+dialog: So there’s four E's?
+speaker_heading: LEE
+dialog: Gary’1l need water.
+speaker_heading: HART
+dialog: (to Lee)
+dialog: What’s that?
+speaker_heading: LEE
+dialog: You’1l need water.
+speaker_heading: STRATTON
+dialog: (puffing for air)
+dialog: We'll have... water.
+speaker_heading: EMERSON
+dialog: (suffering)
+dialog: .-. and beer.
+speaker_heading: WILSON
+dialog: It’s got to be the three E’s.
+text: Linguistically.
+speaker_heading: DIXON
+dialog: So we’re losing one of the E’s?
+dialog: Which one?
+speaker_heading: HART
+dialog: Ha, environment, education, or the
+dialog: economy. Which one do you suggest?
+speaker_heading: DIXON
+dialog: Add an E. Who gives a fuck?
+dialog: Yellow Rev. (9/15/17) 27.
+speaker_heading: WILSON
+dialog: (quietly to himself)
+dialog: Four fucking E’s.
+speaker_heading: STRATTON
+dialog: Can I get some music? Maybe a high
+dialog: school band?
+speaker_heading: HART
+dialog: (quickly)
+dialog: No band.
+speaker_heading: STRATTON
+dialog: Music is important. It sets a tone.
+speaker_heading: DIXON
+dialog: (re: the band)
+dialog: What are we, opening a Stater
+dialog: Brothers?
+speaker_heading: HART
+dialog: Where’s Bill?
+speaker_heading: DIXON
+dialog: What do you need?
+speaker_heading: HART
+dialog: Not you -- Shore.
+speaker_heading: DIXON
+dialog: He’s Billy, I’m Bill.
+text: When they arrive at a small bluff, they find a couple
+text: staffers and Irene Kelly already waiting.
+speaker_heading: KELLY
+dialog: (pulling Lee aside)
+dialog: Lee, you'll be over here. I think
+dialog: you want to wear something dark,
+text: maybe a blue. Not black.
+text: Stratton takes Hart’s arm, guides him away from Lee.
+speaker_heading: STRATTON
+dialog: Let’s see how the light’1l play.
+speaker_heading: LEE
+dialog: (reaching for Hart)
+dialog: Did you talk to Andrea?
+speaker_heading: HART
+dialog: (over the wind)
+dialog: Yeah, remind me when we —
+dialog: Yellow Rev. (9/15/17) 28.
+speaker_heading: STRATTON
+dialog: We'll need makeup for that glare.
+speaker_heading: HART
+dialog: Really?
+speaker_heading: DIXON
+dialog: Can we have a moment?
+text: Dixon pulls Hart away a couple steps.
+speaker_heading: DIXON (CONT'D)
+dialog: Is all of this really necessary?
+dialog: Brown Palace has a perfectly fine
+dialog: ballroom...
+speaker_heading: HART
+dialog: Dix, You know what brought me to
+dialog: Colorado originally?
+dialog: (Dixon doesn’t know)
+dialog: The railroad. I spent a summer
+dialog: hammering railroad ties. Can you
+dialog: imagine?
+speaker_heading: DIXON
+dialog: I actually can.
+speaker_heading: HART
+dialog: You know the last time a democratic
+dialog: president came out of the west?
+speaker_heading: DIXON
+dialog: Never.
+speaker_heading: HART
+dialog: Exactly. The west is the future. It
+dialog: always has been. And it still is.
+text: OFF Hart, hair whipping in the wind, moving back to his
+text: podium spot. Dixon watching him amongst the grandeur of the
+text: giant rust colored rocks.
+text: Lee recedes with her staff as aides bicker over where Hart
+text: should stand. Someone mindlessly fixes his hair.
+scene_heading: EXT. TROUBLESOME GULCH, COLORADO - DAY
+text: Gary and Lee sit for a MAGAZINE PHOTOGRAPHER who is making
+text: minor adjustments to lighting as hair and make up people fuss
+text: with Hart’s appearance. He’s trying to smile but it’s driving
+text: him crazy. The photographer keeps giving instructions... The
+dialog: tension builds when we suddenly...
+dialog: Yellow Rev. (9/15/17) 29.
+scene_heading: EXT. ATLANTIC OCEAN. DAY.
+text: SILENCE, except for the sound of the GULLS softly cawing.
+text: The sun reflects off the ocean. It’s as peaceful as the last
+text: scene was hectic. We linger on the water for several seconds,
+text: seeing and hearing no one.
+dialog: Then we realize our POV is Hart’s POV.
+text: In a a tee-shirt and shorts and dark shades, he leans on the
+text: HOTEL BALCONY RAILING and stares out over the ocean. He’s so
+text: relaxed, we barely recognize him.
+scene_heading: EXT. TURNBERRY ISLE PIER, MIAMI. AFTERNOON.
+text: Hart drifts aimlessly down the pier with BILLY BROADHURST,
+text: early 50s, a Southern raconteur.
+speaker_heading: BROADHURST
+dialog: He says, Billy B, for that I will
+dialog: trade you the car and the crawfish!
+dialog: I took that deal! I took it!
+dialog: (laughing)
+text: There it is, up ahead.
+text: We SEE a YACHT with a dozen people milling around on deck,
+text: drinking. We HEAR strains of Miami Sound Machine.
+speaker_heading: BROADHURST (CONT'D)
+text: Belongs to a guy named Soffer. Real
+dialog: nice guy. Owns a shit ton of real
+dialog: estate down here.
+scene_heading: EXT. ABOARD THE MONKEY BUSINESS. NIGHT.
+text: A PARTY AT SEA! It’s LOUD, and Hart and Broadhurst are
+text: drinking tequila from tumblers, talking to LYNN ARMANDT,
+text: brunette in her 20s, and DANA WEEMS, a model in her 20s.
+text: Everyone's drinking, SHOUTING over the music.
+speaker_heading: ARMANDT
+dialog: A senator?
+speaker_heading: HART
+dialog: (laughing, having fun)
+dialog: I was. Recently retired.
+speaker_heading: ARMANDT
+dialog: Wow. Like, in Florida?
+scene_heading: Yellow Rev. (9/15/17) 30.
+text: Broadhurst leans into Hart. He points at a couple rich guys
+text: across the way, asking if Hart wants to meet them.
+speaker_heading: HART
+dialog: Not interested.
+text: An attractive 29 year old blonde joins the group. She
+text: whispers something in Armandt’s ear. This is DONNA RICE.
+text: Rice introduces herself but Hart can barely hear her name.
+scene_heading: EXT. THE MONKEY BUSINESS. DAY.
+text: The yacht drifts on the open ocean. Music now twinkling in
+dialog: the distance.
+speaker_heading: PRELAP :
+speaker_heading: HART (0.C.)
+dialog: I intend -- as I always have -- to
+dialog: run a campaign of ideas.
+scene_heading: EXT. RED ROCKS STATE PARK, COLORADO. DAY.
+text: For a moment, we see a caravan of reporters hiking up to the
+text: press conference as they struggle to breath.
+speaker_heading: HART (0.C.)
+dialog: Ideas have power. Ideas are what
+dialog: governing is all about.
+text: TIME CUT - A CAMERAMAN is on his knees in the orange dust, a
+text: massively heavy camera slung on his shoulder.
+text: We see Parker taking notes. Fielder a couple rows back. Hart
+text: stands without podium, framed by the majestic rocks.
+speaker_heading: HART (CONT’D)
+dialog: We are running for the highest and
+dialog: most important office in the land.
+text: We find Emerson, Shore and Stratton in a heated discussion.
+speaker_heading: EMERSON
+dialog: It is your job, specifically, to
+dialog: convince the senator not to do
+dialog: things exactly like this.
+speaker_heading: SHORE
+dialog: What exactly do you want me to say?
+dialog: Yellow Rev. (9/15/17) 31.
+speaker_heading: EMERSON
+dialog: That he’s going to look like an
+dialog: idiot... or worse, kill somebody.
+dialog: What the fuck is an axe throwing
+dialog: contest anyway?
+speaker_heading: WILSON
+dialog: I believe they call it Timbersport.
+speaker_heading: STRATTON
+dialog: I can look into light weight axes.
+speaker_heading: WILSON
+dialog: Like, for children?
+speaker_heading: SHORE
+dialog: Roosevelt was an outdoorsman. He
+dialog: killed a grizzly once.
+dialog: (aside)
+dialog: You know that’s where teddy bears
+dialog: came from?
+speaker_heading: EMERSON
+dialog: Fuck off.
+speaker_heading: WILSON
+dialog: He’s correct.
+speaker_heading: SHORE
+dialog: It’s true. Teddy Roosevelt killed a
+dialog: giant bear and they commemorated it
+dialog: by making plush toys for children.
+dialog: It was a national sensation.
+speaker_heading: STRATTON
+dialog: Maybe he'd settle for log rolling?
+speaker_heading: EMERSON
+dialog: How will they commemorate Gary Hart
+dialog: impaling a lumberjack?
+speaker_heading: SHORE
+dialog: Might play well with the far left.
+scene_heading: INT. HART CAMPAIGN PLANE. 90 MINUTES LATER.
+dialog: No one obeys the traditional rules of flying. People mill
+text: around seats and stand in the aisle and perform interviews.
+text: Meanwhile, Hart, chin in hand, alone, staring out the window.
+text: Nearby, Ann McDaniel is working Sweeney for time with Hart.
+scene_heading: Yellow Rev. (9/15/17) 32.
+speaker_heading: MCDANIEL
+text: Sure looks overjoyed to be going
+dialog: home after thirty years.
+speaker_heading: SWEENEY
+dialog: (swigging beer)
+dialog: The Senator has very fond memories
+text: of Kansas. He cannot wait.
+speaker_heading: MCDANIEL
+dialog: No one has fond memories of Kansas.
+text: We find Dixon, Germond, Broder and Wyman playing cards. We’re
+text: watching them from behind the economy curtain. In the BACK
+text: with most of the REPORTERS. Parker watches carefully.
+text: An ORANGE enters foreground. A Sharpie scrawls a message on
+text: the peel. After a big windup, Weinberg rolls the orange up
+text: the aisle of the plane. It disappears into the front cabin.
+text: A few REPORTERS cheer in their seats. We notice TOM FIEDLER,
+text: early 30s and nerdy, among them. He feels on the outside.
+speaker_heading: FIELDER
+dialog: What’d you write on it?
+speaker_heading: WEINBERG
+dialog: I asked where the goddamn food is.
+speaker_heading: SHANAHAN
+dialog: Good. I’m starving. What do they
+dialog: have in Kansas? Hardys?
+speaker_heading: WEINBERG
+dialog: Arbys.
+text: Parker looks up to first class. He sees Germond, Broder and
+text: Wyman leaving the front section and heading back.
+text: Billy picks up the ORANGE. Shows it to Hart. He smiles.
+speaker_heading: SHORE
+dialog: Remember this time last year? Our
+text: bus had a flat outside Dubuque.
+text: Parker is watching Hart chuckle in response, when Sweeney
+text: arrives at his seat.
+speaker_heading: SWEENEY
+dialog: We've got a few minutes now if
+dialog: you're ready.
+text: Parker practically hops out of his seat.
+scene_heading: Yellow Rev. (9/15/17) 33.
+speaker_heading: WEINBERG
+dialog: Go get’em tiger.
+text: FIEDLER NOTICES and pulls Sweeney into the galley.
+speaker_heading: FIEDLER
+dialog: Hey, when can I get some face time
+dialog: with the Senator?
+speaker_heading: SWEENEY
+dialog: We'll do a presser in Kansas.
+speaker_heading: FIEDLER
+dialog: I mean one on one.
+speaker_heading: SWEENEY
+dialog: We’re not doing that this time.
+speaker_heading: FIEDLER
+dialog: (motions to Parker)
+dialog: What do you call that?
+speaker_heading: SWEENEY
+dialog: The Washington Post.
+text: Sweeney keeps moving as Fiedler takes this in.
+text: Just then Weinberg notices the orange a few feet away,
+text: tumbling back down the aisle. He reaches out and grabs it.
+text: We see the words written on the orange in all caps: “HAVE AN
+scene_heading: ORANGE. - GARY.”
+scene_heading: INT. HART CAMPAIGN PLANE. FIVE MINUTES LATER.
+text: Off the flipping of a NOTEPAD, we find Hart and Parker facing
+text: each other in the front, with Sweeney watching carefully.
+speaker_heading: PARKER
+dialog: But you think the president hasn't
+dialog: gone far enough?
+speaker_heading: HART
+dialog: I know he hasn’t. I know Gorbachev
+dialog: too, don’t forget.
+speaker_heading: PARKER
+dialog: What can we do? Aside from
+dialog: negotiate more reductions.
+scene_heading: Yellow Rev. (9/15/17) 34.
+speaker_heading: HART
+dialog: There won't be any peace dividend
+dialog: if we don’t meet Gorbachev more
+dialog: than halfway. I'd invite him to my
+dialog: inauguration.
+speaker_heading: PARKER
+dialog: (doubtful)
+dialog: The Soviet premier.
+speaker_heading: HART
+dialog: Sure. Why wouldn’t he come? Why
+dialog: wouldn't we show him democracy in
+dialog: action? We need to be bolder.
+speaker_heading: PARKER
+dialog: You really think that might lay the
+dialog: groundwork for more negotiations?
+speaker_heading: HART
+text: Groundwork? The groundwork is laid.
+text: A BUMP OF TURBULENCE rocks the cabin for a moment. Gary
+text: casually catches his drink. Parker grabs his armrests.
+speaker_heading: HART (CONT'D)
+dialog: (calming)
+dialog: It’s just wind.
+speaker_heading: PARKER
+dialog: Yeah, uh huh.
+text: A few more bumps. Parker doesn’t love it.
+speaker_heading: HART
+dialog: Close your eyes.
+dialog: (off Parker’s reluctance)
+dialog: Seriously.
+text: Parker finally shuts his eyes.
+speaker_heading: HART (CONT'D)
+text: We're driving down a country road.
+text: The cabin jostles again.
+speaker_heading: HART (CONT'D)
+dialog: See. We hit a few bumps. Truck
+dialog: keeps going. You’ve been doing this
+dialog: your whole life. Some roads aren't
+dialog: paved. That’s all.
+text: The plane settles. Parker opens his eyes.
+scene_heading: Yellow Rev. (9/15/17) 35.
+speaker_heading: PARKER
+dialog: (embarrassed)
+dialog: Thank you.
+speaker_heading: HART
+dialog: You got it... So the Soviets are in
+dialog: an economic tailspin, but change
+dialog: has to be managed. Otherwise you'll
+dialog: get a power vacuum, in Asia and the
+dialog: MidEast. You know what fills
+dialog: vacuums?
+speaker_heading: PARKER
+dialog: Human nature?
+speaker_heading: HART
+dialog: Exactly. Wars. Dictators. Religious
+dialog: extremism.
+speaker_heading: PARKER
+dialog: That's your view of human nature?
+speaker_heading: HART
+dialog: Didn't they teach you Tolstoy at..?
+speaker_heading: PARKER
+dialog: Yale. I was a history major.
+speaker_heading: HART
+dialog: (rummaging for a book)
+dialog: Here.
+text: (hands him a worn copy of
+dialog: Resurrection)
+dialog: It’'ll teach you something about the
+dialog: Soviets, too.
+speaker_heading: PARKER
+dialog: Thank you. I’1ll get it back to you.
+speaker_heading: HART
+dialog: Keep it. I’m not a library.
+scene_heading: EXT. TARMAC, AIRPORT - DAY
+text: Staffers and journalists exit the plane and try to make sense
+text: of their next move as they wander towards the terminal.
+scene_heading: EXT. MAIN STREET, OTTAWA, KANSAS. DAY.
+text: The Hart MOTORCADE enters the town square. People take
+text: notice. Some wave.
+scene_heading: Yellow Rev. (9/15/17) 36.
+text: Inside, Hart looks out with mixed feelings for his childhood.
+scene_heading: INT. OTTAWA UNIVERSITY CHAPEL, OTTAWA - DAY
+text: Hart has a private moment in the church he grew up in. It’s
+text: quiet and kind of beautiful. An organ player sits down and
+text: warms up the keys.
+scene_heading: INT. OTTAWA UNIVERSITY CHAPEL, OTTAWA - DAY
+text: Hart is midway through an ordinary policy speech for a large
+text: group of locals who are listening, but not very engaged.
+speaker_heading: HART
+dialog: As we move toward the end of this
+dialog: long, dark chapter in our history,
+dialog: new challenges lie ahead...
+text: Dixon, Wilson, and Shore speak quietly in the wings.
+speaker_heading: DIXON
+dialog: We flew to Ottawa fucking Kansas to
+dialog: give a policy speech? He’s supposed
+dialog: to be getting personal.
+speaker_heading: SHORE
+dialog: Personal is not a comfort zone.
+speaker_heading: WILSON
+dialog: If it’s any consolation, He is
+text: hitting all of the four E’s.
+speaker_heading: DIXON
+dialog: We added an E?
+scene_heading: EXT. HART CHILDHOOD HOME, OTTAWA. DAY.
+text: Hart and Lee, surrounded by a PACK OF REPORTERS, stand in
+text: front of a rickety clapboard house.
+text: ROADWORK is being done across the street.
+speaker_heading: MCDANIEL
+dialog: How does it feel to be back home?
+speaker_heading: HART
+dialog: We...uh... We actually lived in six
+dialog: different houses. My dad, he was
+dialog: out of work a lot.
+text: The campaign team just hangs back. Quietly stewing.
+scene_heading: Yellow Rev. (9/15/17) 37.
+speaker_heading: DIXON SHORE
+dialog: (quietly) I know, I know.
+dialog: Christ, just say it’s good to
+dialog: be home.
+text: Hart kind of notices his guys grumbling. Lee brightens.
+speaker_heading: LEE
+dialog: (prompting)
+dialog: Remember George used to sit out
+dialog: here all day?
+speaker_heading: HART
+dialog: Of course... Whenever I got home,
+dialog: my granddad would always be sitting
+text: here on the front porch with a
+text: Bible open in his lap. Every day.
+text: One time a neighbor asks him, just
+dialog: to be friendly, “What are you doing
+dialog: up there?” Grandad says, “Cramming
+dialog: for finals.”
+text: Lee and the reporters laugh. More photos. Hart turns and
+text: gives a reluctant smile.
+scene_heading: INT. ECONOLINE VAN - OTTAWA, KANSAS - NIGHT
+text: AN ELDER WOMAN VOLUNTEER drives the team. They seem to have
+text: lost their way and the staff is AUDIBLY UPSET.
+speaker_heading: STRATTON
+dialog: (prickishly clarifying)
+dialog: You've been to the airport before.
+speaker_heading: ELDER VOLUNTEER
+dialog: Yes, just never in a van.
+speaker_heading: WILSON
+dialog: (quietly)
+dialog: Where did we find her?
+speaker_heading: KELLY
+dialog: Are we going to swing through the
+dialog: South or not?
+speaker_heading: DIXON
+dialog: Why waste the money?
+speaker_heading: STRATTON
+dialog: (to the volunteer)
+dialog: How would you get there in a car?
+scene_heading: Yellow Rev. (9/15/17) 38.
+speaker_heading: WILSON
+dialog: (found a map)
+dialog: We can turn right on the farm road.
+speaker_heading: KELLY
+dialog: State directors in Georgia and
+dialog: Alabama are begging.
+speaker_heading: WILSON
+dialog: That was the farm road.
+speaker_heading: SHORE
+dialog: Carter won the South.
+speaker_heading: DIXON
+dialog: Carter was the South. Trust me,
+text: it’s already gone.
+speaker_heading: HART
+dialog: Irene’s right. I’m not writing off
+dialog: the South.
+speaker_heading: DIXON
+dialog: I can give you the numbers.
+speaker_heading: HART
+dialog: I intend to be the president of the
+dialog: entire country. Not 35 states. If
+dialog: my ideas make sense in Youngstown,
+dialog: they’1l make sense in Mobile.
+speaker_heading: DIXON
+dialog: (dryly)
+dialog: And we get to go to Alabama.
+speaker_heading: STRATTON
+dialog: (re: volunteer driver)
+dialog: Dear God, she ran a green.
+scene_heading: EXT. AIRPORT TERMINAL, TOPEKA, KANSAS - NIGHT
+text: They've arrived at the AIRPORT. Everyone exits in a hurry.
+text: Hart puts his hand on the ELDERLY VOLUNTEER’s shoulder. He
+text: gives her a smile and she immediately relaxes.
+scene_heading: INT. AIRPORT TERMINAL, TOPEKA, KANSAS - LATER THAT NIGHT
+text: STAFF and REPORTERS buzz around the terminal. WEINBERG,
+text: SHANAHAN, and a STRINGER read off stories into PAYPHONES.
+text: Hart sits between Sweeney and Shore, tinkering with a first-
+dialog: generation, shoe-size cellphone.
+scene_heading: Yellow Rev. (9/15/17) 39.
+text: Stratton approaches the press corps in the background.
+speaker_heading: STRATTON (0.S.)
+dialog: It’s a 30-minute delay, guys. Go
+dialog: get a sandwich.
+text: Stratton walks back towards Wilson and Emerson.
+speaker_heading: EMERSON
+dialog: It’s a travesty.
+speaker_heading: WILSON
+dialog: A designer suit?
+speaker_heading: EMERSON
+dialog: It’s not about the suit. It’s the
+dialog: presentation of things.
+speaker_heading: STRATTON
+dialog: What’s this?
+speaker_heading: WILSON
+dialog: Ralph Lauren announced they’re
+dialog: doing wardrobe for CBS News.
+speaker_heading: STRATTON
+dialog: You prefer Hugo Boss?
+speaker_heading: EMERSON
+dialog: There’s that word - Wardrobe. Like
+dialog: they’re on Three's Company
+speaker_heading: STRATTON
+text: It is a television show.
+speaker_heading: EMERSON
+dialog: No, it’s the news... A bad suit
+dialog: should mean something. It’s
+dialog: trustworthy.
+text: We see Hart hits a key on the phone and holds it up.
+speaker_heading: HART
+dialog: Why isn’t it ringing?
+speaker_heading: SHORE SWEENEY
+dialog: Did you hit send? Do you see any bars?
+speaker_heading: SHORE
+dialog: (holding out his hand)
+dialog: You have to hit send. I’1l do it.
+scene_heading: Yellow Rev. (9/15/17) 40.
+speaker_heading: HART
+dialog: (rising)
+dialog: Keep it. I’1l be back.
+text: Back to Emerson... Getting more heated.
+speaker_heading: EMERSON
+text: It starts with designer clothes.
+dialog: And everyone says - Don’t they look
+dialog: nice - Pretty soon Vidal Sassoon is
+text: doing Tom Brokow’s hair.
+speaker_heading: STRATTON
+dialog: (poking the bear)
+dialog: Maybe some music.
+speaker_heading: EMERSON
+dialog: Sure, Mark Knopfler’s writing some
+text: opening theme song and they‘1l have
+text: action shots of the anchors leaping
+text: away from fires and pulling kittens
+text: out of storm drains.
+speaker_heading: STRATTON
+dialog: Hey, maybe they don’t even need to
+dialog: read the news...
+speaker_heading: EMERSON
+dialog: Fuck, why have newsmen at all...?
+dialog: Let’s just hire models and teach
+dialog: them to read. You know, someone you
+dialog: can really jerk off to.
+speaker_heading: WILSON
+dialog: (genuinely amused)
+dialog: That’s funny.
+speaker_heading: EMERSON
+dialog: It’s not Doug. It’s not funny at
+dialog: all. It’s the Death Nail of
+dialog: journalism.
+speaker_heading: WILSON
+dialog: Do you mean Death Knell? It’s a
+dialog: common mistake.
+speaker_heading: EMERSON
+dialog: How often do people just punch you
+dialog: in the face?
+text: We find Parker grabbing a coke from a vending machine.
+text: Something catches his eye. He stares a moment, curiously.
+scene_heading: Yellow Rev. (9/15/17) 41.
+text: CUT TO Sweeney, still in his seat, clocking the same thing
+text: Parker's looking at: Hart crammed into a phone booth, head
+text: down, talking quietly with a big grin.
+text: Parker and Sweeney make eye contact, and then a GATE
+text: ANNOUNCEMENT draws their curiosity away.
+speaker_heading: CUT TO:
+text: THWACK! An ax lands solidly in a wooden BULLSEYE.
+scene_heading: EXT. NORTH COUNTRY, NEW HAMPSHIRE. DAY.
+text: Two strong hands yank the ax out of the log.
+text: A burly LUMBERJACK hands the LARGE AXE to Hart, who wears a
+text: flannel shirt and jeans.
+text: The crowd whispers in anticipation.
+text: Quick shot of a gaggle of reporters, Parker among them,
+text: snickering skeptically. Fiedler, from the Miami Herald, lifts
+text: a TWENTY DOLLAR BILL towards Parker.
+speaker_heading: FIEDLER
+text: Ten bucks says he misses.
+speaker_heading: PARKER
+dialog: I’m alright, thanks.
+dialog: Fiedler shrugs. Suit yourself.
+text: Quick POP of Sweeney, head in hands.
+speaker_heading: EMERSON
+dialog: This is a first... He might just
+dialog: actually throw away his campaign. I
+dialog: can’t fucking watch this.
+text: Shore, munching on an apple, looks on with detachment.
+text: Hart, smiling, lifts the ax over his head and hurls with all
+text: his might. It travels 25 feet and - THWACK! A dead bulls-eye.
+text: Even the reporters CHEER as Hart lifts his arms above his
+text: head and grins triumphantly.
+text: Parker gives Fiedler a little nod. Shore looks at Emerson.
+speaker_heading: EMERSON (CONT'D)
+dialog: (euphoric)
+dialog: That was incredible.
+scene_heading: Yellow Rev. (9/15/17) 42.
+text: Gary starts working his way through a line of WOODSMEN, eager
+text: to shake his hand, particularly after that throw. However,
+dialog: there’s a few dissenters including one particularly ANGRY
+text: WOODSMAN who keeps his hands in his pockets.
+speaker_heading: ANGRY WOODSMAN
+dialog: (passive aggressive)
+dialog: Just keep your hand out of my
+dialog: pocket.
+speaker_heading: HART
+dialog: What was that?
+speaker_heading: ANGRY WOODSMAN
+dialog: Taxes are high enough. Keep your
+text: hand out of my pocket.
+text: The woodsman begins to walk away. Hart kind of smiles...
+speaker_heading: HART
+dialog: So, are we going to talk or are you
+dialog: just going to walk away?
+text: The woodsman turns back. Caught off guard and a little
+text: sheepish. Hart is unflinching.
+speaker_heading: HART (CONT'D)
+dialog: What’s a good place to get a beer
+dialog: around here?
+speaker_heading: OMITTED
+scene_heading: INT. HUNTING LODGE - DAY
+text: Rifles on racks. Timbersport pros and hunters have formed a
+text: horseshoe around Hart in the smoky hall. It’s quiet. No one
+dialog: knows where to start.
+text: Hart sees the angry woodsman from earlier. He rolls back his
+text: sleeves, shows his hands, and smiles.
+speaker_heading: HART
+dialog: Your pockets are safe.
+text: Chuckles around the room.
+speaker_heading: HART (CONT'D)
+dialog: So, where should we start?
+dialog: Note: in this scene, questions will come from the crowd. We
+text: won’t see each person talk. The group is speaking as a whole.
+scene_heading: Yellow Rev. (9/15/17) 43.
+speaker_heading: HUNTER 1
+dialog: What are we supposed to ask?
+speaker_heading: HART
+dialog: Let’s talk about anything you want.
+text: We find the campaign team on the side visibly nervous.
+speaker_heading: HUNTER 2
+dialog: Where’s the beef?!
+text: Chuckles around.
+speaker_heading: HART
+dialog: (smiles)
+dialog: Haven't heard that one in a while.
+speaker_heading: HUNTER 3
+dialog: You a Christian?
+speaker_heading: HART
+dialog: Yes I am.
+speaker_heading: HUNTER 3
+dialog: You think they should have prayer
+dialog: in school?
+speaker_heading: HART
+dialog: I like prayer in church.
+speaker_heading: HUNTER 4
+dialog: Do you hunt?
+speaker_heading: HART
+dialog: Not so much. When I was a kid, my
+dialog: uncle taught me to track bears.
+speaker_heading: HUNTER 5
+dialog: You going to take our guns?
+speaker_heading: HART
+dialog: You going to take mine?
+text: This calms the room a bit for a beat.
+speaker_heading: HUNTER 4
+dialog: What about Mexicans?
+speaker_heading: HART
+dialog: What about them?
+speaker_heading: HUNTER 5
+dialog: They're taking our jobs.
+dialog: Yellow Rev. (9/15/17) 44,
+speaker_heading: HART
+dialog: (thinks for a moment)
+dialog: You think they want to leave their
+dialog: lives behind? Their families?
+dialog: (stops)
+dialog: Would you?
+speaker_heading: HUNTER 3
+dialog: They’11l work for nothing.
+speaker_heading: HART
+dialog: That's why we need to invest in
+dialog: Mexico.
+speaker_heading: HUNTER 2
+dialog: You want to buy a jalapeno farm?
+speaker_heading: HART
+dialog: Is that what you do? You’re a
+dialog: farmer?
+speaker_heading: HUNTER 2
+dialog: I make chairs.
+speaker_heading: HART
+dialog: (riffing)
+dialog: So why don’t we invest in their
+dialog: enterprise? Their industry. Create
+dialog: opportunity for Mexicans in Mexico.
+dialog: Instead of stealing your jobs,
+dialog: they’1l buy your chairs.
+speaker_heading: HUNTER 5
+dialog: They're not very good chairs.
+speaker_heading: HART
+dialog: Well, I can’t help him with that.
+dialog: (a thought)
+dialog: I mean, forget jobs for a second,
+dialog: think about security. You really
+dialog: want a chaotic nation on the brink
+dialog: of economic collapse just south of
+dialog: the border?
+speaker_heading: HUNTER 2
+dialog: Sounds like Massachusetts.
+dialog: Real laughter.
+speaker_heading: HUNTER 4
+dialog: So you anti-military or something?
+speaker_heading: HART
+dialog: Why do you say that?
+scene_heading: Yellow Rev. (9/15/17) 45.
+speaker_heading: HUNTER 4
+dialog: You're a democrat.
+speaker_heading: HART
+dialog: (incredulous)
+dialog: I’m in the military.
+speaker_heading: HUNTER 5
+dialog: What branch?
+speaker_heading: HART
+dialog: Navy reserve.
+text: A couple chuckles.
+speaker_heading: HART (CONT'D)
+dialog: Does that not count?
+speaker_heading: HUNTER 4
+dialog: You want to cut the military?
+speaker_heading: HART
+dialog: I want to reform it.
+speaker_heading: HUNTER 3
+dialog: That means cut it.
+speaker_heading: HART
+dialog: I disagree. I actually wrote an
+dialog: entire book on military reform.
+dialog: Sold twelve copies. I don’t suppose
+dialog: anyone here read it?
+dialog: (looks to his staff)
+dialog: Any of you guys?
+text: Sheepish looks amongst his team. Wilson raises his hand.
+speaker_heading: WILSON
+dialog: (quietly)
+dialog: It’s a good read.
+speaker_heading: HART
+dialog: You say you’re worried about your
+dialog: taxes. You know how much that new
+dialog: B2 Bomber costs? About a billion
+dialog: dollars.
+speaker_heading: HUNTER 5
+dialog: Worth every penny.
+speaker_heading: HART
+dialog: Is it? Sure, they might look pretty
+text: flying over the Superbowl.
+speaker_heading: (MORE )
+scene_heading: Yellow Rev. (9/15/17) 46.
+speaker_heading: HART (CONT'D)
+dialog: But let’s face it, we're building a
+dialog: military that’s only good at
+dialog: bombing. And after twenty years of
+dialog: bombing, you know what we’ll be
+dialog: left with?
+text: He looks around the room, genuinely open for an answer.
+speaker_heading: HART (CONT'D)
+dialog: Rubble. Rubble that we’ll need to
+dialog: rebuild. And people who hate us.
+dialog: But we won’t have a conventional
+dialog: military ready to fight in the
+dialog: jungles and deserts where they hate
+dialog: us the most.
+speaker_heading: HUNTER 1
+dialog: Nuke ‘em.
+speaker_heading: HART
+dialog: Okay. Sure. Who you going to nuke?
+dialog: (long beat)
+dialog: The cold war is over and our
+dialog: addiction to oil is going to take
+dialog: us into battles we don’t know how
+dialog: to fight in places like the middle
+dialog: east, where stateless Islamic
+dialog: terrorism will become an epidemic.
+speaker_heading: HUNTER 4
+dialog: I’m not worried about some ragheads
+dialog: in the desert...
+speaker_heading: HART
+dialog: You should be. Their bombs won’t
+dialog: have a return address.
+speaker_heading: HUNTER 1
+dialog: Celtics or Lakers?
+speaker_heading: HART
+dialog: Nuggets.
+text: Boos rain down from all the men.
+speaker_heading: HART (CONT’D)
+dialog: (laughing)
+dialog: I’m not afraid of being booed.
+text: More laughter. There’s an awkward pause. Feels like they’re
+text: running out of questions.
+scene_heading: Yellow Rev. (9/15/17) 47.
+speaker_heading: HUNTER 6
+dialog: If you get elected, are you ever
+dialog: going to come back to this town.
+dialog: 
+text: A long beat.
+speaker_heading: HART
+dialog: What do you mean “if”?
+text: He smiles. The men laugh. The room has been defused.
+scene_heading: INT. BAR AT THE WAYFARER INN, MANCHESTER, NH. NIGHT.
+text: Hart gets up from a table of the old guard reporters. They’re
+text: laughing about the day’s events.
+text: The CAMPAIGN TEAM is at a table, talking about the next stop.
+text: Hart heads for the bathroom when he stops at the KIDS TABLE.
+speaker_heading: HART
+dialog: What’s the news, guys?
+speaker_heading: PARKER
+text: Cuomo is officially out.
+text: The young reporters watch Hart’s face waiting for a reaction.
+text: Hart has a small smile, then catches himself.
+speaker_heading: HART
+dialog: Long way to go.
+speaker_heading: MCDANIEL
+dialog: Kennedy, Bradley... All out.
+speaker_heading: HART
+dialog: I like Gephardt. Al’s still in this
+dialog: thing. Jesse Jackson.
+speaker_heading: SHANAHAN
+dialog: Come on... I mean, Senator, sir.
+speaker_heading: HART
+dialog: He’s got double digits.
+speaker_heading: SHANAHAN
+dialog: You think this country will elect
+dialog: Jesse Jackson president?
+speaker_heading: PARKER
+dialog: Maybe vice president.
+scene_heading: Yellow Rev. (9/15/17) 48.
+speaker_heading: MCDANIEL
+dialog: That’s what Jesse really wants
+dialog: anyway, right?
+text: Hart smiles just as a waitress arrives.
+speaker_heading: HART
+dialog: They need another round. On me.
+speaker_heading: PARKER
+dialog: You can’t do that. It’s...
+speaker_heading: HART
+dialog: Fine, another round on them.
+speaker_heading: WAITRESS
+dialog: Word is you're going to be
+dialog: president.
+speaker_heading: HART
+dialog: I don’t know, how does secretary of
+dialog: the navy sound?
+speaker_heading: WAITRESS
+dialog: Already been a secretary, honey.
+dialog: But you’re sweet.
+scene_heading: INT. WAYFARER INN. MOMENTS LATER.
+text: Hart follows a sign to the RESTROOM. He’s smiling about the
+text: Cuomo news. He turns the corner and stops, flustered.
+text: Weinberg and a woman reporter from the pool are leaned up
+text: against a wall, giggling and making out. Both wear WEDDING
+text: RINGS they did not exchange with each other.
+text: Hart kind of smiles and quietly enters the mens room.
+scene_heading: INT. MIAMI HERALD CONFERENCE ROOM. MORNING.
+text: About a dozen editors and reporters sit and stand around a
+text: long conference table, among them FIEDLER from the pool.
+text: BOB MARTINDALE, the paper’s editor, sits at the head of the
+text: table. Another editor, JOE SAVAGE, sits nearby. An
+text: investigative reporter named MURPHY is dramatically
+text: recounting the movements of a drug cartel.
+speaker_heading: MURPHY
+text: They fly in below the radar,
+text: cruising a hundred feet above the
+text: water like Apaches on a strafe run.
+speaker_heading: (MORE )
+scene_heading: Yellow Rev. (9/15/17) 49.
+speaker_heading: MURPHY (CONT'D)
+dialog: Right before they breach our
+dialog: airspace, they dump the whole
+dialog: fucking shipment into the Atlantic -
+dialog: not pounds... tons of coke. A
+dialog: Volkswagon of coke - where they’ve
+dialog: got cigarette boats that kick the
+dialog: shit out of our coast guard.
+speaker_heading: SAVAGE
+dialog: You saw this?
+speaker_heading: MURPHY
+dialog: Got an old Navy buddy. Runs fishing
+dialog: tours out of Islamorada. Spent five
+text: nights under a cargo net.
+speaker_heading: MARTINDALE
+dialog: Nice. Let’s work up some sort of
+dialog: map that shows the route and make
+dialog: sure we’ve got artwork on those
+text: cigarette boats in motion. Not some
+dialog: bullshit stock photo, but really
+text: kicking up surf.
+speaker_heading: ASSISTANT EDITOR
+dialog: (dry)
+dialog: Got it. Sexy boats kicking up surf.
+speaker_heading: MARTINDALE
+dialog: Anything from the Mickey Desk?
+speaker_heading: SAVAGE
+dialog: MGM is suing Disney World over the
+dialog: new park. It’s a license violation.
+speaker_heading: MARTINDALE
+dialog: No shit. Could it scuttle the deal?
+speaker_heading: ASSISTANT EDITOR
+text: Tim’s trying to nail it down.
+speaker_heading: MARTINDALE
+dialog: Let’s get a top for front page.
+dialog: Maybe some options on a crying
+text: Mickey drawing.
+speaker_heading: SAVAGE
+dialog: We've done crying Mickey. Twice.
+dialog: When Universal came to Orlando and
+dialog: when that alligator ate that kid
+dialog: near Epcot.
+scene_heading: Yellow Rev. (9/15/17) 50.
+speaker_heading: MARTINDALE
+dialog: Right. Try Mickey in hand cuffs.
+dialog: Politics?
+speaker_heading: FIEDLER
+dialog: Yeah, just got back from the
+dialog: kickoff tour with Gary Hart.
+speaker_heading: MARTINDALE
+dialog: (to Fiedler)
+dialog: Okay. Anything new there?
+speaker_heading: FIEDLER
+dialog: I mean, it’s the curtain raiser on
+dialog: the guy who’s going to win the
+dialog: presidency.
+text: The ASSISTANT EDITOR, a woman in her late 40s, speaks up --
+speaker_heading: ASSISTANT EDITOR
+dialog: Keep it to 100 twills, Tom. We’re
+dialog: tight today.
+speaker_heading: FIEDLER
+dialog: Are you serious?
+speaker_heading: MARTINDALE
+dialog: (moving on)
+dialog: Sports. Who the Dolphins drafting?
+scene_heading: INT. MIAMI HERALD NEWSROOM. MONDAY NIGHT, APRIL 27.
+text: Fiedler, reading through clips, has his feet up on his desk
+text: in the mostly deserted newsroom.
+text: Baseball on the transistor radio. The desk phone rings. He
+text: picks up. We don’t see the face of the coy, yet tipsy, Dana
+text: Weems on the other side of the call.
+speaker_heading: FIEDLER
+dialog: Tom Fiedler - - - Hello?
+speaker_heading: WEEMS (0.S.)
+dialog: Did you write the story about Gary
+dialog: Hart today?
+speaker_heading: FIEDLER
+dialog: (half-listening)
+dialog: Yeah, that was me.
+speaker_heading: WEEMS (0.S.)
+dialog: Um... He’s having an affair with a
+dialog: friend of mine.
+scene_heading: Yellow Rev. (9/15/17) 51.
+speaker_heading: FIEDLER
+dialog: What?
+scene_heading: INTERCUT WITH:
+scene_heading: EXT. PHONE BOTH - NIGHT
+text: We’re on a street corner. The phone booth is fogged. Inside
+text: is DANA WEEMS, a friend of Donna Rice from the boat. Outside,
+text: bolstering her friend, is Lynn Armandt.
+speaker_heading: WEEMS
+text: She's sneaking around with him.
+speaker_heading: FIEDLER
+dialog: (doesn’t buy it)
+dialog: Okay, right and how do you know?
+speaker_heading: WEEMS
+dialog: (giggling)
+dialog: I mean, it’s all she talks about.
+speaker_heading: FIEDLER
+dialog: What’s her name? What’s your name?
+speaker_heading: WEEMS
+dialog: (giggling again)
+dialog: I can’t tell you that!
+speaker_heading: FIEDLER
+dialog: Look, this isn’t funny, OK? You
+dialog: can’t just call people and make
+dialog: allegations. Now, who are you and --
+speaker_heading: WEEMS
+text: She's flying up there. To see him
+dialog: in Washington. This weekend.
+speaker_heading: FIEDLER
+dialog: This weekend?
+speaker_heading: WEEMS
+dialog: Friday, yeah. Maybe you can follow
+dialog: her or something. God, she’s so
+text: pathetic. Like a cheerleader
+dialog: getting notes from the popular boy,
+dialog: you know?
+text: Fiedler finds a crinkly faxed sheet.
+speaker_heading: FIEDLER
+dialog: (eyeing the sheet)
+dialog: Hart’s not in DC this weekend.
+speaker_heading: (MORE )
+scene_heading: Yellow Rev. (9/15/17) 52.
+speaker_heading: FIEDLER (CONT'D)
+dialog: He’s going to Kentucky for the
+dialog: derby. Sorry lady...
+speaker_heading: WEEMS
+dialog: Wait. It’s just, I want to ask you.
+speaker_heading: FIEDLER
+dialog: Uh huh?
+speaker_heading: WEEMS
+dialog: Do you guys pay for pictures?
+speaker_heading: FIEDLER
+dialog: Jesus... Good luck.
+text: He hangs up on her. Shakes his head.
+scene_heading: INT. HART CAMPAIGN HEADQUARTERS, DENVER - DAY
+text: A CAMPAIGN AD is being edited on an old tape-to-tape online
+text: bay. Dixon and Sweeney watch and criticize ad lib.
+text: COMMERCIAL: Gary Hart amongst nature. Speaking to camera.
+speaker_heading: HART
+dialog: ... Now over the next year, you’re
+dialog: going to see a lot of campaign ads.
+dialog: Many of which will have some kind
+text: of faceless announcer. But not from
+dialog: me. I believe a candidate should
+dialog: stand by what they believe in
+dialog: rather than hide behind some
+dialog: stranger's voice. So, next time you
+dialog: hear that faceless announcer making
+dialog: claims and accusations, ask
+dialog: yourself why.
+text: As the HART ‘88 LOGO comes up we find Stratton and Wilson.
+text: They're admiring all the HOLLYWOOD PHOTOS at Emerson's desk.
+text: In them, Emerson hangs out with 1980’s icons like Nicholson,
+dialog: Beatty, Hunter S. Thompson, Don Johnson.
+speaker_heading: STRATTON
+dialog: Must be hard to be away from all
+dialog: your friends back home.
+speaker_heading: EMERSON
+dialog: Yeah, okay, I ran the California
+dialog: office. These were my constituents.
+speaker_heading: WILSON
+dialog: Warren Beatty and Jack Nicholson?
+scene_heading: Yellow Rev. (9/15/17) 53.
+speaker_heading: EMERSON
+dialog: «+. Yes. They’re both Angelinos.
+speaker_heading: STRATTON
+dialog: On those particularly tough nights,
+dialog: it must be reassuring to look over
+text: and see their faces.
+speaker_heading: WILSON
+dialog: Do they serve as a reminder of the
+dialog: regional struggles in California?
+speaker_heading: EMERSON
+dialog: Warren Beatty is a thoughtful...
+dialog: political... Fuck both of you.
+text: We find Hart in the front corner, feet up on Sweeney’s desk,
+text: gazing out the window, talking on a corded phone.
+speaker_heading: HART
+dialog: Well thank you. I mean it, Ed.
+text: (listens but glances away)
+dialog: Well we will, and Lee and I
+dialog: appreciate it. Hal will call you
+dialog: about where to send the check and
+dialog: all that... Righto. Talk soon.
+text: He hangs up and we PAN to see Kelly and Shore.
+speaker_heading: SHORE
+dialog: You're a free man.
+speaker_heading: HART KELLY
+dialog: Thank you. Until call time tomorrow.
+text: Hart walks by staffers pulling out new HART SIGNS.
+speaker_heading: HART
+dialog: Oh Irene, tell Steve and Kitty I
+dialog: can’t make Kentucky, OK?
+speaker_heading: KELLY
+dialog: You're gonna miss the derby?
+speaker_heading: HART
+dialog: And tell Ellie to grab coffee?
+scene_heading: INT. MIAMI HERALD NEWSROOM. DAY. FRIDAY, MAY 1.
+text: A TELETYPE MACHINE printing out the following:
+scene_heading: HART FOR PRESIDENT. REVISED SCHEDULE - DC/NEW YORK/NEW
+speaker_heading: HAMPSHIRE
+scene_heading: Yellow Rev. (9/15/17) 54.
+text: We find Fiedler eating a sandwich.
+speaker_heading: FIEDLER
+dialog: (to another reporter)
+dialog: You never get the tacos. Someone
+dialog: should have told you that.
+speaker_heading: REPORTER
+dialog: But Friday's taco day, man.
+speaker_heading: FIEDLER
+dialog: Let me know how Saturday goes.
+text: The mail clerk, an old guy with a limp, wheels his mail cart
+text: past the desk and stops.
+speaker_heading: FIEDLER (CONT'D)
+dialog: Thanks Earl.
+text: He stares at the sheet. Fiedler’s brain clicks. He starts
+text: walking. We follow Fiedler to Murphy’s desk.
+speaker_heading: MURPHY
+dialog: Hey, what’s doing?
+speaker_heading: FIEDLER
+dialog: I think I need your help on
+dialog: something.
+scene_heading: INT. CAMPAIGN BUS - DAY
+text: Stratton is attempting to demonstrate the best way to cook a
+text: HAMBURGER. He’s using a RULER as a spatula and a flattened
+text: ball of lined paper as a BURGER.
+speaker_heading: HART
+dialog: I know how to make a burger, Mike.
+speaker_heading: STRATTON
+dialog: If they see you flip it twice...
+text: Others from the team chime in.
+speaker_heading: WILSON
+dialog: (dicking around)
+dialog: What else will he flip on...
+dialog: healthcare... farming subsidies...?
+speaker_heading: STRATTON
+dialog: I’m serious.
+scene_heading: Yellow Rev. (9/15/17) 55.
+scene_heading: INT. TRUCK STOP, NORTHEAST - DAY
+text: Hart in an apron, poses with the RESTAURANT STAFF for a few
+text: photos. He flips burgers. Parker watches from nearby.
+text: Moments later, Hart is at a table facing Parker. A tape
+text: recorder sits between them on the table.
+speaker_heading: HART
+dialog: (to Parker)
+dialog: We almost done?
+speaker_heading: PARKER
+dialog: Just about.
+speaker_heading: HART
+dialog: You read the book yet?
+speaker_heading: PARKER
+dialog: Just about. It’s Tolstoy.
+text: Parker looks down at his notepad. A series of questions have
+text: been crossed off. One word remains - “Marriage”.
+speaker_heading: PARKER (CONT'D)
+dialog: (visibly uncomfortable)
+dialog: Can we talk about your separation.
+text: Sweeney looks up.
+speaker_heading: HART
+dialog: It’s a fairly common occurrence.
+dialog: I'd avoid it if you can.
+speaker_heading: PARKER
+dialog: I’m not having fun asking about
+dialog: this. In case you were wondering.
+speaker_heading: HART
+dialog: I wasn’t.
+speaker_heading: SWEENEY PARKER
+dialog: AJ... Look --
+speaker_heading: HART (CONT'D)
+dialog: Why should anyone care? How is it
+dialog: relevant?
+speaker_heading: PARKER SWEENEY
+dialog: People feel like it’s hard to Senator...
+dialog: know you. I’m trying to help
+dialog: elucidate --
+dialog: Some of us
+scene_heading: Yellow Rev. (9/15/17) 56.
+speaker_heading: HART (CONT'D)
+dialog: People. Who are these ‘people’
+dialog: everyone keeps telling me about?
+speaker_heading: PARKER
+dialog: Fine, maybe we feel that way.
+speaker_heading: HART
+dialog: So, reporters.
+speaker_heading: PARKER SWEENEY
+dialog: . AJ, either ask something
+dialog: else...
+speaker_heading: HART (CONT’D)
+dialog: Some of you who were in high school
+dialog: when I ran McGovern’s campaign.
+dialog: It’s not my fault you’re just
+text: arriving at the party.
+speaker_heading: PARKER
+dialog: OK, so around that time, you told
+dialog: Gail Sheehy you believed in “reform
+dialog: marriage.” What did that mean?
+speaker_heading: HART
+dialog: For crying out loud. I was young
+dialog: and tired and living across the
+dialog: country from my wife, and I made a
+dialog: stupid joke. You know, this is why
+dialog: people don’t want to be in public
+dialog: life. Because someone will dredge
+dialog: up something you said in a moment
+dialog: 15 years ago and act like it
+dialog: somehow encapsulates your life.
+speaker_heading: PARKER
+dialog: It’s just --
+speaker_heading: HART
+dialog: I’m going to answer one more of
+dialog: these, and then I’m not going to
+dialog: sit here anymore. We’ve covered all
+dialog: the stuff that matters. Did anyone
+dialog: ask Reagan about his marriage?
+speaker_heading: PARKER SWEENEY
+dialog: I don’t think -- Let’s wrap this up...
+speaker_heading: HART (CONT'D)
+dialog: Did you ask Carter these questions?
+speaker_heading: PARKER
+dialog: There’ve been rumors --
+scene_heading: Yellow Rev. (9/15/17) 57.
+speaker_heading: HART
+dialog: Oh for God sake, AJ. Ask whatever
+dialog: it is you came here to ask.
+speaker_heading: PARKER
+dialog: OK. Do you think you have... A
+dialog: traditional marriage?
+speaker_heading: HART SWEENEY
+dialog: (disbelief) OK. That’s enough. We’re done
+dialog: A trad -- here--
+speaker_heading: HART
+dialog: You want to know what I’m doing in
+dialog: my spare time? Is that it, AJ?
+dialog: Follow me around then. Put a tail
+dialog: on me. I mean it. You'd be very
+dialog: bored.
+text: Parker scribbles, head down as Sweeney escorts Hart away.
+scene_heading: INT. MIAMI INTERNATIONAL AIRPORT. FRIDAY AFTERNOON.
+text: We're watching the ESCALATORS, over the shoulders of Fiedler
+text: and Murphy. Mostly tourists and businessmen. Fiedler is
+text: flipping through a magazine nervously. He’s so nervous, it’s
+text: comical. Murphy is trying to keep it cool.
+speaker_heading: MURPHY
+dialog: Just calm down.
+speaker_heading: FIEDLER
+dialog: What am I supposed to do?
+speaker_heading: MURPHY
+dialog: Act bored. Most people usually look
+dialog: bored. What does she look like?
+speaker_heading: FIEDLER
+dialog: Attractive. Hot enough to make you
+dialog: leave your wife.
+speaker_heading: MURPHY
+dialog: Honestly wouldn’t take much.
+text: Murphy looks ready to give up and then they see her. DONNA.
+text: Armandt walks alongside her. Without saying a word, they
+text: begin following her towards the gate.
+scene_heading: Yellow Rev. (9/15/17) 58.
+scene_heading: INT. BOEING 737 TO DC - EVENING
+text: Fiedler and Murphy sit deep in coach. Fiedler leans into the
+text: aisle to get a look at Donna who’s reading a book a few rows
+text: down. He leans a little further and is suddenly hit by the
+text: BEVERAGE CART, making a bit of a mess. He flinches back.
+scene_heading: INT. NATIONAL AIRPORT TERMINAL, DC - NIGHT
+text: Fiedler and Murphy walk 15 feet behind Donna and Armandt,
+dialog: trying to play it cool.
+scene_heading: EXT. NATIONAL AIRPORT TAXI LINE - NIGHT
+text: Donna and Armandt are shown into a waiting cab.
+text: Several people back in the line, Fiedler and Murphy watch
+text: anxiously as their marks pull away.
+speaker_heading: MURPHY
+dialog: Do we know where they’re going?
+speaker_heading: FIEDLER
+dialog: I fucking hope so.
+scene_heading: EXT. HART’S TOWNHOUSE, CAPITOL HILL. FRIDAY NIGHT.
+text: Fiedler’s TAXI comes up on a stately, two-story row house.
+text: Lights shine in the windows and illuminate the sidewalk.
+text: No one’s visible inside or out.
+text: Fiedler and Murphy fight for the driver’s side window.
+speaker_heading: FIEDLER
+dialog: This one here on the left.
+speaker_heading: CAB DRIVER
+dialog: You want me to pull over?
+speaker_heading: FIEDLER
+dialog: Just hang a second.
+speaker_heading: MURPHY
+dialog: No security? Nothing? You sure this
+dialog: is right?
+speaker_heading: FIEDLER
+dialog: It’s his place.
+scene_heading: Yellow Rev. (9/15/17) 59.
+speaker_heading: MCGEE CAB DRIVER
+dialog: (looking at the house) You guys getting out?
+dialog: Doesn't feel right.
+speaker_heading: FIEDLER (CONT'D)
+dialog: Just give us a second.
+text: Fiedler looks at the windows, hoping for an answer.
+speaker_heading: MURPHY
+dialog: No secret service?
+speaker_heading: FIEDLER
+text: He isn’t the nominee yet.
+speaker_heading: CAB DRIVER
+dialog: Look, I’m not sure what you guys
+dialog: are up to...
+speaker_heading: MURPHY
+dialog: (to Fiedler)
+dialog: I think you got taken buddy.
+speaker_heading: FIEDLER
+dialog: We've been here all of two fucking
+dialog: seconds...
+speaker_heading: CAB DRIVER
+dialog: This isn’t a peep show, one of you
+dialog: has to pay me...!
+speaker_heading: MURPHY
+dialog: New destination, we need a hotel...
+speaker_heading: FIEDLER
+dialog: Hold on!
+text: Suddenly, the lights turn off inside the house.
+text: Fiedler and Murphy go silent.
+speaker_heading: CAB DRIVER
+dialog: Which one of you is going to...?
+speaker_heading: FIEDLER
+dialog: (quietly)
+dialog: Pull over there.
+text: The cab pulls over. Inside, they all hold still, waiting to
+dialog: see what will happen next.
+text: We SEE the front door open. A man’s arm holds it open.
+text: Hart and Donna come out onto the stoop.
+scene_heading: Yellow Rev. (9/15/17) 60.
+speaker_heading: MURPHY
+dialog: Fuck me.
+text: Broadhurst and Armandt follow. They walk down to Hart’s
+text: SEDAN, all get in and drive off.
+text: BACK TO Fiedler, suddenly vibrating with mixed energy.
+speaker_heading: MURPHY (CONT'D)
+dialog: We’re gonna need a photographer.
+speaker_heading: CUT TO:
+text: THE BACK OF AN SLR CAMERA BEING LOADED WITH FILM
+scene_heading: EXT. STREET OUTSIDE HART’S TOWNHOUSE, CAPITOL HILL. DAWN.
+text: Murphy sit in a rental car outside the house, as the sun
+text: appears on the horizon. He does a crossword. In the back seat
+text: with the camera is ROY VALENTINE, a photographer.
+speaker_heading: ROY
+dialog: You're sure they’re in there?
+speaker_heading: MURPHY
+dialog: Yep. Have you staked out before?
+speaker_heading: ROY
+dialog: (scoffs)
+dialog: I mean, I’m not a paparazzi. Are we
+dialog: even allowed to do this?
+speaker_heading: MURPHY
+dialog: A few years ago, I figured out most
+dialog: of the planes carrying kilos of
+dialog: coke into the US weren’t coming
+dialog: from Colombia. They're actually
+dialog: coming from the fucking Bahamas. So
+dialog: I dig a little deeper. Turns out,
+dialog: the prime minister is taking pay
+dialog: offs from Miami lawyers to leave
+text: beach front runways unguarded.
+speaker_heading: ROY
+dialog: Wo.
+speaker_heading: MURPHY
+dialog: Yeah, “Wo”. Sometimes you need to
+dialog: catch someone in the act. I mean,
+dialog: fuck, have you ever had to do this
+dialog: kind of investigative journalism?
+scene_heading: Yellow Rev. (9/15/17) 61.
+speaker_heading: ROY
+dialog: (uncomfortable sharing)
+dialog: Last year, I snuck into the Magic
+dialog: Kingdom as a tourist. I cut right
+dialog: into Tomorrowland, bought a rocket
+dialog: pop, and when no one was looking, I
+text: climbed a barricade and caught the
+text: first images of Captain EO.
+dialog: (long beat)
+dialog: It was terrifying, but worth it.
+text: A long look from Murphy. Suddenly, THE DOOR OPENS. It’s
+text: Fiedler. He’s holding a printed out FAX.
+speaker_heading: FIEDLER
+dialog: Follow me around.
+dialog: (passes it to Murphy)
+dialog: Hart told the Post to follow him
+dialog: around...
+speaker_heading: MURPHY
+dialog: “Follow me around. Put a tail on
+dialog: me. You’d be very bored.”
+speaker_heading: FIEDLER
+dialog: He asked _ us to follow him.
+speaker_heading: ROY
+dialog: Technically speaking, we were
+text: already following him.
+speaker_heading: MURPHY
+dialog: Are you fucking kidding me?
+speaker_heading: FIEDLER
+dialog: It’s an invitation.
+dialog: (off Roy’s skepticism)
+dialog: Look, if this were 20 years ago and
+dialog: party bosses were still picking the
+dialog: candidates in back rooms, that
+dialog: would be one thing. But things
+dialog: changed. Everyone forgets that.
+dialog: They just handed these primaries
+text: and caucuses back to some folks in
+dialog: Iowa lined up around the Country
+dialog: Kitchen to pick nominees they've
+dialog: never heard of, you know, to vet
+dialog: some governor or congressman from
+dialog: god knows where? We have a
+dialog: responsibility here... to hold
+dialog: these guys accountable.
+scene_heading: Yellow Rev. (9/15/17) 62.
+scene_heading: EXT. STREET OUTSIDE HART’S TOWNHOUSE - DAY
+text: It’s RAINING. The rental car sits there. Three silhouettes
+text: behind the windshield.
+text: Inside, they’re eating individual cartons of Chinese. Just
+text: watching and waiting for something to happen.
+scene_heading: EXT. STREET OUTSIDE HART’S TOWNHOUSE - AFTERNOON
+text: The car parked in the same spot. Murphy and Roy asleep.
+text: Fiedler looks up from his newspaper.
+text: He SEES a WOMAN WITH A BABY CARRIAGE, and then a JOGGER.
+text: Then, WILSON (policy aide) approaching the front door.
+text: Murphy sits up for a better look. He lowers the window an
+text: inch, hoping to hear. We barely hear the DOORBELL.
+text: A moment later, the townhouse door opens revealing Hart,
+text: wearing a white hoodie and jeans.
+text: Wilson hands Hart a thick envelope. We barely make out what
+dialog: they’re saying.
+speaker_heading: HART
+dialog: Thanks.
+speaker_heading: WILSON
+dialog: Hopefully this is the last draft.
+speaker_heading: HART
+dialog: Yeah, I’1l give it a look...
+text: And then Hart freezes. He seems to be either lost in thought
+text: or STARING STRAIGHT AT THE RENTAL CAR. Fiedler holds stock
+text: still, not sure whether to go back to his paper or drive off,
+text: when Hart gives a quick goodbye to Wilson and shuts the door.
+text: Fiedler gives Murphy a shove.
+speaker_heading: MURPHY
+dialog: What’s happening?
+speaker_heading: FIEDLER
+dialog: Wilson, policy guy.
+speaker_heading: MURPHY
+dialog: What is that, a speech writer?
+speaker_heading: FIEDLER
+dialog: To a certain... He studies the
+dialog: fluctuations in foreign... and...
+speaker_heading: (MORE )
+scene_heading: Yellow Rev. (9/15/17) 63.
+speaker_heading: FIEDLER (CONT'D)
+dialog: (Murphy doesn’t care)
+dialog: Yes, he’s a speech writer.
+speaker_heading: MURPHY
+dialog: Did he make you?
+speaker_heading: FIEDLER
+dialog: Don’t think so. Need a closer look.
+text: Thinks for a second.
+speaker_heading: CUT TO:
+scene_heading: TAGS BEING RIPPED OFF NEW JOGGING CLOTHES
+scene_heading: EXT. HART’S TOWNHOUSE - LATE IN THE DAY
+text: Fiedler, pretending to run in a ridiculous jogging suit,
+text: trots past the rental car, giving Murphy a furtive glance.
+text: He jogs onto the sidewalk and slows down as he passes Hart’s
+text: townhouse. He’s trying to see through the windows but can’t
+dialog: quite make anything out.
+scene_heading: INT./EXT. FIEDLER’S RENTAL CAR - LAST LIGHT
+text: Fiedler finishes his loop and jogs back up to the rental car
+text: and gets back in the passenger seat. He’s sweating... Hard.
+speaker_heading: MURPHY
+dialog: Jesus, you ran around the block.
+speaker_heading: FIEDLER
+dialog: Fuck off.
+dialog: (looking for Roy)
+dialog: Where’s our shooter?
+text: Murphy nods toward the house. We SEE Roy with his CAMERA,
+text: crouching behind a bush, trying to get a good angle.
+speaker_heading: FIEDLER (CONT'D)
+dialog: Are you fucking kidding me?
+speaker_heading: MURPHY
+dialog: He’s young, excited. What was I
+dialog: going to say?
+speaker_heading: FIEDLER
+dialog: He’s going to get us caught.
+text: We watch from the car as Roy gets closer to the townhouse.
+text: Suddenly one by one, the WINDOW BLINDS SLAM SHUT.
+scene_heading: Yellow Rev. (9/15/17) 64.
+speaker_heading: FIEDLER (CONT'D)
+dialog: Fuck.
+scene_heading: EXT. HART’S TOWNHOUSE - NIGHT
+text: A beat as they watch the townhouse. The last glow of ambient
+text: daylight disappears into night.
+text: And then the front door of the townhouse opens. Hart comes
+text: down the steps, still wearing his white hoodie.
+text: Hart climbs inside his Chrysler. He’s visibly nervous. A
+text: stark difference from his usual confidence and calm.
+text: Hart checks the mirror as he pulls out slowly onto the
+text: street. We SEE the Herald’s rental car reflected in the
+text: mirror, pulling out to follow him.
+text: Hart puts on his blinker and deliberately takes a right turn
+text: onto a side street. He checks the mirror again, sees the car
+dialog: following.
+text: His jaw clenches. His breathing grows shallow. We can almost
+text: hear his adrenaline.
+text: He pulls to a slow crawl at a stop sign, waiting for the
+text: Herald car to get close enough, and then Hart hits the brakes
+text: - His TAIL LIGHTS illuminate the car behind him.
+text: We can’t quite make out details, but we see three male faces,
+text: bathed in a red glow. He shakes his head to himself.
+text: Hart hits the gas. Quickly, he makes three right turns,
+dialog: bringing us back to...
+scene_heading: EXT. HART’S TOWNHOUSE, CAPITOL HILL - NIGHT
+text: Hart re-parks the car outside his house. He takes a deep
+text: breath. He gets out and looks behind him at the Herald’s
+text: rental car, which has come to a stop a few car-lengths away.
+text: He puts his head down, shoves his hands into his pockets, and
+text: heads off briskly into the side alley.
+text: The moment he rounds the corner, the Herald team quickly
+text: pulls over and jumps out of the car. They briskly follow to
+text: the mouth of the alley, visually checking in with each other
+text: as they walk.
+scene_heading: Yellow Rev. (9/15/17) 65.
+scene_heading: EXT. SIDE ALLEY BY HART’S TOWNHOUSE - NIGHT
+text: The three Herald guys, Murphy leading the way, head toward an
+text: intersection where a side alley meets a BACK ALLEY.
+speaker_heading: MURPHY
+dialog: (hissing)
+dialog: You were too close.
+speaker_heading: FIEDLER
+dialog: (hissing back)
+dialog: He was already on to us.
+text: As they turn the corner into the back alley --
+speaker_heading: HART (0.C.)
+dialog: Good evening, gentlemen.
+text: Standing in front of them, in his white hoodie, is HART.
+text: A long silent beat. The three journalists from the Herald
+text: line up across from Hart. Murphy out front. Fiedler in the
+text: shadows. There’s an eerie High Noon quality to the stand off.
+dialog: No one knows what to do. No one has ever been here before.
+dialog: For better or for worse, they've breached a historical trust
+dialog: between candidate and the press... and they must figure out
+text: the next moment on their own.
+speaker_heading: MURPHY
+dialog: (nervous )
+dialog: Good evening, Senator. I'ma
+dialog: reporter for the Miami Herald. We'd
+dialog: like to talk to you.
+text: Hart holds his ground, trying to decipher what’s happening.
+speaker_heading: MURPHY (CONT'D)
+dialog: Um... We’d like to ask you about
+dialog: the woman who’s been staying in
+dialog: your townhouse.
+text: Hart doesn’t move. Composes his thoughts specifically.
+speaker_heading: HART
+dialog: .-+. No one is staying in my
+dialog: townhouse.
+speaker_heading: MURPHY
+dialog: We saw you leave and return with a
+dialog: woman last night. A blond woman?
+speaker_heading: HART
+dialog: I may. I may not have.
+scene_heading: Yellow Rev. (9/15/17) 66.
+speaker_heading: MURPHY
+dialog: We saw you.
+speaker_heading: HART
+dialog: I don’t know what you think you
+dialog: saw...
+text: FLASH - Roy takes a photo. It’s blinding and confusing in the
+text: dark alleyway. It almost feels like a gun shot.
+text: Fiedler steps forward.
+speaker_heading: FIEDLER
+dialog: Hello, Senator.
+speaker_heading: HART
+dialog: (registering Fiedler)
+dialog: Tom?
+speaker_heading: FIEDLER
+dialog: Yes, sir. I uhh... I wonder if you
+dialog: could tell us whether this woman
+dialog: works for the campaign.
+dialog: (beat)
+dialog: The one we saw you with.
+speaker_heading: HART
+dialog: She is not part of my campaign.
+speaker_heading: FIEDLER
+dialog: Okay. Then can you tell us how you
+dialog: know her?
+text: FLASH - Another photo startles Hart.
+speaker_heading: HART
+dialog: Well... I don’t think that’s
+dialog: relevant.
+speaker_heading: MURPHY
+dialog: (scoffing)
+dialog: Oh, I assure you, Senator, it’s
+dialog: relevant --
+speaker_heading: FIEDLER
+dialog: It’s just that, we saw you leave
+dialog: and come back with this woman. And
+dialog: we didn’t see her leave again.
+speaker_heading: FLASH!
+speaker_heading: HART
+dialog: Tom, you can’t be serious. No one
+dialog: is staying in my home but me.
+scene_heading: Yellow Rev. (9/15/17) 67.
+speaker_heading: FIEDLER
+dialog: I am serious, sir. How long have
+dialog: you known her?
+speaker_heading: HART
+dialog: What kind of questions are these?
+speaker_heading: FIEDLER
+dialog: Is she a friend?
+speaker_heading: HART
+dialog: I don’t know why I would tell you
+dialog: that. Tom, I am not --
+speaker_heading: FLASH!
+speaker_heading: MURPHY
+dialog: Can you produce the woman so she
+dialog: can corroborate what you’re saying?
+speaker_heading: HART
+dialog: I don’t have to produce... This has
+dialog: gone on long enough.
+text: Hart takes a step forward, as if to leave, and Roy snaps two
+text: more photos, blinding Hart momentarily. Hart blinks. The
+text: flashes begin to build now, more and more - Frustrating Hart.
+speaker_heading: FIEDLER
+dialog: Senator, we know you’ve made calls
+dialog: to this woman. You called her from
+dialog: Kansas. And New Hampshire. We have
+dialog: the dates.
+speaker_heading: HART
+dialog: I make calls every day. I don’t see
+dialog: how I’d remember, and I don’t see
+dialog: how you’d --
+dialog: FLASH, FLASH...
+speaker_heading: FIEDLER
+dialog: (stammering)
+dialog: But... Senator... I was at your
+dialog: announcement speech. You said...
+dialog: you said... We must...
+speaker_heading: FIEDLER (CONT'D) HART
+dialog: (from his notebook) .+. I know what I said.
+dialog: “Hold ourselves to the
+dialog: highest possible standards of
+dialog: integrity and ethics.”
+scene_heading: Yellow Rev. (9/15/17) 68.
+speaker_heading: FIEDLER (CONT'D)
+dialog: So why am I standing here? Why am I
+dialog: standing here in an alley ona
+dialog: Saturday night? Don’t you think you
+dialog: owe it to us to be forthcoming?
+dialog: FLASH, FLASH...
+speaker_heading: HART
+dialog: (scoffs)
+dialog: Owe you?
+speaker_heading: FIEDLER
+dialog: You're denying what we've seen with
+dialog: our own eyes!
+speaker_heading: HART
+dialog: The only thing I deny is the idea
+dialog: that somehow you have the right to
+dialog: ask these things.
+speaker_heading: FIEDLER
+dialog: You're running for president!
+speaker_heading: HART
+dialog: I’m aware of that, Tom. It’s in the
+dialog: papers.
+dialog: FLASH, FLASH...
+speaker_heading: FIEDLER
+dialog: Then you have a responsibility --
+speaker_heading: HART
+dialog: I know full well what my
+dialog: responsibilities are.
+dialog: (taking a step forward)
+dialog: Do you know yours?
+text: Hart goes to leave, but Murphy steps into his path.
+speaker_heading: MURPHY
+dialog: Senator. Have you had sex with this
+dialog: woman? !
+speaker_heading: HART
+dialog: What?!
+dialog: FLASH, FLASH...
+speaker_heading: HART (CONT'D)
+dialog: You should be ashamed of yourself.
+dialog: (to Fiedler)
+speaker_heading: (MORE )
+scene_heading: Yellow Rev. (9/15/17) 69.
+speaker_heading: HART (CONT’D)
+dialog: The only one putting you in this
+dialog: alley, Tom, is you.
+text: Hart moves to the back door of the townhouse amidst multiple
+text: FLASHES... And then he’s gone.
+text: A moment as the two journalists and the photographer catch
+dialog: their breath and look at each other - What just happened?
+text: And then they scuttle off down the alleyway. We boom up to a
+text: WINDOW and find Hart catching his breath. He grabs for a
+text: phone. Begins to dial.
+speaker_heading: HART (CONT'D)
+dialog: (through the window)
+dialog: Yeah, Billy. Find Dixon. Now.
+scene_heading: INT. QUALITY INN GUEST ROOM, CAPITOL HILL
+text: Fiedler, Murphy, and Roy rush into the room. Fiedler opens up
+text: his giant TANDY LAPTOP.
+scene_heading: INT. BROADHURST’S KITCHEN, CAPITOL HILL. 9 PM SATURDAY.
+speaker_heading: BROADHURST
+dialog: Think.
+text: Donna and Armandt sit on the velour couch in front of him.
+speaker_heading: BROADHURST (CONT'D)
+dialog: Maybe you told somebody. Your
+dialog: momma. Your mailman. Somebody.
+speaker_heading: ARMANDT
+dialog: We didn’t.
+speaker_heading: BROADHURST
+dialog: I’m asking Donna.
+speaker_heading: DONNA
+dialog: Oh my God. You think... He's going
+dialog: to think I told someone.
+speaker_heading: BROADHURST
+dialog: Donna, darling, I need you to be
+dialog: straight with me here.
+speaker_heading: DONNA
+dialog: I told you, I didn’t -- Don’t
+dialog: reporters follow him all the time?
+scene_heading: Yellow Rev. (9/15/17) 70.
+speaker_heading: BROADHURST
+dialog: Gary says these guys are from
+dialog: Miami. Which means they're
+dialog: following you, not Gary, OK?
+speaker_heading: DONNA
+dialog: I don’t know any reporters, Billy.
+dialog: I don’t know anyone.
+scene_heading: INT. QUALITY INN GUEST ROOM, CAPITOL HILL. 10 PM.
+text: Smoke in the air, coffee cups, detritus everywhere. Fiedler
+text: frantically bangs out copy while Murphy hovers behind.
+text: We GLIMPSE Roy, the photographer, in the bathroom developing
+text: his NEGATIVES with a mini-daylight tank over the sink, half-
+text: listening. One roll is already hanging and drying.
+speaker_heading: MURPHY
+dialog: (checking his watch)
+dialog: 42 minutes.
+dialog: (eyeing the screen)
+dialog: You want to say linked here. Saying
+text: she’s tied to Hart makes it sound -
+speaker_heading: FIEDLER
+dialog: Professional?
+speaker_heading: MURPHY
+dialog: No, like ropes and chains and shit.
+text: Fiedler grunts, nods and keeps typing. The phone rings.
+speaker_heading: MURPHY (CONT'D)
+dialog: (to Roy)
+dialog: Can you grab that?
+speaker_heading: ROY
+dialog: (adding chemicals to the
+dialog: developing tank)
+dialog: A little busy here.
+speaker_heading: MURPHY
+dialog: (answering)
+dialog: Hey... Uh huh...
+dialog: (mutes the phone)
+dialog: They want to hold for a day, just
+dialog: to get our shit straight. Maybe get
+text: the girl’s name.
+speaker_heading: FIEDLER
+dialog: Can’t. We lose half the readers.
+scene_heading: Yellow Rev. (9/15/17) 71.
+speaker_heading: MURPHY
+dialog: (back on the phone)
+dialog: This can’t wait til Monday. It’s a
+dialog: Sunday story.
+dialog: (muting the phone)
+dialog: They want to know if we saw the
+dialog: girl with our own eyes.
+speaker_heading: FIEDLER
+dialog: (still typing furiously)
+dialog: We did.
+speaker_heading: ROY
+dialog: I mean we saw her... arrive.
+speaker_heading: FIEDLER
+dialog: Interview or conversation?
+speaker_heading: MURPHY
+dialog: Interview? In an alleyway?
+speaker_heading: FIEDLER
+dialog: Watergate started with an interview
+text: in a parking garage.
+text: A moment. That word. Watergate.
+scene_heading: INT. BROADHURST’S KITCHEN, CAPITOL HILL. CONTINUOUS.
+text: TIGHT ON the RINGING phone.
+speaker_heading: BROADHURST
+dialog: (answering, harried)
+dialog: Hello.
+dialog: (beat)
+dialog: Ok. Hang on.
+dialog: (to Donna)
+dialog: It’s for you.
+speaker_heading: DONNA
+dialog: (taking the corded phone)
+dialog: Hello?
+text: INTERCUT as needed with -- Hart in GEORGETOWN.
+speaker_heading: HART
+dialog: Hello.
+speaker_heading: DONNA
+dialog: Gary! Thank God. What’s happening?
+speaker_heading: HART
+dialog: I don’t know. I thought you might.
+scene_heading: Yellow Rev. (9/15/17) 72.
+speaker_heading: DONNA
+dialog: What?
+text: Behind her, the sound of shattering glass.
+speaker_heading: BROADHURST (0.S.)
+dialog: Goddamnit.
+speaker_heading: DONNA
+dialog: (looking behind her)
+dialog: No. I... look, I need you to know,
+dialog: I had nothing to do with this. I’ve
+dialog: never talked to those men. I don’t
+dialog: know any reporters.
+speaker_heading: BROADHURST (0.S.)
+dialog: Get me that broom, would you
+dialog: sweetheart?
+speaker_heading: HART
+dialog: They knew I’d called you. They knew
+dialog: where I was.
+speaker_heading: DONNA
+dialog: I don’t understand.
+speaker_heading: BROADHURST
+dialog: (Kneeling over glass)
+dialog: Ow! Goddamn!
+speaker_heading: HART
+dialog: What’s going on over there?
+speaker_heading: DONNA
+dialog: BB dropped a glass, I guess. He’s
+dialog: upset. We’re all upset.
+speaker_heading: HART
+dialog: It’ll be fine. Trust me.
+speaker_heading: DONNA
+dialog: Do you trust me?
+speaker_heading: HART
+dialog: I want to trust you.
+dialog: (a tough beat)
+dialog: I may not be seeing you again.
+speaker_heading: DONNA
+dialog: What?
+speaker_heading: HART
+dialog: Good night, Miss Rice.
+scene_heading: Yellow Rev. (9/15/17) 73.
+text: Off Donna as his icy words take the breath from her lungs.
+scene_heading: INT. MIAMI HERALD NEWSROOM - NIGHT
+text: Martindale exits the elevator and looks up to see Joe Savage
+text: already in the lit conference room. They both clearly got
+text: pulled out of bed and returned to work.
+text: A beat later, we find them huddled over the conference phone.
+speaker_heading: SAVAGE
+dialog: It’s not our quote.
+speaker_heading: MURPHY
+dialog: (speakerphone)
+dialog: We need the quote.
+speaker_heading: MARTINDALE
+dialog: You want the quote.
+scene_heading: INTERCUT WITH:
+scene_heading: INT. QUALITY INN GUEST ROOM, CAPITOL HILL - CONTINUOUS
+text: Murphy is still holding the phone to his ear.
+speaker_heading: FIEDLER
+dialog: (quietly)
+dialog: We could credit the Post?
+speaker_heading: MURPHY
+dialog: Yeah, yeah... Hart told The Post to
+dialog: “follow him around”...?
+speaker_heading: ROY
+dialog: Is there a chance the senator was
+dialog: being facetious?
+text: Murphy shoots Roy a look.
+speaker_heading: MARTINDALE
+dialog: So now we’re advertising for the
+dialog: Post?
+speaker_heading: SAVAGE
+dialog: We could run an 800 number for new
+dialog: subscribers.
+speaker_heading: MURPHY
+dialog: Fuck you, Jim.
+scene_heading: Yellow Rev. (9/15/17) 74.
+speaker_heading: SAVAGE
+dialog: (laughs )
+dialog: We could just tease the interview.
+dialog: Follow up later in the week.
+speaker_heading: MURPHY
+dialog: (shaking his head)
+dialog: They're going to find a way to spin
+dialog: this thing. We’ve got him right
+dialog: now. Dead to rights.
+speaker_heading: MARTINDALE
+dialog: Easy there Magnum, this isn’t a
+dialog: drug bust.
+speaker_heading: MURPHY
+dialog: He was asking for it. That’s a
+dialog: story. That is the story.
+speaker_heading: FIEDLER
+dialog: (already typing)
+dialog: “In an interview with the Post, he
+dialog: challenged those who questioned him
+dialog: to ‘follow me around...”
+speaker_heading: MURPHY
+dialog: (into the phone)
+dialog: Right now, the Washington Post is
+text: in bed, asleep... And Gary Hart is
+text: in a locked room with his entire
+dialog: campaign team, figuring a way out
+dialog: of this.
+speaker_heading: SAVAGE
+dialog: He’s not wrong.
+speaker_heading: MARTINDALE
+dialog: You have twenty minute to make
+dialog: tomorrow’s Al.
+dialog: (adding)
+dialog: No quote.
+scene_heading: EXT. DIXON’S APARTMENT, DENVER - NIGHT
+text: Dixon exits the front door and approaches a waiting car. He
+text: clearly got packed in two minutes. He hops in the passenger
+text: seat. Irene Kelly is behind the wheel. They start driving.
+speaker_heading: KELLY
+dialog: Are we...?
+speaker_heading: DIXON
+dialog: I don’t know.
+scene_heading: Yellow Rev. (9/15/17) 75.
+scene_heading: INT. HART CAMPAIGN OFFICE, DENVER - NIGHT
+text: Lights flip on as Emerson enters to find Sweeney already
+text: manning a phone at a desk. Nearby, STACKS OF HART POSTERS.
+speaker_heading: SWEENEY
+dialog: (into the phone)
+dialog: Tell Fiedler we can give him an
+dialog: interview with the girl. Straighten
+dialog: everything out. Just buy us some
+dialog: time.
+text: Sweeney opens a bottle of whiskey takes a deep inhale, then
+text: drinks a glass of water. Emerson just swigs the whiskey.
+scene_heading: INT. QUALITY INN GUEST ROOM, CAPITOL HILL - NIGHT
+text: The phone rings. Murphy picks up with an informal greeting.
+text: He mutes the receiver under his arm and turns to Fiedler.
+speaker_heading: MURPHY
+dialog: They say the girl will talk to us.
+speaker_heading: FIEDLER
+dialog: (shakes his head)
+text: They’re stalling.
+scene_heading: INT. AIRPLANE, DENVER. MIDNIGHT.
+text: Dixon, Shore and Kelly out of breath as they board a flight.
+text: The last two people aboard.
+text: The flight attendant gives a little look - You made it - as
+text: the captain is finishing his pre-flight announcement.
+scene_heading: INT. BROADHURST’S KITCHEN, CAPITOL HILL. CONTINUOUS.
+text: Billy B hangs up his phone. He turns to Donna.
+speaker_heading: DONNA
+dialog: They don’t want to hear my side of
+dialog: things?
+speaker_heading: BROADHURST
+dialog: They don’t care. Fuckers are going
+dialog: to print without sources.
+speaker_heading: DONNA
+dialog: Can I talk to Gary?
+text: PRELAP: The jarring ring of an old phone...
+scene_heading: Yellow Rev. (9/15/17) 76.
+scene_heading: EXT. TROUBLESOME GULCH, COLORADO - MIDNIGHT
+text: We hear the phone ringing.
+scene_heading: INT. KITCHEN, TROUBLESOME GULCH - MIDNIGHT
+text: We see Andrea shuffle in to pick up the phone.
+speaker_heading: ANDREA
+dialog: (groggy)
+dialog: Hello?
+speaker_heading: HART
+dialog: Hey kiddo, I need you to get your
+dialog: mother for me.
+speaker_heading: ANDREA
+dialog: Dad, it’s the middle of the night.
+dialog: Is everything okay...?
+speaker_heading: HART
+dialog: Andrea.
+text: Andrea stops short. Lee enters in night clothes and takes the
+text: phone from her daughter.
+speaker_heading: LEE
+dialog: Hello?
+text: There’s a pause and then...
+speaker_heading: HART (0.S.)
+dialog: Something’s happened.
+speaker_heading: LEE
+dialog: All right. What is it?
+scene_heading: INT. HART’S TOWNHOUSE, CAPITOL HILL. CONTINUOUS.
+text: Hart sits at the kitchen island, eyes closed, phone to his
+text: ear. He rolls the glass of VODKA on the counter.
+speaker_heading: HART
+dialog: There’s going to be a story.
+dialog: Tomorrow. About me.
+text: A long beat. Lee sighs.
+speaker_heading: HART (CONT'D)
+dialog: What they’re going to write...
+dialog: shouldn't ever be written. I can’t
+dialog: seem to stop them...
+scene_heading: Yellow Rev. (9/15/17) 77.
+speaker_heading: LEE
+dialog: (exasperated)
+dialog: Oh, just say it, Gary.
+speaker_heading: HART
+dialog: I met a woman in Miami. They
+dialog: followed her. To DC. To our
+text: townhouse in DC.
+speaker_heading: LEE
+dialog: I see.
+text: A long beat as Lee absorbs the pain. We see Andrea watching
+text: her mother with anxious curiosity.
+speaker_heading: LEE (CONT'D)
+dialog: The one thing I ever really asked
+dialog: is that you don’t embarrass me.
+text: Hart nods painfully.
+speaker_heading: HART
+dialog: I feel so stupid.
+speaker_heading: LEE
+dialog: Good. Sounds like you should. Feel
+dialog: stupid for a while.
+text: And with that, she hangs up.
+speaker_heading: CUT TO:
+scene_heading: EXT. DOORSTEP, CAPITAL HILL - MORNING
+text: A hand grabs the POST, still inside the wet newspaper bag.
+scene_heading: INT. BROADHURST’S LIVING ROOM, CAPITOL HILL - MORNING
+text: Broadhurst enters, opening up the paper. He finds Dixon
+text: watching Donna from the kitchen. She sits on a sofa with a
+text: lost gaze. There’s a nod between both men before Dixon leaves
+text: to find a seat across from Donna, watching her like an
+dialog: investigative journalist.
+speaker_heading: DIXON
+dialog: What are you doing here, Donna?
+speaker_heading: DONNA
+dialog: I don’t know. I just want to go
+dialog: home. Can I go home now?
+scene_heading: Yellow Rev. (9/15/17) 78.
+speaker_heading: DIXON
+dialog: Sure, of course. Soon. I know you
+dialog: want to get home.
+text: Broadhurst walks through the background leafing through the
+dialog: Post, not finding anything of note.
+speaker_heading: DONNA
+dialog: I don’t belong here.
+speaker_heading: DIXON
+dialog: I just need to know the facts.
+speaker_heading: DONNA
+dialog: Talk to Gary.
+speaker_heading: DIXON
+dialog: Gary's not a big talker when it
+dialog: comes to... this kind of thing.
+speaker_heading: DONNA
+dialog: I told you already.
+speaker_heading: DIXON
+dialog: Uh-huh.
+speaker_heading: DONNA
+dialog: I wanted a job with the campaign.
+dialog: BB arranged the interview.
+speaker_heading: DIXON
+dialog: (has to smile)
+dialog: An interview?
+text: Quick POP of Broadhurst and Armandt sitting nearby. He looks
+text: miserable and guilty. Armandt reads the Post.
+speaker_heading: DIXON (CONT'D)
+dialog: You've worked in politics before,
+dialog: Donna?
+speaker_heading: DONNA
+dialog: No. I just wanted to work for
+dialog: Senator Hart.
+speaker_heading: DIXON
+dialog: Why’s that?
+speaker_heading: DONNA
+dialog: I like his positions.
+text: Dixon smirks.
+scene_heading: Yellow Rev. (9/15/17) 79.
+speaker_heading: DONNA (CONT'D)
+dialog: You think I’m some stupid bimbo.
+speaker_heading: DIXON
+dialog: I don’t think anything.
+speaker_heading: DONNA
+dialog: I sell pharmaceuticals, you know.
+speaker_heading: DIXON
+dialog: Ok.
+speaker_heading: DONNA
+dialog: I was the top saleswoman in my
+dialog: district.
+speaker_heading: DIXON
+dialog: I don’t doubt it.
+speaker_heading: DONNA
+dialog: I graduated Phi Betta Kappa... I
+dialog: did all the things I was supposed
+dialog: to do to make sure men didn’t look
+dialog: at me the way you’re looking at me
+dialog: right now.
+text: All Dixon can do is sigh.
+speaker_heading: DONNA (CONT'D)
+dialog: I need to get home.
+speaker_heading: DIXON
+dialog: Yeah. Let me see how we’re doing
+dialog: with that.
+text: Dixon rises wearily. We TRACK HIM as he walks to THE KITCHEN,
+text: where Irene Kelly stands in the doorway. She’s been watching
+text: Dixon talk to Donna and clearly has mixed feelings. Shore is
+text: at the table, underlining passages on crinkly fax paper.
+speaker_heading: SHORE
+dialog: The Herald piece just came across.
+speaker_heading: DIXON
+dialog: Already?
+speaker_heading: SHORE
+dialog: Didn't exactly wait for comment.
+speaker_heading: DIXON
+dialog: Gary see it?
+scene_heading: Yellow Rev. (9/15/17) 80.
+speaker_heading: SHORE
+dialog: We moved him to Georgetown. Steve
+dialog: and Kitty's.
+speaker_heading: DIXON
+dialog: (shakes his head)
+dialog: «+. Who he should have fucking been
+text: with at the derby.
+dialog: (turns to Irene Kelly)
+dialog: OK. Your turn.
+text: Kelly looks to Dixon. She wasn’t expecting this.
+speaker_heading: DIXON (CONT'D)
+dialog: Shouldn’t take much.
+text: Kelly nods. A complicated look on her face.
+scene_heading: INT. WASHINGTON POST NEWSROOM. CONTINUOUS.
+text: Close up on a TELETYPE as it slowly spits out a headline.
+dialog: It’s the Herald story: “Miami Woman Linked to Hart” and the
+text: image of Hart in his hoodie below it.
+text: A hand grabs the sheet just as the next one starts to emerge
+text: from the machine. It’s Ann Devroy. She turns to somebody.
+speaker_heading: DEVROY
+dialog: You seen Parker?
+scene_heading: INT. STEVE MOSES’S STUDY, GEORGETOWN. LATE SUNDAY MORNING.
+text: We find Hart sitting behind an antique desk, unsettled and
+text: beat up, reading through a sheaf of paper.
+text: Then a KNOCK on the door jamb and the sound of bags being
+text: dropped on the floor as Dixon and Shore enter.
+speaker_heading: DIXON
+dialog: How you holding up?
+speaker_heading: HART
+dialog: (clearly shaken)
+dialog: When we talk about a digitized
+dialog: economy, I wonder if we have to
+dialog: talk more about equality of
+dialog: opportunity.
+text: Dixon, confused, looks over at the nearby couch where Wilson
+text: and Stratton sit. The three aides exchange ‘are we really
+text: talking about this?’ looks. Dixon takes a deep breath.
+scene_heading: Yellow Rev. (9/15/17) 81.
+speaker_heading: DIXON
+dialog: We can’t hide from this, Gary.
+speaker_heading: HART
+dialog: Who's hiding? I’m working.
+speaker_heading: DIXON
+dialog: .+. We need to say something.
+speaker_heading: HART
+dialog: I’ve already spoken to the person
+dialog: that matters.
+speaker_heading: DIXON
+dialog: There are stories being written.
+dialog: Right now.
+speaker_heading: HART
+dialog: It’s gossip, Dix. It’1l blow over.
+speaker_heading: DIXON
+dialog: I don’t think it’s blowing over.
+text: Hart’s still looking down at his remarks.
+dialog: Gary..
+speaker_heading: DIXON (CONT'D)
+dialog: We need to go through some things.
+dialog: This boat cruise I’m hearing about,
+dialog: for one, and --
+speaker_heading: WILSON
+dialog: Do we think they completely missed
+dialog: the back door of the townhouse?
+speaker_heading: SHORE
+dialog: It’s not in the piece. They must
+dialog: not have checked.
+speaker_heading: STRATTON
+dialog: If they don’t have her leaving...
+speaker_heading: DIXON SHORE
+dialog: Without the back door, the
+dialog: entire article amounts to -
+speaker_heading: STRATTON (CONT'D)
+dialog: - Garbage. Come to think, I don’t
+dialog: remember many alleyways in Florida.
+speaker_heading: WILSON
+dialog: Of course. Florida developed after
+dialog: the industrial revolution. No horse
+text: and carriage. It is a primarily
+dialog: front door community...
+scene_heading: Yellow Rev. (9/15/17) 82.
+speaker_heading: DIXON
+dialog: Gary...
+speaker_heading: HART
+dialog: Forget the fucking back door! The
+dialog: point is it’s nobody’s goddamn
+dialog: business. None of it is. They
+dialog: shouldn't have been there, period.
+dialog: (beat)
+dialog: Now, if we can all move on.
+speaker_heading: DIXON
+dialog: That's what we’re trying to do.
+speaker_heading: HART
+dialog: I've been doing this for 20 years.
+dialog: So have you. The public doesn’t
+dialog: care about this crap. They won’t
+dialog: stand for it.
+speaker_heading: DIXON
+dialog: This isn’t ‘72. It’s not even ‘82.
+dialog: It’s different now. I don’t know
+dialog: why, but it is. If we get our story
+dialog: down, we can --
+speaker_heading: HART
+dialog: There is no story! They can write
+dialog: all this crap all they want, but
+dialog: they will not earn the dignity of
+dialog: my response!
+speaker_heading: DIXON
+dialog: Jesus, Gary. How about us? Do we
+dialog: deserve a response?
+speaker_heading: HART
+dialog: About this? No.
+text: Shore and Wilson look like kids whose parents are fighting.
+speaker_heading: DIXON
+dialog: I’ve got a hundred kids unpacking
+dialog: boxes back in Denver right now
+dialog: because we told them you would do
+dialog: what it took to win. I told them!
+dialog: The best and the brightest. They
+dialog: left families and jobs. Billy left
+dialog: his fiance --
+speaker_heading: SHORE
+dialog: She left me --
+scene_heading: Yellow Rev. (9/15/17) 83.
+speaker_heading: DIXON
+dialog: People are sacrificing for you.
+speaker_heading: HART
+dialog: I’m not sacrificing? Should I
+dialog: sacrifice my privacy? My self-
+dialog: respect? It won’t just be me who
+dialog: gets dragged down. None of those
+dialog: kids you’re talking about will ever
+dialog: work another campaign where some
+dialog: candidate doesn’t have to account
+dialog: for who comes and goes from their
+dialog: bedroom. And that’s just the
+dialog: beginning.
+speaker_heading: DIXON
+dialog: We're not talking about that.
+dialog: Future campaigns, at the moment,
+dialog: are not our responsibility. We’re
+dialog: talking about how you get through
+dialog: today without pissing away
+dialog: everything we’ve worked for on this
+dialog: campaign!
+speaker_heading: HART
+dialog: This campaign is about the future,
+dialog: not rumors and sleaze. I care about
+dialog: the sanctity of this process
+dialog: whether you do or do not.
+text: And he’s finished. Dixon pauses. Watching.
+speaker_heading: HART (CONT'D)
+dialog: (to Wilson)
+dialog: I want to reexamine the language on
+dialog: page 17. It’s not just the specter
+dialog: of a trade war I worry about. It’s
+dialog: the loss of influence globally.
+text: OFF Shore and Dixon's looks.
+scene_heading: INT. BROADHURST’S LIVING ROOM, CAPITOL HILL. CONTINUOUS.
+text: Irene Kelly and Donna sit at the coffee table.
+speaker_heading: KELLY
+dialog: (holding up a coffee)
+dialog: You sure you don’t want any?
+speaker_heading: DONNA
+dialog: Tea?
+speaker_heading: Yellow Rev. (9/15/17) 84.
+speaker_heading: KELLY
+dialog: (over her shoulder)
+dialog: Can you make a hot tea?
+speaker_heading: BROADHURST (0.S.)
+dialog: Yes ma’am.
+speaker_heading: DONNA
+dialog: Why did Lynn get to leave?
+speaker_heading: KELLY
+dialog: Because I’m not sure you can trust
+dialog: her. And I don’t.
+speaker_heading: DONNA
+dialog: You're kidding. Lynn?
+speaker_heading: KELLY
+dialog: I don’t know.
+speaker_heading: DONNA
+dialog: Why were they interrogating me?
+speaker_heading: KELLY
+dialog: The standard practice for a scandal
+dialog: is to get all the damaging facts
+dialog: out yourself - If there are any. So
+dialog: it doesn't look like you're hiding.
+speaker_heading: DONNA
+dialog: But you’ll keep me out of it? My
+dialog: parents won’t hear about any of
+dialog: this, will they?
+speaker_heading: KELLY
+dialog: We know what we’re doing.
+speaker_heading: DONNA
+dialog: BB did say you might have a job for
+dialog: me. Fundraising? I graduated magna
+dialog: cum laude.
+speaker_heading: KELLY
+dialog: That’s impressive.
+speaker_heading: DONNA
+dialog: Do you believe it? About a job?
+speaker_heading: KELLY
+dialog: You sound pretty qualified.
+speaker_heading: DONNA
+dialog: It’s just, when you're a model, you
+dialog: know. People just assume.
+scene_heading: Yellow Rev. (9/15/17) 85.
+speaker_heading: KELLY
+dialog: That you can’t be smart.
+speaker_heading: DONNA
+dialog: Right.
+speaker_heading: KELLY
+dialog: (smiles)
+dialog: I don’t have that problem.
+speaker_heading: DONNA
+dialog: No! I wasn’t comparing.
+speaker_heading: KELLY
+dialog: Kidding. I mean, I don't have that
+dialog: problem. But I get why you do.
+speaker_heading: BROADHURST (0.S.)
+dialog: (from the kitchen)
+dialog: Honey in it, honey?
+text: Kelly looks at Donna, who shrugs.
+speaker_heading: KELLY
+dialog: Southern Comfort!
+text: Donna’s eyes widen and she actually laughs.
+speaker_heading: BROADHURST (0.S.)
+dialog: Well all right then!
+scene_heading: INT. BEN BRADLEE’S OFFICE, WASHINGTON POST - AFTERNOON
+text: Editors and reporters, in weekend clothes, are gathered. ON
+text: TV, a news reporter. Logo reads - “FOLLOW ME AROUND.”
+speaker_heading: PARKER
+dialog: They're using my quote.
+speaker_heading: BRADLEE
+dialog: (shrugging)
+dialog: Congrats.
+speaker_heading: PARKER
+text: It’s completely out of context.
+speaker_heading: DEVROY
+dialog: What context? The only context is
+dialog: that the idiot says “follow me
+text: around” and then goes and fucks his
+dialog: mistress on Capitol Hill.
+scene_heading: Yellow Rev. (9/15/17) 86.
+speaker_heading: PARKER
+dialog: It was a throwaway line. They’re
+dialog: using it after the fact to justify
+dialog: some tabloid bullshit.
+speaker_heading: KAISER
+dialog: Would we have staked him out? If we
+dialog: knew about the girl?
+speaker_heading: PARKER
+dialog: I hope not.
+speaker_heading: DEVROY
+dialog: So you get to decide which lies
+dialog: matter and which lies don’t!
+speaker_heading: BRADLEE
+dialog: All right, all right, enough! The
+dialog: kid's right. They're just covering
+dialog: their asses.
+dialog: (lost in a memory)
+dialog: So help me this is true. That New
+dialog: Years Eve after Jack died, Lyndon
+text: Johnson sits down with a bunch of
+dialog: us, pulls us in close and says,
+dialog: ‘Boys? You’re gonna see some girls
+dialog: come in and out of my hotel suites,
+dialog: and I want you to give me the same
+dialog: courtesy you gave Jack.’ Just like
+dialog: that. And we did. We did,
+dialog: goddamnit.
+speaker_heading: BRODER
+dialog: Different time, Ben.
+speaker_heading: BRADLEE
+dialog: Why? Who decides that?
+speaker_heading: BRODER
+dialog: The readers.
+speaker_heading: BRADLEE
+dialog: And if the readers want to see the
+dialog: candidates naked?
+speaker_heading: DEVROY
+dialog: Well, that’s one kind of measuring
+dialog: contest.
+speaker_heading: BRADLEE
+dialog: What is the limit to our curiosity?
+speaker_heading: DEVROY
+dialog: Where is he?
+speaker_heading: Yellow Rev. (9/15/17) 87.
+speaker_heading: PARKER
+dialog: Hart’s gone into hiding. Sweeney
+dialog: won’t tell me where. He’s got a big
+dialog: econ speech Tuesday in NY with the
+dialog: newspaper association.
+speaker_heading: BRODER
+dialog: (chuckling)
+dialog: The publishers...
+speaker_heading: BRADLEE
+dialog: Iran-Contra hearings start this
+dialog: week? Can’t make this shit up.
+speaker_heading: PARKER
+dialog: It’s a big speech. First major
+dialog: policy address since he announced.
+speaker_heading: DEVROY
+dialog: Policy? Is he serious?
+speaker_heading: BRADLEE
+dialog: All right. Suppose we do something
+dialog: small. Write something up from the
+dialog: wires about the Herald’s little
+dialog: expose.
+speaker_heading: DEVROY
+dialog: Are we going after Hart or the
+dialog: Herald?
+dialog: Before anyone can answer...
+scene_heading: INT. HART KITCHEN, TROUBLESOME GULCH - AFTERNOON
+text: Lee grinds coffee as the radio plays Travis Tritt,
+text: surprisingly LOUD, like she’s trying to drown out the world.
+text: She HEARS something in the distance, under the music.
+text: She turns off the music and we HEAR it. A LOUD RUMBLING
+text: combined with a PIERCING WHINE. She stops what she’s doing,
+text: walks to the front of the house and steps out onto the
+text: screened in porch.
+speaker_heading: ANDREA (0.S.)
+dialog: Mom?
+text: Lee doesn’t answer, but we SEE what she sees:
+text: A massive SATELLITE TRUCK sits at the front gate. Couple SAT
+text: VANS sit nearby. DIESEL GENERATORS and PNEUMATIC PUMPS
+text: sending loud whines into the sky.
+scene_heading: Yellow Rev. (9/15/17) 88.
+text: REPORTERS, PRODUCERS, ENGINEERS mill around the gate,
+text: unpacking equipment. It’s like an invading army.
+text: Lee simply reenters the house, walks back into the kitchen.
+speaker_heading: ANDREA (CONT'D)
+dialog: Mom, what’s happening?
+speaker_heading: LEE
+dialog: It’s an invasion.
+speaker_heading: ANDREA
+dialog: I don’t understand.
+scene_heading: INT. HART CAMPAIGN HEADQUARTERS, DENVER. AN HOUR LATER.
+speaker_heading: SWEENEY
+dialog: (on his phone, pacing)
+dialog: Maureen! Listen to what I’m telling
+dialog: you! They were hiding in the
+dialog: bushes, OK? Like fucking
+dialog: scavengers. Is that journalism?
+text: Behind him, a chaotic scene with phones RINGING constantly.
+text: We see STAFFERS answering questions.
+text: Joe (former owner of Brainy Smurf) shuffles up and motions to
+text: Sweeney that he has another call.
+speaker_heading: JOE
+text: Mrs. Hart. On four.
+speaker_heading: SWEENEY
+dialog: Maureen, I gotta go. Please do me a
+dialog: favor and ask your editors to
+dialog: remember they run the New York
+dialog: Fucking Times, OK? Not US Weekly.
+dialog: (beat)
+dialog: Oh, that’s funny. You’re hilarious.
+text: Sweeney SLAMS the phone down. He’s about to pick up Lee on
+text: line four when he makes eye contact with Emerson.
+speaker_heading: EMERSON
+dialog: You don’t think he actually...?
+speaker_heading: SWEENEY
+dialog: (to Joe Trippi)
+dialog: You got a car?
+text: Trippi doesn’t. Sweeney tosses him his keys. Takes a deep
+text: breath, then picks up the phone.
+scene_heading: Yellow Rev. (9/15/17) 89.
+scene_heading: EXT. HART CABIN, TROUBLESOME GULCH. SUNDAY DUSK.
+text: An old JEEP WRANGLER barrels up the gravel road, past a line
+dialog: of five or six SAT VANS.
+text: It screeches to a halt outside the front gate, kicking up a
+text: cloud of dust. Joe Trippi gets out and gawks at the trucks.
+text: He turns around and nearly slams into a boom mic. A pack of
+text: REPORTERS close in on him.
+speaker_heading: WOMAN CORRESPONDENT
+dialog: Who are you?
+speaker_heading: MAN CORRESPONDENT
+dialog: Are you with the Hart campaign?
+speaker_heading: TRIPPI
+dialog: I’ve, uh, got no comment for you.
+dialog: I’m sorry.
+speaker_heading: WOMAN CORRESPONDENT
+dialog: When is Lee coming out? Will there
+dialog: be a statement?
+text: A slick reporter approaches, camera already rolling.
+speaker_heading: STEVE DUNLEAVY
+dialog: Hello young man, Steve Dunleavy. A
+dialog: Current Affair. Who are you going
+dialog: to see in there?
+speaker_heading: TRIPPI
+dialog: (bewildered)
+dialog: A Current Affair?
+text: Trippi continues, finally getting through the gate. He’s
+text: about to keep walking when he spots a TABLOID PHOTOGRAPHER up
+text: in an old OAK TREE, trying to get an angle into the cabin.
+speaker_heading: TRIPPI (CONT'D)
+dialog: Hey! What the fuck? Get down from
+dialog: there!
+scene_heading: INT. HART CABIN, TROUBLESOME GULCH. MOMENTS LATER
+text: Lee Hart answers the door for Trippi.
+speaker_heading: TRIPPI
+dialog: Hi, Joe Trippi ma'am. Here to help.
+speaker_heading: LEE
+dialog: Okay, what’s your plan?
+scene_heading: Yellow Rev. (9/15/17) 90.
+text: Joe goes to speak, but has nothing. Lee smiles.
+scene_heading: INT. CHECK IN DESK, DULLES AIRPORT HOTEL - NIGHT
+text: Irene steps away from the desk with a room key to find Donna
+text: lost in thought.
+speaker_heading: KELLY
+dialog: It’s only one night.
+text: Donna nods, sullenly.
+speaker_heading: KELLY (CONT'D)
+dialog: I saw a bar.
+scene_heading: INT. “WHEELS UP” BAR, DULLES AIRPORT HOTEL - LATER
+text: End of the bar. Empty glasses beginning to stack.
+speaker_heading: KELLY
+dialog: That’s my one time in Miami! Shit-
+text: faced, lost and bumming a ride off
+dialog: some lecherous guy I knew I’d never
+dialog: see again!
+speaker_heading: DONNA
+dialog: Guys in Miami... One of my ex-
+text: boyfriends had his car repo’d while
+dialog: we were at the movies.
+speaker_heading: KELLY
+dialog: Seriously?
+speaker_heading: DONNA
+dialog: I still can’t see Indiana Jones
+text: without picturing Ed Clausen crying
+text: in the parking lot.
+dialog: (they laugh)
+text: Another’s in jail for selling blow.
+speaker_heading: KELLY
+dialog: Jesus.
+speaker_heading: DONNA
+dialog: Yeah. Even my mom doesn’t know
+dialog: about that.
+text: Donna nods in agreement as the WAITER sets down 2 more beers.
+speaker_heading: DONNA (CONT'D)
+dialog: Gary's so different.
+scene_heading: Yellow Rev. (9/15/17) 91.
+text: Kelly flinches at the sound of his name, but hides it.
+speaker_heading: KELLY
+dialog: How so?
+speaker_heading: DONNA
+dialog: He asks about me. Even if nothing
+dialog: comes of it. I feel like I can just
+dialog: be quiet with him. Myself. You ever
+dialog: have that feeling?
+speaker_heading: KELLY
+dialog: Did the Senat... Gary know you were
+dialog: a model? Did you show him pictures?
+speaker_heading: DONNA
+dialog: Oh God, no. Don’t get the wrong
+dialog: idea. I do tasteful shoots.
+text: Toothpaste. Jeans.
+speaker_heading: KELLY
+dialog: You don’t...?
+speaker_heading: DONNA
+dialog: No!
+dialog: (long beat)
+dialog: I mean... One time, during a shoot,
+dialog: a photographer I thought was a
+dialog: friend of mine talked me into
+text: posing with nothing but an American
+dialog: flag. Patriotism, you know. And
+dialog: when I saw them later...
+dialog: (quieter)
+dialog: My boob was hanging out.
+speaker_heading: KELLY
+dialog: Some friend!
+speaker_heading: DONNA
+dialog: Right? I was so mad. I’m way more
+dialog: selective now. You have to be
+dialog: smart.
+speaker_heading: KELLY
+dialog: You are.
+speaker_heading: DONNA
+dialog: Thank you. Coming from someone like
+dialog: you. I mean. Look at where you are.
+text: Beat as Kelly takes a drink, looking at Donna.
+scene_heading: Yellow Rev. (9/15/17) 92.
+speaker_heading: KELLY
+dialog: I’m sorry you got caught up in
+dialog: this, Donna. This whole world we’re
+dialog: in. None of it’s making sense right
+dialog: now. You should be somewhere else.
+scene_heading: EXT. OUTSIDE THE MOSES HOME, GEORGETOWN. SUNDAY NIGHT.
+text: Dixon, carrying his bag, stands with Shore on the sidewalk.
+speaker_heading: SHORE
+dialog: It has to mean something, right?
+dialog: If she swears it was a job
+dialog: interview.
+text: Dixon's looks off, down the street, watching something, lost
+dialog: in thought.
+speaker_heading: DIXON
+dialog: I’ve known Gary a long time. In '84
+dialog: we were in this hotel, I forget
+dialog: which one. Me and Gary and Warren
+text: Beatty. And Gary starts wigging out
+dialog: because now, you know, he might
+dialog: actually win the thing, and he’s
+text: grilling the Secret Service agents.
+dialog: (as Hart)
+dialog: ‘What if I’m president and I want
+dialog: to fly to Boulder for the day and
+dialog: shop for used books with my kids?
+dialog: What about my private time?’ And
+dialog: Warren goes, ‘Gary, you’re not
+dialog: getting it. There is no privacy.
+text: The cameras go everywhere now.’
+text: A cab pulls up. Dixon waves to the driver.
+speaker_heading: DIXON (CONT'D)
+dialog: Gary’s confounded. ‘That’s
+dialog: Hollywood, Warren. That’s the
+dialog: paparazzi. That’s not politics.’
+speaker_heading: SHORE
+dialog: He’s right, isn’t he?
+text: We SEE what Dixon’s been looking at -- a FEMALE REPORTER with
+text: a notebook a few houses down, knocking on doors, a cameraman
+text: waiting behind her. They’re closing in.
+text: Dixon opens the cab door.
+speaker_heading: DIXON
+dialog: I don’t know. Is he?
+scene_heading: Yellow Rev. (9/15/17) 93.
+text: PRELAP: the sound of A WHIRRING CHOPPER.
+scene_heading: INT. FRONT PORCH, TROUBLESOME GULCH. MONDAY MORNING.
+text: Trippi, sprawled on a wicker couch with a blanket, stirs
+text: awake from the sound of the choppers close overhead, he rises
+text: and goes to the screen door.
+text: In the distance, A MOB OF REPORTERS are setting up their
+text: stakeout equipment for the day and drinking coffee outside
+text: the front gate like they own the place.
+scene_heading: INT. HART KITCHEN, TROUBLESOME GULCH. CONTINUOUS.
+text: Trippi shuffles in groggily and sees Lee at the stove, her
+text: back turned to him. Andrea’s at the farmhouse-style table.
+speaker_heading: TRIPPI
+dialog: Were you able to sleep?
+text: Lee just gives him a look and slides some scrambled eggs onto
+text: his plate. Andrea has her head in a cup of coffee. A rotary
+text: phone is RINGING harshly.
+text: The RINGING stops.
+speaker_heading: TRIPPI (CONT'D)
+dialog: You could take that off the hook.
+speaker_heading: LEE
+dialog: It’s unlisted. Not many people have
+dialog: the number.
+dialog: (beat while he eats)
+dialog: Jesse Jackson called.
+speaker_heading: ANDREA
+dialog: Really?
+speaker_heading: LEE
+dialog: Just told me to keep my chin up.
+dialog: He’s a lovely man. Strange.
+text: Lee takes another look through the window. She observes the
+text: news vans and journalists camped out at her gate.
+speaker_heading: LEE (CONT'D)
+dialog: All these people want to feel anger
+dialog: and outrage for me, but it doesn’t
+dialog: belong to them. It’s my anger. They
+dialog: can’t have it.
+speaker_heading: Yellow Rev. (9/15/17) 94,
+speaker_heading: TRIPPI
+dialog: It, er, it won’t be easy getting
+dialog: out that gate.
+speaker_heading: LEE
+dialog: We'll figure it out. I think I’1l
+dialog: be ready to fly soon.
+speaker_heading: ANDREA
+dialog: What?
+speaker_heading: LEE
+dialog: I need to see my husband.
+speaker_heading: ANDREA
+dialog: Mom. Seriously?
+speaker_heading: LEE
+dialog: I've spent thirty years of my life
+dialog: with your father. I’ve made many
+dialog: allowances...
+text: Lee sees the disappointment in her daughter's eyes.
+speaker_heading: LEE (CONT'D)
+dialog: You think I should feel humiliated.
+text: Trippi and Andrea say nothing.
+speaker_heading: LEE (CONT'D)
+dialog: Feelings that simple are a
+dialog: privilege of being young. Our
+dialog: marriage is complicated. So is our
+dialog: love for one another.
+dialog: (to Trippi)
+dialog: You married, Joe?
+speaker_heading: TRIPPI
+dialog: Yes, ma’am. Just last year.
+speaker_heading: LEE
+dialog: I think you’1l find that it’s more
+dialog: complex than what they said at the
+dialog: altar.
+speaker_heading: ANDREA
+dialog: You should let him deal with this.
+speaker_heading: LEE
+dialog: He will.
+speaker_heading: ANDREA
+dialog: But you’re just letting him off the
+dialog: hook!
+scene_heading: Yellow Rev. (9/15/17) 95.
+speaker_heading: LEE
+dialog: (a sharp look)
+dialog: Andrea... I went to a Nazarene
+dialog: College. We invented penance.
+speaker_heading: OMITTED
+scene_heading: INT. CONCOURSE, MIAMI INTERNATIONAL - MONDAY MORNING.
+text: As they approach the ESCALATOR to the land side, Kelly takes
+text: Donna’s arm and stops her. Passengers continue to stream by.
+speaker_heading: KELLY
+dialog: We've got a car waiting downstairs.
+dialog: It’ll take you wherever you need.
+speaker_heading: DONNA
+dialog: Thank you.
+speaker_heading: KELLY
+dialog: And we've got a guy here in Miami.
+dialog: A lawyer who can --
+speaker_heading: DONNA
+dialog: Thank you, but I just want --
+speaker_heading: KELLY
+dialog: Let me just give you his number.
+speaker_heading: DONNA
+dialog: Really, Irene. I don’t know what
+dialog: I'd have done without you. But I
+dialog: just want to get home.
+text: She hugs Kelly quickly and turns to descend an escalator into
+text: the baggage claim area. She’s having a moment to herself. Her
+text: first in a while, when suddenly - A CAMERA FLASH.
+text: Below, we see a gathering mob. The questions are aggressive.
+speaker_heading: SHOUTER 1
+dialog: Donna! Donna Rice! Look up here,
+dialog: please!
+speaker_heading: DONNA
+dialog: (bewildered)
+dialog: How do you know my name?
+speaker_heading: SHOUTER 2
+dialog: Are you and Gary in love?
+scene_heading: Yellow Rev. (9/15/17) 96.
+speaker_heading: DONNA
+dialog: In love? How did you...?
+scene_heading: SHOUTER 2 SHOUTER 3
+dialog: Was your boyfriend a drug Do you have ties to the drug
+dialog: dealer? trade?
+speaker_heading: DONNA (CONT'D)
+dialog: No... I don’t know what you’re
+dialog: talking about.
+speaker_heading: SHOUTER 1
+dialog: Was the boat really called Monkey
+dialog: Business?
+speaker_heading: DONNA
+dialog: (recoiling and shaking)
+dialog: I’m just... Just trying to go home.
+speaker_heading: SHOUTER 2
+dialog: What kind of erotic pictures can we
+dialog: expect to find from you?
+text: Donna looks back for Kelly, tears swelling. She can barely
+text: see her walking away. Donna turns back around. She looks
+text: frightened and shattered. The shouts of her name continue to
+dialog: build as we suddenly...
+speaker_heading: CUT TO:
+scene_heading: A TELEVISION - IRAN-CONTRA HEARING
+speaker_heading: FAWN HALL
+dialog: As a secretary, you saw your boss
+text: shredding documents...
+dialog: Reveal, we're at an...
+scene_heading: INT. AIRPORT BAR, MIAMI INTERNATIONAL - MOMENTS LATER
+text: Irene Kelly sips a much needed drink. Half watching Fawn Hall
+text: testify about Oliver North on television.
+scene_heading: INT. BEN BRADLEE’S OFFICE, WASHINGTON POST. DAY.
+text: A TELEVISION plays the same hearing.
+text: We PULL OUT to find Bradlee, Devroy, Kaiser, and Broder
+text: watching the hearing with fascination.
+scene_heading: Yellow Rev. (9/15/17) 97.
+text: A CLERK taps on the door frame. He’s holding a PADDED
+text: ENVELOPE. No one hears him amongst the ad-libbed responses to
+text: Hall’s testimony. He knocks a little louder.
+text: Broder sees him and points to the desk. The clerk sets it
+text: down on Bradlee’s heavy desk. He hangs back for a moment...
+speaker_heading: BRODER
+dialog: What, are you waiting for a tip?
+text: The clerk scurries off.
+scene_heading: INT. HOTEL BAR, NEW YORK - NIGHT
+text: Wilson and Shore are having a drink. The TONIGHT SHOW lead-in
+text: plays on an old TV.
+speaker_heading: TV ANNOUNCER (0.S.)
+dialog: Next up, Johnny's got George C.
+dialog: Scott and gymnast Kristie Phillips!
+speaker_heading: WILSON
+dialog: Something’s been bothering me.
+dialog: (off Shore’s look)
+dialog: I mean, he sees the entire
+text: chessboard at all times. He looks
+dialog: at the country and see decades
+dialog: ahead of anyone. How the hell did
+dialog: he not see this coming?
+speaker_heading: SHORE
+dialog: He’d say - It's Chinatown, Jake.
+dialog: (off Wilson's look)
+dialog: It’s just fucked.
+speaker_heading: WILSON
+dialog: Are we just spinning our wheels?
+dialog: When do we know we’re dead?
+speaker_heading: SHORE
+dialog: We had a dinner at Sorenson’s place
+dialog: tonight. Raised four hundred
+dialog: thousand dollars.
+text: Wilson takes this positive news in. We see him visibly relax.
+speaker_heading: DON PARDO (0.S.)
+dialog: ...the Tonight Show with Johnny
+dialog: Carson! And heeeer’s Johnny!
+text: We hear the familiar opening music in the background.
+scene_heading: Yellow Rev. (9/15/17) 98.
+speaker_heading: CARSON
+dialog: (from actual footage)
+text: By the way, before the monologue
+text: begins. If Gary Hart is watching,
+dialog: you might want to hit the mute
+dialog: button on your remote control.
+text: Wilson and Shore share a look of death.
+scene_heading: INT. SMALL BEDROOM, NEW YORK - NIGHT
+text: Hart’s lying on the bed in his undershirt. He’s reading
+text: through his speech while making notes on a legal pad. The TV
+text: is on in the background.
+speaker_heading: CARSON
+dialog: I really don't need a monologue
+dialog: tonight. I'll just bring out and
+dialog: read the front pages of newspapers
+dialog: around the country. It is getting
+dialog: so wild that people standing in
+text: supermarkets are rushing out to buy
+dialog: regular newspapers.
+text: Hart puts down his notes and grabs the remote to turn it up.
+speaker_heading: CARSON (CONT'D)
+dialog: USA Today is advertising numbers to
+dialog: call. It's kind of a poll. You can
+dialog: call in an 800 number, one number,
+dialog: if you think the press coverage has
+dialog: been fair. There's another 800
+dialog: number you call if you think it's
+dialog: been unfair. And there's a third
+dialog: 800 number to call if you want to
+dialog: meet Donna Rice.
+text: Loud laughter and hooting... And then ZAP -- Carson
+text: disappears and the screen goes black.
+text: Hart’s holding the remote, frozen. He picks up a LEGAL PAD.
+scene_heading: INT./EXT. TOWN CAR, MANHATTAN. NEXT MORNING.
+text: Hart’s in the back seat, going over his speech throughout.
+text: Stratton’s in the front passenger seat, next to Shore behind
+dialog: the wheel.
+scene_heading: Yellow Rev. (9/15/17) 99.
+speaker_heading: HART STRATTON
+dialog: (distracted) Left.
+text: Rusting industrial base...
+dialog: deteriorating public
+dialog: infrastructure... declining
+dialog: system of public education...
+dialog: astounding accumulation of
+dialog: public and private debt...
+speaker_heading: SHORE
+dialog: On 49th?
+speaker_heading: STRATTON
+dialog: We’re going in the front.
+speaker_heading: HART
+dialog: Has Dix seen what they’ve got?
+speaker_heading: SHORE
+dialog: You sure?
+speaker_heading: STRATTON
+dialog: Right up there...
+speaker_heading: HART
+dialog: Billy?
+speaker_heading: SHORE
+text: Dix hasn't been back to the office.
+text: The car is slowing to a stop outside the hotel. FLASH...
+speaker_heading: HART
+dialog: You’ve called him?
+text: Before Shore can answer... WHAM! - A BODY sprawls onto the
+text: windshield. FLASH! - The photog on the hood clicks away.
+text: FLASH, FLASH, FLASH. PAPARAZZI surround the car and BANG up
+text: against the windows.
+speaker_heading: STRATTON
+dialog: Jesus!
+text: Stratton jumps out and pulls the photographer off the hood of
+text: the car, before hopping back in.
+speaker_heading: STRATTON (CONT’D)
+dialog: Go! Gol
+speaker_heading: SHORE
+dialog: Go where?!
+speaker_heading: Yellow Rev. (9/15/17) 100.
+speaker_heading: STRATTON SHORE (CONT'D)
+dialog: Pull away! I can’t pull away! I’11 kill
+dialog: somebody!
+speaker_heading: STRATTON
+dialog: (opening his door)
+dialog: Get out of the car! Let’s go!
+text: Shore opens his door and Stratton comes around, pulling a
+text: deeply rattled Hart from the car.
+text: Stratton pushes his way through the scrum to the car.
+speaker_heading: STRATTON (CONT'D)
+dialog: This way! C’mon!
+text: They guide Hart through the throng of SHOUTING, SHOVING
+text: PHOTOGRAPHERS toward the front door of the Waldorf Astoria.
+scene_heading: INT. GRAND BALLROOM, WALDORF ASTORIA. 10 MINUTES LATER.
+text: Hart still rattled by the attack outside, sits on the dais
+text: next to Senator BOB DOLE. The room buzzes with anticipation.
+text: An EMCEE gives a dry introduction in the background.
+speaker_heading: DOLE
+dialog: So.... How was your weekend, Gary?
+text: Dole cracks a smile. Hart laughs despite himself.
+text: Something in the balcony catches his attention. He shades his
+text: eyes and peers into the lights.
+speaker_heading: HART
+dialog: Is that Tom?
+speaker_heading: DOLE
+dialog: Huh?
+speaker_heading: HART
+dialog: Brokaw. Is that Brokaw? Here?
+text: The lens reaches into the balcony to SEE TOM BROKAW and his
+text: crew frantically setting up in the balcony, which is packed
+text: elbow-to-elbow with reporters and cameras.
+speaker_heading: DOLE
+dialog: (droll)
+dialog: Guess they’re really curious about
+dialog: your economics plan.
+text: Hart shakes his head.
+speaker_heading: Yellow Rev. (9/15/17) 101.
+speaker_heading: DOLE (CONT'D)
+dialog: Hell of a deal, Gary. Hell of a
+dialog: deal.
+text: Hart looks around the room. He notices MARTINDALE sitting
+text: down along the dais. He pulls his speech from his pocket and
+text: begins to scribble further.
+text: We move up into the BALCONY. Parker sits among a group of
+text: reporters on the risers where the cameras are set up. He
+text: clocks Hart jotting notes.
+speaker_heading: MCDANIEL
+dialog: (re: something else)
+dialog: Jesus, that’s balls.
+speaker_heading: PARKER
+dialog: Huh?
+text: McDaniel nods to a place across the risers, where Fiedler is
+text: standing alone.
+speaker_heading: PARKER (CONT'D)
+text: Front row seats.
+text: Back ON STAGE, we find Shore in the wings. Weinberg, the
+text: reporter from the beginning of the film approaches.
+speaker_heading: WEINBERG
+dialog: Billy Shore. You hear Stevie Wonder
+dialog: won’t play Arizona until they
+dialog: recognize Martin Luther King Day?
+speaker_heading: SHORE
+dialog: Nothing to announce, Alan.
+speaker_heading: WEINBERG
+dialog: (smiles)
+dialog: I‘ll keep asking.
+speaker_heading: CUT TO:
+scene_heading: INT. GRAND BALLROOM, WALDORF ASTORIA. 20 MINUTES LATER.
+text: Two rows of suit-n-tied men are on the dais. Hart is now
+text: speaking at the podium.
+speaker_heading: HART
+dialog: Good afternoon. Thank you. I’m here
+dialog: today to talk to you about
+dialog: America’s future. That’s what my
+dialog: campaign is and ought to be about.
+speaker_heading: (MORE )
+speaker_heading: Yellow Rev. (9/15/17) 102.
+speaker_heading: HART (CONT'D)
+dialog: But with your permission, I'd like
+dialog: to address the events of the last
+dialog: three days that you have no doubt
+dialog: been discussing amongst yourselves.
+text: Quick shot of Parker, riveted.
+text: Others amongst the press leaning in. Lenses ZOOMING.
+speaker_heading: HART (CONT'D)
+dialog: Last weekend, a newspaper published
+dialog: a misleading story that hurt my
+dialog: family and reflected badly upon my
+dialog: character.
+text: Quick shot of Fiedler, soaking in his Watergate moment.
+speaker_heading: HART (CONT’D)
+dialog: This story was written by reporters
+dialog: who by their own admission,
+dialog: undertook a spotty surveillance...
+text: We catch MARTINDALE from the Miami Herald along one of the
+text: arms of the DAIS. He rolls his eyes and whispers loudly...
+speaker_heading: MARTINDALE
+dialog: Jesus Christ, man the lifeboats...
+speaker_heading: HART
+dialog: What was that?
+text: A frozen beat between the two of them. Martindale gives a nod
+dialog: and a gesture - keep going, you're doing fine on your own.
+speaker_heading: HART (CONT’D)
+dialog: Something you'd like to say?
+text: We see Shore and Stratton at one of the tables on the floor.
+speaker_heading: STRATTON
+dialog: Fuck. What do we? I can yell fire.
+speaker_heading: SHORE
+dialog: He’s got this.
+text: Back to Hart. Unmoving.
+speaker_heading: HART
+dialog: Is there something you’d like to
+dialog: ask me? Or does the Miami Herald
+dialog: prefer to chat in alleyways?
+text: Light laughter.
+speaker_heading: Yellow Rev. (9/15/17) 103.
+speaker_heading: MARTINDALE
+dialog: (speaking loudly)
+dialog: Senator, this is not a story about
+dialog: the Miami Herald. This is a story
+dialog: about Gary Hart's judgment.
+speaker_heading: HART
+dialog: Can we get him...
+dialog: (aside)
+dialog: Can we get him a microphone?
+text: Staffers move a CABLED MICROPHONE to Martindale.
+speaker_heading: MARTINDALE
+dialog: (now on mic)
+dialog: We stand by the essential
+dialog: correctness of our story.
+speaker_heading: HART
+dialog: The essential correctness?
+text: More laughter from the audience.
+speaker_heading: MARTINDALE
+text: This is a story about a married man
+dialog: who spent a considerable amount of
+dialog: time with an unmarried woman. We’ve
+dialog: never speculated on what went on...
+speaker_heading: HART
+dialog: If I may, it’s because you simply
+dialog: don’t know... Despite hiding in the
+dialog: bushes outside my home.
+text: We briefly find Fiedler in the audience.
+speaker_heading: FIEDLER
+dialog: (quietly)
+dialog: I wasn’t in his fucking bushes.
+speaker_heading: MARTINDALE
+dialog: We know you called Donna Rice
+dialog: several times from the campaign
+dialog: trail. We know she was seen leaving
+dialog: your town house in Washington...
+speaker_heading: HART
+dialog: Well was she leaving or not? In
+dialog: your story she didn’t leave my
+dialog: home. Now, you’re saying she did.
+speaker_heading: MARTINDALE
+dialog: Senator, when we interviewed you...
+speaker_heading: Yellow Rev. (9/15/17) 104.
+speaker_heading: HART
+dialog: Your newsmen accosted me in my
+text: alleyway. Some interview.
+speaker_heading: MARTINDALE
+dialog: With all due respect...
+speaker_heading: HART
+dialog: It’s a little late for respect,
+dialog: sir. You ambushed me outside my
+text: home in the middle of the night
+dialog: after putting me under some half-
+dialog: baked stake out... During which,
+dialog: your crack reporting team failed to
+dialog: realize my home had a back door.
+speaker_heading: MARTINDALE
+dialog: (you're going with that?)
+dialog: A back door?
+speaker_heading: HART
+dialog: Some surveillance is no better than
+dialog: zero surveillance. In fact, it’s
+dialog: worse.
+speaker_heading: MARTINDALE
+dialog: You do your job, we’ll do ours.
+speaker_heading: HART
+dialog: It would be a welcome change.
+text: Martindale throws his hands in exasperation. Meanwhile Parker
+text: furiously takes notes.
+speaker_heading: HART (CONT'D)
+dialog: Now if no one else minds, I’d like
+dialog: to discuss something a little more
+dialog: exciting. Economics.
+text: LAUGHTER as we close in on Fiedler, also taking notes, when a
+text: FLASH suddenly distracts him.
+text: Fiedler looks up to see a photographer snapping away at him.
+text: He looks around and notices other journalists taking note of
+text: him. He’s become part of the story and he doesn’t like it.
+speaker_heading: OMITTED
+speaker_heading: OMITTED
+speaker_heading: Yellow Rev. (9/15/17) 105.
+scene_heading: EXT. HIGHWAY TO NEW HAMPSHIRE - DAY
+text: The HART CAMPAIGN BUS works its way up a hill.
+scene_heading: INT. HART CAMPAIGN BUS - DAY
+text: Hart, Shore, and Sweeney huddle around a table as staffers
+text: work furiously around them.
+text: A staffer is passing out sandwiches to the men. There’s a bit
+text: of ad-libbed confusion over who ordered what.
+speaker_heading: SHORE
+dialog: Back to New Hampshire.
+speaker_heading: WILSON
+dialog: Live free or die.
+speaker_heading: EMERSON
+dialog: Wonder how many people pick “die”?
+speaker_heading: HART
+dialog: I can’t keep answering these
+dialog: questions.
+speaker_heading: SWEENEY
+dialog: One more presser. We let them ask
+dialog: whatever they want and we put it to
+dialog: bed. Get back to big ideas.
+speaker_heading: TED KOPPEL (PRELAP)
+dialog: Well, you have conceded that you
+dialog: weren’t able to watch the back of
+dialog: his townhouse...
+speaker_heading: CUT TO:
+text: A BROADCAST OF NIGHTLINE
+text: Footage of Ted Koppel interviewing Tom Fiedler.
+speaker_heading: TED KOPPEL
+dialog: ... And that, therefore, the lady
+dialog: in question may have left when you
+dialog: thought she was still there.
+speaker_heading: FIEDLER
+dialog: (sweating and stammering)
+dialog: Well, that’s, um... That’s... I
+dialog: mean, Mr. Koppel. Ted...
+speaker_heading: (MORE )
+dialog: 
+speaker_heading: Yellow Rev. (9/15/17) 106.
+speaker_heading: FIEDLER (CONT'D)
+dialog: If we’re conceding that we’re not
+dialog: as good as the FBI at conducting
+dialog: surveillance, then I think we have
+dialog: no problem agreeing to that. But --
+speaker_heading: TED KOPPEL
+dialog: Hold on. That’s cute, but that’s
+dialog: not the point. Did she spend the
+dialog: night with him or didn’t she spend
+dialog: the night with him?
+speaker_heading: FIEDLER
+dialog: Right. Well, not right. I mean, the
+dialog: basis of our report was that
+dialog: Senator Hart had this ongoing
+dialog: relationship with this woman who,
+dialog: again, was not his wife. A single
+dialog: woman...
+speaker_heading: TED KOPPEL
+dialog: You have spoken several times, Mr.
+dialog: Fiedler, about the relationship.
+dialog: And of course, relationship is one
+dialog: of those loaded words that suggests
+dialog: that somehow there’s been a tryst
+text: going on.
+speaker_heading: FIEDLER
+dialog: No. No, I...I...I haven’t
+dialog: suggested, you know --
+speaker_heading: TED KOPPEL
+dialog: Well you've suggested it. You
+dialog: haven't said it, but you’ve
+dialog: certainly suggested it.
+speaker_heading: FIEDLER
+dialog: (flailing)
+dialog: I think a relationship simply means
+dialog: there were, you know, dealings
+dialog: between two people. There were --
+speaker_heading: TED KOPPEL
+dialog: Well you're not suggesting a
+dialog: professional relationship. You were
+text: suggesting a romantic relationship.
+speaker_heading: REVEAL:
+speaker_heading: Yellow Rev. (9/15/17) 107.
+scene_heading: SONY TRINITRON TV - SHOWING “NIGHTLINE”
+speaker_heading: FIEDLER
+dialog: Well. No. I, uh, I guess we mean a,
+dialog: you know, non-political
+dialog: relationship.
+text: Koppel is not impressed.
+speaker_heading: TED KOPPEL
+dialog: I can imagine what it’s like,
+dialog: because I’m a reporter too and I’ve
+dialog: been in similar situations. Let me
+dialog: put to you an alternative question.
+dialog: This wasn’t a competitive story.
+dialog: Nobody was breathing down your
+dialog: neck. You could have waited twenty
+dialog: fours hours... and got it right.
+speaker_heading: FIEDLER
+dialog: (dumbfounded)
+dialog: I believe we did get it right.
+speaker_heading: TED KOPPEL
+dialog: Is this a story that the Miami
+dialog: Herald drops now?
+text: Fiedler looks at Koppel. Doesn’t feel like Watergate. REVEAL:
+scene_heading: INT. BEN BRADLEE’S OFFICE, WASHINGTON POST. EVENING.
+text: The sound from the TV fades into the BG. Parker is watching
+text: with a big grin, when he notices the rest of the office has
+text: focused on something else.
+text: Bradlee is leafing through photos from the PADDED ENVELOPE
+text: revealed earlier. Kaiser, Broder, and Devroy are experiencing
+text: a collective emotional kidney stone.
+speaker_heading: BRADLEE
+dialog: Fuck me. Close the blinds, would
+dialog: you?
+speaker_heading: BRODER
+dialog: I know this broad.
+text: Broad? - Devroy shoots a look to Broder.
+speaker_heading: KAISER
+dialog: (holding out a pack)
+dialog: Gum?
+dialog: Who?
+speaker_heading: Yellow Rev. (9/15/17) 108.
+speaker_heading: BRADLEE
+dialog: Yeah, she’s a lobbyist.
+speaker_heading: BRODER
+dialog: (to Kaiser)
+dialog: No, thanks.
+speaker_heading: BRADLEE
+dialog: Run me through this again.
+speaker_heading: DEVROY
+dialog: They’re part of a PI report. A
+dialog: certain Senator thought his wife
+dialog: was sleeping with Hart.
+speaker_heading: BRADLEE
+dialog: Jesus, this guy...
+speaker_heading: DEVROY KAISER
+dialog: We're thinking Tydings...
+speaker_heading: DEVROY
+dialog: But as it turns out, Hart isn’t
+dialog: fucking Mrs. Tydings. He’s been
+dialog: schtupping this other woman.
+text: We SEE a few photos up close - A smart looking political
+text: woman is EMBRACING Hart and letting him into her house.
+speaker_heading: BRODER
+dialog: What a town.
+speaker_heading: BRADLEE
+dialog: How did we get this?
+speaker_heading: DEVROY
+dialog: Anonymous package.
+speaker_heading: BRADLEE
+dialog: I hate those. You got something to
+dialog: say - Say it.
+dialog: (to Kaiser)
+dialog: Give me some of that gum.
+speaker_heading: KAISER
+dialog: You think Tydings sent it?
+speaker_heading: DEVROY
+dialog: But why?
+speaker_heading: BRODER
+dialog: Are we going to even talk about
+dialog: Bush? Hart’s running against the
+dialog: former head of the CIA.
+speaker_heading: Yellow Rev. (9/15/17) 109.
+speaker_heading: BRADLEE
+dialog: Not yet, he’s not.
+speaker_heading: DEVROY
+dialog: No return address, no note. Just a
+dialog: date. Six months ago.
+speaker_heading: KAISER
+dialog: Well there’s your other shoe, Ben.
+speaker_heading: BRADLEE
+dialog: Yup.
+speaker_heading: PARKER
+dialog: I mean, just because an unmarked
+dialog: envelope lands in our laps. That
+dialog: doesn’t obligate us to...
+speaker_heading: DEVROY
+dialog: It’s a pattern of behavior.
+dialog: Womanizing. Lies.
+speaker_heading: PARKER
+dialog: He’s not lying to us.
+speaker_heading: DEVROY
+dialog: Christ, don’t be so naive.
+speaker_heading: BRADLEE
+dialog: I have no doubt the same envelope
+text: probably landed in the laps of
+text: three other enterprising reporters.
+speaker_heading: PARKER
+dialog: Okay, I mean, can’t we let some
+dialog: other paper run gossip as front
+dialog: page news. Doesn’t mean we...
+speaker_heading: BRADLEE
+dialog: But it does, AJ. It does now.
+dialog: (professorial)
+dialog: We decline to publish, and then
+text: some other pissant paper runs with
+dialog: it anyway... I don’t know, the
+dialog: Poughkeepsie Journal... or the
+dialog: Miami Herald... or the New York
+dialog: Times... And the TVs go fucking
+dialog: apeshit over the story. And we get
+dialog: on our high horse and say, well we
+dialog: still don't think it's news,
+dialog: because after all we didn’t think
+dialog: it was news before, right?
+speaker_heading: (MORE )
+speaker_heading: Yellow Rev. (9/15/17) 110.
+speaker_heading: BRADLEE (CONT'D)
+dialog: And now the wires are running a
+dialog: story about how we won’t cover the
+dialog: only thing anyone in the entire
+dialog: country is talking about, and, so
+dialog: on and so on.
+text: A beat of silence. Bradlee looks to Broder - What do you
+text: think...? Broder shakes his head - no.
+scene_heading: INT. BREAK ROOM, WASHINGTON POST - EVENING
+text: Parker walks up to find Devroy making coffee by herself.
+speaker_heading: PARKER
+dialog: Why do you hate him so much?
+speaker_heading: DEVROY
+dialog: I don’t hate Gary Hart. I don’t
+dialog: think I trust him...
+speaker_heading: PARKER
+dialog: That’s one approach.
+speaker_heading: DEVROY
+dialog: That’s my job.
+speaker_heading: PARKER
+dialog: To pass judgement?
+speaker_heading: DEVROY
+dialog: To be skeptical. I don’t think his
+dialog: own wife trusts him. Why should I?
+speaker_heading: PARKER
+dialog: I think you should trust him on the
+dialog: things that matter.
+speaker_heading: DEVROY
+dialog: Okay, I question his respect for
+dialog: women.
+speaker_heading: PARKER
+dialog: Are you kidding me? He loves women.
+dialog: Too much, frankly...
+speaker_heading: DEVROY
+dialog: He uses them.
+speaker_heading: PARKER
+dialog: Aren’t we being a little precious
+dialog: here? He’s smart and handsome and
+dialog: these women are throwing themselves
+dialog: at him...
+speaker_heading: Yellow Rev. (9/15/17) lll.
+speaker_heading: DEVROY
+dialog: He’s a man with power and
+dialog: opportunity and that takes a
+dialog: certain responsibility. If he was
+dialog: some day trader screwing cocktail
+dialog: girls, I could handle just not
+dialog: liking him... but as our potential
+dialog: next president, as a woman, that
+dialog: makes me nervous... And as a
+dialog: journalist, you should care.
+speaker_heading: PARKER
+dialog: I think you’re being a little
+dialog: sensitive.
+speaker_heading: DEVROY
+dialog: Oh, fuck you. You know what name
+dialog: I'd like to hear Gary Hart say?
+dialog: Donna Rice.
+speaker_heading: PARKER
+dialog: (combative)
+dialog: What exactly is he supposed to say?
+speaker_heading: DEVROY
+dialog: I don’t know. I’m not running for
+dialog: president. He is. And now we get to
+dialog: see what he does when he’s under
+text: pressure. He throws a woman under
+dialog: the campaign bus.
+text: Devroy leaves with her coffee. A nearby clerk motions for
+text: Parker’s attention.
+scene_heading: INT. DARTMOUTH INN, HANOVER, NH - NIGHT
+text: We find Irene Kelly, subdued, inside a phone booth. Dialing
+text: number. It’s late. A hotel worker vacuums. Intercut with -
+scene_heading: INT. BILL DIXON’S APARTMENT - NIGHT
+text: The phone is ringing. We turn to see Dixon in his favorite
+text: chair, watching the BASEBALL GAME. He ignores the incoming
+text: call for a long time, then finally lifts the receiver.
+speaker_heading: DIXON
+dialog: Yeah?
+speaker_heading: KELLY
+dialog: You're missing all the excitement.
+speaker_heading: Yellow Rev. (9/15/17)
+speaker_heading: DIXON
+dialog: (a beat)
+dialog: Thank God.
+speaker_heading: KELLY
+dialog: Looks like we’re turning the corner
+dialog: out here. I could get you a flight.
+text: Dixon has no response. Perhaps Kelly expected that.
+speaker_heading: DIXON
+dialog: What’s on your mind?
+speaker_heading: KELLY
+dialog: I just keep thinking... This is
+dialog: never going to be over for her.
+dialog: Every time she applies for a job...
+dialog: She doesn’t have a staff of
+dialog: overeducated volunteers. As far as
+dialog: I can tell, she’s alone.
+text: A long pause.
+speaker_heading: KELLY (CONT'D)
+dialog: You got anything for me?
+text: Dixon thinks. He can’t tell her that she’s wrong.
+speaker_heading: DIXON
+dialog: Buck up kid. You’ve got work to do.
+text: Kelly nods. Sucks it up.
+scene_heading: INT. VIP SUITE, DARTMOUTH INN - NEXT MORNING
+text: Hart, stripped to his sleeveless undershirt and still in suit
+text: pants, is doing push-ups. Sweat beads on his face and he
+text: huffs. We watch him do a couple.
+speaker_heading: SHORE (0.S.)
+text: They don’t have a podium.
+speaker_heading: HART
+dialog: I don’t need one.
+speaker_heading: WILSON
+dialog: (to Stratton)
+dialog: You couldn't get a podium?
+speaker_heading: STRATTON
+dialog: Don’t start with me.
+scene_heading: Yellow Rev. (9/15/17) 113.
+speaker_heading: SWEENEY (0.S.)
+dialog: How're voters supposed to believe
+dialog: you?! You've clearly been lying!
+speaker_heading: HART
+dialog: They will or they won't. I don’t
+dialog: think they much care.
+text: We SEE Shore sitting in plush chairs nearby, sipping a Coke.
+text: Sweeney is pacing. Hart pops up.
+speaker_heading: SWEENEY
+dialog: (friendly again)
+dialog: You can cite the polls here.
+speaker_heading: HART
+dialog: I don’t care about polls.
+speaker_heading: SHORE & WILSON
+dialog: (finishing each other's
+dialog: thoughts )
+dialog: Yes you do. Gallup just came out of
+dialog: the field - Do you think the media
+dialog: went too far in its reporting on
+dialog: Senator Hart's private life? 64
+dialog: percent say yes. Do you think a
+dialog: candidate's behavior in his
+dialog: Marriage is relevant to his
+dialog: qualifications as president? 38
+dialog: percent say yes. 52 percent no.
+speaker_heading: SWEENEY
+dialog: Take that, fuckers.
+speaker_heading: HART
+dialog: 64 percent. Got it.
+speaker_heading: WILSON
+dialog: (quietly to Shore)
+dialog: They’1l ask about phone calls.
+speaker_heading: HART
+dialog: Uh-huh. I call lots of people.
+speaker_heading: SWEENEY
+dialog: Right. That’s fine.
+speaker_heading: KELLY
+dialog: Are we going to bring up Donna
+dialog: Rice?
+text: The mention of her name chills the room.
+speaker_heading: Yellow Rev. (9/15/17) 114.
+speaker_heading: KELLY (CONT'D)
+dialog: We could ask the pool to respect
+dialog: her privacy?
+speaker_heading: SWEENEY
+dialog: Are you fucking nuts?
+speaker_heading: KELLY
+dialog: It could be seen as a noble
+dialog: gesture.
+text: Kelly looks to Hart for a response, but gets nothing.
+speaker_heading: SHORE
+dialog: (to Hart)
+dialog: They may ask you about, you know...
+dialog: Women.
+speaker_heading: HART
+text: They can talk to Irene or Ginny.
+dialog: Anyone who’s worked for me...
+speaker_heading: SWEENEY & SHORE
+dialog: Yeah, I think what Billy means...
+dialog: Have there been others. Women that
+dialog: aren't... your wife.
+speaker_heading: HART
+dialog: (turning quickly)
+dialog: Now you have got to be kidding me!
+dialog: I’m not going to answer that! Not
+dialog: for them and not for you! That’s
+dialog: nobody's goddamn business!
+speaker_heading: SWEENEY
+dialog: That's it! That’s perfect. That’s
+dialog: your answer.
+text: There’s a knock at the door. It opens, revealing LEE HART.
+text: The team quickly begins gathering their things to leave.
+speaker_heading: SHORE
+dialog: I’'1l come back when it’s time.
+text: The door closes behind them, leaving just Gary and Lee. He’s
+text: sitting on the edge of the bed, unsure whether to move.
+text: Lee walks to the window.
+speaker_heading: HART
+dialog: I... I’m sorry... I...
+dialog: Hart bows
+speaker_heading: Yellow Rev. (9/15/17) 115.
+speaker_heading: LEE
+dialog: I’ve woken up the last two mornings
+text: to the sound of helicopters.
+dialog: They're waiting at our gates.
+text: Dozens of them. Trucks with
+dialog: satellites. Their trash littered
+dialog: all over our driveway.
+speaker_heading: HART
+dialog: How’s Andrea?
+speaker_heading: LEE
+text: She's disappointed.
+text: his head in shame.
+speaker_heading: LEE (CONT'D)
+dialog: (stoic)
+dialog: Just to leave our home, She had to
+dialog: climb in the back seat. One of your
+text: staffers threw an old blanket over
+dialog: our daughter. That’s how she left
+dialog: our house. Hiding like a criminal.
+dialog: Like she should be ashamed.
+speaker_heading: HART
+dialog: (stumbling)
+dialog: These people should be ashamed...
+dialog: (adding)
+dialog: The public won’t stand for it.
+speaker_heading: LEE
+dialog: (staring out the window)
+dialog: Right.
+speaker_heading: HART
+dialog: Lee... I’m so sorry.
+speaker_heading: LEE
+dialog: I can imagine. Sorry you got
+dialog: yourself in this mess.
+dialog: (scoffs)
+dialog: I’m sorry too.
+text: Gary wants to apologize but doesn’t know how.
+speaker_heading: HART
+dialog: I feel so foolish.
+speaker_heading: LEE
+dialog: Maybe I’m the foolish one. I gave
+dialog: you all that rope and then I
+text: tripped over it.
+scene_heading: Yellow Rev. (9/15/17) 116.
+text: Lee begins walking to Gary.
+speaker_heading: LEE (CONT'D)
+dialog: Were you thinking of me when you
+dialog: were flirting with this girl? Were
+dialog: you thinking of me on that boat
+dialog: when you were making her laugh in
+dialog: front of fifty other people? Were
+dialog: you thinking of me when you invited
+dialog: her into our home?
+text: Gary shakes his head then drops it. A long beat.
+speaker_heading: HART
+dialog: Are you leaving me?
+speaker_heading: LEE
+dialog: I didn’t fly across the country
+dialog: just to say goodbye. That’s what
+dialog: phones are for.
+speaker_heading: HART
+dialog: You think you can you accept my
+dialog: apology?
+speaker_heading: LEE
+dialog: Not right now - Not yet - Maybe at
+dialog: some point. And that might feel
+dialog: like a burden. It should. You hurt
+dialog: me... and you need to know that.
+dialog: You need to feel it. Carry it so I
+dialog: don’t have to.
+dialog: (a beat)
+dialog: There'll be a time for us to talk
+dialog: about why you did this and why I
+dialog: should ever trust you again. But
+dialog: that will have to wait. When it’s
+dialog: just the two of us.
+text: Lee now standing before him as he sits hunched on the bed. He
+text: reaches out and wraps his arms around her torso, hugging her.
+text: She rests her hands on his shoulders.
+scene_heading: INT. WASHINGTON POST - EVENING
+text: Devroy is working with a LAYOUT EDITOR at a LIGHT TABLE.
+speaker_heading: LAYOUT EDITOR
+dialog: If we push the girl scout diamond
+dialog: anniversary to page three, we'll
+dialog: have to lose the picture.
+scene_heading: Yellow Rev. (9/15/17) 117.
+speaker_heading: DEVROY
+dialog: Fuck. I liked the picture. Is this
+dialog: to make room for the tank piece?
+text: Bradlee wanders in.
+speaker_heading: DEVROY (CONT'D)
+dialog: (to Layout)
+dialog: Find a way to save the girl scouts.
+text: Bradlee and Devroy begin moving copy on the light table
+text: absentmindedly as they discuss the following.
+speaker_heading: BRADLEE
+dialog: At some point we need to draw a
+dialog: line in the sand. We might not
+dialog: agree where that line is...
+speaker_heading: DEVROY
+dialog: Where does honesty fall?
+speaker_heading: BRADLEE
+dialog: Ask a man enough questions and
+dialog: you're going to reach a point where
+dialog: he either has to lie or simply
+dialog: refrain from answering, which is
+dialog: kind of the same as lying.
+speaker_heading: DEVROY
+dialog: Maybe if he didn’t put himself ina
+dialog: position where he needed to lie.
+speaker_heading: BRADLEE
+dialog: I’m talking about what’s relevant.
+dialog: Some paper is going to want to know
+dialog: if the president can still get it
+dialog: up or if the first lady still goes
+text: down on him...
+speaker_heading: DEVROY
+dialog: I’m not asking to know any of that.
+speaker_heading: BRADLEE
+dialog: But we’re opening a door... I don’t
+dialog: know. Maybe the door’s already
+dialog: open.
+speaker_heading: DEVROY
+dialog: I’m a reporter. I can only work
+dialog: with what’s presented to me. I
+dialog: follow leads. I look for the truth.
+dialog: And the truth is he lied to his
+dialog: wife and then he lied to all of us.
+dialog: Is that relevant?
+speaker_heading: Yellow Rev. (9/15/17) 118.
+scene_heading: INT. PARKER'S CUBICLE, WASHINGTON POST —- EVENING
+text: Bradlee walks by Parker's desk. He drops the ENVELOPE OF
+text: PHOTOS with a meaningful look.
+speaker_heading: BRADLEE
+dialog: You have a train to catch.
+text: Puts his hand on Parker’s shoulder and keeps moving.
+scene_heading: EXT. DARTMOUTH INN, HANOVER, NH - NEXT MORNING
+text: The news vans have assembled. It’s as bad as we’ve seen it.
+scene_heading: INT. DARTMOUTH INN RESTAURANT - MORNING
+text: Shore walks up the staircase to the second floor dining area.
+text: The place buzzes with anticipation. We find Parker at a table
+text: with a NOTEPAD and coffee.
+text: At another table, McDaniel, Weinberg, and Shanahan watch
+text: Parker with mixed envy.
+speaker_heading: SHANAHAN
+dialog: Follow me.
+speaker_heading: WEINBERG
+dialog: Can you believe that? He just
+text: stumbled into a Pulitzer.
+speaker_heading: MCDANIEL
+dialog: I don’t know.
+speaker_heading: SHANAHAN
+dialog: What don’t you know?
+speaker_heading: MCDANIEL
+dialog: I want my president to be smarter
+dialog: than me, not trying to outsmart me.
+text: Broder sits with the older crew - Germond, Broder, Wynman.
+text: Shore comes walking through and Germond grabs his attention.
+speaker_heading: WYMAN
+dialog: Let Gary know we’re around if he
+dialog: wants a drink? With old friends?
+speaker_heading: SHORE
+text: The senator is unavailable.
+scene_heading: Yellow Rev. (9/15/17) 119.
+text: Shore keeps walking. Germond takes in the moment. The others
+text: at the table weigh the feeling of being shut out. Broder
+text: stands up and walks over to AJ Parker.
+speaker_heading: BRODER
+dialog: You know you don’t have to do this.
+text: Parker looks up in question.
+speaker_heading: BRODER (CONT'D)
+dialog: You think you’re the first guy he
+dialog: asked?
+text: Off Parker's look, Broder keeps walking. Parker nods.
+scene_heading: INT. HART’S HOTEL ROOM - MORNING
+text: Evidence of Hart having slept on the sofa. Gary and Lee get
+text: ready in silence. There’s a distance though they are
+text: preparing for battle together. Lee gives her husband a look.
+text: She fixes his tie. NEWS about Hart plays on the TV.
+text: PRELAP of the press conference - A dozen cameras firing away.
+speaker_heading: HART (0.S.)
+dialog: Yes, over there, Ann.
+scene_heading: INT. DARTMOUTH INN BANQUET ROOM, HANOVER, NH, AFTERNOON
+text: We're in a tight room with no raised platform or podium. Hart
+text: stands surrounded by over one hundred sitting journalists and
+text: photographers. Close enough to bite him. His team leans
+text: against the wall along with Lee who stands by Irene Kelly.
+speaker_heading: MCDANIEL
+dialog: Doesn't this episode call your
+dialog: judgment as a leader into question?
+speaker_heading: HART
+dialog: Yes, I suppose I made some
+dialog: mistakes. But I think judgment,
+dialog: like character, has to be measured
+dialog: in the full context of a career. I
+dialog: think what I’ve undertaken in the
+dialog: Senate, the plans I’ve outlined for
+dialog: the nation, speak to my judgment.
+dialog: I’m not aware of anyone having
+dialog: questioned my integrity as a public
+dialog: servant.
+speaker_heading: VARIOUS REPORTERS
+dialog: Senator Hart! Senator! Over here!
+scene_heading: Yellow Rev. (9/15/17) 120.
+text: We see Stratton, on all fours, trying to body-block the crowd
+dialog: of reporters from Hart.
+text: A quick look at Lee. Smiling and composed. Then we see Parker
+text: watching her.
+speaker_heading: HART
+dialog: Yes.
+speaker_heading: GERMOND
+dialog: You were quoted once as saying you
+dialog: love danger. Is that why you think
+dialog: you put yourself in this position?
+speaker_heading: HART
+dialog: (smiling)
+dialog: I don’t love it that much, Jack.
+text: LAUGHTER among the press corps. A releasing of tension.
+text: Angle on Shore, Sweeney, Wilson exchanging a relieved glance.
+speaker_heading: SHANAHAN
+dialog: You said there’s no relationship.
+dialog: Are you willing to take a lie
+dialog: detector test?
+speaker_heading: HART
+dialog: I think the voters are a pretty
+dialog: good lie detector test.
+text: Broder and Germond chuckling.
+speaker_heading: WEINBERG
+dialog: Will they believe you?
+speaker_heading: HART
+dialog: Well, I think they do. The last
+dialog: poll I saw said that most voters
+dialog: think the Herald was out of line.
+dialog: More than 60 percent, in fact.
+speaker_heading: SWEENEY
+dialog: 64 percent.
+speaker_heading: HART
+dialog: When the numbers are in your favor,
+dialog: always be specific.
+text: Another chuckle from the group. More shouts for attention.
+speaker_heading: HART (CONT’D)
+dialog: (pointing towards Parker)
+dialog: Yes.
+speaker_heading: Yellow Rev. (9/15/17) 121.
+text: Parker and another reporter hesitate, unsure of which one
+text: Hart’s pointing to.
+speaker_heading: HART (CONT'D)
+dialog: Mr. Parker. Go ahead.
+text: Parker steadies himself.
+speaker_heading: PARKER
+dialog: (voice quivering)
+dialog: Yes. Senator. Thank you. Good
+dialog: afternoon.
+speaker_heading: HART
+dialog: Good afternoon to you, AJ. Glad you
+dialog: could make it.
+speaker_heading: PARKER
+dialog: Yes. Senator, in your speech
+dialog: yesterday you raised the issue of
+dialog: morality. I’d like to, um, ask you
+dialog: what you mean, specifically, by
+dialog: that. I have a series of questions,
+dialog: if you don’t mind.
+speaker_heading: HART
+dialog: All right.
+speaker_heading: PARKER
+dialog: When you said you did nothing
+dialog: ‘immoral’, did you mean that you
+dialog: had no sexual relationship with
+dialog: Donna Rice, last weekend or at any
+dialog: other time?
+speaker_heading: HART
+dialog: I've said there was no
+dialog: relationship. That’s correct.
+text: A pause. Parker continues.
+speaker_heading: PARKER
+dialog: Do you believe that adultery is
+dialog: immoral?
+speaker_heading: HART
+dialog: Do I...? Well, yes. I do.
+text: Hart’s team grows uncomfortable with where this is going.
+speaker_heading: PARKER
+dialog: Senator. Have you ever committed
+dialog: adultery?
+speaker_heading: Yellow Rev. (9/15/17) 122.
+text: It gets so quiet, we almost hear a GASP in the group.
+text: Older reporters shake their heads in disbelief.
+text: Lee’s face falls.
+text: We can see Sweeney hoping for Hart to come back swinging...
+dialog: Come on... Come on...
+speaker_heading: SWEENEY
+dialog: (under his breath)
+dialog: Say it... Say it...
+text: Hart opens his mouth, but freezes. No sound emerges.
+text: He looks to Lee. He looks to his feet.
+speaker_heading: HART
+dialog: I...I...I guess I don’t think
+dialog: that’s a fair question.
+text: It’s a flinch. The campaign team bows their heads as the room
+text: goes mad with questions and camera flashes, arms lifting for
+dialog: follow up questions.
+text: WYMAN, a photographer we recognise from earlier bar scenes, a
+text: friend of Hart, makes eye contact with Hart... then goes back
+text: to taking photos.
+text: We see Broder leaving the room.
+text: Hart and Lee exchange a look amidst the noise... Too many
+text: questions at once.
+dialog: And then quiet.
+scene_heading: INT. INSIDE THE CAMPAIGN BUS - DAY
+text: The Harts and their entourage sit quietly. They’re shell-
+text: shocked. For a long moment, no one speaks.
+speaker_heading: SWEENEY
+dialog: Are we doing the last event?
+text: Hart’s rummaging in his suit pocket distractedly.
+speaker_heading: SHORE
+dialog: Supposed to have a Town Hall in
+dialog: Littleton.
+text: Hart produces a small blue figurine from his pocket. He
+text: examines it in wonder.
+speaker_heading: Yellow Rev. (9/15/17)
+speaker_heading: LEE
+dialog: What’s that?
+speaker_heading: HART
+dialog: I believe it’s called a Smurf.
+speaker_heading: SHORE
+dialog: Brainy Smurf, actually.
+scene_heading: INT. RESTAURANT OF THE LITTLETON INN - DAY
+text: A WAITER clears plates from the table where Hart, Lee,
+text: Stratton and Wilson are eating.
+speaker_heading: SHORE
+dialog: Kevin's right.
+speaker_heading: WAITER
+dialog: Can I get you folks dessert?
+speaker_heading: SHORE
+dialog: Keep on pushing. It’s early. We
+dialog: take it on the chin and then pack
+dialog: the schedule as tight as we can.
+speaker_heading: STRATTON
+dialog: I‘ll take a coffee.
+speaker_heading: LEE
+dialog: Same here.
+dialog: 123.
+dialog: Shore,
+text: The waiter is looking at Gary, who stares straight ahead.
+speaker_heading: LEE (CONT'D)
+dialog: Gary?
+speaker_heading: HART
+dialog: Hm?
+speaker_heading: LEE
+dialog: Coffee?
+text: Hart waves off the waiter.
+text: MOVE TO the entrance of the restaurant. SWEENEY is returning
+text: from the bathroom. He’s stopped by PARKER, who is holding a
+text: now familiar PADDED ENVELOPE.
+speaker_heading: PARKER
+dialog: I need time with the candidate.
+speaker_heading: Yellow Rev. (9/15/17) 124.
+speaker_heading: SWEENEY
+dialog: (venom)
+dialog: Are you fucking kidding me?
+speaker_heading: PARKER
+dialog: Something’s come up. I have some
+dialog: questions.
+speaker_heading: SWEENEY
+dialog: You think anyone’s letting you
+dialog: anywhere near their candidate?
+speaker_heading: PARKER
+dialog: Come on, man...
+speaker_heading: SWEENEY
+dialog: Oh, and I used to steal beer from
+dialog: the corner deli in high school... I
+dialog: tried coke at Berkley... and I
+dialog: cheated on my girlfriend. Twice.
+dialog: Just to save you the time.
+text: Parker starts opening the PADDED ENVELOPE.
+text: We move back to the Hart table.
+speaker_heading: SHORE
+dialog: Maybe we move up military reform.
+dialog: Do a big rollout here.
+speaker_heading: STRATTON
+dialog: Yeah. It’s just...
+speaker_heading: LEE
+dialog: (to Gary)
+dialog: I need to call Andrea. I’1l be
+dialog: right back.
+text: Shore finds a couple dimes for Lee.
+text: Hart kind of nods as we follow Lee to the PAY PHONES on the
+text: wall. She begins to dial.
+text: Back to Hart and the campaign team. We begin to push on Hart
+text: as the chatter between Shore and Stratton becomes a low
+text: whisper. Just noise along with the silverware.
+speaker_heading: STRATTON
+dialog: I’m all for shaking more hands. I’m
+dialog: just not sure I can get him
+text: anywhere near them just yet.
+scene_heading: Yellow Rev. (9/15/17) 125.
+speaker_heading: SHORE WAITER
+dialog: Could call Denver, get some (returning)
+text: more bodies -- Fresh coffees. On the house.
+speaker_heading: STRATTON (CONT'D)
+dialog: What if... we booked some TV time.
+dialog: I mean, how long would it take to
+dialog: shoot a 30-minute spot?
+speaker_heading: WILSON
+dialog: Saying what?
+speaker_heading: SHORE
+dialog: Can we pay for that?
+speaker_heading: STRATTON
+dialog: Go directly to the voters. Talk
+dialog: about reporters out of control,
+dialog: invasion of privacy.
+text: Hart looks to the entrance. He SEES Sweeney and Parker.
+text: Sweeney is leafing through PHOTOS. His posture falling.
+text: Hart leans towards Irene Kelly for a moment.
+speaker_heading: HART
+dialog: Any word from Miami?
+speaker_heading: KELLY
+dialog: How do you mean?
+speaker_heading: HART
+dialog: Is she okay?
+speaker_heading: KELLY
+dialog: I don’t know how you want me to
+dialog: answer that.
+text: Hart's face tightens. He nods. Registering the guilt.
+text: BACK TO Sweeney and Parker. Sweeney now leafing through the
+text: photos. His face doesn’t betray his feelings. He looks up.
+speaker_heading: SWEENEY
+dialog: Congratulations. You just became
+dialog: the National Enquirer. You're fifty
+text: cents at the register.
+text: Back to the campaign team. Their conversation is down to a
+text: whisper. The noise of the restaurant continues to build.
+speaker_heading: SHORE
+dialog: I’m not sure enough people would
+dialog: see it.
+speaker_heading: Yellow Rev. (9/15/17) 126.
+speaker_heading: STRATTON
+dialog: If the media won’t talk about it...
+speaker_heading: WILSON
+dialog: We'd need a national buy.
+speaker_heading: STRATTON
+dialog: Where the hell is Dixon?
+text: And then Hart hears LEE on the phone cutting through the
+text: rest. He turns to the PAY PHONES. Lee is clearly emotional.
+text: Hart stands up and walks over to his wife.
+speaker_heading: LEE
+dialog: (emotional on the phone)
+dialog: OK, you're home now? And you’re
+dialog: safe?
+text: We faintly HEAR Andrea’s voice CRYING as she speaks. Hart is
+text: slowly cracking.
+speaker_heading: LEE (CONT'D)
+dialog: (on phone)
+dialog: It’s outrageous. They cannot, they
+dialog: will not hound you like this. They
+dialog: shouldn’t be anywhere near you. We
+dialog: will take care of this.
+text: Lee’s eyes begin to tear up as Gary pulls her into his arms -—
+text: A family just trying to hold on.
+speaker_heading: HART
+dialog: (quietly)
+dialog: Lee. It’s time to go home.
+text: We move back to the campaign table. Sweeney is joining the
+text: table, but Stratton, Shore, and Wilson have already clocked
+text: the Harts at the pay phone. It couldn’t be more clear.
+text: It’s over.
+scene_heading: EXT. DRIVEWAY, TROUBLESOME GULCH, COLORADO. MORNING.
+text: We SEE the WAGONEER weaving through the NEWS VANS.
+scene_heading: EXT. HART’S FRONT PORCH, TROUBLESOME GULCH - DAY
+text: Trippi pours ice tea for the campaign team as Hart writes
+text: notes on a legal pad. Ad-libbed thanks and comments, but it’s
+text: mostly quiet. Stratton looks out the side, checking out the
+text: helicopters with bewilderment. Shore pulls him away.
+speaker_heading: Yellow Rev. (9/15/17) 127.
+text: Hart pauses. He looks out into the trees - Vast beautiful
+text: Colorado. It’s wild and unmistakably American.
+speaker_heading: HART
+dialog: You know, when General Lee resigned
+dialog: his commission in the union army to
+dialog: command the confederate forces, he
+dialog: had to leave his house in
+text: Washington behind.
+text: The campaign team turns to listen. As does Lee, even though
+dialog: she’s heard this story before.
+speaker_heading: HART (CONT’D)
+dialog: The union informed Lincoln and
+dialog: asked if they should tear it down -
+dialog: Light it on fire, what have you...
+dialog: But Lincoln had a different idea.
+dialog: He told them to bury the
+dialog: confederate soldiers in Lee’s
+dialog: backyard.
+speaker_heading: STRATTON
+dialog: Jesus.
+speaker_heading: HART
+dialog: That’s how we got Arlington
+dialog: cemetery.
+text: Hart looks at his backyard - an infinite run of trees leading
+text: to red mountains.
+scene_heading: INT. HART CAMPAIGN OFFICE, DENVER - MORNING
+text: For the first time - Quiet. A couple people answer phones.
+text: Dixon approaches Terzano. Her eyes are red. He hands her an
+text: ENVELOPE from a stack. She eyes him quizzically.
+speaker_heading: DIXON
+dialog: (off her look)
+dialog: Cash it before the end of the day.
+text: Dixon moves to Bill Martin and hands him an envelope.
+scene_heading: INT. CORRIDOR, EXECUTIVE TOWER INN, DENVER - MORNING
+text: PRELAP: the rapid clicking of a hundred camera shutters
+speaker_heading: Yellow Rev. (9/15/17) 128.
+speaker_heading: HART (0.S.)
+dialog: In public life, somethings may be
+dialog: interesting, but that doesn’t
+dialog: necessarily mean they’re important.
+text: Hart is moving down a line of his campaign team, shaking
+text: hands. In effect, saying goodbye to them. At 51, he is about
+dialog: to walk way from public service for the rest of his life.
+text: Each good bye carries its own weight - Stratton. Emerson.
+dialog: Wilson. Kelly. Sweeney. Shore.
+scene_heading: INT. HOTEL ROOM, EXECUTIVE TOWER INN - DAY
+text: Hart enters to find Lee waiting for him. He sits across from
+text: her. For a moment they just stare at each other. We can tell
+dialog: by their body language that this is the beginning of a
+dialog: difficult conversation. What will be the first of many. But
+dialog: we CANNOT hear them. Rather, we give them their privacy.
+text: Meanwhile, in the corner on a television, we see Hart at a
+text: podium with no notes, giving his farewell.
+scene_heading: INT. EXECUTIVE TOWER BALLROOM (ON TV) - DAY
+text: The camera scans the crowd then cuts to Hart at the podium.
+speaker_heading: HART (ON TV)
+dialog: Clearly, under present
+dialog: circumstances, this campaign can’t
+dialog: go on. I refuse to submit my family
+dialog: and my friends to further rumors
+dialog: and gossip. It’s an intolerable
+dialog: situation.
+text: In the room: Hart reaches for Lee’s hand.
+text: On TV: We see a brief moment of Parker watching.
+speaker_heading: HART (ON TV) (CONT’D)
+dialog: But we’re all going to have to
+dialog: seriously question the system for
+dialog: selecting our national leaders that
+text: has reporters in bushes and
+dialog: photographers peeking in our
+dialog: windows. That reduces the press of
+dialog: this nation into hunters and the
+dialog: presidential candidates into the
+dialog: hunted.
+text: ON TV: As Hart gathers himself, we SEE Kelly, standing with
+text: Shore and Wilson, starting to cry.
+speaker_heading: Yellow Rev. (9/15/17) 129.
+speaker_heading: HART (CONT'D)
+text: After which, ponderous pundits
+dialog: wonder in mock seriousness why some
+dialog: of the best people in the country
+dialog: choose not to run for high office.
+dialog: Politics in this country is on the
+dialog: verge of becoming another form of
+dialog: athletic competition or sport. We’d
+dialog: all better do something to make
+dialog: this system work, or we’re all
+text: going to be soon rephrasing
+dialog: Jefferson to say: I tremble for my
+dialog: country when I think we may, in
+dialog: fact, get the kind of leaders we
+dialog: deserve.
+text: The TV goes out of focus. We push in on the Harts as Lee
+text: takes Gary’s hands into her own.
+text: CUT TO BLACK.
+dialog: 
