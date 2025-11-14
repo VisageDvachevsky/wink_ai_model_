@@ -69,6 +69,15 @@ jobs:
           cd backend
           black --check app/
 
+      - name: Run tests
+        env:
+          DATABASE_URL: postgresql+asyncpg://test_user:test_pass@localhost:5432/test_db
+          REDIS_URL: redis://localhost:6379/0
+          ML_SERVICE_URL: http://localhost:8001
+        run: |
+          cd backend
+          pytest tests/ -v --tb=short
+
   build:
     runs-on: ubuntu-latest
     needs: test

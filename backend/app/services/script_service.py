@@ -5,6 +5,7 @@ from loguru import logger
 
 from ..models.script import Script, Scene, RatingLog
 from ..schemas.script import ScriptCreate
+from ..core.exceptions import ScriptNotFoundError
 from .ml_client import ml_client
 
 
@@ -40,51 +41,58 @@ class ScriptService:
     async def process_rating(db: AsyncSession, script_id: int) -> dict:
         script = await ScriptService.get_script(db, script_id)
         if not script:
-            raise ValueError(f"Script {script_id} not found")
+            raise ScriptNotFoundError(script_id)
 
         logger.info(f"Processing rating for script {script_id}")
 
-        result = await ml_client.rate_script(
-            text=script.content, script_id=str(script.id)
-        )
-
-        script.predicted_rating = result["predicted_rating"]
-        script.agg_scores = result["agg_scores"]
-        script.model_version = result["model_version"]
-        script.total_scenes = result["total_scenes"]
-
-        for scene_data in result["top_trigger_scenes"]:
-            scene = Scene(
-                script_id=script.id,
-                scene_id=scene_data["scene_id"],
-                heading=scene_data["heading"],
-                sample_text=scene_data.get("sample_text"),
-                violence=scene_data["violence"],
-                gore=scene_data["gore"],
-                sex_act=scene_data["sex_act"],
-                nudity=scene_data["nudity"],
-                profanity=scene_data["profanity"],
-                drugs=scene_data["drugs"],
-                child_risk=scene_data["child_risk"],
-                weight=scene_data["weight"],
+        try:
+            result = await ml_client.rate_script(
+                text=script.content, script_id=str(script.id)
             )
-            db.add(scene)
 
-        rating_log = RatingLog(
-            script_id=script.id,
-            predicted_rating=result["predicted_rating"],
-            reasons=result["reasons"],
-            model_version=result["model_version"],
-        )
-        db.add(rating_log)
+            script.predicted_rating = result["predicted_rating"]
+            script.agg_scores = result["agg_scores"]
+            script.model_version = result["model_version"]
+            script.total_scenes = result["total_scenes"]
 
-        await db.commit()
-        await db.refresh(script)
+            scenes = [
+                Scene(
+                    script_id=script.id,
+                    scene_id=scene_data["scene_id"],
+                    heading=scene_data["heading"],
+                    sample_text=scene_data.get("sample_text"),
+                    violence=scene_data["violence"],
+                    gore=scene_data["gore"],
+                    sex_act=scene_data["sex_act"],
+                    nudity=scene_data["nudity"],
+                    profanity=scene_data["profanity"],
+                    drugs=scene_data["drugs"],
+                    child_risk=scene_data["child_risk"],
+                    weight=scene_data["weight"],
+                )
+                for scene_data in result["top_trigger_scenes"]
+            ]
+            db.add_all(scenes)
 
-        logger.info(
-            f"Rating completed for script {script_id}: {result['predicted_rating']}"
-        )
-        return result
+            rating_log = RatingLog(
+                script_id=script.id,
+                predicted_rating=result["predicted_rating"],
+                reasons=result["reasons"],
+                model_version=result["model_version"],
+            )
+            db.add(rating_log)
+
+            await db.commit()
+            await db.refresh(script)
+
+            logger.info(
+                f"Rating completed for script {script_id}: {result['predicted_rating']}"
+            )
+            return result
+        except Exception as e:
+            await db.rollback()
+            logger.error(f"Failed to process rating for script {script_id}: {e}")
+            raise
 
 
 script_service = ScriptService()

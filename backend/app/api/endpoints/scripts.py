@@ -1,5 +1,7 @@
-from fastapi import APIRouter, Depends, UploadFile, File
+from fastapi import APIRouter, Depends, UploadFile, File, Request
 from sqlalchemy.ext.asyncio import AsyncSession
+from slowapi import Limiter
+from slowapi.util import get_remote_address
 
 from ...db.base import get_db
 from ...schemas.script import (
@@ -18,6 +20,7 @@ from ...core.exceptions import (
 from ...core.config import settings
 
 router = APIRouter(prefix="/scripts", tags=["scripts"])
+limiter = Limiter(key_func=get_remote_address)
 
 
 @router.post("/", response_model=ScriptResponse, status_code=201)
@@ -27,23 +30,34 @@ async def create_script(script: ScriptCreate, db: AsyncSession = Depends(get_db)
 
 
 @router.post("/upload", response_model=ScriptResponse, status_code=201)
+@limiter.limit("10/minute")
 async def upload_script(
-    file: UploadFile = File(...), title: str = None, db: AsyncSession = Depends(get_db)
+    request: Request,
+    file: UploadFile = File(...),
+    title: str | None = None,
+    db: AsyncSession = Depends(get_db),
 ):
     if not file.filename:
         raise InvalidFileError("Filename is required")
 
-    file_extension = "." + file.filename.split(".")[-1].lower()
+    if "." not in file.filename:
+        raise InvalidFileError("File must have an extension")
+
+    file_extension = "." + file.filename.rsplit(".", 1)[-1].lower()
     if file_extension not in settings.allowed_file_extensions:
         raise InvalidFileError(
             f"File type {file_extension} not allowed. Allowed types: {', '.join(settings.allowed_file_extensions)}"
         )
 
-    content = await file.read()
-
     max_size_bytes = settings.max_upload_size_mb * 1024 * 1024
-    if len(content) > max_size_bytes:
-        raise FileTooLargeError(settings.max_upload_size_mb)
+    content = bytearray()
+    total_size = 0
+
+    while chunk := await file.read(8192):
+        total_size += len(chunk)
+        if total_size > max_size_bytes:
+            raise FileTooLargeError(settings.max_upload_size_mb)
+        content.extend(chunk)
 
     try:
         text = content.decode("utf-8")
@@ -61,6 +75,11 @@ async def upload_script(
 async def list_scripts(
     skip: int = 0, limit: int = 100, db: AsyncSession = Depends(get_db)
 ):
+    if skip < 0:
+        raise InvalidFileError("skip must be non-negative")
+    if limit < 1 or limit > 1000:
+        raise InvalidFileError("limit must be between 1 and 1000")
+
     scripts = await script_service.list_scripts(db, skip, limit)
     return scripts
 
@@ -74,8 +93,12 @@ async def get_script(script_id: int, db: AsyncSession = Depends(get_db)):
 
 
 @router.post("/{script_id}/rate", response_model=RatingJobResponse)
+@limiter.limit("20/minute")
 async def rate_script(
-    script_id: int, background: bool = True, db: AsyncSession = Depends(get_db)
+    request: Request,
+    script_id: int,
+    background: bool = True,
+    db: AsyncSession = Depends(get_db),
 ):
     script = await script_service.get_script(db, script_id)
     if not script:

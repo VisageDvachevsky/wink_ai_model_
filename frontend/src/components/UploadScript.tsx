@@ -98,7 +98,7 @@ export default function UploadScript() {
           {uploadMutation.isError && (
             <div className="rounded-md bg-red-50 p-4">
               <p className="text-sm text-red-800">
-                Error uploading file. Please try again.
+                {uploadMutation.error?.message || 'Error uploading file. Please try again.'}
               </p>
             </div>
           )}
