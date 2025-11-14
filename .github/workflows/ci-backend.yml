@@ -57,7 +57,7 @@ jobs:
         run: |
           cd backend
           pip install -r requirements.txt
-          pip install pytest pytest-asyncio black ruff
+          pip install pytest pytest-asyncio pytest-cov black ruff mypy
 
       - name: Lint with ruff
         run: |
@@ -68,6 +68,20 @@ jobs:
         run: |
           cd backend
           black --check app/
+
+      - name: Type check with mypy
+        run: |
+          cd backend
+          mypy app/ --ignore-missing-imports --no-strict-optional
+
+      - name: Run tests with coverage
+        env:
+          DATABASE_URL: postgresql+asyncpg://test_user:test_pass@localhost:5432/test_db
+          REDIS_URL: redis://localhost:6379/0
+          ML_SERVICE_URL: http://localhost:8001
+        run: |
+          cd backend
+          pytest tests/ --cov=app --cov-report=term --cov-report=xml -v
 
   build:
     runs-on: ubuntu-latest

@@ -32,7 +32,7 @@ jobs:
         run: |
           cd ml_service
           pip install -r requirements.txt
-          pip install pytest black ruff
+          pip install pytest pytest-cov black ruff mypy
 
       - name: Lint with ruff
         run: |
@@ -43,6 +43,16 @@ jobs:
         run: |
           cd ml_service
           black --check app/
+
+      - name: Type check with mypy
+        run: |
+          cd ml_service
+          mypy app/ --ignore-missing-imports --no-strict-optional
+
+      - name: Run tests with coverage
+        run: |
+          cd ml_service
+          pytest tests/ --cov=app --cov-report=term --cov-report=xml -v
 
   build:
     runs-on: ubuntu-latest
