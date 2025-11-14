@@ -195,9 +195,9 @@ class RatingPipeline:
         txt = scene_text.lower()
 
         psych = self.count_matches([re.compile(p, re.I) for p in PSYCH_VIOLENCE], txt)
-        violence = self.count_matches(
+        violence: float = float(self.count_matches(
             [re.compile(p, re.I) for p in VIOLENCE_WORDS], txt
-        )
+        ))
         profanity = self.count_matches([re.compile(p, re.I) for p in PROFANITY], txt)
         drugs = self.count_matches([re.compile(p, re.I) for p in DRUG_WORDS], txt)
         child_mentions = self.count_matches(

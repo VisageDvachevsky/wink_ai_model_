@@ -32,7 +32,7 @@ def setup_structured_logging(json_logs: bool = False):
     if json_logs:
         logger.add(
             sys.stderr,
-            format=json_formatter,
+            format=json_formatter,  # type: ignore[arg-type]
             level=settings.log_level,
             serialize=False,
         )
@@ -52,14 +52,14 @@ def log_inference_event(
     **kwargs,
 ):
     """Log structured inference event"""
-    log_data = {
+    log_data: Dict[str, Any] = {
         "event": event,
         "script_id": script_id,
         "model_version": model_version or settings.model_version,
     }
 
     if latency_ms is not None:
-        log_data["latency_ms"] = round(latency_ms, 2)
+        log_data["latency_ms"] = float(round(latency_ms, 2))
 
     log_data.update(kwargs)
 
