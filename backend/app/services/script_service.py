@@ -1,4 +1,4 @@
-from typing import Any
+from typing import Any, cast
 
 from loguru import logger
 from sqlalchemy import select
@@ -27,7 +27,7 @@ class ScriptService:
             .options(selectinload(Script.scenes))
             .where(Script.id == script_id)
         )
-        return result.scalar_one_or_none()
+        return cast(Script | None, result.scalar_one_or_none())
 
     @staticmethod
     async def list_scripts(
@@ -47,7 +47,7 @@ class ScriptService:
         logger.info(f"Processing rating for script {script_id}")
 
         result = await ml_client.rate_script(
-            text=script.content, script_id=str(script.id)
+            text=str(script.content), script_id=str(script.id)
         )
 
         script.predicted_rating = result["predicted_rating"]

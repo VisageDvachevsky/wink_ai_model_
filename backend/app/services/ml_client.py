@@ -1,5 +1,5 @@
 import asyncio
-from typing import Any
+from typing import Any, cast
 
 import httpx
 from loguru import logger
@@ -18,7 +18,7 @@ class MLServiceClient:
     async def rate_script(
         self, text: str, script_id: str | None = None
     ) -> dict[str, Any]:
-        last_error = None
+        last_error: Exception | None = None
 
         for attempt in range(self.max_retries):
             try:
@@ -28,7 +28,7 @@ class MLServiceClient:
                         json={"text": text, "script_id": script_id},
                     )
                     response.raise_for_status()
-                    return response.json()
+                    return cast(dict[str, Any], response.json())
 
             except httpx.TimeoutException as e:
                 last_error = e
@@ -56,13 +56,14 @@ class MLServiceClient:
 
         if last_error:
             raise MLServiceError(f"Max retries exceeded: {str(last_error)}")
+        raise MLServiceError("No attempts made")
 
     async def health_check(self) -> dict[str, Any]:
         async with httpx.AsyncClient(timeout=5.0) as client:
             try:
                 response = await client.get(f"{self.base_url}/health")
                 response.raise_for_status()
-                return response.json()
+                return cast(dict[str, Any], response.json())
             except httpx.HTTPError as e:
                 logger.error(f"ML service health check failed: {e}")
                 raise MLServiceError(f"Health check failed: {str(e)}")
