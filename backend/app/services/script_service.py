@@ -81,7 +81,15 @@ class ScriptService:
         db.add(rating_log)
 
         await db.commit()
-        await db.refresh(script)
+
+        refreshed_script = await db.execute(
+            select(Script)
+            .options(selectinload(Script.scenes), selectinload(Script.ratings))
+            .where(Script.id == script.id)
+        )
+        refreshed = refreshed_script.scalar_one()
+        script.scenes = refreshed.scenes
+        script.ratings = refreshed.ratings
 
         logger.info(
             f"Rating completed for script {script_id}: {result['predicted_rating']}"
