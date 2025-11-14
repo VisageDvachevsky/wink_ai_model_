@@ -7,7 +7,7 @@ from prometheus_client import (
 )
 import time
 from functools import wraps
-from typing import Callable, Dict
+from typing import Callable, Dict, cast
 
 registry = CollectorRegistry()
 
@@ -130,7 +130,7 @@ class MetricsTracker:
 
     def end_timer(self, name: str) -> float:
         if name in self.timers:
-            elapsed = time.time() - self.timers[name]
+            elapsed: float = time.time() - self.timers[name]
             del self.timers[name]
             return elapsed
         return 0.0
@@ -223,4 +223,4 @@ def track_inference_time(endpoint: str):
 
 def get_metrics() -> bytes:
     """Export metrics in Prometheus format"""
-    return generate_latest(registry)
+    return cast(bytes, generate_latest(registry))
