@@ -13,7 +13,7 @@ logger.add(sys.stderr, level=settings.log_level)
 app = FastAPI(
     title="Movie Script Rating Service",
     description="ML service for analyzing movie scripts and predicting age ratings",
-    version=settings.model_version
+    version=settings.model_version,
 )
 
 app.add_middleware(
@@ -32,7 +32,7 @@ async def health():
         return HealthResponse(
             status="healthy",
             model_version=settings.model_version,
-            model_loaded=pipeline is not None
+            model_loaded=pipeline is not None,
         )
     except Exception as e:
         logger.error(f"Health check failed: {e}")
@@ -58,6 +58,6 @@ async def root():
         "endpoints": {
             "health": "/health",
             "rate_script": "/rate_script",
-            "docs": "/docs"
-        }
+            "docs": "/docs",
+        },
     }

@@ -15,60 +15,128 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 
 VIOLENCE_WORDS = [
-    r'\bkill\w*', r'\bshoot\w*', r'\bshot\b', r'\bstab\w*',
-    r'\bknife\b', r'\bgun\w*', r'\bpistol\b', r'\brifle\b',
-    r'\bexplod\w*', r'\bblast\w*', r'\battack\w*', r'\bbeat\w*',
-    r'\bcorpse\b', r'\bdead\b', r'\bmurder\w*', r'\bviolence\b',
-    r'\bterrorist\b', r'\bhostage\b', r'\brip(ped|s)? apart\b',
-    r'\battack(ed|ing)?\b',
-    r'\bbeat(s|en|ing)?\b',
-    r'\bthug(s)?\b',
-    r'\bterror\b',
-    r'\bfight(ing)?\b',
-    r'\bbattle(s|d)?\b',
-    r'\bwar\b',
-    r'\bshoot[- ]?out\b',
-    r'\bexplosion\b',
-    r'\bgrenade\b',
-    r'\bcorps(e|es)?\b'
+    r"\bkill\w*",
+    r"\bshoot\w*",
+    r"\bshot\b",
+    r"\bstab\w*",
+    r"\bknife\b",
+    r"\bgun\w*",
+    r"\bpistol\b",
+    r"\brifle\b",
+    r"\bexplod\w*",
+    r"\bblast\w*",
+    r"\battack\w*",
+    r"\bbeat\w*",
+    r"\bcorpse\b",
+    r"\bdead\b",
+    r"\bmurder\w*",
+    r"\bviolence\b",
+    r"\bterrorist\b",
+    r"\bhostage\b",
+    r"\brip(ped|s)? apart\b",
+    r"\battack(ed|ing)?\b",
+    r"\bbeat(s|en|ing)?\b",
+    r"\bthug(s)?\b",
+    r"\bterror\b",
+    r"\bfight(ing)?\b",
+    r"\bbattle(s|d)?\b",
+    r"\bwar\b",
+    r"\bshoot[- ]?out\b",
+    r"\bexplosion\b",
+    r"\bgrenade\b",
+    r"\bcorps(e|es)?\b",
 ]
 
 PSYCH_VIOLENCE = [
-    'torture', 'madness', 'scream', 'insane', 'asylum', 'terror', 'panic',
-    'suicide', 'kill himself', 'psychotic', 'mental hospital'
+    "torture",
+    "madness",
+    "scream",
+    "insane",
+    "asylum",
+    "terror",
+    "panic",
+    "suicide",
+    "kill himself",
+    "psychotic",
+    "mental hospital",
 ]
 
 
 PROFANITY = [
-    r'\bfuck\b', r'\bshit\b', r'\bmotherfucker\b', r'\bbitch\b', r'\bсука\b', r'\bбляд\b'
+    r"\bfuck\b",
+    r"\bshit\b",
+    r"\bmotherfucker\b",
+    r"\bbitch\b",
+    r"\bсука\b",
+    r"\bбляд\b",
 ]
 
 DRUG_WORDS = [
-    r'\bdrug(s)?\b', r'\bheroin\b', r'\bcocaine\b', r'\bmarijuana\b',
-    r'\bpill(s)?\b', r'\bweed\b', r'\balcohol\b', r'\bdrunk\b', r'\bcigarette\b'
+    r"\bdrug(s)?\b",
+    r"\bheroin\b",
+    r"\bcocaine\b",
+    r"\bmarijuana\b",
+    r"\bpill(s)?\b",
+    r"\bweed\b",
+    r"\balcohol\b",
+    r"\bdrunk\b",
+    r"\bcigarette\b",
 ]
 
 CHILD_PATTERN = [
-    r'\bchild\b', r'\bkid(s)?\b', r'\bson\b', r'\bdaughter\b', r'\bteen(aged)?\b'
+    r"\bchild\b",
+    r"\bkid(s)?\b",
+    r"\bson\b",
+    r"\bdaughter\b",
+    r"\bteen(aged)?\b",
 ]
 
 
 NUDITY_WORDS = [
-    r'\bbra\b', r'\bpanty|panties\b', r'\bunderwear\b', r'\bnaked\b', r'\bskinny[- ]?dipping\b'
+    r"\bbra\b",
+    r"\bpanty|panties\b",
+    r"\bunderwear\b",
+    r"\bnaked\b",
+    r"\bskinny[- ]?dipping\b",
 ]
 SEX_ACT_WORDS = [
-    r'\brape\b', r'\bsexual\b', r'\bintercourse\b', r'\bsex scene\b', r'\bmolest\b',
-    r'\borgasm\b', r'\bmake love\b', r'\bhaving sex\b', r'\bsexually\b'
+    r"\brape\b",
+    r"\bsexual\b",
+    r"\bintercourse\b",
+    r"\bsex scene\b",
+    r"\bmolest\b",
+    r"\borgasm\b",
+    r"\bmake love\b",
+    r"\bhaving sex\b",
+    r"\bsexually\b",
 ]
 
 
 GORE_STRICT = [
-    'blood', 'bloody', 'bloodied', 'bleeding', 'corpse', 'wound', 'scar',
-    'injur', 'crash', 'burn', 'explod', 'guts', 'entrails', 'brain', 'dead body'
+    "blood",
+    "bloody",
+    "bloodied",
+    "bleeding",
+    "corpse",
+    "wound",
+    "scar",
+    "injur",
+    "crash",
+    "burn",
+    "explod",
+    "guts",
+    "entrails",
+    "brain",
+    "dead body",
 ]
 GORE_EXCLUDE = [
-    'blood oath', 'black ink', 'blackened tongue', 'ink dribbl', 'ink is now'
+    "blood oath",
+    "black ink",
+    "blackened tongue",
+    "ink dribbl",
+    "ink is now",
 ]
+
 
 def count_matches(regex_list, text):
     s = 0
@@ -78,21 +146,25 @@ def count_matches(regex_list, text):
             s += len(matches)
     return s
 
+
 def parse_script_to_scenes(txt: str) -> List[Dict[str, Any]]:
     scenes = []
-    parts = re.split(r'(?=(?:INT\.|EXT\.|scene_heading\s*:|SCENE HEADING\s*:))', txt, flags=re.I)
+    parts = re.split(
+        r"(?=(?:INT\.|EXT\.|scene_heading\s*:|SCENE HEADING\s*:))", txt, flags=re.I
+    )
     if len(scenes) < 5:  # если парсер не нашёл сцен
-      scenes = [{'scene_id': 0, 'heading': 'full_text', 'text': txt}]
+        scenes = [{"scene_id": 0, "heading": "full_text", "text": txt}]
     idx = 0
     for p in parts:
         text = p.strip()
         if not text:
             continue
-        heading_match = re.match(r'((?:INT\.|EXT\.).{0,120})', text, flags=re.I)
+        heading_match = re.match(r"((?:INT\.|EXT\.).{0,120})", text, flags=re.I)
         heading = heading_match.group(1).strip() if heading_match else f"scene_{idx}"
-        scenes.append({'scene_id': idx, 'heading': heading, 'text': text})
+        scenes.append({"scene_id": idx, "heading": heading, "text": text})
         idx += 1
     return scenes
+
 
 def scene_feature_vector(scene_text: str) -> Dict[str, float]:
     txt = scene_text.lower()
@@ -113,122 +185,149 @@ def scene_feature_vector(scene_text: str) -> Dict[str, float]:
             gore += 1
 
     HEROIC_KEYWORDS = [
-        "superman", "batman", "wonder woman", "lex luthor", "krypton",
-        "metropolis", "hero", "villain", "save", "rescue", "laser", "fly",
-        "power", "superpower", "comic", "adventure"
+        "superman",
+        "batman",
+        "wonder woman",
+        "lex luthor",
+        "krypton",
+        "metropolis",
+        "hero",
+        "villain",
+        "save",
+        "rescue",
+        "laser",
+        "fly",
+        "power",
+        "superpower",
+        "comic",
+        "adventure",
     ]
     if any(word in txt for word in HEROIC_KEYWORDS):
         violence *= 0.6  # понижаем насилие, если это геройский контекст
 
     # если есть насилие, но нет "крови" или "страдания" — считаем его стилизованным
-    if violence > 0 and not re.search(r"\b(blood|gore|corpse|bleeding|wound|pain|scream)\b", txt):
+    if violence > 0 and not re.search(
+        r"\b(blood|gore|corpse|bleeding|wound|pain|scream)\b", txt
+    ):
         violence *= 0.7
 
     length = max(1, len(txt.split()))
     return {
-        'violence': violence + psych * 0.5,
-        'gore': gore,
-        'sex_act': sex_act,
-        'nudity': nudity,
-        'profanity': profanity,
-        'drugs': drugs,
-        'child_mentions': child_mentions,
-        'length': length
+        "violence": violence + psych * 0.5,
+        "gore": gore,
+        "sex_act": sex_act,
+        "nudity": nudity,
+        "profanity": profanity,
+        "drugs": drugs,
+        "child_mentions": child_mentions,
+        "length": length,
     }
+
 
 MODEL_NAME = "all-MiniLM-L6-v2"
 embedder = SentenceTransformer(MODEL_NAME)
 
+
 def compute_scene_embeddings(scenes: List[Dict[str, Any]]):
-    texts = [s['text'] for s in scenes]
+    texts = [s["text"] for s in scenes]
     embs = embedder.encode(texts, show_progress_bar=False, convert_to_numpy=True)
     return embs
 
+
 def normalize_scene_scores(f: Dict[str, float]) -> Dict[str, float]:
-    L = f['length']
+    L = f["length"]
     return {
-        'violence': min(1.0, f['violence'] / (L / 150)),
-        'gore': min(1.0, f['gore'] / 2.0),
-        'sex_act': min(1.0, f['sex_act']),
-        'nudity': min(1.0, f['nudity'] / 3.0),
-        'profanity': min(1.0, f['profanity'] / 5.0),
-        'drugs': min(1.0, f['drugs'] / 5.0),
-        'child_risk': min(1.0, f['child_mentions'] / 3.0)
+        "violence": min(1.0, f["violence"] / (L / 150)),
+        "gore": min(1.0, f["gore"] / 2.0),
+        "sex_act": min(1.0, f["sex_act"]),
+        "nudity": min(1.0, f["nudity"] / 3.0),
+        "profanity": min(1.0, f["profanity"] / 5.0),
+        "drugs": min(1.0, f["drugs"] / 5.0),
+        "child_risk": min(1.0, f["child_mentions"] / 3.0),
     }
+
 
 def map_scores_to_rating(agg: Dict[str, float]) -> Dict[str, Any]:
     reasons = []
-    rating = '6+'
+    rating = "6+"
 
-    if agg['sex_act'] >= 0.8 or agg['gore'] >= 0.8:
-        rating = '18+'
+    if agg["sex_act"] >= 0.8 or agg["gore"] >= 0.8:
+        rating = "18+"
         reasons.append("эксплицитные сцены секса или жестокости")
-    elif agg['child_risk'] > 0.5 and (agg['sex_act'] >= 0.5 or agg['violence'] >= 0.5):
-        rating = '18+'
+    elif agg["child_risk"] > 0.5 and (agg["sex_act"] >= 0.5 or agg["violence"] >= 0.5):
+        rating = "18+"
         reasons.append("жестокие или сексуальные сцены с несовершеннолетними")
-    elif agg['violence'] >= 0.4 or agg['gore'] >= 0.4:
-        rating = '16+'
+    elif agg["violence"] >= 0.4 or agg["gore"] >= 0.4:
+        rating = "16+"
         reasons.append("явное насилие/убийства")
-    elif agg['profanity'] >= 0.5 or agg['drugs'] >= 0.4 or agg['nudity'] >= 0.3:
-        rating = '12+'
+    elif agg["profanity"] >= 0.5 or agg["drugs"] >= 0.4 or agg["nudity"] >= 0.3:
+        rating = "12+"
         reasons.append("умеренная лексика, алкоголь/табак, лёгкая нагота")
-    elif agg['violence'] >= 0.3:
-        rating = '12+'
+    elif agg["violence"] >= 0.3:
+        rating = "12+"
         reasons.append("умеренное насилие или угрозы")
 
-    return {'rating': rating, 'reasons': reasons}
+    return {"rating": rating, "reasons": reasons}
+
 
 def analyze_script_file(path: str):
-    txt = Path(path).read_text(encoding='utf-8', errors='ignore')
+    txt = Path(path).read_text(encoding="utf-8", errors="ignore")
     scenes = parse_script_to_scenes(txt)
-    features = [scene_feature_vector(s['text']) for s in scenes]
+    features = [scene_feature_vector(s["text"]) for s in scenes]
     scores = [normalize_scene_scores(f) for f in features]
 
     # агрегируем по максимуму (но без экстремальных выбросов)
-    agg = {k: float(np.percentile([s[k] for s in scores], 90)) for k in scores[0].keys()}
+    agg = {
+        k: float(np.percentile([s[k] for s in scores], 90)) for k in scores[0].keys()
+    }
     rating_info = map_scores_to_rating(agg)
 
     # топ сцен по влиянию
     ranking = []
     for s, sc in zip(scenes, scores):
         w = (
-            sc['violence'] * 0.5 +
-            sc['gore'] * 0.8 +
-            sc['sex_act'] * 0.9 +
-            sc['profanity'] * 0.3 +
-            sc['drugs'] * 0.3 +
-            sc['child_risk'] * 0.6 +
-            sc['nudity'] * 0.3
+            sc["violence"] * 0.5
+            + sc["gore"] * 0.8
+            + sc["sex_act"] * 0.9
+            + sc["profanity"] * 0.3
+            + sc["drugs"] * 0.3
+            + sc["child_risk"] * 0.6
+            + sc["nudity"] * 0.3
         )
         ranking.append((w, s))
     ranking.sort(reverse=True, key=lambda x: x[0])
 
     top = []
     for w, s in ranking[:5]:
-        top.append({
-            'scene_id': s['scene_id'],
-            'heading': s['heading'],
-            'sample_text': s['text'][:400].replace('\n', ' '),
-            'weight': round(float(w), 2)
-        })
+        top.append(
+            {
+                "scene_id": s["scene_id"],
+                "heading": s["heading"],
+                "sample_text": s["text"][:400].replace("\n", " "),
+                "weight": round(float(w), 2),
+            }
+        )
 
     result = {
-        'file': str(path),
-        'predicted_rating': rating_info['rating'],
-        'reasons': rating_info['reasons'],
-        'agg_scores': agg,
-        'top_trigger_scenes': top
+        "file": str(path),
+        "predicted_rating": rating_info["rating"],
+        "reasons": rating_info["reasons"],
+        "agg_scores": agg,
+        "top_trigger_scenes": top,
     }
     return result
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     import sys
-    p = "/content/Superman_0078346_anno.txt" #sys.argv[1]
+
+    p = "/content/Superman_0078346_anno.txt"  # sys.argv[1]
     out = analyze_script_file(p)
     print(json.dumps(out, ensure_ascii=False, indent=2))
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     import sys
+
     if len(sys.argv) < 2:
         print("Usage: python rating_pipeline.py <path_to_script.txt>")
         exit(0)
