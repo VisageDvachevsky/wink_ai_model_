@@ -1,6 +1,5 @@
 from fastapi import APIRouter, Depends, UploadFile, File
 from sqlalchemy.ext.asyncio import AsyncSession
-from loguru import logger
 
 from ...db.base import get_db
 from ...schemas.script import (
