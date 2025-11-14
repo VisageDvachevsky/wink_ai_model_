@@ -135,7 +135,9 @@ GORE_EXCLUDE = [
 class RatingPipeline:
     def __init__(self):
         if settings.use_huggingface and settings.huggingface_model_id:
-            logger.info(f"Loading model from Hugging Face: {settings.huggingface_model_id}")
+            logger.info(
+                f"Loading model from Hugging Face: {settings.huggingface_model_id}"
+            )
             model_name = settings.huggingface_model_id
             cache_dir = settings.models_cache_dir
         else:
