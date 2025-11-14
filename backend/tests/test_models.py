@@ -48,7 +48,13 @@ async def test_script_with_scenes(test_session: AsyncSession):
 
     test_session.add(scene)
     await test_session.commit()
-    await test_session.refresh(script)
 
-    assert len(script.scenes) == 1
-    assert script.scenes[0].heading == "INT. HOUSE - DAY"
+    from sqlalchemy import select
+    from sqlalchemy.orm import selectinload
+    refreshed_result = await test_session.execute(
+        select(Script).options(selectinload(Script.scenes)).where(Script.id == script.id)
+    )
+    refreshed_script = refreshed_result.scalar_one()
+
+    assert len(refreshed_script.scenes) == 1
+    assert refreshed_script.scenes[0].heading == "INT. HOUSE - DAY"
