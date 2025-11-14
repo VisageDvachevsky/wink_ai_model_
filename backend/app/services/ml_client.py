@@ -37,7 +37,6 @@ class MLServiceClient:
                 )
                 if attempt < self.max_retries - 1:
                     await asyncio.sleep(self.retry_delay * (2**attempt))
-                    continue
 
             except httpx.HTTPStatusError as e:
                 logger.error(f"ML service HTTP error: {e.response.status_code}")
@@ -50,7 +49,6 @@ class MLServiceClient:
                 )
                 if attempt < self.max_retries - 1:
                     await asyncio.sleep(self.retry_delay * (2**attempt))
-                    continue
 
         if isinstance(last_error, httpx.TimeoutException):
             raise MLServiceTimeoutError()
@@ -64,7 +62,7 @@ class MLServiceClient:
                 response = await client.get(f"{self.base_url}/health")
                 response.raise_for_status()
                 return cast(dict[str, Any], response.json())
-        except httpx.HTTPError as e:
+        except Exception as e:
             logger.error(f"ML service health check failed: {e}")
             raise MLServiceError(f"Health check failed: {str(e)}")
 
