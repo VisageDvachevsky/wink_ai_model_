@@ -4,13 +4,22 @@ import { scriptsApi } from '../api/client'
 import { Film, Clock } from 'lucide-react'
 
 export default function ScriptList() {
-  const { data: scripts, isLoading } = useQuery({
+  const { data: scripts, isLoading, error } = useQuery({
     queryKey: ['scripts'],
     queryFn: scriptsApi.list,
   })
 
   if (isLoading) {
     return <div className="text-center py-12">Loading...</div>
+  }
+
+  if (error) {
+    return (
+      <div className="text-center py-12">
+        <div className="text-red-600 mb-2">Failed to load scripts</div>
+        <div className="text-gray-600 text-sm">{(error as Error).message}</div>
+      </div>
+    )
   }
 
   return (
