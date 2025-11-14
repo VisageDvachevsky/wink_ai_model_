@@ -1,4 +1,4 @@
-import axios from 'axios'
+import axios, { AxiosError } from 'axios'
 
 const apiClient = axios.create({
   baseURL: import.meta.env.VITE_API_URL || '/api/v1',
@@ -6,6 +6,20 @@ const apiClient = axios.create({
     'Content-Type': 'application/json',
   },
 })
+
+apiClient.interceptors.response.use(
+  (response) => response,
+  (error: AxiosError) => {
+    if (error.response) {
+      const detail = (error.response.data as { detail?: string })?.detail
+      throw new Error(detail || `Server error: ${error.response.status}`)
+    } else if (error.request) {
+      throw new Error('Network error: Unable to reach the server')
+    } else {
+      throw new Error('Request failed: ' + error.message)
+    }
+  }
+)
 
 export interface Script {
   id: number
