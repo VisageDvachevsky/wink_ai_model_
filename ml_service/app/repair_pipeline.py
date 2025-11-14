@@ -13,9 +13,6 @@ from pathlib import Path
 from typing import List, Dict, Any
 import numpy as np
 from sentence_transformers import SentenceTransformer
-import umap
-import hdbscan
-from tqdm import tqdm
 
 VIOLENCE_WORDS = [
     r'\bkill\w*', r'\bshoot\w*', r'\bshot\b', r'\bstab\w*',
