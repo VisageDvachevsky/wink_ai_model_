@@ -3,6 +3,7 @@ import asyncio
 from typing import AsyncGenerator
 from httpx import AsyncClient, ASGITransport
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession, async_sessionmaker
+from unittest.mock import MagicMock, patch
 
 from app.main import app
 from app.db.base import Base, get_db
@@ -10,6 +11,15 @@ from app.models import Script
 
 
 TEST_DATABASE_URL = "sqlite+aiosqlite:///:memory:"
+
+
+@pytest.fixture(autouse=True)
+def mock_queue():
+    with patch("app.services.queue.queue") as mock_q:
+        mock_job = MagicMock()
+        mock_job.id = "test-job-123"
+        mock_q.enqueue.return_value = mock_job
+        yield mock_q
 
 
 @pytest.fixture(scope="session")
