@@ -1,7 +1,9 @@
-from sqlalchemy.ext.asyncio import AsyncSession
-from sqlalchemy import select
-from sqlalchemy.orm import selectinload
+from typing import Any
+
 from loguru import logger
+from sqlalchemy import select
+from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy.orm import selectinload
 
 from ..models.script import Script, Scene, RatingLog
 from ..schemas.script import ScriptCreate
@@ -37,7 +39,7 @@ class ScriptService:
         return list(result.scalars().all())
 
     @staticmethod
-    async def process_rating(db: AsyncSession, script_id: int) -> dict:
+    async def process_rating(db: AsyncSession, script_id: int) -> dict[str, Any]:
         script = await ScriptService.get_script(db, script_id)
         if not script:
             raise ValueError(f"Script {script_id} not found")
