@@ -1,0 +1,116 @@
+{
+  "dashboard": {
+    "title": "ML Service Metrics",
+    "tags": ["ml", "rating"],
+    "timezone": "browser",
+    "panels": [
+      {
+        "id": 1,
+        "title": "Inference Latency (P95)",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "histogram_quantile(0.95, rate(ml_inference_latency_seconds_bucket{endpoint=\"rate_script\"}[5m]))",
+            "legendFormat": "p95 latency"
+          }
+        ],
+        "gridPos": {"x": 0, "y": 0, "w": 12, "h": 8}
+      },
+      {
+        "id": 2,
+        "title": "Request Rate",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "rate(ml_requests_total{status=\"success\"}[5m])",
+            "legendFormat": "Success"
+          },
+          {
+            "expr": "rate(ml_requests_total{status=\"error\"}[5m])",
+            "legendFormat": "Error"
+          }
+        ],
+        "gridPos": {"x": 12, "y": 0, "w": 12, "h": 8}
+      },
+      {
+        "id": 3,
+        "title": "Active Requests",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "ml_active_requests",
+            "legendFormat": "Active requests"
+          }
+        ],
+        "gridPos": {"x": 0, "y": 8, "w": 8, "h": 8}
+      },
+      {
+        "id": 4,
+        "title": "Average Violence Score",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "ml_avg_violence_score",
+            "legendFormat": "Violence"
+          }
+        ],
+        "gridPos": {"x": 8, "y": 8, "w": 8, "h": 8}
+      },
+      {
+        "id": 5,
+        "title": "Rating Distribution",
+        "type": "piechart",
+        "targets": [
+          {
+            "expr": "ml_rating_distribution",
+            "legendFormat": "{{rating}}"
+          }
+        ],
+        "gridPos": {"x": 16, "y": 8, "w": 8, "h": 8}
+      },
+      {
+        "id": 6,
+        "title": "Scenes Per Script",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "rate(ml_scenes_per_script_sum[5m]) / rate(ml_scenes_per_script_count[5m])",
+            "legendFormat": "Avg scenes"
+          }
+        ],
+        "gridPos": {"x": 0, "y": 16, "w": 12, "h": 8}
+      },
+      {
+        "id": 7,
+        "title": "Content Feature Scores",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "ml_avg_violence_score",
+            "legendFormat": "Violence"
+          },
+          {
+            "expr": "ml_avg_sex_score",
+            "legendFormat": "Sex"
+          },
+          {
+            "expr": "ml_avg_gore_score",
+            "legendFormat": "Gore"
+          },
+          {
+            "expr": "ml_avg_profanity_score",
+            "legendFormat": "Profanity"
+          },
+          {
+            "expr": "ml_avg_drugs_score",
+            "legendFormat": "Drugs"
+          }
+        ],
+        "gridPos": {"x": 12, "y": 16, "w": 12, "h": 8}
+      }
+    ],
+    "refresh": "10s",
+    "schemaVersion": 16,
+    "version": 1
+  }
+}
