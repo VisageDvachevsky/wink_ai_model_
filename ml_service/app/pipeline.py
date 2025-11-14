@@ -56,7 +56,14 @@ PSYCH_VIOLENCE = [
     "mental hospital",
 ]
 
-PROFANITY = [r"\bfuck\w*\b", r"\bshit\b", r"\bmotherfucker\b", r"\bbitch\b", r"\bdamn\b", r"\bhell\b"]
+PROFANITY = [
+    r"\bfuck\w*\b",
+    r"\bshit\b",
+    r"\bmotherfucker\b",
+    r"\bbitch\b",
+    r"\bdamn\b",
+    r"\bhell\b",
+]
 
 DRUG_WORDS = [
     r"\bdrug(s)?\b",
@@ -127,8 +134,20 @@ GORE_EXCLUDE = [
 
 class RatingPipeline:
     def __init__(self):
-        logger.info(f"Loading model: {settings.model_name}")
-        self.embedder = SentenceTransformer(settings.model_name)
+        if settings.use_huggingface and settings.huggingface_model_id:
+            logger.info(f"Loading model from Hugging Face: {settings.huggingface_model_id}")
+            model_name = settings.huggingface_model_id
+            cache_dir = settings.models_cache_dir
+        else:
+            logger.info(f"Loading model locally: {settings.model_name}")
+            model_name = settings.model_name
+            cache_dir = settings.models_cache_dir
+
+        self.embedder = SentenceTransformer(
+            model_name,
+            cache_folder=cache_dir,
+            token=settings.huggingface_token if settings.huggingface_token else None,
+        )
         logger.info("Model loaded successfully")
 
     @staticmethod
@@ -151,7 +170,9 @@ class RatingPipeline:
             r"(?=(?:INT\.|EXT\.|scene_heading\s*:|SCENE HEADING\s*:))", txt, flags=re.I
         )
 
-        if len(parts) < 2 or not any(re.match(r"(?:INT\.|EXT\.)", p, flags=re.I) for p in parts):
+        if len(parts) < 2 or not any(
+            re.match(r"(?:INT\.|EXT\.)", p, flags=re.I) for p in parts
+        ):
             return [{"scene_id": 0, "heading": "full_text", "text": txt}]
 
         idx = 0

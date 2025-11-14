@@ -54,6 +54,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Download model from Hugging Face
+        if: vars.USE_HUGGINGFACE == 'true'
+        env:
+          ML_HUGGINGFACE_MODEL_ID: ${{ vars.HUGGINGFACE_MODEL_ID }}
+          ML_HUGGINGFACE_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
+          ML_MODELS_CACHE_DIR: ./ml_service/models_cache
+        run: |
+          cd ml_service
+          pip install sentence-transformers loguru
+          python download_model.py
+
       - name: Log in to GitHub Container Registry
         uses: docker/login-action@v3
         with:
