@@ -1,18 +1,21 @@
 import asyncio
+from typing import Any
+
 import httpx
 from loguru import logger
+
 from ..core.config import settings
 from ..core.exceptions import MLServiceError, MLServiceTimeoutError
 
 
 class MLServiceClient:
-    def __init__(self):
-        self.base_url = settings.ml_service_url
-        self.timeout = settings.ml_service_timeout
-        self.max_retries = settings.ml_service_max_retries
-        self.retry_delay = settings.ml_service_retry_delay
+    def __init__(self) -> None:
+        self.base_url: str = settings.ml_service_url
+        self.timeout: int = settings.ml_service_timeout
+        self.max_retries: int = settings.ml_service_max_retries
+        self.retry_delay: float = settings.ml_service_retry_delay
 
-    async def rate_script(self, text: str, script_id: str | None = None) -> dict:
+    async def rate_script(self, text: str, script_id: str | None = None) -> dict[str, Any]:
         last_error = None
 
         for attempt in range(self.max_retries):
@@ -52,7 +55,7 @@ class MLServiceClient:
         if last_error:
             raise MLServiceError(f"Max retries exceeded: {str(last_error)}")
 
-    async def health_check(self) -> dict:
+    async def health_check(self) -> dict[str, Any]:
         async with httpx.AsyncClient(timeout=5.0) as client:
             try:
                 response = await client.get(f"{self.base_url}/health")
