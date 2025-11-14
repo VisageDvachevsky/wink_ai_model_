@@ -41,11 +41,14 @@ async def test_rate_script_timeout_with_retry(ml_client):
     ml_client.max_retries = 3
     ml_client.retry_delay = 0.01
 
+    async def raise_timeout(*args, **kwargs):
+        raise httpx.TimeoutException("Timeout")
+
     with patch("app.services.ml_client.httpx.AsyncClient") as mock_client_class:
         mock_client = AsyncMock()
         mock_client.__aenter__.return_value = mock_client
-        mock_client.__aexit__.return_value = AsyncMock()
-        mock_client.post = AsyncMock(side_effect=httpx.TimeoutException("Timeout"))
+        mock_client.__aexit__.return_value = None
+        mock_client.post = raise_timeout
         mock_client_class.return_value = mock_client
 
         with pytest.raises(MLServiceTimeoutError):
@@ -54,17 +57,20 @@ async def test_rate_script_timeout_with_retry(ml_client):
 
 @pytest.mark.asyncio
 async def test_rate_script_http_error(ml_client):
+    mock_response = MagicMock()
+    mock_response.status_code = 500
+    mock_error = httpx.HTTPStatusError(
+        "Server error", request=MagicMock(), response=mock_response
+    )
+
+    async def raise_http_error(*args, **kwargs):
+        raise mock_error
+
     with patch("app.services.ml_client.httpx.AsyncClient") as mock_client_class:
         mock_client = AsyncMock()
         mock_client.__aenter__.return_value = mock_client
-        mock_client.__aexit__.return_value = AsyncMock()
-
-        mock_response = MagicMock()
-        mock_response.status_code = 500
-        mock_error = httpx.HTTPStatusError(
-            "Server error", request=MagicMock(), response=mock_response
-        )
-        mock_client.post = AsyncMock(side_effect=mock_error)
+        mock_client.__aexit__.return_value = None
+        mock_client.post = raise_http_error
         mock_client_class.return_value = mock_client
 
         with pytest.raises(MLServiceError) as exc_info:
@@ -77,12 +83,14 @@ async def test_rate_script_connection_error_with_retry(ml_client):
     ml_client.max_retries = 2
     ml_client.retry_delay = 0.01
 
+    async def raise_connect_error(*args, **kwargs):
+        raise httpx.ConnectError("Connection refused")
+
     with patch("app.services.ml_client.httpx.AsyncClient") as mock_client_class:
         mock_client = AsyncMock()
         mock_client.__aenter__.return_value = mock_client
-        mock_client.__aexit__.return_value = AsyncMock()
-        mock_error = httpx.ConnectError("Connection refused")
-        mock_client.post = AsyncMock(side_effect=mock_error)
+        mock_client.__aexit__.return_value = None
+        mock_client.post = raise_connect_error
         mock_client_class.return_value = mock_client
 
         with pytest.raises(MLServiceError) as exc_info:
@@ -115,11 +123,14 @@ async def test_health_check_success(ml_client):
 
 @pytest.mark.asyncio
 async def test_health_check_failure(ml_client):
+    async def raise_connect_error(*args, **kwargs):
+        raise httpx.ConnectError("Connection error")
+
     with patch("app.services.ml_client.httpx.AsyncClient") as mock_client_class:
         mock_client = AsyncMock()
         mock_client.__aenter__.return_value = mock_client
-        mock_client.__aexit__.return_value = AsyncMock()
-        mock_client.get = AsyncMock(side_effect=httpx.ConnectError("Connection error"))
+        mock_client.__aexit__.return_value = None
+        mock_client.get = raise_connect_error
         mock_client_class.return_value = mock_client
 
         with pytest.raises(MLServiceError) as exc_info:
