@@ -14,8 +14,14 @@ class Settings(BaseSettings):
     redis_url: str = "redis://localhost:6379/0"
 
     ml_service_url: str = "http://localhost:8001"
+    ml_service_timeout: int = 300
+    ml_service_max_retries: int = 3
+    ml_service_retry_delay: float = 2.0
 
     cors_origins: list[str] = ["http://localhost:3000", "http://localhost:5173"]
+
+    max_upload_size_mb: int = 10
+    allowed_file_extensions: list[str] = [".txt", ".pdf", ".doc", ".docx"]
 
     log_level: str = "INFO"
 
