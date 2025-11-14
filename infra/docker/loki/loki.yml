@@ -14,7 +14,7 @@ common:
   ring:
     instance_addr: 127.0.0.1
     kvstore:
-      store: inmemory
+      store: inmemory  # For production, use memberlist or consul
 
 schema_config:
   configs:
