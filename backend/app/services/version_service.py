@@ -1,4 +1,4 @@
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Any, Optional, cast
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, and_, desc
 import difflib
@@ -25,7 +25,7 @@ class VersionService:
             .order_by(desc(ScriptVersion.version_number))
         )
         latest_version = result.scalar_one_or_none()
-        new_version_number = (
+        new_version_number: int = (
             (latest_version.version_number + 1) if latest_version else 1
         )
 
@@ -81,7 +81,7 @@ class VersionService:
             for version in result.scalars():
                 version.is_current = False
 
-            script.current_version = new_version_number
+            setattr(script, "current_version", new_version_number)
 
         db.add(new_version)
         await db.commit()
@@ -110,7 +110,7 @@ class VersionService:
                 )
             )
         )
-        return result.scalar_one_or_none()
+        return cast(Optional[ScriptVersion], result.scalar_one_or_none())
 
     @staticmethod
     async def restore_version(
@@ -151,7 +151,7 @@ class VersionService:
         await db.commit()
         await db.refresh(script)
 
-        return script
+        return cast(Script, script)
 
     @staticmethod
     def compare_versions(

@@ -1,5 +1,5 @@
 import re
-from typing import Dict, List, Any
+from typing import Dict, List, Any, DefaultDict, Set, TypedDict, cast
 from collections import defaultdict
 from loguru import logger
 
@@ -10,6 +10,11 @@ try:
 except ImportError:
     SPACY_AVAILABLE = False
     logger.warning("spaCy not available, using fallback entity extraction")
+
+
+class EntityData(TypedDict):
+    mentions: int
+    scenes: Set[int]
 
 
 class EntityExtractor:
@@ -32,7 +37,7 @@ class EntityExtractor:
 
     def _extract_with_spacy(self, scenes: List[Dict[str, Any]]) -> Dict[str, List[Any]]:
         """Use spaCy NER for entity extraction."""
-        entities = {
+        entities: Dict[str, DefaultDict[str, EntityData]] = {
             "characters": defaultdict(lambda: {"mentions": 0, "scenes": set()}),
             "locations": defaultdict(lambda: {"mentions": 0, "scenes": set()}),
             "objects": defaultdict(lambda: {"mentions": 0, "scenes": set()}),
@@ -64,13 +69,15 @@ class EntityExtractor:
                 }
                 for name, data in entity_dict.items()
             ]
-            result[entity_type].sort(key=lambda x: x["mentions"], reverse=True)
+            result[entity_type].sort(
+                key=lambda x: cast(int, x["mentions"]), reverse=True
+            )
 
         return result
 
     def _extract_fallback(self, scenes: List[Dict[str, Any]]) -> Dict[str, List[Any]]:
         """Fallback entity extraction using regex patterns."""
-        entities = {
+        entities: Dict[str, DefaultDict[str, EntityData]] = {
             "characters": defaultdict(lambda: {"mentions": 0, "scenes": set()}),
             "locations": defaultdict(lambda: {"mentions": 0, "scenes": set()}),
             "objects": defaultdict(lambda: {"mentions": 0, "scenes": set()}),
@@ -107,7 +114,9 @@ class EntityExtractor:
                 for name, data in entity_dict.items()
                 if data["mentions"] >= 2
             ]
-            result[entity_type].sort(key=lambda x: x["mentions"], reverse=True)
+            result[entity_type].sort(
+                key=lambda x: cast(int, x["mentions"]), reverse=True
+            )
 
         return result
 
