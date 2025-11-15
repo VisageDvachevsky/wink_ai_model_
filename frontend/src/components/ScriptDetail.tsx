@@ -3,15 +3,16 @@ import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { useParams } from 'react-router-dom'
 import { scriptsApi } from '../api/client'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts'
-import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles } from 'lucide-react'
+import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles, Loader2 } from 'lucide-react'
 import WhatIfModal from './WhatIfModal'
+import { useLanguage } from '../contexts/LanguageContext'
 
 const RATING_COLORS: Record<string, string> = {
-  '0+': 'bg-green-100 text-green-800 border-green-200',
-  '6+': 'bg-blue-100 text-blue-800 border-blue-200',
-  '12+': 'bg-yellow-100 text-yellow-800 border-yellow-200',
-  '16+': 'bg-orange-100 text-orange-800 border-orange-200',
-  '18+': 'bg-red-100 text-red-800 border-red-200',
+  '0+': 'bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-400 border-green-200 dark:border-green-700',
+  '6+': 'bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-400 border-blue-200 dark:border-blue-700',
+  '12+': 'bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-400 border-yellow-200 dark:border-yellow-700',
+  '16+': 'bg-orange-100 dark:bg-orange-900/30 text-orange-800 dark:text-orange-400 border-orange-200 dark:border-orange-700',
+  '18+': 'bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-400 border-red-200 dark:border-red-700',
 }
 
 const CATEGORY_COLORS: Record<string, string> = {
@@ -28,6 +29,7 @@ export default function ScriptDetail() {
   const { id } = useParams<{ id: string }>()
   const queryClient = useQueryClient()
   const [showWhatIfModal, setShowWhatIfModal] = useState(false)
+  const { language, t } = useLanguage()
 
   const { data: script, isLoading, error } = useQuery({
     queryKey: ['script', id],
@@ -44,7 +46,7 @@ export default function ScriptDetail() {
   if (isLoading) {
     return (
       <div className="flex items-center justify-center py-12">
-        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
+        <Loader2 className="h-12 w-12 animate-spin text-blue-600 dark:text-blue-400" />
       </div>
     )
   }
@@ -52,9 +54,9 @@ export default function ScriptDetail() {
   if (error) {
     return (
       <div className="text-center py-12">
-        <AlertCircle className="h-12 w-12 text-red-500 mx-auto mb-4" />
-        <div className="text-red-600 mb-2 font-medium">Failed to load script</div>
-        <div className="text-gray-600 text-sm">{(error as Error).message}</div>
+        <AlertCircle className="h-12 w-12 text-red-500 dark:text-red-400 mx-auto mb-4" />
+        <div className="text-red-600 dark:text-red-400 mb-2 font-semibold">{t('script.failed_load')}</div>
+        <div className="text-gray-600 dark:text-gray-400 text-sm">{(error as Error).message}</div>
       </div>
     )
   }
@@ -62,15 +64,15 @@ export default function ScriptDetail() {
   if (!script) {
     return (
       <div className="text-center py-12">
-        <FileText className="h-12 w-12 text-gray-400 mx-auto mb-4" />
-        <div className="text-gray-600">Script not found</div>
+        <FileText className="h-12 w-12 text-gray-400 dark:text-gray-500 mx-auto mb-4" />
+        <div className="text-gray-600 dark:text-gray-400">{t('script.not_found')}</div>
       </div>
     )
   }
 
   const chartData = script.agg_scores
     ? Object.entries(script.agg_scores).map(([key, value]) => ({
-        category: key.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase()),
+        category: t(`category.${key}`) || key.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase()),
         score: Number((value * 100).toFixed(1)),
         color: CATEGORY_COLORS[key] || '#3b82f6',
       }))
@@ -80,17 +82,17 @@ export default function ScriptDetail() {
 
   return (
     <div className="px-4 sm:px-0 space-y-6">
-      <div className="bg-white shadow-lg rounded-xl overflow-hidden">
-        <div className="px-6 py-6 border-b border-gray-200 bg-gradient-to-r from-blue-50 to-indigo-50">
+      <div className="bg-white dark:bg-gray-800 shadow-lg rounded-xl overflow-hidden border border-gray-100 dark:border-gray-700">
+        <div className="px-6 py-6 border-b border-gray-200 dark:border-gray-700 bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20">
           <div className="flex justify-between items-start">
             <div className="flex-1">
-              <h1 className="text-3xl font-bold text-gray-900 mb-2">{script.title}</h1>
-              <div className="flex items-center gap-4 text-sm text-gray-600">
+              <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">{script.title}</h1>
+              <div className="flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400">
                 <span className="flex items-center">
                   <FileText className="h-4 w-4 mr-1" />
-                  {script.total_scenes || 0} scenes
+                  {script.total_scenes || 0} {t('script.scenes')}
                 </span>
-                <span>Uploaded {new Date(script.created_at).toLocaleString()}</span>
+                <span>{t('script.uploaded')} {new Date(script.created_at).toLocaleString(language === 'ru' ? 'ru-RU' : 'en-US')}</span>
               </div>
             </div>
             {script.predicted_rating ? (
@@ -98,17 +100,17 @@ export default function ScriptDetail() {
                 <div className="flex items-center gap-3">
                   <button
                     onClick={() => setShowWhatIfModal(true)}
-                    className="inline-flex items-center px-4 py-2 border border-purple-300 rounded-lg text-sm font-medium text-purple-700 bg-purple-50 hover:bg-purple-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 transition-all"
+                    className="inline-flex items-center px-4 py-2 border border-purple-300 dark:border-purple-600 rounded-lg text-sm font-medium text-purple-700 dark:text-purple-400 bg-purple-50 dark:bg-purple-900/30 hover:bg-purple-100 dark:hover:bg-purple-900/50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 dark:focus:ring-purple-600 transition-all"
                   >
                     <Sparkles className="h-4 w-4 mr-2" />
-                    What-If Simulator
+                    {t('whatif.title')}
                   </button>
                   <span className={`inline-flex items-center px-6 py-3 rounded-xl text-2xl font-bold border-2 ${ratingColor} shadow-sm`}>
                     {script.predicted_rating}
                   </span>
                 </div>
                 {script.reasons && script.reasons.length > 0 && (
-                  <div className="text-right text-sm text-gray-600 max-w-xs">
+                  <div className="text-right text-sm text-gray-600 dark:text-gray-400 max-w-xs">
                     {script.reasons.join(', ')}
                   </div>
                 )}
@@ -118,13 +120,13 @@ export default function ScriptDetail() {
                 <button
                   onClick={() => rateMutation.mutate()}
                   disabled={rateMutation.isPending}
-                  className="inline-flex items-center px-6 py-3 border border-transparent rounded-lg shadow-sm text-base font-medium text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 disabled:opacity-50 transition-all"
+                  className="inline-flex items-center px-6 py-3 border border-transparent rounded-lg shadow-sm text-base font-medium text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 dark:focus:ring-offset-gray-800 focus:ring-blue-500 disabled:opacity-50 transition-all"
                 >
-                  <Play className="h-5 w-5 mr-2" />
-                  {rateMutation.isPending ? 'Analyzing...' : 'Analyze Script'}
+                  {rateMutation.isPending ? <Loader2 className="h-5 w-5 mr-2 animate-spin" /> : <Play className="h-5 w-5 mr-2" />}
+                  {rateMutation.isPending ? t('script.analyzing') : t('script.analyze')}
                 </button>
                 {rateMutation.error && (
-                  <p className="text-sm text-red-600">{(rateMutation.error as Error).message}</p>
+                  <p className="text-sm text-red-600 dark:text-red-400">{(rateMutation.error as Error).message}</p>
                 )}
               </div>
             )}
@@ -134,47 +136,49 @@ export default function ScriptDetail() {
         {script.predicted_rating && (
           <>
             {script.evidence_excerpts && script.evidence_excerpts.length > 0 && (
-              <div className="px-6 py-6 border-b border-gray-200 bg-amber-50">
-                <h2 className="text-lg font-semibold text-gray-900 mb-4 flex items-center">
-                  <Quote className="h-5 w-5 mr-2 text-amber-600" />
-                  Evidence from Script
+              <div className="px-6 py-6 border-b border-gray-200 dark:border-gray-700 bg-amber-50 dark:bg-amber-900/10">
+                <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-4 flex items-center">
+                  <Quote className="h-5 w-5 mr-2 text-amber-600 dark:text-amber-500" />
+                  {t('script.evidence')}
                 </h2>
                 <div className="space-y-2">
                   {script.evidence_excerpts.slice(0, 5).map((excerpt, idx) => (
-                    <div key={idx} className="bg-white rounded-lg p-3 border border-amber-200 shadow-sm">
-                      <p className="text-sm text-gray-700 italic">"{excerpt}"</p>
+                    <div key={idx} className="bg-white dark:bg-gray-800 rounded-lg p-3 border border-amber-200 dark:border-amber-700 shadow-sm">
+                      <p className="text-sm text-gray-700 dark:text-gray-300 italic">"{excerpt}"</p>
                     </div>
                   ))}
                 </div>
               </div>
             )}
 
-            <div className="px-6 py-6 border-b border-gray-200">
-              <h2 className="text-lg font-semibold text-gray-900 mb-4 flex items-center">
-                <TrendingUp className="h-5 w-5 mr-2 text-blue-600" />
-                Content Analysis Scores
+            <div className="px-6 py-6 border-b border-gray-200 dark:border-gray-700">
+              <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-4 flex items-center">
+                <TrendingUp className="h-5 w-5 mr-2 text-blue-600 dark:text-blue-400" />
+                {t('script.analysis_scores')}
               </h2>
               <ResponsiveContainer width="100%" height={350}>
                 <BarChart data={chartData} margin={{ top: 20, right: 30, left: 20, bottom: 60 }}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />
+                  <CartesianGrid strokeDasharray="3 3" className="stroke-gray-200 dark:stroke-gray-700" />
                   <XAxis
                     dataKey="category"
                     angle={-45}
                     textAnchor="end"
                     height={100}
-                    tick={{ fill: '#4b5563', fontSize: 12 }}
+                    className="fill-gray-600 dark:fill-gray-400"
+                    tick={{ fontSize: 12 }}
                   />
                   <YAxis
-                    label={{ value: 'Score (%)', angle: -90, position: 'insideLeft' }}
-                    tick={{ fill: '#4b5563' }}
+                    label={{ value: t('scene.score_label'), angle: -90, position: 'insideLeft', className: 'fill-gray-600 dark:fill-gray-400' }}
+                    className="fill-gray-600 dark:fill-gray-400"
                   />
                   <Tooltip
                     contentStyle={{
-                      backgroundColor: '#fff',
-                      border: '1px solid #e5e7eb',
+                      backgroundColor: 'var(--tooltip-bg, #fff)',
+                      border: '1px solid var(--tooltip-border, #e5e7eb)',
                       borderRadius: '8px',
                       boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)'
                     }}
+                    wrapperClassName="dark:[--tooltip-bg:#1f2937] dark:[--tooltip-border:#374151]"
                   />
                   <Legend />
                   <Bar dataKey="score" radius={[8, 8, 0, 0]}>
@@ -188,59 +192,59 @@ export default function ScriptDetail() {
 
             {script.scenes && script.scenes.length > 0 && (
               <div className="px-6 py-6">
-                <h2 className="text-lg font-semibold text-gray-900 mb-4 flex items-center">
-                  <AlertCircle className="h-5 w-5 mr-2 text-red-500" />
-                  High-Impact Scenes
+                <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-4 flex items-center">
+                  <AlertCircle className="h-5 w-5 mr-2 text-red-500 dark:text-red-400" />
+                  {t('script.high_impact_scenes')}
                 </h2>
                 <div className="space-y-4">
                   {script.scenes.map((scene, idx) => (
-                    <div key={scene.id} className="bg-gradient-to-br from-gray-50 to-gray-100 rounded-xl p-5 border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
+                    <div key={scene.id} className="bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-850 rounded-xl p-5 border border-gray-200 dark:border-gray-700 shadow-sm hover:shadow-md dark:shadow-gray-900/50 transition-shadow">
                       <div className="flex justify-between items-start mb-3">
                         <div className="flex items-center gap-2">
-                          <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-red-100 text-red-700 text-sm font-bold">
+                          <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-400 text-sm font-bold">
                             {idx + 1}
                           </span>
-                          <h3 className="font-semibold text-gray-900">{scene.heading}</h3>
+                          <h3 className="font-semibold text-gray-900 dark:text-white">{scene.heading}</h3>
                         </div>
-                        <span className="px-3 py-1 text-sm font-semibold text-red-700 bg-red-100 rounded-full">
-                          Impact: {scene.weight}
+                        <span className="px-3 py-1 text-sm font-semibold text-red-700 dark:text-red-400 bg-red-100 dark:bg-red-900/30 rounded-full">
+                          {t('script.impact')}: {scene.weight}
                         </span>
                       </div>
 
                       <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-3">
-                        <div className="bg-white rounded-lg p-2 text-center border border-gray-200">
-                          <div className="text-xs text-gray-500 mb-1">Violence</div>
-                          <div className="text-sm font-bold text-gray-900">{(scene.violence * 100).toFixed(0)}%</div>
+                        <div className="bg-white dark:bg-gray-900/50 rounded-lg p-2 text-center border border-gray-200 dark:border-gray-700">
+                          <div className="text-xs text-gray-500 dark:text-gray-400 mb-1">{t('category.violence')}</div>
+                          <div className="text-sm font-bold text-gray-900 dark:text-white">{(scene.violence * 100).toFixed(0)}%</div>
                         </div>
-                        <div className="bg-white rounded-lg p-2 text-center border border-gray-200">
-                          <div className="text-xs text-gray-500 mb-1">Gore</div>
-                          <div className="text-sm font-bold text-gray-900">{(scene.gore * 100).toFixed(0)}%</div>
+                        <div className="bg-white dark:bg-gray-900/50 rounded-lg p-2 text-center border border-gray-200 dark:border-gray-700">
+                          <div className="text-xs text-gray-500 dark:text-gray-400 mb-1">{t('category.gore')}</div>
+                          <div className="text-sm font-bold text-gray-900 dark:text-white">{(scene.gore * 100).toFixed(0)}%</div>
                         </div>
-                        <div className="bg-white rounded-lg p-2 text-center border border-gray-200">
-                          <div className="text-xs text-gray-500 mb-1">Sexual</div>
-                          <div className="text-sm font-bold text-gray-900">{(scene.sex_act * 100).toFixed(0)}%</div>
+                        <div className="bg-white dark:bg-gray-900/50 rounded-lg p-2 text-center border border-gray-200 dark:border-gray-700">
+                          <div className="text-xs text-gray-500 dark:text-gray-400 mb-1">{t('category.sexual')}</div>
+                          <div className="text-sm font-bold text-gray-900 dark:text-white">{(scene.sex_act * 100).toFixed(0)}%</div>
                         </div>
-                        <div className="bg-white rounded-lg p-2 text-center border border-gray-200">
-                          <div className="text-xs text-gray-500 mb-1">Profanity</div>
-                          <div className="text-sm font-bold text-gray-900">{(scene.profanity * 100).toFixed(0)}%</div>
+                        <div className="bg-white dark:bg-gray-900/50 rounded-lg p-2 text-center border border-gray-200 dark:border-gray-700">
+                          <div className="text-xs text-gray-500 dark:text-gray-400 mb-1">{t('category.profanity')}</div>
+                          <div className="text-sm font-bold text-gray-900 dark:text-white">{(scene.profanity * 100).toFixed(0)}%</div>
                         </div>
                       </div>
 
                       {scene.sample_text && (
-                        <div className="bg-white rounded-lg p-3 mb-3 border border-gray-200">
-                          <p className="text-sm text-gray-700 line-clamp-3">
+                        <div className="bg-white dark:bg-gray-900/50 rounded-lg p-3 mb-3 border border-gray-200 dark:border-gray-700">
+                          <p className="text-sm text-gray-700 dark:text-gray-300 line-clamp-3">
                             {scene.sample_text}
                           </p>
                         </div>
                       )}
 
                       {scene.recommendations && scene.recommendations.length > 0 && (
-                        <div className="bg-blue-50 rounded-lg p-3 border border-blue-200">
+                        <div className="bg-blue-50 dark:bg-blue-900/20 rounded-lg p-3 border border-blue-200 dark:border-blue-800">
                           <div className="flex items-start gap-2">
-                            <Lightbulb className="h-5 w-5 text-blue-600 flex-shrink-0 mt-0.5" />
+                            <Lightbulb className="h-5 w-5 text-blue-600 dark:text-blue-400 flex-shrink-0 mt-0.5" />
                             <div className="flex-1">
-                              <h4 className="text-sm font-semibold text-blue-900 mb-2">Recommendations</h4>
-                              <ul className="space-y-1 text-sm text-blue-800">
+                              <h4 className="text-sm font-semibold text-blue-900 dark:text-blue-300 mb-2">{t('scene.recommendations')}</h4>
+                              <ul className="space-y-1 text-sm text-blue-800 dark:text-blue-300">
                                 {scene.recommendations.map((rec, recIdx) => (
                                   <li key={recIdx} className="flex items-start">
                                     <span className="mr-2">•</span>

@@ -12,3 +12,28 @@ body {
   margin: 0;
   min-height: 100vh;
 }
+
+@layer utilities {
+  .animate-in {
+    animation: fadeIn 0.3s ease-in-out;
+  }
+
+  .fade-in {
+    animation: fadeIn 0.5s ease-in-out;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+* {
+  @apply transition-colors duration-200;
+}
