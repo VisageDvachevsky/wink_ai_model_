@@ -148,7 +148,7 @@ def count_matches(regex_list, text):
 
 
 def parse_script_to_scenes(txt: str) -> List[Dict[str, Any]]:
-    scenes = []
+    scenes: list[Dict[str, Any]] = []
     parts = re.split(
         r"(?=(?:INT\.|EXT\.|scene_heading\s*:|SCENE HEADING\s*:))", txt, flags=re.I
     )

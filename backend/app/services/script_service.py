@@ -27,7 +27,7 @@ class ScriptService:
             .options(selectinload(Script.scenes))
             .where(Script.id == script_id)
         )
-        return result.scalar_one_or_none()
+        return result.scalar_one_or_none()  # type: ignore[no-any-return]
 
     @staticmethod
     async def list_scripts(
@@ -47,7 +47,7 @@ class ScriptService:
         logger.info(f"Processing rating for script {script_id}")
 
         result = await ml_client.rate_script(
-            text=script.content, script_id=str(script.id)
+            text=str(script.content), script_id=str(script.id)
         )
 
         script.predicted_rating = result["predicted_rating"]
@@ -81,7 +81,7 @@ class ScriptService:
         db.add(rating_log)
 
         await db.commit()
-        await db.refresh(script)
+        await db.refresh(script, ["scenes", "ratings"])
 
         logger.info(
             f"Rating completed for script {script_id}: {result['predicted_rating']}"

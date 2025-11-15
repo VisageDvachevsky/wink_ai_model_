@@ -64,7 +64,7 @@ async def health(db: AsyncSession = Depends(get_db)):
     try:
         redis_settings = settings.get_arq_settings()
         redis_client = redis.Redis(
-            host=redis_settings.host,
+            host=str(redis_settings.host),
             port=redis_settings.port,
             db=redis_settings.database,
         )
