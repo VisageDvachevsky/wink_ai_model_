@@ -34,7 +34,43 @@ export default function ScriptDetail() {
   const [showWhatIfModal, setShowWhatIfModal] = useState(false)
   const [showRatingAdvisor, setShowRatingAdvisor] = useState(false)
   const [showVersionHistory, setShowVersionHistory] = useState(false)
+  const [downloading, setDownloading] = useState<string | null>(null)
   const { language, t } = useLanguage()
+
+  const handleDownload = async (format: 'pdf' | 'excel' | 'csv') => {
+    if (!id) return
+
+    setDownloading(format)
+    try {
+      const response = await fetch(`/api/v1/scripts/${id}/export/${format}`, {
+        method: 'GET',
+        headers: {
+          'Accept': format === 'pdf' ? 'application/pdf' :
+                    format === 'excel' ? 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' :
+                    'text/csv',
+        },
+      })
+
+      if (!response.ok) {
+        throw new Error('Download failed')
+      }
+
+      const blob = await response.blob()
+      const url = window.URL.createObjectURL(blob)
+      const a = document.createElement('a')
+      a.href = url
+      a.download = `rating_report_${id}.${format === 'excel' ? 'xlsx' : format}`
+      document.body.appendChild(a)
+      a.click()
+      window.URL.revokeObjectURL(url)
+      document.body.removeChild(a)
+    } catch (error) {
+      console.error('Download error:', error)
+      alert('Failed to download file')
+    } finally {
+      setDownloading(null)
+    }
+  }
 
   const { data: script, isLoading, error } = useQuery({
     queryKey: ['script', id],
@@ -129,30 +165,42 @@ export default function ScriptDetail() {
                   </span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <a
-                    href={`/api/v1/scripts/${id}/export/pdf`}
-                    download
-                    className="inline-flex items-center px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-xs font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
+                  <button
+                    onClick={() => handleDownload('pdf')}
+                    disabled={downloading !== null}
+                    className="inline-flex items-center px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-xs font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
                   >
-                    <Download className="h-3 w-3 mr-1.5" />
+                    {downloading === 'pdf' ? (
+                      <Loader2 className="h-3 w-3 mr-1.5 animate-spin" />
+                    ) : (
+                      <Download className="h-3 w-3 mr-1.5" />
+                    )}
                     PDF
-                  </a>
-                  <a
-                    href={`/api/v1/scripts/${id}/export/excel`}
-                    download
-                    className="inline-flex items-center px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-xs font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
+                  </button>
+                  <button
+                    onClick={() => handleDownload('excel')}
+                    disabled={downloading !== null}
+                    className="inline-flex items-center px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-xs font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
                   >
-                    <FileSpreadsheet className="h-3 w-3 mr-1.5" />
+                    {downloading === 'excel' ? (
+                      <Loader2 className="h-3 w-3 mr-1.5 animate-spin" />
+                    ) : (
+                      <FileSpreadsheet className="h-3 w-3 mr-1.5" />
+                    )}
                     Excel
-                  </a>
-                  <a
-                    href={`/api/v1/scripts/${id}/export/csv`}
-                    download
-                    className="inline-flex items-center px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-xs font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
+                  </button>
+                  <button
+                    onClick={() => handleDownload('csv')}
+                    disabled={downloading !== null}
+                    className="inline-flex items-center px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-xs font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
                   >
-                    <FileCode2 className="h-3 w-3 mr-1.5" />
+                    {downloading === 'csv' ? (
+                      <Loader2 className="h-3 w-3 mr-1.5 animate-spin" />
+                    ) : (
+                      <FileCode2 className="h-3 w-3 mr-1.5" />
+                    )}
                     CSV
-                  </a>
+                  </button>
                 </div>
                 {script.reasons && script.reasons.length > 0 && (
                   <div className="text-right text-sm text-gray-600 dark:text-gray-400 max-w-xs">

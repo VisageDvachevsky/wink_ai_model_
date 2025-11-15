@@ -32,6 +32,7 @@ class ScriptResponse(BaseModel):
     agg_scores: dict | None
     model_version: str | None
     total_scenes: int | None
+    current_version: int | None = 1
     created_at: datetime
     updated_at: datetime | None
 
@@ -40,6 +41,7 @@ class ScriptResponse(BaseModel):
 
 
 class ScriptDetailResponse(ScriptResponse):
+    content: str
     scenes: list[SceneResponse] = []
 
 
