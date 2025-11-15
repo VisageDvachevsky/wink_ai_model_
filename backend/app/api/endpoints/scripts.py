@@ -7,8 +7,11 @@ from ...schemas.script import (
     ScriptResponse,
     ScriptDetailResponse,
     RatingJobResponse,
+    WhatIfRequest,
+    WhatIfResponse,
 )
 from ...services.script_service import script_service
+from ...services.ml_client import ml_client
 from ...services.queue import enqueue_rating_job, get_job_status
 from ...core.exceptions import (
     ScriptNotFoundError,
@@ -105,3 +108,21 @@ async def rate_script(
 async def get_rating_job_status(job_id: str):
     status = await get_job_status(job_id)
     return status
+
+
+@router.post("/{script_id}/what-if", response_model=WhatIfResponse)
+async def what_if_analysis(
+    script_id: int,
+    request: WhatIfRequest,
+    db: AsyncSession = Depends(get_db)
+):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    result = await ml_client.what_if_analysis(
+        script_text=str(script.content),
+        modification_request=request.modification_request
+    )
+
+    return WhatIfResponse(**result)
