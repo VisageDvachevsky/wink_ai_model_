@@ -451,7 +451,10 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str
     matches = []
     count = 0
     for pattern in patterns:
-        regex = re.compile(pattern, re.I)
+        if isinstance(pattern, re.Pattern):
+            regex = pattern
+        else:
+            regex = re.compile(pattern, re.I)
         found = regex.finditer(text)
         for match in found:
             # извлекаем контекст вокруг совпадения (50 символов до и после)
@@ -778,73 +781,75 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
     excerpts = []
     rating = "0+"
 
+    agg_excerpts = agg.get("excerpts", {})
+
     # 18+ - эксплицитный контент (только для крайне графичного контента)
     if agg["sex_act"] >= 0.75 or agg["gore"] >= 0.95:
         rating = "18+"
         if agg["sex_act"] >= 0.75:
             reasons.append("эксплицитные сцены сексуального характера")
-            if agg["excerpts"]["sex"]:
-                excerpts.extend(agg["excerpts"]["sex"][:2])
+            if agg_excerpts.get("sex"):
+                excerpts.extend(agg_excerpts["sex"][:2])
         if agg["gore"] >= 0.95:
             reasons.append("крайне графическое изображение жестокости и увечий")
-            if agg["excerpts"]["gore"]:
-                excerpts.extend(agg["excerpts"]["gore"][:2])
+            if agg_excerpts.get("gore"):
+                excerpts.extend(agg_excerpts["gore"][:2])
 
     # 18+ - дети в опасности с насилием
-    elif agg["child_risk"] > 0.7 and (agg["sex_act"] >= 0.5 or agg["violence"] >= 0.8):
+    elif agg.get("child_risk", 0) > 0.7 and (agg["sex_act"] >= 0.5 or agg["violence"] >= 0.8):
         rating = "18+"
         reasons.append("опасные или жестокие сцены с участием несовершеннолетних")
-        if agg["excerpts"]["violence"]:
-            excerpts.extend(agg["excerpts"]["violence"][:2])
+        if agg_excerpts.get("violence"):
+            excerpts.extend(agg_excerpts["violence"][:2])
 
     # 16+ - интенсивное насилие с кровью
     elif (agg["violence"] >= 0.8 and agg["gore"] >= 0.7) or agg["gore"] >= 0.75:
         rating = "16+"
         reasons.append("интенсивное графическое насилие с кровью и увечьями")
-        if agg["excerpts"]["violence"]:
-            excerpts.extend(agg["excerpts"]["violence"][:2])
-        if agg["excerpts"]["gore"]:
-            excerpts.extend(agg["excerpts"]["gore"][:1])
+        if agg_excerpts.get("violence"):
+            excerpts.extend(agg_excerpts["violence"][:2])
+        if agg_excerpts.get("gore"):
+            excerpts.extend(agg_excerpts["gore"][:1])
 
     # 16+ - явное насилие
     elif agg["violence"] >= 0.65 or agg["gore"] >= 0.5:
         rating = "16+"
         if agg["violence"] >= 0.65:
             reasons.append("интенсивное насилие и сцены убийств")
-            if agg["excerpts"]["violence"]:
-                excerpts.extend(agg["excerpts"]["violence"][:2])
+            if agg_excerpts.get("violence"):
+                excerpts.extend(agg_excerpts["violence"][:2])
         if agg["gore"] >= 0.5:
             reasons.append("изображение крови и телесных повреждений")
-            if agg["excerpts"]["gore"]:
-                excerpts.extend(agg["excerpts"]["gore"][:2])
+            if agg_excerpts.get("gore"):
+                excerpts.extend(agg_excerpts["gore"][:2])
 
     # 16+ - сексуальный контент средней степени
     elif agg["sex_act"] >= 0.35 or agg["nudity"] >= 0.4:
         rating = "16+"
         reasons.append("сексуальный контент и нагота")
-        if agg["excerpts"]["sex"]:
-            excerpts.extend(agg["excerpts"]["sex"][:2])
-        if agg["excerpts"]["nudity"]:
-            excerpts.extend(agg["excerpts"]["nudity"][:2])
+        if agg_excerpts.get("sex"):
+            excerpts.extend(agg_excerpts["sex"][:2])
+        if agg_excerpts.get("nudity"):
+            excerpts.extend(agg_excerpts["nudity"][:2])
 
     # 12+ - умеренный контент
-    elif agg["violence"] >= 0.4 or agg["profanity"] >= 0.5 or agg["drugs"] >= 0.4:
+    elif agg["violence"] >= 0.3 or agg["profanity"] >= 0.4 or agg["drugs"] >= 0.3:
         rating = "12+"
-        if agg["violence"] >= 0.4:
+        if agg["violence"] >= 0.3:
             reasons.append("умеренное насилие и угрозы")
-            if agg["excerpts"]["violence"]:
-                excerpts.extend(agg["excerpts"]["violence"][:1])
-        if agg["profanity"] >= 0.5:
+            if agg_excerpts.get("violence"):
+                excerpts.extend(agg_excerpts["violence"][:1])
+        if agg["profanity"] >= 0.4:
             reasons.append("ненормативная лексика")
-            if agg["excerpts"]["profanity"]:
-                excerpts.extend(agg["excerpts"]["profanity"][:1])
-        if agg["drugs"] >= 0.4:
+            if agg_excerpts.get("profanity"):
+                excerpts.extend(agg_excerpts["profanity"][:1])
+        if agg["drugs"] >= 0.3:
             reasons.append("употребление алкоголя, табака или наркотиков")
-            if agg["excerpts"]["drugs"]:
-                excerpts.extend(agg["excerpts"]["drugs"][:1])
+            if agg_excerpts.get("drugs"):
+                excerpts.extend(agg_excerpts["drugs"][:1])
 
     # 6+ - минимальный контент
-    elif agg["violence"] >= 0.2 or agg["profanity"] >= 0.3:
+    elif agg["violence"] >= 0.1 or agg["profanity"] >= 0.1:
         rating = "6+"
         reasons.append("незначительное насилие или редкая грубая лексика")
 
@@ -876,7 +881,7 @@ def parse_script_to_scenes(txt: str) -> List[Dict[str, Any]]:
     idx = 0
     for p in parts:
         text = p.strip()
-        if not text or len(text) < 20:  # пропускаем очень короткие фрагменты
+        if not text:
             continue
 
         # поддержка русских и английских маркеров сцен
@@ -889,8 +894,8 @@ def parse_script_to_scenes(txt: str) -> List[Dict[str, Any]]:
         idx += 1
 
     # если не нашли сцен, обрабатываем весь текст как одну сцену
-    if len(scenes) < 3:
-        scenes = [{"scene_id": 0, "heading": "full_script", "text": txt}]
+    if len(scenes) == 0:
+        scenes = [{"scene_id": 0, "heading": "full_text", "text": txt}]
 
     return scenes
 

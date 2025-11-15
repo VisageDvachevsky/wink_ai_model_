@@ -1,17 +1,39 @@
 from pathlib import Path
-from typing import Dict, Any
+from typing import Dict, Any, List
 from loguru import logger
 import tempfile
 
 from .config import settings
 from .metrics import MetricsTracker
 from .structured_logger import log_feature_scores
-from .repair_pipeline import analyze_script_file
+from .repair_pipeline import (
+    analyze_script_file,
+    parse_script_to_scenes as _parse_script_to_scenes,
+    scene_feature_vector as _scene_feature_vector,
+    normalize_scene_scores as _normalize_scene_scores,
+    map_scores_to_rating as _map_scores_to_rating,
+)
 
 
 class RatingPipeline:
     def __init__(self):
         logger.info("Rating pipeline initialized")
+
+    def parse_script_to_scenes(self, text: str) -> List[Dict[str, Any]]:
+        """Parse script into scenes."""
+        return _parse_script_to_scenes(text)
+
+    def scene_feature_vector(self, text: str) -> Dict[str, Any]:
+        """Extract feature vector from scene text."""
+        return _scene_feature_vector(text)
+
+    def normalize_scene_scores(self, features: Dict[str, Any]) -> Dict[str, float]:
+        """Normalize scene feature scores."""
+        return _normalize_scene_scores(features)
+
+    def map_scores_to_rating(self, agg: Dict[str, Any]) -> Dict[str, Any]:
+        """Map aggregated scores to age rating."""
+        return _map_scores_to_rating(agg)
 
     def analyze_script(self, text: str, script_id: str | None = None) -> Dict[str, Any]:
         logger.info(f"Analyzing script (id={script_id})")
