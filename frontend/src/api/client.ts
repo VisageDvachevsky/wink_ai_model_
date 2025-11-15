@@ -61,6 +61,16 @@ export interface RatingJob {
   message: string
 }
 
+export interface WhatIfResponse {
+  original_rating: string
+  modified_rating: string
+  original_scores: Record<string, number>
+  modified_scores: Record<string, number>
+  changes_applied: string[]
+  explanation: string
+  rating_changed: boolean
+}
+
 export const scriptsApi = {
   list: async (): Promise<Script[]> => {
     const { data } = await apiClient.get('/scripts/')
@@ -95,6 +105,14 @@ export const scriptsApi = {
 
   jobStatus: async (jobId: string) => {
     const { data } = await apiClient.get(`/scripts/jobs/${jobId}/status`)
+    return data
+  },
+
+  whatIf: async (id: number, modificationRequest: string): Promise<WhatIfResponse> => {
+    const { data } = await apiClient.post(`/scripts/${id}/what-if`, {
+      script_id: id,
+      modification_request: modificationRequest
+    })
     return data
   },
 }

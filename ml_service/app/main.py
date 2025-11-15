@@ -2,8 +2,9 @@ from fastapi import FastAPI, HTTPException, Response
 from fastapi.middleware.cors import CORSMiddleware
 from loguru import logger
 
-from .schemas import ScriptRequest, ScriptRatingResponse, HealthResponse
+from .schemas import ScriptRequest, ScriptRatingResponse, HealthResponse, WhatIfRequest, WhatIfResponse
 from .pipeline import get_pipeline
+from .what_if import get_what_if_analyzer
 from .config import settings
 from .metrics import get_metrics, track_inference_time
 from .structured_logger import setup_structured_logging
@@ -59,6 +60,21 @@ async def metrics():
     return Response(content=get_metrics(), media_type="text/plain")
 
 
+@app.post("/what_if", response_model=WhatIfResponse)
+@track_inference_time("what_if")
+async def what_if_simulation(request: WhatIfRequest):
+    try:
+        analyzer = get_what_if_analyzer()
+        result = analyzer.simulate_what_if(
+            request.script_text,
+            request.modification_request
+        )
+        return WhatIfResponse(**result)
+    except Exception as e:
+        logger.error(f"Error processing what-if request: {e}")
+        raise HTTPException(status_code=500, detail=f"Processing error: {str(e)}")
+
+
 @app.get("/")
 async def root():
     return {
@@ -67,6 +83,7 @@ async def root():
         "endpoints": {
             "health": "/health",
             "rate_script": "/rate_script",
+            "what_if": "/what_if",
             "metrics": "/metrics",
             "docs": "/docs",
         },

@@ -1,8 +1,10 @@
+import { useState } from 'react'
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { useParams } from 'react-router-dom'
 import { scriptsApi } from '../api/client'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts'
-import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote } from 'lucide-react'
+import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles } from 'lucide-react'
+import WhatIfModal from './WhatIfModal'
 
 const RATING_COLORS: Record<string, string> = {
   '0+': 'bg-green-100 text-green-800 border-green-200',
@@ -25,6 +27,7 @@ const CATEGORY_COLORS: Record<string, string> = {
 export default function ScriptDetail() {
   const { id } = useParams<{ id: string }>()
   const queryClient = useQueryClient()
+  const [showWhatIfModal, setShowWhatIfModal] = useState(false)
 
   const { data: script, isLoading, error } = useQuery({
     queryKey: ['script', id],
@@ -91,10 +94,19 @@ export default function ScriptDetail() {
               </div>
             </div>
             {script.predicted_rating ? (
-              <div className="flex flex-col items-end gap-2">
-                <span className={`inline-flex items-center px-6 py-3 rounded-xl text-2xl font-bold border-2 ${ratingColor} shadow-sm`}>
-                  {script.predicted_rating}
-                </span>
+              <div className="flex flex-col items-end gap-3">
+                <div className="flex items-center gap-3">
+                  <button
+                    onClick={() => setShowWhatIfModal(true)}
+                    className="inline-flex items-center px-4 py-2 border border-purple-300 rounded-lg text-sm font-medium text-purple-700 bg-purple-50 hover:bg-purple-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 transition-all"
+                  >
+                    <Sparkles className="h-4 w-4 mr-2" />
+                    What-If Simulator
+                  </button>
+                  <span className={`inline-flex items-center px-6 py-3 rounded-xl text-2xl font-bold border-2 ${ratingColor} shadow-sm`}>
+                    {script.predicted_rating}
+                  </span>
+                </div>
                 {script.reasons && script.reasons.length > 0 && (
                   <div className="text-right text-sm text-gray-600 max-w-xs">
                     {script.reasons.join(', ')}
@@ -248,6 +260,14 @@ export default function ScriptDetail() {
           </>
         )}
       </div>
+
+      {showWhatIfModal && script.predicted_rating && (
+        <WhatIfModal
+          scriptId={Number(id)}
+          currentRating={script.predicted_rating}
+          onClose={() => setShowWhatIfModal(false)}
+        />
+      )}
     </div>
   )
 }
