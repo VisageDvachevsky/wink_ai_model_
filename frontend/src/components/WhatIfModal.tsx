@@ -1,11 +1,12 @@
 import { useState } from 'react'
 import { useMutation } from '@tanstack/react-query'
-import { scriptsApi, WhatIfResponse } from '../api/client'
+import { scriptsApi, WhatIfResponse, AdvancedWhatIfResponse, ModificationConfig } from '../api/client'
 import { X, Sparkles, TrendingUp, TrendingDown, Minus, Lightbulb, Loader2 } from 'lucide-react'
 import { useLanguage } from '../contexts/LanguageContext'
 
 interface WhatIfModalProps {
   scriptId: number
+  scriptText: string
   currentRating: string | null
   onClose: () => void
 }
@@ -29,14 +30,54 @@ const EXAMPLE_QUERIES = [
   'remove all profanity',
 ]
 
-export default function WhatIfModal({ scriptId, currentRating, onClose }: WhatIfModalProps) {
+const parseQueryToModifications = (query: string): ModificationConfig[] => {
+  const mods: ModificationConfig[] = []
+  const lower = query.toLowerCase()
+
+  const sceneMatch = lower.match(/(?:убрать|удалить|remove|delete)\s+сцен[уыи]?\s+(\d+)(?:\s*[-–—]\s*(\d+))?/i)
+  if (sceneMatch) {
+    const start = parseInt(sceneMatch[1])
+    const end = sceneMatch[2] ? parseInt(sceneMatch[2]) : start
+    const sceneIds = Array.from({ length: end - start + 1 }, (_, i) => start + i)
+    mods.push({ type: 'remove_scenes', params: { scene_ids: sceneIds } })
+  }
+
+  if (/(смягчить|убрать|reduce|remove).*(насилие|драк|бой|violence|fight)/i.test(lower)) {
+    mods.push({ type: 'reduce_violence', params: { content_types: ['violence', 'gore'] } })
+  }
+
+  if (/(убрать|удалить|remove).*(мат|ненормативн|profanity|swear)/i.test(lower)) {
+    mods.push({ type: 'reduce_profanity', params: { content_types: ['profanity'] } })
+  }
+
+  if (/(без|убрать|remove).*(кров|gore|blood)/i.test(lower)) {
+    mods.push({ type: 'reduce_gore', params: { content_types: ['gore'] } })
+  }
+
+  if (/(без|убрать|remove).*(наркотик|drug)/i.test(lower)) {
+    mods.push({ type: 'reduce_drugs', params: { content_types: ['drugs'] } })
+  }
+
+  if (/(без|убрать|remove).*(секс|sexual|nude)/i.test(lower)) {
+    mods.push({ type: 'reduce_sexual', params: { content_types: ['sexual'] } })
+  }
+
+  return mods
+}
+
+export default function WhatIfModal({ scriptId, scriptText, currentRating, onClose }: WhatIfModalProps) {
   const [query, setQuery] = useState('')
-  const [result, setResult] = useState<WhatIfResponse | null>(null)
+  const [result, setResult] = useState<AdvancedWhatIfResponse | null>(null)
   const { t } = useLanguage()
 
   const whatIfMutation = useMutation({
-    mutationFn: (modificationRequest: string) =>
-      scriptsApi.whatIf(scriptId, modificationRequest),
+    mutationFn: async (modificationRequest: string) => {
+      const modifications = parseQueryToModifications(modificationRequest)
+      if (modifications.length === 0) {
+        throw new Error('Не удалось распознать модификации. Попробуйте другой запрос.')
+      }
+      return scriptsApi.whatIfAdvanced(scriptText, modifications)
+    },
     onSuccess: (data) => {
       setResult(data)
     },
@@ -187,14 +228,28 @@ export default function WhatIfModal({ scriptId, currentRating, onClose }: WhatIf
                 )}
               </div>
 
-              {result.changes_applied.length > 0 && (
+              {result.modifications_applied.length > 0 && (
                 <div className="bg-blue-50 dark:bg-blue-900/20 rounded-xl p-5 border border-blue-200 dark:border-blue-800">
                   <h4 className="font-semibold text-blue-900 dark:text-blue-300 mb-3">{t('whatif.applied_changes')}</h4>
                   <ul className="space-y-2">
-                    {result.changes_applied.map((change, idx) => (
+                    {result.modifications_applied.map((mod, idx) => (
                       <li key={idx} className="flex items-start gap-2 text-sm text-blue-800 dark:text-blue-300">
                         <span className="text-blue-600 dark:text-blue-400 mt-0.5">•</span>
-                        <span>{change}</span>
+                        <div>
+                          <div className="font-medium">{mod.type}</div>
+                          {mod.metadata && (
+                            <div className="text-xs text-blue-700 dark:text-blue-400 mt-1">
+                              {Object.entries(mod.metadata).map(([key, val]) => (
+                                <span key={key} className="mr-2">
+                                  {key}: {typeof val === 'object' ? JSON.stringify(val) : String(val)}
+                                </span>
+                              ))}
+                            </div>
+                          )}
+                          {mod.error && (
+                            <div className="text-xs text-red-600 dark:text-red-400 mt-1">Error: {mod.error}</div>
+                          )}
+                        </div>
                       </li>
                     ))}
                   </ul>
