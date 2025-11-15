@@ -796,7 +796,9 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
                 excerpts.extend(agg_excerpts["gore"][:2])
 
     # 18+ - дети в опасности с насилием
-    elif agg.get("child_risk", 0) > 0.7 and (agg["sex_act"] >= 0.5 or agg["violence"] >= 0.8):
+    elif agg.get("child_risk", 0) > 0.7 and (
+        agg["sex_act"] >= 0.5 or agg["violence"] >= 0.8
+    ):
         rating = "18+"
         reasons.append("опасные или жестокие сцены с участием несовершеннолетних")
         if agg_excerpts.get("violence"):
