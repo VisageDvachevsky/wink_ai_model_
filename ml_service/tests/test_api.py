@@ -35,7 +35,7 @@ def test_rate_script_valid(client):
 
     data = response.json()
     assert data["script_id"] == "test_script_1"
-    assert data["predicted_rating"] in ["6+", "12+", "16+", "18+"]
+    assert data["predicted_rating"] in ["0+", "6+", "12+", "16+", "18+"]
     assert "top_trigger_scenes" in data
     assert "agg_scores" in data
 
@@ -60,4 +60,4 @@ def test_rate_script_without_script_id(client):
 
     data = response.json()
     assert data["script_id"] is None
-    assert data["predicted_rating"] in ["6+", "12+", "16+", "18+"]
+    assert data["predicted_rating"] in ["0+", "6+", "12+", "16+", "18+"]

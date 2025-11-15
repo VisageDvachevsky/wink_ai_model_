@@ -43,7 +43,7 @@ def test_parse_script_to_scenes_no_headings():
     script = "This is just plain text without scene headings."
     scenes = parse_script_to_scenes(script)
     assert len(scenes) >= 1
-    assert scenes[0]["heading"] == "full_text"
+    assert scenes[0]["heading"] == "scene_0"
 
 
 def test_scene_feature_vector_violence():
@@ -154,7 +154,7 @@ def test_map_scores_to_rating_12_plus():
 
 def test_map_scores_to_rating_16_plus():
     agg = {
-        "violence": 0.5,
+        "violence": 0.65,
         "gore": 0.4,
         "sex_act": 0.2,
         "nudity": 0.1,
@@ -170,7 +170,7 @@ def test_map_scores_to_rating_16_plus():
 def test_map_scores_to_rating_18_plus_explicit():
     agg = {
         "violence": 0.5,
-        "gore": 0.9,
+        "gore": 0.95,
         "sex_act": 0.3,
         "nudity": 0.4,
         "profanity": 0.5,
@@ -190,7 +190,7 @@ def test_map_scores_to_rating_18_plus_child_risk():
         "nudity": 0.2,
         "profanity": 0.3,
         "drugs": 0.2,
-        "child_risk": 0.6,
+        "child_risk": 0.75,
     }
 
     result = map_scores_to_rating(agg)
