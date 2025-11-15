@@ -62,7 +62,7 @@ class VersionService:
             change_description=change_description,
             is_current=make_current,
             scenes_data=scenes_data,
-            metadata={
+            version_metadata={
                 "model_version": script.model_version,
                 "created_from": "manual_save",
             },
