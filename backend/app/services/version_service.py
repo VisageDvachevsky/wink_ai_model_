@@ -1,6 +1,7 @@
-from typing import List, Dict, Any, Optional, cast
+from typing import List, Dict, Any, Optional
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, and_, desc
+from sqlalchemy.engine import Result
 import difflib
 
 from ..models.script import Script, ScriptVersion, Scene
@@ -102,7 +103,7 @@ class VersionService:
     async def get_version(
         db: AsyncSession, script_id: int, version_number: int
     ) -> Optional[ScriptVersion]:
-        result = await db.execute(
+        result: Result[tuple[ScriptVersion]] = await db.execute(
             select(ScriptVersion).where(
                 and_(
                     ScriptVersion.script_id == script_id,
@@ -110,7 +111,8 @@ class VersionService:
                 )
             )
         )
-        return cast(Optional[ScriptVersion], result.scalar_one_or_none())
+        version: Optional[ScriptVersion] = result.scalars().one_or_none()
+        return version
 
     @staticmethod
     async def restore_version(
@@ -120,8 +122,8 @@ class VersionService:
         if not version:
             raise ValueError(f"Version {version_number} not found")
 
-        result = await db.execute(select(Script).where(Script.id == script_id))
-        script = result.scalar_one_or_none()
+        result: Result[tuple[Script]] = await db.execute(select(Script).where(Script.id == script_id))
+        script: Optional[Script] = result.scalars().one_or_none()
         if not script:
             raise ValueError(f"Script {script_id} not found")
 
@@ -151,7 +153,7 @@ class VersionService:
         await db.commit()
         await db.refresh(script)
 
-        return cast(Script, script)
+        return script
 
     @staticmethod
     def compare_versions(
