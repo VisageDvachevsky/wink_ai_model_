@@ -1,5 +1,6 @@
 {
   "dashboard": {
+    "uid": "backend-api-metrics",
     "title": "Backend API Metrics",
     "tags": ["backend", "api"],
     "timezone": "browser",

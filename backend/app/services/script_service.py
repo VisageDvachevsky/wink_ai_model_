@@ -12,7 +12,32 @@ from .ml_client import ml_client
 
 class ScriptService:
     @staticmethod
-    async def create_script(db: AsyncSession, script_data: ScriptCreate) -> Script:
+    async def create_script(db: AsyncSession, script_data: ScriptCreate, create_version: bool = True) -> Script:
+        result = await db.execute(
+            select(Script).where(Script.title == script_data.title)
+        )
+        existing_script = result.scalar_one_or_none()
+
+        if existing_script and create_version:
+            from .version_service import VersionService
+
+            existing_script.content = script_data.content
+            existing_script.predicted_rating = None
+            existing_script.agg_scores = None
+            existing_script.total_scenes = None
+
+            await VersionService.create_version(
+                db,
+                existing_script.id,
+                change_description="New version created from upload",
+                make_current=True,
+            )
+
+            await db.commit()
+            await db.refresh(existing_script)
+            logger.info(f"Created new version for script: {existing_script.id}")
+            return existing_script
+
         script = Script(title=script_data.title, content=script_data.content)
         db.add(script)
         await db.commit()

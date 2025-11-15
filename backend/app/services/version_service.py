@@ -69,11 +69,6 @@ class VersionService:
         )
 
         if make_current:
-            await db.execute(
-                select(ScriptVersion).where(
-                    and_(ScriptVersion.script_id == script_id, ScriptVersion.is_current)
-                )
-            )
             result = await db.execute(
                 select(ScriptVersion).where(
                     and_(ScriptVersion.script_id == script_id, ScriptVersion.is_current)
@@ -82,7 +77,7 @@ class VersionService:
             for version in result.scalars():
                 version.is_current = False
 
-            setattr(script, "current_version", new_version_number)
+            script.current_version = new_version_number
 
         db.add(new_version)
         await db.commit()
@@ -143,9 +138,6 @@ class VersionService:
         script.total_scenes = version.total_scenes
         script.current_version = version.version_number
 
-        await db.execute(
-            select(ScriptVersion).where(ScriptVersion.script_id == script_id)
-        )
         result = await db.execute(
             select(ScriptVersion).where(ScriptVersion.script_id == script_id)
         )

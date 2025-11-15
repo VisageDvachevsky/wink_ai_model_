@@ -1,5 +1,6 @@
 {
   "dashboard": {
+    "uid": "ml-service-metrics",
     "title": "ML Service Metrics",
     "tags": ["ml", "rating"],
     "timezone": "browser",
