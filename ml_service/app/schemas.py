@@ -42,3 +42,22 @@ class HealthResponse(BaseModel):
     status: str
     model_version: str
     model_loaded: bool
+
+
+class WhatIfRequest(BaseModel):
+    script_text: str = Field(..., min_length=10, description="Original script text")
+    modification_request: str = Field(
+        ...,
+        min_length=3,
+        description="What-if modification request (e.g., 'remove scene 12-13', 'replace fight with verbal conflict')",
+    )
+
+
+class WhatIfResponse(BaseModel):
+    original_rating: str
+    modified_rating: str
+    original_scores: dict[str, float]
+    modified_scores: dict[str, float]
+    changes_applied: list[str]
+    explanation: str
+    rating_changed: bool

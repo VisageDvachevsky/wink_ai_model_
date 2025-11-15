@@ -58,3 +58,20 @@ class RatingResultResponse(BaseModel):
     top_trigger_scenes: list[SceneResponse]
     model_version: str
     total_scenes: int
+
+
+class WhatIfRequest(BaseModel):
+    script_id: int
+    modification_request: str = Field(
+        ..., min_length=3, description="What-if modification request"
+    )
+
+
+class WhatIfResponse(BaseModel):
+    original_rating: str
+    modified_rating: str
+    original_scores: dict
+    modified_scores: dict
+    changes_applied: list[str]
+    explanation: str
+    rating_changed: bool
