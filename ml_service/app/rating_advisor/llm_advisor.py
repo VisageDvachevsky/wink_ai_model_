@@ -4,7 +4,7 @@ import json
 from openai import OpenAI
 from anthropic import Anthropic
 
-from .schemas import RecommendationAction, SceneIssue
+from .schemas import SceneIssue
 
 
 class LLMRatingAdvisor:

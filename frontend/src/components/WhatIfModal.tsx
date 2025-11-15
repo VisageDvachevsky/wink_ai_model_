@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useMutation } from '@tanstack/react-query'
-import { scriptsApi, WhatIfResponse, AdvancedWhatIfResponse, ModificationConfig } from '../api/client'
+import { scriptsApi, AdvancedWhatIfResponse, ModificationConfig } from '../api/client'
 import { X, Sparkles, TrendingUp, TrendingDown, Minus, Lightbulb, Loader2 } from 'lucide-react'
 import { useLanguage } from '../contexts/LanguageContext'
 
@@ -65,7 +65,7 @@ const parseQueryToModifications = (query: string): ModificationConfig[] => {
   return mods
 }
 
-export default function WhatIfModal({ scriptId, scriptText, currentRating, onClose }: WhatIfModalProps) {
+export default function WhatIfModal({ scriptText, currentRating, onClose }: WhatIfModalProps) {
   const [query, setQuery] = useState('')
   const [result, setResult] = useState<AdvancedWhatIfResponse | null>(null)
   const { t } = useLanguage()

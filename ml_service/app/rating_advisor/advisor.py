@@ -1,6 +1,5 @@
-from typing import List, Dict, Tuple, Optional
+from typing import List, Dict, Tuple
 import numpy as np
-from collections import defaultdict
 import re
 
 from ..pipeline import MovieRatingPipeline

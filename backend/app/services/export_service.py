@@ -1,10 +1,8 @@
 from io import BytesIO, StringIO
 import csv
-from datetime import datetime
 from typing import List, Dict, Any
 from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment, PatternFill
-from openpyxl.chart import BarChart, Reference
 
 from ..models.script import Script, Scene
 
