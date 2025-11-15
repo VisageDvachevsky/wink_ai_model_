@@ -3,9 +3,10 @@ import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { useParams } from 'react-router-dom'
 import { scriptsApi } from '../api/client'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts'
-import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles, Loader2, Target } from 'lucide-react'
+import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles, Loader2, Target, Download, FileSpreadsheet, FileCode2 } from 'lucide-react'
 import WhatIfModal from './WhatIfModal'
 import RatingAdvisor from './RatingAdvisor'
+import SceneHeatmap from './SceneHeatmap'
 import { useLanguage } from '../contexts/LanguageContext'
 
 const RATING_COLORS: Record<string, string> = {
@@ -118,6 +119,32 @@ export default function ScriptDetail() {
                     {script.predicted_rating}
                   </span>
                 </div>
+                <div className="flex items-center gap-2">
+                  <a
+                    href={`/api/v1/scripts/${id}/export/pdf`}
+                    download
+                    className="inline-flex items-center px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-xs font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
+                  >
+                    <Download className="h-3 w-3 mr-1.5" />
+                    PDF
+                  </a>
+                  <a
+                    href={`/api/v1/scripts/${id}/export/excel`}
+                    download
+                    className="inline-flex items-center px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-xs font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
+                  >
+                    <FileSpreadsheet className="h-3 w-3 mr-1.5" />
+                    Excel
+                  </a>
+                  <a
+                    href={`/api/v1/scripts/${id}/export/csv`}
+                    download
+                    className="inline-flex items-center px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-xs font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
+                  >
+                    <FileCode2 className="h-3 w-3 mr-1.5" />
+                    CSV
+                  </a>
+                </div>
                 {script.reasons && script.reasons.length > 0 && (
                   <div className="text-right text-sm text-gray-600 dark:text-gray-400 max-w-xs">
                     {script.reasons.join(', ')}
@@ -198,6 +225,12 @@ export default function ScriptDetail() {
                 </BarChart>
               </ResponsiveContainer>
             </div>
+
+            {script.scenes && script.scenes.length > 0 && (
+              <div className="px-6 py-6">
+                <SceneHeatmap scenes={script.scenes} />
+              </div>
+            )}
 
             {script.scenes && script.scenes.length > 0 && (
               <div className="px-6 py-6">
