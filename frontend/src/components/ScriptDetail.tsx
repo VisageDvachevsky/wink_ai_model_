@@ -3,8 +3,9 @@ import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { useParams } from 'react-router-dom'
 import { scriptsApi } from '../api/client'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts'
-import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles, Loader2 } from 'lucide-react'
+import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles, Loader2, Target } from 'lucide-react'
 import WhatIfModal from './WhatIfModal'
+import RatingAdvisor from './RatingAdvisor'
 import { useLanguage } from '../contexts/LanguageContext'
 
 const RATING_COLORS: Record<string, string> = {
@@ -29,6 +30,7 @@ export default function ScriptDetail() {
   const { id } = useParams<{ id: string }>()
   const queryClient = useQueryClient()
   const [showWhatIfModal, setShowWhatIfModal] = useState(false)
+  const [showRatingAdvisor, setShowRatingAdvisor] = useState(false)
   const { language, t } = useLanguage()
 
   const { data: script, isLoading, error } = useQuery({
@@ -98,6 +100,13 @@ export default function ScriptDetail() {
             {script.predicted_rating ? (
               <div className="flex flex-col items-end gap-3">
                 <div className="flex items-center gap-3">
+                  <button
+                    onClick={() => setShowRatingAdvisor(true)}
+                    className="inline-flex items-center px-4 py-2 border border-indigo-300 dark:border-indigo-600 rounded-lg text-sm font-medium text-indigo-700 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-900/30 hover:bg-indigo-100 dark:hover:bg-indigo-900/50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 dark:focus:ring-indigo-600 transition-all"
+                  >
+                    <Target className="h-4 w-4 mr-2" />
+                    {language === 'ru' ? 'AI Советник' : 'AI Advisor'}
+                  </button>
                   <button
                     onClick={() => setShowWhatIfModal(true)}
                     className="inline-flex items-center px-4 py-2 border border-purple-300 dark:border-purple-600 rounded-lg text-sm font-medium text-purple-700 dark:text-purple-400 bg-purple-50 dark:bg-purple-900/30 hover:bg-purple-100 dark:hover:bg-purple-900/50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 dark:focus:ring-purple-600 transition-all"
@@ -271,6 +280,14 @@ export default function ScriptDetail() {
           scriptText={script.content}
           currentRating={script.predicted_rating}
           onClose={() => setShowWhatIfModal(false)}
+        />
+      )}
+
+      {showRatingAdvisor && script.predicted_rating && (
+        <RatingAdvisor
+          scriptText={script.content}
+          currentRating={script.predicted_rating}
+          onClose={() => setShowRatingAdvisor(false)}
         />
       )}
     </div>
