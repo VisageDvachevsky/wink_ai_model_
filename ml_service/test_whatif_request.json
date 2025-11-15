@@ -1,0 +1,73 @@
+{
+  "script_text": "",
+  "modifications": [
+    {
+      "type": "remove_scenes",
+      "params": {
+        "scene_ids": [1, 3, 5, 9]
+      },
+      "targets": null,
+      "scope": null
+    },
+    {
+      "type": "reduce_violence",
+      "params": {
+        "content_types": ["violence", "gore"],
+        "custom_replacements": {
+          "stab": "threaten with",
+          "stabbed": "threatened",
+          "stabbing": "threatening",
+          "decapitate": "strike",
+          "decapitated": "struck",
+          "machete": "weapon",
+          "guts": "injury",
+          "brain matter": "debris",
+          "skull explodes": "falls",
+          "blood gushes": "bleeds",
+          "blood sprays": "bleeds",
+          "blood fountains": "bleeds heavily",
+          "blood pouring": "bleeding",
+          "slice": "hit",
+          "slices": "hits",
+          "sliced": "hit",
+          "torture": "interrogate",
+          "tortures": "interrogates"
+        }
+      }
+    },
+    {
+      "type": "reduce_profanity",
+      "params": {
+        "content_types": ["profanity"]
+      }
+    },
+    {
+      "type": "reduce_gore",
+      "params": {
+        "content_types": ["gore"]
+      }
+    },
+    {
+      "type": "reduce_sexual",
+      "params": {
+        "content_types": ["sexual"]
+      }
+    },
+    {
+      "type": "reduce_drugs",
+      "params": {
+        "content_types": ["drugs"],
+        "custom_replacements": {
+          "cocaine": "pills",
+          "heroin": "contraband",
+          "methamphetamine": "illegal substances",
+          "crack": "substance",
+          "snorting": "taking"
+        }
+      }
+    }
+  ],
+  "use_llm": false,
+  "llm_provider": null,
+  "preserve_structure": true
+}
