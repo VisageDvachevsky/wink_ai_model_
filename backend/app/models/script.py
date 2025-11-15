@@ -4,7 +4,7 @@ from sqlalchemy.sql import func
 from ..db.base import Base
 
 
-class Script(Base):
+class Script(Base):  # type: ignore[misc, valid-type]
     __tablename__ = "scripts"
 
     id = Column(Integer, primary_key=True, index=True)
@@ -25,7 +25,7 @@ class Script(Base):
     )
 
 
-class Scene(Base):
+class Scene(Base):  # type: ignore[misc, valid-type]
     __tablename__ = "scenes"
 
     id = Column(Integer, primary_key=True, index=True)
@@ -48,7 +48,7 @@ class Scene(Base):
     script = relationship("Script", back_populates="scenes")
 
 
-class RatingLog(Base):
+class RatingLog(Base):  # type: ignore[misc, valid-type]
     __tablename__ = "rating_logs"
 
     id = Column(Integer, primary_key=True, index=True)

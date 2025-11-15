@@ -18,7 +18,7 @@ async def enqueue_rating_job(script_id: int) -> str:
     try:
         job = await pool.enqueue_job("process_script_rating", script_id)
         logger.info(f"Enqueued rating job {job.job_id} for script {script_id}")
-        return job.job_id
+        return job.job_id  # type: ignore[no-any-return]
     finally:
         await pool.close()
 
@@ -26,7 +26,7 @@ async def enqueue_rating_job(script_id: int) -> str:
 async def get_job_status(job_id: str) -> dict[str, Any]:
     pool = await get_arq_pool()
     try:
-        job_info = await pool.job_info(job_id)
+        job_info = await pool.job_info(job_id)  # type: ignore[attr-defined]
 
         if job_info is None:
             return {
