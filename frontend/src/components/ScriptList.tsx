@@ -1,73 +1,82 @@
 import { useQuery } from '@tanstack/react-query'
 import { Link } from 'react-router-dom'
 import { scriptsApi } from '../api/client'
-import { Film, Clock } from 'lucide-react'
+import { Film, Clock, Loader2 } from 'lucide-react'
+import { useLanguage } from '../contexts/LanguageContext'
 
 export default function ScriptList() {
+  const { language, t } = useLanguage()
   const { data: scripts, isLoading, error } = useQuery({
     queryKey: ['scripts'],
     queryFn: scriptsApi.list,
   })
 
   if (isLoading) {
-    return <div className="text-center py-12">Loading...</div>
+    return (
+      <div className="flex items-center justify-center py-12">
+        <Loader2 className="h-8 w-8 animate-spin text-blue-600 dark:text-blue-400" />
+        <span className="ml-3 text-gray-700 dark:text-gray-300">{t('common.loading')}</span>
+      </div>
+    )
   }
 
   if (error) {
     return (
       <div className="text-center py-12">
-        <div className="text-red-600 mb-2">Failed to load scripts</div>
-        <div className="text-gray-600 text-sm">{(error as Error).message}</div>
+        <div className="text-red-600 dark:text-red-400 mb-2 font-semibold">{t('script.failed_load')}</div>
+        <div className="text-gray-600 dark:text-gray-400 text-sm">{(error as Error).message}</div>
       </div>
     )
   }
 
   return (
     <div className="px-4 sm:px-0">
-      <div className="sm:flex sm:items-center">
+      <div className="sm:flex sm:items-center mb-8">
         <div className="sm:flex-auto">
-          <h1 className="text-2xl font-semibold text-gray-900">Scripts</h1>
-          <p className="mt-2 text-sm text-gray-700">
-            All uploaded movie scripts and their ratings
+          <h1 className="text-3xl font-bold text-gray-900 dark:text-white">{t('script.list_title')}</h1>
+          <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
+            {t('script.list_subtitle')}
           </p>
         </div>
       </div>
 
-      <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {scripts?.map((script) => (
           <Link
             key={script.id}
             to={`/scripts/${script.id}`}
-            className="block p-6 bg-white rounded-lg shadow hover:shadow-md transition-shadow"
+            className="group block p-6 bg-white dark:bg-gray-800 rounded-xl shadow-md hover:shadow-xl dark:shadow-gray-900/50 transition-all duration-300 border border-gray-100 dark:border-gray-700 hover:scale-[1.02]"
           >
-            <div className="flex items-start justify-between">
-              <div className="flex items-center">
-                <Film className="h-5 w-5 text-gray-400 mr-2" />
-                <h3 className="text-lg font-medium text-gray-900 truncate">
+            <div className="flex items-start justify-between mb-4">
+              <div className="flex items-center flex-1 min-w-0">
+                <div className="p-2 bg-gradient-to-br from-blue-500 to-indigo-600 dark:from-blue-600 dark:to-indigo-700 rounded-lg mr-3 group-hover:scale-110 transition-transform">
+                  <Film className="h-5 w-5 text-white" />
+                </div>
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white truncate">
                   {script.title}
                 </h3>
               </div>
               {script.predicted_rating && (
-                <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
+                <span className="ml-2 inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-gradient-to-r from-blue-500 to-indigo-600 text-white shadow-sm">
                   {script.predicted_rating}
                 </span>
               )}
             </div>
 
-            <div className="mt-4 flex items-center text-sm text-gray-500">
-              <Clock className="h-4 w-4 mr-1" />
-              {new Date(script.created_at).toLocaleDateString()}
+            <div className="flex items-center text-sm text-gray-500 dark:text-gray-400 mb-2">
+              <Clock className="h-4 w-4 mr-2" />
+              {new Date(script.created_at).toLocaleDateString(language === 'ru' ? 'ru-RU' : 'en-US')}
             </div>
 
             {script.total_scenes && (
-              <div className="mt-2 text-sm text-gray-500">
-                {script.total_scenes} scenes
+              <div className="text-sm text-gray-600 dark:text-gray-400">
+                {script.total_scenes} {t('script.scenes')}
               </div>
             )}
 
             {!script.predicted_rating && (
-              <div className="mt-3 text-sm text-amber-600">
-                Not rated yet
+              <div className="mt-3 inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-400">
+                {t('script.not_rated')}
               </div>
             )}
           </Link>
