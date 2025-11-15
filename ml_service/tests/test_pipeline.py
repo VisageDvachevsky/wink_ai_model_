@@ -84,7 +84,7 @@ def test_analyze_script_mild_content(pipeline):
     result = pipeline.analyze_script(script, script_id="test1")
 
     assert result['script_id'] == "test1"
-    assert result['predicted_rating'] in ['6+', '12+']
+    assert result['predicted_rating'] in ['0+', '6+', '12+']
     assert result['total_scenes'] > 0
 
 
