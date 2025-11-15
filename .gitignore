@@ -57,6 +57,12 @@ Thumbs.db
 *.db
 *.sqlite
 
+# Test coverage
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
 # ML Models (add to LFS if needed)
 *.pt
 *.pth
