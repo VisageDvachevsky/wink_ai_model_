@@ -51,6 +51,7 @@ export interface Scene {
 }
 
 export interface ScriptDetail extends Script {
+  content: string
   scenes: Scene[]
 }
 
@@ -68,6 +69,48 @@ export interface WhatIfResponse {
   modified_scores: Record<string, number>
   changes_applied: string[]
   explanation: string
+  rating_changed: boolean
+}
+
+export interface ModificationConfig {
+  type: string
+  params: Record<string, any>
+  targets?: {
+    entity_type?: string
+    entity_names?: string[]
+  }
+  scope?: number[]
+}
+
+export interface EntityInfo {
+  type: string
+  name: string
+  mentions: number
+  scenes: number[]
+}
+
+export interface SceneInfo {
+  scene_id: number
+  scene_type: string
+  characters: string[]
+  location: string | null
+  summary: string | null
+}
+
+export interface AdvancedWhatIfResponse {
+  original_rating: string
+  modified_rating: string
+  original_scores: Record<string, number>
+  modified_scores: Record<string, number>
+  modifications_applied: Array<{
+    type: string
+    metadata?: Record<string, any>
+    error?: string
+  }>
+  entities_extracted: EntityInfo[]
+  scene_analysis: SceneInfo[]
+  explanation: string
+  modified_script: string | null
   rating_changed: boolean
 }
 
@@ -112,6 +155,20 @@ export const scriptsApi = {
     const { data } = await apiClient.post(`/scripts/${id}/what-if`, {
       script_id: id,
       modification_request: modificationRequest
+    })
+    return data
+  },
+
+  whatIfAdvanced: async (
+    scriptText: string,
+    modifications: ModificationConfig[]
+  ): Promise<AdvancedWhatIfResponse> => {
+    const mlServiceUrl = import.meta.env.VITE_ML_SERVICE_URL || 'http://localhost:8001'
+    const { data } = await axios.post(`${mlServiceUrl}/what_if_advanced`, {
+      script_text: scriptText,
+      modifications,
+      use_llm: false,
+      preserve_structure: true
     })
     return data
   },

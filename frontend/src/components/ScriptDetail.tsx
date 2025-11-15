@@ -268,6 +268,7 @@ export default function ScriptDetail() {
       {showWhatIfModal && script.predicted_rating && (
         <WhatIfModal
           scriptId={Number(id)}
+          scriptText={script.content}
           currentRating={script.predicted_rating}
           onClose={() => setShowWhatIfModal(false)}
         />
