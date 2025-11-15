@@ -1,7 +1,6 @@
 from typing import List, Dict, Any, Optional
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, and_, desc
-from datetime import datetime
 import difflib
 
 from ..models.script import Script, ScriptVersion, Scene
@@ -70,14 +69,14 @@ class VersionService:
                 select(ScriptVersion)
                 .where(and_(
                     ScriptVersion.script_id == script_id,
-                    ScriptVersion.is_current == True
+                    ScriptVersion.is_current
                 ))
             )
             result = await db.execute(
                 select(ScriptVersion)
                 .where(and_(
                     ScriptVersion.script_id == script_id,
-                    ScriptVersion.is_current == True
+                    ScriptVersion.is_current
                 ))
             )
             for version in result.scalars():

@@ -47,7 +47,7 @@ interface RatingAdvisorProps {
 }
 
 export default function RatingAdvisor({ scriptText, currentRating, onClose }: RatingAdvisorProps) {
-  const { language, t } = useLanguage()
+  const { language } = useLanguage()
   const [targetRating, setTargetRating] = useState<string>('')
   const [result, setResult] = useState<any>(null)
 

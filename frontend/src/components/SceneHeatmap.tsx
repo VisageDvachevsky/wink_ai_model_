@@ -1,4 +1,3 @@
-import { useMemo } from 'react'
 import { Scene } from '../api/client'
 
 interface SceneHeatmapProps {
