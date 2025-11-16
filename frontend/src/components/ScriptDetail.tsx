@@ -1,13 +1,16 @@
 import { useState } from 'react'
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { useParams } from 'react-router-dom'
-import { scriptsApi } from '../api/client'
+import { scriptsApi, LineDetection } from '../api/client'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts'
-import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles, Loader2, Target, Download, FileSpreadsheet, FileCode2, History } from 'lucide-react'
+import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles, Loader2, Target, Download, FileSpreadsheet, FileCode2, History, Edit3, Plus } from 'lucide-react'
 import WhatIfModal from './WhatIfModal'
 import RatingAdvisor from './RatingAdvisor'
 import SceneHeatmap from './SceneHeatmap'
 import VersionHistory from './VersionHistory'
+import LineDetectionPanel from './LineDetectionPanel'
+import SmartEditor from './SmartEditor'
+import ManualCorrectionModal from './ManualCorrectionModal'
 import { useLanguage } from '../contexts/LanguageContext'
 
 const RATING_COLORS: Record<string, string> = {
@@ -34,6 +37,10 @@ export default function ScriptDetail() {
   const [showWhatIfModal, setShowWhatIfModal] = useState(false)
   const [showRatingAdvisor, setShowRatingAdvisor] = useState(false)
   const [showVersionHistory, setShowVersionHistory] = useState(false)
+  const [showLineDetections, setShowLineDetections] = useState(false)
+  const [showSmartEditor, setShowSmartEditor] = useState(false)
+  const [showManualCorrection, setShowManualCorrection] = useState(false)
+  const [detections, setDetections] = useState<LineDetection[]>([])
   const [downloading, setDownloading] = useState<string | null>(null)
   const { language, t } = useLanguage()
 
@@ -163,6 +170,29 @@ export default function ScriptDetail() {
                   <span className={`inline-flex items-center px-6 py-3 rounded-xl text-2xl font-bold border-2 ${ratingColor} shadow-sm`}>
                     {script.predicted_rating}
                   </span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <button
+                    onClick={() => setShowLineDetections(!showLineDetections)}
+                    className="inline-flex items-center px-3 py-1.5 border border-red-300 dark:border-red-600 rounded-lg text-xs font-medium text-red-700 dark:text-red-400 bg-red-50 dark:bg-red-900/30 hover:bg-red-100 dark:hover:bg-red-900/50 transition-colors"
+                  >
+                    <AlertCircle className="h-3 w-3 mr-1.5" />
+                    {language === 'ru' ? 'Детекция строк' : 'Line Detection'}
+                  </button>
+                  <button
+                    onClick={() => setShowSmartEditor(!showSmartEditor)}
+                    className="inline-flex items-center px-3 py-1.5 border border-blue-300 dark:border-blue-600 rounded-lg text-xs font-medium text-blue-700 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/30 hover:bg-blue-100 dark:hover:bg-blue-900/50 transition-colors"
+                  >
+                    <Edit3 className="h-3 w-3 mr-1.5" />
+                    {language === 'ru' ? 'Редактор' : 'Editor'}
+                  </button>
+                  <button
+                    onClick={() => setShowManualCorrection(true)}
+                    className="inline-flex items-center px-3 py-1.5 border border-green-300 dark:border-green-600 rounded-lg text-xs font-medium text-green-700 dark:text-green-400 bg-green-50 dark:bg-green-900/30 hover:bg-green-100 dark:hover:bg-green-900/50 transition-colors"
+                  >
+                    <Plus className="h-3 w-3 mr-1.5" />
+                    {language === 'ru' ? 'Добавить исправление' : 'Add Correction'}
+                  </button>
                 </div>
                 <div className="flex items-center gap-2">
                   <button
@@ -364,6 +394,35 @@ export default function ScriptDetail() {
         )}
       </div>
 
+      {showLineDetections && script.predicted_rating && (
+        <div className="bg-white dark:bg-gray-800 shadow-lg rounded-xl p-6 border border-gray-100 dark:border-gray-700">
+          <LineDetectionPanel
+            scriptId={Number(id)}
+            onLineClick={(lineStart, lineEnd) => {
+              setShowSmartEditor(true)
+            }}
+          />
+        </div>
+      )}
+
+      {showSmartEditor && script && (
+        <div className="bg-white dark:bg-gray-800 shadow-lg rounded-xl p-6 border border-gray-100 dark:border-gray-700">
+          <SmartEditor
+            scriptId={Number(id)}
+            initialContent={script.content}
+            detections={detections}
+            onSave={async (content) => {
+              queryClient.invalidateQueries({ queryKey: ['script', id] })
+            }}
+            onReanalyze={async () => {
+              await scriptsApi.detectLines(Number(id), 3)
+              const data = await scriptsApi.getDetections(Number(id), false)
+              setDetections(data)
+            }}
+          />
+        </div>
+      )}
+
       {showWhatIfModal && script.predicted_rating && (
         <WhatIfModal
           scriptId={Number(id)}
@@ -386,6 +445,17 @@ export default function ScriptDetail() {
         <VersionHistory
           scriptId={Number(id)}
           onClose={() => setShowVersionHistory(false)}
+        />
+      )}
+
+      {showManualCorrection && (
+        <ManualCorrectionModal
+          scriptId={Number(id)}
+          onClose={() => setShowManualCorrection(false)}
+          onSuccess={() => {
+            setShowManualCorrection(false)
+            queryClient.invalidateQueries({ queryKey: ['script', id] })
+          }}
         />
       )}
     </div>

@@ -184,3 +184,40 @@ class SmartSuggestionsResponse(BaseModel):
     analysis_summary: str
     current_rating: str
     total_scenes: int
+
+
+class LineDetectionRequest(BaseModel):
+    script_id: str | None = None
+    text: str = Field(..., min_length=10, description="Full movie script text")
+    context_size: int = Field(default=3, ge=0, le=10, description="Lines of context before/after")
+
+
+class LineMatchSchema(BaseModel):
+    text: str
+    start: int
+    end: int
+    pattern: str
+
+
+class LineDetectionItemSchema(BaseModel):
+    line_start: int
+    line_end: int
+    detected_text: str
+    context_before: str | None = None
+    context_after: str | None = None
+    category: str
+    severity: float = Field(ge=0, le=1)
+    matched_patterns: dict
+
+
+class LineDetectionStatsSchema(BaseModel):
+    total_detections: int
+    by_category: dict[str, int]
+    total_matches: dict[str, int]
+
+
+class LineDetectionResponse(BaseModel):
+    script_id: str | None
+    detections: list[LineDetectionItemSchema]
+    stats: LineDetectionStatsSchema
+    total_lines: int

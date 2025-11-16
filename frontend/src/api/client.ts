@@ -131,6 +131,61 @@ export interface SmartSuggestionsResponse {
   total_scenes: number
 }
 
+export interface LineMatch {
+  text: string
+  start: number
+  end: number
+  pattern: string
+}
+
+export interface LineDetection {
+  id?: number
+  line_start: number
+  line_end: number
+  detected_text: string
+  context_before: string | null
+  context_after: string | null
+  category: string
+  severity: number
+  matched_patterns: {
+    count: number
+    matches: LineMatch[]
+  }
+  is_false_positive?: boolean
+  user_corrected?: boolean
+  created_at?: string
+}
+
+export interface LineDetectionStats {
+  total_detections: number
+  by_category: Record<string, number>
+  total_matches: Record<string, number>
+  false_positives: number
+  user_corrections: number
+}
+
+export interface ScriptWithDetections {
+  script_id: number
+  title: string
+  predicted_rating: string | null
+  detections: LineDetection[]
+  stats: LineDetectionStats
+  correction_count: number
+}
+
+export interface UserCorrection {
+  id?: number
+  script_id: number
+  detection_id?: number
+  correction_type: string
+  line_start?: number
+  line_end?: number
+  category?: string
+  severity?: number
+  note?: string
+  created_at?: string
+}
+
 export const scriptsApi = {
   list: async (): Promise<Script[]> => {
     const { data } = await apiClient.get('/scripts/')
@@ -205,6 +260,41 @@ export const scriptsApi = {
       language,
       max_suggestions: maxSuggestions
     })
+    return data
+  },
+
+  detectLines: async (scriptId: number, contextSize: number = 3): Promise<LineDetection[]> => {
+    const { data } = await apiClient.post(`/scripts/${scriptId}/detections?context_size=${contextSize}`)
+    return data
+  },
+
+  getDetections: async (scriptId: number, includeFalsePositives: boolean = false): Promise<LineDetection[]> => {
+    const { data } = await apiClient.get(`/scripts/${scriptId}/detections?include_false_positives=${includeFalsePositives}`)
+    return data
+  },
+
+  getDetectionStats: async (scriptId: number): Promise<LineDetectionStats> => {
+    const { data } = await apiClient.get(`/scripts/${scriptId}/detections/stats`)
+    return data
+  },
+
+  getScriptWithDetections: async (scriptId: number, includeFalsePositives: boolean = false): Promise<ScriptWithDetections> => {
+    const { data } = await apiClient.get(`/scripts/${scriptId}/detections/full?include_false_positives=${includeFalsePositives}`)
+    return data
+  },
+
+  markFalsePositive: async (detectionId: number, isFalsePositive: boolean): Promise<LineDetection> => {
+    const { data } = await apiClient.patch(`/scripts/detections/${detectionId}/false-positive?is_false_positive=${isFalsePositive}`)
+    return data
+  },
+
+  createCorrection: async (scriptId: number, correction: Omit<UserCorrection, 'id' | 'created_at'>): Promise<UserCorrection> => {
+    const { data } = await apiClient.post(`/scripts/${scriptId}/corrections`, correction)
+    return data
+  },
+
+  getCorrections: async (scriptId: number): Promise<UserCorrection[]> => {
+    const { data } = await apiClient.get(`/scripts/${scriptId}/corrections`)
     return data
   },
 }

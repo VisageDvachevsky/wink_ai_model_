@@ -14,6 +14,8 @@ from .schemas import (
     RatingAdvisorResponse,
     SmartSuggestionsRequest,
     SmartSuggestionsResponse,
+    LineDetectionRequest,
+    LineDetectionResponse,
 )
 from .pipeline import get_pipeline
 from .what_if import get_what_if_analyzer
@@ -23,6 +25,7 @@ from .what_if_advanced.schemas import (
 )
 from .rating_advisor import RatingAdvisor
 from .rating_advisor.schemas import RatingAdvisorRequest as InternalAdvisorRequest
+from .line_detector import LineDetector
 from .config import settings
 from .metrics import get_metrics, track_inference_time
 from .structured_logger import setup_structured_logging
@@ -144,6 +147,26 @@ async def what_if_suggestions(request: SmartSuggestionsRequest):
         raise HTTPException(status_code=500, detail=f"Processing error: {str(e)}")
 
 
+@app.post("/detect_lines", response_model=LineDetectionResponse)
+@track_inference_time("detect_lines")
+async def detect_lines(request: LineDetectionRequest):
+    try:
+        detector = LineDetector()
+        detections = detector.detect_lines(request.text, request.context_size)
+        stats = detector.get_statistics(detections)
+        total_lines = len(request.text.split('\n'))
+
+        return LineDetectionResponse(
+            script_id=request.script_id,
+            detections=detections,
+            stats=stats,
+            total_lines=total_lines
+        )
+    except Exception as e:
+        logger.error(f"Error detecting lines: {e}")
+        raise HTTPException(status_code=500, detail=f"Processing error: {str(e)}")
+
+
 @app.get("/")
 async def root():
     return {
@@ -156,6 +179,7 @@ async def root():
             "what_if_advanced": "/what_if_advanced",
             "what_if_suggestions": "/what_if_suggestions",
             "rating_advisor": "/rating_advisor",
+            "detect_lines": "/detect_lines",
             "metrics": "/metrics",
             "docs": "/docs",
         },
