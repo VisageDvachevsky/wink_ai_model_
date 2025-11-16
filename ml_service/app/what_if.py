@@ -500,6 +500,124 @@ class WhatIfAnalyzer:
         return explanation
 
 
+    def generate_smart_suggestions(
+        self, script_text: str, current_scores: Dict[str, float] | None = None, language: str = "ru", max_suggestions: int = 8
+    ) -> Dict[str, Any]:
+        """Generate smart, personalized suggestions based on script analysis."""
+        logger.info("Generating smart suggestions for script")
+
+        # Analyze script if scores not provided
+        if current_scores is None:
+            analysis = self._analyze_script(script_text)
+            current_scores = analysis["scores"]
+            current_rating = analysis["rating"]
+            total_scenes = analysis["total_scenes"]
+        else:
+            # Quick analysis for rating
+            analysis = self._analyze_script(script_text)
+            current_rating = analysis["rating"]
+            total_scenes = analysis["total_scenes"]
+
+        # Parse scenes for detailed analysis
+        scenes = parse_script_to_scenes(script_text)
+
+        suggestions = []
+
+        # Define thresholds and icons
+        category_config = {
+            "violence": {"threshold": 0.3, "icon": "💬", "ru": "насилие", "en": "violence"},
+            "gore": {"threshold": 0.25, "icon": "🩹", "ru": "кровь", "en": "gore"},
+            "profanity": {"threshold": 0.3, "icon": "🤐", "ru": "мат", "en": "profanity"},
+            "sex_act": {"threshold": 0.2, "icon": "🔞", "ru": "секс", "en": "sexual content"},
+            "nudity": {"threshold": 0.2, "icon": "👗", "ru": "нагота", "en": "nudity"},
+            "drugs": {"threshold": 0.2, "icon": "💊", "ru": "наркотики", "en": "drugs"},
+        }
+
+        # Analyze each category
+        for category, config in category_config.items():
+            score = current_scores.get(category, 0)
+
+            if score > config["threshold"]:
+                # Find problematic scenes
+                affected_scenes = []
+                for scene in scenes:
+                    features = extract_scene_features(scene["text"])
+                    normalized = normalize_and_contextualize_scores(features)
+                    if normalized.get(category, 0) > 0.5:
+                        affected_scenes.append(scene["scene_id"])
+
+                # Calculate priority (higher score = higher priority)
+                priority = min(10, int(score * 10) + 2)
+                confidence = min(1.0, score * 1.2)
+
+                # Generate suggestion text based on language
+                if language == "ru":
+                    category_name = config["ru"]
+                    if len(affected_scenes) > 0:
+                        if len(affected_scenes) == 1:
+                            suggestion_text = f"убрать {category_name} в сцене {affected_scenes[0]}"
+                        elif len(affected_scenes) <= 3:
+                            scenes_str = ", ".join(map(str, affected_scenes[:3]))
+                            suggestion_text = f"убрать {category_name} в сценах {scenes_str}"
+                        else:
+                            suggestion_text = f"смягчить {category_name} ({len(affected_scenes)} сцен)"
+                    else:
+                        suggestion_text = f"убрать {category_name}"
+
+                    reasoning = f"Уровень {category_name}: {int(score * 100)}% - выше нормы для более низкого рейтинга"
+                else:
+                    category_name = config["en"]
+                    if len(affected_scenes) > 0:
+                        if len(affected_scenes) == 1:
+                            suggestion_text = f"remove {category_name} in scene {affected_scenes[0]}"
+                        elif len(affected_scenes) <= 3:
+                            scenes_str = ", ".join(map(str, affected_scenes[:3]))
+                            suggestion_text = f"remove {category_name} in scenes {scenes_str}"
+                        else:
+                            suggestion_text = f"reduce {category_name} ({len(affected_scenes)} scenes)"
+                    else:
+                        suggestion_text = f"remove {category_name}"
+
+                    reasoning = f"{category_name.capitalize()} level: {int(score * 100)}% - above threshold for lower rating"
+
+                suggestions.append({
+                    "text": suggestion_text,
+                    "category": category,
+                    "icon": config["icon"],
+                    "priority": priority,
+                    "confidence": confidence,
+                    "affected_scenes": affected_scenes[:5],  # Limit to 5 scenes
+                    "reasoning": reasoning,
+                })
+
+        # Sort by priority (descending)
+        suggestions.sort(key=lambda x: (-x["priority"], -x["confidence"]))
+
+        # Limit to max_suggestions
+        suggestions = suggestions[:max_suggestions]
+
+        # Generate summary
+        if language == "ru":
+            high_scores = [k for k, v in current_scores.items() if v > 0.5]
+            if high_scores:
+                summary = f"Обнаружены высокие показатели: {', '.join(high_scores)}. Рекомендуется смягчить контент для получения более низкого рейтинга."
+            else:
+                summary = f"Сценарий имеет рейтинг {current_rating}. Предложены улучшения для снижения возрастных ограничений."
+        else:
+            high_scores = [k for k, v in current_scores.items() if v > 0.5]
+            if high_scores:
+                summary = f"High levels detected: {', '.join(high_scores)}. Consider reducing content for lower rating."
+            else:
+                summary = f"Script rated {current_rating}. Suggestions provided to reduce age restrictions."
+
+        return {
+            "suggestions": suggestions,
+            "analysis_summary": summary,
+            "current_rating": current_rating,
+            "total_scenes": total_scenes,
+        }
+
+
 _analyzer: WhatIfAnalyzer | None = None
 
 

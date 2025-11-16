@@ -1,13 +1,14 @@
-import { useState, useMemo, useEffect } from 'react'
-import { useMutation } from '@tanstack/react-query'
-import { scriptsApi, AdvancedWhatIfResponse, ModificationConfig } from '../api/client'
-import { X, Sparkles, TrendingUp, TrendingDown, Minus, Lightbulb, Loader2, Wand2 } from 'lucide-react'
+import { useState, useEffect } from 'react'
+import { useMutation, useQuery } from '@tanstack/react-query'
+import { scriptsApi, AdvancedWhatIfResponse, ModificationConfig, SmartSuggestion } from '../api/client'
+import { X, Sparkles, TrendingUp, TrendingDown, Minus, Lightbulb, Loader2, Wand2, Brain } from 'lucide-react'
 import { useLanguage } from '../contexts/LanguageContext'
 
 interface WhatIfModalProps {
   scriptId: number
   scriptText: string
   currentRating: string | null
+  currentScores?: Record<string, number>
   onClose: () => void
 }
 
@@ -17,39 +18,6 @@ const RATING_COLORS: Record<string, string> = {
   '12+': 'bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-400 border-yellow-300 dark:border-yellow-700',
   '16+': 'bg-orange-100 dark:bg-orange-900/30 text-orange-800 dark:text-orange-400 border-orange-300 dark:border-orange-700',
   '18+': 'bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-400 border-red-300 dark:border-red-700',
-}
-
-interface Suggestion {
-  text: string
-  category: string
-  icon: string
-}
-
-const SUGGESTION_TEMPLATES: Record<string, Suggestion[]> = {
-  ru: [
-    { text: 'убрать сцену 1-3', category: 'scenes', icon: '🎬' },
-    { text: 'заменить драку на словесный конфликт', category: 'violence', icon: '💬' },
-    { text: 'убрать мат у всех персонажей', category: 'profanity', icon: '🤐' },
-    { text: 'без крови и увечий', category: 'gore', icon: '🩹' },
-    { text: 'смягчить насилие', category: 'violence', icon: '✨' },
-    { text: 'убрать сексуальные сцены', category: 'sexual', icon: '🔞' },
-    { text: 'убрать сцены с наркотиками', category: 'drugs', icon: '💊' },
-    { text: 'без алкоголя и курения', category: 'drugs', icon: '🚬' },
-    { text: 'убрать сцены с оружием', category: 'violence', icon: '🔫' },
-    { text: 'заменить убийство на спасение', category: 'violence', icon: '🦸' },
-  ],
-  en: [
-    { text: 'remove scene 1-3', category: 'scenes', icon: '🎬' },
-    { text: 'replace fight with verbal argument', category: 'violence', icon: '💬' },
-    { text: 'remove all profanity', category: 'profanity', icon: '🤐' },
-    { text: 'remove blood and gore', category: 'gore', icon: '🩹' },
-    { text: 'reduce violence', category: 'violence', icon: '✨' },
-    { text: 'remove sexual scenes', category: 'sexual', icon: '🔞' },
-    { text: 'remove drug scenes', category: 'drugs', icon: '💊' },
-    { text: 'no alcohol and smoking', category: 'drugs', icon: '🚬' },
-    { text: 'remove weapon scenes', category: 'violence', icon: '🔫' },
-    { text: 'replace killing with rescue', category: 'violence', icon: '🦸' },
-  ],
 }
 
 const parseQueryToModifications = (query: string): ModificationConfig[] => {
@@ -87,24 +55,24 @@ const parseQueryToModifications = (query: string): ModificationConfig[] => {
   return mods
 }
 
-export default function WhatIfModal({ scriptText, currentRating, onClose }: WhatIfModalProps) {
+export default function WhatIfModal({ scriptText, currentRating, currentScores, onClose }: WhatIfModalProps) {
   const [query, setQuery] = useState('')
   const [result, setResult] = useState<AdvancedWhatIfResponse | null>(null)
   const { t, language } = useLanguage()
   const [showSuggestions, setShowSuggestions] = useState(false)
 
-  const filteredSuggestions = useMemo(() => {
-    if (!query.trim()) return SUGGESTION_TEMPLATES[language] || SUGGESTION_TEMPLATES.en
+  // Fetch smart AI-powered suggestions based on script analysis
+  const { data: smartSuggestionsData, isLoading: suggestionsLoading } = useQuery({
+    queryKey: ['smartSuggestions', scriptText, currentScores, language],
+    queryFn: () => scriptsApi.getSmartSuggestions(scriptText, currentScores, currentRating || undefined, language, 10),
+    staleTime: 5 * 60 * 1000, // Cache for 5 minutes
+  })
 
-    const lowerQuery = query.toLowerCase()
-    return (SUGGESTION_TEMPLATES[language] || SUGGESTION_TEMPLATES.en).filter((s) =>
-      s.text.toLowerCase().includes(lowerQuery) || s.category.includes(lowerQuery)
-    )
-  }, [query, language])
+  const aiSuggestions = smartSuggestionsData?.suggestions || []
 
   useEffect(() => {
-    setShowSuggestions(query.length > 0 && query.length < 50)
-  }, [query])
+    setShowSuggestions(query.length > 0 && query.length < 50 && aiSuggestions.length > 0)
+  }, [query, aiSuggestions])
 
   const whatIfMutation = useMutation({
     mutationFn: async (modificationRequest: string) => {
@@ -127,7 +95,7 @@ export default function WhatIfModal({ scriptText, currentRating, onClose }: What
     }
   }
 
-  const handleSuggestionClick = (suggestion: Suggestion) => {
+  const handleSuggestionClick = (suggestion: SmartSuggestion) => {
     setQuery(suggestion.text)
     setShowSuggestions(false)
   }
@@ -157,7 +125,7 @@ export default function WhatIfModal({ scriptText, currentRating, onClose }: What
         <div className="sticky top-0 bg-gradient-to-r from-purple-600 to-indigo-600 dark:from-purple-700 dark:to-indigo-700 text-white px-6 py-5 flex justify-between items-center rounded-t-2xl z-10">
           <div className="flex items-center gap-3">
             <div className="animate-pulse">
-              <Sparkles className="h-6 w-6" />
+              <Brain className="h-6 w-6" />
             </div>
             <h2 className="text-2xl font-bold">{t('whatif.title')}</h2>
           </div>
@@ -182,6 +150,16 @@ export default function WhatIfModal({ scriptText, currentRating, onClose }: What
             </div>
           )}
 
+          {smartSuggestionsData?.analysis_summary && (
+            <div className="bg-gradient-to-r from-purple-50 to-pink-50 dark:from-purple-900/20 dark:to-pink-900/20 border border-purple-200 dark:border-purple-800 rounded-xl p-4 animate-in slide-in-from-right duration-300">
+              <div className="flex items-center gap-2 mb-2">
+                <Brain className="h-5 w-5 text-purple-600 dark:text-purple-400 animate-pulse" />
+                <span className="font-semibold text-purple-900 dark:text-purple-300">AI Analysis</span>
+              </div>
+              <p className="text-sm text-purple-800 dark:text-purple-300">{smartSuggestionsData.analysis_summary}</p>
+            </div>
+          )}
+
           <form onSubmit={handleSubmit} className="space-y-4">
             <div className="relative">
               <label htmlFor="whatif-query" className="block text-sm font-semibold text-gray-700 dark:text-gray-300 mb-2 flex items-center gap-2">
@@ -199,33 +177,55 @@ export default function WhatIfModal({ scriptText, currentRating, onClose }: What
                 disabled={whatIfMutation.isPending}
               />
 
-              {showSuggestions && filteredSuggestions.length > 0 && (
-                <div className="absolute z-20 w-full mt-2 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl shadow-xl max-h-60 overflow-y-auto animate-in slide-in-from-top-2 duration-200">
-                  <div className="p-3 border-b border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-900/50">
-                    <div className="flex items-center gap-2 text-sm font-semibold text-gray-700 dark:text-gray-300">
-                      <Sparkles className="h-4 w-4 text-purple-500" />
-                      {t('whatif.suggestions_title')}
+              {showSuggestions && aiSuggestions.length > 0 && (
+                <div className="absolute z-20 w-full mt-2 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl shadow-xl max-h-[400px] overflow-y-auto animate-in slide-in-from-top-2 duration-200">
+                  <div className="p-3 border-b border-gray-200 dark:border-gray-700 bg-gradient-to-r from-purple-50 to-pink-50 dark:from-purple-900/20 dark:to-pink-900/20 sticky top-0 z-10">
+                    <div className="flex items-center gap-2 text-sm font-semibold text-gray-900 dark:text-white">
+                      <Brain className="h-4 w-4 text-purple-600 dark:text-purple-400 animate-pulse" />
+                      {t('whatif.suggestions_title')} (AI-Powered)
                     </div>
-                    <p className="text-xs text-gray-500 dark:text-gray-400 mt-1">{t('whatif.suggestion_help')}</p>
+                    <p className="text-xs text-gray-600 dark:text-gray-400 mt-1">{t('whatif.suggestion_help')}</p>
                   </div>
                   <div className="p-2">
-                    {filteredSuggestions.slice(0, 8).map((suggestion, idx) => (
+                    {aiSuggestions.map((suggestion, idx) => (
                       <button
                         key={idx}
                         type="button"
                         onClick={() => handleSuggestionClick(suggestion)}
-                        className="w-full text-left px-3 py-2 rounded-lg hover:bg-purple-50 dark:hover:bg-purple-900/20 transition-colors group"
+                        className="w-full text-left px-3 py-3 rounded-lg hover:bg-purple-50 dark:hover:bg-purple-900/20 transition-colors group border-b border-gray-100 dark:border-gray-700 last:border-0"
                       >
-                        <div className="flex items-center gap-3">
-                          <span className="text-2xl group-hover:scale-125 transition-transform">{suggestion.icon}</span>
-                          <div className="flex-1">
-                            <div className="text-sm font-medium text-gray-900 dark:text-white">{suggestion.text}</div>
-                            <div className="text-xs text-gray-500 dark:text-gray-400 capitalize">{suggestion.category}</div>
+                        <div className="flex items-start gap-3">
+                          <span className="text-2xl group-hover:scale-125 transition-transform flex-shrink-0">{suggestion.icon}</span>
+                          <div className="flex-1 min-w-0">
+                            <div className="text-sm font-medium text-gray-900 dark:text-white mb-1">{suggestion.text}</div>
+                            <div className="flex items-center gap-2 mb-1">
+                              <span className="text-xs px-2 py-0.5 bg-purple-100 dark:bg-purple-900/40 text-purple-700 dark:text-purple-300 rounded-full capitalize">
+                                {suggestion.category}
+                              </span>
+                              <span className="text-xs text-gray-500 dark:text-gray-400">
+                                Priority: {suggestion.priority}/10
+                              </span>
+                              <span className="text-xs text-gray-500 dark:text-gray-400">
+                                Confidence: {Math.round(suggestion.confidence * 100)}%
+                              </span>
+                            </div>
+                            <div className="text-xs text-gray-600 dark:text-gray-400 italic">{suggestion.reasoning}</div>
+                            {suggestion.affected_scenes.length > 0 && (
+                              <div className="text-xs text-gray-500 dark:text-gray-400 mt-1">
+                                Scenes: {suggestion.affected_scenes.join(', ')}
+                              </div>
+                            )}
                           </div>
                         </div>
                       </button>
                     ))}
                   </div>
+                </div>
+              )}
+
+              {suggestionsLoading && (
+                <div className="absolute right-3 top-12 text-purple-600 dark:text-purple-400">
+                  <Loader2 className="h-5 w-5 animate-spin" />
                 </div>
               )}
             </div>
