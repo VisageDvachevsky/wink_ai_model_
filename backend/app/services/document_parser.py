@@ -132,12 +132,9 @@ class DocumentParser:
         elif ext == "txt":
             try:
                 return content.decode("utf-8")
-            except UnicodeDecodeError:
-                try:
-                    return content.decode("cp1251")
-                except Exception as e:
-                    logger.error(f"Failed to decode text file: {e}")
-                    return None
+            except UnicodeDecodeError as e:
+                logger.error(f"Failed to decode text file as UTF-8: {e}")
+                return None
         else:
             logger.error(f"Unsupported file type: {ext}")
             return None

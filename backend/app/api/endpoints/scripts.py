@@ -71,6 +71,10 @@ async def upload_script(
     text = DocumentParser.parse_document(content, file.filename)
 
     if not text or not text.strip():
+        if file_extension == ".txt":
+            raise InvalidFileError(
+                "Could not decode text file. Please ensure the file is encoded in UTF-8."
+            )
         raise InvalidFileError(
             f"Could not extract text from {file_extension} file. "
             "Please ensure the file contains readable text."
