@@ -1,7 +1,7 @@
 from typing import List, Dict, Tuple, Literal
 import numpy as np
 import re
-from sentence_transformers import SentenceTransformer, util
+from sentence_transformers import SentenceTransformer
 
 from ..pipeline import RatingPipeline
 from .schemas import (
@@ -236,33 +236,60 @@ class RatingAdvisor:
         genre = self._detect_genre(script_text, scenes or [])
         content_analysis = self._analyze_content_type(scenes or [])
 
-        base_confidence = 0.5
+        if target == "0+":
+            core_content = ["violence", "gore", "sex_act", "profanity"]
+            has_core_violations = any(
+                scores.get(dim, 0) > 0.15 for dim in core_content
+            )
+
+            if has_core_violations:
+                return False, 0.0
+
+            if genre in ["thriller", "action", "horror"]:
+                return False, 0.0
+
+            if critical_violations:
+                return False, 0.0
+
+        if target == "6+":
+            extreme_content = ["gore", "sex_act"]
+            has_extreme = any(scores.get(dim, 0) > 0.3 for dim in extreme_content)
+            if has_extreme:
+                return False, 0.0
+
+        max_violation = max([v[1] for v in violations])
+        if max_violation > 0.8:
+            return False, 0.0
+
+        total_gap = sum([v[1] for v in violations])
+        if total_gap > 2.5:
+            return False, 0.0
+
+        base_confidence = 0.6
         adjustments = []
 
-        if target == "0+":
-            if critical_violations:
-                adjustments.append(-0.3)
-            if genre in ["thriller", "action", "horror"]:
-                adjustments.append(-0.2)
-        elif target in ["6+", "12+"]:
-            if genre in ["thriller", "action"] and content_analysis.get("violence_type") == "stylized":
-                adjustments.append(0.15)
-            if not critical_violations:
-                adjustments.append(0.2)
+        if len(critical_violations) > 0:
+            adjustments.append(-0.3)
+
+        if genre in ["thriller", "action"]:
+            if target in ["6+", "12+"] and content_analysis.get("violence_type") == "stylized":
+                adjustments.append(0.1)
+            else:
+                adjustments.append(-0.15)
 
         num_violations = len(violations)
         if num_violations <= 2:
-            adjustments.append(0.15)
-        elif num_violations >= 5:
-            adjustments.append(-0.15)
-
-        avg_violation = np.mean([v[1] for v in violations])
-        if avg_violation < 0.2:
             adjustments.append(0.2)
-        elif avg_violation > 0.5:
+        elif num_violations >= 5:
             adjustments.append(-0.25)
 
-        final_confidence = np.clip(base_confidence + sum(adjustments), 0.05, 0.95)
+        avg_violation = np.mean([v[1] for v in violations])
+        if avg_violation < 0.15:
+            adjustments.append(0.25)
+        elif avg_violation > 0.4:
+            adjustments.append(-0.3)
+
+        final_confidence = np.clip(base_confidence + sum(adjustments), 0.1, 0.95)
 
         return True, float(final_confidence)
 

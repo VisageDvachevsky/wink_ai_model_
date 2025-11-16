@@ -31,6 +31,7 @@ from ..models.script import Script, Scene
 
 logger = logging.getLogger(__name__)
 
+
 def _setup_fonts():
     font_paths = [
         "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
@@ -77,14 +78,23 @@ def _setup_fonts():
         if os.path.exists(font_path):
             try:
                 fm.fontManager.addfont(font_path)
-                plt.rcParams['font.family'] = ['DejaVu Sans', 'Liberation Sans', 'sans-serif']
-                plt.rcParams['font.sans-serif'] = ['DejaVu Sans', 'Liberation Sans', 'Arial Unicode MS']
+                plt.rcParams["font.family"] = [
+                    "DejaVu Sans",
+                    "Liberation Sans",
+                    "sans-serif",
+                ]
+                plt.rcParams["font.sans-serif"] = [
+                    "DejaVu Sans",
+                    "Liberation Sans",
+                    "Arial Unicode MS",
+                ]
                 logger.info(f"Configured matplotlib font: {font_path}")
                 break
             except Exception as e:
                 logger.warning(f"Failed to configure matplotlib font {font_path}: {e}")
 
     return default_font, default_font_bold
+
 
 DEFAULT_FONT, DEFAULT_FONT_BOLD = _setup_fonts()
 
