@@ -107,3 +107,74 @@ class ScriptVersion(Base):  # type: ignore[misc, valid-type]
     version_metadata: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
 
     script = relationship("Script", back_populates="versions")
+
+
+class LineFinding(Base):  # type: ignore[misc, valid-type]
+    __tablename__ = "line_findings"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    script_id: Mapped[int] = mapped_column(
+        Integer, ForeignKey("scripts.id", ondelete="CASCADE"), nullable=False
+    )
+    scene_id: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    line_start: Mapped[int] = mapped_column(Integer, nullable=False)
+    line_end: Mapped[int] = mapped_column(Integer, nullable=False)
+    category: Mapped[str] = mapped_column(String(50), nullable=False)
+    severity: Mapped[float] = mapped_column(Float, default=0.0)
+    matched_text: Mapped[str] = mapped_column(Text, nullable=False)
+    context_before: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    context_after: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    match_count: Mapped[int] = mapped_column(Integer, default=1)
+    rating_impact: Mapped[Optional[str]] = mapped_column(String(10), nullable=True)
+    created_at: Mapped[Optional[datetime]] = mapped_column(
+        DateTime(timezone=True), server_default=func.now()
+    )
+
+    script = relationship("Script", backref="line_findings")
+
+
+class CharacterAnalysis(Base):  # type: ignore[misc, valid-type]
+    __tablename__ = "character_analyses"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    script_id: Mapped[int] = mapped_column(
+        Integer, ForeignKey("scripts.id", ondelete="CASCADE"), nullable=False
+    )
+    character_name: Mapped[str] = mapped_column(String(255), nullable=False)
+    profanity_count: Mapped[int] = mapped_column(Integer, default=0)
+    violence_scenes: Mapped[int] = mapped_column(Integer, default=0)
+    sex_scenes: Mapped[int] = mapped_column(Integer, default=0)
+    drug_scenes: Mapped[int] = mapped_column(Integer, default=0)
+    total_problematic_scenes: Mapped[int] = mapped_column(Integer, default=0)
+    severity_score: Mapped[float] = mapped_column(Float, default=0.0)
+    recommendations: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
+    scene_appearances: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
+    created_at: Mapped[Optional[datetime]] = mapped_column(
+        DateTime(timezone=True), server_default=func.now()
+    )
+
+    script = relationship("Script", backref="character_analyses")
+
+
+class ManualCorrection(Base):  # type: ignore[misc, valid-type]
+    __tablename__ = "manual_corrections"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    script_id: Mapped[int] = mapped_column(
+        Integer, ForeignKey("scripts.id", ondelete="CASCADE"), nullable=False
+    )
+    finding_id: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    scene_id: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    correction_type: Mapped[str] = mapped_column(String(50), nullable=False)
+    category: Mapped[Optional[str]] = mapped_column(String(50), nullable=True)
+    severity: Mapped[Optional[float]] = mapped_column(Float, nullable=True)
+    description: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    line_start: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    line_end: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    matched_text: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    is_active: Mapped[bool] = mapped_column(Boolean, default=True)
+    created_at: Mapped[Optional[datetime]] = mapped_column(
+        DateTime(timezone=True), server_default=func.now()
+    )
+
+    script = relationship("Script", backref="manual_corrections")

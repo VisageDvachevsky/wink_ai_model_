@@ -8,6 +8,7 @@ from sqlalchemy.orm import selectinload
 from ..models.script import Script, Scene, RatingLog
 from ..schemas.script import ScriptCreate
 from .ml_client import ml_client
+from .analysis_service import AnalysisService
 
 
 class ScriptService:
@@ -113,6 +114,17 @@ class ScriptService:
         logger.info(
             f"Rating completed for script {script_id}: {result['predicted_rating']}"
         )
+
+        try:
+            analysis_result = await AnalysisService.run_full_analysis(db, script_id)
+            logger.info(
+                f"Analysis completed for script {script_id}: "
+                f"{analysis_result['line_findings_count']} findings, "
+                f"{analysis_result['character_count']} characters"
+            )
+        except Exception as e:
+            logger.warning(f"Analysis failed for script {script_id}: {e}")
+
         return result
 
 

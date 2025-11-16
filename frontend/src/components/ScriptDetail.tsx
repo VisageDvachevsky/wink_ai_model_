@@ -3,11 +3,14 @@ import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { useParams } from 'react-router-dom'
 import { scriptsApi } from '../api/client'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts'
-import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles, Loader2, Target, Download, FileSpreadsheet, FileCode2, History } from 'lucide-react'
+import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles, Loader2, Target, Download, FileSpreadsheet, FileCode2, History, Edit3, RefreshCw } from 'lucide-react'
 import WhatIfModal from './WhatIfModal'
 import RatingAdvisor from './RatingAdvisor'
 import SceneHeatmap from './SceneHeatmap'
 import VersionHistory from './VersionHistory'
+import LineFindingsPanel from './LineFindingsPanel'
+import CharacterAnalysisPanel from './CharacterAnalysisPanel'
+import ScriptEditor from './ScriptEditor'
 import { useLanguage } from '../contexts/LanguageContext'
 
 const RATING_COLORS: Record<string, string> = {
@@ -48,6 +51,7 @@ export default function ScriptDetail() {
   const [showWhatIfModal, setShowWhatIfModal] = useState(false)
   const [showRatingAdvisor, setShowRatingAdvisor] = useState(false)
   const [showVersionHistory, setShowVersionHistory] = useState(false)
+  const [showScriptEditor, setShowScriptEditor] = useState(false)
   const [downloading, setDownloading] = useState<string | null>(null)
   const { language, t } = useLanguage()
 
@@ -95,7 +99,19 @@ export default function ScriptDetail() {
     mutationFn: () => scriptsApi.rate(Number(id), false),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['script', id] })
+      queryClient.invalidateQueries({ queryKey: ['line-findings', id] })
+      queryClient.invalidateQueries({ queryKey: ['character-analysis', id] })
     },
+  })
+
+  const { data: adjustedRating } = useQuery({
+    queryKey: ['adjusted-rating', id],
+    queryFn: async () => {
+      const response = await fetch(`/api/v1/scripts/${id}/adjusted-rating`)
+      if (!response.ok) return null
+      return response.json()
+    },
+    enabled: !!script?.predicted_rating,
   })
 
   if (isLoading) {
@@ -154,6 +170,21 @@ export default function ScriptDetail() {
               <div className="flex flex-col items-end gap-3">
                 <div className="flex items-center gap-3">
                   <button
+                    onClick={() => setShowScriptEditor(true)}
+                    className="inline-flex items-center px-4 py-2 border border-emerald-300 dark:border-emerald-600 rounded-lg text-sm font-medium text-emerald-700 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-900/30 hover:bg-emerald-100 dark:hover:bg-emerald-900/50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-emerald-500 dark:focus:ring-emerald-600 transition-all"
+                  >
+                    <Edit3 className="h-4 w-4 mr-2" />
+                    {language === 'ru' ? 'Редактор' : 'Edit Script'}
+                  </button>
+                  <button
+                    onClick={() => rateMutation.mutate()}
+                    disabled={rateMutation.isPending}
+                    className="inline-flex items-center px-4 py-2 border border-blue-300 dark:border-blue-600 rounded-lg text-sm font-medium text-blue-700 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/30 hover:bg-blue-100 dark:hover:bg-blue-900/50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 dark:focus:ring-blue-600 transition-all disabled:opacity-50 disabled:cursor-not-allowed"
+                  >
+                    {rateMutation.isPending ? <Loader2 className="h-4 w-4 mr-2 animate-spin" /> : <RefreshCw className="h-4 w-4 mr-2" />}
+                    {language === 'ru' ? 'Переанализ' : 'Re-analyze'}
+                  </button>
+                  <button
                     onClick={() => setShowRatingAdvisor(true)}
                     className="inline-flex items-center px-4 py-2 border border-indigo-300 dark:border-indigo-600 rounded-lg text-sm font-medium text-indigo-700 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-900/30 hover:bg-indigo-100 dark:hover:bg-indigo-900/50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 dark:focus:ring-indigo-600 transition-all"
                   >
@@ -174,9 +205,21 @@ export default function ScriptDetail() {
                     <Sparkles className="h-4 w-4 mr-2" />
                     {t('whatif.title')}
                   </button>
-                  <span className={`inline-flex items-center px-6 py-3 rounded-xl text-2xl font-bold border-2 ${ratingColor} shadow-sm`}>
-                    {script.predicted_rating}
-                  </span>
+                  <div className="flex flex-col items-end gap-2">
+                    <span className={`inline-flex items-center px-6 py-3 rounded-xl text-2xl font-bold border-2 ${ratingColor} shadow-sm`}>
+                      {script.predicted_rating}
+                    </span>
+                    {adjustedRating && adjustedRating.adjusted_rating !== script.predicted_rating && (
+                      <div className="flex items-center gap-2">
+                        <span className="text-xs text-gray-500 dark:text-gray-400">
+                          {language === 'ru' ? 'С правками:' : 'Adjusted:'}
+                        </span>
+                        <span className={`inline-flex items-center px-3 py-1.5 rounded-lg text-sm font-bold border-2 ${RATING_COLORS[adjustedRating.adjusted_rating] || ratingColor} shadow-sm animate-pulse`}>
+                          {adjustedRating.adjusted_rating}
+                        </span>
+                      </div>
+                    )}
+                  </div>
                 </div>
                 <div className="flex items-center gap-2">
                   <button
@@ -376,6 +419,14 @@ export default function ScriptDetail() {
                 </div>
               </div>
             )}
+
+            <div className="px-6 py-6 border-t border-gray-200 dark:border-gray-700 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900/10 dark:to-purple-900/10">
+              <LineFindingsPanel scriptId={Number(id)} />
+            </div>
+
+            <div className="px-6 py-6 border-t border-gray-200 dark:border-gray-700 bg-gradient-to-br from-green-50 to-teal-50 dark:from-green-900/10 dark:to-teal-900/10">
+              <CharacterAnalysisPanel scriptId={Number(id)} />
+            </div>
           </>
         )}
       </div>
@@ -402,6 +453,20 @@ export default function ScriptDetail() {
         <VersionHistory
           scriptId={Number(id)}
           onClose={() => setShowVersionHistory(false)}
+        />
+      )}
+
+      {showScriptEditor && script && (
+        <ScriptEditor
+          scriptId={Number(id)}
+          initialContent={script.content}
+          currentVersion={script.current_version || 1}
+          onClose={() => setShowScriptEditor(false)}
+          onSave={(newContent) => {
+            queryClient.invalidateQueries({ queryKey: ['script', id] })
+            queryClient.invalidateQueries({ queryKey: ['line-findings', id] })
+            queryClient.invalidateQueries({ queryKey: ['character-analysis', id] })
+          }}
         />
       )}
     </div>

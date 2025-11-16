@@ -1,6 +1,8 @@
+import asyncio
 from fastapi import APIRouter, Depends, UploadFile, File, Form
 from fastapi.responses import StreamingResponse
 from sqlalchemy.ext.asyncio import AsyncSession
+from loguru import logger
 
 from ...db.base import get_db
 from ...schemas.script import (
@@ -10,6 +12,16 @@ from ...schemas.script import (
     RatingJobResponse,
     WhatIfRequest,
     WhatIfResponse,
+    LineFindingsSummaryResponse,
+    LineFindingResponse,
+    CharacterAnalysisSummaryResponse,
+    CharacterAnalysisResponse,
+    ManualCorrectionCreate,
+    ManualCorrectionResponse,
+    CorrectionsSummaryResponse,
+    ScriptUpdateRequest,
+    AdjustedRatingResponse,
+    AISuggestRequest,
 )
 from ...services.script_service import script_service
 from ...services.ml_client import ml_client
@@ -17,6 +29,8 @@ from ...services.queue import enqueue_rating_job, get_job_status
 from ...services.pdf_generator import PDFReportGenerator
 from ...services.export_service import ExportService
 from ...services.document_parser import DocumentParser
+from ...services.analysis_service import AnalysisService
+from ...services.correction_service import CorrectionService
 from ...core.exceptions import (
     ScriptNotFoundError,
     InvalidFileError,
@@ -185,3 +199,185 @@ async def export_csv(script_id: int, db: AsyncSession = Depends(get_db)):
             "Content-Disposition": f"attachment; filename=rating_report_{script_id}.csv"
         },
     )
+
+
+@router.get("/{script_id}/line-findings", response_model=LineFindingsSummaryResponse)
+async def get_line_findings(script_id: int, db: AsyncSession = Depends(get_db)):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    findings, summary = await AnalysisService.get_line_findings(db, script_id)
+
+    return LineFindingsSummaryResponse(
+        total_findings=summary["total_findings"],
+        by_category=summary["by_category"],
+        findings=[LineFindingResponse.from_orm(f) for f in findings],
+    )
+
+
+@router.get(
+    "/{script_id}/character-analysis", response_model=CharacterAnalysisSummaryResponse
+)
+async def get_character_analysis(script_id: int, db: AsyncSession = Depends(get_db)):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    characters = await AnalysisService.get_character_analysis(db, script_id)
+
+    top_offenders = sorted(characters, key=lambda x: x.severity_score, reverse=True)[:5]
+
+    return CharacterAnalysisSummaryResponse(
+        total_characters=len(characters),
+        top_offenders=[CharacterAnalysisResponse.from_orm(c) for c in top_offenders],
+        all_characters=[CharacterAnalysisResponse.from_orm(c) for c in characters],
+    )
+
+
+@router.post("/{script_id}/analyze", status_code=202)
+async def trigger_analysis(script_id: int, db: AsyncSession = Depends(get_db)):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    result = await AnalysisService.run_full_analysis(db, script_id)
+
+    return {
+        "script_id": script_id,
+        "status": "completed",
+        "line_findings_count": result["line_findings_count"],
+        "character_count": result["character_count"],
+    }
+
+
+@router.post(
+    "/{script_id}/corrections", response_model=ManualCorrectionResponse, status_code=201
+)
+async def create_correction(
+    script_id: int,
+    correction: ManualCorrectionCreate,
+    db: AsyncSession = Depends(get_db),
+):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    if correction.correction_type == "false_positive":
+        result = await CorrectionService.add_false_positive(
+            db,
+            script_id,
+            finding_id=correction.finding_id,
+            scene_id=correction.scene_id,
+            description=correction.description,
+        )
+    else:
+        result = await CorrectionService.add_false_negative(
+            db,
+            script_id,
+            category=correction.category or "unknown",
+            severity=correction.severity or 0.5,
+            line_start=correction.line_start,
+            line_end=correction.line_end,
+            matched_text=correction.matched_text,
+            description=correction.description,
+        )
+
+    return ManualCorrectionResponse.from_orm(result)
+
+
+@router.get("/{script_id}/corrections", response_model=CorrectionsSummaryResponse)
+async def get_corrections(script_id: int, db: AsyncSession = Depends(get_db)):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    corrections, stats = await CorrectionService.get_corrections(db, script_id)
+
+    return CorrectionsSummaryResponse(
+        corrections=[ManualCorrectionResponse.from_orm(c) for c in corrections],
+        stats=stats,
+    )
+
+
+@router.delete("/{script_id}/corrections/{correction_id}", status_code=204)
+async def delete_correction(
+    script_id: int, correction_id: int, db: AsyncSession = Depends(get_db)
+):
+    await CorrectionService.delete_correction(db, correction_id)
+    return {"status": "deleted"}
+
+
+@router.get("/{script_id}/adjusted-rating", response_model=AdjustedRatingResponse)
+async def get_adjusted_rating(script_id: int, db: AsyncSession = Depends(get_db)):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    if not script.predicted_rating or not script.agg_scores:
+        return AdjustedRatingResponse(
+            original_rating="0+",
+            adjusted_rating="0+",
+            original_scores={},
+            adjusted_scores={},
+            corrections_applied=0,
+        )
+
+    adjusted_rating, adjusted_scores = (
+        await CorrectionService.apply_corrections_to_rating(
+            db, script_id, script.predicted_rating, script.agg_scores
+        )
+    )
+
+    corrections, stats = await CorrectionService.get_corrections(db, script_id)
+
+    return AdjustedRatingResponse(
+        original_rating=script.predicted_rating,
+        adjusted_rating=adjusted_rating,
+        original_scores=script.agg_scores,
+        adjusted_scores=adjusted_scores,
+        corrections_applied=len(corrections),
+    )
+
+
+@router.put("/{script_id}/content", response_model=ScriptResponse)
+async def update_script_content(
+    script_id: int, request: ScriptUpdateRequest, db: AsyncSession = Depends(get_db)
+):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    updated_script = await CorrectionService.update_script_content(
+        db, script_id, request.content
+    )
+
+    return updated_script
+
+
+@router.post("/{script_id}/ai-suggest")
+async def ai_suggest(
+    script_id: int, request: AISuggestRequest, db: AsyncSession = Depends(get_db)
+):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    async def generate_suggestion():
+        try:
+            result = await ml_client.what_if_analysis(
+                request.content, request.instruction
+            )
+
+            suggested_text = result.get("modified_script", request.content)
+
+            for i in range(0, len(suggested_text), 50):
+                chunk = suggested_text[i : i + 50]
+                yield chunk.encode("utf-8")
+                await asyncio.sleep(0.05)
+
+        except Exception as e:
+            logger.error(f"AI suggestion error: {e}")
+            yield b"Error: Unable to generate suggestion. Please try again."
+
+    return StreamingResponse(generate_suggestion(), media_type="text/plain")
