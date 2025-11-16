@@ -107,3 +107,55 @@ class ScriptVersion(Base):  # type: ignore[misc, valid-type]
     version_metadata: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
 
     script = relationship("Script", back_populates="versions")
+
+
+class LineDetection(Base):  # type: ignore[misc, valid-type]
+    __tablename__ = "line_detections"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    script_id: Mapped[int] = mapped_column(
+        Integer, ForeignKey("scripts.id", ondelete="CASCADE"), nullable=False
+    )
+    scene_id: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    line_start: Mapped[int] = mapped_column(Integer, nullable=False)
+    line_end: Mapped[int] = mapped_column(Integer, nullable=False)
+    detected_text: Mapped[str] = mapped_column(Text, nullable=False)
+    context_before: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    context_after: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    category: Mapped[str] = mapped_column(String(50), nullable=False)
+    severity: Mapped[float] = mapped_column(Float, default=0.0)
+    matched_patterns: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
+    is_false_positive: Mapped[bool] = mapped_column(Boolean, default=False)
+    user_corrected: Mapped[bool] = mapped_column(Boolean, default=False)
+    created_at: Mapped[Optional[datetime]] = mapped_column(
+        DateTime(timezone=True), server_default=func.now()
+    )
+
+    script = relationship("Script")
+    corrections = relationship(
+        "UserCorrection", back_populates="detection", cascade="all, delete-orphan"
+    )
+
+
+class UserCorrection(Base):  # type: ignore[misc, valid-type]
+    __tablename__ = "user_corrections"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    script_id: Mapped[int] = mapped_column(
+        Integer, ForeignKey("scripts.id", ondelete="CASCADE"), nullable=False
+    )
+    detection_id: Mapped[Optional[int]] = mapped_column(
+        Integer, ForeignKey("line_detections.id", ondelete="CASCADE"), nullable=True
+    )
+    correction_type: Mapped[str] = mapped_column(String(50), nullable=False)
+    line_start: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    line_end: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    category: Mapped[Optional[str]] = mapped_column(String(50), nullable=True)
+    severity: Mapped[Optional[float]] = mapped_column(Float, nullable=True)
+    note: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    created_at: Mapped[Optional[datetime]] = mapped_column(
+        DateTime(timezone=True), server_default=func.now()
+    )
+
+    script = relationship("Script")
+    detection = relationship("LineDetection", back_populates="corrections")
