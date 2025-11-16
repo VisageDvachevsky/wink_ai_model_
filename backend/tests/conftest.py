@@ -2,7 +2,6 @@ import pytest
 from typing import AsyncGenerator
 from httpx import AsyncClient, ASGITransport
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession, async_sessionmaker
-from unittest.mock import AsyncMock, patch
 
 from app.main import app
 from app.db.base import Base, get_db

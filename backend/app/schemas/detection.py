@@ -1,5 +1,5 @@
 from typing import Optional, Dict, List, Any
-from pydantic import BaseModel, Field
+from pydantic import BaseModel
 from datetime import datetime
 
 
@@ -11,6 +11,9 @@ class LineDetectionBase(BaseModel):
     context_after: Optional[str] = None
     category: str
     severity: float
+    parents_guide_severity: Optional[str] = None
+    character_name: Optional[str] = None
+    page_number: Optional[int] = None
     matched_patterns: Optional[Dict[str, Any]] = None
     scene_id: Optional[int] = None
 
@@ -54,12 +57,20 @@ class UserCorrectionResponse(UserCorrectionBase):
         from_attributes = True
 
 
+class ParentsGuideCategoryStats(BaseModel):
+    severity: str
+    episode_count: int
+    percentage: float
+    top_matches: int
+
+
 class LineDetectionStatsResponse(BaseModel):
     total_detections: int
     by_category: Dict[str, int]
     total_matches: Dict[str, int]
     false_positives: int
     user_corrections: int
+    parents_guide: Optional[Dict[str, ParentsGuideCategoryStats]] = None
 
 
 class ScriptWithDetectionsResponse(BaseModel):

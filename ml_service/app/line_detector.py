@@ -4,7 +4,7 @@ Provides detailed line-by-line analysis with context.
 """
 
 import re
-from typing import List, Dict, Any, Tuple
+from typing import List, Dict, Any
 from loguru import logger
 
 
@@ -80,6 +80,55 @@ CATEGORY_PATTERNS = {
 }
 
 
+def extract_character_name(line: str, previous_line: str = "") -> str | None:
+    """Extract character name from screenplay format."""
+    stripped = line.strip()
+
+    if not stripped:
+        return None
+
+    if len(stripped) < 2 or len(stripped) > 50:
+        return None
+
+    if re.match(r'^[A-ZА-ЯЁ][A-ZА-ЯЁ\s\.\-]{1,}$', stripped):
+        common_directions = [
+            'INT', 'EXT', 'FADE IN', 'FADE OUT', 'CUT TO', 'DISSOLVE TO',
+            'ИНТ', 'НАТ', 'ЗАТЕМНЕНИЕ', 'ПЕРЕХОД'
+        ]
+        if any(stripped.upper().startswith(d) for d in common_directions):
+            return None
+
+        if ':' not in stripped and '.' not in stripped[-2:]:
+            return stripped
+
+    if previous_line and re.match(r'^[A-ZА-ЯЁ][A-ZА-ЯЁ\s\.\-]{1,}$', previous_line.strip()):
+        return previous_line.strip()
+
+    return None
+
+
+def get_parents_guide_severity(severity: float, category: str) -> str:
+    """Convert numeric severity to IMDb-style Parents Guide rating."""
+    if category == "child_risk":
+        if severity >= 0.8:
+            return "SEVERE"
+        elif severity >= 0.5:
+            return "MODERATE"
+        elif severity >= 0.2:
+            return "MILD"
+        else:
+            return "NONE"
+
+    if severity >= 0.7:
+        return "SEVERE"
+    elif severity >= 0.5:
+        return "MODERATE"
+    elif severity >= 0.3:
+        return "MILD"
+    else:
+        return "NONE"
+
+
 class LineDetector:
     def __init__(self):
         self.compiled_patterns = {}
@@ -133,6 +182,15 @@ class LineDetector:
                     )
 
                     severity = self._calculate_severity(category, len(matches), line)
+                    parents_guide_severity = get_parents_guide_severity(severity, category)
+
+                    previous_line = lines[line_idx - 1] if line_idx > 0 else ""
+                    character_name = extract_character_name(line, previous_line)
+
+                    if not character_name and line_idx > 0:
+                        character_name = extract_character_name(lines[line_idx - 1])
+
+                    page_number = (line_num - 1) // 55 + 1
 
                     detections.append({
                         "line_start": line_num,
@@ -142,6 +200,9 @@ class LineDetector:
                         "context_after": '\n'.join(context_after) if context_after else None,
                         "category": category,
                         "severity": severity,
+                        "parents_guide_severity": parents_guide_severity,
+                        "character_name": character_name,
+                        "page_number": page_number,
                         "matched_patterns": {
                             "count": len(matches),
                             "matches": matches
