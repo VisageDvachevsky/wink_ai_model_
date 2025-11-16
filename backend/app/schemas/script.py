@@ -169,3 +169,8 @@ class AdjustedRatingResponse(BaseModel):
     original_scores: dict
     adjusted_scores: dict
     corrections_applied: int
+
+
+class AISuggestRequest(BaseModel):
+    content: str = Field(..., min_length=10)
+    instruction: str = Field(..., min_length=5, max_length=1000)

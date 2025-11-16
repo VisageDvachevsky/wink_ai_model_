@@ -1,6 +1,8 @@
+import asyncio
 from fastapi import APIRouter, Depends, UploadFile, File, Form
 from fastapi.responses import StreamingResponse
 from sqlalchemy.ext.asyncio import AsyncSession
+from loguru import logger
 
 from ...db.base import get_db
 from ...schemas.script import (
@@ -19,6 +21,7 @@ from ...schemas.script import (
     CorrectionsSummaryResponse,
     ScriptUpdateRequest,
     AdjustedRatingResponse,
+    AISuggestRequest,
 )
 from ...services.script_service import script_service
 from ...services.ml_client import ml_client
@@ -350,3 +353,31 @@ async def update_script_content(
     )
 
     return updated_script
+
+
+@router.post("/{script_id}/ai-suggest")
+async def ai_suggest(
+    script_id: int, request: AISuggestRequest, db: AsyncSession = Depends(get_db)
+):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    async def generate_suggestion():
+        try:
+            result = await ml_client.what_if_analysis(
+                request.content, request.instruction
+            )
+
+            suggested_text = result.get("modified_script", request.content)
+
+            for i in range(0, len(suggested_text), 50):
+                chunk = suggested_text[i : i + 50]
+                yield chunk.encode("utf-8")
+                await asyncio.sleep(0.05)
+
+        except Exception as e:
+            logger.error(f"AI suggestion error: {e}")
+            yield b"Error: Unable to generate suggestion. Please try again."
+
+    return StreamingResponse(generate_suggestion(), media_type="text/plain")

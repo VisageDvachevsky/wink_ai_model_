@@ -6,7 +6,7 @@ interface CharacterAnalysis {
   id: number
   character_name: string
   profanity_count: number
-  violence_scenes: int
+  violence_scenes: number
   sex_scenes: number
   drug_scenes: number
   total_problematic_scenes: number
