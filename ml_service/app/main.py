@@ -154,13 +154,13 @@ async def detect_lines(request: LineDetectionRequest):
         detector = LineDetector()
         detections = detector.detect_lines(request.text, request.context_size)
         stats = detector.get_statistics(detections)
-        total_lines = len(request.text.split('\n'))
+        total_lines = len(request.text.split("\n"))
 
         return LineDetectionResponse(
             script_id=request.script_id,
             detections=detections,
             stats=stats,
-            total_lines=total_lines
+            total_lines=total_lines,
         )
     except Exception as e:
         logger.error(f"Error detecting lines: {e}")

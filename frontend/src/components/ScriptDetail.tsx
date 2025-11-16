@@ -398,7 +398,7 @@ export default function ScriptDetail() {
         <div className="bg-white dark:bg-gray-800 shadow-lg rounded-xl p-6 border border-gray-100 dark:border-gray-700">
           <LineDetectionPanel
             scriptId={Number(id)}
-            onLineClick={(lineStart, lineEnd) => {
+            onLineClick={() => {
               setShowSmartEditor(true)
             }}
           />
@@ -411,7 +411,7 @@ export default function ScriptDetail() {
             scriptId={Number(id)}
             initialContent={script.content}
             detections={detections}
-            onSave={async (content) => {
+            onSave={async () => {
               queryClient.invalidateQueries({ queryKey: ['script', id] })
             }}
             onReanalyze={async () => {

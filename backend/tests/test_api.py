@@ -29,7 +29,7 @@ async def test_root_endpoint(client: AsyncClient):
 async def test_create_script(client: AsyncClient):
     payload = {
         "title": "New Script",
-        "content": "INT. OFFICE - DAY\n\nSarah types on her computer."
+        "content": "INT. OFFICE - DAY\n\nSarah types on her computer.",
     }
 
     response = await client.post("/api/v1/scripts/", json=payload)
@@ -68,10 +68,7 @@ async def test_get_nonexistent_script(client: AsyncClient):
 
 @pytest.mark.asyncio
 async def test_create_script_invalid_data(client: AsyncClient):
-    payload = {
-        "title": "",
-        "content": "x"
-    }
+    payload = {"title": "", "content": "x"}
 
     response = await client.post("/api/v1/scripts/", json=payload)
     assert response.status_code == 422

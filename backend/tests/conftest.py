@@ -29,9 +29,7 @@ async def test_engine():
 @pytest.fixture
 async def test_session(test_engine) -> AsyncGenerator[AsyncSession, None]:
     async_session = async_sessionmaker(
-        test_engine,
-        class_=AsyncSession,
-        expire_on_commit=False
+        test_engine, class_=AsyncSession, expire_on_commit=False
     )
 
     async with async_session() as session:
@@ -46,8 +44,7 @@ async def client(test_session) -> AsyncGenerator[AsyncClient, None]:
     app.dependency_overrides[get_db] = override_get_db
 
     async with AsyncClient(
-        transport=ASGITransport(app=app),
-        base_url="http://test"
+        transport=ASGITransport(app=app), base_url="http://test"
     ) as ac:
         yield ac
 
@@ -57,8 +54,7 @@ async def client(test_session) -> AsyncGenerator[AsyncClient, None]:
 @pytest.fixture
 async def sample_script(test_session) -> Script:
     script = Script(
-        title="Test Script",
-        content="INT. HOUSE - DAY\n\nJohn enters the room."
+        title="Test Script", content="INT. HOUSE - DAY\n\nJohn enters the room."
     )
     test_session.add(script)
     await test_session.commit()

@@ -189,7 +189,9 @@ class SmartSuggestionsResponse(BaseModel):
 class LineDetectionRequest(BaseModel):
     script_id: str | None = None
     text: str = Field(..., min_length=10, description="Full movie script text")
-    context_size: int = Field(default=3, ge=0, le=10, description="Lines of context before/after")
+    context_size: int = Field(
+        default=3, ge=0, le=10, description="Lines of context before/after"
+    )
 
 
 class LineMatchSchema(BaseModel):

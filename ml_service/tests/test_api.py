@@ -27,7 +27,7 @@ def test_root_endpoint(client):
 def test_rate_script_valid(client):
     payload = {
         "text": "INT. HOUSE - DAY\n\nJohn enters the room and sits down.",
-        "script_id": "test_script_1"
+        "script_id": "test_script_1",
     }
 
     response = client.post("/rate_script", json=payload)
@@ -41,19 +41,14 @@ def test_rate_script_valid(client):
 
 
 def test_rate_script_invalid_empty_text(client):
-    payload = {
-        "text": "",
-        "script_id": "test_script_2"
-    }
+    payload = {"text": "", "script_id": "test_script_2"}
 
     response = client.post("/rate_script", json=payload)
     assert response.status_code == 422
 
 
 def test_rate_script_without_script_id(client):
-    payload = {
-        "text": "INT. OFFICE - DAY\n\nSarah types on her computer."
-    }
+    payload = {"text": "INT. OFFICE - DAY\n\nSarah types on her computer."}
 
     response = client.post("/rate_script", json=payload)
     assert response.status_code == 200

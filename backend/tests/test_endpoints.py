@@ -7,7 +7,11 @@ from unittest.mock import AsyncMock, patch
 @pytest.mark.asyncio
 async def test_upload_script_success(client: AsyncClient):
     files = {
-        "file": ("test.txt", BytesIO(b"INT. OFFICE - DAY\n\nSarah types on computer."), "text/plain")
+        "file": (
+            "test.txt",
+            BytesIO(b"INT. OFFICE - DAY\n\nSarah types on computer."),
+            "text/plain",
+        )
     }
     data = {"title": "Uploaded Script"}
 
@@ -22,7 +26,11 @@ async def test_upload_script_success(client: AsyncClient):
 @pytest.mark.asyncio
 async def test_upload_script_without_title(client: AsyncClient):
     files = {
-        "file": ("script.txt", BytesIO(b"INT. ROOM - DAY\n\nJohn sits down."), "text/plain")
+        "file": (
+            "script.txt",
+            BytesIO(b"INT. ROOM - DAY\n\nJohn sits down."),
+            "text/plain",
+        )
     }
 
     response = await client.post("/api/v1/scripts/upload", files=files)
@@ -34,9 +42,7 @@ async def test_upload_script_without_title(client: AsyncClient):
 
 @pytest.mark.asyncio
 async def test_upload_script_invalid_extension(client: AsyncClient):
-    files = {
-        "file": ("test.exe", BytesIO(b"Some content"), "application/octet-stream")
-    }
+    files = {"file": ("test.exe", BytesIO(b"Some content"), "application/octet-stream")}
 
     response = await client.post("/api/v1/scripts/upload", files=files)
 
@@ -47,9 +53,7 @@ async def test_upload_script_invalid_extension(client: AsyncClient):
 @pytest.mark.asyncio
 async def test_upload_script_too_large(client: AsyncClient):
     large_content = b"x" * (11 * 1024 * 1024)
-    files = {
-        "file": ("large.txt", BytesIO(large_content), "text/plain")
-    }
+    files = {"file": ("large.txt", BytesIO(large_content), "text/plain")}
 
     response = await client.post("/api/v1/scripts/upload", files=files)
 
@@ -58,9 +62,7 @@ async def test_upload_script_too_large(client: AsyncClient):
 
 @pytest.mark.asyncio
 async def test_upload_script_invalid_encoding(client: AsyncClient):
-    files = {
-        "file": ("test.txt", BytesIO(b"\x80\x81\x82"), "text/plain")
-    }
+    files = {"file": ("test.txt", BytesIO(b"\x80\x81\x82"), "text/plain")}
 
     response = await client.post("/api/v1/scripts/upload", files=files)
 
@@ -83,8 +85,7 @@ async def test_rate_script_sync(client: AsyncClient, sample_script):
         mock_client.rate_script = AsyncMock(return_value=mock_result)
 
         response = await client.post(
-            f"/api/v1/scripts/{sample_script.id}/rate",
-            params={"background": False}
+            f"/api/v1/scripts/{sample_script.id}/rate", params={"background": False}
         )
 
         assert response.status_code == 200
@@ -99,8 +100,7 @@ async def test_rate_script_background(client: AsyncClient, sample_script):
         mock_enqueue.return_value = "job-123"
 
         response = await client.post(
-            f"/api/v1/scripts/{sample_script.id}/rate",
-            params={"background": True}
+            f"/api/v1/scripts/{sample_script.id}/rate", params={"background": True}
         )
 
         assert response.status_code == 200

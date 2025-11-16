@@ -7,6 +7,7 @@ def test_metrics_tracker_timer():
 
     tracker.start_timer("test_operation")
     import time
+
     time.sleep(0.01)
     duration = tracker.end_timer("test_operation")
 
@@ -38,7 +39,7 @@ def test_metrics_tracker_record_scores():
         "gore": 0.2,
         "profanity": 0.5,
         "drugs": 0.1,
-        "nudity": 0.0
+        "nudity": 0.0,
     }
     tracker.record_scores(scores)
 

@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react'
-import { AlertTriangle, CheckCircle, XCircle, Info, TrendingUp, Filter } from 'lucide-react'
+import { AlertTriangle, CheckCircle, XCircle, Info, Filter } from 'lucide-react'
 import { scriptsApi, LineDetection, LineDetectionStats } from '../api/client'
 import { useLanguage } from '../contexts/LanguageContext'
 import ParentsGuide from './ParentsGuide'
