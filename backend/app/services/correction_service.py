@@ -1,8 +1,8 @@
-from typing import List, Dict, Any
+from typing import List, Dict
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, update
 
-from ..models.script import Script, ManualCorrection, LineFinding, Scene
+from ..models.script import Script, ManualCorrection
 
 
 class CorrectionService:
@@ -61,7 +61,7 @@ class CorrectionService:
         result = await db.execute(
             select(ManualCorrection)
             .where(ManualCorrection.script_id == script_id)
-            .where(ManualCorrection.is_active == True)
+            .where(ManualCorrection.is_active)
             .order_by(ManualCorrection.created_at.desc())
         )
         corrections = list(result.scalars().all())

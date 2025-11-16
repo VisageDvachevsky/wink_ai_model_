@@ -28,6 +28,7 @@ export interface Script {
   agg_scores: Record<string, number> | null
   model_version: string | null
   total_scenes: number | null
+  current_version: number | null
   created_at: string
   updated_at: string | null
   reasons?: string[]
