@@ -554,8 +554,9 @@ class WhatIfAnalyzer:
         # Analyze each category
         for category, config in category_config.items():
             score = current_scores.get(category, 0)
+            threshold = cast(float, config["threshold"])
 
-            if score > config["threshold"]:
+            if score > threshold:
                 # Find problematic scenes
                 affected_scenes = []
                 for scene in scenes:
@@ -570,7 +571,7 @@ class WhatIfAnalyzer:
 
                 # Generate suggestion text based on language
                 if language == "ru":
-                    category_name = config["ru"]
+                    category_name = cast(str, config["ru"])
                     if len(affected_scenes) > 0:
                         if len(affected_scenes) == 1:
                             suggestion_text = (
@@ -588,7 +589,7 @@ class WhatIfAnalyzer:
 
                     reasoning = f"Уровень {category_name}: {int(score * 100)}% - выше нормы для более низкого рейтинга"
                 else:
-                    category_name = config["en"]
+                    category_name = cast(str, config["en"])
                     if len(affected_scenes) > 0:
                         if len(affected_scenes) == 1:
                             suggestion_text = (
@@ -610,7 +611,7 @@ class WhatIfAnalyzer:
                     {
                         "text": suggestion_text,
                         "category": category,
-                        "icon": config["icon"],
+                        "icon": cast(str, config["icon"]),
                         "priority": priority,
                         "confidence": confidence,
                         "affected_scenes": affected_scenes[:5],  # Limit to 5 scenes
@@ -619,7 +620,9 @@ class WhatIfAnalyzer:
                 )
 
         # Sort by priority (descending)
-        suggestions.sort(key=lambda x: (-x["priority"], -x["confidence"]))
+        suggestions.sort(
+            key=lambda x: (-cast(int, x["priority"]), -cast(float, x["confidence"]))
+        )
 
         # Limit to max_suggestions
         suggestions = suggestions[:max_suggestions]
