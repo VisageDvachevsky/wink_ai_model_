@@ -127,6 +127,11 @@ class LineDetection(Base):  # type: ignore[misc, valid-type]
     matched_patterns: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
     is_false_positive: Mapped[bool] = mapped_column(Boolean, default=False)
     user_corrected: Mapped[bool] = mapped_column(Boolean, default=False)
+    page_number: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    character: Mapped[Optional[str]] = mapped_column(String(100), nullable=True)
+    scene_number: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    scene_heading: Mapped[Optional[str]] = mapped_column(String(500), nullable=True)
+    timing_estimate: Mapped[Optional[str]] = mapped_column(String(50), nullable=True)
     created_at: Mapped[Optional[datetime]] = mapped_column(
         DateTime(timezone=True), server_default=func.now()
     )

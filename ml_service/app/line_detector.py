@@ -87,7 +87,45 @@ class LineDetector:
             self.compiled_patterns[category] = [
                 re.compile(pattern, re.IGNORECASE) for pattern in patterns
             ]
+        self.character_pattern = re.compile(r'^[A-ZА-Я][A-ZА-Я\s]{1,30}$')
+        self.scene_pattern = re.compile(r'^(?:INT\.|EXT\.|SCENE)', re.IGNORECASE)
         logger.info(f"LineDetector initialized with {len(CATEGORY_PATTERNS)} categories")
+
+    def _extract_character_name(self, lines: List[str], line_idx: int) -> str:
+        """Extract character name from preceding lines if line is dialogue."""
+        for i in range(line_idx - 1, max(0, line_idx - 3), -1):
+            line = lines[i].strip()
+            if self.character_pattern.match(line):
+                return line
+        return None
+
+    def _calculate_page_number(self, line_idx: int, lines: List[str]) -> int:
+        """Estimate page number (1 page ≈ 55 lines in standard screenplay format)."""
+        return (line_idx // 55) + 1
+
+    def _find_scene_info(self, lines: List[str], line_idx: int) -> Dict[str, Any]:
+        """Find the current scene heading and timing estimate."""
+        scene_number = 0
+        scene_heading = None
+
+        for i in range(line_idx, -1, -1):
+            line = lines[i].strip()
+            if self.scene_pattern.match(line):
+                scene_heading = line
+                break
+
+        for i in range(0, line_idx + 1):
+            line = lines[i].strip()
+            if self.scene_pattern.match(line):
+                scene_number += 1
+
+        timing_minutes = scene_number
+
+        return {
+            "scene_number": scene_number,
+            "scene_heading": scene_heading,
+            "timing_estimate": f"~{timing_minutes} min",
+        }
 
     def detect_lines(
         self, text: str, context_size: int = 3
@@ -134,7 +172,11 @@ class LineDetector:
 
                     severity = self._calculate_severity(category, len(matches), line)
 
-                    detections.append({
+                    character_name = self._extract_character_name(lines, line_idx)
+                    page_number = self._calculate_page_number(line_idx, lines)
+                    scene_info = self._find_scene_info(lines, line_idx)
+
+                    detection = {
                         "line_start": line_num,
                         "line_end": line_num,
                         "detected_text": line.strip(),
@@ -145,8 +187,15 @@ class LineDetector:
                         "matched_patterns": {
                             "count": len(matches),
                             "matches": matches
-                        }
-                    })
+                        },
+                        "page_number": page_number,
+                        "character": character_name,
+                        "scene_number": scene_info["scene_number"],
+                        "scene_heading": scene_info["scene_heading"],
+                        "timing_estimate": scene_info["timing_estimate"],
+                    }
+
+                    detections.append(detection)
 
         logger.info(f"Detected {len(detections)} problematic lines in script")
         return detections

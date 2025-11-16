@@ -13,6 +13,11 @@ class LineDetectionBase(BaseModel):
     severity: float
     matched_patterns: Optional[Dict[str, Any]] = None
     scene_id: Optional[int] = None
+    page_number: Optional[int] = None
+    character: Optional[str] = None
+    scene_number: Optional[int] = None
+    scene_heading: Optional[str] = None
+    timing_estimate: Optional[str] = None
 
 
 class LineDetectionCreate(LineDetectionBase):
@@ -54,12 +59,24 @@ class UserCorrectionResponse(UserCorrectionBase):
         from_attributes = True
 
 
+class CategoryGradation(BaseModel):
+    category: str
+    gradation: str
+    episodes: int
+    affected_scenes_count: int
+    total_scenes: int
+    percentage: float
+    severity_score: float
+    description: str
+
+
 class LineDetectionStatsResponse(BaseModel):
     total_detections: int
     by_category: Dict[str, int]
     total_matches: Dict[str, int]
     false_positives: int
     user_corrections: int
+    parents_guide: Optional[List[CategoryGradation]] = None
 
 
 class ScriptWithDetectionsResponse(BaseModel):
