@@ -363,20 +363,21 @@ class LineDetector:
 
     def get_statistics(self, detections: List[Dict[str, Any]]) -> Dict[str, Any]:
         """Calculate statistics from detections."""
-        stats = {
-            "total_detections": len(detections),
-            "by_category": {},
-            "total_matches": {},
-        }
+        by_category: dict[str, int] = {}
+        total_matches: dict[str, int] = {}
 
         for detection in detections:
             category = detection["category"]
-            stats["by_category"][category] = stats["by_category"].get(category, 0) + 1
+            by_category[category] = by_category.get(category, 0) + 1
 
             match_count = detection.get("matched_patterns", {}).get("count", 0)
-            stats["total_matches"][category] = (
-                stats["total_matches"].get(category, 0) + match_count
-            )
+            total_matches[category] = total_matches.get(category, 0) + match_count
+
+        stats = {
+            "total_detections": len(detections),
+            "by_category": by_category,
+            "total_matches": total_matches,
+        }
 
         return stats
 

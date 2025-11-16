@@ -69,23 +69,6 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
     setHasChanges(false)
   }
 
-  const _scrollToLine = (lineNumber: number) => {
-    if (!editorRef.current) return
-
-    const lines = content.split('\n')
-    const charPosition = lines.slice(0, lineNumber - 1).join('\n').length
-
-    editorRef.current.focus()
-    editorRef.current.setSelectionRange(charPosition, charPosition)
-
-    const lineHeight = 24
-    const scrollPosition = (lineNumber - 1) * lineHeight - 100
-    editorRef.current.scrollTop = Math.max(0, scrollPosition)
-
-    setHighlightedLine(lineNumber)
-    setTimeout(() => setHighlightedLine(null), 2000)
-  }
-
   const renderHighlightedContent = () => {
     const lines = content.split('\n')
     const detectionMap = new Map<number, LineDetection[]>()

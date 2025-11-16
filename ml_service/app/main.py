@@ -156,10 +156,15 @@ async def detect_lines(request: LineDetectionRequest):
         stats = detector.get_statistics(detections)
         total_lines = len(request.text.split("\n"))
 
+        from .schemas import LineDetectionItemSchema, LineDetectionStatsSchema
+
+        detection_items = [LineDetectionItemSchema(**d) for d in detections]
+        stats_schema = LineDetectionStatsSchema(**stats)
+
         return LineDetectionResponse(
             script_id=request.script_id,
-            detections=detections,
-            stats=stats,
+            detections=detection_items,
+            stats=stats_schema,
             total_lines=total_lines,
         )
     except Exception as e:
