@@ -1055,6 +1055,25 @@ def analyze_script_file(path: str) -> Dict[str, Any]:
                 }
             )
 
+    # все сцены с их scores для рейтингового советника
+    all_scenes = []
+    for idx, (scene, score) in enumerate(zip(scenes, scores)):
+        all_scenes.append(
+            {
+                "scene_id": scene["scene_id"],
+                "scene_number": idx + 1,
+                "heading": scene["heading"],
+                "content": scene["text"],
+                "violence": score["violence"],
+                "gore": score["gore"],
+                "sex_act": score["sex_act"],
+                "nudity": score["nudity"],
+                "profanity": score["profanity"],
+                "drugs": score["drugs"],
+                "child_risk": score["child_risk"],
+            }
+        )
+
     # формируем итоговый результат
     result = {
         "file": str(Path(path).name),
@@ -1064,6 +1083,7 @@ def analyze_script_file(path: str) -> Dict[str, Any]:
         "aggregated_scores": {k: round(agg[k], 3) for k in score_keys},
         "top_trigger_scenes": top_scenes,
         "total_scenes": len(scenes),
+        "scenes": all_scenes,
     }
 
     return result

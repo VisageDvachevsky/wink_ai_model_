@@ -98,6 +98,7 @@ class RatingPipeline:
                 "model_version": settings.model_version,
                 "total_scenes": result.get("total_scenes", 0),
                 "evidence_excerpts": result.get("evidence_excerpts", []),
+                "scenes": result.get("scenes", []),
             }
         finally:
             Path(temp_path).unlink(missing_ok=True)
