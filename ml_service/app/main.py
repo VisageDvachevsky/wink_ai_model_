@@ -14,6 +14,8 @@ from .schemas import (
     RatingAdvisorResponse,
     SmartSuggestionsRequest,
     SmartSuggestionsResponse,
+    LineDetectionRequest,
+    LineDetectionResponse,
 )
 from .pipeline import get_pipeline
 from .what_if import get_what_if_analyzer
@@ -141,6 +143,18 @@ async def what_if_suggestions(request: SmartSuggestionsRequest):
         return SmartSuggestionsResponse(**result)
     except Exception as e:
         logger.error(f"Error generating smart suggestions: {e}")
+        raise HTTPException(status_code=500, detail=f"Processing error: {str(e)}")
+
+
+@app.post("/detect_lines", response_model=LineDetectionResponse)
+@track_inference_time("detect_lines")
+async def detect_lines_endpoint(request: LineDetectionRequest):
+    try:
+        from .line_detector import detect_lines
+        result = detect_lines(request.text, request.context_lines)
+        return LineDetectionResponse(**result)
+    except Exception as e:
+        logger.error(f"Error detecting lines: {e}")
         raise HTTPException(status_code=500, detail=f"Processing error: {str(e)}")
 
 

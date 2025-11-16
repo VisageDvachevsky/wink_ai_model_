@@ -100,6 +100,47 @@ class MLServiceClient:
             raise MLServiceError(f"Connection failed: {str(last_error)}")
         raise MLServiceError("No attempts made")
 
+    async def detect_lines(
+        self, text: str, context_lines: int = 3
+    ) -> dict[str, Any]:
+        last_error: Exception | None = None
+
+        for attempt in range(self.max_retries):
+            try:
+                async with httpx.AsyncClient(timeout=self.timeout) as client:
+                    response = await client.post(
+                        f"{self.base_url}/detect_lines",
+                        json={"text": text, "context_lines": context_lines},
+                    )
+                    response.raise_for_status()
+                    return cast(dict[str, Any], response.json())
+
+            except httpx.TimeoutException as e:
+                last_error = e
+                logger.warning(
+                    f"ML service timeout on attempt {attempt + 1}/{self.max_retries}"
+                )
+                if attempt < self.max_retries - 1:
+                    await asyncio.sleep(self.retry_delay * (2**attempt))
+
+            except httpx.HTTPStatusError as e:
+                logger.error(f"ML service HTTP error: {e.response.status_code}")
+                raise MLServiceError(f"HTTP {e.response.status_code}")
+
+            except httpx.RequestError as e:
+                last_error = e
+                logger.warning(
+                    f"ML service connection error on attempt {attempt + 1}/{self.max_retries}: {e}"
+                )
+                if attempt < self.max_retries - 1:
+                    await asyncio.sleep(self.retry_delay * (2**attempt))
+
+        if isinstance(last_error, httpx.TimeoutException):
+            raise MLServiceTimeoutError()
+        elif isinstance(last_error, httpx.RequestError):
+            raise MLServiceError(f"Connection failed: {str(last_error)}")
+        raise MLServiceError("No attempts made")
+
     async def health_check(self) -> dict[str, Any]:
         try:
             async with httpx.AsyncClient(timeout=5.0) as client:

@@ -181,3 +181,19 @@ async def export_csv(script_id: int, db: AsyncSession = Depends(get_db)):
             "Content-Disposition": f"attachment; filename=rating_report_{script_id}.csv"
         },
     )
+
+
+@router.put("/{script_id}/content")
+async def update_script_content(
+    script_id: int,
+    content: str = Form(...),
+    description: str = Form(None),
+    db: AsyncSession = Depends(get_db)
+):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    await script_service.update_content(db, script_id, content, description)
+
+    return {"status": "success", "message": "Content updated successfully"}

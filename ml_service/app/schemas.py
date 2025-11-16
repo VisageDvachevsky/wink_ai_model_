@@ -184,3 +184,66 @@ class SmartSuggestionsResponse(BaseModel):
     analysis_summary: str
     current_rating: str
     total_scenes: int
+
+
+class LineIssueContext(BaseModel):
+    line: int
+    text: str
+
+
+class LineIssueSchema(BaseModel):
+    line_number: int
+    line_text: str
+    category: str
+    matched_words: list[str]
+    match_count: int
+    context_before: list[LineIssueContext]
+    context_after: list[LineIssueContext]
+    severity: float
+
+
+class LineDetectionRequest(BaseModel):
+    text: str = Field(..., min_length=1)
+    context_lines: int = Field(default=3, ge=0, le=10)
+
+
+class LineDetectionResponse(BaseModel):
+    total_issues: int
+    issues: list[LineIssueSchema]
+    statistics: dict[str, int]
+    summary: dict[str, Any]
+
+
+class ManualCorrectionSchema(BaseModel):
+    issue_id: str
+    correction_type: str = Field(..., pattern="^(false_positive|false_negative)$")
+    category: str
+    line_number: int
+    notes: str | None = None
+
+
+class ScriptCorrectionRequest(BaseModel):
+    script_id: int
+    corrections: list[ManualCorrectionSchema]
+
+
+class ScriptEditRequest(BaseModel):
+    script_id: int
+    content: str = Field(..., min_length=10)
+    edit_description: str | None = None
+
+
+class VersionSchema(BaseModel):
+    version_id: str
+    script_id: int
+    content: str
+    rating: str | None
+    created_at: str
+    description: str | None
+    author: str = "user"
+
+
+class VersionListResponse(BaseModel):
+    script_id: int
+    versions: list[VersionSchema]
+    current_version: str
