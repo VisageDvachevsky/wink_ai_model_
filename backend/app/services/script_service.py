@@ -18,7 +18,7 @@ class ScriptService:
         result = await db.execute(
             select(Script).where(Script.title == script_data.title)
         )
-        existing_script = result.scalar_one_or_none()
+        existing_script: Script | None = result.scalar_one_or_none()
 
         if existing_script and create_version:
             from .version_service import VersionService
