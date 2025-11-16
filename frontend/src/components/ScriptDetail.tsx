@@ -18,6 +18,20 @@ const RATING_COLORS: Record<string, string> = {
   '18+': 'bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-400 border-red-200 dark:border-red-700',
 }
 
+const getScoreColor = (score: number): string => {
+  if (score >= 70) return 'text-red-600 dark:text-red-400 font-bold'
+  if (score >= 40) return 'text-orange-600 dark:text-orange-400 font-semibold'
+  if (score >= 20) return 'text-yellow-600 dark:text-yellow-400'
+  return 'text-green-600 dark:text-green-400'
+}
+
+const getScoreBgColor = (score: number): string => {
+  if (score >= 70) return 'bg-red-100 dark:bg-red-900/30'
+  if (score >= 40) return 'bg-orange-100 dark:bg-orange-900/30'
+  if (score >= 20) return 'bg-yellow-100 dark:bg-yellow-900/30'
+  return 'bg-green-100 dark:bg-green-900/30'
+}
+
 const CATEGORY_COLORS: Record<string, string> = {
   'violence': '#ef4444',
   'gore': '#dc2626',
@@ -310,23 +324,25 @@ export default function ScriptDetail() {
                         </span>
                       </div>
 
-                      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-3">
-                        <div className="bg-white dark:bg-gray-900/50 rounded-lg p-2 text-center border border-gray-200 dark:border-gray-700">
-                          <div className="text-xs text-gray-500 dark:text-gray-400 mb-1">{t('category.violence')}</div>
-                          <div className="text-sm font-bold text-gray-900 dark:text-white">{(scene.violence * 100).toFixed(0)}%</div>
-                        </div>
-                        <div className="bg-white dark:bg-gray-900/50 rounded-lg p-2 text-center border border-gray-200 dark:border-gray-700">
-                          <div className="text-xs text-gray-500 dark:text-gray-400 mb-1">{t('category.gore')}</div>
-                          <div className="text-sm font-bold text-gray-900 dark:text-white">{(scene.gore * 100).toFixed(0)}%</div>
-                        </div>
-                        <div className="bg-white dark:bg-gray-900/50 rounded-lg p-2 text-center border border-gray-200 dark:border-gray-700">
-                          <div className="text-xs text-gray-500 dark:text-gray-400 mb-1">{t('category.sexual')}</div>
-                          <div className="text-sm font-bold text-gray-900 dark:text-white">{(scene.sex_act * 100).toFixed(0)}%</div>
-                        </div>
-                        <div className="bg-white dark:bg-gray-900/50 rounded-lg p-2 text-center border border-gray-200 dark:border-gray-700">
-                          <div className="text-xs text-gray-500 dark:text-gray-400 mb-1">{t('category.profanity')}</div>
-                          <div className="text-sm font-bold text-gray-900 dark:text-white">{(scene.profanity * 100).toFixed(0)}%</div>
-                        </div>
+                      <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-2 mb-3">
+                        {[
+                          { key: 'violence', label: t('category.violence'), value: scene.violence },
+                          { key: 'gore', label: t('category.gore'), value: scene.gore },
+                          { key: 'sex_act', label: t('category.sexual'), value: scene.sex_act },
+                          { key: 'nudity', label: t('category.nudity'), value: scene.nudity },
+                          { key: 'profanity', label: t('category.profanity'), value: scene.profanity },
+                          { key: 'drugs', label: t('category.drugs'), value: scene.drugs },
+                          { key: 'child_risk', label: t('category.child_risk'), value: scene.child_risk },
+                        ].map(({ key, label, value }) => {
+                          const percentage = (value * 100).toFixed(0)
+                          const scoreNum = parseFloat(percentage)
+                          return (
+                            <div key={key} className={`${getScoreBgColor(scoreNum)} rounded-lg p-2 text-center border border-gray-200 dark:border-gray-700 transition-all hover:scale-105`}>
+                              <div className="text-xs text-gray-600 dark:text-gray-400 mb-1">{label}</div>
+                              <div className={`text-sm ${getScoreColor(scoreNum)}`}>{percentage}%</div>
+                            </div>
+                          )
+                        })}
                       </div>
 
                       {scene.sample_text && (

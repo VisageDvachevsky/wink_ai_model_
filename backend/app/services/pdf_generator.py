@@ -33,61 +33,53 @@ logger = logging.getLogger(__name__)
 
 
 def _setup_fonts():
-    font_paths = [
-        "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
-        "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
-        "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",
-    ]
+    font_map = {
+        'regular': [
+            "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+            "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
+            "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",
+            "/usr/share/fonts/truetype/freefont/FreeSans.ttf",
+        ],
+        'bold': [
+            "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+            "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+            "/usr/share/fonts/truetype/freefont/FreeSansBold.ttf",
+        ]
+    }
 
-    bold_paths = [
-        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
-        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
-    ]
+    default_font = "Helvetica"
+    default_font_bold = "Helvetica-Bold"
 
-    font_registered = False
-    for font_path in font_paths:
+    for font_path in font_map['regular']:
         if os.path.exists(font_path):
             try:
                 pdfmetrics.registerFont(TTFont("CyrillicFont", font_path))
-                font_registered = True
-                logger.info(f"Registered font: {font_path}")
+                default_font = "CyrillicFont"
+                logger.info(f"Registered regular font: {font_path}")
                 break
             except Exception as e:
                 logger.warning(f"Failed to register {font_path}: {e}")
 
-    bold_registered = False
-    for bold_path in bold_paths:
-        if os.path.exists(bold_path):
-            try:
-                pdfmetrics.registerFont(TTFont("CyrillicFont-Bold", bold_path))
-                bold_registered = True
-                logger.info(f"Registered bold font: {bold_path}")
-                break
-            except Exception as e:
-                logger.warning(f"Failed to register {bold_path}: {e}")
-
-    if font_registered:
-        default_font = "CyrillicFont"
-        default_font_bold = "CyrillicFont-Bold" if bold_registered else "CyrillicFont"
-    else:
-        logger.error("No Cyrillic fonts found, Russian text may not render correctly")
-        default_font = "Helvetica"
-        default_font_bold = "Helvetica-Bold"
-
-    for font_path in font_paths:
+    for font_path in font_map['bold']:
         if os.path.exists(font_path):
             try:
-                fm.fontManager.addfont(font_path)
-                plt.rcParams["font.family"] = [
-                    "DejaVu Sans",
-                    "Liberation Sans",
-                    "sans-serif",
-                ]
-                plt.rcParams["font.sans-serif"] = [
-                    "DejaVu Sans",
-                    "Liberation Sans",
-                    "Arial Unicode MS",
-                ]
+                pdfmetrics.registerFont(TTFont("CyrillicFont-Bold", font_path))
+                default_font_bold = "CyrillicFont-Bold"
+                logger.info(f"Registered bold font: {font_path}")
+                break
+            except Exception as e:
+                logger.warning(f"Failed to register {font_path}: {e}")
+
+    if default_font == "Helvetica":
+        logger.warning("No Cyrillic fonts found, Russian text may display as squares")
+
+    for font_path in font_map['regular']:
+        if os.path.exists(font_path):
+            try:
+                font_prop = fm.FontProperties(fname=font_path)
+                plt.rcParams['font.family'] = font_prop.get_name()
+                plt.rcParams['font.sans-serif'] = [font_prop.get_name(), 'DejaVu Sans', 'sans-serif']
+                plt.rcParams['axes.unicode_minus'] = False
                 logger.info(f"Configured matplotlib font: {font_path}")
                 break
             except Exception as e:
@@ -291,7 +283,8 @@ class PDFReportGenerator:
         if not scores:
             return None
 
-        fig, ax = plt.subplots(figsize=(8, 4))
+        fig, ax = plt.subplots(figsize=(8, 4), facecolor='white')
+        ax.set_facecolor('white')
 
         categories = [self.CATEGORY_LABELS_RU.get(k, k) for k in scores.keys()]
         values = [v * 100 for v in scores.values()]
@@ -302,17 +295,20 @@ class PDFReportGenerator:
 
         bars = ax.barh(categories, values, color=colors_list)
 
-        ax.set_xlabel("Оценка (%)", fontsize=11)
+        ax.set_xlabel("Оценка (%)", fontsize=11, fontname=DEFAULT_FONT)
         ax.set_xlim(0, 100)
         ax.grid(axis="x", alpha=0.3)
 
         for i, (bar, value) in enumerate(zip(bars, values)):
             ax.text(value + 2, i, f"{value:.1f}%", va="center", fontsize=10)
 
+        for label in ax.get_yticklabels():
+            label.set_fontname(DEFAULT_FONT)
+
         plt.tight_layout()
 
         img_buffer = BytesIO()
-        plt.savefig(img_buffer, format="png", dpi=150, bbox_inches="tight")
+        plt.savefig(img_buffer, format="png", dpi=150, bbox_inches="tight", facecolor='white')
         plt.close(fig)
         img_buffer.seek(0)
 
@@ -399,9 +395,10 @@ class PDFReportGenerator:
 
             if scene.sample_text:
                 scene_elements.append(Spacer(1, 6))
+                safe_text = scene.sample_text[:200].replace('<', '&lt;').replace('>', '&gt;')
                 scene_elements.append(
                     Paragraph(
-                        f"<i>{scene.sample_text[:200]}...</i>", self.styles["Normal"]
+                        f"<i>{safe_text}...</i>", self.styles["Normal"]
                     )
                 )
 

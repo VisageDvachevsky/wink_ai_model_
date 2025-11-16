@@ -16,6 +16,7 @@ from ...services.ml_client import ml_client
 from ...services.queue import enqueue_rating_job, get_job_status
 from ...services.pdf_generator import PDFReportGenerator
 from ...services.export_service import ExportService
+from ...services.document_parser import DocumentParser
 from ...core.exceptions import (
     ScriptNotFoundError,
     InvalidFileError,
@@ -53,10 +54,13 @@ async def upload_script(
     if len(content) > max_size_bytes:
         raise FileTooLargeError(settings.max_upload_size_mb)
 
-    try:
-        text = content.decode("utf-8")
-    except UnicodeDecodeError:
-        raise InvalidFileError("File must be UTF-8 encoded text")
+    text = DocumentParser.parse_document(content, file.filename)
+
+    if not text or not text.strip():
+        raise InvalidFileError(
+            f"Could not extract text from {file_extension} file. "
+            "Please ensure the file contains readable text."
+        )
 
     script_title = title or file.filename or "Untitled Script"
     script_data = ScriptCreate(title=script_title, content=text)

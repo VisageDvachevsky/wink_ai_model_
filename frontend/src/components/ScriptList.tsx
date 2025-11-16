@@ -52,7 +52,13 @@ function ScriptCard({ script, language, t }: ScriptCardProps) {
             </h3>
           </div>
           {script.predicted_rating && (
-            <span className="ml-2 inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-gradient-to-r from-blue-500 to-indigo-600 text-white shadow-sm">
+            <span className={`ml-2 inline-flex items-center px-3 py-1 rounded-full text-xs font-bold shadow-sm ${
+              script.predicted_rating === '0+' ? 'bg-green-500 text-white' :
+              script.predicted_rating === '6+' ? 'bg-blue-500 text-white' :
+              script.predicted_rating === '12+' ? 'bg-yellow-500 text-white' :
+              script.predicted_rating === '16+' ? 'bg-orange-500 text-white' :
+              'bg-red-500 text-white'
+            }`}>
               {script.predicted_rating}
             </span>
           )}
