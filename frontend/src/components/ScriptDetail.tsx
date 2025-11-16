@@ -8,6 +8,8 @@ import WhatIfModal from './WhatIfModal'
 import RatingAdvisor from './RatingAdvisor'
 import SceneHeatmap from './SceneHeatmap'
 import VersionHistory from './VersionHistory'
+import LineFindingsPanel from './LineFindingsPanel'
+import CharacterAnalysisPanel from './CharacterAnalysisPanel'
 import { useLanguage } from '../contexts/LanguageContext'
 
 const RATING_COLORS: Record<string, string> = {
@@ -376,6 +378,14 @@ export default function ScriptDetail() {
                 </div>
               </div>
             )}
+
+            <div className="px-6 py-6 border-t border-gray-200 dark:border-gray-700 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900/10 dark:to-purple-900/10">
+              <LineFindingsPanel scriptId={Number(id)} />
+            </div>
+
+            <div className="px-6 py-6 border-t border-gray-200 dark:border-gray-700 bg-gradient-to-br from-green-50 to-teal-50 dark:from-green-900/10 dark:to-teal-900/10">
+              <CharacterAnalysisPanel scriptId={Number(id)} />
+            </div>
           </>
         )}
       </div>

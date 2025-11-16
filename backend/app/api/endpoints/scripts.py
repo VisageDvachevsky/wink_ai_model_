@@ -10,6 +10,10 @@ from ...schemas.script import (
     RatingJobResponse,
     WhatIfRequest,
     WhatIfResponse,
+    LineFindingsSummaryResponse,
+    LineFindingResponse,
+    CharacterAnalysisSummaryResponse,
+    CharacterAnalysisResponse,
 )
 from ...services.script_service import script_service
 from ...services.ml_client import ml_client
@@ -17,6 +21,7 @@ from ...services.queue import enqueue_rating_job, get_job_status
 from ...services.pdf_generator import PDFReportGenerator
 from ...services.export_service import ExportService
 from ...services.document_parser import DocumentParser
+from ...services.analysis_service import AnalysisService
 from ...core.exceptions import (
     ScriptNotFoundError,
     InvalidFileError,
@@ -185,3 +190,53 @@ async def export_csv(script_id: int, db: AsyncSession = Depends(get_db)):
             "Content-Disposition": f"attachment; filename=rating_report_{script_id}.csv"
         },
     )
+
+
+@router.get("/{script_id}/line-findings", response_model=LineFindingsSummaryResponse)
+async def get_line_findings(script_id: int, db: AsyncSession = Depends(get_db)):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    findings, summary = await AnalysisService.get_line_findings(db, script_id)
+
+    return LineFindingsSummaryResponse(
+        total_findings=summary["total_findings"],
+        by_category=summary["by_category"],
+        findings=[LineFindingResponse.from_orm(f) for f in findings],
+    )
+
+
+@router.get(
+    "/{script_id}/character-analysis", response_model=CharacterAnalysisSummaryResponse
+)
+async def get_character_analysis(script_id: int, db: AsyncSession = Depends(get_db)):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    characters = await AnalysisService.get_character_analysis(db, script_id)
+
+    top_offenders = sorted(characters, key=lambda x: x.severity_score, reverse=True)[:5]
+
+    return CharacterAnalysisSummaryResponse(
+        total_characters=len(characters),
+        top_offenders=[CharacterAnalysisResponse.from_orm(c) for c in top_offenders],
+        all_characters=[CharacterAnalysisResponse.from_orm(c) for c in characters],
+    )
+
+
+@router.post("/{script_id}/analyze", status_code=202)
+async def trigger_analysis(script_id: int, db: AsyncSession = Depends(get_db)):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    result = await AnalysisService.run_full_analysis(db, script_id)
+
+    return {
+        "script_id": script_id,
+        "status": "completed",
+        "line_findings_count": result["line_findings_count"],
+        "character_count": result["character_count"],
+    }

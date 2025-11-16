@@ -83,22 +83,24 @@ class DocumentParser:
             import tempfile
             import os
 
-            with tempfile.NamedTemporaryFile(delete=False, suffix='.doc') as tmp_in:
+            with tempfile.NamedTemporaryFile(delete=False, suffix=".doc") as tmp_in:
                 tmp_in.write(content)
                 tmp_in_path = tmp_in.name
 
-            tmp_out_path = tmp_in_path.replace('.doc', '.txt')
+            tmp_out_path = tmp_in_path.replace(".doc", ".txt")
 
             try:
                 result = subprocess.run(
-                    ['antiword', tmp_in_path],
+                    ["antiword", tmp_in_path],
                     capture_output=True,
                     text=True,
-                    timeout=30
+                    timeout=30,
                 )
 
                 if result.returncode == 0 and result.stdout.strip():
-                    logger.info(f"Extracted {len(result.stdout)} characters from DOC using antiword")
+                    logger.info(
+                        f"Extracted {len(result.stdout)} characters from DOC using antiword"
+                    )
                     return result.stdout
                 else:
                     logger.warning("antiword failed or returned empty text")
@@ -119,20 +121,20 @@ class DocumentParser:
 
     @staticmethod
     def parse_document(content: bytes, filename: str) -> Optional[str]:
-        ext = filename.lower().split('.')[-1] if '.' in filename else ''
+        ext = filename.lower().split(".")[-1] if "." in filename else ""
 
-        if ext == 'pdf':
+        if ext == "pdf":
             return DocumentParser.parse_pdf(content)
-        elif ext == 'docx':
+        elif ext == "docx":
             return DocumentParser.parse_docx(content)
-        elif ext == 'doc':
+        elif ext == "doc":
             return DocumentParser.parse_doc(content)
-        elif ext == 'txt':
+        elif ext == "txt":
             try:
-                return content.decode('utf-8')
+                return content.decode("utf-8")
             except UnicodeDecodeError:
                 try:
-                    return content.decode('cp1251')
+                    return content.decode("cp1251")
                 except Exception as e:
                     logger.error(f"Failed to decode text file: {e}")
                     return None
