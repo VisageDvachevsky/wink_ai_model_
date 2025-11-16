@@ -1,12 +1,16 @@
 import pytest
 from pydantic import ValidationError
-from app.schemas import ScriptRequest, SceneFeatures, ScriptRatingResponse, HealthResponse
+from app.schemas import (
+    ScriptRequest,
+    SceneFeatures,
+    ScriptRatingResponse,
+    HealthResponse,
+)
 
 
 def test_script_request_valid():
     request = ScriptRequest(
-        script_id="test123",
-        text="INT. OFFICE - DAY\n\nSarah types on her computer."
+        script_id="test123", text="INT. OFFICE - DAY\n\nSarah types on her computer."
     )
     assert request.script_id == "test123"
     assert "OFFICE" in request.text
@@ -34,7 +38,7 @@ def test_scene_features_valid():
         profanity=0.3,
         drugs=0.0,
         child_risk=0.0,
-        weight=0.8
+        weight=0.8,
     )
     assert scene.violence == 0.5
     assert scene.weight == 0.8
@@ -52,7 +56,7 @@ def test_scene_features_values_out_of_range():
             profanity=0.0,
             drugs=0.0,
             child_risk=0.0,
-            weight=0.5
+            weight=0.5,
         )
 
 
@@ -64,7 +68,7 @@ def test_script_rating_response_valid():
         agg_scores={"violence": 0.3},
         top_trigger_scenes=[],
         model_version="v1.0",
-        total_scenes=5
+        total_scenes=5,
     )
     assert response.predicted_rating == "12+"
     assert response.total_scenes == 5
@@ -79,15 +83,11 @@ def test_script_rating_response_invalid_rating():
             agg_scores={},
             top_trigger_scenes=[],
             model_version="v1.0",
-            total_scenes=1
+            total_scenes=1,
         )
 
 
 def test_health_response():
-    health = HealthResponse(
-        status="healthy",
-        model_version="v1.0",
-        model_loaded=True
-    )
+    health = HealthResponse(status="healthy", model_version="v1.0", model_loaded=True)
     assert health.status == "healthy"
     assert health.model_loaded is True

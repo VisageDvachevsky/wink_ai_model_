@@ -47,7 +47,9 @@ def test_get_arq_settings_custom_port():
 
 
 def test_settings_environment_override(monkeypatch):
-    monkeypatch.setenv("DATABASE_URL", "postgresql+asyncpg://test:test@testdb:5432/testdb")
+    monkeypatch.setenv(
+        "DATABASE_URL", "postgresql+asyncpg://test:test@testdb:5432/testdb"
+    )
     monkeypatch.setenv("LOG_LEVEL", "DEBUG")
 
     settings = Settings()

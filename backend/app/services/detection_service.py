@@ -62,9 +62,7 @@ class DetectionService:
 
         await self.db.commit()
 
-        return [
-            LineDetectionResponse.model_validate(d) for d in detections
-        ]
+        return [LineDetectionResponse.model_validate(d) for d in detections]
 
     async def get_detections(
         self, script_id: int, include_false_positives: bool = False
@@ -80,9 +78,7 @@ class DetectionService:
 
         return [LineDetectionResponse.model_validate(d) for d in detections]
 
-    async def get_detection_stats(
-        self, script_id: int
-    ) -> LineDetectionStatsResponse:
+    async def get_detection_stats(self, script_id: int) -> LineDetectionStatsResponse:
         """Get statistics for script detections."""
         script_result = await self.db.execute(
             select(Script).where(Script.id == script_id)
@@ -94,7 +90,7 @@ class DetectionService:
         )
         detections = result.scalars().all()
 
-        total_lines = len(script.content.split('\n')) if script else 1
+        total_lines = len(script.content.split("\n")) if script else 1
 
         stats = LineDetectionStatsResponse(
             total_detections=len(detections),
@@ -113,8 +109,14 @@ class DetectionService:
             category = detection.category
             stats.by_category[category] = stats.by_category.get(category, 0) + 1
 
-            match_count = detection.matched_patterns.get("count", 0) if detection.matched_patterns else 0
-            stats.total_matches[category] = stats.total_matches.get(category, 0) + match_count
+            match_count = (
+                detection.matched_patterns.get("count", 0)
+                if detection.matched_patterns
+                else 0
+            )
+            stats.total_matches[category] = (
+                stats.total_matches.get(category, 0) + match_count
+            )
 
             if category not in category_data:
                 category_data[category] = {
@@ -126,7 +128,11 @@ class DetectionService:
             category_data[category]["matches"].append(match_count)
 
         for category, data in category_data.items():
-            avg_severity = sum(data["severities"]) / len(data["severities"]) if data["severities"] else 0
+            avg_severity = (
+                sum(data["severities"]) / len(data["severities"])
+                if data["severities"]
+                else 0
+            )
 
             if avg_severity >= 0.7:
                 severity_level = "SEVERE"
@@ -180,9 +186,7 @@ class DetectionService:
 
         return UserCorrectionResponse.model_validate(correction)
 
-    async def get_corrections(
-        self, script_id: int
-    ) -> List[UserCorrectionResponse]:
+    async def get_corrections(self, script_id: int) -> List[UserCorrectionResponse]:
         """Get all corrections for a script."""
         result = await self.db.execute(
             select(UserCorrection).where(UserCorrection.script_id == script_id)

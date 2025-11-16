@@ -22,7 +22,6 @@ const CATEGORY_BG_COLORS: Record<string, string> = {
 }
 
 const SmartEditor: React.FC<SmartEditorProps> = ({
-  scriptId,
   initialContent,
   detections,
   onSave,
@@ -70,7 +69,7 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
     setHasChanges(false)
   }
 
-  const scrollToLine = (lineNumber: number) => {
+  const _scrollToLine = (lineNumber: number) => {
     if (!editorRef.current) return
 
     const lines = content.split('\n')

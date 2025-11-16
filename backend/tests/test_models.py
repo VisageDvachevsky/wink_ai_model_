@@ -5,10 +5,7 @@ from app.models import Script, Scene
 
 @pytest.mark.asyncio
 async def test_create_script(test_session: AsyncSession):
-    script = Script(
-        title="Test Movie",
-        content="INT. HOUSE - DAY\n\nJohn enters."
-    )
+    script = Script(title="Test Movie", content="INT. HOUSE - DAY\n\nJohn enters.")
 
     test_session.add(script)
     await test_session.commit()
@@ -25,7 +22,7 @@ async def test_script_with_scenes(test_session: AsyncSession):
         title="Test Movie",
         content="INT. HOUSE - DAY\n\nJohn enters.",
         predicted_rating="12+",
-        total_scenes=1
+        total_scenes=1,
     )
 
     test_session.add(script)
@@ -43,7 +40,7 @@ async def test_script_with_scenes(test_session: AsyncSession):
         profanity=0.0,
         drugs=0.0,
         child_risk=0.0,
-        weight=0.1
+        weight=0.1,
     )
 
     test_session.add(scene)
@@ -51,8 +48,11 @@ async def test_script_with_scenes(test_session: AsyncSession):
 
     from sqlalchemy import select
     from sqlalchemy.orm import selectinload
+
     refreshed_result = await test_session.execute(
-        select(Script).options(selectinload(Script.scenes)).where(Script.id == script.id)
+        select(Script)
+        .options(selectinload(Script.scenes))
+        .where(Script.id == script.id)
     )
     refreshed_script = refreshed_result.scalar_one()
 

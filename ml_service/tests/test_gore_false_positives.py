@@ -129,7 +129,9 @@ class TestGoreFalsePositives:
         """
 
         has_gore, excerpt = has_gore_match(scene)
-        assert not has_gore, f"Children's adventure scene incorrectly flagged as gore: {excerpt}"
+        assert (
+            not has_gore
+        ), f"Children's adventure scene incorrectly flagged as gore: {excerpt}"
 
 
 if __name__ == "__main__":
