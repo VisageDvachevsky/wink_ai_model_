@@ -147,6 +147,9 @@ export interface LineDetection {
   context_after: string | null
   category: string
   severity: number
+  parents_guide_severity?: string
+  character_name?: string
+  page_number?: number
   matched_patterns: {
     count: number
     matches: LineMatch[]
@@ -156,12 +159,20 @@ export interface LineDetection {
   created_at?: string
 }
 
+export interface ParentsGuideCategoryStats {
+  severity: string
+  episode_count: number
+  percentage: number
+  top_matches: number
+}
+
 export interface LineDetectionStats {
   total_detections: number
   by_category: Record<string, number>
   total_matches: Record<string, number>
   false_positives: number
   user_corrections: number
+  parents_guide?: Record<string, ParentsGuideCategoryStats>
 }
 
 export interface ScriptWithDetections {

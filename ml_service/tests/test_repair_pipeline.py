@@ -1,4 +1,3 @@
-import pytest
 from app.repair_pipeline import (
     count_matches,
     parse_script_to_scenes,

@@ -1,7 +1,8 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useCallback } from 'react'
 import { AlertTriangle, CheckCircle, XCircle, Info, TrendingUp, Filter } from 'lucide-react'
 import { scriptsApi, LineDetection, LineDetectionStats } from '../api/client'
 import { useLanguage } from '../contexts/LanguageContext'
+import ParentsGuide from './ParentsGuide'
 
 interface LineDetectionPanelProps {
   scriptId: number
@@ -37,11 +38,7 @@ const LineDetectionPanel: React.FC<LineDetectionPanelProps> = ({ scriptId, onLin
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
   const [showFalsePositives, setShowFalsePositives] = useState(false)
 
-  useEffect(() => {
-    loadDetections()
-  }, [scriptId, showFalsePositives])
-
-  const loadDetections = async () => {
+  const loadDetections = useCallback(async () => {
     setLoading(true)
     setError(null)
     try {
@@ -53,7 +50,11 @@ const LineDetectionPanel: React.FC<LineDetectionPanelProps> = ({ scriptId, onLin
     } finally {
       setLoading(false)
     }
-  }
+  }, [scriptId, showFalsePositives])
+
+  useEffect(() => {
+    loadDetections()
+  }, [loadDetections])
 
   const runDetection = async () => {
     setLoading(true)
@@ -88,7 +89,7 @@ const LineDetectionPanel: React.FC<LineDetectionPanelProps> = ({ scriptId, onLin
   }
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-6">
       <div className="flex items-center justify-between">
         <h3 className="text-lg font-semibold flex items-center gap-2">
           <AlertTriangle className="w-5 h-5" />
@@ -102,6 +103,10 @@ const LineDetectionPanel: React.FC<LineDetectionPanelProps> = ({ scriptId, onLin
           {loading ? t('detections.analyzing') : t('detections.analyze')}
         </button>
       </div>
+
+      {stats?.parents_guide && Object.keys(stats.parents_guide).length > 0 && (
+        <ParentsGuide parentsGuide={stats.parents_guide} />
+      )}
 
       {stats && (
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -200,8 +205,14 @@ const LineDetectionPanel: React.FC<LineDetectionPanelProps> = ({ scriptId, onLin
                     {t(`category.${detection.category}`)}
                   </span>
                   <span className="text-sm text-gray-500 ml-2">
+                    {detection.page_number && `Page ${detection.page_number}, `}
                     {t('detections.lines')} {detection.line_start}-{detection.line_end}
                   </span>
+                  {detection.character_name && (
+                    <span className="text-sm text-blue-600 dark:text-blue-400 ml-2">
+                      • {detection.character_name}
+                    </span>
+                  )}
                 </div>
               </div>
               <div className="flex items-center gap-2">

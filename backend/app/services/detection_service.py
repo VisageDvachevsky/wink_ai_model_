@@ -1,15 +1,14 @@
-from typing import List, Dict, Any, Optional
+from typing import List
 from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
-from loguru import logger
 
 from ..models.script import Script, LineDetection, UserCorrection
 from ..schemas.detection import (
-    LineDetectionCreate,
     LineDetectionResponse,
     UserCorrectionCreate,
     UserCorrectionResponse,
     LineDetectionStatsResponse,
+    ParentsGuideCategoryStats,
 )
 from .ml_client import MLClient
 
@@ -53,6 +52,9 @@ class DetectionService:
                 context_after=item.get("context_after"),
                 category=item["category"],
                 severity=item["severity"],
+                parents_guide_severity=item.get("parents_guide_severity"),
+                character_name=item.get("character_name"),
+                page_number=item.get("page_number"),
                 matched_patterns=item.get("matched_patterns"),
             )
             self.db.add(detection)
@@ -71,7 +73,7 @@ class DetectionService:
         query = select(LineDetection).where(LineDetection.script_id == script_id)
 
         if not include_false_positives:
-            query = query.where(LineDetection.is_false_positive == False)
+            query = query.where(~LineDetection.is_false_positive)
 
         result = await self.db.execute(query)
         detections = result.scalars().all()
@@ -82,10 +84,17 @@ class DetectionService:
         self, script_id: int
     ) -> LineDetectionStatsResponse:
         """Get statistics for script detections."""
+        script_result = await self.db.execute(
+            select(Script).where(Script.id == script_id)
+        )
+        script = script_result.scalar_one_or_none()
+
         result = await self.db.execute(
             select(LineDetection).where(LineDetection.script_id == script_id)
         )
         detections = result.scalars().all()
+
+        total_lines = len(script.content.split('\n')) if script else 1
 
         stats = LineDetectionStatsResponse(
             total_detections=len(detections),
@@ -93,14 +102,51 @@ class DetectionService:
             total_matches={},
             false_positives=sum(1 for d in detections if d.is_false_positive),
             user_corrections=sum(1 for d in detections if d.user_corrected),
+            parents_guide={},
         )
 
+        category_data = {}
         for detection in detections:
+            if detection.is_false_positive:
+                continue
+
             category = detection.category
             stats.by_category[category] = stats.by_category.get(category, 0) + 1
 
             match_count = detection.matched_patterns.get("count", 0) if detection.matched_patterns else 0
             stats.total_matches[category] = stats.total_matches.get(category, 0) + match_count
+
+            if category not in category_data:
+                category_data[category] = {
+                    "severities": [],
+                    "matches": [],
+                }
+
+            category_data[category]["severities"].append(detection.severity)
+            category_data[category]["matches"].append(match_count)
+
+        for category, data in category_data.items():
+            avg_severity = sum(data["severities"]) / len(data["severities"]) if data["severities"] else 0
+
+            if avg_severity >= 0.7:
+                severity_level = "SEVERE"
+            elif avg_severity >= 0.5:
+                severity_level = "MODERATE"
+            elif avg_severity >= 0.3:
+                severity_level = "MILD"
+            else:
+                severity_level = "NONE"
+
+            episode_count = len(data["severities"])
+            percentage = (episode_count / total_lines) * 100 if total_lines > 0 else 0
+            top_matches = max(data["matches"]) if data["matches"] else 0
+
+            stats.parents_guide[category] = ParentsGuideCategoryStats(
+                severity=severity_level,
+                episode_count=episode_count,
+                percentage=round(percentage, 2),
+                top_matches=top_matches,
+            )
 
         return stats
 
