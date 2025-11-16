@@ -121,8 +121,12 @@ class LineDetector:
             "category": issue.category,
             "matched_words": issue.matched_words,
             "match_count": len(issue.matched_words),
-            "context_before": [{"line": ln, "text": txt} for ln, txt in issue.context_before],
-            "context_after": [{"line": ln, "text": txt} for ln, txt in issue.context_after],
+            "context_before": [
+                {"line": ln, "text": txt} for ln, txt in issue.context_before
+            ],
+            "context_after": [
+                {"line": ln, "text": txt} for ln, txt in issue.context_after
+            ],
             "severity": round(issue.severity, 2),
         }
 

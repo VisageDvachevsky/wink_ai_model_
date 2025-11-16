@@ -3,8 +3,6 @@ import { useLanguage } from '../contexts/LanguageContext'
 import {
   AlertCircle,
   Check,
-  ChevronDown,
-  ChevronUp,
   Edit3,
   Eye,
   EyeOff,
@@ -51,14 +49,13 @@ const CATEGORY_COLORS: Record<string, { bg: string; text: string; border: string
 
 export default function SmartEditor({ scriptId, initialContent, onSave, onClose }: SmartEditorProps) {
   const { t } = useLanguage()
-  const [content, setContent] = useState(initialContent)
+  const [content] = useState(initialContent)
   const [issues, setIssues] = useState<LineIssue[]>([])
   const [loading, setLoading] = useState(false)
   const [saving, setSaving] = useState(false)
   const [currentIssueIndex, setCurrentIssueIndex] = useState(0)
   const [showOnlyIssues, setShowOnlyIssues] = useState(false)
   const [corrections, setCorrections] = useState<Map<string, { type: string; notes?: string }>>(new Map())
-  const editorRef = useRef<HTMLTextAreaElement>(null)
   const lineRefs = useRef<Map<number, HTMLDivElement>>(new Map())
 
   const detectIssues = useCallback(async () => {
@@ -203,7 +200,6 @@ export default function SmartEditor({ scriptId, initialContent, onSave, onClose 
               <div className="min-h-full bg-gray-50 dark:bg-gray-900">
                 {filteredLines.map(({ line, lineNumber, hasIssue }) => {
                   const lineIssues = issuesByLine.get(lineNumber) || []
-                  const highestSeverity = lineIssues.reduce((max, issue) => Math.max(max, issue.severity), 0)
                   const primaryCategory = lineIssues[0]?.category || 'profanity'
                   const colors = CATEGORY_COLORS[primaryCategory] || CATEGORY_COLORS.profanity
 

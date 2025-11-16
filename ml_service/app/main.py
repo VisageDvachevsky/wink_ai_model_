@@ -151,6 +151,7 @@ async def what_if_suggestions(request: SmartSuggestionsRequest):
 async def detect_lines_endpoint(request: LineDetectionRequest):
     try:
         from .line_detector import detect_lines
+
         result = detect_lines(request.text, request.context_lines)
         return LineDetectionResponse(**result)
     except Exception as e:
