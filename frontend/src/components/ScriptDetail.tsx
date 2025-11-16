@@ -3,13 +3,14 @@ import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { useParams } from 'react-router-dom'
 import { scriptsApi } from '../api/client'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts'
-import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles, Loader2, Target, Download, FileSpreadsheet, FileCode2, History } from 'lucide-react'
+import { AlertCircle, Play, FileText, TrendingUp, Lightbulb, Quote, Sparkles, Loader2, Target, Download, FileSpreadsheet, FileCode2, History, Edit3, RefreshCw } from 'lucide-react'
 import WhatIfModal from './WhatIfModal'
 import RatingAdvisor from './RatingAdvisor'
 import SceneHeatmap from './SceneHeatmap'
 import VersionHistory from './VersionHistory'
 import LineFindingsPanel from './LineFindingsPanel'
 import CharacterAnalysisPanel from './CharacterAnalysisPanel'
+import ScriptEditor from './ScriptEditor'
 import { useLanguage } from '../contexts/LanguageContext'
 
 const RATING_COLORS: Record<string, string> = {
@@ -50,6 +51,7 @@ export default function ScriptDetail() {
   const [showWhatIfModal, setShowWhatIfModal] = useState(false)
   const [showRatingAdvisor, setShowRatingAdvisor] = useState(false)
   const [showVersionHistory, setShowVersionHistory] = useState(false)
+  const [showScriptEditor, setShowScriptEditor] = useState(false)
   const [downloading, setDownloading] = useState<string | null>(null)
   const { language, t } = useLanguage()
 

@@ -1,5 +1,5 @@
-import { useQuery } from '@tanstack/react-query'
-import { AlertCircle, FileSearch, Loader2, ChevronDown, ChevronUp } from 'lucide-react'
+import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
+import { AlertCircle, FileSearch, Loader2, ChevronDown, ChevronUp, XCircle, CheckCircle } from 'lucide-react'
 import { useState } from 'react'
 import { useLanguage } from '../contexts/LanguageContext'
 
@@ -44,8 +44,10 @@ const CATEGORY_COLORS: Record<string, string> = {
 
 export default function LineFindingsPanel({ scriptId }: { scriptId: number }) {
   const { language } = useLanguage()
+  const queryClient = useQueryClient()
   const [expandedFinding, setExpandedFinding] = useState<number | null>(null)
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
+  const [markedFalsePositives, setMarkedFalsePositives] = useState<Set<number>>(new Set())
 
   const { data, isLoading, error } = useQuery<LineFindingsResponse>({
     queryKey: ['line-findings', scriptId],
@@ -53,6 +55,27 @@ export default function LineFindingsPanel({ scriptId }: { scriptId: number }) {
       const response = await fetch(`/api/v1/scripts/${scriptId}/line-findings`)
       if (!response.ok) throw new Error('Failed to fetch line findings')
       return response.json()
+    },
+  })
+
+  const markFalsePositiveMutation = useMutation({
+    mutationFn: async (findingId: number) => {
+      const response = await fetch(`/api/v1/scripts/${scriptId}/corrections`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          finding_id: findingId,
+          correction_type: 'false_positive',
+          description: 'Marked as false positive by user',
+        }),
+      })
+      if (!response.ok) throw new Error('Failed to mark as false positive')
+      return response.json()
+    },
+    onSuccess: (_, findingId) => {
+      setMarkedFalsePositives(prev => new Set(prev).add(findingId))
+      queryClient.invalidateQueries({ queryKey: ['corrections', scriptId] })
+      queryClient.invalidateQueries({ queryKey: ['adjusted-rating', scriptId] })
     },
   })
 
@@ -125,60 +148,86 @@ export default function LineFindingsPanel({ scriptId }: { scriptId: number }) {
       </div>
 
       <div className="space-y-2 max-h-96 overflow-y-auto">
-        {filteredFindings.map(finding => (
-          <div
-            key={finding.id}
-            className="border border-gray-200 dark:border-gray-700 rounded-lg p-4 bg-white dark:bg-gray-800 hover:shadow-md transition-shadow"
-          >
-            <div className="flex items-start justify-between mb-2">
-              <div className="flex items-center gap-2">
-                <span className={`px-2 py-1 rounded text-xs font-medium border ${CATEGORY_COLORS[finding.category]}`}>
-                  {CATEGORY_LABELS[finding.category]?.[language] || finding.category}
-                </span>
-                <span className="text-xs text-gray-600 dark:text-gray-400">
-                  {language === 'ru' ? 'Строки' : 'Lines'} {finding.line_start}{finding.line_end !== finding.line_start && `-${finding.line_end}`}
-                </span>
-                {finding.match_count > 1 && (
-                  <span className="text-xs font-medium text-red-600 dark:text-red-400">
-                    {finding.match_count} {language === 'ru' ? 'совп.' : 'matches'}
+        {filteredFindings.map(finding => {
+          const isFalsePositive = markedFalsePositives.has(finding.id)
+          return (
+            <div
+              key={finding.id}
+              className={`border rounded-lg p-4 transition-all ${
+                isFalsePositive
+                  ? 'border-green-300 dark:border-green-700 bg-green-50 dark:bg-green-900/20 opacity-60'
+                  : 'border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:shadow-md'
+              }`}
+            >
+              <div className="flex items-start justify-between mb-2">
+                <div className="flex items-center gap-2 flex-wrap">
+                  <span className={`px-2 py-1 rounded text-xs font-medium border ${CATEGORY_COLORS[finding.category]}`}>
+                    {CATEGORY_LABELS[finding.category]?.[language] || finding.category}
                   </span>
-                )}
-                {finding.rating_impact && (
-                  <span className="text-xs font-bold text-orange-600 dark:text-orange-400">
-                    → {finding.rating_impact}
+                  <span className="text-xs text-gray-600 dark:text-gray-400">
+                    {language === 'ru' ? 'Строки' : 'Lines'} {finding.line_start}{finding.line_end !== finding.line_start && `-${finding.line_end}`}
                   </span>
-                )}
+                  {finding.match_count > 1 && (
+                    <span className="text-xs font-medium text-red-600 dark:text-red-400">
+                      {finding.match_count} {language === 'ru' ? 'совп.' : 'matches'}
+                    </span>
+                  )}
+                  {finding.rating_impact && (
+                    <span className="text-xs font-bold text-orange-600 dark:text-orange-400">
+                      → {finding.rating_impact}
+                    </span>
+                  )}
+                  {isFalsePositive && (
+                    <span className="px-2 py-1 bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-400 rounded text-xs font-medium flex items-center gap-1">
+                      <CheckCircle className="h-3 w-3" />
+                      {language === 'ru' ? 'Помечено' : 'Marked'}
+                    </span>
+                  )}
+                </div>
+                <div className="flex items-center gap-2">
+                  {!isFalsePositive && (
+                    <button
+                      onClick={() => markFalsePositiveMutation.mutate(finding.id)}
+                      disabled={markFalsePositiveMutation.isPending}
+                      className="inline-flex items-center px-2 py-1 border border-red-300 dark:border-red-700 rounded text-xs font-medium text-red-700 dark:text-red-400 bg-red-50 dark:bg-red-900/20 hover:bg-red-100 dark:hover:bg-red-900/30 transition-all disabled:opacity-50"
+                      title={language === 'ru' ? 'Пометить как ложное срабатывание' : 'Mark as false positive'}
+                    >
+                      <XCircle className="h-3 w-3 mr-1" />
+                      {language === 'ru' ? 'Ложное' : 'False'}
+                    </button>
+                  )}
+                  <button
+                    onClick={() => setExpandedFinding(expandedFinding === finding.id ? null : finding.id)}
+                    className="text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
+                  >
+                    {expandedFinding === finding.id ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
+                  </button>
+                </div>
               </div>
-              <button
-                onClick={() => setExpandedFinding(expandedFinding === finding.id ? null : finding.id)}
-                className="text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
-              >
-                {expandedFinding === finding.id ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
-              </button>
-            </div>
 
-            <div className="text-sm text-gray-900 dark:text-gray-100 font-mono bg-gray-50 dark:bg-gray-900 p-2 rounded border border-gray-200 dark:border-gray-700">
-              "{finding.matched_text}"
-            </div>
-
-            {expandedFinding === finding.id && (finding.context_before || finding.context_after) && (
-              <div className="mt-3 pt-3 border-t border-gray-200 dark:border-gray-700 space-y-2">
-                {finding.context_before && (
-                  <div className="text-xs text-gray-500 dark:text-gray-500 font-mono">
-                    <div className="font-semibold mb-1">{language === 'ru' ? 'Контекст до:' : 'Before:'}</div>
-                    <div className="pl-2 border-l-2 border-gray-300 dark:border-gray-600">{finding.context_before}</div>
-                  </div>
-                )}
-                {finding.context_after && (
-                  <div className="text-xs text-gray-500 dark:text-gray-500 font-mono">
-                    <div className="font-semibold mb-1">{language === 'ru' ? 'Контекст после:' : 'After:'}</div>
-                    <div className="pl-2 border-l-2 border-gray-300 dark:border-gray-600">{finding.context_after}</div>
-                  </div>
-                )}
+              <div className="text-sm text-gray-900 dark:text-gray-100 font-mono bg-gray-50 dark:bg-gray-900 p-2 rounded border border-gray-200 dark:border-gray-700">
+                "{finding.matched_text}"
               </div>
-            )}
-          </div>
-        ))}
+
+              {expandedFinding === finding.id && (finding.context_before || finding.context_after) && (
+                <div className="mt-3 pt-3 border-t border-gray-200 dark:border-gray-700 space-y-2">
+                  {finding.context_before && (
+                    <div className="text-xs text-gray-500 dark:text-gray-500 font-mono">
+                      <div className="font-semibold mb-1">{language === 'ru' ? 'Контекст до:' : 'Before:'}</div>
+                      <div className="pl-2 border-l-2 border-gray-300 dark:border-gray-600">{finding.context_before}</div>
+                    </div>
+                  )}
+                  {finding.context_after && (
+                    <div className="text-xs text-gray-500 dark:text-gray-500 font-mono">
+                      <div className="font-semibold mb-1">{language === 'ru' ? 'Контекст после:' : 'After:'}</div>
+                      <div className="pl-2 border-l-2 border-gray-300 dark:border-gray-600">{finding.context_after}</div>
+                    </div>
+                  )}
+                </div>
+              )}
+            </div>
+          )
+        })}
       </div>
     </div>
   )
