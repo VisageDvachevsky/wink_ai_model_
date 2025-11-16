@@ -1,6 +1,7 @@
 from typing import List, Dict, Tuple, Literal
 import numpy as np
 import re
+from sentence_transformers import SentenceTransformer, util
 
 from ..pipeline import RatingPipeline
 from .schemas import (
@@ -73,8 +74,20 @@ class RatingAdvisor:
         "child_risk": {"en": "Child Risk", "ru": "Риск для детей"},
     }
 
+    GENRE_CONTEXTS = {
+        "thriller": ["suspense", "tension", "chase", "investigation", "detective", "триллер", "напряжение", "погоня", "расследование"],
+        "action": ["fight", "combat", "battle", "hero", "villain", "экшн", "драка", "бой", "герой", "злодей"],
+        "drama": ["emotional", "relationship", "conflict", "family", "драма", "эмоциональный", "отношения", "конфликт", "семья"],
+        "horror": ["scary", "fear", "monster", "terror", "ужасы", "страх", "монстр", "террор"],
+        "romance": ["love", "romantic", "relationship", "kiss", "романтика", "любовь", "отношения", "поцелуй"],
+    }
+
     def __init__(self, use_llm: bool = False):
         self.pipeline = RatingPipeline()
+        try:
+            self.nlp_model = SentenceTransformer('all-MiniLM-L6-v2')
+        except Exception:
+            self.nlp_model = None
 
     def analyze(self, request: RatingAdvisorRequest) -> RatingAdvisorResponse:
         result = self.pipeline.analyze_script(text=request.script_text, script_id=None)
@@ -86,7 +99,8 @@ class RatingAdvisor:
         target_thresholds = self.RATING_THRESHOLDS[target_rating]
 
         is_achievable, confidence = self._check_achievability(
-            current_rating, target_rating, current_scores, target_thresholds
+            current_rating, target_rating, current_scores, target_thresholds,
+            request.script_text, result["scenes"]
         )
 
         rating_gaps = self._calculate_gaps(
@@ -139,12 +153,63 @@ class RatingAdvisor:
             alternative_targets=alternative_targets,
         )
 
+    def _detect_genre(self, script_text: str, scenes: List[Dict]) -> str:
+        if not self.nlp_model or not script_text:
+            return "unknown"
+
+        sample_text = script_text[:5000].lower()
+        genre_scores = {}
+
+        for genre, keywords in self.GENRE_CONTEXTS.items():
+            score = sum(1 for kw in keywords if kw.lower() in sample_text)
+            genre_scores[genre] = score
+
+        if max(genre_scores.values()) == 0:
+            return "unknown"
+
+        return max(genre_scores.items(), key=lambda x: x[1])[0]
+
+    def _analyze_content_type(self, scenes: List[Dict]) -> Dict[str, str]:
+        if not self.nlp_model or not scenes:
+            return {}
+
+        violence_contexts = {
+            "stylized": ["fight choreography", "action sequence", "hero saves", "стилизованный бой", "сцена экшн", "герой спасает"],
+            "graphic": ["blood splatter", "brutal murder", "graphic violence", "брызги крови", "жестокое убийство", "графическое насилие"],
+        }
+
+        content_analysis = {}
+        violent_scenes = [s for s in scenes if s.get("violence", 0) > 0.3]
+
+        if violent_scenes:
+            stylized_count = 0
+            graphic_count = 0
+
+            for scene in violent_scenes[:10]:
+                content = scene.get("content", "").lower()
+                stylized_score = sum(1 for kw in violence_contexts["stylized"] if kw in content)
+                graphic_score = sum(1 for kw in violence_contexts["graphic"] if kw in content)
+
+                if stylized_score > graphic_score:
+                    stylized_count += 1
+                else:
+                    graphic_count += 1
+
+            if stylized_count > graphic_count:
+                content_analysis["violence_type"] = "stylized"
+            else:
+                content_analysis["violence_type"] = "graphic"
+
+        return content_analysis
+
     def _check_achievability(
         self,
         current: str,
         target: str,
         scores: Dict[str, float],
         thresholds: Dict[str, float],
+        script_text: str = "",
+        scenes: List[Dict] = None,
     ) -> Tuple[bool, float]:
         current_idx = self.RATING_ORDER.index(current)
         target_idx = self.RATING_ORDER.index(target)
@@ -156,27 +221,50 @@ class RatingAdvisor:
             return True, 1.0
 
         violations = []
+        critical_violations = []
+
         for dim, threshold in thresholds.items():
             if scores.get(dim, 0) > threshold:
                 excess = scores[dim] - threshold
-                violations.append(excess)
+                violations.append((dim, excess))
+                if excess > 0.5:
+                    critical_violations.append((dim, excess))
 
         if not violations:
             return True, 1.0
 
-        avg_violation = np.mean(violations)
-        max_violation = max(violations)
+        genre = self._detect_genre(script_text, scenes or [])
+        content_analysis = self._analyze_content_type(scenes or [])
 
-        if max_violation > 0.5:
-            confidence = 0.3
-        elif max_violation > 0.3:
-            confidence = 0.5
-        elif avg_violation > 0.2:
-            confidence = 0.7
-        else:
-            confidence = 0.9
+        base_confidence = 0.5
+        adjustments = []
 
-        return True, confidence
+        if target == "0+":
+            if critical_violations:
+                adjustments.append(-0.3)
+            if genre in ["thriller", "action", "horror"]:
+                adjustments.append(-0.2)
+        elif target in ["6+", "12+"]:
+            if genre in ["thriller", "action"] and content_analysis.get("violence_type") == "stylized":
+                adjustments.append(0.15)
+            if not critical_violations:
+                adjustments.append(0.2)
+
+        num_violations = len(violations)
+        if num_violations <= 2:
+            adjustments.append(0.15)
+        elif num_violations >= 5:
+            adjustments.append(-0.15)
+
+        avg_violation = np.mean([v[1] for v in violations])
+        if avg_violation < 0.2:
+            adjustments.append(0.2)
+        elif avg_violation > 0.5:
+            adjustments.append(-0.25)
+
+        final_confidence = np.clip(base_confidence + sum(adjustments), 0.05, 0.95)
+
+        return True, float(final_confidence)
 
     def _calculate_gaps(
         self, current: Dict[str, float], target: Dict[str, float], language: str

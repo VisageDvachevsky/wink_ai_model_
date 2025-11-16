@@ -121,8 +121,8 @@ export default function WhatIfModal({ scriptText, currentRating, currentScores, 
 
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 dark:bg-opacity-70 flex items-center justify-center z-50 p-4 backdrop-blur-sm animate-in fade-in duration-200">
-      <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto border border-gray-200 dark:border-gray-700 animate-in slide-in-from-bottom-4 duration-300">
-        <div className="sticky top-0 bg-gradient-to-r from-purple-600 to-indigo-600 dark:from-purple-700 dark:to-indigo-700 text-white px-6 py-5 flex justify-between items-center rounded-t-2xl z-10">
+      <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl max-w-4xl w-full max-h-[90vh] flex flex-col border border-gray-200 dark:border-gray-700 animate-in slide-in-from-bottom-4 duration-300">
+        <div className="sticky top-0 bg-gradient-to-r from-purple-600 to-indigo-600 dark:from-purple-700 dark:to-indigo-700 text-white px-6 py-5 flex justify-between items-center rounded-t-2xl z-10 flex-shrink-0">
           <div className="flex items-center gap-3">
             <div className="animate-pulse">
               <Brain className="h-6 w-6" />
@@ -137,7 +137,7 @@ export default function WhatIfModal({ scriptText, currentRating, currentScores, 
           </button>
         </div>
 
-        <div className="p-6 space-y-6">
+        <div className="flex-1 overflow-y-auto p-6 space-y-6">
           {currentRating && (
             <div className="bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-xl p-4 animate-in slide-in-from-left duration-300">
               <div className="flex items-center gap-2 mb-2">
@@ -160,7 +160,7 @@ export default function WhatIfModal({ scriptText, currentRating, currentScores, 
             </div>
           )}
 
-          <form onSubmit={handleSubmit} className="space-y-4">
+          <div className="space-y-4">
             <div className="relative">
               <label htmlFor="whatif-query" className="block text-sm font-semibold text-gray-700 dark:text-gray-300 mb-2 flex items-center gap-2">
                 <Wand2 className="h-4 w-4" />
@@ -224,32 +224,13 @@ export default function WhatIfModal({ scriptText, currentRating, currentScores, 
               )}
 
               {suggestionsLoading && (
-                <div className="absolute right-3 top-12 text-purple-600 dark:text-purple-400">
-                  <Loader2 className="h-5 w-5 animate-spin" />
+                <div className="absolute right-3 top-12 flex items-center gap-2 bg-white dark:bg-gray-800 px-3 py-1.5 rounded-lg shadow-md border border-purple-200 dark:border-purple-700">
+                  <Loader2 className="h-4 w-4 animate-spin text-purple-600 dark:text-purple-400" />
+                  <span className="text-xs font-medium text-purple-700 dark:text-purple-300">Loading smart suggestions...</span>
                 </div>
               )}
             </div>
-
-            <button
-              type="submit"
-              disabled={!query.trim() || whatIfMutation.isPending}
-              className="w-full flex items-center justify-center gap-2 px-6 py-3 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-700 hover:to-indigo-700 text-white font-semibold rounded-xl disabled:opacity-50 disabled:cursor-not-allowed transition-all shadow-lg hover:shadow-xl hover:scale-[1.02] active:scale-[0.98]"
-            >
-              {whatIfMutation.isPending ? (
-                <Loader2 className="h-5 w-5 animate-spin" />
-              ) : (
-                <Sparkles className="h-5 w-5" />
-              )}
-              {whatIfMutation.isPending ? t('whatif.simulating') : t('whatif.run_simulation')}
-            </button>
-
-            {whatIfMutation.error && (
-              <div className="bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-xl p-4 text-red-700 dark:text-red-400 animate-in slide-in-from-top duration-200">
-                <p className="font-semibold">{t('common.error')}</p>
-                <p className="text-sm">{(whatIfMutation.error as Error).message}</p>
-              </div>
-            )}
-          </form>
+          </div>
 
           {result && (
             <div className="border-t-2 border-gray-200 dark:border-gray-700 pt-6 space-y-4 animate-in slide-in-from-bottom duration-500">
@@ -366,6 +347,29 @@ export default function WhatIfModal({ scriptText, currentRating, currentScores, 
             </div>
           )}
         </div>
+
+        <form onSubmit={handleSubmit} className="border-t border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-900/50 p-4 flex-shrink-0 rounded-b-2xl">
+          <div className="space-y-3">
+            {whatIfMutation.error && (
+              <div className="bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-xl p-3 text-red-700 dark:text-red-400">
+                <p className="font-semibold text-sm">{t('common.error')}</p>
+                <p className="text-xs">{(whatIfMutation.error as Error).message}</p>
+              </div>
+            )}
+            <button
+              type="submit"
+              disabled={!query.trim() || whatIfMutation.isPending}
+              className="w-full flex items-center justify-center gap-2 px-6 py-3 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-700 hover:to-indigo-700 text-white font-semibold rounded-xl disabled:opacity-50 disabled:cursor-not-allowed transition-all shadow-lg hover:shadow-xl hover:scale-[1.02] active:scale-[0.98]"
+            >
+              {whatIfMutation.isPending ? (
+                <Loader2 className="h-5 w-5 animate-spin" />
+              ) : (
+                <Sparkles className="h-5 w-5" />
+              )}
+              {whatIfMutation.isPending ? t('whatif.simulating') : t('whatif.run_simulation')}
+            </button>
+          </div>
+        </form>
       </div>
     </div>
   )
