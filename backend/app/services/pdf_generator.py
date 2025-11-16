@@ -2,6 +2,8 @@ from io import BytesIO
 from datetime import datetime
 from typing import Dict, List, Any, Optional
 import matplotlib
+import matplotlib.font_manager as fm
+import logging
 
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -27,24 +29,64 @@ import os
 
 from ..models.script import Script, Scene
 
-try:
-    font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-    if os.path.exists(font_path):
-        pdfmetrics.registerFont(TTFont("DejaVuSans", font_path))
-        pdfmetrics.registerFont(
-            TTFont(
-                "DejaVuSans-Bold",
-                "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
-            )
-        )
-        DEFAULT_FONT = "DejaVuSans"
-        DEFAULT_FONT_BOLD = "DejaVuSans-Bold"
+logger = logging.getLogger(__name__)
+
+def _setup_fonts():
+    font_paths = [
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+        "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
+        "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",
+    ]
+
+    bold_paths = [
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+    ]
+
+    font_registered = False
+    for font_path in font_paths:
+        if os.path.exists(font_path):
+            try:
+                pdfmetrics.registerFont(TTFont("CyrillicFont", font_path))
+                font_registered = True
+                logger.info(f"Registered font: {font_path}")
+                break
+            except Exception as e:
+                logger.warning(f"Failed to register {font_path}: {e}")
+
+    bold_registered = False
+    for bold_path in bold_paths:
+        if os.path.exists(bold_path):
+            try:
+                pdfmetrics.registerFont(TTFont("CyrillicFont-Bold", bold_path))
+                bold_registered = True
+                logger.info(f"Registered bold font: {bold_path}")
+                break
+            except Exception as e:
+                logger.warning(f"Failed to register {bold_path}: {e}")
+
+    if font_registered:
+        default_font = "CyrillicFont"
+        default_font_bold = "CyrillicFont-Bold" if bold_registered else "CyrillicFont"
     else:
-        DEFAULT_FONT = "Helvetica"
-        DEFAULT_FONT_BOLD = "Helvetica-Bold"
-except Exception:
-    DEFAULT_FONT = "Helvetica"
-    DEFAULT_FONT_BOLD = "Helvetica-Bold"
+        logger.error("No Cyrillic fonts found, Russian text may not render correctly")
+        default_font = "Helvetica"
+        default_font_bold = "Helvetica-Bold"
+
+    for font_path in font_paths:
+        if os.path.exists(font_path):
+            try:
+                fm.fontManager.addfont(font_path)
+                plt.rcParams['font.family'] = ['DejaVu Sans', 'Liberation Sans', 'sans-serif']
+                plt.rcParams['font.sans-serif'] = ['DejaVu Sans', 'Liberation Sans', 'Arial Unicode MS']
+                logger.info(f"Configured matplotlib font: {font_path}")
+                break
+            except Exception as e:
+                logger.warning(f"Failed to configure matplotlib font {font_path}: {e}")
+
+    return default_font, default_font_bold
+
+DEFAULT_FONT, DEFAULT_FONT_BOLD = _setup_fonts()
 
 
 class PDFReportGenerator:
