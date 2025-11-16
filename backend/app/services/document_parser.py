@@ -30,8 +30,8 @@ class DocumentParser:
                 text_parts = []
                 pdf_reader = PyPDF2.PdfReader(io.BytesIO(content))
 
-                for page in pdf_reader.pages:
-                    page_text = page.extract_text()  # type: ignore[assignment]
+                for page in pdf_reader.pages:  # type: ignore[assignment]
+                    page_text = page.extract_text()
                     if page_text:
                         text_parts.append(page_text)
 
