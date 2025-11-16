@@ -37,7 +37,7 @@ try:
     else:
         DEFAULT_FONT = 'Helvetica'
         DEFAULT_FONT_BOLD = 'Helvetica-Bold'
-except:
+except Exception:
     DEFAULT_FONT = 'Helvetica'
     DEFAULT_FONT_BOLD = 'Helvetica-Bold'
 
