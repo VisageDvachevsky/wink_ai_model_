@@ -1,3 +1,5 @@
+from typing import Optional
+from datetime import datetime
 from sqlalchemy import (
     Column,
     Integer,
@@ -9,7 +11,7 @@ from sqlalchemy import (
     ForeignKey,
     Boolean,
 )
-from sqlalchemy.orm import relationship
+from sqlalchemy.orm import relationship, Mapped, mapped_column
 from sqlalchemy.sql import func
 from ..db.base import Base
 
@@ -17,16 +19,16 @@ from ..db.base import Base
 class Script(Base):  # type: ignore[misc, valid-type]
     __tablename__ = "scripts"
 
-    id = Column(Integer, primary_key=True, index=True)
-    title = Column(String(255), nullable=False, index=True)
-    content = Column(Text, nullable=False)
-    predicted_rating = Column(String(10), nullable=True)
-    agg_scores = Column(JSON, nullable=True)
-    model_version = Column(String(50), nullable=True)
-    total_scenes = Column(Integer, nullable=True)
-    current_version = Column(Integer, default=1)
-    created_at = Column(DateTime(timezone=True), server_default=func.now())
-    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    title: Mapped[str] = mapped_column(String(255), nullable=False, index=True)
+    content: Mapped[str] = mapped_column(Text, nullable=False)
+    predicted_rating: Mapped[Optional[str]] = mapped_column(String(10), nullable=True)
+    agg_scores: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
+    model_version: Mapped[Optional[str]] = mapped_column(String(50), nullable=True)
+    total_scenes: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    current_version: Mapped[int] = mapped_column(Integer, default=1)
+    created_at: Mapped[Optional[datetime]] = mapped_column(DateTime(timezone=True), server_default=func.now())
+    updated_at: Mapped[Optional[datetime]] = mapped_column(DateTime(timezone=True), onupdate=func.now())
 
     scenes = relationship(
         "Scene", back_populates="script", cascade="all, delete-orphan"
@@ -42,22 +44,22 @@ class Script(Base):  # type: ignore[misc, valid-type]
 class Scene(Base):  # type: ignore[misc, valid-type]
     __tablename__ = "scenes"
 
-    id = Column(Integer, primary_key=True, index=True)
-    script_id = Column(
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    script_id: Mapped[int] = mapped_column(
         Integer, ForeignKey("scripts.id", ondelete="CASCADE"), nullable=False
     )
-    scene_id = Column(Integer, nullable=False)
-    heading = Column(String(500), nullable=False)
-    sample_text = Column(Text, nullable=True)
+    scene_id: Mapped[int] = mapped_column(Integer, nullable=False)
+    heading: Mapped[str] = mapped_column(String(500), nullable=False)
+    sample_text: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
 
-    violence = Column(Float, default=0.0)
-    gore = Column(Float, default=0.0)
-    sex_act = Column(Float, default=0.0)
-    nudity = Column(Float, default=0.0)
-    profanity = Column(Float, default=0.0)
-    drugs = Column(Float, default=0.0)
-    child_risk = Column(Float, default=0.0)
-    weight = Column(Float, default=0.0)
+    violence: Mapped[float] = mapped_column(Float, default=0.0)
+    gore: Mapped[float] = mapped_column(Float, default=0.0)
+    sex_act: Mapped[float] = mapped_column(Float, default=0.0)
+    nudity: Mapped[float] = mapped_column(Float, default=0.0)
+    profanity: Mapped[float] = mapped_column(Float, default=0.0)
+    drugs: Mapped[float] = mapped_column(Float, default=0.0)
+    child_risk: Mapped[float] = mapped_column(Float, default=0.0)
+    weight: Mapped[float] = mapped_column(Float, default=0.0)
 
     script = relationship("Script", back_populates="scenes")
 
@@ -65,14 +67,14 @@ class Scene(Base):  # type: ignore[misc, valid-type]
 class RatingLog(Base):  # type: ignore[misc, valid-type]
     __tablename__ = "rating_logs"
 
-    id = Column(Integer, primary_key=True, index=True)
-    script_id = Column(
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    script_id: Mapped[int] = mapped_column(
         Integer, ForeignKey("scripts.id", ondelete="CASCADE"), nullable=False
     )
-    predicted_rating = Column(String(10), nullable=False)
-    reasons = Column(JSON, nullable=True)
-    model_version = Column(String(50), nullable=False)
-    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    predicted_rating: Mapped[str] = mapped_column(String(10), nullable=False)
+    reasons: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
+    model_version: Mapped[str] = mapped_column(String(50), nullable=False)
+    created_at: Mapped[Optional[datetime]] = mapped_column(DateTime(timezone=True), server_default=func.now())
 
     script = relationship("Script", back_populates="ratings")
 
@@ -80,21 +82,21 @@ class RatingLog(Base):  # type: ignore[misc, valid-type]
 class ScriptVersion(Base):  # type: ignore[misc, valid-type]
     __tablename__ = "script_versions"
 
-    id = Column(Integer, primary_key=True, index=True)
-    script_id = Column(
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    script_id: Mapped[int] = mapped_column(
         Integer, ForeignKey("scripts.id", ondelete="CASCADE"), nullable=False
     )
-    version_number = Column(Integer, nullable=False)
-    title = Column(String(255), nullable=False)
-    content = Column(Text, nullable=False)
-    predicted_rating = Column(String(10), nullable=True)
-    agg_scores = Column(JSON, nullable=True)
-    total_scenes = Column(Integer, nullable=True)
-    change_description = Column(Text, nullable=True)
-    is_current = Column(Boolean, default=False)
-    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    version_number: Mapped[int] = mapped_column(Integer, nullable=False)
+    title: Mapped[str] = mapped_column(String(255), nullable=False)
+    content: Mapped[str] = mapped_column(Text, nullable=False)
+    predicted_rating: Mapped[Optional[str]] = mapped_column(String(10), nullable=True)
+    agg_scores: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
+    total_scenes: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    change_description: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    is_current: Mapped[bool] = mapped_column(Boolean, default=False)
+    created_at: Mapped[Optional[datetime]] = mapped_column(DateTime(timezone=True), server_default=func.now())
 
-    scenes_data = Column(JSON, nullable=True)
-    version_metadata = Column(JSON, nullable=True)
+    scenes_data: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
+    version_metadata: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
 
     script = relationship("Script", back_populates="versions")
