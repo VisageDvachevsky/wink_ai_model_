@@ -2,8 +2,6 @@ import re
 from typing import List, Dict, Any, Tuple
 from dataclasses import dataclass
 
-from ..models.script import LineFinding
-
 
 @dataclass
 class LineMatch:

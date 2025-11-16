@@ -462,7 +462,7 @@ export default function ScriptDetail() {
           initialContent={script.content}
           currentVersion={script.current_version || 1}
           onClose={() => setShowScriptEditor(false)}
-          onSave={(newContent) => {
+          onSave={() => {
             queryClient.invalidateQueries({ queryKey: ['script', id] })
             queryClient.invalidateQueries({ queryKey: ['line-findings', id] })
             queryClient.invalidateQueries({ queryKey: ['character-analysis', id] })
