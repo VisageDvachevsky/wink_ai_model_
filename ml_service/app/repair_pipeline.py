@@ -397,7 +397,7 @@ for context_type, templates in CONTEXT_TEMPLATES.items():
 print("Модель готова к использованию.\n")
 
 
-def count_matches(patterns: List, text: str) -> int:
+def count_matches(patterns: List, text: str) -> float:
     """Count pattern matches in text (wrapper for tests)."""
     count, _ = count_pattern_matches(patterns, text)
     return count
