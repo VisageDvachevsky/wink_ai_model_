@@ -21,17 +21,17 @@ class ScriptService:
         if existing_script and create_version:
             from .version_service import VersionService
 
-            existing_script.content = script_data.content
-            existing_script.predicted_rating = None
-            existing_script.agg_scores = None
-            existing_script.total_scenes = None
-
             await VersionService.create_version(
                 db,
                 existing_script.id,
                 change_description="New version created from upload",
                 make_current=True,
             )
+
+            existing_script.content = script_data.content
+            existing_script.predicted_rating = None
+            existing_script.agg_scores = None
+            existing_script.total_scenes = None
 
             await db.commit()
             await db.refresh(existing_script)

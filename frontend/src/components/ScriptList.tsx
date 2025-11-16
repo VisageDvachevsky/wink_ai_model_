@@ -92,8 +92,8 @@ function ScriptCard({ script, language, t }: ScriptCardProps) {
           </div>
 
           <div
-            className={`overflow-hidden transition-all duration-300 ease-in-out ${
-              expanded ? 'max-h-96' : 'max-h-0'
+            className={`overflow-hidden transition-all duration-500 ease-out ${
+              expanded ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'
             }`}
           >
             {loadingVersions ? (
@@ -102,11 +102,14 @@ function ScriptCard({ script, language, t }: ScriptCardProps) {
               </div>
             ) : (
               <div className="px-6 pb-4 space-y-2 max-h-80 overflow-y-auto">
-                {versions.map((version) => (
+                {versions.map((version, index) => (
                   <Link
                     key={version.id}
                     to={`/scripts/${script.id}?version=${version.version_number}`}
-                    className="block p-3 bg-gray-50 dark:bg-gray-700/50 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+                    className="block p-3 bg-gray-50 dark:bg-gray-700/50 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-all duration-200 hover:shadow-md transform hover:scale-[1.02]"
+                    style={{
+                      animation: expanded ? `slideIn 0.3s ease-out ${index * 0.05}s both` : 'none'
+                    }}
                   >
                     <div className="flex items-center justify-between mb-1">
                       <span className="font-medium text-gray-900 dark:text-white flex items-center gap-2">
@@ -117,11 +120,18 @@ function ScriptCard({ script, language, t }: ScriptCardProps) {
                           </span>
                         )}
                       </span>
-                      {version.predicted_rating && (
-                        <span className="px-2 py-0.5 bg-indigo-100 dark:bg-indigo-900/30 text-indigo-700 dark:text-indigo-400 text-xs font-bold rounded">
-                          {version.predicted_rating}
-                        </span>
-                      )}
+                      <div className="flex items-center gap-2">
+                        {version.total_scenes !== null && version.total_scenes !== undefined && (
+                          <span className="px-2 py-0.5 bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-400 text-xs rounded">
+                            {version.total_scenes} {language === 'ru' ? 'сцен' : 'scenes'}
+                          </span>
+                        )}
+                        {version.predicted_rating && (
+                          <span className="px-2 py-0.5 bg-indigo-100 dark:bg-indigo-900/30 text-indigo-700 dark:text-indigo-400 text-xs font-bold rounded">
+                            {version.predicted_rating}
+                          </span>
+                        )}
+                      </div>
                     </div>
                     <div className="text-xs text-gray-600 dark:text-gray-400 mb-1">
                       {new Date(version.created_at).toLocaleString(language === 'ru' ? 'ru-RU' : 'en-US')}
