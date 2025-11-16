@@ -75,17 +75,66 @@ class RatingAdvisor:
     }
 
     GENRE_CONTEXTS = {
-        "thriller": ["suspense", "tension", "chase", "investigation", "detective", "триллер", "напряжение", "погоня", "расследование"],
-        "action": ["fight", "combat", "battle", "hero", "villain", "экшн", "драка", "бой", "герой", "злодей"],
-        "drama": ["emotional", "relationship", "conflict", "family", "драма", "эмоциональный", "отношения", "конфликт", "семья"],
-        "horror": ["scary", "fear", "monster", "terror", "ужасы", "страх", "монстр", "террор"],
-        "romance": ["love", "romantic", "relationship", "kiss", "романтика", "любовь", "отношения", "поцелуй"],
+        "thriller": [
+            "suspense",
+            "tension",
+            "chase",
+            "investigation",
+            "detective",
+            "триллер",
+            "напряжение",
+            "погоня",
+            "расследование",
+        ],
+        "action": [
+            "fight",
+            "combat",
+            "battle",
+            "hero",
+            "villain",
+            "экшн",
+            "драка",
+            "бой",
+            "герой",
+            "злодей",
+        ],
+        "drama": [
+            "emotional",
+            "relationship",
+            "conflict",
+            "family",
+            "драма",
+            "эмоциональный",
+            "отношения",
+            "конфликт",
+            "семья",
+        ],
+        "horror": [
+            "scary",
+            "fear",
+            "monster",
+            "terror",
+            "ужасы",
+            "страх",
+            "монстр",
+            "террор",
+        ],
+        "romance": [
+            "love",
+            "romantic",
+            "relationship",
+            "kiss",
+            "романтика",
+            "любовь",
+            "отношения",
+            "поцелуй",
+        ],
     }
 
     def __init__(self, use_llm: bool = False):
         self.pipeline = RatingPipeline()
         try:
-            self.nlp_model = SentenceTransformer('all-MiniLM-L6-v2')
+            self.nlp_model = SentenceTransformer("all-MiniLM-L6-v2")
         except Exception:
             self.nlp_model = None
 
@@ -99,8 +148,12 @@ class RatingAdvisor:
         target_thresholds = self.RATING_THRESHOLDS[target_rating]
 
         is_achievable, confidence = self._check_achievability(
-            current_rating, target_rating, current_scores, target_thresholds,
-            request.script_text, result["scenes"]
+            current_rating,
+            target_rating,
+            current_scores,
+            target_thresholds,
+            request.script_text,
+            result["scenes"],
         )
 
         rating_gaps = self._calculate_gaps(
@@ -174,8 +227,22 @@ class RatingAdvisor:
             return {}
 
         violence_contexts = {
-            "stylized": ["fight choreography", "action sequence", "hero saves", "стилизованный бой", "сцена экшн", "герой спасает"],
-            "graphic": ["blood splatter", "brutal murder", "graphic violence", "брызги крови", "жестокое убийство", "графическое насилие"],
+            "stylized": [
+                "fight choreography",
+                "action sequence",
+                "hero saves",
+                "стилизованный бой",
+                "сцена экшн",
+                "герой спасает",
+            ],
+            "graphic": [
+                "blood splatter",
+                "brutal murder",
+                "graphic violence",
+                "брызги крови",
+                "жестокое убийство",
+                "графическое насилие",
+            ],
         }
 
         content_analysis = {}
@@ -187,8 +254,12 @@ class RatingAdvisor:
 
             for scene in violent_scenes[:10]:
                 content = scene.get("content", "").lower()
-                stylized_score = sum(1 for kw in violence_contexts["stylized"] if kw in content)
-                graphic_score = sum(1 for kw in violence_contexts["graphic"] if kw in content)
+                stylized_score = sum(
+                    1 for kw in violence_contexts["stylized"] if kw in content
+                )
+                graphic_score = sum(
+                    1 for kw in violence_contexts["graphic"] if kw in content
+                )
 
                 if stylized_score > graphic_score:
                     stylized_count += 1
@@ -238,9 +309,7 @@ class RatingAdvisor:
 
         if target == "0+":
             core_content = ["violence", "gore", "sex_act", "profanity"]
-            has_core_violations = any(
-                scores.get(dim, 0) > 0.15 for dim in core_content
-            )
+            has_core_violations = any(scores.get(dim, 0) > 0.15 for dim in core_content)
 
             if has_core_violations:
                 return False, 0.0
@@ -272,7 +341,10 @@ class RatingAdvisor:
             adjustments.append(-0.3)
 
         if genre in ["thriller", "action"]:
-            if target in ["6+", "12+"] and content_analysis.get("violence_type") == "stylized":
+            if (
+                target in ["6+", "12+"]
+                and content_analysis.get("violence_type") == "stylized"
+            ):
                 adjustments.append(0.1)
             else:
                 adjustments.append(-0.15)
