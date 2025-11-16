@@ -913,21 +913,67 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
 
     agg_excerpts = agg.get("excerpts", {})
 
-    # 18+ - эксплицитный контент (только для крайне графичного контента)
-    if agg["sex_act"] >= 0.75 or agg["gore"] >= 0.95:
+    # Calculate cumulative content severity score for multi-factor analysis
+    severity_score = (
+        agg["violence"] * 2.5 +
+        agg["gore"] * 4.0 +
+        agg["sex_act"] * 3.0 +
+        agg["nudity"] * 2.0 +
+        agg["profanity"] * 1.5 +
+        agg["drugs"] * 1.5 +
+        agg.get("child_risk", 0) * 3.0
+    )
+
+    # Count of problematic categories
+    problem_categories = sum([
+        1 if agg["violence"] >= 0.15 else 0,
+        1 if agg["gore"] >= 0.1 else 0,
+        1 if agg["sex_act"] >= 0.1 else 0,
+        1 if agg["nudity"] >= 0.15 else 0,
+        1 if agg["profanity"] >= 0.1 else 0,
+        1 if agg["drugs"] >= 0.08 else 0,
+        1 if agg.get("child_risk", 0) >= 0.15 else 0,
+    ])
+
+    # 18+ - эксплицитный контент
+    if agg["sex_act"] >= 0.6 or agg["gore"] >= 0.7:
         rating = "18+"
-        if agg["sex_act"] >= 0.75:
+        if agg["sex_act"] >= 0.6:
             reasons.append("эксплицитные сцены сексуального характера")
             if agg_excerpts.get("sex"):
                 excerpts.extend(agg_excerpts["sex"][:2])
-        if agg["gore"] >= 0.95:
+        if agg["gore"] >= 0.7:
             reasons.append("крайне графическое изображение жестокости и увечий")
             if agg_excerpts.get("gore"):
                 excerpts.extend(agg_excerpts["gore"][:2])
 
+    # 18+ - комбинация серьезных факторов
+    elif severity_score >= 2.5 or (severity_score >= 1.8 and problem_categories >= 4):
+        rating = "18+"
+        if agg["violence"] >= 0.2:
+            reasons.append("насилие и сцены убийств")
+            if agg_excerpts.get("violence"):
+                excerpts.extend(agg_excerpts["violence"][:2])
+        if agg["gore"] >= 0.1:
+            reasons.append("графическое изображение крови и увечий")
+            if agg_excerpts.get("gore"):
+                excerpts.extend(agg_excerpts["gore"][:2])
+        if agg["nudity"] >= 0.2:
+            reasons.append("сексуальный контент и нагота")
+            if agg_excerpts.get("nudity"):
+                excerpts.extend(agg_excerpts["nudity"][:2])
+        if agg["profanity"] >= 0.1:
+            reasons.append("ненормативная лексика")
+            if agg_excerpts.get("profanity"):
+                excerpts.extend(agg_excerpts["profanity"][:2])
+        if agg["drugs"] >= 0.08:
+            reasons.append("употребление алкоголя и наркотиков")
+            if agg_excerpts.get("drugs"):
+                excerpts.extend(agg_excerpts["drugs"][:1])
+
     # 18+ - дети в опасности с насилием
-    elif agg.get("child_risk", 0) > 0.7 and (
-        agg["sex_act"] >= 0.5 or agg["violence"] >= 0.8
+    elif agg.get("child_risk", 0) > 0.5 and (
+        agg["sex_act"] >= 0.3 or agg["violence"] >= 0.5 or agg["gore"] >= 0.3
     ):
         rating = "18+"
         reasons.append("опасные или жестокие сцены с участием несовершеннолетних")
@@ -935,7 +981,7 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
             excerpts.extend(agg_excerpts["violence"][:2])
 
     # 16+ - интенсивное насилие с кровью
-    elif (agg["violence"] >= 0.8 and agg["gore"] >= 0.7) or agg["gore"] >= 0.75:
+    elif (agg["violence"] >= 0.7 and agg["gore"] >= 0.5) or agg["gore"] >= 0.6:
         rating = "16+"
         reasons.append("интенсивное графическое насилие с кровью и увечьями")
         if agg_excerpts.get("violence"):
@@ -944,19 +990,19 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
             excerpts.extend(agg_excerpts["gore"][:1])
 
     # 16+ - явное насилие
-    elif agg["violence"] >= 0.65 or agg["gore"] >= 0.5:
+    elif agg["violence"] >= 0.5 or agg["gore"] >= 0.35:
         rating = "16+"
-        if agg["violence"] >= 0.65:
+        if agg["violence"] >= 0.5:
             reasons.append("интенсивное насилие и сцены убийств")
             if agg_excerpts.get("violence"):
                 excerpts.extend(agg_excerpts["violence"][:2])
-        if agg["gore"] >= 0.5:
+        if agg["gore"] >= 0.35:
             reasons.append("изображение крови и телесных повреждений")
             if agg_excerpts.get("gore"):
                 excerpts.extend(agg_excerpts["gore"][:2])
 
-    # 16+ - сексуальный контент средней степени
-    elif agg["sex_act"] >= 0.35 or agg["nudity"] >= 0.4:
+    # 16+ - сексуальный контент или нагота
+    elif agg["sex_act"] >= 0.3 or agg["nudity"] >= 0.35:
         rating = "16+"
         reasons.append("сексуальный контент и нагота")
         if agg_excerpts.get("sex"):
@@ -964,24 +1010,44 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
         if agg_excerpts.get("nudity"):
             excerpts.extend(agg_excerpts["nudity"][:2])
 
+    # 16+ - комбинация умеренных факторов
+    elif severity_score >= 1.8:
+        rating = "16+"
+        if agg["violence"] >= 0.2:
+            reasons.append("насилие и агрессия")
+        if agg["gore"] >= 0.1:
+            reasons.append("изображение крови")
+        if agg["nudity"] >= 0.2:
+            reasons.append("нагота")
+        if agg["profanity"] >= 0.1:
+            reasons.append("ненормативная лексика")
+        if agg["drugs"] >= 0.08:
+            reasons.append("употребление алкоголя или наркотиков")
+        if agg.get("child_risk", 0) >= 0.15:
+            reasons.append("потенциально опасные сцены")
+
     # 12+ - умеренный контент
-    elif agg["violence"] >= 0.3 or agg["profanity"] >= 0.4 or agg["drugs"] >= 0.3:
+    elif agg["violence"] >= 0.25 or agg["profanity"] >= 0.3 or agg["drugs"] >= 0.25 or agg["gore"] >= 0.15 or severity_score >= 0.8:
         rating = "12+"
-        if agg["violence"] >= 0.3:
+        if agg["violence"] >= 0.25:
             reasons.append("умеренное насилие и угрозы")
             if agg_excerpts.get("violence"):
                 excerpts.extend(agg_excerpts["violence"][:1])
-        if agg["profanity"] >= 0.4:
+        if agg["gore"] >= 0.15:
+            reasons.append("изображение крови")
+            if agg_excerpts.get("gore"):
+                excerpts.extend(agg_excerpts["gore"][:1])
+        if agg["profanity"] >= 0.3:
             reasons.append("ненормативная лексика")
             if agg_excerpts.get("profanity"):
                 excerpts.extend(agg_excerpts["profanity"][:1])
-        if agg["drugs"] >= 0.3:
+        if agg["drugs"] >= 0.25:
             reasons.append("употребление алкоголя, табака или наркотиков")
             if agg_excerpts.get("drugs"):
                 excerpts.extend(agg_excerpts["drugs"][:1])
 
     # 6+ - минимальный контент
-    elif agg["violence"] >= 0.1 or agg["profanity"] >= 0.1:
+    elif agg["violence"] >= 0.08 or agg["profanity"] >= 0.08 or severity_score >= 0.2:
         rating = "6+"
         reasons.append("незначительное насилие или редкая грубая лексика")
 
@@ -993,7 +1059,7 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
     return {
         "rating": rating,
         "reasons": reasons,
-        "evidence_excerpts": excerpts[:5],  # максимум 5 примеров
+        "evidence_excerpts": excerpts[:5],
     }
 
 
