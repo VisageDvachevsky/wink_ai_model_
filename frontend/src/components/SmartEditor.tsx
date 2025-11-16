@@ -32,7 +32,6 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
   const [hasChanges, setHasChanges] = useState(false)
   const [saving, setSaving] = useState(false)
   const [showHighlights, setShowHighlights] = useState(true)
-  const [highlightedLine, setHighlightedLine] = useState<number | null>(null)
   const editorRef = useRef<HTMLTextAreaElement>(null)
   const highlightContainerRef = useRef<HTMLDivElement>(null)
 
@@ -69,23 +68,6 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
     setHasChanges(false)
   }
 
-  const _scrollToLine = (lineNumber: number) => {
-    if (!editorRef.current) return
-
-    const lines = content.split('\n')
-    const charPosition = lines.slice(0, lineNumber - 1).join('\n').length
-
-    editorRef.current.focus()
-    editorRef.current.setSelectionRange(charPosition, charPosition)
-
-    const lineHeight = 24
-    const scrollPosition = (lineNumber - 1) * lineHeight - 100
-    editorRef.current.scrollTop = Math.max(0, scrollPosition)
-
-    setHighlightedLine(lineNumber)
-    setTimeout(() => setHighlightedLine(null), 2000)
-  }
-
   const renderHighlightedContent = () => {
     const lines = content.split('\n')
     const detectionMap = new Map<number, LineDetection[]>()
@@ -102,7 +84,6 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
     return lines.map((line, index) => {
       const lineNum = index + 1
       const lineDetections = detectionMap.get(lineNum) || []
-      const isHighlighted = lineNum === highlightedLine
 
       let bgClass = ''
       let borderClass = ''
@@ -120,10 +101,6 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
         } else {
           borderClass = 'border-l-4 border-yellow-500'
         }
-      }
-
-      if (isHighlighted) {
-        bgClass = 'bg-blue-200 dark:bg-blue-900/40 animate-pulse'
       }
 
       return (
