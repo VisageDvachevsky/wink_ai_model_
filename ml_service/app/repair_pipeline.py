@@ -26,12 +26,31 @@ except ImportError:
 # ===== REFERENCE CONTEXTS FOR SEMANTIC ANALYSIS =====
 # контекстные шаблоны для определения типа сцен (английские и русские)
 CONTEXT_TEMPLATES = {
+    "children_adventure": [
+        "children searching for treasure and solving riddles",
+        "kids exploring mysterious location together",
+        "young friends on adventure quest",
+        "детское приключение в поисках сокровищ",
+        "ребята исследуют таинственное место",
+        "дети разгадывают загадки и ищут клад",
+        "приключения друзей-школьников",
+        "юные искатели сокровищ",
+    ],
+    "family_friendly": [
+        "heartwarming family story",
+        "positive children's movie",
+        "story about friendship and helping others",
+        "добрая семейная история",
+        "позитивный детский фильм",
+        "история о дружбе и взаимопомощи",
+        "фильм для всей семьи",
+        "светлая история о добре",
+    ],
     "graphic_violence": [
         "brutal murder with blood and gore",
         "torture and physical violence causing injury",
         "graphic depiction of death and killing",
         "violent assault with weapons causing harm",
-        # Russian
         "жестокое убийство с кровью и увечьями",
         "пытки и физическое насилие причиняющее травмы",
         "графическое изображение смерти и убийства",
@@ -220,16 +239,17 @@ GORE_WORDS = [
     r"\bgore\b",
     r"\bmutilat\w*",
     # Russian patterns
-    r"\bкров\w*",
+    r"\bкровь\b",  # More specific: only "кровь" (blood)
+    r"\bкров[ьи]ю\b",  # кровью, кровию
     r"\bкровав\w*",
     r"\bкровоточ\w*",
-    r"\bран\w+",
+    r"\bран(?:а|ы|у|ой|е|ам|ами|ах)\b",  # Only wound forms, not "раньше" (earlier)
     r"\bшрам\w*",
     r"\bувечь\w*",
     r"\bожог\w*",
     r"\bкишк\w*",
     r"\bвнутренност\w*",
-    r"\bмозг\w*",
+    r"\bмозг(?:и|ов|у|ом|ах|ами)?\b",  # Only "мозг" forms, filtered by context
     r"\bрасчленен\w*",
     r"\bизувеч\w*",
 ]
@@ -383,15 +403,44 @@ def count_matches(patterns: List, text: str) -> int:
     return count
 
 
-def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str]]:
+def _get_keyword_context_weight(excerpt: str) -> float:
+    """
+    Analyzes context around keyword to determine weight.
+    Returns: 0.3 for discussion, 1.0 for neutral, 1.5 for action.
+    """
+    discussion_markers = [
+        r"\b(говор\w+|рассказ\w+|упомин\w+|слыш\w+)\s+(о|про)\b",
+        r"\bесли\b.*\bто\b",
+        r"\bкак\s+будто\b",
+        r"\bпохож\w+\s+на\b",
+        r"\b(talk\w+|mention\w+|discuss\w+|said)\s+(about|of)\b",
+        r"\bif\b.*\bthen\b",
+    ]
+
+    action_markers = [
+        r"\b(брызн\w+|тек(ла|ло|ли)|лил\w+|вид\w+|замет\w+)\b",
+        r"\b(splash\w+|spurt\w+|flow\w+|bleed\w+|saw|notice\w+)\b",
+    ]
+
+    for pattern in discussion_markers:
+        if re.search(pattern, excerpt, re.I):
+            return 0.3
+
+    for pattern in action_markers:
+        if re.search(pattern, excerpt, re.I):
+            return 1.5
+
+    return 1.0
+
+
+def count_pattern_matches(patterns: List[str], text: str) -> Tuple[float, List[str]]:
     """
     Подсчитывает совпадения паттернов и возвращает найденные фрагменты.
     Фильтрует ложные срабатывания от фигуральных выражений.
 
     Returns:
-        (count, matched_excerpts)
+        (weighted_count, matched_excerpts)
     """
-    # фразы-исключения, которые не считаются за реальное насилие/контент
     FALSE_POSITIVES = [
         # English patterns
         r"if (it|that|this) kills",
@@ -432,7 +481,7 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str
         r"about to.*\b(molest|rape|seduce|fondle)",  # Prevented/hypothetical action
         r"were to.*\b(molest|rape|seduce)",  # Conditional/hypothetical
         r"would.*\b(molest|rape|seduce)",  # Hypothetical
-        r"brain (garbage|dump|drain|power|wave|dead|cell|teaser)",  # Metaphorical/non-gore brain usage
+        r"brain(storm|wave|power|dump|drain|dead|cell|teaser|wash|freeze)",  # Metaphorical/non-gore brain usage
         r"brain(s)? (are|is) (just|garbage|trash)",  # "brains are just garbage"
         # Russian patterns
         r"в курсе",  # "в курсе" = "aware of/know about" (not drugs)
@@ -443,13 +492,15 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str
         r"таблетк\w+\s+(от|для|против)",  # "таблетки от/для" = medicine pills (not drugs)
         r"болеутол\w+",  # "болеутоляющее" = painkiller (medicine, not drugs)
         r"кроват\w*",  # "кровать/кровати" = "bed" (not blood/gore)
-        r"кров[ао]\w*",  # "крова/кровом" = "shelter/roof" (not blood)
+        r"\bкров[ао](?:м|й|ю|е|й|и)?\b",  # "крова/кровом/кровы" = "shelter/roof" (not blood)
+        r"мозгов(ой|ым|ого|ому|ая|ую)\s+(штурм|центр|атак|трест)",  # "мозговой штурм" etc (not gore)
+        r"ран(ь|н)(ше|ий|яя|ее|его|им|ему)",  # "раньше", "ранний" etc (not wounds)
     ]
 
     false_positive_patterns = [re.compile(p, re.I) for p in FALSE_POSITIVES]
 
     matches = []
-    count = 0
+    weighted_count = 0.0
     for pattern in patterns:
         if isinstance(pattern, re.Pattern):
             regex = pattern
@@ -457,24 +508,21 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str
             regex = re.compile(pattern, re.I)
         found = regex.finditer(text)
         for match in found:
-            # извлекаем контекст вокруг совпадения (50 символов до и после)
             start = max(0, match.start() - 50)
             end = min(len(text), match.end() + 50)
             excerpt = text[start:end].strip()
 
-            # проверяем, не является ли это ложным срабатыванием
             is_false_positive = any(
                 fp.search(excerpt) for fp in false_positive_patterns
             )
 
             if not is_false_positive:
+                weight = _get_keyword_context_weight(excerpt)
+                weighted_count += weight
                 matches.append(excerpt)
-                count += 1
 
-    # Additional context-based filtering: if excerpt is very short (< 10 chars)
-    # it's likely a parsing artifact
     matches = [m for m in matches if len(m.strip()) > 10]
-    return count, matches[:5]  # Возвращаем до 5 примеров
+    return weighted_count, matches[:5]
 
 
 def analyze_scene_context(scene_text: str) -> Dict[str, float]:
@@ -505,7 +553,6 @@ def extract_scene_features(scene_text: str) -> Dict[str, Any]:
     """
     txt = scene_text.lower()
 
-    # подсчитываем совпадения и собираем примеры
     violence_count, violence_excerpts = count_pattern_matches(VIOLENCE_WORDS, txt)
     gore_count, gore_excerpts = count_pattern_matches(GORE_WORDS, txt)
     profanity_count, profanity_excerpts = count_pattern_matches(PROFANITY, txt)
@@ -514,8 +561,8 @@ def extract_scene_features(scene_text: str) -> Dict[str, Any]:
     nudity_count, nudity_excerpts = count_pattern_matches(NUDITY_WORDS, txt)
     sex_count, sex_excerpts = count_pattern_matches(SEX_WORDS, txt)
 
-    # получаем контекстные оценки
     context_scores = analyze_scene_context(scene_text)
+    structure = _analyze_scene_structure(scene_text)
 
     length = max(1, len(txt.split()))
 
@@ -536,7 +583,94 @@ def extract_scene_features(scene_text: str) -> Dict[str, Any]:
         "sex_excerpts": sex_excerpts,
         "length": length,
         "context_scores": context_scores,
+        "structure": structure,
     }
+
+
+def _analyze_scene_structure(scene_text: str) -> Dict[str, float]:
+    """
+    Analyzes scene structure to distinguish ACTION from DIALOGUE.
+    Returns weights for content scoring.
+    """
+    lines = scene_text.split('\n')
+
+    dialogue_lines = 0
+    action_lines = 0
+    total_words = 0
+    dialogue_words = 0
+
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+
+        if not line:
+            i += 1
+            continue
+
+        if re.match(r'^[А-ЯA-Z\s]{2,}$', line) and len(line) < 50:
+            i += 1
+            if i < len(lines):
+                next_line = lines[i].strip()
+                if next_line and not next_line.startswith('('):
+                    dialogue_lines += 1
+                    dialogue_words += len(next_line.split())
+            continue
+
+        if line.startswith('(') and line.endswith(')'):
+            i += 1
+            continue
+
+        if not re.match(r'^(INT\.|EXT\.|ИНТ\.|ЭКСТ\.)', line, re.I):
+            words = len(line.split())
+            total_words += words
+            if words < 80:
+                dialogue_words += words * 0.5
+            else:
+                action_lines += 1
+
+        i += 1
+
+    if total_words == 0:
+        return {"dialogue_ratio": 0.5, "action_weight": 1.0}
+
+    dialogue_ratio = dialogue_words / max(1, total_words)
+
+    if dialogue_ratio > 0.6:
+        action_weight = 0.5
+    elif dialogue_ratio > 0.4:
+        action_weight = 0.7
+    else:
+        action_weight = 1.0
+
+    return {
+        "dialogue_ratio": dialogue_ratio,
+        "action_weight": action_weight
+    }
+
+
+def _normalize_count_to_score(count: float, scene_length: int, is_critical: bool = False) -> float:
+    """Threshold-based normalization with weighted count support."""
+    if count < 0.01:
+        return 0.0
+
+    if is_critical:
+        if count < 1.0:
+            return count * 0.3
+        elif count < 2.0:
+            return 0.3 + (count - 1.0) * 0.3
+        else:
+            return min(1.0, 0.6 + (count - 2.0) * 0.15)
+    else:
+        if count < 1.0:
+            base = 0.15 if scene_length > 100 else 0.25
+            return count * base
+        elif count < 2.0:
+            base = 0.35 if scene_length > 100 else 0.50
+            return base * (count - 1.0) + (0.15 if scene_length > 100 else 0.25)
+        elif count < 4.0:
+            return 0.50 + (count - 2.0) * 0.05
+        else:
+            return min(1.0, 0.60 + (count - 4.0) * 0.1)
 
 
 def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, Any]:
@@ -546,28 +680,22 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
     """
     L = features["length"]
     ctx = features["context_scores"]
+    structure = features.get("structure", {"dialogue_ratio": 0.5, "action_weight": 1.0})
 
-    # базовая нормализация по длине сцены
-    # используем более разумную формулу: (count / length) * scale_factor
-    # это дает плавную оценку вместо скачков от 0 к 1
-    violence_density = features["violence_count"] / max(1, L)
-    gore_density = features["gore_count"] / max(1, L)
+    violence_raw = _normalize_count_to_score(features["violence_count"], L, is_critical=False)
+    gore_raw = _normalize_count_to_score(features["gore_count"], L, is_critical=True)
 
-    # масштабируем: 1 упоминание на 50 слов = 0.2, на 25 слов = 0.4, на 10 слов = 1.0
-    violence_raw = violence_density * 100
-    gore_raw = gore_density * 100
+    violence_multiplier = structure["action_weight"]
+    gore_multiplier = structure["action_weight"]
 
-    # контекстная коррекция с использованием семантики
+    if ctx.get("children_adventure", 0) > 0.5 or ctx.get("family_friendly", 0) > 0.55:
+        violence_multiplier *= 0.15
+        gore_multiplier *= 0.15
 
-    violence_multiplier = 1.0
-    gore_multiplier = 1.0
-
-    # если это обсуждение/демонстрация насилия, а не реальное действие
-    if ctx["discussion_violence"] > 0.55 or ctx["thriller_tension"] > 0.5:
-        violence_multiplier *= 0.3  # Сильно снижаем
+    elif ctx["discussion_violence"] > 0.55 or ctx["thriller_tension"] > 0.5:
+        violence_multiplier *= 0.3
         gore_multiplier *= 0.3
 
-    # если сцена больше похожа на стилизованный экшн, снижаем оценку насилия
     elif ctx["stylized_action"] > 0.5:
         violence_multiplier *= 0.6
         gore_multiplier *= 0.7
@@ -585,26 +713,23 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
     violence_score = min(1.0, violence_raw * violence_multiplier)
     gore_score = min(1.0, gore_raw * gore_multiplier)
 
-    # сексуальный контент - если есть явные признаки
-    sex_raw = features["sex_count"]
-    if ctx["sexual_content"] > 0.6 and sex_raw > 0:
-        sex_score = min(1.0, sex_raw * 1.5)
+    sex_raw = _normalize_count_to_score(features["sex_count"], L, is_critical=True)
+    if ctx["sexual_content"] > 0.6 and features["sex_count"] > 0:
+        sex_score = min(1.0, sex_raw * 1.3)
     elif ctx["mild_romance"] > 0.5:
-        sex_score = min(0.3, sex_raw * 0.5)  # мягкая романтика
+        sex_score = min(0.3, sex_raw * 0.4)
     else:
-        sex_score = min(1.0, sex_raw)
+        sex_score = sex_raw
 
-    # нагота
-    nudity_score = min(1.0, features["nudity_count"] / 3.0)
+    nudity_score = _normalize_count_to_score(features["nudity_count"], L, is_critical=False)
 
-    # Ненормативная лексика
-    profanity_score = min(1.0, features["profanity_count"] / (L / 100))
+    profanity_score = _normalize_count_to_score(features["profanity_count"], L, is_critical=False)
 
-    # Наркотики
+    drugs_raw = _normalize_count_to_score(features["drugs_count"], L, is_critical=False)
     if ctx["drug_abuse"] > 0.55:
-        drugs_score = min(1.0, features["drugs_count"] / 2.0)
+        drugs_score = min(1.0, drugs_raw * 1.2)
     else:
-        drugs_score = min(1.0, features["drugs_count"] / 5.0)
+        drugs_score = drugs_raw * 0.8
 
     # Риск для детей
     child_risk = 0.0
