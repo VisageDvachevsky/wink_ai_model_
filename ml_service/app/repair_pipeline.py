@@ -915,25 +915,27 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
 
     # Calculate cumulative content severity score for multi-factor analysis
     severity_score = (
-        agg["violence"] * 2.5 +
-        agg["gore"] * 4.0 +
-        agg["sex_act"] * 3.0 +
-        agg["nudity"] * 2.0 +
-        agg["profanity"] * 1.5 +
-        agg["drugs"] * 1.5 +
-        agg.get("child_risk", 0) * 3.0
+        agg["violence"] * 2.5
+        + agg["gore"] * 4.0
+        + agg["sex_act"] * 3.0
+        + agg["nudity"] * 2.0
+        + agg["profanity"] * 1.5
+        + agg["drugs"] * 1.5
+        + agg.get("child_risk", 0) * 3.0
     )
 
     # Count of problematic categories
-    problem_categories = sum([
-        1 if agg["violence"] >= 0.15 else 0,
-        1 if agg["gore"] >= 0.1 else 0,
-        1 if agg["sex_act"] >= 0.1 else 0,
-        1 if agg["nudity"] >= 0.15 else 0,
-        1 if agg["profanity"] >= 0.1 else 0,
-        1 if agg["drugs"] >= 0.08 else 0,
-        1 if agg.get("child_risk", 0) >= 0.15 else 0,
-    ])
+    problem_categories = sum(
+        [
+            1 if agg["violence"] >= 0.15 else 0,
+            1 if agg["gore"] >= 0.1 else 0,
+            1 if agg["sex_act"] >= 0.1 else 0,
+            1 if agg["nudity"] >= 0.15 else 0,
+            1 if agg["profanity"] >= 0.1 else 0,
+            1 if agg["drugs"] >= 0.08 else 0,
+            1 if agg.get("child_risk", 0) >= 0.15 else 0,
+        ]
+    )
 
     # 18+ - эксплицитный контент
     if agg["sex_act"] >= 0.6 or agg["gore"] >= 0.7:
@@ -1027,7 +1029,13 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
             reasons.append("потенциально опасные сцены")
 
     # 12+ - умеренный контент
-    elif agg["violence"] >= 0.25 or agg["profanity"] >= 0.3 or agg["drugs"] >= 0.25 or agg["gore"] >= 0.15 or severity_score >= 0.8:
+    elif (
+        agg["violence"] >= 0.25
+        or agg["profanity"] >= 0.3
+        or agg["drugs"] >= 0.25
+        or agg["gore"] >= 0.15
+        or severity_score >= 0.8
+    ):
         rating = "12+"
         if agg["violence"] >= 0.25:
             reasons.append("умеренное насилие и угрозы")
