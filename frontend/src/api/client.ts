@@ -114,6 +114,23 @@ export interface AdvancedWhatIfResponse {
   rating_changed: boolean
 }
 
+export interface SmartSuggestion {
+  text: string
+  category: string
+  icon: string
+  priority: number
+  confidence: number
+  affected_scenes: number[]
+  reasoning: string
+}
+
+export interface SmartSuggestionsResponse {
+  suggestions: SmartSuggestion[]
+  analysis_summary: string
+  current_rating: string
+  total_scenes: number
+}
+
 export const scriptsApi = {
   list: async (): Promise<Script[]> => {
     const { data } = await apiClient.get('/scripts/')
@@ -169,6 +186,24 @@ export const scriptsApi = {
       modifications,
       use_llm: false,
       preserve_structure: true
+    })
+    return data
+  },
+
+  getSmartSuggestions: async (
+    scriptText: string,
+    currentScores?: Record<string, number>,
+    currentRating?: string,
+    language: string = 'ru',
+    maxSuggestions: number = 8
+  ): Promise<SmartSuggestionsResponse> => {
+    const mlServiceUrl = import.meta.env.VITE_ML_SERVICE_URL || 'http://localhost:8001'
+    const { data } = await axios.post(`${mlServiceUrl}/what_if_suggestions`, {
+      script_text: scriptText,
+      current_scores: currentScores,
+      current_rating: currentRating,
+      language,
+      max_suggestions: maxSuggestions
     })
     return data
   },

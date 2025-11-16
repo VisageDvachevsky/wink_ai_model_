@@ -159,3 +159,28 @@ class RatingAdvisorResponse(BaseModel):
     summary: str
     estimated_effort: str
     alternative_targets: list[str] | None = None
+
+
+class SmartSuggestionSchema(BaseModel):
+    text: str = Field(..., description="Suggestion text")
+    category: str = Field(..., description="Category (violence, profanity, etc)")
+    icon: str = Field(..., description="Emoji icon")
+    priority: int = Field(..., ge=1, le=10, description="Priority 1-10")
+    confidence: float = Field(..., ge=0, le=1, description="Confidence score")
+    affected_scenes: list[int] = Field(default_factory=list)
+    reasoning: str = Field(..., description="Why this suggestion")
+
+
+class SmartSuggestionsRequest(BaseModel):
+    script_text: str = Field(..., min_length=10)
+    current_scores: dict[str, float] | None = None
+    current_rating: str | None = None
+    language: str = "ru"
+    max_suggestions: int = Field(default=8, ge=1, le=20)
+
+
+class SmartSuggestionsResponse(BaseModel):
+    suggestions: list[SmartSuggestionSchema]
+    analysis_summary: str
+    current_rating: str
+    total_scenes: int

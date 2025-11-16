@@ -70,6 +70,11 @@ const translations: Record<Language, Record<string, string>> = {
     'theme.dark': 'Dark mode',
     'theme.light': 'Light mode',
     'language.select': 'Language',
+    'heatmap.title': 'Scene Heatmap',
+    'heatmap.legend': 'Legend:',
+    'whatif.suggestions_title': 'Smart Suggestions',
+    'whatif.no_suggestions': 'Start typing to see suggestions...',
+    'whatif.suggestion_help': 'Click a suggestion to use it',
   },
   ru: {
     'app.title': 'ИИ Оценки Сценариев',
@@ -132,6 +137,11 @@ const translations: Record<Language, Record<string, string>> = {
     'theme.dark': 'Тёмная тема',
     'theme.light': 'Светлая тема',
     'language.select': 'Язык',
+    'heatmap.title': 'Тепловая карта сцен',
+    'heatmap.legend': 'Легенда:',
+    'whatif.suggestions_title': 'Умные подсказки',
+    'whatif.no_suggestions': 'Начните вводить, чтобы увидеть подсказки...',
+    'whatif.suggestion_help': 'Нажмите на подсказку, чтобы использовать её',
   },
 }
 

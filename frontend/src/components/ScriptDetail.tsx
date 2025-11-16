@@ -369,6 +369,7 @@ export default function ScriptDetail() {
           scriptId={Number(id)}
           scriptText={script.content}
           currentRating={script.predicted_rating}
+          currentScores={script.agg_scores || undefined}
           onClose={() => setShowWhatIfModal(false)}
         />
       )}

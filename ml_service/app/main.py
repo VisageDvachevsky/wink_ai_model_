@@ -12,6 +12,8 @@ from .schemas import (
     AdvancedWhatIfResponse,
     RatingAdvisorRequest,
     RatingAdvisorResponse,
+    SmartSuggestionsRequest,
+    SmartSuggestionsResponse,
 )
 from .pipeline import get_pipeline
 from .what_if import get_what_if_analyzer
@@ -125,6 +127,23 @@ async def rating_advisor(request: RatingAdvisorRequest):
         raise HTTPException(status_code=500, detail=f"Processing error: {str(e)}")
 
 
+@app.post("/what_if_suggestions", response_model=SmartSuggestionsResponse)
+@track_inference_time("what_if_suggestions")
+async def what_if_suggestions(request: SmartSuggestionsRequest):
+    try:
+        analyzer = get_what_if_analyzer()
+        result = analyzer.generate_smart_suggestions(
+            script_text=request.script_text,
+            current_scores=request.current_scores,
+            language=request.language,
+            max_suggestions=request.max_suggestions,
+        )
+        return SmartSuggestionsResponse(**result)
+    except Exception as e:
+        logger.error(f"Error generating smart suggestions: {e}")
+        raise HTTPException(status_code=500, detail=f"Processing error: {str(e)}")
+
+
 @app.get("/")
 async def root():
     return {
@@ -135,6 +154,7 @@ async def root():
             "rate_script": "/rate_script",
             "what_if": "/what_if",
             "what_if_advanced": "/what_if_advanced",
+            "what_if_suggestions": "/what_if_suggestions",
             "rating_advisor": "/rating_advisor",
             "metrics": "/metrics",
             "docs": "/docs",
