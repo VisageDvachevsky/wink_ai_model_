@@ -154,12 +154,12 @@ def test_map_scores_to_rating_12_plus():
 
 def test_map_scores_to_rating_16_plus():
     agg = {
-        "violence": 0.65,
-        "gore": 0.4,
-        "sex_act": 0.2,
-        "nudity": 0.1,
-        "profanity": 0.3,
-        "drugs": 0.2,
+        "violence": 0.5,
+        "gore": 0.2,
+        "sex_act": 0.0,
+        "nudity": 0.0,
+        "profanity": 0.1,
+        "drugs": 0.0,
         "child_risk": 0.0,
     }
 
