@@ -9,7 +9,6 @@ from typing import Sequence, Union
 
 from alembic import op
 import sqlalchemy as sa
-from sqlalchemy.dialects import postgresql
 
 revision: str = '004_add_line_detections'
 down_revision: Union[str, None] = '003_rename_metadata_to_version_metadata'

@@ -1,4 +1,3 @@
-import pytest
 from app.core.exceptions import (
     ScriptNotFoundError,
     MLServiceError,

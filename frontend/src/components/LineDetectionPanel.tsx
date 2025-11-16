@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useCallback } from 'react'
 import { AlertTriangle, CheckCircle, XCircle, Info, TrendingUp, Filter } from 'lucide-react'
 import { scriptsApi, LineDetection, LineDetectionStats } from '../api/client'
 import { useLanguage } from '../contexts/LanguageContext'
@@ -37,11 +37,7 @@ const LineDetectionPanel: React.FC<LineDetectionPanelProps> = ({ scriptId, onLin
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
   const [showFalsePositives, setShowFalsePositives] = useState(false)
 
-  useEffect(() => {
-    loadDetections()
-  }, [scriptId, showFalsePositives])
-
-  const loadDetections = async () => {
+  const loadDetections = useCallback(async () => {
     setLoading(true)
     setError(null)
     try {
@@ -53,7 +49,11 @@ const LineDetectionPanel: React.FC<LineDetectionPanelProps> = ({ scriptId, onLin
     } finally {
       setLoading(false)
     }
-  }
+  }, [scriptId, showFalsePositives])
+
+  useEffect(() => {
+    loadDetections()
+  }, [loadDetections])
 
   const runDetection = async () => {
     setLoading(true)

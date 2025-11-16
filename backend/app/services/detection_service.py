@@ -1,11 +1,9 @@
-from typing import List, Dict, Any, Optional
+from typing import List
 from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
-from loguru import logger
 
 from ..models.script import Script, LineDetection, UserCorrection
 from ..schemas.detection import (
-    LineDetectionCreate,
     LineDetectionResponse,
     UserCorrectionCreate,
     UserCorrectionResponse,
@@ -71,7 +69,7 @@ class DetectionService:
         query = select(LineDetection).where(LineDetection.script_id == script_id)
 
         if not include_false_positives:
-            query = query.where(LineDetection.is_false_positive == False)
+            query = query.where(LineDetection.is_false_positive.is_(False))
 
         result = await self.db.execute(query)
         detections = result.scalars().all()
