@@ -100,9 +100,7 @@ class MLServiceClient:
             raise MLServiceError(f"Connection failed: {str(last_error)}")
         raise MLServiceError("No attempts made")
 
-    async def detect_lines(
-        self, text: str, context_lines: int = 3
-    ) -> dict[str, Any]:
+    async def detect_lines(self, text: str, context_lines: int = 3) -> dict[str, Any]:
         last_error: Exception | None = None
 
         for attempt in range(self.max_retries):
