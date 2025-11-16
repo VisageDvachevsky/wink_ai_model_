@@ -14,6 +14,11 @@ from ...schemas.script import (
     LineFindingResponse,
     CharacterAnalysisSummaryResponse,
     CharacterAnalysisResponse,
+    ManualCorrectionCreate,
+    ManualCorrectionResponse,
+    CorrectionsSummaryResponse,
+    ScriptUpdateRequest,
+    AdjustedRatingResponse,
 )
 from ...services.script_service import script_service
 from ...services.ml_client import ml_client
@@ -22,6 +27,7 @@ from ...services.pdf_generator import PDFReportGenerator
 from ...services.export_service import ExportService
 from ...services.document_parser import DocumentParser
 from ...services.analysis_service import AnalysisService
+from ...services.correction_service import CorrectionService
 from ...core.exceptions import (
     ScriptNotFoundError,
     InvalidFileError,
@@ -240,3 +246,107 @@ async def trigger_analysis(script_id: int, db: AsyncSession = Depends(get_db)):
         "line_findings_count": result["line_findings_count"],
         "character_count": result["character_count"],
     }
+
+
+@router.post(
+    "/{script_id}/corrections", response_model=ManualCorrectionResponse, status_code=201
+)
+async def create_correction(
+    script_id: int,
+    correction: ManualCorrectionCreate,
+    db: AsyncSession = Depends(get_db),
+):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    if correction.correction_type == "false_positive":
+        result = await CorrectionService.add_false_positive(
+            db,
+            script_id,
+            finding_id=correction.finding_id,
+            scene_id=correction.scene_id,
+            description=correction.description,
+        )
+    else:
+        result = await CorrectionService.add_false_negative(
+            db,
+            script_id,
+            category=correction.category or "unknown",
+            severity=correction.severity or 0.5,
+            line_start=correction.line_start,
+            line_end=correction.line_end,
+            matched_text=correction.matched_text,
+            description=correction.description,
+        )
+
+    return ManualCorrectionResponse.from_orm(result)
+
+
+@router.get("/{script_id}/corrections", response_model=CorrectionsSummaryResponse)
+async def get_corrections(script_id: int, db: AsyncSession = Depends(get_db)):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    corrections, stats = await CorrectionService.get_corrections(db, script_id)
+
+    return CorrectionsSummaryResponse(
+        corrections=[ManualCorrectionResponse.from_orm(c) for c in corrections],
+        stats=stats,
+    )
+
+
+@router.delete("/{script_id}/corrections/{correction_id}", status_code=204)
+async def delete_correction(
+    script_id: int, correction_id: int, db: AsyncSession = Depends(get_db)
+):
+    await CorrectionService.delete_correction(db, correction_id)
+    return {"status": "deleted"}
+
+
+@router.get("/{script_id}/adjusted-rating", response_model=AdjustedRatingResponse)
+async def get_adjusted_rating(script_id: int, db: AsyncSession = Depends(get_db)):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    if not script.predicted_rating or not script.agg_scores:
+        return AdjustedRatingResponse(
+            original_rating="0+",
+            adjusted_rating="0+",
+            original_scores={},
+            adjusted_scores={},
+            corrections_applied=0,
+        )
+
+    adjusted_rating, adjusted_scores = (
+        await CorrectionService.apply_corrections_to_rating(
+            db, script_id, script.predicted_rating, script.agg_scores
+        )
+    )
+
+    corrections, stats = await CorrectionService.get_corrections(db, script_id)
+
+    return AdjustedRatingResponse(
+        original_rating=script.predicted_rating,
+        adjusted_rating=adjusted_rating,
+        original_scores=script.agg_scores,
+        adjusted_scores=adjusted_scores,
+        corrections_applied=len(corrections),
+    )
+
+
+@router.put("/{script_id}/content", response_model=ScriptResponse)
+async def update_script_content(
+    script_id: int, request: ScriptUpdateRequest, db: AsyncSession = Depends(get_db)
+):
+    script = await script_service.get_script(db, script_id)
+    if not script:
+        raise ScriptNotFoundError(script_id)
+
+    updated_script = await CorrectionService.update_script_content(
+        db, script_id, request.content
+    )
+
+    return updated_script

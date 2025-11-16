@@ -154,3 +154,27 @@ class CharacterAnalysis(Base):  # type: ignore[misc, valid-type]
     )
 
     script = relationship("Script", backref="character_analyses")
+
+
+class ManualCorrection(Base):  # type: ignore[misc, valid-type]
+    __tablename__ = "manual_corrections"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    script_id: Mapped[int] = mapped_column(
+        Integer, ForeignKey("scripts.id", ondelete="CASCADE"), nullable=False
+    )
+    finding_id: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    scene_id: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    correction_type: Mapped[str] = mapped_column(String(50), nullable=False)
+    category: Mapped[Optional[str]] = mapped_column(String(50), nullable=True)
+    severity: Mapped[Optional[float]] = mapped_column(Float, nullable=True)
+    description: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    line_start: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    line_end: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    matched_text: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    is_active: Mapped[bool] = mapped_column(Boolean, default=True)
+    created_at: Mapped[Optional[datetime]] = mapped_column(
+        DateTime(timezone=True), server_default=func.now()
+    )
+
+    script = relationship("Script", backref="manual_corrections")
