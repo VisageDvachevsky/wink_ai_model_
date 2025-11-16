@@ -188,7 +188,7 @@ async def update_script_content(
     script_id: int,
     content: str = Form(...),
     description: str = Form(None),
-    db: AsyncSession = Depends(get_db)
+    db: AsyncSession = Depends(get_db),
 ):
     script = await script_service.get_script(db, script_id)
     if not script:

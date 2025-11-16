@@ -23,8 +23,7 @@ async def detect_lines_in_script(
         raise ScriptNotFoundError(script_id)
 
     detection_result = await ml_client.detect_lines(
-        text=str(script.content),
-        context_lines=context_lines
+        text=str(script.content), context_lines=context_lines
     )
 
     stmt = select(ManualCorrection).where(ManualCorrection.script_id == script_id)
@@ -109,8 +108,7 @@ async def delete_correction(
     db: AsyncSession = Depends(get_db),
 ):
     stmt = select(ManualCorrection).where(
-        ManualCorrection.id == correction_id,
-        ManualCorrection.script_id == script_id
+        ManualCorrection.id == correction_id, ManualCorrection.script_id == script_id
     )
     result = await db.execute(stmt)
     correction = result.scalar_one_or_none()

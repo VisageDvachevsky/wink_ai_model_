@@ -138,10 +138,10 @@ class ScriptService:
         script.total_scenes = None
 
         await db.execute(select(Scene).where(Scene.script_id == script_id))
-        await db.execute(
+        await db.execute(select(Scene).where(Scene.script_id == script_id))
+        scenes_to_delete = await db.execute(
             select(Scene).where(Scene.script_id == script_id)
         )
-        scenes_to_delete = await db.execute(select(Scene).where(Scene.script_id == script_id))
         for scene in scenes_to_delete.scalars():
             await db.delete(scene)
 

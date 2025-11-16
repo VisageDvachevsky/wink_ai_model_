@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useMemo } from 'react'
+import { useState, useEffect, useRef, useMemo, useCallback } from 'react'
 import { useLanguage } from '../contexts/LanguageContext'
 import {
   AlertCircle,
@@ -61,11 +61,7 @@ export default function SmartEditor({ scriptId, initialContent, onSave, onClose 
   const editorRef = useRef<HTMLTextAreaElement>(null)
   const lineRefs = useRef<Map<number, HTMLDivElement>>(new Map())
 
-  useEffect(() => {
-    detectIssues()
-  }, [])
-
-  const detectIssues = async () => {
+  const detectIssues = useCallback(async () => {
     setLoading(true)
     try {
       const response = await fetch(`/api/v1/scripts/${scriptId}/detect-lines?context_lines=3`)
@@ -77,7 +73,11 @@ export default function SmartEditor({ scriptId, initialContent, onSave, onClose 
     } finally {
       setLoading(false)
     }
-  }
+  }, [scriptId])
+
+  useEffect(() => {
+    detectIssues()
+  }, [detectIssues])
 
   const scrollToIssue = (index: number) => {
     if (issues[index]) {
