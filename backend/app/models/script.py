@@ -107,3 +107,20 @@ class ScriptVersion(Base):  # type: ignore[misc, valid-type]
     version_metadata: Mapped[Optional[dict]] = mapped_column(JSON, nullable=True)
 
     script = relationship("Script", back_populates="versions")
+
+
+class ManualCorrection(Base):  # type: ignore[misc, valid-type]
+    __tablename__ = "manual_corrections"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    script_id: Mapped[int] = mapped_column(
+        Integer, ForeignKey("scripts.id", ondelete="CASCADE"), nullable=False
+    )
+    issue_id: Mapped[str] = mapped_column(String(100), nullable=False)
+    correction_type: Mapped[str] = mapped_column(String(20), nullable=False)
+    category: Mapped[str] = mapped_column(String(50), nullable=False)
+    line_number: Mapped[int] = mapped_column(Integer, nullable=False)
+    notes: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    created_at: Mapped[Optional[datetime]] = mapped_column(
+        DateTime(timezone=True), server_default=func.now()
+    )

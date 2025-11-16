@@ -115,5 +115,41 @@ class ScriptService:
         )
         return result
 
+    @staticmethod
+    async def update_content(
+        db: AsyncSession, script_id: int, content: str, description: str | None = None
+    ) -> Script:
+        from .version_service import VersionService
+
+        script = await ScriptService.get_script(db, script_id)
+        if not script:
+            raise ValueError(f"Script {script_id} not found")
+
+        await VersionService.create_version(
+            db,
+            script_id,
+            change_description=description or "Manual edit via Smart Editor",
+            make_current=True,
+        )
+
+        script.content = content
+        script.predicted_rating = None
+        script.agg_scores = None
+        script.total_scenes = None
+
+        await db.execute(select(Scene).where(Scene.script_id == script_id))
+        await db.execute(
+            select(Scene).where(Scene.script_id == script_id)
+        )
+        scenes_to_delete = await db.execute(select(Scene).where(Scene.script_id == script_id))
+        for scene in scenes_to_delete.scalars():
+            await db.delete(scene)
+
+        await db.commit()
+        await db.refresh(script)
+
+        logger.info(f"Updated content for script {script_id}")
+        return script
+
 
 script_service = ScriptService()
