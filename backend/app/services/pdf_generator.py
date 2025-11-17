@@ -50,38 +50,27 @@ def _ensure_matplotlib():
 
 
 def _setup_fonts():
-    font_paths = [
-        "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
-        "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
-        "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",
-    ]
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    fonts_dir = os.path.join(current_dir, "fonts")
 
-    bold_paths = [
-        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
-        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
-    ]
+    font_path = os.path.join(fonts_dir, "DejaVuSans.ttf")
+    bold_path = os.path.join(fonts_dir, "DejaVuSans-Bold.ttf")
 
-    font_registered = False
-    for font_path in font_paths:
-        if os.path.exists(font_path):
-            try:
-                pdfmetrics.registerFont(TTFont("CyrillicFont", font_path))
-                font_registered = True
-                logger.info(f"Registered font: {font_path}")
-                break
-            except Exception as e:
-                logger.warning(f"Failed to register {font_path}: {e}")
+    try:
+        pdfmetrics.registerFont(TTFont("CyrillicFont", font_path))
+        logger.info(f"Registered font: {font_path}")
+        font_registered = True
+    except Exception as e:
+        logger.error(f"Failed to register {font_path}: {e}")
+        font_registered = False
 
-    bold_registered = False
-    for bold_path in bold_paths:
-        if os.path.exists(bold_path):
-            try:
-                pdfmetrics.registerFont(TTFont("CyrillicFont-Bold", bold_path))
-                bold_registered = True
-                logger.info(f"Registered bold font: {bold_path}")
-                break
-            except Exception as e:
-                logger.warning(f"Failed to register {bold_path}: {e}")
+    try:
+        pdfmetrics.registerFont(TTFont("CyrillicFont-Bold", bold_path))
+        logger.info(f"Registered bold font: {bold_path}")
+        bold_registered = True
+    except Exception as e:
+        logger.warning(f"Failed to register {bold_path}: {e}")
+        bold_registered = False
 
     if font_registered:
         default_font = "CyrillicFont"
@@ -93,27 +82,14 @@ def _setup_fonts():
 
     _ensure_matplotlib()
 
-    if fm and plt:
-        for font_path in font_paths:
-            if os.path.exists(font_path):
-                try:
-                    fm.fontManager.addfont(font_path)
-                    plt.rcParams["font.family"] = [
-                        "DejaVu Sans",
-                        "Liberation Sans",
-                        "sans-serif",
-                    ]
-                    plt.rcParams["font.sans-serif"] = [
-                        "DejaVu Sans",
-                        "Liberation Sans",
-                        "Arial Unicode MS",
-                    ]
-                    logger.info(f"Configured matplotlib font: {font_path}")
-                    break
-                except Exception as e:
-                    logger.warning(
-                        f"Failed to configure matplotlib font {font_path}: {e}"
-                    )
+    if fm and plt and font_registered:
+        try:
+            fm.fontManager.addfont(font_path)
+            plt.rcParams["font.family"] = ["DejaVu Sans", "sans-serif"]
+            plt.rcParams["font.sans-serif"] = ["DejaVu Sans"]
+            logger.info(f"Configured matplotlib font: {font_path}")
+        except Exception as e:
+            logger.warning(f"Failed to configure matplotlib font {font_path}: {e}")
     elif MATPLOTLIB_IMPORT_ERROR:
         logger.warning(
             "Matplotlib is unavailable, chart fonts disabled: %s",
