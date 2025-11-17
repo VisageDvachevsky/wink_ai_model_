@@ -3,10 +3,7 @@ from datetime import datetime
 from typing import Dict, List, Any, Optional
 import importlib
 import logging
-
-plt = None
-fm = None
-MATPLOTLIB_IMPORT_ERROR: Exception | None = None
+import os
 
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
@@ -26,9 +23,12 @@ from reportlab.platypus import (
 from reportlab.lib.enums import TA_CENTER
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
-import os
 
 from ..models.script import Script, Scene
+
+plt = None
+fm = None
+MATPLOTLIB_IMPORT_ERROR: Exception | None = None
 
 logger = logging.getLogger(__name__)
 

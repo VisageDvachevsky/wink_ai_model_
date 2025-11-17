@@ -670,7 +670,6 @@ def extract_scene_features(scene_text: str) -> Dict[str, Any]:
         "length": length,
         "context_scores": context_scores,
         "structure": structure,
-        "context_scores": context_scores,
     }
 
 
@@ -811,8 +810,16 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
         features["nudity_count"], L, is_critical=False
     )
 
+    sex_score = _normalize_count_to_score(
+        features["sex_count"], L, is_critical=False
+    )
+
     profanity_score = _normalize_count_to_score(
         features["profanity_count"], L, is_critical=False
+    )
+
+    drugs_score = _normalize_count_to_score(
+        features["drugs_count"], L, is_critical=False
     )
 
     child_story = context_scores.get("childrens_adventure", 0.0)
@@ -871,11 +878,10 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
             "violence": features["violence_excerpts"],
             "gore": features["gore_excerpts"],
             "sex": features["sex_excerpts"],
-            "nudity": features["nudity_excerpts"],  # Добавлены примеры наготы
+            "nudity": features["nudity_excerpts"],
             "profanity": features["profanity_excerpts"],
             "drugs": features["drugs_excerpts"],
         },
-        "context_scores": context_scores,
     }
 
 
