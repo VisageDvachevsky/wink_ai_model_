@@ -107,7 +107,7 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
         <div
           key={lineNum}
           className={`min-h-[24px] px-2 ${bgClass} ${borderClass} transition-all duration-200`}
-          style={{ lineHeight: '24px' }}
+          style={{ lineHeight: '24px', color: 'transparent' }}
         >
           {line || ' '}
         </div>
@@ -173,7 +173,7 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
 
       <div className="relative border border-gray-300 dark:border-gray-700 rounded-lg overflow-hidden bg-white dark:bg-gray-900">
         <div className="absolute inset-0 pointer-events-none overflow-hidden" ref={highlightContainerRef}>
-          <div className="font-mono text-sm p-4 whitespace-pre-wrap break-words text-transparent">
+          <div className="font-mono text-sm p-4 whitespace-pre-wrap break-words">
             {renderHighlightedContent()}
           </div>
         </div>
