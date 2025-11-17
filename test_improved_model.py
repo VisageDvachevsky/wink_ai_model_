@@ -2,7 +2,8 @@
 """Test improved rating model on problematic children's adventure scene."""
 
 import sys
-sys.path.insert(0, 'ml_service/app')
+
+sys.path.insert(0, "ml_service/app")
 
 from repair_pipeline import (
     extract_scene_features,
@@ -72,26 +73,26 @@ for name, scene_text, expected in test_cases:
     print(f"Profanity: {normalized['profanity']:.2%}")
     print()
 
-    ctx = features['context_scores']
+    ctx = features["context_scores"]
     print("Top context matches:")
     sorted_ctx = sorted(ctx.items(), key=lambda x: x[1], reverse=True)[:3]
     for ctx_type, score in sorted_ctx:
         if score > 0.3:
             print(f"  {ctx_type}: {score:.2%}")
 
-    structure = features.get('structure', {})
+    structure = features.get("structure", {})
     if structure:
         print(f"Dialogue ratio: {structure.get('dialogue_ratio', 0):.2%}")
         print(f"Action weight: {structure.get('action_weight', 1.0):.2f}")
 
     agg = {
-        "violence": normalized['violence'],
-        "gore": normalized['gore'],
-        "sex_act": normalized['sex_act'],
-        "nudity": normalized['nudity'],
-        "profanity": normalized['profanity'],
-        "drugs": normalized['drugs'],
-        "child_risk": normalized.get('child_risk', 0),
+        "violence": normalized["violence"],
+        "gore": normalized["gore"],
+        "sex_act": normalized["sex_act"],
+        "nudity": normalized["nudity"],
+        "profanity": normalized["profanity"],
+        "drugs": normalized["drugs"],
+        "child_risk": normalized.get("child_risk", 0),
         "excerpts": {},
     }
 
