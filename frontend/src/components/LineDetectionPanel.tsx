@@ -242,7 +242,7 @@ const LineDetectionPanel: React.FC<LineDetectionPanelProps> = ({ scriptId, onLin
             </div>
 
             {detection.context_before && (
-              <div className="text-xs text-gray-400 dark:text-gray-600 mb-1 pl-10">
+              <div className="text-xs text-gray-500 dark:text-gray-400 mb-1 pl-10">
                 {detection.context_before}
               </div>
             )}
@@ -255,7 +255,7 @@ const LineDetectionPanel: React.FC<LineDetectionPanelProps> = ({ scriptId, onLin
             </div>
 
             {detection.context_after && (
-              <div className="text-xs text-gray-400 dark:text-gray-600 mt-1 pl-10">
+              <div className="text-xs text-gray-500 dark:text-gray-400 mt-1 pl-10">
                 {detection.context_after}
               </div>
             )}

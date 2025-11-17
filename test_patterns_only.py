@@ -19,6 +19,7 @@ FALSE_POSITIVES = [
     r"ран(ь|н)(ше|ий|яя|ее|его|им|ему)",
 ]
 
+
 def count_pattern_matches_simple(patterns, text):
     """Simplified pattern matching with false positive filtering."""
     false_positive_patterns = [re.compile(p, re.I) for p in FALSE_POSITIVES]
@@ -44,6 +45,7 @@ def count_pattern_matches_simple(patterns, text):
                 count += 1
 
     return count, matches
+
 
 # Problematic scene
 scene_text = """EXT. ВЫХОД ИЗ ПЕЩЕРЫ - ДЕНЬ

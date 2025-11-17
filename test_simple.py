@@ -19,6 +19,7 @@ FALSE_POSITIVES = [
     r"ран(ь|н)(ше|ий|яя|ее|его|им|ему)",
 ]
 
+
 def test_pattern_matching(text):
     false_positive_patterns = [re.compile(p, re.I) for p in FALSE_POSITIVES]
 
@@ -30,11 +31,14 @@ def test_pattern_matching(text):
             end = min(len(text), match.end() + 50)
             excerpt = text[start:end].strip()
 
-            is_false_positive = any(fp.search(excerpt) for fp in false_positive_patterns)
+            is_false_positive = any(
+                fp.search(excerpt) for fp in false_positive_patterns
+            )
             if not is_false_positive:
                 count += 1
 
     return count
+
 
 # Test cases
 children_scene = """EXT. ВЫХОД ИЗ ПЕЩЕРЫ - ДЕНЬ
@@ -86,6 +90,7 @@ print("TESTING NORMALIZATION IMPROVEMENTS")
 print("=" * 70)
 print()
 
+
 def normalize_count_to_score(count, scene_length=100, is_critical=False):
     """Threshold-based normalization (from updated model)."""
     if count < 0.01:
@@ -109,6 +114,7 @@ def normalize_count_to_score(count, scene_length=100, is_critical=False):
             return 0.35 + (count - 2.0) * 0.10
         else:
             return min(1.0, 0.55 + (count - 4.0) * 0.10)
+
 
 test_cases = [
     (0, "No keywords", "~0%"),
@@ -147,4 +153,6 @@ print("  2. ✅ Threshold-based normalization implemented")
 print("  3. ✅ Pattern specificity improved")
 print("  4. ✅ Gradual scoring instead of binary")
 print()
-print("Model is ready for testing with full semantic analysis when network is available.")
+print(
+    "Model is ready for testing with full semantic analysis when network is available."
+)

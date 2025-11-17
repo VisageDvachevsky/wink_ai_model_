@@ -8,8 +8,8 @@ import WhatIfModal from './WhatIfModal'
 import RatingAdvisor from './RatingAdvisor'
 import SceneHeatmap from './SceneHeatmap'
 import VersionHistory from './VersionHistory'
-import LineDetectionPanel from './LineDetectionPanel'
-import SmartEditor from './SmartEditor'
+import LineDetectionModal from './LineDetectionModal'
+import SmartEditorModal from './SmartEditorModal'
 import ManualCorrectionModal from './ManualCorrectionModal'
 import { useLanguage } from '../contexts/LanguageContext'
 
@@ -173,14 +173,14 @@ export default function ScriptDetail() {
                 </div>
                 <div className="flex items-center gap-2">
                   <button
-                    onClick={() => setShowLineDetections(!showLineDetections)}
+                    onClick={() => setShowLineDetections(true)}
                     className="inline-flex items-center px-3 py-1.5 border border-red-300 dark:border-red-600 rounded-lg text-xs font-medium text-red-700 dark:text-red-400 bg-red-50 dark:bg-red-900/30 hover:bg-red-100 dark:hover:bg-red-900/50 transition-colors"
                   >
                     <AlertCircle className="h-3 w-3 mr-1.5" />
                     {language === 'ru' ? 'Детекция строк' : 'Line Detection'}
                   </button>
                   <button
-                    onClick={() => setShowSmartEditor(!showSmartEditor)}
+                    onClick={() => setShowSmartEditor(true)}
                     className="inline-flex items-center px-3 py-1.5 border border-blue-300 dark:border-blue-600 rounded-lg text-xs font-medium text-blue-700 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/30 hover:bg-blue-100 dark:hover:bg-blue-900/50 transition-colors"
                   >
                     <Edit3 className="h-3 w-3 mr-1.5" />
@@ -395,32 +395,31 @@ export default function ScriptDetail() {
       </div>
 
       {showLineDetections && script.predicted_rating && (
-        <div className="bg-white dark:bg-gray-800 shadow-lg rounded-xl p-6 border border-gray-100 dark:border-gray-700">
-          <LineDetectionPanel
-            scriptId={Number(id)}
-            onLineClick={() => {
-              setShowSmartEditor(true)
-            }}
-          />
-        </div>
+        <LineDetectionModal
+          scriptId={Number(id)}
+          onClose={() => setShowLineDetections(false)}
+          onLineClick={() => {
+            setShowLineDetections(false)
+            setShowSmartEditor(true)
+          }}
+        />
       )}
 
       {showSmartEditor && script && (
-        <div className="bg-white dark:bg-gray-800 shadow-lg rounded-xl p-6 border border-gray-100 dark:border-gray-700">
-          <SmartEditor
-            scriptId={Number(id)}
-            initialContent={script.content}
-            detections={detections}
-            onSave={async () => {
-              queryClient.invalidateQueries({ queryKey: ['script', id] })
-            }}
-            onReanalyze={async () => {
-              await scriptsApi.detectLines(Number(id), 3)
-              const data = await scriptsApi.getDetections(Number(id), false)
-              setDetections(data)
-            }}
-          />
-        </div>
+        <SmartEditorModal
+          scriptId={Number(id)}
+          initialContent={script.content}
+          detections={detections}
+          onClose={() => setShowSmartEditor(false)}
+          onSave={async () => {
+            queryClient.invalidateQueries({ queryKey: ['script', id] })
+          }}
+          onReanalyze={async () => {
+            await scriptsApi.detectLines(Number(id), 3)
+            const data = await scriptsApi.getDetections(Number(id), false)
+            setDetections(data)
+          }}
+        />
       )}
 
       {showWhatIfModal && script.predicted_rating && (

@@ -2,13 +2,14 @@
 """Test script to reproduce the rating issue with the children's adventure scene."""
 
 import sys
-sys.path.insert(0, 'ml_service/app')
+
+sys.path.insert(0, "ml_service/app")
 
 from repair_pipeline import (
     extract_scene_features,
     normalize_and_contextualize_scores,
     GORE_WORDS,
-    count_pattern_matches
+    count_pattern_matches,
 )
 
 # Проблемная сцена
@@ -72,13 +73,13 @@ print(f"Child risk score: {normalized['child_risk']:.2%}\n")
 print("=" * 70)
 print("CONTEXT SCORES")
 print("=" * 70)
-for ctx_type, score in normalized['context_scores'].items():
+for ctx_type, score in normalized["context_scores"].items():
     if score > 0.4:
         print(f"{ctx_type}: {score:.2%}")
 print("\n")
 
 # Expected: all scores should be close to 0 for a children's adventure scene
-if normalized['gore'] > 0.5:
+if normalized["gore"] > 0.5:
     print("❌ BUG CONFIRMED: Gore score is abnormally high!")
     print(f"   Gore score: {normalized['gore']:.2%}")
     print(f"   This is a children's adventure scene with no gore content.")

@@ -171,9 +171,9 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
         </div>
       )}
 
-      <div className="relative border border-gray-300 dark:border-gray-700 rounded-lg overflow-hidden">
+      <div className="relative border border-gray-300 dark:border-gray-700 rounded-lg overflow-hidden bg-white dark:bg-gray-900">
         <div className="absolute inset-0 pointer-events-none overflow-hidden" ref={highlightContainerRef}>
-          <div className="font-mono text-sm p-4 whitespace-pre-wrap break-words">
+          <div className="font-mono text-sm p-4 whitespace-pre-wrap break-words text-transparent">
             {renderHighlightedContent()}
           </div>
         </div>
