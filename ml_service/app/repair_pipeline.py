@@ -26,26 +26,6 @@ except ImportError:
 # ===== REFERENCE CONTEXTS FOR SEMANTIC ANALYSIS =====
 # контекстные шаблоны для определения типа сцен (английские и русские)
 CONTEXT_TEMPLATES = {
-    "children_adventure": [
-        "children searching for treasure and solving riddles",
-        "kids exploring mysterious location together",
-        "young friends on adventure quest",
-        "детское приключение в поисках сокровищ",
-        "ребята исследуют таинственное место",
-        "дети разгадывают загадки и ищут клад",
-        "приключения друзей-школьников",
-        "юные искатели сокровищ",
-    ],
-    "family_friendly": [
-        "heartwarming family story",
-        "positive children's movie",
-        "story about friendship and helping others",
-        "добрая семейная история",
-        "позитивный детский фильм",
-        "история о дружбе и взаимопомощи",
-        "фильм для всей семьи",
-        "светлая история о добре",
-    ],
     "graphic_violence": [
         "brutal murder with blood and gore",
         "torture and physical violence causing injury",
@@ -689,11 +669,7 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
     violence_multiplier = structure["action_weight"]
     gore_multiplier = structure["action_weight"]
 
-    if ctx.get("children_adventure", 0) > 0.5 or ctx.get("family_friendly", 0) > 0.55:
-        violence_multiplier *= 0.15
-        gore_multiplier *= 0.15
-
-    elif ctx["discussion_violence"] > 0.55 or ctx["thriller_tension"] > 0.5:
+    if ctx["discussion_violence"] > 0.55 or ctx["thriller_tension"] > 0.5:
         violence_multiplier *= 0.3
         gore_multiplier *= 0.3
 
