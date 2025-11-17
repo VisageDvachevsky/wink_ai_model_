@@ -645,9 +645,11 @@ def extract_scene_features(scene_text: str) -> Dict[str, Any]:
     nudity_count, nudity_excerpts = count_pattern_matches(NUDITY_WORDS, txt)
     sex_count, sex_excerpts = count_pattern_matches(SEX_WORDS, txt)
 
-    context_scores = analyze_scene_context(scene_text)
+    semantic_context = analyze_scene_context(scene_text)
+    keyword_context = _compute_context_scores(scene_text)
+    context_scores = {**semantic_context, **keyword_context}
+
     structure = _analyze_scene_structure(scene_text)
-    context_scores = _compute_context_scores(scene_text)
     context_scores["dialogue_heavy"] = round(structure.get("dialogue_ratio", 0.5), 4)
 
     length = max(1, len(txt.split()))
@@ -785,7 +787,6 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
     использует семантический анализ для корректировки оценок.
     """
     L = features["length"]
-    ctx = features["context_scores"]
     structure = features.get("structure", {"dialogue_ratio": 0.5, "action_weight": 1.0})
     context_scores = dict(features.get("context_scores") or {})
     context_scores.setdefault(
@@ -810,9 +811,7 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
         features["nudity_count"], L, is_critical=False
     )
 
-    sex_score = _normalize_count_to_score(
-        features["sex_count"], L, is_critical=False
-    )
+    sex_score = _normalize_count_to_score(features["sex_count"], L, is_critical=False)
 
     profanity_score = _normalize_count_to_score(
         features["profanity_count"], L, is_critical=False
@@ -860,7 +859,8 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
 
     child_risk = 0.0
     if features["child_count"] > 0:
-        if ctx["child_endangerment"] > 0.5:
+        child_context = context_scores.get("child_endangerment", 0.0)
+        if child_context > 0.5:
             child_risk = min(1.0, features["child_count"] / 2.0)
         else:
             child_risk = min(0.5, features["child_count"] / 5.0)
@@ -873,7 +873,7 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
         "profanity": profanity_score,
         "drugs": drugs_score,
         "child_risk": child_risk,
-        "context_scores": ctx,
+        "context_scores": context_scores,
         "excerpts": {
             "violence": features["violence_excerpts"],
             "gore": features["gore_excerpts"],
@@ -1133,8 +1133,10 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
         if agg_excerpts.get("gore"):
             excerpts.extend(agg_excerpts["gore"][:1])
 
-    if rating in {"0+", "6+", "12+", "16+"} and moderate_combo and (
-        adult_combo or dark_combo
+    if (
+        rating in {"0+", "6+", "12+", "16+"}
+        and moderate_combo
+        and (adult_combo or dark_combo)
     ):
         rating = "18+"
         drop_soft_reasons()

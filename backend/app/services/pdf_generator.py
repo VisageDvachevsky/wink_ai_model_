@@ -378,7 +378,12 @@ class PDFReportGenerator:
                     ("ALIGN", (1, 0), (1, -1), "RIGHT"),
                     ("FONTSIZE", (0, 0), (-1, -1), 10),
                     ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
-                    ("ROWBACKGROUNDS", (0, 0), (-1, -1), [colors.whitesmoke, colors.white]),
+                    (
+                        "ROWBACKGROUNDS",
+                        (0, 0),
+                        (-1, -1),
+                        [colors.whitesmoke, colors.white],
+                    ),
                 ]
             )
         )
