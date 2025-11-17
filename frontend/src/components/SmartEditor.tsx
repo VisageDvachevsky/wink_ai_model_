@@ -32,7 +32,6 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
   const [hasChanges, setHasChanges] = useState(false)
   const [saving, setSaving] = useState(false)
   const [showHighlights, setShowHighlights] = useState(true)
-  const [highlightedLine, setHighlightedLine] = useState<number | null>(null)
   const editorRef = useRef<HTMLTextAreaElement>(null)
   const highlightContainerRef = useRef<HTMLDivElement>(null)
 
@@ -85,7 +84,6 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
     return lines.map((line, index) => {
       const lineNum = index + 1
       const lineDetections = detectionMap.get(lineNum) || []
-      const isHighlighted = lineNum === highlightedLine
 
       let bgClass = ''
       let borderClass = ''
@@ -103,10 +101,6 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
         } else {
           borderClass = 'border-l-4 border-yellow-500'
         }
-      }
-
-      if (isHighlighted) {
-        bgClass = 'bg-blue-200 dark:bg-blue-900/40 animate-pulse'
       }
 
       return (
