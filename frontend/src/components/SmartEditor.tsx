@@ -12,13 +12,13 @@ interface SmartEditorProps {
 }
 
 const CATEGORY_BG_COLORS: Record<string, string> = {
-  violence: 'bg-red-200 dark:bg-red-900/30',
-  gore: 'bg-red-300 dark:bg-red-900/40',
-  profanity: 'bg-orange-200 dark:bg-orange-900/30',
-  drugs: 'bg-purple-200 dark:bg-purple-900/30',
-  sex_act: 'bg-pink-200 dark:bg-pink-900/30',
-  nudity: 'bg-pink-100 dark:bg-pink-900/20',
-  child_risk: 'bg-yellow-200 dark:bg-yellow-900/30',
+  violence: 'bg-red-200 dark:bg-red-900/60',
+  gore: 'bg-red-300 dark:bg-red-900/70',
+  profanity: 'bg-orange-200 dark:bg-orange-900/60',
+  drugs: 'bg-purple-200 dark:bg-purple-900/60',
+  sex_act: 'bg-pink-200 dark:bg-pink-900/60',
+  nudity: 'bg-pink-100 dark:bg-pink-900/50',
+  child_risk: 'bg-yellow-200 dark:bg-yellow-900/60',
 }
 
 const SmartEditor: React.FC<SmartEditorProps> = ({
@@ -107,7 +107,7 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
         <div
           key={lineNum}
           className={`min-h-[24px] px-2 ${bgClass} ${borderClass} transition-all duration-200`}
-          style={{ lineHeight: '24px' }}
+          style={{ lineHeight: '24px', color: 'transparent' }}
         >
           {line || ' '}
         </div>
@@ -173,7 +173,7 @@ const SmartEditor: React.FC<SmartEditorProps> = ({
 
       <div className="relative border border-gray-300 dark:border-gray-700 rounded-lg overflow-hidden bg-white dark:bg-gray-900">
         <div className="absolute inset-0 pointer-events-none overflow-hidden" ref={highlightContainerRef}>
-          <div className="font-mono text-sm p-4 whitespace-pre-wrap break-words text-transparent">
+          <div className="font-mono text-sm p-4 whitespace-pre-wrap break-words">
             {renderHighlightedContent()}
           </div>
         </div>
