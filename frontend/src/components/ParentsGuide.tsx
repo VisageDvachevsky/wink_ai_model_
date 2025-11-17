@@ -35,7 +35,7 @@ const ParentsGuide: React.FC<ParentsGuideProps> = ({ parentsGuide }) => {
     <div className="bg-white dark:bg-gray-900 rounded-lg border border-gray-200 dark:border-gray-700 p-6">
       <div className="flex items-center gap-3 mb-6">
         <Shield className="w-6 h-6 text-blue-600 dark:text-blue-400" />
-        <h2 className="text-2xl font-bold">Parents Guide</h2>
+        <h2 className="text-2xl font-bold">{t('parents_guide.title')}</h2>
       </div>
 
       <div className="space-y-4">
@@ -50,21 +50,21 @@ const ParentsGuide: React.FC<ParentsGuideProps> = ({ parentsGuide }) => {
                 <h3 className="text-lg font-semibold">{t(`category.${category}`)}</h3>
               </div>
               <span className={`px-3 py-1 rounded-full text-sm font-semibold ${SEVERITY_COLORS[stats.severity as keyof typeof SEVERITY_COLORS]}`}>
-                {stats.severity}
+                {t(`severity.${stats.severity}`)}
               </span>
             </div>
 
             <div className="grid grid-cols-3 gap-4 text-sm">
               <div>
-                <div className="text-gray-500 dark:text-gray-400 mb-1">Episodes</div>
+                <div className="text-gray-500 dark:text-gray-400 mb-1">{t('parents_guide.episodes')}</div>
                 <div className="font-semibold text-lg">{stats.episode_count}</div>
               </div>
               <div>
-                <div className="text-gray-500 dark:text-gray-400 mb-1">Coverage</div>
+                <div className="text-gray-500 dark:text-gray-400 mb-1">{t('parents_guide.coverage')}</div>
                 <div className="font-semibold text-lg">{stats.percentage.toFixed(2)}%</div>
               </div>
               <div>
-                <div className="text-gray-500 dark:text-gray-400 mb-1">Peak Matches</div>
+                <div className="text-gray-500 dark:text-gray-400 mb-1">{t('parents_guide.peak_matches')}</div>
                 <div className="font-semibold text-lg">{stats.top_matches}</div>
               </div>
             </div>
@@ -72,7 +72,7 @@ const ParentsGuide: React.FC<ParentsGuideProps> = ({ parentsGuide }) => {
             {stats.severity === 'SEVERE' && (
               <div className="mt-3 flex items-start gap-2 text-sm text-red-600 dark:text-red-400">
                 <AlertTriangle className="w-4 h-4 mt-0.5 flex-shrink-0" />
-                <p>This category contains significant content that may not be suitable for younger audiences.</p>
+                <p>{t('parents_guide.severe_warning')}</p>
               </div>
             )}
           </div>
@@ -83,12 +83,12 @@ const ParentsGuide: React.FC<ParentsGuideProps> = ({ parentsGuide }) => {
         <div className="flex items-start gap-2">
           <AlertCircle className="w-5 h-5 text-blue-600 dark:text-blue-400 mt-0.5 flex-shrink-0" />
           <div className="text-sm text-blue-900 dark:text-blue-200">
-            <p className="font-semibold mb-1">Rating Guide:</p>
+            <p className="font-semibold mb-1">{t('parents_guide.rating_guide_title')}</p>
             <ul className="space-y-1 ml-4">
-              <li><span className="font-semibold text-green-600 dark:text-green-400">NONE:</span> No content concerns</li>
-              <li><span className="font-semibold text-yellow-600 dark:text-yellow-400">MILD:</span> Minor content, suitable for most audiences</li>
-              <li><span className="font-semibold text-orange-600 dark:text-orange-400">MODERATE:</span> Some content may not be suitable for children</li>
-              <li><span className="font-semibold text-red-600 dark:text-red-400">SEVERE:</span> Significant content requiring parental discretion</li>
+              <li><span className="font-semibold text-green-600 dark:text-green-400">{t('severity.NONE')}:</span> {t('parents_guide.severity_none')}</li>
+              <li><span className="font-semibold text-yellow-600 dark:text-yellow-400">{t('severity.MILD')}:</span> {t('parents_guide.severity_mild')}</li>
+              <li><span className="font-semibold text-orange-600 dark:text-orange-400">{t('severity.MODERATE')}:</span> {t('parents_guide.severity_moderate')}</li>
+              <li><span className="font-semibold text-red-600 dark:text-red-400">{t('severity.SEVERE')}:</span> {t('parents_guide.severity_severe')}</li>
             </ul>
           </div>
         </div>
