@@ -141,10 +141,11 @@ class RatingAdvisor:
     def analyze(self, request: RatingAdvisorRequest) -> RatingAdvisorResponse:
         result = self.pipeline.analyze_script(text=request.script_text, script_id=None)
 
-        current_rating = request.current_rating or result["predicted_rating"]
+        current_scores = result["agg_scores"]
+        actual_rating = self._determine_rating_from_scores(current_scores)
+        current_rating = request.current_rating or actual_rating
         target_rating = request.target_rating
 
-        current_scores = result["agg_scores"]
         target_thresholds = self.RATING_THRESHOLDS[target_rating]
 
         is_achievable, confidence = self._check_achievability(
@@ -205,6 +206,13 @@ class RatingAdvisor:
             estimated_effort=effort,
             alternative_targets=alternative_targets,
         )
+
+    def _determine_rating_from_scores(self, scores: Dict[str, float]) -> str:
+        for rating in reversed(self.RATING_ORDER):
+            thresholds = self.RATING_THRESHOLDS[rating]
+            if all(scores.get(dim, 0) <= thresholds[dim] for dim in thresholds):
+                return rating
+        return "18+"
 
     def _detect_genre(self, script_text: str, scenes: List[Dict]) -> str:
         if not self.nlp_model or not script_text:
@@ -573,6 +581,9 @@ class RatingAdvisor:
             if current == target:
                 return f"Сценарий уже имеет рейтинг {target}."
 
+            if not gaps:
+                return f"Сценарий уже соответствует рейтингу {target}. Изменения не требуются."
+
             gap_desc = ", ".join([f"{g.dimension} (↓{g.gap:.1%})" for g in gaps[:3]])
             return (
                 f"Для достижения рейтинга {target} необходимо уменьшить: {gap_desc}. "
@@ -585,6 +596,9 @@ class RatingAdvisor:
 
             if current == target:
                 return f"Script already has {target} rating."
+
+            if not gaps:
+                return f"Script already meets {target} rating requirements. No changes needed."
 
             gap_desc = ", ".join([f"{g.dimension} (↓{g.gap:.1%})" for g in gaps[:3]])
             return (
