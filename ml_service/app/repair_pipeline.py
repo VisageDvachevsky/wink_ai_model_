@@ -669,7 +669,7 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
     violence_multiplier = structure["action_weight"]
     gore_multiplier = structure["action_weight"]
 
-    if ctx["discussion_violence"] > 0.55 or ctx["thriller_tension"] > 0.5:
+    if ctx["discussion_violence"] > 0.55:
         violence_multiplier *= 0.3
         gore_multiplier *= 0.3
 
