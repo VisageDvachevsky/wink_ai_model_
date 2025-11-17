@@ -1,5 +1,8 @@
+from pathlib import Path
+
 import pytest
-from app.pipeline import RatingPipeline
+from ml_service.app.pipeline import RatingPipeline
+from ml_service.app.repair_pipeline import analyze_script_file
 
 
 @pytest.fixture
@@ -116,3 +119,12 @@ def test_analyze_script_explicit_content(pipeline):
 
     assert result["predicted_rating"] == "18+"
     assert result["agg_scores"]["sex_act"] > 0.5
+
+
+def test_demo_thriller_has_adult_rating():
+    repo_root = Path(__file__).resolve().parents[2]
+    script_path = repo_root / "frontend" / "public" / "demo" / "thriller_18.txt"
+
+    result = analyze_script_file(str(script_path))
+
+    assert result["predicted_rating"] == "18+"

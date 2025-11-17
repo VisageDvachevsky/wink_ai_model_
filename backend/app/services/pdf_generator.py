@@ -1,12 +1,12 @@
 from io import BytesIO
 from datetime import datetime
 from typing import Dict, List, Any, Optional
-import matplotlib
-import matplotlib.font_manager as fm
+import importlib
 import logging
 
-matplotlib.use("Agg")
-import matplotlib.pyplot as plt
+plt = None
+fm = None
+MATPLOTLIB_IMPORT_ERROR: Exception | None = None
 
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
@@ -21,6 +21,7 @@ from reportlab.platypus import (
     PageBreak,
     Image,
     KeepTogether,
+    Flowable,
 )
 from reportlab.lib.enums import TA_CENTER
 from reportlab.pdfbase import pdfmetrics
@@ -30,6 +31,22 @@ import os
 from ..models.script import Script, Scene
 
 logger = logging.getLogger(__name__)
+
+
+def _ensure_matplotlib():
+    global plt, fm, MATPLOTLIB_IMPORT_ERROR
+    if plt is not None or MATPLOTLIB_IMPORT_ERROR is not None:
+        return
+
+    try:
+        matplotlib = importlib.import_module("matplotlib")
+        matplotlib.use("Agg")
+        fm = importlib.import_module("matplotlib.font_manager")
+        plt = importlib.import_module("matplotlib.pyplot")
+    except Exception as exc:  # pragma: no cover - import-time best effort
+        MATPLOTLIB_IMPORT_ERROR = exc
+        fm = None
+        plt = None
 
 
 def _setup_fonts():
@@ -74,29 +91,50 @@ def _setup_fonts():
         default_font = "Helvetica"
         default_font_bold = "Helvetica-Bold"
 
-    for font_path in font_paths:
-        if os.path.exists(font_path):
-            try:
-                fm.fontManager.addfont(font_path)
-                plt.rcParams["font.family"] = [
-                    "DejaVu Sans",
-                    "Liberation Sans",
-                    "sans-serif",
-                ]
-                plt.rcParams["font.sans-serif"] = [
-                    "DejaVu Sans",
-                    "Liberation Sans",
-                    "Arial Unicode MS",
-                ]
-                logger.info(f"Configured matplotlib font: {font_path}")
-                break
-            except Exception as e:
-                logger.warning(f"Failed to configure matplotlib font {font_path}: {e}")
+    _ensure_matplotlib()
+
+    if fm and plt:
+        for font_path in font_paths:
+            if os.path.exists(font_path):
+                try:
+                    fm.fontManager.addfont(font_path)
+                    plt.rcParams["font.family"] = [
+                        "DejaVu Sans",
+                        "Liberation Sans",
+                        "sans-serif",
+                    ]
+                    plt.rcParams["font.sans-serif"] = [
+                        "DejaVu Sans",
+                        "Liberation Sans",
+                        "Arial Unicode MS",
+                    ]
+                    logger.info(f"Configured matplotlib font: {font_path}")
+                    break
+                except Exception as e:
+                    logger.warning(
+                        f"Failed to configure matplotlib font {font_path}: {e}"
+                    )
+    elif MATPLOTLIB_IMPORT_ERROR:
+        logger.warning(
+            "Matplotlib is unavailable, chart fonts disabled: %s",
+            MATPLOTLIB_IMPORT_ERROR,
+        )
 
     return default_font, default_font_bold
 
 
-DEFAULT_FONT, DEFAULT_FONT_BOLD = _setup_fonts()
+DEFAULT_FONT = "Helvetica"
+DEFAULT_FONT_BOLD = "Helvetica-Bold"
+_FONTS_READY = False
+
+
+def _ensure_fonts_loaded():
+    global DEFAULT_FONT, DEFAULT_FONT_BOLD, _FONTS_READY
+    if _FONTS_READY:
+        return
+
+    DEFAULT_FONT, DEFAULT_FONT_BOLD = _setup_fonts()
+    _FONTS_READY = True
 
 
 class PDFReportGenerator:
@@ -120,6 +158,7 @@ class PDFReportGenerator:
 
     def __init__(self, language: str = "ru"):
         self.language = language
+        _ensure_fonts_loaded()
         self.styles = getSampleStyleSheet()
         self._setup_custom_styles()
 
@@ -287,9 +326,15 @@ class PDFReportGenerator:
         elements.append(rating_table)
         return elements
 
-    def _create_scores_chart(self, scores: Dict[str, float]) -> Optional[Image]:
+    def _create_scores_chart(self, scores: Dict[str, float]) -> Optional[Flowable]:
         if not scores:
             return None
+
+        _ensure_matplotlib()
+
+        if not plt:
+            logger.info("Matplotlib unavailable, using table summary for scores")
+            return self._create_scores_table(scores)
 
         fig, ax = plt.subplots(figsize=(8, 4))
 
@@ -317,6 +362,27 @@ class PDFReportGenerator:
         img_buffer.seek(0)
 
         return Image(img_buffer, width=6 * inch, height=3 * inch)
+
+    def _create_scores_table(self, scores: Dict[str, float]) -> Table:
+        data = []
+        for key, value in scores.items():
+            label = self.CATEGORY_LABELS_RU.get(key, key)
+            data.append([label, f"{value * 100:.1f}%"])
+
+        table = Table(data, colWidths=[3.2 * inch, 1.2 * inch])
+        table.setStyle(
+            TableStyle(
+                [
+                    ("FONTNAME", (0, 0), (-1, -1), DEFAULT_FONT),
+                    ("FONTNAME", (0, 0), (0, -1), DEFAULT_FONT_BOLD),
+                    ("ALIGN", (1, 0), (1, -1), "RIGHT"),
+                    ("FONTSIZE", (0, 0), (-1, -1), 10),
+                    ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
+                    ("ROWBACKGROUNDS", (0, 0), (-1, -1), [colors.whitesmoke, colors.white]),
+                ]
+            )
+        )
+        return table
 
     def _create_scenes_section(self, scenes: List[Scene]) -> List:
         elements = []

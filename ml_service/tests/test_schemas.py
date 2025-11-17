@@ -1,6 +1,6 @@
 import pytest
 from pydantic import ValidationError
-from app.schemas import (
+from ml_service.app.schemas import (
     ScriptRequest,
     SceneFeatures,
     ScriptRatingResponse,

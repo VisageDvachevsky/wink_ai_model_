@@ -337,6 +337,90 @@ CHILD_WORDS = [
     r"\bнесовершеннолетн\w*",
 ]
 
+
+CONTEXT_KEYWORDS = {
+    "childrens_adventure": {
+        "positive": [
+            r"\bдети\b",
+            r"\bребят\w*",
+            r"\bподрост\w*",
+            r"\bклад\b",
+            r"\bкарта\b",
+            r"\bприключ",
+            r"\bпещер",
+            r"\bсекрет\b",
+            r"\bдедушк\w*",
+            r"\bтайн\w*",
+            r"\bkid(s)?\b",
+            r"\bchildren\b",
+            r"\btreasure\b",
+            r"\bquest\b",
+            r"\bmap\b",
+        ],
+        "negative": [r"\bубий", r"\bрасчлен", r"\bsex\b", r"\bнасилие\b"],
+        "scale": 6.0,
+    },
+    "investigation_dialogue": {
+        "positive": [
+            r"\bдетектив",
+            r"\bдопрос",
+            r"\bрасслед",
+            r"\bследоват",
+            r"\bопрос",
+            r"\bдоказательств",
+            r"\bpolice\b",
+            r"\binterrogat",
+            r"\binvestigat",
+            r"\bпротокол",
+        ],
+        "scale": 5.0,
+    },
+    "graphic_violence": {
+        "positive": [
+            r"\bкров",
+            r"\bтруп",
+            r"\bжертва",
+            r"\bубийц",
+            r"\bрасчлен",
+            r"\bknife\b",
+            r"\bstab",
+            r"\bguts\b",
+            r"\bblood",
+            r"\bмертв",
+        ],
+        "scale": 4.0,
+    },
+    "romantic_soft": {
+        "positive": [
+            r"\bпоцелу",
+            r"\bобнима",
+            r"\bулыб",
+            r"\bсмех",
+            r"\bшутк",
+            r"\bроман",
+            r"\bлюбов",
+            r"\bkiss",
+            r"\bromance\b",
+        ],
+        "scale": 4.0,
+    },
+    "military_operation": {
+        "positive": [
+            r"\bсолдат",
+            r"\bарм",
+            r"\bвойн",
+            r"\bбитв",
+            r"\bбоев",
+            r"\bbattle",
+            r"\bgrenade",
+            r"\bshootout",
+            r"\bоруж",
+            r"\bвзрыв",
+        ],
+        "scale": 5.0,
+    },
+}
+
 NUDITY_WORDS = [
     # English patterns
     r"\bbra\b",
@@ -563,6 +647,8 @@ def extract_scene_features(scene_text: str) -> Dict[str, Any]:
 
     context_scores = analyze_scene_context(scene_text)
     structure = _analyze_scene_structure(scene_text)
+    context_scores = _compute_context_scores(scene_text)
+    context_scores["dialogue_heavy"] = round(structure.get("dialogue_ratio", 0.5), 4)
 
     length = max(1, len(txt.split()))
 
@@ -584,6 +670,7 @@ def extract_scene_features(scene_text: str) -> Dict[str, Any]:
         "length": length,
         "context_scores": context_scores,
         "structure": structure,
+        "context_scores": context_scores,
     }
 
 
@@ -645,6 +732,27 @@ def _analyze_scene_structure(scene_text: str) -> Dict[str, float]:
     return {"dialogue_ratio": dialogue_ratio, "action_weight": action_weight}
 
 
+def _compute_context_scores(scene_text: str) -> Dict[str, float]:
+    """Lightweight keyword-based context detection to dampen false positives."""
+    text = scene_text.lower()
+    scores: Dict[str, float] = {}
+
+    for name, config in CONTEXT_KEYWORDS.items():
+        positive_hits = 0
+        for pattern in config.get("positive", []):
+            positive_hits += len(re.findall(pattern, text))
+
+        negative_hits = 0
+        for pattern in config.get("negative", []):
+            negative_hits += len(re.findall(pattern, text))
+
+        raw = max(0.0, positive_hits - 0.5 * negative_hits)
+        scale = config.get("scale", 4.0)
+        scores[name] = round(min(1.0, raw / max(1.0, scale)), 4)
+
+    return scores
+
+
 def _normalize_count_to_score(
     count: float, scene_length: int, is_critical: bool = False
 ) -> float:
@@ -680,47 +788,24 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
     L = features["length"]
     ctx = features["context_scores"]
     structure = features.get("structure", {"dialogue_ratio": 0.5, "action_weight": 1.0})
+    context_scores = dict(features.get("context_scores") or {})
+    context_scores.setdefault(
+        "dialogue_heavy", round(structure.get("dialogue_ratio", 0.5), 4)
+    )
+
+    action_weight = structure.get("action_weight", 1.0)
+    if action_weight < 0.7 and (
+        features["violence_count"] >= 1.0 or features["gore_count"] >= 1.0
+    ):
+        action_weight = 0.7
 
     violence_raw = _normalize_count_to_score(
         features["violence_count"], L, is_critical=False
     )
     gore_raw = _normalize_count_to_score(features["gore_count"], L, is_critical=True)
 
-    violence_multiplier = structure["action_weight"]
-    gore_multiplier = structure["action_weight"]
-
-    if ctx.get("children_adventure", 0) > 0.5 or ctx.get("family_friendly", 0) > 0.55:
-        violence_multiplier *= 0.15
-        gore_multiplier *= 0.15
-
-    elif ctx["discussion_violence"] > 0.55 or ctx["thriller_tension"] > 0.5:
-        violence_multiplier *= 0.3
-        gore_multiplier *= 0.3
-
-    elif ctx["stylized_action"] > 0.5:
-        violence_multiplier *= 0.6
-        gore_multiplier *= 0.7
-
-    # если сцена похожа на графическое насилие, увеличиваем оценку
-    if ctx["graphic_violence"] > 0.6:
-        violence_multiplier *= 1.3
-        gore_multiplier *= 1.4
-
-    # если сцена похожа на хоррор, корректируем оценки
-    if ctx["horror_violence"] > 0.55:
-        violence_multiplier *= 1.2
-        gore_multiplier *= 1.3
-
-    violence_score = min(1.0, violence_raw * violence_multiplier)
-    gore_score = min(1.0, gore_raw * gore_multiplier)
-
-    sex_raw = _normalize_count_to_score(features["sex_count"], L, is_critical=True)
-    if ctx["sexual_content"] > 0.6 and features["sex_count"] > 0:
-        sex_score = min(1.0, sex_raw * 1.3)
-    elif ctx["mild_romance"] > 0.5:
-        sex_score = min(0.3, sex_raw * 0.4)
-    else:
-        sex_score = sex_raw
+    violence_score = min(1.0, violence_raw * action_weight)
+    gore_score = min(1.0, gore_raw * action_weight)
 
     nudity_score = _normalize_count_to_score(
         features["nudity_count"], L, is_critical=False
@@ -730,13 +815,42 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
         features["profanity_count"], L, is_critical=False
     )
 
-    drugs_raw = _normalize_count_to_score(features["drugs_count"], L, is_critical=False)
-    if ctx["drug_abuse"] > 0.55:
-        drugs_score = min(1.0, drugs_raw * 1.2)
-    else:
-        drugs_score = drugs_raw * 0.8
+    child_story = context_scores.get("childrens_adventure", 0.0)
+    investigative = context_scores.get("investigation_dialogue", 0.0)
+    romantic = context_scores.get("romantic_soft", 0.0)
+    graphic = context_scores.get("graphic_violence", 0.0) + context_scores.get(
+        "military_operation", 0.0
+    )
+    dialogue_heavy = context_scores.get("dialogue_heavy", 0.5)
 
-    # Риск для детей
+    innocence_factor = child_story
+    if innocence_factor >= 0.35:
+        damp = max(0.25, 1 - 0.6 * innocence_factor)
+        violence_score *= damp
+        gore_score *= max(0.1, 1 - 0.75 * innocence_factor)
+        profanity_score *= max(0.3, 1 - 0.4 * innocence_factor)
+        drugs_score *= max(0.3, 1 - 0.4 * innocence_factor)
+
+    if (
+        dialogue_heavy >= 0.85
+        and features["violence_count"] < 0.75
+        and features["gore_count"] < 0.5
+    ):
+        violence_score *= 0.75
+        gore_score *= 0.7
+
+    if investigative >= 0.4:
+        violence_score *= 0.7
+        gore_score *= 0.6
+
+    if graphic >= 0.25:
+        violence_score = min(1.0, violence_score * (1.0 + 0.4 * graphic))
+        gore_score = min(1.0, gore_score * (1.0 + 0.6 * graphic))
+
+    if romantic >= 0.4 and sex_score < 0.8:
+        sex_score *= max(0.3, 1 - 0.3 * romantic)
+        nudity_score *= max(0.3, 1 - 0.25 * romantic)
+
     child_risk = 0.0
     if features["child_count"] > 0:
         if ctx["child_endangerment"] > 0.5:
@@ -761,6 +875,7 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
             "profanity": features["profanity_excerpts"],
             "drugs": features["drugs_excerpts"],
         },
+        "context_scores": context_scores,
     }
 
 
@@ -797,7 +912,7 @@ def normalize_scene_scores(features: Dict[str, Any]) -> Dict[str, float]:
         "profanity_excerpts": [],
         "drugs_excerpts": [],
         "child_excerpts": [],
-        "context_scores": {k: 0.0 for k in CONTEXT_TEMPLATES.keys()},
+        "context_scores": features.get("context_scores", {}),
     }
 
     normalized = normalize_and_contextualize_scores(internal_features)
@@ -913,15 +1028,24 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
 
     agg_excerpts = agg.get("excerpts", {})
 
+    def add_reason(reason_text: str):
+        if reason_text not in reasons:
+            reasons.append(reason_text)
+
+    def drop_soft_reasons():
+        if not reasons:
+            return
+        reasons[:] = [r for r in reasons if "незначительное" not in r]
+
     # 18+ - эксплицитный контент (только для крайне графичного контента)
     if agg["sex_act"] >= 0.75 or agg["gore"] >= 0.95:
         rating = "18+"
         if agg["sex_act"] >= 0.75:
-            reasons.append("эксплицитные сцены сексуального характера")
+            add_reason("эксплицитные сцены сексуального характера")
             if agg_excerpts.get("sex"):
                 excerpts.extend(agg_excerpts["sex"][:2])
         if agg["gore"] >= 0.95:
-            reasons.append("крайне графическое изображение жестокости и увечий")
+            add_reason("крайне графическое изображение жестокости и увечий")
             if agg_excerpts.get("gore"):
                 excerpts.extend(agg_excerpts["gore"][:2])
 
@@ -930,14 +1054,14 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
         agg["sex_act"] >= 0.5 or agg["violence"] >= 0.8
     ):
         rating = "18+"
-        reasons.append("опасные или жестокие сцены с участием несовершеннолетних")
+        add_reason("опасные или жестокие сцены с участием несовершеннолетних")
         if agg_excerpts.get("violence"):
             excerpts.extend(agg_excerpts["violence"][:2])
 
     # 16+ - интенсивное насилие с кровью
     elif (agg["violence"] >= 0.8 and agg["gore"] >= 0.7) or agg["gore"] >= 0.75:
         rating = "16+"
-        reasons.append("интенсивное графическое насилие с кровью и увечьями")
+        add_reason("интенсивное графическое насилие с кровью и увечьями")
         if agg_excerpts.get("violence"):
             excerpts.extend(agg_excerpts["violence"][:2])
         if agg_excerpts.get("gore"):
@@ -947,18 +1071,18 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
     elif agg["violence"] >= 0.65 or agg["gore"] >= 0.5:
         rating = "16+"
         if agg["violence"] >= 0.65:
-            reasons.append("интенсивное насилие и сцены убийств")
+            add_reason("интенсивное насилие и сцены убийств")
             if agg_excerpts.get("violence"):
                 excerpts.extend(agg_excerpts["violence"][:2])
         if agg["gore"] >= 0.5:
-            reasons.append("изображение крови и телесных повреждений")
+            add_reason("изображение крови и телесных повреждений")
             if agg_excerpts.get("gore"):
                 excerpts.extend(agg_excerpts["gore"][:2])
 
     # 16+ - сексуальный контент средней степени
     elif agg["sex_act"] >= 0.35 or agg["nudity"] >= 0.4:
         rating = "16+"
-        reasons.append("сексуальный контент и нагота")
+        add_reason("сексуальный контент и нагота")
         if agg_excerpts.get("sex"):
             excerpts.extend(agg_excerpts["sex"][:2])
         if agg_excerpts.get("nudity"):
@@ -968,27 +1092,49 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
     elif agg["violence"] >= 0.3 or agg["profanity"] >= 0.4 or agg["drugs"] >= 0.3:
         rating = "12+"
         if agg["violence"] >= 0.3:
-            reasons.append("умеренное насилие и угрозы")
+            add_reason("умеренное насилие и угрозы")
             if agg_excerpts.get("violence"):
                 excerpts.extend(agg_excerpts["violence"][:1])
         if agg["profanity"] >= 0.4:
-            reasons.append("ненормативная лексика")
+            add_reason("ненормативная лексика")
             if agg_excerpts.get("profanity"):
                 excerpts.extend(agg_excerpts["profanity"][:1])
         if agg["drugs"] >= 0.3:
-            reasons.append("употребление алкоголя, табака или наркотиков")
+            add_reason("употребление алкоголя, табака или наркотиков")
             if agg_excerpts.get("drugs"):
                 excerpts.extend(agg_excerpts["drugs"][:1])
 
     # 6+ - минимальный контент
     elif agg["violence"] >= 0.1 or agg["profanity"] >= 0.1:
         rating = "6+"
-        reasons.append("незначительное насилие или редкая грубая лексика")
+        add_reason("незначительное насилие или редкая грубая лексика")
 
     # 0+ - контент для всех
     else:
         rating = "0+"
-        reasons.append("контент без возрастных ограничений")
+        add_reason("контент без возрастных ограничений")
+
+    moderate_combo = agg["violence"] >= 0.22 and agg["gore"] >= 0.08
+    adult_combo = agg["sex_act"] >= 0.15 or agg["nudity"] >= 0.2
+    dark_combo = agg["profanity"] >= 0.15 or agg["drugs"] >= 0.12
+
+    if rating in {"0+", "6+"} and moderate_combo:
+        drop_soft_reasons()
+        rating = "16+"
+        add_reason("неоднократные сцены насилия с кровью")
+        if agg_excerpts.get("violence"):
+            excerpts.extend(agg_excerpts["violence"][:1])
+        if agg_excerpts.get("gore"):
+            excerpts.extend(agg_excerpts["gore"][:1])
+
+    if rating in {"0+", "6+", "12+", "16+"} and moderate_combo and (
+        adult_combo or dark_combo
+    ):
+        rating = "18+"
+        drop_soft_reasons()
+        add_reason("жестокий криминальный триллер с взрослым контентом")
+        if agg_excerpts.get("nudity"):
+            excerpts.extend(agg_excerpts["nudity"][:1])
 
     return {
         "rating": rating,

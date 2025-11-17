@@ -1,5 +1,5 @@
 import pytest
-from app.metrics import MetricsTracker, track_inference_time, get_metrics
+from ml_service.app.metrics import MetricsTracker, track_inference_time, get_metrics
 
 
 def test_metrics_tracker_timer():
