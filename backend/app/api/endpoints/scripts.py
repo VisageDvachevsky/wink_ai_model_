@@ -1,6 +1,8 @@
 from fastapi import APIRouter, Depends, UploadFile, File, Form
 from fastapi.responses import StreamingResponse
 from sqlalchemy.ext.asyncio import AsyncSession
+from io import BytesIO
+from docx import Document
 
 from ...db.base import get_db
 from ...schemas.script import (
@@ -24,6 +26,11 @@ from ...core.exceptions import (
 from ...core.config import settings
 
 router = APIRouter(prefix="/scripts", tags=["scripts"])
+
+
+def extract_text_from_docx(content: bytes) -> str:
+    doc = Document(BytesIO(content))
+    return "\n".join([paragraph.text for paragraph in doc.paragraphs])
 
 
 @router.post("/", response_model=ScriptResponse, status_code=201)
@@ -53,10 +60,16 @@ async def upload_script(
     if len(content) > max_size_bytes:
         raise FileTooLargeError(settings.max_upload_size_mb)
 
-    try:
-        text = content.decode("utf-8")
-    except UnicodeDecodeError:
-        raise InvalidFileError("File must be UTF-8 encoded text")
+    if file_extension == ".docx":
+        try:
+            text = extract_text_from_docx(content)
+        except Exception as e:
+            raise InvalidFileError(f"Failed to extract text from .docx file: {str(e)}")
+    else:
+        try:
+            text = content.decode("utf-8")
+        except UnicodeDecodeError:
+            raise InvalidFileError("File must be UTF-8 encoded text")
 
     script_title = title or file.filename or "Untitled Script"
     script_data = ScriptCreate(title=script_title, content=text)

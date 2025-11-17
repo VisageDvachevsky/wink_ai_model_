@@ -7,7 +7,7 @@
 import re
 import json
 from pathlib import Path
-from typing import List, Dict, Any, Tuple
+from typing import List, Dict, Any, Tuple, TypedDict
 import numpy as np
 from sentence_transformers import SentenceTransformer, util
 from tqdm import tqdm
@@ -22,6 +22,13 @@ except ImportError:
     print(
         "WARNING: PyPDF2 not installed. PDF support disabled. Install with: pip install PyPDF2"
     )
+
+
+class ContextKeywordConfig(TypedDict, total=False):
+    positive: List[str]
+    negative: List[str]
+    scale: float
+
 
 # ===== REFERENCE CONTEXTS FOR SEMANTIC ANALYSIS =====
 # контекстные шаблоны для определения типа сцен (английские и русские)
@@ -338,7 +345,7 @@ CHILD_WORDS = [
 ]
 
 
-CONTEXT_KEYWORDS = {
+CONTEXT_KEYWORDS: Dict[str, ContextKeywordConfig] = {
     "childrens_adventure": {
         "positive": [
             r"\bдети\b",
