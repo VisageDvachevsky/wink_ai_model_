@@ -1,7 +1,7 @@
 """Add line detections and user corrections
 
-Revision ID: 004_add_line_detections
-Revises: 003_rename_metadata_to_version_metadata
+Revision ID: 004
+Revises: 003
 Create Date: 2025-11-16 10:00:00.000000
 
 """
@@ -11,8 +11,8 @@ from typing import Sequence, Union
 from alembic import op
 import sqlalchemy as sa
 
-revision: str = "004_add_line_detections"
-down_revision: Union[str, None] = "003_rename_metadata_to_version_metadata"
+revision: str = "004"
+down_revision: Union[str, None] = "003"
 branch_labels: Union[str, Sequence[str], None] = None
 depends_on: Union[str, Sequence[str], None] = None
 
@@ -30,6 +30,9 @@ def upgrade() -> None:
         sa.Column("context_after", sa.Text(), nullable=True),
         sa.Column("category", sa.String(length=50), nullable=False),
         sa.Column("severity", sa.Float(), nullable=False),
+        sa.Column("parents_guide_severity", sa.String(length=20), nullable=True),
+        sa.Column("character_name", sa.String(length=200), nullable=True),
+        sa.Column("page_number", sa.Integer(), nullable=True),
         sa.Column("matched_patterns", sa.JSON(), nullable=True),
         sa.Column("is_false_positive", sa.Boolean(), nullable=False),
         sa.Column("user_corrected", sa.Boolean(), nullable=False),
