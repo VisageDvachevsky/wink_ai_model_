@@ -72,7 +72,7 @@ export default function UploadScript() {
                       id="file-upload"
                       type="file"
                       className="sr-only"
-                      accept=".txt"
+                      accept=".txt,.docx"
                       onChange={(e) => setFile(e.target.files?.[0] || null)}
                     />
                   </label>
