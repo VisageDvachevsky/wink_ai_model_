@@ -12,13 +12,13 @@ interface SmartEditorProps {
 }
 
 const CATEGORY_BG_COLORS: Record<string, string> = {
-  violence: 'bg-red-200 dark:bg-red-900/30',
-  gore: 'bg-red-300 dark:bg-red-900/40',
-  profanity: 'bg-orange-200 dark:bg-orange-900/30',
-  drugs: 'bg-purple-200 dark:bg-purple-900/30',
-  sex_act: 'bg-pink-200 dark:bg-pink-900/30',
-  nudity: 'bg-pink-100 dark:bg-pink-900/20',
-  child_risk: 'bg-yellow-200 dark:bg-yellow-900/30',
+  violence: 'bg-red-200 dark:bg-red-900/60',
+  gore: 'bg-red-300 dark:bg-red-900/70',
+  profanity: 'bg-orange-200 dark:bg-orange-900/60',
+  drugs: 'bg-purple-200 dark:bg-purple-900/60',
+  sex_act: 'bg-pink-200 dark:bg-pink-900/60',
+  nudity: 'bg-pink-100 dark:bg-pink-900/50',
+  child_risk: 'bg-yellow-200 dark:bg-yellow-900/60',
 }
 
 const SmartEditor: React.FC<SmartEditorProps> = ({
