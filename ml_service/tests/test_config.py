@@ -1,4 +1,4 @@
-from app.config import Settings
+from ml_service.app.config import Settings
 
 
 def test_settings_default_values():

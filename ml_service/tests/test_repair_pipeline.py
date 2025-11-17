@@ -1,4 +1,4 @@
-from app.repair_pipeline import (
+from ml_service.app.repair_pipeline import (
     count_matches,
     parse_script_to_scenes,
     scene_feature_vector,

@@ -1,6 +1,6 @@
 import pytest
 from fastapi.testclient import TestClient
-from app.main import app
+from ml_service.app.main import app
 
 
 @pytest.fixture
