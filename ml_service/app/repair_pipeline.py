@@ -516,9 +516,15 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
     gore_score = min(1.0, gore_raw * structure["action_weight"])
 
     sex_score = _normalize_count_to_score(features["sex_count"], L, is_critical=True)
-    nudity_score = _normalize_count_to_score(features["nudity_count"], L, is_critical=False)
-    profanity_score = _normalize_count_to_score(features["profanity_count"], L, is_critical=False)
-    drugs_score = _normalize_count_to_score(features["drugs_count"], L, is_critical=False)
+    nudity_score = _normalize_count_to_score(
+        features["nudity_count"], L, is_critical=False
+    )
+    profanity_score = _normalize_count_to_score(
+        features["profanity_count"], L, is_critical=False
+    )
+    drugs_score = _normalize_count_to_score(
+        features["drugs_count"], L, is_critical=False
+    )
 
     child_risk = 0.0
     if features["child_count"] > 0:
