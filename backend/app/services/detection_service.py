@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, cast
 from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
 
@@ -10,11 +10,11 @@ from ..schemas.detection import (
     LineDetectionStatsResponse,
     ParentsGuideCategoryStats,
 )
-from .ml_client import MLClient
+from .ml_client import MLServiceClient
 
 
 class DetectionService:
-    def __init__(self, db: AsyncSession, ml_client: MLClient):
+    def __init__(self, db: AsyncSession, ml_client: MLServiceClient):
         self.db = db
         self.ml_client = ml_client
 
@@ -101,7 +101,7 @@ class DetectionService:
             parents_guide={},
         )
 
-        category_data = {}
+        category_data: dict[str, dict[str, list[float]]] = {}
         for detection in detections:
             if detection.is_false_positive:
                 continue
@@ -173,7 +173,7 @@ class DetectionService:
         await self.db.commit()
         await self.db.refresh(detection)
 
-        return LineDetectionResponse.model_validate(detection)
+        return cast(LineDetectionResponse, LineDetectionResponse.model_validate(detection))
 
     async def create_correction(
         self, correction_data: UserCorrectionCreate
@@ -184,7 +184,7 @@ class DetectionService:
         await self.db.commit()
         await self.db.refresh(correction)
 
-        return UserCorrectionResponse.model_validate(correction)
+        return cast(UserCorrectionResponse, UserCorrectionResponse.model_validate(correction))
 
     async def get_corrections(self, script_id: int) -> List[UserCorrectionResponse]:
         """Get all corrections for a script."""
