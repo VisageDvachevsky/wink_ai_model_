@@ -1151,6 +1151,34 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
         if agg_excerpts.get("nudity"):
             excerpts.extend(agg_excerpts["nudity"][:1])
 
+    action_intensity = (
+        agg["violence"] * 0.65 + agg["gore"] * 0.2 + agg.get("child_risk", 0.0) * 0.15
+    )
+    has_persistent_conflict = agg["violence"] >= 0.35 and agg["profanity"] >= 0.2
+
+    if rating == "12+" and (action_intensity >= 0.45 or has_persistent_conflict):
+        rating = "16+"
+        drop_soft_reasons()
+        add_reason("продолжительные сцены боевого экшена и угрозы")
+        if agg_excerpts.get("violence"):
+            excerpts.extend(agg_excerpts["violence"][:2])
+        if agg_excerpts.get("gore"):
+            excerpts.extend(agg_excerpts["gore"][:1])
+
+    mild_conflict = (
+        agg["violence"] >= 0.05
+        or agg["profanity"] >= 0.05
+        or agg.get("child_risk", 0.0) >= 0.05
+    )
+    if rating == "0+" and mild_conflict:
+        rating = "6+"
+        drop_soft_reasons()
+        add_reason("умеренные элементы конфликта или тревоги")
+        if agg_excerpts.get("violence"):
+            excerpts.extend(agg_excerpts["violence"][:1])
+        elif agg_excerpts.get("profanity"):
+            excerpts.extend(agg_excerpts["profanity"][:1])
+
     return {
         "rating": rating,
         "reasons": reasons,

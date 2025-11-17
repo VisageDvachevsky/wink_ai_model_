@@ -3,6 +3,10 @@ from fastapi.responses import StreamingResponse
 from sqlalchemy.ext.asyncio import AsyncSession
 from io import BytesIO
 from docx import Document
+from docx.oxml.table import CT_Tbl
+from docx.oxml.text.paragraph import CT_P
+from docx.table import Table
+from docx.text.paragraph import Paragraph
 
 from ...db.base import get_db
 from ...schemas.script import (
@@ -30,7 +34,24 @@ router = APIRouter(prefix="/scripts", tags=["scripts"])
 
 def extract_text_from_docx(content: bytes) -> str:
     doc = Document(BytesIO(content))
-    return "\n".join([paragraph.text for paragraph in doc.paragraphs])
+    lines: list[str] = []
+
+    for block in doc.element.body:
+        if isinstance(block, CT_P):
+            paragraph = Paragraph(block, doc)
+            text = paragraph.text.strip()
+            if text:
+                lines.append(text)
+        elif isinstance(block, CT_Tbl):
+            table = Table(block, doc)
+            for row in table.rows:
+                cell_texts = [
+                    cell.text.strip() for cell in row.cells if cell.text.strip()
+                ]
+                if cell_texts:
+                    lines.append(" ".join(cell_texts))
+
+    return "\n".join(lines)
 
 
 @router.post("/", response_model=ScriptResponse, status_code=201)
