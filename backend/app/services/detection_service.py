@@ -1,4 +1,4 @@
-from typing import List, cast
+from typing import List
 from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
 
@@ -145,7 +145,7 @@ class DetectionService:
 
             episode_count = len(data["severities"])
             percentage = (episode_count / total_lines) * 100 if total_lines > 0 else 0
-            top_matches = max(data["matches"]) if data["matches"] else 0
+            top_matches = int(max(data["matches"])) if data["matches"] else 0
 
             stats.parents_guide[category] = ParentsGuideCategoryStats(
                 severity=severity_level,
@@ -173,9 +173,8 @@ class DetectionService:
         await self.db.commit()
         await self.db.refresh(detection)
 
-        return cast(
-            LineDetectionResponse, LineDetectionResponse.model_validate(detection)
-        )
+        response: LineDetectionResponse = LineDetectionResponse.model_validate(detection)
+        return response
 
     async def create_correction(
         self, correction_data: UserCorrectionCreate
@@ -186,9 +185,8 @@ class DetectionService:
         await self.db.commit()
         await self.db.refresh(correction)
 
-        return cast(
-            UserCorrectionResponse, UserCorrectionResponse.model_validate(correction)
-        )
+        response: UserCorrectionResponse = UserCorrectionResponse.model_validate(correction)
+        return response
 
     async def get_corrections(self, script_id: int) -> List[UserCorrectionResponse]:
         """Get all corrections for a script."""
