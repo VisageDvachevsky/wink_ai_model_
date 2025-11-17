@@ -8,7 +8,7 @@ Create Date: 2025-01-15 14:00:00.000000
 
 from alembic import op
 
-revision = "003_rename_metadata_to_version_metadata"
+revision = "003"
 down_revision = "002"
 branch_labels = None
 depends_on = None
