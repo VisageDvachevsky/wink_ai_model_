@@ -1,6 +1,7 @@
 """
-модель рейтингирования сцен.
-использует паттерны ключевых слов и фильтрацию ложных срабатываний.
+модель рейтингирования сцен с контекстным анализом.
+модель использует семантические эмбеддинги для понимания контекста
+и избегает ложных срабатываний при простом поиске ключевых слов.
 """
 
 import re
@@ -8,6 +9,7 @@ import json
 from pathlib import Path
 from typing import List, Dict, Any, Tuple
 import numpy as np
+from sentence_transformers import SentenceTransformer, util
 from tqdm import tqdm
 
 # pdf parsing
@@ -20,6 +22,136 @@ except ImportError:
     print(
         "WARNING: PyPDF2 not installed. PDF support disabled. Install with: pip install PyPDF2"
     )
+
+# ===== REFERENCE CONTEXTS FOR SEMANTIC ANALYSIS =====
+# контекстные шаблоны для определения типа сцен (английские и русские)
+CONTEXT_TEMPLATES = {
+    "children_adventure": [
+        "children searching for treasure and solving riddles",
+        "kids exploring mysterious location together",
+        "young friends on adventure quest",
+        "детское приключение в поисках сокровищ",
+        "ребята исследуют таинственное место",
+        "дети разгадывают загадки и ищут клад",
+        "приключения друзей-школьников",
+        "юные искатели сокровищ",
+    ],
+    "family_friendly": [
+        "heartwarming family story",
+        "positive children's movie",
+        "story about friendship and helping others",
+        "добрая семейная история",
+        "позитивный детский фильм",
+        "история о дружбе и взаимопомощи",
+        "фильм для всей семьи",
+        "светлая история о добре",
+    ],
+    "graphic_violence": [
+        "brutal murder with blood and gore",
+        "torture and physical violence causing injury",
+        "graphic depiction of death and killing",
+        "violent assault with weapons causing harm",
+        "жестокое убийство с кровью и увечьями",
+        "пытки и физическое насилие причиняющее травмы",
+        "графическое изображение смерти и убийства",
+        "насильственное нападение с оружием причиняющее вред",
+    ],
+    "stylized_action": [
+        "heroic action scene with combat",
+        "adventure movie fight sequence",
+        "comic book style action without gore",
+        "spy thriller chase and combat",
+        "superhero saving people from danger",
+        # Russian
+        "героическая боевая сцена с сражением",
+        "приключенческая сцена драки в фильме",
+        "экшн в стиле комиксов без жестокости",
+        "погоня и бой в шпионском триллере",
+        "супергерой спасающий людей от опасности",
+    ],
+    "sexual_content": [
+        "explicit sexual intercourse scene",
+        "nudity in sexual context",
+        "rape or sexual assault",
+        "graphic sexual activity",
+        # Russian
+        "явная сцена полового акта",
+        "нагота в сексуальном контексте",
+        "изнасилование или сексуальное насилие",
+        "графическая сексуальная активность",
+    ],
+    "mild_romance": [
+        "romantic kissing and affection",
+        "love scene without explicit content",
+        "romantic relationship development",
+        # Russian
+        "романтические поцелуи и нежность",
+        "любовная сцена без эксплицитного контента",
+        "развитие романтических отношений",
+    ],
+    "horror_violence": [
+        "horror movie with scary violence",
+        "psychological terror and fear",
+        "monster attack with blood",
+        "slasher film with killing",
+        # Russian
+        "фильм ужасов с пугающим насилием",
+        "психологический террор и страх",
+        "нападение монстра с кровью",
+        "слэшер с убийствами",
+    ],
+    "profanity_context": [
+        "casual conversation with swearing",
+        "aggressive confrontation with profanity",
+        "repeated use of strong language",
+        # Russian
+        "непринужденный разговор с матом",
+        "агрессивная конфронтация с нецензурной лексикой",
+        "многократное использование крепких выражений",
+    ],
+    "drug_abuse": [
+        "drug use and addiction",
+        "substance abuse scene",
+        "characters taking illegal drugs",
+        # Russian
+        "употребление наркотиков и зависимость",
+        "сцена злоупотребления веществами",
+        "персонажи принимающие запрещенные наркотики",
+    ],
+    "child_endangerment": [
+        "child in dangerous situation",
+        "violence involving minors",
+        "child abuse or threat to children",
+        # Russian
+        "ребенок в опасной ситуации",
+        "насилие с участием несовершеннолетних",
+        "жестокое обращение с детьми или угроза детям",
+    ],
+    "discussion_violence": [
+        "courtroom discussion of crime",
+        "testimony about violent event",
+        "describing past violence in dialogue",
+        "academic or legal discussion of weapons",
+        "demonstration or explanation without action",
+        # Russian
+        "обсуждение преступления в зале суда",
+        "показания о насильственном событии",
+        "описание прошлого насилия в диалоге",
+        "академическое или правовое обсуждение оружия",
+        "демонстрация или объяснение без действия",
+    ],
+    "thriller_tension": [
+        "psychological thriller with suspense",
+        "tense dramatic confrontation",
+        "mystery investigation without violence",
+        "courtroom drama legal arguments",
+        # Russian
+        "психологический триллер с напряжением",
+        "напряженная драматическая конфронтация",
+        "расследование тайны без насилия",
+        "судебная драма правовые споры",
+    ],
+}
 
 # ===== KEYWORD PATTERNS (English and Russian) =====
 VIOLENCE_WORDS = [
@@ -250,6 +382,20 @@ SEX_WORDS = [
     r"\bпостельн\w+\s+сцен\w*",
 ]
 
+# ===== INITIALIZATION =====
+print("Загрузка модели эмбеддингов...")
+MODEL_NAME = "all-MiniLM-L6-v2"
+embedder = SentenceTransformer(MODEL_NAME)
+
+# предвычисляем эмбеддинги для контекстных шаблонов
+print("Предвычисление контекстных эмбеддингов...")
+context_embeddings = {}
+for context_type, templates in CONTEXT_TEMPLATES.items():
+    context_embeddings[context_type] = embedder.encode(
+        templates, convert_to_numpy=True, show_progress_bar=False
+    )
+print("Модель готова к использованию.\n")
+
 
 def count_matches(patterns: List, text: str) -> float:
     """Count pattern matches in text (wrapper for tests)."""
@@ -379,6 +525,27 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[float, List[s
     return weighted_count, matches[:5]
 
 
+def analyze_scene_context(scene_text: str) -> Dict[str, float]:
+    """
+    Анализирует контекст сцены с использованием семантических эмбеддингов.
+    Возвращает оценки сходства с различными типами контекстов.
+    """
+    # получаем эмбеддинг сцены
+    scene_embedding = embedder.encode(
+        [scene_text], convert_to_numpy=True, show_progress_bar=False
+    )[0]
+
+    # вычисляем сходство с каждым типом контекста
+    context_scores = {}
+    for context_type, template_embeddings in context_embeddings.items():
+        # вычисляем косинусное сходство с каждым шаблоном
+        similarities = util.cos_sim(scene_embedding, template_embeddings)[0]
+        # берем максимальное сходство
+        context_scores[context_type] = float(similarities.max())
+
+    return context_scores
+
+
 def extract_scene_features(scene_text: str) -> Dict[str, Any]:
     """
     Извлекает признаки из текста сцены, включая подсчет ключевых слов
@@ -394,6 +561,7 @@ def extract_scene_features(scene_text: str) -> Dict[str, Any]:
     nudity_count, nudity_excerpts = count_pattern_matches(NUDITY_WORDS, txt)
     sex_count, sex_excerpts = count_pattern_matches(SEX_WORDS, txt)
 
+    context_scores = analyze_scene_context(scene_text)
     structure = _analyze_scene_structure(scene_text)
 
     length = max(1, len(txt.split()))
@@ -414,6 +582,7 @@ def extract_scene_features(scene_text: str) -> Dict[str, Any]:
         "sex_count": sex_count,
         "sex_excerpts": sex_excerpts,
         "length": length,
+        "context_scores": context_scores,
         "structure": structure,
     }
 
@@ -504,7 +673,12 @@ def _normalize_count_to_score(
 
 
 def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, Any]:
+    """
+    нормализует признаки и применяет контекстную коррекцию.
+    использует семантический анализ для корректировки оценок.
+    """
     L = features["length"]
+    ctx = features["context_scores"]
     structure = features.get("structure", {"dialogue_ratio": 0.5, "action_weight": 1.0})
 
     violence_raw = _normalize_count_to_score(
@@ -512,23 +686,63 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
     )
     gore_raw = _normalize_count_to_score(features["gore_count"], L, is_critical=True)
 
-    violence_score = min(1.0, violence_raw * structure["action_weight"])
-    gore_score = min(1.0, gore_raw * structure["action_weight"])
+    violence_multiplier = structure["action_weight"]
+    gore_multiplier = structure["action_weight"]
 
-    sex_score = _normalize_count_to_score(features["sex_count"], L, is_critical=True)
+    if ctx.get("children_adventure", 0) > 0.5 or ctx.get("family_friendly", 0) > 0.55:
+        violence_multiplier *= 0.15
+        gore_multiplier *= 0.15
+
+    elif ctx["discussion_violence"] > 0.55 or ctx["thriller_tension"] > 0.5:
+        violence_multiplier *= 0.3
+        gore_multiplier *= 0.3
+
+    elif ctx["stylized_action"] > 0.5:
+        violence_multiplier *= 0.6
+        gore_multiplier *= 0.7
+
+    # если сцена похожа на графическое насилие, увеличиваем оценку
+    if ctx["graphic_violence"] > 0.6:
+        violence_multiplier *= 1.3
+        gore_multiplier *= 1.4
+
+    # если сцена похожа на хоррор, корректируем оценки
+    if ctx["horror_violence"] > 0.55:
+        violence_multiplier *= 1.2
+        gore_multiplier *= 1.3
+
+    violence_score = min(1.0, violence_raw * violence_multiplier)
+    gore_score = min(1.0, gore_raw * gore_multiplier)
+
+    sex_raw = _normalize_count_to_score(features["sex_count"], L, is_critical=True)
+    if ctx["sexual_content"] > 0.6 and features["sex_count"] > 0:
+        sex_score = min(1.0, sex_raw * 1.3)
+    elif ctx["mild_romance"] > 0.5:
+        sex_score = min(0.3, sex_raw * 0.4)
+    else:
+        sex_score = sex_raw
+
     nudity_score = _normalize_count_to_score(
         features["nudity_count"], L, is_critical=False
     )
+
     profanity_score = _normalize_count_to_score(
         features["profanity_count"], L, is_critical=False
     )
-    drugs_score = _normalize_count_to_score(
-        features["drugs_count"], L, is_critical=False
-    )
 
+    drugs_raw = _normalize_count_to_score(features["drugs_count"], L, is_critical=False)
+    if ctx["drug_abuse"] > 0.55:
+        drugs_score = min(1.0, drugs_raw * 1.2)
+    else:
+        drugs_score = drugs_raw * 0.8
+
+    # Риск для детей
     child_risk = 0.0
     if features["child_count"] > 0:
-        child_risk = min(0.5, features["child_count"] / 5.0)
+        if ctx["child_endangerment"] > 0.5:
+            child_risk = min(1.0, features["child_count"] / 2.0)
+        else:
+            child_risk = min(0.5, features["child_count"] / 5.0)
 
     return {
         "violence": violence_score,
@@ -538,11 +752,12 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
         "profanity": profanity_score,
         "drugs": drugs_score,
         "child_risk": child_risk,
+        "context_scores": ctx,
         "excerpts": {
             "violence": features["violence_excerpts"],
             "gore": features["gore_excerpts"],
             "sex": features["sex_excerpts"],
-            "nudity": features["nudity_excerpts"],
+            "nudity": features["nudity_excerpts"],  # Добавлены примеры наготы
             "profanity": features["profanity_excerpts"],
             "drugs": features["drugs_excerpts"],
         },
@@ -582,6 +797,7 @@ def normalize_scene_scores(features: Dict[str, Any]) -> Dict[str, float]:
         "profanity_excerpts": [],
         "drugs_excerpts": [],
         "child_excerpts": [],
+        "context_scores": {k: 0.0 for k in CONTEXT_TEMPLATES.keys()},
     }
 
     normalized = normalize_and_contextualize_scores(internal_features)
