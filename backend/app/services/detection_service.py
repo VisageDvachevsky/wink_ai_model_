@@ -173,7 +173,9 @@ class DetectionService:
         await self.db.commit()
         await self.db.refresh(detection)
 
-        response: LineDetectionResponse = LineDetectionResponse.model_validate(detection)
+        response: LineDetectionResponse = LineDetectionResponse.model_validate(
+            detection
+        )
         return response
 
     async def create_correction(
@@ -185,7 +187,9 @@ class DetectionService:
         await self.db.commit()
         await self.db.refresh(correction)
 
-        response: UserCorrectionResponse = UserCorrectionResponse.model_validate(correction)
+        response: UserCorrectionResponse = UserCorrectionResponse.model_validate(
+            correction
+        )
         return response
 
     async def get_corrections(self, script_id: int) -> List[UserCorrectionResponse]:
